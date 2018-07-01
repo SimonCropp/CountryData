@@ -5,7 +5,7 @@ Provides a .net wrapper around the [GeoNames Postal Codes](https://www.geonames.
 
 ## Json Files
 
-[List of country codes](https://raw.githubusercontent.com/SimonCropp/CountryLocationData/master/countries.txt).
+List of country codes: https://raw.githubusercontent.com/SimonCropp/CountryLocationData/master/countries.txt)
 
 The for each country code there is both an indented and a non indented file.
 
