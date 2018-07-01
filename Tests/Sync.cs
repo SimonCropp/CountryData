@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.IO.Compression;
 using System.Linq;
@@ -63,10 +64,14 @@ public class Sync
 
     void ProcessCountry(List<Row> rows, Action<object> action)
     {
-        var hasState= rows.All(_=>_.State != null);
-        var hasProvince = rows.All(_=>_.Province != null);
-        var hasCommunity = rows.All(_=>_.Community != null);
+        var hasState= rows.Any(_=>_.State != null);
+        var hasProvince = rows.Any(_=>_.Province != null);
+        var hasCommunity = rows.Any(_=>_.Community != null);
 
+        if (rows.First().CountryCode == "US")
+        {
+            Debug.WriteLine(rows);
+        }
         if (hasState && hasProvince && hasCommunity)
         {
             StateProvinceCommunitySerializer.Serialize(rows, action);

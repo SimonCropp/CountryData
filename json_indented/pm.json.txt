@@ -1,26 +1,37 @@
 {
- "Structure": "State/Place",
+ "Structure": "State/Province/Place",
  "States": [
   {
    "Name": "Miquelon-Langlade",
    "Code": "97501",
-   "Places": [
+   "Provinces": [
     {
-     "Name": "Miquelon",
-     "PostCode": "97500",
-     "Accuracy": 5,
-     "LatLong": "47.0975,-56.3814"
+     "Name": "Miquelon-Langlade",
+     "Code": "97501",
+     "Places": [
+      {
+       "Name": "Miquelon",
+       "PostCode": "97500",
+       "Accuracy": 5,
+       "LatLong": "47.0975,-56.3814"
+      }
+     ]
     }
    ]
   },
   {
    "Name": "Saint-Pierre",
    "Code": "97502",
-   "Places": [
+   "Provinces": [
     {
-     "PostCode": "97500",
-     "Accuracy": 5,
-     "LatLong": "46.7809,-56.172"
+     "Places": [
+      {
+       "Name": "Saint-Pierre",
+       "PostCode": "97500",
+       "Accuracy": 5,
+       "LatLong": "46.7809,-56.172"
+      }
+     ]
     }
    ]
   }
