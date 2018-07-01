@@ -1,0 +1,27 @@
+{
+ "States": [
+  {
+   "Name": "Miquelon-Langlade",
+   "Code": "97501",
+   "Places": [
+    {
+     "Name": "Miquelon",
+     "PostCode": "97500",
+     "Accuracy": 5,
+     "LatLong": "47.0975,-56.3814"
+    }
+   ]
+  },
+  {
+   "Name": "Saint-Pierre",
+   "Code": "97502",
+   "Places": [
+    {
+     "PostCode": "97500",
+     "Accuracy": 5,
+     "LatLong": "46.7809,-56.172"
+    }
+   ]
+  }
+ ]
+}

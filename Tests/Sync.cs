@@ -135,7 +135,7 @@ public class Sync
                     split[index] = s.Trim();
                 }
 
-                var row = new Row()
+                var row = new Row
                 {
                     CountryCode = split[0],
                     PostalCode = split[1],

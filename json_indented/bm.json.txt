@@ -1,0 +1,677 @@
+{
+ "States": [
+  {
+   "Name": "Devonshire Parish",
+   "Code": "01",
+   "Places": [
+    {
+     "Name": "Devonshire",
+     "PostCode": "DV 01",
+     "LatLong": "32.3028,-64.7558"
+    },
+    {
+     "Name": "Devonshire",
+     "PostCode": "DV 02",
+     "LatLong": "32.3028,-64.7558"
+    },
+    {
+     "Name": "Devonshire",
+     "PostCode": "DV 03",
+     "LatLong": "32.3028,-64.7558"
+    },
+    {
+     "Name": "Devonshire",
+     "PostCode": "DV 04",
+     "LatLong": "32.3028,-64.7558"
+    },
+    {
+     "Name": "Devonshire",
+     "PostCode": "DV 05",
+     "LatLong": "32.3028,-64.7558"
+    },
+    {
+     "Name": "Devonshire",
+     "PostCode": "DV 06",
+     "LatLong": "32.3028,-64.7558"
+    },
+    {
+     "Name": "Devonshire",
+     "PostCode": "DV 07",
+     "LatLong": "32.3028,-64.7558"
+    },
+    {
+     "Name": "Devonshire",
+     "PostCode": "DV 08",
+     "LatLong": "32.3028,-64.7558"
+    },
+    {
+     "Name": "Devonshire",
+     "PostCode": "FL 01",
+     "Accuracy": 1,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "Devonshire",
+     "PostCode": "FL 02",
+     "Accuracy": 1,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "Devonshire",
+     "PostCode": "FL 03",
+     "Accuracy": 1,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "Devonshire",
+     "PostCode": "FL 05",
+     "Accuracy": 1,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "Devonshire",
+     "PostCode": "HM 14",
+     "Accuracy": 3,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Devonshire",
+     "PostCode": "HM 15",
+     "Accuracy": 3,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Devonshire",
+     "PostCode": "HM 16",
+     "Accuracy": 3,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Devonshire",
+     "PostCode": "HM 18",
+     "Accuracy": 3,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Devonshire",
+     "PostCode": "HM 19",
+     "Accuracy": 3,
+     "LatLong": "32.2975,-64.7875"
+    },
+    {
+     "Name": "Devonshire",
+     "PostCode": "HM 20",
+     "Accuracy": 3,
+     "LatLong": "32.3002,-64.792"
+    }
+   ]
+  },
+  {
+   "Name": "Hamilton",
+   "Code": "02",
+   "Places": [
+    {
+     "Name": "Hamilton Parish",
+     "PostCode": "CR 01",
+     "Accuracy": 4,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "Hamilton Parish",
+     "PostCode": "CR 02",
+     "Accuracy": 4,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "Hamilton Parish",
+     "PostCode": "CR 03",
+     "Accuracy": 4,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "Hamilton Parish",
+     "PostCode": "CR 04",
+     "Accuracy": 4,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "Hamilton Parish",
+     "PostCode": "FL 04",
+     "Accuracy": 4,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "Hamilton Parish",
+     "PostCode": "HS 02",
+     "Accuracy": 4,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "City of Hamilton",
+     "PostCode": "HM 08",
+     "Accuracy": 4,
+     "LatLong": "32.2949,-64.783"
+    },
+    {
+     "Name": "City of Hamilton",
+     "PostCode": "HM 09",
+     "Accuracy": 4,
+     "LatLong": "32.2949,-64.783"
+    },
+    {
+     "Name": "City of Hamilton",
+     "PostCode": "HM 10",
+     "Accuracy": 4,
+     "LatLong": "32.2949,-64.783"
+    },
+    {
+     "Name": "City of Hamilton",
+     "PostCode": "HM 11",
+     "Accuracy": 4,
+     "LatLong": "32.2949,-64.783"
+    },
+    {
+     "Name": "City of Hamilton",
+     "PostCode": "HM 12",
+     "Accuracy": 4,
+     "LatLong": "32.2949,-64.783"
+    },
+    {
+     "Name": "City of Hamilton",
+     "PostCode": "HM 17",
+     "Accuracy": 4,
+     "LatLong": "32.2949,-64.783"
+    },
+    {
+     "Name": "City of Hamilton",
+     "PostCode": "HM 19",
+     "Accuracy": 4,
+     "LatLong": "32.2949,-64.783"
+    }
+   ]
+  },
+  {
+   "Name": "Paget Parish",
+   "Code": "04",
+   "Places": [
+    {
+     "Name": "Paget",
+     "PostCode": "DV 03",
+     "LatLong": "32.2783,-64.7817"
+    },
+    {
+     "Name": "Paget",
+     "PostCode": "DV 04",
+     "LatLong": "32.2783,-64.7817"
+    },
+    {
+     "Name": "Paget",
+     "PostCode": "PG 01",
+     "LatLong": "32.2783,-64.7817"
+    },
+    {
+     "Name": "Paget",
+     "PostCode": "PG 02",
+     "LatLong": "32.2783,-64.7817"
+    },
+    {
+     "Name": "Paget",
+     "PostCode": "PG 03",
+     "LatLong": "32.2783,-64.7817"
+    },
+    {
+     "Name": "Paget",
+     "PostCode": "PG 04",
+     "LatLong": "32.2783,-64.7817"
+    },
+    {
+     "Name": "Paget",
+     "PostCode": "PG 05",
+     "LatLong": "32.2783,-64.7817"
+    },
+    {
+     "Name": "Paget",
+     "PostCode": "PG 06",
+     "LatLong": "32.2783,-64.7817"
+    }
+   ]
+  },
+  {
+   "Name": "Pembroke Parish",
+   "Code": "05",
+   "Places": [
+    {
+     "Name": "Pembroke",
+     "PostCode": "HM 01",
+     "Accuracy": 4,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Pembroke",
+     "PostCode": "HM 02",
+     "Accuracy": 4,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Pembroke",
+     "PostCode": "HM 03",
+     "Accuracy": 4,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Pembroke",
+     "PostCode": "HM 04",
+     "Accuracy": 4,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Pembroke",
+     "PostCode": "HM 05",
+     "Accuracy": 4,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Pembroke",
+     "PostCode": "HM 06",
+     "Accuracy": 4,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Pembroke",
+     "PostCode": "HM 07",
+     "Accuracy": 4,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Pembroke",
+     "PostCode": "HM 08",
+     "Accuracy": 4,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Pembroke",
+     "PostCode": "HM 09",
+     "Accuracy": 4,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Pembroke",
+     "PostCode": "HM 13",
+     "Accuracy": 4,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Pembroke",
+     "PostCode": "HM 14",
+     "Accuracy": 4,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Pembroke",
+     "PostCode": "HM 15",
+     "Accuracy": 4,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Pembroke",
+     "PostCode": "HM 16",
+     "Accuracy": 4,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Pembroke",
+     "PostCode": "HM 17",
+     "Accuracy": 4,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Pembroke",
+     "PostCode": "HM 18",
+     "Accuracy": 4,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Pembroke",
+     "PostCode": "HM 19",
+     "Accuracy": 4,
+     "LatLong": "32.3002,-64.792"
+    },
+    {
+     "Name": "Pembroke",
+     "PostCode": "HM 20",
+     "Accuracy": 4,
+     "LatLong": "32.3002,-64.792"
+    }
+   ]
+  },
+  {
+   "Name": "Saint George",
+   "Code": "06",
+   "Places": [
+    {
+     "Name": "Town of St. George",
+     "PostCode": "GE 02",
+     "LatLong": "32.3842,-64.6764"
+    },
+    {
+     "Name": "Town of St. George",
+     "PostCode": "GE 03",
+     "LatLong": "32.3842,-64.6764"
+    },
+    {
+     "Name": "Town of St. George",
+     "PostCode": "GE 04",
+     "LatLong": "32.3842,-64.6764"
+    },
+    {
+     "Name": "Town of St. George",
+     "PostCode": "GE 05",
+     "LatLong": "32.3842,-64.6764"
+    },
+    {
+     "Name": "St. George",
+     "PostCode": "HS 02",
+     "Accuracy": 4,
+     "LatLong": "32.3817,-64.6781"
+    }
+   ]
+  },
+  {
+   "Name": "Saint George’s Parish",
+   "Code": "07",
+   "Places": [
+    {
+     "Name": "St. George's",
+     "PostCode": "CR 04",
+     "Accuracy": 3,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "St. George's",
+     "PostCode": "DD 01",
+     "LatLong": "32.3726,-64.6944"
+    },
+    {
+     "Name": "St. George's",
+     "PostCode": "DD 02",
+     "LatLong": "32.3726,-64.6944"
+    },
+    {
+     "Name": "St. George's",
+     "PostCode": "DD 03",
+     "LatLong": "32.3726,-64.6944"
+    },
+    {
+     "Name": "St. George's",
+     "PostCode": "GE 01",
+     "LatLong": "32.3726,-64.6944"
+    },
+    {
+     "Name": "St. George's",
+     "PostCode": "GE 02",
+     "LatLong": "32.3726,-64.6944"
+    },
+    {
+     "Name": "St. George's",
+     "PostCode": "GE 03",
+     "LatLong": "32.3726,-64.6944"
+    },
+    {
+     "Name": "St. George's",
+     "PostCode": "GE 04",
+     "LatLong": "32.3726,-64.6944"
+    },
+    {
+     "Name": "St. George's",
+     "PostCode": "GE 05",
+     "LatLong": "32.3726,-64.6944"
+    },
+    {
+     "Name": "St. George's",
+     "PostCode": "GE CX",
+     "LatLong": "32.3726,-64.6944"
+    },
+    {
+     "Name": "St. George's",
+     "PostCode": "HS 02",
+     "Accuracy": 3,
+     "LatLong": "32.354,-64.7096"
+    }
+   ]
+  },
+  {
+   "Name": "Sandys Parish",
+   "Code": "08",
+   "Places": [
+    {
+     "Name": "Sandys",
+     "PostCode": "MA 01",
+     "LatLong": "32.2934,-64.8683"
+    },
+    {
+     "Name": "Sandys",
+     "PostCode": "MA 02",
+     "LatLong": "32.2934,-64.8683"
+    },
+    {
+     "Name": "Sandys",
+     "PostCode": "MA 03",
+     "LatLong": "32.2934,-64.8683"
+    },
+    {
+     "Name": "Sandys",
+     "PostCode": "MA 04",
+     "LatLong": "32.2934,-64.8683"
+    },
+    {
+     "Name": "Sandys",
+     "PostCode": "MA 05",
+     "LatLong": "32.2934,-64.8683"
+    },
+    {
+     "Name": "Sandys",
+     "PostCode": "MA 06",
+     "LatLong": "32.2934,-64.8683"
+    },
+    {
+     "Name": "Sandys",
+     "PostCode": "SB 01",
+     "LatLong": "32.2934,-64.8683"
+    },
+    {
+     "Name": "Sandys",
+     "PostCode": "SB 02",
+     "LatLong": "32.2934,-64.8683"
+    },
+    {
+     "Name": "Sandys",
+     "PostCode": "SB 03",
+     "LatLong": "32.2934,-64.8683"
+    }
+   ]
+  },
+  {
+   "Name": "Smith’s Parish",
+   "Code": "09",
+   "Places": [
+    {
+     "Name": "Smith’s",
+     "PostCode": "FL 01",
+     "Accuracy": 1,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "Smith’s",
+     "PostCode": "FL 02",
+     "Accuracy": 1,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "Smith’s",
+     "PostCode": "FL 03",
+     "Accuracy": 1,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "Smith’s",
+     "PostCode": "FL 04",
+     "Accuracy": 3,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "Smith’s",
+     "PostCode": "FL 05",
+     "Accuracy": 1,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "Smith’s",
+     "PostCode": "FL 06",
+     "Accuracy": 1,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "Smith’s",
+     "PostCode": "FL 07",
+     "Accuracy": 1,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "Smith’s",
+     "PostCode": "FL 08",
+     "Accuracy": 1,
+     "LatLong": "32.3264,-64.7411"
+    },
+    {
+     "Name": "Smith’s",
+     "PostCode": "HS 01",
+     "Accuracy": 1,
+     "LatLong": "32.354,-64.7096"
+    },
+    {
+     "Name": "Smith’s",
+     "PostCode": "HS 02",
+     "Accuracy": 3,
+     "LatLong": "32.354,-64.7096"
+    }
+   ]
+  },
+  {
+   "Name": "Southampton Parish",
+   "Code": "10",
+   "Places": [
+    {
+     "Name": "Southampton",
+     "PostCode": "SB 02",
+     "LatLong": "32.2508,-64.8564"
+    },
+    {
+     "Name": "Southampton",
+     "PostCode": "SB 03",
+     "LatLong": "32.2508,-64.8564"
+    },
+    {
+     "Name": "Southampton",
+     "PostCode": "SB 04",
+     "LatLong": "32.2508,-64.8564"
+    },
+    {
+     "Name": "Southampton",
+     "PostCode": "SN 01",
+     "LatLong": "32.2508,-64.8564"
+    },
+    {
+     "Name": "Southampton",
+     "PostCode": "SN 02",
+     "LatLong": "32.2508,-64.8564"
+    },
+    {
+     "Name": "Southampton",
+     "PostCode": "SN 03",
+     "LatLong": "32.2508,-64.8564"
+    },
+    {
+     "Name": "Southampton",
+     "PostCode": "SN 04",
+     "LatLong": "32.2508,-64.8564"
+    },
+    {
+     "Name": "Southampton",
+     "PostCode": "WK 01",
+     "LatLong": "32.2508,-64.8564"
+    },
+    {
+     "Name": "Southampton",
+     "PostCode": "WK 03",
+     "LatLong": "32.2508,-64.8564"
+    }
+   ]
+  },
+  {
+   "Name": "Warwick Parish",
+   "Code": "11",
+   "Places": [
+    {
+     "Name": "Warwick",
+     "PostCode": "PG 01",
+     "LatLong": "32.2658,-64.8072"
+    },
+    {
+     "Name": "Warwick",
+     "PostCode": "PG 04",
+     "LatLong": "32.2658,-64.8072"
+    },
+    {
+     "Name": "Warwick",
+     "PostCode": "WK 01",
+     "LatLong": "32.2658,-64.8072"
+    },
+    {
+     "Name": "Warwick",
+     "PostCode": "WK 02",
+     "LatLong": "32.2658,-64.8072"
+    },
+    {
+     "Name": "Warwick",
+     "PostCode": "WK 03",
+     "LatLong": "32.2658,-64.8072"
+    },
+    {
+     "Name": "Warwick",
+     "PostCode": "WK 04",
+     "LatLong": "32.2658,-64.8072"
+    },
+    {
+     "Name": "Warwick",
+     "PostCode": "WK 05",
+     "LatLong": "32.2658,-64.8072"
+    },
+    {
+     "Name": "Warwick",
+     "PostCode": "WK 06",
+     "LatLong": "32.2658,-64.8072"
+    },
+    {
+     "Name": "Warwick",
+     "PostCode": "WK 07",
+     "LatLong": "32.2658,-64.8072"
+    },
+    {
+     "Name": "Warwick",
+     "PostCode": "WK 08",
+     "LatLong": "32.2658,-64.8072"
+    },
+    {
+     "Name": "Warwick",
+     "PostCode": "WK 09",
+     "LatLong": "32.2658,-64.8072"
+    },
+    {
+     "Name": "Warwick",
+     "PostCode": "WK 10",
+     "LatLong": "32.2658,-64.8072"
+    }
+   ]
+  }
+ ]
+}

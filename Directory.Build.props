@@ -11,9 +11,9 @@
     <PackageLicenseUrl>http://www.opensource.org/licenses/mit-license.php</PackageLicenseUrl>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Copyright>Copyright $([System.DateTime]::UtcNow.ToString(yyyy)) Simon Cropp. All rights reserved</Copyright>
-    <PackageTags>NaughtyStrings, Bogus</PackageTags>
-    <PackageIconUrl>https://raw.githubusercontent.com/SimonCropp/NaughtyStrings/master/icon.png</PackageIconUrl>
-    <PackageProjectUrl>http://github.com/SimonCropp/NaughtyStrings</PackageProjectUrl>
+    <PackageTags>CountryLocationData, Bogus</PackageTags>
+    <PackageIconUrl>https://raw.githubusercontent.com/SimonCropp/CountryLocationData/master/icon.png</PackageIconUrl>
+    <PackageProjectUrl>http://github.com/SimonCropp/CountryLocationData</PackageProjectUrl>
     <PackageOutputPath>..\nugets</PackageOutputPath>
     <TargetsForTfmSpecificContentInPackage>$(TargetsForTfmSpecificContentInPackage);IncludePDBsInPackage</TargetsForTfmSpecificContentInPackage>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>

@@ -1,0 +1,2772 @@
+{
+ "Places": [
+  {
+   "Name": "Ljubljana - dostava",
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana - poštni predali",
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana Šentvid",
+   "Accuracy": 4,
+   "LatLong": "46.0964,14.4697"
+  },
+  {
+   "Name": "Ljubljana-Šmartno",
+   "Accuracy": 1,
+   "LatLong": "46.168,14.5217"
+  },
+  {
+   "Name": "Medvode",
+   "Accuracy": 4,
+   "LatLong": "46.1333,14.4333"
+  },
+  {
+   "Name": "Smlednik",
+   "Accuracy": 4,
+   "LatLong": "46.1642,14.4325"
+  },
+  {
+   "Name": "Vodice",
+   "Accuracy": 4,
+   "LatLong": "46.1899,14.4949"
+  },
+  {
+   "Name": "Komenda",
+   "Accuracy": 4,
+   "LatLong": "46.2048,14.5384"
+  },
+  {
+   "Name": "Laze v Tuhinju",
+   "Accuracy": 4,
+   "LatLong": "46.2194,14.7611"
+  },
+  {
+   "Name": "Motnik",
+   "Accuracy": 4,
+   "LatLong": "46.2153,14.8911"
+  },
+  {
+   "Name": "Trojane",
+   "Accuracy": 4,
+   "LatLong": "46.1883,14.8831"
+  },
+  {
+   "Name": "Blagovica",
+   "Accuracy": 4,
+   "LatLong": "46.1769,14.8072"
+  },
+  {
+   "Name": "Lukovica",
+   "Accuracy": 4,
+   "LatLong": "46.1667,14.7"
+  },
+  {
+   "Name": "Domžale",
+   "Accuracy": 4,
+   "LatLong": "46.1377,14.5937"
+  },
+  {
+   "Name": "Ljubljana Črnuče",
+   "Accuracy": 1,
+   "LatLong": "46.1527,14.5952"
+  },
+  {
+   "Name": "Dob",
+   "Accuracy": 4,
+   "LatLong": "46.1519,14.6286"
+  },
+  {
+   "Name": "Mengeš",
+   "Accuracy": 4,
+   "LatLong": "46.1669,14.575"
+  },
+  {
+   "Name": "Radomlje",
+   "Accuracy": 4,
+   "LatLong": "46.1736,14.6122"
+  },
+  {
+   "Name": "Trzin",
+   "Accuracy": 4,
+   "LatLong": "46.1333,14.5667"
+  },
+  {
+   "Name": "Kamnik",
+   "Accuracy": 4,
+   "LatLong": "46.2259,14.6121"
+  },
+  {
+   "Name": "Stahovica",
+   "Accuracy": 4,
+   "LatLong": "46.2619,14.6022"
+  },
+  {
+   "Name": "Moravče",
+   "Accuracy": 4,
+   "LatLong": "46.1369,14.745"
+  },
+  {
+   "Name": "Vače",
+   "Accuracy": 4,
+   "LatLong": "46.12,14.8392"
+  },
+  {
+   "Name": "Ljubljana Polje",
+   "Accuracy": 4,
+   "LatLong": "46.0667,14.5833"
+  },
+  {
+   "Name": "Ljubljana-Dobrunje",
+   "Accuracy": 4,
+   "LatLong": "46.0333,14.5833"
+  },
+  {
+   "Name": "Dol pri Ljubljani",
+   "Accuracy": 4,
+   "LatLong": "46.0886,14.6008"
+  },
+  {
+   "Name": "Litija",
+   "Accuracy": 4,
+   "LatLong": "46.0586,14.8225"
+  },
+  {
+   "Name": "Polšnik",
+   "Accuracy": 4,
+   "LatLong": "46.0667,14.95"
+  },
+  {
+   "Name": "Dole pri Litiji",
+   "Accuracy": 4,
+   "LatLong": "46.0353,15.0189"
+  },
+  {
+   "Name": "Gabrovka",
+   "Accuracy": 4,
+   "LatLong": "46.0167,15"
+  },
+  {
+   "Name": "Šmartno pri Litiji",
+   "Accuracy": 4,
+   "LatLong": "46.0444,14.8442"
+  },
+  {
+   "Name": "Primskovo",
+   "Accuracy": 4,
+   "LatLong": "45.9717,14.9104"
+  },
+  {
+   "Name": "Kresnice",
+   "Accuracy": 4,
+   "LatLong": "46.102,14.7858"
+  },
+  {
+   "Name": "Sava",
+   "Accuracy": 4,
+   "LatLong": "46.0898,14.8904"
+  },
+  {
+   "Name": "Grosuplje",
+   "Accuracy": 4,
+   "LatLong": "45.9556,14.6589"
+  },
+  {
+   "Name": "Škofljica",
+   "Accuracy": 4,
+   "LatLong": "45.9833,14.5767"
+  },
+  {
+   "Name": "Ig",
+   "Accuracy": 4,
+   "LatLong": "45.9603,14.5289"
+  },
+  {
+   "Name": "Šmarje-Sap",
+   "Accuracy": 4,
+   "LatLong": "45.9762,14.6118"
+  },
+  {
+   "Name": "Višnja Gora",
+   "Accuracy": 4,
+   "LatLong": "45.9539,14.7453"
+  },
+  {
+   "Name": "Ivančna Gorica",
+   "Accuracy": 4,
+   "LatLong": "45.9383,14.8044"
+  },
+  {
+   "Name": "Šentvid pri Stični",
+   "Accuracy": 4,
+   "LatLong": "45.95,14.8434"
+  },
+  {
+   "Name": "Krka",
+   "Accuracy": 4,
+   "LatLong": "45.8813,14.7781"
+  },
+  {
+   "Name": "Zagradec",
+   "Accuracy": 4,
+   "LatLong": "45.8614,14.8342"
+  },
+  {
+   "Name": "Ribnica",
+   "Accuracy": 4,
+   "LatLong": "45.7386,14.7275"
+  },
+  {
+   "Name": "Turjak",
+   "Accuracy": 4,
+   "LatLong": "45.8789,14.6153"
+  },
+  {
+   "Name": "Videm-Dobrepolje",
+   "Accuracy": 4,
+   "LatLong": "45.85,14.6942"
+  },
+  {
+   "Name": "Struge",
+   "Accuracy": 4,
+   "LatLong": "45.7817,14.7747"
+  },
+  {
+   "Name": "Rob",
+   "Accuracy": 4,
+   "LatLong": "45.8486,14.5722"
+  },
+  {
+   "Name": "Velike Lašče",
+   "Accuracy": 4,
+   "LatLong": "45.8322,14.6364"
+  },
+  {
+   "Name": "Ortnek",
+   "Accuracy": 4,
+   "LatLong": "45.782,14.6753"
+  },
+  {
+   "Name": "Sodražica",
+   "Accuracy": 4,
+   "LatLong": "45.7611,14.6356"
+  },
+  {
+   "Name": "Loški Potok",
+   "Accuracy": 1,
+   "LatLong": "45.8236,14.6531"
+  },
+  {
+   "Name": "Draga",
+   "Accuracy": 4,
+   "LatLong": "45.9395,14.547"
+  },
+  {
+   "Name": "Kočevje",
+   "Accuracy": 4,
+   "LatLong": "45.6433,14.8633"
+  },
+  {
+   "Name": "Dolenja vas",
+   "Accuracy": 4,
+   "LatLong": "45.7061,14.7544"
+  },
+  {
+   "Name": "Stara Cerkev",
+   "Accuracy": 4,
+   "LatLong": "45.6722,14.8397"
+  },
+  {
+   "Name": "Vas",
+   "Accuracy": 4,
+   "LatLong": "45.4747,14.8692"
+  },
+  {
+   "Name": "Osilnica",
+   "Accuracy": 4,
+   "LatLong": "45.5278,14.6944"
+  },
+  {
+   "Name": "Kočevska Reka",
+   "Accuracy": 4,
+   "LatLong": "45.5764,14.7969"
+  },
+  {
+   "Name": "Brezovica pri Ljubljani",
+   "Accuracy": 4,
+   "LatLong": "46.0333,14.4"
+  },
+  {
+   "Name": "Preserje",
+   "Accuracy": 4,
+   "LatLong": "45.9569,14.4189"
+  },
+  {
+   "Name": "Borovnica",
+   "Accuracy": 4,
+   "LatLong": "45.9158,14.3631"
+  },
+  {
+   "Name": "Horjul",
+   "Accuracy": 4,
+   "LatLong": "46.0236,14.2992"
+  },
+  {
+   "Name": "Polhov Gradec",
+   "Accuracy": 4,
+   "LatLong": "46.0669,14.3161"
+  },
+  {
+   "Name": "Dobrova",
+   "Accuracy": 4,
+   "LatLong": "46.055,14.4172"
+  },
+  {
+   "Name": "Notranje Gorice",
+   "Accuracy": 4,
+   "LatLong": "45.9875,14.3989"
+  },
+  {
+   "Name": "Log pri Brezovici",
+   "Accuracy": 4,
+   "LatLong": "46.0167,14.3667"
+  },
+  {
+   "Name": "Vrhnika",
+   "Accuracy": 4,
+   "LatLong": "45.6922,14.5028"
+  },
+  {
+   "Name": "Logatec",
+   "Accuracy": 4,
+   "LatLong": "45.9144,14.2258"
+  },
+  {
+   "Name": "Logatec",
+   "Accuracy": 4,
+   "LatLong": "45.9144,14.2258"
+  },
+  {
+   "Name": "Hotedršica",
+   "Accuracy": 4,
+   "LatLong": "45.9303,14.1422"
+  },
+  {
+   "Name": "Rovte",
+   "Accuracy": 4,
+   "LatLong": "45.9853,14.1775"
+  },
+  {
+   "Name": "Cerknica",
+   "Accuracy": 4,
+   "LatLong": "45.7931,14.3625"
+  },
+  {
+   "Name": "Rakek",
+   "Accuracy": 4,
+   "LatLong": "45.8133,14.3111"
+  },
+  {
+   "Name": "Begunje pri Cerknici",
+   "Accuracy": 4,
+   "LatLong": "45.8181,14.3822"
+  },
+  {
+   "Name": "Grahovo",
+   "Accuracy": 4,
+   "LatLong": "45.7692,14.4222"
+  },
+  {
+   "Name": "Nova vas",
+   "Accuracy": 4,
+   "LatLong": "45.7717,14.5058"
+  },
+  {
+   "Name": "Stari trg pri Ložu",
+   "Accuracy": 4,
+   "LatLong": "45.7148,14.471"
+  },
+  {
+   "Name": "Zagorje ob Savi",
+   "Accuracy": 4,
+   "LatLong": "46.1318,14.9969"
+  },
+  {
+   "Name": "Izlake",
+   "Accuracy": 4,
+   "LatLong": "46.15,14.95"
+  },
+  {
+   "Name": "Kisovec",
+   "Accuracy": 4,
+   "LatLong": "46.1391,14.9629"
+  },
+  {
+   "Name": "Čemšenik",
+   "Accuracy": 4,
+   "LatLong": "46.1792,14.9444"
+  },
+  {
+   "Name": "Podkum",
+   "Accuracy": 4,
+   "LatLong": "46.0714,15.0286"
+  },
+  {
+   "Name": "Trbovlje",
+   "Accuracy": 4,
+   "LatLong": "46.155,15.0533"
+  },
+  {
+   "Name": "Dobovec",
+   "Accuracy": 4,
+   "LatLong": "46.1131,15.0572"
+  },
+  {
+   "Name": "Hrastnik",
+   "Accuracy": 4,
+   "LatLong": "46.1461,15.0814"
+  },
+  {
+   "Name": "Dol pri Hrastniku",
+   "Accuracy": 4,
+   "LatLong": "46.1419,15.1128"
+  },
+  {
+   "Name": "Zidani Most",
+   "Accuracy": 4,
+   "LatLong": "46.0882,15.1728"
+  },
+  {
+   "Name": "Radeče",
+   "Accuracy": 4,
+   "LatLong": "46.0681,15.1839"
+  },
+  {
+   "Name": "Loka pri Zidanem Mostu",
+   "Accuracy": 4,
+   "LatLong": "46.0575,15.2072"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Ljubljana",
+   "Accuracy": 4,
+   "LatLong": "46.0511,14.5051"
+  },
+  {
+   "Name": "Maribor - dostava",
+   "LatLong": "46.5547,15.6467"
+  },
+  {
+   "Name": "Maribor - poštni predali",
+   "LatLong": "46.5547,15.6467"
+  },
+  {
+   "Name": "Zgornja Kungota",
+   "Accuracy": 4,
+   "LatLong": "46.6392,15.6156"
+  },
+  {
+   "Name": "Miklavž na Dravskem polju",
+   "Accuracy": 4,
+   "LatLong": "46.5058,15.6972"
+  },
+  {
+   "Name": "Starše",
+   "Accuracy": 4,
+   "LatLong": "46.4658,15.7672"
+  },
+  {
+   "Name": "Marjeta na Dravskem polju",
+   "Accuracy": 4,
+   "LatLong": "46.4525,15.7369"
+  },
+  {
+   "Name": "Pohorje",
+   "Accuracy": 4,
+   "LatLong": "46.5026,15.573"
+  },
+  {
+   "Name": "Pesnica pri Mariboru",
+   "Accuracy": 4,
+   "LatLong": "46.6069,15.6767"
+  },
+  {
+   "Name": "Šentilj v Slovenskih goricah",
+   "Accuracy": 4,
+   "LatLong": "46.6792,15.6532"
+  },
+  {
+   "Name": "Zgornja Velka",
+   "Accuracy": 4,
+   "LatLong": "46.6753,15.7692"
+  },
+  {
+   "Name": "Sladki Vrh",
+   "Accuracy": 4,
+   "LatLong": "46.7075,15.8011"
+  },
+  {
+   "Name": "Ceršak",
+   "Accuracy": 4,
+   "LatLong": "46.6992,15.6692"
+  },
+  {
+   "Name": "Jarenina",
+   "Accuracy": 1,
+   "LatLong": "46.5803,15.7438"
+  },
+  {
+   "Name": "Jakobski Dol",
+   "Accuracy": 1,
+   "LatLong": "46.5803,15.7438"
+  },
+  {
+   "Name": "Jurovski Dol",
+   "Accuracy": 4,
+   "LatLong": "46.6064,15.7847"
+  },
+  {
+   "Name": "Malečnik",
+   "Accuracy": 4,
+   "LatLong": "46.5542,15.7028"
+  },
+  {
+   "Name": "Lenart v Slovenskih goricah",
+   "Accuracy": 4,
+   "LatLong": "46.5761,15.8314"
+  },
+  {
+   "Name": "Pernica",
+   "Accuracy": 4,
+   "LatLong": "46.58,15.7278"
+  },
+  {
+   "Name": "Voličina",
+   "Accuracy": 1,
+   "LatLong": "46.5838,15.8478"
+  },
+  {
+   "Name": "Sv. Ana v Slovenskih goricah",
+   "Accuracy": 1,
+   "LatLong": "46.5838,15.8478"
+  },
+  {
+   "Name": "Benedikt",
+   "Accuracy": 4,
+   "LatLong": "46.6086,15.8883"
+  },
+  {
+   "Name": "Sv. Trojica v Slovenskih goricah",
+   "Accuracy": 1,
+   "LatLong": "46.5838,15.8478"
+  },
+  {
+   "Name": "Cerkvenjak",
+   "Accuracy": 4,
+   "LatLong": "46.5706,15.9436"
+  },
+  {
+   "Name": "Spodnji Duplek",
+   "Accuracy": 4,
+   "LatLong": "46.5031,15.7453"
+  },
+  {
+   "Name": "Zgornja Korena",
+   "Accuracy": 4,
+   "LatLong": "46.524,15.7723"
+  },
+  {
+   "Name": "Ptuj",
+   "Accuracy": 4,
+   "LatLong": "46.4201,15.8702"
+  },
+  {
+   "Name": "Dornava",
+   "Accuracy": 4,
+   "LatLong": "46.4367,15.9536"
+  },
+  {
+   "Name": "Destrnik",
+   "Accuracy": 4,
+   "LatLong": "46.5006,15.875"
+  },
+  {
+   "Name": "Trnovska vas",
+   "Accuracy": 4,
+   "LatLong": "46.5202,15.8866"
+  },
+  {
+   "Name": "Vitomarci",
+   "Accuracy": 4,
+   "LatLong": "46.5275,15.9394"
+  },
+  {
+   "Name": "Juršinci",
+   "Accuracy": 4,
+   "LatLong": "46.4847,15.9714"
+  },
+  {
+   "Name": "Polenšak",
+   "Accuracy": 4,
+   "LatLong": "46.4746,16.0031"
+  },
+  {
+   "Name": "Sveti Tomaž",
+   "Accuracy": 4,
+   "LatLong": "46.4842,16.0836"
+  },
+  {
+   "Name": "Ivanjkovci",
+   "Accuracy": 4,
+   "LatLong": "46.4622,16.1458"
+  },
+  {
+   "Name": "Ormož",
+   "Accuracy": 4,
+   "LatLong": "46.4114,16.1544"
+  },
+  {
+   "Name": "Gorišnica",
+   "Accuracy": 4,
+   "LatLong": "46.4147,16.0139"
+  },
+  {
+   "Name": "Podgorci",
+   "Accuracy": 4,
+   "LatLong": "46.4292,16.0636"
+  },
+  {
+   "Name": "Velika Nedelja",
+   "Accuracy": 4,
+   "LatLong": "46.4178,16.1097"
+  },
+  {
+   "Name": "Miklavž pri Ormožu",
+   "Accuracy": 4,
+   "LatLong": "46.46,16.2136"
+  },
+  {
+   "Name": "Kog",
+   "Accuracy": 4,
+   "LatLong": "46.4717,16.2508"
+  },
+  {
+   "Name": "Središče ob Dravi",
+   "Accuracy": 4,
+   "LatLong": "46.3942,16.2681"
+  },
+  {
+   "Name": "Markovci",
+   "Accuracy": 4,
+   "LatLong": "46.3833,15.95"
+  },
+  {
+   "Name": "Cirkulane",
+   "Accuracy": 4,
+   "LatLong": "46.3441,15.9947"
+  },
+  {
+   "Name": "Zavrč",
+   "Accuracy": 4,
+   "LatLong": "46.3917,16.0497"
+  },
+  {
+   "Name": "Videm pri Ptuju",
+   "Accuracy": 4,
+   "LatLong": "46.3686,15.9064"
+  },
+  {
+   "Name": "Zgornji Leskovec",
+   "Accuracy": 4,
+   "LatLong": "46.3303,15.9369"
+  },
+  {
+   "Name": "Podlehnik",
+   "Accuracy": 4,
+   "LatLong": "46.3353,15.88"
+  },
+  {
+   "Name": "Žetale",
+   "Accuracy": 4,
+   "LatLong": "46.275,15.7939"
+  },
+  {
+   "Name": "Hajdina",
+   "Accuracy": 4,
+   "LatLong": "46.4089,15.8469"
+  },
+  {
+   "Name": "Stoperce",
+   "Accuracy": 4,
+   "LatLong": "46.29,15.7167"
+  },
+  {
+   "Name": "Slovenska Bistrica",
+   "Accuracy": 4,
+   "LatLong": "46.3928,15.5744"
+  },
+  {
+   "Name": "Hoče",
+   "Accuracy": 4,
+   "LatLong": "46.4918,15.6231"
+  },
+  {
+   "Name": "Orehova vas",
+   "Accuracy": 4,
+   "LatLong": "46.4701,15.6686"
+  },
+  {
+   "Name": "Fram",
+   "Accuracy": 4,
+   "LatLong": "46.4506,15.6322"
+  },
+  {
+   "Name": "Zgornja Polskava",
+   "Accuracy": 4,
+   "LatLong": "46.4256,15.6122"
+  },
+  {
+   "Name": "Šmartno na Pohorju",
+   "Accuracy": 4,
+   "LatLong": "46.4442,15.5394"
+  },
+  {
+   "Name": "Zgornja Ložnica",
+   "Accuracy": 4,
+   "LatLong": "46.3833,15.5167"
+  },
+  {
+   "Name": "Oplotnica",
+   "Accuracy": 4,
+   "LatLong": "46.3878,15.4467"
+  },
+  {
+   "Name": "Laporje",
+   "Accuracy": 4,
+   "LatLong": "46.3467,15.5947"
+  },
+  {
+   "Name": "Poljčane",
+   "Accuracy": 4,
+   "LatLong": "46.3119,15.5792"
+  },
+  {
+   "Name": "Makole",
+   "Accuracy": 4,
+   "LatLong": "46.3172,15.6672"
+  },
+  {
+   "Name": "Majšperk",
+   "Accuracy": 4,
+   "LatLong": "46.3517,15.7336"
+  },
+  {
+   "Name": "Ptujska Gora",
+   "Accuracy": 4,
+   "LatLong": "46.355,15.76"
+  },
+  {
+   "Name": "Lovrenc na Dravskem polju",
+   "Accuracy": 4,
+   "LatLong": "46.3736,15.7792"
+  },
+  {
+   "Name": "Kidričevo",
+   "Accuracy": 4,
+   "LatLong": "46.4036,15.7911"
+  },
+  {
+   "Name": "Cirkovce",
+   "Accuracy": 4,
+   "LatLong": "46.3999,15.7312"
+  },
+  {
+   "Name": "Rače",
+   "Accuracy": 4,
+   "LatLong": "46.4519,15.6814"
+  },
+  {
+   "Name": "Pragersko",
+   "Accuracy": 4,
+   "LatLong": "46.3967,15.66"
+  },
+  {
+   "Name": "Limbuš",
+   "Accuracy": 4,
+   "LatLong": "46.5536,15.5836"
+  },
+  {
+   "Name": "Ruše",
+   "Accuracy": 4,
+   "LatLong": "46.5394,15.5158"
+  },
+  {
+   "Name": "Fala",
+   "Accuracy": 4,
+   "LatLong": "46.5439,15.4472"
+  },
+  {
+   "Name": "Lovrenc na Pohorju",
+   "Accuracy": 4,
+   "LatLong": "46.5406,15.3931"
+  },
+  {
+   "Name": "Bistrica ob Dravi",
+   "Accuracy": 4,
+   "LatLong": "46.5572,15.5144"
+  },
+  {
+   "Name": "Kamnica",
+   "Accuracy": 4,
+   "LatLong": "46.5744,15.6142"
+  },
+  {
+   "Name": "Selnica ob Dravi",
+   "Accuracy": 4,
+   "LatLong": "46.55,15.495"
+  },
+  {
+   "Name": "Sv. Duh na Ostrem Vrhu",
+   "Accuracy": 1,
+   "LatLong": "46.5647,15.5614"
+  },
+  {
+   "Name": "Bresternica",
+   "Accuracy": 4,
+   "LatLong": "46.5697,15.575"
+  },
+  {
+   "Name": "Radlje ob Dravi",
+   "Accuracy": 4,
+   "LatLong": "46.6142,15.2264"
+  },
+  {
+   "Name": "Ožbalt",
+   "Accuracy": 4,
+   "LatLong": "46.5869,15.3989"
+  },
+  {
+   "Name": "Kapla",
+   "Accuracy": 4,
+   "LatLong": "46.2483,15.0094"
+  },
+  {
+   "Name": "Podvelka",
+   "Accuracy": 4,
+   "LatLong": "46.5869,15.3306"
+  },
+  {
+   "Name": "Ribnica na Pohorju",
+   "Accuracy": 4,
+   "LatLong": "46.535,15.2728"
+  },
+  {
+   "Name": "Vuhred",
+   "Accuracy": 4,
+   "LatLong": "46.5947,15.2375"
+  },
+  {
+   "Name": "Muta",
+   "Accuracy": 4,
+   "LatLong": "46.6114,15.1661"
+  },
+  {
+   "Name": "Vuzenica",
+   "Accuracy": 4,
+   "LatLong": "46.5964,15.1672"
+  },
+  {
+   "Name": "Dravograd",
+   "Accuracy": 4,
+   "LatLong": "46.5881,15.0192"
+  },
+  {
+   "Name": "Trbonje",
+   "Accuracy": 4,
+   "LatLong": "46.6028,15.1075"
+  },
+  {
+   "Name": "Libeliče",
+   "Accuracy": 4,
+   "LatLong": "46.62,14.9497"
+  },
+  {
+   "Name": "Šentjanž pri Dravogradu",
+   "Accuracy": 4,
+   "LatLong": "46.5611,15.0389"
+  },
+  {
+   "Name": "Slovenj Gradec",
+   "Accuracy": 4,
+   "LatLong": "46.5103,15.0806"
+  },
+  {
+   "Name": "Podgorje pri Slovenj Gradcu",
+   "Accuracy": 4,
+   "LatLong": "46.4719,15.0836"
+  },
+  {
+   "Name": "Mislinja",
+   "Accuracy": 4,
+   "LatLong": "46.4411,15.1956"
+  },
+  {
+   "Name": "Šmartno pri Slovenj Gradcu",
+   "Accuracy": 4,
+   "LatLong": "46.4894,15.1067"
+  },
+  {
+   "Name": "Ravne na Koroškem",
+   "Accuracy": 4,
+   "LatLong": "46.5431,14.9692"
+  },
+  {
+   "Name": "Prevalje",
+   "Accuracy": 4,
+   "LatLong": "46.5469,14.9208"
+  },
+  {
+   "Name": "Mežica",
+   "Accuracy": 4,
+   "LatLong": "46.5214,14.8544"
+  },
+  {
+   "Name": "Črna na Koroškem",
+   "Accuracy": 4,
+   "LatLong": "46.4705,14.8501"
+  },
+  {
+   "Name": "Kotlje",
+   "Accuracy": 4,
+   "LatLong": "46.5214,14.9869"
+  },
+  {
+   "Name": "Maribor",
+   "Accuracy": 4,
+   "LatLong": "46.5547,15.6467"
+  },
+  {
+   "Name": "Maribor",
+   "Accuracy": 4,
+   "LatLong": "46.5547,15.6467"
+  },
+  {
+   "Name": "Maribor",
+   "Accuracy": 4,
+   "LatLong": "46.5547,15.6467"
+  },
+  {
+   "Name": "Maribor",
+   "Accuracy": 4,
+   "LatLong": "46.5547,15.6467"
+  },
+  {
+   "Name": "Maribor",
+   "Accuracy": 4,
+   "LatLong": "46.5547,15.6467"
+  },
+  {
+   "Name": "Maribor",
+   "Accuracy": 4,
+   "LatLong": "46.5547,15.6467"
+  },
+  {
+   "Name": "Maribor",
+   "Accuracy": 4,
+   "LatLong": "46.5547,15.6467"
+  },
+  {
+   "Name": "Maribor",
+   "Accuracy": 4,
+   "LatLong": "46.5547,15.6467"
+  },
+  {
+   "Name": "Maribor",
+   "Accuracy": 4,
+   "LatLong": "46.5547,15.6467"
+  },
+  {
+   "Name": "Maribor",
+   "Accuracy": 4,
+   "LatLong": "46.5547,15.6467"
+  },
+  {
+   "Name": "Maribor",
+   "Accuracy": 4,
+   "LatLong": "46.5547,15.6467"
+  },
+  {
+   "Name": "Maribor",
+   "Accuracy": 4,
+   "LatLong": "46.5547,15.6467"
+  },
+  {
+   "Name": "Maribor",
+   "Accuracy": 4,
+   "LatLong": "46.5547,15.6467"
+  },
+  {
+   "Name": "Celje - dostava",
+   "LatLong": "45.5916,14.1546"
+  },
+  {
+   "Name": "Celje - poštni predali",
+   "LatLong": "45.5916,14.1546"
+  },
+  {
+   "Name": "Šmartno v Rožni dolini",
+   "Accuracy": 4,
+   "LatLong": "46.2945,15.2431"
+  },
+  {
+   "Name": "Ljubečna",
+   "Accuracy": 4,
+   "LatLong": "46.2417,15.3208"
+  },
+  {
+   "Name": "Nova Cerkev",
+   "Accuracy": 4,
+   "LatLong": "46.3128,15.2856"
+  },
+  {
+   "Name": "Dobrna",
+   "Accuracy": 4,
+   "LatLong": "46.3375,15.2264"
+  },
+  {
+   "Name": "Vitanje",
+   "Accuracy": 4,
+   "LatLong": "46.3817,15.2958"
+  },
+  {
+   "Name": "Stranice",
+   "Accuracy": 4,
+   "LatLong": "46.3636,15.3653"
+  },
+  {
+   "Name": "Slovenske Konjice",
+   "Accuracy": 4,
+   "LatLong": "46.3367,15.4258"
+  },
+  {
+   "Name": "Škofja vas",
+   "Accuracy": 4,
+   "LatLong": "46.2679,15.2912"
+  },
+  {
+   "Name": "Vojnik",
+   "Accuracy": 4,
+   "LatLong": "46.2933,15.3033"
+  },
+  {
+   "Name": "Frankolovo",
+   "Accuracy": 4,
+   "LatLong": "46.3306,15.3144"
+  },
+  {
+   "Name": "Zreče",
+   "Accuracy": 4,
+   "LatLong": "46.3822,15.3792"
+  },
+  {
+   "Name": "Loče",
+   "Accuracy": 4,
+   "LatLong": "46.283,15.258"
+  },
+  {
+   "Name": "Štore",
+   "Accuracy": 4,
+   "LatLong": "46.2208,15.3139"
+  },
+  {
+   "Name": "Teharje",
+   "Accuracy": 4,
+   "LatLong": "46.2303,15.3022"
+  },
+  {
+   "Name": "Dramlje",
+   "Accuracy": 4,
+   "LatLong": "46.2736,15.3947"
+  },
+  {
+   "Name": "Loka pri Žusmu",
+   "Accuracy": 4,
+   "LatLong": "46.1575,15.5147"
+  },
+  {
+   "Name": "Dobje pri Planini",
+   "Accuracy": 4,
+   "LatLong": "46.1367,15.4089"
+  },
+  {
+   "Name": "Planina pri Sevnici",
+   "Accuracy": 4,
+   "LatLong": "46.1114,15.4094"
+  },
+  {
+   "Name": "Šentjur",
+   "Accuracy": 4,
+   "LatLong": "46.2172,15.3975"
+  },
+  {
+   "Name": "Grobelno",
+   "Accuracy": 4,
+   "LatLong": "46.2117,15.4447"
+  },
+  {
+   "Name": "Ponikva",
+   "Accuracy": 4,
+   "LatLong": "46.241,15.4567"
+  },
+  {
+   "Name": "Kalobje",
+   "Accuracy": 4,
+   "LatLong": "46.1672,15.3944"
+  },
+  {
+   "Name": "Šmarje pri Jelšah",
+   "Accuracy": 4,
+   "LatLong": "46.2272,15.5192"
+  },
+  {
+   "Name": "Podplat",
+   "Accuracy": 4,
+   "LatLong": "46.2461,15.5764"
+  },
+  {
+   "Name": "Rogaška Slatina",
+   "Accuracy": 4,
+   "LatLong": "46.2375,15.6397"
+  },
+  {
+   "Name": "Rogatec",
+   "Accuracy": 4,
+   "LatLong": "46.2294,15.7003"
+  },
+  {
+   "Name": "Pristava pri Mestinju",
+   "Accuracy": 4,
+   "LatLong": "46.1967,15.5961"
+  },
+  {
+   "Name": "Podčetrtek",
+   "Accuracy": 4,
+   "LatLong": "46.1569,15.5986"
+  },
+  {
+   "Name": "Buče",
+   "Accuracy": 4,
+   "LatLong": "46.1079,15.5701"
+  },
+  {
+   "Name": "Bistrica ob Sotli",
+   "Accuracy": 4,
+   "LatLong": "46.0589,15.6642"
+  },
+  {
+   "Name": "Podsreda",
+   "Accuracy": 4,
+   "LatLong": "46.0414,15.5906"
+  },
+  {
+   "Name": "Kozje",
+   "Accuracy": 4,
+   "LatLong": "46.075,15.5603"
+  },
+  {
+   "Name": "Lesično",
+   "Accuracy": 4,
+   "LatLong": "46.1025,15.5142"
+  },
+  {
+   "Name": "Prevorje",
+   "Accuracy": 4,
+   "LatLong": "46.1255,15.4774"
+  },
+  {
+   "Name": "Gorica pri Slivnici",
+   "Accuracy": 4,
+   "LatLong": "46.1872,15.4325"
+  },
+  {
+   "Name": "Sveti Štefan",
+   "Accuracy": 4,
+   "LatLong": "46.1862,15.4933"
+  },
+  {
+   "Name": "Laško",
+   "Accuracy": 4,
+   "LatLong": "46.1546,15.2355"
+  },
+  {
+   "Name": "Šentrupert",
+   "Accuracy": 4,
+   "LatLong": "46.1714,15.3494"
+  },
+  {
+   "Name": "Rimske Toplice",
+   "Accuracy": 4,
+   "LatLong": "46.1226,15.1919"
+  },
+  {
+   "Name": "Jurklošter",
+   "Accuracy": 4,
+   "LatLong": "46.0917,15.3367"
+  },
+  {
+   "Name": "Petrovče",
+   "Accuracy": 4,
+   "LatLong": "46.2417,15.19"
+  },
+  {
+   "Name": "Griže",
+   "Accuracy": 4,
+   "LatLong": "46.2294,15.1506"
+  },
+  {
+   "Name": "Gomilsko",
+   "Accuracy": 4,
+   "LatLong": "46.2528,15.0422"
+  },
+  {
+   "Name": "Tabor",
+   "Accuracy": 4,
+   "LatLong": "46.2361,15.0183"
+  },
+  {
+   "Name": "Vransko",
+   "Accuracy": 4,
+   "LatLong": "46.2439,14.9514"
+  },
+  {
+   "Name": "Žalec",
+   "Accuracy": 4,
+   "LatLong": "46.2515,15.1648"
+  },
+  {
+   "Name": "Šempeter v Savinjski dolini",
+   "Accuracy": 1,
+   "LatLong": "46.2654,15.0907"
+  },
+  {
+   "Name": "Prebold",
+   "Accuracy": 4,
+   "LatLong": "46.2369,15.0925"
+  },
+  {
+   "Name": "Polzela",
+   "Accuracy": 4,
+   "LatLong": "46.2833,15.0667"
+  },
+  {
+   "Name": "Braslovče",
+   "Accuracy": 4,
+   "LatLong": "46.2897,15.0389"
+  },
+  {
+   "Name": "Velenje - dostava",
+   "Accuracy": 1,
+   "LatLong": "46.3712,15.0345"
+  },
+  {
+   "Name": "Velenje - poštni predali",
+   "Accuracy": 1,
+   "LatLong": "46.3712,15.0345"
+  },
+  {
+   "Name": "Šoštanj",
+   "Accuracy": 4,
+   "LatLong": "46.38,15.0486"
+  },
+  {
+   "Name": "Topolšica",
+   "Accuracy": 4,
+   "LatLong": "46.4003,15.0216"
+  },
+  {
+   "Name": "Šmartno ob Paki",
+   "Accuracy": 4,
+   "LatLong": "46.3333,15.0333"
+  },
+  {
+   "Name": "Mozirje",
+   "Accuracy": 4,
+   "LatLong": "46.3394,14.9633"
+  },
+  {
+   "Name": "Nazarje",
+   "Accuracy": 4,
+   "LatLong": "46.3176,14.9467"
+  },
+  {
+   "Name": "Rečica ob Savinji",
+   "Accuracy": 4,
+   "LatLong": "46.3167,14.9167"
+  },
+  {
+   "Name": "Ljubno ob Savinji",
+   "Accuracy": 4,
+   "LatLong": "46.3436,14.8338"
+  },
+  {
+   "Name": "Luče",
+   "Accuracy": 4,
+   "LatLong": "46.3561,14.7467"
+  },
+  {
+   "Name": "Solčava",
+   "Accuracy": 4,
+   "LatLong": "46.4194,14.6936"
+  },
+  {
+   "Name": "Šmartno ob Dreti",
+   "Accuracy": 4,
+   "LatLong": "46.2839,14.8903"
+  },
+  {
+   "Name": "Gornji Grad",
+   "Accuracy": 4,
+   "LatLong": "46.2953,14.8083"
+  },
+  {
+   "Name": "Celje",
+   "Accuracy": 4,
+   "LatLong": "46.2309,15.2604"
+  },
+  {
+   "Name": "Velenje",
+   "Accuracy": 4,
+   "LatLong": "46.3592,15.1103"
+  },
+  {
+   "Name": "Velenje",
+   "Accuracy": 4,
+   "LatLong": "46.3592,15.1103"
+  },
+  {
+   "Name": "Celje",
+   "Accuracy": 4,
+   "LatLong": "46.2309,15.2604"
+  },
+  {
+   "Name": "Celje",
+   "Accuracy": 4,
+   "LatLong": "46.2309,15.2604"
+  },
+  {
+   "Name": "Kranj - dostava",
+   "LatLong": "46.2389,14.3556"
+  },
+  {
+   "Name": "Kranj - poštni predali",
+   "LatLong": "46.2389,14.3556"
+  },
+  {
+   "Name": "Zgornja Besnica",
+   "Accuracy": 4,
+   "LatLong": "46.2667,14.2833"
+  },
+  {
+   "Name": "Naklo",
+   "Accuracy": 4,
+   "LatLong": "46.2728,14.3172"
+  },
+  {
+   "Name": "Duplje",
+   "Accuracy": 1,
+   "LatLong": "46.2821,14.3831"
+  },
+  {
+   "Name": "Golnik",
+   "Accuracy": 4,
+   "LatLong": "46.3333,14.3333"
+  },
+  {
+   "Name": "Preddvor",
+   "Accuracy": 4,
+   "LatLong": "46.3025,14.4231"
+  },
+  {
+   "Name": "Zgornje Jezersko",
+   "Accuracy": 4,
+   "LatLong": "46.3833,14.4667"
+  },
+  {
+   "Name": "Cerklje na Gorenjskem",
+   "Accuracy": 4,
+   "LatLong": "46.2542,14.4886"
+  },
+  {
+   "Name": "Šenčur",
+   "Accuracy": 4,
+   "LatLong": "46.2456,14.4197"
+  },
+  {
+   "Name": "Žabnica",
+   "Accuracy": 4,
+   "LatLong": "46.1986,14.3331"
+  },
+  {
+   "Name": "Brnik aerodrom",
+   "Accuracy": 1,
+   "LatLong": "46.2264,14.4064"
+  },
+  {
+   "Name": "Mavčiče",
+   "Accuracy": 4,
+   "LatLong": "46.1818,14.3948"
+  },
+  {
+   "Name": "Visoko",
+   "Accuracy": 4,
+   "LatLong": "46.2711,14.4181"
+  },
+  {
+   "Name": "Škofja Loka",
+   "Accuracy": 4,
+   "LatLong": "46.1655,14.3063"
+  },
+  {
+   "Name": "Poljane nad Škofjo Loko",
+   "Accuracy": 4,
+   "LatLong": "46.121,14.1862"
+  },
+  {
+   "Name": "Gorenja vas",
+   "Accuracy": 4,
+   "LatLong": "46.1667,14.15"
+  },
+  {
+   "Name": "Sovodenj",
+   "Accuracy": 4,
+   "LatLong": "46.0864,14.0436"
+  },
+  {
+   "Name": "Žiri",
+   "Accuracy": 4,
+   "LatLong": "46.0422,14.1072"
+  },
+  {
+   "Name": "Selca",
+   "Accuracy": 4,
+   "LatLong": "46.2244,14.2056"
+  },
+  {
+   "Name": "Železniki",
+   "Accuracy": 4,
+   "LatLong": "46.2333,14.1667"
+  },
+  {
+   "Name": "Sorica",
+   "Accuracy": 4,
+   "LatLong": "46.2167,14.0333"
+  },
+  {
+   "Name": "Radovljica",
+   "Accuracy": 4,
+   "LatLong": "46.3444,14.1744"
+  },
+  {
+   "Name": "Brezje",
+   "Accuracy": 4,
+   "LatLong": "46.329,14.2323"
+  },
+  {
+   "Name": "Podnart",
+   "Accuracy": 4,
+   "LatLong": "46.2952,14.2557"
+  },
+  {
+   "Name": "Kropa",
+   "Accuracy": 4,
+   "LatLong": "46.3,14.2"
+  },
+  {
+   "Name": "Kamna Gorica",
+   "Accuracy": 4,
+   "LatLong": "46.3167,14.2"
+  },
+  {
+   "Name": "Zgornje Gorje",
+   "Accuracy": 4,
+   "LatLong": "46.3796,14.0694"
+  },
+  {
+   "Name": "Lesce",
+   "Accuracy": 4,
+   "LatLong": "46.3611,14.1578"
+  },
+  {
+   "Name": "Bled",
+   "Accuracy": 4,
+   "LatLong": "46.3692,14.1136"
+  },
+  {
+   "Name": "Bohinjska Bela",
+   "Accuracy": 4,
+   "LatLong": "46.3489,14.0639"
+  },
+  {
+   "Name": "Bohinjska Bistrica",
+   "Accuracy": 4,
+   "LatLong": "46.2722,13.9535"
+  },
+  {
+   "Name": "Bohinjsko jezero",
+   "Accuracy": 1,
+   "LatLong": "46.3218,14.0141"
+  },
+  {
+   "Name": "Srednja vas v Bohinju",
+   "Accuracy": 4,
+   "LatLong": "46.297,13.9256"
+  },
+  {
+   "Name": "Jesenice",
+   "Accuracy": 4,
+   "LatLong": "46.4306,14.0669"
+  },
+  {
+   "Name": "Blejska Dobrava",
+   "Accuracy": 4,
+   "LatLong": "46.4,14.1"
+  },
+  {
+   "Name": "Žirovnica",
+   "Accuracy": 4,
+   "LatLong": "46.4047,14.14"
+  },
+  {
+   "Name": "Begunje na Gorenjskem",
+   "Accuracy": 4,
+   "LatLong": "46.3833,14.2167"
+  },
+  {
+   "Name": "Hrušica",
+   "Accuracy": 4,
+   "LatLong": "46.445,14.0178"
+  },
+  {
+   "Name": "Kranjska Gora",
+   "Accuracy": 4,
+   "LatLong": "46.4839,13.7894"
+  },
+  {
+   "Name": "Mojstrana",
+   "Accuracy": 4,
+   "LatLong": "46.4611,13.9369"
+  },
+  {
+   "Name": "Gozd Martuljek",
+   "Accuracy": 4,
+   "LatLong": "46.4833,13.8333"
+  },
+  {
+   "Name": "Rateče-Planica",
+   "Accuracy": 1,
+   "LatLong": "46.4761,13.8532"
+  },
+  {
+   "Name": "Tržič",
+   "Accuracy": 4,
+   "LatLong": "46.3636,14.3105"
+  },
+  {
+   "Name": "Križe",
+   "Accuracy": 4,
+   "LatLong": "46.3428,14.3014"
+  },
+  {
+   "Name": "Naklo",
+   "Accuracy": 4,
+   "LatLong": "46.2728,14.3172"
+  },
+  {
+   "Name": "Kranj",
+   "Accuracy": 4,
+   "LatLong": "46.2389,14.3556"
+  },
+  {
+   "Name": "Kranj",
+   "Accuracy": 4,
+   "LatLong": "46.2389,14.3556"
+  },
+  {
+   "Name": "Nova Gorica - dostava",
+   "Accuracy": 4,
+   "LatLong": "45.958,13.6469"
+  },
+  {
+   "Name": "Nova Gorica - poštni predali",
+   "LatLong": "45.9431,13.6393"
+  },
+  {
+   "Name": "Deskle",
+   "Accuracy": 4,
+   "LatLong": "46.0531,13.6138"
+  },
+  {
+   "Name": "Kojsko",
+   "Accuracy": 4,
+   "LatLong": "46.0092,13.5797"
+  },
+  {
+   "Name": "Dobrovo v Brdih",
+   "Accuracy": 4,
+   "LatLong": "45.9964,13.5264"
+  },
+  {
+   "Name": "Kanal",
+   "Accuracy": 4,
+   "LatLong": "46.0886,13.6397"
+  },
+  {
+   "Name": "Kal nad Kanalom",
+   "Accuracy": 4,
+   "LatLong": "46.0833,13.7403"
+  },
+  {
+   "Name": "Ročinj",
+   "Accuracy": 4,
+   "LatLong": "46.1128,13.67"
+  },
+  {
+   "Name": "Most na Soči",
+   "Accuracy": 4,
+   "LatLong": "46.1469,13.7389"
+  },
+  {
+   "Name": "Tolmin",
+   "Accuracy": 4,
+   "LatLong": "46.183,13.7332"
+  },
+  {
+   "Name": "Kobarid",
+   "Accuracy": 4,
+   "LatLong": "46.2481,13.5772"
+  },
+  {
+   "Name": "Breginj",
+   "Accuracy": 4,
+   "LatLong": "46.2647,13.4278"
+  },
+  {
+   "Name": "Srpenica",
+   "Accuracy": 4,
+   "LatLong": "46.2917,13.4988"
+  },
+  {
+   "Name": "Bovec",
+   "Accuracy": 4,
+   "LatLong": "46.3375,13.5528"
+  },
+  {
+   "Name": "Log pod Mangartom",
+   "Accuracy": 4,
+   "LatLong": "46.4019,13.5969"
+  },
+  {
+   "Name": "Soča",
+   "Accuracy": 4,
+   "LatLong": "46.3433,13.6564"
+  },
+  {
+   "Name": "Grahovo ob Bači",
+   "Accuracy": 4,
+   "LatLong": "46.1539,13.8619"
+  },
+  {
+   "Name": "Podbrdo",
+   "Accuracy": 4,
+   "LatLong": "46.21,13.9644"
+  },
+  {
+   "Name": "Solkan",
+   "Accuracy": 4,
+   "LatLong": "45.9714,13.6494"
+  },
+  {
+   "Name": "Grgar",
+   "Accuracy": 4,
+   "LatLong": "45.9986,13.6739"
+  },
+  {
+   "Name": "Trnovo pri Gorici",
+   "Accuracy": 4,
+   "LatLong": "45.9742,13.7433"
+  },
+  {
+   "Name": "Čepovan",
+   "Accuracy": 4,
+   "LatLong": "46.0494,13.7969"
+  },
+  {
+   "Name": "Šempas",
+   "Accuracy": 4,
+   "LatLong": "45.9303,13.7436"
+  },
+  {
+   "Name": "Črniče",
+   "Accuracy": 4,
+   "LatLong": "45.9106,13.7767"
+  },
+  {
+   "Name": "Dobravlje",
+   "Accuracy": 4,
+   "LatLong": "45.8839,13.8453"
+  },
+  {
+   "Name": "Ajdovščina",
+   "Accuracy": 4,
+   "LatLong": "45.886,13.9095"
+  },
+  {
+   "Name": "Vipava",
+   "Accuracy": 4,
+   "LatLong": "45.8467,13.9631"
+  },
+  {
+   "Name": "Podnanos",
+   "Accuracy": 4,
+   "LatLong": "45.7969,13.9714"
+  },
+  {
+   "Name": "Col",
+   "Accuracy": 4,
+   "LatLong": "45.8758,14.005"
+  },
+  {
+   "Name": "Črni Vrh nad Idrijo",
+   "Accuracy": 1,
+   "LatLong": "45.8726,13.9885"
+  },
+  {
+   "Name": "Godovič",
+   "Accuracy": 4,
+   "LatLong": "45.9578,14.0936"
+  },
+  {
+   "Name": "Idrija",
+   "Accuracy": 4,
+   "LatLong": "46.0028,14.0306"
+  },
+  {
+   "Name": "Spodnja Idrija",
+   "Accuracy": 4,
+   "LatLong": "46.0319,14.0272"
+  },
+  {
+   "Name": "Cerkno",
+   "Accuracy": 4,
+   "LatLong": "46.1256,13.9817"
+  },
+  {
+   "Name": "Slap ob Idrijci",
+   "Accuracy": 4,
+   "LatLong": "46.1233,13.8047"
+  },
+  {
+   "Name": "Šempeter pri Gorici",
+   "Accuracy": 4,
+   "LatLong": "45.9275,13.6411"
+  },
+  {
+   "Name": "Miren",
+   "Accuracy": 4,
+   "LatLong": "45.8956,13.6075"
+  },
+  {
+   "Name": "Renče",
+   "Accuracy": 4,
+   "LatLong": "45.89,13.6686"
+  },
+  {
+   "Name": "Volčja Draga",
+   "Accuracy": 4,
+   "LatLong": "45.9069,13.6775"
+  },
+  {
+   "Name": "Dornberk",
+   "Accuracy": 4,
+   "LatLong": "45.8897,13.7369"
+  },
+  {
+   "Name": "Branik",
+   "Accuracy": 4,
+   "LatLong": "45.8572,13.7842"
+  },
+  {
+   "Name": "Kostanjevica na Krasu",
+   "Accuracy": 4,
+   "LatLong": "45.845,13.6417"
+  },
+  {
+   "Name": "Prvačina",
+   "Accuracy": 4,
+   "LatLong": "45.89,13.7181"
+  },
+  {
+   "Name": "Nova Gorica",
+   "Accuracy": 4,
+   "LatLong": "45.956,13.6484"
+  },
+  {
+   "Name": "Koper/Capodistria - dostava",
+   "Accuracy": 4,
+   "LatLong": "45.5538,13.7439"
+  },
+  {
+   "Name": "Koper/Capodistria - poštni predali",
+   "LatLong": "45.5472,13.7258"
+  },
+  {
+   "Name": "Sežana",
+   "Accuracy": 4,
+   "LatLong": "45.7092,13.8733"
+  },
+  {
+   "Name": "Divača",
+   "Accuracy": 4,
+   "LatLong": "45.6847,13.9703"
+  },
+  {
+   "Name": "Podgorje",
+   "Accuracy": 4,
+   "LatLong": "45.5292,13.9528"
+  },
+  {
+   "Name": "Vremski Britof",
+   "Accuracy": 4,
+   "LatLong": "45.6571,14.0301"
+  },
+  {
+   "Name": "Lokev",
+   "Accuracy": 4,
+   "LatLong": "45.6611,13.9281"
+  },
+  {
+   "Name": "Dutovlje",
+   "Accuracy": 4,
+   "LatLong": "45.7581,13.8322"
+  },
+  {
+   "Name": "Štanjel",
+   "Accuracy": 4,
+   "LatLong": "45.8233,13.8436"
+  },
+  {
+   "Name": "Komen",
+   "Accuracy": 4,
+   "LatLong": "45.8153,13.7483"
+  },
+  {
+   "Name": "Senožeče",
+   "Accuracy": 4,
+   "LatLong": "45.7211,14.0411"
+  },
+  {
+   "Name": "Hruševje",
+   "Accuracy": 4,
+   "LatLong": "45.7606,14.1064"
+  },
+  {
+   "Name": "Postojna",
+   "Accuracy": 4,
+   "LatLong": "45.7769,14.2167"
+  },
+  {
+   "Name": "Planina",
+   "Accuracy": 4,
+   "LatLong": "45.8339,14.2561"
+  },
+  {
+   "Name": "Kozina",
+   "Accuracy": 4,
+   "LatLong": "45.61,13.9356"
+  },
+  {
+   "Name": "Materija",
+   "Accuracy": 4,
+   "LatLong": "45.5814,13.9967"
+  },
+  {
+   "Name": "Obrov",
+   "Accuracy": 4,
+   "LatLong": "45.5425,14.0869"
+  },
+  {
+   "Name": "Podgrad",
+   "Accuracy": 4,
+   "LatLong": "45.5217,14.1461"
+  },
+  {
+   "Name": "Ilirska Bistrica",
+   "Accuracy": 4,
+   "LatLong": "45.5697,14.2408"
+  },
+  {
+   "Name": "Ilirska Bistrica-Trnovo",
+   "Accuracy": 1,
+   "LatLong": "45.6192,14.2205"
+  },
+  {
+   "Name": "Knežak",
+   "Accuracy": 4,
+   "LatLong": "45.6245,14.2448"
+  },
+  {
+   "Name": "Jelšane",
+   "Accuracy": 4,
+   "LatLong": "45.5028,14.2717"
+  },
+  {
+   "Name": "Prem",
+   "Accuracy": 4,
+   "LatLong": "45.6048,14.1834"
+  },
+  {
+   "Name": "Košana",
+   "Accuracy": 1,
+   "LatLong": "45.6192,14.2205"
+  },
+  {
+   "Name": "Pivka",
+   "Accuracy": 4,
+   "LatLong": "45.6829,14.1959"
+  },
+  {
+   "Name": "Prestranek",
+   "Accuracy": 4,
+   "LatLong": "45.7303,14.1862"
+  },
+  {
+   "Name": "Dekani",
+   "Accuracy": 4,
+   "LatLong": "45.5497,13.8136"
+  },
+  {
+   "Name": "Gračišče",
+   "Accuracy": 4,
+   "LatLong": "45.505,13.8769"
+  },
+  {
+   "Name": "Marezige",
+   "Accuracy": 4,
+   "LatLong": "45.5097,13.8031"
+  },
+  {
+   "Name": "Šmarje",
+   "Accuracy": 4,
+   "LatLong": "45.5014,13.7178"
+  },
+  {
+   "Name": "Črni Kal",
+   "Accuracy": 4,
+   "LatLong": "45.55,13.88"
+  },
+  {
+   "Name": "Pobegi",
+   "Accuracy": 4,
+   "LatLong": "45.5394,13.7961"
+  },
+  {
+   "Name": "Ankaran/Ancarano",
+   "Accuracy": 1,
+   "LatLong": "45.5664,13.7994"
+  },
+  {
+   "Name": "Škofije",
+   "Accuracy": 4,
+   "LatLong": "45.5664,13.7994"
+  },
+  {
+   "Name": "Izola/Isola",
+   "Accuracy": 1,
+   "LatLong": "45.4955,13.6077"
+  },
+  {
+   "Name": "Portorož/Portorose",
+   "Accuracy": 4,
+   "LatLong": "45.5143,13.5921"
+  },
+  {
+   "Name": "Strunjan/Strugnano (sezonska pošta)",
+   "Accuracy": 1,
+   "LatLong": "45.5143,13.5921"
+  },
+  {
+   "Name": "Piran/Pirano",
+   "Accuracy": 1,
+   "LatLong": "45.4767,13.6233"
+  },
+  {
+   "Name": "Sečovlje/Sicciole",
+   "Accuracy": 4,
+   "LatLong": "45.4767,13.6233"
+  },
+  {
+   "Name": "Koper",
+   "Accuracy": 4,
+   "LatLong": "45.5469,13.7294"
+  },
+  {
+   "Name": "Koper",
+   "Accuracy": 4,
+   "LatLong": "45.5469,13.7294"
+  },
+  {
+   "Name": "Koper",
+   "Accuracy": 4,
+   "LatLong": "45.5469,13.7294"
+  },
+  {
+   "Name": "Koper",
+   "Accuracy": 4,
+   "LatLong": "45.5469,13.7294"
+  },
+  {
+   "Name": "Koper",
+   "Accuracy": 4,
+   "LatLong": "45.5469,13.7294"
+  },
+  {
+   "Name": "Koper",
+   "Accuracy": 4,
+   "LatLong": "45.5469,13.7294"
+  },
+  {
+   "Name": "Novo mesto - dostava",
+   "Accuracy": 4,
+   "LatLong": "45.8363,15.1899"
+  },
+  {
+   "Name": "Novo mesto - poštni predali",
+   "LatLong": "45.8296,15.1997"
+  },
+  {
+   "Name": "Trebnje",
+   "Accuracy": 4,
+   "LatLong": "45.9042,15.0217"
+  },
+  {
+   "Name": "Dobrnič",
+   "Accuracy": 4,
+   "LatLong": "45.875,14.98"
+  },
+  {
+   "Name": "Velika Loka",
+   "Accuracy": 4,
+   "LatLong": "45.9289,14.9678"
+  },
+  {
+   "Name": "Veliki Gaber",
+   "Accuracy": 4,
+   "LatLong": "45.9338,14.9071"
+  },
+  {
+   "Name": "Mirna Peč",
+   "Accuracy": 4,
+   "LatLong": "45.8603,15.0833"
+  },
+  {
+   "Name": "Šmarješke Toplice",
+   "Accuracy": 4,
+   "LatLong": "45.8624,15.2219"
+  },
+  {
+   "Name": "Otočec",
+   "Accuracy": 4,
+   "LatLong": "45.8675,15.2733"
+  },
+  {
+   "Name": "Mokronog",
+   "Accuracy": 4,
+   "LatLong": "45.9342,15.1408"
+  },
+  {
+   "Name": "Trebelno",
+   "Accuracy": 4,
+   "LatLong": "45.9167,15.15"
+  },
+  {
+   "Name": "Šentrupert",
+   "Accuracy": 4,
+   "LatLong": "45.9778,15.0956"
+  },
+  {
+   "Name": "Mirna",
+   "Accuracy": 4,
+   "LatLong": "45.9553,15.0619"
+  },
+  {
+   "Name": "Brežice",
+   "Accuracy": 4,
+   "LatLong": "45.9033,15.5911"
+  },
+  {
+   "Name": "Čatež ob Savi",
+   "Accuracy": 4,
+   "LatLong": "45.8894,15.6025"
+  },
+  {
+   "Name": "Artiče",
+   "Accuracy": 4,
+   "LatLong": "45.9539,15.5878"
+  },
+  {
+   "Name": "Globoko",
+   "Accuracy": 4,
+   "LatLong": "45.955,15.6286"
+  },
+  {
+   "Name": "Pišece",
+   "Accuracy": 4,
+   "LatLong": "46.0017,15.6411"
+  },
+  {
+   "Name": "Sromlje",
+   "Accuracy": 4,
+   "LatLong": "45.9833,15.6"
+  },
+  {
+   "Name": "Dobova",
+   "Accuracy": 4,
+   "LatLong": "45.8972,15.6637"
+  },
+  {
+   "Name": "Kapele",
+   "Accuracy": 4,
+   "LatLong": "45.9333,15.6833"
+  },
+  {
+   "Name": "Bizeljsko",
+   "Accuracy": 4,
+   "LatLong": "46.0133,15.6967"
+  },
+  {
+   "Name": "Jesenice na Dolenjskem",
+   "Accuracy": 1,
+   "LatLong": "45.8917,15.5397"
+  },
+  {
+   "Name": "Krška vas",
+   "Accuracy": 4,
+   "LatLong": "45.9,15.5667"
+  },
+  {
+   "Name": "Cerklje ob Krki",
+   "Accuracy": 4,
+   "LatLong": "45.8834,15.5128"
+  },
+  {
+   "Name": "Krško",
+   "Accuracy": 4,
+   "LatLong": "45.9591,15.4917"
+  },
+  {
+   "Name": "Zdole",
+   "Accuracy": 4,
+   "LatLong": "45.9772,15.5458"
+  },
+  {
+   "Name": "Leskovec pri Krškem",
+   "Accuracy": 4,
+   "LatLong": "45.9357,15.4718"
+  },
+  {
+   "Name": "Raka",
+   "Accuracy": 4,
+   "LatLong": "45.9297,15.3842"
+  },
+  {
+   "Name": "Škocjan",
+   "Accuracy": 4,
+   "LatLong": "45.9067,15.2914"
+  },
+  {
+   "Name": "Bučka",
+   "Accuracy": 4,
+   "LatLong": "45.9333,15.3167"
+  },
+  {
+   "Name": "Brestanica",
+   "Accuracy": 4,
+   "LatLong": "45.9953,15.4775"
+  },
+  {
+   "Name": "Senovo",
+   "Accuracy": 4,
+   "LatLong": "46.0236,15.4769"
+  },
+  {
+   "Name": "Koprivnica",
+   "Accuracy": 4,
+   "LatLong": "46.0353,15.5403"
+  },
+  {
+   "Name": "Blanca",
+   "Accuracy": 4,
+   "LatLong": "45.9833,15.4"
+  },
+  {
+   "Name": "Sevnica",
+   "Accuracy": 4,
+   "LatLong": "46.0078,15.3156"
+  },
+  {
+   "Name": "Zabukovje",
+   "Accuracy": 4,
+   "LatLong": "46.055,15.3675"
+  },
+  {
+   "Name": "Studenec",
+   "Accuracy": 4,
+   "LatLong": "45.9667,15.35"
+  },
+  {
+   "Name": "Boštanj",
+   "Accuracy": 4,
+   "LatLong": "46.0144,15.2825"
+  },
+  {
+   "Name": "Tržišče",
+   "Accuracy": 4,
+   "LatLong": "45.9589,15.1972"
+  },
+  {
+   "Name": "Krmelj",
+   "Accuracy": 4,
+   "LatLong": "45.9847,15.1894"
+  },
+  {
+   "Name": "Šentjanž",
+   "Accuracy": 4,
+   "LatLong": "46.0114,15.1672"
+  },
+  {
+   "Name": "Šentjernej",
+   "Accuracy": 4,
+   "LatLong": "45.84,15.3361"
+  },
+  {
+   "Name": "Kostanjevica na Krki",
+   "Accuracy": 4,
+   "LatLong": "45.8461,15.4222"
+  },
+  {
+   "Name": "Podbočje",
+   "Accuracy": 4,
+   "LatLong": "45.8667,15.4667"
+  },
+  {
+   "Name": "Brusnice",
+   "Accuracy": 1,
+   "LatLong": "45.7514,15.1715"
+  },
+  {
+   "Name": "Stopiče",
+   "Accuracy": 4,
+   "LatLong": "45.7694,15.2097"
+  },
+  {
+   "Name": "Uršna sela",
+   "Accuracy": 4,
+   "LatLong": "45.7333,15.1333"
+  },
+  {
+   "Name": "Metlika",
+   "Accuracy": 4,
+   "LatLong": "45.6472,15.3142"
+  },
+  {
+   "Name": "Suhor",
+   "Accuracy": 4,
+   "LatLong": "45.5296,14.8708"
+  },
+  {
+   "Name": "Gradac",
+   "Accuracy": 4,
+   "LatLong": "45.6167,15.25"
+  },
+  {
+   "Name": "Semič",
+   "Accuracy": 4,
+   "LatLong": "45.6461,15.1822"
+  },
+  {
+   "Name": "Črnomelj",
+   "Accuracy": 4,
+   "LatLong": "45.5711,15.1889"
+  },
+  {
+   "Name": "Adlešiči",
+   "Accuracy": 4,
+   "LatLong": "45.5222,15.3065"
+  },
+  {
+   "Name": "Stari trg ob Kolpi",
+   "Accuracy": 4,
+   "LatLong": "45.4936,15.0772"
+  },
+  {
+   "Name": "Dragatuš",
+   "Accuracy": 4,
+   "LatLong": "45.5208,15.1756"
+  },
+  {
+   "Name": "Vinica",
+   "Accuracy": 4,
+   "LatLong": "45.4601,15.254"
+  },
+  {
+   "Name": "Dolenjske Toplice",
+   "Accuracy": 4,
+   "LatLong": "45.7566,15.0592"
+  },
+  {
+   "Name": "Straža",
+   "Accuracy": 4,
+   "LatLong": "45.78,15.0728"
+  },
+  {
+   "Name": "Žužemberk",
+   "Accuracy": 4,
+   "LatLong": "45.8339,14.9292"
+  },
+  {
+   "Name": "Dvor",
+   "Accuracy": 4,
+   "LatLong": "45.8139,14.9711"
+  },
+  {
+   "Name": "Hinje",
+   "Accuracy": 4,
+   "LatLong": "45.7656,14.8822"
+  },
+  {
+   "Name": "Novo mesto",
+   "Accuracy": 4,
+   "LatLong": "45.804,15.1689"
+  },
+  {
+   "Name": "Novo mesto",
+   "Accuracy": 4,
+   "LatLong": "45.804,15.1689"
+  },
+  {
+   "Name": "Murska Sobota - dostava",
+   "Accuracy": 4,
+   "LatLong": "46.6586,16.162"
+  },
+  {
+   "Name": "Murska Sobota - poštni predali",
+   "LatLong": "46.6612,16.1651"
+  },
+  {
+   "Name": "Puconci",
+   "Accuracy": 4,
+   "LatLong": "46.7067,16.1564"
+  },
+  {
+   "Name": "Mačkovci",
+   "Accuracy": 4,
+   "LatLong": "46.7814,16.1689"
+  },
+  {
+   "Name": "Petrovci",
+   "Accuracy": 4,
+   "LatLong": "46.8053,16.2225"
+  },
+  {
+   "Name": "Šalovci",
+   "Accuracy": 4,
+   "LatLong": "46.825,16.2981"
+  },
+  {
+   "Name": "Hodoš/Hodos",
+   "Accuracy": 1,
+   "LatLong": "46.7688,16.2396"
+  },
+  {
+   "Name": "Križevci",
+   "Accuracy": 4,
+   "LatLong": "46.7889,16.2469"
+  },
+  {
+   "Name": "Prosenjakovci/Partosfalva",
+   "Accuracy": 4,
+   "LatLong": "46.7408,16.3175"
+  },
+  {
+   "Name": "Fokovci",
+   "Accuracy": 4,
+   "LatLong": "46.7333,16.2667"
+  },
+  {
+   "Name": "Lendava/Lendva",
+   "Accuracy": 1,
+   "LatLong": "46.655,16.2946"
+  },
+  {
+   "Name": "Martjanci",
+   "Accuracy": 4,
+   "LatLong": "46.6864,16.1978"
+  },
+  {
+   "Name": "Bogojina",
+   "Accuracy": 4,
+   "LatLong": "46.6761,16.2839"
+  },
+  {
+   "Name": "Dobrovnik/Dobronak",
+   "Accuracy": 1,
+   "LatLong": "46.655,16.2946"
+  },
+  {
+   "Name": "Turnišče",
+   "Accuracy": 4,
+   "LatLong": "46.6278,16.3203"
+  },
+  {
+   "Name": "Velika Polana",
+   "Accuracy": 4,
+   "LatLong": "46.5719,16.3469"
+  },
+  {
+   "Name": "Moravske Toplice",
+   "Accuracy": 4,
+   "LatLong": "46.6831,16.2208"
+  },
+  {
+   "Name": "Kobilje",
+   "Accuracy": 4,
+   "LatLong": "46.6847,16.3978"
+  },
+  {
+   "Name": "Beltinci",
+   "Accuracy": 4,
+   "LatLong": "46.6053,16.2406"
+  },
+  {
+   "Name": "Črenšovci",
+   "Accuracy": 4,
+   "LatLong": "46.5744,16.2906"
+  },
+  {
+   "Name": "Odranci",
+   "Accuracy": 4,
+   "LatLong": "46.5867,16.2803"
+  },
+  {
+   "Name": "Ljutomer",
+   "Accuracy": 4,
+   "LatLong": "46.5208,16.1975"
+  },
+  {
+   "Name": "Veržej",
+   "Accuracy": 4,
+   "LatLong": "46.5836,16.1653"
+  },
+  {
+   "Name": "Križevci pri Ljutomeru",
+   "Accuracy": 4,
+   "LatLong": "46.5683,16.1386"
+  },
+  {
+   "Name": "Mala Nedelja",
+   "Accuracy": 4,
+   "LatLong": "46.5289,16.0558"
+  },
+  {
+   "Name": "Sv. Jurij ob Ščavnici",
+   "Accuracy": 1,
+   "LatLong": "46.5594,16.1077"
+  },
+  {
+   "Name": "Spodnji Ivanjci",
+   "Accuracy": 4,
+   "LatLong": "46.5956,15.9814"
+  },
+  {
+   "Name": "Gornja Radgona",
+   "Accuracy": 4,
+   "LatLong": "46.6733,15.9922"
+  },
+  {
+   "Name": "Tišina",
+   "Accuracy": 4,
+   "LatLong": "46.6836,16.0525"
+  },
+  {
+   "Name": "Radenci",
+   "Accuracy": 4,
+   "LatLong": "46.642,16.0378"
+  },
+  {
+   "Name": "Apače",
+   "Accuracy": 4,
+   "LatLong": "46.6972,15.9106"
+  },
+  {
+   "Name": "Cankova",
+   "Accuracy": 4,
+   "LatLong": "46.7208,16.0225"
+  },
+  {
+   "Name": "Rogašovci",
+   "Accuracy": 4,
+   "LatLong": "46.8,16.0333"
+  },
+  {
+   "Name": "Kuzma",
+   "Accuracy": 4,
+   "LatLong": "46.8369,16.0833"
+  },
+  {
+   "Name": "Grad",
+   "Accuracy": 4,
+   "LatLong": "46.8,16.1"
+  },
+  {
+   "Name": "Bodonci",
+   "Accuracy": 4,
+   "LatLong": "46.7442,16.0922"
+  },
+  {
+   "Name": "Murska Sobota",
+   "Accuracy": 4,
+   "LatLong": "46.6625,16.1664"
+  },
+  {
+   "Name": "Radenci",
+   "Accuracy": 4,
+   "LatLong": "46.642,16.0378"
+  },
+  {
+   "Name": "Murska Sobota",
+   "Accuracy": 4,
+   "LatLong": "46.6625,16.1664"
+  }
+ ]
+}

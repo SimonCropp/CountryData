@@ -1,0 +1,640 @@
+{
+ "States": [
+  {
+   "Name": "Martinique",
+   "Code": "MQ",
+   "Provinces": [
+    {
+     "Name": "Martinique",
+     "Code": "972",
+     "Communities": [
+      {
+       "Name": "Arrondissement de Fort-de-France",
+       "Code": "9721",
+       "Places": [
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97200",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97201 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97202 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97203 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97204 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97205 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97206 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97207 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97208 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97209 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97210 CEDEX 2",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Saint-Joseph",
+         "PostCode": "97212",
+         "Accuracy": 5,
+         "LatLong": "14.671,-61.0391"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97219 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97232",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Schoelcher",
+         "PostCode": "97233",
+         "Accuracy": 5,
+         "LatLong": "14.6177,-61.099"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97234",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97241 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97242 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97243 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97244 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97245 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97246 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97247 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97248 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97249 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97251 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97252 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97253 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97254 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97255 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97256 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97257 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97258 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97259 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97261 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97262 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97263 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97264 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97265 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97266 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97267 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97268 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97269 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        },
+        {
+         "Name": "Schoelcher",
+         "PostCode": "97271 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6177,-61.099"
+        },
+        {
+         "Name": "Schoelcher",
+         "PostCode": "97272 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6177,-61.099"
+        },
+        {
+         "Name": "Schoelcher",
+         "PostCode": "97273 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6177,-61.099"
+        },
+        {
+         "Name": "Schoelcher",
+         "PostCode": "97274 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6177,-61.099"
+        },
+        {
+         "Name": "Schoelcher",
+         "PostCode": "97275 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6177,-61.099"
+        },
+        {
+         "Name": "Schoelcher",
+         "PostCode": "97276 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6177,-61.099"
+        },
+        {
+         "Name": "Schoelcher",
+         "PostCode": "97277 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6177,-61.099"
+        },
+        {
+         "Name": "Schoelcher",
+         "PostCode": "97278 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6177,-61.099"
+        },
+        {
+         "Name": "Schoelcher",
+         "PostCode": "97279 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6177,-61.099"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97281 CEDEX 1",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97282 CEDEX 1",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97283 CEDEX 1",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97284 CEDEX 2",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97285 CEDEX 2",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97286 CEDEX 2",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97287 CEDEX 2",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97288 CEDEX 2",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97289 CEDEX 2",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97291 CEDEX 2",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97292 CEDEX 2",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97293 CEDEX 2",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97294 CEDEX 2",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97295 CEDEX 2",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97296 CEDEX 2",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97297 CEDEX 2",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Le Lamentin",
+         "PostCode": "97298 CEDEX 2",
+         "Accuracy": 5,
+         "LatLong": "14.608,-61.0093"
+        },
+        {
+         "Name": "Fort-de-France",
+         "PostCode": "97299 CEDEX",
+         "Accuracy": 5,
+         "LatLong": "14.6089,-61.0733"
+        }
+       ]
+      },
+      {
+       "Name": "Arrondissement du Marin",
+       "Code": "9723",
+       "Places": [
+        {
+         "Name": "Rivière-Pilote",
+         "PostCode": "97211",
+         "Accuracy": 5,
+         "LatLong": "14.4775,-60.9035"
+        },
+        {
+         "Name": "Rivière-Salée",
+         "PostCode": "97215",
+         "Accuracy": 5,
+         "LatLong": "14.5272,-60.9781"
+        },
+        {
+         "Name": "Les Anses-d'Arlet",
+         "PostCode": "97217",
+         "Accuracy": 5,
+         "LatLong": "14.4833,-61.0833"
+        },
+        {
+         "Name": "Le Diamant",
+         "PostCode": "97223",
+         "Accuracy": 5,
+         "LatLong": "14.4795,-61.027"
+        },
+        {
+         "Name": "Ducos",
+         "PostCode": "97224",
+         "Accuracy": 5,
+         "LatLong": "14.5753,-60.9745"
+        },
+        {
+         "Name": "Sainte-Anne",
+         "PostCode": "97227",
+         "Accuracy": 5,
+         "LatLong": "14.4331,-60.8811"
+        },
+        {
+         "Name": "Sainte-Luce",
+         "PostCode": "97228",
+         "Accuracy": 5,
+         "LatLong": "14.4673,-60.9271"
+        },
+        {
+         "Name": "Les Trois-Îlets",
+         "PostCode": "97229",
+         "Accuracy": 5,
+         "LatLong": "14.539,-61.0361"
+        },
+        {
+         "Name": "Le François",
+         "PostCode": "97240",
+         "Accuracy": 5,
+         "LatLong": "14.6156,-60.9031"
+        },
+        {
+         "Name": "Saint-Esprit",
+         "PostCode": "97270",
+         "Accuracy": 5,
+         "LatLong": "14.55,-60.9333"
+        },
+        {
+         "Name": "Le Vauclin",
+         "PostCode": "97280",
+         "Accuracy": 5,
+         "LatLong": "14.5452,-60.8388"
+        },
+        {
+         "Name": "Le Marin",
+         "PostCode": "97290",
+         "Accuracy": 5,
+         "LatLong": "14.4721,-60.8697"
+        }
+       ]
+      },
+      {
+       "Name": "Arrondissement de La Trinité",
+       "Code": "9722",
+       "Places": [
+        {
+         "Name": "Le Gros-Morne",
+         "PostCode": "97213",
+         "Accuracy": 5,
+         "LatLong": "14.7,-61"
+        },
+        {
+         "Name": "Le Lorrain",
+         "PostCode": "97214",
+         "Accuracy": 5,
+         "LatLong": "14.8329,-61.0567"
+        },
+        {
+         "Name": "L'Ajoupa-Bouillon",
+         "PostCode": "97216",
+         "Accuracy": 5,
+         "LatLong": "14.8167,-61.1167"
+        },
+        {
+         "Name": "Macouba",
+         "PostCode": "97218",
+         "Accuracy": 5,
+         "LatLong": "14.8764,-61.142"
+        },
+        {
+         "Name": "Basse-Pointe",
+         "PostCode": "97218",
+         "Accuracy": 5,
+         "LatLong": "14.8695,-61.115"
+        },
+        {
+         "Name": "Grand'Rivière",
+         "PostCode": "97218",
+         "Accuracy": 5,
+         "LatLong": "14.8735,-61.1795"
+        },
+        {
+         "Name": "La Trinité",
+         "PostCode": "97220",
+         "Accuracy": 5,
+         "LatLong": "14.7376,-60.9629"
+        },
+        {
+         "Name": "Le Marigot",
+         "PostCode": "97225",
+         "Accuracy": 5,
+         "LatLong": "14.8225,-61.0313"
+        },
+        {
+         "Name": "Sainte-Marie",
+         "PostCode": "97230",
+         "Accuracy": 5,
+         "LatLong": "14.7839,-60.9927"
+        },
+        {
+         "Name": "Le Robert",
+         "PostCode": "97231",
+         "Accuracy": 5,
+         "LatLong": "14.6775,-60.9423"
+        }
+       ]
+      },
+      {
+       "Name": "Arrondissement de Saint-Pierre",
+       "Code": "9724",
+       "Places": [
+        {
+         "Name": "Le Carbet",
+         "PostCode": "97221",
+         "Accuracy": 5,
+         "LatLong": "14.7103,-61.1824"
+        },
+        {
+         "Name": "Bellefontaine",
+         "PostCode": "97222",
+         "Accuracy": 5,
+         "LatLong": "14.6731,-61.164"
+        },
+        {
+         "Name": "Case-Pilote",
+         "PostCode": "97222",
+         "Accuracy": 5,
+         "LatLong": "14.6428,-61.1385"
+        },
+        {
+         "Name": "Le Morne-Vert",
+         "PostCode": "97226",
+         "Accuracy": 5,
+         "LatLong": "14.707,-61.1462"
+        },
+        {
+         "Name": "Saint-Pierre",
+         "PostCode": "97250",
+         "Accuracy": 5,
+         "LatLong": "14.7438,-61.1753"
+        },
+        {
+         "Name": "Le Prêcheur",
+         "PostCode": "97250",
+         "Accuracy": 5,
+         "LatLong": "14.8017,-61.2247"
+        },
+        {
+         "Name": "Fonds-Saint-Denis",
+         "PostCode": "97250",
+         "Accuracy": 5,
+         "LatLong": "14.7333,-61.1333"
+        },
+        {
+         "Name": "Le Morne-Rouge",
+         "PostCode": "97260",
+         "Accuracy": 5,
+         "LatLong": "14.7667,-61.1333"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
