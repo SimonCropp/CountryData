@@ -22,13 +22,11 @@
         {
          "Name": "Central Alberta (Stettler)",
          "PostCode": "T0C",
-         "Accuracy": 5,
          "LatLong": "52.1431,-111.6941"
         },
         {
          "Name": "Western Alberta (Jasper)",
          "PostCode": "T0E",
-         "Accuracy": 5,
          "LatLong": "53.6758,-115.0948"
         },
         {
@@ -64,7 +62,6 @@
         {
          "Name": "Northeastern Alberta (Fort Chipewyan)",
          "PostCode": "T0P",
-         "Accuracy": 5,
          "LatLong": "58.2626,-110.7467"
         },
         {
@@ -75,55 +72,46 @@
         {
          "Name": "Taber",
          "PostCode": "T1G",
-         "Accuracy": 4,
          "LatLong": "49.787,-112.146"
         },
         {
          "Name": "Banff",
          "PostCode": "T1L",
-         "Accuracy": 4,
          "LatLong": "51.1762,-115.5698"
         },
         {
          "Name": "Coaldale",
          "PostCode": "T1M",
-         "Accuracy": 4,
          "LatLong": "49.7167,-112.6185"
         },
         {
          "Name": "Strathmore",
          "PostCode": "T1P",
-         "Accuracy": 4,
          "LatLong": "51.0501,-113.3852"
         },
         {
          "Name": "Brooks",
          "PostCode": "T1R",
-         "Accuracy": 4,
          "LatLong": "50.5834,-111.8851"
         },
         {
          "Name": "Okotoks",
          "PostCode": "T1S",
-         "Accuracy": 4,
          "LatLong": "50.7362,-113.9695"
         },
         {
          "Name": "High River",
          "PostCode": "T1V",
-         "Accuracy": 4,
          "LatLong": "50.5834,-113.8687"
         },
         {
          "Name": "Canmore",
          "PostCode": "T1W",
-         "Accuracy": 4,
          "LatLong": "51.0876,-115.3461"
         },
         {
          "Name": "Chestermere",
          "PostCode": "T1X",
-         "Accuracy": 4,
          "LatLong": "51.0334,-113.8187"
         },
         {
@@ -134,37 +122,31 @@
         {
          "Name": "Redwood Meadows",
          "PostCode": "T3Z",
-         "Accuracy": 1,
          "LatLong": "51.0691,-114.4727"
         },
         {
          "Name": "Cochrane",
          "PostCode": "T4C",
-         "Accuracy": 4,
          "LatLong": "51.1834,-114.4687"
         },
         {
          "Name": "Innisfail",
          "PostCode": "T4G",
-         "Accuracy": 4,
          "LatLong": "52.0269,-113.9507"
         },
         {
          "Name": "Olds",
          "PostCode": "T4H",
-         "Accuracy": 4,
          "LatLong": "51.7834,-114.102"
         },
         {
          "Name": "Ponoka",
          "PostCode": "T4J",
-         "Accuracy": 4,
          "LatLong": "52.6768,-113.5815"
         },
         {
          "Name": "Lacombe",
          "PostCode": "T4L",
-         "Accuracy": 4,
          "LatLong": "52.4668,-113.7353"
         },
         {
@@ -175,157 +157,131 @@
         {
          "Name": "Sylvan Lake",
          "PostCode": "T4S",
-         "Accuracy": 4,
          "LatLong": "52.3168,-114.0853"
         },
         {
          "Name": "Rocky Mountain House",
          "PostCode": "T4T",
-         "Accuracy": 4,
          "LatLong": "52.3668,-114.9188"
         },
         {
          "Name": "Camrose",
          "PostCode": "T4V",
-         "Accuracy": 4,
          "LatLong": "53.0168,-112.8353"
         },
         {
          "Name": "Beaumont",
          "PostCode": "T4X",
-         "Accuracy": 4,
          "LatLong": "53.3501,-113.4187"
         },
         {
          "Name": "Drayton Valley",
          "PostCode": "T7A",
-         "Accuracy": 4,
          "LatLong": "53.2168,-114.9854"
         },
         {
          "Name": "Edson",
          "PostCode": "T7E",
-         "Accuracy": 4,
          "LatLong": "53.5834,-116.4356"
         },
         {
          "Name": "Barrhead",
          "PostCode": "T7N",
-         "Accuracy": 4,
          "LatLong": "54.1334,-114.4021"
         },
         {
          "Name": "Westlock",
          "PostCode": "T7P",
-         "Accuracy": 4,
          "LatLong": "54.1502,-113.8688"
         },
         {
          "Name": "Whitecourt",
          "PostCode": "T7S",
-         "Accuracy": 4,
          "LatLong": "54.1501,-115.6855"
         },
         {
          "Name": "Hinton",
          "PostCode": "T7V",
-         "Accuracy": 4,
          "LatLong": "53.4001,-117.5857"
         },
         {
          "Name": "Stony Plain",
          "PostCode": "T7Z",
-         "Accuracy": 4,
          "LatLong": "53.5334,-114.0021"
         },
         {
          "Name": "Fort Saskatchewan",
          "PostCode": "T8L",
-         "Accuracy": 4,
          "LatLong": "53.7168,-113.2187"
         },
         {
          "Name": "St. Albert",
          "PostCode": "T8N",
-         "Accuracy": 4,
          "LatLong": "53.6334,-113.6353"
         },
         {
          "Name": "Morinville",
          "PostCode": "T8R",
-         "Accuracy": 4,
          "LatLong": "53.8001,-113.652"
         },
         {
          "Name": "Peace River",
          "PostCode": "T8S",
-         "Accuracy": 4,
          "LatLong": "56.2501,-117.286"
         },
         {
          "Name": "St. Albert",
          "PostCode": "T8T",
-         "Accuracy": 4,
          "LatLong": "53.6867,-113.7102"
         },
         {
          "Name": "Wetaskiwin",
          "PostCode": "T9A",
-         "Accuracy": 4,
          "LatLong": "52.9668,-113.3687"
         },
         {
          "Name": "Vegreville",
          "PostCode": "T9C",
-         "Accuracy": 4,
          "LatLong": "53.5001,-112.0518"
         },
         {
          "Name": "Leduc",
          "PostCode": "T9E",
-         "Accuracy": 4,
          "LatLong": "53.2668,-113.552"
         },
         {
          "Name": "Devon",
          "PostCode": "T9G",
-         "Accuracy": 4,
          "LatLong": "53.3668,-113.7353"
         },
         {
          "Name": "Cold Lake",
          "PostCode": "T9M",
-         "Accuracy": 4,
          "LatLong": "54.4502,-110.2017"
         },
         {
          "Name": "Bonnyville",
          "PostCode": "T9N",
-         "Accuracy": 4,
          "LatLong": "54.2668,-110.7351"
         },
         {
          "Name": "Athabasca",
          "PostCode": "T9S",
-         "Accuracy": 4,
          "LatLong": "54.7169,-113.2854"
         },
         {
          "Name": "Lloydminster",
          "PostCode": "T9V",
-         "Accuracy": 1,
          "LatLong": "53.2717,-110.0853"
         },
         {
          "Name": "Wainwright",
          "PostCode": "T9W",
-         "Accuracy": 4,
          "LatLong": "52.839,-110.8572"
         },
         {
          "Name": "Vermilion",
          "PostCode": "T9X",
-         "Accuracy": 4,
          "LatLong": "53.3669,-110.8517"
         }
        ]
@@ -340,19 +296,16 @@
         {
          "Name": "Medicine Hat Central",
          "PostCode": "T1A",
-         "Accuracy": 1,
          "LatLong": "50.0816,-110.5788"
         },
         {
          "Name": "Medicine Hat South",
          "PostCode": "T1B",
-         "Accuracy": 1,
          "LatLong": "49.835,-110.5203"
         },
         {
          "Name": "Medicine Hat North",
          "PostCode": "T1C",
-         "Accuracy": 4,
          "LatLong": "50.0774,-110.6911"
         }
        ]
@@ -367,19 +320,16 @@
         {
          "Name": "Lethbridge North",
          "PostCode": "T1H",
-         "Accuracy": 4,
          "LatLong": "49.7,-112.8186"
         },
         {
          "Name": "Lethbridge West and Central",
          "PostCode": "T1J",
-         "Accuracy": 1,
          "LatLong": "49.6581,-112.7484"
         },
         {
          "Name": "Lethbridge Southeast",
          "PostCode": "T1K",
-         "Accuracy": 1,
          "LatLong": "49.6511,-112.8351"
         }
        ]
@@ -394,7 +344,6 @@
         {
          "Name": "Calgary (Rundle / Whitehorn / Monterey Park)",
          "PostCode": "T1Y",
-         "Accuracy": 1,
          "LatLong": "51.0823,-113.9578"
         },
         {
@@ -500,85 +449,71 @@
         {
          "Name": "Calgary (Dalhousie / Edgemont / Hamptons / Hidden Valley)",
          "PostCode": "T3A",
-         "Accuracy": 1,
          "LatLong": "51.1264,-114.1419"
         },
         {
          "Name": "Calgary (Montgomery / Bowness / Silver Springs / Greenwood)",
          "PostCode": "T3B",
-         "Accuracy": 1,
          "LatLong": "51.0915,-114.2073"
         },
         {
          "Name": "Calgary (Rosscarrock / Wildwood / Shaganappi / Sunalta)",
          "PostCode": "T3C",
-         "Accuracy": 1,
          "LatLong": "51.0497,-114.1394"
         },
         {
          "Name": "Calgary (Lakeview / Glendale / Killarney / Glamorgan)",
          "PostCode": "T3E",
-         "Accuracy": 1,
          "LatLong": "50.9899,-114.1574"
         },
         {
          "Name": "Calgary (Hawkwood / Arbour Lake / Royal Oak / Rocky Ridge)",
          "PostCode": "T3G",
-         "Accuracy": 1,
          "LatLong": "51.1387,-114.2015"
         },
         {
          "Name": "Calgary (Discovery Ridge / Signal Hill / Aspen Woods / Patterson / Cougar Ridge)",
          "PostCode": "T3H",
-         "Accuracy": 1,
          "LatLong": "51.0419,-114.2"
         },
         {
          "Name": "Calgary (Martindale / Taradale / Falconridge / Saddle Ridge)",
          "PostCode": "T3J",
-         "Accuracy": 1,
          "LatLong": "51.1188,-113.9471"
         },
         {
          "Name": "Calgary (Sandstone / Harvest Hills / Coventry Hills / Panorama Hills / Beddington)",
          "PostCode": "T3K",
-         "Accuracy": 1,
          "LatLong": "51.1563,-114.0572"
         },
         {
          "Name": "Calgary (Tuscany / Scenic Acres)",
          "PostCode": "T3L",
-         "Accuracy": 1,
          "LatLong": "51.1467,-114.3133"
         },
         {
          "Name": "Calgary (Cranston)",
          "PostCode": "T3M",
-         "Accuracy": 1,
          "LatLong": "50.8796,-113.9555"
         },
         {
          "Name": "Calgary Northeast",
          "PostCode": "T3N",
-         "Accuracy": 1,
          "LatLong": "51.1626,-113.9537"
         },
         {
          "Name": "Calgary (Symons Valley)",
          "PostCode": "T3P",
-         "Accuracy": 1,
          "LatLong": "51.2074,-114.1348"
         },
         {
          "Name": "Calgary Northwest",
          "PostCode": "T3R",
-         "Accuracy": 1,
          "LatLong": "51.2021,-114.2453"
         },
         {
          "Name": "Calgary",
          "PostCode": "T3S",
-         "Accuracy": 4,
          "LatLong": "50.9153,-113.8932"
         }
        ]
@@ -593,13 +528,11 @@
         {
          "Name": "Airdrie East",
          "PostCode": "T4A",
-         "Accuracy": 1,
          "LatLong": "51.2799,-113.988"
         },
         {
          "Name": "Airdrie West",
          "PostCode": "T4B",
-         "Accuracy": 1,
          "LatLong": "51.3082,-114.0398"
         }
        ]
@@ -614,25 +547,21 @@
         {
          "Name": "Red Deer County",
          "PostCode": "T4E",
-         "Accuracy": 5,
          "LatLong": "52.2765,-113.7063"
         },
         {
          "Name": "Red Deer Central",
          "PostCode": "T4N",
-         "Accuracy": 1,
          "LatLong": "52.2316,-113.8358"
         },
         {
          "Name": "Red Deer North",
          "PostCode": "T4P",
-         "Accuracy": 1,
          "LatLong": "52.2954,-113.8073"
         },
         {
          "Name": "Red Deer South",
          "PostCode": "T4R",
-         "Accuracy": 1,
          "LatLong": "52.2424,-113.7784"
         }
        ]
@@ -662,7 +591,6 @@
         {
          "Name": "Edmonton (West Londonderry / East Calder)",
          "PostCode": "T5E",
-         "Accuracy": 5,
          "LatLong": "53.7454,-113.4465"
         },
         {
@@ -847,13 +775,11 @@
         {
          "Name": "Spruce Grove North",
          "PostCode": "T7X",
-         "Accuracy": 4,
          "LatLong": "53.5334,-113.9187"
         },
         {
          "Name": "Spruce Grove South",
          "PostCode": "T7Y",
-         "Accuracy": 1,
          "LatLong": "53.4184,-113.8097"
         }
        ]
@@ -868,37 +794,31 @@
         {
          "Name": "Sherwood Park West",
          "PostCode": "T8A",
-         "Accuracy": 1,
          "LatLong": "53.528,-113.2512"
         },
         {
          "Name": "Sherwood Park Outer Southwest",
          "PostCode": "T8B",
-         "Accuracy": 1,
          "LatLong": "53.4397,-113.2952"
         },
         {
          "Name": "Sherwood Park Inner Southwest",
          "PostCode": "T8C",
-         "Accuracy": 1,
          "LatLong": "53.4391,-113.1903"
         },
         {
          "Name": "Sherwood Park Central",
          "PostCode": "T8E",
-         "Accuracy": 1,
          "LatLong": "53.5225,-113.1022"
         },
         {
          "Name": "Sherwood Park East",
          "PostCode": "T8G",
-         "Accuracy": 1,
          "LatLong": "53.5052,-112.9529"
         },
         {
          "Name": "Sherwood Park Northwest",
          "PostCode": "T8H",
-         "Accuracy": 1,
          "LatLong": "53.556,-113.2952"
         }
        ]
@@ -913,19 +833,16 @@
         {
          "Name": "Grande Prairie Central",
          "PostCode": "T8V",
-         "Accuracy": 5,
          "LatLong": "55.1808,-118.9103"
         },
         {
          "Name": "Grande Prairie South",
          "PostCode": "T8W",
-         "Accuracy": 5,
          "LatLong": "55.1303,-118.7946"
         },
         {
          "Name": "Grande Prairie East",
          "PostCode": "T8X",
-         "Accuracy": 1,
          "LatLong": "55.1834,-118.7457"
         }
        ]
@@ -940,19 +857,16 @@
         {
          "Name": "Fort McMurray Outer Central",
          "PostCode": "T9H",
-         "Accuracy": 1,
          "LatLong": "56.664,-111.1357"
         },
         {
          "Name": "Fort McMurray Inner Central",
          "PostCode": "T9J",
-         "Accuracy": 1,
          "LatLong": "56.707,-111.3771"
         },
         {
          "Name": "Fort McMurray Northwest",
          "PostCode": "T9K",
-         "Accuracy": 1,
          "LatLong": "56.7538,-111.435"
         }
        ]
@@ -1039,97 +953,81 @@
         {
          "Name": "Vancouver (Strathcona / Chinatown / Downtown Eastside)",
          "PostCode": "V6A",
-         "Accuracy": 1,
          "LatLong": "49.2779,-123.0908"
         },
         {
          "Name": "Vancouver (NE Downtown / Harbour Centre / Gastown / Yaletown)",
          "PostCode": "V6B",
-         "Accuracy": 1,
          "LatLong": "49.2788,-123.1139"
         },
         {
          "Name": "Vancouver (Waterfront / Coal Harbour / Canada Place)",
          "PostCode": "V6C",
-         "Accuracy": 5,
          "LatLong": "49.2866,-123.1158"
         },
         {
          "Name": "Vancouver (South West End)",
          "PostCode": "V6E",
-         "Accuracy": 1,
          "LatLong": "49.2833,-123.1298"
         },
         {
          "Name": "Vancouver (North West End / Stanley Park)",
          "PostCode": "V6G",
-         "Accuracy": 1,
          "LatLong": "49.299,-123.1408"
         },
         {
          "Name": "Vancouver (West Fairview / Granville Island / NE Shaughnessy)",
          "PostCode": "V6H",
-         "Accuracy": 1,
          "LatLong": "49.2559,-123.1322"
         },
         {
          "Name": "Vancouver (NW Shaughnessy / East Kitsilano / Quilchena)",
          "PostCode": "V6J",
-         "Accuracy": 1,
          "LatLong": "49.2603,-123.146"
         },
         {
          "Name": "Vancouver (Central Kitsilano)",
          "PostCode": "V6K",
-         "Accuracy": 1,
          "LatLong": "49.2646,-123.1648"
         },
         {
          "Name": "Vancouver (NW Arbutus Ridge)",
          "PostCode": "V6L",
-         "Accuracy": 1,
          "LatLong": "49.2497,-123.166"
         },
         {
          "Name": "Vancouver (South Shaughnessy / NW Oakridge / NE Kerrisdale / SE Arbutus Ridge)",
          "PostCode": "V6M",
-         "Accuracy": 1,
          "LatLong": "49.2344,-123.1451"
         },
         {
          "Name": "Vancouver (Dunbar-Southlands / Musqueam)",
          "PostCode": "V6N",
-         "Accuracy": 1,
          "LatLong": "49.2302,-123.189"
         },
         {
          "Name": "Vancouver (SE Kerrisdale / SW Oakridge / West Marpole)",
          "PostCode": "V6P",
-         "Accuracy": 1,
          "LatLong": "49.2151,-123.1396"
         },
         {
          "Name": "Vancouver (West Kitsilano / Jericho)",
          "PostCode": "V6R",
-         "Accuracy": 1,
          "LatLong": "49.2666,-123.1976"
         },
         {
          "Name": "Vancouver (Chaldecutt / South University Endowment Lands)",
          "PostCode": "V6S",
-         "Accuracy": 1,
          "LatLong": "49.2491,-123.2088"
         },
         {
          "Name": "Vancouver (UBC)",
          "PostCode": "V6T",
-         "Accuracy": 1,
          "LatLong": "49.4635,-122.822"
         },
         {
          "Name": "Vancouver (SW Downtown)",
          "PostCode": "V6Z",
-         "Accuracy": 5,
          "LatLong": "49.2767,-123.13"
         },
         {
@@ -1268,13 +1166,11 @@
         {
          "Name": "North Island, Sunshine Coast, and Southern Gulf Islands (Whistler)",
          "PostCode": "V0N",
-         "Accuracy": 5,
          "LatLong": "51.2944,-126.0745"
         },
         {
          "Name": "North Central Island and Bute Inlet Region (Gold River)",
          "PostCode": "V0P",
-         "Accuracy": 5,
          "LatLong": "49.8866,-126.2673"
         },
         {
@@ -1285,13 +1181,11 @@
         {
          "Name": "Juan de Fuca Shore (Sooke)",
          "PostCode": "V0S",
-         "Accuracy": 5,
          "LatLong": "48.5432,-123.672"
         },
         {
          "Name": "Inside Passage and the Queen Charlottes (Queen Charlotte City)",
          "PostCode": "V0T",
-         "Accuracy": 5,
          "LatLong": "52.2338,-126.2134"
         },
         {
@@ -1312,121 +1206,101 @@
         {
          "Name": "Kimberley",
          "PostCode": "V1A",
-         "Accuracy": 4,
          "LatLong": "49.6832,-115.9855"
         },
         {
          "Name": "Cranbrook",
          "PostCode": "V1C",
-         "Accuracy": 4,
          "LatLong": "49.4999,-115.7688"
         },
         {
          "Name": "Salmon Arm",
          "PostCode": "V1E",
-         "Accuracy": 4,
          "LatLong": "50.6998,-119.2691"
         },
         {
          "Name": "Dawson Creek",
          "PostCode": "V1G",
-         "Accuracy": 4,
          "LatLong": "55.7666,-120.2362"
         },
         {
          "Name": "Fort St. John",
          "PostCode": "V1J",
-         "Accuracy": 4,
          "LatLong": "56.2499,-120.8529"
         },
         {
          "Name": "Merritt",
          "PostCode": "V1K",
-         "Accuracy": 4,
          "LatLong": "50.1122,-120.7942"
         },
         {
          "Name": "Nelson",
          "PostCode": "V1L",
-         "Accuracy": 4,
          "LatLong": "49.4999,-117.2855"
         },
         {
          "Name": "Langley Township North",
          "PostCode": "V1M",
-         "Accuracy": 4,
          "LatLong": "49.1661,-122.5792"
         },
         {
          "Name": "Castlegar",
          "PostCode": "V1N",
-         "Accuracy": 4,
          "LatLong": "49.2998,-117.6689"
         },
         {
          "Name": "Trail",
          "PostCode": "V1R",
-         "Accuracy": 4,
          "LatLong": "49.0998,-117.7022"
         },
         {
          "Name": "Kamloops Southwest",
          "PostCode": "V1S",
-         "Accuracy": 1,
          "LatLong": "50.5583,-120.5477"
         },
         {
          "Name": "Penticton",
          "PostCode": "V2A",
-         "Accuracy": 4,
          "LatLong": "49.4806,-119.5858"
         },
         {
          "Name": "Williams Lake",
          "PostCode": "V2G",
-         "Accuracy": 4,
          "LatLong": "52.1415,-122.1445"
         },
         {
          "Name": "Quesnel",
          "PostCode": "V2J",
-         "Accuracy": 4,
          "LatLong": "52.9784,-122.4931"
         },
         {
          "Name": "Mission East",
          "PostCode": "V2V",
-         "Accuracy": 1,
          "LatLong": "49.6463,-122.5047"
         },
         {
          "Name": "Langley City",
          "PostCode": "V3A",
-         "Accuracy": 4,
          "LatLong": "49.0997,-122.6526"
         },
         {
          "Name": "Abbotsford East",
          "PostCode": "V3G",
-         "Accuracy": 1,
          "LatLong": "49.0754,-122.178"
         },
         {
          "Name": "Port Moody",
          "PostCode": "V3H",
-         "Accuracy": 4,
          "LatLong": "49.3231,-122.8626"
         },
         {
          "Name": "Burnaby (East Big Bend / Stride Avenue / Edmonds / Cariboo-Armstrong)",
          "PostCode": "V3N",
-         "Accuracy": 1,
          "LatLong": "49.2275,-122.9301"
         },
         {
          "Name": "Pitt Meadows",
          "PostCode": "V3Y",
-         "Accuracy": 4,
          "LatLong": "49.2212,-122.6896"
         },
         {
@@ -1437,169 +1311,141 @@
         {
          "Name": "White Rock",
          "PostCode": "V4B",
-         "Accuracy": 4,
          "LatLong": "49.0259,-122.8058"
         },
         {
          "Name": "Maple Ridge Northwest",
          "PostCode": "V4R",
-         "Accuracy": 1,
          "LatLong": "49.2903,-122.5169"
         },
         {
          "Name": "Mission West",
          "PostCode": "V4S",
-         "Accuracy": 1,
          "LatLong": "49.2528,-122.3574"
         },
         {
          "Name": "Westbank",
          "PostCode": "V4T",
-         "Accuracy": 1,
          "LatLong": "49.866,-119.7387"
         },
         {
          "Name": "Winfield",
          "PostCode": "V4V",
-         "Accuracy": 4,
          "LatLong": "50.0221,-119.4054"
         },
         {
          "Name": "Langley Township East",
          "PostCode": "V4W",
-         "Accuracy": 1,
          "LatLong": "49.0713,-122.4977"
         },
         {
          "Name": "Abbotsford West",
          "PostCode": "V4X",
-         "Accuracy": 1,
          "LatLong": "49.0861,-122.4026"
         },
         {
          "Name": "Chilliwack East",
          "PostCode": "V4Z",
-         "Accuracy": 1,
          "LatLong": "49.0787,-121.6098"
         },
         {
          "Name": "Powell River",
          "PostCode": "V8A",
-         "Accuracy": 4,
          "LatLong": "50.0163,-124.3226"
         },
         {
          "Name": "Squamish",
          "PostCode": "V8B",
-         "Accuracy": 4,
          "LatLong": "49.7002,-123.156"
         },
         {
          "Name": "Kitimat",
          "PostCode": "V8C",
-         "Accuracy": 4,
          "LatLong": "54.0524,-128.6534"
         },
         {
          "Name": "Terrace",
          "PostCode": "V8G",
-         "Accuracy": 4,
          "LatLong": "54.5163,-128.6035"
         },
         {
          "Name": "Prince Rupert",
          "PostCode": "V8J",
-         "Accuracy": 4,
          "LatLong": "54.3161,-130.3201"
         },
         {
          "Name": "Saltspring Island",
          "PostCode": "V8K",
-         "Accuracy": 1,
          "LatLong": "48.8138,-123.4973"
         },
         {
          "Name": "Sidney",
          "PostCode": "V8L",
-         "Accuracy": 4,
          "LatLong": "48.6496,-123.4026"
         },
         {
          "Name": "Central Saanich",
          "PostCode": "V8M",
-         "Accuracy": 4,
          "LatLong": "48.5663,-123.4193"
         },
         {
          "Name": "Esquimalt",
          "PostCode": "V9A",
-         "Accuracy": 4,
          "LatLong": "48.4496,-123.4193"
         },
         {
          "Name": "Highlands",
          "PostCode": "V9B",
-         "Accuracy": 4,
          "LatLong": "48.4793,-123.5271"
         },
         {
          "Name": "Metchosin",
          "PostCode": "V9C",
-         "Accuracy": 4,
          "LatLong": "48.3829,-123.5359"
         },
         {
          "Name": "Saanich West",
          "PostCode": "V9E",
-         "Accuracy": 1,
          "LatLong": "48.5219,-123.453"
         },
         {
          "Name": "Ladysmith",
          "PostCode": "V9G",
-         "Accuracy": 4,
          "LatLong": "48.9829,-123.8194"
         },
         {
          "Name": "Qualicum Beach",
          "PostCode": "V9K",
-         "Accuracy": 4,
          "LatLong": "49.3468,-124.4361"
         },
         {
          "Name": "Duncan",
          "PostCode": "V9L",
-         "Accuracy": 4,
          "LatLong": "48.7829,-123.7027"
         },
         {
          "Name": "Comox",
          "PostCode": "V9M",
-         "Accuracy": 4,
          "LatLong": "49.6829,-124.9361"
         },
         {
          "Name": "Parksville",
          "PostCode": "V9P",
-         "Accuracy": 4,
          "LatLong": "49.3163,-124.3194"
         },
         {
          "Name": "Cedar",
          "PostCode": "V9X",
-         "Accuracy": 1,
          "LatLong": "49.0419,-123.979"
         },
         {
          "Name": "Port Alberni",
          "PostCode": "V9Y",
-         "Accuracy": 4,
          "LatLong": "49.2413,-124.8028"
         },
         {
          "Name": "Sooke",
          "PostCode": "V9Z",
-         "Accuracy": 4,
          "LatLong": "48.3746,-123.7276"
         }
        ]
@@ -1614,19 +1460,16 @@
         {
          "Name": "Vernon East",
          "PostCode": "V1B",
-         "Accuracy": 1,
          "LatLong": "50.084,-118.938"
         },
         {
          "Name": "Vernon West",
          "PostCode": "V1H",
-         "Accuracy": 1,
          "LatLong": "50.2868,-119.4975"
         },
         {
          "Name": "Vernon Central",
          "PostCode": "V1T",
-         "Accuracy": 1,
          "LatLong": "50.2604,-119.2774"
         }
        ]
@@ -1641,37 +1484,31 @@
         {
          "Name": "Kelowna East",
          "PostCode": "V1P",
-         "Accuracy": 1,
          "LatLong": "49.8959,-119.1724"
         },
         {
          "Name": "Kelowna North",
          "PostCode": "V1V",
-         "Accuracy": 1,
          "LatLong": "49.9497,-119.4339"
         },
         {
          "Name": "Kelowna Southwest",
          "PostCode": "V1W",
-         "Accuracy": 1,
          "LatLong": "49.812,-119.5076"
         },
         {
          "Name": "Kelowna East Central",
          "PostCode": "V1X",
-         "Accuracy": 1,
          "LatLong": "50.0528,-119.2858"
         },
         {
          "Name": "Kelowna Central",
          "PostCode": "V1Y",
-         "Accuracy": 1,
          "LatLong": "49.8928,-119.4852"
         },
         {
          "Name": "Kelowna West",
          "PostCode": "V1Z",
-         "Accuracy": 4,
          "LatLong": "49.8625,-119.5833"
         }
        ]
@@ -1686,25 +1523,21 @@
         {
          "Name": "Kamloops Northwest",
          "PostCode": "V2B",
-         "Accuracy": 5,
          "LatLong": "50.8869,-120.7357"
         },
         {
          "Name": "Kamloops Central and Southeast",
          "PostCode": "V2C",
-         "Accuracy": 1,
          "LatLong": "50.5437,-120.0937"
         },
         {
          "Name": "Kamloops South and West",
          "PostCode": "V2E",
-         "Accuracy": 5,
          "LatLong": "50.6736,-120.4212"
         },
         {
          "Name": "Kamloops North",
          "PostCode": "V2H",
-         "Accuracy": 1,
          "LatLong": "50.7262,-120.1659"
         }
        ]
@@ -1719,25 +1552,21 @@
         {
          "Name": "Prince George North",
          "PostCode": "V2K",
-         "Accuracy": 4,
          "LatLong": "54.0508,-122.9221"
         },
         {
          "Name": "Prince George East Central",
          "PostCode": "V2L",
-         "Accuracy": 1,
          "LatLong": "53.9078,-122.7473"
         },
         {
          "Name": "Prince George West Central",
          "PostCode": "V2M",
-         "Accuracy": 1,
          "LatLong": "53.9127,-122.8708"
         },
         {
          "Name": "Prince George South",
          "PostCode": "V2N",
-         "Accuracy": 1,
          "LatLong": "53.6408,-122.954"
         }
        ]
@@ -1752,13 +1581,11 @@
         {
          "Name": "Chilliwack Central",
          "PostCode": "V2P",
-         "Accuracy": 1,
          "LatLong": "49.1838,-121.9046"
         },
         {
          "Name": "Chilliwack West",
          "PostCode": "V2R",
-         "Accuracy": 1,
          "LatLong": "49.076,-121.9883"
         }
        ]
@@ -1773,13 +1600,11 @@
         {
          "Name": "Abbotsford Southeast",
          "PostCode": "V2S",
-         "Accuracy": 1,
          "LatLong": "49.0423,-122.2835"
         },
         {
          "Name": "Abbotsford Southwest",
          "PostCode": "V2T",
-         "Accuracy": 1,
          "LatLong": "49.0384,-122.3485"
         }
        ]
@@ -1794,13 +1619,11 @@
         {
          "Name": "Maple Ridge East",
          "PostCode": "V2W",
-         "Accuracy": 1,
          "LatLong": "49.2068,-122.4851"
         },
         {
          "Name": "Maple Ridge West",
          "PostCode": "V2X",
-         "Accuracy": 1,
          "LatLong": "49.2196,-122.6164"
         }
        ]
@@ -1815,13 +1638,11 @@
         {
          "Name": "Langley Township Northwest",
          "PostCode": "V2Y",
-         "Accuracy": 1,
          "LatLong": "49.1285,-122.6236"
         },
         {
          "Name": "Langley Township Southwest",
          "PostCode": "V2Z",
-         "Accuracy": 1,
          "LatLong": "49.0483,-122.5997"
         }
        ]
@@ -1836,19 +1657,16 @@
         {
          "Name": "Port Coquitlam Central",
          "PostCode": "V3B",
-         "Accuracy": 1,
          "LatLong": "49.274,-122.7649"
         },
         {
          "Name": "Port Coquitlam South",
          "PostCode": "V3C",
-         "Accuracy": 1,
          "LatLong": "49.2436,-122.7865"
         },
         {
          "Name": "Port Coquitlam North",
          "PostCode": "V3E",
-         "Accuracy": 4,
          "LatLong": "49.3167,-122.7384"
         }
        ]
@@ -1863,13 +1681,11 @@
         {
          "Name": "Coquitlam North",
          "PostCode": "V3J",
-         "Accuracy": 1,
          "LatLong": "49.265,-122.8716"
         },
         {
          "Name": "Coquitlam South",
          "PostCode": "V3K",
-         "Accuracy": 1,
          "LatLong": "49.2366,-122.8521"
         }
        ]
@@ -1884,13 +1700,11 @@
         {
          "Name": "New Westminster Northeast",
          "PostCode": "V3L",
-         "Accuracy": 1,
          "LatLong": "49.2201,-122.8998"
         },
         {
          "Name": "New Westminster Southwest (Includes Annacis Island)",
          "PostCode": "V3M",
-         "Accuracy": 1,
          "LatLong": "49.1886,-122.9384"
         }
        ]
@@ -1905,55 +1719,46 @@
         {
          "Name": "Surrey North",
          "PostCode": "V3R",
-         "Accuracy": 4,
          "LatLong": "49.1948,-122.8131"
         },
         {
          "Name": "Surrey East",
          "PostCode": "V3S",
-         "Accuracy": 1,
          "LatLong": "49.0791,-122.7553"
         },
         {
          "Name": "Surrey Inner Northwest",
          "PostCode": "V3T",
-         "Accuracy": 1,
          "LatLong": "49.1894,-122.8454"
         },
         {
          "Name": "Surrey Outer Northwest",
          "PostCode": "V3V",
-         "Accuracy": 1,
          "LatLong": "49.1889,-122.873"
         },
         {
          "Name": "Surrey Upper West",
          "PostCode": "V3W",
-         "Accuracy": 1,
          "LatLong": "49.141,-122.8569"
         },
         {
          "Name": "Surrey Lower West",
          "PostCode": "V3X",
-         "Accuracy": 1,
          "LatLong": "49.1067,-122.8576"
         },
         {
          "Name": "Surrey Southwest",
          "PostCode": "V4A",
-         "Accuracy": 1,
          "LatLong": "49.0374,-122.8299"
         },
         {
          "Name": "Surrey Northeast",
          "PostCode": "V4N",
-         "Accuracy": 1,
          "LatLong": "49.1707,-122.7326"
         },
         {
          "Name": "Surrey South",
          "PostCode": "V4P",
-         "Accuracy": 1,
          "LatLong": "49.0561,-122.8302"
         }
        ]
@@ -1968,37 +1773,31 @@
         {
          "Name": "Delta Northeast",
          "PostCode": "V4C",
-         "Accuracy": 1,
          "LatLong": "49.1551,-122.9124"
         },
         {
          "Name": "Delta East",
          "PostCode": "V4E",
-         "Accuracy": 1,
          "LatLong": "49.1197,-122.9056"
         },
         {
          "Name": "Delta East Central",
          "PostCode": "V4G",
-         "Accuracy": 5,
          "LatLong": "49.1464,-123.0137"
         },
         {
          "Name": "Delta Central",
          "PostCode": "V4K",
-         "Accuracy": 1,
          "LatLong": "49.0986,-123.0318"
         },
         {
          "Name": "Delta Southeast",
          "PostCode": "V4L",
-         "Accuracy": 5,
          "LatLong": "49.0418,-123.0591"
         },
         {
          "Name": "Delta Southwest",
          "PostCode": "V4M",
-         "Accuracy": 1,
          "LatLong": "49.0331,-123.0877"
         }
        ]
@@ -2057,25 +1856,21 @@
         {
          "Name": "Richmond Northeast",
          "PostCode": "V6V",
-         "Accuracy": 1,
          "LatLong": "49.1853,-123.0386"
         },
         {
          "Name": "Richmond Southeast",
          "PostCode": "V6W",
-         "Accuracy": 1,
          "LatLong": "49.1534,-123.048"
         },
         {
          "Name": "Richmond North",
          "PostCode": "V6X",
-         "Accuracy": 4,
          "LatLong": "49.1836,-123.1168"
         },
         {
          "Name": "Richmond Central",
          "PostCode": "V6Y",
-         "Accuracy": 1,
          "LatLong": "49.17,-123.1368"
         },
         {
@@ -2110,31 +1905,26 @@
         {
          "Name": "Saanich East",
          "PostCode": "V8N",
-         "Accuracy": 1,
          "LatLong": "48.4765,-123.3145"
         },
         {
          "Name": "Saanich Southeast",
          "PostCode": "V8P",
-         "Accuracy": 1,
          "LatLong": "48.4583,-123.3325"
         },
         {
          "Name": "Saanich South",
          "PostCode": "V8X",
-         "Accuracy": 1,
          "LatLong": "48.4777,-123.3658"
         },
         {
          "Name": "Saanich North",
          "PostCode": "V8Y",
-         "Accuracy": 1,
          "LatLong": "48.5247,-123.3745"
         },
         {
          "Name": "Saanich Central",
          "PostCode": "V8Z",
-         "Accuracy": 4,
          "LatLong": "48.4993,-123.4003"
         }
        ]
@@ -2149,13 +1939,11 @@
         {
          "Name": "Oak Bay North",
          "PostCode": "V8R",
-         "Accuracy": 4,
          "LatLong": "48.4496,-123.3026"
         },
         {
          "Name": "Oak Bay South",
          "PostCode": "V8S",
-         "Accuracy": 1,
          "LatLong": "48.42,-123.3047"
         }
        ]
@@ -2170,19 +1958,16 @@
         {
          "Name": "Victoria North",
          "PostCode": "V8T",
-         "Accuracy": 4,
          "LatLong": "48.4392,-123.3566"
         },
         {
          "Name": "Victoria South",
          "PostCode": "V8V",
-         "Accuracy": 1,
          "LatLong": "48.4167,-123.365"
         },
         {
          "Name": "Victoria Central British Columbia Provincial Government",
          "PostCode": "V8W",
-         "Accuracy": 1,
          "LatLong": "48.4267,-123.3655"
         }
        ]
@@ -2197,13 +1982,11 @@
         {
          "Name": "Campbell River Outskirts",
          "PostCode": "V9H",
-         "Accuracy": 1,
          "LatLong": "49.9088,-125.5862"
         },
         {
          "Name": "Campbell River Central",
          "PostCode": "V9W",
-         "Accuracy": 1,
          "LatLong": "50.0769,-125.5909"
         }
        ]
@@ -2218,13 +2001,11 @@
         {
          "Name": "Courtenay Northern Outskirts",
          "PostCode": "V9J",
-         "Accuracy": 1,
          "LatLong": "49.7242,-125.2604"
         },
         {
          "Name": "Courtenay Central",
          "PostCode": "V9N",
-         "Accuracy": 1,
          "LatLong": "49.6585,-124.9835"
         }
        ]
@@ -2239,25 +2020,21 @@
         {
          "Name": "Nanaimo South",
          "PostCode": "V9R",
-         "Accuracy": 1,
          "LatLong": "49.1609,-123.9825"
         },
         {
          "Name": "Nanaimo Central",
          "PostCode": "V9S",
-         "Accuracy": 1,
          "LatLong": "49.1886,-123.963"
         },
         {
          "Name": "Nanaimo North",
          "PostCode": "V9T",
-         "Accuracy": 4,
          "LatLong": "49.2146,-124.02"
         },
         {
          "Name": "Nanaimo Northwest",
          "PostCode": "V9V",
-         "Accuracy": 1,
          "LatLong": "49.2391,-124.0227"
         }
        ]
@@ -2317,13 +2094,11 @@
         {
          "Name": "Selkirk",
          "PostCode": "R1A",
-         "Accuracy": 4,
          "LatLong": "50.1436,-96.8845"
         },
         {
          "Name": "Lockport",
          "PostCode": "R1B",
-         "Accuracy": 1,
          "LatLong": "50.084,-96.9353"
         },
         {
@@ -2334,7 +2109,6 @@
         {
          "Name": "Portage la Prairie",
          "PostCode": "R1N",
-         "Accuracy": 4,
          "LatLong": "49.9728,-98.2926"
         },
         {
@@ -2365,55 +2139,46 @@
         {
          "Name": "St. Adolphe",
          "PostCode": "R5A",
-         "Accuracy": 1,
          "LatLong": "49.712,-97.0836"
         },
         {
          "Name": "Steinbach",
          "PostCode": "R5G",
-         "Accuracy": 4,
          "LatLong": "49.5258,-96.6845"
         },
         {
          "Name": "Ste. Anne",
          "PostCode": "R5H",
-         "Accuracy": 4,
          "LatLong": "49.6697,-96.65"
         },
         {
          "Name": "Morden",
          "PostCode": "R6M",
-         "Accuracy": 4,
          "LatLong": "49.1919,-98.1014"
         },
         {
          "Name": "Winkler",
          "PostCode": "R6W",
-         "Accuracy": 4,
          "LatLong": "49.1817,-97.941"
         },
         {
          "Name": "Dauphin",
          "PostCode": "R7N",
-         "Accuracy": 4,
          "LatLong": "51.1494,-100.0502"
         },
         {
          "Name": "Flin Flon",
          "PostCode": "R8A",
-         "Accuracy": 4,
          "LatLong": "54.7682,-101.865"
         },
         {
          "Name": "Thompson",
          "PostCode": "R8N",
-         "Accuracy": 4,
          "LatLong": "55.7435,-97.8558"
         },
         {
          "Name": "The Pas",
          "PostCode": "R9A",
-         "Accuracy": 4,
          "LatLong": "53.704,-101.2933"
         }
        ]
@@ -2640,19 +2405,16 @@
         {
          "Name": "Brandon Southeast",
          "PostCode": "R7A",
-         "Accuracy": 1,
          "LatLong": "49.8174,-99.9565"
         },
         {
          "Name": "Brandon Southwest",
          "PostCode": "R7B",
-         "Accuracy": 1,
          "LatLong": "49.842,-99.9831"
         },
         {
          "Name": "Brandon North",
          "PostCode": "R7C",
-         "Accuracy": 1,
          "LatLong": "49.8817,-99.965"
         }
        ]
@@ -2672,541 +2434,451 @@
         {
          "Name": "Dieppe Moncton East",
          "PostCode": "E1A",
-         "Accuracy": 1,
          "LatLong": "46.0967,-64.7087"
         },
         {
          "Name": "Riverview",
          "PostCode": "E1B",
-         "Accuracy": 4,
          "LatLong": "46.0545,-64.816"
         },
         {
          "Name": "Lakeville, Shediac Bridge",
          "PostCode": "E1H",
-         "Accuracy": 1,
          "LatLong": "46.1732,-64.6957"
         },
         {
          "Name": "Coverdale",
          "PostCode": "E1J",
-         "Accuracy": 1,
          "LatLong": "45.9976,-64.8483"
         },
         {
          "Name": "Caraquet",
          "PostCode": "E1W",
-         "Accuracy": 4,
          "LatLong": "47.7941,-64.9386"
         },
         {
          "Name": "Tracadie-Sheila",
          "PostCode": "E1X",
-         "Accuracy": 4,
          "LatLong": "47.5144,-64.9181"
         },
         {
          "Name": "Bathurst",
          "PostCode": "E2A",
-         "Accuracy": 4,
          "LatLong": "47.6181,-65.6511"
         },
         {
          "Name": "Rothesay, Quispamsis",
          "PostCode": "E2E",
-         "Accuracy": 1,
          "LatLong": "45.4137,-65.982"
         },
         {
          "Name": "Quispamsis",
          "PostCode": "E2G",
-         "Accuracy": 4,
          "LatLong": "45.4534,-65.931"
         },
         {
          "Name": "Oromocto",
          "PostCode": "E2V",
-         "Accuracy": 4,
          "LatLong": "45.8351,-66.4792"
         },
         {
          "Name": "Kingsclear",
          "PostCode": "E3E",
-         "Accuracy": 4,
          "LatLong": "45.8834,-66.9156"
         },
         {
          "Name": "Fredericton",
          "PostCode": "E3G",
-         "Accuracy": 4,
          "LatLong": "46.0546,-66.7344"
         },
         {
          "Name": "St. Stephen",
          "PostCode": "E3L",
-         "Accuracy": 4,
          "LatLong": "45.1804,-67.2953"
         },
         {
          "Name": "Campbellton",
          "PostCode": "E3N",
-         "Accuracy": 4,
          "LatLong": "48.0075,-66.6727"
         },
         {
          "Name": "Edmundston",
          "PostCode": "E3V",
-         "Accuracy": 4,
          "LatLong": "47.3737,-68.3251"
         },
         {
          "Name": "Bathurst",
          "PostCode": "E4A",
-         "Accuracy": 4,
          "LatLong": "46.1599,-65.8102"
         },
         {
          "Name": "Minto",
          "PostCode": "E4B",
-         "Accuracy": 4,
          "LatLong": "46.0848,-66.0622"
         },
         {
          "Name": "Youngs Cove",
          "PostCode": "E4C",
-         "Accuracy": 1,
          "LatLong": "45.8693,-65.9006"
         },
         {
          "Name": "Sussex",
          "PostCode": "E4E",
-         "Accuracy": 4,
          "LatLong": "45.7227,-65.5066"
         },
         {
          "Name": "Smiths Creek",
          "PostCode": "E4G",
-         "Accuracy": 1,
          "LatLong": "45.8552,-65.4795"
         },
         {
          "Name": "Hillsborough",
          "PostCode": "E4H",
-         "Accuracy": 4,
          "LatLong": "45.9199,-64.6552"
         },
         {
          "Name": "Salisbury",
          "PostCode": "E4J",
-         "Accuracy": 4,
          "LatLong": "46.0391,-65.0463"
         },
         {
          "Name": "Dorchester",
          "PostCode": "E4K",
-         "Accuracy": 4,
          "LatLong": "45.9016,-64.508"
         },
         {
          "Name": "Sackville",
          "PostCode": "E4L",
-         "Accuracy": 4,
          "LatLong": "45.9188,-64.3845"
         },
         {
          "Name": "Bayfield",
          "PostCode": "E4M",
-         "Accuracy": 1,
          "LatLong": "46.0919,-64.0173"
         },
         {
          "Name": "Cap-Pelé",
          "PostCode": "E4N",
-         "Accuracy": 4,
          "LatLong": "46.2129,-64.2784"
         },
         {
          "Name": "Shediac",
          "PostCode": "E4P",
-         "Accuracy": 4,
          "LatLong": "46.2198,-64.5411"
         },
         {
          "Name": "Cocagne",
          "PostCode": "E4R",
-         "Accuracy": 1,
          "LatLong": "46.3324,-64.6187"
         },
         {
          "Name": "Bouctouche",
          "PostCode": "E4S",
-         "Accuracy": 4,
          "LatLong": "46.4684,-64.739"
         },
         {
          "Name": "Bass River",
          "PostCode": "E4T",
-         "Accuracy": 1,
          "LatLong": "46.3042,-64.972"
         },
         {
          "Name": "Saint-Antoine",
          "PostCode": "E4V",
-         "Accuracy": 4,
          "LatLong": "46.3629,-64.7499"
         },
         {
          "Name": "Richibucto",
          "PostCode": "E4W",
-         "Accuracy": 4,
          "LatLong": "46.6807,-64.8804"
         },
         {
          "Name": "St-Louis-de-Kent",
          "PostCode": "E4X",
-         "Accuracy": 4,
          "LatLong": "46.7401,-64.9698"
         },
         {
          "Name": "Rogersville",
          "PostCode": "E4Y",
-         "Accuracy": 4,
          "LatLong": "46.7345,-65.427"
         },
         {
          "Name": "Petitcodiac",
          "PostCode": "E4Z",
-         "Accuracy": 4,
          "LatLong": "45.9394,-65.1802"
         },
         {
          "Name": "Moores Mills",
          "PostCode": "E5A",
-         "Accuracy": 1,
          "LatLong": "45.3705,-67.1737"
         },
         {
          "Name": "St. Andrews",
          "PostCode": "E5B",
-         "Accuracy": 4,
          "LatLong": "45.0845,-67.0617"
         },
         {
          "Name": "St. George",
          "PostCode": "E5C",
-         "Accuracy": 4,
          "LatLong": "45.1265,-66.8314"
         },
         {
          "Name": "Campobello Island",
          "PostCode": "E5E",
-         "Accuracy": 1,
          "LatLong": "44.8908,-66.9318"
         },
         {
          "Name": "Pennfield",
          "PostCode": "E5H",
-         "Accuracy": 4,
          "LatLong": "45.1168,-66.6822"
         },
         {
          "Name": "Lepreau",
          "PostCode": "E5J",
-         "Accuracy": 1,
          "LatLong": "45.1979,-66.4308"
         },
         {
          "Name": "Fredericton Junction",
          "PostCode": "E5L",
-         "Accuracy": 4,
          "LatLong": "45.6604,-66.6139"
         },
         {
          "Name": "Gagetown",
          "PostCode": "E5M",
-         "Accuracy": 4,
          "LatLong": "45.7701,-66.1617"
         },
         {
          "Name": "Hampton",
          "PostCode": "E5N",
-         "Accuracy": 4,
          "LatLong": "45.5288,-65.8535"
         },
         {
          "Name": "Apohaqui",
          "PostCode": "E5P",
-         "Accuracy": 1,
          "LatLong": "45.7599,-65.6704"
         },
         {
          "Name": "St. Martins",
          "PostCode": "E5R",
-         "Accuracy": 4,
          "LatLong": "45.351,-65.5457"
         },
         {
          "Name": "Kingston",
          "PostCode": "E5S",
-         "Accuracy": 1,
          "LatLong": "45.4098,-66.0932"
         },
         {
          "Name": "Norton",
          "PostCode": "E5T",
-         "Accuracy": 4,
          "LatLong": "45.6508,-65.7302"
         },
         {
          "Name": "Deer Island",
          "PostCode": "E5V",
-         "Accuracy": 1,
          "LatLong": "44.9862,-66.9694"
         },
         {
          "Name": "Boiestown",
          "PostCode": "E6A",
-         "Accuracy": 4,
          "LatLong": "46.4558,-66.4198"
         },
         {
          "Name": "Stanley",
          "PostCode": "E6B",
-         "Accuracy": 1,
          "LatLong": "46.3381,-66.9058"
         },
         {
          "Name": "Durham Bridge",
          "PostCode": "E6C",
-         "Accuracy": 4,
          "LatLong": "46.1168,-66.5989"
         },
         {
          "Name": "Millville",
          "PostCode": "E6E",
-         "Accuracy": 4,
          "LatLong": "46.1307,-67.1962"
         },
         {
          "Name": "Nackawic",
          "PostCode": "E6G",
-         "Accuracy": 4,
          "LatLong": "45.9967,-67.2403"
         },
         {
          "Name": "Canterbury",
          "PostCode": "E6H",
-         "Accuracy": 4,
          "LatLong": "45.8954,-67.4678"
         },
         {
          "Name": "McAdam",
          "PostCode": "E6J",
-         "Accuracy": 4,
          "LatLong": "45.5923,-67.307"
         },
         {
          "Name": "Harvey",
          "PostCode": "E6K",
-         "Accuracy": 4,
          "LatLong": "45.729,-67.0064"
         },
         {
          "Name": "Burtts Corner",
          "PostCode": "E6L",
-         "Accuracy": 1,
          "LatLong": "45.9881,-67.0338"
         },
         {
          "Name": "Baker Brook",
          "PostCode": "E7A",
-         "Accuracy": 1,
          "LatLong": "47.3,-68.7487"
         },
         {
          "Name": "Saint-Jacques",
          "PostCode": "E7B",
-         "Accuracy": 1,
          "LatLong": "47.5655,-68.3127"
         },
         {
          "Name": "Saint-Basile",
          "PostCode": "E7C",
-         "Accuracy": 1,
          "LatLong": "47.6583,-68.0684"
         },
         {
          "Name": "Saint-Leonard",
          "PostCode": "E7E",
-         "Accuracy": 4,
          "LatLong": "47.173,-67.9247"
         },
         {
          "Name": "Plaster Rock",
          "PostCode": "E7G",
-         "Accuracy": 4,
          "LatLong": "46.9065,-67.39"
         },
         {
          "Name": "Perth-Andover",
          "PostCode": "E7H",
-         "Accuracy": 4,
          "LatLong": "46.7355,-67.7039"
         },
         {
          "Name": "Bath",
          "PostCode": "E7J",
-         "Accuracy": 1,
          "LatLong": "46.5807,-67.5911"
         },
         {
          "Name": "Centreville",
          "PostCode": "E7K",
-         "Accuracy": 1,
          "LatLong": "46.3982,-67.7174"
         },
         {
          "Name": "Florenceville",
          "PostCode": "E7L",
-         "Accuracy": 1,
          "LatLong": "46.5528,-67.305"
         },
         {
          "Name": "Woodstock",
          "PostCode": "E7M",
-         "Accuracy": 4,
          "LatLong": "46.158,-67.5838"
         },
         {
          "Name": "Debec",
          "PostCode": "E7N",
-         "Accuracy": 1,
          "LatLong": "46.0555,-67.5839"
         },
         {
          "Name": "Hartland",
          "PostCode": "E7P",
-         "Accuracy": 4,
          "LatLong": "46.2999,-67.5167"
         },
         {
          "Name": "Saint-Quentin",
          "PostCode": "E8A",
-         "Accuracy": 4,
          "LatLong": "47.5133,-67.3929"
         },
         {
          "Name": "Kedgwick",
          "PostCode": "E8B",
-         "Accuracy": 4,
          "LatLong": "47.6446,-67.3434"
         },
         {
          "Name": "Dalhousie",
          "PostCode": "E8C",
-         "Accuracy": 4,
          "LatLong": "48.055,-66.3847"
         },
         {
          "Name": "Balmoral",
          "PostCode": "E8E",
-         "Accuracy": 1,
          "LatLong": "47.679,-66.4342"
         },
         {
          "Name": "Belledune",
          "PostCode": "E8G",
-         "Accuracy": 1,
          "LatLong": "47.8023,-66.1243"
         },
         {
          "Name": "Petit-Rocher",
          "PostCode": "E8J",
-         "Accuracy": 1,
          "LatLong": "47.7941,-65.8219"
         },
         {
          "Name": "Beresford",
          "PostCode": "E8K",
-         "Accuracy": 4,
          "LatLong": "47.6913,-65.6989"
         },
         {
          "Name": "Allardville",
          "PostCode": "E8L",
-         "Accuracy": 4,
          "LatLong": "47.475,-65.495"
         },
         {
          "Name": "Saint-Isidore",
          "PostCode": "E8M",
-         "Accuracy": 4,
          "LatLong": "47.5765,-65.1379"
         },
         {
          "Name": "Grande-Anse",
          "PostCode": "E8N",
-         "Accuracy": 4,
          "LatLong": "47.8078,-65.1945"
         },
         {
          "Name": "Inkerman",
          "PostCode": "E8P",
-         "Accuracy": 4,
          "LatLong": "47.6672,-64.8248"
         },
         {
          "Name": "Paquetville",
          "PostCode": "E8R",
-         "Accuracy": 1,
          "LatLong": "47.6383,-65.1709"
         },
         {
          "Name": "Shippagan",
          "PostCode": "E8S",
-         "Accuracy": 5,
          "LatLong": "47.7287,-64.7247"
         },
         {
          "Name": "Lamèque",
          "PostCode": "E8T",
-         "Accuracy": 4,
          "LatLong": "47.7936,-64.6475"
         },
         {
          "Name": "Baie-Sainte-Anne",
          "PostCode": "E9A",
-         "Accuracy": 1,
          "LatLong": "47.0188,-64.92"
         },
         {
          "Name": "Blackville",
          "PostCode": "E9B",
-         "Accuracy": 4,
          "LatLong": "46.7398,-65.8319"
         },
         {
          "Name": "Doaktown",
          "PostCode": "E9C",
-         "Accuracy": 4,
          "LatLong": "46.557,-66.1257"
         },
         {
          "Name": "Red Bank",
          "PostCode": "E9E",
-         "Accuracy": 1,
          "LatLong": "46.8486,-65.6772"
         },
         {
          "Name": "Neguac",
          "PostCode": "E9G",
-         "Accuracy": 4,
          "LatLong": "47.2489,-65.0741"
         },
         {
          "Name": "Brantville",
          "PostCode": "E9H",
-         "Accuracy": 1,
          "LatLong": "47.3528,-65.0538"
         }
        ]
@@ -3221,19 +2893,16 @@
         {
          "Name": "Moncton Central",
          "PostCode": "E1C",
-         "Accuracy": 1,
          "LatLong": "46.0987,-64.8036"
         },
         {
          "Name": "Moncton West",
          "PostCode": "E1E",
-         "Accuracy": 1,
          "LatLong": "46.0771,-64.8529"
         },
         {
          "Name": "Moncton Northwest",
          "PostCode": "E1G",
-         "Accuracy": 1,
          "LatLong": "46.1797,-64.9484"
         }
        ]
@@ -3248,13 +2917,11 @@
         {
          "Name": "Miramichi South",
          "PostCode": "E1N",
-         "Accuracy": 1,
          "LatLong": "46.9501,-65.3239"
         },
         {
          "Name": "Miramichi North",
          "PostCode": "E1V",
-         "Accuracy": 4,
          "LatLong": "47.1942,-65.9381"
         }
        ]
@@ -3269,55 +2936,46 @@
         {
          "Name": "Saint John Northeast, Renforth",
          "PostCode": "E2H",
-         "Accuracy": 1,
          "LatLong": "45.35,-66.0101"
         },
         {
          "Name": "Saint John East",
          "PostCode": "E2J",
-         "Accuracy": 1,
          "LatLong": "45.2563,-65.9432"
         },
         {
          "Name": "Saint John North",
          "PostCode": "E2K",
-         "Accuracy": 4,
          "LatLong": "45.3053,-66.0808"
         },
         {
          "Name": "Saint John Central",
          "PostCode": "E2L",
-         "Accuracy": 1,
          "LatLong": "45.2717,-66.0584"
         },
         {
          "Name": "Saint John West",
          "PostCode": "E2M",
-         "Accuracy": 1,
          "LatLong": "45.2347,-66.1749"
         },
         {
          "Name": "Saint John Lakewood",
          "PostCode": "E2N",
-         "Accuracy": 1,
          "LatLong": "45.3176,-65.9271"
         },
         {
          "Name": "Saint John Red Head",
          "PostCode": "E2P",
-         "Accuracy": 1,
          "LatLong": "45.2426,-65.9847"
         },
         {
          "Name": "Saint John Grandview",
          "PostCode": "E2R",
-         "Accuracy": 1,
          "LatLong": "46.0368,-66.0373"
         },
         {
          "Name": "Saint John Loch Lomond",
          "PostCode": "E2S",
-         "Accuracy": 1,
          "LatLong": "45.3371,-65.8133"
         }
        ]
@@ -3332,19 +2990,16 @@
         {
          "Name": "Fredericton North",
          "PostCode": "E3A",
-         "Accuracy": 1,
          "LatLong": "46.0401,-66.3862"
         },
         {
          "Name": "Fredericton South New Brunswick Provincial Government",
          "PostCode": "E3B",
-         "Accuracy": 1,
          "LatLong": "45.8119,-66.6763"
         },
         {
          "Name": "Fredericton Southwest, New Maryland",
          "PostCode": "E3C",
-         "Accuracy": 1,
          "LatLong": "45.902,-66.7057"
         }
        ]
@@ -3359,13 +3014,11 @@
         {
          "Name": "Grand Falls Northeast",
          "PostCode": "E3Y",
-         "Accuracy": 1,
          "LatLong": "47.1683,-67.6207"
         },
         {
          "Name": "Grand Falls Central",
          "PostCode": "E3Z",
-         "Accuracy": 1,
          "LatLong": "46.9266,-67.7466"
         }
        ]
@@ -3380,13 +3033,11 @@
         {
          "Name": "Grand Manan Island",
          "PostCode": "E5G",
-         "Accuracy": 1,
          "LatLong": "44.6976,-66.8065"
         },
         {
          "Name": "Grand Bay-Westfield",
          "PostCode": "E5K",
-         "Accuracy": 4,
          "LatLong": "45.3407,-66.2528"
         }
        ]
@@ -3431,13 +3082,11 @@
         {
          "Name": "Northern Newfoundland (Springdale)",
          "PostCode": "A0J",
-         "Accuracy": 5,
          "LatLong": "49.5067,-56.2616"
         },
         {
          "Name": "Northwest Newfoundland/Eastern Labrador (Mary's Harbour)",
          "PostCode": "A0K",
-         "Accuracy": 5,
          "LatLong": "52.7359,-57.9825"
         },
         {
@@ -3463,97 +3112,81 @@
         {
          "Name": "Torbay",
          "PostCode": "A1K",
-         "Accuracy": 4,
          "LatLong": "47.6666,-52.7313"
         },
         {
          "Name": "Paradise",
          "PostCode": "A1L",
-         "Accuracy": 4,
          "LatLong": "47.5291,-52.8814"
         },
         {
          "Name": "Portugal Cove-St. Philips",
          "PostCode": "A1M",
-         "Accuracy": 1,
          "LatLong": "47.6207,-52.8318"
         },
         {
          "Name": "Mount Pearl",
          "PostCode": "A1N",
-         "Accuracy": 4,
          "LatLong": "47.5194,-52.8122"
         },
         {
          "Name": "Goulds",
          "PostCode": "A1S",
-         "Accuracy": 1,
          "LatLong": "47.4212,-52.8077"
         },
         {
          "Name": "Gander",
          "PostCode": "A1V",
-         "Accuracy": 4,
          "LatLong": "48.9682,-54.5906"
         },
         {
          "Name": "Manuels",
          "PostCode": "A1W",
-         "Accuracy": 1,
          "LatLong": "47.5096,-52.9447"
         },
         {
          "Name": "Conception Bay",
          "PostCode": "A1X",
-         "Accuracy": 4,
          "LatLong": "47.4999,-52.9981"
         },
         {
          "Name": "Carbonear",
          "PostCode": "A1Y",
-         "Accuracy": 4,
          "LatLong": "47.7113,-53.2953"
         },
         {
          "Name": "Grand Falls",
          "PostCode": "A2A",
-         "Accuracy": 4,
          "LatLong": "48.9332,-55.6649"
         },
         {
          "Name": "Windsor",
          "PostCode": "A2B",
-         "Accuracy": 4,
          "LatLong": "48.9499,-55.6649"
         },
         {
          "Name": "Corner Brook",
          "PostCode": "A2H",
-         "Accuracy": 4,
          "LatLong": "48.9156,-57.797"
         },
         {
          "Name": "Stephenville",
          "PostCode": "A2N",
-         "Accuracy": 4,
          "LatLong": "48.55,-58.5818"
         },
         {
          "Name": "Labrador City",
          "PostCode": "A2V",
-         "Accuracy": 1,
          "LatLong": "52.9517,-66.9328"
         },
         {
          "Name": "Clarenville",
          "PostCode": "A5A",
-         "Accuracy": 4,
          "LatLong": "48.1666,-53.9648"
         },
         {
          "Name": "Deer Lake",
          "PostCode": "A8A",
-         "Accuracy": 4,
          "LatLong": "49.1667,-57.4316"
         }
        ]
@@ -3587,37 +3220,31 @@
         {
          "Name": "St. John's North",
          "PostCode": "A1A",
-         "Accuracy": 5,
          "LatLong": "47.5986,-52.6926"
         },
         {
          "Name": "St. John's Northwest Newfoundland & Labrador Provincial Government",
          "PostCode": "A1B",
-         "Accuracy": 1,
          "LatLong": "47.5698,-52.7796"
         },
         {
          "Name": "St. John's North Central",
          "PostCode": "A1C",
-         "Accuracy": 1,
          "LatLong": "47.5124,-52.6729"
         },
         {
          "Name": "St. John's Central",
          "PostCode": "A1E",
-         "Accuracy": 1,
          "LatLong": "47.5334,-52.7595"
         },
         {
          "Name": "St. John's South",
          "PostCode": "A1G",
-         "Accuracy": 1,
          "LatLong": "47.506,-52.7603"
         },
         {
          "Name": "St. John's Southwest",
          "PostCode": "A1H",
-         "Accuracy": 1,
          "LatLong": "47.483,-52.8415"
         }
        ]
@@ -3652,7 +3279,6 @@
         {
          "Name": "Mainland east shore (Lunenburg)",
          "PostCode": "B0J",
-         "Accuracy": 5,
          "LatLong": "44.9419,-62.6471"
         },
         {
@@ -3698,7 +3324,6 @@
         {
          "Name": "Digby Neck (Digby)",
          "PostCode": "B0V",
-         "Accuracy": 5,
          "LatLong": "44.5342,-65.7783"
         },
         {
@@ -3709,217 +3334,181 @@
         {
          "Name": "Glace Bay",
          "PostCode": "B1A",
-         "Accuracy": 4,
          "LatLong": "46.197,-59.957"
         },
         {
          "Name": "Port Morien",
          "PostCode": "B1B",
-         "Accuracy": 4,
          "LatLong": "46.1174,-59.9144"
         },
         {
          "Name": "Louisbourg",
          "PostCode": "B1C",
-         "Accuracy": 4,
          "LatLong": "45.9485,-59.9737"
         },
         {
          "Name": "Reserve Mines",
          "PostCode": "B1E",
-         "Accuracy": 1,
          "LatLong": "46.1845,-60.0166"
         },
         {
          "Name": "Dominion",
          "PostCode": "B1G",
-         "Accuracy": 4,
          "LatLong": "46.2168,-60.0151"
         },
         {
          "Name": "New Waterford",
          "PostCode": "B1H",
-         "Accuracy": 4,
          "LatLong": "46.2501,-60.0817"
         },
         {
          "Name": "East Bay",
          "PostCode": "B1J",
-         "Accuracy": 4,
          "LatLong": "45.9834,-60.3652"
         },
         {
          "Name": "Marion Bridge",
          "PostCode": "B1K",
-         "Accuracy": 4,
          "LatLong": "45.9668,-60.2318"
         },
         {
          "Name": "Christmas Island",
          "PostCode": "B1T",
-         "Accuracy": 4,
          "LatLong": "45.9668,-60.7152"
         },
         {
          "Name": "North Sydney North",
          "PostCode": "B1V",
-         "Accuracy": 1,
          "LatLong": "46.2437,-60.2313"
         },
         {
          "Name": "Eskasoni",
          "PostCode": "B1W",
-         "Accuracy": 4,
          "LatLong": "45.9328,-60.6438"
         },
         {
          "Name": "Big Bras d'Or",
          "PostCode": "B1X",
-         "Accuracy": 5,
          "LatLong": "46.2904,-60.47"
         },
         {
          "Name": "Alder Point",
          "PostCode": "B1Y",
-         "Accuracy": 5,
          "LatLong": "46.2538,-60.3566"
         },
         {
          "Name": "North Sydney South Central",
          "PostCode": "B2A",
-         "Accuracy": 1,
          "LatLong": "46.1169,-60.3769"
         },
         {
          "Name": "Iona",
          "PostCode": "B2C",
-         "Accuracy": 4,
          "LatLong": "45.9948,-60.8421"
         },
         {
          "Name": "Loch Lomond",
          "PostCode": "B2E",
-         "Accuracy": 4,
          "LatLong": "45.7501,-60.6152"
         },
         {
          "Name": "Antigonish",
          "PostCode": "B2G",
-         "Accuracy": 4,
          "LatLong": "45.6168,-61.9986"
         },
         {
          "Name": "New Glasgow",
          "PostCode": "B2H",
-         "Accuracy": 4,
          "LatLong": "45.5834,-62.6486"
         },
         {
          "Name": "Fourchu",
          "PostCode": "B2J",
-         "Accuracy": 4,
          "LatLong": "45.707,-60.4665"
         },
         {
          "Name": "Truro",
          "PostCode": "B2N",
-         "Accuracy": 4,
          "LatLong": "45.3668,-63.2654"
         },
         {
          "Name": "Waverley",
          "PostCode": "B2R",
-         "Accuracy": 1,
          "LatLong": "44.7599,-63.5525"
         },
         {
          "Name": "Lantz",
          "PostCode": "B2S",
-         "Accuracy": 1,
          "LatLong": "45.0209,-63.5344"
         },
         {
          "Name": "Enfield",
          "PostCode": "B2T",
-         "Accuracy": 1,
          "LatLong": "44.8749,-63.4689"
         },
         {
          "Name": "Porters Lake",
          "PostCode": "B3E",
-         "Accuracy": 1,
          "LatLong": "44.7722,-63.3361"
         },
         {
          "Name": "Eastern Passage",
          "PostCode": "B3G",
-         "Accuracy": 4,
          "LatLong": "44.6169,-63.482"
         },
         {
          "Name": "Lakeside",
          "PostCode": "B3T",
-         "Accuracy": 1,
          "LatLong": "44.5683,-63.7306"
         },
         {
          "Name": "Harrietsfield",
          "PostCode": "B3V",
-         "Accuracy": 1,
          "LatLong": "44.5199,-63.6064"
         },
         {
          "Name": "Tantallon",
          "PostCode": "B3Z",
-         "Accuracy": 1,
          "LatLong": "44.6386,-63.8687"
         },
         {
          "Name": "Amherst",
          "PostCode": "B4H",
-         "Accuracy": 4,
          "LatLong": "45.8335,-64.1987"
         },
         {
          "Name": "Kentville",
          "PostCode": "B4N",
-         "Accuracy": 4,
          "LatLong": "45.0834,-64.4988"
         },
         {
          "Name": "Wolfville",
          "PostCode": "B4P",
-         "Accuracy": 4,
          "LatLong": "45.0834,-64.3655"
         },
         {
          "Name": "Coldbrook",
          "PostCode": "B4R",
-         "Accuracy": 4,
          "LatLong": "45.0668,-64.5821"
         },
         {
          "Name": "Bridgewater",
          "PostCode": "B4V",
-         "Accuracy": 4,
          "LatLong": "44.3835,-64.5155"
         },
         {
          "Name": "Yarmouth",
          "PostCode": "B5A",
-         "Accuracy": 4,
          "LatLong": "43.8335,-66.1156"
         },
         {
          "Name": "Truro",
          "PostCode": "B6L",
-         "Accuracy": 4,
          "LatLong": "45.4093,-63.2114"
         },
         {
          "Name": "Port Hawkesbury",
          "PostCode": "B9A",
-         "Accuracy": 4,
          "LatLong": "45.6168,-61.3485"
         }
        ]
@@ -3934,37 +3523,31 @@
         {
          "Name": "Sydney Southwest",
          "PostCode": "B1L",
-         "Accuracy": 1,
          "LatLong": "46.0627,-60.2045"
         },
         {
          "Name": "Sydney East",
          "PostCode": "B1M",
-         "Accuracy": 1,
          "LatLong": "46.127,-60.0696"
         },
         {
          "Name": "Sydney North",
          "PostCode": "B1N",
-         "Accuracy": 1,
          "LatLong": "46.1975,-60.1559"
         },
         {
          "Name": "Sydney North Central",
          "PostCode": "B1P",
-         "Accuracy": 5,
          "LatLong": "46.1341,-60.1749"
         },
         {
          "Name": "Sydney West",
          "PostCode": "B1R",
-         "Accuracy": 5,
          "LatLong": "46.1284,-60.2915"
         },
         {
          "Name": "Sydney Central",
          "PostCode": "B1S",
-         "Accuracy": 1,
          "LatLong": "46.1109,-60.2092"
         }
        ]
@@ -3979,43 +3562,36 @@
         {
          "Name": "Dartmouth Morris Lake",
          "PostCode": "B2V",
-         "Accuracy": 1,
          "LatLong": "44.6529,-63.4777"
         },
         {
          "Name": "Dartmouth East Central",
          "PostCode": "B2W",
-         "Accuracy": 1,
          "LatLong": "44.6752,-63.5077"
         },
         {
          "Name": "Dartmouth North Central",
          "PostCode": "B2X",
-         "Accuracy": 1,
          "LatLong": "44.702,-63.533"
         },
         {
          "Name": "Dartmouth South Central",
          "PostCode": "B2Y",
-         "Accuracy": 5,
          "LatLong": "44.6645,-63.5453"
         },
         {
          "Name": "Dartmouth East",
          "PostCode": "B2Z",
-         "Accuracy": 1,
          "LatLong": "44.7227,-63.4223"
         },
         {
          "Name": "Dartmouth Southwest",
          "PostCode": "B3A",
-         "Accuracy": 1,
          "LatLong": "44.6819,-63.5768"
         },
         {
          "Name": "Dartmouth Northwest",
          "PostCode": "B3B",
-         "Accuracy": 1,
          "LatLong": "44.7091,-63.5869"
         }
        ]
@@ -4030,55 +3606,46 @@
         {
          "Name": "Halifax Lower Harbour",
          "PostCode": "B3H",
-         "Accuracy": 1,
          "LatLong": "44.6344,-63.5822"
         },
         {
          "Name": "Halifax Mid-Harbour Nova Scotia Provincial Government",
          "PostCode": "B3J",
-         "Accuracy": 1,
          "LatLong": "44.6451,-63.5762"
         },
         {
          "Name": "Halifax Upper Harbour",
          "PostCode": "B3K",
-         "Accuracy": 1,
          "LatLong": "44.662,-63.6017"
         },
         {
          "Name": "Halifax Central",
          "PostCode": "B3L",
-         "Accuracy": 1,
          "LatLong": "44.6508,-63.6146"
         },
         {
          "Name": "Halifax Bedford Basin",
          "PostCode": "B3M",
-         "Accuracy": 1,
          "LatLong": "44.6784,-63.6582"
         },
         {
          "Name": "Halifax South Central",
          "PostCode": "B3N",
-         "Accuracy": 1,
          "LatLong": "44.631,-63.6405"
         },
         {
          "Name": "Halifax North West Arm",
          "PostCode": "B3P",
-         "Accuracy": 1,
          "LatLong": "44.6139,-63.5946"
         },
         {
          "Name": "Halifax South",
          "PostCode": "B3R",
-         "Accuracy": 1,
          "LatLong": "44.5939,-63.6031"
         },
         {
          "Name": "Halifax West",
          "PostCode": "B3S",
-         "Accuracy": 1,
          "LatLong": "44.6533,-63.6675"
         }
        ]
@@ -4093,13 +3660,11 @@
         {
          "Name": "Bedford Southeast",
          "PostCode": "B4A",
-         "Accuracy": 1,
          "LatLong": "44.7232,-63.656"
         },
         {
          "Name": "Bedford Northwest",
          "PostCode": "B4B",
-         "Accuracy": 1,
          "LatLong": "44.7509,-63.7711"
         }
        ]
@@ -4114,19 +3679,16 @@
         {
          "Name": "Lower Sackville South",
          "PostCode": "B4C",
-         "Accuracy": 1,
          "LatLong": "44.7607,-63.637"
         },
         {
          "Name": "Lower Sackville West",
          "PostCode": "B4E",
-         "Accuracy": 1,
          "LatLong": "44.8163,-63.7387"
         },
         {
          "Name": "Lower Sackville North",
          "PostCode": "B4G",
-         "Accuracy": 1,
          "LatLong": "44.8814,-63.6798"
         }
        ]
@@ -4156,7 +3718,6 @@
         {
          "Name": "Yellowknife",
          "PostCode": "X1A",
-         "Accuracy": 4,
          "LatLong": "62.456,-114.3525"
         }
        ]
@@ -4176,13 +3737,11 @@
         {
          "Name": "Outer Nunavut (Iqaluit)",
          "PostCode": "X0A",
-         "Accuracy": 5,
          "LatLong": "79.6218,-76.7765"
         },
         {
          "Name": "Central Nunavut (Cambridge Bay)",
          "PostCode": "X0B",
-         "Accuracy": 5,
          "LatLong": "70.9072,-106.9604"
         },
         {
@@ -4224,31 +3783,26 @@
         {
          "Name": "Brantford Northeast",
          "PostCode": "N3P",
-         "Accuracy": 1,
          "LatLong": "43.1818,-80.2367"
         },
         {
          "Name": "Brantford Central",
          "PostCode": "N3R",
-         "Accuracy": 1,
          "LatLong": "43.1692,-80.2684"
         },
         {
          "Name": "Brantford Southeast",
          "PostCode": "N3S",
-         "Accuracy": 1,
          "LatLong": "43.1394,-80.2357"
         },
         {
          "Name": "Brantford Southwest",
          "PostCode": "N3T",
-         "Accuracy": 5,
          "LatLong": "43.131,-80.3254"
         },
         {
          "Name": "Brantford Northwest",
          "PostCode": "N3V",
-         "Accuracy": 1,
          "LatLong": "43.1734,-80.298"
         }
        ]
@@ -4294,7 +3848,6 @@
         {
          "Name": "Halton Regional Municipality (Campbellville)",
          "PostCode": "L0P",
-         "Accuracy": 5,
          "LatLong": "43.4906,-79.9998"
         },
         {
@@ -4350,7 +3903,6 @@
         {
          "Name": "Hamilton (Stinson / Corktown)",
          "PostCode": "L8N",
-         "Accuracy": 5,
          "LatLong": "43.4017,-80.017"
         },
         {
@@ -4386,19 +3938,16 @@
         {
          "Name": "Hamilton (Crerar / Bruleville / Hill Park / Inch Park / Centremount / Balfour / Greeningdon / Jerome)",
          "PostCode": "L9A",
-         "Accuracy": 1,
          "LatLong": "43.2271,-79.871"
         },
         {
          "Name": "Hamilton (Barnstown / West Chappel / Allison / Ryckmans / Mewburn / Sheldon / Falkirk / Carpenter / Kennedy / Southwest Outskirts)",
          "PostCode": "L9B",
-         "Accuracy": 1,
          "LatLong": "43.2055,-79.9004"
         },
         {
          "Name": "Hamilton (Southam / Bonnington / Yeoville / Kernighan / Gourley / Rolston / Buchanan / Mohawk / Westcliffe / Gilbert / Gilkson / Gurnett / Fessenden / Mountview)",
          "PostCode": "L9C",
-         "Accuracy": 1,
          "LatLong": "43.2313,-79.9049"
         }
        ]
@@ -4444,7 +3993,6 @@
         {
          "Name": "Downsview East (CFB Toronto)",
          "PostCode": "M3K",
-         "Accuracy": 1,
          "LatLong": "43.739,-79.4692"
         },
         {
@@ -4535,7 +4083,6 @@
         {
          "Name": "Downtown Toronto (Berczy Park)",
          "PostCode": "M5E",
-         "Accuracy": 5,
          "LatLong": "43.6456,-79.3754"
         },
         {
@@ -4551,7 +4098,6 @@
         {
          "Name": "Downtown Toronto (Harbourfront East / Union Station / Toronto Island)",
          "PostCode": "M5J",
-         "Accuracy": 5,
          "LatLong": "43.623,-79.3936"
         },
         {
@@ -4727,25 +4273,21 @@
         {
          "Name": "Ottawa (Highland Park / Carlingwood)",
          "PostCode": "K2A",
-         "Accuracy": 1,
          "LatLong": "45.3805,-75.7636"
         },
         {
          "Name": "Ottawa (Britannia / Pinecrest)",
          "PostCode": "K2B",
-         "Accuracy": 1,
          "LatLong": "45.3645,-75.7934"
         },
         {
          "Name": "Ottawa (Queensway / Copeland / Carlington / Carleton Heights)",
          "PostCode": "K2C",
-         "Accuracy": 5,
          "LatLong": "45.3679,-75.7381"
         },
         {
          "Name": "Ottawa (Centre Town)",
          "PostCode": "K2P",
-         "Accuracy": 1,
          "LatLong": "45.4166,-75.6904"
         }
        ]
@@ -4759,7 +4301,6 @@
         {
          "Name": "National Capital Region (Almonte)",
          "PostCode": "K0A",
-         "Accuracy": 5,
          "LatLong": "45.2557,-76.2754"
         },
         {
@@ -4775,13 +4316,11 @@
         {
          "Name": "South Leeds and Grenville United Counties (Prescott)",
          "PostCode": "K0E",
-         "Accuracy": 5,
          "LatLong": "44.8734,-75.4416"
         },
         {
          "Name": "Rideau Lakes area (Kemptville)",
          "PostCode": "K0G",
-         "Accuracy": 5,
          "LatLong": "45.0466,-76.4757"
         },
         {
@@ -4802,139 +4341,116 @@
         {
          "Name": "Stittsville",
          "PostCode": "K2S",
-         "Accuracy": 4,
          "LatLong": "45.2501,-75.9161"
         },
         {
          "Name": "Orleans (Fallingbrook)",
          "PostCode": "K4A",
-         "Accuracy": 1,
          "LatLong": "45.4697,-75.4715"
         },
         {
          "Name": "Cumberland Township",
          "PostCode": "K4B",
-         "Accuracy": 1,
          "LatLong": "45.4101,-75.3638"
         },
         {
          "Name": "Cumberland",
          "PostCode": "K4C",
-         "Accuracy": 1,
          "LatLong": "45.498,-75.3916"
         },
         {
          "Name": "Rockland",
          "PostCode": "K4K",
-         "Accuracy": 4,
          "LatLong": "45.5501,-75.291"
         },
         {
          "Name": "Manotick",
          "PostCode": "K4M",
-         "Accuracy": 1,
          "LatLong": "45.2154,-75.6528"
         },
         {
          "Name": "Greely",
          "PostCode": "K4P",
-         "Accuracy": 1,
          "LatLong": "45.2434,-75.5674"
         },
         {
          "Name": "Russell",
          "PostCode": "K4R",
-         "Accuracy": 1,
          "LatLong": "45.2388,-75.3527"
         },
         {
          "Name": "Hawkesbury",
          "PostCode": "K6A",
-         "Accuracy": 4,
          "LatLong": "45.6001,-74.616"
         },
         {
          "Name": "Elizabethtown",
          "PostCode": "K6T",
-         "Accuracy": 1,
          "LatLong": "44.6301,-75.7448"
         },
         {
          "Name": "Brockville",
          "PostCode": "K6V",
-         "Accuracy": 4,
          "LatLong": "44.6573,-75.7146"
         },
         {
          "Name": "Smiths Falls",
          "PostCode": "K7A",
-         "Accuracy": 4,
          "LatLong": "44.9001,-76.0161"
         },
         {
          "Name": "Carleton Place",
          "PostCode": "K7C",
-         "Accuracy": 4,
          "LatLong": "45.1334,-76.1494"
         },
         {
          "Name": "Gananoque",
          "PostCode": "K7G",
-         "Accuracy": 4,
          "LatLong": "44.3334,-76.1661"
         },
         {
          "Name": "Perth",
          "PostCode": "K7H",
-         "Accuracy": 4,
          "LatLong": "44.9001,-76.2494"
         },
         {
          "Name": "Amherstview",
          "PostCode": "K7N",
-         "Accuracy": 1,
          "LatLong": "44.2224,-76.65"
         },
         {
          "Name": "Napanee",
          "PostCode": "K7R",
-         "Accuracy": 4,
          "LatLong": "44.2501,-76.9494"
         },
         {
          "Name": "Arnprior",
          "PostCode": "K7S",
-         "Accuracy": 4,
          "LatLong": "45.4334,-76.3494"
         },
         {
          "Name": "Renfrew",
          "PostCode": "K7V",
-         "Accuracy": 4,
          "LatLong": "45.4668,-76.6827"
         },
         {
          "Name": "Petawawa",
          "PostCode": "K8H",
-         "Accuracy": 4,
          "LatLong": "45.8945,-77.2801"
         },
         {
          "Name": "Trenton",
          "PostCode": "K8V",
-         "Accuracy": 4,
          "LatLong": "44.0992,-77.5776"
         },
         {
          "Name": "Cobourg",
          "PostCode": "K9A",
-         "Accuracy": 4,
          "LatLong": "43.9598,-78.1651"
         },
         {
          "Name": "Lindsay",
          "PostCode": "K9V",
-         "Accuracy": 4,
          "LatLong": "44.3501,-78.7329"
         },
         {
@@ -4960,7 +4476,6 @@
         {
          "Name": "Whitby Region (Gormley)",
          "PostCode": "L0H",
-         "Accuracy": 5,
          "LatLong": "43.9023,-79.1554"
         },
         {
@@ -4981,7 +4496,6 @@
         {
          "Name": "Niagara Regional Municipality (Fonthill)",
          "PostCode": "L0S",
-         "Accuracy": 5,
          "LatLong": "42.9071,-79.0832"
         },
         {
@@ -4992,133 +4506,111 @@
         {
          "Name": "Port Hope",
          "PostCode": "L1A",
-         "Accuracy": 4,
          "LatLong": "44.0168,-78.3995"
         },
         {
          "Name": "Courtice",
          "PostCode": "L1E",
-         "Accuracy": 1,
          "LatLong": "43.8969,-78.7683"
         },
         {
          "Name": "Fort Erie",
          "PostCode": "L2A",
-         "Accuracy": 4,
          "LatLong": "42.9001,-78.9329"
         },
         {
          "Name": "Port Colborne",
          "PostCode": "L3K",
-         "Accuracy": 4,
          "LatLong": "42.9001,-79.2329"
         },
         {
          "Name": "Grimsby",
          "PostCode": "L3M",
-         "Accuracy": 4,
          "LatLong": "43.2001,-79.5663"
         },
         {
          "Name": "Thornhill East",
          "PostCode": "L3T",
-         "Accuracy": 1,
          "LatLong": "43.8227,-79.3946"
         },
         {
          "Name": "Orillia",
          "PostCode": "L3V",
-         "Accuracy": 4,
          "LatLong": "44.6087,-79.4207"
         },
         {
          "Name": "Bradford",
          "PostCode": "L3Z",
-         "Accuracy": 4,
          "LatLong": "44.1168,-79.5663"
         },
         {
          "Name": "Stouffville",
          "PostCode": "L4A",
-         "Accuracy": 4,
          "LatLong": "43.9668,-79.2496"
         },
         {
          "Name": "Aurora",
          "PostCode": "L4G",
-         "Accuracy": 4,
          "LatLong": "44.0001,-79.4663"
         },
         {
          "Name": "Thornhill West",
          "PostCode": "L4J",
-         "Accuracy": 1,
          "LatLong": "43.8156,-79.4534"
         },
         {
          "Name": "Concord",
          "PostCode": "L4K",
-         "Accuracy": 4,
          "LatLong": "43.8001,-79.4829"
         },
         {
          "Name": "Keswick",
          "PostCode": "L4P",
-         "Accuracy": 4,
          "LatLong": "44.2501,-79.4663"
         },
         {
          "Name": "Midland",
          "PostCode": "L4R",
-         "Accuracy": 4,
          "LatLong": "44.7501,-79.883"
         },
         {
          "Name": "Maple",
          "PostCode": "L6A",
-         "Accuracy": 4,
          "LatLong": "43.8501,-79.5163"
         },
         {
          "Name": "Brampton West",
          "PostCode": "L7A",
-         "Accuracy": 1,
          "LatLong": "43.6909,-79.8377"
         },
         {
          "Name": "King City",
          "PostCode": "L7B",
-         "Accuracy": 4,
          "LatLong": "43.9286,-79.5269"
         },
         {
          "Name": "Caledon",
          "PostCode": "L7C",
-         "Accuracy": 4,
          "LatLong": "43.8753,-79.8558"
         },
         {
          "Name": "Bolton",
          "PostCode": "L7E",
-         "Accuracy": 4,
          "LatLong": "43.8795,-79.7379"
         },
         {
          "Name": "Georgetown",
          "PostCode": "L7G",
-         "Accuracy": 4,
          "LatLong": "43.6501,-79.9163"
         },
         {
          "Name": "Acton",
          "PostCode": "L7J",
-         "Accuracy": 4,
          "LatLong": "43.6297,-80.0415"
         },
         {
          "Name": "Caledon Village",
          "PostCode": "L7K",
-         "Accuracy": 4,
          "LatLong": "43.8602,-79.996"
         },
         {
@@ -5129,55 +4621,46 @@
         {
          "Name": "Dundas",
          "PostCode": "L9H",
-         "Accuracy": 4,
          "LatLong": "43.2638,-79.9524"
         },
         {
          "Name": "Barrie",
          "PostCode": "L9J",
-         "Accuracy": 5,
          "LatLong": "44.3186,-79.6761"
         },
         {
          "Name": "Port Perry",
          "PostCode": "L9L",
-         "Accuracy": 4,
          "LatLong": "44.1068,-78.9444"
         },
         {
          "Name": "Penetanguishene",
          "PostCode": "L9M",
-         "Accuracy": 4,
          "LatLong": "44.7834,-79.9164"
         },
         {
          "Name": "Holland Landing",
          "PostCode": "L9N",
-         "Accuracy": 1,
          "LatLong": "44.1149,-79.5014"
         },
         {
          "Name": "Uxbridge",
          "PostCode": "L9P",
-         "Accuracy": 4,
          "LatLong": "44.1001,-79.1163"
         },
         {
          "Name": "Alliston",
          "PostCode": "L9R",
-         "Accuracy": 4,
          "LatLong": "44.1501,-79.8663"
         },
         {
          "Name": "Innisfil",
          "PostCode": "L9S",
-         "Accuracy": 4,
          "LatLong": "44.3001,-79.6496"
         },
         {
          "Name": "Milton",
          "PostCode": "L9T",
-         "Accuracy": 1,
          "LatLong": "43.5148,-79.884"
         },
         {
@@ -5203,13 +4686,11 @@
         {
          "Name": "Collingwood",
          "PostCode": "L9Y",
-         "Accuracy": 4,
          "LatLong": "44.4834,-80.2164"
         },
         {
          "Name": "Wasaga Beach",
          "PostCode": "L9Z",
-         "Accuracy": 4,
          "LatLong": "44.5168,-80.0164"
         },
         {
@@ -5250,7 +4731,6 @@
         {
          "Name": "Brant and Norfolk (Waterford)",
          "PostCode": "N0E",
-         "Accuracy": 5,
          "LatLong": "42.6618,-80.5572"
         },
         {
@@ -5266,7 +4746,6 @@
         {
          "Name": "Oxford (Norwich)",
          "PostCode": "N0J",
-         "Accuracy": 5,
          "LatLong": "42.9775,-80.7057"
         },
         {
@@ -5292,7 +4771,6 @@
         {
          "Name": "Kent (Blenheim)",
          "PostCode": "N0P",
-         "Accuracy": 5,
          "LatLong": "42.4045,-81.9107"
         },
         {
@@ -5303,169 +4781,141 @@
         {
          "Name": "Dunnville",
          "PostCode": "N1A",
-         "Accuracy": 4,
          "LatLong": "42.9001,-79.6163"
         },
         {
          "Name": "Fergus",
          "PostCode": "N1M",
-         "Accuracy": 4,
          "LatLong": "43.7001,-80.3664"
         },
         {
          "Name": "Kincardine",
          "PostCode": "N2Z",
-         "Accuracy": 4,
          "LatLong": "44.1664,-81.601"
         },
         {
          "Name": "Baden",
          "PostCode": "N3A",
-         "Accuracy": 4,
          "LatLong": "43.4001,-80.6497"
         },
         {
          "Name": "Elmira",
          "PostCode": "N3B",
-         "Accuracy": 4,
          "LatLong": "43.6001,-80.5497"
         },
         {
          "Name": "Paris",
          "PostCode": "N3L",
-         "Accuracy": 4,
          "LatLong": "43.2,-80.3833"
         },
         {
          "Name": "Caledonia",
          "PostCode": "N3W",
-         "Accuracy": 4,
          "LatLong": "43.0668,-79.9329"
         },
         {
          "Name": "Simcoe",
          "PostCode": "N3Y",
-         "Accuracy": 4,
          "LatLong": "42.8334,-80.2997"
         },
         {
          "Name": "Delhi",
          "PostCode": "N4B",
-         "Accuracy": 4,
          "LatLong": "42.8501,-80.4997"
         },
         {
          "Name": "Tillsonburg",
          "PostCode": "N4G",
-         "Accuracy": 4,
          "LatLong": "42.8599,-80.7262"
         },
         {
          "Name": "Owen Sound",
          "PostCode": "N4K",
-         "Accuracy": 4,
          "LatLong": "44.5672,-80.9435"
         },
         {
          "Name": "Meaford",
          "PostCode": "N4L",
-         "Accuracy": 4,
          "LatLong": "44.6001,-80.583"
         },
         {
          "Name": "Hanover",
          "PostCode": "N4N",
-         "Accuracy": 4,
          "LatLong": "44.1501,-81.033"
         },
         {
          "Name": "Listowel",
          "PostCode": "N4W",
-         "Accuracy": 4,
          "LatLong": "43.7334,-80.9497"
         },
         {
          "Name": "St. Mary's",
          "PostCode": "N4X",
-         "Accuracy": 1,
          "LatLong": "43.2655,-81.1687"
         },
         {
          "Name": "Stratford South",
          "PostCode": "N4Z",
-         "Accuracy": 5,
          "LatLong": "43.3634,-81.0069"
         },
         {
          "Name": "Stratford North",
          "PostCode": "N5A",
-         "Accuracy": 4,
          "LatLong": "43.3668,-80.9497"
         },
         {
          "Name": "Ingersoll",
          "PostCode": "N5C",
-         "Accuracy": 4,
          "LatLong": "43.0334,-80.883"
         },
         {
          "Name": "Aylmer",
          "PostCode": "N5H",
-         "Accuracy": 4,
          "LatLong": "42.7668,-80.983"
         },
         {
          "Name": "Port Stanley",
          "PostCode": "N5L",
-         "Accuracy": 4,
          "LatLong": "42.6668,-81.2164"
         },
         {
          "Name": "Goderich",
          "PostCode": "N7A",
-         "Accuracy": 4,
          "LatLong": "43.7501,-81.7165"
         },
         {
          "Name": "Strathroy",
          "PostCode": "N7G",
-         "Accuracy": 4,
          "LatLong": "42.9551,-81.6223"
         },
         {
          "Name": "Wallaceburg",
          "PostCode": "N8A",
-         "Accuracy": 4,
          "LatLong": "42.593,-82.3885"
         },
         {
          "Name": "Leamington",
          "PostCode": "N8H",
-         "Accuracy": 4,
          "LatLong": "42.0549,-82.6062"
         },
         {
          "Name": "Essex",
          "PostCode": "N8M",
-         "Accuracy": 4,
          "LatLong": "42.1751,-82.8248"
         },
         {
          "Name": "Tecumseh Central",
          "PostCode": "N9K",
-         "Accuracy": 1,
          "LatLong": "42.2978,-82.8701"
         },
         {
          "Name": "Amherstburg",
          "PostCode": "N9V",
-         "Accuracy": 4,
          "LatLong": "42.1168,-83.0498"
         },
         {
          "Name": "Kingsville",
          "PostCode": "N9Y",
-         "Accuracy": 4,
          "LatLong": "42.0502,-82.7598"
         },
         {
@@ -5486,7 +4936,6 @@
         {
          "Name": "Manitoulin (Little Current)",
          "PostCode": "P0P",
-         "Accuracy": 5,
          "LatLong": "45.7565,-82.2151"
         },
         {
@@ -5512,85 +4961,71 @@
         {
          "Name": "Huntsville",
          "PostCode": "P1H",
-         "Accuracy": 4,
          "LatLong": "45.3334,-79.2163"
         },
         {
          "Name": "Bracebridge",
          "PostCode": "P1L",
-         "Accuracy": 4,
          "LatLong": "45.0334,-79.3163"
         },
         {
          "Name": "Gravenhurst",
          "PostCode": "P1P",
-         "Accuracy": 4,
          "LatLong": "44.9168,-79.3663"
         },
         {
          "Name": "Parry Sound",
          "PostCode": "P2A",
-         "Accuracy": 4,
          "LatLong": "45.3501,-80.033"
         },
         {
          "Name": "Sturgeon Falls",
          "PostCode": "P2B",
-         "Accuracy": 4,
          "LatLong": "46.3668,-79.9164"
         },
         {
          "Name": "Kirkland Lake",
          "PostCode": "P2N",
-         "Accuracy": 4,
          "LatLong": "48.1446,-80.0377"
         },
         {
          "Name": "Elliot Lake",
          "PostCode": "P5A",
-         "Accuracy": 4,
          "LatLong": "46.3834,-82.6332"
         },
         {
          "Name": "Espanola",
          "PostCode": "P5E",
-         "Accuracy": 4,
          "LatLong": "46.2584,-81.7665"
         },
         {
          "Name": "Kapuskasing",
          "PostCode": "P5N",
-         "Accuracy": 4,
          "LatLong": "49.4169,-82.4331"
         },
         {
          "Name": "Neebing",
          "PostCode": "P7L",
-         "Accuracy": 4,
          "LatLong": "48.1668,-89.4168"
         },
         {
          "Name": "Dryden",
          "PostCode": "P8N",
-         "Accuracy": 4,
          "LatLong": "49.7833,-92.7503"
         },
         {
          "Name": "Sioux Lookout",
          "PostCode": "P8T",
-         "Accuracy": 4,
          "LatLong": "50.0668,-91.9836"
         },
         {
          "Name": "Fort Frances",
          "PostCode": "P9A",
-         "Accuracy": 5,
          "LatLong": "48.6393,-93.4469"
         },
         {
          "Name": "Kenora",
          "PostCode": "P9N",
-         "Accuracy": 1,
          "LatLong": "49.7573,-94.3427"
         }
        ]
@@ -5610,7 +5045,6 @@
         {
          "Name": "Gloucester (West Orleans)",
          "PostCode": "K1C",
-         "Accuracy": 5,
          "LatLong": "45.4677,-75.5399"
         },
         {
@@ -5645,31 +5079,26 @@
         {
          "Name": "Nepean East",
          "PostCode": "K2E",
-         "Accuracy": 1,
          "LatLong": "45.3438,-75.7157"
         },
         {
          "Name": "Nepean (Davidson Heights)",
          "PostCode": "K2G",
-         "Accuracy": 1,
          "LatLong": "45.3211,-75.7391"
         },
         {
          "Name": "Nepean (Bells Corners)",
          "PostCode": "K2H",
-         "Accuracy": 1,
          "LatLong": "45.3433,-75.8265"
         },
         {
          "Name": "Nepean (Barrhaven)",
          "PostCode": "K2J",
-         "Accuracy": 1,
          "LatLong": "45.2691,-75.7518"
         },
         {
          "Name": "Nepean (Fallowfield Village / Cedarhill Estates / Orchard Estates)",
          "PostCode": "K2R",
-         "Accuracy": 1,
          "LatLong": "45.2899,-75.8126"
         }
        ]
@@ -5684,37 +5113,31 @@
         {
          "Name": "Kanata (Beaverbrook / South March)",
          "PostCode": "K2K",
-         "Accuracy": 1,
          "LatLong": "45.3704,-75.9198"
         },
         {
          "Name": "Kanata (Katimavik-Hazeldean / Glen Cairn)",
          "PostCode": "K2L",
-         "Accuracy": 1,
          "LatLong": "45.3001,-75.9244"
         },
         {
          "Name": "Kanata (Bridlewood)",
          "PostCode": "K2M",
-         "Accuracy": 1,
          "LatLong": "45.2861,-75.8562"
         },
         {
          "Name": "Kanata (Marchwood)",
          "PostCode": "K2T",
-         "Accuracy": 1,
          "LatLong": "45.317,-75.9367"
         },
         {
          "Name": "Kanata (Terry Fox / Palladium)",
          "PostCode": "K2V",
-         "Accuracy": 1,
          "LatLong": "45.2854,-75.8928"
         },
         {
          "Name": "Kanata (North March)",
          "PostCode": "K2W",
-         "Accuracy": 4,
          "LatLong": "45.3699,-75.9887"
         }
        ]
@@ -5729,19 +5152,16 @@
         {
          "Name": "Cornwall East",
          "PostCode": "K6H",
-         "Accuracy": 1,
          "LatLong": "45.0565,-74.6852"
         },
         {
          "Name": "Cornwall West",
          "PostCode": "K6J",
-         "Accuracy": 1,
          "LatLong": "45.0223,-74.7569"
         },
         {
          "Name": "Cornwall North",
          "PostCode": "K6K",
-         "Accuracy": 4,
          "LatLong": "45.061,-74.7774"
         }
        ]
@@ -5756,25 +5176,21 @@
         {
          "Name": "Kingston (SW Pittsburgh Township)",
          "PostCode": "K7K",
-         "Accuracy": 1,
          "LatLong": "44.2569,-76.4717"
         },
         {
          "Name": "Kingston (Downtown)",
          "PostCode": "K7L",
-         "Accuracy": 1,
          "LatLong": "44.2955,-76.428"
         },
         {
          "Name": "Kingston (Reddendale / Cataraqui / Collins Bay)",
          "PostCode": "K7M",
-         "Accuracy": 1,
          "LatLong": "44.2411,-76.5788"
         },
         {
          "Name": "Kingston (Westbrook / Cataraqui Woods / Cedarwood)",
          "PostCode": "K7P",
-         "Accuracy": 1,
          "LatLong": "44.2814,-76.6111"
         }
        ]
@@ -5789,13 +5205,11 @@
         {
          "Name": "Pembroke Central and northern subdivisions",
          "PostCode": "K8A",
-         "Accuracy": 1,
          "LatLong": "45.7466,-77.2047"
         },
         {
          "Name": "Pembroke (Pleasant View / Fairview)",
          "PostCode": "K8B",
-         "Accuracy": 1,
          "LatLong": "45.808,-77.0806"
         }
        ]
@@ -5810,19 +5224,16 @@
         {
          "Name": "Belleville East",
          "PostCode": "K8N",
-         "Accuracy": 1,
          "LatLong": "44.1735,-77.3684"
         },
         {
          "Name": "Belleville West",
          "PostCode": "K8P",
-         "Accuracy": 1,
          "LatLong": "44.1665,-77.4037"
         },
         {
          "Name": "Belleville (SE Sidney Township / Avondale)",
          "PostCode": "K8R",
-         "Accuracy": 1,
          "LatLong": "44.1399,-77.4683"
         }
        ]
@@ -5837,25 +5248,21 @@
         {
          "Name": "Peterborough North",
          "PostCode": "K9H",
-         "Accuracy": 1,
          "LatLong": "44.3245,-78.3184"
         },
         {
          "Name": "Peterborough South",
          "PostCode": "K9J",
-         "Accuracy": 5,
          "LatLong": "44.3104,-78.2396"
         },
         {
          "Name": "Peterborough (Fairbairn Meadows / Jackson Heights)",
          "PostCode": "K9K",
-         "Accuracy": 5,
          "LatLong": "44.3138,-78.3606"
         },
         {
          "Name": "Peterborough (Terra View Heights / Woodland Acres / Donwood)",
          "PostCode": "K9L",
-         "Accuracy": 5,
          "LatLong": "44.3552,-78.3199"
         }
        ]
@@ -5875,7 +5282,6 @@
         {
          "Name": "Lake Simcoe North Shore (Coldwater)",
          "PostCode": "L0K",
-         "Accuracy": 5,
          "LatLong": "44.6233,-79.1235"
         },
         {
@@ -5895,13 +5301,11 @@
         {
          "Name": "Bowmanville East",
          "PostCode": "L1B",
-         "Accuracy": 1,
          "LatLong": "43.9235,-78.5457"
         },
         {
          "Name": "Bowmanville West",
          "PostCode": "L1C",
-         "Accuracy": 1,
          "LatLong": "43.9714,-78.7095"
         }
        ]
@@ -5916,31 +5320,26 @@
         {
          "Name": "Oshawa Central",
          "PostCode": "L1G",
-         "Accuracy": 1,
          "LatLong": "43.9233,-78.8684"
         },
         {
          "Name": "Oshawa Southeast",
          "PostCode": "L1H",
-         "Accuracy": 1,
          "LatLong": "43.9721,-78.8837"
         },
         {
          "Name": "Oshawa Southwest",
          "PostCode": "L1J",
-         "Accuracy": 1,
          "LatLong": "43.8852,-78.8771"
         },
         {
          "Name": "Oshawa East",
          "PostCode": "L1K",
-         "Accuracy": 1,
          "LatLong": "43.9251,-78.8287"
         },
         {
          "Name": "Oshawa North",
          "PostCode": "L1L",
-         "Accuracy": 4,
          "LatLong": "43.9581,-78.8972"
         }
        ]
@@ -5955,25 +5354,21 @@
         {
          "Name": "Whitby North",
          "PostCode": "L1M",
-         "Accuracy": 4,
          "LatLong": "43.9566,-78.9779"
         },
         {
          "Name": "Whitby Southeast",
          "PostCode": "L1N",
-         "Accuracy": 1,
          "LatLong": "43.8721,-78.9273"
         },
         {
          "Name": "Whitby Southwest",
          "PostCode": "L1P",
-         "Accuracy": 1,
          "LatLong": "43.8866,-78.975"
         },
         {
          "Name": "Whitby Central",
          "PostCode": "L1R",
-         "Accuracy": 1,
          "LatLong": "43.9215,-78.9412"
         }
        ]
@@ -5988,19 +5383,16 @@
         {
          "Name": "Ajax Southwest",
          "PostCode": "L1S",
-         "Accuracy": 1,
          "LatLong": "43.8404,-79.0251"
         },
         {
          "Name": "Ajax Northwest",
          "PostCode": "L1T",
-         "Accuracy": 1,
          "LatLong": "43.8843,-79.0534"
         },
         {
          "Name": "Ajax East",
          "PostCode": "L1Z",
-         "Accuracy": 1,
          "LatLong": "43.8773,-79.0055"
         }
        ]
@@ -6015,25 +5407,21 @@
         {
          "Name": "Pickering Southwest",
          "PostCode": "L1V",
-         "Accuracy": 5,
          "LatLong": "43.8605,-79.1618"
         },
         {
          "Name": "Pickering South",
          "PostCode": "L1W",
-         "Accuracy": 1,
          "LatLong": "43.8197,-79.0803"
         },
         {
          "Name": "Pickering Central",
          "PostCode": "L1X",
-         "Accuracy": 5,
          "LatLong": "43.8558,-79.0972"
         },
         {
          "Name": "Pickering North",
          "PostCode": "L1Y",
-         "Accuracy": 4,
          "LatLong": "43.9555,-79.1194"
         }
        ]
@@ -6048,25 +5436,21 @@
         {
          "Name": "Niagara Falls Central",
          "PostCode": "L2E",
-         "Accuracy": 1,
          "LatLong": "43.0537,-79.1018"
         },
         {
          "Name": "Niagara Falls Southeast",
          "PostCode": "L2G",
-         "Accuracy": 1,
          "LatLong": "43.0696,-79.0818"
         },
         {
          "Name": "Niagara Falls West",
          "PostCode": "L2H",
-         "Accuracy": 1,
          "LatLong": "43.1009,-79.1379"
         },
         {
          "Name": "Niagara Falls North",
          "PostCode": "L2J",
-         "Accuracy": 4,
          "LatLong": "43.1296,-79.1034"
         }
        ]
@@ -6081,49 +5465,41 @@
         {
          "Name": "St. Catharines Northeast",
          "PostCode": "L2M",
-         "Accuracy": 1,
          "LatLong": "43.196,-79.2161"
         },
         {
          "Name": "St. Catharines Northwest",
          "PostCode": "L2N",
-         "Accuracy": 1,
          "LatLong": "43.1923,-79.2559"
         },
         {
          "Name": "St. Catharines East",
          "PostCode": "L2P",
-         "Accuracy": 1,
          "LatLong": "43.1527,-79.2091"
         },
         {
          "Name": "St. Catharines Central",
          "PostCode": "L2R",
-         "Accuracy": 1,
          "LatLong": "43.1419,-79.2966"
         },
         {
          "Name": "St. Catharines Southwest",
          "PostCode": "L2S",
-         "Accuracy": 1,
          "LatLong": "43.1447,-79.2634"
         },
         {
          "Name": "St. Catharines South",
          "PostCode": "L2T",
-         "Accuracy": 1,
          "LatLong": "43.1313,-79.2317"
         },
         {
          "Name": "St. Catharines Southeast",
          "PostCode": "L2V",
-         "Accuracy": 1,
          "LatLong": "43.1142,-79.2035"
         },
         {
          "Name": "St. Catharines West",
          "PostCode": "L2W",
-         "Accuracy": 1,
          "LatLong": "43.1688,-79.2794"
         }
        ]
@@ -6138,13 +5514,11 @@
         {
          "Name": "Welland East",
          "PostCode": "L3B",
-         "Accuracy": 1,
          "LatLong": "42.9878,-79.2219"
         },
         {
          "Name": "Welland West",
          "PostCode": "L3C",
-         "Accuracy": 1,
          "LatLong": "42.9998,-79.2656"
         }
        ]
@@ -6159,43 +5533,36 @@
         {
          "Name": "Markham Central",
          "PostCode": "L3P",
-         "Accuracy": 5,
          "LatLong": "43.8769,-79.2686"
         },
         {
          "Name": "Markham Outer Southwest",
          "PostCode": "L3R",
-         "Accuracy": 1,
          "LatLong": "43.8479,-79.3288"
         },
         {
          "Name": "Markham Southeast",
          "PostCode": "L3S",
-         "Accuracy": 1,
          "LatLong": "43.8486,-79.2617"
         },
         {
          "Name": "Markham East",
          "PostCode": "L6B",
-         "Accuracy": 1,
          "LatLong": "43.9007,-79.2175"
         },
         {
          "Name": "Markham Northwest",
          "PostCode": "L6C",
-         "Accuracy": 1,
          "LatLong": "43.9045,-79.3392"
         },
         {
          "Name": "Markham Northeast",
          "PostCode": "L6E",
-         "Accuracy": 1,
          "LatLong": "43.9002,-79.2676"
         },
         {
          "Name": "Markham Inner Southwest",
          "PostCode": "L6G",
-         "Accuracy": 1,
          "LatLong": "43.8485,-79.3346"
         }
        ]
@@ -6210,13 +5577,11 @@
         {
          "Name": "Newmarket Southwest",
          "PostCode": "L3X",
-         "Accuracy": 5,
          "LatLong": "44.0433,-79.4912"
         },
         {
          "Name": "Newmarket Northeast",
          "PostCode": "L3Y",
-         "Accuracy": 1,
          "LatLong": "44.0565,-79.4555"
         }
        ]
@@ -6231,25 +5596,21 @@
         {
          "Name": "Richmond Hill Southeast",
          "PostCode": "L4B",
-         "Accuracy": 1,
          "LatLong": "43.8582,-79.3985"
         },
         {
          "Name": "Richmond Hill Southwest",
          "PostCode": "L4C",
-         "Accuracy": 1,
          "LatLong": "43.8669,-79.4414"
         },
         {
          "Name": "Richmond Hill North",
          "PostCode": "L4E",
-         "Accuracy": 4,
          "LatLong": "43.9394,-79.4349"
         },
         {
          "Name": "Richmond Hill Central",
          "PostCode": "L4S",
-         "Accuracy": 1,
          "LatLong": "43.8985,-79.4143"
         }
        ]
@@ -6264,13 +5625,11 @@
         {
          "Name": "Woodbridge North",
          "PostCode": "L4H",
-         "Accuracy": 5,
          "LatLong": "43.8432,-79.5644"
         },
         {
          "Name": "Woodbridge South",
          "PostCode": "L4L",
-         "Accuracy": 1,
          "LatLong": "43.8064,-79.5995"
         }
        ]
@@ -6285,13 +5644,11 @@
         {
          "Name": "Barrie North",
          "PostCode": "L4M",
-         "Accuracy": 4,
          "LatLong": "44.4001,-79.6663"
         },
         {
          "Name": "Barrie South",
          "PostCode": "L4N",
-         "Accuracy": 1,
          "LatLong": "44.3572,-79.6929"
         }
        ]
@@ -6306,37 +5663,31 @@
         {
          "Name": "Mississauga (Malton)",
          "PostCode": "L4T",
-         "Accuracy": 1,
          "LatLong": "43.7139,-79.6434"
         },
         {
          "Name": "Mississauga (Wildwood)",
          "PostCode": "L4V",
-         "Accuracy": 1,
          "LatLong": "43.6935,-79.6069"
         },
         {
          "Name": "Mississauga (Matheson / East Rathwood)",
          "PostCode": "L4W",
-         "Accuracy": 1,
          "LatLong": "43.6413,-79.6296"
         },
         {
          "Name": "Mississauga (East Applewood / East Dixie / NE Lakeview)",
          "PostCode": "L4X",
-         "Accuracy": 1,
          "LatLong": "43.6178,-79.5786"
         },
         {
          "Name": "Mississauga (West Applewood / West Dixie / NW Lakeview)",
          "PostCode": "L4Y",
-         "Accuracy": 1,
          "LatLong": "43.6028,-79.5929"
         },
         {
          "Name": "Mississauga (West Rathwood / East Hurontario / SE Gateway)",
          "PostCode": "L4Z",
-         "Accuracy": 1,
          "LatLong": "43.6192,-79.6538"
         },
         {
@@ -6412,7 +5763,6 @@
         {
          "Name": "Mississauga (Courtney Park / East Gateway)",
          "PostCode": "L5T",
-         "Accuracy": 5,
          "LatLong": "43.6683,-79.6182"
         },
         {
@@ -6437,31 +5787,26 @@
         {
          "Name": "Oakville North",
          "PostCode": "L6H",
-         "Accuracy": 4,
          "LatLong": "43.4881,-79.7098"
         },
         {
          "Name": "Oakville Northeast",
          "PostCode": "L6J",
-         "Accuracy": 1,
          "LatLong": "43.4757,-79.6591"
         },
         {
          "Name": "Oakville East",
          "PostCode": "L6K",
-         "Accuracy": 1,
          "LatLong": "43.4396,-79.6878"
         },
         {
          "Name": "Oakville South",
          "PostCode": "L6L",
-         "Accuracy": 1,
          "LatLong": "43.4032,-79.7186"
         },
         {
          "Name": "Oakville West",
          "PostCode": "L6M",
-         "Accuracy": 1,
          "LatLong": "43.4464,-79.7593"
         }
        ]
@@ -6476,55 +5821,46 @@
         {
          "Name": "Brampton North",
          "PostCode": "L6P",
-         "Accuracy": 4,
          "LatLong": "43.7942,-79.7021"
         },
         {
          "Name": "Brampton Northwest",
          "PostCode": "L6R",
-         "Accuracy": 1,
          "LatLong": "43.7592,-79.7605"
         },
         {
          "Name": "Brampton North Central",
          "PostCode": "L6S",
-         "Accuracy": 1,
          "LatLong": "43.7379,-79.726"
         },
         {
          "Name": "Brampton East",
          "PostCode": "L6T",
-         "Accuracy": 1,
          "LatLong": "43.7196,-79.6854"
         },
         {
          "Name": "Brampton Central",
          "PostCode": "L6V",
-         "Accuracy": 1,
          "LatLong": "43.7059,-79.7626"
         },
         {
          "Name": "Brampton Southeast",
          "PostCode": "L6W",
-         "Accuracy": 1,
          "LatLong": "43.68,-79.7273"
         },
         {
          "Name": "Brampton Southwest",
          "PostCode": "L6X",
-         "Accuracy": 1,
          "LatLong": "43.6665,-79.8054"
         },
         {
          "Name": "Brampton South",
          "PostCode": "L6Y",
-         "Accuracy": 5,
          "LatLong": "43.6249,-79.7876"
         },
         {
          "Name": "Brampton West Central",
          "PostCode": "L6Z",
-         "Accuracy": 1,
          "LatLong": "43.7328,-79.7953"
         }
        ]
@@ -6539,43 +5875,36 @@
         {
          "Name": "Burlington Northeast",
          "PostCode": "L7L",
-         "Accuracy": 1,
          "LatLong": "43.3799,-79.7668"
         },
         {
          "Name": "Burlington North",
          "PostCode": "L7M",
-         "Accuracy": 5,
          "LatLong": "43.4342,-79.8701"
         },
         {
          "Name": "Burlington East",
          "PostCode": "L7N",
-         "Accuracy": 1,
          "LatLong": "43.3512,-79.784"
         },
         {
          "Name": "Burlington West",
          "PostCode": "L7P",
-         "Accuracy": 1,
          "LatLong": "43.3806,-79.886"
         },
         {
          "Name": "Burlington Southeast",
          "PostCode": "L7R",
-         "Accuracy": 1,
          "LatLong": "43.375,-79.8434"
         },
         {
          "Name": "Burlington South",
          "PostCode": "L7S",
-         "Accuracy": 1,
          "LatLong": "43.323,-79.8092"
         },
         {
          "Name": "Burlington Southwest",
          "PostCode": "L7T",
-         "Accuracy": 1,
          "LatLong": "43.3081,-79.8507"
         }
        ]
@@ -6590,13 +5919,11 @@
         {
          "Name": "Ancaster West",
          "PostCode": "L9G",
-         "Accuracy": 1,
          "LatLong": "43.1836,-79.9902"
         },
         {
          "Name": "Ancaster East",
          "PostCode": "L9K",
-         "Accuracy": 1,
          "LatLong": "43.225,-79.9427"
         }
        ]
@@ -6611,13 +5938,11 @@
         {
          "Name": "Orangeville North",
          "PostCode": "L9V",
-         "Accuracy": 4,
          "LatLong": "43.9597,-80.1079"
         },
         {
          "Name": "Orangeville South",
          "PostCode": "L9W",
-         "Accuracy": 5,
          "LatLong": "43.9702,-80.016"
         }
        ]
@@ -6751,25 +6076,21 @@
         {
          "Name": "North York (York Heights / Victoria Village / Parkway East)",
          "PostCode": "M3A",
-         "Accuracy": 1,
          "LatLong": "43.7545,-79.33"
         },
         {
          "Name": "North York (Armour Heights / Wilson Heights / Downsview North)",
          "PostCode": "M3H",
-         "Accuracy": 1,
          "LatLong": "43.7535,-79.4472"
         },
         {
          "Name": "North York (Northwood Park / York University)",
          "PostCode": "M3J",
-         "Accuracy": 1,
          "LatLong": "43.7694,-79.4921"
         },
         {
          "Name": "North York (Jane and Finch)",
          "PostCode": "M3N",
-         "Accuracy": 1,
          "LatLong": "43.7568,-79.521"
         },
         {
@@ -6833,13 +6154,11 @@
         {
          "Name": "Don Mills North",
          "PostCode": "M3B",
-         "Accuracy": 4,
          "LatLong": "43.745,-79.359"
         },
         {
          "Name": "Don Mills South (Flemingdon Park)",
          "PostCode": "M3C",
-         "Accuracy": 1,
          "LatLong": "43.7334,-79.3329"
         }
        ]
@@ -6854,13 +6173,11 @@
         {
          "Name": "Downsview West",
          "PostCode": "M3L",
-         "Accuracy": 1,
          "LatLong": "43.7334,-79.5116"
         },
         {
          "Name": "Downsview Central",
          "PostCode": "M3M",
-         "Accuracy": 1,
          "LatLong": "43.7319,-79.4928"
         }
        ]
@@ -6997,37 +6314,31 @@
         {
          "Name": "Guelph South",
          "PostCode": "N1C",
-         "Accuracy": 1,
          "LatLong": "43.4921,-80.2267"
         },
         {
          "Name": "Guelph North",
          "PostCode": "N1E",
-         "Accuracy": 1,
          "LatLong": "43.5677,-80.2418"
         },
         {
          "Name": "Guelph Central",
          "PostCode": "N1G",
-         "Accuracy": 1,
          "LatLong": "43.5184,-80.2257"
         },
         {
          "Name": "Guelph Northwest",
          "PostCode": "N1H",
-         "Accuracy": 5,
          "LatLong": "43.5588,-80.3004"
         },
         {
          "Name": "Guelph West",
          "PostCode": "N1K",
-         "Accuracy": 5,
          "LatLong": "43.526,-80.3051"
         },
         {
          "Name": "Guelph East",
          "PostCode": "N1L",
-         "Accuracy": 1,
          "LatLong": "43.516,-80.19"
         }
        ]
@@ -7042,43 +6353,36 @@
         {
          "Name": "Cambridge South",
          "PostCode": "N1P",
-         "Accuracy": 1,
          "LatLong": "43.3398,-80.2955"
         },
         {
          "Name": "Cambridge Central",
          "PostCode": "N1R",
-         "Accuracy": 5,
          "LatLong": "43.3666,-80.2239"
         },
         {
          "Name": "Cambridge Southwest",
          "PostCode": "N1S",
-         "Accuracy": 1,
          "LatLong": "43.3592,-80.3347"
         },
         {
          "Name": "Cambridge East",
          "PostCode": "N1T",
-         "Accuracy": 1,
          "LatLong": "43.3849,-80.2833"
         },
         {
          "Name": "Cambridge Northeast",
          "PostCode": "N3C",
-         "Accuracy": 1,
          "LatLong": "43.4389,-80.2649"
         },
         {
          "Name": "Cambridge Northwest",
          "PostCode": "N3E",
-         "Accuracy": 1,
          "LatLong": "43.4193,-80.3505"
         },
         {
          "Name": "Cambridge West",
          "PostCode": "N3H",
-         "Accuracy": 1,
          "LatLong": "43.4267,-80.3699"
         }
        ]
@@ -7093,67 +6397,56 @@
         {
          "Name": "Kitchener East",
          "PostCode": "N2A",
-         "Accuracy": 1,
          "LatLong": "43.4413,-80.4246"
         },
         {
          "Name": "Kitchener Northeast",
          "PostCode": "N2B",
-         "Accuracy": 1,
          "LatLong": "43.4646,-80.4467"
         },
         {
          "Name": "Kitchener South Central",
          "PostCode": "N2C",
-         "Accuracy": 1,
          "LatLong": "43.4182,-80.4451"
         },
         {
          "Name": "Kitchener Southwest",
          "PostCode": "N2E",
-         "Accuracy": 1,
          "LatLong": "43.4106,-80.5011"
         },
         {
          "Name": "Kitchener Central",
          "PostCode": "N2G",
-         "Accuracy": 1,
          "LatLong": "43.4443,-80.4891"
         },
         {
          "Name": "Kitchener North Central",
          "PostCode": "N2H",
-         "Accuracy": 1,
          "LatLong": "43.4581,-80.4818"
         },
         {
          "Name": "Kitchener North",
          "PostCode": "N2K",
-         "Accuracy": 4,
          "LatLong": "43.4961,-80.4936"
         },
         {
          "Name": "Kitchener Northwest",
          "PostCode": "N2M",
-         "Accuracy": 1,
          "LatLong": "43.4363,-80.5093"
         },
         {
          "Name": "Kitchener West",
          "PostCode": "N2N",
-         "Accuracy": 1,
          "LatLong": "43.426,-80.5438"
         },
         {
          "Name": "Kitchener Southeast",
          "PostCode": "N2P",
-         "Accuracy": 1,
          "LatLong": "43.3878,-80.4296"
         },
         {
          "Name": "Kitchener South",
          "PostCode": "N2R",
-         "Accuracy": 1,
          "LatLong": "43.3849,-80.487"
         }
        ]
@@ -7168,25 +6461,21 @@
         {
          "Name": "Waterloo Southeast",
          "PostCode": "N2J",
-         "Accuracy": 1,
          "LatLong": "43.504,-80.5366"
         },
         {
          "Name": "Waterloo South",
          "PostCode": "N2L",
-         "Accuracy": 1,
          "LatLong": "43.4715,-80.5454"
         },
         {
          "Name": "Waterloo Southwest",
          "PostCode": "N2T",
-         "Accuracy": 1,
          "LatLong": "43.453,-80.5692"
         },
         {
          "Name": "Waterloo Northwest",
          "PostCode": "N2V",
-         "Accuracy": 1,
          "LatLong": "43.4764,-80.5842"
         }
        ]
@@ -7201,19 +6490,16 @@
         {
          "Name": "Woodstock Central",
          "PostCode": "N4S",
-         "Accuracy": 1,
          "LatLong": "43.1432,-80.7338"
         },
         {
          "Name": "Woodstock North",
          "PostCode": "N4T",
-         "Accuracy": 4,
          "LatLong": "43.1485,-80.7319"
         },
         {
          "Name": "Woodstock South",
          "PostCode": "N4V",
-         "Accuracy": 1,
          "LatLong": "43.115,-80.743"
         }
        ]
@@ -7228,13 +6514,11 @@
         {
          "Name": "St. Thomas North",
          "PostCode": "N5P",
-         "Accuracy": 4,
          "LatLong": "42.7779,-81.1769"
         },
         {
          "Name": "St. Thomas South",
          "PostCode": "N5R",
-         "Accuracy": 1,
          "LatLong": "42.7597,-81.1762"
         }
        ]
@@ -7249,31 +6533,26 @@
         {
          "Name": "London (YXU / North and East Argyle / East Huron Heights)",
          "PostCode": "N5V",
-         "Accuracy": 1,
          "LatLong": "43.0233,-81.1643"
         },
         {
          "Name": "London East (SW Argyle / Hamilton Road)",
          "PostCode": "N5W",
-         "Accuracy": 1,
          "LatLong": "42.9856,-81.1821"
         },
         {
          "Name": "London (Fanshawe / Stoneybrook / Stoney Creek / Uplands / East Masonville)",
          "PostCode": "N5X",
-         "Accuracy": 1,
          "LatLong": "43.0443,-81.2391"
         },
         {
          "Name": "London (West Huron Heights / Carling)",
          "PostCode": "N5Y",
-         "Accuracy": 1,
          "LatLong": "43.0123,-81.2307"
         },
         {
          "Name": "London (Glen Cairn)",
          "PostCode": "N5Z",
-         "Accuracy": 1,
          "LatLong": "42.966,-81.2053"
         },
         {
@@ -7348,13 +6627,11 @@
         {
          "Name": "Chatham Northwest",
          "PostCode": "N7L",
-         "Accuracy": 1,
          "LatLong": "42.4209,-82.1993"
         },
         {
          "Name": "Chatham Southeast",
          "PostCode": "N7M",
-         "Accuracy": 5,
          "LatLong": "42.4238,-82.1183"
         }
        ]
@@ -7369,31 +6646,26 @@
         {
          "Name": "Sarnia Central",
          "PostCode": "N7S",
-         "Accuracy": 1,
          "LatLong": "42.9888,-82.3592"
         },
         {
          "Name": "Sarnia Southwest",
          "PostCode": "N7T",
-         "Accuracy": 5,
          "LatLong": "42.9578,-82.2777"
         },
         {
          "Name": "Sarnia Northwest",
          "PostCode": "N7V",
-         "Accuracy": 1,
          "LatLong": "42.9998,-82.3926"
         },
         {
          "Name": "Sarnia Southeast",
          "PostCode": "N7W",
-         "Accuracy": 1,
          "LatLong": "42.9644,-82.3259"
         },
         {
          "Name": "Sarnia Northeast",
          "PostCode": "N7X",
-         "Accuracy": 1,
          "LatLong": "43.0214,-82.3212"
         }
        ]
@@ -7408,13 +6680,11 @@
         {
          "Name": "Tecumseh Outskirts",
          "PostCode": "N8N",
-         "Accuracy": 1,
          "LatLong": "42.2946,-82.8667"
         },
         {
          "Name": "Tecumseh (YQG)",
          "PostCode": "N8V",
-         "Accuracy": 1,
          "LatLong": "42.2773,-82.9447"
         }
        ]
@@ -7429,73 +6699,61 @@
         {
          "Name": "Windsor (East Riverside)",
          "PostCode": "N8P",
-         "Accuracy": 1,
          "LatLong": "42.3276,-82.9104"
         },
         {
          "Name": "Windsor (East Forest Glade)",
          "PostCode": "N8R",
-         "Accuracy": 1,
          "LatLong": "42.3067,-82.915"
         },
         {
          "Name": "Windsor (Riverside)",
          "PostCode": "N8S",
-         "Accuracy": 1,
          "LatLong": "42.3283,-82.9472"
         },
         {
          "Name": "Windsor (West Forest Glade / East Fontainbleu)",
          "PostCode": "N8T",
-         "Accuracy": 1,
          "LatLong": "42.3037,-82.9459"
         },
         {
          "Name": "Windsor (South Walkerville / West Fontainbleu / Walker Farm / Devonshire)",
          "PostCode": "N8W",
-         "Accuracy": 1,
          "LatLong": "42.2836,-82.9771"
         },
         {
          "Name": "Windsor South Central (West Walkerville / Remington Park)",
          "PostCode": "N8X",
-         "Accuracy": 1,
          "LatLong": "42.2926,-83.0186"
         },
         {
          "Name": "Windsor East (East Walkerville)",
          "PostCode": "N8Y",
-         "Accuracy": 1,
          "LatLong": "42.3176,-82.9929"
         },
         {
          "Name": "Windsor (City Centre / NW Walkerville)",
          "PostCode": "N9A",
-         "Accuracy": 5,
          "LatLong": "42.2007,-83.0276"
         },
         {
          "Name": "Windsor (University / South Cameron)",
          "PostCode": "N9B",
-         "Accuracy": 1,
          "LatLong": "42.2949,-83.052"
         },
         {
          "Name": "Windsor (Sandwich / Ojibway / West Malden)",
          "PostCode": "N9C",
-         "Accuracy": 1,
          "LatLong": "42.2767,-83.0793"
         },
         {
          "Name": "Windsor South (East Malden)",
          "PostCode": "N9E",
-         "Accuracy": 1,
          "LatLong": "42.2652,-83.0314"
         },
         {
          "Name": "Windsor (Roseland)",
          "PostCode": "N9G",
-         "Accuracy": 1,
          "LatLong": "42.2481,-82.9952"
         }
        ]
@@ -7510,13 +6768,11 @@
         {
          "Name": "La Salle East",
          "PostCode": "N9H",
-         "Accuracy": 1,
          "LatLong": "42.2318,-83.0281"
         },
         {
          "Name": "La Salle West",
          "PostCode": "N9J",
-         "Accuracy": 1,
          "LatLong": "42.2187,-83.0801"
         }
        ]
@@ -7598,7 +6854,6 @@
         {
          "Name": "Lake Superior East Shore (Wawa)",
          "PostCode": "P0S",
-         "Accuracy": 5,
          "LatLong": "48.048,-84.6727"
         },
         {
@@ -7618,19 +6873,16 @@
         {
          "Name": "North Bay South",
          "PostCode": "P1A",
-         "Accuracy": 1,
          "LatLong": "46.2801,-79.4502"
         },
         {
          "Name": "North Bay Central",
          "PostCode": "P1B",
-         "Accuracy": 1,
          "LatLong": "46.3364,-79.583"
         },
         {
          "Name": "North Bay North",
          "PostCode": "P1C",
-         "Accuracy": 1,
          "LatLong": "46.3397,-79.4223"
         }
        ]
@@ -7699,19 +6951,16 @@
         {
          "Name": "Timmins Southeast",
          "PostCode": "P4N",
-         "Accuracy": 1,
          "LatLong": "48.4669,-81.3331"
         },
         {
          "Name": "Timmins North",
          "PostCode": "P4P",
-         "Accuracy": 4,
          "LatLong": "48.4985,-81.3448"
         },
         {
          "Name": "Timmins West",
          "PostCode": "P4R",
-         "Accuracy": 1,
          "LatLong": "48.4702,-81.3997"
         }
        ]
@@ -7726,19 +6975,16 @@
         {
          "Name": "Sault Ste. Marie East",
          "PostCode": "P6A",
-         "Accuracy": 1,
          "LatLong": "46.5168,-84.3333"
         },
         {
          "Name": "Sault Ste. Marie Central",
          "PostCode": "P6B",
-         "Accuracy": 1,
          "LatLong": "46.5307,-84.3046"
         },
         {
          "Name": "Sault Ste. Marie North",
          "PostCode": "P6C",
-         "Accuracy": 4,
          "LatLong": "46.5353,-84.3732"
         }
        ]
@@ -7753,43 +6999,36 @@
         {
          "Name": "Thunder Bay Northeast",
          "PostCode": "P7A",
-         "Accuracy": 1,
          "LatLong": "48.4601,-89.2035"
         },
         {
          "Name": "Thunder Bay North Central",
          "PostCode": "P7B",
-         "Accuracy": 1,
          "LatLong": "48.9475,-89.4063"
         },
         {
          "Name": "Thunder Bay Central",
          "PostCode": "P7C",
-         "Accuracy": 1,
          "LatLong": "48.352,-89.4649"
         },
         {
          "Name": "Thunder Bay South Central",
          "PostCode": "P7E",
-         "Accuracy": 1,
          "LatLong": "48.3684,-89.284"
         },
         {
          "Name": "Thunder Bay North",
          "PostCode": "P7G",
-         "Accuracy": 4,
          "LatLong": "48.4001,-89.3168"
         },
         {
          "Name": "Thunder Bay South",
          "PostCode": "P7J",
-         "Accuracy": 1,
          "LatLong": "48.2834,-89.3668"
         },
         {
          "Name": "Thunder Bay West",
          "PostCode": "P7K",
-         "Accuracy": 1,
          "LatLong": "48.3728,-89.3484"
         }
        ]
@@ -7811,7 +7050,6 @@
         {
          "Name": "Prince County (Portage)",
          "PostCode": "C0B",
-         "Accuracy": 1,
          "LatLong": "46.6023,-63.9583"
         }
        ]
@@ -7825,25 +7063,21 @@
         {
          "Name": "Kings and Queens counties (Elmira)",
          "PostCode": "C0A",
-         "Accuracy": 3,
          "LatLong": "46.1668,-62.6487"
         },
         {
          "Name": "Montague",
          "PostCode": "C0A",
-         "Accuracy": 4,
          "LatLong": "46.1668,-62.6487"
         },
         {
          "Name": "Stratford",
          "PostCode": "C1B",
-         "Accuracy": 4,
          "LatLong": "46.2179,-63.0795"
         },
         {
          "Name": "Summerside",
          "PostCode": "C1N",
-         "Accuracy": 4,
          "LatLong": "46.3959,-63.7876"
         }
        ]
@@ -7858,19 +7092,16 @@
         {
          "Name": "Charlottetown Southeast Prince Edward Island Provincial Government",
          "PostCode": "C1A",
-         "Accuracy": 1,
          "LatLong": "46.2716,-63.0165"
         },
         {
          "Name": "Charlottetown North",
          "PostCode": "C1C",
-         "Accuracy": 5,
          "LatLong": "46.2645,-63.0842"
         },
         {
          "Name": "Charlottetown West",
          "PostCode": "C1E",
-         "Accuracy": 1,
          "LatLong": "46.3451,-63.2011"
         }
        ]
@@ -7893,7 +7124,6 @@
        "Places": [
         {
          "PostCode": "G4W",
-         "Accuracy": 4,
          "LatLong": "48.8286,-67.522"
         }
        ]
@@ -7904,7 +7134,6 @@
        "Places": [
         {
          "PostCode": "G5H",
-         "Accuracy": 4,
          "LatLong": "48.5839,-68.1921"
         }
        ]
@@ -7915,7 +7144,6 @@
        "Places": [
         {
          "PostCode": "G5J",
-         "Accuracy": 4,
          "LatLong": "48.4638,-67.4313"
         }
        ]
@@ -7927,19 +7155,16 @@
         {
          "Name": "Rimouski Central",
          "PostCode": "G5L",
-         "Accuracy": 5,
          "LatLong": "48.416,-68.5979"
         },
         {
          "Name": "Rimouski Northeast",
          "PostCode": "G5M",
-         "Accuracy": 1,
          "LatLong": "48.4966,-68.458"
         },
         {
          "Name": "Rimouski Southwest",
          "PostCode": "G5N",
-         "Accuracy": 1,
          "LatLong": "48.3668,-68.4659"
         }
        ]
@@ -7950,7 +7175,6 @@
        "Places": [
         {
          "PostCode": "G5R",
-         "Accuracy": 4,
          "LatLong": "47.8304,-69.5342"
         }
        ]
@@ -7967,7 +7191,6 @@
        "Places": [
         {
          "PostCode": "G7P",
-         "Accuracy": 4,
          "LatLong": "48.5501,-71.3158"
         }
        ]
@@ -7979,19 +7202,16 @@
         {
          "Name": "Alma Southeast",
          "PostCode": "G8B",
-         "Accuracy": 1,
          "LatLong": "48.5548,-71.673"
         },
         {
          "Name": "Alma Southwest",
          "PostCode": "G8C",
-         "Accuracy": 1,
          "LatLong": "48.5278,-71.6364"
         },
         {
          "Name": "Alma North",
          "PostCode": "G8E",
-         "Accuracy": 4,
          "LatLong": "48.6377,-71.6957"
         }
        ]
@@ -8002,7 +7222,6 @@
        "Places": [
         {
          "PostCode": "G8H",
-         "Accuracy": 4,
          "LatLong": "48.5168,-72.2324"
         }
        ]
@@ -8013,7 +7232,6 @@
        "Places": [
         {
          "PostCode": "G8J",
-         "Accuracy": 4,
          "LatLong": "48.5834,-72.3324"
         }
        ]
@@ -8024,7 +7242,6 @@
        "Places": [
         {
          "PostCode": "G8K",
-         "Accuracy": 4,
          "LatLong": "48.6501,-72.4491"
         }
        ]
@@ -8035,7 +7252,6 @@
        "Places": [
         {
          "PostCode": "G8L",
-         "Accuracy": 4,
          "LatLong": "48.8763,-72.212"
         }
        ]
@@ -8046,7 +7262,6 @@
        "Places": [
         {
          "PostCode": "G8M",
-         "Accuracy": 4,
          "LatLong": "48.8832,-72.4487"
         }
        ]
@@ -8057,7 +7272,6 @@
        "Places": [
         {
          "PostCode": "G8N",
-         "Accuracy": 1,
          "LatLong": "48.3473,-71.6786"
         }
        ]
@@ -8073,7 +7287,6 @@
         {
          "Name": "Capitale-Nationale (Stoneham)",
          "PostCode": "G0A",
-         "Accuracy": 4,
          "LatLong": "47.3507,-71.202"
         }
        ]
@@ -8085,79 +7298,66 @@
         {
          "Name": "Quebec Provincial Government",
          "PostCode": "G1A",
-         "Accuracy": 1,
          "LatLong": "46.8588,-71.192"
         },
         {
          "Name": "Quebec City Lower Riverbank",
          "PostCode": "G1J",
-         "Accuracy": 1,
          "LatLong": "46.838,-71.2232"
         },
         {
          "Name": "Quebec City Mid-Riverbank",
          "PostCode": "G1K",
-         "Accuracy": 1,
          "LatLong": "46.814,-71.2194"
         },
         {
          "Name": "Quebec City Northeast",
          "PostCode": "G1L",
-         "Accuracy": 1,
          "LatLong": "46.8304,-71.2455"
         },
         {
          "Name": "Quebec City North Central",
          "PostCode": "G1M",
-         "Accuracy": 1,
          "LatLong": "46.8183,-71.2706"
         },
         {
          "Name": "Quebec City South Central",
          "PostCode": "G1N",
-         "Accuracy": 1,
          "LatLong": "46.8035,-71.2639"
         },
         {
          "Name": "Quebec City West",
          "PostCode": "G1P",
-         "Accuracy": 1,
          "LatLong": "46.8097,-71.3102"
         },
         {
          "Name": "Quebec City East",
          "PostCode": "G1R",
-         "Accuracy": 1,
          "LatLong": "46.8074,-71.2181"
         },
         {
          "Name": "Quebec City South",
          "PostCode": "G1S",
-         "Accuracy": 1,
          "LatLong": "46.7933,-71.2453"
         },
         {
          "Name": "Quebec City Upper Riverbank",
          "PostCode": "G1T",
-         "Accuracy": 1,
          "LatLong": "46.7741,-71.2609"
         },
         {
          "Name": "Quebec City Northwest",
          "PostCode": "G2C",
-         "Accuracy": 1,
          "LatLong": "46.8287,-71.334"
         },
         {
          "Name": "Quebec City Inner North",
          "PostCode": "G2J",
-         "Accuracy": 1,
          "LatLong": "46.8399,-71.2781"
         },
         {
          "Name": "Quebec City Outer North",
          "PostCode": "G2K",
-         "Accuracy": 1,
          "LatLong": "46.8545,-71.3044"
         }
        ]
@@ -8169,7 +7369,6 @@
         {
          "Name": "L'Ancienne-Lorette Northeast",
          "PostCode": "G2E",
-         "Accuracy": 1,
          "LatLong": "46.8083,-71.3605"
         }
        ]
@@ -8180,7 +7379,6 @@
        "Places": [
         {
          "PostCode": "G3B",
-         "Accuracy": 1,
          "LatLong": "46.9833,-71.2906"
         }
        ]
@@ -8191,7 +7389,6 @@
        "Places": [
         {
          "PostCode": "G3C",
-         "Accuracy": 1,
          "LatLong": "47.1691,-71.4332"
         }
        ]
@@ -8202,7 +7399,6 @@
        "Places": [
         {
          "PostCode": "G3H",
-         "Accuracy": 4,
          "LatLong": "46.7547,-71.6957"
         }
        ]
@@ -8213,7 +7409,6 @@
        "Places": [
         {
          "PostCode": "G3M",
-         "Accuracy": 4,
          "LatLong": "46.6804,-71.7239"
         }
        ]
@@ -8224,7 +7419,6 @@
        "Places": [
         {
          "PostCode": "G3N",
-         "Accuracy": 4,
          "LatLong": "46.8524,-71.6206"
         }
        ]
@@ -8235,7 +7429,6 @@
        "Places": [
         {
          "PostCode": "G3Z",
-         "Accuracy": 4,
          "LatLong": "47.4411,-70.4986"
         }
        ]
@@ -8246,7 +7439,6 @@
        "Places": [
         {
          "PostCode": "G4A",
-         "Accuracy": 1,
          "LatLong": "47.7184,-70.2276"
         }
        ]
@@ -8257,7 +7449,6 @@
        "Places": [
         {
          "PostCode": "G5A",
-         "Accuracy": 4,
          "LatLong": "47.6575,-70.1559"
         }
        ]
@@ -8273,7 +7464,6 @@
         {
          "Name": "Mauricie (Parent)",
          "PostCode": "G0X",
-         "Accuracy": 4,
          "LatLong": "47.9168,-74.6159"
         }
        ]
@@ -8284,7 +7474,6 @@
        "Places": [
         {
          "PostCode": "G9X",
-         "Accuracy": 4,
          "LatLong": "47.4334,-72.7824"
         }
        ]
@@ -8295,7 +7484,6 @@
        "Places": [
         {
          "PostCode": "J5V",
-         "Accuracy": 4,
          "LatLong": "46.2559,-72.9415"
         }
        ]
@@ -8311,7 +7499,6 @@
         {
          "Name": "Estrie-Est (Stanstead)",
          "PostCode": "J0B",
-         "Accuracy": 4,
          "LatLong": "45.1001,-72.0491"
         }
        ]
@@ -8322,7 +7509,6 @@
        "Places": [
         {
          "PostCode": "J1S",
-         "Accuracy": 4,
          "LatLong": "45.5668,-71.9991"
         }
        ]
@@ -8333,7 +7519,6 @@
        "Places": [
         {
          "PostCode": "J1T",
-         "Accuracy": 4,
          "LatLong": "45.7668,-71.9324"
         }
        ]
@@ -8344,7 +7529,6 @@
        "Places": [
         {
          "PostCode": "J1X",
-         "Accuracy": 4,
          "LatLong": "45.2668,-72.1491"
         }
        ]
@@ -8360,19 +7544,16 @@
         {
          "Name": "Montreal East",
          "PostCode": "H1B",
-         "Accuracy": 4,
          "LatLong": "45.632,-73.5075"
         },
         {
          "Name": "Montreal North North",
          "PostCode": "H1G",
-         "Accuracy": 1,
          "LatLong": "45.6109,-73.6211"
         },
         {
          "Name": "Montreal North South",
          "PostCode": "H1H",
-         "Accuracy": 1,
          "LatLong": "45.5899,-73.6389"
         },
         {
@@ -8388,31 +7569,26 @@
         {
          "Name": "Downtown Montreal North",
          "PostCode": "H3A",
-         "Accuracy": 1,
          "LatLong": "45.504,-73.5747"
         },
         {
          "Name": "Downtown Montreal East",
          "PostCode": "H3B",
-         "Accuracy": 1,
          "LatLong": "45.5005,-73.5684"
         },
         {
          "Name": "Downtown Montreal Southeast",
          "PostCode": "H3G",
-         "Accuracy": 1,
          "LatLong": "45.4987,-73.5793"
         },
         {
          "Name": "Downtown Montreal South & West",
          "PostCode": "H3H",
-         "Accuracy": 1,
          "LatLong": "45.5009,-73.5877"
         },
         {
          "Name": "Montreal West",
          "PostCode": "H4X",
-         "Accuracy": 4,
          "LatLong": "45.4529,-73.6492"
         }
        ]
@@ -8429,7 +7605,6 @@
        "Places": [
         {
          "PostCode": "H3X",
-         "Accuracy": 4,
          "LatLong": "45.4819,-73.6421"
         }
        ]
@@ -8441,13 +7616,11 @@
         {
          "Name": "Westmount West",
          "PostCode": "H3Y",
-         "Accuracy": 1,
          "LatLong": "45.4876,-73.6045"
         },
         {
          "Name": "Westmount East",
          "PostCode": "H3Z",
-         "Accuracy": 1,
          "LatLong": "45.4825,-73.5933"
         }
        ]
@@ -8459,7 +7632,6 @@
         {
          "Name": "Côte-Saint-Luc West",
          "PostCode": "H4W",
-         "Accuracy": 5,
          "LatLong": "45.47,-73.6686"
         }
        ]
@@ -8470,7 +7642,6 @@
        "Places": [
         {
          "PostCode": "H9J",
-         "Accuracy": 4,
          "LatLong": "45.4501,-73.8659"
         }
        ]
@@ -8482,7 +7653,6 @@
         {
          "Name": "Dorval Outskirts",
          "PostCode": "H9P",
-         "Accuracy": 5,
          "LatLong": "45.4679,-73.7748"
         }
        ]
@@ -8493,7 +7663,6 @@
        "Places": [
         {
          "PostCode": "H9R",
-         "Accuracy": 4,
          "LatLong": "45.4487,-73.8167"
         }
        ]
@@ -8504,7 +7673,6 @@
        "Places": [
         {
          "PostCode": "H9W",
-         "Accuracy": 4,
          "LatLong": "45.4334,-73.8659"
         }
        ]
@@ -8520,7 +7688,6 @@
         {
          "Name": "Outaouais-Sud (Thurso)",
          "PostCode": "J0X",
-         "Accuracy": 1,
          "LatLong": "46.307,-76.7653"
         }
        ]
@@ -8531,7 +7698,6 @@
        "Places": [
         {
          "PostCode": "J8N",
-         "Accuracy": 4,
          "LatLong": "45.6501,-75.666"
         }
        ]
@@ -8542,7 +7708,6 @@
        "Places": [
         {
          "PostCode": "J9B",
-         "Accuracy": 4,
          "LatLong": "45.5001,-75.7827"
         }
        ]
@@ -8553,7 +7718,6 @@
        "Places": [
         {
          "PostCode": "J9E",
-         "Accuracy": 4,
          "LatLong": "46.3834,-75.966"
         }
        ]
@@ -8569,7 +7733,6 @@
         {
          "Name": "Abitibi-Témiscamingue-Ouest (Guigues)",
          "PostCode": "J0Z",
-         "Accuracy": 1,
          "LatLong": "47.8626,-78.824"
         }
        ]
@@ -8580,7 +7743,6 @@
        "Places": [
         {
          "PostCode": "J9P",
-         "Accuracy": 4,
          "LatLong": "48.1002,-77.7828"
         }
        ]
@@ -8591,7 +7753,6 @@
        "Places": [
         {
          "PostCode": "J9T",
-         "Accuracy": 4,
          "LatLong": "48.5669,-78.1162"
         }
        ]
@@ -8602,7 +7763,6 @@
        "Places": [
         {
          "PostCode": "J9V",
-         "Accuracy": 4,
          "LatLong": "47.3334,-79.433"
         }
        ]
@@ -8613,7 +7773,6 @@
        "Places": [
         {
          "PostCode": "J9Z",
-         "Accuracy": 4,
          "LatLong": "48.8002,-79.1996"
         }
        ]
@@ -8629,7 +7788,6 @@
         {
          "Name": "Côte-Nord/Anticosti (Schefferville)",
          "PostCode": "G0G",
-         "Accuracy": 5,
          "LatLong": "53.0413,-68.6884"
         }
        ]
@@ -8641,7 +7799,6 @@
         {
          "Name": "Sept-Îles Northwest",
          "PostCode": "G4S",
-         "Accuracy": 1,
          "LatLong": "50.2713,-66.3751"
         }
        ]
@@ -8652,7 +7809,6 @@
        "Places": [
         {
          "PostCode": "G5B",
-         "Accuracy": 4,
          "LatLong": "50.0334,-66.8655"
         }
        ]
@@ -8669,7 +7825,6 @@
        "Places": [
         {
          "PostCode": "G8P",
-         "Accuracy": 4,
          "LatLong": "49.9168,-74.3659"
         }
        ]
@@ -8686,7 +7841,6 @@
        "Places": [
         {
          "PostCode": "G4X",
-         "Accuracy": 4,
          "LatLong": "48.8334,-64.4819"
         }
        ]
@@ -8703,7 +7857,6 @@
        "Places": [
         {
          "PostCode": "G5V",
-         "Accuracy": 4,
          "LatLong": "46.9804,-70.5549"
         }
        ]
@@ -8714,7 +7867,6 @@
        "Places": [
         {
          "PostCode": "G5X",
-         "Accuracy": 4,
          "LatLong": "46.2179,-70.7787"
         }
        ]
@@ -8726,19 +7878,16 @@
         {
          "Name": "Saint-Georges Central",
          "PostCode": "G5Y",
-         "Accuracy": 1,
          "LatLong": "46.1326,-70.6375"
         },
         {
          "Name": "Saint-Georges Southeast",
          "PostCode": "G5Z",
-         "Accuracy": 1,
          "LatLong": "46.0642,-70.7118"
         },
         {
          "Name": "Saint-Georges Northwest",
          "PostCode": "G6A",
-         "Accuracy": 1,
          "LatLong": "46.1437,-70.6817"
         }
        ]
@@ -8749,7 +7898,6 @@
        "Places": [
         {
          "PostCode": "G6E",
-         "Accuracy": 4,
          "LatLong": "46.434,-71.0117"
         }
        ]
@@ -8760,7 +7908,6 @@
        "Places": [
         {
          "PostCode": "G6G",
-         "Accuracy": 4,
          "LatLong": "46.0937,-71.3054"
         }
        ]
@@ -8772,13 +7919,11 @@
         {
          "Name": "Lévis North",
          "PostCode": "G6V",
-         "Accuracy": 4,
          "LatLong": "46.8033,-71.1779"
         },
         {
          "Name": "Lévis South",
          "PostCode": "G6W",
-         "Accuracy": 1,
          "LatLong": "46.7546,-71.22"
         }
        ]
@@ -8803,13 +7948,11 @@
         {
          "Name": "Laval-des-Rapides",
          "PostCode": "H7N",
-         "Accuracy": 4,
          "LatLong": "45.5501,-73.6992"
         },
         {
          "Name": "Laval-sur-le-Lac",
          "PostCode": "H7R",
-         "Accuracy": 1,
          "LatLong": "45.5526,-73.8507"
         }
        ]
@@ -8825,7 +7968,6 @@
         {
          "Name": "Lanaudière-Nord (Saint-Esprit)",
          "PostCode": "J0K",
-         "Accuracy": 1,
          "LatLong": "46.7966,-73.8705"
         }
        ]
@@ -8836,7 +7978,6 @@
        "Places": [
         {
          "PostCode": "J5M",
-         "Accuracy": 4,
          "LatLong": "45.8501,-73.7659"
         }
        ]
@@ -8847,7 +7988,6 @@
        "Places": [
         {
          "PostCode": "J5T",
-         "Accuracy": 4,
          "LatLong": "45.8834,-73.2825"
         }
        ]
@@ -8858,7 +7998,6 @@
        "Places": [
         {
          "PostCode": "J5X",
-         "Accuracy": 4,
          "LatLong": "45.8501,-73.4825"
         }
        ]
@@ -8870,19 +8009,16 @@
         {
          "Name": "Repentigny Northeast",
          "PostCode": "J5Y",
-         "Accuracy": 1,
          "LatLong": "45.7774,-73.4252"
         },
         {
          "Name": "Repentigny West",
          "PostCode": "J5Z",
-         "Accuracy": 1,
          "LatLong": "45.7643,-73.5036"
         },
         {
          "Name": "Repentigny South",
          "PostCode": "J6A",
-         "Accuracy": 1,
          "LatLong": "45.7395,-73.4588"
         }
        ]
@@ -8894,25 +8030,21 @@
         {
          "Name": "Terrebonne East",
          "PostCode": "J6V",
-         "Accuracy": 1,
          "LatLong": "45.714,-73.5357"
         },
         {
          "Name": "Terrebonne Central",
          "PostCode": "J6W",
-         "Accuracy": 1,
          "LatLong": "45.7064,-73.6178"
         },
         {
          "Name": "Terrebonne Northwest",
          "PostCode": "J6X",
-         "Accuracy": 1,
          "LatLong": "45.7275,-73.7062"
         },
         {
          "Name": "Terrebonne Southwest",
          "PostCode": "J6Y",
-         "Accuracy": 1,
          "LatLong": "45.7,-73.752"
         }
        ]
@@ -8924,13 +8056,11 @@
         {
          "Name": "Mascouche Extremities",
          "PostCode": "J7K",
-         "Accuracy": 1,
          "LatLong": "45.77,-73.6049"
         },
         {
          "Name": "Mascouche Central",
          "PostCode": "J7L",
-         "Accuracy": 1,
          "LatLong": "45.7424,-73.6509"
         }
        ]
@@ -8946,7 +8076,6 @@
         {
          "Name": "Laurentides-Nord (Montcalm)",
          "PostCode": "J0T",
-         "Accuracy": 1,
          "LatLong": "46.3002,-74.5855"
         }
        ]
@@ -8957,7 +8086,6 @@
        "Places": [
         {
          "PostCode": "J5K",
-         "Accuracy": 4,
          "LatLong": "45.7334,-74.1325"
         }
        ]
@@ -8969,19 +8097,16 @@
         {
          "Name": "Saint-Jérôme West",
          "PostCode": "J5L",
-         "Accuracy": 1,
          "LatLong": "45.7987,-74.0727"
         },
         {
          "Name": "Saint-Jérôme North",
          "PostCode": "J7Y",
-         "Accuracy": 4,
          "LatLong": "45.8058,-74.0165"
         },
         {
          "Name": "Saint-Jérôme Southeast",
          "PostCode": "J7Z",
-         "Accuracy": 1,
          "LatLong": "45.7788,-73.9829"
         }
        ]
@@ -8993,7 +8118,6 @@
         {
          "Name": "Sainte-Thérèse-de-Blainville Central",
          "PostCode": "J7E",
-         "Accuracy": 5,
          "LatLong": "45.6442,-73.8448"
         }
        ]
@@ -9005,13 +8129,11 @@
         {
          "Name": "Saint-Eustache Northeast",
          "PostCode": "J7P",
-         "Accuracy": 1,
          "LatLong": "45.5779,-73.8809"
         },
         {
          "Name": "Saint-Eustache Southwest",
          "PostCode": "J7R",
-         "Accuracy": 1,
          "LatLong": "45.574,-73.94"
         }
        ]
@@ -9022,7 +8144,6 @@
        "Places": [
         {
          "PostCode": "J8A",
-         "Accuracy": 4,
          "LatLong": "45.9334,-74.0159"
         }
        ]
@@ -9033,7 +8154,6 @@
        "Places": [
         {
          "PostCode": "J8B",
-         "Accuracy": 4,
          "LatLong": "45.9501,-74.1325"
         }
        ]
@@ -9044,7 +8164,6 @@
        "Places": [
         {
          "PostCode": "J8E",
-         "Accuracy": 4,
          "LatLong": "46.1949,-74.6264"
         }
        ]
@@ -9055,7 +8174,6 @@
        "Places": [
         {
          "PostCode": "J8H",
-         "Accuracy": 4,
          "LatLong": "45.6501,-74.3325"
         }
        ]
@@ -9066,7 +8184,6 @@
        "Places": [
         {
          "PostCode": "J9L",
-         "Accuracy": 4,
          "LatLong": "46.5501,-75.4993"
         }
        ]
@@ -9082,19 +8199,16 @@
         {
          "Name": "Montérégie-Est (Bedford)",
          "PostCode": "J0J",
-         "Accuracy": 1,
          "LatLong": "45.1529,-73.1636"
         },
         {
          "Name": "Montérégie-Nord (Saint-Antoine-Sur-Richelieu)",
          "PostCode": "J0L",
-         "Accuracy": 5,
          "LatLong": "45.1956,-73.5695"
         },
         {
          "Name": "Montérégie-Ouest (Saint-Anicet)",
          "PostCode": "J0S",
-         "Accuracy": 1,
          "LatLong": "45.1082,-74.0451"
         }
        ]
@@ -9106,19 +8220,16 @@
         {
          "Name": "Granby Central",
          "PostCode": "J2G",
-         "Accuracy": 1,
          "LatLong": "45.4046,-72.7202"
         },
         {
          "Name": "Granby East",
          "PostCode": "J2H",
-         "Accuracy": 1,
          "LatLong": "45.3938,-72.7005"
         },
         {
          "Name": "Granby West",
          "PostCode": "J2J",
-         "Accuracy": 1,
          "LatLong": "45.4005,-72.7825"
         }
        ]
@@ -9129,7 +8240,6 @@
        "Places": [
         {
          "PostCode": "J2K",
-         "Accuracy": 4,
          "LatLong": "45.2001,-72.7491"
         }
        ]
@@ -9140,7 +8250,6 @@
        "Places": [
         {
          "PostCode": "J2L",
-         "Accuracy": 4,
          "LatLong": "45.3168,-72.6491"
         }
        ]
@@ -9151,7 +8260,6 @@
        "Places": [
         {
          "PostCode": "J2M",
-         "Accuracy": 4,
          "LatLong": "45.3501,-72.5658"
         }
        ]
@@ -9162,7 +8270,6 @@
        "Places": [
         {
          "PostCode": "J2N",
-         "Accuracy": 4,
          "LatLong": "45.2834,-72.9824"
         }
        ]
@@ -9174,19 +8281,16 @@
         {
          "Name": "Saint-Hyacinthe Northwest",
          "PostCode": "J2R",
-         "Accuracy": 1,
          "LatLong": "45.6567,-72.9237"
         },
         {
          "Name": "Saint-Hyacinthe Southwest",
          "PostCode": "J2S",
-         "Accuracy": 1,
          "LatLong": "45.6139,-72.9912"
         },
         {
          "Name": "Saint-Hyacinthe East",
          "PostCode": "J2T",
-         "Accuracy": 1,
          "LatLong": "45.5971,-72.9366"
         }
        ]
@@ -9198,25 +8302,21 @@
         {
          "Name": "Saint-Jean-sur-Richelieu East",
          "PostCode": "J2X",
-         "Accuracy": 1,
          "LatLong": "45.309,-73.219"
         },
         {
          "Name": "Saint-Jean-sur-Richelieu West",
          "PostCode": "J2Y",
-         "Accuracy": 1,
          "LatLong": "45.3114,-73.3556"
         },
         {
          "Name": "Saint-Jean-sur-Richelieu North",
          "PostCode": "J3A",
-         "Accuracy": 4,
          "LatLong": "45.3339,-73.2744"
         },
         {
          "Name": "Saint-Jean-sur-Richelieu Central",
          "PostCode": "J3B",
-         "Accuracy": 1,
          "LatLong": "45.2832,-73.2792"
         }
        ]
@@ -9227,7 +8327,6 @@
        "Places": [
         {
          "PostCode": "J3E",
-         "Accuracy": 4,
          "LatLong": "45.5834,-73.3325"
         }
        ]
@@ -9239,7 +8338,6 @@
         {
          "Name": "Beloeil West",
          "PostCode": "J3G",
-         "Accuracy": 1,
          "LatLong": "45.5946,-73.2283"
         }
        ]
@@ -9250,7 +8348,6 @@
        "Places": [
         {
          "PostCode": "J3L",
-         "Accuracy": 4,
          "LatLong": "45.4501,-73.2825"
         }
        ]
@@ -9261,7 +8358,6 @@
        "Places": [
         {
          "PostCode": "J3M",
-         "Accuracy": 4,
          "LatLong": "45.4334,-73.1659"
         }
        ]
@@ -9272,7 +8368,6 @@
        "Places": [
         {
          "PostCode": "J3X",
-         "Accuracy": 4,
          "LatLong": "45.6834,-73.4325"
         }
        ]
@@ -9283,7 +8378,6 @@
        "Places": [
         {
          "PostCode": "J4B",
-         "Accuracy": 4,
          "LatLong": "45.591,-73.4361"
         }
        ]
@@ -9295,19 +8389,16 @@
         {
          "Name": "Saint-Lambert North",
          "PostCode": "J4P",
-         "Accuracy": 1,
          "LatLong": "45.5073,-73.5082"
         },
         {
          "Name": "Saint-Lambert Central",
          "PostCode": "J4R",
-         "Accuracy": 1,
          "LatLong": "45.4924,-73.5009"
         },
         {
          "Name": "Saint-Lambert South",
          "PostCode": "J4S",
-         "Accuracy": 1,
          "LatLong": "45.481,-73.497"
         }
        ]
@@ -9319,25 +8410,21 @@
         {
          "Name": "Brossard Northwest",
          "PostCode": "J4W",
-         "Accuracy": 1,
          "LatLong": "45.4674,-73.4832"
         },
         {
          "Name": "Brossard Southwest",
          "PostCode": "J4X",
-         "Accuracy": 1,
          "LatLong": "45.4455,-73.4841"
         },
         {
          "Name": "Brossard South",
          "PostCode": "J4Y",
-         "Accuracy": 1,
          "LatLong": "45.4414,-73.4561"
         },
         {
          "Name": "Brossard Northeast",
          "PostCode": "J4Z",
-         "Accuracy": 1,
          "LatLong": "45.4424,-73.4231"
         }
        ]
@@ -9348,7 +8435,6 @@
        "Places": [
         {
          "PostCode": "J5A",
-         "Accuracy": 4,
          "LatLong": "45.3668,-73.5659"
         }
        ]
@@ -9359,7 +8445,6 @@
        "Places": [
         {
          "PostCode": "J5B",
-         "Accuracy": 4,
          "LatLong": "45.3668,-73.5492"
         }
        ]
@@ -9370,7 +8455,6 @@
        "Places": [
         {
          "PostCode": "J5C",
-         "Accuracy": 4,
          "LatLong": "45.4001,-73.5825"
         }
        ]
@@ -9381,7 +8465,6 @@
        "Places": [
         {
          "PostCode": "J5R",
-         "Accuracy": 4,
          "LatLong": "45.4168,-73.4992"
         }
        ]
@@ -9393,13 +8476,11 @@
         {
          "Name": "Châteauguay North",
          "PostCode": "J6J",
-         "Accuracy": 1,
          "LatLong": "45.3691,-73.7216"
         },
         {
          "Name": "Châteauguay South",
          "PostCode": "J6K",
-         "Accuracy": 1,
          "LatLong": "45.3526,-73.7305"
         }
        ]
@@ -9410,7 +8491,6 @@
        "Places": [
         {
          "PostCode": "J6N",
-         "Accuracy": 4,
          "LatLong": "45.3168,-73.8659"
         }
        ]
@@ -9421,7 +8501,6 @@
        "Places": [
         {
          "PostCode": "J6R",
-         "Accuracy": 4,
          "LatLong": "45.3168,-73.7492"
         }
        ]
@@ -9433,13 +8512,11 @@
         {
          "Name": "Salaberry-de-Valleyfield North",
          "PostCode": "J6S",
-         "Accuracy": 4,
          "LatLong": "45.2702,-74.0482"
         },
         {
          "Name": "Salaberry-de-Valleyfield South",
          "PostCode": "J6T",
-         "Accuracy": 1,
          "LatLong": "45.2409,-74.1098"
         }
        ]
@@ -9450,7 +8527,6 @@
        "Places": [
         {
          "PostCode": "J7V",
-         "Accuracy": 4,
          "LatLong": "45.4001,-74.0325"
         }
        ]
@@ -9466,25 +8542,21 @@
         {
          "Name": "Centre-du-Québec-Est (Saint-Valère)",
          "PostCode": "G0P",
-         "Accuracy": 1,
          "LatLong": "46.0119,-71.7199"
         },
         {
          "Name": "Centre-du-Québec-Nord (Daveluyville)",
          "PostCode": "G0Z",
-         "Accuracy": 1,
          "LatLong": "46.179,-72.1569"
         },
         {
          "Name": "Centre-du-Québec-Sud (Warwick)",
          "PostCode": "J0A",
-         "Accuracy": 1,
          "LatLong": "45.8382,-71.9542"
         },
         {
          "Name": "Centre-du-Québec-Ouest (Saint-Bonaventure)",
          "PostCode": "J0C",
-         "Accuracy": 5,
          "LatLong": "45.8567,-72.6966"
         }
        ]
@@ -9495,7 +8567,6 @@
        "Places": [
         {
          "PostCode": "G6L",
-         "Accuracy": 4,
          "LatLong": "46.2186,-71.762"
         }
        ]
@@ -9507,13 +8578,11 @@
         {
          "Name": "Victoriaville Central",
          "PostCode": "G6P",
-         "Accuracy": 1,
          "LatLong": "46.0529,-71.9477"
         },
         {
          "Name": "Victoriaville Northwest",
          "PostCode": "G6T",
-         "Accuracy": 1,
          "LatLong": "46.0828,-71.9728"
         }
        ]
@@ -9525,19 +8594,16 @@
         {
          "Name": "Drummondville Southeast",
          "PostCode": "J2A",
-         "Accuracy": 1,
          "LatLong": "45.8152,-72.4027"
         },
         {
          "Name": "Drummondville Central",
          "PostCode": "J2C",
-         "Accuracy": 1,
          "LatLong": "45.8893,-72.5055"
         },
         {
          "Name": "Drummondville Northwest",
          "PostCode": "J2E",
-         "Accuracy": 1,
          "LatLong": "45.9099,-72.5289"
         }
        ]
@@ -9548,7 +8614,6 @@
        "Places": [
         {
          "PostCode": "J3T",
-         "Accuracy": 4,
          "LatLong": "46.2168,-72.6158"
         }
        ]
@@ -9562,253 +8627,211 @@
         {
          "Name": "Cap-aux-Meules",
          "PostCode": "G0B",
-         "Accuracy": 1,
          "LatLong": "47.4501,-72.9913"
         },
         {
          "Name": "Gaspésie-Sud (New Richmond)",
          "PostCode": "G0C",
-         "Accuracy": 1,
          "LatLong": "48.3429,-65.5961"
         },
         {
          "Name": "Gaspésie-Nord (Grande-Vallée)",
          "PostCode": "G0E",
-         "Accuracy": 1,
          "LatLong": "48.9182,-65.3736"
         },
         {
          "Name": "Manicouagan (Baie-Trinité)",
          "PostCode": "G0H",
-         "Accuracy": 1,
          "LatLong": "49.3795,-67.8948"
         },
         {
          "Name": "Gaspésie-Ouest (Causapscal)",
          "PostCode": "G0J",
-         "Accuracy": 1,
          "LatLong": "48.5246,-67.0565"
         },
         {
          "Name": "Bas-St-Laurent-Est (Sainte-Luce)",
          "PostCode": "G0K",
-         "Accuracy": 1,
          "LatLong": "48.159,-68.1951"
         },
         {
          "Name": "Bas-St-Laurent-Ouest (Trois-Pistoles)",
          "PostCode": "G0L",
-         "Accuracy": 1,
          "LatLong": "47.7136,-69.1658"
         },
         {
          "Name": "Chaudière-Sud (Disraeli)",
          "PostCode": "G0N",
-         "Accuracy": 5,
          "LatLong": "46.0988,-71.1248"
         },
         {
          "Name": "Appalaches (La Pocatière)",
          "PostCode": "G0R",
-         "Accuracy": 1,
          "LatLong": "46.798,-70.3288"
         },
         {
          "Name": "Chaudière-Nord (Saint-Joseph-De-Beauce)",
          "PostCode": "G0S",
-         "Accuracy": 1,
          "LatLong": "46.4526,-71.4397"
         },
         {
          "Name": "Le Fjord (Forestville)",
          "PostCode": "G0T",
-         "Accuracy": 1,
          "LatLong": "49.0143,-69.6231"
         },
         {
          "Name": "Saguenay-Lac-St-Jean (Alouette)",
          "PostCode": "G0V",
-         "Accuracy": 1,
          "LatLong": "50.1719,-70.6283"
         },
         {
          "Name": "L'Erable (Nantes)",
          "PostCode": "G0Y",
-         "Accuracy": 1,
          "LatLong": "45.6242,-71.0191"
         },
         {
          "Name": "Jean-Talon Southeast",
          "PostCode": "G1G",
-         "Accuracy": 1,
          "LatLong": "46.8765,-71.2839"
         },
         {
          "Name": "Charlesbourg South",
          "PostCode": "G1H",
-         "Accuracy": 1,
          "LatLong": "46.8528,-71.2573"
         },
         {
          "Name": "Cap-Rouge",
          "PostCode": "G1Y",
-         "Accuracy": 1,
          "LatLong": "46.7507,-71.3562"
         },
         {
          "Name": "L'Ancienne-Lorette Southwest",
          "PostCode": "G2G",
-         "Accuracy": 1,
          "LatLong": "46.7903,-71.4157"
         },
         {
          "Name": "Charlesbourg North",
          "PostCode": "G2L",
-         "Accuracy": 4,
          "LatLong": "46.8895,-71.2545"
         },
         {
          "Name": "St-Augustin-De-Desmaures",
          "PostCode": "G3A",
-         "Accuracy": 4,
          "LatLong": "46.7406,-71.4513"
         },
         {
          "Name": "Saint-Émile",
          "PostCode": "G3E",
-         "Accuracy": 4,
          "LatLong": "46.8779,-71.3408"
         },
         {
          "Name": "Lac-Saint-Charles",
          "PostCode": "G3G",
-         "Accuracy": 4,
          "LatLong": "46.9242,-71.3958"
         },
         {
          "Name": "Saint-Raymond",
          "PostCode": "G3L",
-         "Accuracy": 5,
          "LatLong": "47.2374,-71.8763"
         },
         {
          "Name": "Sept-Îles Southeast",
          "PostCode": "G4R",
-         "Accuracy": 1,
          "LatLong": "50.8558,-67.0511"
         },
         {
          "Name": "Les Îles-De-La-Madeleine",
          "PostCode": "G4T",
-         "Accuracy": 1,
          "LatLong": "47.3999,-61.7996"
         },
         {
          "Name": "Sainte-Anne-Des-Monts",
          "PostCode": "G4V",
-         "Accuracy": 1,
          "LatLong": "48.9711,-66.3082"
         },
         {
          "Name": "Baie-Comeau Northeast",
          "PostCode": "G4Z",
-         "Accuracy": 1,
          "LatLong": "51.0872,-68.632"
         },
         {
          "Name": "Baie-Comeau Southwest",
          "PostCode": "G5C",
-         "Accuracy": 1,
          "LatLong": "50.3474,-69.0411"
         },
         {
          "Name": "Degelis",
          "PostCode": "G5T",
-         "Accuracy": 4,
          "LatLong": "47.5473,-68.6431"
         },
         {
          "Name": "Lac-Megantic",
          "PostCode": "G6B",
-         "Accuracy": 4,
          "LatLong": "45.5834,-70.8823"
         },
         {
          "Name": "Pintendre",
          "PostCode": "G6C",
-         "Accuracy": 1,
          "LatLong": "46.7701,-71.0906"
         },
         {
          "Name": "Black Lake",
          "PostCode": "G6H",
-         "Accuracy": 5,
          "LatLong": "46.07,-71.4393"
         },
         {
          "Name": "Saint-Etienne-De-Lauzon",
          "PostCode": "G6J",
-         "Accuracy": 1,
          "LatLong": "46.6358,-71.3098"
         },
         {
          "Name": "Saint-Redempteur",
          "PostCode": "G6K",
-         "Accuracy": 4,
          "LatLong": "46.688,-71.3028"
         },
         {
          "Name": "Charny",
          "PostCode": "G6X",
-         "Accuracy": 1,
          "LatLong": "46.7151,-71.2612"
         },
         {
          "Name": "Saint-Jean-Chrysostome",
          "PostCode": "G6Z",
-         "Accuracy": 1,
          "LatLong": "46.6901,-71.1849"
         },
         {
          "Name": "Saint-Nicolas",
          "PostCode": "G7A",
-         "Accuracy": 1,
          "LatLong": "46.6842,-71.3827"
         },
         {
          "Name": "La Baie",
          "PostCode": "G7B",
-         "Accuracy": 4,
          "LatLong": "48.3398,-70.8893"
         },
         {
          "Name": "Laterrière",
          "PostCode": "G7N",
-         "Accuracy": 1,
          "LatLong": "48.2007,-71.1426"
         },
         {
          "Name": "Jonquière West",
          "PostCode": "G8A",
-         "Accuracy": 5,
          "LatLong": "48.4233,-71.3629"
         },
         {
          "Name": "Métabetchouan-Lac-a-la-Croix",
          "PostCode": "G8G",
-         "Accuracy": 1,
          "LatLong": "47.8076,-71.5907"
         },
         {
          "Name": "Becancour",
          "PostCode": "G9H",
-         "Accuracy": 4,
          "LatLong": "46.3334,-72.4324"
         },
         {
          "Name": "Grand-Mère",
          "PostCode": "G9T",
-         "Accuracy": 1,
          "LatLong": "46.6315,-72.737"
         },
         {
@@ -9824,37 +8847,31 @@
         {
          "Name": "Pointe-Aux-Trembles",
          "PostCode": "H1A",
-         "Accuracy": 4,
          "LatLong": "45.6753,-73.5016"
         },
         {
          "Name": "Rivière-des-Prairies Northeast",
          "PostCode": "H1C",
-         "Accuracy": 1,
          "LatLong": "45.6656,-73.5367"
         },
         {
          "Name": "Rivière-Des-Prairies Southwest",
          "PostCode": "H1E",
-         "Accuracy": 1,
          "LatLong": "45.6342,-73.5842"
         },
         {
          "Name": "Maisonneuve",
          "PostCode": "H1V",
-         "Accuracy": 1,
          "LatLong": "45.5585,-73.5386"
         },
         {
          "Name": "Hochelaga",
          "PostCode": "H1W",
-         "Accuracy": 1,
          "LatLong": "45.5442,-73.5468"
         },
         {
          "Name": "Saint-Michel West",
          "PostCode": "H1Z",
-         "Accuracy": 1,
          "LatLong": "45.5694,-73.6221"
         },
         {
@@ -9880,403 +8897,336 @@
         {
          "Name": "Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène)",
          "PostCode": "H3C",
-         "Accuracy": 1,
          "LatLong": "45.498,-73.5472"
         },
         {
          "Name": "L'Île-Des-Soeurs",
          "PostCode": "H3E",
-         "Accuracy": 1,
          "LatLong": "45.4594,-73.5501"
         },
         {
          "Name": "Petite-Bourgogne",
          "PostCode": "H3J",
-         "Accuracy": 1,
          "LatLong": "45.4861,-73.5732"
         },
         {
          "Name": "Pointe-Saint-Charles",
          "PostCode": "H3K",
-         "Accuracy": 1,
          "LatLong": "45.4805,-73.5554"
         },
         {
          "Name": "Ahuntsic Southwest",
          "PostCode": "H3L",
-         "Accuracy": 1,
          "LatLong": "45.5467,-73.6718"
         },
         {
          "Name": "Cartierville Northeast",
          "PostCode": "H3M",
-         "Accuracy": 1,
          "LatLong": "45.5383,-73.6932"
         },
         {
          "Name": "Parc-Extension",
          "PostCode": "H3N",
-         "Accuracy": 1,
          "LatLong": "45.5302,-73.6327"
         },
         {
          "Name": "Saint-Henri",
          "PostCode": "H4C",
-         "Accuracy": 4,
          "LatLong": "45.4737,-73.5882"
         },
         {
          "Name": "Ville Émard",
          "PostCode": "H4E",
-         "Accuracy": 1,
          "LatLong": "45.4546,-73.5985"
         },
         {
          "Name": "Mount Royal South",
          "PostCode": "H4P",
-         "Accuracy": 1,
          "LatLong": "45.4964,-73.6647"
         },
         {
          "Name": "Côte-Saint-Luc East",
          "PostCode": "H4V",
-         "Accuracy": 1,
          "LatLong": "45.4671,-73.6487"
         },
         {
          "Name": "Dorval Central",
          "PostCode": "H4Y",
-         "Accuracy": 1,
          "LatLong": "45.8654,-72.7614"
         },
         {
          "Name": "Tour de la Bourse",
          "PostCode": "H4Z",
-         "Accuracy": 1,
          "LatLong": "45.5061,-73.5573"
         },
         {
          "Name": "Duvernay-Est",
          "PostCode": "H7A",
-         "Accuracy": 1,
          "LatLong": "45.6739,-73.5924"
         },
         {
          "Name": "Saint-Franþois",
          "PostCode": "H7B",
-         "Accuracy": 1,
          "LatLong": "45.6757,-73.6388"
         },
         {
          "Name": "Saint-Vincent-de-Paul",
          "PostCode": "H7C",
-         "Accuracy": 4,
          "LatLong": "45.6168,-73.6492"
         },
         {
          "Name": "Duvernay",
          "PostCode": "H7E",
-         "Accuracy": 5,
          "LatLong": "45.6225,-73.6949"
         },
         {
          "Name": "Pont-Viau",
          "PostCode": "H7G",
-         "Accuracy": 1,
          "LatLong": "45.5771,-73.6873"
         },
         {
          "Name": "Sainte-Rose",
          "PostCode": "H7L",
-         "Accuracy": 4,
          "LatLong": "45.6168,-73.7825"
         },
         {
          "Name": "Vimont",
          "PostCode": "H7M",
-         "Accuracy": 1,
          "LatLong": "45.5984,-73.7159"
         },
         {
          "Name": "Fabreville",
          "PostCode": "H7P",
-         "Accuracy": 1,
          "LatLong": "45.578,-73.8004"
         },
         {
          "Name": "Sainte-Dorothée",
          "PostCode": "H7X",
-         "Accuracy": 4,
          "LatLong": "45.5334,-73.8159"
         },
         {
          "Name": "Îles-Laval",
          "PostCode": "H7Y",
-         "Accuracy": 1,
          "LatLong": "45.5284,-73.8509"
         },
         {
          "Name": "Saint-Pierre",
          "PostCode": "H8R",
-         "Accuracy": 5,
          "LatLong": "45.3994,-73.6506"
         },
         {
          "Name": "Roxboro",
          "PostCode": "H8Y",
-         "Accuracy": 4,
          "LatLong": "45.5084,-73.8075"
         },
         {
          "Name": "Pierrefonds",
          "PostCode": "H8Z",
-         "Accuracy": 1,
          "LatLong": "45.5069,-73.8407"
         },
         {
          "Name": "L'Île Bizard Northeast",
          "PostCode": "H9C",
-         "Accuracy": 1,
          "LatLong": "45.5055,-73.8789"
         },
         {
          "Name": "L'Île-Bizard Southwest",
          "PostCode": "H9E",
-         "Accuracy": 1,
          "LatLong": "45.4865,-73.9092"
         },
         {
          "Name": "Sainte-Geneviève",
          "PostCode": "H9H",
-         "Accuracy": 1,
          "LatLong": "45.4683,-73.8565"
         },
         {
          "Name": "Senneville",
          "PostCode": "H9K",
-         "Accuracy": 1,
          "LatLong": "45.4577,-73.9162"
         },
         {
          "Name": "L'Île-Dorval",
          "PostCode": "H9S",
-         "Accuracy": 1,
          "LatLong": "45.4414,-73.7749"
         },
         {
          "Name": "Sainte-Anne-De-Bellevue",
          "PostCode": "H9X",
-         "Accuracy": 4,
          "LatLong": "45.4062,-73.9456"
         },
         {
          "Name": "Estrie-Ouest (Fulford)",
          "PostCode": "J0E",
-         "Accuracy": 1,
          "LatLong": "45.2831,-72.5244"
         },
         {
          "Name": "Bois-Francs-Nord (Odanak)",
          "PostCode": "J0G",
-         "Accuracy": 1,
          "LatLong": "46.021,-72.8239"
         },
         {
          "Name": "Bois-Francs-Sud (Saint-Nazaire-D'Acton)",
          "PostCode": "J0H",
-         "Accuracy": 1,
          "LatLong": "45.6609,-72.77"
         },
         {
          "Name": "Nunavik (Kuujjuaq)",
          "PostCode": "J0M",
-         "Accuracy": 1,
          "LatLong": "58.3269,-72.1637"
         },
         {
          "Name": "Région d'Oka (Oka)",
          "PostCode": "J0N",
-         "Accuracy": 5,
          "LatLong": "45.5135,-74.0534"
         },
         {
          "Name": "Vaudreuil-Soulanges (Coteau-du-Lac)",
          "PostCode": "J0P",
-         "Accuracy": 1,
          "LatLong": "45.3655,-74.312"
         },
         {
          "Name": "Lanaudière-Sud (Prévost)",
          "PostCode": "J0R",
-         "Accuracy": 1,
          "LatLong": "45.866,-74.1785"
         },
         {
          "Name": "Laurentides-Sud (Chénéville)",
          "PostCode": "J0V",
-         "Accuracy": 1,
          "LatLong": "45.8265,-74.9318"
         },
         {
          "Name": "Outaouais-Nord (Ferme-Neuve)",
          "PostCode": "J0W",
-         "Accuracy": 1,
          "LatLong": "47.0921,-75.7967"
         },
         {
          "Name": "Abitibi-Témiscamingue-Est (Radisson)",
          "PostCode": "J0Y",
-         "Accuracy": 1,
          "LatLong": "52.1046,-75.2807"
         },
         {
          "Name": "Coaticook",
          "PostCode": "J1A",
-         "Accuracy": 4,
          "LatLong": "45.1334,-71.7991"
         },
         {
          "Name": "Bromptonville",
          "PostCode": "J1C",
-         "Accuracy": 1,
          "LatLong": "45.4797,-71.9492"
         },
         {
          "Name": "Rock Forest",
          "PostCode": "J1N",
-         "Accuracy": 1,
          "LatLong": "45.3395,-72.0128"
         },
         {
          "Name": "Saint-Élie-d'Orford",
          "PostCode": "J1R",
-         "Accuracy": 1,
          "LatLong": "45.3966,-72.0422"
         },
         {
          "Name": "Saint-Cyrille-De-Wendover",
          "PostCode": "J1Z",
-         "Accuracy": 4,
          "LatLong": "45.9334,-72.4324"
         },
         {
          "Name": "Drummondville South",
          "PostCode": "J2B",
-         "Accuracy": 5,
          "LatLong": "45.9061,-72.5929"
         },
         {
          "Name": "Saint-Luc",
          "PostCode": "J2W",
-         "Accuracy": 1,
          "LatLong": "45.3694,-73.3137"
         },
         {
          "Name": "Beloeil East",
          "PostCode": "J3H",
-         "Accuracy": 1,
          "LatLong": "45.5527,-73.1755"
         },
         {
          "Name": "Saint-Basile-Le-Grand",
          "PostCode": "J3N",
-         "Accuracy": 4,
          "LatLong": "45.5334,-73.2825"
         },
         {
          "Name": "Saint-Bruno",
          "PostCode": "J3V",
-         "Accuracy": 4,
          "LatLong": "45.532,-73.3437"
         },
         {
          "Name": "Saint-Hubert West",
          "PostCode": "J4T",
-         "Accuracy": 1,
          "LatLong": "45.4973,-73.4676"
         },
         {
          "Name": "Greenfield Park",
          "PostCode": "J4V",
-         "Accuracy": 4,
          "LatLong": "45.4865,-73.4622"
         },
         {
          "Name": "Saint-Sophie",
          "PostCode": "J5J",
-         "Accuracy": 1,
          "LatLong": "45.8306,-73.9191"
         },
         {
          "Name": "L'Assomption",
          "PostCode": "J5W",
-         "Accuracy": 4,
          "LatLong": "45.8232,-73.4294"
         },
         {
          "Name": "Joliette",
          "PostCode": "J6E",
-         "Accuracy": 4,
          "LatLong": "46.0168,-73.4492"
         },
         {
          "Name": "Sainte-Thérèse-de-Blainville Northeast",
          "PostCode": "J6Z",
-         "Accuracy": 1,
          "LatLong": "45.6694,-73.7752"
         },
         {
          "Name": "La Plaine",
          "PostCode": "J7M",
-         "Accuracy": 1,
          "LatLong": "45.7888,-73.7442"
         },
         {
          "Name": "Vaudreuil-Dorion RCM",
          "PostCode": "J7T",
-         "Accuracy": 1,
          "LatLong": "45.3702,-74.1249"
         },
         {
          "Name": "Pincourt",
          "PostCode": "J7W",
-         "Accuracy": 4,
          "LatLong": "45.3665,-73.9736"
         },
         {
          "Name": "Valleyfield",
          "PostCode": "J7X",
-         "Accuracy": 4,
          "LatLong": "45.2691,-74.2339"
         },
         {
          "Name": "Sainte-Agathe-Des-Monts",
          "PostCode": "J8C",
-         "Accuracy": 4,
          "LatLong": "46.0501,-74.2825"
         },
         {
          "Name": "Chatham",
          "PostCode": "J8G",
-         "Accuracy": 4,
          "LatLong": "45.6834,-74.4159"
         },
         {
          "Name": "Buckingham",
          "PostCode": "J8L",
-         "Accuracy": 4,
          "LatLong": "45.5856,-75.4208"
         },
         {
          "Name": "Masson-Angers",
          "PostCode": "J8M",
-         "Accuracy": 1,
          "LatLong": "45.5435,-75.4274"
         },
         {
          "Name": "Hull Southwest",
          "PostCode": "J9A",
-         "Accuracy": 1,
          "LatLong": "45.4279,-75.7711"
         }
        ]
@@ -10291,13 +9241,11 @@
         {
          "Name": "Région de Beauce (Saint-Prosper-De-Dorchester)",
          "PostCode": "G0M",
-         "Accuracy": 1,
          "LatLong": "45.9718,-70.6565"
         },
         {
          "Name": "Région de Mistassini (Chambord)",
          "PostCode": "G0W",
-         "Accuracy": 1,
          "LatLong": "49.834,-72.2623"
         }
        ]
@@ -10312,19 +9260,16 @@
         {
          "Name": "Beauport North",
          "PostCode": "G1B",
-         "Accuracy": 4,
          "LatLong": "46.9263,-71.2258"
         },
         {
          "Name": "Beauport Central",
          "PostCode": "G1C",
-         "Accuracy": 1,
          "LatLong": "46.8801,-71.196"
         },
         {
          "Name": "Beauport South",
          "PostCode": "G1E",
-         "Accuracy": 1,
          "LatLong": "46.8588,-71.192"
         }
        ]
@@ -10339,19 +9284,16 @@
         {
          "Name": "Sainte-Foy Northeast",
          "PostCode": "G1V",
-         "Accuracy": 1,
          "LatLong": "46.7823,-71.2882"
         },
         {
          "Name": "Sainte-Foy Southeast",
          "PostCode": "G1W",
-         "Accuracy": 1,
          "LatLong": "46.7589,-71.298"
         },
         {
          "Name": "Sainte-Foy West",
          "PostCode": "G1X",
-         "Accuracy": 1,
          "LatLong": "46.7749,-71.3344"
         }
        ]
@@ -10366,13 +9308,11 @@
         {
          "Name": "Loretteville North",
          "PostCode": "G2A",
-         "Accuracy": 4,
          "LatLong": "46.8751,-71.392"
         },
         {
          "Name": "Loretteville South",
          "PostCode": "G2B",
-         "Accuracy": 1,
          "LatLong": "46.8505,-71.3357"
         }
        ]
@@ -10387,13 +9327,11 @@
         {
          "Name": "Jean-Talon Northeast",
          "PostCode": "G2M",
-         "Accuracy": 1,
          "LatLong": "46.922,-71.3056"
         },
         {
          "Name": "Jean-Talon West",
          "PostCode": "G2N",
-         "Accuracy": 1,
          "LatLong": "46.9137,-71.3398"
         }
        ]
@@ -10408,13 +9346,11 @@
         {
          "Name": "Val-Bélair North",
          "PostCode": "G3J",
-         "Accuracy": 1,
          "LatLong": "46.8603,-71.4752"
         },
         {
          "Name": "Val-Bélair South",
          "PostCode": "G3K",
-         "Accuracy": 1,
          "LatLong": "46.8315,-71.4429"
         }
        ]
@@ -10429,13 +9365,11 @@
         {
          "Name": "Victoriaville South",
          "PostCode": "G6R",
-         "Accuracy": 1,
          "LatLong": "46.016,-71.9561"
         },
         {
          "Name": "Victoriaville East",
          "PostCode": "G6S",
-         "Accuracy": 1,
          "LatLong": "46.0264,-71.8719"
         }
        ]
@@ -10450,25 +9384,21 @@
         {
          "Name": "Chicoutimi North",
          "PostCode": "G7G",
-         "Accuracy": 1,
          "LatLong": "48.445,-71.1025"
         },
         {
          "Name": "Chicoutimi East",
          "PostCode": "G7H",
-         "Accuracy": 1,
          "LatLong": "48.4187,-71.0417"
         },
         {
          "Name": "Chicoutimi West",
          "PostCode": "G7J",
-         "Accuracy": 1,
          "LatLong": "48.4175,-71.1031"
         },
         {
          "Name": "Chicoutimi Southwest",
          "PostCode": "G7K",
-         "Accuracy": 1,
          "LatLong": "48.3689,-71.1175"
         }
        ]
@@ -10483,31 +9413,26 @@
         {
          "Name": "Jonquière Northeast",
          "PostCode": "G7S",
-         "Accuracy": 1,
          "LatLong": "48.4294,-71.1774"
         },
         {
          "Name": "Jonquière Southeast",
          "PostCode": "G7T",
-         "Accuracy": 1,
          "LatLong": "48.3975,-71.1527"
         },
         {
          "Name": "Jonquière Central",
          "PostCode": "G7X",
-         "Accuracy": 1,
          "LatLong": "48.3199,-71.4149"
         },
         {
          "Name": "Jonquière Southwest",
          "PostCode": "G7Y",
-         "Accuracy": 1,
          "LatLong": "48.3701,-71.2358"
         },
         {
          "Name": "Jonquière Northwest",
          "PostCode": "G7Z",
-         "Accuracy": 1,
          "LatLong": "48.4381,-71.2642"
         }
        ]
@@ -10522,19 +9447,16 @@
         {
          "Name": "Cap-de-la-Madeleine Central and southeast",
          "PostCode": "G8T",
-         "Accuracy": 1,
          "LatLong": "46.3877,-72.5357"
         },
         {
          "Name": "Cap-de-la-Madeleine Northeast",
          "PostCode": "G8V",
-         "Accuracy": 1,
          "LatLong": "46.4098,-72.4908"
         },
         {
          "Name": "Cap-de-la-Madeleine West",
          "PostCode": "G8W",
-         "Accuracy": 5,
          "LatLong": "46.4176,-72.6372"
         }
        ]
@@ -10549,31 +9471,26 @@
         {
          "Name": "Trois-Rivières Central",
          "PostCode": "G8Y",
-         "Accuracy": 1,
          "LatLong": "46.3668,-72.6168"
         },
         {
          "Name": "Trois-Rivières Northeast",
          "PostCode": "G8Z",
-         "Accuracy": 1,
          "LatLong": "46.3458,-72.5716"
         },
         {
          "Name": "Trois-Rivières East",
          "PostCode": "G9A",
-         "Accuracy": 5,
          "LatLong": "46.3695,-72.6789"
         },
         {
          "Name": "Trois-Rivières South",
          "PostCode": "G9B",
-         "Accuracy": 1,
          "LatLong": "46.316,-72.6833"
         },
         {
          "Name": "Trois-Rivières West",
          "PostCode": "G9C",
-         "Accuracy": 1,
          "LatLong": "46.3922,-72.6725"
         }
        ]
@@ -10588,19 +9505,16 @@
         {
          "Name": "Shawinigan Central",
          "PostCode": "G9N",
-         "Accuracy": 1,
          "LatLong": "46.5564,-72.7198"
         },
         {
          "Name": "Shawinigan Southeast",
          "PostCode": "G9P",
-         "Accuracy": 1,
          "LatLong": "46.5068,-72.7436"
         },
         {
          "Name": "Shawinigan Northwest",
          "PostCode": "G9R",
-         "Accuracy": 1,
          "LatLong": "46.6098,-72.8266"
         }
        ]
@@ -10615,13 +9529,11 @@
         {
          "Name": "Anjou West",
          "PostCode": "H1J",
-         "Accuracy": 1,
          "LatLong": "45.6097,-73.5794"
         },
         {
          "Name": "Anjou East",
          "PostCode": "H1K",
-         "Accuracy": 1,
          "LatLong": "45.6097,-73.5472"
         }
        ]
@@ -10636,19 +9548,16 @@
         {
          "Name": "Mercier North",
          "PostCode": "H1L",
-         "Accuracy": 4,
          "LatLong": "45.6043,-73.5178"
         },
         {
          "Name": "Mercier West",
          "PostCode": "H1M",
-         "Accuracy": 1,
          "LatLong": "45.5883,-73.5572"
         },
         {
          "Name": "Mercier Southeast",
          "PostCode": "H1N",
-         "Accuracy": 1,
          "LatLong": "45.5779,-73.5304"
         }
        ]
@@ -10663,19 +9572,16 @@
         {
          "Name": "Saint-Léonard North",
          "PostCode": "H1P",
-         "Accuracy": 1,
          "LatLong": "45.5966,-73.5928"
         },
         {
          "Name": "Saint-Léonard West",
          "PostCode": "H1R",
-         "Accuracy": 1,
          "LatLong": "45.5864,-73.6082"
         },
         {
          "Name": "Saint-Léonard Southeast",
          "PostCode": "H1S",
-         "Accuracy": 1,
          "LatLong": "45.5808,-73.5825"
         }
        ]
@@ -10690,19 +9596,16 @@
         {
          "Name": "Rosemont North",
          "PostCode": "H1T",
-         "Accuracy": 1,
          "LatLong": "45.573,-73.5701"
         },
         {
          "Name": "Rosemont Central",
          "PostCode": "H1X",
-         "Accuracy": 1,
          "LatLong": "45.5583,-73.5701"
         },
         {
          "Name": "Rosemont South",
          "PostCode": "H1Y",
-         "Accuracy": 1,
          "LatLong": "45.5486,-73.5788"
         }
        ]
@@ -10823,13 +9726,11 @@
         {
          "Name": "Mount Royal North",
          "PostCode": "H3P",
-         "Accuracy": 1,
          "LatLong": "45.5217,-73.6393"
         },
         {
          "Name": "Mount Royal Central",
          "PostCode": "H3R",
-         "Accuracy": 1,
          "LatLong": "45.5101,-73.6478"
         }
        ]
@@ -10844,25 +9745,21 @@
         {
          "Name": "Côte-des-Neiges North",
          "PostCode": "H3S",
-         "Accuracy": 1,
          "LatLong": "45.5063,-73.6297"
         },
         {
          "Name": "Côte-des-Neiges Northeast",
          "PostCode": "H3T",
-         "Accuracy": 1,
          "LatLong": "45.5018,-73.6191"
         },
         {
          "Name": "Côte-des-Neiges East",
          "PostCode": "H3V",
-         "Accuracy": 1,
          "LatLong": "45.499,-73.6089"
         },
         {
          "Name": "Côte-des-Neiges Southwest",
          "PostCode": "H3W",
-         "Accuracy": 1,
          "LatLong": "45.4897,-73.6312"
         }
        ]
@@ -10877,13 +9774,11 @@
         {
          "Name": "Notre-Dame-de-GrÔce Northeast",
          "PostCode": "H4A",
-         "Accuracy": 1,
          "LatLong": "45.4717,-73.6149"
         },
         {
          "Name": "Notre-Dame-de-GrÔce Southwest",
          "PostCode": "H4B",
-         "Accuracy": 1,
          "LatLong": "45.4604,-73.6303"
         }
        ]
@@ -10898,13 +9793,11 @@
         {
          "Name": "Verdun North",
          "PostCode": "H4G",
-         "Accuracy": 4,
          "LatLong": "45.4643,-73.5698"
         },
         {
          "Name": "Verdun South",
          "PostCode": "H4H",
-         "Accuracy": 1,
          "LatLong": "45.4459,-73.5815"
         }
        ]
@@ -10919,13 +9812,11 @@
         {
          "Name": "Cartierville Central",
          "PostCode": "H4J",
-         "Accuracy": 1,
          "LatLong": "45.5313,-73.7091"
         },
         {
          "Name": "Cartierville Southwest",
          "PostCode": "H4K",
-         "Accuracy": 1,
          "LatLong": "45.5171,-73.7363"
         }
        ]
@@ -10940,37 +9831,31 @@
         {
          "Name": "Saint-Laurent Inner Northeast",
          "PostCode": "H4L",
-         "Accuracy": 1,
          "LatLong": "45.517,-73.6831"
         },
         {
          "Name": "Saint-Laurent East",
          "PostCode": "H4M",
-         "Accuracy": 1,
          "LatLong": "45.4979,-73.6886"
         },
         {
          "Name": "Saint-Laurent Outer Northeast",
          "PostCode": "H4N",
-         "Accuracy": 1,
          "LatLong": "45.5263,-73.6649"
         },
         {
          "Name": "Saint-Laurent Central",
          "PostCode": "H4R",
-         "Accuracy": 1,
          "LatLong": "45.5049,-73.7142"
         },
         {
          "Name": "Saint-Laurent Southwest",
          "PostCode": "H4S",
-         "Accuracy": 1,
          "LatLong": "45.4858,-73.7433"
         },
         {
          "Name": "Saint-Laurent Southeast",
          "PostCode": "H4T",
-         "Accuracy": 1,
          "LatLong": "45.4752,-73.6961"
         }
        ]
@@ -11004,19 +9889,16 @@
         {
          "Name": "Auteuil West",
          "PostCode": "H7H",
-         "Accuracy": 1,
          "LatLong": "45.6409,-73.7542"
         },
         {
          "Name": "Auteuil Northeast",
          "PostCode": "H7J",
-         "Accuracy": 1,
          "LatLong": "45.6625,-73.7002"
         },
         {
          "Name": "Auteuil South",
          "PostCode": "H7K",
-         "Accuracy": 1,
          "LatLong": "45.6213,-73.7398"
         }
        ]
@@ -11031,25 +9913,21 @@
         {
          "Name": "Chomedey Northeast",
          "PostCode": "H7S",
-         "Accuracy": 1,
          "LatLong": "45.5793,-73.7367"
         },
         {
          "Name": "Chomedey Northwest",
          "PostCode": "H7T",
-         "Accuracy": 1,
          "LatLong": "45.5573,-73.7725"
         },
         {
          "Name": "Chomedey East",
          "PostCode": "H7V",
-         "Accuracy": 1,
          "LatLong": "45.5478,-73.7368"
         },
         {
          "Name": "Chomedey South",
          "PostCode": "H7W",
-         "Accuracy": 1,
          "LatLong": "45.5338,-73.7652"
         }
        ]
@@ -11064,13 +9942,11 @@
         {
          "Name": "LaSalle Northwest",
          "PostCode": "H8N",
-         "Accuracy": 1,
          "LatLong": "45.438,-73.6215"
         },
         {
          "Name": "LaSalle Southeast",
          "PostCode": "H8P",
-         "Accuracy": 5,
          "LatLong": "45.4011,-73.619"
         }
        ]
@@ -11085,13 +9961,11 @@
         {
          "Name": "Lachine East",
          "PostCode": "H8S",
-         "Accuracy": 1,
          "LatLong": "45.4402,-73.6747"
         },
         {
          "Name": "Lachine West",
          "PostCode": "H8T",
-         "Accuracy": 1,
          "LatLong": "45.4419,-73.7057"
         }
        ]
@@ -11106,19 +9980,16 @@
         {
          "Name": "Dollard-Des-Ormeaux Northwest",
          "PostCode": "H9A",
-         "Accuracy": 1,
          "LatLong": "45.4948,-73.8317"
         },
         {
          "Name": "Dollard-Des-Ormeaux East",
          "PostCode": "H9B",
-         "Accuracy": 1,
          "LatLong": "45.4897,-73.7958"
         },
         {
          "Name": "Dollard-Des-Ormeaux Southwest",
          "PostCode": "H9G",
-         "Accuracy": 1,
          "LatLong": "45.4756,-73.8367"
         }
        ]
@@ -11133,43 +10004,36 @@
         {
          "Name": "Sherbrooke Northeast",
          "PostCode": "J1E",
-         "Accuracy": 1,
          "LatLong": "45.4231,-71.8723"
         },
         {
          "Name": "Sherbrooke East",
          "PostCode": "J1G",
-         "Accuracy": 1,
          "LatLong": "45.4024,-71.8479"
         },
         {
          "Name": "Sherbrooke Central",
          "PostCode": "J1H",
-         "Accuracy": 5,
          "LatLong": "45.3891,-71.8986"
         },
         {
          "Name": "Sherbrooke North",
          "PostCode": "J1J",
-         "Accuracy": 4,
          "LatLong": "45.4131,-71.9238"
         },
         {
          "Name": "Sherbrooke West",
          "PostCode": "J1K",
-         "Accuracy": 1,
          "LatLong": "45.3822,-71.9327"
         },
         {
          "Name": "Sherbrooke Northwest",
          "PostCode": "J1L",
-         "Accuracy": 1,
          "LatLong": "45.4113,-71.9586"
         },
         {
          "Name": "Sherbrooke Southeast",
          "PostCode": "J1M",
-         "Accuracy": 1,
          "LatLong": "45.3656,-71.842"
         }
        ]
@@ -11184,13 +10048,11 @@
         {
          "Name": "Sorel Central",
          "PostCode": "J3P",
-         "Accuracy": 1,
          "LatLong": "46.0365,-73.0665"
         },
         {
          "Name": "Sorel Southwest",
          "PostCode": "J3R",
-         "Accuracy": 1,
          "LatLong": "46.0206,-73.1439"
         }
        ]
@@ -11205,13 +10067,11 @@
         {
          "Name": "Saint-Hubert Central",
          "PostCode": "J3Y",
-         "Accuracy": 1,
          "LatLong": "45.4906,-73.3991"
         },
         {
          "Name": "Saint-Hubert East",
          "PostCode": "J3Z",
-         "Accuracy": 5,
          "LatLong": "45.4981,-73.4012"
         }
        ]
@@ -11226,43 +10086,36 @@
         {
          "Name": "Longueuil North",
          "PostCode": "J4G",
-         "Accuracy": 4,
          "LatLong": "45.5679,-73.4761"
         },
         {
          "Name": "Longueuil West",
          "PostCode": "J4H",
-         "Accuracy": 1,
          "LatLong": "45.5372,-73.5056"
         },
         {
          "Name": "Longueuil Central",
          "PostCode": "J4J",
-         "Accuracy": 1,
          "LatLong": "45.5362,-73.4721"
         },
         {
          "Name": "Longueuil Southwest",
          "PostCode": "J4K",
-         "Accuracy": 1,
          "LatLong": "45.5183,-73.5023"
         },
         {
          "Name": "Longueuil Southeast",
          "PostCode": "J4L",
-         "Accuracy": 1,
          "LatLong": "45.5181,-73.4576"
         },
         {
          "Name": "Longueuil East",
          "PostCode": "J4M",
-         "Accuracy": 1,
          "LatLong": "45.5418,-73.4382"
         },
         {
          "Name": "Longueuil Northeast",
          "PostCode": "J4N",
-         "Accuracy": 1,
          "LatLong": "45.5523,-73.4558"
         }
        ]
@@ -11277,31 +10130,26 @@
         {
          "Name": "Sainte-Thérèse-de-Blainville East",
          "PostCode": "J7A",
-         "Accuracy": 1,
          "LatLong": "45.6383,-73.7975"
         },
         {
          "Name": "Sainte-Thérèse-de-Blainville North",
          "PostCode": "J7B",
-         "Accuracy": 1,
          "LatLong": "45.6602,-73.8157"
         },
         {
          "Name": "Sainte-Thérèse-de-Blainville Northwest",
          "PostCode": "J7C",
-         "Accuracy": 1,
          "LatLong": "45.689,-73.8671"
         },
         {
          "Name": "Sainte-Thérèse-de-Blainville South",
          "PostCode": "J7G",
-         "Accuracy": 1,
          "LatLong": "45.6095,-73.8378"
         },
         {
          "Name": "Sainte-Thérèse-de-Blainville Southwest",
          "PostCode": "J7H",
-         "Accuracy": 1,
          "LatLong": "45.6209,-73.8728"
         }
        ]
@@ -11316,13 +10164,11 @@
         {
          "Name": "Mirabel Northeast",
          "PostCode": "J7J",
-         "Accuracy": 1,
          "LatLong": "45.7045,-73.9472"
         },
         {
          "Name": "Mirabel Southwest",
          "PostCode": "J7N",
-         "Accuracy": 1,
          "LatLong": "45.6345,-74.1005"
         }
        ]
@@ -11337,25 +10183,21 @@
         {
          "Name": "Gatineau Southeast",
          "PostCode": "J8P",
-         "Accuracy": 1,
          "LatLong": "45.4869,-75.6157"
         },
         {
          "Name": "Gatineau Northeast",
          "PostCode": "J8R",
-         "Accuracy": 1,
          "LatLong": "45.5287,-75.6088"
         },
         {
          "Name": "Gatineau Southwest",
          "PostCode": "J8T",
-         "Accuracy": 1,
          "LatLong": "45.4776,-75.7059"
         },
         {
          "Name": "Gatineau Northwest",
          "PostCode": "J8V",
-         "Accuracy": 1,
          "LatLong": "45.5711,-75.7615"
         }
        ]
@@ -11370,19 +10212,16 @@
         {
          "Name": "Hull Southeast",
          "PostCode": "J8X",
-         "Accuracy": 1,
          "LatLong": "45.44,-75.7119"
         },
         {
          "Name": "Hull Central",
          "PostCode": "J8Y",
-         "Accuracy": 1,
          "LatLong": "45.448,-75.7434"
         },
         {
          "Name": "Hull North",
          "PostCode": "J8Z",
-         "Accuracy": 1,
          "LatLong": "45.4716,-75.7616"
         }
        ]
@@ -11397,13 +10236,11 @@
         {
          "Name": "Aylmer South",
          "PostCode": "J9H",
-         "Accuracy": 1,
          "LatLong": "45.3932,-75.8288"
         },
         {
          "Name": "Aylmer North",
          "PostCode": "J9J",
-         "Accuracy": 1,
          "LatLong": "45.4394,-75.8465"
         }
        ]
@@ -11418,13 +10255,11 @@
         {
          "Name": "Rouyn-Noranda South",
          "PostCode": "J9X",
-         "Accuracy": 5,
          "LatLong": "48.2855,-78.8234"
         },
         {
          "Name": "Rouyn-Noranda North",
          "PostCode": "J9Y",
-         "Accuracy": 4,
          "LatLong": "48.1607,-79.0714"
         }
        ]
@@ -11474,7 +10309,6 @@
         {
          "Name": "Central Saskatchewan (Humboldt)",
          "PostCode": "S0K",
-         "Accuracy": 5,
          "LatLong": "52.3003,-107.9907"
         },
         {
@@ -11500,25 +10334,21 @@
         {
          "Name": "Buena Vista",
          "PostCode": "S2V",
-         "Accuracy": 4,
          "LatLong": "50.7834,-104.9511"
         },
         {
          "Name": "Yorkton",
          "PostCode": "S3N",
-         "Accuracy": 4,
          "LatLong": "51.2167,-102.4677"
         },
         {
          "Name": "Estevan",
          "PostCode": "S4A",
-         "Accuracy": 4,
          "LatLong": "49.1334,-102.9842"
         },
         {
          "Name": "Weyburn",
          "PostCode": "S4H",
-         "Accuracy": 4,
          "LatLong": "49.6668,-103.8511"
         },
         {
@@ -11534,31 +10364,26 @@
         {
          "Name": "Saskatoon",
          "PostCode": "S7W",
-         "Accuracy": 4,
          "LatLong": "52.157,-106.5614"
         },
         {
          "Name": "North Battleford",
          "PostCode": "S9A",
-         "Accuracy": 4,
          "LatLong": "52.7834,-108.2847"
         },
         {
          "Name": "Swift Current",
          "PostCode": "S9H",
-         "Accuracy": 4,
          "LatLong": "50.2834,-107.8013"
         },
         {
          "Name": "Lloydminster",
          "PostCode": "S9V",
-         "Accuracy": 4,
          "LatLong": "53.2835,-110.0016"
         },
         {
          "Name": "Meadow Lake",
          "PostCode": "S9X",
-         "Accuracy": 4,
          "LatLong": "54.1335,-108.4347"
         }
        ]
@@ -11573,67 +10398,56 @@
         {
          "Name": "Regina East",
          "PostCode": "S4L",
-         "Accuracy": 1,
          "LatLong": "50.4132,-104.2733"
         },
         {
          "Name": "Regina Northeast and East Central",
          "PostCode": "S4N",
-         "Accuracy": 1,
          "LatLong": "50.4671,-104.541"
         },
         {
          "Name": "Regina Central",
          "PostCode": "S4P",
-         "Accuracy": 1,
          "LatLong": "50.419,-104.6774"
         },
         {
          "Name": "Regina North Central",
          "PostCode": "S4R",
-         "Accuracy": 1,
          "LatLong": "50.4855,-104.6163"
         },
         {
          "Name": "Regina South Saskatchewan Provincial Government",
          "PostCode": "S4S",
-         "Accuracy": 1,
          "LatLong": "50.4153,-104.6103"
         },
         {
          "Name": "Regina West",
          "PostCode": "S4T",
-         "Accuracy": 1,
          "LatLong": "50.4507,-104.665"
         },
         {
          "Name": "Regina Southeast",
          "PostCode": "S4V",
-         "Accuracy": 1,
          "LatLong": "50.4251,-104.5389"
         },
         {
          "Name": "Regina Southwest",
          "PostCode": "S4W",
-         "Accuracy": 1,
          "LatLong": "50.4078,-104.6536"
         },
         {
          "Name": "Regina Northwest",
          "PostCode": "S4X",
-         "Accuracy": 5,
          "LatLong": "50.5061,-104.6752"
         },
         {
          "Name": "Regina Outer Northwest",
          "PostCode": "S4Y",
-         "Accuracy": 1,
          "LatLong": "50.4768,-104.6986"
         },
         {
          "Name": "Regina Northeast",
          "PostCode": "S4Z",
-         "Accuracy": 1,
          "LatLong": "50.4497,-104.5323"
         }
        ]
@@ -11648,7 +10462,6 @@
         {
          "Name": "Moose Jaw Southeast",
          "PostCode": "S6H",
-         "Accuracy": 5,
          "LatLong": "50.3895,-105.5578"
         },
         {
@@ -11697,67 +10510,56 @@
         {
          "Name": "Saskatoon East Central",
          "PostCode": "S7H",
-         "Accuracy": 1,
          "LatLong": "52.1168,-106.6345"
         },
         {
          "Name": "Saskatoon South Central",
          "PostCode": "S7J",
-         "Accuracy": 1,
          "LatLong": "52.0961,-106.6252"
         },
         {
          "Name": "Saskatoon North Central",
          "PostCode": "S7K",
-         "Accuracy": 5,
          "LatLong": "52.0111,-106.7955"
         },
         {
          "Name": "Saskatoon West",
          "PostCode": "S7L",
-         "Accuracy": 5,
          "LatLong": "52.1564,-106.6873"
         },
         {
          "Name": "Saskatoon Southwest",
          "PostCode": "S7M",
-         "Accuracy": 1,
          "LatLong": "52.1133,-106.7235"
         },
         {
          "Name": "Saskatoon Northeast Central",
          "PostCode": "S7N",
-         "Accuracy": 1,
          "LatLong": "52.1404,-106.608"
         },
         {
          "Name": "Saskatoon North",
          "PostCode": "S7P",
-         "Accuracy": 5,
          "LatLong": "52.2751,-106.5005"
         },
         {
          "Name": "Saskatoon Northwest",
          "PostCode": "S7R",
-         "Accuracy": 1,
          "LatLong": "52.1588,-106.7163"
         },
         {
          "Name": "Saskatoon Northeast",
          "PostCode": "S7S",
-         "Accuracy": 1,
          "LatLong": "52.1609,-106.5864"
         },
         {
          "Name": "Saskatoon South",
          "PostCode": "S7T",
-         "Accuracy": 1,
          "LatLong": "52.0403,-106.6595"
         },
         {
          "Name": "Saskatoon Southeast",
          "PostCode": "S7V",
-         "Accuracy": 1,
          "LatLong": "52.0976,-106.5553"
         }
        ]
@@ -11787,7 +10589,6 @@
         {
          "Name": "Whitehorse",
          "PostCode": "Y1A",
-         "Accuracy": 4,
          "LatLong": "60.7161,-135.0537"
         }
        ]

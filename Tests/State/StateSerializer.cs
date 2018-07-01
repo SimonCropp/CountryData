@@ -25,7 +25,6 @@ namespace State
                     {
                         PostCode = place.PostalCode,
                         LatLong = $"{place.Latitude},{place.Longitude}",
-                        Accuracy = place.Accuracy,
                     };
                     if (place.PlaceName != state.Name)
                     {

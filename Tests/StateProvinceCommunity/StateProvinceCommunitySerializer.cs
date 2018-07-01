@@ -44,7 +44,7 @@ namespace StateProvinceCommunity
                             {
                                 PostCode = place.PostalCode,
                                 LatLong = $"{place.Latitude},{place.Longitude}",
-                                Accuracy = place.Accuracy,
+                                //Accuracy = place.Accuracy,
                             };
                             if (place.PlaceName != community.Name)
                             {

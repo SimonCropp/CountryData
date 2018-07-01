@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.IO;
 using System.IO.Compression;
 using System.Linq;
@@ -21,10 +20,11 @@ public class Sync
     [Fact]
     public async Task SyncCountryData()
     {
-        var tempPath = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, "../../../../temp"));
-        var jsonIndentedPath = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, "../../../../json_indented"));
-        var jsonPath = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, "../../../../json"));
-        var countriesPath = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, "../../../../countries.txt"));
+        var currentDirectory = Environment.CurrentDirectory;
+        var tempPath = Path.GetFullPath(Path.Combine(currentDirectory, "../../../../temp"));
+        var jsonIndentedPath = Path.GetFullPath(Path.Combine(currentDirectory, "../../../../json_indented"));
+        var jsonPath = Path.GetFullPath(Path.Combine(currentDirectory, "../../../../json"));
+        var countriesPath = Path.GetFullPath(Path.Combine(currentDirectory, "../../../../countries.txt"));
         var allCountriesZipPath = Path.Combine(tempPath, "allCountries.zip");
         await Downloader.DownloadFile(allCountriesZipPath);
         var allCountriesTxtPath = Path.Combine(tempPath, "allCountries.txt");

@@ -13,7 +13,6 @@ namespace Place
                 var place = new Place
                 {
                     Name = row.PlaceName,
-                    Accuracy = row.Accuracy,
                     LatLong = $"{row.Latitude},{row.Longitude}",
                 };
                 places.Add(place);
