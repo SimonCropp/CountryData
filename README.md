@@ -22,6 +22,7 @@ and
 
 https://raw.githubusercontent.com/SimonCropp/CountryLocationData/master/json_indented/au.json.txt
 
+
 ### Structure 
 
 The GeoNames data is structured as
