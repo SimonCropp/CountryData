@@ -68,10 +68,6 @@ public class Sync
         var hasProvince = rows.Any(_=>_.Province != null);
         var hasCommunity = rows.Any(_=>_.Community != null);
 
-        if (rows.First().CountryCode == "US")
-        {
-            Debug.WriteLine(rows);
-        }
         if (hasState && hasProvince && hasCommunity)
         {
             StateProvinceCommunitySerializer.Serialize(rows, action);
