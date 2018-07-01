@@ -4,6 +4,7 @@ namespace ProvinceCommunity
 {
     class Country
     {
-        public List<Province> Provinces= new List<Province>();
+        public string Structure = "Province/Community/Place";
+        public List<Province> Provinces = new List<Province>();
     }
 }
