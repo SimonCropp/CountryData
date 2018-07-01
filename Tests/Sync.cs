@@ -44,8 +44,8 @@ public class Sync
             NullValueHandling = NullValueHandling.Ignore,
         };
         var groupByCountry = list.GroupBy(x => x.CountryCode).ToList();
-
-        File.WriteAllText(countriesPath, string.Join("\r\n", groupByCountry.Select(x => x.Key.ToLower())));
+        File.Delete(countriesPath);
+        File.WriteAllLines(countriesPath, groupByCountry.Select(x => x.Key.ToLower()));
         WriteRows(jsonPath, jsonSerializer, groupByCountry);
 
         jsonSerializer.Formatting = Formatting.Indented;
