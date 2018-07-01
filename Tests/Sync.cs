@@ -14,17 +14,9 @@ using StateCommunity;
 using StateProvince;
 using StateProvinceCommunity;
 using Xunit;
-using Xunit.Abstractions;
 
 public class Sync
 {
-    ITestOutputHelper output;
-
-    public Sync(ITestOutputHelper output)
-    {
-        this.output = output;
-    }
-
     [Fact]
     public async Task SyncCountryData()
     {
