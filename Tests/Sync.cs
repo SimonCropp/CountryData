@@ -42,16 +42,20 @@ public class Sync
         {
             NullValueHandling = NullValueHandling.Ignore,
         };
-        WriteRows(jsonPath, list, jsonSerializer);
+        var groupByCountry = list.GroupBy(x => x.CountryCode).ToList();
+
+        WriteRows(jsonPath, jsonSerializer, groupByCountry);
 
         jsonSerializer.Formatting = Formatting.Indented;
-        WriteRows(jsonIndentedPath, list, jsonSerializer);
+        WriteRows(jsonIndentedPath, jsonSerializer, groupByCountry);
     }
 
-    void WriteRows(string jsonPath, List<Row> list, JsonSerializer jsonSerializer)
+    void WriteRows(string jsonPath, JsonSerializer jsonSerializer, List<IGrouping<string, Row>> groupByCountry)
     {
         IoHelpers.PurgeDirectory(jsonPath);
-        foreach (var group in list.GroupBy(x => x.CountryCode))
+        var enumerable = groupByCountry.Select(x=>x.Key.ToLower());
+        File.WriteAllText(Path.Combine(jsonPath,"countries.txt"), string.Join("\r\n", enumerable));
+        foreach (var group in groupByCountry)
         {
             var countryJsonFilePath = Path.Combine(jsonPath, @group.Key.ToLower() + ".json.txt");
             using (var fileStream = File.OpenWrite(countryJsonFilePath))
