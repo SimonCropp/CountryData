@@ -31,6 +31,7 @@ public class Sync
         var tempPath = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, "../../../../temp"));
         var jsonIndentedPath = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, "../../../../json_indented"));
         var jsonPath = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, "../../../../json"));
+        var countriesPath = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, "../../../../countries.txt"));
         var allCountriesZipPath = Path.Combine(tempPath, "allCountries.zip");
         await Downloader.DownloadFile(allCountriesZipPath);
         var allCountriesTxtPath = Path.Combine(tempPath, "allCountries.txt");
@@ -44,6 +45,7 @@ public class Sync
         };
         var groupByCountry = list.GroupBy(x => x.CountryCode).ToList();
 
+        File.WriteAllText(countriesPath, string.Join("\r\n", groupByCountry.Select(x => x.Key.ToLower())));
         WriteRows(jsonPath, jsonSerializer, groupByCountry);
 
         jsonSerializer.Formatting = Formatting.Indented;
@@ -53,8 +55,6 @@ public class Sync
     void WriteRows(string jsonPath, JsonSerializer jsonSerializer, List<IGrouping<string, Row>> groupByCountry)
     {
         IoHelpers.PurgeDirectory(jsonPath);
-        var enumerable = groupByCountry.Select(x=>x.Key.ToLower());
-        File.WriteAllText(Path.Combine(jsonPath,"countries.txt"), string.Join("\r\n", enumerable));
         foreach (var group in groupByCountry)
         {
             var countryJsonFilePath = Path.Combine(jsonPath, @group.Key.ToLower() + ".json.txt");
