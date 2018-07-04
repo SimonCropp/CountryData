@@ -28,7 +28,7 @@ static class RowReader
                         continue;
                     }
 
-                    split[index] = s.Trim();
+                    split[index] = s.Trim().Trim('_').Replace('_',' ');
                 }
 
                 var row = new Row

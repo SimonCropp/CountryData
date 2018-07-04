@@ -21,10 +21,11 @@ public class Sync
     public async Task SyncCountryData()
     {
         var currentDirectory = Environment.CurrentDirectory;
-        var tempPath = Path.GetFullPath(Path.Combine(currentDirectory, "../../../../temp"));
-        var jsonIndentedPath = Path.GetFullPath(Path.Combine(currentDirectory, "../../../../json_indented"));
-        var jsonPath = Path.GetFullPath(Path.Combine(currentDirectory, "../../../../json"));
-        var countriesPath = Path.GetFullPath(Path.Combine(currentDirectory, "../../../../countries.txt"));
+        var slnPath = Path.GetFullPath(Path.Combine(currentDirectory, "../../../../"));
+        var tempPath = Path.GetFullPath(Path.Combine(slnPath, "temp"));
+        var jsonIndentedPath = Path.GetFullPath(Path.Combine(slnPath, "json_indented"));
+        var jsonPath = Path.GetFullPath(Path.Combine(slnPath, "json"));
+        var countriesPath = Path.GetFullPath(Path.Combine(slnPath, "countries.txt"));
         var allCountriesZipPath = Path.Combine(tempPath, "allCountries.zip");
         await Downloader.DownloadFile(allCountriesZipPath);
         var allCountriesTxtPath = Path.Combine(tempPath, "allCountries.txt");

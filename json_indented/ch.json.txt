@@ -6787,12 +6787,12 @@
        "Code": "932",
        "Places": [
         {
-         "Name": "Buchen BE",
+         "Name": "Horrenbach",
          "PostCode": "3623",
          "LatLong": "46.7748,7.7824"
         },
         {
-         "Name": "Horrenbach",
+         "Name": "Buchen BE",
          "PostCode": "3623",
          "LatLong": "46.7748,7.7824"
         }
@@ -22316,14 +22316,14 @@
          "LatLong": "47.5791,9.2241"
         },
         {
-         "Name": "Buch b. Kümmertshausen",
-         "PostCode": "8586",
-         "LatLong": "47.5765,9.2148"
-        },
-        {
          "Name": "Andwil TG",
          "PostCode": "8586",
          "LatLong": "47.5683,9.2171"
+        },
+        {
+         "Name": "Buch b. Kümmertshausen",
+         "PostCode": "8586",
+         "LatLong": "47.5765,9.2148"
         }
        ]
       },
@@ -22352,13 +22352,13 @@
          "LatLong": "47.5399,9.2339"
         },
         {
-         "PostCode": "8586",
-         "LatLong": "47.5481,9.2341"
-        },
-        {
          "Name": "Riedt b. Erlen",
          "PostCode": "8586",
          "LatLong": "47.5552,9.2328"
+        },
+        {
+         "PostCode": "8586",
+         "LatLong": "47.5481,9.2341"
         }
        ]
       },
@@ -22963,13 +22963,13 @@
          "LatLong": "46.4948,8.8209"
         },
         {
+         "PostCode": "6760",
+         "LatLong": "46.477,8.8013"
+        },
+        {
          "Name": "Campello",
          "PostCode": "6760",
          "LatLong": "46.4842,8.8165"
-        },
-        {
-         "PostCode": "6760",
-         "LatLong": "46.477,8.8013"
         },
         {
          "Name": "Osco",
@@ -23272,12 +23272,12 @@
          "LatLong": "46.2035,8.5866"
         },
         {
-         "Name": "Auressio",
+         "Name": "Berzona",
          "PostCode": "6661",
          "LatLong": "46.2035,8.5866"
         },
         {
-         "Name": "Berzona",
+         "Name": "Auressio",
          "PostCode": "6661",
          "LatLong": "46.2035,8.5866"
         },
@@ -23887,12 +23887,12 @@
          "LatLong": "46.0816,9.0434"
         },
         {
-         "Name": "Maglio di Colla",
+         "Name": "Piandera Paese",
          "PostCode": "6959",
          "LatLong": "46.0816,9.0434"
         },
         {
-         "Name": "Piandera Paese",
+         "Name": "Maglio di Colla",
          "PostCode": "6959",
          "LatLong": "46.0816,9.0434"
         },
@@ -25379,12 +25379,12 @@
          "LatLong": "46.2718,7.0276"
         },
         {
-         "Name": "Les Posses-sur-Bex",
+         "Name": "Frenières-sur-Bex",
          "PostCode": "1880",
          "LatLong": "46.2596,7.0436"
         },
         {
-         "Name": "Frenières-sur-Bex",
+         "Name": "Les Posses-sur-Bex",
          "PostCode": "1880",
          "LatLong": "46.2596,7.0436"
         }
@@ -27226,17 +27226,17 @@
        "Code": "5586",
        "Places": [
         {
-         "Name": "Lausanne 27",
-         "PostCode": "1000",
-         "LatLong": "46.5182,6.6329"
-        },
-        {
          "Name": "Lausanne 25",
          "PostCode": "1000",
          "LatLong": "46.5182,6.6329"
         },
         {
          "Name": "Lausanne 26",
+         "PostCode": "1000",
+         "LatLong": "46.5182,6.6329"
+        },
+        {
+         "Name": "Lausanne 27",
          "PostCode": "1000",
          "LatLong": "46.5182,6.6329"
         },
@@ -29899,7 +29899,7 @@
        "Code": "6087",
        "Places": [
         {
-         "Name": "Trogne (St-Martin)",
+         "Name": "Eison (St-Martin)",
          "PostCode": "1969",
          "LatLong": "46.1615,7.451"
         },
@@ -29909,7 +29909,7 @@
          "LatLong": "46.1615,7.451"
         },
         {
-         "Name": "Eison (St-Martin)",
+         "Name": "Trogne (St-Martin)",
          "PostCode": "1969",
          "LatLong": "46.1615,7.451"
         },
