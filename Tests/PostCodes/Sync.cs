@@ -23,8 +23,10 @@ public class Sync
         var currentDirectory = Environment.CurrentDirectory;
         var slnPath = Path.GetFullPath(Path.Combine(currentDirectory, "../../../../"));
         var tempPath = Path.GetFullPath(Path.Combine(slnPath, "temp"));
-        var jsonIndentedPath = Path.GetFullPath(Path.Combine(slnPath, "json_indented"));
-        var jsonPath = Path.GetFullPath(Path.Combine(slnPath, "json"));
+        Directory.CreateDirectory(tempPath);
+        var dataPath = Path.GetFullPath(Path.Combine(slnPath, "Data"));
+        var jsonIndentedPath = Path.GetFullPath(Path.Combine(dataPath,"PostCodes", "json_indented"));
+        var jsonPath = Path.GetFullPath(Path.Combine(dataPath, "PostCodes", "json"));
         var countriesPath = Path.GetFullPath(Path.Combine(slnPath, "countries.txt"));
         var allCountriesZipPath = Path.Combine(tempPath, "allCountries.zip");
         await Downloader.DownloadFile(allCountriesZipPath);
