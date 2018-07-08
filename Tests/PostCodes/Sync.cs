@@ -25,7 +25,6 @@ public class Sync
         var tempPath = Path.GetFullPath(Path.Combine(slnPath, "temp"));
         Directory.CreateDirectory(tempPath);
         var dataPath = Path.GetFullPath(Path.Combine(slnPath, "Data"));
-        var jsonIndentedPath = Path.GetFullPath(Path.Combine(dataPath,"PostCodes", "json_indented"));
         var jsonPath = Path.GetFullPath(Path.Combine(dataPath, "PostCodes", "json"));
         var countriesPath = Path.GetFullPath(Path.Combine(slnPath, "countries.txt"));
         var allCountriesZipPath = Path.Combine(tempPath, "allCountries.zip");
@@ -38,14 +37,12 @@ public class Sync
         var jsonSerializer = new JsonSerializer
         {
             NullValueHandling = NullValueHandling.Ignore,
+            Formatting = Formatting.Indented,
         };
         var groupByCountry = list.GroupBy(x => x.CountryCode).ToList();
         File.Delete(countriesPath);
         File.WriteAllLines(countriesPath, groupByCountry.Select(x => x.Key.ToLower()));
         WriteRows(jsonPath, jsonSerializer, groupByCountry);
-
-        jsonSerializer.Formatting = Formatting.Indented;
-        WriteRows(jsonIndentedPath, jsonSerializer, groupByCountry);
     }
 
     void WriteRows(string jsonPath, JsonSerializer jsonSerializer, List<IGrouping<string, Row>> groupByCountry)
