@@ -11,7 +11,7 @@ List of country codes: https://raw.githubusercontent.com/SimonCropp/CountryData/
 https://raw.githubusercontent.com/SimonCropp/CountryData/master/Data/PostCodes/[CountryCode].json.txt
 ```
 
-For example the urls for Australia (AU) are 
+For example the url for Australia (AU) is 
 
 https://raw.githubusercontent.com/SimonCropp/CountryData/master/Data/PostCodes/au.json.txt
 
