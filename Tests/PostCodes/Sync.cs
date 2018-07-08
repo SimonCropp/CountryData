@@ -25,7 +25,7 @@ public class Sync
         var tempPath = Path.GetFullPath(Path.Combine(slnPath, "temp"));
         Directory.CreateDirectory(tempPath);
         var dataPath = Path.GetFullPath(Path.Combine(slnPath, "Data"));
-        var jsonPath = Path.GetFullPath(Path.Combine(dataPath, "PostCodes", "json"));
+        var jsonPath = Path.GetFullPath(Path.Combine(dataPath, "PostCodes"));
         var countriesPath = Path.GetFullPath(Path.Combine(slnPath, "countries.txt"));
         var allCountriesZipPath = Path.Combine(tempPath, "allCountries.zip");
         await Downloader.DownloadFile(allCountriesZipPath, "http://download.geonames.org/export/zip/allCountries.zip");
