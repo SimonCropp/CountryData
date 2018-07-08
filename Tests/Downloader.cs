@@ -5,9 +5,8 @@ using System.Threading.Tasks;
 
 static class Downloader
 {
-    public  static async Task DownloadFile(string allCountriesPath)
+    public static async Task DownloadFile(string allCountriesPath, string requestUri)
     {
-        var requestUri = "http://download.geonames.org/export/zip/allCountries.zip";
         var httpClient = new HttpClient();
 
         var requestMessage = new HttpRequestMessage(HttpMethod.Head, requestUri);

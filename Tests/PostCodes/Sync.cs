@@ -29,7 +29,7 @@ public class Sync
         var jsonPath = Path.GetFullPath(Path.Combine(dataPath, "PostCodes", "json"));
         var countriesPath = Path.GetFullPath(Path.Combine(slnPath, "countries.txt"));
         var allCountriesZipPath = Path.Combine(tempPath, "allCountries.zip");
-        await Downloader.DownloadFile(allCountriesZipPath);
+        await Downloader.DownloadFile(allCountriesZipPath, "http://download.geonames.org/export/zip/allCountries.zip");
         var allCountriesTxtPath = Path.Combine(tempPath, "allCountries.txt");
         File.Delete(allCountriesTxtPath);
         ZipFile.ExtractToDirectory(allCountriesZipPath, tempPath);
