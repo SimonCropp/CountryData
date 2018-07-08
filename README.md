@@ -5,22 +5,22 @@ Provides a .net wrapper around the [GeoNames Postal Codes](https://www.geonames.
 
 ## Json Files
 
-List of country codes: https://raw.githubusercontent.com/SimonCropp/CountryLocationData/master/countries.txt
+List of country codes: https://raw.githubusercontent.com/SimonCropp/CountryData/master/countries.txt
 
 The for each country code there is both an indented and a non indented file.
 
 ```
-https://raw.githubusercontent.com/SimonCropp/CountryLocationData/master/json/[CountryCode].json.txt
-https://raw.githubusercontent.com/SimonCropp/CountryLocationData/master/json_indented/[CountryCode].json.txt
+https://raw.githubusercontent.com/SimonCropp/CountryData/master/Data/PostCodes/json/[CountryCode].json.txt
+https://raw.githubusercontent.com/SimonCropp/CountryData/master/Data/PostCodes/json_indented/[CountryCode].json.txt
 ```
 
 For example the urls for Australia (AU) are 
 
-https://raw.githubusercontent.com/SimonCropp/CountryLocationData/master/json/au.json.txt
+https://raw.githubusercontent.com/SimonCropp/CountryData/master/Data/PostCodes/json/au.json.txt
 
 and
 
-https://raw.githubusercontent.com/SimonCropp/CountryLocationData/master/json_indented/au.json.txt
+https://raw.githubusercontent.com/SimonCropp/CountryData/master/Data/PostCodes/json_indented/au.json.txt
 
 
 ### Structure 

@@ -502,6 +502,10 @@
    "LatLong": "12.2667,122.05"
   },
   {
+   "Name": "Project 6",
+   "LatLong": "14.6591,121.0395"
+  },
+  {
    "Name": "Piñahan",
    "LatLong": "15.6333,121.05"
   },
@@ -510,12 +514,24 @@
    "LatLong": "15.1462,121.0447"
   },
   {
-   "Name": "Project 6",
-   "LatLong": "14.6591,121.0395"
-  },
-  {
    "Name": "Central",
    "LatLong": "15.1462,121.0447"
+  },
+  {
+   "Name": "Malaya",
+   "LatLong": "14.3983,121.3397"
+  },
+  {
+   "Name": "Krus na Ligas",
+   "LatLong": "14.6428,121.0658"
+  },
+  {
+   "Name": "San Vicente",
+   "LatLong": "18.5083,122.1528"
+  },
+  {
+   "Name": "Sikatuna Village",
+   "LatLong": "15.2681,121.4227"
   },
   {
    "Name": "Botocan",
@@ -526,72 +542,56 @@
    "LatLong": "14.6411,121.0551"
   },
   {
-   "Name": "Krus na Ligas",
-   "LatLong": "14.6428,121.0658"
-  },
-  {
-   "Name": "Malaya",
-   "LatLong": "14.3983,121.3397"
-  },
-  {
-   "Name": "University of the Philippines",
+   "Name": "Old Capitol Site",
    "LatLong": "15.2681,121.4227"
-  },
-  {
-   "Name": "San Vicente",
-   "LatLong": "18.5083,122.1528"
   },
   {
    "Name": "University of the Philippines Village",
    "LatLong": "15.2681,121.4227"
   },
   {
-   "Name": "Sikatuna Village",
+   "Name": "University of the Philippines",
    "LatLong": "15.2681,121.4227"
-  },
-  {
-   "Name": "Old Capitol Site",
-   "LatLong": "15.2681,121.4227"
-  },
-  {
-   "Name": "Kamias",
-   "LatLong": "14.4121,121.2233"
   },
   {
    "Name": "Duyan-Duyan",
    "LatLong": "14.6228,121.0699"
   },
   {
-   "Name": "Amihan",
-   "LatLong": "14.6274,121.0675"
-  },
-  {
    "Name": "E. Rodriguez",
    "LatLong": "14.6213,121.0543"
   },
   {
-   "Name": "Silangan",
-   "LatLong": "13.5636,121.8578"
+   "Name": "Amihan",
+   "LatLong": "14.6274,121.0675"
   },
   {
    "Name": "Claro",
    "LatLong": "14.6255,121.0668"
   },
   {
+   "Name": "Kamias",
+   "LatLong": "14.4121,121.2233"
+  },
+  {
    "Name": "Quirino District (Project 2 &amp; 3)",
    "LatLong": "14.4121,121.2233"
+  },
+  {
+   "Name": "Silangan",
+   "LatLong": "13.5636,121.8578"
   },
   {
    "Name": "Sacred Heart",
    "LatLong": "14.6308,121.0383"
   },
   {
-   "Name": "Paligsahan",
-   "LatLong": "14.63,121.0203"
-  },
-  {
    "Name": "Kamuning",
    "LatLong": "14.6274,121.0402"
+  },
+  {
+   "Name": "Paligsahan",
+   "LatLong": "14.63,121.0203"
   },
   {
    "Name": "South Triangle",
@@ -610,8 +610,8 @@
    "LatLong": "14.6304,121.0328"
   },
   {
-   "Name": "Diliman",
-   "LatLong": "14.6589,121.0736"
+   "Name": "Damayan",
+   "LatLong": "11.4839,122.5194"
   },
   {
    "Name": "Mariblo",
@@ -622,6 +622,10 @@
    "LatLong": "14.6327,121.0124"
   },
   {
+   "Name": "Diliman",
+   "LatLong": "14.6589,121.0736"
+  },
+  {
    "Name": "West Triangle",
    "LatLong": "14.6422,121.0316"
   },
@@ -630,43 +634,51 @@
    "LatLong": "14.2786,121.4156"
   },
   {
-   "Name": "Damayan",
-   "LatLong": "11.4839,122.5194"
-  },
-  {
-   "Name": "Nayon Kaunlaran",
-   "LatLong": "13.7327,121.5584"
+   "Name": "Paraiso",
+   "LatLong": "10.8833,123.3667"
   },
   {
    "Name": "Phil-Am",
    "LatLong": "14.6474,121.0318"
   },
   {
-   "Name": "Paraiso",
-   "LatLong": "10.8833,123.3667"
-  },
-  {
-   "Name": "Bagong Pag-Asa",
-   "LatLong": "14.5182,121.1988"
+   "Name": "Nayon Kaunlaran",
+   "LatLong": "13.7327,121.5584"
   },
   {
    "Name": "Santo Cristo",
    "LatLong": "15.35,120.6"
   },
   {
-   "Name": "Bungad",
-   "LatLong": "13.6667,123.0833"
+   "Name": "Bagong Pag-Asa",
+   "LatLong": "14.5182,121.1988"
   },
   {
-   "Name": "Del Monte",
-   "LatLong": "14.6418,121.0177"
+   "Name": "Bungad",
+   "LatLong": "13.6667,123.0833"
   },
   {
    "Name": "Veterans Village",
    "LatLong": "14.6532,121.0257"
   },
   {
+   "Name": "Alicia",
+   "LatLong": "14.5779,121.4317"
+  },
+  {
+   "Name": "Del Monte",
+   "LatLong": "14.6418,121.0177"
+  },
+  {
+   "Name": "Project 7",
+   "LatLong": "14.5779,121.4317"
+  },
+  {
    "Name": "R. Magsaysay",
+   "LatLong": "14.5779,121.4317"
+  },
+  {
+   "Name": "San Antonio, Quezon City",
    "LatLong": "14.5779,121.4317"
   },
   {
@@ -678,18 +690,6 @@
    "LatLong": "14.5779,121.4317"
   },
   {
-   "Name": "Alicia",
-   "LatLong": "14.5779,121.4317"
-  },
-  {
-   "Name": "San Antonio, Quezon City",
-   "LatLong": "14.5779,121.4317"
-  },
-  {
-   "Name": "Project 7",
-   "LatLong": "14.5779,121.4317"
-  },
-  {
    "Name": "Balintawak",
    "LatLong": "14.65,121"
   },
@@ -698,16 +698,12 @@
    "LatLong": "14.6741,121.0345"
   },
   {
-   "Name": "Apolonio Samson",
-   "LatLong": "14.6483,121.0078"
+   "Name": "Project 8",
+   "LatLong": "14.6626,121.0112"
   },
   {
    "Name": "Balumbato",
    "LatLong": "14.6682,121.0023"
-  },
-  {
-   "Name": "Project 8",
-   "LatLong": "14.6626,121.0112"
   },
   {
    "Name": "Baesa",
@@ -718,59 +714,43 @@
    "LatLong": "14.6626,121.0112"
   },
   {
-   "Name": "New Era",
-   "LatLong": "14.6624,121.0557"
+   "Name": "Apolonio Samson",
+   "LatLong": "14.6483,121.0078"
   },
   {
    "Name": "Pasong Tamo",
    "LatLong": "14.6809,121.0673"
   },
   {
-   "Name": "Pansol",
-   "LatLong": "13.8867,121.2433"
+   "Name": "New Era",
+   "LatLong": "14.6624,121.0557"
   },
   {
    "Name": "Loyola Heights",
    "LatLong": "14.629,121.0726"
   },
   {
-   "Name": "Villa Maria Clara",
-   "LatLong": "14.6089,121.0699"
-  },
-  {
-   "Name": "Mangga",
-   "LatLong": "15.2453,120.9083"
-  },
-  {
-   "Name": "Tagumpay",
-   "LatLong": "14.6224,121.0629"
-  },
-  {
-   "Name": "Socorro",
-   "LatLong": "13.0583,121.4117"
-  },
-  {
-   "Name": "Masagana",
-   "LatLong": "14.8833,120.4333"
+   "Name": "Pansol",
+   "LatLong": "13.8867,121.2433"
   },
   {
    "Name": "Milagrosa",
    "LatLong": "14.3089,121.0511"
   },
   {
-   "Name": "Bagong Buhay",
-   "LatLong": "14.5182,121.1988"
-  },
-  {
-   "Name": "San Roque",
-   "LatLong": "14.9028,120.5286"
-  },
-  {
    "Name": "Cubao",
    "LatLong": "14.6167,121.05"
   },
   {
-   "Name": "Escopa",
+   "Name": "Tagumpay",
+   "LatLong": "14.6224,121.0629"
+  },
+  {
+   "Name": "Villa Maria Clara",
+   "LatLong": "14.6089,121.0699"
+  },
+  {
+   "Name": "Project 4",
    "LatLong": "14.5533,120.9758"
   },
   {
@@ -778,12 +758,32 @@
    "LatLong": "14.6115,121.0766"
   },
   {
-   "Name": "Project 4",
+   "Name": "Bagong Buhay",
+   "LatLong": "14.5182,121.1988"
+  },
+  {
+   "Name": "Masagana",
+   "LatLong": "14.8833,120.4333"
+  },
+  {
+   "Name": "Escopa",
    "LatLong": "14.5533,120.9758"
+  },
+  {
+   "Name": "San Roque",
+   "LatLong": "14.9028,120.5286"
+  },
+  {
+   "Name": "Socorro",
+   "LatLong": "13.0583,121.4117"
   },
   {
    "Name": "Bayanihan",
    "LatLong": "14.6073,121.071"
+  },
+  {
+   "Name": "Mangga",
+   "LatLong": "15.2453,120.9083"
   },
   {
    "Name": "Marilag",
@@ -794,24 +794,20 @@
    "LatLong": "14.5533,120.9758"
   },
   {
-   "Name": "Bagong Bayan",
-   "LatLong": "15.8,120.9833"
+   "Name": "Libis",
+   "LatLong": "14.608,121.0807"
   },
   {
    "Name": "Ugong Norte",
    "LatLong": "14.5925,121.0712"
   },
   {
-   "Name": "Libis",
-   "LatLong": "14.608,121.0807"
+   "Name": "Bagong Bayan",
+   "LatLong": "15.8,120.9833"
   },
   {
    "Name": "Talampas",
    "LatLong": "14.6056,121.0781"
-  },
-  {
-   "Name": "Camp Aguinaldo",
-   "LatLong": "14.8405,121.0568"
   },
   {
    "Name": "White Plains",
@@ -819,6 +815,10 @@
   },
   {
    "Name": "St. Ignatius",
+   "LatLong": "14.8405,121.0568"
+  },
+  {
+   "Name": "Camp Aguinaldo",
    "LatLong": "14.8405,121.0568"
   },
   {
@@ -830,10 +830,6 @@
    "LatLong": "14.8626,121.0457"
   },
   {
-   "Name": "Kaunlaran",
-   "LatLong": "14.621,121.0459"
-  },
-  {
    "Name": "Pinagkaisahan",
    "LatLong": "14.623,121.0457"
   },
@@ -843,6 +839,10 @@
   },
   {
    "Name": "Crame",
+   "LatLong": "14.621,121.0459"
+  },
+  {
+   "Name": "Kaunlaran",
    "LatLong": "14.621,121.0459"
   },
   {
@@ -862,28 +862,16 @@
    "LatLong": "14.6095,121.0454"
   },
   {
-   "Name": "Valencia",
-   "LatLong": "14.6184,121.0351"
-  },
-  {
    "Name": "Damayan Lagi",
    "LatLong": "14.6184,121.0351"
   },
   {
-   "Name": "Santo Niño",
-   "LatLong": "17.8883,121.5714"
-  },
-  {
-   "Name": "Santol",
-   "LatLong": "15.1622,120.5675"
+   "Name": "Valencia",
+   "LatLong": "14.6184,121.0351"
   },
   {
    "Name": "Doña Josefa",
    "LatLong": "14.6193,121.0065"
-  },
-  {
-   "Name": "Doña Aurora",
-   "LatLong": "14.6156,121.0096"
   },
   {
    "Name": "San Isidro",
@@ -894,31 +882,55 @@
    "LatLong": "14.6236,121.0135"
   },
   {
-   "Name": "Doña Imelda",
-   "LatLong": "14.6162,121.0192"
+   "Name": "Doña Aurora",
+   "LatLong": "14.6156,121.0096"
+  },
+  {
+   "Name": "Santo Niño",
+   "LatLong": "17.8883,121.5714"
   },
   {
    "Name": "Don Manuel",
    "LatLong": "14.6146,121.0034"
   },
   {
+   "Name": "Doña Imelda",
+   "LatLong": "14.6162,121.0192"
+  },
+  {
+   "Name": "Santol",
+   "LatLong": "15.1622,120.5675"
+  },
+  {
    "Name": "San Isidro Labrador",
    "LatLong": "16.0339,120.1392"
   },
   {
-   "Name": "Sienna",
-   "LatLong": "14.6331,121.0055"
+   "Name": "Matalahib",
+   "LatLong": "14.8626,121.0457"
   },
   {
    "Name": "Lourdes",
    "LatLong": "14.9667,120.6833"
   },
   {
+   "Name": "La Loma",
+   "LatLong": "14.6228,121.0039"
+  },
+  {
+   "Name": "Sienna",
+   "LatLong": "14.6331,121.0055"
+  },
+  {
    "Name": "Salvacion",
    "LatLong": "15.8417,120.9181"
   },
   {
-   "Name": "Paang Bundok",
+   "Name": "Maharlika",
+   "LatLong": "14.5038,121.0546"
+  },
+  {
+   "Name": "St. Peter",
    "LatLong": "15.5503,120.9554"
   },
   {
@@ -926,40 +938,28 @@
    "LatLong": "18.25,121.8833"
   },
   {
-   "Name": "La Loma",
-   "LatLong": "14.6228,121.0039"
-  },
-  {
-   "Name": "St. Peter",
+   "Name": "Paang Bundok",
    "LatLong": "15.5503,120.9554"
-  },
-  {
-   "Name": "Maharlika",
-   "LatLong": "14.5038,121.0546"
   },
   {
    "Name": "Gintong Silahis",
    "LatLong": "15.5503,120.9554"
   },
   {
-   "Name": "Matalahib",
-   "LatLong": "14.8626,121.0457"
-  },
-  {
    "Name": "Manresa",
    "LatLong": "14.6402,121.0039"
   },
   {
-   "Name": "Pag-Ibig sa Nayon",
-   "LatLong": "13.4873,121.6424"
+   "Name": "Masambong",
+   "LatLong": "14.6409,121.0107"
   },
   {
    "Name": "San Jose",
    "LatLong": "11.1808,122.9125"
   },
   {
-   "Name": "Masambong",
-   "LatLong": "14.6409,121.0107"
+   "Name": "Pag-Ibig sa Nayon",
+   "LatLong": "13.4873,121.6424"
   },
   {
    "Name": "Damar",
@@ -970,8 +970,16 @@
    "LatLong": "13.4873,121.6424"
   },
   {
+   "Name": "Bagbag",
+   "LatLong": "16.4667,120.35"
+  },
+  {
    "Name": "Tandang Sora",
    "LatLong": "14.6785,121.0424"
+  },
+  {
+   "Name": "Sauyo",
+   "LatLong": "14.6853,121.0362"
   },
   {
    "Name": "Sangandaan",
@@ -982,52 +990,44 @@
    "LatLong": "14.9833,120.7"
   },
   {
-   "Name": "Bagbag",
-   "LatLong": "16.4667,120.35"
-  },
-  {
-   "Name": "Sauyo",
-   "LatLong": "14.6853,121.0362"
-  },
-  {
    "Name": "Talipapa",
    "LatLong": "14.6857,121.0269"
-  },
-  {
-   "Name": "Capri",
-   "LatLong": "14.719,121.0288"
-  },
-  {
-   "Name": "Gulod",
-   "LatLong": "14.3492,121.2172"
-  },
-  {
-   "Name": "Santa Monica",
-   "LatLong": "14.4617,121.0831"
-  },
-  {
-   "Name": "San Agustin",
-   "LatLong": "13.2786,121.3031"
   },
   {
    "Name": "Santa Lucia",
    "LatLong": "15.5,120.7833"
   },
   {
-   "Name": "Fairview",
-   "LatLong": "14.7036,121.069"
+   "Name": "Gulod",
+   "LatLong": "14.3492,121.2172"
+  },
+  {
+   "Name": "Capri",
+   "LatLong": "14.719,121.0288"
+  },
+  {
+   "Name": "San Agustin",
+   "LatLong": "13.2786,121.3031"
+  },
+  {
+   "Name": "Santa Monica",
+   "LatLong": "14.4617,121.0831"
   },
   {
    "Name": "Pasong Putik",
    "LatLong": "14.738,121.0691"
   },
   {
-   "Name": "Matandang Balara",
-   "LatLong": "14.6655,121.0863"
+   "Name": "Fairview",
+   "LatLong": "14.7036,121.069"
   },
   {
    "Name": "Bagong Silangan",
    "LatLong": "14.7064,121.104"
+  },
+  {
+   "Name": "Matandang Balara",
+   "LatLong": "14.6655,121.0863"
   },
   {
    "Name": "Payatas",
@@ -1694,11 +1694,11 @@
    "LatLong": "14.6736,121.0229"
   },
   {
-   "Name": "Kaunlaran Village",
+   "Name": "Kaunlaran Village (shared with Malabon City and Navotas)",
    "LatLong": "13.8025,121.4867"
   },
   {
-   "Name": "Kaunlaran Village (shared with Malabon City and Navotas)",
+   "Name": "Kaunlaran Village",
    "LatLong": "13.8025,121.4867"
   },
   {
@@ -1722,11 +1722,11 @@
    "LatLong": "14.6333,120.9667"
   },
   {
-   "Name": "Kapitbahayan [East]",
+   "Name": "Kapitbayahan",
    "LatLong": "14.6333,120.9667"
   },
   {
-   "Name": "Kapitbayahan",
+   "Name": "Kapitbahayan [East]",
    "LatLong": "14.6333,120.9667"
   },
   {
@@ -1758,11 +1758,11 @@
    "LatLong": "14.5945,121.0667"
   },
   {
-   "Name": "Tala Leprosarium and Victory Heights",
+   "Name": "Cefels Park Subdivision",
    "LatLong": "14.5945,121.0667"
   },
   {
-   "Name": "Cefels Park Subdivision",
+   "Name": "Tala Leprosarium and Victory Heights",
    "LatLong": "14.5945,121.0667"
   },
   {
@@ -1794,14 +1794,6 @@
    "LatLong": "14.3637,121.2414"
   },
   {
-   "Name": "Mabolo",
-   "LatLong": "12.3908,122.4806"
-  },
-  {
-   "Name": "Arkong Bato",
-   "LatLong": "13.9871,121.5135"
-  },
-  {
    "Name": "Polo",
    "LatLong": "13.5036,122.0903"
   },
@@ -1810,12 +1802,20 @@
    "LatLong": "14.6464,121.0947"
   },
   {
+   "Name": "Mabolo",
+   "LatLong": "12.3908,122.4806"
+  },
+  {
    "Name": "Rincon",
    "LatLong": "14.7,120.95"
   },
   {
    "Name": "Pasolo",
    "LatLong": "14.6944,120.9519"
+  },
+  {
+   "Name": "Arkong Bato",
+   "LatLong": "13.9871,121.5135"
   },
   {
    "Name": "Balangkas - Caloong",
@@ -2342,11 +2342,11 @@
    "LatLong": "14.4998,121.0422"
   },
   {
-   "Name": "Ireneville Subdivision I &amp; III",
+   "Name": "Maywood Village I",
    "LatLong": "14.4998,121.0422"
   },
   {
-   "Name": "Maywood Village I",
+   "Name": "Ireneville Subdivision I &amp; III",
    "LatLong": "14.4998,121.0422"
   },
   {
@@ -4222,12 +4222,12 @@
    "LatLong": "16.6636,121.3681"
   },
   {
-   "Name": "Alfonso Castañeda",
-   "LatLong": "15.8036,121.3061"
-  },
-  {
    "Name": "Quezon",
    "LatLong": "15.5511,120.8156"
+  },
+  {
+   "Name": "Alfonso Castañeda",
+   "LatLong": "15.8036,121.3061"
   },
   {
    "Name": "Tabuk City",
@@ -6374,12 +6374,12 @@
    "LatLong": "9.3597,123.285"
   },
   {
-   "Name": "Loay",
-   "LatLong": "9.6,124.0167"
-  },
-  {
    "Name": "San Jose",
    "LatLong": "11.1808,122.9125"
+  },
+  {
+   "Name": "Loay",
+   "LatLong": "9.6,124.0167"
   },
   {
    "Name": "Amlan",
@@ -6390,11 +6390,11 @@
    "LatLong": "9.7804,123.2184"
   },
   {
-   "Name": "Salvaña City",
+   "Name": "Pamplona",
    "LatLong": "9.4711,123.115"
   },
   {
-   "Name": "Pamplona",
+   "Name": "Salvaña City",
    "LatLong": "9.4711,123.115"
   },
   {
@@ -6438,11 +6438,11 @@
    "LatLong": "9.9369,123.945"
   },
   {
-   "Name": "ais City",
+   "Name": "Dauin",
    "LatLong": "9.1911,123.2656"
   },
   {
-   "Name": "Dauin",
+   "Name": "ais City",
    "LatLong": "9.1911,123.2656"
   },
   {

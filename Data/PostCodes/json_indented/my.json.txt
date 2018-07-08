@@ -541,14 +541,14 @@
      "LatLong": "1.7601,103.6852"
     },
     {
-     "Name": "Sungai Mati",
-     "PostCode": "81500",
-     "LatLong": "1.5141,103.7014"
-    },
-    {
      "Name": "Pekan Nenas",
      "PostCode": "81500",
      "LatLong": "1.6627,103.4182"
+    },
+    {
+     "Name": "Sungai Mati",
+     "PostCode": "81500",
+     "LatLong": "1.5141,103.7014"
     },
     {
      "Name": "Gelang Patah",
@@ -591,6 +591,11 @@
      "LatLong": "1.7427,103.7788"
     },
     {
+     "Name": "Ayer Tawar 3",
+     "PostCode": "81920",
+     "LatLong": "1.721,103.8967"
+    },
+    {
      "Name": "Ayer Tawar 5",
      "PostCode": "81920",
      "LatLong": "2.1308,102.4472"
@@ -604,11 +609,6 @@
      "Name": "Ayer Tawar 4",
      "PostCode": "81920",
      "LatLong": "1.5058,103.9501"
-    },
-    {
-     "Name": "Ayer Tawar 3",
-     "PostCode": "81920",
-     "LatLong": "1.721,103.8967"
     },
     {
      "Name": "Bandar Penawar",
@@ -781,14 +781,14 @@
      "LatLong": "1.881,103.3957"
     },
     {
-     "Name": "Rengam",
-     "PostCode": "86300",
-     "LatLong": "1.8498,103.3555"
-    },
-    {
      "Name": "Kluang",
      "PostCode": "86300",
      "LatLong": "1.7632,103.6076"
+    },
+    {
+     "Name": "Rengam",
+     "PostCode": "86300",
+     "LatLong": "1.8498,103.3555"
     },
     {
      "Name": "Parit Raja",
@@ -1262,14 +1262,14 @@
      "LatLong": "6.2017,100.4128"
     },
     {
-     "Name": "Alor Setar",
-     "PostCode": "06250",
-     "LatLong": "6.0488,100.3565"
-    },
-    {
      "Name": "Alor Star",
      "PostCode": "06250",
      "LatLong": "5.875,100.3757"
+    },
+    {
+     "Name": "Alor Setar",
+     "PostCode": "06250",
+     "LatLong": "6.0488,100.3565"
     },
     {
      "Name": "Kuala Nerang",
@@ -2063,14 +2063,14 @@
      "LatLong": "6.0338,102.3572"
     },
     {
-     "Name": "Kota Bharu",
-     "PostCode": "16100",
-     "LatLong": "5.9808,102.318"
-    },
-    {
      "Name": "Kota Bahru",
      "PostCode": "16100",
      "LatLong": "6.122,102.2523"
+    },
+    {
+     "Name": "Kota Bharu",
+     "PostCode": "16100",
+     "LatLong": "5.9808,102.318"
     },
     {
      "Name": "Kota Bharu",
@@ -2140,12 +2140,12 @@
     {
      "Name": "Pasir Puteh",
      "PostCode": "16800",
-     "LatLong": "5.876,102.3841"
+     "LatLong": "5.8178,102.3748"
     },
     {
      "Name": "Pasir Puteh",
      "PostCode": "16800",
-     "LatLong": "5.8178,102.3748"
+     "LatLong": "5.876,102.3841"
     },
     {
      "Name": "Selising",
@@ -3559,14 +3559,14 @@
      "LatLong": "2.211,102.2548"
     },
     {
-     "Name": "Air Keroh",
-     "PostCode": "75450",
-     "LatLong": "2.3053,102.3346"
-    },
-    {
      "Name": "Ayer Keroh",
      "PostCode": "75450",
      "LatLong": "2.2872,102.2759"
+    },
+    {
+     "Name": "Air Keroh",
+     "PostCode": "75450",
+     "LatLong": "2.3053,102.3346"
     },
     {
      "PostCode": "75450",
@@ -3909,13 +3909,13 @@
      "LatLong": "2.2867,102.1406"
     },
     {
+     "PostCode": "76400",
+     "LatLong": "2.2057,102.2562"
+    },
+    {
      "Name": "Tanjong Kling",
      "PostCode": "76400",
      "LatLong": "2.244,102.1837"
-    },
-    {
-     "PostCode": "76400",
-     "LatLong": "2.2057,102.2562"
     },
     {
      "Name": "Tanjong Kling",
@@ -3957,14 +3957,14 @@
      "LatLong": "2.3862,102.492"
     },
     {
-     "Name": "Jasin",
-     "PostCode": "77200",
-     "LatLong": "2.3849,102.2101"
-    },
-    {
      "Name": "Bemban",
      "PostCode": "77200",
      "LatLong": "2.2582,102.3555"
+    },
+    {
+     "Name": "Jasin",
+     "PostCode": "77200",
+     "LatLong": "2.3849,102.2101"
     },
     {
      "Name": "Merlimau",
@@ -4388,14 +4388,14 @@
      "LatLong": "2.5364,101.8068"
     },
     {
-     "Name": "Port Dickson",
-     "PostCode": "71010",
-     "LatLong": "2.5829,101.8402"
-    },
-    {
      "Name": "Rantau",
      "PostCode": "71010",
      "LatLong": "2.589,101.9629"
+    },
+    {
+     "Name": "Port Dickson",
+     "PostCode": "71010",
+     "LatLong": "2.5829,101.8402"
     },
     {
      "Name": "Si Rusa",
@@ -4703,14 +4703,14 @@
      "LatLong": "2.749,102.2502"
     },
     {
-     "Name": "Tampin",
-     "PostCode": "73000",
-     "LatLong": "2.5687,102.1824"
-    },
-    {
      "Name": "Johol",
      "PostCode": "73000",
      "LatLong": "2.636,102.2933"
+    },
+    {
+     "Name": "Tampin",
+     "PostCode": "73000",
+     "LatLong": "2.5687,102.1824"
     },
     {
      "Name": "Tampin",
@@ -6875,14 +6875,14 @@
      "LatLong": "5.4452,100.2911"
     },
     {
-     "Name": "Tanjong Bungah",
-     "PostCode": "11200",
-     "LatLong": "5.4515,100.2943"
-    },
-    {
      "Name": "Tanjung Bungah",
      "PostCode": "11200",
      "LatLong": "5.4608,100.2814"
+    },
+    {
+     "Name": "Tanjong Bungah",
+     "PostCode": "11200",
+     "LatLong": "5.4515,100.2943"
     },
     {
      "Name": "Penang Hill",
@@ -7038,14 +7038,14 @@
      "LatLong": "5.4636,100.4213"
     },
     {
-     "Name": "Tasek Gelugur",
-     "PostCode": "13300",
-     "LatLong": "5.2632,100.4846"
-    },
-    {
      "Name": "Tasek Gelugor",
      "PostCode": "13300",
      "LatLong": "5.453,100.475"
+    },
+    {
+     "Name": "Tasek Gelugur",
+     "PostCode": "13300",
+     "LatLong": "5.2632,100.4846"
     },
     {
      "Name": "Tasek Gelugor",
@@ -9525,14 +9525,14 @@
      "LatLong": "6.117,116.2675"
     },
     {
-     "Name": "Tenghilan",
-     "PostCode": "89260",
-     "LatLong": "5.9977,116.529"
-    },
-    {
      "Name": "Beverly",
      "PostCode": "89260",
      "LatLong": "5.4204,116.7968"
+    },
+    {
+     "Name": "Tenghilan",
+     "PostCode": "89260",
+     "LatLong": "5.9977,116.529"
     },
     {
      "Name": "Ranau",
@@ -11066,14 +11066,14 @@
      "LatLong": "3.3861,101.6093"
     },
     {
-     "Name": "Batangkali",
-     "PostCode": "44300",
-     "LatLong": "3.2206,101.5735"
-    },
-    {
      "Name": "Batang Kali",
      "PostCode": "44300",
      "LatLong": "3.3751,101.6306"
+    },
+    {
+     "Name": "Batangkali",
+     "PostCode": "44300",
+     "LatLong": "3.2206,101.5735"
     },
     {
      "Name": "Kuala Selangor",

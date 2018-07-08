@@ -11,14 +11,14 @@
      "LatLong": "46.3786,18.4357"
     },
     {
-     "Name": "Mecsekpölöske",
-     "PostCode": "7300",
-     "LatLong": "46.2167,18.2167"
-    },
-    {
      "Name": "Komló",
      "PostCode": "7300",
      "LatLong": "46.2,18.2667"
+    },
+    {
+     "Name": "Mecsekpölöske",
+     "PostCode": "7300",
+     "LatLong": "46.2167,18.2167"
     },
     {
      "Name": "Mecsekpölöske",
@@ -76,14 +76,14 @@
      "LatLong": "46.2667,18.3167"
     },
     {
-     "Name": "Köblény",
-     "PostCode": "7334",
-     "LatLong": "46.3,18.3"
-    },
-    {
      "Name": "Szalatnak",
      "PostCode": "7334",
      "LatLong": "46.2833,18.2833"
+    },
+    {
+     "Name": "Köblény",
+     "PostCode": "7334",
+     "LatLong": "46.3,18.3"
     },
     {
      "Name": "Mágocs",
@@ -146,6 +146,31 @@
      "LatLong": "46.3,18.1833"
     },
     {
+     "Name": "Varga",
+     "PostCode": "7370",
+     "LatLong": "46.2333,18.15"
+    },
+    {
+     "Name": "Sásd",
+     "PostCode": "7370",
+     "LatLong": "46.25,18.1167"
+    },
+    {
+     "Name": "Palé",
+     "PostCode": "7370",
+     "LatLong": "46.2667,18.0667"
+    },
+    {
+     "Name": "Meződ",
+     "PostCode": "7370",
+     "LatLong": "46.2833,18.1"
+    },
+    {
+     "Name": "Felsőegerszeg",
+     "PostCode": "7370",
+     "LatLong": "46.25,18.1333"
+    },
+    {
      "Name": "Oroszló",
      "PostCode": "7370",
      "LatLong": "46.2167,18.1333"
@@ -154,36 +179,6 @@
      "Name": "Vázsnok",
      "PostCode": "7370",
      "LatLong": "46.2667,18.1333"
-    },
-    {
-     "Name": "Sásd",
-     "PostCode": "7370",
-     "LatLong": "46.25,18.1167"
-    },
-    {
-     "Name": "Meződ",
-     "PostCode": "7370",
-     "LatLong": "46.2833,18.1"
-    },
-    {
-     "Name": "Palé",
-     "PostCode": "7370",
-     "LatLong": "46.2667,18.0667"
-    },
-    {
-     "Name": "Varga",
-     "PostCode": "7370",
-     "LatLong": "46.2333,18.15"
-    },
-    {
-     "Name": "Felsőegerszeg",
-     "PostCode": "7370",
-     "LatLong": "46.25,18.1333"
-    },
-    {
-     "Name": "Tékes",
-     "PostCode": "7381",
-     "LatLong": "46.2833,18.1667"
     },
     {
      "Name": "Kisvaszar",
@@ -196,9 +191,9 @@
      "LatLong": "46.2833,18.2"
     },
     {
-     "Name": "Tormás",
-     "PostCode": "7383",
-     "LatLong": "46.2333,18"
+     "Name": "Tékes",
+     "PostCode": "7381",
+     "LatLong": "46.2833,18.1667"
     },
     {
      "Name": "Szágy",
@@ -209,6 +204,11 @@
      "Name": "Baranyaszentgyörgy",
      "PostCode": "7383",
      "LatLong": "46.2333,18.0167"
+    },
+    {
+     "Name": "Tormás",
+     "PostCode": "7383",
+     "LatLong": "46.2333,18"
     },
     {
      "Name": "Baranyajenő",
@@ -231,14 +231,14 @@
      "LatLong": "46.2,18.0833"
     },
     {
-     "Name": "Kisbeszterce",
-     "PostCode": "7391",
-     "LatLong": "46.2,18.0333"
-    },
-    {
      "Name": "Mindszentgodisa",
      "PostCode": "7391",
      "LatLong": "46.2167,18.0667"
+    },
+    {
+     "Name": "Kisbeszterce",
+     "PostCode": "7391",
+     "LatLong": "46.2,18.0333"
     },
     {
      "Name": "Bakóca",
@@ -481,6 +481,11 @@
      "LatLong": "46.0667,18.45"
     },
     {
+     "Name": "Erzsébet",
+     "PostCode": "7661",
+     "LatLong": "46.1,18.4667"
+    },
+    {
      "Name": "Kékesd",
      "PostCode": "7661",
      "LatLong": "46.1,18.4667"
@@ -489,11 +494,6 @@
      "Name": "Szellő",
      "PostCode": "7661",
      "LatLong": "46.0667,18.4667"
-    },
-    {
-     "Name": "Erzsébet",
-     "PostCode": "7661",
-     "LatLong": "46.1,18.4667"
     },
     {
      "Name": "Máriakéménd",
@@ -521,14 +521,14 @@
      "LatLong": "45.98,18.26"
     },
     {
-     "Name": "Gyód",
-     "PostCode": "7668",
-     "LatLong": "45.9958,18.1786"
-    },
-    {
      "Name": "Kökény",
      "PostCode": "7668",
      "LatLong": "45.9969,18.2028"
+    },
+    {
+     "Name": "Gyód",
+     "PostCode": "7668",
+     "LatLong": "45.9958,18.1786"
     },
     {
      "Name": "Keszü",
@@ -541,14 +541,14 @@
      "LatLong": "46,18.1"
     },
     {
-     "Name": "Aranyosgadány",
-     "PostCode": "7671",
-     "LatLong": "46,18.1167"
-    },
-    {
      "Name": "Bicsérd",
      "PostCode": "7671",
      "LatLong": "46.0167,18.0833"
+    },
+    {
+     "Name": "Aranyosgadány",
+     "PostCode": "7671",
+     "LatLong": "46,18.1167"
     },
     {
      "Name": "Boda",
@@ -556,14 +556,14 @@
      "LatLong": "46.0833,18.05"
     },
     {
-     "Name": "Kővágószőlős",
-     "PostCode": "7673",
-     "LatLong": "46.0833,18.1333"
-    },
-    {
      "Name": "Cserkút",
      "PostCode": "7673",
      "LatLong": "46.0667,18.1333"
+    },
+    {
+     "Name": "Kővágószőlős",
+     "PostCode": "7673",
+     "LatLong": "46.0833,18.1333"
     },
     {
      "Name": "Bakonya",
@@ -586,24 +586,24 @@
      "LatLong": "46.1667,18.1167"
     },
     {
-     "Name": "Abaliget",
-     "PostCode": "7678",
-     "LatLong": "46.15,18.1167"
-    },
-    {
      "Name": "Husztót",
      "PostCode": "7678",
      "LatLong": "46.1667,18.0833"
     },
     {
-     "Name": "Hetvehely",
-     "PostCode": "7681",
-     "LatLong": "46.1333,18.05"
+     "Name": "Abaliget",
+     "PostCode": "7678",
+     "LatLong": "46.15,18.1167"
     },
     {
      "Name": "Szentkatalin",
      "PostCode": "7681",
      "LatLong": "46.1667,18.05"
+    },
+    {
+     "Name": "Hetvehely",
+     "PostCode": "7681",
+     "LatLong": "46.1333,18.05"
     },
     {
      "Name": "Okorvölgy",
@@ -656,11 +656,6 @@
      "LatLong": "46.15,18.35"
     },
     {
-     "Name": "Ófalu",
-     "PostCode": "7695",
-     "LatLong": "46.2167,18.5333"
-    },
-    {
      "Name": "Óbánya",
      "PostCode": "7695",
      "LatLong": "46.2167,18.4167"
@@ -669,6 +664,11 @@
      "Name": "Mecseknádasd",
      "PostCode": "7695",
      "LatLong": "46.2167,18.4667"
+    },
+    {
+     "Name": "Ófalu",
+     "PostCode": "7695",
+     "LatLong": "46.2167,18.5333"
     },
     {
      "Name": "Hidas",
@@ -726,19 +726,14 @@
      "LatLong": "45.9006,18.6597"
     },
     {
-     "Name": "Pécsvárad",
+     "Name": "Martonfa",
      "PostCode": "7720",
-     "LatLong": "46.15,18.4167"
+     "LatLong": "46.1167,18.3833"
     },
     {
      "Name": "Lovászhetény",
      "PostCode": "7720",
      "LatLong": "46.1667,18.4833"
-    },
-    {
-     "Name": "Martonfa",
-     "PostCode": "7720",
-     "LatLong": "46.1167,18.3833"
     },
     {
      "Name": "Apátvarasd",
@@ -749,6 +744,11 @@
      "Name": "Zengővárkony",
      "PostCode": "7720",
      "LatLong": "46.1667,18.4333"
+    },
+    {
+     "Name": "Pécsvárad",
+     "PostCode": "7720",
+     "LatLong": "46.15,18.4167"
     },
     {
      "Name": "Erdősmecske",
@@ -796,14 +796,14 @@
      "LatLong": "46.1167,18.4833"
     },
     {
-     "Name": "Geresdlak",
-     "PostCode": "7733",
-     "LatLong": "46.1,18.5333"
-    },
-    {
      "Name": "Maráza",
      "PostCode": "7733",
      "LatLong": "46.0667,18.5167"
+    },
+    {
+     "Name": "Geresdlak",
+     "PostCode": "7733",
+     "LatLong": "46.1,18.5333"
     },
     {
      "Name": "Hímesháza",
@@ -811,14 +811,14 @@
      "LatLong": "46.0833,18.5667"
     },
     {
-     "Name": "Szűr",
-     "PostCode": "7735",
-     "LatLong": "46.1,18.5833"
-    },
-    {
      "Name": "Erdősmárok",
      "PostCode": "7735",
      "LatLong": "46.05,18.55"
+    },
+    {
+     "Name": "Szűr",
+     "PostCode": "7735",
+     "LatLong": "46.1,18.5833"
     },
     {
      "Name": "Székelyszabar",
@@ -831,14 +831,14 @@
      "LatLong": "46.0667,18.3333"
     },
     {
-     "Name": "Romonya",
-     "PostCode": "7741",
-     "LatLong": "46.0833,18.35"
-    },
-    {
      "Name": "Bogád",
      "PostCode": "7741",
      "LatLong": "46.0833,18.3333"
+    },
+    {
+     "Name": "Romonya",
+     "PostCode": "7741",
+     "LatLong": "46.0833,18.35"
     },
     {
      "Name": "Ellend",
@@ -846,24 +846,24 @@
      "LatLong": "46.05,18.3833"
     },
     {
-     "Name": "Olasz",
-     "PostCode": "7745",
-     "LatLong": "46.0167,18.4167"
-    },
-    {
      "Name": "Hásságy",
      "PostCode": "7745",
      "LatLong": "46.0333,18.3833"
     },
     {
-     "Name": "Belvárdgyula",
-     "PostCode": "7747",
-     "LatLong": "45.9722,18.4339"
+     "Name": "Olasz",
+     "PostCode": "7745",
+     "LatLong": "46.0167,18.4167"
     },
     {
      "Name": "Birján",
      "PostCode": "7747",
      "LatLong": "45.9978,18.3747"
+    },
+    {
+     "Name": "Belvárdgyula",
+     "PostCode": "7747",
+     "LatLong": "45.9722,18.4339"
     },
     {
      "Name": "Szederkény",
@@ -896,19 +896,9 @@
      "LatLong": "45.9156,18.5422"
     },
     {
-     "Name": "Pócsa",
-     "PostCode": "7756",
-     "LatLong": "45.9097,18.4708"
-    },
-    {
      "Name": "Nagybudmér",
      "PostCode": "7756",
      "LatLong": "45.9361,18.4456"
-    },
-    {
-     "Name": "Kisbudmér",
-     "PostCode": "7756",
-     "LatLong": "45.9125,18.4475"
     },
     {
      "Name": "Borjád",
@@ -916,14 +906,24 @@
      "LatLong": "45.9339,18.4672"
     },
     {
-     "Name": "Liptód",
-     "PostCode": "7757",
-     "LatLong": "46.05,18.5167"
+     "Name": "Pócsa",
+     "PostCode": "7756",
+     "LatLong": "45.9097,18.4708"
+    },
+    {
+     "Name": "Kisbudmér",
+     "PostCode": "7756",
+     "LatLong": "45.9125,18.4475"
     },
     {
      "Name": "Babarc",
      "PostCode": "7757",
      "LatLong": "45.9981,18.5547"
+    },
+    {
+     "Name": "Liptód",
+     "PostCode": "7757",
+     "LatLong": "46.05,18.5167"
     },
     {
      "Name": "Lánycsók",
@@ -956,6 +956,16 @@
      "LatLong": "46.0167,18.2833"
     },
     {
+     "Name": "Áta",
+     "PostCode": "7763",
+     "LatLong": "45.9364,18.2947"
+    },
+    {
+     "Name": "Szemely",
+     "PostCode": "7763",
+     "LatLong": "46.0167,18.3333"
+    },
+    {
      "Name": "Egerág",
      "PostCode": "7763",
      "LatLong": "45.9839,18.3047"
@@ -971,24 +981,9 @@
      "LatLong": "45.9661,18.3297"
     },
     {
-     "Name": "Áta",
-     "PostCode": "7763",
-     "LatLong": "45.9364,18.2947"
-    },
-    {
-     "Name": "Szemely",
-     "PostCode": "7763",
-     "LatLong": "46.0167,18.3333"
-    },
-    {
-     "Name": "Peterd",
+     "Name": "Pécsdevecser",
      "PostCode": "7766",
-     "LatLong": "45.9742,18.3589"
-    },
-    {
-     "Name": "Újpetre",
-     "PostCode": "7766",
-     "LatLong": "45.9367,18.3625"
+     "LatLong": "45.9567,18.3842"
     },
     {
      "Name": "Kiskassa",
@@ -996,9 +991,14 @@
      "LatLong": "45.9531,18.3978"
     },
     {
-     "Name": "Pécsdevecser",
+     "Name": "Újpetre",
      "PostCode": "7766",
-     "LatLong": "45.9567,18.3842"
+     "LatLong": "45.9367,18.3625"
+    },
+    {
+     "Name": "Peterd",
+     "PostCode": "7766",
+     "LatLong": "45.9742,18.3589"
     },
     {
      "Name": "Vokány",
@@ -1026,24 +1026,19 @@
      "LatLong": "45.9072,18.4181"
     },
     {
-     "Name": "Villány",
-     "PostCode": "7773",
-     "LatLong": "45.8689,18.4539"
-    },
-    {
      "Name": "Kisjakabfalva",
      "PostCode": "7773",
      "LatLong": "45.8958,18.4347"
     },
     {
+     "Name": "Villány",
+     "PostCode": "7773",
+     "LatLong": "45.8689,18.4539"
+    },
+    {
      "Name": "Márok",
      "PostCode": "7774",
      "LatLong": "45.8736,18.5086"
-    },
-    {
-     "Name": "Illocska",
-     "PostCode": "7775",
-     "LatLong": "45.8003,18.5225"
     },
     {
      "Name": "Lapáncsa",
@@ -1061,14 +1056,19 @@
      "LatLong": "45.8272,18.5297"
     },
     {
-     "Name": "Sárok",
-     "PostCode": "7781",
-     "LatLong": "45.8411,18.6114"
+     "Name": "Illocska",
+     "PostCode": "7775",
+     "LatLong": "45.8003,18.5225"
     },
     {
      "Name": "Ivándárda",
      "PostCode": "7781",
      "LatLong": "45.8306,18.5903"
+    },
+    {
+     "Name": "Sárok",
+     "PostCode": "7781",
+     "LatLong": "45.8411,18.6114"
     },
     {
      "Name": "Lippó",
@@ -1126,19 +1126,9 @@
      "LatLong": "45.9483,18.2092"
     },
     {
-     "Name": "Csarnóta",
+     "Name": "Túrony",
      "PostCode": "7811",
-     "LatLong": "45.8953,18.2147"
-    },
-    {
-     "Name": "Szilvás",
-     "PostCode": "7811",
-     "LatLong": "45.9622,18.2"
-    },
-    {
-     "Name": "Bisse",
-     "PostCode": "7811",
-     "LatLong": "45.9078,18.2581"
+     "LatLong": "45.9044,18.2317"
     },
     {
      "Name": "Szalánta",
@@ -1146,9 +1136,19 @@
      "LatLong": "45.9486,18.2375"
     },
     {
-     "Name": "Túrony",
+     "Name": "Bisse",
      "PostCode": "7811",
-     "LatLong": "45.9044,18.2317"
+     "LatLong": "45.9078,18.2581"
+    },
+    {
+     "Name": "Szilvás",
+     "PostCode": "7811",
+     "LatLong": "45.9622,18.2"
+    },
+    {
+     "Name": "Csarnóta",
+     "PostCode": "7811",
+     "LatLong": "45.8953,18.2147"
     },
     {
      "Name": "Garé",
@@ -1161,6 +1161,16 @@
      "LatLong": "45.9022,18.1761"
     },
     {
+     "Name": "Kisdér",
+     "PostCode": "7814",
+     "LatLong": "45.9406,18.1281"
+    },
+    {
+     "Name": "Ócsárd",
+     "PostCode": "7814",
+     "LatLong": "45.9342,18.1519"
+    },
+    {
      "Name": "Babarcszőlős",
      "PostCode": "7814",
      "LatLong": "45.9,18.1364"
@@ -1171,24 +1181,14 @@
      "LatLong": "45.9103,18.1203"
     },
     {
-     "Name": "Ócsárd",
-     "PostCode": "7814",
-     "LatLong": "45.9342,18.1519"
-    },
-    {
-     "Name": "Kisdér",
-     "PostCode": "7814",
-     "LatLong": "45.9406,18.1281"
-    },
-    {
      "Name": "Harkány",
      "PostCode": "7815",
      "LatLong": "45.8478,18.2375"
     },
     {
-     "Name": "Diósviszló",
+     "Name": "Rádfalva",
      "PostCode": "7817",
-     "LatLong": "45.8772,18.1633"
+     "LatLong": "45.8597,18.1258"
     },
     {
      "Name": "Márfa",
@@ -1196,9 +1196,9 @@
      "LatLong": "45.86,18.1853"
     },
     {
-     "Name": "Rádfalva",
+     "Name": "Diósviszló",
      "PostCode": "7817",
-     "LatLong": "45.8597,18.1258"
+     "LatLong": "45.8772,18.1633"
     },
     {
      "Name": "Nagyharsány",
@@ -1231,14 +1231,14 @@
      "LatLong": "45.7892,18.3056"
     },
     {
-     "Name": "Kásád",
-     "PostCode": "7827",
-     "LatLong": "45.7783,18.3989"
-    },
-    {
      "Name": "Beremend",
      "PostCode": "7827",
      "LatLong": "45.7853,18.4347"
+    },
+    {
+     "Name": "Kásád",
+     "PostCode": "7827",
+     "LatLong": "45.7783,18.3989"
     },
     {
      "Name": "Pellérd",
@@ -1246,9 +1246,9 @@
      "LatLong": "46.0333,18.15"
     },
     {
-     "Name": "Szőke",
+     "Name": "Regenye",
      "PostCode": "7833",
-     "LatLong": "45.96,18.1858"
+     "LatLong": "45.9692,18.1681"
     },
     {
      "Name": "Görcsöny",
@@ -1256,9 +1256,9 @@
      "LatLong": "45.9694,18.1358"
     },
     {
-     "Name": "Regenye",
+     "Name": "Szőke",
      "PostCode": "7833",
-     "LatLong": "45.9692,18.1681"
+     "LatLong": "45.96,18.1858"
     },
     {
      "Name": "Baksa",
@@ -1291,19 +1291,9 @@
      "LatLong": "45.9039,18.09"
     },
     {
-     "Name": "Hirics",
-     "PostCode": "7838",
-     "LatLong": "45.8167,18"
-    },
-    {
      "Name": "Besence",
      "PostCode": "7838",
      "LatLong": "45.9,17.9667"
-    },
-    {
-     "Name": "Vejti",
-     "PostCode": "7838",
-     "LatLong": "45.8167,17.9667"
     },
     {
      "Name": "Páprád",
@@ -1311,14 +1301,9 @@
      "LatLong": "45.8925,18.0097"
     },
     {
-     "Name": "Lúzsok",
+     "Name": "Piskó",
      "PostCode": "7838",
-     "LatLong": "45.8333,17.95"
-    },
-    {
-     "Name": "Nagycsány",
-     "PostCode": "7838",
-     "LatLong": "45.8667,17.95"
+     "LatLong": "45.8167,17.95"
     },
     {
      "Name": "Vajszló",
@@ -1326,14 +1311,24 @@
      "LatLong": "45.8633,17.9761"
     },
     {
-     "Name": "Piskó",
+     "Name": "Nagycsány",
      "PostCode": "7838",
-     "LatLong": "45.8167,17.95"
+     "LatLong": "45.8667,17.95"
     },
     {
-     "Name": "Kemse",
-     "PostCode": "7839",
-     "LatLong": "45.8167,17.9167"
+     "Name": "Hirics",
+     "PostCode": "7838",
+     "LatLong": "45.8167,18"
+    },
+    {
+     "Name": "Vejti",
+     "PostCode": "7838",
+     "LatLong": "45.8167,17.9667"
+    },
+    {
+     "Name": "Lúzsok",
+     "PostCode": "7838",
+     "LatLong": "45.8333,17.95"
     },
     {
      "Name": "Zaláta",
@@ -1341,19 +1336,19 @@
      "LatLong": "45.8167,17.8833"
     },
     {
-     "Name": "Kórós",
-     "PostCode": "7841",
-     "LatLong": "45.8669,18.0844"
-    },
-    {
-     "Name": "Adorjás",
-     "PostCode": "7841",
-     "LatLong": "45.8506,18.0628"
+     "Name": "Kemse",
+     "PostCode": "7839",
+     "LatLong": "45.8167,17.9167"
     },
     {
      "Name": "Sámod",
      "PostCode": "7841",
      "LatLong": "45.8544,18.0375"
+    },
+    {
+     "Name": "Adorjás",
+     "PostCode": "7841",
+     "LatLong": "45.8506,18.0628"
     },
     {
      "Name": "Kisszentmárton",
@@ -1366,19 +1361,9 @@
      "LatLong": "45.8464,18.0233"
     },
     {
-     "Name": "Cún",
-     "PostCode": "7843",
-     "LatLong": "45.8125,18.0669"
-    },
-    {
-     "Name": "Kémes",
-     "PostCode": "7843",
-     "LatLong": "45.8242,18.1011"
-    },
-    {
-     "Name": "Drávapiski",
-     "PostCode": "7843",
-     "LatLong": "45.84,18.1011"
+     "Name": "Kórós",
+     "PostCode": "7841",
+     "LatLong": "45.8669,18.0844"
     },
     {
      "Name": "Tésenfa",
@@ -1386,9 +1371,24 @@
      "LatLong": "45.8131,18.1183"
     },
     {
+     "Name": "Cún",
+     "PostCode": "7843",
+     "LatLong": "45.8125,18.0669"
+    },
+    {
+     "Name": "Drávapiski",
+     "PostCode": "7843",
+     "LatLong": "45.84,18.1011"
+    },
+    {
      "Name": "Szaporca",
      "PostCode": "7843",
      "LatLong": "45.8136,18.1044"
+    },
+    {
+     "Name": "Kémes",
+     "PostCode": "7843",
+     "LatLong": "45.8242,18.1011"
     },
     {
      "Name": "Drávacsepely",
@@ -1396,9 +1396,9 @@
      "LatLong": "45.8292,18.1386"
     },
     {
-     "Name": "Ipacsfa",
+     "Name": "Kovácshida",
      "PostCode": "7847",
-     "LatLong": "45.8347,18.2033"
+     "LatLong": "45.8342,18.1814"
     },
     {
      "Name": "Drávaszerdahely",
@@ -1406,9 +1406,9 @@
      "LatLong": "45.8358,18.1633"
     },
     {
-     "Name": "Kovácshida",
+     "Name": "Ipacsfa",
      "PostCode": "7847",
-     "LatLong": "45.8342,18.1814"
+     "LatLong": "45.8347,18.2033"
     },
     {
      "Name": "Drávapalkonya",
@@ -1436,6 +1436,11 @@
      "LatLong": "45.7981,18.2661"
     },
     {
+     "Name": "Botykapeterd",
+     "PostCode": "7900",
+     "LatLong": "46.05,17.8667"
+    },
+    {
      "Name": "Szigetvár",
      "PostCode": "7900",
      "LatLong": "46.05,17.8"
@@ -1444,11 +1449,6 @@
      "Name": "Csertő",
      "PostCode": "7900",
      "LatLong": "46.1,17.8167"
-    },
-    {
-     "Name": "Botykapeterd",
-     "PostCode": "7900",
-     "LatLong": "46.05,17.8667"
     },
     {
      "Name": "Csertő",
@@ -1511,6 +1511,11 @@
      "LatLong": "46.0833,17.75"
     },
     {
+     "Name": "Somogyviszló",
+     "PostCode": "7922",
+     "LatLong": "46.1167,17.7667"
+    },
+    {
      "Name": "Basal",
      "PostCode": "7922",
      "LatLong": "46.0667,17.7833"
@@ -1519,11 +1524,6 @@
      "Name": "Patapoklosi",
      "PostCode": "7922",
      "LatLong": "46.0667,17.75"
-    },
-    {
-     "Name": "Somogyviszló",
-     "PostCode": "7922",
-     "LatLong": "46.1167,17.7667"
     },
     {
      "Name": "Magyarlukafa",
@@ -1546,14 +1546,14 @@
      "LatLong": "46.1167,17.9"
     },
     {
-     "Name": "Szulimán",
-     "PostCode": "7932",
-     "LatLong": "46.1333,17.8"
-    },
-    {
      "Name": "Mozsgó",
      "PostCode": "7932",
      "LatLong": "46.1167,17.85"
+    },
+    {
+     "Name": "Szulimán",
+     "PostCode": "7932",
+     "LatLong": "46.1333,17.8"
     },
     {
      "Name": "Almamellék",
@@ -1561,9 +1561,9 @@
      "LatLong": "46.15,17.8833"
     },
     {
-     "Name": "Ibafa",
+     "Name": "Horváthertelend",
      "PostCode": "7935",
-     "LatLong": "46.15,17.9167"
+     "LatLong": "46.1667,17.9167"
     },
     {
      "Name": "Csebény",
@@ -1571,9 +1571,9 @@
      "LatLong": "46.1833,17.9333"
     },
     {
-     "Name": "Horváthertelend",
+     "Name": "Ibafa",
      "PostCode": "7935",
-     "LatLong": "46.1667,17.9167"
+     "LatLong": "46.15,17.9167"
     },
     {
      "Name": "Szentlászló",
@@ -1611,14 +1611,14 @@
      "LatLong": "45.9903,18.0733"
     },
     {
-     "Name": "Velény",
-     "PostCode": "7951",
-     "LatLong": "45.9803,18.0533"
-    },
-    {
      "Name": "Gerde",
      "PostCode": "7951",
      "LatLong": "45.9897,18.0242"
+    },
+    {
+     "Name": "Velény",
+     "PostCode": "7951",
+     "LatLong": "45.9803,18.0533"
     },
     {
      "Name": "Királyegyháza",
@@ -1626,19 +1626,14 @@
      "LatLong": "46,17.9667"
     },
     {
-     "Name": "Magyarmecske",
-     "PostCode": "7954",
-     "LatLong": "45.95,17.9667"
-    },
-    {
-     "Name": "Magyartelek",
-     "PostCode": "7954",
-     "LatLong": "45.9333,17.9833"
-    },
-    {
      "Name": "Kisasszonyfa",
      "PostCode": "7954",
      "LatLong": "45.9467,18.0061"
+    },
+    {
+     "Name": "Magyarmecske",
+     "PostCode": "7954",
+     "LatLong": "45.95,17.9667"
     },
     {
      "Name": "Gilvánfa",
@@ -1651,6 +1646,11 @@
      "LatLong": "45.9667,17.95"
     },
     {
+     "Name": "Magyartelek",
+     "PostCode": "7954",
+     "LatLong": "45.9333,17.9833"
+    },
+    {
      "Name": "Okorág",
      "PostCode": "7957",
      "LatLong": "45.9167,17.8833"
@@ -1661,6 +1661,21 @@
      "LatLong": "45.9025,17.8528"
     },
     {
+     "Name": "Sellye",
+     "PostCode": "7960",
+     "LatLong": "45.8747,17.8439"
+    },
+    {
+     "Name": "Drávasztára",
+     "PostCode": "7960",
+     "LatLong": "45.8167,17.8167"
+    },
+    {
+     "Name": "Marócsa",
+     "PostCode": "7960",
+     "LatLong": "45.9167,17.8167"
+    },
+    {
      "Name": "Sumony",
      "PostCode": "7960",
      "LatLong": "45.9714,17.9058"
@@ -1669,21 +1684,6 @@
      "Name": "Sósvertike",
      "PostCode": "7960",
      "LatLong": "45.8333,17.8667"
-    },
-    {
-     "Name": "Sellye",
-     "PostCode": "7960",
-     "LatLong": "45.8747,17.8439"
-    },
-    {
-     "Name": "Marócsa",
-     "PostCode": "7960",
-     "LatLong": "45.9167,17.8167"
-    },
-    {
-     "Name": "Drávasztára",
-     "PostCode": "7960",
-     "LatLong": "45.8167,17.8167"
     },
     {
      "Name": "Drávaiványi",
@@ -1726,14 +1726,19 @@
      "LatLong": "46.0167,17.7667"
     },
     {
+     "Name": "Gyöngyösmellék",
+     "PostCode": "7972",
+     "LatLong": "45.9833,17.7"
+    },
+    {
      "Name": "Pettend",
      "PostCode": "7972",
      "LatLong": "46,17.7"
     },
     {
-     "Name": "Gyöngyösmellék",
-     "PostCode": "7972",
-     "LatLong": "45.9833,17.7"
+     "Name": "Teklafalu",
+     "PostCode": "7973",
+     "LatLong": "45.95,17.7333"
     },
     {
      "Name": "Várad",
@@ -1751,11 +1756,6 @@
      "LatLong": "45.9667,17.7667"
     },
     {
-     "Name": "Teklafalu",
-     "PostCode": "7973",
-     "LatLong": "45.95,17.7333"
-    },
-    {
      "Name": "Kétújfalu",
      "PostCode": "7975",
      "LatLong": "45.9669,17.705"
@@ -1771,9 +1771,9 @@
      "LatLong": "45.9667,17.6833"
     },
     {
-     "Name": "Merenye",
+     "Name": "Molvány",
      "PostCode": "7981",
-     "LatLong": "46.0667,17.7"
+     "LatLong": "46.0333,17.75"
     },
     {
      "Name": "Kistamási",
@@ -1786,22 +1786,22 @@
      "LatLong": "46.0333,17.725"
     },
     {
+     "Name": "Merenye",
+     "PostCode": "7981",
+     "LatLong": "46.0667,17.7"
+    },
+    {
      "Name": "Nemeske",
      "PostCode": "7981",
      "LatLong": "46.0167,17.7167"
     },
     {
-     "Name": "Molvány",
-     "PostCode": "7981",
-     "LatLong": "46.0333,17.75"
-    },
-    {
-     "Name": "Kisdobsza",
+     "Name": "Nagydobsza",
      "PostCode": "7985",
      "LatLong": "46.0333,17.6667"
     },
     {
-     "Name": "Nagydobsza",
+     "Name": "Kisdobsza",
      "PostCode": "7985",
      "LatLong": "46.0333,17.6667"
     }
@@ -4172,14 +4172,14 @@
      "LatLong": "47.9833,20.95"
     },
     {
-     "Name": "Girincs",
-     "PostCode": "3578",
-     "LatLong": "47.9667,20.9833"
-    },
-    {
      "Name": "Kiscsécs",
      "PostCode": "3578",
      "LatLong": "47.9667,21.0167"
+    },
+    {
+     "Name": "Girincs",
+     "PostCode": "3578",
+     "LatLong": "47.9667,20.9833"
     },
     {
      "Name": "Kesznyéten",
@@ -4327,14 +4327,14 @@
      "LatLong": "48.2333,20.2"
     },
     {
-     "Name": "Kissikátor",
-     "PostCode": "3627",
-     "LatLong": "48.2,20.1333"
-    },
-    {
      "Name": "Domaháza",
      "PostCode": "3627",
      "LatLong": "48.1833,20.1167"
+    },
+    {
+     "Name": "Kissikátor",
+     "PostCode": "3627",
+     "LatLong": "48.2,20.1333"
     },
     {
      "Name": "Putnok",
@@ -4347,14 +4347,14 @@
      "LatLong": "48.2833,20.5"
     },
     {
-     "Name": "Vadna",
-     "PostCode": "3636",
-     "LatLong": "48.2667,20.5667"
-    },
-    {
      "Name": "Sajógalgóc",
      "PostCode": "3636",
      "LatLong": "48.3,20.5333"
+    },
+    {
+     "Name": "Vadna",
+     "PostCode": "3636",
+     "LatLong": "48.2667,20.5667"
     },
     {
      "Name": "Nagybarca",
@@ -4392,11 +4392,6 @@
      "LatLong": "48.1667,20.3833"
     },
     {
-     "Name": "Lénárddaróc",
-     "PostCode": "3648",
-     "LatLong": "48.15,20.3833"
-    },
-    {
      "Name": "Bükkmogyorósd",
      "PostCode": "3648",
      "LatLong": "48.1333,20.3667"
@@ -4405,6 +4400,11 @@
      "Name": "Csernely",
      "PostCode": "3648",
      "LatLong": "48.15,20.35"
+    },
+    {
+     "Name": "Lénárddaróc",
+     "PostCode": "3648",
+     "LatLong": "48.15,20.3833"
     },
     {
      "Name": "Lénárddaróc",
@@ -4432,14 +4432,14 @@
      "LatLong": "48.2833,20.3833"
     },
     {
-     "Name": "Sajóvelezd",
-     "PostCode": "3656",
-     "LatLong": "48.2667,20.4667"
-    },
-    {
      "Name": "Sajómercse",
      "PostCode": "3656",
      "LatLong": "48.25,20.4167"
+    },
+    {
+     "Name": "Sajóvelezd",
+     "PostCode": "3656",
+     "LatLong": "48.2667,20.4667"
     },
     {
      "Name": "Királd",
@@ -4567,19 +4567,19 @@
      "LatLong": "48.1833,21.05"
     },
     {
-     "Name": "Sajóivánka",
-     "PostCode": "3720",
-     "LatLong": "48.2667,20.5833"
-    },
-    {
      "Name": "Sajókaza",
      "PostCode": "3720",
      "LatLong": "48.2833,20.5833"
     },
     {
-     "Name": "Felsőnyárád",
+     "Name": "Sajóivánka",
+     "PostCode": "3720",
+     "LatLong": "48.2667,20.5833"
+    },
+    {
+     "Name": "Jákfalva",
      "PostCode": "3721",
-     "LatLong": "48.3333,20.6"
+     "LatLong": "48.3333,20.5833"
     },
     {
      "Name": "Dövény",
@@ -4587,9 +4587,9 @@
      "LatLong": "48.35,20.55"
     },
     {
-     "Name": "Jákfalva",
+     "Name": "Felsőnyárád",
      "PostCode": "3721",
-     "LatLong": "48.3333,20.5833"
+     "LatLong": "48.3333,20.6"
     },
     {
      "Name": "Felsőkelecsény",
@@ -4602,9 +4602,9 @@
      "LatLong": "48.3833,20.5833"
     },
     {
-     "Name": "Ragály",
+     "Name": "Trizs",
      "PostCode": "3724",
-     "LatLong": "48.4,20.5167"
+     "LatLong": "48.4333,20.5"
     },
     {
      "Name": "Imola",
@@ -4612,14 +4612,9 @@
      "LatLong": "48.4167,20.55"
     },
     {
-     "Name": "Trizs",
+     "Name": "Ragály",
      "PostCode": "3724",
-     "LatLong": "48.4333,20.5"
-    },
-    {
-     "Name": "Szuhafő",
-     "PostCode": "3726",
-     "LatLong": "48.4167,20.45"
+     "LatLong": "48.4,20.5167"
     },
     {
      "Name": "Alsószuha",
@@ -4627,19 +4622,24 @@
      "LatLong": "48.3667,20.5167"
     },
     {
+     "Name": "Szuhafő",
+     "PostCode": "3726",
+     "LatLong": "48.4167,20.45"
+    },
+    {
      "Name": "Zádorfalva",
      "PostCode": "3726",
      "LatLong": "48.3833,20.4833"
     },
     {
-     "Name": "Kelemér",
-     "PostCode": "3728",
-     "LatLong": "48.35,20.4333"
-    },
-    {
      "Name": "Gömörszőlős",
      "PostCode": "3728",
      "LatLong": "48.3833,20.4333"
+    },
+    {
+     "Name": "Kelemér",
+     "PostCode": "3728",
+     "LatLong": "48.35,20.4333"
     },
     {
      "Name": "Serényfalva",
@@ -4667,11 +4667,6 @@
      "LatLong": "48.3833,20.6833"
     },
     {
-     "Name": "Alsótelekes",
-     "PostCode": "3735",
-     "LatLong": "48.4167,20.6667"
-    },
-    {
      "Name": "Felsőtelekes",
      "PostCode": "3735",
      "LatLong": "48.4,20.6333"
@@ -4680,6 +4675,11 @@
      "Name": "Kánó",
      "PostCode": "3735",
      "LatLong": "48.4333,20.6"
+    },
+    {
+     "Name": "Alsótelekes",
+     "PostCode": "3735",
+     "LatLong": "48.4167,20.6667"
     },
     {
      "Name": "Izsófalva",
@@ -4747,9 +4747,9 @@
      "LatLong": "48.4667,20.7"
     },
     {
-     "Name": "Égerszög",
+     "Name": "Szőlősardó",
      "PostCode": "3757",
-     "LatLong": "48.45,20.5833"
+     "LatLong": "48.45,20.6333"
     },
     {
      "Name": "Teresztenye",
@@ -4757,9 +4757,9 @@
      "LatLong": "48.45,20.6167"
     },
     {
-     "Name": "Szőlősardó",
+     "Name": "Égerszög",
      "PostCode": "3757",
-     "LatLong": "48.45,20.6333"
+     "LatLong": "48.45,20.5833"
     },
     {
      "Name": "Jósvafő",
@@ -4772,9 +4772,9 @@
      "LatLong": "48.4667,20.5167"
     },
     {
-     "Name": "Szinpetri",
+     "Name": "Szin",
      "PostCode": "3761",
-     "LatLong": "48.4833,20.6333"
+     "LatLong": "48.5,20.6667"
     },
     {
      "Name": "Tornakápolna",
@@ -4782,9 +4782,9 @@
      "LatLong": "48.4667,20.6167"
     },
     {
-     "Name": "Szin",
+     "Name": "Szinpetri",
      "PostCode": "3761",
-     "LatLong": "48.5,20.6667"
+     "LatLong": "48.4833,20.6333"
     },
     {
      "Name": "Szögliget",
@@ -4802,11 +4802,6 @@
      "LatLong": "48.5167,20.75"
     },
     {
-     "Name": "Komjáti",
-     "PostCode": "3765",
-     "LatLong": "48.55,20.7667"
-    },
-    {
      "Name": "Tornaszentandrás",
      "PostCode": "3765",
      "LatLong": "48.5167,20.7833"
@@ -4817,19 +4812,24 @@
      "LatLong": "48.5,20.8167"
     },
     {
+     "Name": "Komjáti",
+     "PostCode": "3765",
+     "LatLong": "48.55,20.7667"
+    },
+    {
      "Name": "Tornanádaska",
      "PostCode": "3767",
      "LatLong": "48.5667,20.7833"
     },
     {
-     "Name": "Bódvalenke",
-     "PostCode": "3768",
-     "LatLong": "48.55,20.8167"
-    },
-    {
      "Name": "Hidvégardó",
      "PostCode": "3768",
      "LatLong": "48.5667,20.85"
+    },
+    {
+     "Name": "Bódvalenke",
+     "PostCode": "3768",
+     "LatLong": "48.55,20.8167"
     },
     {
      "Name": "Becskeháza",
@@ -4847,14 +4847,14 @@
      "LatLong": "48.2167,20.7167"
     },
     {
-     "Name": "Sajókápolna",
-     "PostCode": "3773",
-     "LatLong": "48.2,20.7"
-    },
-    {
      "Name": "Sajólászlófalva",
      "PostCode": "3773",
      "LatLong": "48.1833,20.6833"
+    },
+    {
+     "Name": "Sajókápolna",
+     "PostCode": "3773",
+     "LatLong": "48.2,20.7"
     },
     {
      "Name": "Kondó",
@@ -4882,14 +4882,14 @@
      "LatLong": "48.2167,20.65"
     },
     {
-     "Name": "Damak",
-     "PostCode": "3780",
-     "LatLong": "48.3167,20.8333"
-    },
-    {
      "Name": "Ládbesenyő",
      "PostCode": "3780",
      "LatLong": "48.3,20.7333"
+    },
+    {
+     "Name": "Damak",
+     "PostCode": "3780",
+     "LatLong": "48.3167,20.8333"
     },
     {
      "Name": "Edelény",
@@ -4907,16 +4907,6 @@
      "LatLong": "48.3,20.7333"
     },
     {
-     "Name": "Lak",
-     "PostCode": "3786",
-     "LatLong": "48.35,20.8667"
-    },
-    {
-     "Name": "Hegymeg",
-     "PostCode": "3786",
-     "LatLong": "48.3333,20.8667"
-    },
-    {
      "Name": "Irota",
      "PostCode": "3786",
      "LatLong": "48.4,20.8833"
@@ -4925,6 +4915,16 @@
      "Name": "Szakácsi",
      "PostCode": "3786",
      "LatLong": "48.3833,20.8667"
+    },
+    {
+     "Name": "Hegymeg",
+     "PostCode": "3786",
+     "LatLong": "48.3333,20.8667"
+    },
+    {
+     "Name": "Lak",
+     "PostCode": "3786",
+     "LatLong": "48.35,20.8667"
     },
     {
      "Name": "Tomor",
@@ -4947,14 +4947,14 @@
      "LatLong": "48.2,20.7833"
     },
     {
-     "Name": "Boldva",
-     "PostCode": "3794",
-     "LatLong": "48.2167,20.8"
-    },
-    {
      "Name": "Ziliz",
      "PostCode": "3794",
      "LatLong": "48.25,20.8"
+    },
+    {
+     "Name": "Boldva",
+     "PostCode": "3794",
+     "LatLong": "48.2167,20.8"
     },
     {
      "Name": "Nyomár",
@@ -4977,9 +4977,9 @@
      "LatLong": "48.2,20.9333"
     },
     {
-     "Name": "Abaújszolnok",
+     "Name": "Nyésta",
      "PostCode": "3809",
-     "LatLong": "48.3667,20.9833"
+     "LatLong": "48.3667,20.95"
     },
     {
      "Name": "Selyeb",
@@ -4987,9 +4987,9 @@
      "LatLong": "48.3333,20.9667"
     },
     {
-     "Name": "Nyésta",
+     "Name": "Abaújszolnok",
      "PostCode": "3809",
-     "LatLong": "48.3667,20.95"
+     "LatLong": "48.3667,20.9833"
     },
     {
      "Name": "Alsóvadász",
@@ -5017,14 +5017,14 @@
      "LatLong": "48.3667,20.9333"
     },
     {
-     "Name": "Abaújlak",
-     "PostCode": "3815",
-     "LatLong": "48.4,20.9667"
-    },
-    {
      "Name": "Gadna",
      "PostCode": "3815",
      "LatLong": "48.4,20.9333"
+    },
+    {
+     "Name": "Abaújlak",
+     "PostCode": "3815",
+     "LatLong": "48.4,20.9667"
     },
     {
      "Name": "Gagyvendégi",
@@ -5037,14 +5037,24 @@
      "LatLong": "48.4333,20.95"
     },
     {
+     "Name": "Szászfa",
+     "PostCode": "3821",
+     "LatLong": "48.4667,20.95"
+    },
+    {
+     "Name": "Perecse",
+     "PostCode": "3821",
+     "LatLong": "48.5,21"
+    },
+    {
      "Name": "Pamlény",
      "PostCode": "3821",
      "LatLong": "48.5,20.9333"
     },
     {
-     "Name": "Krasznokvajda",
+     "Name": "Keresztéte",
      "PostCode": "3821",
-     "LatLong": "48.4667,20.9833"
+     "LatLong": "48.5,20.95"
     },
     {
      "Name": "Kány",
@@ -5057,19 +5067,9 @@
      "LatLong": "48.4833,21.0167"
     },
     {
-     "Name": "Szászfa",
+     "Name": "Krasznokvajda",
      "PostCode": "3821",
-     "LatLong": "48.4667,20.95"
-    },
-    {
-     "Name": "Keresztéte",
-     "PostCode": "3821",
-     "LatLong": "48.5,20.95"
-    },
-    {
-     "Name": "Perecse",
-     "PostCode": "3821",
-     "LatLong": "48.5,21"
+     "LatLong": "48.4667,20.9833"
     },
     {
      "Name": "Viszló",
@@ -5077,14 +5077,14 @@
      "LatLong": "48.5,20.9"
     },
     {
-     "Name": "Rakaca",
-     "PostCode": "3825",
-     "LatLong": "48.4667,20.9"
-    },
-    {
      "Name": "Debréte",
      "PostCode": "3825",
      "LatLong": "48.5,20.8667"
+    },
+    {
+     "Name": "Rakaca",
+     "PostCode": "3825",
+     "LatLong": "48.4667,20.9"
     },
     {
      "Name": "Rakacaszend",
@@ -5127,11 +5127,6 @@
      "LatLong": "48.4333,21.0167"
     },
     {
-     "Name": "Alsógagy",
-     "PostCode": "3837",
-     "LatLong": "48.4,21.0333"
-    },
-    {
      "Name": "Csenyéte",
      "PostCode": "3837",
      "LatLong": "48.4333,21.05"
@@ -5140,6 +5135,11 @@
      "Name": "Gagyapáti",
      "PostCode": "3837",
      "LatLong": "48.4167,21"
+    },
+    {
+     "Name": "Alsógagy",
+     "PostCode": "3837",
+     "LatLong": "48.4,21.0333"
     },
     {
      "Name": "Aszaló",
@@ -5267,11 +5267,6 @@
      "LatLong": "48.4167,21.1833"
     },
     {
-     "Name": "Hernádpetri",
-     "PostCode": "3874",
-     "LatLong": "48.4833,21.1667"
-    },
-    {
      "Name": "Hernádvécse",
      "PostCode": "3874",
      "LatLong": "48.45,21.1667"
@@ -5280,6 +5275,11 @@
      "Name": "Pusztaradvány",
      "PostCode": "3874",
      "LatLong": "48.4667,21.1333"
+    },
+    {
+     "Name": "Hernádpetri",
+     "PostCode": "3874",
+     "LatLong": "48.4833,21.1667"
     },
     {
      "Name": "Hernádszurdok",
@@ -5302,14 +5302,14 @@
      "LatLong": "48.2833,21.2"
     },
     {
-     "Name": "Baskó",
-     "PostCode": "3881",
-     "LatLong": "48.3333,21.3333"
-    },
-    {
      "Name": "Sima",
      "PostCode": "3881",
      "LatLong": "48.3,21.3"
+    },
+    {
+     "Name": "Baskó",
+     "PostCode": "3881",
+     "LatLong": "48.3333,21.3333"
     },
     {
      "Name": "Abaújalpár",
@@ -5362,6 +5362,11 @@
      "LatLong": "48.4333,21.2833"
     },
     {
+     "Name": "Regéc",
+     "PostCode": "3893",
+     "LatLong": "48.4,21.35"
+    },
+    {
      "Name": "Fony",
      "PostCode": "3893",
      "LatLong": "48.4,21.3"
@@ -5370,11 +5375,6 @@
      "Name": "Mogyoróska",
      "PostCode": "3893",
      "LatLong": "48.3833,21.3333"
-    },
-    {
-     "Name": "Regéc",
-     "PostCode": "3893",
-     "LatLong": "48.4,21.35"
     },
     {
      "Name": "Göncruszka",
@@ -5682,14 +5682,14 @@
      "LatLong": "48.25,21.9"
     },
     {
-     "Name": "Ricse",
-     "PostCode": "3974",
-     "LatLong": "48.3333,21.9667"
-    },
-    {
      "Name": "Semjén",
      "PostCode": "3974",
      "LatLong": "48.35,21.9667"
+    },
+    {
+     "Name": "Ricse",
+     "PostCode": "3974",
+     "LatLong": "48.3333,21.9667"
     },
     {
      "Name": "Révleányvár",
@@ -5717,14 +5717,14 @@
      "LatLong": "48.4,21.6667"
     },
     {
-     "Name": "Alsóberecki",
-     "PostCode": "3985",
-     "LatLong": "48.35,21.7"
-    },
-    {
      "Name": "Felsőberecki",
      "PostCode": "3985",
      "LatLong": "48.3667,21.7"
+    },
+    {
+     "Name": "Alsóberecki",
+     "PostCode": "3985",
+     "LatLong": "48.35,21.7"
     },
     {
      "Name": "Bodroghalom",
@@ -5737,11 +5737,6 @@
      "LatLong": "48.3,21.7167"
     },
     {
-     "Name": "Mikóháza",
-     "PostCode": "3989",
-     "LatLong": "48.475,21.6167"
-    },
-    {
      "Name": "Felsőregmec",
      "PostCode": "3989",
      "LatLong": "48.4833,21.6167"
@@ -5752,14 +5747,14 @@
      "LatLong": "48.4667,21.6167"
     },
     {
+     "Name": "Mikóháza",
+     "PostCode": "3989",
+     "LatLong": "48.475,21.6167"
+    },
+    {
      "Name": "Vilyvitány",
      "PostCode": "3991",
      "LatLong": "48.5,21.5667"
-    },
-    {
-     "Name": "Vágáshuta",
-     "PostCode": "3992",
-     "LatLong": "48.4167,21.55"
     },
     {
      "Name": "Kovácsvágás",
@@ -5767,14 +5762,29 @@
      "LatLong": "48.45,21.5333"
     },
     {
+     "Name": "Vágáshuta",
+     "PostCode": "3992",
+     "LatLong": "48.4167,21.55"
+    },
+    {
      "Name": "Füzérradvány",
      "PostCode": "3993",
      "LatLong": "48.4833,21.5333"
     },
     {
-     "Name": "Bózsva",
+     "Name": "Kishuta",
      "PostCode": "3994",
-     "LatLong": "48.4667,21.4667"
+     "LatLong": "48.45,21.4833"
+    },
+    {
+     "Name": "Pálháza",
+     "PostCode": "3994",
+     "LatLong": "48.4667,21.5167"
+    },
+    {
+     "Name": "Füzérkajata",
+     "PostCode": "3994",
+     "LatLong": "48.5167,21.5"
     },
     {
      "Name": "Nagyhuta",
@@ -5787,19 +5797,9 @@
      "LatLong": "48.5,21.5"
     },
     {
-     "Name": "Kishuta",
+     "Name": "Bózsva",
      "PostCode": "3994",
-     "LatLong": "48.45,21.4833"
-    },
-    {
-     "Name": "Füzérkajata",
-     "PostCode": "3994",
-     "LatLong": "48.5167,21.5"
-    },
-    {
-     "Name": "Pálháza",
-     "PostCode": "3994",
-     "LatLong": "48.4667,21.5167"
+     "LatLong": "48.4667,21.4667"
     },
     {
      "Name": "Pusztafalu",
@@ -6451,14 +6451,14 @@
      "LatLong": "47.5333,18.6667"
     },
     {
-     "Name": "Újbarok",
-     "PostCode": "2066",
-     "LatLong": "47.4833,18.5667"
-    },
-    {
      "Name": "Szár",
      "PostCode": "2066",
      "LatLong": "47.4833,18.5167"
+    },
+    {
+     "Name": "Újbarok",
+     "PostCode": "2066",
+     "LatLong": "47.4833,18.5667"
     },
     {
      "Name": "Szárliget",
@@ -7477,14 +7477,14 @@
      "LatLong": "47.5167,17.4"
     },
     {
-     "Name": "Kisbabot",
-     "PostCode": "9133",
-     "LatLong": "47.55,17.4167"
-    },
-    {
      "Name": "Rábaszentmiklós",
      "PostCode": "9133",
      "LatLong": "47.5333,17.4167"
+    },
+    {
+     "Name": "Kisbabot",
+     "PostCode": "9133",
+     "LatLong": "47.55,17.4167"
     },
     {
      "Name": "Bodonhely",
@@ -7587,6 +7587,11 @@
      "LatLong": "47.6833,17.3167"
     },
     {
+     "Name": "Rábcakapi",
+     "PostCode": "9165",
+     "LatLong": "47.7,17.2833"
+    },
+    {
      "Name": "Cakóháza",
      "PostCode": "9165",
      "LatLong": "47.7,17.2833"
@@ -7595,11 +7600,6 @@
      "Name": "Tárnokréti",
      "PostCode": "9165",
      "LatLong": "47.7167,17.3167"
-    },
-    {
-     "Name": "Rábcakapi",
-     "PostCode": "9165",
-     "LatLong": "47.7,17.2833"
     },
     {
      "Name": "Bősárkány",
@@ -7612,14 +7612,14 @@
      "LatLong": "47.6833,17.2"
     },
     {
-     "Name": "Maglóca",
-     "PostCode": "9169",
-     "LatLong": "47.6667,17.2833"
-    },
-    {
      "Name": "Barbacs",
      "PostCode": "9169",
      "LatLong": "47.65,17.3"
+    },
+    {
+     "Name": "Maglóca",
+     "PostCode": "9169",
+     "LatLong": "47.6667,17.2833"
     },
     {
      "Name": "Győrújfalu",
@@ -7877,14 +7877,14 @@
      "LatLong": "47.5,17.2333"
     },
     {
-     "Name": "Vág",
-     "PostCode": "9327",
-     "LatLong": "47.45,17.2167"
-    },
-    {
      "Name": "Rábasebes",
      "PostCode": "9327",
      "LatLong": "47.4333,17.2333"
+    },
+    {
+     "Name": "Vág",
+     "PostCode": "9327",
+     "LatLong": "47.45,17.2167"
     },
     {
      "Name": "Kapuvár",
@@ -7917,6 +7917,11 @@
      "LatLong": "47.5167,17.1"
     },
     {
+     "Name": "Beled",
+     "PostCode": "9343",
+     "LatLong": "47.4667,17.1"
+    },
+    {
      "Name": "Edve",
      "PostCode": "9343",
      "LatLong": "47.45,17.1333"
@@ -7925,11 +7930,6 @@
      "Name": "Vásárosfalu",
      "PostCode": "9343",
      "LatLong": "47.45,17.1167"
-    },
-    {
-     "Name": "Beled",
-     "PostCode": "9343",
-     "LatLong": "47.4667,17.1"
     },
     {
      "Name": "Rábakecöl",
@@ -7942,14 +7942,14 @@
      "LatLong": "47.4667,17.1667"
     },
     {
-     "Name": "Zsebeháza",
-     "PostCode": "9346",
-     "LatLong": "47.5167,17.2"
-    },
-    {
      "Name": "Vadosfa",
      "PostCode": "9346",
      "LatLong": "47.5,17.1333"
+    },
+    {
+     "Name": "Zsebeháza",
+     "PostCode": "9346",
+     "LatLong": "47.5167,17.2"
     },
     {
      "Name": "Magyarkeresztúr",
@@ -8022,11 +8022,6 @@
      "LatLong": "47.45,16.9167"
     },
     {
-     "Name": "Csér",
-     "PostCode": "9375",
-     "LatLong": "47.4167,16.9333"
-    },
-    {
      "Name": "Répceszemere",
      "PostCode": "9375",
      "LatLong": "47.4333,16.9833"
@@ -8035,6 +8030,11 @@
      "Name": "Csáfordjánosfa",
      "PostCode": "9375",
      "LatLong": "47.4167,16.95"
+    },
+    {
+     "Name": "Csér",
+     "PostCode": "9375",
+     "LatLong": "47.4167,16.9333"
     },
     {
      "Name": "Sopron",
@@ -8152,14 +8152,14 @@
      "LatLong": "47.5833,16.8833"
     },
     {
-     "Name": "Röjtökmuzsaj",
-     "PostCode": "9451",
-     "LatLong": "47.55,16.8333"
-    },
-    {
      "Name": "Ebergőc",
      "PostCode": "9451",
      "LatLong": "47.5667,16.8167"
+    },
+    {
+     "Name": "Röjtökmuzsaj",
+     "PostCode": "9451",
+     "LatLong": "47.55,16.8333"
     },
     {
      "Name": "Lövő",
@@ -8197,14 +8197,14 @@
      "LatLong": "47.4667,16.7667"
     },
     {
-     "Name": "Gyalóka",
-     "PostCode": "9474",
-     "LatLong": "47.45,16.7"
-    },
-    {
      "Name": "Szakony",
      "PostCode": "9474",
      "LatLong": "47.4333,16.7167"
+    },
+    {
+     "Name": "Gyalóka",
+     "PostCode": "9474",
+     "LatLong": "47.45,16.7"
     },
     {
      "Name": "Répcevis",
@@ -9459,14 +9459,14 @@
      "LatLong": "48.0333,20.2667"
     },
     {
-     "Name": "Szúcs",
-     "PostCode": "3341",
-     "LatLong": "48.05,20.25"
-    },
-    {
      "Name": "Egercsehi",
      "PostCode": "3341",
      "LatLong": "48.05,20.2833"
+    },
+    {
+     "Name": "Szúcs",
+     "PostCode": "3341",
+     "LatLong": "48.05,20.25"
     },
     {
      "Name": "Bekölce",
@@ -10935,6 +10935,11 @@
      "LatLong": "47.9333,19.2667"
     },
     {
+     "Name": "Kisecset",
+     "PostCode": "2655",
+     "LatLong": "47.9333,19.3167"
+    },
+    {
      "Name": "Szente",
      "PostCode": "2655",
      "LatLong": "47.9667,19.2833"
@@ -10943,11 +10948,6 @@
      "Name": "Kétbodony",
      "PostCode": "2655",
      "LatLong": "47.9333,19.2667"
-    },
-    {
-     "Name": "Kisecset",
-     "PostCode": "2655",
-     "LatLong": "47.9333,19.3167"
     },
     {
      "Name": "Szátok",
@@ -10960,14 +10960,14 @@
      "LatLong": "47.9333,19.1333"
     },
     {
-     "Name": "Pusztaberki",
-     "PostCode": "2658",
-     "LatLong": "47.9667,19.1667"
-    },
-    {
      "Name": "Horpács",
      "PostCode": "2658",
      "LatLong": "48,19.1333"
+    },
+    {
+     "Name": "Pusztaberki",
+     "PostCode": "2658",
+     "LatLong": "47.9667,19.1667"
     },
     {
      "Name": "Érsekvadkert",
@@ -11075,6 +11075,11 @@
      "LatLong": "47.9167,19.3833"
     },
     {
+     "Name": "Debercsény",
+     "PostCode": "2694",
+     "LatLong": "47.9667,19.3167"
+    },
+    {
      "Name": "Cserháthaláp",
      "PostCode": "2694",
      "LatLong": "47.9833,19.3667"
@@ -11083,11 +11088,6 @@
      "Name": "Magyarnándor",
      "PostCode": "2694",
      "LatLong": "47.9667,19.35"
-    },
-    {
-     "Name": "Debercsény",
-     "PostCode": "2694",
-     "LatLong": "47.9667,19.3167"
     },
     {
      "Name": "Terény",
@@ -11155,14 +11155,14 @@
      "LatLong": "47.8667,19.6333"
     },
     {
-     "Name": "Kozárd",
-     "PostCode": "3053",
-     "LatLong": "47.9167,19.6167"
-    },
-    {
      "Name": "Ecseg",
      "PostCode": "3053",
      "LatLong": "47.9,19.6"
+    },
+    {
+     "Name": "Kozárd",
+     "PostCode": "3053",
+     "LatLong": "47.9167,19.6167"
     },
     {
      "Name": "Pásztó",
@@ -11195,14 +11195,14 @@
      "LatLong": "47.85,19.6833"
     },
     {
-     "Name": "Cserhátszentiván",
-     "PostCode": "3066",
-     "LatLong": "47.9333,19.5833"
-    },
-    {
      "Name": "Bokor",
      "PostCode": "3066",
      "LatLong": "47.9333,19.55"
+    },
+    {
+     "Name": "Cserhátszentiván",
+     "PostCode": "3066",
+     "LatLong": "47.9333,19.5833"
     },
     {
      "Name": "Kutasó",
@@ -11255,11 +11255,6 @@
      "LatLong": "47.9833,19.7333"
     },
     {
-     "Name": "Kisbárkány",
-     "PostCode": "3075",
-     "LatLong": "48.0167,19.6833"
-    },
-    {
      "Name": "Nagybárkány",
      "PostCode": "3075",
      "LatLong": "48,19.7"
@@ -11268,6 +11263,11 @@
      "Name": "Márkháza",
      "PostCode": "3075",
      "LatLong": "48.0167,19.7333"
+    },
+    {
+     "Name": "Kisbárkány",
+     "PostCode": "3075",
+     "LatLong": "48.0167,19.6833"
     },
     {
      "Name": "Mátraverebély",
@@ -11475,14 +11475,14 @@
      "LatLong": "48.1,19.6833"
     },
     {
-     "Name": "Karancsság",
-     "PostCode": "3163",
-     "LatLong": "48.1167,19.6667"
-    },
-    {
      "Name": "Szalmatercs",
      "PostCode": "3163",
      "LatLong": "48.1167,19.6333"
+    },
+    {
+     "Name": "Karancsság",
+     "PostCode": "3163",
+     "LatLong": "48.1167,19.6667"
     },
     {
      "Name": "Endrefalva",
@@ -12842,14 +12842,14 @@
    "Code": "SO",
    "Places": [
     {
-     "Name": "Csoma",
-     "PostCode": "7253",
-     "LatLong": "46.3667,18.05"
-    },
-    {
      "Name": "Szabadi",
      "PostCode": "7253",
      "LatLong": "46.3667,18.0333"
+    },
+    {
+     "Name": "Csoma",
+     "PostCode": "7253",
+     "LatLong": "46.3667,18.05"
     },
     {
      "Name": "Nagyberki",
@@ -12912,14 +12912,14 @@
      "LatLong": "46.5333,17.95"
     },
     {
-     "Name": "Gadács",
-     "PostCode": "7276",
-     "LatLong": "46.5333,18.0167"
-    },
-    {
      "Name": "Somogyszil",
      "PostCode": "7276",
      "LatLong": "46.5167,18"
+    },
+    {
+     "Name": "Gadács",
+     "PostCode": "7276",
+     "LatLong": "46.5333,18.0167"
     },
     {
      "Name": "Kisgyalán",
@@ -12952,11 +12952,6 @@
      "LatLong": "46.5833,18"
     },
     {
-     "Name": "Szorosad",
-     "PostCode": "7285",
-     "LatLong": "46.6,18.0333"
-    },
-    {
      "Name": "Kára",
      "PostCode": "7285",
      "LatLong": "46.6167,18.0167"
@@ -12967,14 +12962,14 @@
      "LatLong": "46.6,18.05"
     },
     {
+     "Name": "Szorosad",
+     "PostCode": "7285",
+     "LatLong": "46.6,18.0333"
+    },
+    {
      "Name": "Miklósi",
      "PostCode": "7286",
      "LatLong": "46.65,18"
-    },
-    {
-     "Name": "Zselickislak",
-     "PostCode": "7400",
-     "LatLong": "46.3167,17.8167"
     },
     {
      "Name": "Orci",
@@ -12985,6 +12980,11 @@
      "Name": "Kaposvár",
      "PostCode": "7400",
      "LatLong": "46.3667,17.8"
+    },
+    {
+     "Name": "Zselickislak",
+     "PostCode": "7400",
+     "LatLong": "46.3167,17.8167"
     },
     {
      "Name": "Zselickislak",
@@ -13037,14 +13037,14 @@
      "LatLong": "46.4,17.75"
     },
     {
-     "Name": "Csombárd",
-     "PostCode": "7432",
-     "LatLong": "46.45,17.6833"
-    },
-    {
      "Name": "Hetes",
      "PostCode": "7432",
      "LatLong": "46.4167,17.7"
+    },
+    {
+     "Name": "Csombárd",
+     "PostCode": "7432",
+     "LatLong": "46.45,17.6833"
     },
     {
      "Name": "Mezőcsokonya",
@@ -13077,14 +13077,14 @@
      "LatLong": "46.45,17.7333"
     },
     {
-     "Name": "Alsóbogát",
-     "PostCode": "7443",
-     "LatLong": "46.5,17.75"
-    },
-    {
      "Name": "Edde",
      "PostCode": "7443",
      "LatLong": "46.5167,17.7167"
+    },
+    {
+     "Name": "Alsóbogát",
+     "PostCode": "7443",
+     "LatLong": "46.5,17.75"
     },
     {
      "Name": "Somogyjád",
@@ -13132,14 +13132,14 @@
      "LatLong": "46.55,17.7833"
     },
     {
-     "Name": "Patalom",
-     "PostCode": "7463",
-     "LatLong": "46.45,17.9167"
-    },
-    {
      "Name": "Magyaratád",
      "PostCode": "7463",
      "LatLong": "46.4667,17.9"
+    },
+    {
+     "Name": "Patalom",
+     "PostCode": "7463",
+     "LatLong": "46.45,17.9167"
     },
     {
      "Name": "Ráksi",
@@ -13167,6 +13167,11 @@
      "LatLong": "46.3167,17.9"
     },
     {
+     "Name": "Gálosfa",
+     "PostCode": "7473",
+     "LatLong": "46.25,17.9"
+    },
+    {
      "Name": "Hajmás",
      "PostCode": "7473",
      "LatLong": "46.2833,17.9167"
@@ -13177,19 +13182,14 @@
      "LatLong": "46.2833,17.8833"
     },
     {
-     "Name": "Gálosfa",
-     "PostCode": "7473",
-     "LatLong": "46.25,17.9"
+     "Name": "Simonfa",
+     "PostCode": "7474",
+     "LatLong": "46.2833,17.8333"
     },
     {
      "Name": "Zselicszentpál",
      "PostCode": "7474",
      "LatLong": "46.3,17.8333"
-    },
-    {
-     "Name": "Simonfa",
-     "PostCode": "7474",
-     "LatLong": "46.2833,17.8333"
     },
     {
      "Name": "Bőszénfa",
@@ -13202,12 +13202,17 @@
      "LatLong": "46.3167,17.75"
     },
     {
+     "Name": "Zselickisfalud",
+     "PostCode": "7477",
+     "LatLong": "46.2667,17.7333"
+    },
+    {
      "Name": "Patca",
      "PostCode": "7477",
      "LatLong": "46.2833,17.7167"
     },
     {
-     "Name": "Zselickisfalud",
+     "Name": "Szilvásszentmárton",
      "PostCode": "7477",
      "LatLong": "46.2667,17.7333"
     },
@@ -13215,11 +13220,6 @@
      "Name": "Szenna",
      "PostCode": "7477",
      "LatLong": "46.3,17.7333"
-    },
-    {
-     "Name": "Szilvásszentmárton",
-     "PostCode": "7477",
-     "LatLong": "46.2667,17.7333"
     },
     {
      "Name": "Bárdudvarnok",
@@ -13287,14 +13287,14 @@
      "LatLong": "46.3667,17.7333"
     },
     {
-     "Name": "Kaposfő",
-     "PostCode": "7523",
-     "LatLong": "46.3667,17.6667"
-    },
-    {
      "Name": "Kisasszond",
      "PostCode": "7523",
      "LatLong": "46.3333,17.6333"
+    },
+    {
+     "Name": "Kaposfő",
+     "PostCode": "7523",
+     "LatLong": "46.3667,17.6667"
     },
     {
      "Name": "Kiskorpád",
@@ -13322,14 +13322,14 @@
      "LatLong": "46.3,17.6167"
     },
     {
-     "Name": "Kadarkút",
-     "PostCode": "7530",
-     "LatLong": "46.2333,17.6333"
-    },
-    {
      "Name": "Kőkút",
      "PostCode": "7530",
      "LatLong": "46.1833,17.5833"
+    },
+    {
+     "Name": "Kadarkút",
+     "PostCode": "7530",
+     "LatLong": "46.2333,17.6333"
     },
     {
      "Name": "Hencse",
@@ -13462,14 +13462,14 @@
      "LatLong": "45.96,17.4586"
     },
     {
-     "Name": "Péterhida",
-     "PostCode": "7582",
-     "LatLong": "46.0167,17.3667"
-    },
-    {
      "Name": "Komlósd",
      "PostCode": "7582",
      "LatLong": "46.0167,17.3833"
+    },
+    {
+     "Name": "Péterhida",
+     "PostCode": "7582",
+     "LatLong": "46.0167,17.3667"
     },
     {
      "Name": "Somogyaracs",
@@ -13532,9 +13532,9 @@
      "LatLong": "45.8964,17.6839"
     },
     {
-     "Name": "Drávagárdony",
+     "Name": "Kastélyosdombó",
      "PostCode": "7977",
-     "LatLong": "45.95,17.6167"
+     "LatLong": "45.9544,17.6133"
     },
     {
      "Name": "Potony",
@@ -13542,9 +13542,9 @@
      "LatLong": "45.9303,17.6433"
     },
     {
-     "Name": "Kastélyosdombó",
+     "Name": "Drávagárdony",
      "PostCode": "7977",
-     "LatLong": "45.9544,17.6133"
+     "LatLong": "45.95,17.6167"
     },
     {
      "Name": "Drávatamási",
@@ -13777,6 +13777,21 @@
      "LatLong": "46.75,18.1167"
     },
     {
+     "Name": "Zala",
+     "PostCode": "8660",
+     "LatLong": "46.7333,18"
+    },
+    {
+     "Name": "Lulla",
+     "PostCode": "8660",
+     "LatLong": "46.7833,18.0333"
+    },
+    {
+     "Name": "Torvaj",
+     "PostCode": "8660",
+     "LatLong": "46.7667,18.05"
+    },
+    {
      "Name": "Tab",
      "PostCode": "8660",
      "LatLong": "46.7333,18.0333"
@@ -13787,29 +13802,14 @@
      "LatLong": "46.7667,18.0167"
     },
     {
-     "Name": "Torvaj",
-     "PostCode": "8660",
-     "LatLong": "46.7667,18.05"
-    },
-    {
-     "Name": "Lulla",
-     "PostCode": "8660",
-     "LatLong": "46.7833,18.0333"
-    },
-    {
-     "Name": "Zala",
-     "PostCode": "8660",
-     "LatLong": "46.7333,18"
+     "Name": "Somogyegres",
+     "PostCode": "8666",
+     "LatLong": "46.6667,18.0333"
     },
     {
      "Name": "Bedegkér",
      "PostCode": "8666",
      "LatLong": "46.65,18.0667"
-    },
-    {
-     "Name": "Somogyegres",
-     "PostCode": "8666",
-     "LatLong": "46.6667,18.0333"
     },
     {
      "Name": "Kánya",
@@ -13852,14 +13852,14 @@
      "LatLong": "46.6833,17.85"
     },
     {
-     "Name": "Látrány",
-     "PostCode": "8681",
-     "LatLong": "46.75,17.75"
-    },
-    {
      "Name": "Visz",
      "PostCode": "8681",
      "LatLong": "46.7333,17.7833"
+    },
+    {
+     "Name": "Látrány",
+     "PostCode": "8681",
+     "LatLong": "46.75,17.75"
     },
     {
      "Name": "Somogytúr",
@@ -13922,14 +13922,14 @@
      "LatLong": "46.6,17.6167"
     },
     {
-     "Name": "Pamuk",
-     "PostCode": "8698",
-     "LatLong": "46.55,17.65"
-    },
-    {
      "Name": "Somogyvár",
      "PostCode": "8698",
      "LatLong": "46.5833,17.6667"
+    },
+    {
+     "Name": "Pamuk",
+     "PostCode": "8698",
+     "LatLong": "46.55,17.65"
     },
     {
      "Name": "Somogyvámos",
@@ -13937,14 +13937,14 @@
      "LatLong": "46.5667,17.6833"
     },
     {
-     "Name": "Csömend",
-     "PostCode": "8700",
-     "LatLong": "46.5667,17.5"
-    },
-    {
      "Name": "Marcali",
      "PostCode": "8700",
      "LatLong": "46.5833,17.4167"
+    },
+    {
+     "Name": "Csömend",
+     "PostCode": "8700",
+     "LatLong": "46.5667,17.5"
     },
     {
      "Name": "Csömend",
@@ -13962,14 +13962,14 @@
      "LatLong": "46.5833,17.5167"
     },
     {
-     "Name": "Libickozma",
-     "PostCode": "8707",
-     "LatLong": "46.5167,17.5333"
-    },
-    {
      "Name": "Pusztakovácsi",
      "PostCode": "8707",
      "LatLong": "46.5333,17.5833"
+    },
+    {
+     "Name": "Libickozma",
+     "PostCode": "8707",
+     "LatLong": "46.5167,17.5333"
     },
     {
      "Name": "Somogyfajsz",
@@ -14012,9 +14012,9 @@
      "LatLong": "46.65,17.4"
     },
     {
-     "Name": "Hosszúvíz",
+     "Name": "Mesztegnyő",
      "PostCode": "8716",
-     "LatLong": "46.5167,17.45"
+     "LatLong": "46.5,17.4333"
     },
     {
      "Name": "Gadány",
@@ -14022,9 +14022,9 @@
      "LatLong": "46.5167,17.4"
     },
     {
-     "Name": "Mesztegnyő",
+     "Name": "Hosszúvíz",
      "PostCode": "8716",
-     "LatLong": "46.5,17.4333"
+     "LatLong": "46.5167,17.45"
     },
     {
      "Name": "Szenyér",
@@ -14072,14 +14072,14 @@
      "LatLong": "46.3667,17.1167"
     },
     {
-     "Name": "Iharos",
-     "PostCode": "8726",
-     "LatLong": "46.3333,17.1"
-    },
-    {
      "Name": "Somogycsicsó",
      "PostCode": "8726",
      "LatLong": "46.3167,17.1333"
+    },
+    {
+     "Name": "Iharos",
+     "PostCode": "8726",
+     "LatLong": "46.3333,17.1"
     },
     {
      "Name": "Pogányszentpéter",
@@ -14087,19 +14087,19 @@
      "LatLong": "46.3833,17.0667"
     },
     {
-     "Name": "Hollád",
-     "PostCode": "8731",
-     "LatLong": "46.6333,17.3167"
-    },
-    {
      "Name": "Tikos",
      "PostCode": "8731",
      "LatLong": "46.6333,17.3"
     },
     {
-     "Name": "Főnyed",
+     "Name": "Hollád",
+     "PostCode": "8731",
+     "LatLong": "46.6333,17.3167"
+    },
+    {
+     "Name": "Sávoly",
      "PostCode": "8732",
-     "LatLong": "46.6333,17.2667"
+     "LatLong": "46.5833,17.2667"
     },
     {
      "Name": "Szegerdő",
@@ -14107,9 +14107,9 @@
      "LatLong": "46.6333,17.2833"
     },
     {
-     "Name": "Sávoly",
+     "Name": "Főnyed",
      "PostCode": "8732",
-     "LatLong": "46.5833,17.2667"
+     "LatLong": "46.6333,17.2667"
     },
     {
      "Name": "Somogysámson",
@@ -14928,14 +14928,14 @@
      "LatLong": "48.3667,22.15"
     },
     {
-     "Name": "Záhony",
-     "PostCode": "4625",
-     "LatLong": "48.4167,22.1833"
-    },
-    {
      "Name": "Győröcske",
      "PostCode": "4625",
      "LatLong": "48.3833,22.15"
+    },
+    {
+     "Name": "Záhony",
+     "PostCode": "4625",
+     "LatLong": "48.4167,22.1833"
     },
     {
      "Name": "Zsurk",
@@ -15103,14 +15103,14 @@
      "LatLong": "47.9333,22.4333"
     },
     {
-     "Name": "Géberjén",
-     "PostCode": "4754",
-     "LatLong": "47.9333,22.4667"
-    },
-    {
      "Name": "Fülpösdaróc",
      "PostCode": "4754",
      "LatLong": "47.9333,22.5"
+    },
+    {
+     "Name": "Géberjén",
+     "PostCode": "4754",
+     "LatLong": "47.9333,22.4667"
     },
     {
      "Name": "Ököritófülpös",
@@ -15143,14 +15143,14 @@
      "LatLong": "47.8,22.6333"
     },
     {
-     "Name": "Csenger",
-     "PostCode": "4765",
-     "LatLong": "47.8333,22.6833"
-    },
-    {
      "Name": "Komlódtótfalu",
      "PostCode": "4765",
      "LatLong": "47.85,22.7"
+    },
+    {
+     "Name": "Csenger",
+     "PostCode": "4765",
+     "LatLong": "47.8333,22.6833"
     },
     {
      "Name": "Pátyod",
@@ -15363,14 +15363,14 @@
      "LatLong": "47.9833,22.5667"
     },
     {
-     "Name": "Nemesborzova",
-     "PostCode": "4942",
-     "LatLong": "47.9833,22.6333"
-    },
-    {
      "Name": "Mánd",
      "PostCode": "4942",
      "LatLong": "48,22.6167"
+    },
+    {
+     "Name": "Nemesborzova",
+     "PostCode": "4942",
+     "LatLong": "47.9833,22.6333"
     },
     {
      "Name": "Kömörő",
@@ -15734,14 +15734,14 @@
      "LatLong": "46.6,18.1167"
     },
     {
-     "Name": "Iregszemcse",
-     "PostCode": "7095",
-     "LatLong": "46.7,18.1833"
-    },
-    {
      "Name": "Újireg",
      "PostCode": "7095",
      "LatLong": "46.65,18.1833"
+    },
+    {
+     "Name": "Iregszemcse",
+     "PostCode": "7095",
+     "LatLong": "46.7,18.1833"
     },
     {
      "Name": "Nagyszokoly",
@@ -15972,14 +15972,14 @@
      "LatLong": "46.35,18.4167"
     },
     {
-     "Name": "Nagyvejke",
-     "PostCode": "7186",
-     "LatLong": "46.3833,18.45"
-    },
-    {
      "Name": "Aparhant",
      "PostCode": "7186",
      "LatLong": "46.3333,18.45"
+    },
+    {
+     "Name": "Nagyvejke",
+     "PostCode": "7186",
+     "LatLong": "46.3833,18.45"
     },
     {
      "Name": "Nagyvejke",
@@ -16273,24 +16273,24 @@
      "LatLong": "47.2,17.0667"
     },
     {
-     "Name": "Köcsk",
-     "PostCode": "9553",
-     "LatLong": "47.1833,17.0833"
-    },
-    {
      "Name": "Kemeneskápolna",
      "PostCode": "9553",
      "LatLong": "47.2,17.1167"
     },
     {
-     "Name": "Egyházashetye",
-     "PostCode": "9554",
-     "LatLong": "47.1667,17.1167"
+     "Name": "Köcsk",
+     "PostCode": "9553",
+     "LatLong": "47.1833,17.0833"
     },
     {
      "Name": "Borgáta",
      "PostCode": "9554",
      "LatLong": "47.1667,17.0833"
+    },
+    {
+     "Name": "Egyházashetye",
+     "PostCode": "9554",
+     "LatLong": "47.1667,17.1167"
     },
     {
      "Name": "Kissomlyó",
@@ -16303,14 +16303,14 @@
      "LatLong": "47.181,17.0929"
     },
     {
-     "Name": "Nagysimonyi",
-     "PostCode": "9561",
-     "LatLong": "47.2667,17.0667"
-    },
-    {
      "Name": "Tokorcs",
      "PostCode": "9561",
      "LatLong": "47.2667,17.1"
+    },
+    {
+     "Name": "Nagysimonyi",
+     "PostCode": "9561",
+     "LatLong": "47.2667,17.0667"
     },
     {
      "Name": "Sárvár",
@@ -16343,12 +16343,12 @@
      "LatLong": "47.2333,16.8667"
     },
     {
-     "Name": "Bögöt",
+     "Name": "Porpác",
      "PostCode": "9612",
      "LatLong": "47.25,16.8"
     },
     {
-     "Name": "Porpác",
+     "Name": "Bögöt",
      "PostCode": "9612",
      "LatLong": "47.25,16.8"
     },
@@ -16373,12 +16373,12 @@
      "LatLong": "47.35,16.85"
     },
     {
-     "Name": "Bő",
+     "Name": "Gór",
      "PostCode": "9625",
      "LatLong": "47.3667,16.8"
     },
     {
-     "Name": "Gór",
+     "Name": "Bő",
      "PostCode": "9625",
      "LatLong": "47.3667,16.8"
     },
@@ -16613,14 +16613,14 @@
      "LatLong": "47.3167,16.5833"
     },
     {
-     "Name": "Cák",
-     "PostCode": "9725",
-     "LatLong": "47.35,16.5167"
-    },
-    {
      "Name": "Kőszegszerdahely",
      "PostCode": "9725",
      "LatLong": "47.3333,16.5167"
+    },
+    {
+     "Name": "Cák",
+     "PostCode": "9725",
+     "LatLong": "47.35,16.5167"
     },
     {
      "Name": "Kőszegdoroszló",
@@ -16658,14 +16658,14 @@
      "LatLong": "47.4167,16.6"
     },
     {
-     "Name": "Kiszsidány",
-     "PostCode": "9733",
-     "LatLong": "47.4167,16.65"
-    },
-    {
      "Name": "Horvátzsidány",
      "PostCode": "9733",
      "LatLong": "47.4167,16.6167"
+    },
+    {
+     "Name": "Kiszsidány",
+     "PostCode": "9733",
+     "LatLong": "47.4167,16.65"
     },
     {
      "Name": "Peresznye",
@@ -16693,9 +16693,9 @@
      "LatLong": "47.3667,16.6833"
     },
     {
-     "Name": "Pusztacsó",
+     "Name": "Nemescsó",
      "PostCode": "9739",
-     "LatLong": "47.3333,16.6333"
+     "LatLong": "47.35,16.6167"
     },
     {
      "Name": "Kőszegpaty",
@@ -16703,9 +16703,9 @@
      "LatLong": "47.3333,16.65"
     },
     {
-     "Name": "Nemescsó",
+     "Name": "Pusztacsó",
      "PostCode": "9739",
-     "LatLong": "47.35,16.6167"
+     "LatLong": "47.3333,16.6333"
     },
     {
      "Name": "Pusztacsó",
@@ -16813,9 +16813,9 @@
      "LatLong": "47.15,16.8"
     },
     {
-     "Name": "Rábatöttös",
+     "Name": "Rum",
      "PostCode": "9766",
-     "LatLong": "47.125,16.8333"
+     "LatLong": "47.1333,16.85"
     },
     {
      "Name": "Zsennye",
@@ -16823,9 +16823,9 @@
      "LatLong": "47.1167,16.8167"
     },
     {
-     "Name": "Rum",
+     "Name": "Rábatöttös",
      "PostCode": "9766",
-     "LatLong": "47.1333,16.85"
+     "LatLong": "47.125,16.8333"
     },
     {
      "Name": "Balogunyom",
@@ -16843,11 +16843,6 @@
      "LatLong": "47.1333,16.6667"
     },
     {
-     "Name": "Gyanógeregye",
-     "PostCode": "9774",
-     "LatLong": "47.1167,16.7667"
-    },
-    {
      "Name": "Sorkifalud",
      "PostCode": "9774",
      "LatLong": "47.1333,16.7333"
@@ -16856,6 +16851,11 @@
      "Name": "Sorkikápolna",
      "PostCode": "9774",
      "LatLong": "47.1333,16.7"
+    },
+    {
+     "Name": "Gyanógeregye",
+     "PostCode": "9774",
+     "LatLong": "47.1167,16.7667"
     },
     {
      "Name": "Nemeskolta",
@@ -16893,14 +16893,14 @@
      "LatLong": "47.0833,16.6"
     },
     {
-     "Name": "Nagykölked",
-     "PostCode": "9784",
-     "LatLong": "47.0667,16.55"
-    },
-    {
      "Name": "Harasztifalu",
      "PostCode": "9784",
      "LatLong": "47.05,16.55"
+    },
+    {
+     "Name": "Nagykölked",
+     "PostCode": "9784",
+     "LatLong": "47.0667,16.55"
     },
     {
      "Name": "Sé",
@@ -16938,14 +16938,14 @@
      "LatLong": "47.2,16.45"
     },
     {
-     "Name": "Horvátlövő",
-     "PostCode": "9796",
-     "LatLong": "47.1833,16.45"
-    },
-    {
      "Name": "Pornóapáti",
      "PostCode": "9796",
      "LatLong": "47.15,16.4667"
+    },
+    {
+     "Name": "Horvátlövő",
+     "PostCode": "9796",
+     "LatLong": "47.1833,16.45"
     },
     {
      "Name": "Nárai",
@@ -16998,14 +16998,14 @@
      "LatLong": "46.95,16.7"
     },
     {
-     "Name": "Győrvár",
-     "PostCode": "9821",
-     "LatLong": "46.9878,16.8417"
-    },
-    {
      "Name": "Hegyhátszentpéter",
      "PostCode": "9821",
      "LatLong": "46.9833,16.8167"
+    },
+    {
+     "Name": "Győrvár",
+     "PostCode": "9821",
+     "LatLong": "46.9878,16.8417"
     },
     {
      "Name": "Pácsony",
@@ -17088,14 +17088,14 @@
      "LatLong": "47.0167,16.6"
     },
     {
-     "Name": "Magyarszecsőd",
-     "PostCode": "9912",
-     "LatLong": "47.0333,16.65"
-    },
-    {
      "Name": "Molnaszecsőd",
      "PostCode": "9912",
      "LatLong": "47.05,16.6833"
+    },
+    {
+     "Name": "Magyarszecsőd",
+     "PostCode": "9912",
+     "LatLong": "47.0333,16.65"
     },
     {
      "Name": "Nagymizdó",
@@ -17103,19 +17103,24 @@
      "LatLong": "46.9833,16.6667"
     },
     {
-     "Name": "Döröske",
-     "PostCode": "9913",
-     "LatLong": "47.0167,16.7"
-    },
-    {
      "Name": "Szarvaskend",
      "PostCode": "9913",
      "LatLong": "46.9833,16.6833"
     },
     {
+     "Name": "Döröske",
+     "PostCode": "9913",
+     "LatLong": "47.0167,16.7"
+    },
+    {
      "Name": "Döbörhegy",
      "PostCode": "9914",
      "LatLong": "46.9833,16.7"
+    },
+    {
+     "Name": "Hegyhátsál",
+     "PostCode": "9915",
+     "LatLong": "46.9667,16.65"
     },
     {
      "Name": "Nádasd",
@@ -17131,11 +17136,6 @@
      "Name": "Hegyháthodász",
      "PostCode": "9915",
      "LatLong": "46.9333,16.65"
-    },
-    {
-     "Name": "Hegyhátsál",
-     "PostCode": "9915",
-     "LatLong": "46.9667,16.65"
     },
     {
      "Name": "Halogy",
@@ -17193,9 +17193,9 @@
      "LatLong": "46.8883,16.5397"
     },
     {
-     "Name": "Hegyhátszentjakab",
+     "Name": "Szaknyér",
      "PostCode": "9934",
-     "LatLong": "46.8661,16.5547"
+     "LatLong": "46.8667,16.5333"
     },
     {
      "Name": "Felsőjánosfa",
@@ -17203,9 +17203,9 @@
      "LatLong": "46.85,16.5667"
     },
     {
-     "Name": "Szaknyér",
+     "Name": "Hegyhátszentjakab",
      "PostCode": "9934",
-     "LatLong": "46.8667,16.5333"
+     "LatLong": "46.8661,16.5547"
     },
     {
      "Name": "Szőce",
@@ -17253,14 +17253,14 @@
      "LatLong": "46.895,16.4017"
     },
     {
-     "Name": "Bajánsenye",
-     "PostCode": "9944",
-     "LatLong": "46.8,16.3833"
-    },
-    {
      "Name": "Kerkáskápolna",
      "PostCode": "9944",
      "LatLong": "46.7833,16.4333"
+    },
+    {
+     "Name": "Bajánsenye",
+     "PostCode": "9944",
+     "LatLong": "46.8,16.3833"
     },
     {
      "Name": "Kercaszomor",
@@ -17268,14 +17268,14 @@
      "LatLong": "46.7833,16.3667"
     },
     {
-     "Name": "Magyarszombatfa",
-     "PostCode": "9946",
-     "LatLong": "46.7628,16.3467"
-    },
-    {
      "Name": "Velemér",
      "PostCode": "9946",
      "LatLong": "46.7333,16.3833"
+    },
+    {
+     "Name": "Magyarszombatfa",
+     "PostCode": "9946",
+     "LatLong": "46.7628,16.3467"
     },
     {
      "Name": "Rátót",
@@ -17313,14 +17313,14 @@
      "LatLong": "46.9406,16.4286"
     },
     {
-     "Name": "Magyarlak",
-     "PostCode": "9962",
-     "LatLong": "46.95,16.35"
-    },
-    {
      "Name": "Csörötnek",
      "PostCode": "9962",
      "LatLong": "46.9514,16.3764"
+    },
+    {
+     "Name": "Magyarlak",
+     "PostCode": "9962",
+     "LatLong": "46.95,16.35"
     },
     {
      "Name": "Szentgotthárd",
@@ -17353,14 +17353,14 @@
      "LatLong": "46.8833,16.2833"
     },
     {
-     "Name": "Alsószölnök",
-     "PostCode": "9983",
-     "LatLong": "46.9278,16.2086"
-    },
-    {
      "Name": "Szakonyfalu",
      "PostCode": "9983",
      "LatLong": "46.9167,16.2333"
+    },
+    {
+     "Name": "Alsószölnök",
+     "PostCode": "9983",
+     "LatLong": "46.9278,16.2086"
     },
     {
      "Name": "Felsőszölnök",
@@ -17567,14 +17567,14 @@
      "LatLong": "47,17.9667"
     },
     {
-     "Name": "Csopak",
-     "PostCode": "8229",
-     "LatLong": "46.9833,17.9333"
-    },
-    {
      "Name": "Paloznak",
      "PostCode": "8229",
      "LatLong": "46.9833,17.95"
+    },
+    {
+     "Name": "Csopak",
+     "PostCode": "8229",
+     "LatLong": "46.9833,17.9333"
     },
     {
      "Name": "Balatonfüred",
@@ -17612,14 +17612,14 @@
      "LatLong": "46.9333,17.8333"
     },
     {
-     "Name": "Balatonudvari",
-     "PostCode": "8242",
-     "LatLong": "46.9,17.8167"
-    },
-    {
      "Name": "Örvényes",
      "PostCode": "8242",
      "LatLong": "46.9167,17.8167"
+    },
+    {
+     "Name": "Balatonudvari",
+     "PostCode": "8242",
+     "LatLong": "46.9,17.8167"
     },
     {
      "Name": "Balatonakali",
@@ -17632,14 +17632,14 @@
      "LatLong": "46.9167,17.7167"
     },
     {
-     "Name": "Vászoly",
-     "PostCode": "8245",
-     "LatLong": "46.9333,17.7667"
-    },
-    {
      "Name": "Pécsely",
      "PostCode": "8245",
      "LatLong": "46.95,17.7833"
+    },
+    {
+     "Name": "Vászoly",
+     "PostCode": "8245",
+     "LatLong": "46.9333,17.7667"
     },
     {
      "Name": "Tótvázsony",
@@ -17652,14 +17652,14 @@
      "LatLong": "47,17.8333"
     },
     {
-     "Name": "Veszprémfajsz",
-     "PostCode": "8248",
-     "LatLong": "47.0333,17.9"
-    },
-    {
      "Name": "Nemesvámos",
      "PostCode": "8248",
      "LatLong": "47.05,17.8833"
+    },
+    {
+     "Name": "Veszprémfajsz",
+     "PostCode": "8248",
+     "LatLong": "47.0333,17.9"
     },
     {
      "Name": "Zánka",
@@ -17677,14 +17677,14 @@
      "LatLong": "46.8333,17.6333"
     },
     {
-     "Name": "Kővágóörs",
-     "PostCode": "8254",
-     "LatLong": "46.85,17.6"
-    },
-    {
      "Name": "Kékkút",
      "PostCode": "8254",
      "LatLong": "46.85,17.5667"
+    },
+    {
+     "Name": "Kővágóörs",
+     "PostCode": "8254",
+     "LatLong": "46.85,17.6"
     },
     {
      "Name": "Balatonrendes",
@@ -17692,14 +17692,14 @@
      "LatLong": "46.8333,17.5833"
     },
     {
-     "Name": "Ábrahámhegy",
-     "PostCode": "8256",
-     "LatLong": "46.8167,17.5667"
-    },
-    {
      "Name": "Salföld",
      "PostCode": "8256",
      "LatLong": "46.8333,17.55"
+    },
+    {
+     "Name": "Ábrahámhegy",
+     "PostCode": "8256",
+     "LatLong": "46.8167,17.5667"
     },
     {
      "Name": "Salföld",
@@ -17737,14 +17737,14 @@
      "LatLong": "46.95,17.7"
     },
     {
-     "Name": "Balatoncsicsó",
-     "PostCode": "8272",
-     "LatLong": "46.9333,17.6667"
-    },
-    {
      "Name": "Óbudavár",
      "PostCode": "8272",
      "LatLong": "46.9333,17.7"
+    },
+    {
+     "Name": "Tagyon",
+     "PostCode": "8272",
+     "LatLong": "46.9,17.6833"
     },
     {
      "Name": "Szentantalfa",
@@ -17752,9 +17752,9 @@
      "LatLong": "46.9167,17.6833"
     },
     {
-     "Name": "Tagyon",
+     "Name": "Balatoncsicsó",
      "PostCode": "8272",
-     "LatLong": "46.9,17.6833"
+     "LatLong": "46.9333,17.6667"
     },
     {
      "Name": "Szentjakabfa",
@@ -17792,14 +17792,14 @@
      "LatLong": "46.85,17.5167"
     },
     {
-     "Name": "Kisapáti",
-     "PostCode": "8284",
-     "LatLong": "46.85,17.4667"
-    },
-    {
      "Name": "Nemesgulács",
      "PostCode": "8284",
      "LatLong": "46.8333,17.4833"
+    },
+    {
+     "Name": "Kisapáti",
+     "PostCode": "8284",
+     "LatLong": "46.85,17.4667"
     },
     {
      "Name": "Gyulakeszi",
@@ -17812,11 +17812,6 @@
      "LatLong": "46.9833,17.75"
     },
     {
-     "Name": "Nagyvázsony",
-     "PostCode": "8291",
-     "LatLong": "46.9833,17.7"
-    },
-    {
      "Name": "Pula",
      "PostCode": "8291",
      "LatLong": "47,17.65"
@@ -17825,6 +17820,11 @@
      "Name": "Vöröstó",
      "PostCode": "8291",
      "LatLong": "46.9667,17.7167"
+    },
+    {
+     "Name": "Nagyvázsony",
+     "PostCode": "8291",
+     "LatLong": "46.9833,17.7"
     },
     {
      "Name": "Öcs",
@@ -17862,14 +17862,14 @@
      "LatLong": "46.9167,17.5167"
     },
     {
-     "Name": "Raposka",
-     "PostCode": "8300",
-     "LatLong": "46.8806,17.4362"
-    },
-    {
      "Name": "Tapolca",
      "PostCode": "8300",
      "LatLong": "46.8833,17.4333"
+    },
+    {
+     "Name": "Raposka",
+     "PostCode": "8300",
+     "LatLong": "46.8806,17.4362"
     },
     {
      "Name": "Raposka",
@@ -17887,14 +17887,14 @@
      "LatLong": "46.85,17.4333"
     },
     {
-     "Name": "Zalahaláp",
-     "PostCode": "8308",
-     "LatLong": "46.9167,17.4667"
-    },
-    {
      "Name": "Sáska",
      "PostCode": "8308",
      "LatLong": "46.9333,17.4833"
+    },
+    {
+     "Name": "Zalahaláp",
+     "PostCode": "8308",
+     "LatLong": "46.9167,17.4667"
     },
     {
      "Name": "Nemesvita",
@@ -17937,14 +17937,14 @@
      "LatLong": "46.9833,17.2833"
     },
     {
-     "Name": "Hetyefő",
-     "PostCode": "8344",
-     "LatLong": "47.05,17.1667"
-    },
-    {
      "Name": "Zalaerdőd",
      "PostCode": "8344",
      "LatLong": "47.05,17.1333"
+    },
+    {
+     "Name": "Hetyefő",
+     "PostCode": "8344",
+     "LatLong": "47.05,17.1667"
     },
     {
      "Name": "Dabronc",
@@ -17962,11 +17962,6 @@
      "LatLong": "47.05,17.2167"
     },
     {
-     "Name": "Zalameggyes",
-     "PostCode": "8348",
-     "LatLong": "47.0833,17.2167"
-    },
-    {
      "Name": "Megyer",
      "PostCode": "8348",
      "LatLong": "47.0667,17.2"
@@ -17975,6 +17970,11 @@
      "Name": "Rigács",
      "PostCode": "8348",
      "LatLong": "47.0667,17.2167"
+    },
+    {
+     "Name": "Zalameggyes",
+     "PostCode": "8348",
+     "LatLong": "47.0833,17.2167"
     },
     {
      "Name": "Zalagyömörő",
@@ -18187,14 +18187,14 @@
      "LatLong": "47.1167,17.7333"
     },
     {
-     "Name": "Csehbánya",
-     "PostCode": "8445",
-     "LatLong": "47.1833,17.6833"
-    },
-    {
      "Name": "Városlőd",
      "PostCode": "8445",
      "LatLong": "47.15,17.65"
+    },
+    {
+     "Name": "Csehbánya",
+     "PostCode": "8445",
+     "LatLong": "47.1833,17.6833"
     },
     {
      "Name": "Kislőd",
@@ -18222,14 +18222,14 @@
      "LatLong": "47.1667,17.55"
     },
     {
-     "Name": "Szőc",
-     "PostCode": "8452",
-     "LatLong": "47.0167,17.5167"
-    },
-    {
      "Name": "Halimba",
      "PostCode": "8452",
      "LatLong": "47.0333,17.5333"
+    },
+    {
+     "Name": "Szőc",
+     "PostCode": "8452",
+     "LatLong": "47.0167,17.5167"
     },
     {
      "Name": "Nyirád",
@@ -18277,6 +18277,11 @@
      "LatLong": "47.1333,17.2"
     },
     {
+     "Name": "Bodorfa",
+     "PostCode": "8471",
+     "LatLong": "47.0667,17.3333"
+    },
+    {
      "Name": "Nemeshany",
      "PostCode": "8471",
      "LatLong": "47.0667,17.3667"
@@ -18285,11 +18290,6 @@
      "Name": "Káptalanfa",
      "PostCode": "8471",
      "LatLong": "47.0667,17.35"
-    },
-    {
-     "Name": "Bodorfa",
-     "PostCode": "8471",
-     "LatLong": "47.0667,17.3333"
     },
     {
      "Name": "Gyepükaján",
@@ -18307,14 +18307,14 @@
      "LatLong": "47.1,17.2833"
     },
     {
-     "Name": "Szentimrefalva",
-     "PostCode": "8475",
-     "LatLong": "47.0667,17.2833"
-    },
-    {
      "Name": "Hosztót",
      "PostCode": "8475",
      "LatLong": "47.0833,17.25"
+    },
+    {
+     "Name": "Szentimrefalva",
+     "PostCode": "8475",
+     "LatLong": "47.0667,17.2833"
     },
     {
      "Name": "Zalaszegvár",
@@ -18322,9 +18322,9 @@
      "LatLong": "47.1,17.2333"
     },
     {
-     "Name": "Tüskevár",
+     "Name": "Kisberzseny",
      "PostCode": "8477",
-     "LatLong": "47.1167,17.3167"
+     "LatLong": "47.1,17.2667"
     },
     {
      "Name": "Apácatorna",
@@ -18332,9 +18332,9 @@
      "LatLong": "47.1167,17.3"
     },
     {
-     "Name": "Kisberzseny",
+     "Name": "Tüskevár",
      "PostCode": "8477",
-     "LatLong": "47.1,17.2667"
+     "LatLong": "47.1167,17.3167"
     },
     {
      "Name": "Somlójenő",
@@ -18367,6 +18367,11 @@
      "LatLong": "47.1667,17.3667"
     },
     {
+     "Name": "Nagyalásony",
+     "PostCode": "8484",
+     "LatLong": "47.2333,17.35"
+    },
+    {
      "Name": "Somlóvecse",
      "PostCode": "8484",
      "LatLong": "47.2,17.35"
@@ -18375,11 +18380,6 @@
      "Name": "Vid",
      "PostCode": "8484",
      "LatLong": "47.2167,17.35"
-    },
-    {
-     "Name": "Nagyalásony",
-     "PostCode": "8484",
-     "LatLong": "47.2333,17.35"
     },
     {
      "Name": "Dabrony",
@@ -18422,12 +18422,12 @@
      "LatLong": "47.2,17.2333"
     },
     {
-     "Name": "Egeralja",
+     "Name": "Adorjánháza",
      "PostCode": "8497",
      "LatLong": "47.2333,17.25"
     },
     {
-     "Name": "Adorjánháza",
+     "Name": "Egeralja",
      "PostCode": "8497",
      "LatLong": "47.2333,17.25"
     },
@@ -18632,14 +18632,14 @@
      "LatLong": "47.3333,17.6833"
     },
     {
-     "Name": "Németbánya",
-     "PostCode": "8581",
-     "LatLong": "47.2167,17.65"
-    },
-    {
      "Name": "Bakonyjákó",
      "PostCode": "8581",
      "LatLong": "47.2167,17.6"
+    },
+    {
+     "Name": "Németbánya",
+     "PostCode": "8581",
+     "LatLong": "47.2167,17.65"
     },
     {
      "Name": "Farkasgyepű",
@@ -18707,14 +18707,14 @@
      "LatLong": "47.2833,17.3"
     },
     {
-     "Name": "Marcalgergelyi",
-     "PostCode": "9534",
-     "LatLong": "47.3167,17.2667"
-    },
-    {
      "Name": "Vinár",
      "PostCode": "9534",
      "LatLong": "47.3167,17.2833"
+    },
+    {
+     "Name": "Marcalgergelyi",
+     "PostCode": "9534",
+     "LatLong": "47.3167,17.2667"
     }
    ]
   },
@@ -18738,14 +18738,14 @@
      "LatLong": "46.7667,17.2833"
     },
     {
-     "Name": "Vállus",
-     "PostCode": "8316",
-     "LatLong": "46.85,17.3"
-    },
-    {
      "Name": "Várvölgy",
      "PostCode": "8316",
      "LatLong": "46.8667,17.3"
+    },
+    {
+     "Name": "Vállus",
+     "PostCode": "8316",
+     "LatLong": "46.85,17.3"
     },
     {
      "Name": "Kisvásárhely",
@@ -18768,24 +18768,14 @@
      "LatLong": "46.9667,17.1833"
     },
     {
-     "Name": "Vindornyalak",
-     "PostCode": "8353",
-     "LatLong": "46.8833,17.2"
-    },
-    {
      "Name": "Zalaszántó",
      "PostCode": "8353",
      "LatLong": "46.8833,17.2333"
     },
     {
-     "Name": "Vindornyafok",
-     "PostCode": "8354",
-     "LatLong": "46.85,17.1833"
-    },
-    {
-     "Name": "Zalaköveskút",
-     "PostCode": "8354",
-     "LatLong": "46.85,17.15"
+     "Name": "Vindornyalak",
+     "PostCode": "8353",
+     "LatLong": "46.8833,17.2"
     },
     {
      "Name": "Karmacs",
@@ -18793,19 +18783,29 @@
      "LatLong": "46.8333,17.1833"
     },
     {
+     "Name": "Zalaköveskút",
+     "PostCode": "8354",
+     "LatLong": "46.85,17.15"
+    },
+    {
+     "Name": "Vindornyafok",
+     "PostCode": "8354",
+     "LatLong": "46.85,17.1833"
+    },
+    {
      "Name": "Vindornyaszőlős",
      "PostCode": "8355",
      "LatLong": "46.9,17.1667"
     },
     {
-     "Name": "Kisgörbő",
-     "PostCode": "8356",
-     "LatLong": "46.9333,17.1667"
-    },
-    {
      "Name": "Nagygörbő",
      "PostCode": "8356",
      "LatLong": "46.9333,17.1833"
+    },
+    {
+     "Name": "Kisgörbő",
+     "PostCode": "8356",
+     "LatLong": "46.9333,17.1667"
     },
     {
      "Name": "Sümegcsehi",
@@ -18858,14 +18858,14 @@
      "LatLong": "46.85,17.2167"
     },
     {
-     "Name": "Felsőpáhok",
-     "PostCode": "8380",
-     "LatLong": "46.7899,17.1838"
-    },
-    {
      "Name": "Hévíz",
      "PostCode": "8380",
      "LatLong": "46.7833,17.1667"
+    },
+    {
+     "Name": "Felsőpáhok",
+     "PostCode": "8380",
+     "LatLong": "46.7899,17.1838"
     },
     {
      "Name": "Felsőpáhok",
@@ -18893,14 +18893,14 @@
      "LatLong": "46.7667,17.1833"
     },
     {
-     "Name": "Zalaapáti",
-     "PostCode": "8741",
-     "LatLong": "46.7333,17.1167"
-    },
-    {
      "Name": "Bókaháza",
      "PostCode": "8741",
      "LatLong": "46.7667,17.1"
+    },
+    {
+     "Name": "Zalaapáti",
+     "PostCode": "8741",
+     "LatLong": "46.7333,17.1167"
     },
     {
      "Name": "Esztergályhorváti",
@@ -18973,24 +18973,24 @@
      "LatLong": "46.5,17.0833"
     },
     {
-     "Name": "Nagyrécse",
-     "PostCode": "8756",
-     "LatLong": "46.4833,17.05"
-    },
-    {
      "Name": "Kisrécse",
      "PostCode": "8756",
      "LatLong": "46.5,17.0667"
     },
     {
-     "Name": "Zalaigrice",
-     "PostCode": "8761",
-     "LatLong": "46.75,17.0167"
+     "Name": "Nagyrécse",
+     "PostCode": "8756",
+     "LatLong": "46.4833,17.05"
     },
     {
      "Name": "Pacsa",
      "PostCode": "8761",
      "LatLong": "46.7167,17.0167"
+    },
+    {
+     "Name": "Zalaigrice",
+     "PostCode": "8761",
+     "LatLong": "46.75,17.0167"
     },
     {
      "Name": "Szentpéterúr",
@@ -19018,6 +19018,11 @@
      "LatLong": "46.6667,17.0833"
     },
     {
+     "Name": "Pötréte",
+     "PostCode": "8767",
+     "LatLong": "46.6833,16.95"
+    },
+    {
      "Name": "Alsórajk",
      "PostCode": "8767",
      "LatLong": "46.65,17"
@@ -19028,19 +19033,9 @@
      "LatLong": "46.6833,17"
     },
     {
-     "Name": "Pötréte",
-     "PostCode": "8767",
-     "LatLong": "46.6833,16.95"
-    },
-    {
      "Name": "Hahót",
      "PostCode": "8771",
      "LatLong": "46.6425,16.9236"
-    },
-    {
-     "Name": "Börzönce",
-     "PostCode": "8772",
-     "LatLong": "46.5833,16.9"
     },
     {
      "Name": "Zalaszentbalázs",
@@ -19048,9 +19043,9 @@
      "LatLong": "46.5878,16.9186"
     },
     {
-     "Name": "Kacorlak",
-     "PostCode": "8773",
-     "LatLong": "46.5667,16.9667"
+     "Name": "Börzönce",
+     "PostCode": "8772",
+     "LatLong": "46.5833,16.9"
     },
     {
      "Name": "Pölöskefő",
@@ -19058,9 +19053,9 @@
      "LatLong": "46.6,16.95"
     },
     {
-     "Name": "Kilimán",
-     "PostCode": "8774",
-     "LatLong": "46.6333,17"
+     "Name": "Kacorlak",
+     "PostCode": "8773",
+     "LatLong": "46.5667,16.9667"
     },
     {
      "Name": "Gelse",
@@ -19073,9 +19068,9 @@
      "LatLong": "46.5667,17"
     },
     {
-     "Name": "Magyarszerdahely",
-     "PostCode": "8776",
-     "LatLong": "46.55,16.9333"
+     "Name": "Kilimán",
+     "PostCode": "8774",
+     "LatLong": "46.6333,17"
     },
     {
      "Name": "Bocska",
@@ -19088,9 +19083,14 @@
      "LatLong": "46.5344,16.9383"
     },
     {
-     "Name": "Füzvölgy",
+     "Name": "Magyarszerdahely",
+     "PostCode": "8776",
+     "LatLong": "46.55,16.9333"
+    },
+    {
+     "Name": "Hosszúvölgy",
      "PostCode": "8777",
-     "LatLong": "46.5167,16.95"
+     "LatLong": "46.5167,16.9333"
     },
     {
      "Name": "Homokkomárom",
@@ -19098,9 +19098,9 @@
      "LatLong": "46.5,16.9167"
     },
     {
-     "Name": "Hosszúvölgy",
+     "Name": "Füzvölgy",
      "PostCode": "8777",
-     "LatLong": "46.5167,16.9333"
+     "LatLong": "46.5167,16.95"
     },
     {
      "Name": "Újudvar",
@@ -19113,14 +19113,14 @@
      "LatLong": "46.8,17.1167"
     },
     {
-     "Name": "Tilaj",
-     "PostCode": "8782",
-     "LatLong": "46.8,17.05"
-    },
-    {
      "Name": "Ligetfalva",
      "PostCode": "8782",
      "LatLong": "46.8333,17.0667"
+    },
+    {
+     "Name": "Tilaj",
+     "PostCode": "8782",
+     "LatLong": "46.8,17.05"
     },
     {
      "Name": "Kehidakustány",
@@ -19138,14 +19138,14 @@
      "LatLong": "46.85,17.1"
     },
     {
-     "Name": "Zalaszentlászló",
-     "PostCode": "8788",
-     "LatLong": "46.8833,17.1167"
-    },
-    {
      "Name": "Sénye",
      "PostCode": "8788",
      "LatLong": "46.9,17.1333"
+    },
+    {
+     "Name": "Zalaszentlászló",
+     "PostCode": "8788",
+     "LatLong": "46.8833,17.1167"
     },
     {
      "Name": "Sénye",
@@ -19188,14 +19188,14 @@
      "LatLong": "46.9667,17.0333"
     },
     {
-     "Name": "Pakod",
-     "PostCode": "8799",
-     "LatLong": "46.9667,17"
-    },
-    {
      "Name": "Dötk",
      "PostCode": "8799",
      "LatLong": "46.95,17.0167"
+    },
+    {
+     "Name": "Pakod",
+     "PostCode": "8799",
+     "LatLong": "46.9667,17"
     },
     {
      "Name": "Nagykanizsa",
@@ -19338,9 +19338,9 @@
      "LatLong": "46.4286,16.7306"
     },
     {
-     "Name": "Kistolmács",
+     "Name": "Murarátka",
      "PostCode": "8868",
-     "LatLong": "46.4833,16.75"
+     "LatLong": "46.4531,16.685"
     },
     {
      "Name": "Zajk",
@@ -19348,9 +19348,9 @@
      "LatLong": "46.4833,16.7167"
     },
     {
-     "Name": "Murarátka",
+     "Name": "Kistolmács",
      "PostCode": "8868",
-     "LatLong": "46.4531,16.685"
+     "LatLong": "46.4833,16.75"
     },
     {
      "Name": "Szentmargitfalva",
@@ -19368,14 +19368,14 @@
      "LatLong": "46.5008,16.6319"
     },
     {
-     "Name": "Kerkaszentkirály",
-     "PostCode": "8874",
-     "LatLong": "46.5,16.5833"
-    },
-    {
      "Name": "Dobri",
      "PostCode": "8874",
      "LatLong": "46.5167,16.5833"
+    },
+    {
+     "Name": "Kerkaszentkirály",
+     "PostCode": "8874",
+     "LatLong": "46.5,16.5833"
     },
     {
      "Name": "Tormafölde",
@@ -19393,14 +19393,14 @@
      "LatLong": "46.55,16.5667"
     },
     {
-     "Name": "Kerkateskánd",
-     "PostCode": "8879",
-     "LatLong": "46.5833,16.5833"
-    },
-    {
      "Name": "Szécsisziget",
      "PostCode": "8879",
      "LatLong": "46.5667,16.6"
+    },
+    {
+     "Name": "Kerkateskánd",
+     "PostCode": "8879",
+     "LatLong": "46.5833,16.5833"
     },
     {
      "Name": "Sormás",
@@ -19433,19 +19433,14 @@
      "LatLong": "46.5272,16.8372"
     },
     {
-     "Name": "Bázakerettye",
-     "PostCode": "8887",
-     "LatLong": "46.5233,16.7294"
-    },
-    {
      "Name": "Lasztonya",
      "PostCode": "8887",
      "LatLong": "46.5667,16.7167"
     },
     {
-     "Name": "Lispeszentadorján",
-     "PostCode": "8888",
-     "LatLong": "46.5333,16.7"
+     "Name": "Bázakerettye",
+     "PostCode": "8887",
+     "LatLong": "46.5233,16.7294"
     },
     {
      "Name": "Maróc",
@@ -19456,6 +19451,11 @@
      "Name": "Kiscsehi",
      "PostCode": "8888",
      "LatLong": "46.5167,16.6667"
+    },
+    {
+     "Name": "Lispeszentadorján",
+     "PostCode": "8888",
+     "LatLong": "46.5333,16.7"
     },
     {
      "Name": "Várfölde",
@@ -19543,14 +19543,14 @@
      "LatLong": "46.84,16.8439"
     },
     {
-     "Name": "Kiskutas",
-     "PostCode": "8911",
-     "LatLong": "46.9167,16.8"
-    },
-    {
      "Name": "Nagykutas",
      "PostCode": "8911",
      "LatLong": "46.9236,16.8078"
+    },
+    {
+     "Name": "Kiskutas",
+     "PostCode": "8911",
+     "LatLong": "46.9167,16.8"
     },
     {
      "Name": "Nagypáli",
@@ -19563,6 +19563,11 @@
      "LatLong": "46.9167,16.8167"
     },
     {
+     "Name": "Lakhegy",
+     "PostCode": "8913",
+     "LatLong": "46.9333,16.8667"
+    },
+    {
      "Name": "Egervár",
      "PostCode": "8913",
      "LatLong": "46.9336,16.8553"
@@ -19571,11 +19576,6 @@
      "Name": "Gősfa",
      "PostCode": "8913",
      "LatLong": "46.9667,16.8667"
-    },
-    {
-     "Name": "Lakhegy",
-     "PostCode": "8913",
-     "LatLong": "46.9333,16.8667"
     },
     {
      "Name": "Vasboldogasszony",
@@ -19603,14 +19603,14 @@
      "LatLong": "46.8,16.75"
     },
     {
-     "Name": "Csonkahegyhát",
-     "PostCode": "8918",
-     "LatLong": "46.7983,16.7242"
-    },
-    {
      "Name": "Németfalu",
      "PostCode": "8918",
      "LatLong": "46.8208,16.6736"
+    },
+    {
+     "Name": "Csonkahegyhát",
+     "PostCode": "8918",
+     "LatLong": "46.7983,16.7242"
     },
     {
      "Name": "Kustánszeg",
@@ -19628,14 +19628,14 @@
      "LatLong": "46.8886,16.8994"
     },
     {
-     "Name": "Alibánfa",
-     "PostCode": "8921",
-     "LatLong": "46.8833,16.9333"
-    },
-    {
      "Name": "Zalaszentlőrinc",
      "PostCode": "8921",
      "LatLong": "46.9167,16.8833"
+    },
+    {
+     "Name": "Alibánfa",
+     "PostCode": "8921",
+     "LatLong": "46.8833,16.9333"
     },
     {
      "Name": "Nemesapáti",
@@ -19646,11 +19646,6 @@
      "Name": "Alsónemesapáti",
      "PostCode": "8924",
      "LatLong": "46.8481,16.935"
-    },
-    {
-     "Name": "Nemeshetés",
-     "PostCode": "8925",
-     "LatLong": "46.8,16.9167"
     },
     {
      "Name": "Nemessándorháza",
@@ -19666,6 +19661,11 @@
      "Name": "Kisbucsa",
      "PostCode": "8925",
      "LatLong": "46.8167,16.95"
+    },
+    {
+     "Name": "Nemeshetés",
+     "PostCode": "8925",
+     "LatLong": "46.8,16.9167"
     },
     {
      "Name": "Bucsuszentlászló",
@@ -19708,14 +19708,9 @@
      "LatLong": "46.8667,17.0167"
     },
     {
-     "Name": "Almásháza",
+     "Name": "Misefa",
      "PostCode": "8935",
-     "LatLong": "46.85,17.05"
-    },
-    {
-     "Name": "Nagykapornak",
-     "PostCode": "8935",
-     "LatLong": "46.8167,17"
+     "LatLong": "46.8,16.9833"
     },
     {
      "Name": "Padár",
@@ -19723,14 +19718,19 @@
      "LatLong": "46.85,17.0167"
     },
     {
+     "Name": "Nagykapornak",
+     "PostCode": "8935",
+     "LatLong": "46.8167,17"
+    },
+    {
      "Name": "Orbányosfa",
      "PostCode": "8935",
      "LatLong": "46.85,16.9833"
     },
     {
-     "Name": "Misefa",
+     "Name": "Almásháza",
      "PostCode": "8935",
-     "LatLong": "46.8,16.9833"
+     "LatLong": "46.85,17.05"
     },
     {
      "Name": "Zalaszentmihály",
@@ -19763,19 +19763,14 @@
      "LatLong": "46.7,16.8167"
     },
     {
-     "Name": "Tófej",
-     "PostCode": "8946",
-     "LatLong": "46.6703,16.8056"
-    },
-    {
      "Name": "Pusztaederics",
      "PostCode": "8946",
      "LatLong": "46.65,16.8"
     },
     {
-     "Name": "Szentkozmadombja",
-     "PostCode": "8947",
-     "LatLong": "46.6833,16.7667"
+     "Name": "Tófej",
+     "PostCode": "8946",
+     "LatLong": "46.6703,16.8056"
     },
     {
      "Name": "Zalatárnok",
@@ -19783,9 +19778,9 @@
      "LatLong": "46.7019,16.7628"
     },
     {
-     "Name": "Nova",
-     "PostCode": "8948",
-     "LatLong": "46.6839,16.6839"
+     "Name": "Szentkozmadombja",
+     "PostCode": "8947",
+     "LatLong": "46.6833,16.7667"
     },
     {
      "Name": "Barlahida",
@@ -19793,19 +19788,24 @@
      "LatLong": "46.7158,16.7025"
     },
     {
+     "Name": "Nova",
+     "PostCode": "8948",
+     "LatLong": "46.6839,16.6839"
+    },
+    {
      "Name": "Mikekarácsonyfa",
      "PostCode": "8949",
+     "LatLong": "46.65,16.7"
+    },
+    {
+     "Name": "Csertalakos",
+     "PostCode": "8951",
      "LatLong": "46.65,16.7"
     },
     {
      "Name": "Gutorfölde",
      "PostCode": "8951",
      "LatLong": "46.6414,16.7383"
-    },
-    {
-     "Name": "Csertalakos",
-     "PostCode": "8951",
-     "LatLong": "46.65,16.7"
     },
     {
      "Name": "Szentpéterfölde",
@@ -19818,14 +19818,14 @@
      "LatLong": "46.6167,16.6833"
     },
     {
-     "Name": "Pördefölde",
-     "PostCode": "8956",
-     "LatLong": "46.5833,16.7167"
-    },
-    {
      "Name": "Kányavár",
      "PostCode": "8956",
      "LatLong": "46.5667,16.6833"
+    },
+    {
+     "Name": "Pördefölde",
+     "PostCode": "8956",
+     "LatLong": "46.5833,16.7167"
     },
     {
      "Name": "Páka",
@@ -19833,24 +19833,24 @@
      "LatLong": "46.5894,16.6506"
     },
     {
-     "Name": "Hernyék",
-     "PostCode": "8957",
-     "LatLong": "46.65,16.65"
-    },
-    {
      "Name": "Zebecke",
      "PostCode": "8957",
      "LatLong": "46.65,16.6833"
     },
     {
-     "Name": "Kissziget",
+     "Name": "Hernyék",
      "PostCode": "8957",
-     "LatLong": "46.6167,16.6667"
+     "LatLong": "46.65,16.65"
     },
     {
      "Name": "Csömödér",
      "PostCode": "8957",
      "LatLong": "46.6083,16.6442"
+    },
+    {
+     "Name": "Kissziget",
+     "PostCode": "8957",
+     "LatLong": "46.6167,16.6667"
     },
     {
      "Name": "Iklódbördőce",
@@ -19873,7 +19873,7 @@
      "LatLong": "46.6217,16.5392"
     },
     {
-     "Name": "Szijártóháza",
+     "Name": "Zalaszombatfa",
      "PostCode": "8969",
      "LatLong": "46.6333,16.45"
     },
@@ -19883,14 +19883,14 @@
      "LatLong": "46.6333,16.4167"
     },
     {
-     "Name": "Zalaszombatfa",
-     "PostCode": "8969",
-     "LatLong": "46.6333,16.45"
-    },
-    {
      "Name": "Bödeháza",
      "PostCode": "8969",
      "LatLong": "46.65,16.4167"
+    },
+    {
+     "Name": "Szijártóháza",
+     "PostCode": "8969",
+     "LatLong": "46.6333,16.45"
     },
     {
      "Name": "Zalabaksa",
@@ -19903,9 +19903,9 @@
      "LatLong": "46.6833,16.5667"
     },
     {
-     "Name": "Kerkafalva",
+     "Name": "Alsószenterzsébet",
      "PostCode": "8973",
-     "LatLong": "46.7667,16.5"
+     "LatLong": "46.75,16.4833"
     },
     {
      "Name": "Magyarföld",
@@ -19913,14 +19913,9 @@
      "LatLong": "46.7833,16.4167"
     },
     {
-     "Name": "Felsőszenterzsébet",
+     "Name": "Kerkafalva",
      "PostCode": "8973",
-     "LatLong": "46.75,16.45"
-    },
-    {
-     "Name": "Alsószenterzsébet",
-     "PostCode": "8973",
-     "LatLong": "46.75,16.4833"
+     "LatLong": "46.7667,16.5"
     },
     {
      "Name": "Ramocsa",
@@ -19933,6 +19928,11 @@
      "LatLong": "46.7136,16.5203"
     },
     {
+     "Name": "Felsőszenterzsébet",
+     "PostCode": "8973",
+     "LatLong": "46.75,16.45"
+    },
+    {
      "Name": "Kerkakutas",
      "PostCode": "8973",
      "LatLong": "46.7667,16.5"
@@ -19943,14 +19943,14 @@
      "LatLong": "46.7244,16.4156"
     },
     {
-     "Name": "Nemesnép",
-     "PostCode": "8976",
-     "LatLong": "46.7006,16.4625"
-    },
-    {
      "Name": "Márokföld",
      "PostCode": "8976",
      "LatLong": "46.7167,16.45"
+    },
+    {
+     "Name": "Nemesnép",
+     "PostCode": "8976",
+     "LatLong": "46.7006,16.4625"
     },
     {
      "Name": "Lendvajakabfa",
@@ -19973,11 +19973,6 @@
      "LatLong": "46.65,16.4833"
     },
     {
-     "Name": "Rédics",
-     "PostCode": "8978",
-     "LatLong": "46.6142,16.4775"
-    },
-    {
      "Name": "Lendvadedes",
      "PostCode": "8978",
      "LatLong": "46.5833,16.5167"
@@ -19991,6 +19986,11 @@
      "Name": "Gosztola",
      "PostCode": "8978",
      "LatLong": "46.5833,16.5333"
+    },
+    {
+     "Name": "Rédics",
+     "PostCode": "8978",
+     "LatLong": "46.6142,16.4775"
     },
     {
      "Name": "Gellénháza",
@@ -20008,14 +20008,14 @@
      "LatLong": "46.8167,16.7833"
     },
     {
-     "Name": "Ormándlak",
-     "PostCode": "8983",
-     "LatLong": "46.75,16.75"
-    },
-    {
      "Name": "Nagylengyel",
      "PostCode": "8983",
      "LatLong": "46.7833,16.7667"
+    },
+    {
+     "Name": "Ormándlak",
+     "PostCode": "8983",
+     "LatLong": "46.75,16.75"
     },
     {
      "Name": "Gombosszeg",
@@ -20038,9 +20038,9 @@
      "LatLong": "46.7667,16.7"
     },
     {
-     "Name": "Pórszombat",
+     "Name": "Pusztaapáti",
      "PostCode": "8986",
-     "LatLong": "46.7264,16.5781"
+     "LatLong": "46.7667,16.6167"
     },
     {
      "Name": "Szilvágy",
@@ -20048,14 +20048,9 @@
      "LatLong": "46.7333,16.6333"
     },
     {
-     "Name": "Pusztaapáti",
+     "Name": "Pórszombat",
      "PostCode": "8986",
-     "LatLong": "46.7667,16.6167"
-    },
-    {
-     "Name": "Kozmadombja",
-     "PostCode": "8988",
-     "LatLong": "46.7667,16.55"
+     "LatLong": "46.7264,16.5781"
     },
     {
      "Name": "Kálócfa",
@@ -20063,9 +20058,9 @@
      "LatLong": "46.75,16.5667"
     },
     {
-     "Name": "Hottó",
-     "PostCode": "8991",
-     "LatLong": "46.85,16.75"
+     "Name": "Kozmadombja",
+     "PostCode": "8988",
+     "LatLong": "46.7667,16.55"
     },
     {
      "Name": "Teskánd",
@@ -20078,9 +20073,9 @@
      "LatLong": "46.8375,16.7206"
     },
     {
-     "Name": "Bagod",
-     "PostCode": "8992",
-     "LatLong": "46.8781,16.7444"
+     "Name": "Hottó",
+     "PostCode": "8991",
+     "LatLong": "46.85,16.75"
     },
     {
      "Name": "Boncodfölde",
@@ -20091,6 +20086,11 @@
      "Name": "Zalaboldogfa",
      "PostCode": "8992",
      "LatLong": "46.9,16.7667"
+    },
+    {
+     "Name": "Bagod",
+     "PostCode": "8992",
+     "LatLong": "46.8781,16.7444"
     },
     {
      "Name": "Hagyárosbörönd",

@@ -2802,12 +2802,12 @@
          "LatLong": "41.7333,23.15"
         },
         {
-         "Name": "Ново село / Novo selo",
+         "Name": "Ощава / Oshhava",
          "PostCode": "2847",
          "LatLong": "41.8,23.2333"
         },
         {
-         "Name": "Ощава / Oshhava",
+         "Name": "Ново село / Novo selo",
          "PostCode": "2847",
          "LatLong": "41.8,23.2333"
         },
@@ -2843,13 +2843,13 @@
        "Code": "BLG28-05",
        "Places": [
         {
+         "PostCode": "2844",
+         "LatLong": "41.7,23.1667"
+        },
+        {
          "Name": "Будилци / Budilci",
          "PostCode": "2844",
          "LatLong": "41.6833,23.1167"
-        },
-        {
-         "PostCode": "2844",
-         "LatLong": "41.7,23.1667"
         }
        ]
       }
@@ -2863,12 +2863,12 @@
        "Code": "BLG33-00",
        "Places": [
         {
-         "Name": "Петрич / Petrich",
+         "Name": "Богородица / Bogorodica",
          "PostCode": "2850",
          "LatLong": "41.4,23.2167"
         },
         {
-         "Name": "Богородица / Bogorodica",
+         "Name": "Петрич / Petrich",
          "PostCode": "2850",
          "LatLong": "41.4,23.2167"
         },
@@ -2898,19 +2898,29 @@
          "LatLong": "41.45,23.3333"
         },
         {
+         "Name": "Крънджилица / Krundzhilica",
+         "PostCode": "2875",
+         "LatLong": "41.55,23.0667"
+        },
+        {
          "Name": "Иваново / Ivanovo",
          "PostCode": "2875",
          "LatLong": "41.5333,23.1167"
         },
         {
-         "Name": "Гюргево / Gjurgevo",
+         "Name": "Драгуш / Dragush",
          "PostCode": "2875",
-         "LatLong": "41.4833,23.15"
+         "LatLong": "41.5167,23.1"
         },
         {
          "Name": "Яково / Jakovo",
          "PostCode": "2875",
          "LatLong": "41.5167,23.1333"
+        },
+        {
+         "Name": "Гюргево / Gjurgevo",
+         "PostCode": "2875",
+         "LatLong": "41.4833,23.15"
         },
         {
          "Name": "Тонско дабе / Tonsko dabe",
@@ -2923,19 +2933,14 @@
          "LatLong": "41.5333,23.0833"
         },
         {
-         "Name": "Крънджилица / Krundzhilica",
-         "PostCode": "2875",
-         "LatLong": "41.55,23.0667"
-        },
-        {
-         "Name": "Драгуш / Dragush",
-         "PostCode": "2875",
-         "LatLong": "41.5167,23.1"
-        },
-        {
          "Name": "Дреново / Drenovo",
          "PostCode": "2876",
          "LatLong": "41.5167,23.1667"
+        },
+        {
+         "Name": "Зойчене / Zojchene",
+         "PostCode": "2882",
+         "LatLong": "41.45,23.0167"
         },
         {
          "Name": "Горчево / Gorchevo",
@@ -2944,11 +2949,6 @@
         },
         {
          "Name": "Кукурахцево / Kukurakhcevo",
-         "PostCode": "2882",
-         "LatLong": "41.45,23.0167"
-        },
-        {
-         "Name": "Зойчене / Zojchene",
          "PostCode": "2882",
          "LatLong": "41.45,23.0167"
         },
@@ -2998,9 +2998,9 @@
          "LatLong": "41.4333,23.1"
         },
         {
-         "Name": "Самуилова крепост / Samuilova krepost",
+         "Name": "Дреновица / Drenovica",
          "PostCode": "2895",
-         "LatLong": "41.3667,23"
+         "LatLong": "41.4333,23.1"
         },
         {
          "Name": "Вишлене / Vishlene",
@@ -3008,9 +3008,9 @@
          "LatLong": "41.4333,23.0667"
         },
         {
-         "Name": "Дреновица / Drenovica",
+         "Name": "Самуилова крепост / Samuilova krepost",
          "PostCode": "2895",
-         "LatLong": "41.4333,23.1"
+         "LatLong": "41.3667,23"
         }
        ]
       },
@@ -3375,16 +3375,6 @@
        "Code": "BLG40-00",
        "Places": [
         {
-         "Name": "Белевехчево / Belevekhchevo",
-         "PostCode": "2800",
-         "LatLong": "41.5667,23.3167"
-        },
-        {
-         "Name": "Малки Цалим / Malki Calim",
-         "PostCode": "2800",
-         "LatLong": "41.6,23.35"
-        },
-        {
          "Name": "Сандански / Sandanski",
          "PostCode": "2800",
          "LatLong": "41.5667,23.2833"
@@ -3400,6 +3390,16 @@
          "LatLong": "41.6,23.3333"
         },
         {
+         "Name": "Малки Цалим / Malki Calim",
+         "PostCode": "2800",
+         "LatLong": "41.6,23.35"
+        },
+        {
+         "Name": "Белевехчево / Belevekhchevo",
+         "PostCode": "2800",
+         "LatLong": "41.5667,23.3167"
+        },
+        {
          "Name": "Дебрене / Debrene",
          "PostCode": "2803",
          "LatLong": "41.5833,23.3167"
@@ -3410,24 +3410,14 @@
          "LatLong": "41.55,23.2"
         },
         {
-         "Name": "Спатово / Spatovo",
-         "PostCode": "2811",
-         "LatLong": "41.5,23.3333"
-        },
-        {
-         "Name": "Долени / Doleni",
-         "PostCode": "2811",
-         "LatLong": "41.5667,23.4167"
-        },
-        {
          "Name": "Любовка / Ljubovka",
          "PostCode": "2811",
          "LatLong": "41.5833,23.3667"
         },
         {
-         "Name": "Горна Сушица / Gorna Sushica",
+         "Name": "Спатово / Spatovo",
          "PostCode": "2811",
-         "LatLong": "41.55,23.3833"
+         "LatLong": "41.5,23.3333"
         },
         {
          "Name": "Ладарево / Ladarevo",
@@ -3435,14 +3425,19 @@
          "LatLong": "41.55,23.35"
         },
         {
+         "Name": "Долени / Doleni",
+         "PostCode": "2811",
+         "LatLong": "41.5667,23.4167"
+        },
+        {
          "Name": "Бождово / Bozhdovo",
          "PostCode": "2811",
          "LatLong": "41.6,23.3667"
         },
         {
-         "Name": "Яново / Janovo",
-         "PostCode": "2816",
-         "LatLong": "41.4333,23.4833"
+         "Name": "Горна Сушица / Gorna Sushica",
+         "PostCode": "2811",
+         "LatLong": "41.55,23.3833"
         },
         {
          "Name": "Лехово / Lekhovo",
@@ -3450,9 +3445,19 @@
          "LatLong": "41.4167,23.4833"
         },
         {
+         "Name": "Яново / Janovo",
+         "PostCode": "2816",
+         "LatLong": "41.4333,23.4833"
+        },
+        {
          "Name": "Голешово / Goleshovo",
          "PostCode": "2818",
          "LatLong": "41.4333,23.6"
+        },
+        {
+         "Name": "Кашина / Kashina",
+         "PostCode": "2820",
+         "LatLong": "41.55,23.4667"
         },
         {
          "Name": "Любовище / Ljubovishhe",
@@ -3465,19 +3470,19 @@
          "LatLong": "41.5667,23.4333"
         },
         {
+         "Name": "Кърланово / Kurlanovo",
+         "PostCode": "2820",
+         "LatLong": "41.55,23.4167"
+        },
+        {
          "Name": "Рожен / Rozhen",
          "PostCode": "2820",
          "LatLong": "41.5333,23.4333"
         },
         {
-         "Name": "Кашина / Kashina",
-         "PostCode": "2820",
-         "LatLong": "41.55,23.4667"
-        },
-        {
-         "Name": "Кърланово / Kurlanovo",
-         "PostCode": "2820",
-         "LatLong": "41.55,23.4167"
+         "Name": "Хотово / Khotovo",
+         "PostCode": "2821",
+         "LatLong": "41.5,23.3333"
         },
         {
          "Name": "Лозеница / Lozenica",
@@ -3490,14 +3495,14 @@
          "LatLong": "41.5,23.3583"
         },
         {
-         "Name": "Хотово / Khotovo",
-         "PostCode": "2821",
-         "LatLong": "41.5,23.3333"
-        },
-        {
          "Name": "Виногради / Vinogradi",
          "PostCode": "2822",
          "LatLong": "41.5,23.3833"
+        },
+        {
+         "Name": "Горно Спанчево / Gorno Spanchevo",
+         "PostCode": "2824",
+         "LatLong": "41.5,23.5"
         },
         {
          "Name": "Храсна / Khrasna",
@@ -3513,11 +3518,6 @@
          "Name": "Черешница / Chereshnica",
          "PostCode": "2824",
          "LatLong": "41.5,23.4667"
-        },
-        {
-         "Name": "Горно Спанчево / Gorno Spanchevo",
-         "PostCode": "2824",
-         "LatLong": "41.5,23.5"
         },
         {
          "Name": "Враня / Vranja",
@@ -3607,22 +3607,22 @@
        ]
       },
       {
-       "Name": "Ласкарево / Laskarevo",
-       "Code": "BLG40-19",
-       "Places": [
-        {
-         "PostCode": "2811",
-         "LatLong": "41.5333,23.3333"
-        }
-       ]
-      },
-      {
        "Name": "Склаве / Sklave",
        "Code": "BLG40-37",
        "Places": [
         {
          "PostCode": "2811",
          "LatLong": "41.5167,23.3167"
+        }
+       ]
+      },
+      {
+       "Name": "Ласкарево / Laskarevo",
+       "Code": "BLG40-19",
+       "Places": [
+        {
+         "PostCode": "2811",
+         "LatLong": "41.5333,23.3333"
         }
        ]
       },
@@ -4068,14 +4068,14 @@
          "LatLong": "41.6222,23.1"
         },
         {
-         "Name": "Седелец / Sedelec",
-         "PostCode": "2834",
-         "LatLong": "41.5833,23.1"
-        },
-        {
          "Name": "Гореме / Goreme",
          "PostCode": "2834",
          "LatLong": "41.65,23.1"
+        },
+        {
+         "Name": "Седелец / Sedelec",
+         "PostCode": "2834",
+         "LatLong": "41.5833,23.1"
         },
         {
          "Name": "Клепало / Klepalo",
@@ -6055,6 +6055,86 @@
        "Code": "GAB05-00",
        "Places": [
         {
+         "Name": "Бекриите / Bekriite",
+         "PostCode": "5300",
+         "LatLong": "42.9333,25.3167"
+        },
+        {
+         "Name": "Солари / Solari",
+         "PostCode": "5300",
+         "LatLong": "42.9333,25.3167"
+        },
+        {
+         "Name": "Руйчовци / Rujchovci",
+         "PostCode": "5300",
+         "LatLong": "42.8167,25.2333"
+        },
+        {
+         "Name": "Фърговци / Furgovci",
+         "PostCode": "5300",
+         "LatLong": "42.8667,25.3167"
+        },
+        {
+         "Name": "Богданчовци / Bogdanchovci",
+         "PostCode": "5300",
+         "LatLong": "42.8667,25.3167"
+        },
+        {
+         "Name": "Пъртевци / Purtevci",
+         "PostCode": "5300",
+         "LatLong": "42.8667,25.3167"
+        },
+        {
+         "Name": "Костадините / Kostadinite",
+         "PostCode": "5300",
+         "LatLong": "42.8667,25.3167"
+        },
+        {
+         "Name": "Ветрово / Vetrovo",
+         "PostCode": "5300",
+         "LatLong": "42.9333,25.3167"
+        },
+        {
+         "Name": "Баевци / Baevci",
+         "PostCode": "5300",
+         "LatLong": "42.8167,25.3"
+        },
+        {
+         "Name": "Чукилите / Chukilite",
+         "PostCode": "5300",
+         "LatLong": "42.85,25.2833"
+        },
+        {
+         "Name": "Геновци / Genovci",
+         "PostCode": "5300",
+         "LatLong": "42.7833,25.4"
+        },
+        {
+         "Name": "Свинарски дол / Svinarski dol",
+         "PostCode": "5300",
+         "LatLong": "42.9333,25.3"
+        },
+        {
+         "Name": "Банковци / Bankovci",
+         "PostCode": "5300",
+         "LatLong": "42.9333,25.3167"
+        },
+        {
+         "Name": "Гайкини / Gajkini",
+         "PostCode": "5300",
+         "LatLong": "42.8761,25.3132"
+        },
+        {
+         "Name": "Гръблевци / Grublevci",
+         "PostCode": "5300",
+         "LatLong": "42.9333,25.3167"
+        },
+        {
+         "Name": "Стоманеците / Stomanecite",
+         "PostCode": "5300",
+         "LatLong": "42.8,25.3"
+        },
+        {
          "Name": "Габрово / Gabrovo",
          "PostCode": "5300",
          "LatLong": "42.8747,25.3342"
@@ -6065,24 +6145,9 @@
          "LatLong": "42.8761,25.3132"
         },
         {
-         "Name": "Пъртевци / Purtevci",
+         "Name": "Мечковица / Mechkovica",
          "PostCode": "5300",
-         "LatLong": "42.8667,25.3167"
-        },
-        {
-         "Name": "Банковци / Bankovci",
-         "PostCode": "5300",
-         "LatLong": "42.9333,25.3167"
-        },
-        {
-         "Name": "Ветрово / Vetrovo",
-         "PostCode": "5300",
-         "LatLong": "42.9333,25.3167"
-        },
-        {
-         "Name": "Гайкини / Gajkini",
-         "PostCode": "5300",
-         "LatLong": "42.8761,25.3132"
+         "LatLong": "42.85,25.25"
         },
         {
          "Name": "Моровеците / Morovecite",
@@ -6090,97 +6155,12 @@
          "LatLong": "42.8333,25.25"
         },
         {
-         "Name": "Чукилите / Chukilite",
-         "PostCode": "5300",
-         "LatLong": "42.85,25.2833"
-        },
-        {
-         "Name": "Бобевци / Bobevci",
-         "PostCode": "5300",
-         "LatLong": "42.95,25.3167"
-        },
-        {
-         "Name": "Богданчовци / Bogdanchovci",
-         "PostCode": "5300",
-         "LatLong": "42.8667,25.3167"
-        },
-        {
-         "Name": "Стоманеците / Stomanecite",
-         "PostCode": "5300",
-         "LatLong": "42.8,25.3"
-        },
-        {
-         "Name": "Солари / Solari",
-         "PostCode": "5300",
-         "LatLong": "42.9333,25.3167"
-        },
-        {
-         "Name": "Бекриите / Bekriite",
-         "PostCode": "5300",
-         "LatLong": "42.9333,25.3167"
-        },
-        {
-         "Name": "Геновци / Genovci",
-         "PostCode": "5300",
-         "LatLong": "42.7833,25.4"
-        },
-        {
          "Name": "Иванили / Ivanili",
          "PostCode": "5300",
          "LatLong": "42.8761,25.3132"
         },
         {
-         "Name": "Гръблевци / Grublevci",
-         "PostCode": "5300",
-         "LatLong": "42.9333,25.3167"
-        },
-        {
-         "Name": "Седянковци / Sedjankovci",
-         "PostCode": "5300",
-         "LatLong": "42.9167,25.3167"
-        },
-        {
          "Name": "Баланите / Balanite",
-         "PostCode": "5300",
-         "LatLong": "42.8667,25.3167"
-        },
-        {
-         "Name": "Руйчовци / Rujchovci",
-         "PostCode": "5300",
-         "LatLong": "42.8167,25.2333"
-        },
-        {
-         "Name": "Костадините / Kostadinite",
-         "PostCode": "5300",
-         "LatLong": "42.8667,25.3167"
-        },
-        {
-         "Name": "Читаковци / Chitakovci",
-         "PostCode": "5300",
-         "LatLong": "42.9333,25.3"
-        },
-        {
-         "Name": "Свинарски дол / Svinarski dol",
-         "PostCode": "5300",
-         "LatLong": "42.9333,25.3"
-        },
-        {
-         "Name": "Баевци / Baevci",
-         "PostCode": "5300",
-         "LatLong": "42.8167,25.3"
-        },
-        {
-         "Name": "Малини / Malini",
-         "PostCode": "5300",
-         "LatLong": "42.8833,25.3667"
-        },
-        {
-         "Name": "Бойновци / Bojnovci",
-         "PostCode": "5300",
-         "LatLong": "42.85,25.2167"
-        },
-        {
-         "Name": "Фърговци / Furgovci",
          "PostCode": "5300",
          "LatLong": "42.8667,25.3167"
         },
@@ -6190,19 +6170,39 @@
          "LatLong": "42.8667,25.3167"
         },
         {
-         "Name": "Мечковица / Mechkovica",
+         "Name": "Седянковци / Sedjankovci",
          "PostCode": "5300",
-         "LatLong": "42.85,25.25"
+         "LatLong": "42.9167,25.3167"
         },
         {
-         "Name": "Тодоровци / Todorovci",
-         "PostCode": "5301",
-         "LatLong": "42.8667,25.3167"
+         "Name": "Читаковци / Chitakovci",
+         "PostCode": "5300",
+         "LatLong": "42.9333,25.3"
+        },
+        {
+         "Name": "Бойновци / Bojnovci",
+         "PostCode": "5300",
+         "LatLong": "42.85,25.2167"
+        },
+        {
+         "Name": "Бобевци / Bobevci",
+         "PostCode": "5300",
+         "LatLong": "42.95,25.3167"
+        },
+        {
+         "Name": "Малини / Malini",
+         "PostCode": "5300",
+         "LatLong": "42.8833,25.3667"
         },
         {
          "Name": "Стойковци / Stojkovci",
          "PostCode": "5301",
          "LatLong": "42.8667,25.35"
+        },
+        {
+         "Name": "Тодоровци / Todorovci",
+         "PostCode": "5301",
+         "LatLong": "42.8667,25.3167"
         },
         {
          "Name": "Малуша / Malusha",
@@ -6213,6 +6213,11 @@
          "Name": "Горнова могила / Gornova mogila",
          "PostCode": "5304",
          "LatLong": "42.85,25.2667"
+        },
+        {
+         "Name": "Поток / Potok",
+         "PostCode": "5309",
+         "LatLong": "42.7667,25.3667"
         },
         {
          "Name": "Бойчета / Bojcheta",
@@ -6230,24 +6235,19 @@
          "LatLong": "42.7667,25.3667"
         },
         {
-         "Name": "Поток / Potok",
-         "PostCode": "5309",
-         "LatLong": "42.7667,25.3667"
-        },
-        {
          "Name": "Червена локва / Chervena lokva",
          "PostCode": "5311",
          "LatLong": "42.8,25.3333"
         },
         {
-         "Name": "Борики / Boriki",
-         "PostCode": "5335",
-         "LatLong": "42.8667,25.35"
-        },
-        {
          "Name": "Стефаново / Stefanovo",
          "PostCode": "5335",
          "LatLong": "42.8667,25.3167"
+        },
+        {
+         "Name": "Борики / Boriki",
+         "PostCode": "5335",
+         "LatLong": "42.8667,25.35"
         },
         {
          "Name": "Зелено дърво / Zeleno durvo",
@@ -6265,6 +6265,41 @@
          "LatLong": "42.8667,25.2167"
         },
         {
+         "Name": "Цвятковци / Cvjatkovci",
+         "PostCode": "5340",
+         "LatLong": "42.9,25.4167"
+        },
+        {
+         "Name": "Калчовци / Kalchovci",
+         "PostCode": "5340",
+         "LatLong": "42.9,25.3833"
+        },
+        {
+         "Name": "Семерджиите / Semerdzhiite",
+         "PostCode": "5340",
+         "LatLong": "42.9,25.3833"
+        },
+        {
+         "Name": "Кметовци / Kmetovci",
+         "PostCode": "5340",
+         "LatLong": "42.9,25.3833"
+        },
+        {
+         "Name": "Болтата / Boltata",
+         "PostCode": "5340",
+         "LatLong": "42.9,25.3833"
+        },
+        {
+         "Name": "Харачерите / Kharacherite",
+         "PostCode": "5340",
+         "LatLong": "42.9,25.3833"
+        },
+        {
+         "Name": "Редешковци / Redeshkovci",
+         "PostCode": "5340",
+         "LatLong": "42.9,25.3833"
+        },
+        {
          "Name": "Съботковци / Subotkovci",
          "PostCode": "5340",
          "LatLong": "42.9,25.4167"
@@ -6275,39 +6310,9 @@
          "LatLong": "42.9167,25.4"
         },
         {
-         "Name": "Редешковци / Redeshkovci",
-         "PostCode": "5340",
-         "LatLong": "42.9,25.3833"
-        },
-        {
-         "Name": "Болтата / Boltata",
-         "PostCode": "5340",
-         "LatLong": "42.9,25.3833"
-        },
-        {
-         "Name": "Семерджиите / Semerdzhiite",
-         "PostCode": "5340",
-         "LatLong": "42.9,25.3833"
-        },
-        {
-         "Name": "Харачерите / Kharacherite",
-         "PostCode": "5340",
-         "LatLong": "42.9,25.3833"
-        },
-        {
-         "Name": "Калчовци / Kalchovci",
-         "PostCode": "5340",
-         "LatLong": "42.9,25.3833"
-        },
-        {
-         "Name": "Цвятковци / Cvjatkovci",
-         "PostCode": "5340",
-         "LatLong": "42.9,25.4167"
-        },
-        {
-         "Name": "Кметовци / Kmetovci",
-         "PostCode": "5340",
-         "LatLong": "42.9,25.3833"
+         "Name": "Дебел дял / Debel djal",
+         "PostCode": "5341",
+         "LatLong": "42.8667,25.1833"
         },
         {
          "Name": "Врабците / Vrabcite",
@@ -6315,69 +6320,9 @@
          "LatLong": "42.8667,25.2"
         },
         {
-         "Name": "Дебел дял / Debel djal",
-         "PostCode": "5341",
-         "LatLong": "42.8667,25.1833"
-        },
-        {
-         "Name": "Попари / Popari",
-         "PostCode": "5343",
-         "LatLong": "42.9167,25.3333"
-        },
-        {
-         "Name": "Тодорчета / Todorcheta",
-         "PostCode": "5343",
-         "LatLong": "42.9167,25.4"
-        },
-        {
-         "Name": "Велковци / Velkovci",
-         "PostCode": "5343",
-         "LatLong": "42.9333,25.3667"
-        },
-        {
          "Name": "Стойчовци / Stojchovci",
          "PostCode": "5343",
          "LatLong": "42.9333,25.4167"
-        },
-        {
-         "Name": "Междени / Mezhdeni",
-         "PostCode": "5343",
-         "LatLong": "42.95,25.3333"
-        },
-        {
-         "Name": "Драгомани / Dragomani",
-         "PostCode": "5343",
-         "LatLong": "42.9333,25.4"
-        },
-        {
-         "Name": "Лесичарка / Lesicharka",
-         "PostCode": "5343",
-         "LatLong": "42.9333,25.3833"
-        },
-        {
-         "Name": "Раховци / Rakhovci",
-         "PostCode": "5343",
-         "LatLong": "42.9167,25.3833"
-        },
-        {
-         "Name": "Кметчета / Kmetcheta",
-         "PostCode": "5343",
-         "LatLong": "42.9333,25.4"
-        },
-        {
-         "Name": "Джумриите / Dzhumriite",
-         "PostCode": "5343",
-         "LatLong": "42.9333,25.4167"
-        },
-        {
-         "Name": "Старилковци / Starilkovci",
-         "PostCode": "5343",
-         "LatLong": "42.9333,25.3333"
-        },
-        {
-         "Name": "Колишовци / Kolishovci",
-         "PostCode": "5343",
-         "LatLong": "42.95,25.4"
         },
         {
          "Name": "Иглика / Iglika",
@@ -6385,14 +6330,29 @@
          "LatLong": "42.9333,25.4"
         },
         {
-         "Name": "Узуните / Uzunite",
+         "Name": "Кметчета / Kmetcheta",
          "PostCode": "5343",
-         "LatLong": "42.95,25.35"
+         "LatLong": "42.9333,25.4"
         },
         {
-         "Name": "Мичковци / Michkovci",
+         "Name": "Колишовци / Kolishovci",
          "PostCode": "5343",
-         "LatLong": "42.9344,25.3833"
+         "LatLong": "42.95,25.4"
+        },
+        {
+         "Name": "Драгомани / Dragomani",
+         "PostCode": "5343",
+         "LatLong": "42.9333,25.4"
+        },
+        {
+         "Name": "Раховци / Rakhovci",
+         "PostCode": "5343",
+         "LatLong": "42.9167,25.3833"
+        },
+        {
+         "Name": "Попари / Popari",
+         "PostCode": "5343",
+         "LatLong": "42.9167,25.3333"
         },
         {
          "Name": "Костенковци / Kostenkovci",
@@ -6400,39 +6360,49 @@
          "LatLong": "42.95,25.4"
         },
         {
+         "Name": "Старилковци / Starilkovci",
+         "PostCode": "5343",
+         "LatLong": "42.9333,25.3333"
+        },
+        {
+         "Name": "Лесичарка / Lesicharka",
+         "PostCode": "5343",
+         "LatLong": "42.9333,25.3833"
+        },
+        {
+         "Name": "Междени / Mezhdeni",
+         "PostCode": "5343",
+         "LatLong": "42.95,25.3333"
+        },
+        {
          "Name": "Карали / Karali",
          "PostCode": "5343",
          "LatLong": "42.9344,25.3833"
         },
         {
-         "Name": "Шипчените / Shipchenite",
-         "PostCode": "5344",
+         "Name": "Велковци / Velkovci",
+         "PostCode": "5343",
+         "LatLong": "42.9333,25.3667"
+        },
+        {
+         "Name": "Мичковци / Michkovci",
+         "PostCode": "5343",
+         "LatLong": "42.9344,25.3833"
+        },
+        {
+         "Name": "Узуните / Uzunite",
+         "PostCode": "5343",
+         "LatLong": "42.95,25.35"
+        },
+        {
+         "Name": "Джумриите / Dzhumriite",
+         "PostCode": "5343",
          "LatLong": "42.9333,25.4167"
         },
         {
-         "Name": "Спанци / Spanci",
-         "PostCode": "5344",
-         "LatLong": "42.9479,25.2896"
-        },
-        {
-         "Name": "Парчовци / Parchovci",
-         "PostCode": "5344",
-         "LatLong": "42.95,25.3"
-        },
-        {
-         "Name": "Живко / Zhivko",
-         "PostCode": "5344",
-         "LatLong": "42.9333,25.2667"
-        },
-        {
-         "Name": "Бялково / Bjalkovo",
-         "PostCode": "5344",
-         "LatLong": "42.95,25.2667"
-        },
-        {
-         "Name": "Влайчовци / Vlajchovci",
-         "PostCode": "5344",
-         "LatLong": "42.95,25.25"
+         "Name": "Тодорчета / Todorcheta",
+         "PostCode": "5343",
+         "LatLong": "42.9167,25.4"
         },
         {
          "Name": "Сейковци / Sejkovci",
@@ -6440,24 +6410,44 @@
          "LatLong": "42.95,25.2667"
         },
         {
+         "Name": "Шипчените / Shipchenite",
+         "PostCode": "5344",
+         "LatLong": "42.9333,25.4167"
+        },
+        {
+         "Name": "Бялково / Bjalkovo",
+         "PostCode": "5344",
+         "LatLong": "42.95,25.2667"
+        },
+        {
+         "Name": "Живко / Zhivko",
+         "PostCode": "5344",
+         "LatLong": "42.9333,25.2667"
+        },
+        {
+         "Name": "Парчовци / Parchovci",
+         "PostCode": "5344",
+         "LatLong": "42.95,25.3"
+        },
+        {
+         "Name": "Влайчовци / Vlajchovci",
+         "PostCode": "5344",
+         "LatLong": "42.95,25.25"
+        },
+        {
+         "Name": "Спанци / Spanci",
+         "PostCode": "5344",
+         "LatLong": "42.9479,25.2896"
+        },
+        {
          "Name": "Здравковец / Zdravkovec",
          "PostCode": "5344",
          "LatLong": "42.95,25.2333"
         },
         {
-         "Name": "Гарван / Garvan",
+         "Name": "Николчовци / Nikolchovci",
          "PostCode": "5345",
-         "LatLong": "42.8833,25.2333"
-        },
-        {
-         "Name": "Златевци / Zlatevci",
-         "PostCode": "5345",
-         "LatLong": "42.9167,25.25"
-        },
-        {
-         "Name": "Милковци / Milkovci",
-         "PostCode": "5345",
-         "LatLong": "42.9167,25.25"
+         "LatLong": "42.8833,25.2167"
         },
         {
          "Name": "Пейовци / Pejovci",
@@ -6470,16 +6460,6 @@
          "LatLong": "42.9071,25.2571"
         },
         {
-         "Name": "Николчовци / Nikolchovci",
-         "PostCode": "5345",
-         "LatLong": "42.8833,25.2167"
-        },
-        {
-         "Name": "Гайтаните / Gajtanite",
-         "PostCode": "5345",
-         "LatLong": "42.9167,25.2833"
-        },
-        {
          "Name": "Рязковци / Rjazkovci",
          "PostCode": "5345",
          "LatLong": "42.9071,25.2571"
@@ -6490,14 +6470,29 @@
          "LatLong": "42.9,25.2833"
         },
         {
+         "Name": "Гайтаните / Gajtanite",
+         "PostCode": "5345",
+         "LatLong": "42.9167,25.2833"
+        },
+        {
+         "Name": "Гарван / Garvan",
+         "PostCode": "5345",
+         "LatLong": "42.8833,25.2333"
+        },
+        {
+         "Name": "Милковци / Milkovci",
+         "PostCode": "5345",
+         "LatLong": "42.9167,25.25"
+        },
+        {
+         "Name": "Златевци / Zlatevci",
+         "PostCode": "5345",
+         "LatLong": "42.9167,25.25"
+        },
+        {
          "Name": "Гергини / Gergini",
          "PostCode": "5346",
          "LatLong": "42.8833,25.25"
-        },
-        {
-         "Name": "Стоевци / Stoevci",
-         "PostCode": "5347",
-         "LatLong": "42.9,25.2"
         },
         {
          "Name": "Михайловци / Mikhajlovci",
@@ -6510,14 +6505,19 @@
          "LatLong": "42.9167,25.2333"
         },
         {
-         "Name": "Лоза / Loza",
-         "PostCode": "5347",
-         "LatLong": "42.9333,25.25"
-        },
-        {
          "Name": "Райновци / Rajnovci",
          "PostCode": "5347",
          "LatLong": "42.9,25.2"
+        },
+        {
+         "Name": "Стоевци / Stoevci",
+         "PostCode": "5347",
+         "LatLong": "42.9,25.2"
+        },
+        {
+         "Name": "Лоза / Loza",
+         "PostCode": "5347",
+         "LatLong": "42.9333,25.25"
         },
         {
          "Name": "Армените / Armenite",
@@ -6525,22 +6525,22 @@
          "LatLong": "42.9167,25.2333"
         },
         {
-         "Name": "Боженците / Bozhencite",
-         "PostCode": "5349",
-         "LatLong": "42.8917,25.4"
-        },
-        {
          "Name": "Вълков дол / Vulkov dol",
          "PostCode": "5349",
          "LatLong": "42.9,25.3833"
         },
         {
-         "Name": "Черневци / Chernevci",
+         "Name": "Боженците / Bozhencite",
+         "PostCode": "5349",
+         "LatLong": "42.8917,25.4"
+        },
+        {
+         "Name": "Трапесковци / Trapeskovci",
          "PostCode": "5349",
          "LatLong": "42.8833,25.4167"
         },
         {
-         "Name": "Трапесковци / Trapeskovci",
+         "Name": "Черневци / Chernevci",
          "PostCode": "5349",
          "LatLong": "42.8833,25.4167"
         },
@@ -6576,14 +6576,14 @@
        "Code": "GAB05-12",
        "Places": [
         {
-         "Name": "Ясените / Jasenite",
-         "PostCode": "5300",
-         "LatLong": "42.8667,25.3167"
-        },
-        {
          "Name": "Торбалъжите / Torbaluzhite",
          "PostCode": "5300",
          "LatLong": "42.85,25.4167"
+        },
+        {
+         "Name": "Драганчетата / Draganchetata",
+         "PostCode": "5300",
+         "LatLong": "42.8667,25.3167"
         },
         {
          "Name": "Източник / Iztochnik",
@@ -6591,7 +6591,7 @@
          "LatLong": "42.8667,25.3833"
         },
         {
-         "Name": "Драганчетата / Draganchetata",
+         "Name": "Ясените / Jasenite",
          "PostCode": "5300",
          "LatLong": "42.8667,25.3167"
         },
@@ -6611,31 +6611,7 @@
          "LatLong": "42.8833,25.3"
         },
         {
-         "Name": "Гледаци / Gledaci",
-         "PostCode": "5345",
-         "LatLong": "42.9167,25.2667"
-        },
-        {
-         "Name": "Дивеци / Diveci",
-         "PostCode": "5345",
-         "LatLong": "42.9,25.2667"
-        },
-        {
          "Name": "Пецовци / Pecovci",
-         "PostCode": "5345",
-         "LatLong": "42.9167,25.2667"
-        },
-        {
-         "Name": "Чавеи / Chavei",
-         "PostCode": "5345",
-         "LatLong": "42.9,25.2333"
-        },
-        {
-         "Name": "Янковци / Jankovci",
-         "PostCode": "5345",
-         "LatLong": "42.9,25.25"
-        },
-        {
          "PostCode": "5345",
          "LatLong": "42.9167,25.2667"
         },
@@ -6650,9 +6626,33 @@
          "LatLong": "42.9167,25.2667"
         },
         {
+         "Name": "Дивеци / Diveci",
+         "PostCode": "5345",
+         "LatLong": "42.9,25.2667"
+        },
+        {
          "Name": "Рачевци / Rachevci",
          "PostCode": "5345",
          "LatLong": "42.9071,25.2571"
+        },
+        {
+         "Name": "Чавеи / Chavei",
+         "PostCode": "5345",
+         "LatLong": "42.9,25.2333"
+        },
+        {
+         "PostCode": "5345",
+         "LatLong": "42.9167,25.2667"
+        },
+        {
+         "Name": "Гледаци / Gledaci",
+         "PostCode": "5345",
+         "LatLong": "42.9167,25.2667"
+        },
+        {
+         "Name": "Янковци / Jankovci",
+         "PostCode": "5345",
+         "LatLong": "42.9,25.25"
         }
        ]
       },
@@ -6696,11 +6696,6 @@
        "Code": "GAB05-09",
        "Places": [
         {
-         "Name": "Иванковци / Ivankovci",
-         "PostCode": "5340",
-         "LatLong": "42.9,25.3667"
-        },
-        {
          "Name": "Орловци / Orlovci",
          "PostCode": "5340",
          "LatLong": "42.9,25.3833"
@@ -6716,13 +6711,9 @@
          "LatLong": "42.9,25.3833"
         },
         {
-         "Name": "Копчелиите / Kopcheliite",
-         "PostCode": "5342",
+         "Name": "Иванковци / Ivankovci",
+         "PostCode": "5340",
          "LatLong": "42.9,25.3667"
-        },
-        {
-         "PostCode": "5342",
-         "LatLong": "42.9167,25.3667"
         },
         {
          "Name": "Ангелов / Angelov",
@@ -6730,9 +6721,18 @@
          "LatLong": "42.9167,25.3667"
         },
         {
+         "Name": "Копчелиите / Kopcheliite",
+         "PostCode": "5342",
+         "LatLong": "42.9,25.3667"
+        },
+        {
          "Name": "Брънеците / Brunecite",
          "PostCode": "5342",
          "LatLong": "42.9,25.3833"
+        },
+        {
+         "PostCode": "5342",
+         "LatLong": "42.9167,25.3667"
         },
         {
          "Name": "Балиновци / Balinovci",
@@ -6776,29 +6776,9 @@
          "LatLong": "42.9667,25.3167"
         },
         {
-         "Name": "Игнатовци / Ignatovci",
+         "Name": "Гърня / Gurnja",
          "PostCode": "5370",
-         "LatLong": "42.9333,25.5167"
-        },
-        {
-         "Name": "Петковци / Petkovci",
-         "PostCode": "5370",
-         "LatLong": "42.9667,25.4667"
-        },
-        {
-         "Name": "Билкини / Bilkini",
-         "PostCode": "5370",
-         "LatLong": "42.9333,25.55"
-        },
-        {
-         "Name": "Муця / Mucja",
-         "PostCode": "5370",
-         "LatLong": "42.95,25.5"
-        },
-        {
-         "Name": "Големи Българени / Golemi Bulgareni",
-         "PostCode": "5370",
-         "LatLong": "42.9333,25.5167"
+         "LatLong": "42.9667,25.5"
         },
         {
          "Name": "Дряново / Drjanovo",
@@ -6806,9 +6786,19 @@
          "LatLong": "42.9828,25.4922"
         },
         {
-         "Name": "Крънча / Kruncha",
+         "Name": "Малки Българени / Malki Bulgareni",
          "PostCode": "5370",
-         "LatLong": "43,25.4833"
+         "LatLong": "42.95,25.5"
+        },
+        {
+         "Name": "Петковци / Petkovci",
+         "PostCode": "5370",
+         "LatLong": "42.9667,25.4667"
+        },
+        {
+         "Name": "Муця / Mucja",
+         "PostCode": "5370",
+         "LatLong": "42.95,25.5"
         },
         {
          "Name": "Банари / Banari",
@@ -6816,34 +6806,9 @@
          "LatLong": "42.9333,25.45"
         },
         {
-         "Name": "Плачка / Plachka",
-         "PostCode": "5370",
-         "LatLong": "43.0167,25.4333"
-        },
-        {
-         "Name": "Гърня / Gurnja",
-         "PostCode": "5370",
-         "LatLong": "42.9667,25.5"
-        },
-        {
-         "Name": "Малки Българени / Malki Bulgareni",
-         "PostCode": "5370",
-         "LatLong": "42.95,25.5"
-        },
-        {
-         "Name": "Пейна / Pejna",
-         "PostCode": "5370",
-         "LatLong": "43,25.4333"
-        },
-        {
          "Name": "Раданчето / Radancheto",
          "PostCode": "5370",
          "LatLong": "42.9333,25.5"
-        },
-        {
-         "Name": "Балалея / Balaleja",
-         "PostCode": "5370",
-         "LatLong": "42.9833,25.4333"
         },
         {
          "Name": "Кукля / Kuklja",
@@ -6851,9 +6816,44 @@
          "LatLong": "42.9167,25.5333"
         },
         {
+         "Name": "Пейна / Pejna",
+         "PostCode": "5370",
+         "LatLong": "43,25.4333"
+        },
+        {
+         "Name": "Игнатовци / Ignatovci",
+         "PostCode": "5370",
+         "LatLong": "42.9333,25.5167"
+        },
+        {
          "Name": "Ритя / Ritja",
          "PostCode": "5370",
          "LatLong": "42.9833,25.4167"
+        },
+        {
+         "Name": "Билкини / Bilkini",
+         "PostCode": "5370",
+         "LatLong": "42.9333,25.55"
+        },
+        {
+         "Name": "Плачка / Plachka",
+         "PostCode": "5370",
+         "LatLong": "43.0167,25.4333"
+        },
+        {
+         "Name": "Крънча / Kruncha",
+         "PostCode": "5370",
+         "LatLong": "43,25.4833"
+        },
+        {
+         "Name": "Балалея / Balaleja",
+         "PostCode": "5370",
+         "LatLong": "42.9833,25.4333"
+        },
+        {
+         "Name": "Големи Българени / Golemi Bulgareni",
+         "PostCode": "5370",
+         "LatLong": "42.9333,25.5167"
         },
         {
          "Name": "Геша / Gesha",
@@ -6881,14 +6881,14 @@
          "LatLong": "42.9167,25.5167"
         },
         {
-         "Name": "Дурча / Durcha",
-         "PostCode": "5380",
-         "LatLong": "42.9167,25.5"
-        },
-        {
          "Name": "Горни Драгойча / Gorni Dragojcha",
          "PostCode": "5380",
          "LatLong": "42.95,25.4667"
+        },
+        {
+         "Name": "Шушня / Shushnja",
+         "PostCode": "5380",
+         "LatLong": "42.9167,25.5167"
         },
         {
          "Name": "Сухолоевци / Sukholoevci",
@@ -6896,9 +6896,9 @@
          "LatLong": "42.9333,25.45"
         },
         {
-         "Name": "Шушня / Shushnja",
+         "Name": "Дурча / Durcha",
          "PostCode": "5380",
-         "LatLong": "42.9167,25.5167"
+         "LatLong": "42.9167,25.5"
         },
         {
          "Name": "Радовци / Radovci",
@@ -6921,14 +6921,14 @@
          "LatLong": "43.0167,25.4833"
         },
         {
-         "Name": "Каломен / Kalomen",
-         "PostCode": "5388",
-         "LatLong": "43.0333,25.4333"
-        },
-        {
          "Name": "Еленците / Elencite",
          "PostCode": "5388",
          "LatLong": "43.0333,25.45"
+        },
+        {
+         "Name": "Каломен / Kalomen",
+         "PostCode": "5388",
+         "LatLong": "43.0333,25.4333"
         },
         {
          "Name": "Туркинча / Turkincha",
@@ -6936,14 +6936,14 @@
          "LatLong": "43.0167,25.4833"
         },
         {
-         "Name": "Керека / Kereka",
-         "PostCode": "5388",
-         "LatLong": "43.0333,25.4667"
-        },
-        {
          "Name": "Балванците / Balvancite",
          "PostCode": "5388",
          "LatLong": "43.0167,25.45"
+        },
+        {
+         "Name": "Керека / Kereka",
+         "PostCode": "5388",
+         "LatLong": "43.0333,25.4667"
         },
         {
          "Name": "Славейково / Slavejkovo",
@@ -6976,12 +6976,12 @@
          "LatLong": "43.0167,25.5"
         },
         {
-         "Name": "Геня / Genja",
+         "Name": "Ганчовец / Ganchovec",
          "PostCode": "5397",
          "LatLong": "42.9833,25.5167"
         },
         {
-         "Name": "Ганчовец / Ganchovec",
+         "Name": "Геня / Genja",
          "PostCode": "5397",
          "LatLong": "42.9833,25.5167"
         },
@@ -7007,29 +7007,19 @@
        "Code": "GAB12-02",
        "Places": [
         {
-         "Name": "Долни Върпища / Dolni Vurpishha",
+         "Name": "Нейчовци / Nejchovci",
          "PostCode": "5380",
-         "LatLong": "42.9333,25.4333"
+         "LatLong": "42.95,25.45"
         },
         {
-         "Name": "Искра / Iskra",
+         "Name": "Пърша / Pursha",
          "PostCode": "5380",
          "LatLong": "42.95,25.4833"
         },
         {
-         "Name": "Добрените / Dobrenite",
+         "Name": "Долни Върпища / Dolni Vurpishha",
          "PostCode": "5380",
-         "LatLong": "42.95,25.4667"
-        },
-        {
-         "Name": "Джуровци / Dzhurovci",
-         "PostCode": "5380",
-         "LatLong": "42.9324,25.4694"
-        },
-        {
-         "Name": "Станча / Stancha",
-         "PostCode": "5380",
-         "LatLong": "42.9333,25.45"
+         "LatLong": "42.9333,25.4333"
         },
         {
          "Name": "Бучуковци / Buchukovci",
@@ -7037,7 +7027,17 @@
          "LatLong": "42.9167,25.45"
         },
         {
-         "Name": "Къртипъня / Kurtipunja",
+         "Name": "Станча / Stancha",
+         "PostCode": "5380",
+         "LatLong": "42.9333,25.45"
+        },
+        {
+         "Name": "Куманите / Kumanite",
+         "PostCode": "5380",
+         "LatLong": "42.9,25.45"
+        },
+        {
+         "Name": "Джуровци / Dzhurovci",
          "PostCode": "5380",
          "LatLong": "42.9324,25.4694"
         },
@@ -7047,23 +7047,8 @@
          "LatLong": "42.9333,25.4833"
         },
         {
-         "Name": "Горни Върпища / Gorni Vurpishha",
-         "PostCode": "5380",
-         "LatLong": "42.9324,25.4694"
-        },
-        {
-         "Name": "Доча / Docha",
-         "PostCode": "5380",
-         "LatLong": "42.95,25.45"
-        },
-        {
          "PostCode": "5380",
          "LatLong": "42.9333,25.45"
-        },
-        {
-         "Name": "Долни Драгойча / Dolni Dragojcha",
-         "PostCode": "5380",
-         "LatLong": "42.9167,25.4833"
         },
         {
          "Name": "Сяровци / Sjarovci",
@@ -7071,19 +7056,34 @@
          "LatLong": "42.9333,25.4667"
         },
         {
-         "Name": "Куманите / Kumanite",
+         "Name": "Къртипъня / Kurtipunja",
          "PostCode": "5380",
-         "LatLong": "42.9,25.45"
+         "LatLong": "42.9324,25.4694"
         },
         {
-         "Name": "Нейчовци / Nejchovci",
+         "Name": "Горни Върпища / Gorni Vurpishha",
          "PostCode": "5380",
-         "LatLong": "42.95,25.45"
+         "LatLong": "42.9324,25.4694"
         },
         {
-         "Name": "Пърша / Pursha",
+         "Name": "Добрените / Dobrenite",
+         "PostCode": "5380",
+         "LatLong": "42.95,25.4667"
+        },
+        {
+         "Name": "Искра / Iskra",
          "PostCode": "5380",
          "LatLong": "42.95,25.4833"
+        },
+        {
+         "Name": "Долни Драгойча / Dolni Dragojcha",
+         "PostCode": "5380",
+         "LatLong": "42.9167,25.4833"
+        },
+        {
+         "Name": "Доча / Docha",
+         "PostCode": "5380",
+         "LatLong": "42.95,25.45"
         }
        ]
       },
@@ -7498,47 +7498,7 @@
          "LatLong": "42.8833,25.4667"
         },
         {
-         "Name": "Матешовци / Mateshovci",
-         "PostCode": "5350",
-         "LatLong": "42.8667,25.5"
-        },
-        {
-         "Name": "Рачовци / Rachovci",
-         "PostCode": "5350",
-         "LatLong": "42.8652,25.4942"
-        },
-        {
-         "Name": "Милевци / Milevci",
-         "PostCode": "5350",
-         "LatLong": "42.85,25.5167"
-        },
-        {
-         "Name": "Койчовци / Kojchovci",
-         "PostCode": "5350",
-         "LatLong": "42.8667,25.5"
-        },
-        {
-         "Name": "Явор / Javor",
-         "PostCode": "5350",
-         "LatLong": "42.85,25.5167"
-        },
-        {
-         "Name": "Войниците / Vojnicite",
-         "PostCode": "5350",
-         "LatLong": "42.9,25.4667"
-        },
-        {
-         "Name": "Долни Томчевци / Dolni Tomchevci",
-         "PostCode": "5350",
-         "LatLong": "42.9,25.5"
-        },
-        {
-         "Name": "Стайновци / Stajnovci",
-         "PostCode": "5350",
-         "LatLong": "42.8667,25.5"
-        },
-        {
-         "Name": "Скорците / Skorcite",
+         "Name": "Ябълковци / Jabulkovci",
          "PostCode": "5350",
          "LatLong": "42.8667,25.5"
         },
@@ -7553,49 +7513,9 @@
          "LatLong": "42.9,25.5"
         },
         {
-         "Name": "Дончовци / Donchovci",
-         "PostCode": "5350",
-         "LatLong": "42.85,25.4333"
-        },
-        {
-         "Name": "Кашенци / Kashenci",
-         "PostCode": "5350",
-         "LatLong": "42.85,25.4333"
-        },
-        {
-         "Name": "Кръстеняците / Krustenjacite",
-         "PostCode": "5350",
-         "LatLong": "42.8333,25.5"
-        },
-        {
-         "Name": "Рашовите / Rashovite",
+         "Name": "Зеленика / Zelenika",
          "PostCode": "5350",
          "LatLong": "42.8667,25.5"
-        },
-        {
-         "Name": "Околиите / Okoliite",
-         "PostCode": "5350",
-         "LatLong": "42.8167,25.5"
-        },
-        {
-         "Name": "Трявна / Trjavna",
-         "PostCode": "5350",
-         "LatLong": "42.8667,25.5"
-        },
-        {
-         "Name": "Ябълковци / Jabulkovci",
-         "PostCode": "5350",
-         "LatLong": "42.8667,25.5"
-        },
-        {
-         "Name": "Дървари / Durvari",
-         "PostCode": "5350",
-         "LatLong": "42.85,25.55"
-        },
-        {
-         "Name": "Тодореците / Todorecite",
-         "PostCode": "5350",
-         "LatLong": "42.9,25.4833"
         },
         {
          "Name": "Могилите / Mogilite",
@@ -7603,7 +7523,22 @@
          "LatLong": "42.8333,25.4833"
         },
         {
-         "Name": "Зеленика / Zelenika",
+         "Name": "Стайновци / Stajnovci",
+         "PostCode": "5350",
+         "LatLong": "42.8667,25.5"
+        },
+        {
+         "Name": "Милевци / Milevci",
+         "PostCode": "5350",
+         "LatLong": "42.85,25.5167"
+        },
+        {
+         "Name": "Веленци / Velenci",
+         "PostCode": "5350",
+         "LatLong": "42.8833,25.4667"
+        },
+        {
+         "Name": "Матешовци / Mateshovci",
          "PostCode": "5350",
          "LatLong": "42.8667,25.5"
         },
@@ -7613,9 +7548,74 @@
          "LatLong": "42.8833,25.4833"
         },
         {
-         "Name": "Веленци / Velenci",
+         "Name": "Трявна / Trjavna",
          "PostCode": "5350",
-         "LatLong": "42.8833,25.4667"
+         "LatLong": "42.8667,25.5"
+        },
+        {
+         "Name": "Рашовите / Rashovite",
+         "PostCode": "5350",
+         "LatLong": "42.8667,25.5"
+        },
+        {
+         "Name": "Долни Томчевци / Dolni Tomchevci",
+         "PostCode": "5350",
+         "LatLong": "42.9,25.5"
+        },
+        {
+         "Name": "Околиите / Okoliite",
+         "PostCode": "5350",
+         "LatLong": "42.8167,25.5"
+        },
+        {
+         "Name": "Кашенци / Kashenci",
+         "PostCode": "5350",
+         "LatLong": "42.85,25.4333"
+        },
+        {
+         "Name": "Скорците / Skorcite",
+         "PostCode": "5350",
+         "LatLong": "42.8667,25.5"
+        },
+        {
+         "Name": "Дървари / Durvari",
+         "PostCode": "5350",
+         "LatLong": "42.85,25.55"
+        },
+        {
+         "Name": "Кръстеняците / Krustenjacite",
+         "PostCode": "5350",
+         "LatLong": "42.8333,25.5"
+        },
+        {
+         "Name": "Рачовци / Rachovci",
+         "PostCode": "5350",
+         "LatLong": "42.8652,25.4942"
+        },
+        {
+         "Name": "Войниците / Vojnicite",
+         "PostCode": "5350",
+         "LatLong": "42.9,25.4667"
+        },
+        {
+         "Name": "Койчовци / Kojchovci",
+         "PostCode": "5350",
+         "LatLong": "42.8667,25.5"
+        },
+        {
+         "Name": "Дончовци / Donchovci",
+         "PostCode": "5350",
+         "LatLong": "42.85,25.4333"
+        },
+        {
+         "Name": "Тодореците / Todorecite",
+         "PostCode": "5350",
+         "LatLong": "42.9,25.4833"
+        },
+        {
+         "Name": "Явор / Javor",
+         "PostCode": "5350",
+         "LatLong": "42.85,25.5167"
         },
         {
          "Name": "Николаево / Nikolaevo",
@@ -7638,9 +7638,9 @@
          "LatLong": "42.8167,25.4667"
         },
         {
-         "Name": "Дъскарите / Duskarite",
+         "Name": "Глутниците / Glutnicite",
          "PostCode": "5363",
-         "LatLong": "42.8333,25.6"
+         "LatLong": "42.85,25.5833"
         },
         {
          "Name": "Белица / Belica",
@@ -7648,17 +7648,7 @@
          "LatLong": "42.85,25.5833"
         },
         {
-         "Name": "Драндарите / Drandarite",
-         "PostCode": "5363",
-         "LatLong": "42.85,25.6"
-        },
-        {
-         "Name": "Армянковци / Armjankovci",
-         "PostCode": "5363",
-         "LatLong": "42.8537,25.5815"
-        },
-        {
-         "Name": "Глутниците / Glutnicite",
+         "Name": "Иван Димов / Ivan Dimov",
          "PostCode": "5363",
          "LatLong": "42.85,25.5833"
         },
@@ -7668,24 +7658,34 @@
          "LatLong": "42.85,25.5833"
         },
         {
+         "Name": "Дъскарите / Duskarite",
+         "PostCode": "5363",
+         "LatLong": "42.8333,25.6"
+        },
+        {
+         "Name": "Армянковци / Armjankovci",
+         "PostCode": "5363",
+         "LatLong": "42.8537,25.5815"
+        },
+        {
+         "Name": "Драндарите / Drandarite",
+         "PostCode": "5363",
+         "LatLong": "42.85,25.6"
+        },
+        {
          "Name": "Маневци / Manevci",
          "PostCode": "5363",
          "LatLong": "42.8667,25.55"
         },
         {
-         "Name": "Иван Димов / Ivan Dimov",
+         "Name": "Димиевци / Dimievci",
          "PostCode": "5363",
-         "LatLong": "42.85,25.5833"
+         "LatLong": "42.8667,25.5833"
         },
         {
          "Name": "Райнушковци / Rajnushkovci",
          "PostCode": "5363",
          "LatLong": "42.8667,25.5667"
-        },
-        {
-         "Name": "Димиевци / Dimievci",
-         "PostCode": "5363",
-         "LatLong": "42.8667,25.5833"
         },
         {
          "Name": "Кръстец / Krustec",
@@ -7698,39 +7698,24 @@
          "LatLong": "42.8167,25.5667"
         },
         {
-         "Name": "Пържиграх / Purzhigrakh",
-         "PostCode": "5365",
-         "LatLong": "42.8667,25.5"
-        },
-        {
-         "Name": "Томчевци / Tomchevci",
-         "PostCode": "5365",
-         "LatLong": "42.9,25.5"
-        },
-        {
-         "Name": "Коевци / Koevci",
-         "PostCode": "5365",
-         "LatLong": "42.8833,25.5833"
-        },
-        {
-         "Name": "Добревци / Dobrevci",
-         "PostCode": "5365",
-         "LatLong": "42.8667,25.5"
-        },
-        {
-         "Name": "Даевци / Daevci",
-         "PostCode": "5365",
-         "LatLong": "42.8833,25.55"
-        },
-        {
-         "Name": "Черновръх / Chernovrukh",
-         "PostCode": "5365",
-         "LatLong": "42.8833,25.5167"
-        },
-        {
          "Name": "Христовци / Khristovci",
          "PostCode": "5365",
          "LatLong": "42.8667,25.5"
+        },
+        {
+         "Name": "Големи Станчовци / Golemi Stanchovci",
+         "PostCode": "5365",
+         "LatLong": "42.9167,25.5333"
+        },
+        {
+         "Name": "Чакалите / Chakalite",
+         "PostCode": "5365",
+         "LatLong": "42.8833,25.5333"
+        },
+        {
+         "Name": "Попрайковци / Poprajkovci",
+         "PostCode": "5365",
+         "LatLong": "42.9,25.5333"
         },
         {
          "Name": "Малки Станчовци / Malki Stanchovci",
@@ -7743,29 +7728,14 @@
          "LatLong": "42.8833,25.55"
         },
         {
-         "Name": "Попрайковци / Poprajkovci",
+         "Name": "Пържиграх / Purzhigrakh",
          "PostCode": "5365",
-         "LatLong": "42.9,25.5333"
+         "LatLong": "42.8667,25.5"
         },
         {
-         "Name": "Големи Станчовци / Golemi Stanchovci",
+         "Name": "Добревци / Dobrevci",
          "PostCode": "5365",
-         "LatLong": "42.9167,25.5333"
-        },
-        {
-         "Name": "Урвата / Urvata",
-         "PostCode": "5365",
-         "LatLong": "42.9,25.5667"
-        },
-        {
-         "Name": "Побък / Pobuk",
-         "PostCode": "5365",
-         "LatLong": "42.8844,25.5311"
-        },
-        {
-         "Name": "Чакалите / Chakalite",
-         "PostCode": "5365",
-         "LatLong": "42.8833,25.5333"
+         "LatLong": "42.8667,25.5"
         },
         {
          "Name": "Велково / Velkovo",
@@ -7773,9 +7743,24 @@
          "LatLong": "42.85,25.5667"
         },
         {
-         "Name": "Владовци / Vladovci",
+         "Name": "Черновръх / Chernovrukh",
          "PostCode": "5365",
-         "LatLong": "42.8844,25.5311"
+         "LatLong": "42.8833,25.5167"
+        },
+        {
+         "Name": "Коевци / Koevci",
+         "PostCode": "5365",
+         "LatLong": "42.8833,25.5833"
+        },
+        {
+         "Name": "Томчевци / Tomchevci",
+         "PostCode": "5365",
+         "LatLong": "42.9,25.5"
+        },
+        {
+         "Name": "Урвата / Urvata",
+         "PostCode": "5365",
+         "LatLong": "42.9,25.5667"
         },
         {
          "Name": "Кисийците / Kisijcite",
@@ -7783,7 +7768,22 @@
          "LatLong": "42.8833,25.5"
         },
         {
+         "Name": "Даевци / Daevci",
+         "PostCode": "5365",
+         "LatLong": "42.8833,25.55"
+        },
+        {
+         "Name": "Побък / Pobuk",
+         "PostCode": "5365",
+         "LatLong": "42.8844,25.5311"
+        },
+        {
          "Name": "Вълковци / Vulkovci",
+         "PostCode": "5365",
+         "LatLong": "42.8844,25.5311"
+        },
+        {
+         "Name": "Владовци / Vladovci",
          "PostCode": "5365",
          "LatLong": "42.8844,25.5311"
         },
@@ -7793,19 +7793,9 @@
          "LatLong": "42.8667,25.5"
         },
         {
-         "Name": "Малчовци / Malchovci",
+         "Name": "Власатили / Vlasatili",
          "PostCode": "5367",
-         "LatLong": "42.85,25.55"
-        },
-        {
-         "Name": "Неновци / Nenovci",
-         "PostCode": "5367",
-         "LatLong": "42.8333,25.5333"
-        },
-        {
-         "Name": "Креслювци / Kresljuvci",
-         "PostCode": "5367",
-         "LatLong": "42.8,25.5333"
+         "LatLong": "42.8167,25.5667"
         },
         {
          "Name": "Гайдари / Gajdari",
@@ -7813,14 +7803,49 @@
          "LatLong": "42.8,25.5833"
         },
         {
-         "Name": "Планинци / Planinci",
+         "Name": "Горяни / Gorjani",
          "PostCode": "5367",
-         "LatLong": "42.8333,25.5333"
+         "LatLong": "42.8333,25.5667"
+        },
+        {
+         "Name": "Малчовци / Malchovci",
+         "PostCode": "5367",
+         "LatLong": "42.85,25.55"
+        },
+        {
+         "Name": "Велчовци / Velchovci",
+         "PostCode": "5367",
+         "LatLong": "42.8,25.5667"
+        },
+        {
+         "Name": "Руевци / Ruevci",
+         "PostCode": "5367",
+         "LatLong": "42.8,25.5333"
         },
         {
          "Name": "Свирци / Svirci",
          "PostCode": "5367",
          "LatLong": "42.8167,25.5667"
+        },
+        {
+         "Name": "Планинци / Planinci",
+         "PostCode": "5367",
+         "LatLong": "42.8333,25.5333"
+        },
+        {
+         "Name": "Иринеци / Irineci",
+         "PostCode": "5367",
+         "LatLong": "42.8167,25.5667"
+        },
+        {
+         "Name": "Фъртуни / Furtuni",
+         "PostCode": "5367",
+         "LatLong": "42.8333,25.5333"
+        },
+        {
+         "Name": "Креслювци / Kresljuvci",
+         "PostCode": "5367",
+         "LatLong": "42.8,25.5333"
         },
         {
          "Name": "Горни Дамяновци / Gorni Damjanovci",
@@ -7833,24 +7858,14 @@
          "LatLong": "42.8333,25.5167"
         },
         {
-         "Name": "Иринеци / Irineci",
+         "Name": "Неновци / Nenovci",
          "PostCode": "5367",
-         "LatLong": "42.8167,25.5667"
-        },
-        {
-         "Name": "Руевци / Ruevci",
-         "PostCode": "5367",
-         "LatLong": "42.8,25.5333"
+         "LatLong": "42.8333,25.5333"
         },
         {
          "Name": "Бахреци / Bakhreci",
          "PostCode": "5367",
          "LatLong": "42.8333,25.5333"
-        },
-        {
-         "Name": "Власатили / Vlasatili",
-         "PostCode": "5367",
-         "LatLong": "42.8167,25.5667"
         },
         {
          "Name": "Радоевци / Radoevci",
@@ -7863,44 +7878,9 @@
          "LatLong": "42.8333,25.5667"
         },
         {
-         "Name": "Фъртуни / Furtuni",
-         "PostCode": "5367",
-         "LatLong": "42.8333,25.5333"
-        },
-        {
-         "Name": "Горяни / Gorjani",
-         "PostCode": "5367",
-         "LatLong": "42.8333,25.5667"
-        },
-        {
-         "Name": "Велчовци / Velchovci",
-         "PostCode": "5367",
-         "LatLong": "42.8,25.5667"
-        },
-        {
          "Name": "Мръзеци / Mruzeci",
          "PostCode": "5368",
          "LatLong": "42.7833,25.55"
-        },
-        {
-         "Name": "Миховци / Mikhovci",
-         "PostCode": "5369",
-         "LatLong": "42.8667,25.5833"
-        },
-        {
-         "Name": "Попгергевци / Popgergevci",
-         "PostCode": "5369",
-         "LatLong": "42.8833,25.5667"
-        },
-        {
-         "Name": "Никачковци / Nikachkovci",
-         "PostCode": "5369",
-         "LatLong": "42.8667,25.5"
-        },
-        {
-         "Name": "Павлевци / Pavlevci",
-         "PostCode": "5369",
-         "LatLong": "42.8833,25.5833"
         },
         {
          "Name": "Фъревци / Furevci",
@@ -7908,7 +7888,7 @@
          "LatLong": "42.8833,25.5833"
         },
         {
-         "Name": "Стръмци / Strumci",
+         "Name": "Павлевци / Pavlevci",
          "PostCode": "5369",
          "LatLong": "42.8833,25.5833"
         },
@@ -7916,6 +7896,26 @@
          "Name": "Стражата / Strazhata",
          "PostCode": "5369",
          "LatLong": "42.9,25.5833"
+        },
+        {
+         "Name": "Стръмци / Strumci",
+         "PostCode": "5369",
+         "LatLong": "42.8833,25.5833"
+        },
+        {
+         "Name": "Попгергевци / Popgergevci",
+         "PostCode": "5369",
+         "LatLong": "42.8833,25.5667"
+        },
+        {
+         "Name": "Миховци / Mikhovci",
+         "PostCode": "5369",
+         "LatLong": "42.8667,25.5833"
+        },
+        {
+         "Name": "Никачковци / Nikachkovci",
+         "PostCode": "5369",
+         "LatLong": "42.8667,25.5"
         },
         {
          "Name": "Станчов хан / Stanchov khan",
@@ -7934,13 +7934,14 @@
        "Code": "GAB35-04",
        "Places": [
         {
+         "Name": "Енчовци / Enchovci",
          "PostCode": "5360",
-         "LatLong": "42.8167,25.4667"
+         "LatLong": "42.8167,25.4333"
         },
         {
-         "Name": "Горни Маренци / Gorni Marenci",
+         "Name": "Колю Ганев / Kolju Ganev",
          "PostCode": "5360",
-         "LatLong": "42.8333,25.4167"
+         "LatLong": "42.8167,25.4667"
         },
         {
          "Name": "Донкино / Donkino",
@@ -7948,19 +7949,9 @@
          "LatLong": "42.8333,25.4833"
         },
         {
-         "Name": "Радино / Radino",
-         "PostCode": "5360",
-         "LatLong": "42.8167,25.4667"
-        },
-        {
          "Name": "Долни Маренци / Dolni Marenci",
          "PostCode": "5360",
          "LatLong": "42.8333,25.4167"
-        },
-        {
-         "Name": "Горни Цоневци / Gorni Conevci",
-         "PostCode": "5360",
-         "LatLong": "42.8,25.45"
         },
         {
          "Name": "Ножерите / Nozherite",
@@ -7968,7 +7959,22 @@
          "LatLong": "42.8167,25.4667"
         },
         {
-         "Name": "Носеите / Noseite",
+         "Name": "Долни Радковци / Dolni Radkovci",
+         "PostCode": "5360",
+         "LatLong": "42.8167,25.35"
+        },
+        {
+         "Name": "Брежниците / Brezhnicite",
+         "PostCode": "5360",
+         "LatLong": "42.8,25.5167"
+        },
+        {
+         "Name": "Маруцековци / Marucekovci",
+         "PostCode": "5360",
+         "LatLong": "42.8167,25.4667"
+        },
+        {
+         "Name": "Радино / Radino",
          "PostCode": "5360",
          "LatLong": "42.8167,25.4667"
         },
@@ -7978,34 +7984,9 @@
          "LatLong": "42.8167,25.4667"
         },
         {
-         "Name": "Енчовци / Enchovci",
-         "PostCode": "5360",
-         "LatLong": "42.8167,25.4333"
-        },
-        {
-         "Name": "Йововци / Jovovci",
-         "PostCode": "5360",
-         "LatLong": "42.8,25.4333"
-        },
-        {
          "Name": "Горни Радковци / Gorni Radkovci",
          "PostCode": "5360",
          "LatLong": "42.8167,25.3333"
-        },
-        {
-         "Name": "Брежниците / Brezhnicite",
-         "PostCode": "5360",
-         "LatLong": "42.8,25.5167"
-        },
-        {
-         "Name": "Колю Ганев / Kolju Ganev",
-         "PostCode": "5360",
-         "LatLong": "42.8167,25.4667"
-        },
-        {
-         "Name": "Долни Радковци / Dolni Radkovci",
-         "PostCode": "5360",
-         "LatLong": "42.8167,25.35"
         },
         {
          "Name": "Сечен камък / Sechen kamuk",
@@ -8018,7 +7999,6 @@
          "LatLong": "42.8333,25.4667"
         },
         {
-         "Name": "Маруцековци / Marucekovci",
          "PostCode": "5360",
          "LatLong": "42.8167,25.4667"
         },
@@ -8026,6 +8006,26 @@
          "Name": "Бърдарите / Burdarite",
          "PostCode": "5360",
          "LatLong": "42.8167,25.4667"
+        },
+        {
+         "Name": "Носеите / Noseite",
+         "PostCode": "5360",
+         "LatLong": "42.8167,25.4667"
+        },
+        {
+         "Name": "Горни Маренци / Gorni Marenci",
+         "PostCode": "5360",
+         "LatLong": "42.8333,25.4167"
+        },
+        {
+         "Name": "Горни Цоневци / Gorni Conevci",
+         "PostCode": "5360",
+         "LatLong": "42.8,25.45"
+        },
+        {
+         "Name": "Йововци / Jovovci",
+         "PostCode": "5360",
+         "LatLong": "42.8,25.4333"
         }
        ]
       }
@@ -8311,9 +8311,9 @@
          "LatLong": "41.3667,26.0333"
         },
         {
-         "Name": "Глумово / Glumovo",
+         "Name": "Карловско / Karlovsko",
          "PostCode": "6949",
-         "LatLong": "41.5333,25.9"
+         "LatLong": "41.5333,25.9333"
         },
         {
          "Name": "Чучулига / Chuchuliga",
@@ -8321,9 +8321,9 @@
          "LatLong": "41.55,25.9167"
         },
         {
-         "Name": "Карловско / Karlovsko",
+         "Name": "Глумово / Glumovo",
          "PostCode": "6949",
-         "LatLong": "41.5333,25.9333"
+         "LatLong": "41.5333,25.9"
         },
         {
          "Name": "Пашкул / Pashkul",
@@ -8401,14 +8401,14 @@
          "LatLong": "41.45,26.15"
         },
         {
-         "Name": "Сив кладенец / Siv kladenec",
-         "PostCode": "6985",
-         "LatLong": "41.4089,26.1594"
-        },
-        {
          "Name": "Горно Луково / Gorno Lukovo",
          "PostCode": "6985",
          "LatLong": "41.3667,26.1"
+        },
+        {
+         "Name": "Сив кладенец / Siv kladenec",
+         "PostCode": "6985",
+         "LatLong": "41.4089,26.1594"
         },
         {
          "Name": "Мандрица / Mandrica",
@@ -8431,14 +8431,14 @@
          "LatLong": "41.4167,25.95"
         },
         {
-         "Name": "Кобилино / Kobilino",
-         "PostCode": "6993",
-         "LatLong": "41.5,26"
-        },
-        {
          "Name": "Костилково / Kostilkovo",
          "PostCode": "6993",
          "LatLong": "41.4167,26.05"
+        },
+        {
+         "Name": "Кобилино / Kobilino",
+         "PostCode": "6993",
+         "LatLong": "41.5,26"
         },
         {
          "Name": "Розино / Rozino",
@@ -8467,11 +8467,6 @@
          "LatLong": "41.3833,25.95"
         },
         {
-         "Name": "Горско / Gorsko",
-         "PostCode": "6990",
-         "LatLong": "41.4167,25.8333"
-        },
-        {
          "Name": "Казак / Kazak",
          "PostCode": "6990",
          "LatLong": "41.4167,25.8833"
@@ -8479,6 +8474,11 @@
         {
          "PostCode": "6990",
          "LatLong": "41.4167,25.9167"
+        },
+        {
+         "Name": "Горско / Gorsko",
+         "PostCode": "6990",
+         "LatLong": "41.4167,25.8333"
         }
        ]
       },
@@ -8557,8 +8557,9 @@
        "Code": "HKV11-07",
        "Places": [
         {
+         "Name": "Ленско / Lensko",
          "PostCode": "6995",
-         "LatLong": "41.4833,25.95"
+         "LatLong": "41.45,25.9667"
         },
         {
          "Name": "Нова ливада / Nova livada",
@@ -8566,9 +8567,8 @@
          "LatLong": "41.5,25.9333"
         },
         {
-         "Name": "Ленско / Lensko",
          "PostCode": "6995",
-         "LatLong": "41.45,25.9667"
+         "LatLong": "41.4833,25.95"
         },
         {
          "Name": "Пъстроок / Pustrook",
@@ -9183,16 +9183,6 @@
      "Code": "HKV30",
      "Communities": [
       {
-       "Name": "Кралево / Kralevo",
-       "Code": "HKV30-25",
-       "Places": [
-        {
-         "PostCode": "6362",
-         "LatLong": "41.7833,25.6833"
-        }
-       ]
-      },
-      {
        "Code": "HKV30-00",
        "Places": [
         {
@@ -9219,6 +9209,16 @@
         {
          "PostCode": "6362",
          "LatLong": "41.7667,25.65"
+        }
+       ]
+      },
+      {
+       "Name": "Кралево / Kralevo",
+       "Code": "HKV30-25",
+       "Places": [
+        {
+         "PostCode": "6362",
+         "LatLong": "41.7833,25.6833"
         }
        ]
       },
@@ -9303,22 +9303,22 @@
        ]
       },
       {
-       "Name": "Долно поле / Dolno pole",
-       "Code": "HKV30-09",
-       "Places": [
-        {
-         "PostCode": "6382",
-         "LatLong": "41.6667,25.75"
-        }
-       ]
-      },
-      {
        "Name": "Воденци / Vodenci",
        "Code": "HKV30-03",
        "Places": [
         {
          "PostCode": "6382",
          "LatLong": "41.6833,25.6833"
+        }
+       ]
+      },
+      {
+       "Name": "Долно поле / Dolno pole",
+       "Code": "HKV30-09",
+       "Places": [
+        {
+         "PostCode": "6382",
+         "LatLong": "41.6667,25.75"
         }
        ]
       },
@@ -9976,8 +9976,8 @@
        ]
       },
       {
-       "Name": "Долно Големанци / Dolno Golemanci",
-       "Code": "HKV34-11",
+       "Name": "Големанци / Golemanci",
+       "Code": "HKV34-06",
        "Places": [
         {
          "PostCode": "6358",
@@ -9986,8 +9986,8 @@
        ]
       },
       {
-       "Name": "Големанци / Golemanci",
-       "Code": "HKV34-06",
+       "Name": "Долно Големанци / Dolno Golemanci",
+       "Code": "HKV34-11",
        "Places": [
         {
          "PostCode": "6358",
@@ -10036,22 +10036,22 @@
        ]
       },
       {
-       "Name": "Текето / Teketo",
-       "Code": "HKV34-32",
-       "Places": [
-        {
-         "PostCode": "6370",
-         "LatLong": "41.85,25.4667"
-        }
-       ]
-      },
-      {
        "Name": "Конуш / Konush",
        "Code": "HKV34-17",
        "Places": [
         {
          "PostCode": "6370",
          "LatLong": "41.8667,25.5167"
+        }
+       ]
+      },
+      {
+       "Name": "Текето / Teketo",
+       "Code": "HKV34-32",
+       "Places": [
+        {
+         "PostCode": "6370",
+         "LatLong": "41.85,25.4667"
         }
        ]
       },
@@ -10070,13 +10070,13 @@
        "Code": "HKV34-19",
        "Places": [
         {
-         "PostCode": "6387",
-         "LatLong": "41.8333,25.7167"
-        },
-        {
          "Name": "Момино / Momino",
          "PostCode": "6387",
          "LatLong": "41.85,25.7333"
+        },
+        {
+         "PostCode": "6387",
+         "LatLong": "41.8333,25.7167"
         }
        ]
       },
@@ -11440,14 +11440,14 @@
          "LatLong": "42.3292,22.565"
         },
         {
-         "Name": "Радловци / Radlovci",
-         "PostCode": "2548",
-         "LatLong": "42.3144,22.6364"
-        },
-        {
          "Name": "Блатец / Blatec",
          "PostCode": "2548",
          "LatLong": "42.3161,22.6033"
+        },
+        {
+         "Name": "Радловци / Radlovci",
+         "PostCode": "2548",
+         "LatLong": "42.3144,22.6364"
         },
         {
          "Name": "Мазарачево / Mazarachevo",
@@ -11480,11 +11480,6 @@
          "LatLong": "42.4517,22.5728"
         },
         {
-         "Name": "Ломница / Lomnica",
-         "PostCode": "2562",
-         "LatLong": "42.3778,22.5492"
-        },
-        {
          "Name": "Режинци / Rezhinci",
          "PostCode": "2562",
          "LatLong": "42.3944,22.5547"
@@ -11498,6 +11493,11 @@
          "Name": "Чудинци / Chudinci",
          "PostCode": "2562",
          "LatLong": "42.3875,22.5"
+        },
+        {
+         "Name": "Ломница / Lomnica",
+         "PostCode": "2562",
+         "LatLong": "42.3778,22.5492"
         },
         {
          "Name": "Кършалево / Kurshalevo",
@@ -11525,29 +11525,9 @@
          "LatLong": "42.3,22.5167"
         },
         {
-         "Name": "Церовица / Cerovica",
+         "Name": "Кутугерци / Kutugerci",
          "PostCode": "2567",
-         "LatLong": "42.3483,22.5303"
-        },
-        {
-         "Name": "Долно село / Dolno selo",
-         "PostCode": "2567",
-         "LatLong": "42.3025,22.4872"
-        },
-        {
-         "Name": "Бобешино / Bobeshino",
-         "PostCode": "2567",
-         "LatLong": "42.3144,22.4225"
-        },
-        {
-         "Name": "Леска / Leska",
-         "PostCode": "2567",
-         "LatLong": "42.3131,22.5228"
-        },
-        {
-         "Name": "Цървендол / Curvendol",
-         "PostCode": "2567",
-         "LatLong": "42.2797,22.4486"
+         "LatLong": "42.3242,22.4883"
         },
         {
          "Name": "Гурбановци / Gurbanovci",
@@ -11555,24 +11535,44 @@
          "LatLong": "42.3561,22.4714"
         },
         {
+         "Name": "Долно село / Dolno selo",
+         "PostCode": "2567",
+         "LatLong": "42.3025,22.4872"
+        },
+        {
+         "Name": "Цървендол / Curvendol",
+         "PostCode": "2567",
+         "LatLong": "42.2797,22.4486"
+        },
+        {
          "Name": "Коприва / Kopriva",
          "PostCode": "2567",
          "LatLong": "42.2919,22.4153"
         },
         {
-         "Name": "Кутугерци / Kutugerci",
+         "Name": "Леска / Leska",
          "PostCode": "2567",
-         "LatLong": "42.3242,22.4883"
+         "LatLong": "42.3131,22.5228"
         },
         {
-         "Name": "Ръсово / Rusovo",
-         "PostCode": "2568",
-         "LatLong": "42.2817,22.525"
+         "Name": "Церовица / Cerovica",
+         "PostCode": "2567",
+         "LatLong": "42.3483,22.5303"
+        },
+        {
+         "Name": "Бобешино / Bobeshino",
+         "PostCode": "2567",
+         "LatLong": "42.3144,22.4225"
         },
         {
          "Name": "Гърляно / Gurljano",
          "PostCode": "2568",
          "LatLong": "42.2497,22.5694"
+        },
+        {
+         "Name": "Ръсово / Rusovo",
+         "PostCode": "2568",
+         "LatLong": "42.2817,22.525"
         },
         {
          "Name": "Раненци / Ranenci",
@@ -11605,14 +11605,14 @@
          "LatLong": "42.1333,22.5833"
         },
         {
-         "Name": "Цървена ябълка / Curvena jabulka",
-         "PostCode": "2576",
-         "LatLong": "42.1439,22.6139"
-        },
-        {
          "Name": "Савойски / Savojski",
          "PostCode": "2576",
          "LatLong": "42.1425,22.6417"
+        },
+        {
+         "Name": "Цървена ябълка / Curvena jabulka",
+         "PostCode": "2576",
+         "LatLong": "42.1439,22.6139"
         },
         {
          "Name": "Търсино / Tursino",
@@ -11851,14 +11851,14 @@
        "Code": "KNL31-00",
        "Places": [
         {
-         "Name": "Раково / Rakovo",
-         "PostCode": "2577",
-         "LatLong": "42.0886,22.7194"
-        },
-        {
          "Name": "Чеканец / Chekanec",
          "PostCode": "2577",
          "LatLong": "42.11,22.6289"
+        },
+        {
+         "Name": "Раково / Rakovo",
+         "PostCode": "2577",
+         "LatLong": "42.0886,22.7194"
         },
         {
          "Name": "Рашка Гращица / Rashka Grashhica",
@@ -11881,12 +11881,12 @@
          "LatLong": "42.0714,22.7928"
         },
         {
-         "Name": "Пелатиково / Pelatikovo",
+         "Name": "Длъхчево-Сабляр / Dlukhchevo-Sabljar",
          "PostCode": "2582",
          "LatLong": "42.1767,22.7736"
         },
         {
-         "Name": "Длъхчево-Сабляр / Dlukhchevo-Sabljar",
+         "Name": "Пелатиково / Pelatikovo",
          "PostCode": "2582",
          "LatLong": "42.1767,22.7736"
         },
@@ -12215,14 +12215,14 @@
        "Code": "KNL50-00",
        "Places": [
         {
-         "Name": "Драгойчинци / Dragojchinci",
-         "PostCode": "2554",
-         "LatLong": "42.6167,22.5"
-        },
-        {
          "Name": "Побит камък / Pobit kamuk",
          "PostCode": "2554",
          "LatLong": "42.5972,22.4547"
+        },
+        {
+         "Name": "Драгойчинци / Dragojchinci",
+         "PostCode": "2554",
+         "LatLong": "42.6167,22.5"
         },
         {
          "Name": "Бъзовица / Buzovica",
@@ -12235,19 +12235,9 @@
          "LatLong": "42.5575,22.5644"
         },
         {
-         "Name": "Долно Кобиле / Dolno Kobile",
+         "Name": "Киселица / Kiselica",
          "PostCode": "2556",
-         "LatLong": "42.55,22.5319"
-        },
-        {
-         "Name": "Чешлянци / Cheshljanci",
-         "PostCode": "2556",
-         "LatLong": "42.5744,22.5306"
-        },
-        {
-         "Name": "Метохия / Metokhija",
-         "PostCode": "2556",
-         "LatLong": "42.5758,22.4828"
+         "LatLong": "42.5486,22.5103"
         },
         {
          "Name": "Горно Кобиле / Gorno Kobile",
@@ -12255,19 +12245,19 @@
          "LatLong": "42.5667,22.5167"
         },
         {
-         "Name": "Киселица / Kiselica",
+         "Name": "Долно Кобиле / Dolno Kobile",
          "PostCode": "2556",
-         "LatLong": "42.5486,22.5103"
+         "LatLong": "42.55,22.5319"
         },
         {
-         "Name": "Горни Коритен / Gorni Koriten",
-         "PostCode": "2557",
-         "LatLong": "42.5047,22.5722"
+         "Name": "Метохия / Metokhija",
+         "PostCode": "2556",
+         "LatLong": "42.5758,22.4828"
         },
         {
-         "Name": "Трекляно / Trekljano",
-         "PostCode": "2557",
-         "LatLong": "42.5558,22.5928"
+         "Name": "Чешлянци / Cheshljanci",
+         "PostCode": "2556",
+         "LatLong": "42.5744,22.5306"
         },
         {
          "Name": "Габрешевци / Gabreshevci",
@@ -12275,14 +12265,24 @@
          "LatLong": "42.5275,22.6397"
         },
         {
-         "Name": "Уши / Ushi",
+         "Name": "Горни Коритен / Gorni Koriten",
          "PostCode": "2557",
-         "LatLong": "42.5256,22.5617"
+         "LatLong": "42.5047,22.5722"
         },
         {
          "Name": "Косово / Kosovo",
          "PostCode": "2557",
          "LatLong": "42.5947,22.5803"
+        },
+        {
+         "Name": "Уши / Ushi",
+         "PostCode": "2557",
+         "LatLong": "42.5256,22.5617"
+        },
+        {
+         "Name": "Трекляно / Trekljano",
+         "PostCode": "2557",
+         "LatLong": "42.5558,22.5928"
         },
         {
          "Name": "Долни Коритен / Dolni Koriten",
@@ -12295,14 +12295,14 @@
          "LatLong": "42.4883,22.6361"
         },
         {
-         "Name": "Брест / Brest",
-         "PostCode": "2558",
-         "LatLong": "42.4642,22.6025"
-        },
-        {
          "Name": "Злогош / Zlogosh",
          "PostCode": "2558",
          "LatLong": "42.4553,22.6383"
+        },
+        {
+         "Name": "Брест / Brest",
+         "PostCode": "2558",
+         "LatLong": "42.4642,22.6025"
         },
         {
          "Name": "Добри дол / Dobri dol",
@@ -12724,13 +12724,13 @@
        "Code": "KRZ08-09",
        "Places": [
         {
-         "PostCode": "6840",
-         "LatLong": "41.5167,25.25"
-        },
-        {
          "Name": "Модрен / Modren",
          "PostCode": "6840",
          "LatLong": "41.55,25.25"
+        },
+        {
+         "PostCode": "6840",
+         "LatLong": "41.5167,25.25"
         },
         {
          "Name": "Сипец / Sipec",
@@ -12763,14 +12763,14 @@
        "Code": "KRZ08-00",
        "Places": [
         {
-         "Name": "Жълтика / Zhultika",
-         "PostCode": "6842",
-         "LatLong": "41.5167,25.1833"
-        },
-        {
          "Name": "Щерна / Shherna",
          "PostCode": "6842",
          "LatLong": "41.5167,25.2167"
+        },
+        {
+         "Name": "Жълтика / Zhultika",
+         "PostCode": "6842",
+         "LatLong": "41.5167,25.1833"
         },
         {
          "Name": "Търновци / Turnovci",
@@ -12788,19 +12788,9 @@
          "LatLong": "41.45,25.2833"
         },
         {
-         "Name": "Албанци / Albanci",
-         "PostCode": "6850",
-         "LatLong": "41.5,25.2667"
-        },
-        {
          "Name": "Джебел / Dzhebel",
          "PostCode": "6850",
          "LatLong": "41.5,25.3"
-        },
-        {
-         "Name": "Казаците / Kazacite",
-         "PostCode": "6850",
-         "LatLong": "41.4667,25.2833"
         },
         {
          "Name": "Телчарка / Telcharka",
@@ -12811,6 +12801,16 @@
          "Name": "Брежана / Brezhana",
          "PostCode": "6850",
          "LatLong": "41.5095,25.2976"
+        },
+        {
+         "Name": "Казаците / Kazacite",
+         "PostCode": "6850",
+         "LatLong": "41.4667,25.2833"
+        },
+        {
+         "Name": "Албанци / Albanci",
+         "PostCode": "6850",
+         "LatLong": "41.5,25.2667"
         }
        ]
       },
@@ -12823,14 +12823,14 @@
          "LatLong": "41.45,25.35"
         },
         {
-         "Name": "Илийско / Ilijsko",
-         "PostCode": "6845",
-         "LatLong": "41.45,25.3333"
-        },
-        {
          "Name": "Рогозари / Rogozari",
          "PostCode": "6845",
          "LatLong": "41.4667,25.35"
+        },
+        {
+         "Name": "Илийско / Ilijsko",
+         "PostCode": "6845",
+         "LatLong": "41.45,25.3333"
         }
        ]
       },
@@ -12839,13 +12839,13 @@
        "Code": "KRZ08-15",
        "Places": [
         {
-         "PostCode": "6845",
-         "LatLong": "41.4667,25.2667"
-        },
-        {
          "Name": "Мрежичко / Mrezhichko",
          "PostCode": "6845",
          "LatLong": "41.4667,25.2833"
+        },
+        {
+         "PostCode": "6845",
+         "LatLong": "41.4667,25.2667"
         },
         {
          "Name": "Овчево / Ovchevo",
@@ -12864,13 +12864,13 @@
        "Code": "KRZ08-05",
        "Places": [
         {
+         "PostCode": "6846",
+         "LatLong": "41.4667,25.3"
+        },
+        {
          "Name": "Жълти рид / Zhulti rid",
          "PostCode": "6846",
          "LatLong": "41.4667,25.3333"
-        },
-        {
-         "PostCode": "6846",
-         "LatLong": "41.4667,25.3"
         },
         {
          "Name": "Полянец / Poljanec",
@@ -12886,51 +12886,6 @@
         {
          "PostCode": "6849",
          "LatLong": "41.4333,25.2833"
-        }
-       ]
-      },
-      {
-       "Name": "Плазище / Plazishhe",
-       "Code": "KRZ08-11",
-       "Places": [
-        {
-         "Name": "Вълкович / Vulkovich",
-         "PostCode": "6850",
-         "LatLong": "41.5167,25.3167"
-        },
-        {
-         "Name": "Цвятово / Cvjatovo",
-         "PostCode": "6850",
-         "LatLong": "41.5333,25.2833"
-        },
-        {
-         "Name": "Каменяне / Kamenjane",
-         "PostCode": "6850",
-         "LatLong": "41.5333,25.3"
-        },
-        {
-         "PostCode": "6850",
-         "LatLong": "41.5095,25.2976"
-        },
-        {
-         "Name": "Софийци / Sofijci",
-         "PostCode": "6850",
-         "LatLong": "41.5095,25.2976"
-        }
-       ]
-      },
-      {
-       "Name": "Чакалци / Chakalci",
-       "Code": "KRZ08-21",
-       "Places": [
-        {
-         "Name": "Подвръх / Podvrukh",
-         "PostCode": "6850",
-         "LatLong": "41.5,25.3"
-        },
-        {
-         "PostCode": "6850",
-         "LatLong": "41.5,25.3333"
         }
        ]
       },
@@ -12956,6 +12911,51 @@
         {
          "PostCode": "6850",
          "LatLong": "41.4833,25.3667"
+        }
+       ]
+      },
+      {
+       "Name": "Чакалци / Chakalci",
+       "Code": "KRZ08-21",
+       "Places": [
+        {
+         "PostCode": "6850",
+         "LatLong": "41.5,25.3333"
+        },
+        {
+         "Name": "Подвръх / Podvrukh",
+         "PostCode": "6850",
+         "LatLong": "41.5,25.3"
+        }
+       ]
+      },
+      {
+       "Name": "Плазище / Plazishhe",
+       "Code": "KRZ08-11",
+       "Places": [
+        {
+         "Name": "Вълкович / Vulkovich",
+         "PostCode": "6850",
+         "LatLong": "41.5167,25.3167"
+        },
+        {
+         "PostCode": "6850",
+         "LatLong": "41.5095,25.2976"
+        },
+        {
+         "Name": "Цвятово / Cvjatovo",
+         "PostCode": "6850",
+         "LatLong": "41.5333,25.2833"
+        },
+        {
+         "Name": "Каменяне / Kamenjane",
+         "PostCode": "6850",
+         "LatLong": "41.5333,25.3"
+        },
+        {
+         "Name": "Софийци / Sofijci",
+         "PostCode": "6850",
+         "LatLong": "41.5095,25.2976"
         }
        ]
       },
@@ -13069,9 +13069,9 @@
          "LatLong": "41.3389,25.3278"
         },
         {
-         "Name": "Средско / Sredsko",
+         "Name": "Светлен / Svetlen",
          "PostCode": "6890",
-         "LatLong": "41.35,25.4833"
+         "LatLong": "41.4167,25.4167"
         },
         {
          "Name": "Метличка / Metlichka",
@@ -13079,9 +13079,9 @@
          "LatLong": "41.4333,25.45"
         },
         {
-         "Name": "Светлен / Svetlen",
+         "Name": "Средско / Sredsko",
          "PostCode": "6890",
-         "LatLong": "41.4167,25.4167"
+         "LatLong": "41.35,25.4833"
         },
         {
          "Name": "Царино / Carino",
@@ -13120,13 +13120,13 @@
          "LatLong": "41.3833,25.2667"
         },
         {
-         "PostCode": "6861",
-         "LatLong": "41.3833,25.2167"
-        },
-        {
          "Name": "Здравчец / Zdravchec",
          "PostCode": "6861",
          "LatLong": "41.4,25.2167"
+        },
+        {
+         "PostCode": "6861",
+         "LatLong": "41.3833,25.2167"
         }
        ]
       },
@@ -13151,6 +13151,71 @@
        ]
       },
       {
+       "Name": "Бенковски / Benkovski",
+       "Code": "KRZ14-02",
+       "Places": [
+        {
+         "PostCode": "6865",
+         "LatLong": "41.3833,25.2667"
+        }
+       ]
+      },
+      {
+       "Name": "Загорски / Zagorski",
+       "Code": "KRZ14-16",
+       "Places": [
+        {
+         "Name": "Първенци / Purvenci",
+         "PostCode": "6865",
+         "LatLong": "41.4167,25.2333"
+        },
+        {
+         "PostCode": "6865",
+         "LatLong": "41.4,25.2333"
+        },
+        {
+         "Name": "Шипок / Shipok",
+         "PostCode": "6865",
+         "LatLong": "41.4333,25.2167"
+        }
+       ]
+      },
+      {
+       "Name": "Медевци / Medevci",
+       "Code": "KRZ14-25",
+       "Places": [
+        {
+         "PostCode": "6865",
+         "LatLong": "41.3833,25.3167"
+        },
+        {
+         "Name": "Янино / Janino",
+         "PostCode": "6865",
+         "LatLong": "41.3833,25.3"
+        },
+        {
+         "Name": "Дрянова глава / Drjanova glava",
+         "PostCode": "6865",
+         "LatLong": "41.3667,25.3"
+        },
+        {
+         "Name": "Еровете / Erovete",
+         "PostCode": "6865",
+         "LatLong": "41.3667,25.2833"
+        }
+       ]
+      },
+      {
+       "Name": "Растник / Rastnik",
+       "Code": "KRZ14-33",
+       "Places": [
+        {
+         "PostCode": "6865",
+         "LatLong": "41.4,25.2833"
+        }
+       ]
+      },
+      {
        "Name": "Мъглене / Muglene",
        "Code": "KRZ14-27",
        "Places": [
@@ -13162,71 +13227,6 @@
          "Name": "Козлево / Kozlevo",
          "PostCode": "6865",
          "LatLong": "41.4167,25.2333"
-        }
-       ]
-      },
-      {
-       "Name": "Загорски / Zagorski",
-       "Code": "KRZ14-16",
-       "Places": [
-        {
-         "PostCode": "6865",
-         "LatLong": "41.4,25.2333"
-        },
-        {
-         "Name": "Шипок / Shipok",
-         "PostCode": "6865",
-         "LatLong": "41.4333,25.2167"
-        },
-        {
-         "Name": "Първенци / Purvenci",
-         "PostCode": "6865",
-         "LatLong": "41.4167,25.2333"
-        }
-       ]
-      },
-      {
-       "Name": "Медевци / Medevci",
-       "Code": "KRZ14-25",
-       "Places": [
-        {
-         "Name": "Еровете / Erovete",
-         "PostCode": "6865",
-         "LatLong": "41.3667,25.2833"
-        },
-        {
-         "Name": "Дрянова глава / Drjanova glava",
-         "PostCode": "6865",
-         "LatLong": "41.3667,25.3"
-        },
-        {
-         "PostCode": "6865",
-         "LatLong": "41.3833,25.3167"
-        },
-        {
-         "Name": "Янино / Janino",
-         "PostCode": "6865",
-         "LatLong": "41.3833,25.3"
-        }
-       ]
-      },
-      {
-       "Name": "Бенковски / Benkovski",
-       "Code": "KRZ14-02",
-       "Places": [
-        {
-         "PostCode": "6865",
-         "LatLong": "41.3833,25.2667"
-        }
-       ]
-      },
-      {
-       "Name": "Растник / Rastnik",
-       "Code": "KRZ14-33",
-       "Places": [
-        {
-         "PostCode": "6865",
-         "LatLong": "41.4,25.2833"
         }
        ]
       },
@@ -13252,6 +13252,16 @@
         {
          "PostCode": "6869",
          "LatLong": "41.35,25.2833"
+        }
+       ]
+      },
+      {
+       "Name": "Долно Къпиново / Dolno Kupinovo",
+       "Code": "KRZ14-11",
+       "Places": [
+        {
+         "PostCode": "6870",
+         "LatLong": "41.3,25.2833"
         }
        ]
       },
@@ -13286,22 +13296,22 @@
        ]
       },
       {
-       "Name": "Долно Къпиново / Dolno Kupinovo",
-       "Code": "KRZ14-11",
-       "Places": [
-        {
-         "PostCode": "6870",
-         "LatLong": "41.3,25.2833"
-        }
-       ]
-      },
-      {
        "Name": "Горно Къпиново / Gorno Kupinovo",
        "Code": "KRZ14-04",
        "Places": [
         {
          "PostCode": "6871",
          "LatLong": "41.2667,25.2667"
+        }
+       ]
+      },
+      {
+       "Name": "Стоманци / Stomanci",
+       "Code": "KRZ14-38",
+       "Places": [
+        {
+         "PostCode": "6873",
+         "LatLong": "41.3667,25.35"
         }
        ]
       },
@@ -13337,16 +13347,6 @@
          "Name": "Метличина / Metlichina",
          "PostCode": "6873",
          "LatLong": "41.4,25.35"
-        }
-       ]
-      },
-      {
-       "Name": "Стоманци / Stomanci",
-       "Code": "KRZ14-38",
-       "Places": [
-        {
-         "PostCode": "6873",
-         "LatLong": "41.3667,25.35"
         }
        ]
       },
@@ -13500,14 +13500,14 @@
        "Code": "KRZ14-35",
        "Places": [
         {
-         "Name": "Чавка / Chavka",
-         "PostCode": "6890",
-         "LatLong": "41.4167,25.45"
-        },
-        {
          "Name": "Секирка / Sekirka",
          "PostCode": "6890",
          "LatLong": "41.3833,25.4"
+        },
+        {
+         "Name": "Чавка / Chavka",
+         "PostCode": "6890",
+         "LatLong": "41.4167,25.45"
         },
         {
          "PostCode": "6897",
@@ -13566,6 +13566,26 @@
        ]
       },
       {
+       "Name": "Кукуряк / Kukurjak",
+       "Code": "KRZ14-21",
+       "Places": [
+        {
+         "PostCode": "6898",
+         "LatLong": "41.3333,25.4667"
+        }
+       ]
+      },
+      {
+       "Name": "Кран / Kran",
+       "Code": "KRZ14-19",
+       "Places": [
+        {
+         "PostCode": "6898",
+         "LatLong": "41.3333,25.4833"
+        }
+       ]
+      },
+      {
        "Name": "Малкоч / Malkoch",
        "Code": "KRZ14-24",
        "Places": [
@@ -13582,26 +13602,6 @@
         {
          "PostCode": "6898",
          "LatLong": "41.3,25.5"
-        }
-       ]
-      },
-      {
-       "Name": "Кран / Kran",
-       "Code": "KRZ14-19",
-       "Places": [
-        {
-         "PostCode": "6898",
-         "LatLong": "41.3333,25.4833"
-        }
-       ]
-      },
-      {
-       "Name": "Кукуряк / Kukurjak",
-       "Code": "KRZ14-21",
-       "Places": [
-        {
-         "PostCode": "6898",
-         "LatLong": "41.3333,25.4667"
         }
        ]
       },
@@ -13660,14 +13660,14 @@
          "LatLong": "41.4167,25.4833"
         },
         {
-         "Name": "Горни Юруци / Gorni Juruci",
-         "PostCode": "6954",
-         "LatLong": "41.35,25.9167"
-        },
-        {
          "Name": "Стражец / Strazhec",
          "PostCode": "6954",
          "LatLong": "41.3833,25.8833"
+        },
+        {
+         "Name": "Горни Юруци / Gorni Juruci",
+         "PostCode": "6954",
+         "LatLong": "41.35,25.9167"
         },
         {
          "Name": "Благун / Blagun",
@@ -13837,16 +13837,6 @@
        ]
       },
       {
-       "Name": "Къклица / Kuklica",
-       "Code": "KRZ15-22",
-       "Places": [
-        {
-         "PostCode": "6927",
-         "LatLong": "41.4167,25.75"
-        }
-       ]
-      },
-      {
        "Name": "Малко Каменяне / Malko Kamenjane",
        "Code": "KRZ15-26",
        "Places": [
@@ -13868,6 +13858,16 @@
         {
          "PostCode": "6950",
          "LatLong": "41.3833,25.7667"
+        }
+       ]
+      },
+      {
+       "Name": "Къклица / Kuklica",
+       "Code": "KRZ15-22",
+       "Places": [
+        {
+         "PostCode": "6927",
+         "LatLong": "41.4167,25.75"
         }
        ]
       },
@@ -13895,14 +13895,14 @@
          "LatLong": "41.6333,25.7667"
         },
         {
-         "Name": "Орешари / Oreshari",
-         "PostCode": "6929",
-         "LatLong": "41.6,25.75"
-        },
-        {
          "Name": "Бряговец / Brjagovec",
          "PostCode": "6929",
          "LatLong": "41.65,25.8"
+        },
+        {
+         "Name": "Орешари / Oreshari",
+         "PostCode": "6929",
+         "LatLong": "41.6,25.75"
         },
         {
          "Name": "Котлари / Kotlari",
@@ -14191,11 +14191,6 @@
        "Code": "KRZ15-10",
        "Places": [
         {
-         "Name": "Зиморница / Zimornica",
-         "PostCode": "6965",
-         "LatLong": "41.35,25.4833"
-        },
-        {
          "PostCode": "6965",
          "LatLong": "41.3667,25.5"
         },
@@ -14203,6 +14198,11 @@
          "Name": "Раличево / Ralichevo",
          "PostCode": "6965",
          "LatLong": "41.3833,25.5"
+        },
+        {
+         "Name": "Зиморница / Zimornica",
+         "PostCode": "6965",
+         "LatLong": "41.35,25.4833"
         }
        ]
       },
@@ -14527,11 +14527,11 @@
          "LatLong": "41.6,25.45"
         },
         {
-         "Name": "Зорница / Zornica",
          "PostCode": "6650",
          "LatLong": "41.6333,25.4667"
         },
         {
+         "Name": "Зорница / Zornica",
          "PostCode": "6650",
          "LatLong": "41.6333,25.4667"
         }
@@ -14742,9 +14742,8 @@
        "Code": "KRZ16-13",
        "Places": [
         {
-         "Name": "Сватбаре / Svatbare",
          "PostCode": "6675",
-         "LatLong": "41.6667,25.5333"
+         "LatLong": "41.6667,25.55"
         },
         {
          "Name": "Гняздово / Gnjazdovo",
@@ -14752,8 +14751,9 @@
          "LatLong": "41.65,25.55"
         },
         {
+         "Name": "Сватбаре / Svatbare",
          "PostCode": "6675",
-         "LatLong": "41.6667,25.55"
+         "LatLong": "41.6667,25.5333"
         }
        ]
       },
@@ -14906,14 +14906,14 @@
          "LatLong": "41.6,25.2833"
         },
         {
-         "Name": "Яребица / Jarebica",
-         "PostCode": "6732",
-         "LatLong": "41.6167,25.2667"
-        },
-        {
          "Name": "Звъника / Zvunika",
          "PostCode": "6732",
          "LatLong": "41.6,25.2667"
+        },
+        {
+         "Name": "Яребица / Jarebica",
+         "PostCode": "6732",
+         "LatLong": "41.6167,25.2667"
         },
         {
          "Name": "Кокошане / Kokoshane",
@@ -14993,6 +14993,36 @@
        ]
       },
       {
+       "Name": "Костино / Kostino",
+       "Code": "KRZ16-16",
+       "Places": [
+        {
+         "PostCode": "6743",
+         "LatLong": "41.7,25.3"
+        },
+        {
+         "Name": "Звънче / Zvunche",
+         "PostCode": "6744",
+         "LatLong": "41.7,25.3"
+        },
+        {
+         "Name": "Крушевска / Krushevska",
+         "PostCode": "6744",
+         "LatLong": "41.7167,25.3167"
+        },
+        {
+         "Name": "Чеганци / Cheganci",
+         "PostCode": "6744",
+         "LatLong": "41.7167,25.3"
+        },
+        {
+         "Name": "Божак / Bozhak",
+         "PostCode": "6744",
+         "LatLong": "41.7,25.2833"
+        }
+       ]
+      },
+      {
        "Name": "Голяма бара / Goljama bara",
        "Code": "KRZ16-42",
        "Places": [
@@ -15016,44 +15046,14 @@
          "LatLong": "41.7167,25.2667"
         },
         {
-         "Name": "Върбенци / Vurbenci",
-         "PostCode": "6745",
-         "LatLong": "41.7333,25.2833"
-        },
-        {
          "Name": "Мартино / Martino",
          "PostCode": "6745",
          "LatLong": "41.7167,25.2667"
-        }
-       ]
-      },
-      {
-       "Name": "Костино / Kostino",
-       "Code": "KRZ16-16",
-       "Places": [
-        {
-         "PostCode": "6743",
-         "LatLong": "41.7,25.3"
         },
         {
-         "Name": "Звънче / Zvunche",
-         "PostCode": "6744",
-         "LatLong": "41.7,25.3"
-        },
-        {
-         "Name": "Чеганци / Cheganci",
-         "PostCode": "6744",
-         "LatLong": "41.7167,25.3"
-        },
-        {
-         "Name": "Божак / Bozhak",
-         "PostCode": "6744",
-         "LatLong": "41.7,25.2833"
-        },
-        {
-         "Name": "Крушевска / Krushevska",
-         "PostCode": "6744",
-         "LatLong": "41.7167,25.3167"
+         "Name": "Върбенци / Vurbenci",
+         "PostCode": "6745",
+         "LatLong": "41.7333,25.2833"
         }
        ]
       },
@@ -15071,12 +15071,12 @@
          "LatLong": "41.6833,25.3167"
         },
         {
-         "Name": "Багра / Bagra",
+         "Name": "Зайчино / Zajchino",
          "PostCode": "6749",
          "LatLong": "41.7,25.3167"
         },
         {
-         "Name": "Зайчино / Zajchino",
+         "Name": "Багра / Bagra",
          "PostCode": "6749",
          "LatLong": "41.7,25.3167"
         }
@@ -15104,87 +15104,12 @@
        ]
       },
       {
-       "Name": "Чуково / Chukovo",
-       "Code": "KRZ21-26",
-       "Places": [
-        {
-         "Name": "Юнаци / Junaci",
-         "PostCode": "6800",
-         "LatLong": "41.4667,25.45"
-        },
-        {
-         "PostCode": "6818",
-         "LatLong": "41.4833,25.4333"
-        }
-       ]
-      },
-      {
-       "Name": "Врело / Vrelo",
-       "Code": "KRZ21-04",
-       "Places": [
-        {
-         "Name": "Плешинци / Pleshinci",
-         "PostCode": "6800",
-         "LatLong": "41.5333,25.4667"
-        },
-        {
-         "Name": "Манчево / Manchevo",
-         "PostCode": "6800",
-         "LatLong": "41.55,25.45"
-        },
-        {
-         "PostCode": "6832",
-         "LatLong": "41.5333,25.5"
-        }
-       ]
-      },
-      {
-       "Name": "Груево / Gruevo",
-       "Code": "KRZ21-06",
-       "Places": [
-        {
-         "Name": "Чомаково / Chomakovo",
-         "PostCode": "6800",
-         "LatLong": "41.5833,25.4667"
-        },
-        {
-         "Name": "Свобода / Svoboda",
-         "PostCode": "6800",
-         "LatLong": "41.4986,25.4389"
-        },
-        {
-         "PostCode": "6809",
-         "LatLong": "41.5667,25.4167"
-        },
-        {
-         "Name": "Летовник / Letovnik",
-         "PostCode": "6810",
-         "LatLong": "41.5833,25.4333"
-        }
-       ]
-      },
-      {
        "Name": "Седлари / Sedlari",
        "Code": "KRZ21-21",
        "Places": [
         {
          "PostCode": "6800",
          "LatLong": "41.5167,25.3833"
-        }
-       ]
-      },
-      {
-       "Name": "Багрянка / Bagrjanka",
-       "Code": "KRZ21-01",
-       "Places": [
-        {
-         "Name": "Прогрес / Progres",
-         "PostCode": "6800",
-         "LatLong": "41.4986,25.4389"
-        },
-        {
-         "PostCode": "6819",
-         "LatLong": "41.5,25.4333"
         }
        ]
       },
@@ -15219,17 +15144,77 @@
        ]
       },
       {
-       "Code": "KRZ21-00",
+       "Name": "Багрянка / Bagrjanka",
+       "Code": "KRZ21-01",
        "Places": [
         {
-         "Name": "Горско Дюлево / Gorsko Djulevo",
+         "Name": "Прогрес / Progres",
          "PostCode": "6800",
-         "LatLong": "41.45,25.4167"
+         "LatLong": "41.4986,25.4389"
         },
+        {
+         "PostCode": "6819",
+         "LatLong": "41.5,25.4333"
+        }
+       ]
+      },
+      {
+       "Name": "Груево / Gruevo",
+       "Code": "KRZ21-06",
+       "Places": [
+        {
+         "Name": "Чомаково / Chomakovo",
+         "PostCode": "6800",
+         "LatLong": "41.5833,25.4667"
+        },
+        {
+         "Name": "Свобода / Svoboda",
+         "PostCode": "6800",
+         "LatLong": "41.4986,25.4389"
+        },
+        {
+         "PostCode": "6809",
+         "LatLong": "41.5667,25.4167"
+        },
+        {
+         "Name": "Летовник / Letovnik",
+         "PostCode": "6810",
+         "LatLong": "41.5833,25.4333"
+        }
+       ]
+      },
+      {
+       "Name": "Врело / Vrelo",
+       "Code": "KRZ21-04",
+       "Places": [
+        {
+         "Name": "Манчево / Manchevo",
+         "PostCode": "6800",
+         "LatLong": "41.55,25.45"
+        },
+        {
+         "Name": "Плешинци / Pleshinci",
+         "PostCode": "6800",
+         "LatLong": "41.5333,25.4667"
+        },
+        {
+         "PostCode": "6832",
+         "LatLong": "41.5333,25.5"
+        }
+       ]
+      },
+      {
+       "Code": "KRZ21-00",
+       "Places": [
         {
          "Name": "Сярци / Sjarci",
          "PostCode": "6800",
          "LatLong": "41.55,25.35"
+        },
+        {
+         "Name": "Горско Дюлево / Gorsko Djulevo",
+         "PostCode": "6800",
+         "LatLong": "41.45,25.4167"
         },
         {
          "Name": "Момчилград / Momchilgrad",
@@ -15269,6 +15254,21 @@
        ]
       },
       {
+       "Name": "Чуково / Chukovo",
+       "Code": "KRZ21-26",
+       "Places": [
+        {
+         "Name": "Юнаци / Junaci",
+         "PostCode": "6800",
+         "LatLong": "41.4667,25.45"
+        },
+        {
+         "PostCode": "6818",
+         "LatLong": "41.4833,25.4333"
+        }
+       ]
+      },
+      {
        "Name": "Птичар / Ptichar",
        "Code": "KRZ21-17",
        "Places": [
@@ -15299,16 +15299,6 @@
        ]
       },
       {
-       "Name": "Звездел / Zvezdel",
-       "Code": "KRZ21-10",
-       "Places": [
-        {
-         "PostCode": "6820",
-         "LatLong": "41.4833,25.5167"
-        }
-       ]
-      },
-      {
        "Name": "Лале / Lale",
        "Code": "KRZ21-13",
        "Places": [
@@ -15326,6 +15316,16 @@
       {
        "Name": "Чайка / Chajka",
        "Code": "KRZ21-24",
+       "Places": [
+        {
+         "PostCode": "6820",
+         "LatLong": "41.4833,25.5167"
+        }
+       ]
+      },
+      {
+       "Name": "Звездел / Zvezdel",
+       "Code": "KRZ21-10",
        "Places": [
         {
          "PostCode": "6820",
@@ -15584,13 +15584,13 @@
          "LatLong": "41.75,25.2167"
         },
         {
-         "PostCode": "6697",
-         "LatLong": "41.7833,25.25"
-        },
-        {
          "Name": "Куцово / Kucovo",
          "PostCode": "6697",
          "LatLong": "41.7667,25.2417"
+        },
+        {
+         "PostCode": "6697",
+         "LatLong": "41.7833,25.25"
         },
         {
          "Name": "Босилица / Bosilica",
@@ -15718,14 +15718,14 @@
          "LatLong": "41.7167,25.35"
         },
         {
-         "Name": "Верско / Versko",
-         "PostCode": "6710",
-         "LatLong": "41.7167,25.35"
-        },
-        {
          "Name": "Възел / Vuzel",
          "PostCode": "6710",
          "LatLong": "41.7,25.3667"
+        },
+        {
+         "Name": "Верско / Versko",
+         "PostCode": "6710",
+         "LatLong": "41.7167,25.35"
         }
        ]
       },
@@ -15759,13 +15759,13 @@
        "Code": "KRZ35-18",
        "Places": [
         {
+         "PostCode": "6710",
+         "LatLong": "41.7333,25.3667"
+        },
+        {
          "Name": "Бърза река / Burza reka",
          "PostCode": "6710",
          "LatLong": "41.7333,25.3833"
-        },
-        {
-         "PostCode": "6710",
-         "LatLong": "41.7333,25.3667"
         }
        ]
       },
@@ -15783,9 +15783,9 @@
          "LatLong": "41.75,25.3667"
         },
         {
-         "Name": "Бостанци / Bostanci",
+         "Name": "Вождово / Vozhdovo",
          "PostCode": "6716",
-         "LatLong": "41.75,25.3833"
+         "LatLong": "41.75,25.3667"
         },
         {
          "Name": "Пряпорец / Prjaporec",
@@ -15793,9 +15793,9 @@
          "LatLong": "41.75,25.3667"
         },
         {
-         "Name": "Вождово / Vozhdovo",
+         "Name": "Бостанци / Bostanci",
          "PostCode": "6716",
-         "LatLong": "41.75,25.3667"
+         "LatLong": "41.75,25.3833"
         },
         {
          "Name": "Среднево / Srednevo",
@@ -19962,14 +19962,14 @@
        "Code": "PDV15-00",
        "Places": [
         {
-         "Name": "Здравец / Zdravec",
-         "PostCode": "4241",
-         "LatLong": "41.4333,24.8167"
-        },
-        {
          "Name": "Четрока / Chetroka",
          "PostCode": "4241",
          "LatLong": "41.7833,24.8667"
+        },
+        {
+         "Name": "Здравец / Zdravec",
+         "PostCode": "4241",
+         "LatLong": "41.4333,24.8167"
         },
         {
          "Name": "Лъки / Luki",
@@ -21617,22 +21617,22 @@
        ]
       },
       {
-       "Name": "Батановци / Batanovci",
-       "Code": "PER32-18",
-       "Places": [
-        {
-         "PostCode": "2340",
-         "LatLong": "42.5997,22.9506"
-        }
-       ]
-      },
-      {
        "Name": "Черна гора / Cherna gora",
        "Code": "PER32-23",
        "Places": [
         {
          "PostCode": "2340",
          "LatLong": "42.5999,22.9503"
+        }
+       ]
+      },
+      {
+       "Name": "Батановци / Batanovci",
+       "Code": "PER32-18",
+       "Places": [
+        {
+         "PostCode": "2340",
+         "LatLong": "42.5997,22.9506"
         }
        ]
       },
@@ -22072,19 +22072,19 @@
          "LatLong": "42.7872,22.7003"
         },
         {
-         "Name": "Неделково / Nedelkovo",
-         "PostCode": "2477",
-         "LatLong": "42.7986,22.7869"
-        },
-        {
          "Name": "Мракетинци / Mraketinci",
          "PostCode": "2477",
          "LatLong": "42.8131,22.7453"
         },
         {
-         "Name": "Насалевци / Nasalevci",
+         "Name": "Неделково / Nedelkovo",
+         "PostCode": "2477",
+         "LatLong": "42.7986,22.7869"
+        },
+        {
+         "Name": "Зелениград / Zelenigrad",
          "PostCode": "2478",
-         "LatLong": "42.8272,22.5075"
+         "LatLong": "42.8375,22.5619"
         },
         {
          "Name": "Милославци / Miloslavci",
@@ -22092,9 +22092,9 @@
          "LatLong": "42.8347,22.5342"
         },
         {
-         "Name": "Зелениград / Zelenigrad",
+         "Name": "Насалевци / Nasalevci",
          "PostCode": "2478",
-         "LatLong": "42.8375,22.5619"
+         "LatLong": "42.8272,22.5075"
         },
         {
          "Name": "Цегриловци / Cegrilovci",
@@ -22152,14 +22152,14 @@
          "LatLong": "42.7747,22.6108"
         },
         {
-         "Name": "Ерул / Erul",
-         "PostCode": "2486",
-         "LatLong": "42.7356,22.6644"
-        },
-        {
          "Name": "Бусинци / Businci",
          "PostCode": "2486",
          "LatLong": "42.7825,22.6272"
+        },
+        {
+         "Name": "Ерул / Erul",
+         "PostCode": "2486",
+         "LatLong": "42.7356,22.6644"
         },
         {
          "Name": "Мрамор / Mramor",
@@ -22177,19 +22177,14 @@
          "LatLong": "42.8064,22.595"
         },
         {
-         "Name": "Радово / Radovo",
-         "PostCode": "2488",
-         "LatLong": "42.8003,22.5917"
-        },
-        {
          "Name": "Студен извор / Studen izvor",
          "PostCode": "2488",
          "LatLong": "42.7897,22.5989"
         },
         {
-         "Name": "Еловица / Elovica",
-         "PostCode": "2489",
-         "LatLong": "42.7447,22.5619"
+         "Name": "Радово / Radovo",
+         "PostCode": "2488",
+         "LatLong": "42.8003,22.5917"
         },
         {
          "Name": "Стайчовци / Stajchovci",
@@ -22202,6 +22197,11 @@
          "LatLong": "42.7647,22.5753"
         },
         {
+         "Name": "Еловица / Elovica",
+         "PostCode": "2489",
+         "LatLong": "42.7447,22.5619"
+        },
+        {
          "Name": "Долна Мелна / Dolna Melna",
          "PostCode": "2490",
          "LatLong": "42.6706,22.5256"
@@ -22212,14 +22212,14 @@
          "LatLong": "42.725,22.5189"
         },
         {
-         "Name": "Дълга лука / Dulga luka",
-         "PostCode": "2492",
-         "LatLong": "42.6425,22.5533"
-        },
-        {
          "Name": "Къшле / Kushle",
          "PostCode": "2492",
          "LatLong": "42.7097,22.5017"
+        },
+        {
+         "Name": "Дълга лука / Dulga luka",
+         "PostCode": "2492",
+         "LatLong": "42.6425,22.5533"
         },
         {
          "Name": "Шипковица / Shipkovica",
@@ -24066,22 +24066,22 @@
        ]
       },
       {
-       "Name": "Манастирско / Manastirsko",
-       "Code": "RAZ17-14",
-       "Places": [
-        {
-         "PostCode": "7284",
-         "LatLong": "43.4167,26.5333"
-        }
-       ]
-      },
-      {
        "Name": "Чудомир / Chudomir",
        "Code": "RAZ17-27",
        "Places": [
         {
          "PostCode": "7284",
          "LatLong": "43.3667,26.5167"
+        }
+       ]
+      },
+      {
+       "Name": "Манастирско / Manastirsko",
+       "Code": "RAZ17-14",
+       "Places": [
+        {
+         "PostCode": "7284",
+         "LatLong": "43.4167,26.5333"
         }
        ]
       },
@@ -25403,14 +25403,14 @@
          "LatLong": "42.7667,23.05"
         },
         {
-         "Name": "Мала Раковица / Mala Rakovica",
-         "PostCode": "2225",
-         "LatLong": "42.7333,23.05"
-        },
-        {
          "Name": "Делян / Deljan",
          "PostCode": "2225",
          "LatLong": "42.7667,23"
+        },
+        {
+         "Name": "Мала Раковица / Mala Rakovica",
+         "PostCode": "2225",
+         "LatLong": "42.7333,23.05"
         },
         {
          "Name": "Росоман / Rosoman",
@@ -25605,14 +25605,14 @@
          "LatLong": "42.9833,23.0667"
         },
         {
-         "Name": "Разбоище / Razboishhe",
-         "PostCode": "2253",
-         "LatLong": "43.0136,22.9567"
-        },
-        {
          "Name": "Букоровци / Bukorovci",
          "PostCode": "2253",
          "LatLong": "42.9911,22.9661"
+        },
+        {
+         "Name": "Каленовци / Kalenovci",
+         "PostCode": "2253",
+         "LatLong": "42.9847,22.9556"
         },
         {
          "Name": "Туден / Tuden",
@@ -25620,9 +25620,19 @@
          "LatLong": "43.0106,22.9911"
         },
         {
-         "Name": "Каленовци / Kalenovci",
+         "Name": "Разбоище / Razboishhe",
          "PostCode": "2253",
-         "LatLong": "42.9847,22.9556"
+         "LatLong": "43.0136,22.9567"
+        },
+        {
+         "Name": "Ропот / Ropot",
+         "PostCode": "2254",
+         "LatLong": "43.0397,22.9814"
+        },
+        {
+         "Name": "Голеш / Golesh",
+         "PostCode": "2254",
+         "LatLong": "43.0525,22.9414"
         },
         {
          "Name": "Връдловци / Vrudlovci",
@@ -25635,14 +25645,14 @@
          "LatLong": "43.0531,22.92"
         },
         {
-         "Name": "Голеш / Golesh",
-         "PostCode": "2254",
-         "LatLong": "43.0525,22.9414"
+         "Name": "Бърля / Burlja",
+         "PostCode": "2255",
+         "LatLong": "43.0997,22.9825"
         },
         {
-         "Name": "Ропот / Ropot",
-         "PostCode": "2254",
-         "LatLong": "43.0397,22.9814"
+         "Name": "Губеш / Gubesh",
+         "PostCode": "2255",
+         "LatLong": "43.0792,23.0431"
         },
         {
          "Name": "Смолча / Smolcha",
@@ -25650,19 +25660,9 @@
          "LatLong": "43.0789,22.9778"
         },
         {
-         "Name": "Бърля / Burlja",
-         "PostCode": "2255",
-         "LatLong": "43.0997,22.9825"
-        },
-        {
          "Name": "Комщица / Komshhica",
          "PostCode": "2255",
          "LatLong": "43.0944,22.9919"
-        },
-        {
-         "Name": "Губеш / Gubesh",
-         "PostCode": "2255",
-         "LatLong": "43.0792,23.0431"
         }
        ]
       },
@@ -25837,14 +25837,14 @@
          "LatLong": "42.9667,22.8"
         },
         {
-         "Name": "Неделище / Nedelishhe",
+         "Name": "Начево / Nachevo",
          "PostCode": "2213",
          "LatLong": "42.9,22.8167"
         },
         {
-         "Name": "Круша / Krusha",
+         "Name": "Неделище / Nedelishhe",
          "PostCode": "2213",
-         "LatLong": "42.8986,22.7819"
+         "LatLong": "42.9,22.8167"
         },
         {
          "Name": "Горно село / Gorno selo",
@@ -25857,9 +25857,9 @@
          "LatLong": "42.9,22.8167"
         },
         {
-         "Name": "Начево / Nachevo",
+         "Name": "Круша / Krusha",
          "PostCode": "2213",
-         "LatLong": "42.9,22.8167"
+         "LatLong": "42.8986,22.7819"
         },
         {
          "Name": "Грълска падина / Grulska padina",
@@ -25877,14 +25877,14 @@
          "LatLong": "42.9,22.8167"
         },
         {
-         "Name": "Камбелевци / Kambelevci",
-         "PostCode": "2215",
-         "LatLong": "42.9,22.8833"
-        },
-        {
          "Name": "Табан / Taban",
          "PostCode": "2215",
          "LatLong": "42.8833,22.9"
+        },
+        {
+         "Name": "Камбелевци / Kambelevci",
+         "PostCode": "2215",
+         "LatLong": "42.9,22.8833"
         },
         {
          "Name": "Вишан / Vishan",
@@ -25917,11 +25917,6 @@
          "LatLong": "42.8667,22.8667"
         },
         {
-         "Name": "Цръклевци / Cruklevci",
-         "PostCode": "2238",
-         "LatLong": "42.95,23.1"
-        },
-        {
          "Name": "Василовци / Vasilovci",
          "PostCode": "2238",
          "LatLong": "42.95,23.075"
@@ -25930,6 +25925,11 @@
          "Name": "Мало Малово / Malo Malovo",
          "PostCode": "2238",
          "LatLong": "42.95,23.05"
+        },
+        {
+         "Name": "Цръклевци / Cruklevci",
+         "PostCode": "2238",
+         "LatLong": "42.95,23.1"
         },
         {
          "Name": "Раяновци / Rajanovci",
@@ -25948,14 +25948,8 @@
        "Code": "SFO16-08",
        "Places": [
         {
-         "Name": "Беренде извор / Berende izvor",
          "PostCode": "2212",
-         "LatLong": "43.0042,22.8894"
-        },
-        {
-         "Name": "Чепърлинци / Chepurlinci",
-         "PostCode": "2212",
-         "LatLong": "43.0189,22.9064"
+         "LatLong": "42.9958,22.8692"
         },
         {
          "Name": "Липинци / Lipinci",
@@ -25963,9 +25957,9 @@
          "LatLong": "43.0125,22.8661"
         },
         {
-         "Name": "Ново бърдо / Novo burdo",
+         "Name": "Чепърлинци / Chepurlinci",
          "PostCode": "2212",
-         "LatLong": "42.95,22.85"
+         "LatLong": "43.0189,22.9064"
         },
         {
          "Name": "Беренде / Berende",
@@ -25973,8 +25967,14 @@
          "LatLong": "42.9928,22.9278"
         },
         {
+         "Name": "Беренде извор / Berende izvor",
          "PostCode": "2212",
-         "LatLong": "42.9958,22.8692"
+         "LatLong": "43.0042,22.8894"
+        },
+        {
+         "Name": "Ново бърдо / Novo burdo",
+         "PostCode": "2212",
+         "LatLong": "42.95,22.85"
         }
        ]
       },
@@ -26010,6 +26010,16 @@
        ]
       },
       {
+       "Name": "Елин Пелин / Elin Pelin",
+       "Code": "SFO17-05",
+       "Places": [
+        {
+         "PostCode": "2100",
+         "LatLong": "42.6667,23.6"
+        }
+       ]
+      },
+      {
        "Code": "SFO17-00",
        "Places": [
         {
@@ -26036,16 +26046,6 @@
          "Name": "Потоп / Potop",
          "PostCode": "2127",
          "LatLong": "42.75,23.6667"
-        }
-       ]
-      },
-      {
-       "Name": "Елин Пелин / Elin Pelin",
-       "Code": "SFO17-05",
-       "Places": [
-        {
-         "PostCode": "2100",
-         "LatLong": "42.6667,23.6"
         }
        ]
       },
@@ -26260,12 +26260,7 @@
          "LatLong": "42.3833,23.8667"
         },
         {
-         "Name": "Бузяковци / Buzjakovci",
-         "PostCode": "2060",
-         "LatLong": "42.5333,23.8"
-        },
-        {
-         "Name": "Богдановци / Bogdanovci",
+         "Name": "Пановци / Panovci",
          "PostCode": "2060",
          "LatLong": "42.5333,23.7833"
         },
@@ -26275,9 +26270,39 @@
          "LatLong": "42.5667,23.8"
         },
         {
+         "Name": "Мечковци / Mechkovci",
+         "PostCode": "2060",
+         "LatLong": "42.55,23.7667"
+        },
+        {
+         "Name": "Костадинкино / Kostadinkino",
+         "PostCode": "2060",
+         "LatLong": "42.5429,23.7369"
+        },
+        {
+         "Name": "Ръжана / Ruzhana",
+         "PostCode": "2060",
+         "LatLong": "42.5333,23.75"
+        },
+        {
+         "Name": "Богдановци / Bogdanovci",
+         "PostCode": "2060",
+         "LatLong": "42.5333,23.7833"
+        },
+        {
+         "Name": "Бузяковци / Buzjakovci",
+         "PostCode": "2060",
+         "LatLong": "42.5333,23.8"
+        },
+        {
          "Name": "Поповци / Popovci",
          "PostCode": "2060",
          "LatLong": "42.5333,23.7"
+        },
+        {
+         "Name": "Банчовци / Banchovci",
+         "PostCode": "2060",
+         "LatLong": "42.5167,23.6833"
         },
         {
          "Name": "Пауново / Paunovo",
@@ -26290,29 +26315,9 @@
          "LatLong": "42.5333,23.8"
         },
         {
-         "Name": "Банчовци / Banchovci",
-         "PostCode": "2060",
-         "LatLong": "42.5167,23.6833"
-        },
-        {
-         "Name": "Ръжана / Ruzhana",
-         "PostCode": "2060",
-         "LatLong": "42.5333,23.75"
-        },
-        {
-         "Name": "Пановци / Panovci",
-         "PostCode": "2060",
-         "LatLong": "42.5333,23.7833"
-        },
-        {
-         "Name": "Костадинкино / Kostadinkino",
-         "PostCode": "2060",
-         "LatLong": "42.5429,23.7369"
-        },
-        {
-         "Name": "Мечковци / Mechkovci",
-         "PostCode": "2060",
-         "LatLong": "42.55,23.7667"
+         "Name": "Мухово / Mukhovo",
+         "PostCode": "2061",
+         "LatLong": "42.4167,24"
         },
         {
          "Name": "Любница / Ljubnica",
@@ -26321,11 +26326,6 @@
         },
         {
          "Name": "Нейкьовец / Nejk'ovec",
-         "PostCode": "2061",
-         "LatLong": "42.4167,24"
-        },
-        {
-         "Name": "Мухово / Mukhovo",
          "PostCode": "2061",
          "LatLong": "42.4167,24"
         },
@@ -26361,11 +26361,6 @@
        "Code": "SFO20-06",
        "Places": [
         {
-         "Name": "Селянин / Seljanin",
-         "PostCode": "2060",
-         "LatLong": "42.5667,23.7167"
-        },
-        {
          "PostCode": "2060",
          "LatLong": "42.55,23.7167"
         },
@@ -26373,6 +26368,11 @@
          "Name": "Бальовци / Bal'ovci",
          "PostCode": "2060",
          "LatLong": "42.5667,23.6833"
+        },
+        {
+         "Name": "Селянин / Seljanin",
+         "PostCode": "2060",
+         "LatLong": "42.5667,23.7167"
         }
        ]
       },
@@ -26439,16 +26439,6 @@
      "Code": "SFO25",
      "Communities": [
       {
-       "Name": "Костенец / Kostenec",
-       "Code": "SFO25-02",
-       "Places": [
-        {
-         "PostCode": "2030",
-         "LatLong": "42.3,23.8667"
-        }
-       ]
-      },
-      {
        "Code": "SFO25-00",
        "Places": [
         {
@@ -26472,14 +26462,24 @@
          "LatLong": "42.3,23.9667"
         },
         {
-         "Name": "Очуша / Ochusha",
-         "PostCode": "2049",
-         "LatLong": "42.3667,23.7333"
-        },
-        {
          "Name": "Подгорие / Podgorie",
          "PostCode": "2049",
          "LatLong": "42.3833,23.7667"
+        },
+        {
+         "Name": "Очуша / Ochusha",
+         "PostCode": "2049",
+         "LatLong": "42.3667,23.7333"
+        }
+       ]
+      },
+      {
+       "Name": "Костенец / Kostenec",
+       "Code": "SFO25-02",
+       "Places": [
+        {
+         "PostCode": "2030",
+         "LatLong": "42.3,23.8667"
         }
        ]
       },
@@ -26533,9 +26533,9 @@
          "LatLong": "42.9667,23.1333"
         },
         {
-         "Name": "Дреново / Drenovo",
+         "Name": "Дръмша / Drumsha",
          "PostCode": "2257",
-         "LatLong": "42.95,23.1667"
+         "LatLong": "42.9333,23.2"
         },
         {
          "Name": "Понор / Ponor",
@@ -26543,9 +26543,9 @@
          "LatLong": "42.9167,23.1333"
         },
         {
-         "Name": "Дръмша / Drumsha",
+         "Name": "Дреново / Drenovo",
          "PostCode": "2257",
-         "LatLong": "42.9333,23.2"
+         "LatLong": "42.95,23.1667"
         }
        ]
       },
@@ -26876,13 +26876,13 @@
        "Code": "SFO39-13",
        "Places": [
         {
+         "PostCode": "2023",
+         "LatLong": "42.45,23.3333"
+        },
+        {
          "Name": "Яребковица / Jarebkovica",
          "PostCode": "2023",
          "LatLong": "42.3833,23.25"
-        },
-        {
-         "PostCode": "2023",
-         "LatLong": "42.45,23.3333"
         }
        ]
       },
@@ -27051,14 +27051,14 @@
          "LatLong": "42.9333,23.4833"
         },
         {
-         "Name": "Бакьово / Bak'ovo",
-         "PostCode": "2295",
-         "LatLong": "42.8667,23.4667"
-        },
-        {
          "Name": "Батулия / Batulija",
          "PostCode": "2295",
          "LatLong": "42.8833,23.4333"
+        },
+        {
+         "Name": "Бакьово / Bak'ovo",
+         "PostCode": "2295",
+         "LatLong": "42.8667,23.4667"
         },
         {
          "Name": "Огоя / Ogoja",
@@ -27248,6 +27248,11 @@
          "LatLong": "42.85,23.0333"
         },
         {
+         "Name": "Пищане / Pishhane",
+         "PostCode": "2218",
+         "LatLong": "42.8167,22.8667"
+        },
+        {
          "Name": "Драготинци / Dragotinci",
          "PostCode": "2218",
          "LatLong": "42.85,22.9"
@@ -27258,9 +27263,9 @@
          "LatLong": "42.8333,22.9"
         },
         {
-         "Name": "Пищане / Pishhane",
-         "PostCode": "2218",
-         "LatLong": "42.8167,22.8667"
+         "Name": "Извор / Izvor",
+         "PostCode": "2219",
+         "LatLong": "42.7333,22.8"
         },
         {
          "Name": "Бахалин / Bakhalin",
@@ -27268,14 +27273,9 @@
          "LatLong": "42.8833,22.9167"
         },
         {
-         "Name": "Извор / Izvor",
-         "PostCode": "2219",
-         "LatLong": "42.7333,22.8"
-        },
-        {
-         "Name": "Братушково / Bratushkovo",
+         "Name": "Радуловци / Radulovci",
          "PostCode": "2222",
-         "LatLong": "42.8333,22.9667"
+         "LatLong": "42.8333,22.9333"
         },
         {
          "Name": "Бърложница / Burlozhnica",
@@ -27283,14 +27283,14 @@
          "LatLong": "42.85,22.95"
         },
         {
-         "Name": "Радуловци / Radulovci",
+         "Name": "Братушково / Bratushkovo",
          "PostCode": "2222",
-         "LatLong": "42.8333,22.9333"
+         "LatLong": "42.8333,22.9667"
         },
         {
-         "Name": "Ракита / Rakita",
+         "Name": "Гълъбовци / Gulubovci",
          "PostCode": "2223",
-         "LatLong": "42.7833,22.9333"
+         "LatLong": "42.8114,23.0003"
         },
         {
          "Name": "Гургулят / Gurguljat",
@@ -27298,9 +27298,9 @@
          "LatLong": "42.7833,22.9833"
         },
         {
-         "Name": "Гълъбовци / Gulubovci",
+         "Name": "Ракита / Rakita",
          "PostCode": "2223",
-         "LatLong": "42.8114,23.0003"
+         "LatLong": "42.7833,22.9333"
         }
        ]
       },
@@ -27412,12 +27412,12 @@
        "Code": "SFO56-00",
        "Places": [
         {
-         "Name": "Каменица / Kamenica",
+         "Name": "Илинден / Ilinden",
          "PostCode": "2072",
          "LatLong": "42.5833,23.9333"
         },
         {
-         "Name": "Илинден / Ilinden",
+         "Name": "Каменица / Kamenica",
          "PostCode": "2072",
          "LatLong": "42.5833,23.9333"
         },
@@ -27432,9 +27432,9 @@
          "LatLong": "42.5833,24"
         },
         {
-         "Name": "Черковище / Cherkovishhe",
+         "Name": "Хвърчил / Khvurchil",
          "PostCode": "2092",
-         "LatLong": "42.6,23.95"
+         "LatLong": "42.5833,23.9333"
         },
         {
          "Name": "Плъзище / Pluzishhe",
@@ -27442,9 +27442,9 @@
          "LatLong": "42.5875,23.95"
         },
         {
-         "Name": "Хвърчил / Khvurchil",
+         "Name": "Черковище / Cherkovishhe",
          "PostCode": "2092",
-         "LatLong": "42.5833,23.9333"
+         "LatLong": "42.6,23.95"
         },
         {
          "Name": "Мирково / Mirkovo",
@@ -29231,22 +29231,22 @@
        ]
       },
       {
-       "Name": "Зарица / Zarica",
-       "Code": "SLS07-25",
-       "Places": [
-        {
-         "PostCode": "7689",
-         "LatLong": "43.8333,26.95"
-        }
-       ]
-      },
-      {
        "Name": "Звенимир / Zvenimir",
        "Code": "SLS07-07",
        "Places": [
         {
          "PostCode": "7689",
          "LatLong": "43.8167,26.9167"
+        }
+       ]
+      },
+      {
+       "Name": "Зарица / Zarica",
+       "Code": "SLS07-25",
+       "Places": [
+        {
+         "PostCode": "7689",
+         "LatLong": "43.8333,26.95"
         }
        ]
       }
@@ -31612,14 +31612,14 @@
          "LatLong": "41.6167,24.9667"
         },
         {
-         "Name": "Миле / Mile",
-         "PostCode": "4921",
-         "LatLong": "41.5833,25"
-        },
-        {
          "Name": "Купен / Kupen",
          "PostCode": "4921",
          "LatLong": "41.6,24.9833"
+        },
+        {
+         "Name": "Миле / Mile",
+         "PostCode": "4921",
+         "LatLong": "41.5833,25"
         },
         {
          "Name": "Високите / Visokite",
@@ -31709,15 +31709,30 @@
        ]
       },
       {
+       "Name": "Леска / Leska",
+       "Code": "SML16-23",
+       "Places": [
+        {
+         "Name": "Кориите / Koriite",
+         "PostCode": "4921",
+         "LatLong": "41.55,24.95"
+        },
+        {
+         "PostCode": "4928",
+         "LatLong": "41.55,24.9667"
+        }
+       ]
+      },
+      {
        "Name": "Върбина / Vurbina",
        "Code": "SML16-07",
        "Places": [
         {
-         "Name": "Ливаде / Livade",
          "PostCode": "4921",
          "LatLong": "41.5667,24.9667"
         },
         {
+         "Name": "Ливаде / Livade",
          "PostCode": "4921",
          "LatLong": "41.5667,24.9667"
         },
@@ -31750,21 +31765,6 @@
         {
          "PostCode": "4929",
          "LatLong": "41.55,24.9333"
-        }
-       ]
-      },
-      {
-       "Name": "Леска / Leska",
-       "Code": "SML16-23",
-       "Places": [
-        {
-         "Name": "Кориите / Koriite",
-         "PostCode": "4921",
-         "LatLong": "41.55,24.95"
-        },
-        {
-         "PostCode": "4928",
-         "LatLong": "41.55,24.9667"
         }
        ]
       },
@@ -32591,10 +32591,6 @@
          "LatLong": "41.7,24.5667"
         },
         {
-         "PostCode": "4840",
-         "LatLong": "41.6833,24.5833"
-        },
-        {
          "Name": "Сливово / Slivovo",
          "PostCode": "4840",
          "LatLong": "41.7,24.55"
@@ -32603,6 +32599,10 @@
          "Name": "Кукувица / Kukuvica",
          "PostCode": "4840",
          "LatLong": "41.7,24.6167"
+        },
+        {
+         "PostCode": "4840",
+         "LatLong": "41.6833,24.5833"
         }
        ]
       },
@@ -33215,14 +33215,14 @@
          "LatLong": "42.3333,25.15"
         },
         {
-         "Name": "Малък дол / Maluk dol",
-         "PostCode": "6250",
-         "LatLong": "42.3333,25.2167"
-        },
-        {
          "Name": "Братя Даскалови / Bratja Daskalovi",
          "PostCode": "6250",
          "LatLong": "42.3,25.2167"
+        },
+        {
+         "Name": "Малък дол / Maluk dol",
+         "PostCode": "6250",
+         "LatLong": "42.3333,25.2167"
         }
        ]
       },
@@ -34862,9 +34862,9 @@
          "LatLong": "43.1,26.2333"
         },
         {
-         "Name": "Калнище / Kalnishhe",
+         "Name": "Свирчово / Svirchovo",
          "PostCode": "7960",
-         "LatLong": "42.9833,26.1667"
+         "LatLong": "43.0333,26.2167"
         },
         {
          "Name": "Греевци / Greevci",
@@ -34872,9 +34872,9 @@
          "LatLong": "43.0167,26.2167"
         },
         {
-         "Name": "Свирчово / Svirchovo",
+         "Name": "Калнище / Kalnishhe",
          "PostCode": "7960",
-         "LatLong": "43.0333,26.2167"
+         "LatLong": "42.9833,26.1667"
         },
         {
          "Name": "Крушолак / Krusholak",
@@ -34892,11 +34892,6 @@
          "LatLong": "43.0167,26.1667"
         },
         {
-         "Name": "Градинка / Gradinka",
-         "PostCode": "7964",
-         "LatLong": "43,26.2167"
-        },
-        {
          "Name": "Стройновци / Strojnovci",
          "PostCode": "7964",
          "LatLong": "42.9917,26.1917"
@@ -34905,6 +34900,11 @@
          "Name": "Великовци / Velikovci",
          "PostCode": "7964",
          "LatLong": "42.9833,26.1667"
+        },
+        {
+         "Name": "Градинка / Gradinka",
+         "PostCode": "7964",
+         "LatLong": "43,26.2167"
         },
         {
          "Name": "Равно село / Ravno selo",
@@ -35017,24 +35017,9 @@
          "LatLong": "43.05,26.1667"
         },
         {
-         "Name": "Халваджийско / Khalvadzhijsko",
+         "Name": "Длъжка поляна / Dluzhka poljana",
          "PostCode": "7997",
-         "LatLong": "43.1,26.15"
-        },
-        {
-         "Name": "Малка Черковна / Malka Cherkovna",
-         "PostCode": "7997",
-         "LatLong": "43.0833,26.1833"
-        },
-        {
-         "Name": "Банковец / Bankovec",
-         "PostCode": "7997",
-         "LatLong": "43.0667,26.1667"
-        },
-        {
-         "Name": "Мечово / Mechovo",
-         "PostCode": "7997",
-         "LatLong": "43.0667,26.0833"
+         "LatLong": "43.0833,26.1167"
         },
         {
          "Name": "Крайполе / Krajpole",
@@ -35042,9 +35027,9 @@
          "LatLong": "43.0667,26.1"
         },
         {
-         "Name": "Тиховец / Tikhovec",
+         "Name": "Свободица / Svobodica",
          "PostCode": "7997",
-         "LatLong": "43.0667,26.1667"
+         "LatLong": "43.0833,26.1167"
         },
         {
          "Name": "Къпинец / Kupinec",
@@ -35052,9 +35037,14 @@
          "LatLong": "43.0667,26.15"
         },
         {
-         "Name": "Длъжка поляна / Dluzhka poljana",
+         "Name": "Банковец / Bankovec",
          "PostCode": "7997",
-         "LatLong": "43.0833,26.1167"
+         "LatLong": "43.0667,26.1667"
+        },
+        {
+         "Name": "Халваджийско / Khalvadzhijsko",
+         "PostCode": "7997",
+         "LatLong": "43.1,26.15"
         },
         {
          "Name": "Богомолско / Bogomolsko",
@@ -35062,9 +35052,19 @@
          "LatLong": "43.0333,26.1167"
         },
         {
-         "Name": "Свободица / Svobodica",
+         "Name": "Мечово / Mechovo",
          "PostCode": "7997",
-         "LatLong": "43.0833,26.1167"
+         "LatLong": "43.0667,26.0833"
+        },
+        {
+         "Name": "Малка Черковна / Malka Cherkovna",
+         "PostCode": "7997",
+         "LatLong": "43.0833,26.1833"
+        },
+        {
+         "Name": "Тиховец / Tikhovec",
+         "PostCode": "7997",
+         "LatLong": "43.0667,26.1667"
         },
         {
          "Name": "Яребично / Jarebichno",
@@ -36766,14 +36766,14 @@
        "Code": "VAR05-00",
        "Places": [
         {
-         "Name": "Горица / Gorica",
-         "PostCode": "9101",
-         "LatLong": "42.9167,27.85"
-        },
-        {
          "Name": "Бяла / Bjala",
          "PostCode": "9101",
          "LatLong": "42.8833,27.8833"
+        },
+        {
+         "Name": "Горица / Gorica",
+         "PostCode": "9101",
+         "LatLong": "42.9167,27.85"
         },
         {
          "Name": "Самотино / Samotino",
@@ -38166,22 +38166,22 @@
        ]
       },
       {
-       "Name": "Каленик / Kalenik",
-       "Code": "VID09-34",
-       "Places": [
-        {
-         "PostCode": "3729",
-         "LatLong": "44.0031,22.6656"
-        }
-       ]
-      },
-      {
        "Name": "Новоселци / Novoselci",
        "Code": "VID09-31",
        "Places": [
         {
          "PostCode": "3729",
          "LatLong": "43.9889,22.8303"
+        }
+       ]
+      },
+      {
+       "Name": "Каленик / Kalenik",
+       "Code": "VID09-34",
+       "Places": [
+        {
+         "PostCode": "3729",
+         "LatLong": "44.0031,22.6656"
         }
        ]
       },
@@ -40094,14 +40094,9 @@
          "LatLong": "43,25.7"
         },
         {
-         "Name": "Цонковци / Conkovci",
+         "Name": "Марговци / Margovci",
          "PostCode": "5035",
-         "LatLong": "42.8333,25.65"
-        },
-        {
-         "Name": "Рашевци / Rashevci",
-         "PostCode": "5035",
-         "LatLong": "42.85,25.6333"
+         "LatLong": "42.85,25.6667"
         },
         {
          "Name": "Бижовци / Bizhovci",
@@ -40109,14 +40104,14 @@
          "LatLong": "42.8167,25.65"
         },
         {
+         "Name": "Русковци / Ruskovci",
+         "PostCode": "5035",
+         "LatLong": "42.8333,25.6333"
+        },
+        {
          "Name": "Бочковци / Bochkovci",
          "PostCode": "5035",
          "LatLong": "42.8471,25.642"
-        },
-        {
-         "Name": "Самсиите / Samsiite",
-         "PostCode": "5035",
-         "LatLong": "42.9,25.65"
         },
         {
          "Name": "Поповци / Popovci",
@@ -40124,7 +40119,47 @@
          "LatLong": "42.8833,25.6833"
         },
         {
+         "Name": "Дойновци / Dojnovci",
+         "PostCode": "5035",
+         "LatLong": "42.85,25.65"
+        },
+        {
+         "Name": "Цепераните / Ceperanite",
+         "PostCode": "5035",
+         "LatLong": "42.8471,25.642"
+        },
+        {
+         "Name": "Белчевци / Belchevci",
+         "PostCode": "5035",
+         "LatLong": "42.8833,25.6167"
+        },
+        {
+         "Name": "Цонковци / Conkovci",
+         "PostCode": "5035",
+         "LatLong": "42.8333,25.65"
+        },
+        {
          "Name": "Мишеморков хан / Mishemorkov khan",
+         "PostCode": "5035",
+         "LatLong": "42.8333,25.6333"
+        },
+        {
+         "Name": "Самсиите / Samsiite",
+         "PostCode": "5035",
+         "LatLong": "42.9,25.65"
+        },
+        {
+         "Name": "Рашевци / Rashevci",
+         "PostCode": "5035",
+         "LatLong": "42.85,25.6333"
+        },
+        {
+         "Name": "Виларе / Vilare",
+         "PostCode": "5035",
+         "LatLong": "42.9,25.65"
+        },
+        {
+         "Name": "Лагерите / Lagerite",
          "PostCode": "5035",
          "LatLong": "42.8333,25.6333"
         },
@@ -40134,54 +40169,9 @@
          "LatLong": "42.8167,25.65"
         },
         {
-         "Name": "Лагерите / Lagerite",
-         "PostCode": "5035",
-         "LatLong": "42.8333,25.6333"
-        },
-        {
-         "Name": "Марговци / Margovci",
-         "PostCode": "5035",
-         "LatLong": "42.85,25.6667"
-        },
-        {
-         "Name": "Горановци / Goranovci",
-         "PostCode": "5035",
-         "LatLong": "42.8,25.6333"
-        },
-        {
          "Name": "Клъшка река / Klushka reka",
          "PostCode": "5035",
          "LatLong": "42.8167,25.6167"
-        },
-        {
-         "Name": "Цепераните / Ceperanite",
-         "PostCode": "5035",
-         "LatLong": "42.8471,25.642"
-        },
-        {
-         "Name": "Семковци / Semkovci",
-         "PostCode": "5035",
-         "LatLong": "42.8333,25.65"
-        },
-        {
-         "Name": "Русковци / Ruskovci",
-         "PostCode": "5035",
-         "LatLong": "42.8333,25.6333"
-        },
-        {
-         "Name": "Дойновци / Dojnovci",
-         "PostCode": "5035",
-         "LatLong": "42.85,25.65"
-        },
-        {
-         "Name": "Виларе / Vilare",
-         "PostCode": "5035",
-         "LatLong": "42.9,25.65"
-        },
-        {
-         "Name": "Димовци / Dimovci",
-         "PostCode": "5035",
-         "LatLong": "42.85,25.6333"
         },
         {
          "Name": "Ушeвци / Ushevci",
@@ -40189,14 +40179,24 @@
          "LatLong": "42.8667,25.65"
         },
         {
-         "Name": "Белчевци / Belchevci",
+         "Name": "Горановци / Goranovci",
          "PostCode": "5035",
-         "LatLong": "42.8833,25.6167"
+         "LatLong": "42.8,25.6333"
+        },
+        {
+         "Name": "Димовци / Dimovci",
+         "PostCode": "5035",
+         "LatLong": "42.85,25.6333"
         },
         {
          "Name": "Пирамидата / Piramidata",
          "PostCode": "5035",
          "LatLong": "42.8167,25.6333"
+        },
+        {
+         "Name": "Семковци / Semkovci",
+         "PostCode": "5035",
+         "LatLong": "42.8333,25.65"
         },
         {
          "Name": "Райковци / Rajkovci",
@@ -40214,31 +40214,6 @@
          "LatLong": "42.9333,25.6333"
         },
         {
-         "Name": "Въглевци / Vuglevci",
-         "PostCode": "5041",
-         "LatLong": "42.9,25.65"
-        },
-        {
-         "Name": "Дунавци / Dunavci",
-         "PostCode": "5041",
-         "LatLong": "42.9,25.65"
-        },
-        {
-         "Name": "Дечковци / Dechkovci",
-         "PostCode": "5041",
-         "LatLong": "42.9167,25.6667"
-        },
-        {
-         "Name": "Бояновци / Bojanovci",
-         "PostCode": "5041",
-         "LatLong": "42.9333,25.65"
-        },
-        {
-         "Name": "Сеймените / Sejmenite",
-         "PostCode": "5041",
-         "LatLong": "42.8167,25.6"
-        },
-        {
          "Name": "Бранковци / Brankovci",
          "PostCode": "5041",
          "LatLong": "42.9333,25.65"
@@ -40249,19 +40224,34 @@
          "LatLong": "42.9167,25.6167"
         },
         {
+         "Name": "Дечковци / Dechkovci",
+         "PostCode": "5041",
+         "LatLong": "42.9167,25.6667"
+        },
+        {
+         "Name": "Сеймените / Sejmenite",
+         "PostCode": "5041",
+         "LatLong": "42.8167,25.6"
+        },
+        {
+         "Name": "Дунавци / Dunavci",
+         "PostCode": "5041",
+         "LatLong": "42.9,25.65"
+        },
+        {
+         "Name": "Въглевци / Vuglevci",
+         "PostCode": "5041",
+         "LatLong": "42.9,25.65"
+        },
+        {
+         "Name": "Бояновци / Bojanovci",
+         "PostCode": "5041",
+         "LatLong": "42.9333,25.65"
+        },
+        {
          "Name": "Куцаровци / Kucarovci",
          "PostCode": "5042",
          "LatLong": "42.9333,25.7167"
-        },
-        {
-         "Name": "Суха река / Sukha reka",
-         "PostCode": "5045",
-         "LatLong": "42.8833,25.7"
-        },
-        {
-         "Name": "Тодоровци / Todorovci",
-         "PostCode": "5045",
-         "LatLong": "42.8667,25.7"
         },
         {
          "Name": "Илевци / Ilevci",
@@ -40274,6 +40264,16 @@
          "LatLong": "42.8667,25.6833"
         },
         {
+         "Name": "Суха река / Sukha reka",
+         "PostCode": "5045",
+         "LatLong": "42.8833,25.7"
+        },
+        {
+         "Name": "Тодоровци / Todorovci",
+         "PostCode": "5045",
+         "LatLong": "42.8667,25.7"
+        },
+        {
          "Name": "Войнежа / Vojnezha",
          "PostCode": "5045",
          "LatLong": "42.8833,25.6667"
@@ -40284,29 +40284,9 @@
          "LatLong": "42.85,25.6833"
         },
         {
-         "Name": "Върлинка / Vurlinka",
-         "PostCode": "5050",
-         "LatLong": "42.9667,25.6333"
-        },
-        {
-         "Name": "Бойчеви колиби / Bojchevi kolibi",
-         "PostCode": "5050",
-         "LatLong": "42.95,25.5833"
-        },
-        {
-         "Name": "Деветаците / Devetacite",
-         "PostCode": "5050",
-         "LatLong": "42.9167,25.6"
-        },
-        {
          "Name": "Димитровци / Dimitrovci",
          "PostCode": "5050",
          "LatLong": "42.9333,25.5833"
-        },
-        {
-         "Name": "Долен Еневец / Dolen Enevec",
-         "PostCode": "5050",
-         "LatLong": "42.9333,25.5667"
         },
         {
          "Name": "Горен Еневец / Goren Enevec",
@@ -40314,9 +40294,29 @@
          "LatLong": "42.9833,25.6333"
         },
         {
+         "Name": "Върлинка / Vurlinka",
+         "PostCode": "5050",
+         "LatLong": "42.9667,25.6333"
+        },
+        {
+         "Name": "Деветаците / Devetacite",
+         "PostCode": "5050",
+         "LatLong": "42.9167,25.6"
+        },
+        {
+         "Name": "Долен Еневец / Dolen Enevec",
+         "PostCode": "5050",
+         "LatLong": "42.9333,25.5667"
+        },
+        {
          "Name": "Малчовци / Malchovci",
          "PostCode": "5050",
          "LatLong": "42.85,25.55"
+        },
+        {
+         "Name": "Бойчеви колиби / Bojchevi kolibi",
+         "PostCode": "5050",
+         "LatLong": "42.95,25.5833"
         },
         {
          "Name": "Габровци / Gabrovci",
@@ -40450,13 +40450,9 @@
        "Code": "VTR04-09",
        "Places": [
         {
+         "Name": "Сърненци / Surnenci",
          "PostCode": "5035",
-         "LatLong": "42.8667,25.65"
-        },
-        {
-         "Name": "Кисьовци / Kis'ovci",
-         "PostCode": "5035",
-         "LatLong": "42.85,25.6167"
+         "LatLong": "42.8667,25.6167"
         },
         {
          "Name": "Йовчевци / Jovchevci",
@@ -40464,9 +40460,13 @@
          "LatLong": "42.8471,25.642"
         },
         {
-         "Name": "Сърненци / Surnenci",
+         "Name": "Кисьовци / Kis'ovci",
          "PostCode": "5035",
-         "LatLong": "42.8667,25.6167"
+         "LatLong": "42.85,25.6167"
+        },
+        {
+         "PostCode": "5035",
+         "LatLong": "42.8667,25.65"
         },
         {
          "Name": "Терзиите / Terziite",
@@ -40802,14 +40802,9 @@
          "LatLong": "42.9667,25.8333"
         },
         {
-         "Name": "Търкашени / Turkasheni",
+         "Name": "Недялковци / Nedjalkovci",
          "PostCode": "5070",
-         "LatLong": "42.9667,25.8667"
-        },
-        {
-         "Name": "Елена / Elena",
-         "PostCode": "5070",
-         "LatLong": "42.9333,25.8833"
+         "LatLong": "42.9667,25.8333"
         },
         {
          "Name": "Велювци / Veljuvci",
@@ -40822,17 +40817,22 @@
          "LatLong": "42.9667,25.8833"
         },
         {
-         "Name": "Недялковци / Nedjalkovci",
+         "Name": "Търкашени / Turkasheni",
          "PostCode": "5070",
-         "LatLong": "42.9667,25.8333"
+         "LatLong": "42.9667,25.8667"
+        },
+        {
+         "Name": "Елена / Elena",
+         "PostCode": "5070",
+         "LatLong": "42.9333,25.8833"
+        },
+        {
+         "Name": "Христовци / Khristovci",
+         "PostCode": "5070",
+         "LatLong": "42.9,25.9167"
         },
         {
          "Name": "Червенковци / Chervenkovci",
-         "PostCode": "5070",
-         "LatLong": "42.95,25.8333"
-        },
-        {
-         "Name": "Титевци / Titevci",
          "PostCode": "5070",
          "LatLong": "42.95,25.8333"
         },
@@ -40847,9 +40847,9 @@
          "LatLong": "42.95,25.85"
         },
         {
-         "Name": "Христовци / Khristovci",
+         "Name": "Титевци / Titevci",
          "PostCode": "5070",
-         "LatLong": "42.9,25.9167"
+         "LatLong": "42.95,25.8333"
         },
         {
          "Name": "Блъсковци / Bluskovci",
@@ -40872,6 +40872,16 @@
          "LatLong": "42.95,26.0667"
         },
         {
+         "Name": "Яковци / Jakovci",
+         "PostCode": "5081",
+         "LatLong": "42.9333,25.8167"
+        },
+        {
+         "Name": "Вързилковци / Vurzilkovci",
+         "PostCode": "5081",
+         "LatLong": "42.9271,25.8687"
+        },
+        {
          "Name": "Донковци / Donkovci",
          "PostCode": "5081",
          "LatLong": "42.9167,25.8"
@@ -40882,27 +40892,7 @@
          "LatLong": "42.95,25.8333"
         },
         {
-         "Name": "Бръчковци / Bruchkovci",
-         "PostCode": "5081",
-         "LatLong": "42.9333,25.8"
-        },
-        {
          "Name": "Махалници / Makhalnici",
-         "PostCode": "5081",
-         "LatLong": "42.9333,25.8167"
-        },
-        {
-         "Name": "Вързилковци / Vurzilkovci",
-         "PostCode": "5081",
-         "LatLong": "42.9271,25.8687"
-        },
-        {
-         "Name": "Драганосковци / Draganoskovci",
-         "PostCode": "5081",
-         "LatLong": "42.9167,25.8333"
-        },
-        {
-         "Name": "Яковци / Jakovci",
          "PostCode": "5081",
          "LatLong": "42.9333,25.8167"
         },
@@ -40910,6 +40900,16 @@
          "Name": "Стойчевци / Stojchevci",
          "PostCode": "5081",
          "LatLong": "42.9167,25.9167"
+        },
+        {
+         "Name": "Бръчковци / Bruchkovci",
+         "PostCode": "5081",
+         "LatLong": "42.9333,25.8"
+        },
+        {
+         "Name": "Драганосковци / Draganoskovci",
+         "PostCode": "5081",
+         "LatLong": "42.9167,25.8333"
         },
         {
          "Name": "Хъневци / Khunevci",
@@ -40927,14 +40927,9 @@
          "LatLong": "42.8833,25.9333"
         },
         {
-         "Name": "Палици / Palici",
+         "Name": "Горска / Gorska",
          "PostCode": "5083",
-         "LatLong": "42.9,26"
-        },
-        {
-         "Name": "Давери / Daveri",
-         "PostCode": "5083",
-         "LatLong": "42.9333,26"
+         "LatLong": "42.9167,26"
         },
         {
          "Name": "Тумбевци / Tumbevci",
@@ -40942,14 +40937,14 @@
          "LatLong": "42.9167,26"
         },
         {
+         "Name": "Давери / Daveri",
+         "PostCode": "5083",
+         "LatLong": "42.9333,26"
+        },
+        {
          "Name": "Брезово / Brezovo",
          "PostCode": "5083",
          "LatLong": "42.9333,26.0167"
-        },
-        {
-         "Name": "Горска / Gorska",
-         "PostCode": "5083",
-         "LatLong": "42.9167,26"
         },
         {
          "Name": "Миневци / Minevci",
@@ -40957,19 +40952,19 @@
          "LatLong": "42.9167,26.0167"
         },
         {
+         "Name": "Палици / Palici",
+         "PostCode": "5083",
+         "LatLong": "42.9,26"
+        },
+        {
          "Name": "Долни Марян / Dolni Marjan",
          "PostCode": "5084",
          "LatLong": "42.9333,25.95"
         },
         {
-         "Name": "Радовци / Radovci",
+         "Name": "Дебели рът / Debeli rut",
          "PostCode": "5084",
-         "LatLong": "42.9333,25.9333"
-        },
-        {
-         "Name": "Марян / Marjan",
-         "PostCode": "5084",
-         "LatLong": "42.9333,25.9667"
+         "LatLong": "43,26"
         },
         {
          "Name": "Дайновци / Dajnovci",
@@ -40977,17 +40972,17 @@
          "LatLong": "42.9583,25.987"
         },
         {
-         "Name": "Стояновци / Stojanovci",
-         "PostCode": "5084",
-         "LatLong": "43,26"
-        },
-        {
          "Name": "Тънки рът / Tunki rut",
          "PostCode": "5084",
          "LatLong": "42.9833,26"
         },
         {
-         "Name": "Дебели рът / Debeli rut",
+         "Name": "Радовци / Radovci",
+         "PostCode": "5084",
+         "LatLong": "42.9333,25.9333"
+        },
+        {
+         "Name": "Стояновци / Stojanovci",
          "PostCode": "5084",
          "LatLong": "43,26"
         },
@@ -40997,14 +40992,14 @@
          "LatLong": "42.8833,26"
         },
         {
+         "Name": "Марян / Marjan",
+         "PostCode": "5084",
+         "LatLong": "42.9333,25.9667"
+        },
+        {
          "Name": "Вълчовци / Vulchovci",
          "PostCode": "5086",
          "LatLong": "42.95,25.8167"
-        },
-        {
-         "Name": "Шилковци / Shilkovci",
-         "PostCode": "5087",
-         "LatLong": "42.9333,25.7667"
         },
         {
          "Name": "Баевци / Baevci",
@@ -41012,19 +41007,19 @@
          "LatLong": "42.9167,25.7833"
         },
         {
-         "Name": "Ребревци / Rebrevci",
-         "PostCode": "5087",
-         "LatLong": "42.9,25.7667"
-        },
-        {
          "Name": "Гърдевци / Gurdevci",
          "PostCode": "5087",
          "LatLong": "42.9167,25.7833"
         },
         {
-         "Name": "Берковци / Berkovci",
-         "PostCode": "5093",
-         "LatLong": "42.8833,25.7167"
+         "Name": "Шилковци / Shilkovci",
+         "PostCode": "5087",
+         "LatLong": "42.9333,25.7667"
+        },
+        {
+         "Name": "Ребревци / Rebrevci",
+         "PostCode": "5087",
+         "LatLong": "42.9,25.7667"
         },
         {
          "Name": "Харваловци / Kharvalovci",
@@ -41032,9 +41027,14 @@
          "LatLong": "42.9167,25.7333"
         },
         {
-         "Name": "Средни колиби / Sredni kolibi",
+         "Name": "Бадевци / Badevci",
          "PostCode": "5093",
-         "LatLong": "42.9167,25.7333"
+         "LatLong": "42.8833,25.75"
+        },
+        {
+         "Name": "Берковци / Berkovci",
+         "PostCode": "5093",
+         "LatLong": "42.8833,25.7167"
         },
         {
          "Name": "Илиювци / Ilijuvci",
@@ -41042,9 +41042,9 @@
          "LatLong": "42.9067,25.7367"
         },
         {
-         "Name": "Бадевци / Badevci",
+         "Name": "Средни колиби / Sredni kolibi",
          "PostCode": "5093",
-         "LatLong": "42.8833,25.75"
+         "LatLong": "42.9167,25.7333"
         },
         {
          "Name": "Раювци / Rajuvci",
@@ -41052,34 +41052,14 @@
          "LatLong": "42.9333,25.75"
         },
         {
-         "Name": "Султани / Sultani",
-         "PostCode": "5094",
-         "LatLong": "42.8667,25.8167"
-        },
-        {
-         "Name": "Тодювци / Todjuvci",
-         "PostCode": "5094",
-         "LatLong": "42.8667,25.8333"
-        },
-        {
-         "Name": "Карандили / Karandili",
+         "Name": "Мирчовци / Mirchovci",
          "PostCode": "5094",
          "LatLong": "42.8833,25.8167"
         },
         {
-         "Name": "Шиливери / Shiliveri",
+         "Name": "Райновци / Rajnovci",
          "PostCode": "5094",
-         "LatLong": "42.8667,25.8"
-        },
-        {
-         "Name": "Мъртвината / Murtvinata",
-         "PostCode": "5094",
-         "LatLong": "42.8833,25.7833"
-        },
-        {
-         "Name": "Драгийци / Dragijci",
-         "PostCode": "5094",
-         "LatLong": "42.8667,25.7833"
+         "LatLong": "42.8833,25.85"
         },
         {
          "Name": "Багалевци / Bagalevci",
@@ -41092,9 +41072,34 @@
          "LatLong": "42.85,25.8167"
         },
         {
-         "Name": "Драгановци / Draganovci",
+         "Name": "Султани / Sultani",
          "PostCode": "5094",
-         "LatLong": "42.8667,25.9167"
+         "LatLong": "42.8667,25.8167"
+        },
+        {
+         "Name": "Драгийци / Dragijci",
+         "PostCode": "5094",
+         "LatLong": "42.8667,25.7833"
+        },
+        {
+         "Name": "Карандили / Karandili",
+         "PostCode": "5094",
+         "LatLong": "42.8833,25.8167"
+        },
+        {
+         "Name": "Тодювци / Todjuvci",
+         "PostCode": "5094",
+         "LatLong": "42.8667,25.8333"
+        },
+        {
+         "Name": "Мъртвината / Murtvinata",
+         "PostCode": "5094",
+         "LatLong": "42.8833,25.7833"
+        },
+        {
+         "Name": "Шиливери / Shiliveri",
+         "PostCode": "5094",
+         "LatLong": "42.8667,25.8"
         },
         {
          "Name": "Веселина / Veselina",
@@ -41102,34 +41107,9 @@
          "LatLong": "42.8667,25.85"
         },
         {
-         "Name": "Мирчовци / Mirchovci",
-         "PostCode": "5094",
-         "LatLong": "42.8833,25.8167"
-        },
-        {
-         "Name": "Бейковци / Bejkovci",
-         "PostCode": "5094",
-         "LatLong": "42.8667,25.85"
-        },
-        {
-         "Name": "Райновци / Rajnovci",
-         "PostCode": "5094",
-         "LatLong": "42.8833,25.85"
-        },
-        {
          "Name": "Кантари / Kantari",
          "PostCode": "5094",
          "LatLong": "42.8667,25.7833"
-        },
-        {
-         "Name": "Дуковци / Dukovci",
-         "PostCode": "5094",
-         "LatLong": "42.8833,25.8333"
-        },
-        {
-         "Name": "Папратлива / Papratliva",
-         "PostCode": "5094",
-         "LatLong": "42.85,25.85"
         },
         {
          "Name": "Аплаци / Aplaci",
@@ -41142,14 +41122,24 @@
          "LatLong": "42.8833,25.8"
         },
         {
-         "Name": "Баждари / Bazhdari",
-         "PostCode": "5095",
-         "LatLong": "42.85,25.7667"
+         "Name": "Папратлива / Papratliva",
+         "PostCode": "5094",
+         "LatLong": "42.85,25.85"
         },
         {
-         "Name": "Пейковци / Pejkovci",
-         "PostCode": "5095",
-         "LatLong": "42.8333,25.8"
+         "Name": "Драгановци / Draganovci",
+         "PostCode": "5094",
+         "LatLong": "42.8667,25.9167"
+        },
+        {
+         "Name": "Бейковци / Bejkovci",
+         "PostCode": "5094",
+         "LatLong": "42.8667,25.85"
+        },
+        {
+         "Name": "Дуковци / Dukovci",
+         "PostCode": "5094",
+         "LatLong": "42.8833,25.8333"
         },
         {
          "Name": "Дрента / Drenta",
@@ -41157,14 +41147,19 @@
          "LatLong": "42.8167,25.7833"
         },
         {
-         "Name": "Косевци / Kosevci",
-         "PostCode": "5095",
-         "LatLong": "42.85,25.8"
-        },
-        {
          "Name": "Добревци / Dobrevci",
          "PostCode": "5095",
          "LatLong": "42.8333,25.8167"
+        },
+        {
+         "Name": "Пейковци / Pejkovci",
+         "PostCode": "5095",
+         "LatLong": "42.8333,25.8"
+        },
+        {
+         "Name": "Косевци / Kosevci",
+         "PostCode": "5095",
+         "LatLong": "42.85,25.8"
         },
         {
          "Name": "Караиванци / Karaivanci",
@@ -41172,9 +41167,24 @@
          "LatLong": "42.8,25.8"
         },
         {
+         "Name": "Баждари / Bazhdari",
+         "PostCode": "5095",
+         "LatLong": "42.85,25.7667"
+        },
+        {
          "Name": "Горни край / Gorni kraj",
          "PostCode": "5096",
          "LatLong": "42.8167,25.7833"
+        },
+        {
+         "Name": "Шубеци / Shubeci",
+         "PostCode": "5097",
+         "LatLong": "42.8833,25.8667"
+        },
+        {
+         "Name": "Велковци / Velkovci",
+         "PostCode": "5097",
+         "LatLong": "42.9,25.9"
         },
         {
          "Name": "Драгневци / Dragnevci",
@@ -41182,27 +41192,7 @@
          "LatLong": "42.85,25.8667"
         },
         {
-         "Name": "Габрака / Gabraka",
-         "PostCode": "5097",
-         "LatLong": "42.8333,25.8667"
-        },
-        {
-         "Name": "Кожлювци / Kozhljuvci",
-         "PostCode": "5097",
-         "LatLong": "42.8667,25.9"
-        },
-        {
-         "Name": "Лазарци / Lazarci",
-         "PostCode": "5097",
-         "LatLong": "42.8833,25.9"
-        },
-        {
-         "Name": "Трънковци / Trunkovci",
-         "PostCode": "5097",
-         "LatLong": "42.8833,25.9167"
-        },
-        {
-         "Name": "Буйновци / Bujnovci",
+         "Name": "Нешевци / Neshevci",
          "PostCode": "5097",
          "LatLong": "42.8667,25.9"
         },
@@ -41212,24 +41202,14 @@
          "LatLong": "42.8667,25.8667"
         },
         {
-         "Name": "Велковци / Velkovci",
-         "PostCode": "5097",
-         "LatLong": "42.9,25.9"
-        },
-        {
-         "Name": "Долни Танчевци / Dolni Tanchevci",
+         "Name": "Лазарци / Lazarci",
          "PostCode": "5097",
          "LatLong": "42.8833,25.9"
         },
         {
-         "Name": "Нешевци / Neshevci",
+         "Name": "Буйновци / Bujnovci",
          "PostCode": "5097",
          "LatLong": "42.8667,25.9"
-        },
-        {
-         "Name": "Шубеци / Shubeci",
-         "PostCode": "5097",
-         "LatLong": "42.8833,25.8667"
         },
         {
          "Name": "Ничовци / Nichovci",
@@ -41237,14 +41217,14 @@
          "LatLong": "42.8705,25.8885"
         },
         {
-         "Name": "Котуци / Kotuci",
+         "Name": "Трънковци / Trunkovci",
          "PostCode": "5097",
-         "LatLong": "42.8667,25.8833"
+         "LatLong": "42.8833,25.9167"
         },
         {
-         "Name": "Крилювци / Kriljuvci",
+         "Name": "Габрака / Gabraka",
          "PostCode": "5097",
-         "LatLong": "42.8667,25.8833"
+         "LatLong": "42.8333,25.8667"
         },
         {
          "Name": "Нюшковци / Njushkovci",
@@ -41252,34 +41232,24 @@
          "LatLong": "42.8705,25.8885"
         },
         {
-         "Name": "Високовци / Visokovci",
-         "PostCode": "5098",
+         "Name": "Кожлювци / Kozhljuvci",
+         "PostCode": "5097",
          "LatLong": "42.8667,25.9"
         },
         {
-         "Name": "Мийковци / Mijkovci",
-         "PostCode": "5098",
-         "LatLong": "42.85,25.95"
+         "Name": "Котуци / Kotuci",
+         "PostCode": "5097",
+         "LatLong": "42.8667,25.8833"
         },
         {
-         "Name": "Игнатовци / Ignatovci",
-         "PostCode": "5098",
-         "LatLong": "42.8667,25.9"
+         "Name": "Долни Танчевци / Dolni Tanchevci",
+         "PostCode": "5097",
+         "LatLong": "42.8833,25.9"
         },
         {
-         "Name": "Ралиновци / Ralinovci",
-         "PostCode": "5098",
-         "LatLong": "42.8667,25.9"
-        },
-        {
-         "Name": "Топузи / Topuzi",
-         "PostCode": "5098",
-         "LatLong": "42.85,25.9167"
-        },
-        {
-         "Name": "Николчовци / Nikolchovci",
-         "PostCode": "5098",
-         "LatLong": "42.85,25.9"
+         "Name": "Крилювци / Kriljuvci",
+         "PostCode": "5097",
+         "LatLong": "42.8667,25.8833"
         },
         {
          "Name": "Горни Танчевци / Gorni Tanchevci",
@@ -41287,9 +41257,34 @@
          "LatLong": "42.8333,25.9167"
         },
         {
-         "Name": "Чакали / Chakali",
-         "PostCode": "5099",
-         "LatLong": "42.9167,25.9833"
+         "Name": "Николчовци / Nikolchovci",
+         "PostCode": "5098",
+         "LatLong": "42.85,25.9"
+        },
+        {
+         "Name": "Мийковци / Mijkovci",
+         "PostCode": "5098",
+         "LatLong": "42.85,25.95"
+        },
+        {
+         "Name": "Топузи / Topuzi",
+         "PostCode": "5098",
+         "LatLong": "42.85,25.9167"
+        },
+        {
+         "Name": "Ралиновци / Ralinovci",
+         "PostCode": "5098",
+         "LatLong": "42.8667,25.9"
+        },
+        {
+         "Name": "Високовци / Visokovci",
+         "PostCode": "5098",
+         "LatLong": "42.8667,25.9"
+        },
+        {
+         "Name": "Игнатовци / Ignatovci",
+         "PostCode": "5098",
+         "LatLong": "42.8667,25.9"
         },
         {
          "Name": "Граматици / Gramatici",
@@ -41297,9 +41292,9 @@
          "LatLong": "42.9,25.9833"
         },
         {
-         "Name": "Зеленик / Zelenik",
+         "Name": "Костел / Kostel",
          "PostCode": "5099",
-         "LatLong": "42.85,26"
+         "LatLong": "42.8833,26"
         },
         {
          "Name": "Събковци / Subkovci",
@@ -41312,9 +41307,14 @@
          "LatLong": "42.8667,25.9833"
         },
         {
-         "Name": "Костел / Kostel",
+         "Name": "Чакали / Chakali",
          "PostCode": "5099",
-         "LatLong": "42.8833,26"
+         "LatLong": "42.9167,25.9833"
+        },
+        {
+         "Name": "Зеленик / Zelenik",
+         "PostCode": "5099",
+         "LatLong": "42.85,26"
         }
        ]
       },
@@ -41323,8 +41323,9 @@
        "Code": "VTR13-09",
        "Places": [
         {
+         "Name": "Крумчевци / Krumchevci",
          "PostCode": "5080",
-         "LatLong": "42.95,26.0667"
+         "LatLong": "42.9333,26.1167"
         },
         {
          "Name": "Глоговец / Glogovec",
@@ -41337,9 +41338,8 @@
          "LatLong": "42.9417,26.0917"
         },
         {
-         "Name": "Крумчевци / Krumchevci",
          "PostCode": "5080",
-         "LatLong": "42.9333,26.1167"
+         "LatLong": "42.95,26.0667"
         }
        ]
       },
@@ -41383,14 +41383,19 @@
        "Code": "VTR13-01",
        "Places": [
         {
-         "Name": "Бялковци / Bjalkovci",
+         "Name": "Попска / Popska",
          "PostCode": "5084",
-         "LatLong": "42.95,26"
+         "LatLong": "42.9667,26"
         },
         {
-         "Name": "Ганев дол / Ganev dol",
+         "Name": "Петковци / Petkovci",
          "PostCode": "5084",
-         "LatLong": "42.95,25.9667"
+         "LatLong": "42.95,26.0167"
+        },
+        {
+         "Name": "Босевци / Bosevci",
+         "PostCode": "5084",
+         "LatLong": "42.9667,25.95"
         },
         {
          "Name": "Попрусевци / Poprusevci",
@@ -41398,19 +41403,13 @@
          "LatLong": "42.9583,25.987"
         },
         {
-         "Name": "Попска / Popska",
+         "Name": "Бялковци / Bjalkovci",
          "PostCode": "5084",
-         "LatLong": "42.9667,26"
+         "LatLong": "42.95,26"
         },
         {
-         "Name": "Черни дял / Cherni djal",
          "PostCode": "5084",
-         "LatLong": "42.9667,26.0167"
-        },
-        {
-         "Name": "Босевци / Bosevci",
-         "PostCode": "5084",
-         "LatLong": "42.9667,25.95"
+         "LatLong": "42.95,26.0167"
         },
         {
          "Name": "Чавдарци / Chavdarci",
@@ -41423,18 +41422,19 @@
          "LatLong": "42.95,26.0167"
         },
         {
-         "Name": "Петковци / Petkovci",
+         "Name": "Ганев дол / Ganev dol",
          "PostCode": "5084",
-         "LatLong": "42.95,26.0167"
-        },
-        {
-         "PostCode": "5084",
-         "LatLong": "42.95,26.0167"
+         "LatLong": "42.95,25.9667"
         },
         {
          "Name": "Иванивановци / Ivanivanovci",
          "PostCode": "5084",
          "LatLong": "42.95,25.95"
+        },
+        {
+         "Name": "Черни дял / Cherni djal",
+         "PostCode": "5084",
+         "LatLong": "42.9667,26.0167"
         }
        ]
       }
@@ -41463,14 +41463,24 @@
          "LatLong": "43.0167,26.0667"
         },
         {
-         "Name": "Горско Писарево / Gorsko Pisarevo",
+         "Name": "Средно село / Sredno selo",
          "PostCode": "5088",
-         "LatLong": "43.0167,26.05"
+         "LatLong": "43.0167,26.0667"
         },
         {
          "Name": "Чуката / Chukata",
          "PostCode": "5088",
          "LatLong": "43,26.0667"
+        },
+        {
+         "Name": "Чистово / Chistovo",
+         "PostCode": "5088",
+         "LatLong": "43.0167,26.0667"
+        },
+        {
+         "Name": "Новогорци / Novogorci",
+         "PostCode": "5088",
+         "LatLong": "43.0167,26.1"
         },
         {
          "Name": "Резач / Rezach",
@@ -41483,24 +41493,14 @@
          "LatLong": "43,26.05"
         },
         {
-         "Name": "Чистово / Chistovo",
-         "PostCode": "5088",
-         "LatLong": "43.0167,26.0667"
-        },
-        {
          "Name": "Рекичка / Rekichka",
          "PostCode": "5088",
          "LatLong": "43.0167,26.0333"
         },
         {
-         "Name": "Овощна / Ovoshhna",
+         "Name": "Горско Писарево / Gorsko Pisarevo",
          "PostCode": "5088",
-         "LatLong": "43.0148,26.0574"
-        },
-        {
-         "Name": "Новогорци / Novogorci",
-         "PostCode": "5088",
-         "LatLong": "43.0167,26.1"
+         "LatLong": "43.0167,26.05"
         },
         {
          "Name": "Калайджии / Kalajdzhii",
@@ -41508,19 +41508,9 @@
          "LatLong": "43.0333,26.0333"
         },
         {
-         "Name": "Средно село / Sredno selo",
+         "Name": "Овощна / Ovoshhna",
          "PostCode": "5088",
-         "LatLong": "43.0167,26.0667"
-        },
-        {
-         "Name": "Равново / Ravnovo",
-         "PostCode": "5089",
-         "LatLong": "43.0333,25.9167"
-        },
-        {
-         "Name": "Дуровци / Durovci",
-         "PostCode": "5089",
-         "LatLong": "43.0333,26"
+         "LatLong": "43.0148,26.0574"
         },
         {
          "Name": "Дедина / Dedina",
@@ -41528,14 +41518,19 @@
          "LatLong": "43.0167,25.9667"
         },
         {
+         "Name": "Дуровци / Durovci",
+         "PostCode": "5089",
+         "LatLong": "43.0333,26"
+        },
+        {
          "Name": "Горна Хаджийска / Gorna Khadzhijska",
          "PostCode": "5089",
          "LatLong": "43.0333,25.9833"
         },
         {
-         "Name": "Разсоха / Razsokha",
+         "Name": "Равново / Ravnovo",
          "PostCode": "5089",
-         "LatLong": "43.0167,25.9833"
+         "LatLong": "43.0333,25.9167"
         },
         {
          "Name": "Дединци / Dedinci",
@@ -41543,14 +41538,19 @@
          "LatLong": "43.0167,25.95"
         },
         {
-         "Name": "Златарица / Zlatarica",
-         "PostCode": "5090",
-         "LatLong": "43.05,25.9"
+         "Name": "Разсоха / Razsokha",
+         "PostCode": "5089",
+         "LatLong": "43.0167,25.9833"
         },
         {
          "Name": "Долно Шивачево / Dolno Shivachevo",
          "PostCode": "5090",
          "LatLong": "43.0333,26.0167"
+        },
+        {
+         "Name": "Златарица / Zlatarica",
+         "PostCode": "5090",
+         "LatLong": "43.05,25.9"
         },
         {
          "Name": "Росно / Rosno",

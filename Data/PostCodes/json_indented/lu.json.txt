@@ -1204,14 +1204,14 @@
        "LatLong": "49.7051,5.9821"
       },
       {
-       "Name": "Greisch",
-       "PostCode": "L-8363",
-       "LatLong": "49.71,5.9875"
-      },
-      {
        "Name": "Simmerschmelz",
        "PostCode": "L-8363",
        "LatLong": "49.6942,5.9852"
+      },
+      {
+       "Name": "Greisch",
+       "PostCode": "L-8363",
+       "LatLong": "49.71,5.9875"
       },
       {
        "PostCode": "L-8383",
@@ -2057,14 +2057,14 @@
        "LatLong": "50.0415,6.0168"
       },
       {
-       "Name": "Wirtgensmühle",
-       "PostCode": "L-9765",
-       "LatLong": "50.0336,6.0088"
-      },
-      {
        "Name": "Kaaspelterhof",
        "PostCode": "L-9765",
        "LatLong": "50.029,6.0001"
+      },
+      {
+       "Name": "Wirtgensmühle",
+       "PostCode": "L-9765",
+       "LatLong": "50.0336,6.0088"
       },
       {
        "Name": "Munshausen",
@@ -2229,14 +2229,14 @@
        "LatLong": "50.1549,6.0793"
       },
       {
-       "Name": "Hollermühle",
-       "PostCode": "L-9968",
-       "LatLong": "50.1168,6.0519"
-      },
-      {
        "Name": "Rossmühle",
        "PostCode": "L-9968",
        "LatLong": "50.1106,6.046"
+      },
+      {
+       "Name": "Hollermühle",
+       "PostCode": "L-9968",
+       "LatLong": "50.1168,6.0519"
       },
       {
        "Name": "Leithum",
@@ -2476,14 +2476,14 @@
        "LatLong": "49.8996,6.0368"
       },
       {
-       "Name": "Bourscheid-Plage",
-       "PostCode": "L-9164",
-       "LatLong": "49.9101,6.0819"
-      },
-      {
        "Name": "Lipperscheid",
        "PostCode": "L-9164",
        "LatLong": "49.9184,6.0866"
+      },
+      {
+       "Name": "Bourscheid-Plage",
+       "PostCode": "L-9164",
+       "LatLong": "49.9101,6.0819"
       },
       {
        "Name": "Bourscheid-Moulin",
@@ -2506,19 +2506,24 @@
        "LatLong": "49.893,6.0421"
       },
       {
-       "Name": "Friedbusch",
-       "PostCode": "L-9183",
-       "LatLong": "49.9504,6.0557"
-      },
-      {
        "Name": "Schlindermanderscheid",
        "PostCode": "L-9183",
        "LatLong": "49.9321,6.0607"
       },
       {
+       "Name": "Friedbusch",
+       "PostCode": "L-9183",
+       "LatLong": "49.9504,6.0557"
+      },
+      {
        "Name": "Welscheid",
        "PostCode": "L-9191",
        "LatLong": "49.8868,6.0647"
+      },
+      {
+       "Name": "Enteschbach",
+       "PostCode": "L-9378",
+       "LatLong": "49.912,6.114"
       },
       {
        "Name": "Lipperscheid",
@@ -2529,11 +2534,6 @@
        "Name": "Flebour",
        "PostCode": "L-9378",
        "LatLong": "49.9105,6.1072"
-      },
-      {
-       "Name": "Enteschbach",
-       "PostCode": "L-9378",
-       "LatLong": "49.912,6.114"
       },
       {
        "Name": "Closdelt",
@@ -2877,14 +2877,14 @@
        "LatLong": "49.8632,6.1117"
       },
       {
-       "Name": "Ingeldorf",
-       "PostCode": "L-9147",
-       "LatLong": "49.8526,6.119"
-      },
-      {
        "Name": "Erpeldange-sur-Sûre",
        "PostCode": "L-9147",
        "LatLong": "49.8599,6.1153"
+      },
+      {
+       "Name": "Ingeldorf",
+       "PostCode": "L-9147",
+       "LatLong": "49.8526,6.119"
       },
       {
        "Name": "Ingeldorf",
@@ -3540,14 +3540,14 @@
        "LatLong": "49.7555,6.328"
       },
       {
-       "Name": "Kobenbour",
-       "PostCode": "L-6225",
-       "LatLong": "49.756,6.3054"
-      },
-      {
        "Name": "Altrier",
        "PostCode": "L-6225",
        "LatLong": "49.75,6.3256"
+      },
+      {
+       "Name": "Kobenbour",
+       "PostCode": "L-6225",
+       "LatLong": "49.756,6.3054"
       },
       {
        "PostCode": "L-6230",
@@ -3674,14 +3674,14 @@
        "LatLong": "49.7777,6.3057"
       },
       {
-       "Name": "Marscherwald",
-       "PostCode": "L-6239",
-       "LatLong": "49.7631,6.2844"
-      },
-      {
        "Name": "Colbette",
        "PostCode": "L-6239",
        "LatLong": "49.7686,6.3027"
+      },
+      {
+       "Name": "Marscherwald",
+       "PostCode": "L-6239",
+       "LatLong": "49.7631,6.2844"
       },
       {
        "PostCode": "L-6250",
@@ -5238,13 +5238,13 @@
        "LatLong": "49.5268,5.8898"
       },
       {
+       "PostCode": "L-4687",
+       "LatLong": "49.5189,5.9056"
+      },
+      {
        "Name": "Oberkorn",
        "PostCode": "L-4687",
        "LatLong": "49.5163,5.8999"
-      },
-      {
-       "PostCode": "L-4687",
-       "LatLong": "49.5189,5.9056"
       },
       {
        "PostCode": "L-4688",
@@ -7245,13 +7245,13 @@
        "LatLong": "49.474,6.0369"
       },
       {
-       "PostCode": "L-3781",
-       "LatLong": "49.4803,6.0376"
-      },
-      {
        "Name": "Tétange",
        "PostCode": "L-3781",
        "LatLong": "49.4798,6.0401"
+      },
+      {
+       "PostCode": "L-3781",
+       "LatLong": "49.4803,6.0376"
       },
       {
        "Name": "Tétange",
@@ -8325,14 +8325,14 @@
        "LatLong": "49.5564,6.1041"
       },
       {
-       "Name": "Berchem",
-       "PostCode": "L-3320",
-       "LatLong": "49.5395,6.1332"
-      },
-      {
        "Name": "Bivange",
        "PostCode": "L-3320",
        "LatLong": "49.5421,6.1369"
+      },
+      {
+       "Name": "Berchem",
+       "PostCode": "L-3320",
+       "LatLong": "49.5395,6.1332"
       },
       {
        "Name": "Berchem",
@@ -9439,23 +9439,23 @@
        "LatLong": "49.703,6.3747"
       },
       {
+       "PostCode": "L-6834",
+       "LatLong": "49.708,6.374"
+      },
+      {
        "Name": "Biwerbach",
        "PostCode": "L-6834",
        "LatLong": "49.7116,6.3656"
       },
       {
-       "PostCode": "L-6834",
-       "LatLong": "49.708,6.374"
+       "Name": "Boudlerbach",
+       "PostCode": "L-6835",
+       "LatLong": "49.7178,6.3514"
       },
       {
        "Name": "Boudler",
        "PostCode": "L-6835",
        "LatLong": "49.7224,6.3533"
-      },
-      {
-       "Name": "Boudlerbach",
-       "PostCode": "L-6835",
-       "LatLong": "49.7178,6.3514"
       },
       {
        "Name": "Breinert",
@@ -11230,13 +11230,13 @@
        "LatLong": "49.5686,6.1545"
       },
       {
-       "PostCode": "L-5862",
-       "LatLong": "49.5712,6.1498"
-      },
-      {
        "Name": "Fentange",
        "PostCode": "L-5862",
        "LatLong": "49.5711,6.1467"
+      },
+      {
+       "PostCode": "L-5862",
+       "LatLong": "49.5712,6.1498"
       },
       {
        "Name": "Alzingen",
@@ -11364,13 +11364,13 @@
        "LatLong": "49.5665,6.1546"
       },
       {
-       "PostCode": "L-5890",
-       "LatLong": "49.5719,6.1614"
-      },
-      {
        "Name": "Alzingen",
        "PostCode": "L-5890",
        "LatLong": "49.5717,6.1619"
+      },
+      {
+       "PostCode": "L-5890",
+       "LatLong": "49.5719,6.1614"
       },
       {
        "Name": "Fentange",
@@ -11802,6 +11802,11 @@
        "LatLong": "49.6618,6.2353"
       },
       {
+       "Name": "Oberanven",
+       "PostCode": "L-6996",
+       "LatLong": "49.6594,6.2376"
+      },
+      {
        "Name": "Hostert",
        "PostCode": "L-6996",
        "LatLong": "49.661,6.2348"
@@ -11810,11 +11815,6 @@
        "Name": "Rameldange",
        "PostCode": "L-6996",
        "LatLong": "49.6614,6.2357"
-      },
-      {
-       "Name": "Oberanven",
-       "PostCode": "L-6996",
-       "LatLong": "49.6594,6.2376"
       },
       {
        "Name": "Oberanven",
@@ -12064,13 +12064,13 @@
        "LatLong": "49.6211,6.2624"
       },
       {
-       "PostCode": "L-5372",
-       "LatLong": "49.6248,6.2665"
-      },
-      {
        "Name": "Munsbach",
        "PostCode": "L-5372",
        "LatLong": "49.6271,6.2666"
+      },
+      {
+       "PostCode": "L-5372",
+       "LatLong": "49.6248,6.2665"
       },
       {
        "PostCode": "L-5373",
@@ -12112,13 +12112,13 @@
      "Code": "07",
      "Places": [
       {
+       "PostCode": "L-7302",
+       "LatLong": "49.6775,6.1181"
+      },
+      {
        "Name": "Mullendorf",
        "PostCode": "L-7302",
        "LatLong": "49.6828,6.1268"
-      },
-      {
-       "PostCode": "L-7302",
-       "LatLong": "49.6775,6.1181"
       },
       {
        "PostCode": "L-7303",
@@ -12701,13 +12701,13 @@
        "LatLong": "49.654,6.1171"
       },
       {
-       "PostCode": "L-7226",
-       "LatLong": "49.6566,6.1353"
-      },
-      {
        "Name": "Helmsange",
        "PostCode": "L-7226",
        "LatLong": "49.6584,6.1356"
+      },
+      {
+       "PostCode": "L-7226",
+       "LatLong": "49.6566,6.1353"
       },
       {
        "Name": "Bereldange",
@@ -16951,14 +16951,14 @@
        "LatLong": "49.7522,6.0356"
       },
       {
-       "Name": "Bill",
-       "PostCode": "L-7425",
-       "LatLong": "49.7639,6.0399"
-      },
-      {
        "Name": "Finsterthal",
        "PostCode": "L-7425",
        "LatLong": "49.7584,6.0396"
+      },
+      {
+       "Name": "Bill",
+       "PostCode": "L-7425",
+       "LatLong": "49.7639,6.0399"
       },
       {
        "Name": "Grevenknapp",
@@ -16980,14 +16980,14 @@
      "Code": "04",
      "Places": [
       {
-       "Name": "Stuppicht",
-       "PostCode": "L-6155",
-       "LatLong": "49.7256,6.188"
-      },
-      {
        "Name": "Koedange",
        "PostCode": "L-6155",
        "LatLong": "49.7348,6.2085"
+      },
+      {
+       "Name": "Stuppicht",
+       "PostCode": "L-6155",
+       "LatLong": "49.7256,6.188"
       },
       {
        "Name": "Weyer",
@@ -17386,14 +17386,14 @@
        "LatLong": "49.6906,6.173"
       },
       {
-       "Name": "Blaschette",
-       "PostCode": "L-7392",
-       "LatLong": "49.6976,6.1673"
-      },
-      {
        "Name": "Klingelscheuer",
        "PostCode": "L-7392",
        "LatLong": "49.693,6.1684"
+      },
+      {
+       "Name": "Blaschette",
+       "PostCode": "L-7392",
+       "LatLong": "49.6976,6.1673"
       },
       {
        "Name": "Hunsdorf",
@@ -17779,14 +17779,14 @@
      "Code": "11",
      "Places": [
       {
-       "Name": "Ansembourg",
-       "PostCode": "L-7411",
-       "LatLong": "49.7017,6.0405"
-      },
-      {
        "Name": "Marienthal",
        "PostCode": "L-7411",
        "LatLong": "49.7072,6.0679"
+      },
+      {
+       "Name": "Ansembourg",
+       "PostCode": "L-7411",
+       "LatLong": "49.7017,6.0405"
       },
       {
        "Name": "Bour",
@@ -17958,6 +17958,11 @@
        "LatLong": "49.8566,5.8241"
       },
       {
+       "Name": "Bigonville",
+       "PostCode": "L-8812",
+       "LatLong": "49.8459,5.7915"
+      },
+      {
        "Name": "Bigonville-Poteau",
        "PostCode": "L-8812",
        "LatLong": "49.8383,5.7832"
@@ -17966,11 +17971,6 @@
        "Name": "Flatzbour",
        "PostCode": "L-8812",
        "LatLong": "49.8354,5.7874"
-      },
-      {
-       "Name": "Bigonville",
-       "PostCode": "L-8812",
-       "LatLong": "49.8459,5.7915"
       },
       {
        "Name": "Bigonville",
@@ -18248,13 +18248,13 @@
        "LatLong": "49.8547,5.9019"
       },
       {
-       "PostCode": "L-8818",
-       "LatLong": "49.841,5.8793"
-      },
-      {
        "Name": "Grevels",
        "PostCode": "L-8818",
        "LatLong": "49.8523,5.9142"
+      },
+      {
+       "PostCode": "L-8818",
+       "LatLong": "49.841,5.8793"
       },
       {
        "Name": "Heispelt",
@@ -18988,14 +18988,14 @@
        "LatLong": "49.8925,6.1643"
       },
       {
-       "Name": "Bastendorf",
-       "PostCode": "L-9359",
-       "LatLong": "49.875,6.187"
-      },
-      {
        "Name": "Seltz",
        "PostCode": "L-9359",
        "LatLong": "49.8809,6.1881"
+      },
+      {
+       "Name": "Bastendorf",
+       "PostCode": "L-9359",
+       "LatLong": "49.875,6.187"
       },
       {
        "Name": "Brandenbourg",
@@ -19042,14 +19042,14 @@
        "LatLong": "49.9243,6.128"
       },
       {
-       "Name": "Hoscheidterhof",
-       "PostCode": "L-9458",
-       "LatLong": "49.9361,6.1564"
-      },
-      {
        "Name": "Landscheid",
        "PostCode": "L-9458",
        "LatLong": "49.9426,6.1425"
+      },
+      {
+       "Name": "Hoscheidterhof",
+       "PostCode": "L-9458",
+       "LatLong": "49.9361,6.1564"
       },
       {
        "Name": "Brandenbourg",
@@ -19305,14 +19305,14 @@
        "LatLong": "49.9033,5.9605"
       },
       {
-       "Name": "Bonnal",
-       "PostCode": "L-9660",
-       "LatLong": "49.9024,5.8862"
-      },
-      {
        "Name": "Insenborn",
        "PostCode": "L-9660",
        "LatLong": "49.9004,5.8827"
+      },
+      {
+       "Name": "Bonnal",
+       "PostCode": "L-9660",
+       "LatLong": "49.9024,5.8862"
       },
       {
        "Name": "Lultzhausen",
@@ -19331,14 +19331,14 @@
      "Code": "04",
      "Places": [
       {
-       "Name": "Dirbach (Goesdorf)",
-       "PostCode": "L-9153",
-       "LatLong": "49.9206,6.0348"
-      },
-      {
        "Name": "Goebelsmuehle",
        "PostCode": "L-9153",
        "LatLong": "49.9249,6.0483"
+      },
+      {
+       "Name": "Dirbach (Goesdorf)",
+       "PostCode": "L-9153",
+       "LatLong": "49.9206,6.0348"
       },
       {
        "Name": "Bockholtz (Goesdorf)",
@@ -19366,14 +19366,14 @@
        "LatLong": "49.9318,6.0279"
       },
       {
-       "Name": "Nocher-Route",
-       "PostCode": "L-9674",
-       "LatLong": "49.9473,5.9634"
-      },
-      {
        "Name": "Nocher",
        "PostCode": "L-9674",
        "LatLong": "49.9464,5.9769"
+      },
+      {
+       "Name": "Nocher-Route",
+       "PostCode": "L-9674",
+       "LatLong": "49.9473,5.9634"
       }
      ]
     },
@@ -19703,14 +19703,14 @@
        "LatLong": "49.9602,5.8597"
       },
       {
-       "Name": "Sonlez",
-       "PostCode": "L-9647",
-       "LatLong": "49.9643,5.8238"
-      },
-      {
        "Name": "Doncols",
        "PostCode": "L-9647",
        "LatLong": "49.9722,5.8404"
+      },
+      {
+       "Name": "Sonlez",
+       "PostCode": "L-9647",
+       "LatLong": "49.9643,5.8238"
       },
       {
        "Name": "Gruemelscheid",

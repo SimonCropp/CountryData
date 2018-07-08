@@ -26,10 +26,6 @@
    "LatLong": "19.4333,-70.4"
   },
   {
-   "Name": "Esperilla",
-   "LatLong": "18.45,-70.0833"
-  },
-  {
    "Name": "El Vergel",
    "LatLong": "18.45,-70.0833"
   },
@@ -40,6 +36,10 @@
   {
    "Name": "El Manguito",
    "LatLong": "18.8,-70.0333"
+  },
+  {
+   "Name": "Esperilla",
+   "LatLong": "18.45,-70.0833"
   },
   {
    "Name": "La Julia",
@@ -78,11 +78,11 @@
    "LatLong": "18.45,-69.9333"
   },
   {
-   "Name": "Ciudad Gandera",
+   "Name": "30 de Mayo",
    "LatLong": "18.45,-69.9333"
   },
   {
-   "Name": "30 de Mayo",
+   "Name": "Ciudad Gandera",
    "LatLong": "18.45,-69.9333"
   },
   {
@@ -94,7 +94,7 @@
    "LatLong": "18.45,-69.9333"
   },
   {
-   "Name": "Costa Brava",
+   "Name": "Los Arrecifes",
    "LatLong": "18.45,-69.9333"
   },
   {
@@ -102,11 +102,11 @@
    "LatLong": "18.45,-69.9333"
   },
   {
-   "Name": "Los Arrecifes",
+   "Name": "Antillas",
    "LatLong": "18.45,-69.9333"
   },
   {
-   "Name": "Antillas",
+   "Name": "Costa Brava",
    "LatLong": "18.45,-69.9333"
   },
   {
@@ -186,11 +186,11 @@
    "LatLong": "18.55,-69.8125"
   },
   {
-   "Name": "Encarnacion",
+   "Name": "Urb. Las Praderas",
    "LatLong": "18.55,-69.8125"
   },
   {
-   "Name": "Urb. Las Praderas",
+   "Name": "Encarnacion",
    "LatLong": "18.55,-69.8125"
   },
   {
@@ -330,20 +330,20 @@
    "LatLong": "18.5985,-70.0136"
   },
   {
-   "Name": "Maria Auxiliadora",
-   "LatLong": "18.5,-69.8833"
+   "Name": "Guachupita",
+   "LatLong": "18.75,-69.4"
   },
   {
-   "Name": "La Fuente",
-   "LatLong": "18.4833,-69.8833"
+   "Name": "Maria Auxiliadora",
+   "LatLong": "18.5,-69.8833"
   },
   {
    "Name": "San Martin de Porres",
    "LatLong": "18.5,-69.8833"
   },
   {
-   "Name": "Guachupita",
-   "LatLong": "18.75,-69.4"
+   "Name": "La Fuente",
+   "LatLong": "18.4833,-69.8833"
   },
   {
    "Name": "La Cienaga",
@@ -454,12 +454,12 @@
    "LatLong": "18.4917,-69.9583"
   },
   {
-   "Name": "Las Flores",
-   "LatLong": "19.8,-70.7"
-  },
-  {
    "Name": "Santa Rosa",
    "LatLong": "18.5333,-70.0667"
+  },
+  {
+   "Name": "Las Flores",
+   "LatLong": "19.8,-70.7"
   },
   {
    "Name": "La Cuarenta",
@@ -490,16 +490,12 @@
    "LatLong": "18.7218,-70.2474"
   },
   {
-   "Name": "La Meseta",
-   "LatLong": "18.7667,-70.9"
+   "Name": "Buena Vista",
+   "LatLong": "18.3333,-70.2833"
   },
   {
    "Name": "Arroyo Manzano",
    "LatLong": "18.5083,-70.3292"
-  },
-  {
-   "Name": "Buena Vista",
-   "LatLong": "18.3333,-70.2833"
   },
   {
    "Name": "Fundacion",
@@ -514,11 +510,15 @@
    "LatLong": "18.5167,-69.9667"
   },
   {
-   "Name": "Urb. Puerta de Hierro",
-   "LatLong": "18.5083,-70.3292"
+   "Name": "La Meseta",
+   "LatLong": "18.7667,-70.9"
   },
   {
    "Name": "Cuesta Brava",
+   "LatLong": "18.5083,-70.3292"
+  },
+  {
+   "Name": "Urb. Puerta de Hierro",
    "LatLong": "18.5083,-70.3292"
   },
   {
@@ -534,7 +534,7 @@
    "LatLong": "18.8167,-70.05"
   },
   {
-   "Name": "Colinas de Arroyo Hondo",
+   "Name": "Lomas de Arroyo Hondo",
    "LatLong": "18.8167,-70.05"
   },
   {
@@ -542,7 +542,7 @@
    "LatLong": "18.8167,-70.05"
   },
   {
-   "Name": "Lomas de Arroyo Hondo",
+   "Name": "Colinas de Arroyo Hondo",
    "LatLong": "18.8167,-70.05"
   },
   {
@@ -558,11 +558,11 @@
    "LatLong": "18.65,-70.3083"
   },
   {
-   "Name": "La Agustinita",
+   "Name": "Carmen Amelia",
    "LatLong": "18.7218,-70.2474"
   },
   {
-   "Name": "Carmen Amelia",
+   "Name": "La Agustinita",
    "LatLong": "18.7218,-70.2474"
   },
   {
@@ -586,11 +586,11 @@
    "LatLong": "18.4917,-69.9292"
   },
   {
-   "Name": "Cachiman",
+   "Name": "Ens. La Fe",
    "LatLong": "18.4917,-69.9292"
   },
   {
-   "Name": "Ens. La Fe",
+   "Name": "Cachiman",
    "LatLong": "18.4917,-69.9292"
   },
   {
@@ -602,11 +602,11 @@
    "LatLong": "18.5,-69.9333"
   },
   {
-   "Name": "Lanna Gautier",
+   "Name": "La Cementera",
    "LatLong": "18.5,-69.9333"
   },
   {
-   "Name": "La Cementera",
+   "Name": "Lanna Gautier",
    "LatLong": "18.5,-69.9333"
   },
   {
@@ -658,19 +658,19 @@
    "LatLong": "18.4333,-70.7833"
   },
   {
-   "Name": "Los Guayabos",
-   "LatLong": "18.6,-70.5167"
-  },
-  {
    "Name": "El Condado",
    "LatLong": "18.5167,-70.65"
   },
   {
-   "Name": "Villa Claudia",
-   "LatLong": "18.5167,-70.65"
+   "Name": "Los Guayabos",
+   "LatLong": "18.6,-70.5167"
   },
   {
    "Name": "Don Honorio",
+   "LatLong": "18.5167,-70.65"
+  },
+  {
+   "Name": "Villa Claudia",
    "LatLong": "18.5167,-70.65"
   },
   {
@@ -682,11 +682,11 @@
    "LatLong": "18.4,-70.3333"
   },
   {
-   "Name": "Villa Marina",
+   "Name": "Villa Elena",
    "LatLong": "18.4,-70.3333"
   },
   {
-   "Name": "Villa Elena",
+   "Name": "Villa Marina",
    "LatLong": "18.4,-70.3333"
   },
   {
@@ -694,12 +694,20 @@
    "LatLong": "18.4,-70.3333"
   },
   {
+   "Name": "Pantoja",
+   "LatLong": "18.5167,-70"
+  },
+  {
+   "Name": "Lotificacion Vista Verde",
+   "LatLong": "18.5917,-70.075"
+  },
+  {
    "Name": "La Isabela",
    "LatLong": "18.6667,-70.15"
   },
   {
-   "Name": "Pantoja",
-   "LatLong": "18.5167,-70"
+   "Name": "Colinas del Norte",
+   "LatLong": "18.5917,-70.075"
   },
   {
    "Name": "La Redencion",
@@ -710,32 +718,16 @@
    "LatLong": "18.5917,-70.075"
   },
   {
-   "Name": "Lotificacion Vista Verde",
-   "LatLong": "18.5917,-70.075"
-  },
-  {
-   "Name": "Colinas del Norte",
-   "LatLong": "18.5917,-70.075"
-  },
-  {
    "Name": "Los Angeles",
    "LatLong": "19.2833,-70.5667"
-  },
-  {
-   "Name": "Los Peralejos",
-   "LatLong": "19.0167,-70"
   },
   {
    "Name": "Los Girasoles",
    "LatLong": "19.15,-70.2833"
   },
   {
-   "Name": "Reparto Miguelina",
-   "LatLong": "19.15,-70.2833"
-  },
-  {
-   "Name": "Urb. Brisa del Norte",
-   "LatLong": "19.15,-70.2833"
+   "Name": "Los Peralejos",
+   "LatLong": "19.0167,-70"
   },
   {
    "Name": "Urbanizacion Palma Real",
@@ -746,12 +738,24 @@
    "LatLong": "19.15,-70.2833"
   },
   {
+   "Name": "Reparto Miguelina",
+   "LatLong": "19.15,-70.2833"
+  },
+  {
    "Name": "Reparto Samaria",
+   "LatLong": "19.15,-70.2833"
+  },
+  {
+   "Name": "Urb. Brisa del Norte",
    "LatLong": "19.15,-70.2833"
   },
   {
    "Name": "Barrio La Esperanza",
    "LatLong": "19.05,-70.15"
+  },
+  {
+   "Name": "Los Alcarrizos",
+   "LatLong": "18.5167,-70.0167"
   },
   {
    "Name": "El Tamarindo",
@@ -762,19 +766,7 @@
    "LatLong": "19.5667,-71.7167"
   },
   {
-   "Name": "Los Alcarrizos",
-   "LatLong": "18.5167,-70.0167"
-  },
-  {
    "Name": "Invi",
-   "LatLong": "19.075,-70.5667"
-  },
-  {
-   "Name": "Barrio La Union",
-   "LatLong": "19.075,-70.5667"
-  },
-  {
-   "Name": "Barrio Chavon",
    "LatLong": "19.075,-70.5667"
   },
   {
@@ -786,7 +778,15 @@
    "LatLong": "19.075,-70.5667"
   },
   {
+   "Name": "Barrio Chavon",
+   "LatLong": "19.075,-70.5667"
+  },
+  {
    "Name": "Lebron",
+   "LatLong": "19.075,-70.5667"
+  },
+  {
+   "Name": "Barrio La Union",
    "LatLong": "19.075,-70.5667"
   },
   {
@@ -794,23 +794,7 @@
    "LatLong": "19.15,-70.7"
   },
   {
-   "Name": "Zona Franca de Los Alcarrizos",
-   "LatLong": "19.15,-70.7"
-  },
-  {
-   "Name": "Los Libertadores",
-   "LatLong": "19.15,-70.7"
-  },
-  {
-   "Name": "Barrio La Piña",
-   "LatLong": "19.15,-70.7"
-  },
-  {
    "Name": "Los Americanos",
-   "LatLong": "19.15,-70.7"
-  },
-  {
-   "Name": "Villa San Felipe",
    "LatLong": "19.15,-70.7"
   },
   {
@@ -818,11 +802,7 @@
    "LatLong": "19.15,-70.7"
   },
   {
-   "Name": "Valle Encantado",
-   "LatLong": "19.15,-70.7"
-  },
-  {
-   "Name": "Barrio Paraiso",
+   "Name": "Zona Franca de Los Alcarrizos",
    "LatLong": "19.15,-70.7"
   },
   {
@@ -830,7 +810,23 @@
    "LatLong": "19.15,-70.7"
   },
   {
+   "Name": "Barrio La Piña",
+   "LatLong": "19.15,-70.7"
+  },
+  {
+   "Name": "Valle Encantado",
+   "LatLong": "19.15,-70.7"
+  },
+  {
    "Name": "Barrio Gran Poder de Dios",
+   "LatLong": "19.15,-70.7"
+  },
+  {
+   "Name": "Barrio Paraiso",
+   "LatLong": "19.15,-70.7"
+  },
+  {
+   "Name": "Los Libertadores",
    "LatLong": "19.15,-70.7"
   },
   {
@@ -838,16 +834,24 @@
    "LatLong": "19.15,-70.7"
   },
   {
-   "Name": "24 de Abril",
-   "LatLong": "19.85,-71.65"
+   "Name": "Villa San Felipe",
+   "LatLong": "19.15,-70.7"
+  },
+  {
+   "Name": "Varia",
+   "LatLong": "18.5,-70.0333"
   },
   {
    "Name": "Savica",
    "LatLong": "18.4833,-69.8333"
   },
   {
-   "Name": "Varia",
-   "LatLong": "18.5,-70.0333"
+   "Name": "El Chucho",
+   "LatLong": "18.9444,-70.5056"
+  },
+  {
+   "Name": "24 de Abril",
+   "LatLong": "19.85,-71.65"
   },
   {
    "Name": "Urbanizacion Las Mercedes",
@@ -855,10 +859,6 @@
   },
   {
    "Name": "Barrio Las Mercedes",
-   "LatLong": "18.9444,-70.5056"
-  },
-  {
-   "Name": "El Chucho",
    "LatLong": "18.9444,-70.5056"
   },
   {
@@ -870,11 +870,11 @@
    "LatLong": "19.1333,-70.6667"
   },
   {
-   "Name": "La Concordia",
+   "Name": "Altos del Oeste",
    "LatLong": "19.1333,-70.6667"
   },
   {
-   "Name": "Altos del Oeste",
+   "Name": "La Concordia",
    "LatLong": "19.1333,-70.6667"
   },
   {
@@ -894,31 +894,7 @@
    "LatLong": "18.7333,-71.1833"
   },
   {
-   "Name": "Ciudad Codiana",
-   "LatLong": "18.7333,-71.1833"
-  },
-  {
-   "Name": "Las Crorias",
-   "LatLong": "18.7333,-71.1833"
-  },
-  {
-   "Name": "Barrio Arenoso",
-   "LatLong": "18.7333,-71.1833"
-  },
-  {
-   "Name": "Palmarejito",
-   "LatLong": "18.7333,-71.1833"
-  },
-  {
-   "Name": "Urb. San Rafael",
-   "LatLong": "18.7333,-71.1833"
-  },
-  {
    "Name": "Cerros de Palmarejo",
-   "LatLong": "18.7333,-71.1833"
-  },
-  {
-   "Name": "Nuevo Amanecer",
    "LatLong": "18.7333,-71.1833"
   },
   {
@@ -926,15 +902,39 @@
    "LatLong": "18.7333,-71.1833"
   },
   {
+   "Name": "Urb. San Rafael",
+   "LatLong": "18.7333,-71.1833"
+  },
+  {
+   "Name": "Ciudad Codiana",
+   "LatLong": "18.7333,-71.1833"
+  },
+  {
+   "Name": "Barrio Arenoso",
+   "LatLong": "18.7333,-71.1833"
+  },
+  {
+   "Name": "Nuevo Amanecer",
+   "LatLong": "18.7333,-71.1833"
+  },
+  {
+   "Name": "Las Crorias",
+   "LatLong": "18.7333,-71.1833"
+  },
+  {
+   "Name": "Palmarejito",
+   "LatLong": "18.7333,-71.1833"
+  },
+  {
    "Name": "El Caliche",
    "LatLong": "18.4833,-69.9833"
   },
   {
-   "Name": "Urb. Las Palmas",
+   "Name": "Urb. Olimpo",
    "LatLong": "18.4833,-69.9833"
   },
   {
-   "Name": "Urb. Olimpo",
+   "Name": "Urb. Las Palmas",
    "LatLong": "18.4833,-69.9833"
   },
   {
@@ -946,16 +946,16 @@
    "LatLong": "18.4833,-69.9667"
   },
   {
+   "Name": "Manoguayabo",
+   "LatLong": "18.4833,-70"
+  },
+  {
    "Name": "San Miguel",
    "LatLong": "18.5,-70.0167"
   },
   {
    "Name": "Hato Nuevo",
    "LatLong": "18.4833,-70.0333"
-  },
-  {
-   "Name": "Manoguayabo",
-   "LatLong": "18.4833,-70"
   },
   {
    "Name": "Buenas Noches",
@@ -966,11 +966,7 @@
    "LatLong": "18.4867,-70.0133"
   },
   {
-   "Name": "Residencial Alameda",
-   "LatLong": "18.4867,-70.0133"
-  },
-  {
-   "Name": "Villa Peravia",
+   "Name": "Batey Bienvenido",
    "LatLong": "18.4867,-70.0133"
   },
   {
@@ -978,11 +974,15 @@
    "LatLong": "18.4867,-70.0133"
   },
   {
-   "Name": "Alameda",
+   "Name": "Villa Peravia",
    "LatLong": "18.4867,-70.0133"
   },
   {
-   "Name": "Batey Bienvenido",
+   "Name": "Residencial Alameda",
+   "LatLong": "18.4867,-70.0133"
+  },
+  {
+   "Name": "Alameda",
    "LatLong": "18.4867,-70.0133"
   },
   {
@@ -994,10 +994,6 @@
    "LatLong": "18.4667,-70"
   },
   {
-   "Name": "Villa Nazaret",
-   "LatLong": "18.4667,-70"
-  },
-  {
    "Name": "Rivera del Haina",
    "LatLong": "18.4667,-70"
   },
@@ -1006,15 +1002,11 @@
    "LatLong": "18.4667,-70"
   },
   {
+   "Name": "Villa Nazaret",
+   "LatLong": "18.4667,-70"
+  },
+  {
    "Name": "El Palmar",
-   "LatLong": "18.45,-69.9833"
-  },
-  {
-   "Name": "Ens. Ivan Guzman Klan",
-   "LatLong": "18.45,-69.9833"
-  },
-  {
-   "Name": "El Abanico de Herrera",
    "LatLong": "18.45,-69.9833"
   },
   {
@@ -1022,11 +1014,7 @@
    "LatLong": "18.45,-69.9833"
   },
   {
-   "Name": "Rosa Maria",
-   "LatLong": "18.45,-69.9833"
-  },
-  {
-   "Name": "Residencial Loyola",
+   "Name": "El Abanico de Herrera",
    "LatLong": "18.45,-69.9833"
   },
   {
@@ -1034,11 +1022,19 @@
    "LatLong": "18.45,-69.9833"
   },
   {
-   "Name": "Las Caobas",
-   "LatLong": "18.45,-70.4667"
+   "Name": "Residencial Loyola",
+   "LatLong": "18.45,-69.9833"
   },
   {
-   "Name": "Ciudad Agraria",
+   "Name": "Ens. Ivan Guzman Klan",
+   "LatLong": "18.45,-69.9833"
+  },
+  {
+   "Name": "Rosa Maria",
+   "LatLong": "18.45,-69.9833"
+  },
+  {
+   "Name": "Las Caobas",
    "LatLong": "18.45,-70.4667"
   },
   {
@@ -1046,15 +1042,19 @@
    "LatLong": "18.45,-70.4667"
   },
   {
+   "Name": "Ciudad Agraria",
+   "LatLong": "18.45,-70.4667"
+  },
+  {
    "Name": "Zona Industrial de Herrera",
    "LatLong": "19.3367,-71.3267"
   },
   {
-   "Name": "Barrio Enriquillo",
+   "Name": "Barrio Holguin",
    "LatLong": "19.3367,-71.3267"
   },
   {
-   "Name": "Barrio Holguin",
+   "Name": "Barrio Enriquillo",
    "LatLong": "19.3367,-71.3267"
   },
   {
@@ -1086,11 +1086,11 @@
    "LatLong": "19.3333,-71.45"
   },
   {
-   "Name": "Urb. El Rosal",
+   "Name": "Galaxia",
    "LatLong": "19.3333,-71.45"
   },
   {
-   "Name": "Galaxia",
+   "Name": "Urb. El Rosal",
    "LatLong": "19.3333,-71.45"
   },
   {
@@ -1110,7 +1110,7 @@
    "LatLong": "19.4583,-71.05"
   },
   {
-   "Name": "Atlantida",
+   "Name": "16 de Agosto",
    "LatLong": "18.65,-69.75"
   },
   {
@@ -1118,7 +1118,7 @@
    "LatLong": "18.65,-69.75"
   },
   {
-   "Name": "16 de Agosto",
+   "Name": "Atlantida",
    "LatLong": "18.65,-69.75"
   },
   {
@@ -1138,11 +1138,11 @@
    "LatLong": "18.825,-69.4417"
   },
   {
-   "Name": "Residencial Jose Contreras",
+   "Name": "Gacela",
    "LatLong": "18.825,-69.4417"
   },
   {
-   "Name": "Gacela",
+   "Name": "Residencial Jose Contreras",
    "LatLong": "18.825,-69.4417"
   },
   {
@@ -1178,11 +1178,11 @@
    "LatLong": "18.5,-69.8167"
   },
   {
-   "Name": "Tropicana",
+   "Name": "Jardines del Sur",
    "LatLong": "18.5,-69.8167"
   },
   {
-   "Name": "Jardines del Sur",
+   "Name": "Tropicana",
    "LatLong": "18.5,-69.8167"
   },
   {
@@ -1230,11 +1230,11 @@
    "LatLong": "18.4278,-70"
   },
   {
-   "Name": "Urb. Real",
+   "Name": "Renacimiento",
    "LatLong": "18.4278,-70"
   },
   {
-   "Name": "Renacimiento",
+   "Name": "Urb. Real",
    "LatLong": "18.4278,-70"
   },
   {
@@ -1242,11 +1242,11 @@
    "LatLong": "18.4278,-70"
   },
   {
-   "Name": "Res. Santo Domingo",
+   "Name": "Ensanche Altagracia",
    "LatLong": "18.4278,-70"
   },
   {
-   "Name": "Ensanche Altagracia",
+   "Name": "Res. Santo Domingo",
    "LatLong": "18.4278,-70"
   },
   {
@@ -1254,12 +1254,16 @@
    "LatLong": "18.4333,-70"
   },
   {
+   "Name": "Barrio Paraiso",
+   "LatLong": "18.4333,-70"
+  },
+  {
    "Name": "Colinas de Canaan",
    "LatLong": "18.4333,-70"
   },
   {
-   "Name": "Barrio Paraiso",
-   "LatLong": "18.4333,-70"
+   "Name": "Residencial Canaan",
+   "LatLong": "18.4278,-70"
   },
   {
    "Name": "Villas del Café",
@@ -1270,16 +1274,16 @@
    "LatLong": "18.4278,-70"
   },
   {
-   "Name": "Residencial Canaan",
-   "LatLong": "18.4278,-70"
+   "Name": "La Placeta",
+   "LatLong": "18.4333,-70"
+  },
+  {
+   "Name": "Costa Azul",
+   "LatLong": "18.425,-70"
   },
   {
    "Name": "Costa Verde",
    "LatLong": "18.4167,-70"
-  },
-  {
-   "Name": "La Placeta",
-   "LatLong": "18.4333,-70"
   },
   {
    "Name": "Puerto de Haina",
@@ -1287,10 +1291,6 @@
   },
   {
    "Name": "Manresa",
-   "LatLong": "18.425,-70"
-  },
-  {
-   "Name": "Costa Azul",
    "LatLong": "18.425,-70"
   },
   {
@@ -1302,15 +1302,27 @@
    "LatLong": "18.55,-69.9"
   },
   {
-   "Name": "Villa Satelite",
-   "LatLong": "18.4917,-70.0833"
-  },
-  {
-   "Name": "Jardines de Genovena",
-   "LatLong": "18.4917,-70.0833"
-  },
-  {
    "Name": "Haras Nacionales",
+   "LatLong": "18.4917,-70.0833"
+  },
+  {
+   "Name": "Villa Carmela",
+   "LatLong": "18.4917,-70.0833"
+  },
+  {
+   "Name": "Marañon",
+   "LatLong": "18.4917,-70.0833"
+  },
+  {
+   "Name": "Urb. Sarah Gabriela",
+   "LatLong": "18.4917,-70.0833"
+  },
+  {
+   "Name": "Valle Verde",
+   "LatLong": "18.4917,-70.0833"
+  },
+  {
+   "Name": "Villa Nueva",
    "LatLong": "18.4917,-70.0833"
   },
   {
@@ -1322,23 +1334,11 @@
    "LatLong": "18.4917,-70.0833"
   },
   {
-   "Name": "Urb. Sarah Gabriela",
+   "Name": "Villa Satelite",
    "LatLong": "18.4917,-70.0833"
   },
   {
-   "Name": "Villa Carmela",
-   "LatLong": "18.4917,-70.0833"
-  },
-  {
-   "Name": "Villa Nueva",
-   "LatLong": "18.4917,-70.0833"
-  },
-  {
-   "Name": "Valle Verde",
-   "LatLong": "18.4917,-70.0833"
-  },
-  {
-   "Name": "Marañon",
+   "Name": "Jardines de Genovena",
    "LatLong": "18.4917,-70.0833"
   },
   {
@@ -1346,7 +1346,11 @@
    "LatLong": "18.5667,-69.9167"
   },
   {
-   "Name": "Marañon II",
+   "Name": "Carlos Alvarez",
+   "LatLong": "18.5667,-69.9167"
+  },
+  {
+   "Name": "Res. El Dorado",
    "LatLong": "18.5667,-69.9167"
   },
   {
@@ -1358,11 +1362,7 @@
    "LatLong": "18.5667,-69.9167"
   },
   {
-   "Name": "Res. El Dorado",
-   "LatLong": "18.5667,-69.9167"
-  },
-  {
-   "Name": "Carlos Alvarez",
+   "Name": "Marañon II",
    "LatLong": "18.5667,-69.9167"
   },
   {
@@ -1374,12 +1374,16 @@
    "LatLong": "18,-71.2167"
   },
   {
+   "Name": "Maria Isabela",
+   "LatLong": "18,-71.2167"
+  },
+  {
    "Name": "Colonia de Los Doctores",
    "LatLong": "18,-71.2167"
   },
   {
-   "Name": "Maria Isabela",
-   "LatLong": "18,-71.2167"
+   "Name": "Suriel",
+   "LatLong": "18.9667,-70.7"
   },
   {
    "Name": "Los Conucos",
@@ -1390,16 +1394,8 @@
    "LatLong": "18.5167,-70.15"
   },
   {
-   "Name": "Suriel",
-   "LatLong": "18.9667,-70.7"
-  },
-  {
    "Name": "Urb. Santa Cruz",
    "LatLong": "18.6944,-70.3333"
-  },
-  {
-   "Name": "El Torito",
-   "LatLong": "18.7667,-70.45"
   },
   {
    "Name": "Isabela",
@@ -1410,11 +1406,15 @@
    "LatLong": "18.55,-70.1167"
   },
   {
-   "Name": "Zona Industrial de La Isabela",
-   "LatLong": "18.6167,-70.1833"
+   "Name": "El Torito",
+   "LatLong": "18.7667,-70.45"
   },
   {
    "Name": "Res. Sol de Luz",
+   "LatLong": "18.6167,-70.1833"
+  },
+  {
+   "Name": "Zona Industrial de La Isabela",
    "LatLong": "18.6167,-70.1833"
   },
   {
@@ -1426,14 +1426,6 @@
    "LatLong": "18.5833,-70.2652"
   },
   {
-   "Name": "Cerros de Buena Vista I",
-   "LatLong": "18.5833,-70.2652"
-  },
-  {
-   "Name": "Cerros de Buena Vista II",
-   "LatLong": "18.5833,-70.2652"
-  },
-  {
    "Name": "Zona Industrial de Villa Mella",
    "LatLong": "18.5833,-70.2652"
   },
@@ -1442,23 +1434,15 @@
    "LatLong": "18.5833,-70.2652"
   },
   {
+   "Name": "Cerros de Buena Vista II",
+   "LatLong": "18.5833,-70.2652"
+  },
+  {
+   "Name": "Cerros de Buena Vista I",
+   "LatLong": "18.5833,-70.2652"
+  },
+  {
    "Name": "La Javilla",
-   "LatLong": "18.9333,-70.0667"
-  },
-  {
-   "Name": "Campechito II",
-   "LatLong": "18.9333,-70.0667"
-  },
-  {
-   "Name": "Radiante",
-   "LatLong": "18.9333,-70.0667"
-  },
-  {
-   "Name": "La Antena",
-   "LatLong": "18.9333,-70.0667"
-  },
-  {
-   "Name": "El Eden",
    "LatLong": "18.9333,-70.0667"
   },
   {
@@ -1466,11 +1450,31 @@
    "LatLong": "18.9333,-70.0667"
   },
   {
+   "Name": "El Eden",
+   "LatLong": "18.9333,-70.0667"
+  },
+  {
+   "Name": "La Antena",
+   "LatLong": "18.9333,-70.0667"
+  },
+  {
+   "Name": "Radiante",
+   "LatLong": "18.9333,-70.0667"
+  },
+  {
    "Name": "Reparto Rudima",
    "LatLong": "18.9333,-70.0667"
   },
   {
+   "Name": "Campechito II",
+   "LatLong": "18.9333,-70.0667"
+  },
+  {
    "Name": "Barrio Norte",
+   "LatLong": "19.5833,-70.9833"
+  },
+  {
+   "Name": "Nueva Isabela",
    "LatLong": "19.5833,-70.9833"
   },
   {
@@ -1482,24 +1486,16 @@
    "LatLong": "19.5833,-70.9833"
   },
   {
-   "Name": "Nueva Isabela",
-   "LatLong": "19.5833,-70.9833"
-  },
-  {
    "Name": "Modelo",
    "LatLong": "19.5833,-70.9833"
   },
   {
-   "Name": "Jacagua",
-   "LatLong": "18.55,-69.95"
-  },
-  {
-   "Name": "Barrio Hnas. Mirabal",
-   "LatLong": "18.3722,-70.3722"
-  },
-  {
    "Name": "Los Casabes",
    "LatLong": "18.5667,-69.95"
+  },
+  {
+   "Name": "Jacagua",
+   "LatLong": "18.55,-69.95"
   },
   {
    "Name": "Barrio Nuevo",
@@ -1514,11 +1510,15 @@
    "LatLong": "18.3722,-70.3722"
   },
   {
-   "Name": "Proyecto Bnv",
+   "Name": "Barrio Hnas. Mirabal",
    "LatLong": "18.3722,-70.3722"
   },
   {
    "Name": "Ponce",
+   "LatLong": "18.3722,-70.3722"
+  },
+  {
+   "Name": "Proyecto Bnv",
    "LatLong": "18.3722,-70.3722"
   },
   {
@@ -1538,16 +1538,8 @@
    "LatLong": "18,-71.2167"
   },
   {
-   "Name": "Altos de Chavon",
-   "LatLong": "18.6222,-71.2111"
-  },
-  {
    "Name": "La Mina",
    "LatLong": "18.4833,-70.7667"
-  },
-  {
-   "Name": "Cerros de La Yuca",
-   "LatLong": "18.6222,-71.2111"
   },
   {
    "Name": "El Milloncito",
@@ -1558,15 +1550,15 @@
    "LatLong": "18.6222,-71.2111"
   },
   {
+   "Name": "Cerros de La Yuca",
+   "LatLong": "18.6222,-71.2111"
+  },
+  {
+   "Name": "Altos de Chavon",
+   "LatLong": "18.6222,-71.2111"
+  },
+  {
    "Name": "Libertad",
-   "LatLong": "19.4833,-70.7333"
-  },
-  {
-   "Name": "Progreso",
-   "LatLong": "19.4833,-70.7333"
-  },
-  {
-   "Name": "Urb. Charles de Gaulle",
    "LatLong": "19.4833,-70.7333"
   },
   {
@@ -1574,15 +1566,27 @@
    "LatLong": "19.4833,-70.7333"
   },
   {
+   "Name": "Urb. Charles de Gaulle",
+   "LatLong": "19.4833,-70.7333"
+  },
+  {
+   "Name": "Progreso",
+   "LatLong": "19.4833,-70.7333"
+  },
+  {
    "Name": "La Barquita",
    "LatLong": "18.5,-69.9167"
+  },
+  {
+   "Name": "Colinas del Ozama",
+   "LatLong": "18.525,-69.8917"
   },
   {
    "Name": "Sabana Perdida",
    "LatLong": "18.55,-69.8667"
   },
   {
-   "Name": "2 de Enero",
+   "Name": "Ensanche Cristal",
    "LatLong": "18.525,-69.8917"
   },
   {
@@ -1590,11 +1594,7 @@
    "LatLong": "18.525,-69.8917"
   },
   {
-   "Name": "Ensanche Cristal",
-   "LatLong": "18.525,-69.8917"
-  },
-  {
-   "Name": "Colinas del Ozama",
+   "Name": "2 de Enero",
    "LatLong": "18.525,-69.8917"
   },
   {
@@ -1610,19 +1610,19 @@
    "LatLong": "18.7762,-70.6357"
   },
   {
-   "Name": "Villa Blanca",
-   "LatLong": "18.7762,-70.6357"
-  },
-  {
    "Name": "Enrriquillo",
    "LatLong": "18.7762,-70.6357"
   },
   {
-   "Name": "Salome Ureña",
+   "Name": "Villa Blanca",
    "LatLong": "18.7762,-70.6357"
   },
   {
    "Name": "Loteria",
+   "LatLong": "18.7762,-70.6357"
+  },
+  {
+   "Name": "Salome Ureña",
    "LatLong": "18.7762,-70.6357"
   },
   {
@@ -1634,11 +1634,11 @@
    "LatLong": "18.7667,-70.3267"
   },
   {
-   "Name": "Jardines de Alma Rosa",
+   "Name": "Ens. Alma Rosa (Lado Oeste)",
    "LatLong": "18.7667,-70.3267"
   },
   {
-   "Name": "Ens. Alma Rosa (Lado Oeste)",
+   "Name": "Jardines de Alma Rosa",
    "LatLong": "18.7667,-70.3267"
   },
   {
@@ -1650,11 +1650,11 @@
    "LatLong": "18.5,-69.85"
   },
   {
-   "Name": "El Rosal",
+   "Name": "Alma Rosa II",
    "LatLong": "18.7667,-70.3267"
   },
   {
-   "Name": "Alma Rosa II",
+   "Name": "Urb. Italia",
    "LatLong": "18.7667,-70.3267"
   },
   {
@@ -1662,7 +1662,7 @@
    "LatLong": "18.7667,-70.3267"
   },
   {
-   "Name": "Urb. Italia",
+   "Name": "El Rosal",
    "LatLong": "18.7667,-70.3267"
   },
   {
@@ -1678,11 +1678,11 @@
    "LatLong": "18.6,-70.5"
   },
   {
-   "Name": "Vecinos Unidos",
+   "Name": "Loteria",
    "LatLong": "18.6,-70.5"
   },
   {
-   "Name": "Urb. Amanda",
+   "Name": "Vecinos Unidos",
    "LatLong": "18.6,-70.5"
   },
   {
@@ -1690,7 +1690,7 @@
    "LatLong": "18.6,-70.5"
   },
   {
-   "Name": "Loteria",
+   "Name": "Urb. Amanda",
    "LatLong": "18.6,-70.5"
   },
   {
@@ -1702,11 +1702,7 @@
    "LatLong": "19.7667,-71.5833"
   },
   {
-   "Name": "Mi Sueño",
-   "LatLong": "19.7667,-71.5833"
-  },
-  {
-   "Name": "Hamarap",
+   "Name": "Bello Campo",
    "LatLong": "19.7667,-71.5833"
   },
   {
@@ -1718,7 +1714,11 @@
    "LatLong": "19.7667,-71.5833"
   },
   {
-   "Name": "Bello Campo",
+   "Name": "Mi Sueño",
+   "LatLong": "19.7667,-71.5833"
+  },
+  {
+   "Name": "Hamarap",
    "LatLong": "19.7667,-71.5833"
   },
   {
@@ -1730,7 +1730,7 @@
    "LatLong": "18.5,-69.8167"
   },
   {
-   "Name": "Carolina",
+   "Name": "El Brisal",
    "LatLong": "18.5,-69.8167"
   },
   {
@@ -1738,7 +1738,7 @@
    "LatLong": "18.5,-69.8167"
   },
   {
-   "Name": "El Brisal",
+   "Name": "Carolina",
    "LatLong": "18.5,-69.8167"
   },
   {
@@ -1778,11 +1778,11 @@
    "LatLong": "18.5,-69.8333"
   },
   {
-   "Name": "Cabirma del Este I",
+   "Name": "Res. Lomisa",
    "LatLong": "18.5083,-69.9361"
   },
   {
-   "Name": "Res. Lomisa",
+   "Name": "Cabirma del Este I",
    "LatLong": "18.5083,-69.9361"
   },
   {
@@ -1814,11 +1814,11 @@
    "LatLong": "18.5333,-69.85"
   },
   {
-   "Name": "Vista Hermosa",
+   "Name": "El Cachon de La Rubia",
    "LatLong": "18.5333,-69.85"
   },
   {
-   "Name": "El Cachon de La Rubia",
+   "Name": "Vista Hermosa",
    "LatLong": "18.5333,-69.85"
   },
   {
@@ -1826,11 +1826,11 @@
    "LatLong": "18.5333,-69.85"
   },
   {
-   "Name": "San Pablo II",
+   "Name": "Res. Amapola",
    "LatLong": "18.5083,-69.9361"
   },
   {
-   "Name": "Res. Amapola",
+   "Name": "San Pablo II",
    "LatLong": "18.5083,-69.9361"
   },
   {
@@ -1846,11 +1846,11 @@
    "LatLong": "18.4833,-69.8833"
   },
   {
-   "Name": "Simonico",
+   "Name": "Villa Duarte",
    "LatLong": "18.4833,-69.8667"
   },
   {
-   "Name": "Villa Duarte",
+   "Name": "Simonico",
    "LatLong": "18.4833,-69.8667"
   },
   {
@@ -1858,11 +1858,11 @@
    "LatLong": "18.4667,-69.8667"
   },
   {
-   "Name": "Parque del Este I",
+   "Name": "Los Molinos",
    "LatLong": "18.4722,-69.9167"
   },
   {
-   "Name": "Los Molinos",
+   "Name": "Parque del Este I",
    "LatLong": "18.4722,-69.9167"
   },
   {
@@ -1870,7 +1870,7 @@
    "LatLong": "18.4722,-69.9167"
   },
   {
-   "Name": "Res. Parque del Este",
+   "Name": "Parque Mirador Este",
    "LatLong": "18.4722,-69.9167"
   },
   {
@@ -1882,7 +1882,7 @@
    "LatLong": "18.4722,-69.9167"
   },
   {
-   "Name": "Parque Mirador Este",
+   "Name": "Res. Parque del Este",
    "LatLong": "18.4722,-69.9167"
   },
   {
@@ -1898,6 +1898,10 @@
    "LatLong": "18.4722,-69.9167"
   },
   {
+   "Name": "Tropical del Este",
+   "LatLong": "18.4667,-69.825"
+  },
+  {
    "Name": "Corales del Sur",
    "LatLong": "18.4667,-69.825"
   },
@@ -1906,15 +1910,11 @@
    "LatLong": "18.4667,-69.825"
   },
   {
-   "Name": "Tropical del Este",
-   "LatLong": "18.4667,-69.825"
-  },
-  {
-   "Name": "Los Frailes",
+   "Name": "Arismar",
    "LatLong": "18.4667,-69.8167"
   },
   {
-   "Name": "Arismar",
+   "Name": "Los Frailes",
    "LatLong": "18.4667,-69.8167"
   },
   {
@@ -1938,11 +1938,11 @@
    "LatLong": "18.4667,-69.825"
   },
   {
-   "Name": "Villa Adela",
+   "Name": "Villa Eloisa",
    "LatLong": "18.4667,-69.825"
   },
   {
-   "Name": "Villa Eloisa",
+   "Name": "Villa Adela",
    "LatLong": "18.4667,-69.825"
   },
   {
@@ -1954,11 +1954,11 @@
    "LatLong": "18.5028,-69.9139"
   },
   {
-   "Name": "Los Molinos",
+   "Name": "Los Trinitarios II",
    "LatLong": "18.5028,-69.9139"
   },
   {
-   "Name": "Los Trinitarios II",
+   "Name": "Los Molinos",
    "LatLong": "18.5028,-69.9139"
   },
   {
@@ -1966,11 +1966,7 @@
    "LatLong": "18.5028,-69.9139"
   },
   {
-   "Name": "Trabajadores",
-   "LatLong": "18.5028,-69.9139"
-  },
-  {
-   "Name": "Rep. Villa Carmen",
+   "Name": "Ciudad de Los Trabajadores",
    "LatLong": "18.5028,-69.9139"
   },
   {
@@ -1982,7 +1978,7 @@
    "LatLong": "18.5028,-69.9139"
   },
   {
-   "Name": "Ciudad de Los Trabajadores",
+   "Name": "Rep. Villa Carmen",
    "LatLong": "18.5028,-69.9139"
   },
   {
@@ -1990,15 +1986,11 @@
    "LatLong": "18.5028,-69.9139"
   },
   {
+   "Name": "Trabajadores",
+   "LatLong": "18.5028,-69.9139"
+  },
+  {
    "Name": "San Jose de Mendoza",
-   "LatLong": "18.5,-69.8167"
-  },
-  {
-   "Name": "Brisa del Eden",
-   "LatLong": "18.5,-69.8167"
-  },
-  {
-   "Name": "Barrio Brisa de Charles",
    "LatLong": "18.5,-69.8167"
   },
   {
@@ -2006,8 +1998,12 @@
    "LatLong": "18.5,-69.8167"
   },
   {
-   "Name": "Nuevo Amanecer",
-   "LatLong": "18.5028,-69.9139"
+   "Name": "Barrio Brisa de Charles",
+   "LatLong": "18.5,-69.8167"
+  },
+  {
+   "Name": "Brisa del Eden",
+   "LatLong": "18.5,-69.8167"
   },
   {
    "Name": "Amarilis III",
@@ -2015,6 +2011,10 @@
   },
   {
    "Name": "Res. Mirador del Este",
+   "LatLong": "18.5028,-69.9139"
+  },
+  {
+   "Name": "Nuevo Amanecer",
    "LatLong": "18.5028,-69.9139"
   },
   {
@@ -2026,7 +2026,7 @@
    "LatLong": "18.5028,-69.9139"
   },
   {
-   "Name": "Villa Esfuerzo",
+   "Name": "Buena Ventura II",
    "LatLong": "18.5028,-69.9139"
   },
   {
@@ -2034,7 +2034,7 @@
    "LatLong": "18.5028,-69.9139"
   },
   {
-   "Name": "Buena Ventura II",
+   "Name": "Villa Esfuerzo",
    "LatLong": "18.5028,-69.9139"
   },
   {
@@ -2042,31 +2042,31 @@
    "LatLong": "18.5028,-69.9139"
   },
   {
-   "Name": "Ciudad del Almirante I",
-   "LatLong": "18.5028,-69.9139"
-  },
-  {
    "Name": "Zona Franca Industrial de Herrera",
    "LatLong": "18.5028,-69.9139"
   },
   {
-   "Name": "Hainamosa",
-   "LatLong": "18.5167,-69.8333"
-  },
-  {
-   "Name": "Los Pinos",
-   "LatLong": "18.4,-70.3333"
+   "Name": "Ciudad del Almirante I",
+   "LatLong": "18.5028,-69.9139"
   },
   {
    "Name": "Invimosa",
    "LatLong": "18.4583,-70.0833"
   },
   {
-   "Name": "Parque Ind. Nueva Isabela",
-   "LatLong": "18.4583,-70.0833"
+   "Name": "Los Pinos",
+   "LatLong": "18.4,-70.3333"
+  },
+  {
+   "Name": "Hainamosa",
+   "LatLong": "18.5167,-69.8333"
   },
   {
    "Name": "Invi Cea",
+   "LatLong": "18.4583,-70.0833"
+  },
+  {
+   "Name": "Parque Ind. Nueva Isabela",
    "LatLong": "18.4583,-70.0833"
   },
   {
@@ -2078,12 +2078,12 @@
    "LatLong": "18.4583,-70.0833"
   },
   {
-   "Name": "Sabaneta",
-   "LatLong": "18.55,-69.8"
-  },
-  {
    "Name": "Batey La Balsa",
    "LatLong": "18.5167,-69.2167"
+  },
+  {
+   "Name": "Sabaneta",
+   "LatLong": "18.55,-69.8"
   },
   {
    "Name": "Batey Piragua",
@@ -2094,15 +2094,11 @@
    "LatLong": "18.5333,-70.4833"
   },
   {
-   "Name": "Cabirma del Este II",
-   "LatLong": "18.5333,-70.4833"
-  },
-  {
-   "Name": "Barrio Paraiso",
-   "LatLong": "18.5333,-70.4833"
-  },
-  {
    "Name": "Residencial Don Oscar",
+   "LatLong": "18.5333,-70.4833"
+  },
+  {
+   "Name": "Cabirma del Este II",
    "LatLong": "18.5333,-70.4833"
   },
   {
@@ -2110,15 +2106,19 @@
    "LatLong": "18.5333,-70.4833"
   },
   {
+   "Name": "Barrio Paraiso",
+   "LatLong": "18.5333,-70.4833"
+  },
+  {
    "Name": "La Milagrosa",
    "LatLong": "18.5667,-68.9167"
   },
   {
-   "Name": "Pidoca",
+   "Name": "Los Mina Sur",
    "LatLong": "18.5667,-68.9167"
   },
   {
-   "Name": "Los Mina Sur",
+   "Name": "Pidoca",
    "LatLong": "18.5667,-68.9167"
   },
   {
@@ -2150,7 +2150,7 @@
    "LatLong": "18.85,-69.2333"
   },
   {
-   "Name": "Rosario Sanchez",
+   "Name": "Puerto Rico",
    "LatLong": "18.85,-69.2333"
   },
   {
@@ -2158,15 +2158,15 @@
    "LatLong": "18.85,-69.2333"
   },
   {
-   "Name": "Puerto Rico",
+   "Name": "Rosario Sanchez",
    "LatLong": "18.85,-69.2333"
   },
   {
-   "Name": "Mil Flores",
+   "Name": "Los 3 Brazos",
    "LatLong": "18.7278,-69.3944"
   },
   {
-   "Name": "Los 3 Brazos",
+   "Name": "Mil Flores",
    "LatLong": "18.7278,-69.3944"
   },
   {
