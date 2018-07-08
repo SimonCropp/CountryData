@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CountryLocationData.Bogus\CountryLocationData.Bogus.csproj" />
-    <ProjectReference Include="..\CountryLocationData\CountryLocationData.csproj" />
+    <ProjectReference Include="..\CountryLocationData.Bogus\CountryData.Bogus.csproj" />
+    <ProjectReference Include="..\CountryLocationData\CountryData.csproj" />
   </ItemGroup>
 
   <ItemGroup>
