@@ -1,11 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace Place
 {
     static class PlaceSerializer
     {
-        public static void Serialize(List<Row> rows, Action<object> action)
+        public static void Serialize(string country, List<Row> rows, string directory)
         {
             var places = new List<Place>();
             foreach (var row in rows)
@@ -13,12 +12,13 @@ namespace Place
                 var place = new Place
                 {
                     Name = row.PlaceName,
+                    PostCode = row.PostalCode,
                     LatLong = $"{row.Latitude},{row.Longitude}",
                 };
                 places.Add(place);
             }
 
-            action(new Country { Places = places });
+            Serializer.Serialize(directory, country, new Country {Places = places});
         }
     }
 }

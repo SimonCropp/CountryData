@@ -5,7 +5,6 @@ using System.IO.Compression;
 using System.Linq;
 using System.Threading.Tasks;
 using Community;
-using Newtonsoft.Json;
 using Place;
 using Province;
 using ProvinceCommunity;
@@ -34,35 +33,23 @@ public class Sync
         ZipFile.ExtractToDirectory(allCountriesZipPath, tempPath);
 
         var list = RowReader.ReadRows(allCountriesTxtPath).ToList();
-        var jsonSerializer = new JsonSerializer
-        {
-            NullValueHandling = NullValueHandling.Ignore,
-            Formatting = Formatting.Indented,
-        };
         var groupByCountry = list.GroupBy(x => x.CountryCode).ToList();
         File.Delete(countriesPath);
         File.WriteAllLines(countriesPath, groupByCountry.Select(x => x.Key.ToLower()));
-        WriteRows(jsonPath, jsonSerializer, groupByCountry);
+        WriteRows(jsonPath, groupByCountry);
     }
 
-    void WriteRows(string jsonPath, JsonSerializer jsonSerializer, List<IGrouping<string, Row>> groupByCountry)
+
+    void WriteRows(string jsonPath, List<IGrouping<string, Row>> groupByCountry)
     {
         IoHelpers.PurgeDirectory(jsonPath);
         foreach (var group in groupByCountry)
         {
-            var countryJsonFilePath = Path.Combine(jsonPath, @group.Key.ToLower() + ".json.txt");
-            using (var fileStream = File.OpenWrite(countryJsonFilePath))
-            using (var textWriter = new StreamWriter(fileStream))
-            using (var jsonTextWriter = new JsonTextWriter(textWriter))
-            {
-                jsonTextWriter.IndentChar = ' ';
-                jsonTextWriter.Indentation = 1;
-                ProcessCountry(@group.ToList(), o => { jsonSerializer.Serialize(jsonTextWriter, o); });
-            }
+            ProcessCountry(@group.Key, @group.ToList(), jsonPath);
         }
     }
 
-    void ProcessCountry(List<Row> rows, Action<object> action)
+    void ProcessCountry(string country, List<Row> rows, string directory)
     {
         var hasState= rows.Any(_=>_.State != null);
         var hasProvince = rows.Any(_=>_.Province != null);
@@ -70,39 +57,39 @@ public class Sync
 
         if (hasState && hasProvince && hasCommunity)
         {
-            StateProvinceCommunitySerializer.Serialize(rows, action);
+            StateProvinceCommunitySerializer.Serialize(country, rows, directory);
             return;
         }
         if (hasState && hasProvince)
         {
-            StateProvinceSerializer.Serialize(rows, action);
+            StateProvinceSerializer.Serialize(country, rows, directory);
             return;
         }
         if (hasState && hasCommunity)
         {
-            StateCommunitySerializer.Serialize(rows, action);
+            StateCommunitySerializer.Serialize(country, rows, directory);
             return;
         }
         if (hasProvince && hasCommunity)
         {
-            ProvinceCommunitySerializer.Serialize(rows, action);
+            ProvinceCommunitySerializer.Serialize(country, rows, directory);
             return;
         }
         if (hasState)
         {
-            StateSerializer.Serialize(rows, action);
+            StateSerializer.Serialize(country, rows, directory);
             return;
         }
         if (hasProvince)
         {
-            ProvinceSerializer.Serialize(rows, action);
+            ProvinceSerializer.Serialize(country, rows, directory);
             return;
         }
         if (hasCommunity)
         {
-            CommunitySerializer.Serialize(rows, action);
+            CommunitySerializer.Serialize(country, rows, directory);
             return;
         }
-        PlaceSerializer.Serialize(rows, action);
+        PlaceSerializer.Serialize(country, rows, directory);
     }
 }

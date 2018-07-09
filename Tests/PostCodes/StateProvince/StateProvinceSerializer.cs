@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 
 namespace StateProvince
 {
     static class StateProvinceSerializer
     {
-        public static void Serialize(List<Row> rows, Action<object> action)
+        public static void Serialize(string country, List<Row> rows, string directory)
         {
             var states = new List<State>();
             foreach (var stateGroup in rows.GroupBy(x => x.State))
@@ -45,7 +44,8 @@ namespace StateProvince
                     }
                 }
             }
-            action(new Country { States = states });
+
+            Serializer.Serialize(directory, country, new Country {States = states});
         }
     }
 }

@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 
 namespace Community
 {
     static class CommunitySerializer
     {
-        public static void Serialize(List<Row> rows, Action<object> action)
+        public static void Serialize(string country, List<Row> rows, string directory)
         {
             var communities = new List<Community>();
             foreach (var stateGroup in rows.GroupBy(x => x.Community))
@@ -35,7 +34,7 @@ namespace Community
                 }
             }
 
-            action(new Country { Communities = communities });
+            Serializer.Serialize(directory, country, new Country {Communities = communities});
         }
     }
 }
