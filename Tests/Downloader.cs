@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 
 static class Downloader
 {
+        static HttpClient httpClient = new HttpClient(){Timeout = TimeSpan.FromMinutes(30)};
+
     public static async Task DownloadFile(string allCountriesPath, string requestUri)
     {
-        var httpClient = new HttpClient();
-
         var requestMessage = new HttpRequestMessage(HttpMethod.Head, requestUri);
 
         DateTime remoteLastModified;
