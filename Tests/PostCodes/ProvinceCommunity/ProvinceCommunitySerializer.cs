@@ -44,7 +44,7 @@ namespace ProvinceCommunity
                 }
             }
 
-            Serializer.Serialize(directory, country, new Country {Provinces = provinces});
+            JsonSerializer.Serialize(directory, country, new Country {Provinces = provinces});
         }
     }
 }

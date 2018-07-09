@@ -5,7 +5,10 @@ using System.Threading.Tasks;
 
 static class Downloader
 {
-        static HttpClient httpClient = new HttpClient(){Timeout = TimeSpan.FromMinutes(30)};
+    static HttpClient httpClient = new HttpClient
+    {
+        Timeout = TimeSpan.FromMinutes(30)
+    };
 
     public static async Task DownloadFile(string allCountriesPath, string requestUri)
     {

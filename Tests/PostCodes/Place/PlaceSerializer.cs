@@ -18,7 +18,7 @@ namespace Place
                 places.Add(place);
             }
 
-            Serializer.Serialize(directory, country, new Country {Places = places});
+            JsonSerializer.Serialize(directory, country, new Country {Places = places});
         }
     }
 }

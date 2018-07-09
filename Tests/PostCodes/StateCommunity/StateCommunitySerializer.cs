@@ -45,7 +45,7 @@ namespace StateCommunity
                 }
             }
 
-            Serializer.Serialize(directory, country, new Country {States = states});
+            JsonSerializer.Serialize(directory, country, new Country {States = states});
         }
     }
 }

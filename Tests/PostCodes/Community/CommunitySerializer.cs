@@ -34,7 +34,7 @@ namespace Community
                 }
             }
 
-            Serializer.Serialize(directory, country, new Country {Communities = communities});
+            JsonSerializer.Serialize(directory, country, new Country {Communities = communities});
         }
     }
 }

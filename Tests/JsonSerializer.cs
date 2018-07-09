@@ -1,13 +1,13 @@
 ﻿using System.IO;
 using Newtonsoft.Json;
 
-static class Serializer
+static class JsonSerializer
 {
-    static JsonSerializer jsonSerializer;
+    static Newtonsoft.Json.JsonSerializer jsonSerializer;
 
-    static Serializer()
+    static JsonSerializer()
     {
-        jsonSerializer = new JsonSerializer
+        jsonSerializer = new Newtonsoft.Json.JsonSerializer
         {
             NullValueHandling = NullValueHandling.Ignore,
             Formatting = Formatting.Indented,
