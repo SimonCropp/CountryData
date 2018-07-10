@@ -24,11 +24,8 @@ namespace State
                     {
                         PostCode = place.PostalCode,
                         LatLong = $"{place.Latitude},{place.Longitude}",
+                        Name = place.PlaceName,
                     };
-                    if (place.PlaceName != state.Name)
-                    {
-                        item.Name = place.PlaceName;
-                    }
 
                     state.Places.Add(item);
                 }

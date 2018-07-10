@@ -34,11 +34,8 @@ namespace StateProvince
                         {
                             PostCode = place.PostalCode,
                             LatLong = $"{place.Latitude},{place.Longitude}",
+                            Name = place.PlaceName,
                         };
-                        if (place.PlaceName != province.Name)
-                        {
-                            item.Name = place.PlaceName;
-                        }
 
                         province.Places.Add(item);
                     }

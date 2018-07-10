@@ -34,11 +34,8 @@ namespace StateCommunity
                         {
                             PostCode = place.PostalCode,
                             LatLong = $"{place.Latitude},{place.Longitude}",
+                            Name = place.PlaceName,
                         };
-                        if (place.PlaceName != community.Name)
-                        {
-                            item.Name = place.PlaceName;
-                        }
 
                         community.Places.Add(item);
                     }
