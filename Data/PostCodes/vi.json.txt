@@ -1,5 +1,4 @@
 {
-"Structure": "State/Province/Place",
 "States": [
 {
 "Name": "Vi",
@@ -8,6 +7,8 @@
 {
 "Name": "St. Croix",
 "Code": "010",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Christiansted",
@@ -55,10 +56,14 @@
 "LatLong": "17.7099,-64.7009"
 }
 ]
+}
+]
 },
 {
 "Name": "St. John",
 "Code": "020",
+"Communities": [
+{
 "Places": [
 {
 "Name": "St John",
@@ -71,10 +76,14 @@
 "LatLong": "18.3273,-64.7864"
 }
 ]
+}
+]
 },
 {
 "Name": "St. Thomas",
 "Code": "030",
+"Communities": [
+{
 "Places": [
 {
 "Name": "St Thomas",
@@ -100,6 +109,8 @@
 "Name": "St Thomas",
 "PostCode": "00805",
 "LatLong": "18.3223,-64.9637"
+}
+]
 }
 ]
 }

@@ -1,5 +1,4 @@
 {
-"Structure": "State/Province/Place",
 "States": [
 {
 "Name": "Østfold",
@@ -8,6 +7,8 @@
 {
 "Name": "Halden",
 "Code": "0101",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Halden",
@@ -190,10 +191,14 @@
 "LatLong": "58.9415,11.6599"
 }
 ]
+}
+]
 },
 {
 "Name": "Moss",
 "Code": "0104",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Moss",
@@ -361,10 +366,14 @@
 "LatLong": "59.434,10.6577"
 }
 ]
+}
+]
 },
 {
 "Name": "Sarpsborg",
 "Code": "0105",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sarpsborg",
@@ -552,10 +561,14 @@
 "LatLong": "59.2115,11.1903"
 }
 ]
+}
+]
 },
 {
 "Name": "Fredrikstad",
 "Code": "0106",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fredrikstad",
@@ -838,10 +851,14 @@
 "LatLong": "59.2,10.9333"
 }
 ]
+}
+]
 },
 {
 "Name": "Hvaler",
 "Code": "0111",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skjærhalden",
@@ -874,10 +891,14 @@
 "LatLong": "59,11.05"
 }
 ]
+}
+]
 },
 {
 "Name": "Aremark",
 "Code": "0118",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aremark",
@@ -890,10 +911,14 @@
 "LatLong": "59.2462,11.6828"
 }
 ]
+}
+]
 },
 {
 "Name": "Marker",
 "Code": "0119",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ørje",
@@ -911,10 +936,14 @@
 "LatLong": "59.3515,11.7112"
 }
 ]
+}
+]
 },
 {
 "Name": "Rømskog",
 "Code": "0121",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rømskog",
@@ -922,10 +951,14 @@
 "LatLong": "59.7497,11.8112"
 }
 ]
+}
+]
 },
 {
 "Name": "Trøgstad",
 "Code": "0122",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Trøgstad",
@@ -948,10 +981,14 @@
 "LatLong": "59.6997,11.2981"
 }
 ]
+}
+]
 },
 {
 "Name": "Spydeberg",
 "Code": "0123",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Spydeberg",
@@ -964,10 +1001,14 @@
 "LatLong": "59.6171,11.0856"
 }
 ]
+}
+]
 },
 {
 "Name": "Askim",
 "Code": "0124",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Askim",
@@ -1045,10 +1086,14 @@
 "LatLong": "59.5833,11.1629"
 }
 ]
+}
+]
 },
 {
 "Name": "Eidsberg",
 "Code": "0125",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mysen",
@@ -1076,10 +1121,14 @@
 "LatLong": "59.5167,11.2667"
 }
 ]
+}
+]
 },
 {
 "Name": "Skiptvet",
 "Code": "0127",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skiptvet",
@@ -1092,10 +1141,14 @@
 "LatLong": "59.4692,11.1622"
 }
 ]
+}
+]
 },
 {
 "Name": "Rakkestad",
 "Code": "0128",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rakkestad",
@@ -1118,10 +1171,14 @@
 "LatLong": "59.3533,11.4226"
 }
 ]
+}
+]
 },
 {
 "Name": "Råde",
 "Code": "0135",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Råde",
@@ -1139,10 +1196,14 @@
 "LatLong": "59.2898,10.7562"
 }
 ]
+}
+]
 },
 {
 "Name": "Rygge",
 "Code": "0136",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Moss",
@@ -1205,10 +1266,14 @@
 "LatLong": "59.435,10.7412"
 }
 ]
+}
+]
 },
 {
 "Name": "Våler",
 "Code": "0137",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sperrebotn",
@@ -1226,10 +1291,14 @@
 "LatLong": "59.4236,11.0166"
 }
 ]
+}
+]
 },
 {
 "Name": "Hobøl",
 "Code": "0138",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tomter",
@@ -1254,6 +1323,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Akershus",
@@ -1262,6 +1333,8 @@
 {
 "Name": "Vestby",
 "Code": "0211",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vestby",
@@ -1294,10 +1367,14 @@
 "LatLong": "59.5231,10.6859"
 }
 ]
+}
+]
 },
 {
 "Name": "Ski",
 "Code": "0213",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ski",
@@ -1345,10 +1422,14 @@
 "LatLong": "59.659,10.9475"
 }
 ]
+}
+]
 },
 {
 "Name": "Ås",
 "Code": "0214",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vinterbro",
@@ -1376,10 +1457,14 @@
 "LatLong": "59.6647,10.7947"
 }
 ]
+}
+]
 },
 {
 "Name": "Frogn",
 "Code": "0215",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Drøbak",
@@ -1437,10 +1522,14 @@
 "LatLong": "59.7182,10.6254"
 }
 ]
+}
+]
 },
 {
 "Name": "Nesodden",
 "Code": "0216",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nesoddtangen",
@@ -1473,10 +1562,14 @@
 "LatLong": "59.7941,10.6069"
 }
 ]
+}
+]
 },
 {
 "Name": "Oppegård",
 "Code": "0217",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kolbotn",
@@ -1539,10 +1632,14 @@
 "LatLong": "59.8173,10.7775"
 }
 ]
+}
+]
 },
 {
 "Name": "Bærum",
 "Code": "0219",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sandvika",
@@ -1855,10 +1952,14 @@
 "LatLong": "59.9084,10.6015"
 }
 ]
+}
+]
 },
 {
 "Name": "Asker",
 "Code": "0220",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Asker",
@@ -1991,10 +2092,14 @@
 "LatLong": "59.8333,10.4372"
 }
 ]
+}
+]
 },
 {
 "Name": "Aurskog-Høland",
 "Code": "0221",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aurskog",
@@ -2047,10 +2152,14 @@
 "LatLong": "59.7208,11.4552"
 }
 ]
+}
+]
 },
 {
 "Name": "Sørum",
 "Code": "0226",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sørumsand",
@@ -2098,10 +2207,14 @@
 "LatLong": "60.0246,11.1028"
 }
 ]
+}
+]
 },
 {
 "Name": "Fet",
 "Code": "0227",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fetsund",
@@ -2124,10 +2237,14 @@
 "LatLong": "59.7833,11.25"
 }
 ]
+}
+]
 },
 {
 "Name": "Rælingen",
 "Code": "0228",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rælingen",
@@ -2165,10 +2282,14 @@
 "LatLong": "59.9263,11.0653"
 }
 ]
+}
+]
 },
 {
 "Name": "Enebakk",
 "Code": "0229",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Flateby",
@@ -2196,10 +2317,14 @@
 "LatLong": "59.724,11.0505"
 }
 ]
+}
+]
 },
 {
 "Name": "Lørenskog",
 "Code": "0230",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Finstadjordet",
@@ -2262,10 +2387,14 @@
 "LatLong": "59.9323,11.0203"
 }
 ]
+}
+]
 },
 {
 "Name": "Skedsmo",
 "Code": "0231",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lillestrøm",
@@ -2353,10 +2482,14 @@
 "LatLong": "59.956,11.0492"
 }
 ]
+}
+]
 },
 {
 "Name": "Nittedal",
 "Code": "0233",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Slattum",
@@ -2404,10 +2537,14 @@
 "LatLong": "60.1215,10.824"
 }
 ]
+}
+]
 },
 {
 "Name": "Gjerdrum",
 "Code": "0234",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gjerdrum",
@@ -2420,10 +2557,14 @@
 "LatLong": "60.0728,11.0325"
 }
 ]
+}
+]
 },
 {
 "Name": "Ullensaker",
 "Code": "0235",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kløfta",
@@ -2516,10 +2657,14 @@
 "LatLong": "60.1415,11.1752"
 }
 ]
+}
+]
 },
 {
 "Name": "Nes",
 "Code": "0236",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Auli",
@@ -2577,10 +2722,14 @@
 "LatLong": "60.2198,11.3927"
 }
 ]
+}
+]
 },
 {
 "Name": "Eidsvoll",
 "Code": "0237",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Råholt",
@@ -2633,10 +2782,14 @@
 "LatLong": "60.4876,11.1568"
 }
 ]
+}
+]
 },
 {
 "Name": "Nannestad",
 "Code": "0238",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nannestad",
@@ -2674,10 +2827,14 @@
 "LatLong": "60.2583,11.0319"
 }
 ]
+}
+]
 },
 {
 "Name": "Hurdal",
 "Code": "0239",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hurdal",
@@ -2692,6 +2849,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Oslo",
@@ -2700,6 +2859,8 @@
 {
 "Name": "Oslo",
 "Code": "0301",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oslo",
@@ -5904,6 +6065,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Hedmark",
@@ -5912,6 +6075,8 @@
 {
 "Name": "Kongsvinger",
 "Code": "0402",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kongsvinger",
@@ -6014,10 +6179,14 @@
 "LatLong": "60.1905,11.9977"
 }
 ]
+}
+]
 },
 {
 "Name": "Hamar",
 "Code": "0403",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hamar",
@@ -6120,10 +6289,14 @@
 "LatLong": "60.7945,11.068"
 }
 ]
+}
+]
 },
 {
 "Name": "Ringsaker",
 "Code": "0412",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Furnes",
@@ -6241,10 +6414,14 @@
 "LatLong": "61.0702,10.6213"
 }
 ]
+}
+]
 },
 {
 "Name": "Løten",
 "Code": "0415",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Løten",
@@ -6262,10 +6439,14 @@
 "LatLong": "60.7965,11.3088"
 }
 ]
+}
+]
 },
 {
 "Name": "Stange",
 "Code": "0417",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ottestad",
@@ -6313,10 +6494,14 @@
 "LatLong": "60.7757,11.2272"
 }
 ]
+}
+]
 },
 {
 "Name": "Nord-Odal",
 "Code": "0418",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sagstua",
@@ -6344,10 +6529,14 @@
 "LatLong": "60.3789,11.6916"
 }
 ]
+}
+]
 },
 {
 "Name": "Sør-Odal",
 "Code": "0419",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skarnes",
@@ -6380,10 +6569,14 @@
 "LatLong": "60.1832,11.8857"
 }
 ]
+}
+]
 },
 {
 "Name": "Eidskog",
 "Code": "0420",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Åbogen",
@@ -6416,10 +6609,14 @@
 "LatLong": "59.9509,12.2015"
 }
 ]
+}
+]
 },
 {
 "Name": "Grue",
 "Code": "0423",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Grue Finnskog",
@@ -6447,10 +6644,14 @@
 "LatLong": "60.5001,12.0784"
 }
 ]
+}
+]
 },
 {
 "Name": "Åsnes",
 "Code": "0425",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arneberg",
@@ -6478,10 +6679,14 @@
 "LatLong": "60.6656,12.2102"
 }
 ]
+}
+]
 },
 {
 "Name": "Våler",
 "Code": "0426",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Braskereidfoss",
@@ -6504,10 +6709,14 @@
 "LatLong": "60.881,12.2406"
 }
 ]
+}
+]
 },
 {
 "Name": "Elverum",
 "Code": "0427",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Elverum",
@@ -6580,10 +6789,14 @@
 "LatLong": "60.8819,11.5623"
 }
 ]
+}
+]
 },
 {
 "Name": "Trysil",
 "Code": "0428",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Trysil",
@@ -6636,10 +6849,14 @@
 "LatLong": "61.3728,11.9549"
 }
 ]
+}
+]
 },
 {
 "Name": "Åmot",
 "Code": "0429",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rena",
@@ -6657,10 +6874,14 @@
 "LatLong": "61.2999,11.7639"
 }
 ]
+}
+]
 },
 {
 "Name": "Stor-Elvdal",
 "Code": "0430",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Atna",
@@ -6683,10 +6904,14 @@
 "LatLong": "61.5722,11.0466"
 }
 ]
+}
+]
 },
 {
 "Name": "Rendalen",
 "Code": "0432",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hanestad",
@@ -6699,10 +6924,14 @@
 "LatLong": "61.8922,11.0774"
 }
 ]
+}
+]
 },
 {
 "Name": "Engerdal",
 "Code": "0434",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Engerdal",
@@ -6725,10 +6954,14 @@
 "LatLong": "62.1024,11.6644"
 }
 ]
+}
+]
 },
 {
 "Name": "Tolga",
 "Code": "0436",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tolga",
@@ -6746,10 +6979,14 @@
 "LatLong": "62.2088,11.4816"
 }
 ]
+}
+]
 },
 {
 "Name": "Tynset",
 "Code": "0437",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tynset",
@@ -6772,10 +7009,14 @@
 "LatLong": "62.5789,10.3314"
 }
 ]
+}
+]
 },
 {
 "Name": "Alvdal",
 "Code": "0438",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alvdal",
@@ -6788,10 +7029,14 @@
 "LatLong": "62.1077,10.6307"
 }
 ]
+}
+]
 },
 {
 "Name": "Folldal",
 "Code": "0439",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Folldal",
@@ -6814,10 +7059,14 @@
 "LatLong": "62.1743,9.8176"
 }
 ]
+}
+]
 },
 {
 "Name": "Os (Hedmark)",
 "Code": "0441",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Os I Østerdalen",
@@ -6837,6 +7086,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Oppland",
@@ -6845,6 +7096,8 @@
 {
 "Name": "Lillehammer",
 "Code": "0501",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lillehammer",
@@ -6947,10 +7200,14 @@
 "LatLong": "61.1151,10.4663"
 }
 ]
+}
+]
 },
 {
 "Name": "Gjøvik",
 "Code": "0502",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gjøvik",
@@ -7078,10 +7335,14 @@
 "LatLong": "60.9326,10.2421"
 }
 ]
+}
+]
 },
 {
 "Name": "Dovre",
 "Code": "0511",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dombås",
@@ -7114,10 +7375,14 @@
 "LatLong": "61.9875,9.2556"
 }
 ]
+}
+]
 },
 {
 "Name": "Lesja",
 "Code": "0512",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lesja",
@@ -7145,10 +7410,14 @@
 "LatLong": "62.258,8.2058"
 }
 ]
+}
+]
 },
 {
 "Name": "Skjåk",
 "Code": "0513",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skjåk",
@@ -7171,10 +7440,14 @@
 "LatLong": "62.0135,7.6304"
 }
 ]
+}
+]
 },
 {
 "Name": "Lom",
 "Code": "0514",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Garmo",
@@ -7197,10 +7470,14 @@
 "LatLong": "61.8377,8.5684"
 }
 ]
+}
+]
 },
 {
 "Name": "Vågå",
 "Code": "0515",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vågå",
@@ -7223,10 +7500,14 @@
 "LatLong": "61.868,9.0864"
 }
 ]
+}
+]
 },
 {
 "Name": "Nord-Fron",
 "Code": "0516",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vinstra",
@@ -7249,10 +7530,14 @@
 "LatLong": "61.5296,9.4163"
 }
 ]
+}
+]
 },
 {
 "Name": "Sel",
 "Code": "0517",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Otta",
@@ -7290,10 +7575,14 @@
 "LatLong": "61.7324,9.371"
 }
 ]
+}
+]
 },
 {
 "Name": "Sør-Fron",
 "Code": "0519",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sør-Fron",
@@ -7321,10 +7610,14 @@
 "LatLong": "61.439,9.4955"
 }
 ]
+}
+]
 },
 {
 "Name": "Ringebu",
 "Code": "0520",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ringebu",
@@ -7352,10 +7645,14 @@
 "LatLong": "61.4554,10.1946"
 }
 ]
+}
+]
 },
 {
 "Name": "Øyer",
 "Code": "0521",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tretten",
@@ -7373,10 +7670,14 @@
 "LatLong": "61.2631,10.4164"
 }
 ]
+}
+]
 },
 {
 "Name": "Gausdal",
 "Code": "0522",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Østre Gausdal",
@@ -7409,10 +7710,14 @@
 "LatLong": "61.3196,9.8606"
 }
 ]
+}
+]
 },
 {
 "Name": "Østre Toten",
 "Code": "0528",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nordre Toten",
@@ -7455,10 +7760,14 @@
 "LatLong": "60.7143,10.8577"
 }
 ]
+}
+]
 },
 {
 "Name": "Vestre Toten",
 "Code": "0529",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Raufoss",
@@ -7496,10 +7805,14 @@
 "LatLong": "60.6286,10.5986"
 }
 ]
+}
+]
 },
 {
 "Name": "Jevnaker",
 "Code": "0532",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jevnaker",
@@ -7512,10 +7825,14 @@
 "LatLong": "60.2398,10.3871"
 }
 ]
+}
+]
 },
 {
 "Name": "Lunner",
 "Code": "0533",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Roa",
@@ -7563,10 +7880,14 @@
 "LatLong": "60.1944,10.719"
 }
 ]
+}
+]
 },
 {
 "Name": "Gran",
 "Code": "0534",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gran",
@@ -7609,10 +7930,14 @@
 "LatLong": "60.5237,10.2847"
 }
 ]
+}
+]
 },
 {
 "Name": "Søndre Land",
 "Code": "0536",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hov",
@@ -7650,10 +7975,14 @@
 "LatLong": "60.8025,10.1797"
 }
 ]
+}
+]
 },
 {
 "Name": "Nordre Land",
 "Code": "0538",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dokka",
@@ -7676,10 +8005,14 @@
 "LatLong": "60.835,10.0736"
 }
 ]
+}
+]
 },
 {
 "Name": "Sør-Aurdal",
 "Code": "0540",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bagn",
@@ -7712,10 +8045,14 @@
 "LatLong": "60.6039,9.7449"
 }
 ]
+}
+]
 },
 {
 "Name": "Etnedal",
 "Code": "0541",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Etnedal",
@@ -7728,10 +8065,14 @@
 "LatLong": "60.8874,9.6437"
 }
 ]
+}
+]
 },
 {
 "Name": "Nord-Aurdal",
 "Code": "0542",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fagernes",
@@ -7774,10 +8115,14 @@
 "LatLong": "60.8691,9.2139"
 }
 ]
+}
+]
 },
 {
 "Name": "Vestre Slidre",
 "Code": "0543",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Røn",
@@ -7800,10 +8145,14 @@
 "LatLong": "61.1344,8.8906"
 }
 ]
+}
+]
 },
 {
 "Name": "Øystre Slidre",
 "Code": "0544",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Heggenes",
@@ -7841,10 +8190,14 @@
 "LatLong": "61.2487,8.9062"
 }
 ]
+}
+]
 },
 {
 "Name": "Vang",
 "Code": "0545",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ryfoss",
@@ -7874,6 +8227,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Buskerud",
@@ -7882,6 +8237,8 @@
 {
 "Name": "Drammen",
 "Code": "0602",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Drammen",
@@ -8114,10 +8471,14 @@
 "LatLong": "59.7439,10.2045"
 }
 ]
+}
+]
 },
 {
 "Name": "Kongsberg",
 "Code": "0604",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kongsberg",
@@ -8225,10 +8586,14 @@
 "LatLong": "59.5113,9.8271"
 }
 ]
+}
+]
 },
 {
 "Name": "Ringerike",
 "Code": "0605",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hønefoss",
@@ -8336,10 +8701,14 @@
 "LatLong": "60.2388,9.9281"
 }
 ]
+}
+]
 },
 {
 "Name": "Hole",
 "Code": "0612",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Røyse",
@@ -8362,10 +8731,14 @@
 "LatLong": "59.9641,10.3452"
 }
 ]
+}
+]
 },
 {
 "Name": "Flå",
 "Code": "0615",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Flå",
@@ -8373,10 +8746,14 @@
 "LatLong": "60.4302,9.462"
 }
 ]
+}
+]
 },
 {
 "Name": "Nes",
 "Code": "0616",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nesbyen",
@@ -8389,10 +8766,14 @@
 "LatLong": "60.5681,9.1027"
 }
 ]
+}
+]
 },
 {
 "Name": "Gol",
 "Code": "0617",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gol",
@@ -8405,10 +8786,14 @@
 "LatLong": "60.7014,8.9457"
 }
 ]
+}
+]
 },
 {
 "Name": "Hemsedal",
 "Code": "0618",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hemsedal",
@@ -8421,10 +8806,14 @@
 "LatLong": "60.8629,8.5534"
 }
 ]
+}
+]
 },
 {
 "Name": "Ål",
 "Code": "0619",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ål",
@@ -8442,10 +8831,14 @@
 "LatLong": "60.6644,8.7194"
 }
 ]
+}
+]
 },
 {
 "Name": "Hol",
 "Code": "0620",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hol",
@@ -8488,10 +8881,14 @@
 "LatLong": "60.512,7.8631"
 }
 ]
+}
+]
 },
 {
 "Name": "Sigdal",
 "Code": "0621",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Prestfoss",
@@ -8519,10 +8916,14 @@
 "LatLong": "60.2458,9.3569"
 }
 ]
+}
+]
 },
 {
 "Name": "Krødsherad",
 "Code": "0622",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Krøderen",
@@ -8540,10 +8941,14 @@
 "LatLong": "60.1248,9.7839"
 }
 ]
+}
+]
 },
 {
 "Name": "Modum",
 "Code": "0623",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Åmot",
@@ -8581,10 +8986,14 @@
 "LatLong": "59.9684,9.9911"
 }
 ]
+}
+]
 },
 {
 "Name": "Øvre Eiker",
 "Code": "0624",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hokksund",
@@ -8622,10 +9031,14 @@
 "LatLong": "59.845,9.8841"
 }
 ]
+}
+]
 },
 {
 "Name": "Nedre Eiker",
 "Code": "0625",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mjøndalen",
@@ -8668,10 +9081,14 @@
 "LatLong": "59.7578,10.0248"
 }
 ]
+}
+]
 },
 {
 "Name": "Lier",
 "Code": "0626",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lier",
@@ -8774,10 +9191,14 @@
 "LatLong": "59.7411,10.2897"
 }
 ]
+}
+]
 },
 {
 "Name": "Røyken",
 "Code": "0627",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Spikkestad",
@@ -8835,10 +9256,14 @@
 "LatLong": "59.7615,10.5094"
 }
 ]
+}
+]
 },
 {
 "Name": "Hurum",
 "Code": "0628",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sætre",
@@ -8886,10 +9311,14 @@
 "LatLong": "59.6137,10.458"
 }
 ]
+}
+]
 },
 {
 "Name": "Flesberg",
 "Code": "0631",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Flesberg",
@@ -8917,10 +9346,14 @@
 "LatLong": "59.9113,9.5282"
 }
 ]
+}
+]
 },
 {
 "Name": "Rollag",
 "Code": "0632",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rollag",
@@ -8938,10 +9371,14 @@
 "LatLong": "60.0423,9.1548"
 }
 ]
+}
+]
 },
 {
 "Name": "Nore Og Uvdal",
 "Code": "0633",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tunhovd",
@@ -8971,6 +9408,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Vestfold",
@@ -8979,6 +9418,8 @@
 {
 "Name": "Horten",
 "Code": "0701",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Åsgårdstrand",
@@ -9076,10 +9517,14 @@
 "LatLong": "59.3819,10.4565"
 }
 ]
+}
+]
 },
 {
 "Name": "Tønsberg",
 "Code": "0704",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tønsberg",
@@ -9242,10 +9687,14 @@
 "LatLong": "59.2594,10.3609"
 }
 ]
+}
+]
 },
 {
 "Name": "Sandefjord",
 "Code": "0710",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vear",
@@ -9528,10 +9977,14 @@
 "LatLong": "59.1312,10.2166"
 }
 ]
+}
+]
 },
 {
 "Name": "Svelvik",
 "Code": "0711",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Svelvik",
@@ -9549,10 +10002,14 @@
 "LatLong": "59.5499,10.3864"
 }
 ]
+}
+]
 },
 {
 "Name": "Larvik",
 "Code": "0712",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Larvik",
@@ -9735,10 +10192,14 @@
 "LatLong": "58.9939,9.8628"
 }
 ]
+}
+]
 },
 {
 "Name": "Sande (V.)",
 "Code": "0713",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sande I Vestfold",
@@ -9751,10 +10212,14 @@
 "LatLong": "59.5868,10.2081"
 }
 ]
+}
+]
 },
 {
 "Name": "Holmestrand",
 "Code": "0715",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Holmestrand",
@@ -9822,10 +10287,14 @@
 "LatLong": "59.5962,10.0359"
 }
 ]
+}
+]
 },
 {
 "Name": "Re",
 "Code": "0716",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Revetal",
@@ -9858,10 +10327,14 @@
 "LatLong": "59.418,10.2783"
 }
 ]
+}
+]
 },
 {
 "Name": "Færder",
 "Code": "0729",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nøtterøy",
@@ -9966,6 +10439,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Telemark",
@@ -9974,6 +10449,8 @@
 {
 "Name": "Porsgrunn",
 "Code": "0805",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Porsgrunn",
@@ -10191,10 +10668,14 @@
 "LatLong": "59.1405,9.6561"
 }
 ]
+}
+]
 },
 {
 "Name": "Skien",
 "Code": "0806",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skien",
@@ -10442,10 +10923,14 @@
 "LatLong": "59.2096,9.609"
 }
 ]
+}
+]
 },
 {
 "Name": "Notodden",
 "Code": "0807",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Notodden",
@@ -10518,10 +11003,14 @@
 "LatLong": "59.6906,9.0383"
 }
 ]
+}
+]
 },
 {
 "Name": "Siljan",
 "Code": "0811",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Siljan",
@@ -10534,10 +11023,14 @@
 "LatLong": "59.2884,9.71"
 }
 ]
+}
+]
 },
 {
 "Name": "Bamble",
 "Code": "0814",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stathelle",
@@ -10585,10 +11078,14 @@
 "LatLong": "59.1035,9.5619"
 }
 ]
+}
+]
 },
 {
 "Name": "Kragerø",
 "Code": "0815",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sannidal",
@@ -10646,10 +11143,14 @@
 "LatLong": "58.9035,9.3905"
 }
 ]
+}
+]
 },
 {
 "Name": "Drangedal",
 "Code": "0817",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Drangedal",
@@ -10672,10 +11173,14 @@
 "LatLong": "59.0977,9.0587"
 }
 ]
+}
+]
 },
 {
 "Name": "Nome",
 "Code": "0819",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lunde",
@@ -10698,10 +11203,14 @@
 "LatLong": "59.2983,9.1027"
 }
 ]
+}
+]
 },
 {
 "Name": "Bø (Tel.)",
 "Code": "0821",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bø I Telemark",
@@ -10734,10 +11243,14 @@
 "LatLong": "59.413,9.0693"
 }
 ]
+}
+]
 },
 {
 "Name": "Sauherad",
 "Code": "0822",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gvarv",
@@ -10765,10 +11278,14 @@
 "LatLong": "59.3877,9.1724"
 }
 ]
+}
+]
 },
 {
 "Name": "Tinn",
 "Code": "0826",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tinn Austbygd",
@@ -10806,10 +11323,14 @@
 "LatLong": "59.9955,8.8283"
 }
 ]
+}
+]
 },
 {
 "Name": "Hjartdal",
 "Code": "0827",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sauland",
@@ -10832,10 +11353,14 @@
 "LatLong": "59.7537,8.7966"
 }
 ]
+}
+]
 },
 {
 "Name": "Seljord",
 "Code": "0828",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bø I Telemark",
@@ -10863,10 +11388,14 @@
 "LatLong": "59.6309,8.4038"
 }
 ]
+}
+]
 },
 {
 "Name": "Kviteseid",
 "Code": "0829",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kviteseid",
@@ -10894,10 +11423,14 @@
 "LatLong": "59.3247,8.4926"
 }
 ]
+}
+]
 },
 {
 "Name": "Nissedal",
 "Code": "0830",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nissedal",
@@ -10915,10 +11448,14 @@
 "LatLong": "59.0206,8.5202"
 }
 ]
+}
+]
 },
 {
 "Name": "Fyresdal",
 "Code": "0831",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fyresdal",
@@ -10931,10 +11468,14 @@
 "LatLong": "59.1834,8.0921"
 }
 ]
+}
+]
 },
 {
 "Name": "Tokke",
 "Code": "0833",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dalen",
@@ -10957,10 +11498,14 @@
 "LatLong": "59.4984,8.1979"
 }
 ]
+}
+]
 },
 {
 "Name": "Vinje",
 "Code": "0834",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rauland",
@@ -11000,6 +11545,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Aust-Agder",
@@ -11008,6 +11555,8 @@
 {
 "Name": "Risør",
 "Code": "0901",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Risør",
@@ -11050,10 +11599,14 @@
 "LatLong": "58.7333,9.05"
 }
 ]
+}
+]
 },
 {
 "Name": "Grimstad",
 "Code": "0904",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fevik",
@@ -11141,10 +11694,14 @@
 "LatLong": "58.3405,8.5934"
 }
 ]
+}
+]
 },
 {
 "Name": "Arendal",
 "Code": "0906",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arendal",
@@ -11337,10 +11894,14 @@
 "LatLong": "58.5636,8.9831"
 }
 ]
+}
+]
 },
 {
 "Name": "Gjerstad",
 "Code": "0911",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sundebru",
@@ -11363,10 +11924,14 @@
 "LatLong": "58.8381,9.0872"
 }
 ]
+}
+]
 },
 {
 "Name": "Vegårshei",
 "Code": "0912",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vegårshei",
@@ -11379,10 +11944,14 @@
 "LatLong": "58.7493,8.8627"
 }
 ]
+}
+]
 },
 {
 "Name": "Tvedestrand",
 "Code": "0914",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tvedestrand",
@@ -11430,10 +11999,14 @@
 "LatLong": "58.6289,8.853"
 }
 ]
+}
+]
 },
 {
 "Name": "Froland",
 "Code": "0919",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Froland",
@@ -11471,10 +12044,14 @@
 "LatLong": "58.5079,8.6303"
 }
 ]
+}
+]
 },
 {
 "Name": "Lillesand",
 "Code": "0926",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Høvåg",
@@ -11512,10 +12089,14 @@
 "LatLong": "58.2488,8.3778"
 }
 ]
+}
+]
 },
 {
 "Name": "Birkenes",
 "Code": "0928",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Birkeland",
@@ -11538,10 +12119,14 @@
 "LatLong": "58.3309,8.2323"
 }
 ]
+}
+]
 },
 {
 "Name": "Åmli",
 "Code": "0929",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nelaug",
@@ -11569,10 +12154,14 @@
 "LatLong": "58.7123,8.3437"
 }
 ]
+}
+]
 },
 {
 "Name": "Iveland",
 "Code": "0935",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Iveland",
@@ -11585,10 +12174,14 @@
 "LatLong": "58.4131,8.0627"
 }
 ]
+}
+]
 },
 {
 "Name": "Evje Og Hornnes",
 "Code": "0937",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Evje",
@@ -11611,10 +12204,14 @@
 "LatLong": "58.5531,7.7717"
 }
 ]
+}
+]
 },
 {
 "Name": "Bygland",
 "Code": "0938",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Byglandsfjord",
@@ -11632,10 +12229,14 @@
 "LatLong": "58.8285,7.7962"
 }
 ]
+}
+]
 },
 {
 "Name": "Valle",
 "Code": "0940",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valle",
@@ -11648,10 +12249,14 @@
 "LatLong": "59.0916,7.5395"
 }
 ]
+}
+]
 },
 {
 "Name": "Bykle",
 "Code": "0941",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bykle",
@@ -11671,6 +12276,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Vest-Agder",
@@ -11679,6 +12286,8 @@
 {
 "Name": "Kristiansand",
 "Code": "1001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kristiansand S",
@@ -12016,10 +12625,14 @@
 "LatLong": "58.2337,8.122"
 }
 ]
+}
+]
 },
 {
 "Name": "Mandal",
 "Code": "1002",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mandal",
@@ -12087,10 +12700,14 @@
 "LatLong": "58.0961,7.5222"
 }
 ]
+}
+]
 },
 {
 "Name": "Farsund",
 "Code": "1003",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Farsund",
@@ -12138,10 +12755,14 @@
 "LatLong": "58.1,6.6"
 }
 ]
+}
+]
 },
 {
 "Name": "Flekkefjord",
 "Code": "1004",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Flekkefjord",
@@ -12189,10 +12810,14 @@
 "LatLong": "58.4207,6.6622"
 }
 ]
+}
+]
 },
 {
 "Name": "Vennesla",
 "Code": "1014",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vennesla",
@@ -12230,10 +12855,14 @@
 "LatLong": "58.3753,7.6955"
 }
 ]
+}
+]
 },
 {
 "Name": "Songdalen",
 "Code": "1017",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nodeland",
@@ -12261,10 +12890,14 @@
 "LatLong": "58.1552,7.8358"
 }
 ]
+}
+]
 },
 {
 "Name": "Søgne",
 "Code": "1018",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Søgne",
@@ -12287,10 +12920,14 @@
 "LatLong": "58.0933,7.7829"
 }
 ]
+}
+]
 },
 {
 "Name": "Marnardal",
 "Code": "1021",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Øyslebø",
@@ -12308,10 +12945,14 @@
 "LatLong": "58.3841,7.5277"
 }
 ]
+}
+]
 },
 {
 "Name": "Åseral",
 "Code": "1026",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Åseral",
@@ -12324,10 +12965,14 @@
 "LatLong": "58.5388,7.3555"
 }
 ]
+}
+]
 },
 {
 "Name": "Audnedal",
 "Code": "1027",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Konsmo",
@@ -12345,10 +12990,14 @@
 "LatLong": "58.4214,7.4028"
 }
 ]
+}
+]
 },
 {
 "Name": "Lindesnes",
 "Code": "1029",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lindesnes",
@@ -12376,10 +13025,14 @@
 "LatLong": "58.0829,7.3037"
 }
 ]
+}
+]
 },
 {
 "Name": "Lyngdal",
 "Code": "1032",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lyngdal",
@@ -12417,10 +13070,14 @@
 "LatLong": "58.2633,7.1996"
 }
 ]
+}
+]
 },
 {
 "Name": "Hægebostad",
 "Code": "1034",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Snartemo",
@@ -12438,10 +13095,14 @@
 "LatLong": "58.4787,7.2085"
 }
 ]
+}
+]
 },
 {
 "Name": "Kvinesdal",
 "Code": "1037",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kvinlog",
@@ -12479,10 +13140,14 @@
 "LatLong": "58.3121,6.9619"
 }
 ]
+}
+]
 },
 {
 "Name": "Sirdal",
 "Code": "1046",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tonstad",
@@ -12502,6 +13167,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Rogaland",
@@ -12510,6 +13177,8 @@
 {
 "Name": "Eigersund",
 "Code": "1101",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Egersund",
@@ -12557,10 +13226,14 @@
 "LatLong": "58.4513,5.9997"
 }
 ]
+}
+]
 },
 {
 "Name": "Sandnes",
 "Code": "1102",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sandnes",
@@ -12748,10 +13421,14 @@
 "LatLong": "58.8524,5.7352"
 }
 ]
+}
+]
 },
 {
 "Name": "Stavanger",
 "Code": "1103",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stavanger",
@@ -13109,10 +13786,14 @@
 "LatLong": "59.0383,5.7592"
 }
 ]
+}
+]
 },
 {
 "Name": "Haugesund",
 "Code": "1106",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Haugesund",
@@ -13275,10 +13956,14 @@
 "LatLong": "59.4379,5.0902"
 }
 ]
+}
+]
 },
 {
 "Name": "Sokndal",
 "Code": "1111",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hauge I Dalane",
@@ -13291,10 +13976,14 @@
 "LatLong": "58.3436,6.2812"
 }
 ]
+}
+]
 },
 {
 "Name": "Lund",
 "Code": "1112",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Moi",
@@ -13317,10 +14006,14 @@
 "LatLong": "58.4567,6.5518"
 }
 ]
+}
+]
 },
 {
 "Name": "Bjerkreim",
 "Code": "1114",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bjerkreim",
@@ -13333,10 +14026,14 @@
 "LatLong": "58.6376,6.0913"
 }
 ]
+}
+]
 },
 {
 "Name": "Hå",
 "Code": "1119",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Varhaug",
@@ -13379,10 +14076,14 @@
 "LatLong": "58.571,5.6818"
 }
 ]
+}
+]
 },
 {
 "Name": "Klepp",
 "Code": "1120",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bryne",
@@ -13420,10 +14121,14 @@
 "LatLong": "58.7742,5.6294"
 }
 ]
+}
+]
 },
 {
 "Name": "Time",
 "Code": "1121",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bryne",
@@ -13476,10 +14181,14 @@
 "LatLong": "58.7707,5.7262"
 }
 ]
+}
+]
 },
 {
 "Name": "Gjesdal",
 "Code": "1122",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ålgård",
@@ -13502,10 +14211,14 @@
 "LatLong": "58.7642,5.8525"
 }
 ]
+}
+]
 },
 {
 "Name": "Sola",
 "Code": "1124",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sola",
@@ -13568,10 +14281,14 @@
 "LatLong": "58.9362,5.5741"
 }
 ]
+}
+]
 },
 {
 "Name": "Randaberg",
 "Code": "1127",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Randaberg",
@@ -13584,10 +14301,14 @@
 "LatLong": "58.9995,5.6187"
 }
 ]
+}
+]
 },
 {
 "Name": "Forsand",
 "Code": "1129",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Forsand",
@@ -13615,10 +14336,14 @@
 "LatLong": "59.0174,6.3229"
 }
 ]
+}
+]
 },
 {
 "Name": "Strand",
 "Code": "1130",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jørpeland",
@@ -13651,10 +14376,14 @@
 "LatLong": "59.0225,6.0408"
 }
 ]
+}
+]
 },
 {
 "Name": "Hjelmeland",
 "Code": "1133",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hjelmeland",
@@ -13692,10 +14421,14 @@
 "LatLong": "59.224,5.8294"
 }
 ]
+}
+]
 },
 {
 "Name": "Suldal",
 "Code": "1134",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Foldøy",
@@ -13748,10 +14481,14 @@
 "LatLong": "59.6465,6.7998"
 }
 ]
+}
+]
 },
 {
 "Name": "Sauda",
 "Code": "1135",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sauda",
@@ -13769,10 +14506,14 @@
 "LatLong": "59.6438,6.3068"
 }
 ]
+}
+]
 },
 {
 "Name": "Finnøy",
 "Code": "1141",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Finnøy",
@@ -13830,10 +14571,14 @@
 "LatLong": "59.1992,5.9547"
 }
 ]
+}
+]
 },
 {
 "Name": "Rennesøy",
 "Code": "1142",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rennesøy",
@@ -13866,10 +14611,14 @@
 "LatLong": "59.0976,5.6969"
 }
 ]
+}
+]
 },
 {
 "Name": "Kvitsøy",
 "Code": "1144",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kvitsøy",
@@ -13877,10 +14626,14 @@
 "LatLong": "59.0623,5.4025"
 }
 ]
+}
+]
 },
 {
 "Name": "Bokn",
 "Code": "1145",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bokn",
@@ -13888,10 +14641,14 @@
 "LatLong": "59.2306,5.4352"
 }
 ]
+}
+]
 },
 {
 "Name": "Tysvær",
 "Code": "1146",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nedstrand",
@@ -13934,10 +14691,14 @@
 "LatLong": "59.4166,5.4049"
 }
 ]
+}
+]
 },
 {
 "Name": "Karmøy",
 "Code": "1149",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kopervik",
@@ -14065,10 +14826,14 @@
 "LatLong": "59.3801,5.1522"
 }
 ]
+}
+]
 },
 {
 "Name": "Utsira",
 "Code": "1151",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Utsira",
@@ -14076,10 +14841,14 @@
 "LatLong": "59.3057,4.8862"
 }
 ]
+}
+]
 },
 {
 "Name": "Vindafjord",
 "Code": "1160",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vikebygd",
@@ -14144,6 +14913,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Hordaland",
@@ -14152,6 +14923,8 @@
 {
 "Name": "Bergen",
 "Code": "1201",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bergen",
@@ -15199,10 +15972,14 @@
 "LatLong": "60.393,5.3242"
 }
 ]
+}
+]
 },
 {
 "Name": "Etne",
 "Code": "1211",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Etne",
@@ -15235,10 +16012,14 @@
 "LatLong": "59.8833,6.4"
 }
 ]
+}
+]
 },
 {
 "Name": "Sveio",
 "Code": "1216",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sveio",
@@ -15266,10 +16047,14 @@
 "LatLong": "59.5419,5.3518"
 }
 ]
+}
+]
 },
 {
 "Name": "Bømlo",
 "Code": "1219",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rubbestadneset",
@@ -15332,10 +16117,14 @@
 "LatLong": "59.6023,5.2075"
 }
 ]
+}
+]
 },
 {
 "Name": "Stord",
 "Code": "1221",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stord",
@@ -15418,10 +16207,14 @@
 "LatLong": "59.7831,5.4952"
 }
 ]
+}
+]
 },
 {
 "Name": "Fitjar",
 "Code": "1222",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fitjar",
@@ -15434,10 +16227,14 @@
 "LatLong": "59.918,5.3167"
 }
 ]
+}
+]
 },
 {
 "Name": "Tysnes",
 "Code": "1223",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tysnes",
@@ -15485,10 +16282,14 @@
 "LatLong": "60.05,5.55"
 }
 ]
+}
+]
 },
 {
 "Name": "Kvinnherad",
 "Code": "1224",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sunde I Sunnhordland",
@@ -15631,10 +16432,14 @@
 "LatLong": "59.9929,5.7851"
 }
 ]
+}
+]
 },
 {
 "Name": "Jondal",
 "Code": "1227",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kysnesstrand",
@@ -15657,10 +16462,14 @@
 "LatLong": "60.2756,6.2523"
 }
 ]
+}
+]
 },
 {
 "Name": "Odda",
 "Code": "1228",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Odda",
@@ -15693,10 +16502,14 @@
 "LatLong": "60.1163,6.5591"
 }
 ]
+}
+]
 },
 {
 "Name": "Ullensvang",
 "Code": "1231",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hovland",
@@ -15749,10 +16562,14 @@
 "LatLong": "60.3757,6.7195"
 }
 ]
+}
+]
 },
 {
 "Name": "Eidfjord",
 "Code": "1232",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eidfjord",
@@ -15775,10 +16592,14 @@
 "LatLong": "60.4675,7.0719"
 }
 ]
+}
+]
 },
 {
 "Name": "Ulvik",
 "Code": "1233",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Finse",
@@ -15801,10 +16622,14 @@
 "LatLong": "60.4849,6.8243"
 }
 ]
+}
+]
 },
 {
 "Name": "Granvin",
 "Code": "1234",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Granvin",
@@ -15817,10 +16642,14 @@
 "LatLong": "60.5241,6.7194"
 }
 ]
+}
+]
 },
 {
 "Name": "Voss",
 "Code": "1235",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Voss",
@@ -15908,10 +16737,14 @@
 "LatLong": "60.6389,5.9582"
 }
 ]
+}
+]
 },
 {
 "Name": "Kvam",
 "Code": "1238",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Norheimsund",
@@ -15969,10 +16802,14 @@
 "LatLong": "60.2333,5.9667"
 }
 ]
+}
+]
 },
 {
 "Name": "Fusa",
 "Code": "1241",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eikelandsosen",
@@ -16015,10 +16852,14 @@
 "LatLong": "60.2418,5.7443"
 }
 ]
+}
+]
 },
 {
 "Name": "Samnanger",
 "Code": "1242",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tysse",
@@ -16036,10 +16877,14 @@
 "LatLong": "59.9896,5.0816"
 }
 ]
+}
+]
 },
 {
 "Name": "Os (Hordaland)",
 "Code": "1243",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Os",
@@ -16117,10 +16962,14 @@
 "LatLong": "60.1667,5.35"
 }
 ]
+}
+]
 },
 {
 "Name": "Austevoll",
 "Code": "1244",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Torangsvåg",
@@ -16178,10 +17027,14 @@
 "LatLong": "60.0081,5.2006"
 }
 ]
+}
+]
 },
 {
 "Name": "Sund",
 "Code": "1245",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skogsvåg",
@@ -16219,10 +17072,14 @@
 "LatLong": "60.2628,5.1158"
 }
 ]
+}
+]
 },
 {
 "Name": "Fjell",
 "Code": "1246",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bjørøyhamn",
@@ -16310,10 +17167,14 @@
 "LatLong": "60.452,4.9651"
 }
 ]
+}
+]
 },
 {
 "Name": "Askøy",
 "Code": "1247",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kleppestø",
@@ -16426,10 +17287,14 @@
 "LatLong": "60.421,5.2385"
 }
 ]
+}
+]
 },
 {
 "Name": "Vaksdal",
 "Code": "1251",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dalekvam",
@@ -16467,10 +17332,14 @@
 "LatLong": "60.7347,5.8016"
 }
 ]
+}
+]
 },
 {
 "Name": "Modalen",
 "Code": "1252",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Modalen",
@@ -16478,10 +17347,14 @@
 "LatLong": "60.8147,5.8024"
 }
 ]
+}
+]
 },
 {
 "Name": "Osterøy",
 "Code": "1253",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valestrandsfossen",
@@ -16529,10 +17402,14 @@
 "LatLong": "60.4531,5.496"
 }
 ]
+}
+]
 },
 {
 "Name": "Meland",
 "Code": "1256",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Frekhaug",
@@ -16550,10 +17427,14 @@
 "LatLong": "60.5132,5.2425"
 }
 ]
+}
+]
 },
 {
 "Name": "Øygarden",
 "Code": "1259",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rong",
@@ -16586,10 +17467,14 @@
 "LatLong": "60.5122,4.9027"
 }
 ]
+}
+]
 },
 {
 "Name": "Radøy",
 "Code": "1260",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Manger",
@@ -16617,10 +17502,14 @@
 "LatLong": "60.6886,5.045"
 }
 ]
+}
+]
 },
 {
 "Name": "Lindås",
 "Code": "1263",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Isdalstø",
@@ -16718,10 +17607,14 @@
 "LatLong": "60.6985,5.5869"
 }
 ]
+}
+]
 },
 {
 "Name": "Austrheim",
 "Code": "1264",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Austrheim",
@@ -16744,10 +17637,14 @@
 "LatLong": "60.803,4.9798"
 }
 ]
+}
+]
 },
 {
 "Name": "Fedje",
 "Code": "1265",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fedje",
@@ -16760,10 +17657,14 @@
 "LatLong": "60.7789,4.7149"
 }
 ]
+}
+]
 },
 {
 "Name": "Masfjorden",
 "Code": "1266",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Masfjordnes",
@@ -16793,6 +17694,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Sogn og Fjordane",
@@ -16801,6 +17704,8 @@
 {
 "Name": "Flora",
 "Code": "1401",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Florø",
@@ -16883,10 +17788,14 @@
 "LatLong": "61.5333,5.1833"
 }
 ]
+}
+]
 },
 {
 "Name": "Gulen",
 "Code": "1411",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dalsøyra",
@@ -16929,10 +17838,14 @@
 "LatLong": "60.8986,4.838"
 }
 ]
+}
+]
 },
 {
 "Name": "Solund",
 "Code": "1412",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hardbakke",
@@ -16965,10 +17878,14 @@
 "LatLong": "61.1729,4.8963"
 }
 ]
+}
+]
 },
 {
 "Name": "Hyllestad",
 "Code": "1413",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leirvik I Sogn",
@@ -16991,10 +17908,14 @@
 "LatLong": "61.2333,5.1667"
 }
 ]
+}
+]
 },
 {
 "Name": "Høyanger",
 "Code": "1416",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bjordal",
@@ -17032,10 +17953,14 @@
 "LatLong": "61.2091,5.8253"
 }
 ]
+}
+]
 },
 {
 "Name": "Vik",
 "Code": "1417",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vik I Sogn",
@@ -17063,10 +17988,14 @@
 "LatLong": "61.0723,6.9342"
 }
 ]
+}
+]
 },
 {
 "Name": "Balestrand",
 "Code": "1418",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Balestrand",
@@ -17079,10 +18008,14 @@
 "LatLong": "61.2096,6.5361"
 }
 ]
+}
+]
 },
 {
 "Name": "Leikanger",
 "Code": "1419",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leikanger",
@@ -17095,10 +18028,14 @@
 "LatLong": "61.1856,6.8045"
 }
 ]
+}
+]
 },
 {
 "Name": "Sogndal",
 "Code": "1420",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fjærland",
@@ -17141,10 +18078,14 @@
 "LatLong": "61.1667,6.9167"
 }
 ]
+}
+]
 },
 {
 "Name": "Aurland",
 "Code": "1421",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Myrdal",
@@ -17192,10 +18133,14 @@
 "LatLong": "60.9163,6.8689"
 }
 ]
+}
+]
 },
 {
 "Name": "Lærdal",
 "Code": "1422",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Frønningen",
@@ -17218,10 +18163,14 @@
 "LatLong": "61.0487,7.8135"
 }
 ]
+}
+]
 },
 {
 "Name": "Årdal",
 "Code": "1424",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Årdalstangen",
@@ -17244,10 +18193,14 @@
 "LatLong": "61.2358,7.7037"
 }
 ]
+}
+]
 },
 {
 "Name": "Luster",
 "Code": "1426",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gaupne",
@@ -17310,10 +18263,14 @@
 "LatLong": "61.3013,7.2475"
 }
 ]
+}
+]
 },
 {
 "Name": "Askvoll",
 "Code": "1428",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Askvoll",
@@ -17361,10 +18318,14 @@
 "LatLong": "61.3467,5.0622"
 }
 ]
+}
+]
 },
 {
 "Name": "Fjaler",
 "Code": "1429",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dale I Sunnfjord",
@@ -17402,10 +18363,14 @@
 "LatLong": "61.3366,5.2079"
 }
 ]
+}
+]
 },
 {
 "Name": "Gaular",
 "Code": "1430",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sande I Sunnfjord",
@@ -17433,10 +18398,14 @@
 "LatLong": "61.3263,6.2692"
 }
 ]
+}
+]
 },
 {
 "Name": "Jølster",
 "Code": "1431",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skei I Jølster",
@@ -17454,10 +18423,14 @@
 "LatLong": "61.4929,6.1127"
 }
 ]
+}
+]
 },
 {
 "Name": "Førde",
 "Code": "1432",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Førde",
@@ -17545,10 +18518,14 @@
 "LatLong": "61.4522,5.8572"
 }
 ]
+}
+]
 },
 {
 "Name": "Naustdal",
 "Code": "1433",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Naustdal",
@@ -17561,10 +18538,14 @@
 "LatLong": "61.5111,5.7169"
 }
 ]
+}
+]
 },
 {
 "Name": "Bremanger",
 "Code": "1438",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skatestraumen",
@@ -17622,10 +18603,14 @@
 "LatLong": "61.8393,5.6763"
 }
 ]
+}
+]
 },
 {
 "Name": "Vågsøy",
 "Code": "1439",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Måløy",
@@ -17693,10 +18678,14 @@
 "LatLong": "61.9252,5.1472"
 }
 ]
+}
+]
 },
 {
 "Name": "Selje",
 "Code": "1441",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Barmen",
@@ -17729,10 +18718,14 @@
 "LatLong": "62.1183,5.3169"
 }
 ]
+}
+]
 },
 {
 "Name": "Eid",
 "Code": "1443",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nordfjordeid",
@@ -17770,10 +18763,14 @@
 "LatLong": "61.9333,6.4333"
 }
 ]
+}
+]
 },
 {
 "Name": "Hornindal",
 "Code": "1444",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hornindal",
@@ -17786,10 +18783,14 @@
 "LatLong": "61.9692,6.5242"
 }
 ]
+}
+]
 },
 {
 "Name": "Gloppen",
 "Code": "1445",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sandane",
@@ -17827,10 +18828,14 @@
 "LatLong": "61.7396,5.9172"
 }
 ]
+}
+]
 },
 {
 "Name": "Stryn",
 "Code": "1449",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stryn",
@@ -17905,6 +18910,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Møre og Romsdal",
@@ -17913,6 +18920,8 @@
 {
 "Name": "Molde",
 "Code": "1502",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Molde",
@@ -18060,10 +19069,14 @@
 "LatLong": "62.7307,7.3275"
 }
 ]
+}
+]
 },
 {
 "Name": "Ålesund",
 "Code": "1504",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ålesund",
@@ -18236,10 +19249,14 @@
 "LatLong": "62.4913,6.1913"
 }
 ]
+}
+]
 },
 {
 "Name": "Kristiansund",
 "Code": "1505",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kristiansund N",
@@ -18357,10 +19374,14 @@
 "LatLong": "63.0243,7.8065"
 }
 ]
+}
+]
 },
 {
 "Name": "Vanylven",
 "Code": "1511",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fiskå",
@@ -18403,10 +19424,14 @@
 "LatLong": "62.1918,5.5019"
 }
 ]
+}
+]
 },
 {
 "Name": "Sande (M.R.)",
 "Code": "1514",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gursken",
@@ -18439,10 +19464,14 @@
 "LatLong": "62.2514,5.4792"
 }
 ]
+}
+]
 },
 {
 "Name": "Herøy (M.R.)",
 "Code": "1515",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tjørvåg",
@@ -18500,10 +19529,14 @@
 "LatLong": "62.3419,5.634"
 }
 ]
+}
+]
 },
 {
 "Name": "Ulstein",
 "Code": "1516",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Haddal",
@@ -18526,10 +19559,14 @@
 "LatLong": "62.2667,5.9333"
 }
 ]
+}
+]
 },
 {
 "Name": "Hareid",
 "Code": "1517",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hareid",
@@ -18552,10 +19589,14 @@
 "LatLong": "62.3704,6.029"
 }
 ]
+}
+]
 },
 {
 "Name": "Volda",
 "Code": "1519",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Volda",
@@ -18608,10 +19649,14 @@
 "LatLong": "62.1641,5.9421"
 }
 ]
+}
+]
 },
 {
 "Name": "Ørsta",
 "Code": "1520",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ørsta",
@@ -18699,10 +19744,14 @@
 "LatLong": "62.213,6.5686"
 }
 ]
+}
+]
 },
 {
 "Name": "Ørskog",
 "Code": "1523",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ørskog",
@@ -18715,10 +19764,14 @@
 "LatLong": "62.4828,6.8115"
 }
 ]
+}
+]
 },
 {
 "Name": "Norddal",
 "Code": "1524",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valldal",
@@ -18746,10 +19799,14 @@
 "LatLong": "62.2626,7.1718"
 }
 ]
+}
+]
 },
 {
 "Name": "Stranda",
 "Code": "1525",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stranda",
@@ -18777,10 +19834,14 @@
 "LatLong": "62.0855,6.8677"
 }
 ]
+}
+]
 },
 {
 "Name": "Stordal",
 "Code": "1526",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stordal",
@@ -18793,10 +19854,14 @@
 "LatLong": "62.382,6.9863"
 }
 ]
+}
+]
 },
 {
 "Name": "Sykkylven",
 "Code": "1528",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Straumgjerde",
@@ -18829,10 +19894,14 @@
 "LatLong": "62.3959,6.5875"
 }
 ]
+}
+]
 },
 {
 "Name": "Skodje",
 "Code": "1529",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skodje",
@@ -18845,10 +19914,14 @@
 "LatLong": "62.5047,6.6932"
 }
 ]
+}
+]
 },
 {
 "Name": "Sula",
 "Code": "1531",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Langevåg",
@@ -18881,10 +19954,14 @@
 "LatLong": "62.4408,6.1914"
 }
 ]
+}
+]
 },
 {
 "Name": "Giske",
 "Code": "1532",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vigra",
@@ -18922,10 +19999,14 @@
 "LatLong": "62.564,6.0777"
 }
 ]
+}
+]
 },
 {
 "Name": "Haram",
 "Code": "1534",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tennfjord",
@@ -18993,10 +20074,14 @@
 "LatLong": "62.7,6.3667"
 }
 ]
+}
+]
 },
 {
 "Name": "Vestnes",
 "Code": "1535",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vestnes",
@@ -19049,10 +20134,14 @@
 "LatLong": "62.6254,7.087"
 }
 ]
+}
+]
 },
 {
 "Name": "Rauma",
 "Code": "1539",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Åndalsnes",
@@ -19115,10 +20204,14 @@
 "LatLong": "62.6048,7.2926"
 }
 ]
+}
+]
 },
 {
 "Name": "Nesset",
 "Code": "1543",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vistdal",
@@ -19151,10 +20244,14 @@
 "LatLong": "62.4755,8.1736"
 }
 ]
+}
+]
 },
 {
 "Name": "Midsund",
 "Code": "1545",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Midsund",
@@ -19167,10 +20264,14 @@
 "LatLong": "62.6739,6.6741"
 }
 ]
+}
+]
 },
 {
 "Name": "Sandøy",
 "Code": "1546",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ona",
@@ -19198,10 +20299,14 @@
 "LatLong": "62.7319,6.4486"
 }
 ]
+}
+]
 },
 {
 "Name": "Aukra",
 "Code": "1547",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Molde",
@@ -19219,10 +20324,14 @@
 "LatLong": "62.7833,6.9"
 }
 ]
+}
+]
 },
 {
 "Name": "Fræna",
 "Code": "1548",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aureosen",
@@ -19270,10 +20379,14 @@
 "LatLong": "62.8543,7.1377"
 }
 ]
+}
+]
 },
 {
 "Name": "Eide",
 "Code": "1551",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eide",
@@ -19296,10 +20409,14 @@
 "LatLong": "62.9173,7.4467"
 }
 ]
+}
+]
 },
 {
 "Name": "Averøy",
 "Code": "1554",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Averøy",
@@ -19317,10 +20434,14 @@
 "LatLong": "63.0132,7.4436"
 }
 ]
+}
+]
 },
 {
 "Name": "Gjemnes",
 "Code": "1557",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Batnfjordsøra",
@@ -19353,10 +20474,14 @@
 "LatLong": "62.9436,7.8574"
 }
 ]
+}
+]
 },
 {
 "Name": "Tingvoll",
 "Code": "1560",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Meisingset",
@@ -19384,10 +20509,14 @@
 "LatLong": "63.0665,7.9883"
 }
 ]
+}
+]
 },
 {
 "Name": "Sunndal",
 "Code": "1563",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sunndalsøra",
@@ -19430,10 +20559,14 @@
 "LatLong": "62.8522,8.5206"
 }
 ]
+}
+]
 },
 {
 "Name": "Surnadal",
 "Code": "1566",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kvanne",
@@ -19486,10 +20619,14 @@
 "LatLong": "62.974,8.7247"
 }
 ]
+}
+]
 },
 {
 "Name": "Rindal",
 "Code": "1567",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rindal",
@@ -19507,10 +20644,14 @@
 "LatLong": "63.0555,9.2115"
 }
 ]
+}
+]
 },
 {
 "Name": "Halsa",
 "Code": "1571",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Halsanaustan",
@@ -19538,10 +20679,14 @@
 "LatLong": "63.1194,8.2825"
 }
 ]
+}
+]
 },
 {
 "Name": "Smøla",
 "Code": "1573",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Smøla",
@@ -19554,10 +20699,14 @@
 "LatLong": "63.4597,8.0161"
 }
 ]
+}
+]
 },
 {
 "Name": "Aure",
 "Code": "1576",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tustna",
@@ -19602,6 +20751,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Nordland",
@@ -19610,6 +20761,8 @@
 {
 "Name": "Bodø",
 "Code": "1804",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bodø",
@@ -19917,10 +21070,14 @@
 "LatLong": "67.1187,14.9992"
 }
 ]
+}
+]
 },
 {
 "Name": "Narvik",
 "Code": "1805",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Narvik",
@@ -20033,10 +21190,14 @@
 "LatLong": "68.5492,17.5571"
 }
 ]
+}
+]
 },
 {
 "Name": "Bindal",
 "Code": "1811",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Terråk",
@@ -20054,10 +21215,14 @@
 "LatLong": "65.1255,12.2311"
 }
 ]
+}
+]
 },
 {
 "Name": "Sømna",
 "Code": "1812",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sømna",
@@ -20075,10 +21240,14 @@
 "LatLong": "65.3167,12.1667"
 }
 ]
+}
+]
 },
 {
 "Name": "Brønnøy",
 "Code": "1813",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Brønnøysund",
@@ -20141,10 +21310,14 @@
 "LatLong": "65.4604,12.2078"
 }
 ]
+}
+]
 },
 {
 "Name": "Vega",
 "Code": "1815",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vega",
@@ -20162,10 +21335,14 @@
 "LatLong": "65.6333,12.1833"
 }
 ]
+}
+]
 },
 {
 "Name": "Vevelstad",
 "Code": "1816",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Visthus",
@@ -20178,10 +21355,14 @@
 "LatLong": "65.6978,12.4371"
 }
 ]
+}
+]
 },
 {
 "Name": "Herøy (N.)",
 "Code": "1818",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Brasøy",
@@ -20209,10 +21390,14 @@
 "LatLong": "65.9613,12.2746"
 }
 ]
+}
+]
 },
 {
 "Name": "Alstahaug",
 "Code": "1820",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sandnessjøen",
@@ -20275,10 +21460,14 @@
 "LatLong": "65.8694,12.6181"
 }
 ]
+}
+]
 },
 {
 "Name": "Leirfjord",
 "Code": "1822",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leirfjord",
@@ -20301,10 +21490,14 @@
 "LatLong": "66.217,13.3802"
 }
 ]
+}
+]
 },
 {
 "Name": "Vefsn",
 "Code": "1824",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mosjøen",
@@ -20382,10 +21575,14 @@
 "LatLong": "66.1039,13.5523"
 }
 ]
+}
+]
 },
 {
 "Name": "Grane",
 "Code": "1825",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Trofors",
@@ -20398,10 +21595,14 @@
 "LatLong": "65.5333,13.4063"
 }
 ]
+}
+]
 },
 {
 "Name": "Hattfjelldal",
 "Code": "1826",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hattfjelldal",
@@ -20414,10 +21615,14 @@
 "LatLong": "65.5974,13.9879"
 }
 ]
+}
+]
 },
 {
 "Name": "Dønna",
 "Code": "1827",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kopardal",
@@ -20440,10 +21645,14 @@
 "LatLong": "66.1667,12.35"
 }
 ]
+}
+]
 },
 {
 "Name": "Nesna",
 "Code": "1828",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nesna",
@@ -20471,10 +21680,14 @@
 "LatLong": "66.7667,13.55"
 }
 ]
+}
+]
 },
 {
 "Name": "Hemnes",
 "Code": "1832",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hemnesberget",
@@ -20512,10 +21725,14 @@
 "LatLong": "66.0766,13.8216"
 }
 ]
+}
+]
 },
 {
 "Name": "Rana",
 "Code": "1833",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mo I Rana",
@@ -20618,10 +21835,14 @@
 "LatLong": "66.2881,13.6366"
 }
 ]
+}
+]
 },
 {
 "Name": "Lurøy",
 "Code": "1834",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bratland",
@@ -20694,10 +21915,14 @@
 "LatLong": "66.4189,12.8425"
 }
 ]
+}
+]
 },
 {
 "Name": "Træna",
 "Code": "1835",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Selvær",
@@ -20710,10 +21935,14 @@
 "LatLong": "66.5012,12.1015"
 }
 ]
+}
+]
 },
 {
 "Name": "Rødøy",
 "Code": "1836",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Myken",
@@ -20786,10 +22015,14 @@
 "LatLong": "66.4623,13.2265"
 }
 ]
+}
+]
 },
 {
 "Name": "Meløy",
 "Code": "1837",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Reipå",
@@ -20857,10 +22090,14 @@
 "LatLong": "66.7193,13.4707"
 }
 ]
+}
+]
 },
 {
 "Name": "Gildeskål",
 "Code": "1838",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fleinvær",
@@ -20903,10 +22140,14 @@
 "LatLong": "66.9629,13.8082"
 }
 ]
+}
+]
 },
 {
 "Name": "Beiarn",
 "Code": "1839",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Moldjord",
@@ -20929,10 +22170,14 @@
 "LatLong": "67.0727,14.5734"
 }
 ]
+}
+]
 },
 {
 "Name": "Saltdal",
 "Code": "1840",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rognan",
@@ -20955,10 +22200,14 @@
 "LatLong": "66.9833,15.3167"
 }
 ]
+}
+]
 },
 {
 "Name": "Fauske",
 "Code": "1841",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fauske",
@@ -21051,10 +22300,14 @@
 "LatLong": "67.2995,15.1861"
 }
 ]
+}
+]
 },
 {
 "Name": "Sørfold",
 "Code": "1845",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Røsvik",
@@ -21082,10 +22335,14 @@
 "LatLong": "67.7085,15.8571"
 }
 ]
+}
+]
 },
 {
 "Name": "Steigen",
 "Code": "1848",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leinesfjord",
@@ -21118,10 +22375,14 @@
 "LatLong": "67.7496,15.0142"
 }
 ]
+}
+]
 },
 {
 "Name": "Hamarøy",
 "Code": "1849",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Innhavet",
@@ -21164,10 +22425,14 @@
 "LatLong": "68.0853,15.6108"
 }
 ]
+}
+]
 },
 {
 "Name": "Tysfjord",
 "Code": "1850",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Drag",
@@ -21210,10 +22475,14 @@
 "LatLong": "68.097,16.3742"
 }
 ]
+}
+]
 },
 {
 "Name": "Lødingen",
 "Code": "1851",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lødingen",
@@ -21231,10 +22500,14 @@
 "LatLong": "68.3471,15.5069"
 }
 ]
+}
+]
 },
 {
 "Name": "Tjeldsund",
 "Code": "1852",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kongsvik",
@@ -21267,10 +22540,14 @@
 "LatLong": "68.492,16.5183"
 }
 ]
+}
+]
 },
 {
 "Name": "Evenes",
 "Code": "1853",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bogen I Ofoten",
@@ -21298,10 +22575,14 @@
 "LatLong": "68.5265,16.9928"
 }
 ]
+}
+]
 },
 {
 "Name": "Ballangen",
 "Code": "1854",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ballangen",
@@ -21319,10 +22600,14 @@
 "LatLong": "68.3428,16.8315"
 }
 ]
+}
+]
 },
 {
 "Name": "Røst",
 "Code": "1856",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Røst",
@@ -21330,10 +22615,14 @@
 "LatLong": "67.5175,12.1176"
 }
 ]
+}
+]
 },
 {
 "Name": "Værøy",
 "Code": "1857",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Værøy",
@@ -21341,10 +22630,14 @@
 "LatLong": "67.6667,12.65"
 }
 ]
+}
+]
 },
 {
 "Name": "Flakstad",
 "Code": "1859",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ramberg",
@@ -21372,10 +22665,14 @@
 "LatLong": "68.0899,13.2299"
 }
 ]
+}
+]
 },
 {
 "Name": "Vestvågøy",
 "Code": "1860",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stamsund",
@@ -21428,10 +22725,14 @@
 "LatLong": "68.1301,13.8493"
 }
 ]
+}
+]
 },
 {
 "Name": "Vågan",
 "Code": "1865",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Svolvær",
@@ -21514,10 +22815,14 @@
 "LatLong": "68.2632,14.8433"
 }
 ]
+}
+]
 },
 {
 "Name": "Hadsel",
 "Code": "1866",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Strønstad",
@@ -21570,10 +22875,14 @@
 "LatLong": "68.5025,14.7996"
 }
 ]
+}
+]
 },
 {
 "Name": "Bø (N.)",
 "Code": "1867",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Straumsjøen",
@@ -21596,10 +22905,14 @@
 "LatLong": "68.6944,14.4718"
 }
 ]
+}
+]
 },
 {
 "Name": "Øksnes",
 "Code": "1868",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sortland",
@@ -21637,10 +22950,14 @@
 "LatLong": "68.914,15.0784"
 }
 ]
+}
+]
 },
 {
 "Name": "Sortland",
 "Code": "1870",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sortland",
@@ -21693,10 +23010,14 @@
 "LatLong": "68.6957,15.405"
 }
 ]
+}
+]
 },
 {
 "Name": "Andøy",
 "Code": "1871",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Andenes",
@@ -21739,10 +23060,14 @@
 "LatLong": "68.9719,15.6381"
 }
 ]
+}
+]
 },
 {
 "Name": "Moskenes",
 "Code": "1874",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Reine",
@@ -21767,6 +23092,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Troms",
@@ -21775,6 +23102,8 @@
 {
 "Name": "Tromsø",
 "Code": "1902",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tromsø",
@@ -22212,10 +23541,14 @@
 "LatLong": "69.6489,18.9551"
 }
 ]
+}
+]
 },
 {
 "Name": "Harstad",
 "Code": "1903",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Harstad",
@@ -22383,10 +23716,14 @@
 "LatLong": "68.7983,16.5417"
 }
 ]
+}
+]
 },
 {
 "Name": "Kvæfjord",
 "Code": "1911",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gullesfjord",
@@ -22404,10 +23741,14 @@
 "LatLong": "68.7726,16.1711"
 }
 ]
+}
+]
 },
 {
 "Name": "Skånland",
 "Code": "1913",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Evenskjer",
@@ -22435,10 +23776,14 @@
 "LatLong": "68.6764,17.1208"
 }
 ]
+}
+]
 },
 {
 "Name": "Ibestad",
 "Code": "1917",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hamnvik",
@@ -22466,10 +23811,14 @@
 "LatLong": "68.9251,17.1221"
 }
 ]
+}
+]
 },
 {
 "Name": "Gratangen",
 "Code": "1919",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gratangen",
@@ -22482,10 +23831,14 @@
 "LatLong": "68.65,17.6833"
 }
 ]
+}
+]
 },
 {
 "Name": "Lavangen",
 "Code": "1920",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tennevoll",
@@ -22498,10 +23851,14 @@
 "LatLong": "68.7471,17.8062"
 }
 ]
+}
+]
 },
 {
 "Name": "Bardu",
 "Code": "1922",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bardu",
@@ -22514,10 +23871,14 @@
 "LatLong": "68.8586,18.3472"
 }
 ]
+}
+]
 },
 {
 "Name": "Salangen",
 "Code": "1923",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sjøvegan",
@@ -22530,10 +23891,14 @@
 "LatLong": "68.8736,17.8471"
 }
 ]
+}
+]
 },
 {
 "Name": "Målselv",
 "Code": "1924",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Moen",
@@ -22576,10 +23941,14 @@
 "LatLong": "69.0201,18.8982"
 }
 ]
+}
+]
 },
 {
 "Name": "Sørreisa",
 "Code": "1925",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sørreisa",
@@ -22592,10 +23961,14 @@
 "LatLong": "69.1453,18.1529"
 }
 ]
+}
+]
 },
 {
 "Name": "Dyrøy",
 "Code": "1926",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Brøstadbotn",
@@ -22608,10 +23981,14 @@
 "LatLong": "69.0887,17.6949"
 }
 ]
+}
+]
 },
 {
 "Name": "Tranøy",
 "Code": "1927",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vangsvik",
@@ -22634,10 +24011,14 @@
 "LatLong": "69.0833,17.1833"
 }
 ]
+}
+]
 },
 {
 "Name": "Torsken",
 "Code": "1928",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gryllefjord",
@@ -22665,10 +24046,14 @@
 "LatLong": "69.2811,16.9851"
 }
 ]
+}
+]
 },
 {
 "Name": "Berg",
 "Code": "1929",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skaland",
@@ -22691,10 +24076,14 @@
 "LatLong": "69.4969,17.4898"
 }
 ]
+}
+]
 },
 {
 "Name": "Lenvik",
 "Code": "1931",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Finnsnes",
@@ -22752,10 +24141,14 @@
 "LatLong": "69.4311,17.4298"
 }
 ]
+}
+]
 },
 {
 "Name": "Balsfjord",
 "Code": "1933",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nordkjosbotn",
@@ -22793,10 +24186,14 @@
 "LatLong": "69.3322,18.8905"
 }
 ]
+}
+]
 },
 {
 "Name": "Karlsøy",
 "Code": "1936",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hansnes",
@@ -22839,10 +24236,14 @@
 "LatLong": "70.0523,18.9306"
 }
 ]
+}
+]
 },
 {
 "Name": "Lyngen",
 "Code": "1938",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lyngseidet",
@@ -22870,10 +24271,14 @@
 "LatLong": "69.5763,20.2189"
 }
 ]
+}
+]
 },
 {
 "Name": "Storfjord",
 "Code": "1939",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oteren",
@@ -22891,10 +24296,14 @@
 "LatLong": "69.3909,20.2674"
 }
 ]
+}
+]
 },
 {
 "Name": "Gáivuotna Kåfjord",
 "Code": "1940",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Samuelsberg",
@@ -22917,10 +24326,14 @@
 "LatLong": "69.6041,20.5327"
 }
 ]
+}
+]
 },
 {
 "Name": "Skjervøy",
 "Code": "1941",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skjervøy",
@@ -22968,10 +24381,14 @@
 "LatLong": "69.8594,20.6816"
 }
 ]
+}
+]
 },
 {
 "Name": "Nordreisa",
 "Code": "1942",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Storslett",
@@ -23004,10 +24421,14 @@
 "LatLong": "69.9289,20.9592"
 }
 ]
+}
+]
 },
 {
 "Name": "Kvænangen",
 "Code": "1943",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Burfjord",
@@ -23047,6 +24468,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Finnmark",
@@ -23055,6 +24478,8 @@
 {
 "Name": "Vardø",
 "Code": "2002",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vardø",
@@ -23072,10 +24497,14 @@
 "LatLong": "70.2854,30.9973"
 }
 ]
+}
+]
 },
 {
 "Name": "Vadsø",
 "Code": "2003",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vadsø",
@@ -23103,10 +24532,14 @@
 "LatLong": "70.0735,29.7494"
 }
 ]
+}
+]
 },
 {
 "Name": "Hammerfest",
 "Code": "2004",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hammerfest",
@@ -23149,10 +24582,14 @@
 "LatLong": "70.6772,23.0169"
 }
 ]
+}
+]
 },
 {
 "Name": "Guovdageaidnu Kautokeino",
 "Code": "2011",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kautokeino",
@@ -23170,10 +24607,14 @@
 "LatLong": "69.4438,23.6673"
 }
 ]
+}
+]
 },
 {
 "Name": "Alta",
 "Code": "2012",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alta",
@@ -23301,10 +24742,14 @@
 "LatLong": "70.0391,22.2669"
 }
 ]
+}
+]
 },
 {
 "Name": "Loppa",
 "Code": "2014",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Andsnes",
@@ -23357,10 +24802,14 @@
 "LatLong": "70.2167,21.4333"
 }
 ]
+}
+]
 },
 {
 "Name": "Hasvik",
 "Code": "2015",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hasvik",
@@ -23378,10 +24827,14 @@
 "LatLong": "70.6323,21.9856"
 }
 ]
+}
+]
 },
 {
 "Name": "Kvalsund",
 "Code": "2017",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kvalsund",
@@ -23404,10 +24857,14 @@
 "LatLong": "70.6132,24.6527"
 }
 ]
+}
+]
 },
 {
 "Name": "Måsøy",
 "Code": "2018",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tufjord",
@@ -23440,10 +24897,14 @@
 "LatLong": "70.7878,24.6072"
 }
 ]
+}
+]
 },
 {
 "Name": "Nordkapp",
 "Code": "2019",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Honningsvåg",
@@ -23481,10 +24942,14 @@
 "LatLong": "70.7468,25.6719"
 }
 ]
+}
+]
 },
 {
 "Name": "Porsanger Porsángu Porsanki",
 "Code": "2020",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lakselv",
@@ -23527,10 +24992,14 @@
 "LatLong": "69.8398,25.0782"
 }
 ]
+}
+]
 },
 {
 "Name": "Karasjohka Karasjok",
 "Code": "2021",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karasjok",
@@ -23543,10 +25012,14 @@
 "LatLong": "69.4719,25.5112"
 }
 ]
+}
+]
 },
 {
 "Name": "Lebesby",
 "Code": "2022",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Veidnesklubben",
@@ -23574,10 +25047,14 @@
 "LatLong": "70.9457,27.3465"
 }
 ]
+}
+]
 },
 {
 "Name": "Gamvik",
 "Code": "2023",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mehamn",
@@ -23605,10 +25082,14 @@
 "LatLong": "71.0639,28.2465"
 }
 ]
+}
+]
 },
 {
 "Name": "Berlevåg",
 "Code": "2024",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Berlevåg",
@@ -23626,10 +25107,14 @@
 "LatLong": "70.7205,29.3191"
 }
 ]
+}
+]
 },
 {
 "Name": "Deatnu Tana",
 "Code": "2025",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sirma",
@@ -23647,10 +25132,14 @@
 "LatLong": "70.1986,28.187"
 }
 ]
+}
+]
 },
 {
 "Name": "Unjargga Nesseby",
 "Code": "2027",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Varangerbotn",
@@ -23663,10 +25152,14 @@
 "LatLong": "70.1728,28.556"
 }
 ]
+}
+]
 },
 {
 "Name": "Båtsfjord",
 "Code": "2028",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Båtsfjord",
@@ -23679,10 +25172,14 @@
 "LatLong": "70.6292,29.6948"
 }
 ]
+}
+]
 },
 {
 "Name": "Sør-Varanger",
 "Code": "2030",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kirkenes",
@@ -23737,6 +25234,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Trøndelag",
@@ -23745,6 +25244,8 @@
 {
 "Name": "Trondheim",
 "Code": "5001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Trondheim",
@@ -24562,10 +26063,14 @@
 "LatLong": "63.4305,10.3951"
 }
 ]
+}
+]
 },
 {
 "Name": "Steinkjer",
 "Code": "5004",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Steinkjer",
@@ -24713,10 +26218,14 @@
 "LatLong": "63.4795,10.9974"
 }
 ]
+}
+]
 },
 {
 "Name": "Namsos",
 "Code": "5005",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Namsos",
@@ -24774,10 +26283,14 @@
 "LatLong": "64.3923,11.3969"
 }
 ]
+}
+]
 },
 {
 "Name": "Hemne",
 "Code": "5011",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kyrksæterøra",
@@ -24800,10 +26313,14 @@
 "LatLong": "63.4039,8.981"
 }
 ]
+}
+]
 },
 {
 "Name": "Snillfjord",
 "Code": "5012",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sundlandet",
@@ -24826,10 +26343,14 @@
 "LatLong": "63.4,9.5"
 }
 ]
+}
+]
 },
 {
 "Name": "Hitra",
 "Code": "5013",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hitra",
@@ -24877,10 +26398,14 @@
 "LatLong": "63.654,8.7766"
 }
 ]
+}
+]
 },
 {
 "Name": "Frøya",
 "Code": "5014",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sistranda",
@@ -24953,10 +26478,14 @@
 "LatLong": "63.9996,9.1742"
 }
 ]
+}
+]
 },
 {
 "Name": "Ørland",
 "Code": "5015",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Opphaug",
@@ -24999,10 +26528,14 @@
 "LatLong": "63.6429,9.5215"
 }
 ]
+}
+]
 },
 {
 "Name": "Agdenes",
 "Code": "5016",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leksa",
@@ -25030,10 +26563,14 @@
 "LatLong": "63.6152,9.7124"
 }
 ]
+}
+]
 },
 {
 "Name": "Bjugn",
 "Code": "5017",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bjugn",
@@ -25066,10 +26603,14 @@
 "LatLong": "63.8846,9.8643"
 }
 ]
+}
+]
 },
 {
 "Name": "Åfjord",
 "Code": "5018",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Åfjord",
@@ -25097,10 +26638,14 @@
 "LatLong": "64.0474,10.0184"
 }
 ]
+}
+]
 },
 {
 "Name": "Roan",
 "Code": "5019",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Roan",
@@ -25118,10 +26663,14 @@
 "LatLong": "64.1879,10.421"
 }
 ]
+}
+]
 },
 {
 "Name": "Osen",
 "Code": "5020",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Steinsdalen",
@@ -25144,10 +26693,14 @@
 "LatLong": "64.3954,10.4901"
 }
 ]
+}
+]
 },
 {
 "Name": "Oppdal",
 "Code": "5021",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oppdal",
@@ -25175,10 +26728,14 @@
 "LatLong": "62.5333,9.6323"
 }
 ]
+}
+]
 },
 {
 "Name": "Rennebu",
 "Code": "5022",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rennebu",
@@ -25211,10 +26768,14 @@
 "LatLong": "62.8771,9.8396"
 }
 ]
+}
+]
 },
 {
 "Name": "Meldal",
 "Code": "5023",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Løkken Verk",
@@ -25252,10 +26813,14 @@
 "LatLong": "63.0472,9.7134"
 }
 ]
+}
+]
 },
 {
 "Name": "Orkdal",
 "Code": "5024",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Orkanger",
@@ -25298,10 +26863,14 @@
 "LatLong": "63.1697,9.7425"
 }
 ]
+}
+]
 },
 {
 "Name": "Røros",
 "Code": "5025",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Røros",
@@ -25324,10 +26893,14 @@
 "LatLong": "62.5747,11.3842"
 }
 ]
+}
+]
 },
 {
 "Name": "Holtålen",
 "Code": "5026",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ålen",
@@ -25345,10 +26918,14 @@
 "LatLong": "62.8419,11.3013"
 }
 ]
+}
+]
 },
 {
 "Name": "Midtre Gauldal",
 "Code": "5027",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Soknedal",
@@ -25391,10 +26968,14 @@
 "LatLong": "62.9572,10.724"
 }
 ]
+}
+]
 },
 {
 "Name": "Melhus",
 "Code": "5028",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Korsvegen",
@@ -25467,10 +27048,14 @@
 "LatLong": "63.1055,10.2238"
 }
 ]
+}
+]
 },
 {
 "Name": "Skaun",
 "Code": "5029",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Buvika",
@@ -25508,10 +27093,14 @@
 "LatLong": "63.3267,10.0692"
 }
 ]
+}
+]
 },
 {
 "Name": "Klæbu",
 "Code": "5030",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Klæbu",
@@ -25529,10 +27118,14 @@
 "LatLong": "63.3167,10.45"
 }
 ]
+}
+]
 },
 {
 "Name": "Malvik",
 "Code": "5031",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hommelvik",
@@ -25565,10 +27158,14 @@
 "LatLong": "63.4373,10.6266"
 }
 ]
+}
+]
 },
 {
 "Name": "Selbu",
 "Code": "5032",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Selbu",
@@ -25596,10 +27193,14 @@
 "LatLong": "63.1111,11.2609"
 }
 ]
+}
+]
 },
 {
 "Name": "Tydal",
 "Code": "5033",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tydal",
@@ -25612,10 +27213,14 @@
 "LatLong": "63.0448,11.6615"
 }
 ]
+}
+]
 },
 {
 "Name": "Meråker",
 "Code": "5034",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Meråker",
@@ -25633,10 +27238,14 @@
 "LatLong": "63.3928,11.8475"
 }
 ]
+}
+]
 },
 {
 "Name": "Stjørdal",
 "Code": "5035",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stjørdal",
@@ -25739,10 +27348,14 @@
 "LatLong": "63.4458,10.9009"
 }
 ]
+}
+]
 },
 {
 "Name": "Frosta",
 "Code": "5036",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Frosta",
@@ -25755,10 +27368,14 @@
 "LatLong": "63.5891,10.7423"
 }
 ]
+}
+]
 },
 {
 "Name": "Levanger",
 "Code": "5037",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Levanger",
@@ -25861,10 +27478,14 @@
 "LatLong": "63.5862,10.8712"
 }
 ]
+}
+]
 },
 {
 "Name": "Verdal",
 "Code": "5038",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Verdal",
@@ -25917,10 +27538,14 @@
 "LatLong": "63.7762,11.7315"
 }
 ]
+}
+]
 },
 {
 "Name": "Verran",
 "Code": "5039",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Malm",
@@ -25943,10 +27568,14 @@
 "LatLong": "63.8,10.5833"
 }
 ]
+}
+]
 },
 {
 "Name": "Namdalseid",
 "Code": "5040",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Namdalseid",
@@ -25964,10 +27593,14 @@
 "LatLong": "64.4955,11.1458"
 }
 ]
+}
+]
 },
 {
 "Name": "Snåsa",
 "Code": "5041",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Snåsa",
@@ -25980,10 +27613,14 @@
 "LatLong": "64.2457,12.3778"
 }
 ]
+}
+]
 },
 {
 "Name": "Lierne",
 "Code": "5042",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nordli",
@@ -25996,10 +27633,14 @@
 "LatLong": "64.2236,13.8343"
 }
 ]
+}
+]
 },
 {
 "Name": "Røyrvik",
 "Code": "5043",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Limingen",
@@ -26007,10 +27648,14 @@
 "LatLong": "64.7063,13.7415"
 }
 ]
+}
+]
 },
 {
 "Name": "Namsskogan",
 "Code": "5044",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Namsskogan",
@@ -26033,10 +27678,14 @@
 "LatLong": "64.8473,13.0179"
 }
 ]
+}
+]
 },
 {
 "Name": "Grong",
 "Code": "5045",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Grong",
@@ -26054,10 +27703,14 @@
 "LatLong": "64.561,12.4917"
 }
 ]
+}
+]
 },
 {
 "Name": "Høylandet",
 "Code": "5046",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kongsmoen",
@@ -26070,10 +27723,14 @@
 "LatLong": "64.6289,12.3021"
 }
 ]
+}
+]
 },
 {
 "Name": "Overhalla",
 "Code": "5047",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skage I Namdalen",
@@ -26096,10 +27753,14 @@
 "LatLong": "64.4675,11.7564"
 }
 ]
+}
+]
 },
 {
 "Name": "Fosnes",
 "Code": "5048",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Salsnes",
@@ -26112,10 +27773,14 @@
 "LatLong": "64.6591,11.2653"
 }
 ]
+}
+]
 },
 {
 "Name": "Flatanger",
 "Code": "5049",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oppland",
@@ -26138,10 +27803,14 @@
 "LatLong": "64.4998,10.8942"
 }
 ]
+}
+]
 },
 {
 "Name": "Vikna",
 "Code": "5050",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rørvik",
@@ -26154,10 +27823,14 @@
 "LatLong": "64.8619,11.2397"
 }
 ]
+}
+]
 },
 {
 "Name": "Nærøy",
 "Code": "5051",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lund",
@@ -26210,10 +27883,14 @@
 "LatLong": "64.9833,11.75"
 }
 ]
+}
+]
 },
 {
 "Name": "Leka",
 "Code": "5052",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gutvik",
@@ -26226,10 +27903,14 @@
 "LatLong": "65.0876,11.7121"
 }
 ]
+}
+]
 },
 {
 "Name": "Inderøy",
 "Code": "5053",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Inderøy",
@@ -26247,10 +27928,14 @@
 "LatLong": "63.8177,11.0058"
 }
 ]
+}
+]
 },
 {
 "Name": "Indre Fosen",
 "Code": "5054",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rissa",
@@ -26311,6 +27996,8 @@
 "Name": "Vanvikan",
 "PostCode": "7126",
 "LatLong": "63.5534,10.2215"
+}
+]
 }
 ]
 }

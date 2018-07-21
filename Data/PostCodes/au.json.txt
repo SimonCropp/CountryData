@@ -1,5 +1,4 @@
 {
-"Structure": "State/Province/Place",
 "States": [
 {
 "Name": "Australian Capital Territory",
@@ -7,6 +6,8 @@
 "Provinces": [
 {
 "Name": "CANBERRA",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Australian National University",
@@ -629,7 +630,11 @@
 "LatLong": "-35.1696,149.128"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -773,9 +778,13 @@
 "LatLong": "-35.1651,149.1179"
 }
 ]
+}
+]
 },
 {
 "Name": "NEW CNTRY WEST",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jervis Bay",
@@ -790,11 +799,15 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "New South Wales",
 "Code": "NSW",
 "Provinces": [
+{
+"Communities": [
 {
 "Places": [
 {
@@ -13683,9 +13696,13 @@
 "LatLong": "-28.85,151.0333"
 }
 ]
+}
+]
 },
 {
 "Name": "SYDNEY STREETS",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Australia Square",
@@ -13828,9 +13845,13 @@
 "LatLong": "-33.875,151.2223"
 }
 ]
+}
+]
 },
 {
 "Name": "BONDI",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Woollahra",
@@ -14158,9 +14179,13 @@
 "LatLong": "-33.8427,151.1936"
 }
 ]
+}
+]
 },
 {
 "Name": "LEICHHARDT",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Camperdown",
@@ -14338,9 +14363,13 @@
 "LatLong": "-33.9032,151.1518"
 }
 ]
+}
+]
 },
 {
 "Name": "ST GEORGE",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kingsgrove",
@@ -14683,9 +14712,13 @@
 "LatLong": "-32.309,148.084"
 }
 ]
+}
+]
 },
 {
 "Name": "ILLAWARRA",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Miranda",
@@ -15293,9 +15326,13 @@
 "LatLong": "-34.7152,150.7679"
 }
 ]
+}
+]
 },
 {
 "Name": "CHATSWOOD",
+"Communities": [
+{
 "Places": [
 {
 "Name": "West Chatswood",
@@ -15573,9 +15610,13 @@
 "LatLong": "-33.8405,151.1402"
 }
 ]
+}
+]
 },
 {
 "Name": "GOSFORD",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hornsby",
@@ -15858,9 +15899,13 @@
 "LatLong": "-33.7778,151.1057"
 }
 ]
+}
+]
 },
 {
 "Name": "WARRINGAH",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Frenchs Forest",
@@ -16138,9 +16183,13 @@
 "LatLong": "-33.6089,151.2646"
 }
 ]
+}
+]
 },
 {
 "Name": "PARRAMATTA",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ermington",
@@ -16343,9 +16392,13 @@
 "LatLong": "-33.7833,150.9833"
 }
 ]
+}
+]
 },
 {
 "Name": "RICHMOND",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Seven Hills",
@@ -16623,9 +16676,13 @@
 "LatLong": "-33.2453,150.8513"
 }
 ]
+}
+]
 },
 {
 "Name": "PENRITH",
+"Communities": [
+{
 "Places": [
 {
 "Name": "St Marys",
@@ -17193,9 +17250,13 @@
 "LatLong": "-33.5035,150.3749"
 }
 ]
+}
+]
 },
 {
 "Name": "BANKSTOWN",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Auburn",
@@ -17503,9 +17564,13 @@
 "LatLong": "-33.9393,150.9815"
 }
 ]
+}
+]
 },
 {
 "Name": "CAMPBELLTOWN",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Liverpool",
@@ -18188,9 +18253,13 @@
 "LatLong": "-34.7084,150.0097"
 }
 ]
+}
+]
 },
 {
 "Name": "SYDNEY BOXES",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sydney",
@@ -18203,9 +18272,13 @@
 "LatLong": "-33.8699,151.2025"
 }
 ]
+}
+]
 },
 {
 "Name": "PYMBLE",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Peats Ridge",
@@ -18783,9 +18856,13 @@
 "LatLong": "-33.0667,151.4167"
 }
 ]
+}
+]
 },
 {
 "Name": "HUNTER",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Wangi Wangi",
@@ -20653,9 +20730,13 @@
 "LatLong": "-31.95,152.5667"
 }
 ]
+}
+]
 },
 {
 "Name": "NSW NORTH COAST",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Willow Tree",
@@ -22698,9 +22779,13 @@
 "LatLong": "-28.461,153.4823"
 }
 ]
+}
+]
 },
 {
 "Name": "GOLD COAST",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chillingham",
@@ -22783,9 +22868,13 @@
 "LatLong": "-28.3143,153.3151"
 }
 ]
+}
+]
 },
 {
 "Name": "TOOWOOMBA SE CNR",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tweed Heads West",
@@ -22878,9 +22967,13 @@
 "LatLong": "-28.2752,153.4628"
 }
 ]
+}
+]
 },
 {
 "Name": "NEW CNTRY WEST",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaspers Brush",
@@ -24913,9 +25006,13 @@
 "LatLong": "-31.884,141.2233"
 }
 ]
+}
+]
 },
 {
 "Name": "CANBERRA",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yarra",
@@ -26388,9 +26485,13 @@
 "LatLong": "-32.9176,149.5836"
 }
 ]
+}
+]
 },
 {
 "Name": "VIC FAR COUNTRY",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Wentworth",
@@ -26530,6 +26631,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Northern Territory",
@@ -26537,6 +26640,8 @@
 "Provinces": [
 {
 "Name": "DARWIN",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Darwin",
@@ -27064,7 +27169,11 @@
 "LatLong": "-12.3731,130.8681"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -28253,9 +28362,13 @@
 "LatLong": "-20.1386,145.8436"
 }
 ]
+}
+]
 },
 {
 "Name": "ALICE SPRINGS",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tennant Creek",
@@ -28370,11 +28483,15 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Queensland",
 "Code": "QLD",
 "Provinces": [
+{
+"Communities": [
 {
 "Places": [
 {
@@ -33508,9 +33625,13 @@
 "LatLong": "-20.2768,148.6976"
 }
 ]
+}
+]
 },
 {
 "Name": "BRIS CITY CNTRY",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Spring Hill",
@@ -34888,9 +35009,13 @@
 "LatLong": "-24.5295,151.7532"
 }
 ]
+}
+]
 },
 {
 "Name": "NORTHGATE CENT",
+"Communities": [
+{
 "Places": [
 {
 "Name": "New Farm",
@@ -35243,9 +35368,13 @@
 "LatLong": "-27.0837,153.1324"
 }
 ]
+}
+]
 },
 {
 "Name": "NORTHGATE NORTH",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nundah",
@@ -35813,9 +35942,13 @@
 "LatLong": "-27.2086,152.8642"
 }
 ]
+}
+]
 },
 {
 "Name": "UNDERWOOD CENT",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Seventeen Mile Rocks",
@@ -36218,9 +36351,13 @@
 "LatLong": "-27.481,153.044"
 }
 ]
+}
+]
 },
 {
 "Name": "UNDERWOOD SOUTH",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Woodridge",
@@ -36788,9 +36925,13 @@
 "LatLong": "-27.9,153.3"
 }
 ]
+}
+]
 },
 {
 "Name": "GOLD COAST",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Maudsland",
@@ -37263,9 +37404,13 @@
 "LatLong": "-33.8816,150.9844"
 }
 ]
+}
+]
 },
 {
 "Name": "TOOWOOMBA SE CNR",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Brookwater",
@@ -40823,9 +40968,13 @@
 "LatLong": "-17.7411,139.5477"
 }
 ]
+}
+]
 },
 {
 "Name": "SUNSHINE MT ISA",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Landsborough",
@@ -41648,9 +41797,13 @@
 "LatLong": "-26.1146,152.0795"
 }
 ]
+}
+]
 },
 {
 "Name": "CENTRAL QLD",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Seventeen Seventy",
@@ -43843,9 +43996,13 @@
 "LatLong": "-20.0169,148.1634"
 }
 ]
+}
+]
 },
 {
 "Name": "NORTH QLD",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Carstairs",
@@ -45710,6 +45867,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "South Australia",
@@ -45717,6 +45876,8 @@
 "Provinces": [
 {
 "Name": "ALICE SPRINGS",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ernabella",
@@ -45729,7 +45890,11 @@
 "LatLong": "-26.7639,132.0277"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -50488,9 +50653,13 @@
 "LatLong": "-34.8956,138.5855"
 }
 ]
+}
+]
 },
 {
 "Name": "SA CITY SUBS",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Adelaide",
@@ -51038,9 +51207,13 @@
 "LatLong": "-34.9391,138.5341"
 }
 ]
+}
+]
 },
 {
 "Name": "SA SUBS NEAR 1",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bowden",
@@ -52473,9 +52646,13 @@
 "LatLong": "-34.8626,138.5724"
 }
 ]
+}
+]
 },
 {
 "Name": "SA SUBS NEAR 2",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bellevue Heights",
@@ -53693,9 +53870,13 @@
 "LatLong": "-34.7667,140.3167"
 }
 ]
+}
+]
 },
 {
 "Name": "SA FAR",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Frances",
@@ -54660,6 +54841,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Tasmania",
@@ -54667,6 +54850,8 @@
 "Provinces": [
 {
 "Name": "TASMANIA",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mount Stuart",
@@ -57739,7 +57924,11 @@
 "LatLong": "-41.7794,145.5383"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -58830,6 +59019,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Victoria",
@@ -58837,6 +59028,8 @@
 "Provinces": [
 {
 "Name": "MELBOURNE CITY",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Melbourne",
@@ -58934,7 +59127,11 @@
 "LatLong": "-37.8149,144.9505"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -66628,9 +66825,13 @@
 "LatLong": "-37.8421,145.0694"
 }
 ]
+}
+]
 },
 {
 "Name": "MOORABBIN",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Southbank",
@@ -66778,9 +66979,13 @@
 "LatLong": "-37.8396,144.9423"
 }
 ]
+}
+]
 },
 {
 "Name": "MELB NORTH WEST",
+"Communities": [
+{
 "Places": [
 {
 "Name": "University Of Melbourne",
@@ -67293,9 +67498,13 @@
 "LatLong": "-37.2958,144.9525"
 }
 ]
+}
+]
 },
 {
 "Name": "FOOTSCRAY",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Footscray",
@@ -67598,9 +67807,13 @@
 "LatLong": "-37.6743,144.8518"
 }
 ]
+}
+]
 },
 {
 "Name": "PRESTON",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pascoe Vale",
@@ -67833,9 +68046,13 @@
 "LatLong": "-37.65,145.1"
 }
 ]
+}
+]
 },
 {
 "Name": "HAWTHORN",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fitzroy",
@@ -68043,9 +68260,13 @@
 "LatLong": "-37.8535,145.1503"
 }
 ]
+}
+]
 },
 {
 "Name": "RINGWOOD",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bulleen",
@@ -68338,9 +68559,13 @@
 "LatLong": "-37.7167,145.8333"
 }
 ]
+}
+]
 },
 {
 "Name": "FERNTREE GULLY",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nunawading Bc",
@@ -68623,9 +68848,13 @@
 "LatLong": "-37.8833,145.4"
 }
 ]
+}
+]
 },
 {
 "Name": "MULGRAVE",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Caulfield East",
@@ -68803,9 +69032,13 @@
 "LatLong": "-37.9106,145.1348"
 }
 ]
+}
+]
 },
 {
 "Name": "DANDENONG",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dandenong South",
@@ -69053,9 +69286,13 @@
 "LatLong": "-38.0592,145.4095"
 }
 ]
+}
+]
 },
 {
 "Name": "FRANKSTON",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Patterson Lakes",
@@ -69418,9 +69655,13 @@
 "LatLong": "-38.2333,145.65"
 }
 ]
+}
+]
 },
 {
 "Name": "VIC COUNTRY",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Little River",
@@ -70383,9 +70624,13 @@
 "LatLong": "-38.1167,146.5667"
 }
 ]
+}
+]
 },
 {
 "Name": "VIC FAR COUNTRY",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Wallington",
@@ -75205,11 +75450,15 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Western Australia",
 "Code": "WA",
 "Provinces": [
+{
+"Communities": [
 {
 "Places": [
 {
@@ -75913,9 +76162,13 @@
 "LatLong": "-32.0167,115.95"
 }
 ]
+}
+]
 },
 {
 "Name": "CURTIN",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Perth",
@@ -76453,9 +76706,13 @@
 "LatLong": "-31.9868,116.0704"
 }
 ]
+}
+]
 },
 {
 "Name": "STIRLING",
+"Communities": [
+{
 "Places": [
 {
 "Name": "North Perth",
@@ -77148,9 +77405,13 @@
 "LatLong": "-31.8877,115.9099"
 }
 ]
+}
+]
 },
 {
 "Name": "BRAND",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hamersley",
@@ -78003,9 +78264,13 @@
 "LatLong": "-32.2833,115.7167"
 }
 ]
+}
+]
 },
 {
 "Name": "TANGNEY",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Forrestfield",
@@ -78543,9 +78808,13 @@
 "LatLong": "-32.1167,116.0056"
 }
 ]
+}
+]
 },
 {
 "Name": "KALGOORLIE",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hamel",
@@ -84751,6 +85020,8 @@
 "Name": "Home Island Cocos (Keeling) Islands",
 "PostCode": "6799",
 "LatLong": "-12.1352,96.8628"
+}
+]
 }
 ]
 }

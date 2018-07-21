@@ -1,8 +1,11 @@
 {
-"Structure": "State/Place",
 "States": [
 {
 "Name": "Norhern Punajb Rawalpindi",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Watala",
@@ -13000,9 +13003,17 @@
 "LatLong": "30.3756,69.3452"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Federal Capial &AJK",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mangla Dam",
@@ -16240,9 +16251,17 @@
 "LatLong": "33.9213,73.7102"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "NWFP Peshawar",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jewar",
@@ -26030,9 +26049,17 @@
 "LatLong": "34.3597,73.05"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Souhern Punajb Mulan",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chak 90/Ml",
@@ -33630,9 +33657,17 @@
 "LatLong": "24.5167,68.1"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Lahore",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Shor Kot Cantt",
@@ -49355,9 +49390,17 @@
 "LatLong": "29.8261,72.0425"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Hyderabad",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dharki",
@@ -57025,9 +57068,17 @@
 "LatLong": "28.2036,69.3239"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Balochisan",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sui Gas Field",
@@ -59253,6 +59304,10 @@
 "Name": "Pechi",
 "PostCode": "96001",
 "LatLong": "29.7833,67.9833"
+}
+]
+}
+]
 }
 ]
 }

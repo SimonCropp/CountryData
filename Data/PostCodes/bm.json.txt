@@ -1,9 +1,12 @@
 {
-"Structure": "State/Place",
 "States": [
 {
 "Name": "Devonshire Parish",
 "Code": "01",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Devonshire",
@@ -96,10 +99,18 @@
 "LatLong": "32.3002,-64.792"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Hamilton",
 "Code": "02",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hamilton Parish",
@@ -167,10 +178,18 @@
 "LatLong": "32.2949,-64.783"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Paget Parish",
 "Code": "04",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Paget",
@@ -213,10 +232,18 @@
 "LatLong": "32.2783,-64.7817"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Pembroke Parish",
 "Code": "05",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pembroke",
@@ -304,10 +331,18 @@
 "LatLong": "32.3002,-64.792"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Saint George",
 "Code": "06",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Town of St. George",
@@ -335,10 +370,18 @@
 "LatLong": "32.3817,-64.6781"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Saint George’s Parish",
 "Code": "07",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "St. George's",
@@ -396,10 +439,18 @@
 "LatLong": "32.354,-64.7096"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Sandys Parish",
 "Code": "08",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sandys",
@@ -447,10 +498,18 @@
 "LatLong": "32.2934,-64.8683"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Smith’s Parish",
 "Code": "09",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Smith’s",
@@ -503,10 +562,18 @@
 "LatLong": "32.354,-64.7096"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Southampton Parish",
 "Code": "10",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Southampton",
@@ -554,10 +621,18 @@
 "LatLong": "32.2508,-64.8564"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Warwick Parish",
 "Code": "11",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Warwick",
@@ -618,6 +693,10 @@
 "Name": "Warwick",
 "PostCode": "WK 10",
 "LatLong": "32.2658,-64.8072"
+}
+]
+}
+]
 }
 ]
 }

@@ -1,5 +1,4 @@
 {
-"Structure": "State/Province/Place",
 "States": [
 {
 "Name": "As",
@@ -8,11 +7,15 @@
 {
 "Name": "Western",
 "Code": "050",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pago Pago",
 "PostCode": "96799",
 "LatLong": "-14.2781,-170.7025"
+}
+]
 }
 ]
 }

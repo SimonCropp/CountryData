@@ -1,5 +1,10 @@
 {
-"Structure": "Place",
+"States": [
+{
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Centro de Los Heroes",
@@ -2720,6 +2725,12 @@
 "Name": "Las Enfermeras",
 "PostCode": "11906",
 "LatLong": "18.7278,-69.3944"
+}
+]
+}
+]
+}
+]
 }
 ]
 }

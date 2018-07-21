@@ -1,8 +1,11 @@
 {
-"Structure": "State/Place",
 "States": [
 {
 "Name": "Mun.Chisinau",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chisinau",
@@ -180,9 +183,17 @@
 "LatLong": "46.9156,28.8425"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Soroca",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Soroca 4",
@@ -535,9 +546,17 @@
 "LatLong": "48.1139,28.5356"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Balti",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Balti",
@@ -545,9 +564,17 @@
 "LatLong": "47.7617,27.9289"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Mun.Balti",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Elizaveta",
@@ -560,9 +587,17 @@
 "LatLong": "47.7764,27.7961"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Bender Tr.",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bender",
@@ -590,9 +625,17 @@
 "LatLong": "46.9982,28.8095"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tiraspol Tr.",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tiraspol",
@@ -615,9 +658,17 @@
 "LatLong": "46.6222,29.9133"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Hincesti",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hincesti",
@@ -945,9 +996,17 @@
 "LatLong": "47.0444,28.4242"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Orhei",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Orhei 2",
@@ -1340,9 +1399,17 @@
 "LatLong": "47.5758,28.7275"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ungheni",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ungheni-Gara",
@@ -1725,9 +1792,17 @@
 "LatLong": "47.2425,27.7611"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Uhnheni",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Izvoreni",
@@ -1735,9 +1810,17 @@
 "LatLong": "47.4308,27.9761"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Calarasi",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Veverita",
@@ -1985,9 +2068,17 @@
 "LatLong": "47.2322,28.445"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Straseni",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Straseni 1",
@@ -2195,9 +2286,17 @@
 "LatLong": "47.1228,28.3081"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Comrat",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Comrat 1",
@@ -2400,9 +2499,17 @@
 "LatLong": "45.8517,28.6925"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Cahul",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cahul 1",
@@ -2700,9 +2807,17 @@
 "LatLong": "46.05,28.525"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Grigoriopol Tr.",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Crasnoe",
@@ -2860,9 +2975,17 @@
 "LatLong": "47.0833,29.4919"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Cimislia",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cimislia",
@@ -3110,9 +3233,17 @@
 "LatLong": "46.6939,28.8975"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Stefan-Voda",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stefan-Voda",
@@ -3260,9 +3391,17 @@
 "LatLong": "46.4267,29.6058"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Causeni",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gradinita",
@@ -3495,9 +3634,17 @@
 "LatLong": "46.5703,29.1156"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Dubasari Tr.",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dubasari 1",
@@ -3625,9 +3772,17 @@
 "LatLong": "47.4056,29.1044"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Dubasari Cr.",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Corjova",
@@ -3655,9 +3810,17 @@
 "LatLong": "47.3119,29.0689"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Criuleni-Dub.",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pohrebea",
@@ -3680,9 +3843,17 @@
 "LatLong": "47.1008,29.1192"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Criuleni- Dub.",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marcauti",
@@ -3695,9 +3866,17 @@
 "LatLong": "47.3489,29.1144"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Criulenii-Dub.",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ustia",
@@ -3705,9 +3884,17 @@
 "LatLong": "47.2567,29.125"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Edinet",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Edinet",
@@ -3960,9 +4147,17 @@
 "LatLong": "48.3122,27.3361"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Briceni",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Briceni 1",
@@ -4175,9 +4370,17 @@
 "LatLong": "48.2697,27.1322"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Criuleni",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zolonceni",
@@ -4395,9 +4598,17 @@
 "LatLong": "47.1686,28.9522"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Glodeni",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Soroca",
@@ -4570,9 +4781,17 @@
 "LatLong": "47.6667,27.35"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Floresti",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Floresti 1",
@@ -4950,9 +5169,17 @@
 "LatLong": "48.0494,28.5564"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Singerei",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marasesti",
@@ -5300,9 +5527,17 @@
 "LatLong": "47.7656,28.2025"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Donduseni",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Donduseni 1",
@@ -5460,9 +5695,17 @@
 "LatLong": "48.2158,27.6728"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Drochia",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fintinita",
@@ -5670,9 +5913,17 @@
 "LatLong": "47.8781,27.8344"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Lazo",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lazo",
@@ -5680,9 +5931,17 @@
 "LatLong": "47.8892,27.925"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Riscani",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stepanovca",
@@ -5965,9 +6224,17 @@
 "LatLong": "47.97,27.3678"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Canul",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Slobozia Mare",
@@ -5975,9 +6242,17 @@
 "LatLong": "45.5764,28.1739"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Rezina",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stohnaia",
@@ -6190,9 +6465,17 @@
 "LatLong": "47.7514,28.8783"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ribnita Tr.",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ribnita 1",
@@ -6470,9 +6753,17 @@
 "LatLong": "47.6511,29.0972"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Slobozia Tr.",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Slobozia 1",
@@ -6615,9 +6906,17 @@
 "LatLong": "46.8483,29.8353"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Telenesti",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Izvoras",
@@ -6905,9 +7204,17 @@
 "LatLong": "47.4856,28.1667"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Falesti",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Falesti 1",
@@ -7300,9 +7607,17 @@
 "LatLong": "47.47,27.5819"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Leova",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leova",
@@ -7510,9 +7825,17 @@
 "LatLong": "46.3692,28.5183"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Nisporeni",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nisporeni",
@@ -7715,9 +8038,17 @@
 "LatLong": "47.0944,28.3025"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Anenii Noi",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beriozchi",
@@ -7950,9 +8281,17 @@
 "LatLong": "46.7672,29.1106"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Camenca Tr.",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Solnecinoe",
@@ -8080,9 +8419,17 @@
 "LatLong": "47.9881,28.8572"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ialoveni",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ialoveni",
@@ -8260,9 +8607,17 @@
 "LatLong": "46.8094,29.0633"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ocnita",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ocnita 1",
@@ -8435,9 +8790,17 @@
 "LatLong": "48.44,27.6169"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Soldanesti",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Soldanesti",
@@ -8605,9 +8968,17 @@
 "LatLong": "47.9386,28.8269"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Cantemir",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cantemir 1",
@@ -8860,9 +9231,17 @@
 "LatLong": "46.2675,28.5128"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Cantrmir",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ciietu",
@@ -8870,9 +9249,17 @@
 "LatLong": "46.1353,28.4817"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Taraclia",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Taraclia 1",
@@ -9008,6 +9395,10 @@
 "Name": "Valea Perjei",
 "PostCode": "MD-7427",
 "LatLong": "46.0339,28.925"
+}
+]
+}
+]
 }
 ]
 }

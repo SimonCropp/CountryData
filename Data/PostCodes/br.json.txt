@@ -1,9 +1,13 @@
 {
-"Structure": "State/Place",
 "States": [
 {
 "Name": "Acre",
 "Code": "01",
+"Provinces": [
+{
+"Code": "1200013",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Acrelândia",
@@ -116,10 +120,19 @@
 "LatLong": "-9.6504,-67.7773"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Alagoas",
 "Code": "02",
+"Provinces": [
+{
+"Code": "2700102",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Água Branca",
@@ -627,10 +640,19 @@
 "LatLong": "-9.3602,-36.3209"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Amapa",
 "Code": "03",
+"Provinces": [
+{
+"Code": "1600105",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Amapá",
@@ -713,10 +735,19 @@
 "LatLong": "0.6167,-51.65"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Amazonas",
 "Code": "04",
+"Provinces": [
+{
+"Code": "1300029",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alvarães",
@@ -1029,10 +1060,19 @@
 "LatLong": "-2.8327,-57.7501"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Bahia",
 "Code": "05",
+"Provinces": [
+{
+"Code": "2900108",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Abaíra",
@@ -3110,10 +3150,19 @@
 "LatLong": "-13.6431,-41.8406"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ceara",
 "Code": "06",
+"Provinces": [
+{
+"Code": "2300101",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Abaiara",
@@ -4036,10 +4085,19 @@
 "LatLong": "-3.5491,-41.1382"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Distrito Federal",
 "Code": "07",
+"Provinces": [
+{
+"Code": "5300108",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Brasília",
@@ -4137,10 +4195,19 @@
 "LatLong": "-15.6554,-47.6202"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Espirito Santo",
 "Code": "08",
+"Provinces": [
+{
+"Code": "3200102",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Afonso Cláudio",
@@ -4528,10 +4595,19 @@
 "LatLong": "-20.2905,-40.2881"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Mato Grosso do Sul",
 "Code": "11",
+"Provinces": [
+{
+"Code": "5000203",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Água Clara",
@@ -4919,10 +4995,19 @@
 "LatLong": "-22.4915,-54.4618"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Maranhao",
 "Code": "13",
+"Provinces": [
+{
+"Code": "2100055",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Açailândia",
@@ -6010,10 +6095,19 @@
 "LatLong": "-3.2259,-46.0573"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Mato Grosso",
 "Code": "14",
+"Provinces": [
+{
+"Code": "5100102",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Acorizal",
@@ -6646,10 +6740,19 @@
 "LatLong": "-9.9974,-57.2977"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Minas Gerais",
 "Code": "15",
+"Provinces": [
+{
+"Code": "3100104",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Abadia dos Dourados",
@@ -10917,10 +11020,19 @@
 "LatLong": "-22.5397,-45.4021"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Para",
 "Code": "16",
+"Provinces": [
+{
+"Code": "1500107",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Abaetetuba",
@@ -11638,10 +11750,19 @@
 "LatLong": "-6.8537,-49.4635"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Paraiba",
 "Code": "17",
+"Provinces": [
+{
+"Code": "2500106",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Água Branca",
@@ -12759,10 +12880,19 @@
 "LatLong": "-6.9011,-37.7292"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Parana",
 "Code": "18",
+"Provinces": [
+{
+"Code": "4100103",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Abatiá",
@@ -14760,10 +14890,19 @@
 "LatLong": "-23.7385,-53.604"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Piaui",
 "Code": "20",
+"Provinces": [
+{
+"Code": "2200053",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Acauã",
@@ -15871,10 +16010,19 @@
 "LatLong": "-7.2953,-41.8373"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Rio de Janeiro",
 "Code": "21",
+"Provinces": [
+{
+"Code": "3300100",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Angra dos Reis",
@@ -16332,10 +16480,19 @@
 "LatLong": "-22.5198,-44.079"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Rio Grande do Norte",
 "Code": "22",
+"Provinces": [
+{
+"Code": "2400109",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Acari",
@@ -17168,10 +17325,19 @@
 "LatLong": "-5.9142,-37.3102"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Rio Grande do Sul",
 "Code": "23",
+"Provinces": [
+{
+"Code": "4300059",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Água Santa",
@@ -19509,10 +19675,19 @@
 "LatLong": "-29.8105,-50.0922"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Rondonia",
 "Code": "24",
+"Provinces": [
+{
+"Code": "1100015",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alta Floresta d'Oeste",
@@ -19775,10 +19950,19 @@
 "LatLong": "-9.2047,-63.1797"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Roraima",
 "Code": "25",
+"Provinces": [
+{
+"Code": "1400027",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Amajari",
@@ -19856,10 +20040,19 @@
 "LatLong": "4.6527,-60.2519"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Santa Catarina",
 "Code": "26",
+"Provinces": [
+{
+"Code": "4200051",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Abdon Batista",
@@ -21327,10 +21520,19 @@
 "LatLong": "-27.4974,-51.5086"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Sao Paulo",
 "Code": "27",
+"Provinces": [
+{
+"Code": "3500105",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Adamantina",
@@ -24558,10 +24760,19 @@
 "LatLong": "-22.2205,-46.9388"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Sergipe",
 "Code": "28",
+"Provinces": [
+{
+"Code": "2800100",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Amparo de São Francisco",
@@ -24939,10 +25150,19 @@
 "LatLong": "-11.4395,-37.6861"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Goias",
 "Code": "29",
+"Provinces": [
+{
+"Code": "5200050",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Abadia de Goiás",
@@ -26155,10 +26375,19 @@
 "LatLong": "-15.2022,-48.7757"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Pernambuco",
 "Code": "30",
+"Provinces": [
+{
+"Code": "2600054",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Abreu e Lima",
@@ -27086,10 +27315,19 @@
 "LatLong": "-8.8647,-35.6427"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tocantins",
 "Code": "31",
+"Provinces": [
+{
+"Code": "1700251",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Abreulândia",
@@ -27785,6 +28023,10 @@
 "Name": "Mosquito",
 "PostCode": "77913-000",
 "LatLong": "-6.6125,-47.5458"
+}
+]
+}
+]
 }
 ]
 }

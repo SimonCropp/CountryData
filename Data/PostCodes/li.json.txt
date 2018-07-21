@@ -1,9 +1,12 @@
 {
-"Structure": "State/Place",
 "States": [
 {
 "Name": "Vaduz",
 "Code": "7001",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vaduz",
@@ -11,10 +14,18 @@
 "LatLong": "47.1431,9.5256"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Triesen",
 "Code": "7002",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Triesen",
@@ -22,10 +33,18 @@
 "LatLong": "47.0805,9.5515"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Balzers",
 "Code": "7003",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Balzers",
@@ -33,10 +52,18 @@
 "LatLong": "47.067,9.5078"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Triesenberg",
 "Code": "7004",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Triesenberg",
@@ -44,10 +71,18 @@
 "LatLong": "47.115,9.5831"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Schaan",
 "Code": "7005",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Schaan",
@@ -55,10 +90,18 @@
 "LatLong": "47.1746,9.5247"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Planken",
 "Code": "7006",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Planken",
@@ -66,10 +109,18 @@
 "LatLong": "47.1821,9.5574"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Eschen",
 "Code": "7007",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nendeln",
@@ -82,10 +133,18 @@
 "LatLong": "47.209,9.5223"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Mauren",
 "Code": "7008",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Schaanwald",
@@ -98,10 +157,18 @@
 "LatLong": "47.2191,9.5464"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Gamprin",
 "Code": "7009",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gamprin-Bendern",
@@ -109,10 +176,18 @@
 "LatLong": "47.2249,9.5135"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ruggell",
 "Code": "7010",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ruggell",
@@ -120,15 +195,27 @@
 "LatLong": "47.2484,9.5345"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Schellenberg",
 "Code": "7011",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Schellenberg",
 "PostCode": "9488",
 "LatLong": "47.2318,9.5478"
+}
+]
+}
+]
 }
 ]
 }

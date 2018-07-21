@@ -1,8 +1,9 @@
 {
-"Structure": "State/Community/Place",
 "States": [
 {
 "Name": "Zagrebačka",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Zagreb",
@@ -4225,9 +4226,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Dubrovačko-Neretvanska",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Dubrovnik",
@@ -5635,9 +5640,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Splitsko-Dalmatinska",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Split",
@@ -8115,9 +8124,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Šibensko-Kninska",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Šibenik",
@@ -9360,9 +9373,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Zadarska",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Zadar",
@@ -10800,9 +10817,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Osječko-Baranjska",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Osijek",
@@ -12460,9 +12481,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Vukovarsko-Srijemska",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Vukovar",
@@ -13170,9 +13195,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Virovitičko-Podravska",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Virovitica",
@@ -14245,9 +14274,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Požeško-Slavonska",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Požega",
@@ -15725,9 +15758,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Brodsko-Posavska",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Slavonski Brod",
@@ -16855,9 +16892,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Međimurska",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Čakovec",
@@ -17610,9 +17651,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Varaždinska",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Varaždin",
@@ -19255,9 +19300,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Bjelovarsko-Bilogorska",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Bjelovar",
@@ -21055,9 +21104,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Sisačko-Moslavačka",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Sisak",
@@ -23590,9 +23643,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Karlovačka",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Karlovac",
@@ -27305,9 +27362,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Koprivničko-Križevačka",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Koprivnica",
@@ -28800,9 +28861,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Krapinsko-Zagorska",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Krapina",
@@ -31125,9 +31190,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Primorsko-Goranska",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Rijeka",
@@ -34575,9 +34644,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Istarska",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Pazin",
@@ -38220,9 +38293,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ličko-Senjska",
+"Provinces": [
+{
 "Communities": [
 {
 "Name": "Gospić",
@@ -39686,6 +39763,8 @@
 "Name": "Vidalići",
 "PostCode": "53296",
 "LatLong": "44.5286,14.9712"
+}
+]
 }
 ]
 }

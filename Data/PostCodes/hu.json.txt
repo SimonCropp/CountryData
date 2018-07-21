@@ -1,9 +1,12 @@
 {
-"Structure": "State/Place",
 "States": [
 {
 "Name": "Baranya",
 "Code": "BA",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lengyel",
@@ -1806,10 +1809,18 @@
 "LatLong": "46.0333,17.6667"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Békés",
 "Code": "BE",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gyomaendrőd",
@@ -2322,10 +2333,18 @@
 "LatLong": "46.4667,20.8333"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Bács-Kiskun",
 "Code": "BK",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kecskemét",
@@ -3038,10 +3057,18 @@
 "LatLong": "46.1,18.9333"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Budapest",
 "Code": "BU",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Budapest",
@@ -3849,10 +3876,18 @@
 "LatLong": "47.5,19.0833"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Borsod-Abaúj-Zemplén",
 "Code": "BZ",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mezőkövesd",
@@ -5990,10 +6025,18 @@
 "LatLong": "48.55,21.4167"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Csongrád",
 "Code": "CS",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Szentes",
@@ -6586,10 +6629,18 @@
 "LatLong": "46.1667,20.7167"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Fejér",
 "Code": "FE",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bicske",
@@ -7322,10 +7373,18 @@
 "LatLong": "47.05,18.25"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Győr-Moson-Sopron",
 "Code": "GS",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Csikvánd",
@@ -8433,10 +8492,18 @@
 "LatLong": "47.6333,16.65"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Hajdú-Bihar",
 "Code": "HB",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Debrecen",
@@ -9159,10 +9226,18 @@
 "LatLong": "47.4667,21.8833"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Heves",
 "Code": "HE",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hatvan",
@@ -9865,10 +9940,18 @@
 "LatLong": "47.85,20.4167"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Jász-Nagykun-Szolnok",
 "Code": "JN",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Szolnok",
@@ -10441,10 +10524,18 @@
 "LatLong": "46.8333,20.2833"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Komárom-Esztergom",
 "Code": "KE",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dömös",
@@ -10977,10 +11068,18 @@
 "LatLong": "47.6833,18.1"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Nógrád",
 "Code": "NO",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kálló",
@@ -11728,10 +11827,18 @@
 "LatLong": "48.1333,19.5167"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Pest",
 "Code": "PE",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Szentendre",
@@ -13004,10 +13111,18 @@
 "LatLong": "47.3,19.85"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Somogy",
 "Code": "SO",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Csoma",
@@ -14375,10 +14490,18 @@
 "LatLong": "46.2833,17.05"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Szabolcs-Szatmár-Bereg",
 "Code": "SZ",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bököny",
@@ -15686,10 +15809,18 @@
 "LatLong": "47.9667,22.85"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tolna",
 "Code": "TO",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dunaföldvár",
@@ -16312,10 +16443,18 @@
 "LatLong": "46.3056,18.1389"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Vas",
 "Code": "VA",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Celldömölk",
@@ -17538,10 +17677,18 @@
 "LatLong": "46.8797,16.1731"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Veszprém",
 "Code": "VE",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Várpalota",
@@ -18894,10 +19041,18 @@
 "LatLong": "47.3167,17.2833"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Zala",
 "Code": "ZA",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Balatongyörök",
@@ -20323,6 +20478,10 @@
 "Name": "Csöde",
 "PostCode": "8999",
 "LatLong": "46.8167,16.5333"
+}
+]
+}
+]
 }
 ]
 }

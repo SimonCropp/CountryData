@@ -1,9 +1,12 @@
 {
-"Structure": "State/Place",
 "States": [
 {
 "Name": "Johor",
 "Code": "JHR",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nusajaya",
@@ -826,10 +829,18 @@
 "LatLong": "2.5415,103.542"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Kedah",
 "Code": "KDH",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alor Setar",
@@ -1597,10 +1608,18 @@
 "LatLong": "5.1873,100.5156"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Kelantan",
 "Code": "KTN",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kota Bharu",
@@ -2273,10 +2292,18 @@
 "LatLong": "5.7573,102.2168"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Kuala Lumpur",
 "Code": "KUL",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kuala Lumpur",
@@ -3684,10 +3711,18 @@
 "LatLong": "3.2251,101.6803"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Labuan",
 "Code": "LBN",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Labuan",
@@ -3815,10 +3850,18 @@
 "LatLong": "5.2913,115.2459"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Melaka",
 "Code": "MLK",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Melaka",
@@ -4426,10 +4469,18 @@
 "LatLong": "2.3504,102.1078"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Negeri Sembilan",
 "Code": "NSN",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Seremban",
@@ -5212,10 +5263,18 @@
 "LatLong": "2.6945,102.5264"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Pahang",
 "Code": "PHG",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kuantan",
@@ -6238,10 +6297,18 @@
 "LatLong": "3.422,101.7892"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Putrajaya",
 "Code": "PJY",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Putrajaya",
@@ -6574,10 +6641,18 @@
 "LatLong": "2.9251,101.6574"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Perlis",
 "Code": "PLS",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kangar",
@@ -6965,10 +7040,18 @@
 "LatLong": "6.3194,100.2031"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Pulau Pinang",
 "Code": "PNG",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pulau Pinang",
@@ -7701,10 +7784,18 @@
 "LatLong": "5.4088,100.4837"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Perak",
 "Code": "PRK",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ipoh",
@@ -8872,10 +8963,18 @@
 "LatLong": "4.4301,101.4165"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Sabah",
 "Code": "SBH",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kota Kinabalu",
@@ -10868,10 +10967,18 @@
 "LatLong": "4.4363,118.5318"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Selangor",
 "Code": "SGR",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kuantan",
@@ -12284,10 +12391,18 @@
 "LatLong": "3.2251,101.6803"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Sarawak",
 "Code": "SRW",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kuching",
@@ -13390,10 +13505,18 @@
 "LatLong": "4.8211,115.4274"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Terengganu",
 "Code": "TRG",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kuala Terengganu",
@@ -14184,6 +14307,10 @@
 "Name": "Kerteh",
 "PostCode": "24300",
 "LatLong": "4.6985,103.3568"
+}
+]
+}
+]
 }
 ]
 }

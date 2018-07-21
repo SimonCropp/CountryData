@@ -1,8 +1,11 @@
 {
-"Structure": "Province/Place",
+"States": [
+{
 "Provinces": [
 {
 "Name": "Palangos m. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "SB „Bočiai“",
@@ -25,9 +28,13 @@
 "LatLong": "55.9175,21.0686"
 }
 ]
+}
+]
 },
 {
 "Name": "Klaipėdos r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Anaičių k.",
@@ -1725,9 +1732,13 @@
 "LatLong": "55.5536,21.3267"
 }
 ]
+}
+]
 },
 {
 "Name": "Vilniaus m. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vilnius",
@@ -9545,9 +9556,13 @@
 "LatLong": "54.6486,25.1354"
 }
 ]
+}
+]
 },
 {
 "Name": "Vilniaus r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Popynės k.",
@@ -15395,9 +15410,13 @@
 "LatLong": "54.6862,25.1816"
 }
 ]
+}
+]
 },
 {
 "Name": "Šalčininkų r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Šalčininkai",
@@ -17565,9 +17584,13 @@
 "LatLong": "54.3133,25.2933"
 }
 ]
+}
+]
 },
 {
 "Name": "Švenčionių r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Švenčionys",
@@ -20275,9 +20298,13 @@
 "LatLong": "55.1667,26.0528"
 }
 ]
+}
+]
 },
 {
 "Name": "Širvintų r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Širvintos",
@@ -22390,9 +22417,13 @@
 "LatLong": "55.0833,25.0667"
 }
 ]
+}
+]
 },
 {
 "Name": "Ukmergės r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ukmergė",
@@ -24935,9 +24966,13 @@
 "LatLong": "55.2833,24.9583"
 }
 ]
+}
+]
 },
 {
 "Name": "Trakų r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Trakai",
@@ -27035,9 +27070,13 @@
 "LatLong": "54.6696,25.1649"
 }
 ]
+}
+]
 },
 {
 "Name": "Elektrėnų sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Semeliškės",
@@ -28215,9 +28254,13 @@
 "LatLong": "54.7854,24.663"
 }
 ]
+}
+]
 },
 {
 "Name": "Utenos r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Utena",
@@ -30985,9 +31028,13 @@
 "LatLong": "55.6,25.8333"
 }
 ]
+}
+]
 },
 {
 "Name": "Anykščių r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Anykščiai",
@@ -34225,9 +34272,13 @@
 "LatLong": "55.5833,25.3167"
 }
 ]
+}
+]
 },
 {
 "Name": "Ignalinos r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ignalina",
@@ -37325,9 +37376,13 @@
 "LatLong": "55.3967,26.3933"
 }
 ]
+}
+]
 },
 {
 "Name": "Visagino sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Juliškės k.",
@@ -37380,9 +37435,13 @@
 "LatLong": "55.6,26.4167"
 }
 ]
+}
+]
 },
 {
 "Name": "Zarasų r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zarasai",
@@ -40815,9 +40874,13 @@
 "LatLong": "55.6867,26.1067"
 }
 ]
+}
+]
 },
 {
 "Name": "Molėtų r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Molėtai",
@@ -44965,9 +45028,13 @@
 "LatLong": "55.1839,25.3789"
 }
 ]
+}
+]
 },
 {
 "Name": "Panevėžio r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Miežiškiai",
@@ -48564,9 +48631,13 @@
 "LatLong": "55.7333,24.35"
 }
 ]
+}
+]
 },
 {
 "Name": "Panevėžio m. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Panevėžys",
@@ -48639,9 +48710,13 @@
 "LatLong": "55.7333,24.35"
 }
 ]
+}
+]
 },
 {
 "Name": "Pasvalio r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pasvalys",
@@ -50349,9 +50424,13 @@
 "LatLong": "56.0831,24.5256"
 }
 ]
+}
+]
 },
 {
 "Name": "Kupiškio r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kupiškis",
@@ -52099,9 +52178,13 @@
 "LatLong": "55.9333,24.9"
 }
 ]
+}
+]
 },
 {
 "Name": "Biržų r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Biržai",
@@ -54249,9 +54332,13 @@
 "LatLong": "56.0411,24.9661"
 }
 ]
+}
+]
 },
 {
 "Name": "Rokiškio r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rokiškis",
@@ -57229,9 +57316,13 @@
 "LatLong": "56.1022,25.3255"
 }
 ]
+}
+]
 },
 {
 "Name": "Kauno m. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kaunas",
@@ -57419,9 +57510,13 @@
 "LatLong": "54.9,23.9"
 }
 ]
+}
+]
 },
 {
 "Name": "Kauno r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Naujasodžio k.",
@@ -60189,9 +60284,13 @@
 "LatLong": "55.0725,23.8005"
 }
 ]
+}
+]
 },
 {
 "Name": "Jonavos r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Šilelis",
@@ -61599,9 +61698,13 @@
 "LatLong": "55.1167,24.2667"
 }
 ]
+}
+]
 },
 {
 "Name": "Kaišiadorių r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kaišiadorys",
@@ -63454,9 +63557,13 @@
 "LatLong": "54.8667,24.6"
 }
 ]
+}
+]
 },
 {
 "Name": "Kėdainių r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kėdainiai",
@@ -65509,9 +65616,13 @@
 "LatLong": "55.35,24.4"
 }
 ]
+}
+]
 },
 {
 "Name": "Prienų r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Prienai",
@@ -67584,9 +67695,13 @@
 "LatLong": "54.6,24.1667"
 }
 ]
+}
+]
 },
 {
 "Name": "Birštono sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Birštonas",
@@ -67824,9 +67939,13 @@
 "LatLong": "54.6167,24.0333"
 }
 ]
+}
+]
 },
 {
 "Name": "Raseinių r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Raseiniai",
@@ -70539,9 +70658,13 @@
 "LatLong": "55.4148,23.141"
 }
 ]
+}
+]
 },
 {
 "Name": "Alytaus r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kaniūkų k.",
@@ -72699,9 +72822,13 @@
 "LatLong": "54.3667,23.4333"
 }
 ]
+}
+]
 },
 {
 "Name": "Alytaus m. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alytus",
@@ -72754,9 +72881,13 @@
 "LatLong": "54.4,24.05"
 }
 ]
+}
+]
 },
 {
 "Name": "Varėnos r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Varėna",
@@ -74284,9 +74415,13 @@
 "LatLong": "54.25,24.55"
 }
 ]
+}
+]
 },
 {
 "Name": "Druskininkų sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Druskininkai",
@@ -74649,9 +74784,13 @@
 "LatLong": "54,23.65"
 }
 ]
+}
+]
 },
 {
 "Name": "Lazdijų r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lazdijai",
@@ -76229,9 +76368,13 @@
 "LatLong": "54.3,23.4333"
 }
 ]
+}
+]
 },
 {
 "Name": "Marijampolės sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marijampolė",
@@ -77679,9 +77822,13 @@
 "LatLong": "55.5536,21.3267"
 }
 ]
+}
+]
 },
 {
 "Name": "Kalvarijos sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kalvarija",
@@ -78549,9 +78696,13 @@
 "LatLong": "54.6024,23.419"
 }
 ]
+}
+]
 },
 {
 "Name": "Kazlų Rūdos sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Antanavo k.",
@@ -79534,9 +79685,13 @@
 "LatLong": "54.9667,23.5"
 }
 ]
+}
+]
 },
 {
 "Name": "Vilkaviškio r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vilkaviškis",
@@ -81219,9 +81374,13 @@
 "LatLong": "54.7167,23.2167"
 }
 ]
+}
+]
 },
 {
 "Name": "Šakių r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Šakiai",
@@ -83599,9 +83758,13 @@
 "LatLong": "54.9382,23.1621"
 }
 ]
+}
+]
 },
 {
 "Name": "Tauragės r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tauragė",
@@ -85129,9 +85292,13 @@
 "LatLong": "55.3494,22.5142"
 }
 ]
+}
+]
 },
 {
 "Name": "Pagėgių sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Panemunė",
@@ -85659,9 +85826,13 @@
 "LatLong": "55.1381,21.9089"
 }
 ]
+}
+]
 },
 {
 "Name": "Jurbarko r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jurbarkas",
@@ -87509,9 +87680,13 @@
 "LatLong": "55.1252,22.9318"
 }
 ]
+}
+]
 },
 {
 "Name": "Šilalės r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Šilalė",
@@ -89634,9 +89809,13 @@
 "LatLong": "55.5639,22.4514"
 }
 ]
+}
+]
 },
 {
 "Name": "Šiaulių m. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Šiauliai",
@@ -89814,9 +89993,13 @@
 "LatLong": "55.9333,23.3167"
 }
 ]
+}
+]
 },
 {
 "Name": "Šiaulių r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Apšrųjų k.",
@@ -92249,9 +92432,13 @@
 "LatLong": "56.0827,23.1326"
 }
 ]
+}
+]
 },
 {
 "Name": "Klaipėdos m. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Klaipėda",
@@ -92289,9 +92476,13 @@
 "LatLong": "55.6851,21.2633"
 }
 ]
+}
+]
 },
 {
 "Name": "Radviliškio r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Radviliškis",
@@ -94254,9 +94445,13 @@
 "LatLong": "55.6083,23.8417"
 }
 ]
+}
+]
 },
 {
 "Name": "Pakruojo r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pakruojis",
@@ -95954,9 +96149,13 @@
 "LatLong": "56.0701,23.8769"
 }
 ]
+}
+]
 },
 {
 "Name": "Joniškio r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Joniškis",
@@ -97279,9 +97478,13 @@
 "LatLong": "56.2983,23.8206"
 }
 ]
+}
+]
 },
 {
 "Name": "Akmenės r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Narčių k.",
@@ -98149,9 +98352,13 @@
 "LatLong": "56.2318,22.8338"
 }
 ]
+}
+]
 },
 {
 "Name": "Kelmės r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kelmė",
@@ -101584,9 +101791,13 @@
 "LatLong": "55.5944,22.7389"
 }
 ]
+}
+]
 },
 {
 "Name": "Telšių r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Telšiai",
@@ -103479,9 +103690,13 @@
 "LatLong": "56.0833,22.4167"
 }
 ]
+}
+]
 },
 {
 "Name": "Mažeikių r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mažeikiai",
@@ -104529,9 +104744,13 @@
 "LatLong": "56.2333,22.5167"
 }
 ]
+}
+]
 },
 {
 "Name": "Plungės r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Plungė",
@@ -105609,9 +105828,13 @@
 "LatLong": "56.0333,22.05"
 }
 ]
+}
+]
 },
 {
 "Name": "Rietavo sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pažėrų k.",
@@ -106084,9 +106307,13 @@
 "LatLong": "55.8,21.65"
 }
 ]
+}
+]
 },
 {
 "Name": "Kretingos r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kumponų k.",
@@ -107059,9 +107286,13 @@
 "LatLong": "55.9211,21.4769"
 }
 ]
+}
+]
 },
 {
 "Name": "Neringos sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Neringa",
@@ -107074,9 +107305,13 @@
 "LatLong": "55.3719,21.0647"
 }
 ]
+}
+]
 },
 {
 "Name": "Skuodo r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skuodas",
@@ -108004,9 +108239,13 @@
 "LatLong": "56.2833,21.85"
 }
 ]
+}
+]
 },
 {
 "Name": "Šilutės r. sav.",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Šilutė",
@@ -109647,6 +109886,10 @@
 "Name": "Antelkių k.",
 "PostCode": "99069",
 "LatLong": "55.365,21.8644"
+}
+]
+}
+]
 }
 ]
 }

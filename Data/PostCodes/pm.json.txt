@@ -1,5 +1,4 @@
 {
-"Structure": "State/Province/Place",
 "States": [
 {
 "Name": "Miquelon-Langlade",
@@ -8,11 +7,15 @@
 {
 "Name": "Miquelon-Langlade",
 "Code": "97501",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Miquelon",
 "PostCode": "97500",
 "LatLong": "47.0975,-56.3814"
+}
+]
 }
 ]
 }
@@ -23,11 +26,15 @@
 "Code": "97502",
 "Provinces": [
 {
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saint-Pierre",
 "PostCode": "97500",
 "LatLong": "46.7809,-56.172"
+}
+]
 }
 ]
 }

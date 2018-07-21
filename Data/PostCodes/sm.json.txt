@@ -1,5 +1,10 @@
 {
-"Structure": "Place",
+"States": [
+{
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Marino",
@@ -130,6 +135,12 @@
 "Name": "Fiorina",
 "PostCode": "47899",
 "LatLong": "43.958,12.4769"
+}
+]
+}
+]
+}
+]
 }
 ]
 }

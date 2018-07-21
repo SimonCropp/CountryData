@@ -1,5 +1,4 @@
 {
-"Structure": "State/Province/Place",
 "States": [
 {
 "Name": "Adiyaman",
@@ -8,6 +7,8 @@
 {
 "Name": "Gerger",
 "Code": "8631677",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cevizpinar",
@@ -240,10 +241,14 @@
 "LatLong": "38.0161,38.9902"
 }
 ]
+}
+]
 },
 {
 "Name": "Samsat",
 "Code": "8631678",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kuştepe",
@@ -331,10 +336,14 @@
 "LatLong": "37.5593,38.478"
 }
 ]
+}
+]
 },
 {
 "Name": "Çelikhan",
 "Code": "8631680",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yeşiltepe",
@@ -437,10 +446,14 @@
 "LatLong": "38.0297,38.1821"
 }
 ]
+}
+]
 },
 {
 "Name": "Besni",
 "Code": "8631681",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yoldüzü",
@@ -808,10 +821,14 @@
 "LatLong": "37.5589,37.7285"
 }
 ]
+}
+]
 },
 {
 "Name": "Tut",
 "Code": "8631682",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tepecik",
@@ -889,10 +906,14 @@
 "LatLong": "37.7817,37.9771"
 }
 ]
+}
+]
 },
 {
 "Name": "Sincik",
 "Code": "8631683",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yarpuzlu",
@@ -1025,9 +1046,13 @@
 "LatLong": "37.9876,38.4333"
 }
 ]
+}
+]
 },
 {
 "Name": "Adiyaman",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çemberlitaş",
@@ -1575,9 +1600,13 @@
 "LatLong": "37.8677,38.4296"
 }
 ]
+}
+]
 },
 {
 "Name": "Kahta",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Köseler",
@@ -2105,9 +2134,13 @@
 "LatLong": "37.7713,38.7176"
 }
 ]
+}
+]
 },
 {
 "Name": "Gölbaşi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gölbaşi",
@@ -2282,6 +2315,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Afyonkarahisar",
@@ -2290,6 +2325,8 @@
 {
 "Name": "İscehisar",
 "Code": "7732071",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İscehisar",
@@ -2357,10 +2394,14 @@
 "LatLong": "38.8828,30.8331"
 }
 ]
+}
+]
 },
 {
 "Name": "Evciler",
 "Code": "8632463",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akyarma",
@@ -2388,10 +2429,14 @@
 "LatLong": "38.0033,30.0064"
 }
 ]
+}
+]
 },
 {
 "Name": "Dinar",
 "Code": "8632465",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dinar",
@@ -2714,10 +2759,14 @@
 "LatLong": "38.1863,30.3792"
 }
 ]
+}
+]
 },
 {
 "Name": "Hocalar",
 "Code": "8632466",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kozluca",
@@ -2800,10 +2849,14 @@
 "LatLong": "38.5781,29.8889"
 }
 ]
+}
+]
 },
 {
 "Name": "Şuhut",
 "Code": "8632469",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Şuhut",
@@ -2996,10 +3049,14 @@
 "LatLong": "38.3056,30.6283"
 }
 ]
+}
+]
 },
 {
 "Name": "Çobanlar",
 "Code": "8632470",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çobanlar",
@@ -3027,10 +3084,14 @@
 "LatLong": "38.7297,30.8461"
 }
 ]
+}
+]
 },
 {
 "Name": "İhsaniye",
 "Code": "8632472",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gazligölakören",
@@ -3193,10 +3254,14 @@
 "LatLong": "39.0083,30.5045"
 }
 ]
+}
+]
 },
 {
 "Name": "Bolvadin",
 "Code": "8632473",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Taşağil",
@@ -3284,10 +3349,14 @@
 "LatLong": "38.8283,31.0042"
 }
 ]
+}
+]
 },
 {
 "Name": "Çay",
 "Code": "8632474",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Armutlu",
@@ -3405,10 +3474,14 @@
 "LatLong": "38.5536,30.9183"
 }
 ]
+}
+]
 },
 {
 "Name": "Bayat",
 "Code": "8632476",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eskigömü",
@@ -3476,10 +3549,14 @@
 "LatLong": "39.1213,30.9393"
 }
 ]
+}
+]
 },
 {
 "Name": "Emirdağ",
 "Code": "8632477",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kuruca",
@@ -3857,9 +3934,13 @@
 "LatLong": "39.0167,31.4878"
 }
 ]
+}
+]
 },
 {
 "Name": "Afyon",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karaarslan",
@@ -4112,9 +4193,13 @@
 "LatLong": "38.8047,30.6097"
 }
 ]
+}
+]
 },
 {
 "Name": "Sincanli(Sinanpaşa)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tinaztepe",
@@ -4297,9 +4382,13 @@
 "LatLong": "38.795,30.1636"
 }
 ]
+}
+]
 },
 {
 "Name": "Başmakçi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akkeçili",
@@ -4377,9 +4466,13 @@
 "LatLong": "37.9307,30.12"
 }
 ]
+}
+]
 },
 {
 "Name": "Sandikli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Emirhisar",
@@ -4672,9 +4765,13 @@
 "LatLong": "38.64,30.2414"
 }
 ]
+}
+]
 },
 {
 "Name": "Kizilören",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yenibelkavak",
@@ -4702,9 +4799,13 @@
 "LatLong": "38.2388,30.1653"
 }
 ]
+}
+]
 },
 {
 "Name": "Sultandaği",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sultandaği",
@@ -4777,9 +4878,13 @@
 "LatLong": "38.548,31.2236"
 }
 ]
+}
+]
 },
 {
 "Name": "Dazkiri",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karaağaçkuyusu",
@@ -4869,6 +4974,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ağri",
@@ -4877,6 +4984,8 @@
 {
 "Name": "Diyadin",
 "Code": "8630865",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gözüpek",
@@ -5194,10 +5303,14 @@
 "LatLong": "39.4865,43.6044"
 }
 ]
+}
+]
 },
 {
 "Name": "Eleşkirt",
 "Code": "8630866",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kanatgeren",
@@ -5525,10 +5638,14 @@
 "LatLong": "39.8835,42.5848"
 }
 ]
+}
+]
 },
 {
 "Name": "Patnos",
 "Code": "8630868",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zirekli",
@@ -6006,10 +6123,14 @@
 "LatLong": "39.2501,42.7796"
 }
 ]
+}
+]
 },
 {
 "Name": "Tutak",
 "Code": "8630869",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Damlakaya",
@@ -6417,10 +6538,14 @@
 "LatLong": "39.4351,42.8537"
 }
 ]
+}
+]
 },
 {
 "Name": "Hamur",
 "Code": "8630870",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kaçmaz",
@@ -6658,9 +6783,13 @@
 "LatLong": "39.6399,42.9968"
 }
 ]
+}
+]
 },
 {
 "Name": "Ağri",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Uçarkaya",
@@ -7203,9 +7332,13 @@
 "LatLong": "39.54,43.1619"
 }
 ]
+}
+]
 },
 {
 "Name": "Doğubeyazit",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gözükara",
@@ -7638,9 +7771,13 @@
 "LatLong": "39.4167,44.3542"
 }
 ]
+}
+]
 },
 {
 "Name": "Taşliçay",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Geçitveren",
@@ -7835,6 +7972,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Amasya",
@@ -7843,6 +7982,8 @@
 {
 "Name": "Taşova",
 "Code": "8631703",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Korubaşi",
@@ -8150,10 +8291,14 @@
 "LatLong": "40.7599,36.2778"
 }
 ]
+}
+]
 },
 {
 "Name": "Göynücek",
 "Code": "8631704",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çayan",
@@ -8351,10 +8496,14 @@
 "LatLong": "40.4891,35.5855"
 }
 ]
+}
+]
 },
 {
 "Name": "Suluova",
 "Code": "8631706",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yolpinar",
@@ -8562,10 +8711,14 @@
 "LatLong": "40.854,35.8742"
 }
 ]
+}
+]
 },
 {
 "Name": "Merzifon",
 "Code": "8631707",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çavundur",
@@ -8713,10 +8866,14 @@
 "LatLong": "40.865,35.5595"
 }
 ]
+}
+]
 },
 {
 "Name": "Hamamözü",
 "Code": "8631708",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sarayözü",
@@ -8819,9 +8976,13 @@
 "LatLong": "40.7682,35.0366"
 }
 ]
+}
+]
 },
 {
 "Name": "Amasya",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Toklucak",
@@ -9354,9 +9515,13 @@
 "LatLong": "40.6849,35.8688"
 }
 ]
+}
+]
 },
 {
 "Name": "Gümüşhaciköy",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çetmi",
@@ -9581,6 +9746,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Antalya",
@@ -9589,6 +9756,8 @@
 {
 "Name": "Alanya",
 "Code": "7732185",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Toslak",
@@ -10126,10 +10295,14 @@
 "LatLong": "36.6173,31.8735"
 }
 ]
+}
+]
 },
 {
 "Name": "Finike",
 "Code": "7732189",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yalniz",
@@ -10227,10 +10400,14 @@
 "LatLong": "36.3433,30.2093"
 }
 ]
+}
+]
 },
 {
 "Name": "Kemer",
 "Code": "7732191",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kemer",
@@ -10268,10 +10445,14 @@
 "LatLong": "36.5017,30.5272"
 }
 ]
+}
+]
 },
 {
 "Name": "Manavgat",
 "Code": "7732193",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Side",
@@ -10709,10 +10890,14 @@
 "LatLong": "36.7783,31.6433"
 }
 ]
+}
+]
 },
 {
 "Name": "Serik",
 "Code": "7732195",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kozağaç",
@@ -11120,10 +11305,14 @@
 "LatLong": "36.8532,31.1639"
 }
 ]
+}
+]
 },
 {
 "Name": "Kumluca",
 "Code": "7911038",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Haciveliler",
@@ -11271,10 +11460,14 @@
 "LatLong": "36.3167,30.35"
 }
 ]
+}
+]
 },
 {
 "Name": "Gazipaşa",
 "Code": "8632151",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yakacik",
@@ -11487,10 +11680,14 @@
 "LatLong": "36.3102,32.2802"
 }
 ]
+}
+]
 },
 {
 "Name": "Gündoğmuş",
 "Code": "8632153",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Güneyyaka",
@@ -11633,10 +11830,14 @@
 "LatLong": "36.7801,32.0261"
 }
 ]
+}
+]
 },
 {
 "Name": "Akseki",
 "Code": "8632154",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Susuzşahap",
@@ -11879,10 +12080,14 @@
 "LatLong": "37.1969,31.7633"
 }
 ]
+}
+]
 },
 {
 "Name": "Korkuteli",
 "Code": "8632164",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kozağaci",
@@ -12155,10 +12360,14 @@
 "LatLong": "37.22,30.2186"
 }
 ]
+}
+]
 },
 {
 "Name": "Kaş",
 "Code": "8632166",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Belenli",
@@ -12476,10 +12685,14 @@
 "LatLong": "36.2755,29.32"
 }
 ]
+}
+]
 },
 {
 "Name": "Aksu",
 "Code": "9535333",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aksu",
@@ -12567,10 +12780,14 @@
 "LatLong": "37.0349,30.8097"
 }
 ]
+}
+]
 },
 {
 "Name": "Muratpaşa",
 "Code": "9535335",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eskisanayi",
@@ -12638,10 +12855,14 @@
 "LatLong": "36.9,30.7202"
 }
 ]
+}
+]
 },
 {
 "Name": "Kepez",
 "Code": "9535336",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dokuma",
@@ -12729,9 +12950,13 @@
 "LatLong": "36.9332,30.7207"
 }
 ]
+}
+]
 },
 {
 "Name": "Konyaalti",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saklikent",
@@ -12814,9 +13039,13 @@
 "LatLong": "36.7192,30.5638"
 }
 ]
+}
+]
 },
 {
 "Name": "Döşemealti",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bademağaci",
@@ -12919,9 +13148,13 @@
 "LatLong": "37.0233,30.6025"
 }
 ]
+}
+]
 },
 {
 "Name": "Demre(Kale)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beymelek",
@@ -12979,9 +13212,13 @@
 "LatLong": "36.2652,29.9386"
 }
 ]
+}
+]
 },
 {
 "Name": "İbradi(Aydinkent)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aydinkent",
@@ -13009,9 +13246,13 @@
 "LatLong": "37.075,31.5806"
 }
 ]
+}
+]
 },
 {
 "Name": "Elmali",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Haciyusuflar",
@@ -13276,6 +13517,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Artvin",
@@ -13284,6 +13527,8 @@
 {
 "Name": "Hopa",
 "Code": "7732198",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hopa",
@@ -13441,10 +13686,14 @@
 "LatLong": "41.4662,41.5108"
 }
 ]
+}
+]
 },
 {
 "Name": "Şavşat",
 "Code": "8631400",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Şavşat",
@@ -13777,10 +14026,14 @@
 "LatLong": "41.3708,42.2507"
 }
 ]
+}
+]
 },
 {
 "Name": "Ardanuç",
 "Code": "8631401",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ardanuç",
@@ -14033,10 +14286,14 @@
 "LatLong": "40.9814,41.5687"
 }
 ]
+}
+]
 },
 {
 "Name": "Yusufeli",
 "Code": "8631402",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yusufeli",
@@ -14354,10 +14611,14 @@
 "LatLong": "40.724,41.5681"
 }
 ]
+}
+]
 },
 {
 "Name": "Borçka",
 "Code": "8631448",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Borçka",
@@ -14545,10 +14806,14 @@
 "LatLong": "41.3713,41.6336"
 }
 ]
+}
+]
 },
 {
 "Name": "Arhavi",
 "Code": "8631449",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arhavi",
@@ -14706,9 +14971,13 @@
 "LatLong": "41.3075,41.3874"
 }
 ]
+}
+]
 },
 {
 "Name": "Artvin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Artvin",
@@ -14896,9 +15165,13 @@
 "LatLong": "41.3104,42.1185"
 }
 ]
+}
+]
 },
 {
 "Name": "Murgul(Göktaş)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Göktaş",
@@ -14963,6 +15236,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Aydin",
@@ -14971,6 +15246,8 @@
 {
 "Name": "Söke",
 "Code": "8632390",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akçakaya",
@@ -15183,10 +15460,14 @@
 "LatLong": "37.7833,27.4167"
 }
 ]
+}
+]
 },
 {
 "Name": "Karpuzlu",
 "Code": "8632392",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akçaabat",
@@ -15289,10 +15570,14 @@
 "LatLong": "37.574,27.8409"
 }
 ]
+}
+]
 },
 {
 "Name": "Çine",
 "Code": "8632393",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çine",
@@ -15665,10 +15950,14 @@
 "LatLong": "37.4903,28.1169"
 }
 ]
+}
+]
 },
 {
 "Name": "Yenipazar",
 "Code": "8632394",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Paşaköy",
@@ -15746,10 +16035,14 @@
 "LatLong": "37.8,28.1833"
 }
 ]
+}
+]
 },
 {
 "Name": "Bozdoğan",
 "Code": "8632395",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Örmepinar",
@@ -15982,10 +16275,14 @@
 "LatLong": "37.6925,28.3869"
 }
 ]
+}
+]
 },
 {
 "Name": "Karacasu",
 "Code": "8632396",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karacasu",
@@ -16153,10 +16450,14 @@
 "LatLong": "37.8284,28.5712"
 }
 ]
+}
+]
 },
 {
 "Name": "Sultanhisar",
 "Code": "8632398",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Güvendik",
@@ -16229,10 +16530,14 @@
 "LatLong": "37.9343,28.2124"
 }
 ]
+}
+]
 },
 {
 "Name": "Nazilli",
 "Code": "8632399",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hamzali",
@@ -16525,10 +16830,14 @@
 "LatLong": "37.7768,28.0537"
 }
 ]
+}
+]
 },
 {
 "Name": "Kuyucak",
 "Code": "8632400",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kuyucak",
@@ -16676,10 +16985,14 @@
 "LatLong": "37.9432,28.6168"
 }
 ]
+}
+]
 },
 {
 "Name": "Germencik",
 "Code": "8632402",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Neşetiye",
@@ -16842,10 +17155,14 @@
 "LatLong": "37.8333,27.5667"
 }
 ]
+}
+]
 },
 {
 "Name": "İncirliova",
 "Code": "8632403",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dereağzi",
@@ -16968,10 +17285,14 @@
 "LatLong": "37.8244,27.7467"
 }
 ]
+}
+]
 },
 {
 "Name": "Köşk",
 "Code": "8632404",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Güzelköy",
@@ -17099,10 +17420,14 @@
 "LatLong": "37.9102,28.0813"
 }
 ]
+}
+]
 },
 {
 "Name": "Efeler",
 "Code": "9564466",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Merkezköy",
@@ -17150,9 +17475,13 @@
 "LatLong": "37.85,27.9628"
 }
 ]
+}
+]
 },
 {
 "Name": "Didim(Yenihisar)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yaliköy",
@@ -17195,9 +17524,13 @@
 "LatLong": "37.7718,28.2183"
 }
 ]
+}
+]
 },
 {
 "Name": "Kuşadasi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yaylaköy",
@@ -17245,9 +17578,13 @@
 "LatLong": "37.8597,27.7785"
 }
 ]
+}
+]
 },
 {
 "Name": "Buharkent(Çubukdaği)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Muratdaği",
@@ -17295,9 +17632,13 @@
 "LatLong": "37.9432,28.5661"
 }
 ]
+}
+]
 },
 {
 "Name": "Koçarli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çakirbeyli",
@@ -17537,6 +17878,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Balikesir",
@@ -17545,6 +17888,8 @@
 {
 "Name": "Bandirma",
 "Code": "7732201",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Emre",
@@ -17722,10 +18067,14 @@
 "LatLong": "40.3039,27.7111"
 }
 ]
+}
+]
 },
 {
 "Name": "Marmara",
 "Code": "7733225",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marmara",
@@ -17773,10 +18122,14 @@
 "LatLong": "40.4952,27.5219"
 }
 ]
+}
+]
 },
 {
 "Name": "Dursunbey",
 "Code": "7910603",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yunuslar",
@@ -18289,10 +18642,14 @@
 "LatLong": "39.6048,28.8852"
 }
 ]
+}
+]
 },
 {
 "Name": "Kepsut",
 "Code": "8632431",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Recepköy",
@@ -18615,10 +18972,14 @@
 "LatLong": "39.6806,28.3406"
 }
 ]
+}
+]
 },
 {
 "Name": "Bigadiç",
 "Code": "8632433",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çeribaşi",
@@ -18976,10 +19337,14 @@
 "LatLong": "39.4985,28.0277"
 }
 ]
+}
+]
 },
 {
 "Name": "Savaştepe",
 "Code": "8632434",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karaçam",
@@ -19212,10 +19577,14 @@
 "LatLong": "39.4376,27.5418"
 }
 ]
+}
+]
 },
 {
 "Name": "Gömeç",
 "Code": "8632436",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Haciosman",
@@ -19273,10 +19642,14 @@
 "LatLong": "39.3666,26.8457"
 }
 ]
+}
+]
 },
 {
 "Name": "İvrindi",
 "Code": "8632437",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sofular",
@@ -19614,10 +19987,14 @@
 "LatLong": "39.4413,27.3765"
 }
 ]
+}
+]
 },
 {
 "Name": "Manyas",
 "Code": "8632438",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Haciibrahimpinari",
@@ -19850,10 +20227,14 @@
 "LatLong": "40.0956,27.9352"
 }
 ]
+}
+]
 },
 {
 "Name": "Susurluk",
 "Code": "8632439",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kirazköy",
@@ -20091,10 +20472,14 @@
 "LatLong": "39.9722,28.2208"
 }
 ]
+}
+]
 },
 {
 "Name": "Balya",
 "Code": "8632440",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ilica",
@@ -20322,10 +20707,14 @@
 "LatLong": "39.7992,27.5769"
 }
 ]
+}
+]
 },
 {
 "Name": "Erdek",
 "Code": "8632441",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Harmanli",
@@ -20443,10 +20832,14 @@
 "LatLong": "40.4419,28.0009"
 }
 ]
+}
+]
 },
 {
 "Name": "Gönen",
 "Code": "8632442",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Armutlu",
@@ -20904,10 +21297,14 @@
 "LatLong": "40.0928,27.6757"
 }
 ]
+}
+]
 },
 {
 "Name": "Burhaniye",
 "Code": "8632443",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çoruk",
@@ -21045,10 +21442,14 @@
 "LatLong": "39.4442,26.9006"
 }
 ]
+}
+]
 },
 {
 "Name": "Edremit",
 "Code": "8632444",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bostanci",
@@ -21181,10 +21582,14 @@
 "LatLong": "39.5847,26.8075"
 }
 ]
+}
+]
 },
 {
 "Name": "Havran",
 "Code": "8632445",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tarlabaşi",
@@ -21322,9 +21727,13 @@
 "LatLong": "39.5369,27.0905"
 }
 ]
+}
+]
 },
 {
 "Name": "Karesi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karesi",
@@ -21372,9 +21781,13 @@
 "LatLong": "39.8118,27.8456"
 }
 ]
+}
+]
 },
 {
 "Name": "Altieylül",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gündoğan",
@@ -21412,9 +21825,13 @@
 "LatLong": "39.4339,27.8362"
 }
 ]
+}
+]
 },
 {
 "Name": "Ayvalik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Türközü",
@@ -21517,9 +21934,13 @@
 "LatLong": "39.2714,26.652"
 }
 ]
+}
+]
 },
 {
 "Name": "Sindirgi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mandira",
@@ -21869,6 +22290,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Bilecik",
@@ -21877,6 +22300,8 @@
 {
 "Name": "Yenipazar",
 "Code": "8632583",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Doğubelenören",
@@ -21999,10 +22424,14 @@
 "LatLong": "40.2306,30.5354"
 }
 ]
+}
+]
 },
 {
 "Name": "Söğüt",
 "Code": "8632584",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kepen",
@@ -22125,10 +22554,14 @@
 "LatLong": "40.1286,30.1708"
 }
 ]
+}
+]
 },
 {
 "Name": "Osmaneli",
 "Code": "8632587",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kazanci",
@@ -22271,10 +22704,14 @@
 "LatLong": "40.4628,29.8828"
 }
 ]
+}
+]
 },
 {
 "Name": "Bozüyük",
 "Code": "8632588",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kizilcapinar",
@@ -22517,10 +22954,14 @@
 "LatLong": "39.7204,29.9614"
 }
 ]
+}
+]
 },
 {
 "Name": "Pazaryeri",
 "Code": "8632589",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saridayi",
@@ -22648,10 +23089,14 @@
 "LatLong": "40.043,29.8439"
 }
 ]
+}
+]
 },
 {
 "Name": "İnhisar",
 "Code": "9538526",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tozman",
@@ -22704,9 +23149,13 @@
 "LatLong": "40.0473,30.4511"
 }
 ]
+}
+]
 },
 {
 "Name": "Bilecik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bilecik",
@@ -22824,9 +23273,13 @@
 "LatLong": "40.1509,30.13"
 }
 ]
+}
+]
 },
 {
 "Name": "Gölpazari",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bayat",
@@ -23076,6 +23529,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Bingöl",
@@ -23084,6 +23539,8 @@
 {
 "Name": "Yayladere",
 "Code": "8631554",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çayağzi",
@@ -23191,10 +23648,14 @@
 "LatLong": "39.2023,40.1136"
 }
 ]
+}
+]
 },
 {
 "Name": "Yedisu",
 "Code": "8631555",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eskibalta",
@@ -23267,10 +23728,14 @@
 "LatLong": "39.3704,40.663"
 }
 ]
+}
+]
 },
 {
 "Name": "Solhan",
 "Code": "8631557",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arslanbeyli",
@@ -23413,10 +23878,14 @@
 "LatLong": "38.8789,41.0073"
 }
 ]
+}
+]
 },
 {
 "Name": "Genç",
 "Code": "8631559",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mollaibrahim",
@@ -23694,10 +24163,14 @@
 "LatLong": "38.7506,40.5542"
 }
 ]
+}
+]
 },
 {
 "Name": "Kiği",
 "Code": "8631560",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yazgünü",
@@ -23845,9 +24318,13 @@
 "LatLong": "39.287,40.3461"
 }
 ]
+}
+]
 },
 {
 "Name": "Bingöl",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İncesu",
@@ -24245,9 +24722,13 @@
 "LatLong": "38.8858,40.7517"
 }
 ]
+}
+]
 },
 {
 "Name": "Adakli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kaynakdüzü",
@@ -24425,9 +24906,13 @@
 "LatLong": "39.1863,40.7285"
 }
 ]
+}
+]
 },
 {
 "Name": "Karliova",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kaynarpinar",
@@ -24672,6 +25157,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Bitlis",
@@ -24680,6 +25167,8 @@
 {
 "Name": "Güroymak",
 "Code": "8630852",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oduncular",
@@ -24827,10 +25316,14 @@
 "LatLong": "38.6419,42.0993"
 }
 ]
+}
+]
 },
 {
 "Name": "Hizan",
 "Code": "8630853",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Doğanci",
@@ -25118,10 +25611,14 @@
 "LatLong": "38.0761,42.6281"
 }
 ]
+}
+]
 },
 {
 "Name": "Tatvan",
 "Code": "8630854",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kağinli",
@@ -25434,10 +25931,14 @@
 "LatLong": "38.4144,42.5337"
 }
 ]
+}
+]
 },
 {
 "Name": "Ahlat",
 "Code": "8630855",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ahlat",
@@ -25580,10 +26081,14 @@
 "LatLong": "38.9088,42.4277"
 }
 ]
+}
+]
 },
 {
 "Name": "Adilcevaz",
 "Code": "8630856",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cihangir",
@@ -25736,10 +26241,14 @@
 "LatLong": "38.9454,43.0049"
 }
 ]
+}
+]
 },
 {
 "Name": "Mutki",
 "Code": "8630857",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arpaliseki",
@@ -26047,9 +26556,13 @@
 "LatLong": "38.2697,41.7285"
 }
 ]
+}
+]
 },
 {
 "Name": "Bitlis",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Deliktaş",
@@ -26289,6 +26802,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Bolu",
@@ -26297,6 +26812,8 @@
 {
 "Name": "Gerede",
 "Code": "7732652",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Danişmentler",
@@ -26769,10 +27286,14 @@
 "LatLong": "40.7628,32.3175"
 }
 ]
+}
+]
 },
 {
 "Name": "Mengen",
 "Code": "8632492",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İlyaslar",
@@ -27070,10 +27591,14 @@
 "LatLong": "40.864,31.9202"
 }
 ]
+}
+]
 },
 {
 "Name": "Yeniçağa",
 "Code": "8632493",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yukarikuldan",
@@ -27161,10 +27686,14 @@
 "LatLong": "40.7711,32.0592"
 }
 ]
+}
+]
 },
 {
 "Name": "Dörtdivan",
 "Code": "8632495",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çalköy",
@@ -27292,10 +27821,14 @@
 "LatLong": "40.7242,32.0947"
 }
 ]
+}
+]
 },
 {
 "Name": "Göynük",
 "Code": "8632496",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Narzanlar",
@@ -27633,10 +28166,14 @@
 "LatLong": "40.2636,30.8109"
 }
 ]
+}
+]
 },
 {
 "Name": "Seben",
 "Code": "8632498",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Musasofular",
@@ -27789,10 +28326,14 @@
 "LatLong": "40.4139,31.6022"
 }
 ]
+}
+]
 },
 {
 "Name": "Mudurnu",
 "Code": "8632499",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dağyolu",
@@ -28170,9 +28711,13 @@
 "LatLong": "40.5733,31.0739"
 }
 ]
+}
+]
 },
 {
 "Name": "Bolu",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karacasu",
@@ -28750,9 +29295,13 @@
 "LatLong": "40.6344,31.6725"
 }
 ]
+}
+]
 },
 {
 "Name": "Kibriscik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karaköy",
@@ -28872,6 +29421,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Burdur",
@@ -28880,6 +29431,8 @@
 {
 "Name": "Bucak",
 "Code": "8631949",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dağarcik",
@@ -29077,10 +29630,14 @@
 "LatLong": "37.3532,30.7462"
 }
 ]
+}
+]
 },
 {
 "Name": "Çeltikçi",
 "Code": "8631950",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çeltikçi",
@@ -29118,10 +29675,14 @@
 "LatLong": "37.5346,30.4412"
 }
 ]
+}
+]
 },
 {
 "Name": "Ağlasun",
 "Code": "8631951",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yazir",
@@ -29174,10 +29735,14 @@
 "LatLong": "37.6374,30.6746"
 }
 ]
+}
+]
 },
 {
 "Name": "Kemer",
 "Code": "8631952",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pinarbaşi",
@@ -29220,10 +29785,14 @@
 "LatLong": "37.4731,30.1064"
 }
 ]
+}
+]
 },
 {
 "Name": "Tefenni",
 "Code": "8631954",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hasanpaşa",
@@ -29301,10 +29870,14 @@
 "LatLong": "37.2083,29.815"
 }
 ]
+}
+]
 },
 {
 "Name": "Gölhisar",
 "Code": "8631956",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Asmali",
@@ -29377,10 +29950,14 @@
 "LatLong": "37.1656,29.5783"
 }
 ]
+}
+]
 },
 {
 "Name": "Yeşilova",
 "Code": "8631958",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karaköy",
@@ -29583,9 +30160,13 @@
 "LatLong": "37.5264,29.9036"
 }
 ]
+}
+]
 },
 {
 "Name": "Burdur",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kuruçay",
@@ -29863,9 +30444,13 @@
 "LatLong": "37.4356,30.072"
 }
 ]
+}
+]
 },
 {
 "Name": "Altinyayla(Dirmil)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çörten",
@@ -29898,9 +30483,13 @@
 "LatLong": "36.8778,29.4283"
 }
 ]
+}
+]
 },
 {
 "Name": "Karamanli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Manca",
@@ -29948,9 +30537,13 @@
 "LatLong": "37.3908,29.8842"
 }
 ]
+}
+]
 },
 {
 "Name": "Çavdir",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Büyükalan",
@@ -30020,6 +30613,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Bursa",
@@ -30028,6 +30623,8 @@
 {
 "Name": "Gemlik",
 "Code": "7732330",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karacaali",
@@ -30140,10 +30737,14 @@
 "LatLong": "40.4774,29.1231"
 }
 ]
+}
+]
 },
 {
 "Name": "Gürsu",
 "Code": "7732331",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dişkaya",
@@ -30181,10 +30782,14 @@
 "LatLong": "40.3188,29.2627"
 }
 ]
+}
+]
 },
 {
 "Name": "İnegöl",
 "Code": "7732332",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yeniyörük",
@@ -30667,10 +31272,14 @@
 "LatLong": "40.089,29.4836"
 }
 ]
+}
+]
 },
 {
 "Name": "Kestel",
 "Code": "7732333",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Narlidere",
@@ -30823,10 +31432,14 @@
 "LatLong": "40.2332,29.2768"
 }
 ]
+}
+]
 },
 {
 "Name": "Mudanya",
 "Code": "7732334",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mudanya",
@@ -31079,10 +31692,14 @@
 "LatLong": "40.3379,28.6494"
 }
 ]
+}
+]
 },
 {
 "Name": "Nilüfer",
 "Code": "7732336",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hasanağa",
@@ -31295,10 +31912,14 @@
 "LatLong": "40.1718,28.8394"
 }
 ]
+}
+]
 },
 {
 "Name": "Osmangazi",
 "Code": "7732338",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Maksem",
@@ -31556,10 +32177,14 @@
 "LatLong": "40.1056,29.0342"
 }
 ]
+}
+]
 },
 {
 "Name": "Orhangazi",
 "Code": "8632532",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Orhangazi",
@@ -31717,10 +32342,14 @@
 "LatLong": "40.3164,29.4581"
 }
 ]
+}
+]
 },
 {
 "Name": "İznik",
 "Code": "8632533",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yürükler",
@@ -31923,10 +32552,14 @@
 "LatLong": "40.4861,29.7247"
 }
 ]
+}
+]
 },
 {
 "Name": "Yenişehir",
 "Code": "8632534",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dereköy",
@@ -32244,10 +32877,14 @@
 "LatLong": "40.3333,29.4167"
 }
 ]
+}
+]
 },
 {
 "Name": "Mustafakemalpaşa",
 "Code": "8632536",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mustafakemalpaşa",
@@ -32795,10 +33432,14 @@
 "LatLong": "40.1186,28.4283"
 }
 ]
+}
+]
 },
 {
 "Name": "Karacabey",
 "Code": "8632537",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karacabey",
@@ -33126,10 +33767,14 @@
 "LatLong": "40.299,28.3357"
 }
 ]
+}
+]
 },
 {
 "Name": "Keles",
 "Code": "8632538",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sorgun",
@@ -33317,10 +33962,14 @@
 "LatLong": "39.8573,29.2297"
 }
 ]
+}
+]
 },
 {
 "Name": "Orhaneli",
 "Code": "8632539",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Girencik",
@@ -33603,10 +34252,14 @@
 "LatLong": "39.8427,28.9381"
 }
 ]
+}
+]
 },
 {
 "Name": "Büyükorhan",
 "Code": "8632540",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kayapa",
@@ -33809,9 +34462,13 @@
 "LatLong": "39.7846,28.8015"
 }
 ]
+}
+]
 },
 {
 "Name": "Yildirim",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Duaçinar",
@@ -33864,9 +34521,13 @@
 "LatLong": "40.1734,29.1862"
 }
 ]
+}
+]
 },
 {
 "Name": "Harmancik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çatalsöğüt",
@@ -33986,6 +34647,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Çanakkale",
@@ -33994,6 +34657,8 @@
 {
 "Name": "Biga",
 "Code": "7732343",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Havdan",
@@ -34396,10 +35061,14 @@
 "LatLong": "40.3858,27.1913"
 }
 ]
+}
+]
 },
 {
 "Name": "Bozcaada",
 "Code": "7910944",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bozcaada",
@@ -34407,10 +35076,14 @@
 "LatLong": "39.835,26.0697"
 }
 ]
+}
+]
 },
 {
 "Name": "Yenice",
 "Code": "8632576",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bekten",
@@ -34803,10 +35476,14 @@
 "LatLong": "39.7908,27.204"
 }
 ]
+}
+]
 },
 {
 "Name": "Ezine",
 "Code": "8632578",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Üsküfçü",
@@ -35059,10 +35736,14 @@
 "LatLong": "39.8047,26.2075"
 }
 ]
+}
+]
 },
 {
 "Name": "Bayramiç",
 "Code": "8632579",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bayramiç",
@@ -35445,10 +36126,14 @@
 "LatLong": "39.8089,26.8503"
 }
 ]
+}
+]
 },
 {
 "Name": "Çan",
 "Code": "8632580",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hacilar",
@@ -35671,10 +36356,14 @@
 "LatLong": "40.0231,27.0436"
 }
 ]
+}
+]
 },
 {
 "Name": "Gelibolu",
 "Code": "8632582",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kavakköy",
@@ -35817,10 +36506,14 @@
 "LatLong": "40.4143,26.5048"
 }
 ]
+}
+]
 },
 {
 "Name": "Eceabat",
 "Code": "9538547",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Küçükanafarta",
@@ -35888,9 +36581,13 @@
 "LatLong": "40.0444,26.1875"
 }
 ]
+}
+]
 },
 {
 "Name": "Çanakkale",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cevatpaşa",
@@ -36108,9 +36805,13 @@
 "LatLong": "40.0978,26.3947"
 }
 ]
+}
+]
 },
 {
 "Name": "Gökçeada(İmroz)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tepeköy",
@@ -36163,9 +36864,13 @@
 "LatLong": "40.1849,25.9887"
 }
 ]
+}
+]
 },
 {
 "Name": "Lapseki",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dereköy",
@@ -36383,9 +37088,13 @@
 "LatLong": "40.1807,26.7273"
 }
 ]
+}
+]
 },
 {
 "Name": "Ayvacik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Korubaşi",
@@ -36725,6 +37434,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Çorum",
@@ -36733,6 +37444,8 @@
 {
 "Name": "Sungurlu",
 "Code": "7732351",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Denizli",
@@ -37270,10 +37983,14 @@
 "LatLong": "40.1835,34.159"
 }
 ]
+}
+]
 },
 {
 "Name": "Dodurga",
 "Code": "8631998",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Berkköy",
@@ -37341,10 +38058,14 @@
 "LatLong": "40.8712,34.6278"
 }
 ]
+}
+]
 },
 {
 "Name": "Ortaköy",
 "Code": "8631999",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İncesu",
@@ -37427,10 +38148,14 @@
 "LatLong": "40.2712,35.1216"
 }
 ]
+}
+]
 },
 {
 "Name": "Mecitözü",
 "Code": "8632000",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beyözü",
@@ -37708,10 +38433,14 @@
 "LatLong": "40.5246,35.4358"
 }
 ]
+}
+]
 },
 {
 "Name": "Laçin",
 "Code": "8632021",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kuyumcu",
@@ -37784,10 +38513,14 @@
 "LatLong": "40.7505,35.0062"
 }
 ]
+}
+]
 },
 {
 "Name": "Boğazkale",
 "Code": "8632024",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yukarifindikli",
@@ -37865,10 +38598,14 @@
 "LatLong": "40.0511,34.6064"
 }
 ]
+}
+]
 },
 {
 "Name": "Alaca",
 "Code": "8632025",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Küçükhirka",
@@ -38351,10 +39088,14 @@
 "LatLong": "40.0449,34.7991"
 }
 ]
+}
+]
 },
 {
 "Name": "Uğurludağ",
 "Code": "8632026",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yarimca",
@@ -38457,10 +39198,14 @@
 "LatLong": "40.4047,34.3376"
 }
 ]
+}
+]
 },
 {
 "Name": "Bayat",
 "Code": "8632027",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hacibayram",
@@ -38658,10 +39403,14 @@
 "LatLong": "40.7518,34.1516"
 }
 ]
+}
+]
 },
 {
 "Name": "İskilip",
 "Code": "8632028",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karlik",
@@ -38989,9 +39738,13 @@
 "LatLong": "40.839,34.4739"
 }
 ]
+}
+]
 },
 {
 "Name": "Çorum",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Örencik",
@@ -40019,9 +40772,13 @@
 "LatLong": "40.539,34.7116"
 }
 ]
+}
+]
 },
 {
 "Name": "Oğuzlar(Karaören)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karaören",
@@ -40064,9 +40821,13 @@
 "LatLong": "40.8103,34.6322"
 }
 ]
+}
+]
 },
 {
 "Name": "Osmancik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İnal",
@@ -40349,9 +41110,13 @@
 "LatLong": "40.9138,34.887"
 }
 ]
+}
+]
 },
 {
 "Name": "Kargi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bayat",
@@ -40651,6 +41416,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Denizli",
@@ -40659,6 +41426,8 @@
 {
 "Name": "Çardak",
 "Code": "7732353",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çalti",
@@ -40701,10 +41470,14 @@
 "LatLong": "37.6977,29.6426"
 }
 ]
+}
+]
 },
 {
 "Name": "Honaz",
 "Code": "7732360",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kaklik",
@@ -40797,10 +41570,14 @@
 "LatLong": "37.7739,29.3355"
 }
 ]
+}
+]
 },
 {
 "Name": "Sarayköy",
 "Code": "7732660",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sazak",
@@ -40933,10 +41710,14 @@
 "LatLong": "37.9,28.952"
 }
 ]
+}
+]
 },
 {
 "Name": "Çivril",
 "Code": "8632190",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tokça",
@@ -41284,10 +42065,14 @@
 "LatLong": "38.1356,29.6469"
 }
 ]
+}
+]
 },
 {
 "Name": "Beyağaç",
 "Code": "8632192",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sazak",
@@ -41330,10 +42115,14 @@
 "LatLong": "37.2643,28.8802"
 }
 ]
+}
+]
 },
 {
 "Name": "Çameli",
 "Code": "8632194",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cumaalani",
@@ -41471,10 +42260,14 @@
 "LatLong": "37.1073,29.302"
 }
 ]
+}
+]
 },
 {
 "Name": "Güney",
 "Code": "8632195",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Koparan",
@@ -41567,10 +42360,14 @@
 "LatLong": "38.1181,29.0489"
 }
 ]
+}
+]
 },
 {
 "Name": "Bekilli",
 "Code": "8632197",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çamköy",
@@ -41638,10 +42435,14 @@
 "LatLong": "38.2789,29.3542"
 }
 ]
+}
+]
 },
 {
 "Name": "Çal",
 "Code": "8632198",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yazir",
@@ -41804,10 +42605,14 @@
 "LatLong": "38.1,29.4"
 }
 ]
+}
+]
 },
 {
 "Name": "Baklan",
 "Code": "8632200",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dağal",
@@ -41860,10 +42665,14 @@
 "LatLong": "37.9351,29.5497"
 }
 ]
+}
+]
 },
 {
 "Name": "Bozkurt",
 "Code": "8632201",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çambaşi",
@@ -41941,10 +42750,14 @@
 "LatLong": "37.7114,29.5789"
 }
 ]
+}
+]
 },
 {
 "Name": "Babadağ",
 "Code": "8632205",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kelleci",
@@ -41997,10 +42810,14 @@
 "LatLong": "37.8322,28.87"
 }
 ]
+}
+]
 },
 {
 "Name": "Kale",
 "Code": "8632207",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kirköy",
@@ -42133,10 +42950,14 @@
 "LatLong": "37.4983,28.8383"
 }
 ]
+}
+]
 },
 {
 "Name": "Tavas",
 "Code": "8632208",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yeşilköy",
@@ -42389,10 +43210,14 @@
 "LatLong": "37.6134,28.9576"
 }
 ]
+}
+]
 },
 {
 "Name": "Serinhisar",
 "Code": "8632210",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ayaz",
@@ -42420,10 +43245,14 @@
 "LatLong": "37.5608,29.3928"
 }
 ]
+}
+]
 },
 {
 "Name": "Buldan",
 "Code": "8632211",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dimbazlar",
@@ -42576,10 +43405,14 @@
 "LatLong": "38.0431,28.9436"
 }
 ]
+}
+]
 },
 {
 "Name": "Merkezefendi",
 "Code": "9538816",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saraylar",
@@ -42617,9 +43450,13 @@
 "LatLong": "37.8031,29.2811"
 }
 ]
+}
+]
 },
 {
 "Name": "Pamukkale",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İstiklal",
@@ -42652,9 +43489,13 @@
 "LatLong": "37.9569,29.0781"
 }
 ]
+}
+]
 },
 {
 "Name": "Acipayam",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karahüyük",
@@ -42919,6 +43760,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Diyarbakir",
@@ -42927,6 +43770,8 @@
 {
 "Name": "Bismil",
 "Code": "439825",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Erler",
@@ -43499,10 +44344,14 @@
 "LatLong": "37.7705,40.8455"
 }
 ]
+}
+]
 },
 {
 "Name": "Hazro",
 "Code": "8630827",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dadaş",
@@ -43630,10 +44479,14 @@
 "LatLong": "38.196,40.8436"
 }
 ]
+}
+]
 },
 {
 "Name": "Dicle",
 "Code": "8630828",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ariköy",
@@ -43836,10 +44689,14 @@
 "LatLong": "38.4184,40.2006"
 }
 ]
+}
+]
 },
 {
 "Name": "Çermik",
 "Code": "8630829",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Petekkaya",
@@ -44097,10 +44954,14 @@
 "LatLong": "38.0438,39.2858"
 }
 ]
+}
+]
 },
 {
 "Name": "Ergani",
 "Code": "8630830",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ortayazi",
@@ -44553,10 +45414,14 @@
 "LatLong": "38.3609,39.8119"
 }
 ]
+}
+]
 },
 {
 "Name": "Silvan",
 "Code": "8630831",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Üçbasamak",
@@ -44804,10 +45669,14 @@
 "LatLong": "38.2364,40.9425"
 }
 ]
+}
+]
 },
 {
 "Name": "Lice",
 "Code": "8630832",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saydamli",
@@ -45095,10 +45964,14 @@
 "LatLong": "38.4397,40.6628"
 }
 ]
+}
+]
 },
 {
 "Name": "Kocaköy",
 "Code": "8630833",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Günalan",
@@ -45161,10 +46034,14 @@
 "LatLong": "38.3258,40.4672"
 }
 ]
+}
+]
 },
 {
 "Name": "Hani",
 "Code": "8630834",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Topçular",
@@ -45282,10 +46159,14 @@
 "LatLong": "38.3996,40.3923"
 }
 ]
+}
+]
 },
 {
 "Name": "Eğil",
 "Code": "8630835",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Taşdam",
@@ -45413,10 +46294,14 @@
 "LatLong": "38.1979,40.1688"
 }
 ]
+}
+]
 },
 {
 "Name": "Çüngüş",
 "Code": "8630836",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Malkaya",
@@ -45609,10 +46494,14 @@
 "LatLong": "38.2073,39.3884"
 }
 ]
+}
+]
 },
 {
 "Name": "Kulp",
 "Code": "8630837",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Özbek",
@@ -45870,10 +46759,14 @@
 "LatLong": "38.4833,41.15"
 }
 ]
+}
+]
 },
 {
 "Name": "Bağlar",
 "Code": "9565135",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karahanköy",
@@ -45941,10 +46834,14 @@
 "LatLong": "37.9995,40.0008"
 }
 ]
+}
+]
 },
 {
 "Name": "Yenişehir",
 "Code": "9565316",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arpaderesi",
@@ -46012,10 +46909,14 @@
 "LatLong": "37.9432,39.9778"
 }
 ]
+}
+]
 },
 {
 "Name": "Sur",
 "Code": "9565377",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Balikçilarbaşi",
@@ -46108,9 +47009,13 @@
 "LatLong": "37.9868,40.3754"
 }
 ]
+}
+]
 },
 {
 "Name": "Kayapinar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kayapinar",
@@ -46203,9 +47108,13 @@
 "LatLong": "38.0071,39.9305"
 }
 ]
+}
+]
 },
 {
 "Name": "Çinar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Avdali",
@@ -46640,6 +47549,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Edirne",
@@ -46648,6 +47559,8 @@
 {
 "Name": "Uzunköprü",
 "Code": "8632568",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Uzunköprü",
@@ -46935,10 +47848,14 @@
 "LatLong": "41.2636,26.7969"
 }
 ]
+}
+]
 },
 {
 "Name": "Havsa",
 "Code": "8632571",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Havsa",
@@ -47056,10 +47973,14 @@
 "LatLong": "41.5167,26.95"
 }
 ]
+}
+]
 },
 {
 "Name": "Meriç",
 "Code": "8632572",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Meriç",
@@ -47182,10 +48103,14 @@
 "LatLong": "41.1736,26.355"
 }
 ]
+}
+]
 },
 {
 "Name": "İpsala",
 "Code": "8632573",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İpsala",
@@ -47303,10 +48228,14 @@
 "LatLong": "40.9335,26.4642"
 }
 ]
+}
+]
 },
 {
 "Name": "Keşan",
 "Code": "8632574",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Keşan",
@@ -47559,10 +48488,14 @@
 "LatLong": "41.8836,26.7335"
 }
 ]
+}
+]
 },
 {
 "Name": "Enez",
 "Code": "8632575",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Enez",
@@ -47665,9 +48598,13 @@
 "LatLong": "40.6419,26.2569"
 }
 ]
+}
+]
 },
 {
 "Name": "Edirne",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Londraasfalti",
@@ -47875,9 +48812,13 @@
 "LatLong": "40.6756,26.2307"
 }
 ]
+}
+]
 },
 {
 "Name": "Süloğlu(Süleoğlu)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Süleoğlu",
@@ -47935,9 +48876,13 @@
 "LatLong": "41.8142,26.8215"
 }
 ]
+}
+]
 },
 {
 "Name": "Lalapaşa",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lalapaşa",
@@ -48082,6 +49027,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Elaziğ",
@@ -48090,6 +49037,8 @@
 {
 "Name": "Karakoçan",
 "Code": "6544214",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Okçular",
@@ -48427,10 +49376,14 @@
 "LatLong": "38.9376,39.9965"
 }
 ]
+}
+]
 },
 {
 "Name": "Baskil",
 "Code": "8631561",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kuşsarayi",
@@ -48748,10 +49701,14 @@
 "LatLong": "38.5497,38.7168"
 }
 ]
+}
+]
 },
 {
 "Name": "Sivrice",
 "Code": "8631563",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yedikardeş",
@@ -49009,10 +49966,14 @@
 "LatLong": "38.4972,39.1296"
 }
 ]
+}
+]
 },
 {
 "Name": "Maden",
 "Code": "8631564",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Küçükova",
@@ -49270,10 +50231,14 @@
 "LatLong": "38.4513,39.6266"
 }
 ]
+}
+]
 },
 {
 "Name": "Alacakaya",
 "Code": "8631566",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alacakaya",
@@ -49341,10 +50306,14 @@
 "LatLong": "38.4617,39.7899"
 }
 ]
+}
+]
 },
 {
 "Name": "Palu",
 "Code": "8631570",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çevrecik",
@@ -49602,10 +50571,14 @@
 "LatLong": "38.7275,40.1248"
 }
 ]
+}
+]
 },
 {
 "Name": "Keban",
 "Code": "8631574",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dürümlü",
@@ -49763,9 +50736,13 @@
 "LatLong": "38.7521,38.7516"
 }
 ]
+}
+]
 },
 {
 "Name": "Elaziğ",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sürsürü",
@@ -50523,9 +51500,13 @@
 "LatLong": "38.7,39.3167"
 }
 ]
+}
+]
 },
 {
 "Name": "Aricak",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aricak",
@@ -50603,9 +51584,13 @@
 "LatLong": "38.4681,40.1725"
 }
 ]
+}
+]
 },
 {
 "Name": "Kovancilar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bayramyazi",
@@ -50993,9 +51978,13 @@
 "LatLong": "38.7545,39.8218"
 }
 ]
+}
+]
 },
 {
 "Name": "Ağin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yedibağ",
@@ -51085,6 +52074,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Erzincan",
@@ -51093,6 +52084,8 @@
 {
 "Name": "Otlukbeli",
 "Code": "8631584",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Otlukbeli",
@@ -51150,10 +52143,14 @@
 "LatLong": "39.9872,40.0566"
 }
 ]
+}
+]
 },
 {
 "Name": "Tercan",
 "Code": "8631605",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beşkaya",
@@ -51551,10 +52548,14 @@
 "LatLong": "39.6669,40.1953"
 }
 ]
+}
+]
 },
 {
 "Name": "Üzümlü",
 "Code": "8631606",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Demirpinar",
@@ -51692,10 +52693,14 @@
 "LatLong": "39.6654,39.675"
 }
 ]
+}
+]
 },
 {
 "Name": "Kemaliye",
 "Code": "8631607",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gözaydin",
@@ -52013,10 +53018,14 @@
 "LatLong": "39.147,38.5937"
 }
 ]
+}
+]
 },
 {
 "Name": "Refahiye",
 "Code": "8631609",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Avşarözü",
@@ -52149,10 +53158,14 @@
 "LatLong": "39.8949,38.806"
 }
 ]
+}
+]
 },
 {
 "Name": "Kemah",
 "Code": "8631610",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Doğan",
@@ -52525,9 +53538,13 @@
 "LatLong": "39.6229,39.3952"
 }
 ]
+}
+]
 },
 {
 "Name": "Erzincan",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yaylabaşi",
@@ -52850,9 +53867,13 @@
 "LatLong": "39.7404,39.4577"
 }
 ]
+}
+]
 },
 {
 "Name": "Çayirli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çayirli",
@@ -53100,9 +54121,13 @@
 "LatLong": "39.9269,40.1148"
 }
 ]
+}
+]
 },
 {
 "Name": "Iliç(İliç)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İliç",
@@ -53402,6 +54427,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Erzurum",
@@ -53410,6 +54437,8 @@
 {
 "Name": "Şenkaya",
 "Code": "8631373",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Timurkişla",
@@ -53807,10 +54836,14 @@
 "LatLong": "40.4689,42.2208"
 }
 ]
+}
+]
 },
 {
 "Name": "Olur",
 "Code": "8631375",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Şalpazari",
@@ -54018,10 +55051,14 @@
 "LatLong": "40.8497,42.1203"
 }
 ]
+}
+]
 },
 {
 "Name": "Horasan",
 "Code": "8631376",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kemerli",
@@ -54414,10 +55451,14 @@
 "LatLong": "40.0255,42.1847"
 }
 ]
+}
+]
 },
 {
 "Name": "Narman",
 "Code": "8631377",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gökdağ",
@@ -54640,10 +55681,14 @@
 "LatLong": "40.3115,41.9262"
 }
 ]
+}
+]
 },
 {
 "Name": "Uzundere",
 "Code": "8631378",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Balikli",
@@ -54701,10 +55746,14 @@
 "LatLong": "40.6189,41.5425"
 }
 ]
+}
+]
 },
 {
 "Name": "Köprüköy",
 "Code": "8631379",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Savatli",
@@ -54852,10 +55901,14 @@
 "LatLong": "39.9424,41.9064"
 }
 ]
+}
+]
 },
 {
 "Name": "Tortum",
 "Code": "8631380",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ziyaret",
@@ -55108,10 +56161,14 @@
 "LatLong": "40.5109,41.4883"
 }
 ]
+}
+]
 },
 {
 "Name": "Oltu",
 "Code": "8631381",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ayvali",
@@ -55444,10 +56501,14 @@
 "LatLong": "40.4333,42.0667"
 }
 ]
+}
+]
 },
 {
 "Name": "Pasinler",
 "Code": "8631382",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tepecik",
@@ -55740,10 +56801,14 @@
 "LatLong": "40.0739,41.7408"
 }
 ]
+}
+]
 },
 {
 "Name": "Tekman",
 "Code": "8631384",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yücepinar",
@@ -56081,10 +57146,14 @@
 "LatLong": "39.4667,41.2667"
 }
 ]
+}
+]
 },
 {
 "Name": "Karaçoban",
 "Code": "8631388",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Erenler",
@@ -56192,10 +57261,14 @@
 "LatLong": "39.363,42.1615"
 }
 ]
+}
+]
 },
 {
 "Name": "Çat",
 "Code": "8631389",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sarikaya",
@@ -56418,10 +57491,14 @@
 "LatLong": "39.6458,40.8081"
 }
 ]
+}
+]
 },
 {
 "Name": "Aşkale",
 "Code": "8631390",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saribaba",
@@ -56759,10 +57836,14 @@
 "LatLong": "39.7429,41.8552"
 }
 ]
+}
+]
 },
 {
 "Name": "Pazaryolu",
 "Code": "8631391",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Laleli",
@@ -56945,10 +58026,14 @@
 "LatLong": "40.42,40.6792"
 }
 ]
+}
+]
 },
 {
 "Name": "İspir",
 "Code": "8631392",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pinarli",
@@ -57401,10 +58486,14 @@
 "LatLong": "40.4573,40.8521"
 }
 ]
+}
+]
 },
 {
 "Name": "Yakutiye",
 "Code": "9538819",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Söğütyani",
@@ -57507,10 +58596,14 @@
 "LatLong": "40.0671,41.592"
 }
 ]
+}
+]
 },
 {
 "Name": "Palandöken",
 "Code": "9565016",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dumlu",
@@ -57538,9 +58631,13 @@
 "LatLong": "40.0886,41.3617"
 }
 ]
+}
+]
 },
 {
 "Name": "Hinis",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Elmadali",
@@ -57973,9 +59070,13 @@
 "LatLong": "39.4733,41.7682"
 }
 ]
+}
+]
 },
 {
 "Name": "Aziziye(Ilica)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sorkunlu",
@@ -58243,9 +59344,13 @@
 "LatLong": "40.218,41.097"
 }
 ]
+}
+]
 },
 {
 "Name": "Karayazi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karayazi",
@@ -58625,6 +59730,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Eskişehir",
@@ -58633,6 +59740,8 @@
 {
 "Name": "Günyüzü",
 "Code": "8632480",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Günyüzü",
@@ -58725,10 +59834,14 @@
 "LatLong": "39.3288,31.8259"
 }
 ]
+}
+]
 },
 {
 "Name": "Sivrihisar",
 "Code": "8632481",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Buhara",
@@ -59061,10 +60174,14 @@
 "LatLong": "39.5173,31.6571"
 }
 ]
+}
+]
 },
 {
 "Name": "Beylikova",
 "Code": "8632483",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Doğanoğlu",
@@ -59177,10 +60294,14 @@
 "LatLong": "39.7992,31.3196"
 }
 ]
+}
+]
 },
 {
 "Name": "Alpu",
 "Code": "8632484",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aktepe",
@@ -59333,10 +60454,14 @@
 "LatLong": "39.7881,31.1017"
 }
 ]
+}
+]
 },
 {
 "Name": "Mihalgazi",
 "Code": "8632486",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alpagut",
@@ -59369,10 +60494,14 @@
 "LatLong": "40.0195,30.5723"
 }
 ]
+}
+]
 },
 {
 "Name": "İnönü",
 "Code": "8632487",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İnönü",
@@ -59440,10 +60569,14 @@
 "LatLong": "39.7417,30.1049"
 }
 ]
+}
+]
 },
 {
 "Name": "Han",
 "Code": "8632488",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akhisar",
@@ -59506,10 +60639,14 @@
 "LatLong": "39.2272,30.8797"
 }
 ]
+}
+]
 },
 {
 "Name": "Seyitgazi",
 "Code": "8632489",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beşsaray",
@@ -59752,10 +60889,14 @@
 "LatLong": "39.2831,30.5719"
 }
 ]
+}
+]
 },
 {
 "Name": "Mahmudiye",
 "Code": "8632490",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akyurt",
@@ -59838,10 +60979,14 @@
 "LatLong": "39.6075,30.8389"
 }
 ]
+}
+]
 },
 {
 "Name": "Çifteler",
 "Code": "8632491",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Körhasan",
@@ -59959,9 +61104,13 @@
 "LatLong": "39.3458,30.8675"
 }
 ]
+}
+]
 },
 {
 "Name": "Odunpazari",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yukariçağlan",
@@ -60254,9 +61403,13 @@
 "LatLong": "39.7686,30.7908"
 }
 ]
+}
+]
 },
 {
 "Name": "Tepebaşi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bektaşpinari",
@@ -60529,9 +61682,13 @@
 "LatLong": "39.8268,30.6852"
 }
 ]
+}
+]
 },
 {
 "Name": "Saricakaya",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beyyayla",
@@ -60584,9 +61741,13 @@
 "LatLong": "40.0476,30.6428"
 }
 ]
+}
+]
 },
 {
 "Name": "Mihaliççik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sarayköy",
@@ -60851,6 +62012,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Giresun",
@@ -60859,6 +62022,8 @@
 {
 "Name": "Dereli",
 "Code": "7911037",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tamdere",
@@ -61046,10 +62211,14 @@
 "LatLong": "40.6865,38.4112"
 }
 ]
+}
+]
 },
 {
 "Name": "Güce",
 "Code": "8631620",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sariyar",
@@ -61132,10 +62301,14 @@
 "LatLong": "40.8192,38.7931"
 }
 ]
+}
+]
 },
 {
 "Name": "Doğankent",
 "Code": "8631621",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çatalağaç",
@@ -61188,10 +62361,14 @@
 "LatLong": "40.792,38.9291"
 }
 ]
+}
+]
 },
 {
 "Name": "Görele",
 "Code": "8631622",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yaliköy",
@@ -61454,10 +62631,14 @@
 "LatLong": "41.039,39.0773"
 }
 ]
+}
+]
 },
 {
 "Name": "Eynesil",
 "Code": "8631623",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kösemen",
@@ -61530,10 +62711,14 @@
 "LatLong": "41.0432,39.1489"
 }
 ]
+}
+]
 },
 {
 "Name": "Espiye",
 "Code": "8631624",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Avluca",
@@ -61691,10 +62876,14 @@
 "LatLong": "40.852,38.7218"
 }
 ]
+}
+]
 },
 {
 "Name": "Şebinkarahisar",
 "Code": "8631626",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karaağaç",
@@ -62007,10 +63196,14 @@
 "LatLong": "40.2856,38.2662"
 }
 ]
+}
+]
 },
 {
 "Name": "Bulancak",
 "Code": "8631628",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bulancak",
@@ -62338,10 +63531,14 @@
 "LatLong": "40.8177,38.2289"
 }
 ]
+}
+]
 },
 {
 "Name": "Piraziz",
 "Code": "8631629",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Şerefli",
@@ -62439,10 +63636,14 @@
 "LatLong": "40.8392,38.09"
 }
 ]
+}
+]
 },
 {
 "Name": "Alucra",
 "Code": "8631630",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İğdecik",
@@ -62640,10 +63841,14 @@
 "LatLong": "40.3978,38.8136"
 }
 ]
+}
+]
 },
 {
 "Name": "Çamoluk",
 "Code": "8631631",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bayirli",
@@ -62786,10 +63991,14 @@
 "LatLong": "40.146,38.8219"
 }
 ]
+}
+]
 },
 {
 "Name": "Tirebolu",
 "Code": "9540843",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Civil",
@@ -63047,10 +64256,14 @@
 "LatLong": "40.9363,38.8379"
 }
 ]
+}
+]
 },
 {
 "Name": "Keşap",
 "Code": "9541080",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saraycik",
@@ -63283,9 +64496,13 @@
 "LatLong": "40.8782,38.5496"
 }
 ]
+}
+]
 },
 {
 "Name": "Giresun",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Orhaniye",
@@ -63563,9 +64780,13 @@
 "LatLong": "40.7102,38.6139"
 }
 ]
+}
+]
 },
 {
 "Name": "Yağlidere",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akköy",
@@ -63708,9 +64929,13 @@
 "LatLong": "40.7686,38.6198"
 }
 ]
+}
+]
 },
 {
 "Name": "Çanakçi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kuşköy",
@@ -63790,6 +65015,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Hatay",
@@ -63798,6 +65025,8 @@
 {
 "Name": "Erzin",
 "Code": "436926",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gökgöl",
@@ -63855,10 +65084,14 @@
 "LatLong": "36.9514,36.2025"
 }
 ]
+}
+]
 },
 {
 "Name": "Dörtyol",
 "Code": "436927",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karakese",
@@ -63916,10 +65149,14 @@
 "LatLong": "36.9167,36.2"
 }
 ]
+}
+]
 },
 {
 "Name": "Hassa",
 "Code": "436928",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Koruhüyüğü",
@@ -64082,10 +65319,14 @@
 "LatLong": "36.8561,36.5177"
 }
 ]
+}
+]
 },
 {
 "Name": "Kumlu",
 "Code": "437215",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aktaş",
@@ -64158,10 +65399,14 @@
 "LatLong": "36.3864,36.468"
 }
 ]
+}
+]
 },
 {
 "Name": "İskenderun",
 "Code": "437928",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İskenderun",
@@ -64294,10 +65539,14 @@
 "LatLong": "36.4726,36.1886"
 }
 ]
+}
+]
 },
 {
 "Name": "Belen",
 "Code": "437930",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kici",
@@ -64360,10 +65609,14 @@
 "LatLong": "36.4874,36.1558"
 }
 ]
+}
+]
 },
 {
 "Name": "Antakya",
 "Code": "438417",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Merkezköy",
@@ -64436,10 +65689,14 @@
 "LatLong": "36.2313,36.1899"
 }
 ]
+}
+]
 },
 {
 "Name": "Samandağ",
 "Code": "9541203",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Değirmenbaşi",
@@ -64612,10 +65869,14 @@
 "LatLong": "36.1236,36.0053"
 }
 ]
+}
+]
 },
 {
 "Name": "Defne",
 "Code": "9541389",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Harbiye",
@@ -64658,10 +65919,14 @@
 "LatLong": "36.1454,36.0943"
 }
 ]
+}
+]
 },
 {
 "Name": "Payas",
 "Code": "9541486",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Payas",
@@ -64674,10 +65939,14 @@
 "LatLong": "36.7576,36.2159"
 }
 ]
+}
+]
 },
 {
 "Name": "Arsuz",
 "Code": "9541531",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akçali",
@@ -64710,9 +65979,13 @@
 "LatLong": "36.5702,36.1508"
 }
 ]
+}
+]
 },
 {
 "Name": "Yayladaği",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Şenköy",
@@ -64745,9 +66018,13 @@
 "LatLong": "35.9644,36.1592"
 }
 ]
+}
+]
 },
 {
 "Name": "Kirikhan",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İncirli",
@@ -65040,9 +66317,13 @@
 "LatLong": "36.4868,36.299"
 }
 ]
+}
+]
 },
 {
 "Name": "Reyhanli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alakuzu",
@@ -65205,9 +66486,13 @@
 "LatLong": "36.351,36.484"
 }
 ]
+}
+]
 },
 {
 "Name": "Altinözü",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alakent",
@@ -65447,6 +66732,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Mersin(İçel)",
@@ -65455,6 +66742,8 @@
 {
 "Name": "Tarsus",
 "Code": "7732939",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alibeyli",
@@ -66122,10 +67411,14 @@
 "LatLong": "37.2,34.8"
 }
 ]
+}
+]
 },
 {
 "Name": "Mut",
 "Code": "7910604",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kavakli",
@@ -66583,10 +67876,14 @@
 "LatLong": "36.6997,33.3598"
 }
 ]
+}
+]
 },
 {
 "Name": "Mezitli",
 "Code": "8632142",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mezitli",
@@ -66694,10 +67991,14 @@
 "LatLong": "36.7277,34.4767"
 }
 ]
+}
+]
 },
 {
 "Name": "Anamur",
 "Code": "8632146",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Anamur",
@@ -66910,10 +68211,14 @@
 "LatLong": "36.2019,32.8639"
 }
 ]
+}
+]
 },
 {
 "Name": "Silifke",
 "Code": "8632148",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Işikli",
@@ -67301,10 +68606,14 @@
 "LatLong": "36.4631,33.8272"
 }
 ]
+}
+]
 },
 {
 "Name": "Erdemli",
 "Code": "8632149",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Erdemli",
@@ -67612,10 +68921,14 @@
 "LatLong": "36.4914,33.8626"
 }
 ]
+}
+]
 },
 {
 "Name": "Yenişehir",
 "Code": "9542118",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İnsu",
@@ -67693,10 +69006,14 @@
 "LatLong": "36.8756,34.6199"
 }
 ]
+}
+]
 },
 {
 "Name": "Toroslar",
 "Code": "9542263",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sağlik",
@@ -67899,10 +69216,14 @@
 "LatLong": "36.9953,34.5731"
 }
 ]
+}
+]
 },
 {
 "Name": "Akdeniz",
 "Code": "9542422",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bariş",
@@ -68035,9 +69356,13 @@
 "LatLong": "36.8948,34.6651"
 }
 ]
+}
+]
 },
 {
 "Name": "Çamliyayla",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Daripinari",
@@ -68100,9 +69425,13 @@
 "LatLong": "37.1291,34.5624"
 }
 ]
+}
+]
 },
 {
 "Name": "Gülnar (Gülpinar)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yanişli",
@@ -68365,9 +69694,13 @@
 "LatLong": "36.4446,33.529"
 }
 ]
+}
+]
 },
 {
 "Name": "Bozyazi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bozyazi",
@@ -68390,9 +69723,13 @@
 "LatLong": "36.1126,33.0926"
 }
 ]
+}
+]
 },
 {
 "Name": "Aydincik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aydincik",
@@ -68497,6 +69834,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Isparta",
@@ -68505,6 +69844,8 @@
 {
 "Name": "Yenişarbademli",
 "Code": "8632170",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yenişarbademli",
@@ -68517,10 +69858,14 @@
 "LatLong": "37.7067,31.4275"
 }
 ]
+}
+]
 },
 {
 "Name": "Sütçüler",
 "Code": "8632172",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Şeyhler",
@@ -68678,10 +70023,14 @@
 "LatLong": "37.5289,31.0452"
 }
 ]
+}
+]
 },
 {
 "Name": "Aksu",
 "Code": "8632173",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Koçular",
@@ -68754,10 +70103,14 @@
 "LatLong": "37.8054,31.1272"
 }
 ]
+}
+]
 },
 {
 "Name": "Keçiborlu",
 "Code": "8632175",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kozluca",
@@ -68840,10 +70193,14 @@
 "LatLong": "37.9031,30.3659"
 }
 ]
+}
+]
 },
 {
 "Name": "Uluborlu",
 "Code": "8632176",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Küçükkabaca",
@@ -68871,10 +70228,14 @@
 "LatLong": "38.0528,30.3848"
 }
 ]
+}
+]
 },
 {
 "Name": "Senirkent",
 "Code": "8632178",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Uluğbey",
@@ -68922,10 +70283,14 @@
 "LatLong": "38.1728,30.6419"
 }
 ]
+}
+]
 },
 {
 "Name": "Gönen",
 "Code": "8632179",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kizilcik",
@@ -68968,10 +70333,14 @@
 "LatLong": "37.9341,30.4635"
 }
 ]
+}
+]
 },
 {
 "Name": "Eğirdir",
 "Code": "8632180",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eyüpler",
@@ -69124,10 +70493,14 @@
 "LatLong": "37.9434,31.0073"
 }
 ]
+}
+]
 },
 {
 "Name": "Atabey",
 "Code": "8632181",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Penbeli",
@@ -69160,10 +70533,14 @@
 "LatLong": "37.9375,30.6793"
 }
 ]
+}
+]
 },
 {
 "Name": "Gelendost",
 "Code": "8632182",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gelendost",
@@ -69236,10 +70613,14 @@
 "LatLong": "37.8448,31.4149"
 }
 ]
+}
+]
 },
 {
 "Name": "Yalvaç",
 "Code": "8632184",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kumdanli",
@@ -69437,9 +70818,13 @@
 "LatLong": "38.2378,31.1247"
 }
 ]
+}
+]
 },
 {
 "Name": "Isparta",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Küçükhacilar",
@@ -69572,9 +70957,13 @@
 "LatLong": "37.9193,30.9924"
 }
 ]
+}
+]
 },
 {
 "Name": "Şarkikaraağaç",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gedikli",
@@ -69724,6 +71113,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "İstanbul",
@@ -69732,6 +71123,8 @@
 {
 "Name": "Büyükçekmece",
 "Code": "7732455",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Büyükçekmece",
@@ -69764,10 +71157,14 @@
 "LatLong": "41.1171,28.08"
 }
 ]
+}
+]
 },
 {
 "Name": "Bahçelievler",
 "Code": "7732457",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bahçelievler",
@@ -69815,10 +71212,14 @@
 "LatLong": "40.9992,28.8343"
 }
 ]
+}
+]
 },
 {
 "Name": "Bayrampaşa",
 "Code": "7732459",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Altintepsi",
@@ -69841,10 +71242,14 @@
 "LatLong": "41.0585,28.9296"
 }
 ]
+}
+]
 },
 {
 "Name": "Beyoğlu",
 "Code": "7732462",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arapcami",
@@ -69892,10 +71297,14 @@
 "LatLong": "41.0483,28.9521"
 }
 ]
+}
+]
 },
 {
 "Name": "Çatalca",
 "Code": "7732464",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çatalca",
@@ -69928,10 +71337,14 @@
 "LatLong": "41.3416,28.4077"
 }
 ]
+}
+]
 },
 {
 "Name": "Esenler",
 "Code": "7732467",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Esenler",
@@ -69954,10 +71367,14 @@
 "LatLong": "41.0444,28.8795"
 }
 ]
+}
+]
 },
 {
 "Name": "Eyüp",
 "Code": "7732469",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eyüp",
@@ -70000,10 +71417,14 @@
 "LatLong": "41.1817,28.8906"
 }
 ]
+}
+]
 },
 {
 "Name": "Gaziosmanpaşa",
 "Code": "7732471",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yildiztabya",
@@ -70026,10 +71447,14 @@
 "LatLong": "41.0823,28.8895"
 }
 ]
+}
+]
 },
 {
 "Name": "Güngören",
 "Code": "7732474",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akincilar",
@@ -70052,10 +71477,14 @@
 "LatLong": "41.0034,28.936"
 }
 ]
+}
+]
 },
 {
 "Name": "Kartal",
 "Code": "7732506",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kartal",
@@ -70098,10 +71527,14 @@
 "LatLong": "40.9167,29.2"
 }
 ]
+}
+]
 },
 {
 "Name": "Küçükçekmece",
 "Code": "7732569",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Küçükçekmece",
@@ -70124,10 +71557,14 @@
 "LatLong": "41.0367,28.7894"
 }
 ]
+}
+]
 },
 {
 "Name": "Pendik",
 "Code": "7732579",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çarşi",
@@ -70175,10 +71612,14 @@
 "LatLong": "40.946,29.2063"
 }
 ]
+}
+]
 },
 {
 "Name": "Silivri",
 "Code": "7732582",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Silivri",
@@ -70201,10 +71642,14 @@
 "LatLong": "41.0545,28.3668"
 }
 ]
+}
+]
 },
 {
 "Name": "Sultanbeyli",
 "Code": "7732583",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mehmetakif",
@@ -70227,10 +71672,14 @@
 "LatLong": "41.0179,28.5618"
 }
 ]
+}
+]
 },
 {
 "Name": "Tuzla",
 "Code": "7732587",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İstasyon",
@@ -70268,10 +71717,14 @@
 "LatLong": "40.9259,29.417"
 }
 ]
+}
+]
 },
 {
 "Name": "Ümraniye",
 "Code": "7732588",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Atakent",
@@ -70324,10 +71777,14 @@
 "LatLong": "41.0183,29.1653"
 }
 ]
+}
+]
 },
 {
 "Name": "Üsküdar",
 "Code": "7732589",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Acibadem",
@@ -70410,10 +71867,14 @@
 "LatLong": "40.99,29.1354"
 }
 ]
+}
+]
 },
 {
 "Name": "Zeytinburnu",
 "Code": "7732593",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Topkapi",
@@ -70436,10 +71897,14 @@
 "LatLong": "41.0585,28.9296"
 }
 ]
+}
+]
 },
 {
 "Name": "Beşiktaş",
 "Code": "7733234",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Levent",
@@ -70492,10 +71957,14 @@
 "LatLong": "41.0641,28.9941"
 }
 ]
+}
+]
 },
 {
 "Name": "Beykoz",
 "Code": "7733235",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Paşabahçe",
@@ -70538,10 +72007,14 @@
 "LatLong": "41.0894,29.1383"
 }
 ]
+}
+]
 },
 {
 "Name": "Fatih",
 "Code": "7733237",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İskenderpaşa",
@@ -70629,10 +72102,14 @@
 "LatLong": "41.0041,28.964"
 }
 ]
+}
+]
 },
 {
 "Name": "Maltepe",
 "Code": "7733238",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Küçükyali",
@@ -70680,10 +72157,14 @@
 "LatLong": "40.9479,29.1512"
 }
 ]
+}
+]
 },
 {
 "Name": "Adalar",
 "Code": "8521527",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Büyükada",
@@ -70706,10 +72187,14 @@
 "LatLong": "40.9071,29.055"
 }
 ]
+}
+]
 },
 {
 "Name": "Arnavutköy",
 "Code": "8521528",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arnavutköy",
@@ -70752,10 +72237,14 @@
 "LatLong": "41.3034,28.6763"
 }
 ]
+}
+]
 },
 {
 "Name": "Ataşehir",
 "Code": "8521529",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Örnek",
@@ -70803,10 +72292,14 @@
 "LatLong": "40.9167,29.2"
 }
 ]
+}
+]
 },
 {
 "Name": "Başakşehir",
 "Code": "8521530",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Başakşehir",
@@ -70834,10 +72327,14 @@
 "LatLong": "41.0658,28.7358"
 }
 ]
+}
+]
 },
 {
 "Name": "Beylikdüzü",
 "Code": "8521531",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beylikdüzü",
@@ -70855,10 +72352,14 @@
 "LatLong": "41.0031,28.6537"
 }
 ]
+}
+]
 },
 {
 "Name": "Çekmeköy",
 "Code": "8521532",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çekmeköy",
@@ -70881,10 +72382,14 @@
 "LatLong": "41.0241,29.2464"
 }
 ]
+}
+]
 },
 {
 "Name": "Esenyurt",
 "Code": "8521533",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İncirtepe",
@@ -70917,10 +72422,14 @@
 "LatLong": "41.0228,28.5306"
 }
 ]
+}
+]
 },
 {
 "Name": "Sancaktepe",
 "Code": "8521534",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sarigazi",
@@ -70943,10 +72452,14 @@
 "LatLong": "40.9167,29.2"
 }
 ]
+}
+]
 },
 {
 "Name": "Sultangazi",
 "Code": "8521536",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zübeydehanim",
@@ -70964,10 +72477,14 @@
 "LatLong": "41.1065,28.8685"
 }
 ]
+}
+]
 },
 {
 "Name": "Şile",
 "Code": "8521537",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Şile",
@@ -70985,10 +72502,14 @@
 "LatLong": "41.1381,29.8567"
 }
 ]
+}
+]
 },
 {
 "Name": "Şişli",
 "Code": "8521538",
+"Communities": [
+{
 "Places": [
 {
 "Name": "19mayis",
@@ -71066,9 +72587,13 @@
 "LatLong": "41.0685,29.0059"
 }
 ]
+}
+]
 },
 {
 "Name": "Bakirköy",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zeytinlik",
@@ -71111,9 +72636,13 @@
 "LatLong": "40.9835,28.8503"
 }
 ]
+}
+]
 },
 {
 "Name": "Bağcilar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bağcilar",
@@ -71156,9 +72685,13 @@
 "LatLong": "41.0536,28.8256"
 }
 ]
+}
+]
 },
 {
 "Name": "Avcilar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Avcilar",
@@ -71181,9 +72714,13 @@
 "LatLong": "41.009,28.7101"
 }
 ]
+}
+]
 },
 {
 "Name": "Sariyer",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ayazağa",
@@ -71241,9 +72778,13 @@
 "LatLong": "41.1788,28.9921"
 }
 ]
+}
+]
 },
 {
 "Name": "Kağithane",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gürsel",
@@ -71286,9 +72827,13 @@
 "LatLong": "41.0941,28.9757"
 }
 ]
+}
+]
 },
 {
 "Name": "Kadiköy",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Caferağa",
@@ -71378,6 +72923,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "İzmir",
@@ -71386,6 +72933,8 @@
 {
 "Name": "Bornova",
 "Code": "7732711",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Atatürk",
@@ -71488,10 +73037,14 @@
 "LatLong": "38.3167,27.322"
 }
 ]
+}
+]
 },
 {
 "Name": "Aliağa",
 "Code": "7732712",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bozköy",
@@ -71599,10 +73152,14 @@
 "LatLong": "38.2417,27.4736"
 }
 ]
+}
+]
 },
 {
 "Name": "Çiğli",
 "Code": "7732714",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Egekent",
@@ -71630,10 +73187,14 @@
 "LatLong": "38.5332,27.0516"
 }
 ]
+}
+]
 },
 {
 "Name": "Bergama",
 "Code": "7732716",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karahidirli",
@@ -72226,10 +73787,14 @@
 "LatLong": "38.7158,27.4236"
 }
 ]
+}
+]
 },
 {
 "Name": "Buca",
 "Code": "7732718",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İşçievleri",
@@ -72277,10 +73842,14 @@
 "LatLong": "38.2342,26.9514"
 }
 ]
+}
+]
 },
 {
 "Name": "Gaziemir",
 "Code": "7732720",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gaziemir",
@@ -72298,10 +73867,14 @@
 "LatLong": "38.2342,26.9514"
 }
 ]
+}
+]
 },
 {
 "Name": "Kemalpaşa",
 "Code": "7732724",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vişneli",
@@ -72479,10 +74052,14 @@
 "LatLong": "38.4148,27.6356"
 }
 ]
+}
+]
 },
 {
 "Name": "Konak",
 "Code": "7732725",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yenişehir",
@@ -72545,10 +74122,14 @@
 "LatLong": "38.3833,27.1"
 }
 ]
+}
+]
 },
 {
 "Name": "Menemen",
 "Code": "7732727",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Süleymanli",
@@ -72691,10 +74272,14 @@
 "LatLong": "38.6868,27.0343"
 }
 ]
+}
+]
 },
 {
 "Name": "Seferihisar",
 "Code": "7732732",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kavakdere",
@@ -72757,10 +74342,14 @@
 "LatLong": "38.1067,26.959"
 }
 ]
+}
+]
 },
 {
 "Name": "Tire",
 "Code": "7732733",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tire",
@@ -73093,10 +74682,14 @@
 "LatLong": "38.096,27.9314"
 }
 ]
+}
+]
 },
 {
 "Name": "Beydağ",
 "Code": "7733239",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kurudere",
@@ -73209,10 +74802,14 @@
 "LatLong": "38.2034,27.8688"
 }
 ]
+}
+]
 },
 {
 "Name": "Ödemiş",
 "Code": "8632421",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Uzundere",
@@ -73760,10 +75357,14 @@
 "LatLong": "38.0875,27.9823"
 }
 ]
+}
+]
 },
 {
 "Name": "Kiraz",
 "Code": "8632422",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karaman",
@@ -74031,10 +75632,14 @@
 "LatLong": "38.2276,28.1976"
 }
 ]
+}
+]
 },
 {
 "Name": "Urla",
 "Code": "8632423",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Barbaros",
@@ -74112,10 +75717,14 @@
 "LatLong": "38.3621,26.6394"
 }
 ]
+}
+]
 },
 {
 "Name": "Selçuk",
 "Code": "8632426",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Selçuk",
@@ -74168,10 +75777,14 @@
 "LatLong": "38.015,27.4503"
 }
 ]
+}
+]
 },
 {
 "Name": "Çeşme",
 "Code": "8632427",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çeşme",
@@ -74204,10 +75817,14 @@
 "LatLong": "38.3195,26.4668"
 }
 ]
+}
+]
 },
 {
 "Name": "Karaburun",
 "Code": "8632428",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saip",
@@ -74280,10 +75897,14 @@
 "LatLong": "38.5201,26.5987"
 }
 ]
+}
+]
 },
 {
 "Name": "Foça",
 "Code": "8632429",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ilipinar",
@@ -74326,10 +75947,14 @@
 "LatLong": "38.7333,26.8333"
 }
 ]
+}
+]
 },
 {
 "Name": "Dikili",
 "Code": "8632430",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mazili",
@@ -74467,10 +76092,14 @@
 "LatLong": "38.9712,26.9294"
 }
 ]
+}
+]
 },
 {
 "Name": "Karabağlar",
 "Code": "9543231",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zincirlikuyu",
@@ -74513,10 +76142,14 @@
 "LatLong": "38.3722,27.107"
 }
 ]
+}
+]
 },
 {
 "Name": "Balçova",
 "Code": "9543301",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Balçova",
@@ -74524,10 +76157,14 @@
 "LatLong": "38.3886,27.0562"
 }
 ]
+}
+]
 },
 {
 "Name": "Güzelbahçe",
 "Code": "9544174",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çamli",
@@ -74550,9 +76187,13 @@
 "LatLong": "38.3182,26.9254"
 }
 ]
+}
+]
 },
 {
 "Name": "Narlidere",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Narlidere",
@@ -74560,9 +76201,13 @@
 "LatLong": "38.3962,27.0145"
 }
 ]
+}
+]
 },
 {
 "Name": "Menderes(Cumaovasi)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kisik",
@@ -74715,9 +76360,13 @@
 "LatLong": "38.0161,27.1281"
 }
 ]
+}
+]
 },
 {
 "Name": "Bayrakli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gümüşpala",
@@ -74745,9 +76394,13 @@
 "LatLong": "38.4949,27.1396"
 }
 ]
+}
+]
 },
 {
 "Name": "Karşiyaka",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yali",
@@ -74795,9 +76448,13 @@
 "LatLong": "38.4667,27.1333"
 }
 ]
+}
+]
 },
 {
 "Name": "Bayindir",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alanköy",
@@ -75000,9 +76657,13 @@
 "LatLong": "38.2566,27.6039"
 }
 ]
+}
+]
 },
 {
 "Name": "Torbali",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yoğurtçular",
@@ -75150,9 +76811,13 @@
 "LatLong": "38.1069,27.4375"
 }
 ]
+}
+]
 },
 {
 "Name": "Kinik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hamzahocali",
@@ -75317,6 +76982,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kastamonu",
@@ -75325,6 +76992,8 @@
 {
 "Name": "Cide",
 "Code": "7732736",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çataloluk",
@@ -75757,10 +77426,14 @@
 "LatLong": "41.9805,33.3221"
 }
 ]
+}
+]
 },
 {
 "Name": "Taşköprü",
 "Code": "8631978",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akdoğan",
@@ -76398,10 +78071,14 @@
 "LatLong": "41.449,34.1869"
 }
 ]
+}
+]
 },
 {
 "Name": "Tosya",
 "Code": "8631980",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aşağiberçin",
@@ -76674,10 +78351,14 @@
 "LatLong": "41.0976,34.1929"
 }
 ]
+}
+]
 },
 {
 "Name": "Araç",
 "Code": "8631981",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cevizli",
@@ -77265,10 +78946,14 @@
 "LatLong": "41.2109,33.0975"
 }
 ]
+}
+]
 },
 {
 "Name": "İhsangazi",
 "Code": "8631983",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çatalyazi",
@@ -77391,10 +79076,14 @@
 "LatLong": "41.1867,33.5707"
 }
 ]
+}
+]
 },
 {
 "Name": "Daday",
 "Code": "8631986",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çamkonak",
@@ -77702,10 +79391,14 @@
 "LatLong": "41.2242,33.2932"
 }
 ]
+}
+]
 },
 {
 "Name": "Azdavay",
 "Code": "8631987",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Maksutköy",
@@ -77958,10 +79651,14 @@
 "LatLong": "41.6859,33.3769"
 }
 ]
+}
+]
 },
 {
 "Name": "Şenpazar",
 "Code": "8631988",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Salman",
@@ -78084,10 +79781,14 @@
 "LatLong": "41.783,33.1666"
 }
 ]
+}
+]
 },
 {
 "Name": "Doğanyurt",
 "Code": "8631989",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Boğazcik",
@@ -78220,10 +79921,14 @@
 "LatLong": "41.9667,33.5167"
 }
 ]
+}
+]
 },
 {
 "Name": "Devrekani",
 "Code": "8631990",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tekkekizillar",
@@ -78501,10 +80206,14 @@
 "LatLong": "41.6416,33.825"
 }
 ]
+}
+]
 },
 {
 "Name": "Seydiler",
 "Code": "8631991",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yolyaka",
@@ -78587,10 +80296,14 @@
 "LatLong": "41.5635,33.6835"
 }
 ]
+}
+]
 },
 {
 "Name": "İnebolu",
 "Code": "8631993",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hamitköy",
@@ -79003,10 +80716,14 @@
 "LatLong": "41.8167,33.8833"
 }
 ]
+}
+]
 },
 {
 "Name": "Küre",
 "Code": "8631994",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İğdir",
@@ -79184,10 +80901,14 @@
 "LatLong": "41.8176,33.6762"
 }
 ]
+}
+]
 },
 {
 "Name": "Abana",
 "Code": "8631995",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çampinar",
@@ -79245,10 +80966,14 @@
 "LatLong": "41.9628,34.0629"
 }
 ]
+}
+]
 },
 {
 "Name": "Bozkurt",
 "Code": "8631996",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ortasökü",
@@ -79416,10 +81141,14 @@
 "LatLong": "41.8992,34.0134"
 }
 ]
+}
+]
 },
 {
 "Name": "Çatalzeytin",
 "Code": "8631997",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kaymazlar",
@@ -79632,9 +81361,13 @@
 "LatLong": "41.9293,34.104"
 }
 ]
+}
+]
 },
 {
 "Name": "Kastamonu",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akmescit",
@@ -80107,9 +81840,13 @@
 "LatLong": "41.3967,33.8911"
 }
 ]
+}
+]
 },
 {
 "Name": "Hanönü(Gökçeağaç)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çaybaşi",
@@ -80212,9 +81949,13 @@
 "LatLong": "41.6311,34.4751"
 }
 ]
+}
+]
 },
 {
 "Name": "Pinarbaşi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çengel",
@@ -80372,9 +82113,13 @@
 "LatLong": "41.7055,33.0403"
 }
 ]
+}
+]
 },
 {
 "Name": "Ağli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oluközü",
@@ -80449,6 +82194,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kayseri",
@@ -80457,6 +82204,8 @@
 {
 "Name": "Develi",
 "Code": "7732925",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kiliçkaya",
@@ -80709,10 +82458,14 @@
 "LatLong": "38.4395,35.3982"
 }
 ]
+}
+]
 },
 {
 "Name": "Melikgazi",
 "Code": "7732928",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kiliçaslan",
@@ -80770,10 +82523,14 @@
 "LatLong": "38.6358,35.59"
 }
 ]
+}
+]
 },
 {
 "Name": "Kocasinan",
 "Code": "7732929",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sanayi",
@@ -81066,10 +82823,14 @@
 "LatLong": "38.8806,35.2487"
 }
 ]
+}
+]
 },
 {
 "Name": "Yeşilhisar",
 "Code": "7910468",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çadirkaya",
@@ -81182,10 +82943,14 @@
 "LatLong": "38.2976,35.0869"
 }
 ]
+}
+]
 },
 {
 "Name": "Yahyali",
 "Code": "7932395",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Serinköy",
@@ -81338,10 +83103,14 @@
 "LatLong": "38.0772,35.3028"
 }
 ]
+}
+]
 },
 {
 "Name": "Tomarza",
 "Code": "8631775",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ekinli",
@@ -81589,10 +83358,14 @@
 "LatLong": "38.4146,35.9106"
 }
 ]
+}
+]
 },
 {
 "Name": "Bünyan",
 "Code": "8631782",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Girveli",
@@ -81760,10 +83533,14 @@
 "LatLong": "38.9723,35.9523"
 }
 ]
+}
+]
 },
 {
 "Name": "Talas",
 "Code": "8631784",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Reşadiye",
@@ -81841,10 +83618,14 @@
 "LatLong": "38.6358,35.59"
 }
 ]
+}
+]
 },
 {
 "Name": "Felahiye",
 "Code": "8631788",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Obruk",
@@ -81912,9 +83693,13 @@
 "LatLong": "39.1333,35.5167"
 }
 ]
+}
+]
 },
 {
 "Name": "Hacilar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karpuzsekisi",
@@ -81932,9 +83717,13 @@
 "LatLong": "38.6463,35.4494"
 }
 ]
+}
+]
 },
 {
 "Name": "İncesu",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İncesu",
@@ -81992,9 +83781,13 @@
 "LatLong": "38.2055,35.3712"
 }
 ]
+}
+]
 },
 {
 "Name": "Sariz",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ayranlik",
@@ -82182,9 +83975,13 @@
 "LatLong": "38.4032,36.4169"
 }
 ]
+}
+]
 },
 {
 "Name": "Pinarbaşi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saçli",
@@ -82752,9 +84549,13 @@
 "LatLong": "38.6739,36.1594"
 }
 ]
+}
+]
 },
 {
 "Name": "Özvatan(Çukur)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kermelik",
@@ -82787,9 +84588,13 @@
 "LatLong": "39.0973,35.7736"
 }
 ]
+}
+]
 },
 {
 "Name": "Sarioğlan",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kaleköy",
@@ -82912,9 +84717,13 @@
 "LatLong": "39.2272,35.8306"
 }
 ]
+}
+]
 },
 {
 "Name": "Akkişla",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gümüşsu",
@@ -82959,6 +84768,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kirklareli",
@@ -82967,6 +84778,8 @@
 {
 "Name": "Pehlivanköy",
 "Code": "8632561",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pehlivanköy",
@@ -83014,10 +84827,14 @@
 "LatLong": "41.4292,26.9144"
 }
 ]
+}
+]
 },
 {
 "Name": "Babaeski",
 "Code": "8632562",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çavuşköy",
@@ -83190,10 +85007,14 @@
 "LatLong": "41.3718,27.1422"
 }
 ]
+}
+]
 },
 {
 "Name": "Kofçaz",
 "Code": "8632564",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kocatarla",
@@ -83281,10 +85102,14 @@
 "LatLong": "41.9888,27.1446"
 }
 ]
+}
+]
 },
 {
 "Name": "Demirköy",
 "Code": "8632566",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yeşilce",
@@ -83372,10 +85197,14 @@
 "LatLong": "41.8744,27.9839"
 }
 ]
+}
+]
 },
 {
 "Name": "Vize",
 "Code": "8632567",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Evrenli",
@@ -83508,9 +85337,13 @@
 "LatLong": "41.6342,27.7508"
 }
 ]
+}
+]
 },
 {
 "Name": "Kirklareli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kirklareli",
@@ -83698,9 +85531,13 @@
 "LatLong": "41.7497,27.0258"
 }
 ]
+}
+]
 },
 {
 "Name": "Pinarhisar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kurudere",
@@ -83783,9 +85620,13 @@
 "LatLong": "41.7011,27.5622"
 }
 ]
+}
+]
 },
 {
 "Name": "Lüleburgaz",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karamusul",
@@ -83970,6 +85811,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kirşehir",
@@ -83978,6 +85821,8 @@
 {
 "Name": "Akçakent",
 "Code": "8631935",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ayvali",
@@ -84080,10 +85925,14 @@
 "LatLong": "39.6305,34.0809"
 }
 ]
+}
+]
 },
 {
 "Name": "Kaman",
 "Code": "8631938",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İmanci",
@@ -84346,10 +86195,14 @@
 "LatLong": "39.3308,33.9002"
 }
 ]
+}
+]
 },
 {
 "Name": "Boztepe",
 "Code": "8631939",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Boztepe",
@@ -84427,10 +86280,14 @@
 "LatLong": "39.4103,34.3619"
 }
 ]
+}
+]
 },
 {
 "Name": "Mucur",
 "Code": "8631940",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aksakli",
@@ -84658,9 +86515,13 @@
 "LatLong": "39.0483,34.3946"
 }
 ]
+}
+]
 },
 {
 "Name": "Kirşehir",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kalankaldi",
@@ -84943,9 +86804,13 @@
 "LatLong": "39.3448,34.1089"
 }
 ]
+}
+]
 },
 {
 "Name": "Akpinar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sofrazli",
@@ -85083,9 +86948,13 @@
 "LatLong": "39.516,33.8976"
 }
 ]
+}
+]
 },
 {
 "Name": "Çiçekdaği",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tepecik",
@@ -85325,6 +87194,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kocaeli",
@@ -85333,6 +87204,8 @@
 {
 "Name": "Gebze",
 "Code": "7732636",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kargali",
@@ -85430,10 +87303,14 @@
 "LatLong": "40.8987,29.5646"
 }
 ]
+}
+]
 },
 {
 "Name": "Gölcük",
 "Code": "8632548",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ayvazpinari",
@@ -85546,10 +87423,14 @@
 "LatLong": "40.72,29.7808"
 }
 ]
+}
+]
 },
 {
 "Name": "Derince",
 "Code": "8632549",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Derince",
@@ -85562,10 +87443,14 @@
 "LatLong": "40.7569,29.8147"
 }
 ]
+}
+]
 },
 {
 "Name": "Karamürsel",
 "Code": "8632551",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Safiye",
@@ -85668,10 +87553,14 @@
 "LatLong": "40.6454,29.6469"
 }
 ]
+}
+]
 },
 {
 "Name": "İzmit",
 "Code": "9544571",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Merkezköy",
@@ -85714,10 +87603,14 @@
 "LatLong": "40.7735,29.9964"
 }
 ]
+}
+]
 },
 {
 "Name": "Kartepe",
 "Code": "9547999",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Büyükderbent",
@@ -85770,10 +87663,14 @@
 "LatLong": "40.7173,30.117"
 }
 ]
+}
+]
 },
 {
 "Name": "Başiskele",
 "Code": "9548074",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bahçecik",
@@ -85811,9 +87708,13 @@
 "LatLong": "40.6934,29.8951"
 }
 ]
+}
+]
 },
 {
 "Name": "Çayirova",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çayirova",
@@ -85821,9 +87722,13 @@
 "LatLong": "40.8987,29.5646"
 }
 ]
+}
+]
 },
 {
 "Name": "Dilovasi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dilovasi",
@@ -85836,9 +87741,13 @@
 "LatLong": "40.8987,29.5646"
 }
 ]
+}
+]
 },
 {
 "Name": "Kandira",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sarigazi",
@@ -86301,9 +88210,13 @@
 "LatLong": "41.0044,30.0442"
 }
 ]
+}
+]
 },
 {
 "Name": "Darica",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Darica",
@@ -86311,9 +88224,13 @@
 "LatLong": "40.7797,29.3945"
 }
 ]
+}
+]
 },
 {
 "Name": "Körfez(Tütünçiftlik)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Himmetli",
@@ -86408,6 +88325,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kütahya",
@@ -86416,6 +88335,8 @@
 {
 "Name": "Gediz",
 "Code": "8632446",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saruhanlar",
@@ -86733,10 +88654,14 @@
 "LatLong": "39.0053,29.429"
 }
 ]
+}
+]
 },
 {
 "Name": "Çavdarhisar",
 "Code": "8632447",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Efeler",
@@ -86859,10 +88784,14 @@
 "LatLong": "39.1167,29.6667"
 }
 ]
+}
+]
 },
 {
 "Name": "Aslanapa",
 "Code": "8632448",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Musaköy",
@@ -87035,10 +88964,14 @@
 "LatLong": "39.0797,29.7903"
 }
 ]
+}
+]
 },
 {
 "Name": "Domaniç",
 "Code": "8632451",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sariot",
@@ -87206,10 +89139,14 @@
 "LatLong": "39.2293,29.9241"
 }
 ]
+}
+]
 },
 {
 "Name": "Pazarlar",
 "Code": "8632453",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Orhanlar",
@@ -87247,10 +89184,14 @@
 "LatLong": "38.9547,29.1203"
 }
 ]
+}
+]
 },
 {
 "Name": "Şaphane",
 "Code": "8632454",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karakür",
@@ -87318,10 +89259,14 @@
 "LatLong": "38.9817,29.1908"
 }
 ]
+}
+]
 },
 {
 "Name": "Simav",
 "Code": "8632455",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Güney",
@@ -87779,10 +89724,14 @@
 "LatLong": "39.1659,29.0046"
 }
 ]
+}
+]
 },
 {
 "Name": "Emet",
 "Code": "8632457",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Göncek",
@@ -87970,9 +89919,13 @@
 "LatLong": "39.3355,29.3335"
 }
 ]
+}
+]
 },
 {
 "Name": "Kütahya",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alipaşa",
@@ -88545,9 +90498,13 @@
 "LatLong": "39.615,29.8909"
 }
 ]
+}
+]
 },
 {
 "Name": "Tavşanli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yağmurlu",
@@ -89050,9 +91007,13 @@
 "LatLong": "39.6206,29.465"
 }
 ]
+}
+]
 },
 {
 "Name": "Hisarcik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kutluhallar",
@@ -89185,9 +91146,13 @@
 "LatLong": "39.2167,29.1333"
 }
 ]
+}
+]
 },
 {
 "Name": "Altintaş",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oysu",
@@ -89365,9 +91330,13 @@
 "LatLong": "39.1003,30.0233"
 }
 ]
+}
+]
 },
 {
 "Name": "Dumlupinar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eydemir",
@@ -89427,6 +91396,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Malatya",
@@ -89435,6 +91406,8 @@
 {
 "Name": "Battalgazi",
 "Code": "7732936",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Merkezköy",
@@ -89492,10 +91465,14 @@
 "LatLong": "38.2911,38.4787"
 }
 ]
+}
+]
 },
 {
 "Name": "Yeşilyurt",
 "Code": "8631666",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Şahnahan",
@@ -89563,10 +91540,14 @@
 "LatLong": "38.3068,38.2425"
 }
 ]
+}
+]
 },
 {
 "Name": "Kale",
 "Code": "8631667",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akça",
@@ -89579,10 +91560,14 @@
 "LatLong": "38.4167,38.7667"
 }
 ]
+}
+]
 },
 {
 "Name": "Hekimhan",
 "Code": "8631670",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yukariselimli",
@@ -89855,10 +91840,14 @@
 "LatLong": "38.7342,37.9158"
 }
 ]
+}
+]
 },
 {
 "Name": "Akçadağ",
 "Code": "8631672",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mihmanli",
@@ -90226,10 +92215,14 @@
 "LatLong": "38.3901,37.9051"
 }
 ]
+}
+]
 },
 {
 "Name": "Doğanşehir",
 "Code": "8631673",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beğre",
@@ -90407,10 +92400,14 @@
 "LatLong": "38.0053,38.1"
 }
 ]
+}
+]
 },
 {
 "Name": "Darende",
 "Code": "8631674",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kuzpinar",
@@ -90673,10 +92670,14 @@
 "LatLong": "38.5056,37.7183"
 }
 ]
+}
+]
 },
 {
 "Name": "Kuluncak",
 "Code": "8631676",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Darili",
@@ -90789,10 +92790,14 @@
 "LatLong": "38.92,37.5751"
 }
 ]
+}
+]
 },
 {
 "Name": "Doğanyol",
 "Code": "9548308",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Damli",
@@ -90870,10 +92875,14 @@
 "LatLong": "38.3118,39.0382"
 }
 ]
+}
+]
 },
 {
 "Name": "Arguvan",
 "Code": "9548365",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yürektaşi",
@@ -91071,9 +93080,13 @@
 "LatLong": "38.7859,38.2916"
 }
 ]
+}
+]
 },
 {
 "Name": "Yazihan",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dedekargin",
@@ -91231,9 +93244,13 @@
 "LatLong": "38.5962,38.1788"
 }
 ]
+}
+]
 },
 {
 "Name": "Arapkir(Arapgir)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çimen",
@@ -91356,9 +93373,13 @@
 "LatLong": "39.0833,38.3333"
 }
 ]
+}
+]
 },
 {
 "Name": "Pütürge(Pötürge)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ormaniçi",
@@ -91688,6 +93709,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Manisa",
@@ -91696,6 +93719,8 @@
 {
 "Name": "Kula",
 "Code": "7910589",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Şeremet",
@@ -91968,10 +93993,14 @@
 "LatLong": "38.589,28.4966"
 }
 ]
+}
+]
 },
 {
 "Name": "Demirci",
 "Code": "8632406",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Küçükoba",
@@ -92374,10 +94403,14 @@
 "LatLong": "38.9634,28.6887"
 }
 ]
+}
+]
 },
 {
 "Name": "Selendi",
 "Code": "8632407",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yukarigüllüce",
@@ -92615,10 +94648,14 @@
 "LatLong": "38.8081,28.7333"
 }
 ]
+}
+]
 },
 {
 "Name": "Soma",
 "Code": "8632409",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Naldöken",
@@ -92916,10 +94953,14 @@
 "LatLong": "39.1878,27.579"
 }
 ]
+}
+]
 },
 {
 "Name": "Gördes",
 "Code": "8632411",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tepeköy",
@@ -93197,10 +95238,14 @@
 "LatLong": "38.9086,28.1736"
 }
 ]
+}
+]
 },
 {
 "Name": "Akhisar",
 "Code": "8632412",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hamidiye",
@@ -93683,10 +95728,14 @@
 "LatLong": "39.1334,27.6918"
 }
 ]
+}
+]
 },
 {
 "Name": "Gölmarmara",
 "Code": "8632413",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yunuslar",
@@ -93769,10 +95818,14 @@
 "LatLong": "38.6974,28.0044"
 }
 ]
+}
+]
 },
 {
 "Name": "Ahmetli",
 "Code": "8632414",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alahidir",
@@ -93855,10 +95908,14 @@
 "LatLong": "38.5736,27.9391"
 }
 ]
+}
+]
 },
 {
 "Name": "Salihli",
 "Code": "8632415",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Salihli",
@@ -94271,10 +96328,14 @@
 "LatLong": "38.4888,28.1143"
 }
 ]
+}
+]
 },
 {
 "Name": "Alaşehir",
 "Code": "8632416",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çarikbozdağ",
@@ -94637,10 +96698,14 @@
 "LatLong": "38.3845,28.426"
 }
 ]
+}
+]
 },
 {
 "Name": "Turgutlu",
 "Code": "8632418",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Irlamaz",
@@ -94843,10 +96908,14 @@
 "LatLong": "38.5233,27.8356"
 }
 ]
+}
+]
 },
 {
 "Name": "Yunusemre",
 "Code": "9548477",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Laleli",
@@ -94884,10 +96953,14 @@
 "LatLong": "38.7342,27.3616"
 }
 ]
+}
+]
 },
 {
 "Name": "Şehzadeler",
 "Code": "9548503",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Merkezköy",
@@ -94935,9 +97008,13 @@
 "LatLong": "38.6069,27.6"
 }
 ]
+}
+]
 },
 {
 "Name": "Sarigöl",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Selimiye",
@@ -95090,9 +97167,13 @@
 "LatLong": "38.2279,28.6823"
 }
 ]
+}
+]
 },
 {
 "Name": "Kirkağaç",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Siledik",
@@ -95260,9 +97341,13 @@
 "LatLong": "39.0826,27.794"
 }
 ]
+}
+]
 },
 {
 "Name": "Saruhanli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gözlet",
@@ -95480,9 +97565,13 @@
 "LatLong": "38.7667,27.5333"
 }
 ]
+}
+]
 },
 {
 "Name": "Köprübaşi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Killik",
@@ -95712,6 +97801,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kahramanmaraş",
@@ -95720,6 +97811,8 @@
 {
 "Name": "Nurhak",
 "Code": "8631473",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gürsel",
@@ -95757,10 +97850,14 @@
 "LatLong": "38.0054,37.5388"
 }
 ]
+}
+]
 },
 {
 "Name": "Türkoğlu",
 "Code": "8631475",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yeşilyurt",
@@ -95963,10 +98060,14 @@
 "LatLong": "37.4167,36.75"
 }
 ]
+}
+]
 },
 {
 "Name": "Elbistan",
 "Code": "8631476",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kalealti",
@@ -96359,10 +98460,14 @@
 "LatLong": "38.1624,37.333"
 }
 ]
+}
+]
 },
 {
 "Name": "Ekinözü",
 "Code": "8631477",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kabaktepe",
@@ -96455,10 +98560,14 @@
 "LatLong": "38.0214,37.1038"
 }
 ]
+}
+]
 },
 {
 "Name": "Göksun",
 "Code": "8631479",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Haciömer",
@@ -96761,10 +98870,14 @@
 "LatLong": "38.0776,36.8779"
 }
 ]
+}
+]
 },
 {
 "Name": "Afşin",
 "Code": "8631480",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Türksevin",
@@ -97052,10 +99165,14 @@
 "LatLong": "38.3072,36.9326"
 }
 ]
+}
+]
 },
 {
 "Name": "Dulkadiroğlu",
 "Code": "9548545",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sütçüimam",
@@ -97088,10 +99205,14 @@
 "LatLong": "37.7621,37.0368"
 }
 ]
+}
+]
 },
 {
 "Name": "Onikişubat",
 "Code": "9548652",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Merkezköy",
@@ -97169,9 +99290,13 @@
 "LatLong": "37.8547,36.8648"
 }
 ]
+}
+]
 },
 {
 "Name": "Andirin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kizik",
@@ -97434,9 +99559,13 @@
 "LatLong": "37.643,36.379"
 }
 ]
+}
+]
 },
 {
 "Name": "Pazarcik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Göçer",
@@ -97779,9 +99908,13 @@
 "LatLong": "37.6158,37.2874"
 }
 ]
+}
+]
 },
 {
 "Name": "Çağliyancerit",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Emiruşaği",
@@ -97846,6 +99979,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Muğla",
@@ -97854,6 +99989,8 @@
 {
 "Name": "Fethiye",
 "Code": "7732940",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gökben",
@@ -97991,10 +100128,14 @@
 "LatLong": "37.0886,28.3656"
 }
 ]
+}
+]
 },
 {
 "Name": "Marmaris",
 "Code": "7732942",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Taşlica",
@@ -98117,10 +100258,14 @@
 "LatLong": "36.7737,28.2483"
 }
 ]
+}
+]
 },
 {
 "Name": "Yatağan",
 "Code": "7732943",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çukuröz",
@@ -98348,10 +100493,14 @@
 "LatLong": "37.3595,28.1502"
 }
 ]
+}
+]
 },
 {
 "Name": "Bodrum",
 "Code": "7733242",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bodrum",
@@ -98509,10 +100658,14 @@
 "LatLong": "37.1053,27.2972"
 }
 ]
+}
+]
 },
 {
 "Name": "Dalaman",
 "Code": "8631959",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dariyeri",
@@ -98600,10 +100753,14 @@
 "LatLong": "36.8673,28.9084"
 }
 ]
+}
+]
 },
 {
 "Name": "Ortaca",
 "Code": "8631960",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Okçular",
@@ -98686,10 +100843,14 @@
 "LatLong": "36.8343,28.6446"
 }
 ]
+}
+]
 },
 {
 "Name": "Köyceğiz",
 "Code": "8631961",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sultaniye",
@@ -98792,10 +100953,14 @@
 "LatLong": "36.9873,28.6671"
 }
 ]
+}
+]
 },
 {
 "Name": "Ula",
 "Code": "8631962",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kizilyaka",
@@ -98933,10 +101098,14 @@
 "LatLong": "37.0387,28.3589"
 }
 ]
+}
+]
 },
 {
 "Name": "Datça",
 "Code": "8631963",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cumali",
@@ -98989,10 +101158,14 @@
 "LatLong": "36.7378,27.6842"
 }
 ]
+}
+]
 },
 {
 "Name": "Milas",
 "Code": "8632389",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Olukbaşi",
@@ -99595,10 +101768,14 @@
 "LatLong": "36.9953,28.0087"
 }
 ]
+}
+]
 },
 {
 "Name": "Seydikemer",
 "Code": "9548757",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eşen",
@@ -99636,10 +101813,14 @@
 "LatLong": "36.88,28.783"
 }
 ]
+}
+]
 },
 {
 "Name": "Menteşe",
 "Code": "9548851",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Menteşe",
@@ -99672,9 +101853,13 @@
 "LatLong": "37.2,28.2333"
 }
 ]
+}
+]
 },
 {
 "Name": "Kavaklidere",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çayboyu",
@@ -99739,6 +101924,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Muş",
@@ -99747,6 +101934,8 @@
 {
 "Name": "Malazgirt",
 "Code": "8630858",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beşçatak",
@@ -99929,10 +102118,14 @@
 "LatLong": "39.2946,42.4402"
 }
 ]
+}
+]
 },
 {
 "Name": "Varto",
 "Code": "8630861",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Taşçi",
@@ -100445,10 +102638,14 @@
 "LatLong": "39.1469,41.5564"
 }
 ]
+}
+]
 },
 {
 "Name": "Korkut",
 "Code": "8630862",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Altinova",
@@ -100601,10 +102798,14 @@
 "LatLong": "38.6833,41.8667"
 }
 ]
+}
+]
 },
 {
 "Name": "Hasköy",
 "Code": "8630863",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Büvetli",
@@ -100702,9 +102903,13 @@
 "LatLong": "38.6593,41.6632"
 }
 ]
+}
+]
 },
 {
 "Name": "Muş",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alican",
@@ -101242,9 +103447,13 @@
 "LatLong": "38.8965,41.364"
 }
 ]
+}
+]
 },
 {
 "Name": "Bulanik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kurganli",
@@ -101564,6 +103773,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Nevşehir",
@@ -101572,6 +103783,8 @@
 {
 "Name": "Ürgüp",
 "Code": "7732946",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aksalur",
@@ -101699,10 +103912,14 @@
 "LatLong": "38.6311,34.8572"
 }
 ]
+}
+]
 },
 {
 "Name": "Gülşehir",
 "Code": "8631929",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yakatarla",
@@ -101875,10 +104092,14 @@
 "LatLong": "38.852,34.3164"
 }
 ]
+}
+]
 },
 {
 "Name": "Avanos",
 "Code": "8631930",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Göynük",
@@ -101981,10 +104202,14 @@
 "LatLong": "38.9814,34.8669"
 }
 ]
+}
+]
 },
 {
 "Name": "Derinkuyu",
 "Code": "8631932",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tilköy",
@@ -102037,9 +104262,13 @@
 "LatLong": "38.4605,34.7523"
 }
 ]
+}
+]
 },
 {
 "Name": "Nevşehir",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Güvercinlik",
@@ -102142,9 +104371,13 @@
 "LatLong": "38.6606,34.999"
 }
 ]
+}
+]
 },
 {
 "Name": "Acigöl",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Acigöl",
@@ -102212,9 +104445,13 @@
 "LatLong": "38.5196,34.5491"
 }
 ]
+}
+]
 },
 {
 "Name": "Kozakli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Küçükyağli",
@@ -102357,9 +104594,13 @@
 "LatLong": "39.2037,34.7085"
 }
 ]
+}
+]
 },
 {
 "Name": "Hacibektaş",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yenice",
@@ -102519,6 +104760,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ordu",
@@ -102527,6 +104770,8 @@
 {
 "Name": "Akkuş",
 "Code": "7911034",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kizilelma",
@@ -102734,10 +104979,14 @@
 "LatLong": "40.8596,36.8099"
 }
 ]
+}
+]
 },
 {
 "Name": "Gölköy",
 "Code": "8631634",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çatak",
@@ -102870,10 +105119,14 @@
 "LatLong": "40.7356,37.5758"
 }
 ]
+}
+]
 },
 {
 "Name": "Ulubey",
 "Code": "8631635",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Uzunmahmut",
@@ -103056,10 +105309,14 @@
 "LatLong": "40.8328,37.7597"
 }
 ]
+}
+]
 },
 {
 "Name": "Gürgentepe",
 "Code": "8631636",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dikenlice",
@@ -103122,10 +105379,14 @@
 "LatLong": "40.8388,37.5765"
 }
 ]
+}
+]
 },
 {
 "Name": "Perşembe",
 "Code": "8631637",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çaytepe",
@@ -103358,10 +105619,14 @@
 "LatLong": "41.0732,37.6254"
 }
 ]
+}
+]
 },
 {
 "Name": "Çamaş",
 "Code": "8631638",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kocaman",
@@ -103399,10 +105664,14 @@
 "LatLong": "40.9017,37.5288"
 }
 ]
+}
+]
 },
 {
 "Name": "Fatsa",
 "Code": "8631639",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aşağiardiç",
@@ -103740,10 +106009,14 @@
 "LatLong": "40.9729,37.6089"
 }
 ]
+}
+]
 },
 {
 "Name": "Kumru",
 "Code": "8631641",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kayabaşi",
@@ -103911,10 +106184,14 @@
 "LatLong": "40.8871,37.2722"
 }
 ]
+}
+]
 },
 {
 "Name": "Mesudiye",
 "Code": "8631642",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Derebaşi",
@@ -104222,10 +106499,14 @@
 "LatLong": "40.7179,37.8357"
 }
 ]
+}
+]
 },
 {
 "Name": "Korgan",
 "Code": "8631643",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yeşilyurt",
@@ -104333,10 +106614,14 @@
 "LatLong": "40.7439,37.3055"
 }
 ]
+}
+]
 },
 {
 "Name": "Kabataş",
 "Code": "8631645",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alankent",
@@ -104359,10 +106644,14 @@
 "LatLong": "40.7285,37.4896"
 }
 ]
+}
+]
 },
 {
 "Name": "Ünye",
 "Code": "8631646",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Başköy",
@@ -104705,10 +106994,14 @@
 "LatLong": "40.9167,37.0525"
 }
 ]
+}
+]
 },
 {
 "Name": "İkizce",
 "Code": "8631647",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kervansaray",
@@ -104771,9 +107064,13 @@
 "LatLong": "40.9546,36.9477"
 }
 ]
+}
+]
 },
 {
 "Name": "Altinordu",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Altinyurt",
@@ -105136,9 +107433,13 @@
 "LatLong": "40.8592,37.5317"
 }
 ]
+}
+]
 },
 {
 "Name": "Gülyali",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Taşliçay",
@@ -105176,9 +107477,13 @@
 "LatLong": "40.9665,38.061"
 }
 ]
+}
+]
 },
 {
 "Name": "Kabadüz(Karadüz)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yokuşdibi",
@@ -105246,9 +107551,13 @@
 "LatLong": "40.7975,37.8946"
 }
 ]
+}
+]
 },
 {
 "Name": "Çaybaşi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akbaba",
@@ -105291,9 +107600,13 @@
 "LatLong": "40.9452,37.0053"
 }
 ]
+}
+]
 },
 {
 "Name": "Çatalpinar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Şirinköy",
@@ -105361,9 +107674,13 @@
 "LatLong": "40.8059,37.4587"
 }
 ]
+}
+]
 },
 {
 "Name": "Aybasti",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Uzundere",
@@ -105428,6 +107745,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Rize",
@@ -105436,6 +107755,8 @@
 {
 "Name": "Kalkandere",
 "Code": "7911029",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kalkandere",
@@ -105553,10 +107874,14 @@
 "LatLong": "40.9123,40.4653"
 }
 ]
+}
+]
 },
 {
 "Name": "İkizdere",
 "Code": "8631450",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İkizdere",
@@ -105709,10 +108034,14 @@
 "LatLong": "40.8,40.5"
 }
 ]
+}
+]
 },
 {
 "Name": "Güneysu",
 "Code": "8631451",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Güneysu",
@@ -105840,10 +108169,14 @@
 "LatLong": "40.9596,40.6136"
 }
 ]
+}
+]
 },
 {
 "Name": "Hemşin",
 "Code": "8631452",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hemşin",
@@ -105891,10 +108224,14 @@
 "LatLong": "41.0134,40.8897"
 }
 ]
+}
+]
 },
 {
 "Name": "Pazar",
 "Code": "8631453",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pazar",
@@ -106152,10 +108489,14 @@
 "LatLong": "41.143,40.8736"
 }
 ]
+}
+]
 },
 {
 "Name": "İyidere",
 "Code": "9549009",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İyidere",
@@ -106203,10 +108544,14 @@
 "LatLong": "40.783,40.5408"
 }
 ]
+}
+]
 },
 {
 "Name": "Ardeşen",
 "Code": "9549101",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ardeşen",
@@ -106409,10 +108754,14 @@
 "LatLong": "41.1254,41.1223"
 }
 ]
+}
+]
 },
 {
 "Name": "Çayeli",
 "Code": "9549145",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çayeli",
@@ -106785,9 +109134,13 @@
 "LatLong": "40.9297,40.6654"
 }
 ]
+}
+]
 },
 {
 "Name": "Rize",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rize",
@@ -107210,9 +109563,13 @@
 "LatLong": "40.959,40.5719"
 }
 ]
+}
+]
 },
 {
 "Name": "Findikli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Findikli",
@@ -107330,9 +109687,13 @@
 "LatLong": "41.3204,41.2477"
 }
 ]
+}
+]
 },
 {
 "Name": "Çamlihemşin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çamlihemşin",
@@ -107480,9 +109841,13 @@
 "LatLong": "41.0641,41.0233"
 }
 ]
+}
+]
 },
 {
 "Name": "Derepazari",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Derepazari",
@@ -107547,6 +109912,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Sakarya",
@@ -107555,6 +109922,8 @@
 {
 "Name": "Karapürçek",
 "Code": "8632522",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karapürçek",
@@ -107602,10 +109971,14 @@
 "LatLong": "40.6425,30.5283"
 }
 ]
+}
+]
 },
 {
 "Name": "Geyve",
 "Code": "8632523",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Belpinar",
@@ -107933,10 +110306,14 @@
 "LatLong": "40.5382,30.2678"
 }
 ]
+}
+]
 },
 {
 "Name": "Pamukova",
 "Code": "8632524",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Teşvikiye",
@@ -108094,10 +110471,14 @@
 "LatLong": "40.544,30.1253"
 }
 ]
+}
+]
 },
 {
 "Name": "Sapanca",
 "Code": "8632525",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Balkaya",
@@ -108195,10 +110576,14 @@
 "LatLong": "40.6629,30.2537"
 }
 ]
+}
+]
 },
 {
 "Name": "Hendek",
 "Code": "8632526",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Paşaköy",
@@ -108561,10 +110946,14 @@
 "LatLong": "40.8176,30.7891"
 }
 ]
+}
+]
 },
 {
 "Name": "Karasu",
 "Code": "8632527",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hürriyet",
@@ -108737,10 +111126,14 @@
 "LatLong": "40.9888,30.5834"
 }
 ]
+}
+]
 },
 {
 "Name": "Kocaali",
 "Code": "8632528",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çobansayvant",
@@ -108898,10 +111291,14 @@
 "LatLong": "41.0018,30.8919"
 }
 ]
+}
+]
 },
 {
 "Name": "Ferizli",
 "Code": "8632529",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bakirli",
@@ -108994,10 +111391,14 @@
 "LatLong": "41.021,30.548"
 }
 ]
+}
+]
 },
 {
 "Name": "Söğütlü",
 "Code": "8632530",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karateke",
@@ -109080,10 +111481,14 @@
 "LatLong": "40.8946,30.507"
 }
 ]
+}
+]
 },
 {
 "Name": "Kaynarca",
 "Code": "8632531",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kaynarca",
@@ -109296,10 +111701,14 @@
 "LatLong": "41.0465,30.3567"
 }
 ]
+}
+]
 },
 {
 "Name": "Serdivan",
 "Code": "9549384",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Serdivan",
@@ -109362,10 +111771,14 @@
 "LatLong": "40.908,30.461"
 }
 ]
+}
+]
 },
 {
 "Name": "Erenler",
 "Code": "9549424",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Değirmendere",
@@ -109408,10 +111821,14 @@
 "LatLong": "40.7664,30.4981"
 }
 ]
+}
+]
 },
 {
 "Name": "Arifiye",
 "Code": "9549457",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arifiye",
@@ -109449,9 +111866,13 @@
 "LatLong": "40.9773,30.5874"
 }
 ]
+}
+]
 },
 {
 "Name": "Adapazari",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Solaklar",
@@ -109594,9 +112015,13 @@
 "LatLong": "40.8591,30.3412"
 }
 ]
+}
+]
 },
 {
 "Name": "Akyazi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akyazi",
@@ -109834,9 +112259,13 @@
 "LatLong": "40.5498,30.7787"
 }
 ]
+}
+]
 },
 {
 "Name": "Tarakli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akçapinar",
@@ -109956,6 +112385,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Samsun",
@@ -109964,6 +112395,8 @@
 {
 "Name": "Bafra",
 "Code": "7732956",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tepebaşi",
@@ -110566,10 +112999,14 @@
 "LatLong": "41.4182,35.8014"
 }
 ]
+}
+]
 },
 {
 "Name": "Tekkeköy",
 "Code": "7733243",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Erenköy",
@@ -110767,10 +113204,14 @@
 "LatLong": "41.219,36.4142"
 }
 ]
+}
+]
 },
 {
 "Name": "Vezirköprü",
 "Code": "8631685",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Paşaköy",
@@ -111468,10 +113909,14 @@
 "LatLong": "41.1436,35.4547"
 }
 ]
+}
+]
 },
 {
 "Name": "Havza",
 "Code": "8631686",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yeşilalan",
@@ -111884,10 +114329,14 @@
 "LatLong": "41.0123,35.7931"
 }
 ]
+}
+]
 },
 {
 "Name": "Ladik",
 "Code": "8631687",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hasirci",
@@ -112175,10 +114624,14 @@
 "LatLong": "40.9589,35.8761"
 }
 ]
+}
+]
 },
 {
 "Name": "Kavak",
 "Code": "8631689",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aşağiçirişli",
@@ -112616,10 +115069,14 @@
 "LatLong": "41.1004,36.0124"
 }
 ]
+}
+]
 },
 {
 "Name": "Alaçam",
 "Code": "8631691",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Soğukçam",
@@ -112892,10 +115349,14 @@
 "LatLong": "41.5213,35.6517"
 }
 ]
+}
+]
 },
 {
 "Name": "Yakakent",
 "Code": "8631692",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gündüzlü",
@@ -112963,10 +115424,14 @@
 "LatLong": "41.638,35.4888"
 }
 ]
+}
+]
 },
 {
 "Name": "Terme",
 "Code": "8631693",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çangallar",
@@ -113309,10 +115774,14 @@
 "LatLong": "41.1745,36.8747"
 }
 ]
+}
+]
 },
 {
 "Name": "Çarşamba",
 "Code": "8631698",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Haciliçay",
@@ -113940,10 +116409,14 @@
 "LatLong": "41.1282,36.612"
 }
 ]
+}
+]
 },
 {
 "Name": "Canik",
 "Code": "9549574",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Düvecik",
@@ -114146,10 +116619,14 @@
 "LatLong": "41.1648,36.3701"
 }
 ]
+}
+]
 },
 {
 "Name": "Atakum",
 "Code": "9549747",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çatalçam",
@@ -114332,9 +116809,13 @@
 "LatLong": "41.3658,36.2155"
 }
 ]
+}
+]
 },
 {
 "Name": "İlkadim",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Avdan",
@@ -114432,9 +116913,13 @@
 "LatLong": "41.2046,36.053"
 }
 ]
+}
+]
 },
 {
 "Name": "Ondokuzmayis(Ballica)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cebinler",
@@ -114567,9 +117052,13 @@
 "LatLong": "41.525,36.07"
 }
 ]
+}
+]
 },
 {
 "Name": "Salipazari",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tepealti",
@@ -114737,9 +117226,13 @@
 "LatLong": "41.0671,36.9092"
 }
 ]
+}
+]
 },
 {
 "Name": "Ayvacik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sahilköy",
@@ -114917,9 +117410,13 @@
 "LatLong": "41.0017,36.513"
 }
 ]
+}
+]
 },
 {
 "Name": "Asarcik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ayaklialan",
@@ -115074,6 +117571,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Sinop",
@@ -115082,6 +117581,8 @@
 {
 "Name": "Gerze",
 "Code": "8632029",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sazak",
@@ -115294,10 +117795,14 @@
 "LatLong": "41.752,35.0648"
 }
 ]
+}
+]
 },
 {
 "Name": "Dikmen",
 "Code": "8632030",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yeniköy",
@@ -115455,10 +117960,14 @@
 "LatLong": "41.5933,35.2373"
 }
 ]
+}
+]
 },
 {
 "Name": "Durağan",
 "Code": "8632031",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Salarkolu",
@@ -115706,10 +118215,14 @@
 "LatLong": "41.4337,35.1029"
 }
 ]
+}
+]
 },
 {
 "Name": "Saraydüzü",
 "Code": "8632032",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aşağiakpinar",
@@ -115877,10 +118390,14 @@
 "LatLong": "41.2833,34.9"
 }
 ]
+}
+]
 },
 {
 "Name": "Erfelek",
 "Code": "8632033",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Güven",
@@ -116118,10 +118635,14 @@
 "LatLong": "41.9333,34.95"
 }
 ]
+}
+]
 },
 {
 "Name": "Boyabat",
 "Code": "8632034",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eğlence",
@@ -116659,10 +119180,14 @@
 "LatLong": "41.5667,34.85"
 }
 ]
+}
+]
 },
 {
 "Name": "Türkeli",
 "Code": "8632035",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gaziler",
@@ -116830,9 +119355,13 @@
 "LatLong": "41.9167,34.45"
 }
 ]
+}
+]
 },
 {
 "Name": "Sinop",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oğuzeli",
@@ -117050,9 +119579,13 @@
 "LatLong": "41.9348,34.9967"
 }
 ]
+}
+]
 },
 {
 "Name": "Ayancik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ortalik",
@@ -117277,6 +119810,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Sivas",
@@ -117285,6 +119820,8 @@
 {
 "Name": "Zara",
 "Code": "7732990",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Korkut",
@@ -117942,10 +120479,14 @@
 "LatLong": "39.8253,37.7772"
 }
 ]
+}
+]
 },
 {
 "Name": "Gürün",
 "Code": "8631649",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sularbaşi",
@@ -118263,10 +120804,14 @@
 "LatLong": "38.6565,37.2212"
 }
 ]
+}
+]
 },
 {
 "Name": "Suşehri",
 "Code": "8631651",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yamaç",
@@ -118624,10 +121169,14 @@
 "LatLong": "40.1644,38.0867"
 }
 ]
+}
+]
 },
 {
 "Name": "Koyulhisar",
 "Code": "8631652",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Koyulhisar",
@@ -118855,10 +121404,14 @@
 "LatLong": "40.3032,37.8735"
 }
 ]
+}
+]
 },
 {
 "Name": "Doğanşar",
 "Code": "8631653",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ütük",
@@ -118991,10 +121544,14 @@
 "LatLong": "40.1881,37.6413"
 }
 ]
+}
+]
 },
 {
 "Name": "Gemerek",
 "Code": "8631657",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yeniçubuk",
@@ -119187,10 +121744,14 @@
 "LatLong": "39.3142,35.9494"
 }
 ]
+}
+]
 },
 {
 "Name": "Gölova",
 "Code": "8631659",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gözüküçük",
@@ -119343,10 +121904,14 @@
 "LatLong": "40.0242,38.5917"
 }
 ]
+}
+]
 },
 {
 "Name": "Kangal",
 "Code": "8631662",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akçakale",
@@ -119904,10 +122469,14 @@
 "LatLong": "39.1,37.8833"
 }
 ]
+}
+]
 },
 {
 "Name": "Divriği",
 "Code": "8631663",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kayacik",
@@ -120445,10 +123014,14 @@
 "LatLong": "39.4233,37.7979"
 }
 ]
+}
+]
 },
 {
 "Name": "Ulaş",
 "Code": "8631664",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aşağiada",
@@ -120651,10 +123224,14 @@
 "LatLong": "39.3339,37.0992"
 }
 ]
+}
+]
 },
 {
 "Name": "Hafik",
 "Code": "8631665",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Emre",
@@ -121047,9 +123624,13 @@
 "LatLong": "40.0642,37.4768"
 }
 ]
+}
+]
 },
 {
 "Name": "Sivas",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kuzören",
@@ -121867,9 +124448,13 @@
 "LatLong": "39.6538,37.3923"
 }
 ]
+}
+]
 },
 {
 "Name": "Şarkişla",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gümüştepe",
@@ -122357,9 +124942,13 @@
 "LatLong": "39.33,36.3504"
 }
 ]
+}
+]
 },
 {
 "Name": "Altinyayla",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Harmandali",
@@ -122447,9 +125036,13 @@
 "LatLong": "39.2725,36.751"
 }
 ]
+}
+]
 },
 {
 "Name": "Yildizeli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kirkpinar",
@@ -123067,9 +125660,13 @@
 "LatLong": "40.1425,36.8144"
 }
 ]
+}
+]
 },
 {
 "Name": "Akincilar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Doğantepe",
@@ -123227,9 +125824,13 @@
 "LatLong": "40.0681,38.4219"
 }
 ]
+}
+]
 },
 {
 "Name": "İmranli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tuzözü",
@@ -123759,6 +126360,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Tekirdağ",
@@ -123767,6 +126370,8 @@
 {
 "Name": "Çorlu",
 "Code": "7732607",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çorlu",
@@ -123819,10 +126424,14 @@
 "LatLong": "40.8521,27.3844"
 }
 ]
+}
+]
 },
 {
 "Name": "Çerkezköy",
 "Code": "7732991",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çerkezköy",
@@ -123840,10 +126449,14 @@
 "LatLong": "41.2659,27.9681"
 }
 ]
+}
+]
 },
 {
 "Name": "Hayrabolu",
 "Code": "8632556",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Övenler",
@@ -123996,10 +126609,14 @@
 "LatLong": "41.2174,27.15"
 }
 ]
+}
+]
 },
 {
 "Name": "Saray",
 "Code": "8632558",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Edirköy",
@@ -124117,10 +126734,14 @@
 "LatLong": "41.3778,27.9262"
 }
 ]
+}
+]
 },
 {
 "Name": "Malkara",
 "Code": "8632559",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Malkara",
@@ -124493,10 +127114,14 @@
 "LatLong": "40.8244,27.0125"
 }
 ]
+}
+]
 },
 {
 "Name": "Şarköy",
 "Code": "8632560",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mürefte",
@@ -124644,10 +127269,14 @@
 "LatLong": "40.6955,27.1659"
 }
 ]
+}
+]
 },
 {
 "Name": "Süleymanpaşa",
 "Code": "9549879",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Generli",
@@ -124970,10 +127599,14 @@
 "LatLong": "41.0155,27.285"
 }
 ]
+}
+]
 },
 {
 "Name": "Ergene",
 "Code": "9564781",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ulaş",
@@ -125001,9 +127634,13 @@
 "LatLong": "41.2067,27.7544"
 }
 ]
+}
+]
 },
 {
 "Name": "Kapakli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kapakli",
@@ -125021,9 +127658,13 @@
 "LatLong": "41.2948,27.949"
 }
 ]
+}
+]
 },
 {
 "Name": "Muratli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yukarisirt",
@@ -125111,9 +127752,13 @@
 "LatLong": "41.2175,27.5478"
 }
 ]
+}
+]
 },
 {
 "Name": "Marmaraereğlisi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çeşmeli",
@@ -125148,6 +127793,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Tokat",
@@ -125156,6 +127803,8 @@
 {
 "Name": "Erbaa",
 "Code": "7732992",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Benli",
@@ -125633,10 +128282,14 @@
 "LatLong": "40.7679,36.6126"
 }
 ]
+}
+]
 },
 {
 "Name": "Niksar",
 "Code": "7911035",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eyneağzi",
@@ -126119,10 +128772,14 @@
 "LatLong": "40.5449,36.8892"
 }
 ]
+}
+]
 },
 {
 "Name": "Reşadiye",
 "Code": "7911036",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kuzbaği",
@@ -126560,10 +129217,14 @@
 "LatLong": "40.5403,37.295"
 }
 ]
+}
+]
 },
 {
 "Name": "Başçiftlik",
 "Code": "8631714",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Şahnaalan",
@@ -126621,10 +129282,14 @@
 "LatLong": "40.5454,37.2249"
 }
 ]
+}
+]
 },
 {
 "Name": "Sulusaray",
 "Code": "8631717",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Belpinar",
@@ -126707,10 +129372,14 @@
 "LatLong": "39.9939,36.084"
 }
 ]
+}
+]
 },
 {
 "Name": "Yeşilyurt",
 "Code": "8631738",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ekinli",
@@ -126813,10 +129482,14 @@
 "LatLong": "40.3005,36.9602"
 }
 ]
+}
+]
 },
 {
 "Name": "Artova",
 "Code": "8631740",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ulusulu",
@@ -126959,10 +129632,14 @@
 "LatLong": "40.0865,36.2417"
 }
 ]
+}
+]
 },
 {
 "Name": "Pazar",
 "Code": "8631741",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kaledere",
@@ -127055,10 +129732,14 @@
 "LatLong": "40.2385,36.1945"
 }
 ]
+}
+]
 },
 {
 "Name": "Turhal",
 "Code": "8631742",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ulutepe",
@@ -127331,10 +130012,14 @@
 "LatLong": "40.329,36.2047"
 }
 ]
+}
+]
 },
 {
 "Name": "Almus",
 "Code": "8631743",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oğulbey",
@@ -127552,10 +130237,14 @@
 "LatLong": "40.3155,36.9079"
 }
 ]
+}
+]
 },
 {
 "Name": "Zile",
 "Code": "8631744",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kepez",
@@ -127958,9 +130647,13 @@
 "LatLong": "40.2667,35.95"
 }
 ]
+}
+]
 },
 {
 "Name": "Tokat",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aydoğdu",
@@ -128535,6 +131228,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Trabzon",
@@ -128543,6 +131238,8 @@
 {
 "Name": "Arsin",
 "Code": "7732993",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oğuz",
@@ -128670,10 +131367,14 @@
 "LatLong": "40.7583,40.1528"
 }
 ]
+}
+]
 },
 {
 "Name": "Maçka",
 "Code": "7911030",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kirantaş",
@@ -128976,10 +131677,14 @@
 "LatLong": "40.8717,39.6793"
 }
 ]
+}
+]
 },
 {
 "Name": "Çaykara",
 "Code": "8631456",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Maraşli",
@@ -129142,10 +131847,14 @@
 "LatLong": "40.6777,40.2708"
 }
 ]
+}
+]
 },
 {
 "Name": "Hayrat",
 "Code": "8631457",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yirca",
@@ -129248,10 +131957,14 @@
 "LatLong": "40.8635,40.3429"
 }
 ]
+}
+]
 },
 {
 "Name": "Of",
 "Code": "8631458",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cumapazari",
@@ -129554,10 +132267,14 @@
 "LatLong": "40.95,40.3"
 }
 ]
+}
+]
 },
 {
 "Name": "Sürmene",
 "Code": "8631461",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çamburnu",
@@ -129705,10 +132422,14 @@
 "LatLong": "40.9195,40.0135"
 }
 ]
+}
+]
 },
 {
 "Name": "Tonya",
 "Code": "8631464",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karaağaçli",
@@ -129796,10 +132517,14 @@
 "LatLong": "40.9284,39.241"
 }
 ]
+}
+]
 },
 {
 "Name": "Düzköy",
 "Code": "8631465",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çayirbaği",
@@ -129852,10 +132577,14 @@
 "LatLong": "40.9171,39.4195"
 }
 ]
+}
+]
 },
 {
 "Name": "Yomra",
 "Code": "8631466",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tandirli",
@@ -129963,10 +132692,14 @@
 "LatLong": "40.9523,39.8235"
 }
 ]
+}
+]
 },
 {
 "Name": "Ortahisar",
 "Code": "9549891",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bulak",
@@ -130219,10 +132952,14 @@
 "LatLong": "40.9738,39.8207"
 }
 ]
+}
+]
 },
 {
 "Name": "Beşikdüzü",
 "Code": "9549892",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Duygulu",
@@ -130370,10 +133107,14 @@
 "LatLong": "40.7958,40.0481"
 }
 ]
+}
+]
 },
 {
 "Name": "Akçaabat",
 "Code": "9550057",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Demirtaş",
@@ -130701,9 +133442,13 @@
 "LatLong": "41.0012,39.6073"
 }
 ]
+}
+]
 },
 {
 "Name": "Vakfikebir",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kiranköy",
@@ -130886,9 +133631,13 @@
 "LatLong": "41.0512,39.3058"
 }
 ]
+}
+]
 },
 {
 "Name": "Çarşibaşi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Erenköy",
@@ -130981,9 +133730,13 @@
 "LatLong": "41.0411,39.4987"
 }
 ]
+}
+]
 },
 {
 "Name": "Köprübaşi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Güneşli",
@@ -131016,9 +133769,13 @@
 "LatLong": "40.8086,40.1238"
 }
 ]
+}
+]
 },
 {
 "Name": "Şalpazari",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kasimağzi",
@@ -131146,9 +133903,13 @@
 "LatLong": "40.8816,39.2113"
 }
 ]
+}
+]
 },
 {
 "Name": "Arakli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yassikaya",
@@ -131381,9 +134142,13 @@
 "LatLong": "40.6952,39.8832"
 }
 ]
+}
+]
 },
 {
 "Name": "Dernekpazari",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çayirbaşi",
@@ -131443,6 +134208,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Tunceli",
@@ -131451,6 +134218,8 @@
 {
 "Name": "Hozat",
 "Code": "8631576",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dalören",
@@ -131603,10 +134372,14 @@
 "LatLong": "39.0994,39.2209"
 }
 ]
+}
+]
 },
 {
 "Name": "Pertek",
 "Code": "8631578",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beydami",
@@ -131839,10 +134612,14 @@
 "LatLong": "38.7793,39.4979"
 }
 ]
+}
+]
 },
 {
 "Name": "Pülümür",
 "Code": "8631579",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Derindere",
@@ -132110,10 +134887,14 @@
 "LatLong": "39.395,39.8461"
 }
 ]
+}
+]
 },
 {
 "Name": "Mazgirt",
 "Code": "8631581",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oymadal",
@@ -132476,10 +135257,14 @@
 "LatLong": "38.9462,39.7545"
 }
 ]
+}
+]
 },
 {
 "Name": "Çemişgezek",
 "Code": "8631582",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bağsuyu",
@@ -132647,9 +135432,13 @@
 "LatLong": "39.0833,39.0833"
 }
 ]
+}
+]
 },
 {
 "Name": "Tunceli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çirali",
@@ -132917,9 +135706,13 @@
 "LatLong": "38.9653,39.5394"
 }
 ]
+}
+]
 },
 {
 "Name": "Ovacik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yenisöğüt",
@@ -133257,9 +136050,13 @@
 "LatLong": "39.4236,39.335"
 }
 ]
+}
+]
 },
 {
 "Name": "Nazimiye",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Geriş",
@@ -133389,6 +136186,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Şanliurfa",
@@ -133397,6 +136196,8 @@
 {
 "Name": "Akçakale",
 "Code": "436459",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yusufbey",
@@ -133844,10 +136645,14 @@
 "LatLong": "36.7158,38.7275"
 }
 ]
+}
+]
 },
 {
 "Name": "Harran",
 "Code": "439166",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yolğider",
@@ -134350,10 +137155,14 @@
 "LatLong": "36.8247,38.9714"
 }
 ]
+}
+]
 },
 {
 "Name": "Viranşehir",
 "Code": "8630788",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kervansarayi",
@@ -134951,10 +137760,14 @@
 "LatLong": "37.1593,40.0751"
 }
 ]
+}
+]
 },
 {
 "Name": "Suruç",
 "Code": "8630789",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Taşlikuyu",
@@ -135382,10 +138195,14 @@
 "LatLong": "37.0258,38.439"
 }
 ]
+}
+]
 },
 {
 "Name": "Siverek",
 "Code": "8630791",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çiftçibaşi",
@@ -136043,10 +138860,14 @@
 "LatLong": "37.7344,39.6378"
 }
 ]
+}
+]
 },
 {
 "Name": "Hilvan",
 "Code": "8630792",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çakmak",
@@ -136374,10 +139195,14 @@
 "LatLong": "37.5342,38.9348"
 }
 ]
+}
+]
 },
 {
 "Name": "Birecik",
 "Code": "8630793",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yaylacik",
@@ -136755,10 +139580,14 @@
 "LatLong": "37.1495,37.9145"
 }
 ]
+}
+]
 },
 {
 "Name": "Bozova",
 "Code": "8630794",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dutluca",
@@ -137156,10 +139985,14 @@
 "LatLong": "37.3558,38.1622"
 }
 ]
+}
+]
 },
 {
 "Name": "Halfeti",
 "Code": "8630795",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kurugöl",
@@ -137332,10 +140165,14 @@
 "LatLong": "37.2708,37.9788"
 }
 ]
+}
+]
 },
 {
 "Name": "Eyyübiye",
 "Code": "9550246",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Merkezköy",
@@ -137358,10 +140195,14 @@
 "LatLong": "37.188,38.947"
 }
 ]
+}
+]
 },
 {
 "Name": "Karaköprü",
 "Code": "9550457",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karaköprü",
@@ -137379,10 +140220,14 @@
 "LatLong": "37.1622,38.8722"
 }
 ]
+}
+]
 },
 {
 "Name": "Haliliye",
 "Code": "9550541",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Şairnabi",
@@ -137415,9 +140260,13 @@
 "LatLong": "37.1208,38.9449"
 }
 ]
+}
+]
 },
 {
 "Name": "Ceylanpinar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aydoğdu",
@@ -137602,6 +140451,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Uşak",
@@ -137610,6 +140461,8 @@
 {
 "Name": "Ulubey",
 "Code": "8632459",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Söğütlü",
@@ -137752,10 +140605,14 @@
 "LatLong": "38.4408,29.2639"
 }
 ]
+}
+]
 },
 {
 "Name": "Banaz",
 "Code": "8632461",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Derbent",
@@ -137993,10 +140850,14 @@
 "LatLong": "38.6511,29.6661"
 }
 ]
+}
+]
 },
 {
 "Name": "Eşme",
 "Code": "8632462",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eşme",
@@ -138309,9 +141170,13 @@
 "LatLong": "38.3242,28.9164"
 }
 ]
+}
+]
 },
 {
 "Name": "Uşak",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Göğem",
@@ -138789,9 +141654,13 @@
 "LatLong": "38.6333,29.4"
 }
 ]
+}
+]
 },
 {
 "Name": "Karahalli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Buğdayli",
@@ -138874,9 +141743,13 @@
 "LatLong": "38.3208,29.5303"
 }
 ]
+}
+]
 },
 {
 "Name": "Sivasli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yayalar",
@@ -138991,6 +141864,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Van",
@@ -138999,6 +141874,8 @@
 {
 "Name": "Çatak",
 "Code": "438700",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alacayar",
@@ -139141,10 +142018,14 @@
 "LatLong": "38.0409,43.1086"
 }
 ]
+}
+]
 },
 {
 "Name": "Edremit",
 "Code": "7733001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gümüşdere",
@@ -139162,10 +142043,14 @@
 "LatLong": "38.6181,43.638"
 }
 ]
+}
+]
 },
 {
 "Name": "Erciş",
 "Code": "7733002",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Söğütlü",
@@ -139523,10 +142408,14 @@
 "LatLong": "39.037,43.1571"
 }
 ]
+}
+]
 },
 {
 "Name": "Muradiye",
 "Code": "7911042",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Adakli",
@@ -139739,10 +142628,14 @@
 "LatLong": "38.9836,43.5836"
 }
 ]
+}
+]
 },
 {
 "Name": "Başkale",
 "Code": "8630841",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saçan",
@@ -140065,10 +142958,14 @@
 "LatLong": "38.0242,44.1364"
 }
 ]
+}
+]
 },
 {
 "Name": "Bahçesaray",
 "Code": "8630843",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ulubeyli",
@@ -140171,10 +143068,14 @@
 "LatLong": "38.0468,42.8167"
 }
 ]
+}
+]
 },
 {
 "Name": "Gevaş",
 "Code": "8630844",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Timar",
@@ -140337,10 +143238,14 @@
 "LatLong": "38.3833,42.7833"
 }
 ]
+}
+]
 },
 {
 "Name": "Saray",
 "Code": "8630846",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çardak",
@@ -140463,10 +143368,14 @@
 "LatLong": "38.5852,44.1583"
 }
 ]
+}
+]
 },
 {
 "Name": "Özalp",
 "Code": "8630847",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çavuşlar",
@@ -140739,10 +143648,14 @@
 "LatLong": "38.854,44.0125"
 }
 ]
+}
+]
 },
 {
 "Name": "İpekyolu",
 "Code": "9550938",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valimitatbey",
@@ -140780,9 +143693,13 @@
 "LatLong": "38.581,43.542"
 }
 ]
+}
+]
 },
 {
 "Name": "Tuşba",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İstasyon",
@@ -140800,9 +143717,13 @@
 "LatLong": "38.5167,43.3167"
 }
 ]
+}
+]
 },
 {
 "Name": "Gürpinar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gürpinar",
@@ -140855,9 +143776,13 @@
 "LatLong": "38.3284,43.468"
 }
 ]
+}
+]
 },
 {
 "Name": "Çaldiran",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yukariyaniktaş",
@@ -141187,6 +144112,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Yozgat",
@@ -141195,6 +144122,8 @@
 {
 "Name": "Çekerek",
 "Code": "8631745",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karahacili",
@@ -141422,10 +144351,14 @@
 "LatLong": "40.0731,35.4947"
 }
 ]
+}
+]
 },
 {
 "Name": "Saraykent",
 "Code": "8631748",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saraykent",
@@ -141518,10 +144451,14 @@
 "LatLong": "39.7151,35.5623"
 }
 ]
+}
+]
 },
 {
 "Name": "Akdağmadeni",
 "Code": "8631749",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Başçatak",
@@ -141989,10 +144926,14 @@
 "LatLong": "39.74,35.8513"
 }
 ]
+}
+]
 },
 {
 "Name": "Sorgun",
 "Code": "8631751",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yağcilar",
@@ -142440,10 +145381,14 @@
 "LatLong": "39.6792,35.4258"
 }
 ]
+}
+]
 },
 {
 "Name": "Şefaatli",
 "Code": "8631752",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tahiroğlu",
@@ -142671,10 +145616,14 @@
 "LatLong": "39.575,34.8391"
 }
 ]
+}
+]
 },
 {
 "Name": "Yerköy",
 "Code": "8631771",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Poyraz",
@@ -142977,9 +145926,13 @@
 "LatLong": "39.8847,34.3636"
 }
 ]
+}
+]
 },
 {
 "Name": "Yozgat",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Köçeklioğlu",
@@ -143482,9 +146435,13 @@
 "LatLong": "39.82,34.8044"
 }
 ]
+}
+]
 },
 {
 "Name": "Boğazliyan",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yenikişla",
@@ -143657,9 +146614,13 @@
 "LatLong": "39.3177,35.06"
 }
 ]
+}
+]
 },
 {
 "Name": "Yenifakili",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yiğitler",
@@ -143702,9 +146663,13 @@
 "LatLong": "39.3249,34.9822"
 }
 ]
+}
+]
 },
 {
 "Name": "Aydincik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Büyüktoraman",
@@ -143832,9 +146797,13 @@
 "LatLong": "40.1273,35.2877"
 }
 ]
+}
+]
 },
 {
 "Name": "Kadişehri",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yoncalik",
@@ -143982,9 +146951,13 @@
 "LatLong": "39.9934,35.8259"
 }
 ]
+}
+]
 },
 {
 "Name": "Çayiralan",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Curali",
@@ -144102,9 +147075,13 @@
 "LatLong": "39.3535,35.679"
 }
 ]
+}
+]
 },
 {
 "Name": "Çandir",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kozan",
@@ -144132,9 +147109,13 @@
 "LatLong": "39.3032,35.4772"
 }
 ]
+}
+]
 },
 {
 "Name": "Sarikaya",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karacalar",
@@ -144339,6 +147320,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ankara",
@@ -144347,6 +147330,8 @@
 {
 "Name": "Çankaya",
 "Code": "7732084",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kizilay",
@@ -144464,10 +147449,14 @@
 "LatLong": "39.8808,32.7095"
 }
 ]
+}
+]
 },
 {
 "Name": "Kazan",
 "Code": "7732167",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tekke",
@@ -144550,10 +147539,14 @@
 "LatLong": "40.2829,32.6772"
 }
 ]
+}
+]
 },
 {
 "Name": "Sincan",
 "Code": "7732181",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Temelli",
@@ -144606,10 +147599,14 @@
 "LatLong": "38.3436,33.7525"
 }
 ]
+}
+]
 },
 {
 "Name": "Yenimahalle",
 "Code": "7732184",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Macunköy",
@@ -144657,10 +147654,14 @@
 "LatLong": "39.9955,32.6254"
 }
 ]
+}
+]
 },
 {
 "Name": "Keçiören",
 "Code": "7733221",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Etlik",
@@ -144713,10 +147714,14 @@
 "LatLong": "39.9957,32.8668"
 }
 ]
+}
+]
 },
 {
 "Name": "Beypazari",
 "Code": "7910611",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karaören",
@@ -145059,10 +148064,14 @@
 "LatLong": "40.249,32.1379"
 }
 ]
+}
+]
 },
 {
 "Name": "Evren",
 "Code": "8632037",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Demirayak",
@@ -145115,10 +148124,14 @@
 "LatLong": "39.0263,33.721"
 }
 ]
+}
+]
 },
 {
 "Name": "Elmadağ",
 "Code": "8632039",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kuşçuali",
@@ -145171,10 +148184,14 @@
 "LatLong": "40.0007,33.182"
 }
 ]
+}
+]
 },
 {
 "Name": "Kalecik",
 "Code": "8632041",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aktepe",
@@ -145367,10 +148384,14 @@
 "LatLong": "40.2158,33.4138"
 }
 ]
+}
+]
 },
 {
 "Name": "Akyurt",
 "Code": "8632043",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ahmetadil",
@@ -145398,10 +148419,14 @@
 "LatLong": "39.7497,32.221"
 }
 ]
+}
+]
 },
 {
 "Name": "Çubuk",
 "Code": "8632045",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karaçam",
@@ -145654,10 +148679,14 @@
 "LatLong": "40.3167,33.0114"
 }
 ]
+}
+]
 },
 {
 "Name": "Mamak",
 "Code": "8632046",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mamak",
@@ -145730,10 +148759,14 @@
 "LatLong": "39.9668,33.1109"
 }
 ]
+}
+]
 },
 {
 "Name": "Bala",
 "Code": "8632047",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yukarihacibekir",
@@ -145931,10 +148964,14 @@
 "LatLong": "39.7643,32.1217"
 }
 ]
+}
+]
 },
 {
 "Name": "Şereflikoçhisar",
 "Code": "8632050",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Şeyhli",
@@ -146177,10 +149214,14 @@
 "LatLong": "38.974,33.5753"
 }
 ]
+}
+]
 },
 {
 "Name": "Güdül",
 "Code": "8632056",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Adalikuzu",
@@ -146318,10 +149359,14 @@
 "LatLong": "40.2486,32.2614"
 }
 ]
+}
+]
 },
 {
 "Name": "Haymana",
 "Code": "8632057",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aktepe",
@@ -146689,10 +149734,14 @@
 "LatLong": "39.3529,32.5459"
 }
 ]
+}
+]
 },
 {
 "Name": "Etimesgut",
 "Code": "8632058",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Etimesgut",
@@ -146735,10 +149784,14 @@
 "LatLong": "40.0463,32.6836"
 }
 ]
+}
+]
 },
 {
 "Name": "Ayaş",
 "Code": "8632061",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sinanli",
@@ -146791,10 +149844,14 @@
 "LatLong": "40.0193,32.3322"
 }
 ]
+}
+]
 },
 {
 "Name": "Pursaklar",
 "Code": "9551354",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pursaklar",
@@ -146812,9 +149869,13 @@
 "LatLong": "40.3154,32.0172"
 }
 ]
+}
+]
 },
 {
 "Name": "Altindağ",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ulus",
@@ -146892,9 +149953,13 @@
 "LatLong": "39.8834,32.5557"
 }
 ]
+}
+]
 },
 {
 "Name": "Çamlidere",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pelitcik",
@@ -147107,9 +150172,13 @@
 "LatLong": "40.4896,32.475"
 }
 ]
+}
+]
 },
 {
 "Name": "Gölbaşi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bezirhane",
@@ -147167,9 +150236,13 @@
 "LatLong": "39.5721,32.8087"
 }
 ]
+}
+]
 },
 {
 "Name": "Kizilcahamam",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akçaören",
@@ -147687,9 +150760,13 @@
 "LatLong": "40.35,32.5"
 }
 ]
+}
+]
 },
 {
 "Name": "Polatli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Şeyhali",
@@ -147962,9 +151039,13 @@
 "LatLong": "39.7309,32.23"
 }
 ]
+}
+]
 },
 {
 "Name": "Nallihan",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Davutoğlan",
@@ -148354,6 +151435,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Gümüşhane",
@@ -148362,6 +151445,8 @@
 {
 "Name": "Köse",
 "Code": "8631615",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Örenşar",
@@ -148439,10 +151524,14 @@
 "LatLong": "40.2667,39.5667"
 }
 ]
+}
+]
 },
 {
 "Name": "Torul",
 "Code": "8631616",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aksüt",
@@ -148635,10 +151724,14 @@
 "LatLong": "40.5382,39.3267"
 }
 ]
+}
+]
 },
 {
 "Name": "Kürtün",
 "Code": "8631617",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Özkürtün",
@@ -148821,10 +151914,14 @@
 "LatLong": "40.5333,38.85"
 }
 ]
+}
+]
 },
 {
 "Name": "Şiran",
 "Code": "8631618",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Elmaçukuru",
@@ -149182,10 +152279,14 @@
 "LatLong": "40.2443,39.1753"
 }
 ]
+}
+]
 },
 {
 "Name": "Kelkit",
 "Code": "8631619",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çambaşi",
@@ -149608,9 +152709,13 @@
 "LatLong": "40.0128,39.203"
 }
 ]
+}
+]
 },
 {
 "Name": "Gümüşhane",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gümüşhane",
@@ -150095,6 +153200,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Hakkari",
@@ -150103,6 +153210,8 @@
 {
 "Name": "Yüksekova",
 "Code": "7733232",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Armutdüzü",
@@ -150405,10 +153514,14 @@
 "LatLong": "37.1668,33.8682"
 }
 ]
+}
+]
 },
 {
 "Name": "Çukurca",
 "Code": "8630851",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kavuşak",
@@ -150486,10 +153599,14 @@
 "LatLong": "37.5159,43.3787"
 }
 ]
+}
+]
 },
 {
 "Name": "Şemdinli",
 "Code": "9552157",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ortaklar",
@@ -150612,9 +153729,13 @@
 "LatLong": "37.2983,44.7569"
 }
 ]
+}
+]
 },
 {
 "Name": "Hakkari",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hakkari",
@@ -150814,6 +153935,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Konya",
@@ -150822,6 +153945,8 @@
 {
 "Name": "Karatay",
 "Code": "7732935",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Selimiye",
@@ -150984,10 +154109,14 @@
 "LatLong": "37.9947,33.0235"
 }
 ]
+}
+]
 },
 {
 "Name": "Cihanbeyli",
 "Code": "7932392",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Siğircik",
@@ -151165,10 +154294,14 @@
 "LatLong": "38.9535,32.6253"
 }
 ]
+}
+]
 },
 {
 "Name": "Hadim",
 "Code": "8632065",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Küplüce",
@@ -151311,10 +154444,14 @@
 "LatLong": "37.0021,32.3308"
 }
 ]
+}
+]
 },
 {
 "Name": "Ereğli",
 "Code": "8632066",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Büyükdede",
@@ -151577,10 +154714,14 @@
 "LatLong": "37.9176,33.9139"
 }
 ]
+}
+]
 },
 {
 "Name": "Emirgazi",
 "Code": "8632069",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Besci",
@@ -151633,10 +154774,14 @@
 "LatLong": "37.9027,33.7889"
 }
 ]
+}
+]
 },
 {
 "Name": "Kulu",
 "Code": "8632092",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yeşilyurt",
@@ -151819,10 +154964,14 @@
 "LatLong": "39.0619,32.8183"
 }
 ]
+}
+]
 },
 {
 "Name": "Sarayönü",
 "Code": "8632094",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kuyulusebil",
@@ -151915,10 +155064,14 @@
 "LatLong": "38.1919,32.3739"
 }
 ]
+}
+]
 },
 {
 "Name": "Derbent",
 "Code": "8632098",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Derbenttekke",
@@ -151956,10 +155109,14 @@
 "LatLong": "37.9718,32.0084"
 }
 ]
+}
+]
 },
 {
 "Name": "Beyşehir",
 "Code": "8632099",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sevindik",
@@ -152192,10 +155349,14 @@
 "LatLong": "37.8721,31.8529"
 }
 ]
+}
+]
 },
 {
 "Name": "Seydişehir",
 "Code": "8632100",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karacaören",
@@ -152403,10 +155564,14 @@
 "LatLong": "37.4422,31.7625"
 }
 ]
+}
+]
 },
 {
 "Name": "Akören",
 "Code": "8632104",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ahmediye",
@@ -152464,10 +155629,14 @@
 "LatLong": "37.615,33.0325"
 }
 ]
+}
+]
 },
 {
 "Name": "Taşkent",
 "Code": "8632106",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kongul",
@@ -152510,10 +155679,14 @@
 "LatLong": "36.8789,32.6208"
 }
 ]
+}
+]
 },
 {
 "Name": "Derebucak",
 "Code": "8632108",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Uğurlu",
@@ -152561,10 +155734,14 @@
 "LatLong": "37.3498,31.6396"
 }
 ]
+}
+]
 },
 {
 "Name": "Tuzlukçu",
 "Code": "8632109",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Koraşi",
@@ -152627,10 +155804,14 @@
 "LatLong": "38.4878,31.6654"
 }
 ]
+}
+]
 },
 {
 "Name": "Yunak",
 "Code": "8632110",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sinanli",
@@ -152818,10 +155999,14 @@
 "LatLong": "38.6947,31.7539"
 }
 ]
+}
+]
 },
 {
 "Name": "Çeltik",
 "Code": "8632111",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Doğanyurt",
@@ -152869,10 +156054,14 @@
 "LatLong": "38.945,31.6925"
 }
 ]
+}
+]
 },
 {
 "Name": "Doğanhisar",
 "Code": "8632112",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yazir",
@@ -152960,10 +156149,14 @@
 "LatLong": "38.1851,31.6123"
 }
 ]
+}
+]
 },
 {
 "Name": "Meram",
 "Code": "8632115",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hatunsaray",
@@ -153146,10 +156339,14 @@
 "LatLong": "37.9273,32.4199"
 }
 ]
+}
+]
 },
 {
 "Name": "Çumra",
 "Code": "8632116",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gökhüyük",
@@ -153357,10 +156554,14 @@
 "LatLong": "38.1524,32.1734"
 }
 ]
+}
+]
 },
 {
 "Name": "Hüyük",
 "Code": "8632117",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tolca",
@@ -153463,10 +156664,14 @@
 "LatLong": "37.9161,31.6706"
 }
 ]
+}
+]
 },
 {
 "Name": "Akşehir",
 "Code": "8632118",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ulupinar",
@@ -153644,9 +156849,13 @@
 "LatLong": "38.3925,31.5467"
 }
 ]
+}
+]
 },
 {
 "Name": "Selçuklu",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nalçaci",
@@ -153804,9 +157013,13 @@
 "LatLong": "38.0637,32.6042"
 }
 ]
+}
+]
 },
 {
 "Name": "Ahirli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karacakuyu",
@@ -153869,9 +157082,13 @@
 "LatLong": "37.3665,32.1339"
 }
 ]
+}
+]
 },
 {
 "Name": "Karapinar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sazlipinar",
@@ -153969,9 +157186,13 @@
 "LatLong": "37.853,33.7252"
 }
 ]
+}
+]
 },
 {
 "Name": "Altinekin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sarniç",
@@ -154054,9 +157275,13 @@
 "LatLong": "38.1803,32.8675"
 }
 ]
+}
+]
 },
 {
 "Name": "Yalihüyük",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sarayköy",
@@ -154074,9 +157299,13 @@
 "LatLong": "37.2819,32.1001"
 }
 ]
+}
+]
 },
 {
 "Name": "Güneysinir",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Habiller",
@@ -154149,9 +157378,13 @@
 "LatLong": "37.1893,32.6757"
 }
 ]
+}
+]
 },
 {
 "Name": "Ilgin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gedikören",
@@ -154409,9 +157642,13 @@
 "LatLong": "38.3928,31.8539"
 }
 ]
+}
+]
 },
 {
 "Name": "Bozkir",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Soğucak",
@@ -154659,9 +157896,13 @@
 "LatLong": "37.7895,32.0354"
 }
 ]
+}
+]
 },
 {
 "Name": "Kadinhani",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kadinhani",
@@ -154874,9 +158115,13 @@
 "LatLong": "38.1878,32.1461"
 }
 ]
+}
+]
 },
 {
 "Name": "Halkapinar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yassikaya",
@@ -154961,6 +158206,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Mardin",
@@ -154969,6 +158216,8 @@
 {
 "Name": "Savur",
 "Code": "441186",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Harmantepe",
@@ -155166,10 +158415,14 @@
 "LatLong": "37.585,40.7372"
 }
 ]
+}
+]
 },
 {
 "Name": "Yeşilli",
 "Code": "441187",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aliçli",
@@ -155222,10 +158475,14 @@
 "LatLong": "37.4797,40.9879"
 }
 ]
+}
+]
 },
 {
 "Name": "Ömerli",
 "Code": "441188",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çalişan",
@@ -155448,10 +158705,14 @@
 "LatLong": "37.3708,41.0967"
 }
 ]
+}
+]
 },
 {
 "Name": "Dargeçit",
 "Code": "441646",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tanyeri",
@@ -155644,10 +158905,14 @@
 "LatLong": "37.1028,40.4542"
 }
 ]
+}
+]
 },
 {
 "Name": "Nusaybin",
 "Code": "441966",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Demirtepe",
@@ -155995,10 +159260,14 @@
 "LatLong": "37.2355,41.0607"
 }
 ]
+}
+]
 },
 {
 "Name": "Derik",
 "Code": "8630817",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kutluca",
@@ -156366,10 +159635,14 @@
 "LatLong": "37.3714,40.336"
 }
 ]
+}
+]
 },
 {
 "Name": "Artuklu",
 "Code": "9552222",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İstasyon",
@@ -156712,9 +159985,13 @@
 "LatLong": "37.5983,41.1286"
 }
 ]
+}
+]
 },
 {
 "Name": "Kiziltepe",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Büyükayrik",
@@ -157527,9 +160804,13 @@
 "LatLong": "37.2949,40.6342"
 }
 ]
+}
+]
 },
 {
 "Name": "Midyat(Estel)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çamyurt",
@@ -157847,9 +161128,13 @@
 "LatLong": "37.4573,41.2969"
 }
 ]
+}
+]
 },
 {
 "Name": "Mazidaği",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Konur",
@@ -158114,6 +161399,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Niğde",
@@ -158122,6 +161409,8 @@
 {
 "Name": "Bor",
 "Code": "7910467",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kavuklu",
@@ -158259,10 +161548,14 @@
 "LatLong": "37.8239,34.5714"
 }
 ]
+}
+]
 },
 {
 "Name": "Altunhisar",
 "Code": "8631911",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yakacik",
@@ -158310,9 +161603,13 @@
 "LatLong": "38.0603,34.1191"
 }
 ]
+}
+]
 },
 {
 "Name": "Niğde",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aşlama",
@@ -158590,9 +161887,13 @@
 "LatLong": "38.304,34.8871"
 }
 ]
+}
+]
 },
 {
 "Name": "Çamardi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yelatan",
@@ -158705,9 +162006,13 @@
 "LatLong": "37.8473,35.0161"
 }
 ]
+}
+]
 },
 {
 "Name": "Çiftlik(Özyurt)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çardak",
@@ -158780,9 +162085,13 @@
 "LatLong": "38.2367,34.4839"
 }
 ]
+}
+]
 },
 {
 "Name": "Ulukişla",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Handere",
@@ -158987,6 +162296,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Siirt",
@@ -158995,6 +162306,8 @@
 {
 "Name": "Pervari",
 "Code": "438624",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gökbudak",
@@ -159212,10 +162525,14 @@
 "LatLong": "37.8962,42.4856"
 }
 ]
+}
+]
 },
 {
 "Name": "Kurtalan",
 "Code": "440906",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çayirli",
@@ -159498,10 +162815,14 @@
 "LatLong": "37.9825,41.6653"
 }
 ]
+}
+]
 },
 {
 "Name": "Siirt",
 "Code": "440907",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Siirt",
@@ -159684,10 +163005,14 @@
 "LatLong": "37.8233,41.8469"
 }
 ]
+}
+]
 },
 {
 "Name": "Eruh",
 "Code": "8630838",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bozatli",
@@ -159985,10 +163310,14 @@
 "LatLong": "37.7217,42.0681"
 }
 ]
+}
+]
 },
 {
 "Name": "Baykan",
 "Code": "8630839",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Obali",
@@ -160156,10 +163485,14 @@
 "LatLong": "38.0724,41.8385"
 }
 ]
+}
+]
 },
 {
 "Name": "Şirvan",
 "Code": "8630840",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kömürlü",
@@ -160452,9 +163785,13 @@
 "LatLong": "38.0787,42.3591"
 }
 ]
+}
+]
 },
 {
 "Name": "Aydinlar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Taşbalta",
@@ -160494,6 +163831,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Aksaray",
@@ -160502,6 +163841,8 @@
 {
 "Name": "Eskil",
 "Code": "8631917",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bayramdüğün",
@@ -160554,10 +163895,14 @@
 "LatLong": "38.1877,33.4858"
 }
 ]
+}
+]
 },
 {
 "Name": "Ağaçören",
 "Code": "8631920",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çatalçeşme",
@@ -160705,10 +164050,14 @@
 "LatLong": "38.9042,33.8593"
 }
 ]
+}
+]
 },
 {
 "Name": "Ortaköy",
 "Code": "8631922",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Salarigödeler",
@@ -160871,10 +164220,14 @@
 "LatLong": "38.4271,34.2672"
 }
 ]
+}
+]
 },
 {
 "Name": "Gülağaç",
 "Code": "8631923",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Düğüz",
@@ -160947,10 +164300,14 @@
 "LatLong": "38.829,33.7942"
 }
 ]
+}
+]
 },
 {
 "Name": "Güzelyurt",
 "Code": "8631925",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bozcayurt",
@@ -161013,9 +164370,13 @@
 "LatLong": "38.2406,34.2996"
 }
 ]
+}
+]
 },
 {
 "Name": "Aksaray",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karaören",
@@ -161488,9 +164849,13 @@
 "LatLong": "38.3024,34.0693"
 }
 ]
+}
+]
 },
 {
 "Name": "Sariyahşi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bekdik",
@@ -161530,6 +164895,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Batman",
@@ -161538,6 +164905,8 @@
 {
 "Name": "Beşiri",
 "Code": "440476",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yarimtaş",
@@ -161790,10 +165159,14 @@
 "LatLong": "37.9104,41.4393"
 }
 ]
+}
+]
 },
 {
 "Name": "Hasankeyf",
 "Code": "440905",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Irmakköy",
@@ -161891,10 +165264,14 @@
 "LatLong": "37.6789,41.3392"
 }
 ]
+}
+]
 },
 {
 "Name": "Gercüş",
 "Code": "441468",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hisar",
@@ -162197,10 +165574,14 @@
 "LatLong": "37.58,41.1344"
 }
 ]
+}
+]
 },
 {
 "Name": "Sason",
 "Code": "8630819",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çakirpinar",
@@ -162448,10 +165829,14 @@
 "LatLong": "38.3339,41.4063"
 }
 ]
+}
+]
 },
 {
 "Name": "Kozluk",
 "Code": "8630820",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Örensu",
@@ -162794,9 +166179,13 @@
 "LatLong": "38.1661,41.4011"
 }
 ]
+}
+]
 },
 {
 "Name": "Batman",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Erköklü",
@@ -162981,6 +166370,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Bayburt",
@@ -162989,6 +166380,8 @@
 {
 "Name": "Demirözü",
 "Code": "8631613",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çağilli",
@@ -163141,9 +166534,13 @@
 "LatLong": "40.1066,39.8636"
 }
 ]
+}
+]
 },
 {
 "Name": "Bayburt",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mutlu",
@@ -163661,9 +167058,13 @@
 "LatLong": "40.3669,40.1044"
 }
 ]
+}
+]
 },
 {
 "Name": "Aydintepe",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çayirköprü",
@@ -163788,6 +167189,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Karaman",
@@ -163796,6 +167199,8 @@
 {
 "Name": "Başyayla",
 "Code": "8632132",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Başyayla",
@@ -163823,10 +167228,14 @@
 "LatLong": "36.7194,32.6832"
 }
 ]
+}
+]
 },
 {
 "Name": "Ermenek",
 "Code": "8632136",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pamuklu",
@@ -163979,9 +167388,13 @@
 "LatLong": "36.5048,32.8567"
 }
 ]
+}
+]
 },
 {
 "Name": "Karaman",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Salur",
@@ -164474,9 +167887,13 @@
 "LatLong": "39.9333,36.8833"
 }
 ]
+}
+]
 },
 {
 "Name": "Ayranci",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Berendi",
@@ -164594,9 +168011,13 @@
 "LatLong": "37.2844,33.7591"
 }
 ]
+}
+]
 },
 {
 "Name": "Kazimkarabekir",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kizilkuyu",
@@ -164634,9 +168055,13 @@
 "LatLong": "37.2925,33.052"
 }
 ]
+}
+]
 },
 {
 "Name": "Sariveliler",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dumlugöze",
@@ -164706,6 +168131,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kirikkale",
@@ -164714,6 +168141,8 @@
 {
 "Name": "Yahşihan",
 "Code": "8631941",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yahşihan",
@@ -164761,10 +168190,14 @@
 "LatLong": "39.9001,33.4333"
 }
 ]
+}
+]
 },
 {
 "Name": "Bahşili",
 "Code": "8631942",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Küreboğazi",
@@ -164797,10 +168230,14 @@
 "LatLong": "39.7373,33.3968"
 }
 ]
+}
+]
 },
 {
 "Name": "Delice",
 "Code": "8631944",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çerikli",
@@ -165013,10 +168450,14 @@
 "LatLong": "39.9925,34.007"
 }
 ]
+}
+]
 },
 {
 "Name": "Sulakyurt",
 "Code": "8631945",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Faraşli",
@@ -165154,10 +168595,14 @@
 "LatLong": "40.0717,33.6447"
 }
 ]
+}
+]
 },
 {
 "Name": "Keskin",
 "Code": "8631946",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Keskin",
@@ -165440,10 +168885,14 @@
 "LatLong": "39.6655,33.5555"
 }
 ]
+}
+]
 },
 {
 "Name": "Karakeçili",
 "Code": "8631964",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akkoşan",
@@ -165461,10 +168910,14 @@
 "LatLong": "39.624,33.4107"
 }
 ]
+}
+]
 },
 {
 "Name": "Çelebi",
 "Code": "8631965",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karayakup",
@@ -165537,9 +168990,13 @@
 "LatLong": "39.4481,33.435"
 }
 ]
+}
+]
 },
 {
 "Name": "Kirikkale",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ulaş",
@@ -165617,9 +169074,13 @@
 "LatLong": "39.8409,33.42"
 }
 ]
+}
+]
 },
 {
 "Name": "Balişeyh",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ulakli",
@@ -165769,6 +169230,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Şirnak",
@@ -165777,6 +169240,8 @@
 {
 "Name": "Cizre",
 "Code": "438774",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çatalköy",
@@ -165834,10 +169299,14 @@
 "LatLong": "37.3289,42.2648"
 }
 ]
+}
+]
 },
 {
 "Name": "Uludere",
 "Code": "438878",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akduman",
@@ -165885,10 +169354,14 @@
 "LatLong": "37.4947,42.9933"
 }
 ]
+}
+]
 },
 {
 "Name": "Beytüşşebap",
 "Code": "438958",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Günyüzü",
@@ -166051,10 +169524,14 @@
 "LatLong": "37.5513,43.0493"
 }
 ]
+}
+]
 },
 {
 "Name": "Silopi",
 "Code": "438989",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kösreli",
@@ -166232,10 +169709,14 @@
 "LatLong": "37.2691,42.5159"
 }
 ]
+}
+]
 },
 {
 "Name": "Güçlükonak",
 "Code": "441645",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çetinkaya",
@@ -166373,10 +169854,14 @@
 "LatLong": "37.5119,41.9722"
 }
 ]
+}
+]
 },
 {
 "Name": "İdil",
 "Code": "442034",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karalar",
@@ -166619,9 +170104,13 @@
 "LatLong": "37.3233,41.8543"
 }
 ]
+}
+]
 },
 {
 "Name": "Şirnak",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kavuncu",
@@ -166821,6 +170310,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Adana",
@@ -166829,6 +170320,8 @@
 {
 "Name": "Ceyhan",
 "Code": "7732059",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mustafabeyli",
@@ -167261,10 +170754,14 @@
 "LatLong": "36.9737,35.7019"
 }
 ]
+}
+]
 },
 {
 "Name": "Seyhan",
 "Code": "7732063",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yağcami",
@@ -167377,10 +170874,14 @@
 "LatLong": "37.0065,35.2019"
 }
 ]
+}
+]
 },
 {
 "Name": "Yüreğir",
 "Code": "7732065",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yavuzlar",
@@ -167493,10 +170994,14 @@
 "LatLong": "36.919,35.5395"
 }
 ]
+}
+]
 },
 {
 "Name": "Kozan",
 "Code": "7911055",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dikilitaş",
@@ -167914,10 +171419,14 @@
 "LatLong": "37.3124,35.8791"
 }
 ]
+}
+]
 },
 {
 "Name": "Saimbeyli",
 "Code": "8631903",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cumhurlu",
@@ -168055,10 +171564,14 @@
 "LatLong": "38.1,36"
 }
 ]
+}
+]
 },
 {
 "Name": "Tufanbeyli",
 "Code": "8631904",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kayapinar",
@@ -168211,10 +171724,14 @@
 "LatLong": "38.1731,36.1972"
 }
 ]
+}
+]
 },
 {
 "Name": "Feke",
 "Code": "8631905",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kovukçinar",
@@ -168417,10 +171934,14 @@
 "LatLong": "37.8416,35.8418"
 }
 ]
+}
+]
 },
 {
 "Name": "İmamoğlu",
 "Code": "8631908",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ufacikören",
@@ -168523,10 +172044,14 @@
 "LatLong": "37.3073,35.5732"
 }
 ]
+}
+]
 },
 {
 "Name": "Karataş",
 "Code": "8631910",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yenimurat",
@@ -168719,10 +172244,14 @@
 "LatLong": "36.6869,35.2913"
 }
 ]
+}
+]
 },
 {
 "Name": "Çukurova",
 "Code": "9552840",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fadil",
@@ -168785,9 +172314,13 @@
 "LatLong": "37.1091,35.113"
 }
 ]
+}
+]
 },
 {
 "Name": "Sariçam",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Remzioğuzarik",
@@ -169010,9 +172543,13 @@
 "LatLong": "37.1442,35.4591"
 }
 ]
+}
+]
 },
 {
 "Name": "Pozanti",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hamidiye",
@@ -169110,9 +172647,13 @@
 "LatLong": "37.3805,34.8081"
 }
 ]
+}
+]
 },
 {
 "Name": "Yumurtalik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kaldirim",
@@ -169205,9 +172746,13 @@
 "LatLong": "36.7849,35.6841"
 }
 ]
+}
+]
 },
 {
 "Name": "Aladağ(Karsanti)",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gerdibi",
@@ -169350,9 +172895,13 @@
 "LatLong": "37.5849,35.5308"
 }
 ]
+}
+]
 },
 {
 "Name": "Karaisali",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fadil",
@@ -169672,6 +173221,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Çankiri",
@@ -169680,6 +173231,8 @@
 {
 "Name": "Şabanözü",
 "Code": "7733226",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çaparkayi",
@@ -169792,10 +173345,14 @@
 "LatLong": "40.3843,33.2935"
 }
 ]
+}
+]
 },
 {
 "Name": "Eldivan",
 "Code": "8631966",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akbulut",
@@ -169883,10 +173440,14 @@
 "LatLong": "40.6027,33.5107"
 }
 ]
+}
+]
 },
 {
 "Name": "Çerkeş",
 "Code": "8631969",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dağçukurören",
@@ -170154,10 +173715,14 @@
 "LatLong": "40.8753,32.6047"
 }
 ]
+}
+]
 },
 {
 "Name": "Atkaracalar",
 "Code": "8631971",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bozkuş",
@@ -170220,10 +173785,14 @@
 "LatLong": "40.8061,33.1286"
 }
 ]
+}
+]
 },
 {
 "Name": "Orta",
 "Code": "8631972",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yenice",
@@ -170366,10 +173935,14 @@
 "LatLong": "40.6443,32.9965"
 }
 ]
+}
+]
 },
 {
 "Name": "Korgun",
 "Code": "8631973",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karatepe",
@@ -170437,10 +174010,14 @@
 "LatLong": "40.7204,33.4618"
 }
 ]
+}
+]
 },
 {
 "Name": "Bayramören",
 "Code": "8631974",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Erenler",
@@ -170583,10 +174160,14 @@
 "LatLong": "40.8092,33.9525"
 }
 ]
+}
+]
 },
 {
 "Name": "Ilgaz",
 "Code": "8631975",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bükcük",
@@ -170964,10 +174545,14 @@
 "LatLong": "40.9958,33.7249"
 }
 ]
+}
+]
 },
 {
 "Name": "Kurşunlu",
 "Code": "8631976",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Göllüce",
@@ -171115,9 +174700,13 @@
 "LatLong": "40.9185,33.3211"
 }
 ]
+}
+]
 },
 {
 "Name": "Çankiri",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Germece",
@@ -171380,9 +174969,13 @@
 "LatLong": "40.4573,33.817"
 }
 ]
+}
+]
 },
 {
 "Name": "Kizilirmak",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karamürsel",
@@ -171520,9 +175113,13 @@
 "LatLong": "40.3456,33.9864"
 }
 ]
+}
+]
 },
 {
 "Name": "Yaprakli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akyazi",
@@ -171737,6 +175334,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Gaziantep",
@@ -171745,6 +175344,8 @@
 {
 "Name": "Oğuzeli",
 "Code": "436187",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gündoğan",
@@ -171867,10 +175468,14 @@
 "LatLong": "36.9853,37.5072"
 }
 ]
+}
+]
 },
 {
 "Name": "İslahiye",
 "Code": "437252",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karapinar",
@@ -172143,10 +175748,14 @@
 "LatLong": "37.5966,36.3197"
 }
 ]
+}
+]
 },
 {
 "Name": "Şahinbey",
 "Code": "437630",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Şahinbey",
@@ -172464,10 +176073,14 @@
 "LatLong": "37.0167,37.35"
 }
 ]
+}
+]
 },
 {
 "Name": "Şehitkamil",
 "Code": "7732373",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sofalaca",
@@ -172780,10 +176393,14 @@
 "LatLong": "37.11,37.6028"
 }
 ]
+}
+]
 },
 {
 "Name": "Araban",
 "Code": "7733230",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dağdağancik",
@@ -172991,10 +176608,14 @@
 "LatLong": "37.3779,37.881"
 }
 ]
+}
+]
 },
 {
 "Name": "Nizip",
 "Code": "8630759",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kurucahüyük",
@@ -173412,10 +177033,14 @@
 "LatLong": "37.1509,37.6933"
 }
 ]
+}
+]
 },
 {
 "Name": "Yavuzeli",
 "Code": "8630760",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aşağikayabaşi",
@@ -173618,9 +177243,13 @@
 "LatLong": "37.284,37.776"
 }
 ]
+}
+]
 },
 {
 "Name": "Nurdaği",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karaburçlu",
@@ -173803,9 +177432,13 @@
 "LatLong": "37.2192,36.9748"
 }
 ]
+}
+]
 },
 {
 "Name": "Karkamiş",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çiflikköy",
@@ -173990,6 +177623,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kars",
@@ -173998,6 +177633,8 @@
 {
 "Name": "Digor",
 "Code": "8631364",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Şirinköy",
@@ -174195,10 +177832,14 @@
 "LatLong": "40.353,43.3459"
 }
 ]
+}
+]
 },
 {
 "Name": "Akyaka",
 "Code": "8631366",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kürekdere",
@@ -174341,10 +177982,14 @@
 "LatLong": "40.7731,43.6155"
 }
 ]
+}
+]
 },
 {
 "Name": "Arpaçay",
 "Code": "8631367",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bozyiğit",
@@ -174587,10 +178232,14 @@
 "LatLong": "40.84,43.5187"
 }
 ]
+}
+]
 },
 {
 "Name": "Susuz",
 "Code": "8631368",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aynali",
@@ -174733,10 +178382,14 @@
 "LatLong": "40.7783,43.1373"
 }
 ]
+}
+]
 },
 {
 "Name": "Selim",
 "Code": "8631369",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Koyunyurdu",
@@ -175004,9 +178657,13 @@
 "LatLong": "40.432,42.7223"
 }
 ]
+}
+]
 },
 {
 "Name": "Kars",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Esenyazi",
@@ -175379,9 +179036,13 @@
 "LatLong": "40.5755,43.2036"
 }
 ]
+}
+]
 },
 {
 "Name": "Sarikamiş",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Armutlu",
@@ -175594,9 +179255,13 @@
 "LatLong": "40.3978,42.7169"
 }
 ]
+}
+]
 },
 {
 "Name": "Kağizman",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tomruktaş",
@@ -175916,6 +179581,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Zonguldak",
@@ -175924,6 +179591,8 @@
 {
 "Name": "Çaycuma",
 "Code": "8632508",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çayköy",
@@ -176376,10 +180045,14 @@
 "LatLong": "40.616,31.1701"
 }
 ]
+}
+]
 },
 {
 "Name": "Gökçebey",
 "Code": "8632509",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bakiler",
@@ -176482,10 +180155,14 @@
 "LatLong": "41.3371,32.1105"
 }
 ]
+}
+]
 },
 {
 "Name": "Devrek",
 "Code": "8632510",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Başlarkadi",
@@ -176898,10 +180575,14 @@
 "LatLong": "41.2713,32.0704"
 }
 ]
+}
+]
 },
 {
 "Name": "Kozlu",
 "Code": "9553115",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kozluköy",
@@ -177014,10 +180695,14 @@
 "LatLong": "41.3238,31.7711"
 }
 ]
+}
+]
 },
 {
 "Name": "Kilimli",
 "Code": "9553975",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kilimli",
@@ -177025,9 +180710,13 @@
 "LatLong": "41.4911,31.8386"
 }
 ]
+}
+]
 },
 {
 "Name": "Zonguldak",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sapça",
@@ -177235,9 +180924,13 @@
 "LatLong": "41.286,31.8138"
 }
 ]
+}
+]
 },
 {
 "Name": "Karadenizereğli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kaymaklar",
@@ -177735,9 +181428,13 @@
 "LatLong": "41.3522,31.5088"
 }
 ]
+}
+]
 },
 {
 "Name": "Alapli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kürkükler",
@@ -177997,6 +181694,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ardahan",
@@ -178005,6 +181704,8 @@
 {
 "Name": "Göle",
 "Code": "8631396",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Budakli",
@@ -178272,10 +181973,14 @@
 "LatLong": "40.8349,42.5996"
 }
 ]
+}
+]
 },
 {
 "Name": "Damal",
 "Code": "8631397",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Burmadere",
@@ -178323,10 +182028,14 @@
 "LatLong": "41.343,42.7946"
 }
 ]
+}
+]
 },
 {
 "Name": "Hanak",
 "Code": "8631398",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Börk",
@@ -178444,10 +182153,14 @@
 "LatLong": "41.1631,42.9869"
 }
 ]
+}
+]
 },
 {
 "Name": "Posof",
 "Code": "8631399",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Armutveren",
@@ -178700,9 +182413,13 @@
 "LatLong": "41.4892,42.7211"
 }
 ]
+}
+]
 },
 {
 "Name": "Ardahan",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çetinsu",
@@ -179015,9 +182732,13 @@
 "LatLong": "41.199,42.6117"
 }
 ]
+}
+]
 },
 {
 "Name": "Çildir",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kayabeyi",
@@ -179207,6 +182928,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Bartin",
@@ -179215,6 +182938,8 @@
 {
 "Name": "Amasra",
 "Code": "8632505",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Amasra",
@@ -179372,10 +183097,14 @@
 "LatLong": "41.746,32.478"
 }
 ]
+}
+]
 },
 {
 "Name": "Ulus",
 "Code": "8632506",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yilanlar",
@@ -179743,10 +183472,14 @@
 "LatLong": "41.5166,32.5612"
 }
 ]
+}
+]
 },
 {
 "Name": "Kurucaşile",
 "Code": "8632507",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kurucaşile",
@@ -179894,9 +183627,13 @@
 "LatLong": "41.6603,32.7038"
 }
 ]
+}
+]
 },
 {
 "Name": "Bartin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Demirciler",
@@ -180611,6 +184348,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Iğdir",
@@ -180619,6 +184358,8 @@
 {
 "Name": "Tuzluca",
 "Code": "8630873",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karacaören",
@@ -181046,10 +184787,14 @@
 "LatLong": "39.9712,43.4421"
 }
 ]
+}
+]
 },
 {
 "Name": "Karakoyunlu",
 "Code": "8630874",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zülfikarköy",
@@ -181157,9 +184902,13 @@
 "LatLong": "39.9751,44.0525"
 }
 ]
+}
+]
 },
 {
 "Name": "Iğdir",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aşağiçarikçi",
@@ -181382,9 +185131,13 @@
 "LatLong": "39.9086,43.9665"
 }
 ]
+}
+]
 },
 {
 "Name": "Aralik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tazeköy",
@@ -181504,6 +185257,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Karabük",
@@ -181512,6 +185267,8 @@
 {
 "Name": "Eflani",
 "Code": "8632500",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Demirli",
@@ -181789,10 +185546,14 @@
 "LatLong": "41.5633,33.0513"
 }
 ]
+}
+]
 },
 {
 "Name": "Safranbolu",
 "Code": "8632502",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Değirmencik",
@@ -182070,10 +185831,14 @@
 "LatLong": "41.2149,32.6879"
 }
 ]
+}
+]
 },
 {
 "Name": "Yenice",
 "Code": "8632503",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Güney",
@@ -182251,10 +186016,14 @@
 "LatLong": "41.2411,32.2076"
 }
 ]
+}
+]
 },
 {
 "Name": "Eskipazar",
 "Code": "8632504",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kapucular",
@@ -182507,9 +186276,13 @@
 "LatLong": "40.9004,32.5227"
 }
 ]
+}
+]
 },
 {
 "Name": "Karabük",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yeşilköy",
@@ -182732,9 +186505,13 @@
 "LatLong": "40.2644,29.6531"
 }
 ]
+}
+]
 },
 {
 "Name": "Ovacik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Küçüksu",
@@ -182954,6 +186731,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kilis",
@@ -182962,6 +186741,8 @@
 {
 "Name": "Musabeyli",
 "Code": "437251",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yukarikalecik",
@@ -183199,10 +186980,14 @@
 "LatLong": "36.8422,36.9292"
 }
 ]
+}
+]
 },
 {
 "Name": "Polateli",
 "Code": "437627",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Polateli",
@@ -183290,10 +187075,14 @@
 "LatLong": "36.8153,37.0275"
 }
 ]
+}
+]
 },
 {
 "Name": "Kilis",
 "Code": "437628",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mağaracik",
@@ -183561,10 +187350,14 @@
 "LatLong": "36.7164,37.1994"
 }
 ]
+}
+]
 },
 {
 "Name": "Elbeyli",
 "Code": "437629",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karacurun",
@@ -183689,6 +187482,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Osmaniye",
@@ -183697,6 +187492,8 @@
 {
 "Name": "Toprakkale",
 "Code": "7910463",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lalegölü",
@@ -183734,10 +187531,14 @@
 "LatLong": "37.0519,36.0941"
 }
 ]
+}
+]
 },
 {
 "Name": "Düziçi",
 "Code": "8631467",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Elbeyli",
@@ -183885,10 +187686,14 @@
 "LatLong": "37.2754,36.3353"
 }
 ]
+}
+]
 },
 {
 "Name": "Bahçe",
 "Code": "8631468",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İnderesi",
@@ -183971,10 +187776,14 @@
 "LatLong": "37.1932,36.5303"
 }
 ]
+}
+]
 },
 {
 "Name": "Hasanbeyli",
 "Code": "8631469",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çulhali",
@@ -184012,10 +187821,14 @@
 "LatLong": "37.1636,36.5481"
 }
 ]
+}
+]
 },
 {
 "Name": "Kadirli",
 "Code": "8631470",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vayvayli",
@@ -184328,10 +188141,14 @@
 "LatLong": "37.3566,36.086"
 }
 ]
+}
+]
 },
 {
 "Name": "Sumbas",
 "Code": "8631471",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sumbas",
@@ -184414,9 +188231,13 @@
 "LatLong": "37.4844,36.0469"
 }
 ]
+}
+]
 },
 {
 "Name": "Osmaniye",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Orhaniye",
@@ -184616,6 +188437,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Yalova",
@@ -184624,6 +188447,8 @@
 {
 "Name": "Termal",
 "Code": "8632543",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akköy",
@@ -184641,10 +188466,14 @@
 "LatLong": "40.6081,29.2111"
 }
 ]
+}
+]
 },
 {
 "Name": "Çiftlikköy",
 "Code": "8632544",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dereköy",
@@ -184702,10 +188531,14 @@
 "LatLong": "40.5689,29.4071"
 }
 ]
+}
+]
 },
 {
 "Name": "Armutlu",
 "Code": "8632545",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mecidiye",
@@ -184738,9 +188571,13 @@
 "LatLong": "40.6531,29.6068"
 }
 ]
+}
+]
 },
 {
 "Name": "Yalova",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mustafakemalpaşa",
@@ -184813,9 +188650,13 @@
 "LatLong": "41.5793,35.3465"
 }
 ]
+}
+]
 },
 {
 "Name": "Çinarcik",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ortaburun",
@@ -184858,9 +188699,13 @@
 "LatLong": "40.6543,29.1629"
 }
 ]
+}
+]
 },
 {
 "Name": "Altinova",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Geyikdere",
@@ -184955,6 +188800,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Düzce",
@@ -184963,6 +188810,8 @@
 {
 "Name": "Çilimli",
 "Code": "8632515",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yukarikaraköy",
@@ -185070,10 +188919,14 @@
 "LatLong": "40.8694,31.0863"
 }
 ]
+}
+]
 },
 {
 "Name": "Gölyaka",
 "Code": "8632516",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çamlibel",
@@ -185191,10 +189044,14 @@
 "LatLong": "40.7963,31.2531"
 }
 ]
+}
+]
 },
 {
 "Name": "Akçakoca",
 "Code": "8632517",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Akçakoca",
@@ -185427,10 +189284,14 @@
 "LatLong": "41.0266,31.1422"
 }
 ]
+}
+]
 },
 {
 "Name": "Cumayeri",
 "Code": "8632518",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yeşiltepe",
@@ -185543,10 +189404,14 @@
 "LatLong": "40.9,31.2795"
 }
 ]
+}
+]
 },
 {
 "Name": "Gümüşova",
 "Code": "8632519",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sultaniye",
@@ -185644,9 +189509,13 @@
 "LatLong": "40.8071,30.9279"
 }
 ]
+}
+]
 },
 {
 "Name": "Düzce",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aziziyegünlü",
@@ -186274,9 +190143,13 @@
 "LatLong": "41.0036,31.2076"
 }
 ]
+}
+]
 },
 {
 "Name": "Kaynaşli",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Çamlica",
@@ -186389,9 +190262,13 @@
 "LatLong": "40.7102,31.3635"
 }
 ]
+}
+]
 },
 {
 "Name": "Yiğilca",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karakaş",
@@ -186591,12 +190468,16 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kktc",
 "Provinces": [
 {
 "Name": "Lefkoşa",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lefkoşa",
@@ -186749,9 +190630,13 @@
 "LatLong": "40.8957,33.6024"
 }
 ]
+}
+]
 },
 {
 "Name": "Girne",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Girne",
@@ -186989,9 +190874,13 @@
 "LatLong": "38.2626,38.8969"
 }
 ]
+}
+]
 },
 {
 "Name": "Gazimağusa",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gazimağusa",
@@ -187224,9 +191113,13 @@
 "LatLong": "37.3372,35.9913"
 }
 ]
+}
+]
 },
 {
 "Name": "Güzelyurt",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Güzelyurt",
@@ -187374,9 +191267,13 @@
 "LatLong": "40.225,39.4692"
 }
 ]
+}
+]
 },
 {
 "Name": "İskele",
+"Communities": [
+{
 "Places": [
 {
 "Name": "İskele",
@@ -187602,6 +191499,8 @@
 "Name": "Adaçay",
 "PostCode": "99970",
 "LatLong": "40.3258,37.5555"
+}
+]
 }
 ]
 }

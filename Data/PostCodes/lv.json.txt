@@ -1,5 +1,4 @@
 {
-"Structure": "State/Province/Place",
 "States": [
 {
 "Name": "Aizkraukles nov.",
@@ -8,6 +7,8 @@
 {
 "Name": "Aizkraukles pag.",
 "Code": "0320244",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aizkraukles stacija",
@@ -22,6 +23,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Alūksnes nov.",
@@ -30,6 +33,8 @@
 {
 "Name": "Alsviķu pag.",
 "Code": "0360242",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aizupītes",
@@ -52,10 +57,14 @@
 "LatLong": "57.4252,26.9145"
 }
 ]
+}
+]
 },
 {
 "Name": "Annas pag.",
 "Code": "0360244",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Anna",
@@ -63,10 +72,14 @@
 "LatLong": "57.3333,27.0333"
 }
 ]
+}
+]
 },
 {
 "Name": "Ilzenes pag.",
 "Code": "0360252",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaunzemi",
@@ -74,10 +87,14 @@
 "LatLong": "57.3726,26.6758"
 }
 ]
+}
+]
 },
 {
 "Name": "Jaunalūksnes pag.",
 "Code": "0360256",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beja",
@@ -90,10 +107,14 @@
 "LatLong": "57.4387,27.1158"
 }
 ]
+}
+]
 },
 {
 "Name": "Jaunannas pag.",
 "Code": "0360258",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaunanna",
@@ -101,10 +122,14 @@
 "LatLong": "57.2838,27.0684"
 }
 ]
+}
+]
 },
 {
 "Name": "Jaunlaicenes pag.",
 "Code": "0360260",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaunlaicene",
@@ -112,10 +137,14 @@
 "LatLong": "57.5272,26.8704"
 }
 ]
+}
+]
 },
 {
 "Name": "Kalncempju pag.",
 "Code": "0360264",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kalncempji",
@@ -123,10 +152,14 @@
 "LatLong": "57.3234,26.8856"
 }
 ]
+}
+]
 },
 {
 "Name": "Liepnas pag.",
 "Code": "0360268",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Liepna",
@@ -134,10 +167,14 @@
 "LatLong": "57.3432,27.4716"
 }
 ]
+}
+]
 },
 {
 "Name": "Malienas pag.",
 "Code": "0360272",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Brenci",
@@ -145,10 +182,14 @@
 "LatLong": "57.362,27.1639"
 }
 ]
+}
+]
 },
 {
 "Name": "Mālupes pag.",
 "Code": "0360274",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sofikalns",
@@ -161,10 +202,14 @@
 "LatLong": "57.3383,27.2346"
 }
 ]
+}
+]
 },
 {
 "Name": "Mārkalnes pag.",
 "Code": "0360276",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mārkalne",
@@ -172,10 +217,14 @@
 "LatLong": "57.4912,27.1944"
 }
 ]
+}
+]
 },
 {
 "Name": "Pededzes pag.",
 "Code": "0360280",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pededze",
@@ -183,10 +232,14 @@
 "LatLong": "57.4762,27.4402"
 }
 ]
+}
+]
 },
 {
 "Name": "Veclaicenes pag.",
 "Code": "0360288",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Korneti",
@@ -194,10 +247,14 @@
 "LatLong": "57.5933,26.9445"
 }
 ]
+}
+]
 },
 {
 "Name": "Zeltiņu pag.",
 "Code": "0360294",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zeltiņi",
@@ -205,10 +262,14 @@
 "LatLong": "57.359,26.7771"
 }
 ]
+}
+]
 },
 {
 "Name": "Ziemera pag.",
 "Code": "0360296",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ziemeri",
@@ -223,6 +284,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Balvu nov.",
@@ -231,6 +294,8 @@
 {
 "Name": "Balvu pag.",
 "Code": "0380246",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vaņki",
@@ -348,10 +413,14 @@
 "LatLong": "57.0828,27.2188"
 }
 ]
+}
+]
 },
 {
 "Name": "Bērzkalnes pag.",
 "Code": "0380248",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Silakrogs",
@@ -484,10 +553,14 @@
 "LatLong": "57.1712,27.4106"
 }
 ]
+}
+]
 },
 {
 "Name": "Bērzpils pag.",
 "Code": "0380250",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bērzpils",
@@ -670,10 +743,14 @@
 "LatLong": "56.8398,27.1239"
 }
 ]
+}
+]
 },
 {
 "Name": "Briežuciema pag.",
 "Code": "0380252",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pūšļeva",
@@ -831,10 +908,14 @@
 "LatLong": "56.9786,27.5607"
 }
 ]
+}
+]
 },
 {
 "Name": "Krišjāņu pag.",
 "Code": "0380256",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Purviņas",
@@ -892,10 +973,14 @@
 "LatLong": "56.8158,27.276"
 }
 ]
+}
+]
 },
 {
 "Name": "Kubulu pag.",
 "Code": "0380258",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pērkoni",
@@ -1088,10 +1173,14 @@
 "LatLong": "57.1755,27.1904"
 }
 ]
+}
+]
 },
 {
 "Name": "Lazdulejas pag.",
 "Code": "0380266",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dukuļeva",
@@ -1259,10 +1348,14 @@
 "LatLong": "57.0525,27.4822"
 }
 ]
+}
+]
 },
 {
 "Name": "Tilžas pag.",
 "Code": "0380286",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kadiševa",
@@ -1405,10 +1498,14 @@
 "LatLong": "56.9009,27.3716"
 }
 ]
+}
+]
 },
 {
 "Name": "Vectilžas pag.",
 "Code": "0380290",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Auška",
@@ -1481,10 +1578,14 @@
 "LatLong": "56.9513,27.3819"
 }
 ]
+}
+]
 },
 {
 "Name": "Vīksnas pag.",
 "Code": "0380294",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dampadruva",
@@ -1649,6 +1750,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Bauskas nov.",
@@ -1657,6 +1760,8 @@
 {
 "Name": "Brunavas pag.",
 "Code": "0400246",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Grenctāle",
@@ -1679,10 +1784,14 @@
 "LatLong": "56.3269,24.4171"
 }
 ]
+}
+]
 },
 {
 "Name": "Ceraukstes pag.",
 "Code": "0400250",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mūsa",
@@ -1700,10 +1809,14 @@
 "LatLong": "56.3604,24.2899"
 }
 ]
+}
+]
 },
 {
 "Name": "Codes pag.",
 "Code": "0400252",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Elektriķi",
@@ -1731,10 +1844,14 @@
 "LatLong": "56.4692,24.1734"
 }
 ]
+}
+]
 },
 {
 "Name": "Dāviņu pag.",
 "Code": "0400256",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lambārte",
@@ -1747,10 +1864,14 @@
 "LatLong": "56.4838,24.3463"
 }
 ]
+}
+]
 },
 {
 "Name": "Gailīšu pag.",
 "Code": "0400260",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mūsa",
@@ -1803,10 +1924,14 @@
 "LatLong": "56.3127,24.2068"
 }
 ]
+}
+]
 },
 {
 "Name": "Īslīces pag.",
 "Code": "0400268",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rītausmas",
@@ -1834,10 +1959,14 @@
 "LatLong": "56.3173,24.0997"
 }
 ]
+}
+]
 },
 {
 "Name": "Mežotnes pag.",
 "Code": "0400272",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jumprava",
@@ -1865,10 +1994,14 @@
 "LatLong": "56.5024,24.083"
 }
 ]
+}
+]
 },
 {
 "Name": "Vecsaules pag.",
 "Code": "0400292",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaunsaule",
@@ -1903,6 +2036,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Cēsu nov.",
@@ -1911,6 +2046,8 @@
 {
 "Name": "Vaives pag.",
 "Code": "0420290",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mežmaļi",
@@ -1940,6 +2077,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Daugavpils nov.",
@@ -1948,6 +2087,8 @@
 {
 "Name": "Ambeļu pag.",
 "Code": "0440242",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mazie Kuseņi",
@@ -2165,10 +2306,14 @@
 "LatLong": "56.0342,26.8598"
 }
 ]
+}
+]
 },
 {
 "Name": "Biķernieku pag.",
 "Code": "0440246",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Viselova",
@@ -2296,10 +2441,14 @@
 "LatLong": "55.9704,26.8647"
 }
 ]
+}
+]
 },
 {
 "Name": "Demenes pag.",
 "Code": "0440250",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zemgale",
@@ -2327,10 +2476,14 @@
 "LatLong": "55.7285,26.542"
 }
 ]
+}
+]
 },
 {
 "Name": "Dubnas pag.",
 "Code": "0440252",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dubna",
@@ -2508,10 +2661,14 @@
 "LatLong": "56.0853,26.6528"
 }
 ]
+}
+]
 },
 {
 "Name": "Kalkūnes pag.",
 "Code": "0440260",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Birkineļi",
@@ -2589,10 +2746,14 @@
 "LatLong": "55.8198,26.4521"
 }
 ]
+}
+]
 },
 {
 "Name": "Kalupes pag.",
 "Code": "0440262",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Baltmuiža",
@@ -2845,10 +3006,14 @@
 "LatLong": "56.0871,26.5194"
 }
 ]
+}
+]
 },
 {
 "Name": "Laucesas pag.",
 "Code": "0440264",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mirnijs",
@@ -2886,10 +3051,14 @@
 "LatLong": "55.8254,26.5615"
 }
 ]
+}
+]
 },
 {
 "Name": "Līksnas pag.",
 "Code": "0440268",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaunušāni",
@@ -3077,10 +3246,14 @@
 "LatLong": "56.0178,26.4154"
 }
 ]
+}
+]
 },
 {
 "Name": "Maļinovas pag.",
 "Code": "0440270",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Maļinova",
@@ -3208,10 +3381,14 @@
 "LatLong": "55.9955,26.6775"
 }
 ]
+}
+]
 },
 {
 "Name": "Medumu pag.",
 "Code": "0440272",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kščeva",
@@ -3329,10 +3506,14 @@
 "LatLong": "55.8928,26.417"
 }
 ]
+}
+]
 },
 {
 "Name": "Naujenes pag.",
 "Code": "0440274",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stropi",
@@ -3620,10 +3801,14 @@
 "LatLong": "55.9435,26.7795"
 }
 ]
+}
+]
 },
 {
 "Name": "Nīcgales pag.",
 "Code": "0440276",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nīcgale",
@@ -3731,10 +3916,14 @@
 "LatLong": "56.1511,26.4025"
 }
 ]
+}
+]
 },
 {
 "Name": "Salienas pag.",
 "Code": "0440284",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Faļtopi",
@@ -3802,10 +3991,14 @@
 "LatLong": "55.8322,26.9021"
 }
 ]
+}
+]
 },
 {
 "Name": "Skrudalienas pag.",
 "Code": "0440286",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Šengeida",
@@ -3828,10 +4021,14 @@
 "LatLong": "55.7739,26.748"
 }
 ]
+}
+]
 },
 {
 "Name": "Sventes pag.",
 "Code": "0440288",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kaķīši",
@@ -4034,10 +4231,14 @@
 "LatLong": "55.8928,26.417"
 }
 ]
+}
+]
 },
 {
 "Name": "Tabores pag.",
 "Code": "0440292",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Medvecki",
@@ -4145,10 +4346,14 @@
 "LatLong": "55.8464,26.716"
 }
 ]
+}
+]
 },
 {
 "Name": "Vaboles pag.",
 "Code": "0440294",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lielās Kļockas",
@@ -4391,10 +4596,14 @@
 "LatLong": "56.0258,26.471"
 }
 ]
+}
+]
 },
 {
 "Name": "Vecsalienas pag.",
 "Code": "0440296",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tartaks",
@@ -4407,10 +4616,14 @@
 "LatLong": "55.8247,26.7707"
 }
 ]
+}
+]
 },
 {
 "Name": "Višķu pag.",
 "Code": "0440298",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Strodiški",
@@ -4800,6 +5013,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Dobeles nov.",
@@ -4808,6 +5023,8 @@
 {
 "Name": "Annenieku pag.",
 "Code": "0460242",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Annenieki",
@@ -4820,10 +5037,14 @@
 "LatLong": "56.6656,23.0383"
 }
 ]
+}
+]
 },
 {
 "Name": "Auru pag.",
 "Code": "0460246",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lielbērze",
@@ -4851,10 +5072,14 @@
 "LatLong": "56.5642,23.2933"
 }
 ]
+}
+]
 },
 {
 "Name": "Bērzes pag.",
 "Code": "0460252",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bērze",
@@ -4872,10 +5097,14 @@
 "LatLong": "56.63,23.3411"
 }
 ]
+}
+]
 },
 {
 "Name": "Bikstu pag.",
 "Code": "0460254",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Biksti",
@@ -4883,10 +5112,14 @@
 "LatLong": "56.6708,22.9671"
 }
 ]
+}
+]
 },
 {
 "Name": "Dobeles pag.",
 "Code": "0460260",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aizstrautnieki",
@@ -4899,10 +5132,14 @@
 "LatLong": "56.6614,23.3128"
 }
 ]
+}
+]
 },
 {
 "Name": "Jaunbērzes pag.",
 "Code": "0460268",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaunbērze",
@@ -4910,10 +5147,14 @@
 "LatLong": "56.7378,23.3919"
 }
 ]
+}
+]
 },
 {
 "Name": "Krimūnu pag.",
 "Code": "0460272",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ceriņi",
@@ -4931,10 +5172,14 @@
 "LatLong": "56.5714,23.3758"
 }
 ]
+}
+]
 },
 {
 "Name": "Naudītes pag.",
 "Code": "0460280",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Naudīte",
@@ -4947,10 +5192,14 @@
 "LatLong": "56.5331,23.2388"
 }
 ]
+}
+]
 },
 {
 "Name": "Penkules pag.",
 "Code": "0460284",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Penkule",
@@ -4958,15 +5207,21 @@
 "LatLong": "56.4852,23.1877"
 }
 ]
+}
+]
 },
 {
 "Name": "Zebrenes pag.",
 "Code": "0460298",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zebrene",
 "PostCode": "LV-3731",
 "LatLong": "56.6037,22.8838"
+}
+]
 }
 ]
 }
@@ -4979,6 +5234,8 @@
 {
 "Name": "Beļavas pag.",
 "Code": "0500244",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Svelberģis",
@@ -5011,10 +5268,14 @@
 "LatLong": "57.1945,26.6964"
 }
 ]
+}
+]
 },
 {
 "Name": "Daukstu pag.",
 "Code": "0500248",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stari",
@@ -5032,10 +5293,14 @@
 "LatLong": "57.0833,26.7667"
 }
 ]
+}
+]
 },
 {
 "Name": "Druvienas pag.",
 "Code": "0500252",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Druviena",
@@ -5043,10 +5308,14 @@
 "LatLong": "57.1167,26.3"
 }
 ]
+}
+]
 },
 {
 "Name": "Galgauskas pag.",
 "Code": "0500256",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Galgauska",
@@ -5059,10 +5328,14 @@
 "LatLong": "57.1439,26.6062"
 }
 ]
+}
+]
 },
 {
 "Name": "Jaungulbenes pag.",
 "Code": "0500260",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaungulbene",
@@ -5075,10 +5348,14 @@
 "LatLong": "57.0774,26.6295"
 }
 ]
+}
+]
 },
 {
 "Name": "Lejasciema pag.",
 "Code": "0500264",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sinole",
@@ -5091,10 +5368,14 @@
 "LatLong": "57.2802,26.5768"
 }
 ]
+}
+]
 },
 {
 "Name": "Litenes pag.",
 "Code": "0500268",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Litene",
@@ -5102,10 +5383,14 @@
 "LatLong": "57.1901,27.0276"
 }
 ]
+}
+]
 },
 {
 "Name": "Lizuma pag.",
 "Code": "0500272",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Velēna",
@@ -5118,10 +5403,14 @@
 "LatLong": "57.1904,26.3698"
 }
 ]
+}
+]
 },
 {
 "Name": "Līgo pag.",
 "Code": "0500276",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Līgo",
@@ -5129,10 +5418,14 @@
 "LatLong": "57.0169,26.5783"
 }
 ]
+}
+]
 },
 {
 "Name": "Rankas pag.",
 "Code": "0500284",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gaujasrēveļi",
@@ -5150,10 +5443,14 @@
 "LatLong": "57.2333,26.1333"
 }
 ]
+}
+]
 },
 {
 "Name": "Stāmerienas pag.",
 "Code": "0500288",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stāmeriena",
@@ -5171,10 +5468,14 @@
 "LatLong": "57.2146,26.888"
 }
 ]
+}
+]
 },
 {
 "Name": "Stradu pag.",
 "Code": "0500290",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Šķieneri",
@@ -5202,10 +5503,14 @@
 "LatLong": "57.1332,26.7469"
 }
 ]
+}
+]
 },
 {
 "Name": "Tirzas pag.",
 "Code": "0500294",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vecaduliena",
@@ -5220,6 +5525,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Jēkabpils nov.",
@@ -5228,6 +5535,8 @@
 {
 "Name": "Ābeļu pag.",
 "Code": "0560248",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Brodi",
@@ -5250,10 +5559,14 @@
 "LatLong": "56.4689,25.8698"
 }
 ]
+}
+]
 },
 {
 "Name": "Dignājas pag.",
 "Code": "0560252",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vandāni",
@@ -5261,10 +5574,14 @@
 "LatLong": "56.3333,26.16"
 }
 ]
+}
+]
 },
 {
 "Name": "Dunavas pag.",
 "Code": "0560254",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dunava",
@@ -5277,10 +5594,14 @@
 "LatLong": "56.2525,26.1741"
 }
 ]
+}
+]
 },
 {
 "Name": "Kalna pag.",
 "Code": "0560266",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vidsala",
@@ -5293,10 +5614,14 @@
 "LatLong": "56.3431,25.8598"
 }
 ]
+}
+]
 },
 {
 "Name": "Leimaņu pag.",
 "Code": "0560274",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leimaņi",
@@ -5309,10 +5634,14 @@
 "LatLong": "56.3167,25.9167"
 }
 ]
+}
+]
 },
 {
 "Name": "Rubenes pag.",
 "Code": "0560282",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Slate",
@@ -5330,10 +5659,14 @@
 "LatLong": "56.1075,26.0538"
 }
 ]
+}
+]
 },
 {
 "Name": "Zasas pag.",
 "Code": "0560298",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Liepas",
@@ -5348,6 +5681,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Jelgavas nov.",
@@ -5356,6 +5691,8 @@
 {
 "Name": "Elejas pag.",
 "Code": "0540248",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eleja",
@@ -5363,10 +5700,14 @@
 "LatLong": "56.4159,23.6833"
 }
 ]
+}
+]
 },
 {
 "Name": "Glūdas pag.",
 "Code": "0540252",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Viesturciems",
@@ -5394,10 +5735,14 @@
 "LatLong": "56.6082,23.5148"
 }
 ]
+}
+]
 },
 {
 "Name": "Jaunsvirlaukas pag.",
 "Code": "0540256",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mežciems",
@@ -5425,10 +5770,14 @@
 "LatLong": "56.6034,23.8905"
 }
 ]
+}
+]
 },
 {
 "Name": "Kalnciema pag.",
 "Code": "0540258",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kalnciems",
@@ -5446,10 +5795,14 @@
 "LatLong": "56.8371,23.5553"
 }
 ]
+}
+]
 },
 {
 "Name": "Lielplatones pag.",
 "Code": "0540260",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sidrabe",
@@ -5462,10 +5815,14 @@
 "LatLong": "56.4508,23.6638"
 }
 ]
+}
+]
 },
 {
 "Name": "Līvbērzes pag.",
 "Code": "0540262",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vārpa",
@@ -5483,10 +5840,14 @@
 "LatLong": "56.6875,23.4969"
 }
 ]
+}
+]
 },
 {
 "Name": "Platones pag.",
 "Code": "0540270",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Platone",
@@ -5509,10 +5870,14 @@
 "LatLong": "56.5398,23.6931"
 }
 ]
+}
+]
 },
 {
 "Name": "Sesavas pag.",
 "Code": "0540274",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sesava",
@@ -5525,10 +5890,14 @@
 "LatLong": "56.4037,23.7471"
 }
 ]
+}
+]
 },
 {
 "Name": "Svētes pag.",
 "Code": "0540282",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Svēte",
@@ -5546,10 +5915,14 @@
 "LatLong": "56.5306,23.6047"
 }
 ]
+}
+]
 },
 {
 "Name": "Valgundes pag.",
 "Code": "0540286",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tīreļi",
@@ -5567,10 +5940,14 @@
 "LatLong": "56.7009,23.7007"
 }
 ]
+}
+]
 },
 {
 "Name": "Vilces pag.",
 "Code": "0540290",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ziedkalne",
@@ -5583,10 +5960,14 @@
 "LatLong": "56.4203,23.5478"
 }
 ]
+}
+]
 },
 {
 "Name": "Vircavas pag.",
 "Code": "0540292",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vircava",
@@ -5604,15 +5985,21 @@
 "LatLong": "56.5203,23.8504"
 }
 ]
+}
+]
 },
 {
 "Name": "Zaļenieku pag.",
 "Code": "0540296",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zaļenieki",
 "PostCode": "LV-3011",
 "LatLong": "56.5266,23.508"
+}
+]
 }
 ]
 }
@@ -5625,6 +6012,8 @@
 {
 "Name": "Aulejas pag.",
 "Code": "0600248",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Auleja",
@@ -5762,10 +6151,14 @@
 "LatLong": "56.0479,27.2654"
 }
 ]
+}
+]
 },
 {
 "Name": "Indras pag.",
 "Code": "0600262",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vaicuļeva",
@@ -5938,10 +6331,14 @@
 "LatLong": "55.8582,27.5156"
 }
 ]
+}
+]
 },
 {
 "Name": "Izvaltas pag.",
 "Code": "0600264",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bernadski",
@@ -6209,10 +6606,14 @@
 "LatLong": "55.9723,27.0151"
 }
 ]
+}
+]
 },
 {
 "Name": "Kalniešu pag.",
 "Code": "0600268",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Borovka",
@@ -6540,10 +6941,14 @@
 "LatLong": "55.883,27.3565"
 }
 ]
+}
+]
 },
 {
 "Name": "Kaplavas pag.",
 "Code": "0600270",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dvorišči",
@@ -6626,10 +7031,14 @@
 "LatLong": "55.8444,27.1012"
 }
 ]
+}
+]
 },
 {
 "Name": "Kombuļu pag.",
 "Code": "0600274",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lielie Unguri",
@@ -6907,10 +7316,14 @@
 "LatLong": "55.974,27.2312"
 }
 ]
+}
+]
 },
 {
 "Name": "Krāslavas pag.",
 "Code": "0600278",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Naudīši",
@@ -7043,10 +7456,14 @@
 "LatLong": "55.9274,27.1967"
 }
 ]
+}
+]
 },
 {
 "Name": "Piedrujas pag.",
 "Code": "0600284",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lupandi",
@@ -7149,10 +7566,14 @@
 "LatLong": "55.8185,27.4789"
 }
 ]
+}
+]
 },
 {
 "Name": "Robežnieku pag.",
 "Code": "0600286",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pleiki",
@@ -7410,10 +7831,14 @@
 "LatLong": "55.9659,27.5913"
 }
 ]
+}
+]
 },
 {
 "Name": "Skaistas pag.",
 "Code": "0600288",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Veterovka",
@@ -7686,10 +8111,14 @@
 "LatLong": "55.9752,27.3883"
 }
 ]
+}
+]
 },
 {
 "Name": "Ūdrīšu pag.",
 "Code": "0600296",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ludvikova",
@@ -7924,6 +8353,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kuldīgas nov.",
@@ -7932,6 +8363,8 @@
 {
 "Name": "Ēdoles pag.",
 "Code": "0620246",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ēdole",
@@ -7939,10 +8372,14 @@
 "LatLong": "57.0206,21.6911"
 }
 ]
+}
+]
 },
 {
 "Name": "Gudenieku pag.",
 "Code": "0620250",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Basi",
@@ -7955,10 +8392,14 @@
 "LatLong": "56.8865,21.6023"
 }
 ]
+}
+]
 },
 {
 "Name": "Īvandes pag.",
 "Code": "0620254",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Īvande",
@@ -7966,10 +8407,14 @@
 "LatLong": "56.995,21.76"
 }
 ]
+}
+]
 },
 {
 "Name": "Kabiles pag.",
 "Code": "0620258",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kabile",
@@ -7977,10 +8422,14 @@
 "LatLong": "56.95,22.4"
 }
 ]
+}
+]
 },
 {
 "Name": "Kurmāles pag.",
 "Code": "0620260",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Priedaine",
@@ -7998,10 +8447,14 @@
 "LatLong": "56.7667,21.9389"
 }
 ]
+}
+]
 },
 {
 "Name": "Laidu pag.",
 "Code": "0620264",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Laidi",
@@ -8024,10 +8477,14 @@
 "LatLong": "56.7333,21.7833"
 }
 ]
+}
+]
 },
 {
 "Name": "Padures pag.",
 "Code": "0620272",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Padure",
@@ -8050,10 +8507,14 @@
 "LatLong": "57.0144,21.881"
 }
 ]
+}
+]
 },
 {
 "Name": "Pelču pag.",
 "Code": "0620274",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ābele",
@@ -8066,10 +8527,14 @@
 "LatLong": "56.9209,21.966"
 }
 ]
+}
+]
 },
 {
 "Name": "Rendas pag.",
 "Code": "0620280",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ozoli",
@@ -8082,10 +8547,14 @@
 "LatLong": "57.049,22.3017"
 }
 ]
+}
+]
 },
 {
 "Name": "Rumbas pag.",
 "Code": "0620284",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mežvalde",
@@ -8108,10 +8577,14 @@
 "LatLong": "56.9052,21.8404"
 }
 ]
+}
+]
 },
 {
 "Name": "Snēpeles pag.",
 "Code": "0620290",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Snēpele",
@@ -8119,10 +8592,14 @@
 "LatLong": "56.8333,21.95"
 }
 ]
+}
+]
 },
 {
 "Name": "Turlavas pag.",
 "Code": "0620292",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ķikuri",
@@ -8135,15 +8612,21 @@
 "LatLong": "56.8352,21.7706"
 }
 ]
+}
+]
 },
 {
 "Name": "Vārmes pag.",
 "Code": "0620296",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vārme",
 "PostCode": "LV-3333",
 "LatLong": "56.8667,22.2333"
+}
+]
 }
 ]
 }
@@ -8156,6 +8639,8 @@
 {
 "Name": "Katvaru pag.",
 "Code": "0660252",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Priedes",
@@ -8168,10 +8653,14 @@
 "LatLong": "57.5964,24.8514"
 }
 ]
+}
+]
 },
 {
 "Name": "Limbažu pag.",
 "Code": "0660264",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ozolaine",
@@ -8189,10 +8678,14 @@
 "LatLong": "57.4628,24.6214"
 }
 ]
+}
+]
 },
 {
 "Name": "Pāles pag.",
 "Code": "0660268",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pāle",
@@ -8205,10 +8698,14 @@
 "LatLong": "57.6633,24.7789"
 }
 ]
+}
+]
 },
 {
 "Name": "Skultes pag.",
 "Code": "0660276",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skultes muiža",
@@ -8241,10 +8738,14 @@
 "LatLong": "57.3949,24.4746"
 }
 ]
+}
+]
 },
 {
 "Name": "Umurgas pag.",
 "Code": "0660280",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Umurga",
@@ -8252,10 +8753,14 @@
 "LatLong": "57.5171,24.8094"
 }
 ]
+}
+]
 },
 {
 "Name": "Vidrižu pag.",
 "Code": "0660284",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bīriņi",
@@ -8273,10 +8778,14 @@
 "LatLong": "57.3235,24.6394"
 }
 ]
+}
+]
 },
 {
 "Name": "Viļķenes pag.",
 "Code": "0660288",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Viļķene",
@@ -8301,6 +8810,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ludzas nov.",
@@ -8309,6 +8820,8 @@
 {
 "Name": "Briģu pag.",
 "Code": "0680246",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaunā Slobodka",
@@ -8496,10 +9009,14 @@
 "LatLong": "56.4372,28.056"
 }
 ]
+}
+]
 },
 {
 "Name": "Cirmas pag.",
 "Code": "0680250",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dubinova",
@@ -8652,10 +9169,14 @@
 "LatLong": "56.5148,27.5423"
 }
 ]
+}
+]
 },
 {
 "Name": "Isnaudas pag.",
 "Code": "0680258",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Isnauda",
@@ -8893,10 +9414,14 @@
 "LatLong": "56.4319,27.8663"
 }
 ]
+}
+]
 },
 {
 "Name": "Istras pag.",
 "Code": "0680260",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Poļačonki",
@@ -9134,10 +9659,14 @@
 "LatLong": "56.2397,27.9485"
 }
 ]
+}
+]
 },
 {
 "Name": "Nirzas pag.",
 "Code": "0680278",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lielie Žurili",
@@ -9325,10 +9854,14 @@
 "LatLong": "56.3572,27.8769"
 }
 ]
+}
+]
 },
 {
 "Name": "Ņukšu pag.",
 "Code": "0680280",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ļubāni",
@@ -9516,10 +10049,14 @@
 "LatLong": "56.3644,27.7957"
 }
 ]
+}
+]
 },
 {
 "Name": "Pildas pag.",
 "Code": "0680286",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zviergzdova",
@@ -9822,10 +10359,14 @@
 "LatLong": "56.3572,27.8769"
 }
 ]
+}
+]
 },
 {
 "Name": "Pureņu pag.",
 "Code": "0680288",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Železnieki",
@@ -10013,10 +10554,14 @@
 "LatLong": "56.4642,27.6284"
 }
 ]
+}
+]
 },
 {
 "Name": "Rundēnu pag.",
 "Code": "0680292",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Osova",
@@ -10261,6 +10806,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Madonas nov.",
@@ -10269,6 +10816,8 @@
 {
 "Name": "Aronas pag.",
 "Code": "0700242",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lautere",
@@ -10281,10 +10830,14 @@
 "LatLong": "56.8985,26.1281"
 }
 ]
+}
+]
 },
 {
 "Name": "Barkavas pag.",
 "Code": "0700244",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stalīdzāni",
@@ -10297,10 +10850,14 @@
 "LatLong": "56.7248,26.6115"
 }
 ]
+}
+]
 },
 {
 "Name": "Bērzaunes pag.",
 "Code": "0700246",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bērzaune",
@@ -10313,10 +10870,14 @@
 "LatLong": "56.8064,26.0744"
 }
 ]
+}
+]
 },
 {
 "Name": "Dzelzavas pag.",
 "Code": "0700250",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dzelzava",
@@ -10329,10 +10890,14 @@
 "LatLong": "56.9797,26.4256"
 }
 ]
+}
+]
 },
 {
 "Name": "Kalsnavas pag.",
 "Code": "0700262",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaunkalsnava",
@@ -10350,10 +10915,14 @@
 "LatLong": "56.7475,25.8965"
 }
 ]
+}
+]
 },
 {
 "Name": "Lazdonas pag.",
 "Code": "0700266",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaunlazdona",
@@ -10366,10 +10935,14 @@
 "LatLong": "56.8276,26.2442"
 }
 ]
+}
+]
 },
 {
 "Name": "Liezēres pag.",
 "Code": "0700268",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Liezēre",
@@ -10382,10 +10955,14 @@
 "LatLong": "56.9825,26.0544"
 }
 ]
+}
+]
 },
 {
 "Name": "Ļaudonas pag.",
 "Code": "0700270",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ļaudona",
@@ -10393,10 +10970,14 @@
 "LatLong": "56.7092,26.1942"
 }
 ]
+}
+]
 },
 {
 "Name": "Mārcienas pag.",
 "Code": "0700274",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mārciena",
@@ -10404,10 +10985,14 @@
 "LatLong": "56.7731,26.1018"
 }
 ]
+}
+]
 },
 {
 "Name": "Mētrienas pag.",
 "Code": "0700276",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mētriena",
@@ -10480,10 +11065,14 @@
 "LatLong": "56.6891,26.3409"
 }
 ]
+}
+]
 },
 {
 "Name": "Ošupes pag.",
 "Code": "0700282",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ošupe",
@@ -10496,10 +11085,14 @@
 "LatLong": "56.7991,26.7477"
 }
 ]
+}
+]
 },
 {
 "Name": "Praulienas pag.",
 "Code": "0700286",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lazdona 1",
@@ -10517,10 +11110,14 @@
 "LatLong": "56.7658,26.4264"
 }
 ]
+}
+]
 },
 {
 "Name": "Sarkaņu pag.",
 "Code": "0700290",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Poļvarka",
@@ -10538,15 +11135,21 @@
 "LatLong": "56.9209,26.3131"
 }
 ]
+}
+]
 },
 {
 "Name": "Vestienas pag.",
 "Code": "0700296",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vestiena",
 "PostCode": "LV-4855",
 "LatLong": "56.8662,25.8734"
+}
+]
 }
 ]
 }
@@ -10559,6 +11162,8 @@
 {
 "Name": "Krapes pag.",
 "Code": "0740252",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Krape",
@@ -10566,10 +11171,14 @@
 "LatLong": "56.7333,25.1167"
 }
 ]
+}
+]
 },
 {
 "Name": "Ķeipenes pag.",
 "Code": "0740256",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ķeipene",
@@ -10577,10 +11186,14 @@
 "LatLong": "56.8915,25.1798"
 }
 ]
+}
+]
 },
 {
 "Name": "Lauberes pag.",
 "Code": "0740260",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Laubere",
@@ -10588,10 +11201,14 @@
 "LatLong": "56.8,25.05"
 }
 ]
+}
+]
 },
 {
 "Name": "Madlienas pag.",
 "Code": "0740268",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Madliena",
@@ -10599,10 +11216,14 @@
 "LatLong": "56.85,25.1667"
 }
 ]
+}
+]
 },
 {
 "Name": "Mazozolu pag.",
 "Code": "0740272",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ogresmuiža",
@@ -10615,10 +11236,14 @@
 "LatLong": "56.8667,25.4833"
 }
 ]
+}
+]
 },
 {
 "Name": "Meņģeles pag.",
 "Code": "0740276",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Meņģele",
@@ -10626,10 +11251,14 @@
 "LatLong": "56.8167,25.4"
 }
 ]
+}
+]
 },
 {
 "Name": "Ogresgala pag.",
 "Code": "0740280",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ogresgals",
@@ -10642,10 +11271,14 @@
 "LatLong": "56.8072,24.7394"
 }
 ]
+}
+]
 },
 {
 "Name": "Suntažu pag.",
 "Code": "0740288",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jugla",
@@ -10673,15 +11306,21 @@
 "LatLong": "56.9007,24.8733"
 }
 ]
+}
+]
 },
 {
 "Name": "Taurupes pag.",
 "Code": "0740292",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Taurupe",
 "PostCode": "LV-5064",
 "LatLong": "56.8832,25.3405"
+}
+]
 }
 ]
 }
@@ -10694,6 +11333,8 @@
 {
 "Name": "Aizkalnes pag.",
 "Code": "0760244",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Želvi",
@@ -10941,10 +11582,14 @@
 "LatLong": "56.2051,26.7539"
 }
 ]
+}
+]
 },
 {
 "Name": "Pelēču pag.",
 "Code": "0760256",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nīdermuiža",
@@ -11072,10 +11717,14 @@
 "LatLong": "56.2197,26.8595"
 }
 ]
+}
+]
 },
 {
 "Name": "Preiļu pag.",
 "Code": "0760258",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Otrie Bluzmi",
@@ -11343,10 +11992,14 @@
 "LatLong": "56.3274,26.6773"
 }
 ]
+}
+]
 },
 {
 "Name": "Saunas pag.",
 "Code": "0760274",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lakauski",
@@ -11601,6 +12254,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Rēzeknes nov.",
@@ -11609,6 +12264,8 @@
 {
 "Name": "Audriņu pag.",
 "Code": "0780242",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kaulači",
@@ -11826,10 +12483,14 @@
 "LatLong": "56.5847,27.2385"
 }
 ]
+}
+]
 },
 {
 "Name": "Bērzgales pag.",
 "Code": "0780244",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bērzgale",
@@ -12007,10 +12668,14 @@
 "LatLong": "56.6435,27.3975"
 }
 ]
+}
+]
 },
 {
 "Name": "Čornajas pag.",
 "Code": "0780246",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Čornaja",
@@ -12333,10 +12998,14 @@
 "LatLong": "56.3961,27.4287"
 }
 ]
+}
+]
 },
 {
 "Name": "Dricānu pag.",
 "Code": "0780250",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Asinova",
@@ -12739,10 +13408,14 @@
 "LatLong": "56.6651,27.1753"
 }
 ]
+}
+]
 },
 {
 "Name": "Feimaņu pag.",
 "Code": "0780252",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leinakolns",
@@ -12955,10 +13628,14 @@
 "LatLong": "56.2798,27.0626"
 }
 ]
+}
+]
 },
 {
 "Name": "Gaigalavas pag.",
 "Code": "0780254",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gaigalava",
@@ -13136,10 +13813,14 @@
 "LatLong": "56.7538,27.1959"
 }
 ]
+}
+]
 },
 {
 "Name": "Griškānu pag.",
 "Code": "0780256",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Janopole",
@@ -13362,10 +14043,14 @@
 "LatLong": "56.4875,27.4232"
 }
 ]
+}
+]
 },
 {
 "Name": "Ilzeskalna pag.",
 "Code": "0780258",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gleizdi",
@@ -13658,10 +14343,14 @@
 "LatLong": "56.6435,27.3975"
 }
 ]
+}
+]
 },
 {
 "Name": "Kantinieku pag.",
 "Code": "0780260",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Staudži",
@@ -13799,10 +14488,14 @@
 "LatLong": "56.5865,27.052"
 }
 ]
+}
+]
 },
 {
 "Name": "Kaunatas pag.",
 "Code": "0780262",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Astici",
@@ -14185,10 +14878,14 @@
 "LatLong": "56.3159,27.5545"
 }
 ]
+}
+]
 },
 {
 "Name": "Lendžu pag.",
 "Code": "0780266",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Taudejāni",
@@ -14406,10 +15103,14 @@
 "LatLong": "56.4729,27.4068"
 }
 ]
+}
+]
 },
 {
 "Name": "Lūznavas pag.",
 "Code": "0780268",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zosna",
@@ -14547,10 +15248,14 @@
 "LatLong": "56.3377,27.1877"
 }
 ]
+}
+]
 },
 {
 "Name": "Maltas pag.",
 "Code": "0780270",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Špieļi",
@@ -14723,10 +15428,14 @@
 "LatLong": "56.3377,27.1877"
 }
 ]
+}
+]
 },
 {
 "Name": "Mākoņkalna pag.",
 "Code": "0780272",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zelenpole",
@@ -14949,10 +15658,14 @@
 "LatLong": "56.3408,27.3056"
 }
 ]
+}
+]
 },
 {
 "Name": "Nagļu pag.",
 "Code": "0780274",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nagļi",
@@ -15020,10 +15733,14 @@
 "LatLong": "56.6792,26.9233"
 }
 ]
+}
+]
 },
 {
 "Name": "Ozolaines pag.",
 "Code": "0780276",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pleikšņi",
@@ -15171,10 +15888,14 @@
 "LatLong": "56.4523,27.2135"
 }
 ]
+}
+]
 },
 {
 "Name": "Ozolmuižas pag.",
 "Code": "0780278",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lielie Garanči",
@@ -15297,10 +16018,14 @@
 "LatLong": "56.4523,27.2135"
 }
 ]
+}
+]
 },
 {
 "Name": "Pušas pag.",
 "Code": "0780280",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Svātova",
@@ -15428,10 +16153,14 @@
 "LatLong": "56.2358,27.2416"
 }
 ]
+}
+]
 },
 {
 "Name": "Rikavas pag.",
 "Code": "0780282",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Asņīnis",
@@ -15559,10 +16288,14 @@
 "LatLong": "56.5865,27.052"
 }
 ]
+}
+]
 },
 {
 "Name": "Nautrēnu pag.",
 "Code": "0780284",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Laizani",
@@ -15915,10 +16648,14 @@
 "LatLong": "56.71,27.3496"
 }
 ]
+}
+]
 },
 {
 "Name": "Sakstagala pag.",
 "Code": "0780286",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ciskādi",
@@ -16191,10 +16928,14 @@
 "LatLong": "56.5282,27.0628"
 }
 ]
+}
+]
 },
 {
 "Name": "Silmalas pag.",
 "Code": "0780288",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Baļucki",
@@ -16587,10 +17328,14 @@
 "LatLong": "56.4276,27.0808"
 }
 ]
+}
+]
 },
 {
 "Name": "Stoļerovas pag.",
 "Code": "0780292",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Viši",
@@ -16713,10 +17458,14 @@
 "LatLong": "56.4118,27.5615"
 }
 ]
+}
+]
 },
 {
 "Name": "Stružānu pag.",
 "Code": "0780294",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Seiļi",
@@ -16759,10 +17508,14 @@
 "LatLong": "56.7007,27.2554"
 }
 ]
+}
+]
 },
 {
 "Name": "Vērēmu pag.",
 "Code": "0780296",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Taudejāņi",
@@ -16972,6 +17725,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Saldus nov.",
@@ -16980,6 +17735,8 @@
 {
 "Name": "Saldus pag.",
 "Code": "0840201",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Druva",
@@ -16987,10 +17744,14 @@
 "LatLong": "56.6644,22.4904"
 }
 ]
+}
+]
 },
 {
 "Name": "Ezeres pag.",
 "Code": "0840248",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ezere",
@@ -16998,10 +17759,14 @@
 "LatLong": "56.4092,22.3613"
 }
 ]
+}
+]
 },
 {
 "Name": "Jaunauces pag.",
 "Code": "0840256",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaunauce",
@@ -17009,10 +17774,14 @@
 "LatLong": "56.4453,22.6929"
 }
 ]
+}
+]
 },
 {
 "Name": "Jaunlutriņu pag.",
 "Code": "0840258",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaunlutriņi",
@@ -17025,10 +17794,14 @@
 "LatLong": "56.8167,22.3"
 }
 ]
+}
+]
 },
 {
 "Name": "Kursīšu pag.",
 "Code": "0840262",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kursīši",
@@ -17036,10 +17809,14 @@
 "LatLong": "56.5115,22.4058"
 }
 ]
+}
+]
 },
 {
 "Name": "Lutriņu pag.",
 "Code": "0840266",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lutriņi",
@@ -17052,10 +17829,14 @@
 "LatLong": "56.7167,22.4"
 }
 ]
+}
+]
 },
 {
 "Name": "Nīgrandes pag.",
 "Code": "0840270",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kalni",
@@ -17068,10 +17849,14 @@
 "LatLong": "56.486,22.0908"
 }
 ]
+}
+]
 },
 {
 "Name": "Novadnieku pag.",
 "Code": "0840272",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mežvidi",
@@ -17104,10 +17889,14 @@
 "LatLong": "56.6411,22.5102"
 }
 ]
+}
+]
 },
 {
 "Name": "Pampāļu pag.",
 "Code": "0840276",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pampāļi",
@@ -17115,10 +17904,14 @@
 "LatLong": "56.5419,22.2168"
 }
 ]
+}
+]
 },
 {
 "Name": "Rubas pag.",
 "Code": "0840282",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ruba",
@@ -17126,10 +17919,14 @@
 "LatLong": "56.3857,22.5979"
 }
 ]
+}
+]
 },
 {
 "Name": "Šķēdes pag.",
 "Code": "0840288",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Šķēde",
@@ -17137,10 +17934,14 @@
 "LatLong": "56.85,22.4"
 }
 ]
+}
+]
 },
 {
 "Name": "Vadakstes pag.",
 "Code": "0840292",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vadakste",
@@ -17148,10 +17949,14 @@
 "LatLong": "56.3754,22.7474"
 }
 ]
+}
+]
 },
 {
 "Name": "Zaņas pag.",
 "Code": "0840294",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kareļi",
@@ -17164,10 +17969,14 @@
 "LatLong": "56.4662,22.2031"
 }
 ]
+}
+]
 },
 {
 "Name": "Zirņu pag.",
 "Code": "0840296",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Būtnāri",
@@ -17180,15 +17989,21 @@
 "LatLong": "56.6745,22.2162"
 }
 ]
+}
+]
 },
 {
 "Name": "Zvārdes pag.",
 "Code": "0840298",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Striķi",
 "PostCode": "LV-3883",
 "LatLong": "56.5974,22.5128"
+}
+]
 }
 ]
 }
@@ -17201,6 +18016,8 @@
 {
 "Name": "Ārlavas pag.",
 "Code": "0880237",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kroņmuiža",
@@ -17228,10 +18045,14 @@
 "LatLong": "57.4143,22.6202"
 }
 ]
+}
+]
 },
 {
 "Name": "Abavas pag.",
 "Code": "0880242",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valgale",
@@ -17269,10 +18090,14 @@
 "LatLong": "57.0868,22.5723"
 }
 ]
+}
+]
 },
 {
 "Name": "Balgales pag.",
 "Code": "0880246",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dursupe",
@@ -17280,10 +18105,14 @@
 "LatLong": "57.1914,22.8754"
 }
 ]
+}
+]
 },
 {
 "Name": "Ģibuļu pag.",
 "Code": "0880254",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaunzemes",
@@ -17361,10 +18190,14 @@
 "LatLong": "57.2183,22.2665"
 }
 ]
+}
+]
 },
 {
 "Name": "Īves pag.",
 "Code": "0880258",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ķurbe",
@@ -17387,10 +18220,14 @@
 "LatLong": "57.4253,22.5257"
 }
 ]
+}
+]
 },
 {
 "Name": "Ķūļciema pag.",
 "Code": "0880264",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Krievragciems",
@@ -17408,10 +18245,14 @@
 "LatLong": "57.2659,23.0317"
 }
 ]
+}
+]
 },
 {
 "Name": "Laidzes pag.",
 "Code": "0880268",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sukturi",
@@ -17459,10 +18300,14 @@
 "LatLong": "57.289,22.6496"
 }
 ]
+}
+]
 },
 {
 "Name": "Laucienes pag.",
 "Code": "0880270",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Garlene",
@@ -17505,10 +18350,14 @@
 "LatLong": "57.2396,22.7519"
 }
 ]
+}
+]
 },
 {
 "Name": "Lībagu pag.",
 "Code": "0880272",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sukturi",
@@ -17586,10 +18435,14 @@
 "LatLong": "57.1878,22.6126"
 }
 ]
+}
+]
 },
 {
 "Name": "Lubes pag.",
 "Code": "0880274",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Anuži",
@@ -17597,10 +18450,14 @@
 "LatLong": "57.4249,22.6032"
 }
 ]
+}
+]
 },
 {
 "Name": "Strazdes pag.",
 "Code": "0880286",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Strazde",
@@ -17618,10 +18475,14 @@
 "LatLong": "57.1393,22.7539"
 }
 ]
+}
+]
 },
 {
 "Name": "Valdgales pag.",
 "Code": "0880292",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ģibzde",
@@ -17654,10 +18515,14 @@
 "LatLong": "57.3714,22.3671"
 }
 ]
+}
+]
 },
 {
 "Name": "Vandzenes pag.",
 "Code": "0880294",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vandzene",
@@ -17685,10 +18550,14 @@
 "LatLong": "57.3811,22.9615"
 }
 ]
+}
+]
 },
 {
 "Name": "Virbu pag.",
 "Code": "0880296",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lēdas",
@@ -17718,6 +18587,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Tukuma nov.",
@@ -17726,6 +18597,8 @@
 {
 "Name": "Degoles pag.",
 "Code": "0900246",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vienība",
@@ -17738,10 +18611,14 @@
 "LatLong": "56.8872,23.0719"
 }
 ]
+}
+]
 },
 {
 "Name": "Džūkstes pag.",
 "Code": "0900248",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Džūkste",
@@ -17759,10 +18636,14 @@
 "LatLong": "56.8128,23.35"
 }
 ]
+}
+]
 },
 {
 "Name": "Irlavas pag.",
 "Code": "0900254",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vaski",
@@ -17780,10 +18661,14 @@
 "LatLong": "56.8833,23"
 }
 ]
+}
+]
 },
 {
 "Name": "Jaunsātu pag.",
 "Code": "0900258",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Abavnieki",
@@ -17791,10 +18676,14 @@
 "LatLong": "57.05,23.0876"
 }
 ]
+}
+]
 },
 {
 "Name": "Lestenes pag.",
 "Code": "0900268",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lestene",
@@ -17802,10 +18691,14 @@
 "LatLong": "56.7733,23.1442"
 }
 ]
+}
+]
 },
 {
 "Name": "Pūres pag.",
 "Code": "0900274",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lamiņi",
@@ -17823,10 +18716,14 @@
 "LatLong": "57.0666,22.9359"
 }
 ]
+}
+]
 },
 {
 "Name": "Sēmes pag.",
 "Code": "0900278",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sēme",
@@ -17844,10 +18741,14 @@
 "LatLong": "57.0604,23.0282"
 }
 ]
+}
+]
 },
 {
 "Name": "Slampes pag.",
 "Code": "0900280",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Slampe",
@@ -17860,10 +18761,14 @@
 "LatLong": "56.9199,23.2174"
 }
 ]
+}
+]
 },
 {
 "Name": "Tumes pag.",
 "Code": "0900284",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tume",
@@ -17871,15 +18776,21 @@
 "LatLong": "56.9339,23.0903"
 }
 ]
+}
+]
 },
 {
 "Name": "Zentenes pag.",
 "Code": "0900296",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zentene",
 "PostCode": "LV-3123",
 "LatLong": "57.1345,22.9764"
+}
+]
 }
 ]
 }
@@ -17892,6 +18803,8 @@
 {
 "Name": "Ērģemes pag.",
 "Code": "0940252",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Omuļi",
@@ -17909,10 +18822,14 @@
 "LatLong": "57.75,25.8"
 }
 ]
+}
+]
 },
 {
 "Name": "Kārķu pag.",
 "Code": "0940266",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vēveri",
@@ -17930,10 +18847,14 @@
 "LatLong": "57.8089,25.6354"
 }
 ]
+}
+]
 },
 {
 "Name": "Valkas pag.",
 "Code": "0940288",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lugaži",
@@ -17946,10 +18867,14 @@
 "LatLong": "57.7667,26.0833"
 }
 ]
+}
+]
 },
 {
 "Name": "Vijciema pag.",
 "Code": "0940292",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vijciems",
@@ -17957,15 +18882,21 @@
 "LatLong": "57.5861,25.9532"
 }
 ]
+}
+]
 },
 {
 "Name": "Zvārtavas pag.",
 "Code": "0940296",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stepi",
 "PostCode": "LV-4735",
 "LatLong": "57.551,26.289"
+}
+]
 }
 ]
 }
@@ -17978,6 +18909,8 @@
 {
 "Name": "Piltenes pag.",
 "Code": "0980233",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ūdrande",
@@ -18000,10 +18933,14 @@
 "LatLong": "57.2862,21.6815"
 }
 ]
+}
+]
 },
 {
 "Name": "Ances pag.",
 "Code": "0980244",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rinda",
@@ -18036,10 +18973,14 @@
 "LatLong": "57.4737,22.0172"
 }
 ]
+}
+]
 },
 {
 "Name": "Jūrkalnes pag.",
 "Code": "0980250",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Labrags",
@@ -18057,10 +18998,14 @@
 "LatLong": "56.993,21.3752"
 }
 ]
+}
+]
 },
 {
 "Name": "Popes pag.",
 "Code": "0980256",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vēde",
@@ -18093,10 +19038,14 @@
 "LatLong": "57.4269,21.875"
 }
 ]
+}
+]
 },
 {
 "Name": "Puzes pag.",
 "Code": "0980260",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puzenieki",
@@ -18124,10 +19073,14 @@
 "LatLong": "57.3451,22.1465"
 }
 ]
+}
+]
 },
 {
 "Name": "Tārgales pag.",
 "Code": "0980266",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaunupe",
@@ -18200,10 +19153,14 @@
 "LatLong": "57.3613,21.6312"
 }
 ]
+}
+]
 },
 {
 "Name": "Ugāles pag.",
 "Code": "0980270",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Māteri",
@@ -18216,10 +19173,14 @@
 "LatLong": "57.2746,22.0321"
 }
 ]
+}
+]
 },
 {
 "Name": "Usmas pag.",
 "Code": "0980274",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Amjūdze",
@@ -18237,10 +19198,14 @@
 "LatLong": "57.1914,22.1506"
 }
 ]
+}
+]
 },
 {
 "Name": "Užavas pag.",
 "Code": "0980278",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Užava",
@@ -18258,10 +19223,14 @@
 "LatLong": "57.1967,21.4659"
 }
 ]
+}
+]
 },
 {
 "Name": "Vārves pag.",
 "Code": "0980284",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vārve",
@@ -18294,10 +19263,14 @@
 "LatLong": "57.2822,21.5909"
 }
 ]
+}
+]
 },
 {
 "Name": "Ziru pag.",
 "Code": "0980290",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ziras",
@@ -18305,10 +19278,14 @@
 "LatLong": "57.1723,21.5762"
 }
 ]
+}
+]
 },
 {
 "Name": "Zlēku pag.",
 "Code": "0980294",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zlēkas",
@@ -18318,11 +19295,15 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ādažu nov.",
 "Code": "34",
 "Provinces": [
+{
+"Communities": [
 {
 "Places": [
 {
@@ -18403,6 +19384,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Aglonas nov.",
@@ -18411,6 +19394,8 @@
 {
 "Name": "Aglonas pag.",
 "Code": "0604342",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skujas",
@@ -18838,10 +19823,14 @@
 "LatLong": "56.1188,27.0228"
 }
 ]
+}
+]
 },
 {
 "Name": "Grāveru pag.",
 "Code": "0604358",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Raģeļi",
@@ -18964,10 +19953,14 @@
 "LatLong": "56.054,27.1442"
 }
 ]
+}
+]
 },
 {
 "Name": "Kastuļinas pag.",
 "Code": "0604372",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Geraņimova",
@@ -19205,10 +20198,14 @@
 "LatLong": "56.1361,27.3551"
 }
 ]
+}
+]
 },
 {
 "Name": "Šķeltovas pag.",
 "Code": "0604394",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Borovije",
@@ -19428,6 +20425,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Aizputes nov.",
@@ -19436,6 +20435,8 @@
 {
 "Name": "Aizputes pag.",
 "Code": "0640642",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kūdra",
@@ -19448,10 +20449,14 @@
 "LatLong": "56.7167,21.5667"
 }
 ]
+}
+]
 },
 {
 "Name": "Cīravas pag.",
 "Code": "0640648",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cīrava",
@@ -19464,10 +20469,14 @@
 "LatLong": "56.7333,21.3833"
 }
 ]
+}
+]
 },
 {
 "Name": "Kalvenes pag.",
 "Code": "0640666",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kalvene",
@@ -19480,10 +20489,14 @@
 "LatLong": "56.6167,21.7"
 }
 ]
+}
+]
 },
 {
 "Name": "Kazdangas pag.",
 "Code": "0640668",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bojas",
@@ -19506,10 +20519,14 @@
 "LatLong": "56.7333,21.7333"
 }
 ]
+}
+]
 },
 {
 "Name": "Lažas pag.",
 "Code": "0640672",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Apriķi",
@@ -19529,6 +20546,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Aknīstes nov.",
@@ -19537,6 +20556,8 @@
 {
 "Name": "Asares pag.",
 "Code": "0560844",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ancene",
@@ -19549,10 +20570,14 @@
 "LatLong": "56.1167,25.9"
 }
 ]
+}
+]
 },
 {
 "Name": "Gārsenes pag.",
 "Code": "0560862",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gārsene",
@@ -19567,6 +20592,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Alojas nov.",
@@ -19575,6 +20602,8 @@
 {
 "Name": "Alojas pag.",
 "Code": "0661027",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ungurpils",
@@ -19582,10 +20611,14 @@
 "LatLong": "57.7733,24.8128"
 }
 ]
+}
+]
 },
 {
 "Name": "Braslavas pag.",
 "Code": "0661044",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vilzēni",
@@ -19598,10 +20631,14 @@
 "LatLong": "57.75,25.0333"
 }
 ]
+}
+]
 },
 {
 "Name": "Brīvzemnieku pag.",
 "Code": "0661048",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puikules stacija",
@@ -19621,11 +20658,15 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Alsungas nov.",
 "Code": "40",
 "Provinces": [
+{
+"Communities": [
 {
 "Places": [
 {
@@ -19641,6 +20682,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Amatas nov.",
@@ -19649,6 +20692,8 @@
 {
 "Name": "Amatas pag.",
 "Code": "0424742",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Spāre",
@@ -19661,10 +20706,14 @@
 "LatLong": "57.18,25.4067"
 }
 ]
+}
+]
 },
 {
 "Name": "Drabešu pag.",
 "Code": "0424746",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Amata",
@@ -19702,10 +20751,14 @@
 "LatLong": "57.2333,25.2167"
 }
 ]
+}
+]
 },
 {
 "Name": "Nītaures pag.",
 "Code": "0424768",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nītaure",
@@ -19713,10 +20766,14 @@
 "LatLong": "57.0556,25.4306"
 }
 ]
+}
+]
 },
 {
 "Name": "Skujenes pag.",
 "Code": "0424778",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skujene",
@@ -19729,10 +20786,14 @@
 "LatLong": "57.1333,25.5167"
 }
 ]
+}
+]
 },
 {
 "Name": "Zaubes pag.",
 "Code": "0424796",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Annas",
@@ -19757,6 +20818,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Apes nov.",
@@ -19765,6 +20828,8 @@
 {
 "Name": "Gaujienas pag.",
 "Code": "0360848",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gaujiena",
@@ -19772,10 +20837,14 @@
 "LatLong": "57.5142,26.4035"
 }
 ]
+}
+]
 },
 {
 "Name": "Trapenes pag.",
 "Code": "0360884",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Trapene",
@@ -19783,10 +20852,14 @@
 "LatLong": "57.3345,26.8881"
 }
 ]
+}
+]
 },
 {
 "Name": "Virešu pag.",
 "Code": "0360890",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vidaga",
@@ -19801,6 +20874,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Auces nov.",
@@ -19809,6 +20884,8 @@
 {
 "Name": "Vecauces pag.",
 "Code": "0460825",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vecauce",
@@ -19816,10 +20893,14 @@
 "LatLong": "56.5601,23.284"
 }
 ]
+}
+]
 },
 {
 "Name": "Bēnes pag.",
 "Code": "0460850",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vecmiķeļi",
@@ -19832,10 +20913,14 @@
 "LatLong": "56.4833,23.0633"
 }
 ]
+}
+]
 },
 {
 "Name": "Īles pag.",
 "Code": "0460864",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Īle",
@@ -19843,10 +20928,14 @@
 "LatLong": "56.5591,23.1996"
 }
 ]
+}
+]
 },
 {
 "Name": "Lielauces pag.",
 "Code": "0460876",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ražotāji",
@@ -19864,10 +20953,14 @@
 "LatLong": "56.5113,23.1985"
 }
 ]
+}
+]
 },
 {
 "Name": "Ukru pag.",
 "Code": "0460890",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sniķere",
@@ -19880,10 +20973,14 @@
 "LatLong": "56.3419,23.0582"
 }
 ]
+}
+]
 },
 {
 "Name": "Vītiņu pag.",
 "Code": "0460894",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vītiņi",
@@ -19898,6 +20995,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Babītes nov.",
@@ -19906,6 +21005,8 @@
 {
 "Name": "Babītes pag.",
 "Code": "0804948",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Priežciems",
@@ -20008,10 +21109,14 @@
 "LatLong": "56.9257,23.8414"
 }
 ]
+}
+]
 },
 {
 "Name": "Salas pag.",
 "Code": "0804988",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pavasari",
@@ -20066,6 +21171,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Baldones nov.",
@@ -20074,6 +21181,8 @@
 {
 "Name": "Baldones pag.",
 "Code": "0800625",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vārpas",
@@ -20088,11 +21197,15 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Baltinavas nov.",
 "Code": "47",
 "Provinces": [
+{
+"Communities": [
 {
 "Places": [
 {
@@ -20448,6 +21561,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Beverīnas nov.",
@@ -20456,6 +21571,8 @@
 {
 "Name": "Brenguļu pag.",
 "Code": "0964746",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cempi",
@@ -20468,10 +21585,14 @@
 "LatLong": "57.4833,25.55"
 }
 ]
+}
+]
 },
 {
 "Name": "Kauguru pag.",
 "Code": "0964762",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kauguri",
@@ -20494,10 +21615,14 @@
 "LatLong": "57.4833,25.4444"
 }
 ]
+}
+]
 },
 {
 "Name": "Trikātas pag.",
 "Code": "0964784",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Trikāta",
@@ -20512,6 +21637,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Brocēnu nov.",
@@ -20520,6 +21647,8 @@
 {
 "Name": "Cieceres pag.",
 "Code": "0840625",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kalnsētas",
@@ -20542,10 +21671,14 @@
 "LatLong": "56.686,22.4609"
 }
 ]
+}
+]
 },
 {
 "Name": "Blīdenes pag.",
 "Code": "0840644",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Blīdene",
@@ -20563,10 +21696,14 @@
 "LatLong": "56.6917,22.5833"
 }
 ]
+}
+]
 },
 {
 "Name": "Gaiķu pag.",
 "Code": "0840652",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Satiķi",
@@ -20589,15 +21726,21 @@
 "LatLong": "56.7833,22.5833"
 }
 ]
+}
+]
 },
 {
 "Name": "Remtes pag.",
 "Code": "0840680",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Remte",
 "PostCode": "LV-3871",
 "LatLong": "56.75,22.7"
+}
+]
 }
 ]
 }
@@ -20610,6 +21753,8 @@
 {
 "Name": "Burtnieku pag.",
 "Code": "0967148",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Burtnieki",
@@ -20617,10 +21762,14 @@
 "LatLong": "57.5833,25.2167"
 }
 ]
+}
+]
 },
 {
 "Name": "Ēveles pag.",
 "Code": "0967154",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Daksti",
@@ -20633,10 +21782,14 @@
 "LatLong": "57.6557,25.8576"
 }
 ]
+}
+]
 },
 {
 "Name": "Matīšu pag.",
 "Code": "0967170",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Matīši",
@@ -20644,10 +21797,14 @@
 "LatLong": "57.6989,25.1589"
 }
 ]
+}
+]
 },
 {
 "Name": "Rencēnu pag.",
 "Code": "0967178",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lizdēni",
@@ -20660,10 +21817,14 @@
 "LatLong": "57.8,25.4"
 }
 ]
+}
+]
 },
 {
 "Name": "Valmieras pag.",
 "Code": "0967190",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valmiermuiža",
@@ -20681,10 +21842,14 @@
 "LatLong": "57.7774,25.1696"
 }
 ]
+}
+]
 },
 {
 "Name": "Vecates pag.",
 "Code": "0967192",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vecate",
@@ -20694,11 +21859,15 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Carnikavas nov.",
 "Code": "53",
 "Provinces": [
+{
+"Communities": [
 {
 "Places": [
 {
@@ -20759,6 +21928,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Cesvaines nov.",
@@ -20767,6 +21938,8 @@
 {
 "Name": "Cesvaines pag.",
 "Code": "0700827",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kārkli",
@@ -20791,6 +21964,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ciblas nov.",
@@ -20799,6 +21974,8 @@
 {
 "Name": "Blontu pag.",
 "Code": "0684944",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jakuči",
@@ -20906,10 +22083,14 @@
 "LatLong": "56.6268,27.842"
 }
 ]
+}
+]
 },
 {
 "Name": "Ciblas pag.",
 "Code": "0684948",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zeltiņi",
@@ -21072,10 +22253,14 @@
 "LatLong": "56.452,27.8967"
 }
 ]
+}
+]
 },
 {
 "Name": "Līdumnieku pag.",
 "Code": "0684966",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Čivžuļi",
@@ -21228,10 +22413,14 @@
 "LatLong": "56.5687,28.0034"
 }
 ]
+}
+]
 },
 {
 "Name": "Pušmucovas pag.",
 "Code": "0684990",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nūraugi",
@@ -21389,10 +22578,14 @@
 "LatLong": "56.6439,27.721"
 }
 ]
+}
+]
 },
 {
 "Name": "Zvirgzdenes pag.",
 "Code": "0684998",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Franapole",
@@ -21642,6 +22835,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Dagdas nov.",
@@ -21650,6 +22845,8 @@
 {
 "Name": "Andrupenes pag.",
 "Code": "0601042",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kraukļi",
@@ -21937,10 +23134,14 @@
 "LatLong": "56.1361,27.3551"
 }
 ]
+}
+]
 },
 {
 "Name": "Andzeļu pag.",
 "Code": "0601044",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Krauļi",
@@ -22173,10 +23374,14 @@
 "LatLong": "56.1888,27.5124"
 }
 ]
+}
+]
 },
 {
 "Name": "Asūnes pag.",
 "Code": "0601046",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ferma",
@@ -22299,10 +23504,14 @@
 "LatLong": "56.0238,27.5907"
 }
 ]
+}
+]
 },
 {
 "Name": "Bērziņu pag.",
 "Code": "0601050",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Porečje",
@@ -22415,10 +23624,14 @@
 "LatLong": "56.1222,27.7195"
 }
 ]
+}
+]
 },
 {
 "Name": "Dagdas pag.",
 "Code": "0601054",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bojāri",
@@ -22511,10 +23724,14 @@
 "LatLong": "56.0905,27.5442"
 }
 ]
+}
+]
 },
 {
 "Name": "Ezernieku pag.",
 "Code": "0601056",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Egļova",
@@ -22672,10 +23889,14 @@
 "LatLong": "56.1931,27.6735"
 }
 ]
+}
+]
 },
 {
 "Name": "Konstantinovas pag.",
 "Code": "0601076",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saldi",
@@ -22818,10 +24039,14 @@
 "LatLong": "56.0731,27.4096"
 }
 ]
+}
+]
 },
 {
 "Name": "Ķepovas pag.",
 "Code": "0601080",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sumkova",
@@ -22909,10 +24134,14 @@
 "LatLong": "56.0069,27.7628"
 }
 ]
+}
+]
 },
 {
 "Name": "Svariņu pag.",
 "Code": "0601090",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rutki",
@@ -23055,10 +24284,14 @@
 "LatLong": "56.0864,27.7062"
 }
 ]
+}
+]
 },
 {
 "Name": "Šķaunes pag.",
 "Code": "0601092",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rubuļi",
@@ -23183,6 +24416,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Dundagas nov.",
@@ -23191,6 +24426,8 @@
 {
 "Name": "Dundagas pag.",
 "Code": "0885150",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ezermuiža",
@@ -23383,10 +24620,14 @@
 "LatLong": "57.7399,22.5857"
 }
 ]
+}
+]
 },
 {
 "Name": "Kolkas pag.",
 "Code": "0885162",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Uši",
@@ -23431,6 +24672,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Durbes nov.",
@@ -23439,6 +24682,8 @@
 {
 "Name": "Dunalkas pag.",
 "Code": "0640850",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rāva",
@@ -23451,10 +24696,14 @@
 "LatLong": "56.6833,21.3333"
 }
 ]
+}
+]
 },
 {
 "Name": "Tadaiķu pag.",
 "Code": "0640888",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lieģi",
@@ -23462,15 +24711,21 @@
 "LatLong": "56.5817,21.334"
 }
 ]
+}
+]
 },
 {
 "Name": "Vecpils pag.",
 "Code": "0640894",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vecpils",
 "PostCode": "LV-3441",
 "LatLong": "56.6333,21.4833"
+}
+]
 }
 ]
 }
@@ -23483,6 +24738,8 @@
 {
 "Name": "Engures pag.",
 "Code": "0905150",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bērzciems",
@@ -23525,10 +24782,14 @@
 "LatLong": "57.1237,23.2572"
 }
 ]
+}
+]
 },
 {
 "Name": "Lapmežciema pag.",
 "Code": "0905166",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ragaciems",
@@ -23556,10 +24817,14 @@
 "LatLong": "56.9771,23.4613"
 }
 ]
+}
+]
 },
 {
 "Name": "Smārdes pag.",
 "Code": "0905182",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rauda",
@@ -23599,6 +24864,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ērgļu nov.",
@@ -23607,6 +24874,8 @@
 {
 "Name": "Ērgļu pag.",
 "Code": "0705554",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ērgļi",
@@ -23619,10 +24888,14 @@
 "LatLong": "56.9667,25.55"
 }
 ]
+}
+]
 },
 {
 "Name": "Jumurdas pag.",
 "Code": "0705560",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jumurda",
@@ -23630,10 +24903,14 @@
 "LatLong": "56.8838,25.7821"
 }
 ]
+}
+]
 },
 {
 "Name": "Sausnējas pag.",
 "Code": "0705592",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sausnēja",
@@ -23653,11 +24930,15 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Garkalnes nov.",
 "Code": "64",
 "Provinces": [
+{
+"Communities": [
 {
 "Places": [
 {
@@ -23733,6 +25014,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Grobiņas nov.",
@@ -23741,6 +25024,8 @@
 {
 "Name": "Bārtas pag.",
 "Code": "0641044",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bārta",
@@ -23748,10 +25033,14 @@
 "LatLong": "56.3527,21.32"
 }
 ]
+}
+]
 },
 {
 "Name": "Gaviezes pag.",
 "Code": "0641056",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gavieze",
@@ -23759,10 +25048,14 @@
 "LatLong": "56.5038,21.2835"
 }
 ]
+}
+]
 },
 {
 "Name": "Grobiņas pag.",
 "Code": "0641060",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cimdenieki",
@@ -23795,10 +25088,14 @@
 "LatLong": "56.5612,21.1467"
 }
 ]
+}
+]
 },
 {
 "Name": "Medzes pag.",
 "Code": "0641076",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kapsēde",
@@ -23813,11 +25110,15 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Iecavas nov.",
 "Code": "67",
 "Provinces": [
+{
+"Communities": [
 {
 "Places": [
 {
@@ -23863,6 +25164,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ikšķiles nov.",
@@ -23871,6 +25174,8 @@
 {
 "Name": "Tīnūžu pag.",
 "Code": "0740625",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aizupes",
@@ -23920,6 +25225,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ilūkstes nov.",
@@ -23928,6 +25235,8 @@
 {
 "Name": "Prodes pag.",
 "Code": "0440835",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Baltmuiža",
@@ -23935,10 +25244,14 @@
 "LatLong": "55.9182,26.4788"
 }
 ]
+}
+]
 },
 {
 "Name": "Bebrenes pag.",
 "Code": "0440844",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ilze",
@@ -23951,10 +25264,14 @@
 "LatLong": "56.0333,26.0833"
 }
 ]
+}
+]
 },
 {
 "Name": "Dvietes pag.",
 "Code": "0440854",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dviete",
@@ -23962,10 +25279,14 @@
 "LatLong": "56.0601,26.2843"
 }
 ]
+}
+]
 },
 {
 "Name": "Eglaines pag.",
 "Code": "0440856",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eglaine",
@@ -23983,10 +25304,14 @@
 "LatLong": "55.9547,26.692"
 }
 ]
+}
+]
 },
 {
 "Name": "Pilskalnes pag.",
 "Code": "0440880",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Doļnaja",
@@ -23999,10 +25324,14 @@
 "LatLong": "56.007,26.3049"
 }
 ]
+}
+]
 },
 {
 "Name": "Šēderes pag.",
 "Code": "0440890",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rauda",
@@ -24022,6 +25351,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Inčukalna nov.",
@@ -24030,6 +25361,8 @@
 {
 "Name": "Inčukalna pag.",
 "Code": "0801864",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Krustiņi",
@@ -24089,6 +25422,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Jaunjelgavas nov.",
@@ -24097,6 +25432,8 @@
 {
 "Name": "Daudzeses pag.",
 "Code": "0321050",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Daudzeva",
@@ -24109,10 +25446,14 @@
 "LatLong": "56.4782,25.2189"
 }
 ]
+}
+]
 },
 {
 "Name": "Seces pag.",
 "Code": "0321078",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bitāni",
@@ -24135,10 +25476,14 @@
 "LatLong": "56.6167,25.3667"
 }
 ]
+}
+]
 },
 {
 "Name": "Sērenes pag.",
 "Code": "0321080",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dīķi",
@@ -24166,10 +25511,14 @@
 "LatLong": "56.5946,25.376"
 }
 ]
+}
+]
 },
 {
 "Name": "Staburaga pag.",
 "Code": "0321084",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Staburags",
@@ -24177,15 +25526,21 @@
 "LatLong": "56.5167,25.5"
 }
 ]
+}
+]
 },
 {
 "Name": "Sunākstes pag.",
 "Code": "0321086",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sunākste",
 "PostCode": "LV-5130",
 "LatLong": "56.45,25.4833"
+}
+]
 }
 ]
 }
@@ -24198,6 +25553,8 @@
 {
 "Name": "Jaunpiebalgas pag.",
 "Code": "0425756",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaunpiebalga",
@@ -24210,15 +25567,21 @@
 "LatLong": "57.1333,26"
 }
 ]
+}
+]
 },
 {
 "Name": "Zosēnu pag.",
 "Code": "0425798",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Melnbārži",
 "PostCode": "LV-4133",
 "LatLong": "57.266,25.4469"
+}
+]
 }
 ]
 }
@@ -24231,6 +25594,8 @@
 {
 "Name": "Jaunpils pag.",
 "Code": "0905756",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaunsēži",
@@ -24283,10 +25648,14 @@
 "LatLong": "56.7423,22.9577"
 }
 ]
+}
+]
 },
 {
 "Name": "Viesatu pag.",
 "Code": "0905790",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Viesatas",
@@ -24301,6 +25670,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kandavas nov.",
@@ -24309,6 +25680,8 @@
 {
 "Name": "Cēres pag.",
 "Code": "0901244",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cēre",
@@ -24316,10 +25689,14 @@
 "LatLong": "57.05,23.0876"
 }
 ]
+}
+]
 },
 {
 "Name": "Kandavas pag.",
 "Code": "0901262",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valdeķi",
@@ -24327,10 +25704,14 @@
 "LatLong": "57.05,23.0876"
 }
 ]
+}
+]
 },
 {
 "Name": "Matkules pag.",
 "Code": "0901270",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Matkule",
@@ -24338,10 +25719,14 @@
 "LatLong": "56.915,22.9611"
 }
 ]
+}
+]
 },
 {
 "Name": "Vānes pag.",
 "Code": "0901288",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vāne",
@@ -24349,10 +25734,14 @@
 "LatLong": "56.9167,22.5667"
 }
 ]
+}
+]
 },
 {
 "Name": "Zantes pag.",
 "Code": "0901292",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zante",
@@ -24360,10 +25749,14 @@
 "LatLong": "56.8333,22.7333"
 }
 ]
+}
+]
 },
 {
 "Name": "Zemītes pag.",
 "Code": "0901294",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Grenči",
@@ -24378,6 +25771,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kārsavas nov.",
@@ -24386,6 +25781,8 @@
 {
 "Name": "Goliševas pag.",
 "Code": "0681054",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Strauja",
@@ -24473,10 +25870,14 @@
 "LatLong": "56.7619,27.8914"
 }
 ]
+}
+]
 },
 {
 "Name": "Malnavas pag.",
 "Code": "0681068",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Livzinīki",
@@ -24754,10 +26155,14 @@
 "LatLong": "56.7767,27.7971"
 }
 ]
+}
+]
 },
 {
 "Name": "Mežvidu pag.",
 "Code": "0681070",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Padole",
@@ -25105,10 +26510,14 @@
 "LatLong": "56.7211,27.566"
 }
 ]
+}
+]
 },
 {
 "Name": "Mērdzenes pag.",
 "Code": "0681072",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Silinīki",
@@ -25261,10 +26670,14 @@
 "LatLong": "56.6989,27.7421"
 }
 ]
+}
+]
 },
 {
 "Name": "Salnavas pag.",
 "Code": "0681094",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Svikļi",
@@ -25494,6 +26907,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ķeguma nov.",
@@ -25502,6 +26917,8 @@
 {
 "Name": "Tomes pag.",
 "Code": "0741029",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tome",
@@ -25529,10 +26946,14 @@
 "LatLong": "56.7567,24.6381"
 }
 ]
+}
+]
 },
 {
 "Name": "Birzgales pag.",
 "Code": "0741044",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Birzgale",
@@ -25540,10 +26961,14 @@
 "LatLong": "56.632,24.756"
 }
 ]
+}
+]
 },
 {
 "Name": "Rembates pag.",
 "Code": "0741084",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rembate",
@@ -25573,6 +26998,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ķekavas nov.",
@@ -25581,6 +27008,8 @@
 {
 "Name": "Daugmales pag.",
 "Code": "0800856",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Daugmale",
@@ -25593,10 +27022,14 @@
 "LatLong": "56.8217,24.4178"
 }
 ]
+}
+]
 },
 {
 "Name": "Ķekavas pag.",
 "Code": "0800870",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valdlauči",
@@ -25746,6 +27179,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kocēnu nov.",
@@ -25754,6 +27189,8 @@
 {
 "Name": "Bērzaines pag.",
 "Code": "0960244",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bērzaine",
@@ -25761,10 +27198,14 @@
 "LatLong": "57.5833,25.2167"
 }
 ]
+}
+]
 },
 {
 "Name": "Dikļu pag.",
 "Code": "0960252",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dikļi",
@@ -25777,10 +27218,14 @@
 "LatLong": "57.5333,25.0667"
 }
 ]
+}
+]
 },
 {
 "Name": "Kocēnu pag.",
 "Code": "0960264",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kocēni",
@@ -25798,10 +27243,14 @@
 "LatLong": "57.5196,25.2983"
 }
 ]
+}
+]
 },
 {
 "Name": "Vaidavas pag.",
 "Code": "0960288",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vaidava",
@@ -25809,15 +27258,21 @@
 "LatLong": "57.5196,25.2983"
 }
 ]
+}
+]
 },
 {
 "Name": "Zilākalna pag.",
 "Code": "0960296",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zilaiskalns",
 "PostCode": "LV-4222",
 "LatLong": "57.5768,25.1737"
+}
+]
 }
 ]
 }
@@ -25830,6 +27285,8 @@
 {
 "Name": "Bebru pag.",
 "Code": "0326146",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vecbebri",
@@ -25837,10 +27294,14 @@
 "LatLong": "56.45,25.4833"
 }
 ]
+}
+]
 },
 {
 "Name": "Iršu pag.",
 "Code": "0326154",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Irši",
@@ -25848,10 +27309,14 @@
 "LatLong": "56.7833,25.6"
 }
 ]
+}
+]
 },
 {
 "Name": "Kokneses pag.",
 "Code": "0326160",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Koknese",
@@ -25866,6 +27331,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Krimuldas nov.",
@@ -25874,6 +27341,8 @@
 {
 "Name": "Lēdurgas pag.",
 "Code": "0806956",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lode",
@@ -25886,10 +27355,14 @@
 "LatLong": "57.2731,24.77"
 }
 ]
+}
+]
 },
 {
 "Name": "Krimuldas pag.",
 "Code": "0806968",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Murjāņi",
@@ -25919,6 +27392,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Krustpils nov.",
@@ -25927,6 +27402,8 @@
 {
 "Name": "Atašienes pag.",
 "Code": "0566946",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Atašiene",
@@ -25934,10 +27411,14 @@
 "LatLong": "56.2476,26.0456"
 }
 ]
+}
+]
 },
 {
 "Name": "Krustpils pag.",
 "Code": "0566968",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Spunģēni",
@@ -25950,10 +27431,14 @@
 "LatLong": "56.4689,25.8698"
 }
 ]
+}
+]
 },
 {
 "Name": "Kūku pag.",
 "Code": "0566970",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zīlāni",
@@ -25971,10 +27456,14 @@
 "LatLong": "56.2745,26.0056"
 }
 ]
+}
+]
 },
 {
 "Name": "Mežāres pag.",
 "Code": "0566976",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mežāre",
@@ -25982,10 +27471,14 @@
 "LatLong": "56.5378,26.2424"
 }
 ]
+}
+]
 },
 {
 "Name": "Variešu pag.",
 "Code": "0566994",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Antūži",
@@ -26003,15 +27496,21 @@
 "LatLong": "56.4034,25.8738"
 }
 ]
+}
+]
 },
 {
 "Name": "Vīpes pag.",
 "Code": "0566996",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vīpe",
 "PostCode": "LV-5238",
 "LatLong": "56.4034,25.8738"
+}
+]
 }
 ]
 }
@@ -26024,6 +27523,8 @@
 {
 "Name": "Lielvārdes pag.",
 "Code": "0741433",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kaibala",
@@ -26031,10 +27532,14 @@
 "LatLong": "56.7008,24.8739"
 }
 ]
+}
+]
 },
 {
 "Name": "Jumpravas pag.",
 "Code": "0741448",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dzelmes",
@@ -26047,10 +27552,14 @@
 "LatLong": "56.6425,24.9206"
 }
 ]
+}
+]
 },
 {
 "Name": "Lēdmanes pag.",
 "Code": "0741464",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lēdmane",
@@ -26070,6 +27579,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Līgatnes nov.",
@@ -26078,6 +27589,8 @@
 {
 "Name": "Līgatnes pag.",
 "Code": "0421262",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ratnieki",
@@ -26102,6 +27615,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Līvānu nov.",
@@ -26110,6 +27625,8 @@
 {
 "Name": "Jersikas pag.",
 "Code": "0761252",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cirsenieki",
@@ -26202,10 +27719,14 @@
 "LatLong": "56.3358,26.2682"
 }
 ]
+}
+]
 },
 {
 "Name": "Rožupes pag.",
 "Code": "0761266",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lietaunieki",
@@ -26488,10 +28009,14 @@
 "LatLong": "56.4478,26.464"
 }
 ]
+}
+]
 },
 {
 "Name": "Rudzātu pag.",
 "Code": "0761268",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kurčini",
@@ -26689,10 +28214,14 @@
 "LatLong": "56.4478,26.464"
 }
 ]
+}
+]
 },
 {
 "Name": "Sutru pag.",
 "Code": "0761282",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Slapkova",
@@ -26875,10 +28404,14 @@
 "LatLong": "56.299,26.4833"
 }
 ]
+}
+]
 },
 {
 "Name": "Turku pag.",
 "Code": "0761286",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Spēlesķeiri",
@@ -27083,6 +28616,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Lubānas nov.",
@@ -27091,6 +28626,8 @@
 {
 "Name": "Indrānu pag.",
 "Code": "0701458",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Meirāni",
@@ -27105,11 +28642,15 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Mālpils nov.",
 "Code": "94",
 "Provinces": [
+{
+"Communities": [
 {
 "Places": [
 {
@@ -27130,11 +28671,15 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Mārupes nov.",
 "Code": "95",
 "Provinces": [
+{
+"Communities": [
 {
 "Places": [
 {
@@ -27180,6 +28725,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Mazsalacas nov.",
@@ -27188,6 +28735,8 @@
 {
 "Name": "Ramatas pag.",
 "Code": "0961076",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ramata",
@@ -27200,10 +28749,14 @@
 "LatLong": "57.9667,25.1167"
 }
 ]
+}
+]
 },
 {
 "Name": "Sēļu pag.",
 "Code": "0961082",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sēļi",
@@ -27216,15 +28769,21 @@
 "LatLong": "57.85,25.2167"
 }
 ]
+}
+]
 },
 {
 "Name": "Skaņkalnes pag.",
 "Code": "0961084",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skaņkalne",
 "PostCode": "LV-4215",
 "LatLong": "57.7774,25.1696"
+}
+]
 }
 ]
 }
@@ -27237,6 +28796,8 @@
 {
 "Name": "Ķoņu pag.",
 "Code": "0967366",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eriņi",
@@ -27244,15 +28805,21 @@
 "LatLong": "57.86,25.3379"
 }
 ]
+}
+]
 },
 {
 "Name": "Naukšēnu pag.",
 "Code": "0967372",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Naukšēni",
 "PostCode": "LV-4244",
 "LatLong": "57.8835,25.4561"
+}
+]
 }
 ]
 }
@@ -27265,6 +28832,8 @@
 {
 "Name": "Mazzalves pag.",
 "Code": "0327166",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ērberģe",
@@ -27272,10 +28841,14 @@
 "LatLong": "56.45,25.4833"
 }
 ]
+}
+]
 },
 {
 "Name": "Neretas pag.",
 "Code": "0327170",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nereta",
@@ -27283,10 +28856,14 @@
 "LatLong": "56.2028,25.3075"
 }
 ]
+}
+]
 },
 {
 "Name": "Pilskalnes pag.",
 "Code": "0327174",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pilskalne",
@@ -27294,10 +28871,14 @@
 "LatLong": "56.1923,25.1717"
 }
 ]
+}
+]
 },
 {
 "Name": "Zalves pag.",
 "Code": "0327196",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zalve",
@@ -27317,6 +28898,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Nīcas nov.",
@@ -27325,6 +28908,8 @@
 {
 "Name": "Nīcas pag.",
 "Code": "0647978",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nīca",
@@ -27362,10 +28947,14 @@
 "LatLong": "56.2227,21.1014"
 }
 ]
+}
+]
 },
 {
 "Name": "Otaņķu pag.",
 "Code": "0647980",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Otaņķi",
@@ -27380,6 +28969,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Olaines nov.",
@@ -27388,6 +28979,8 @@
 {
 "Name": "Olaines pag.",
 "Code": "0801080",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stīpnieki",
@@ -27492,6 +29085,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ozolnieku nov.",
@@ -27500,6 +29095,8 @@
 {
 "Name": "Cenu pag.",
 "Code": "0546744",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Raubēni",
@@ -27557,10 +29154,14 @@
 "LatLong": "56.6429,23.8258"
 }
 ]
+}
+]
 },
 {
 "Name": "Ozolnieku pag.",
 "Code": "0546766",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ozolnieki",
@@ -27568,10 +29169,14 @@
 "LatLong": "56.6864,23.7878"
 }
 ]
+}
+]
 },
 {
 "Name": "Salgales pag.",
 "Code": "0546778",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Emburga",
@@ -27591,6 +29196,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Pārgaujas nov.",
@@ -27599,6 +29206,8 @@
 {
 "Name": "Raiskuma pag.",
 "Code": "0427574",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Raiskums",
@@ -27631,10 +29240,14 @@
 "LatLong": "57.3417,25.175"
 }
 ]
+}
+]
 },
 {
 "Name": "Stalbes pag.",
 "Code": "0427580",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stalbe",
@@ -27652,10 +29265,14 @@
 "LatLong": "57.4069,24.9764"
 }
 ]
+}
+]
 },
 {
 "Name": "Straupes pag.",
 "Code": "0427582",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Plācis",
@@ -27675,6 +29292,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Pāvilostas nov.",
@@ -27683,6 +29302,8 @@
 {
 "Name": "Sakas pag.",
 "Code": "0641486",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ulmale",
@@ -27710,10 +29331,14 @@
 "LatLong": "56.9115,21.238"
 }
 ]
+}
+]
 },
 {
 "Name": "Vērgales pag.",
 "Code": "0641496",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ploce",
@@ -27738,6 +29363,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Pļaviņu nov.",
@@ -27746,6 +29373,8 @@
 {
 "Name": "Aiviekstes pag.",
 "Code": "0321442",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Maiļupsala",
@@ -27773,10 +29402,14 @@
 "LatLong": "56.5946,25.376"
 }
 ]
+}
+]
 },
 {
 "Name": "Klintaines pag.",
 "Code": "0321458",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rīteri",
@@ -27789,10 +29422,14 @@
 "LatLong": "56.6,25.5167"
 }
 ]
+}
+]
 },
 {
 "Name": "Vietalvas pag.",
 "Code": "0321492",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vietalva",
@@ -27807,6 +29444,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Priekules nov.",
@@ -27815,6 +29454,8 @@
 {
 "Name": "Bunkas pag.",
 "Code": "0641646",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Krote",
@@ -27832,10 +29473,14 @@
 "LatLong": "56.5167,21.5"
 }
 ]
+}
+]
 },
 {
 "Name": "Gramzdas pag.",
 "Code": "0641658",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gramzda",
@@ -27853,10 +29498,14 @@
 "LatLong": "56.3333,21.7333"
 }
 ]
+}
+]
 },
 {
 "Name": "Kalētu pag.",
 "Code": "0641664",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ozoli",
@@ -27869,10 +29518,14 @@
 "LatLong": "56.3613,21.4789"
 }
 ]
+}
+]
 },
 {
 "Name": "Priekules pag.",
 "Code": "0641682",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saulaine",
@@ -27890,10 +29543,14 @@
 "LatLong": "56.4,21.65"
 }
 ]
+}
+]
 },
 {
 "Name": "Virgas pag.",
 "Code": "0641698",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Virga",
@@ -27913,6 +29570,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Priekuļu nov.",
@@ -27921,6 +29580,8 @@
 {
 "Name": "Liepas pag.",
 "Code": "0427360",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Liepa",
@@ -27933,10 +29594,14 @@
 "LatLong": "57.4,25.3833"
 }
 ]
+}
+]
 },
 {
 "Name": "Mārsnēnu pag.",
 "Code": "0427364",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mārsnēni",
@@ -27944,10 +29609,14 @@
 "LatLong": "57.2377,25.6463"
 }
 ]
+}
+]
 },
 {
 "Name": "Priekuļu pag.",
 "Code": "0427372",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dukuri",
@@ -27970,10 +29639,14 @@
 "LatLong": "57.3979,25.0175"
 }
 ]
+}
+]
 },
 {
 "Name": "Veselavas pag.",
 "Code": "0427394",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bērzkrogs",
@@ -27988,6 +29661,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Raunas nov.",
@@ -27996,6 +29671,8 @@
 {
 "Name": "Drustu pag.",
 "Code": "0427748",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Drusti",
@@ -28003,10 +29680,14 @@
 "LatLong": "57.2333,25.8667"
 }
 ]
+}
+]
 },
 {
 "Name": "Raunas pag.",
 "Code": "0427776",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rauna",
@@ -28021,6 +29702,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Riebiņu nov.",
@@ -28029,6 +29712,8 @@
 {
 "Name": "Galēnu pag.",
 "Code": "0766348",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leščinski",
@@ -28136,10 +29821,14 @@
 "LatLong": "56.4743,26.8177"
 }
 ]
+}
+]
 },
 {
 "Name": "Riebiņu pag.",
 "Code": "0766362",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ondzuļi",
@@ -28457,10 +30146,14 @@
 "LatLong": "56.3721,26.7425"
 }
 ]
+}
+]
 },
 {
 "Name": "Rušonas pag.",
 "Code": "0766370",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kliškovas",
@@ -28978,10 +30671,14 @@
 "LatLong": "56.2197,26.8595"
 }
 ]
+}
+]
 },
 {
 "Name": "Silajāņu pag.",
 "Code": "0766376",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Špaki",
@@ -29129,10 +30826,14 @@
 "LatLong": "56.3513,26.92"
 }
 ]
+}
+]
 },
 {
 "Name": "Sīļukalna pag.",
 "Code": "0766378",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bernāni",
@@ -29275,10 +30976,14 @@
 "LatLong": "56.53,26.7333"
 }
 ]
+}
+]
 },
 {
 "Name": "Stabulnieku pag.",
 "Code": "0766380",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Čači",
@@ -29398,11 +31103,15 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Rojas nov.",
 "Code": "B4",
 "Provinces": [
+{
+"Communities": [
 {
 "Places": [
 {
@@ -29458,11 +31167,15 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ropažu nov.",
 "Code": "B5",
 "Provinces": [
+{
+"Communities": [
 {
 "Places": [
 {
@@ -29578,6 +31291,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Rucavas nov.",
@@ -29586,6 +31301,8 @@
 {
 "Name": "Dunikas pag.",
 "Code": "0648552",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dunika",
@@ -29603,10 +31320,14 @@
 "LatLong": "56.2737,21.2923"
 }
 ]
+}
+]
 },
 {
 "Name": "Rucavas pag.",
 "Code": "0648584",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ķāķišķe",
@@ -29636,6 +31357,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Rugāju nov.",
@@ -29644,6 +31367,8 @@
 {
 "Name": "Lazdukalna pag.",
 "Code": "0387564",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skujetnieki",
@@ -29656,10 +31381,14 @@
 "LatLong": "56.9156,27.1685"
 }
 ]
+}
+]
 },
 {
 "Name": "Rugāju pag.",
 "Code": "0387574",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tikaiņi",
@@ -29674,6 +31403,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Rūjienas nov.",
@@ -29682,6 +31413,8 @@
 {
 "Name": "Ipiķu pag.",
 "Code": "0961656",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ipiķi",
@@ -29689,10 +31422,14 @@
 "LatLong": "57.9667,25.1167"
 }
 ]
+}
+]
 },
 {
 "Name": "Jeru pag.",
 "Code": "0961658",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oleri",
@@ -29710,10 +31447,14 @@
 "LatLong": "57.8,25.4"
 }
 ]
+}
+]
 },
 {
 "Name": "Lodes pag.",
 "Code": "0961668",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arakste",
@@ -29726,10 +31467,14 @@
 "LatLong": "58.0167,25.3333"
 }
 ]
+}
+]
 },
 {
 "Name": "Vilpulkas pag.",
 "Code": "0961694",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vilpulka",
@@ -29744,6 +31489,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Rundāles nov.",
@@ -29752,6 +31499,8 @@
 {
 "Name": "Rundāles pag.",
 "Code": "0407776",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saulaine",
@@ -29809,10 +31558,14 @@
 "LatLong": "56.4271,23.9599"
 }
 ]
+}
+]
 },
 {
 "Name": "Svitenes pag.",
 "Code": "0407788",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Svitene",
@@ -29825,10 +31578,14 @@
 "LatLong": "56.3758,23.9298"
 }
 ]
+}
+]
 },
 {
 "Name": "Viesturu pag.",
 "Code": "0407796",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Viesturi",
@@ -29853,6 +31610,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Salas nov.",
@@ -29861,6 +31620,8 @@
 {
 "Name": "Salas pag.",
 "Code": "0568786",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dolomīts",
@@ -29898,15 +31659,21 @@
 "LatLong": "56.5068,25.7642"
 }
 ]
+}
+]
 },
 {
 "Name": "Sēlpils pag.",
 "Code": "0568790",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sēlija",
 "PostCode": "LV-5232",
 "LatLong": "56.4034,25.8738"
+}
+]
 }
 ]
 }
@@ -29919,6 +31686,8 @@
 {
 "Name": "Salaspils pag.",
 "Code": "0801211",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saulkalne",
@@ -30013,6 +31782,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Saulkrastu nov.",
@@ -30021,6 +31792,8 @@
 {
 "Name": "Saulkrastu pag.",
 "Code": "0801433",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bātciems",
@@ -30165,11 +31938,15 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Sējas nov.",
 "Code": "C6",
 "Provinces": [
+{
+"Communities": [
 {
 "Places": [
 {
@@ -30215,6 +31992,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Siguldas nov.",
@@ -30223,6 +32002,8 @@
 {
 "Name": "Allažu pag.",
 "Code": "0801642",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stīveri",
@@ -30250,10 +32031,14 @@
 "LatLong": "57.0565,24.7949"
 }
 ]
+}
+]
 },
 {
 "Name": "Mores pag.",
 "Code": "0801666",
+"Communities": [
+{
 "Places": [
 {
 "Name": "More",
@@ -30261,10 +32046,14 @@
 "LatLong": "57.0833,25.1"
 }
 ]
+}
+]
 },
 {
 "Name": "Siguldas pag.",
 "Code": "0801694",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Peltes",
@@ -30299,11 +32088,15 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Skrīveru nov.",
 "Code": "C8",
 "Provinces": [
+{
+"Communities": [
 {
 "Places": [
 {
@@ -30334,6 +32127,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Skrundas nov.",
@@ -30342,6 +32137,8 @@
 {
 "Name": "Skrundas pag.",
 "Code": "0621229",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaunmuiža",
@@ -30364,10 +32161,14 @@
 "LatLong": "56.6667,22.0389"
 }
 ]
+}
+]
 },
 {
 "Name": "Nīkrāces pag.",
 "Code": "0621268",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dzelda",
@@ -30380,10 +32181,14 @@
 "LatLong": "56.6667,22.0389"
 }
 ]
+}
+]
 },
 {
 "Name": "Raņķu pag.",
 "Code": "0621278",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Raņķi",
@@ -30396,10 +32201,14 @@
 "LatLong": "56.7636,21.985"
 }
 ]
+}
+]
 },
 {
 "Name": "Rudbāržu pag.",
 "Code": "0621282",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rudbārži",
@@ -30414,6 +32223,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Smiltenes nov.",
@@ -30422,6 +32233,8 @@
 {
 "Name": "Bilskas pag.",
 "Code": "0941644",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mēri",
@@ -30434,10 +32247,14 @@
 "LatLong": "57.4833,25.9667"
 }
 ]
+}
+]
 },
 {
 "Name": "Blomes pag.",
 "Code": "0941646",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Blome",
@@ -30445,10 +32262,14 @@
 "LatLong": "57.6254,25.9565"
 }
 ]
+}
+]
 },
 {
 "Name": "Brantu pag.",
 "Code": "0941648",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vidzeme",
@@ -30456,10 +32277,14 @@
 "LatLong": "57.4333,25.9167"
 }
 ]
+}
+]
 },
 {
 "Name": "Grundzāles pag.",
 "Code": "0941658",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vizla",
@@ -30477,10 +32302,14 @@
 "LatLong": "57.5167,26.2"
 }
 ]
+}
+]
 },
 {
 "Name": "Launkalnes pag.",
 "Code": "0941670",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Launkalne",
@@ -30498,10 +32327,14 @@
 "LatLong": "57.4333,25.9167"
 }
 ]
+}
+]
 },
 {
 "Name": "Palsmanes pag.",
 "Code": "0941674",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rauza",
@@ -30514,10 +32347,14 @@
 "LatLong": "57.3833,26.1833"
 }
 ]
+}
+]
 },
 {
 "Name": "Smiltenes pag.",
 "Code": "0941680",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Brutuļi",
@@ -30540,10 +32377,14 @@
 "LatLong": "57.4333,25.9167"
 }
 ]
+}
+]
 },
 {
 "Name": "Variņu pag.",
 "Code": "0941690",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Variņi",
@@ -30553,11 +32394,15 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Stopiņu nov.",
 "Code": "D2",
 "Provinces": [
+{
+"Communities": [
 {
 "Places": [
 {
@@ -30623,6 +32468,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Strenču nov.",
@@ -30631,6 +32478,8 @@
 {
 "Name": "Jērcēnu pag.",
 "Code": "0941860",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ķeiži",
@@ -30648,10 +32497,14 @@
 "LatLong": "57.6333,25.55"
 }
 ]
+}
+]
 },
 {
 "Name": "Plāņu pag.",
 "Code": "0941876",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaunklidzis",
@@ -30666,6 +32519,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Tērvetes nov.",
@@ -30674,6 +32529,8 @@
 {
 "Name": "Augstkalnes pag.",
 "Code": "0468944",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dzeguzēni",
@@ -30686,10 +32543,14 @@
 "LatLong": "56.405,23.3403"
 }
 ]
+}
+]
 },
 {
 "Name": "Bukaišu pag.",
 "Code": "0468956",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bukaiši",
@@ -30697,10 +32558,14 @@
 "LatLong": "56.4006,23.2522"
 }
 ]
+}
+]
 },
 {
 "Name": "Tērvetes pag.",
 "Code": "0468988",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zelmeņi",
@@ -30720,6 +32585,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Vaiņodes nov.",
@@ -30728,6 +32595,8 @@
 {
 "Name": "Embūtes pag.",
 "Code": "0649354",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vībiņi",
@@ -30735,15 +32604,21 @@
 "LatLong": "56.4865,21.8926"
 }
 ]
+}
+]
 },
 {
 "Name": "Vaiņodes pag.",
 "Code": "0649392",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vaiņode",
 "PostCode": "LV-3435",
 "LatLong": "56.4333,21.8667"
+}
+]
 }
 ]
 }
@@ -30756,6 +32631,8 @@
 {
 "Name": "Murmastienes pag.",
 "Code": "0701878",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Murmastiene",
@@ -30763,10 +32640,14 @@
 "LatLong": "56.6681,26.562"
 }
 ]
+}
+]
 },
 {
 "Name": "Varakļānu pag.",
 "Code": "0701894",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stirniene",
@@ -30781,6 +32662,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Vārkavas nov.",
@@ -30789,6 +32672,8 @@
 {
 "Name": "Rožkalnu pag.",
 "Code": "0769164",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Spričvecumi",
@@ -30951,10 +32836,14 @@
 "LatLong": "56.2024,26.464"
 }
 ]
+}
+]
 },
 {
 "Name": "Upmalas pag.",
 "Code": "0769190",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vanagi",
@@ -31167,10 +33056,14 @@
 "LatLong": "56.2116,26.5741"
 }
 ]
+}
+]
 },
 {
 "Name": "Vārkavas pag.",
 "Code": "0769194",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stabuļnīki",
@@ -31355,6 +33248,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Vecpiebalgas nov.",
@@ -31363,6 +33258,8 @@
 {
 "Name": "Dzērbenes pag.",
 "Code": "0429350",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dzērbene",
@@ -31370,10 +33267,14 @@
 "LatLong": "57.2,25.6667"
 }
 ]
+}
+]
 },
 {
 "Name": "Inešu pag.",
 "Code": "0429354",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ineši",
@@ -31381,10 +33282,14 @@
 "LatLong": "57.2377,25.6463"
 }
 ]
+}
+]
 },
 {
 "Name": "Kaives pag.",
 "Code": "0429358",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kaive",
@@ -31392,10 +33297,14 @@
 "LatLong": "57.05,25.6333"
 }
 ]
+}
+]
 },
 {
 "Name": "Taurenes pag.",
 "Code": "0429386",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Taurene",
@@ -31403,15 +33312,21 @@
 "LatLong": "57.1667,25.7"
 }
 ]
+}
+]
 },
 {
 "Name": "Vecpiebalgas pag.",
 "Code": "0429392",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vecpiebalga",
 "PostCode": "LV-4122",
 "LatLong": "57.0609,25.8162"
+}
+]
 }
 ]
 }
@@ -31424,6 +33339,8 @@
 {
 "Name": "Bārbeles pag.",
 "Code": "0409544",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bārbele",
@@ -31436,10 +33353,14 @@
 "LatLong": "56.4503,24.5983"
 }
 ]
+}
+]
 },
 {
 "Name": "Kurmenes pag.",
 "Code": "0409562",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kurmene",
@@ -31447,10 +33368,14 @@
 "LatLong": "56.3725,25.2537"
 }
 ]
+}
+]
 },
 {
 "Name": "Skaistkalnes pag.",
 "Code": "0409580",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mēmele",
@@ -31468,10 +33393,14 @@
 "LatLong": "56.3822,24.6456"
 }
 ]
+}
+]
 },
 {
 "Name": "Stelpes pag.",
 "Code": "0409584",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nīzere",
@@ -31489,10 +33418,14 @@
 "LatLong": "56.5331,24.499"
 }
 ]
+}
+]
 },
 {
 "Name": "Valles pag.",
 "Code": "0409590",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Taurkalne",
@@ -31505,10 +33438,14 @@
 "LatLong": "56.5647,24.9286"
 }
 ]
+}
+]
 },
 {
 "Name": "Vecumnieku pag.",
 "Code": "0409594",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Misa",
@@ -31533,6 +33470,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Viesītes nov.",
@@ -31541,6 +33480,8 @@
 {
 "Name": "Elkšņu pag.",
 "Code": "0561858",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Apserde",
@@ -31558,10 +33499,14 @@
 "LatLong": "56.4034,25.8738"
 }
 ]
+}
+]
 },
 {
 "Name": "Saukas pag.",
 "Code": "0561888",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sauka",
@@ -31576,6 +33521,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Viļakas nov.",
@@ -31584,6 +33531,8 @@
 {
 "Name": "Kupravas pag.",
 "Code": "0381660",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kuprava",
@@ -31591,10 +33540,14 @@
 "LatLong": "57.2371,27.4958"
 }
 ]
+}
+]
 },
 {
 "Name": "Medņevas pag.",
 "Code": "0381670",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Janapole",
@@ -31727,10 +33680,14 @@
 "LatLong": "57.0696,27.6405"
 }
 ]
+}
+]
 },
 {
 "Name": "Susāju pag.",
 "Code": "0381678",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mucukalns",
@@ -31948,10 +33905,14 @@
 "LatLong": "57.243,27.6925"
 }
 ]
+}
+]
 },
 {
 "Name": "Šķilbēnu pag.",
 "Code": "0381682",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Upīte",
@@ -32259,10 +34220,14 @@
 "LatLong": "57.0696,27.6405"
 }
 ]
+}
+]
 },
 {
 "Name": "Vecumu pag.",
 "Code": "0381692",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Slīpači",
@@ -32400,10 +34365,14 @@
 "LatLong": "57.2368,27.8058"
 }
 ]
+}
+]
 },
 {
 "Name": "Žīguru pag.",
 "Code": "0381698",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sosnīcas",
@@ -32453,6 +34422,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Viļānu nov.",
@@ -32461,6 +34432,8 @@
 {
 "Name": "Dekšāres pag.",
 "Code": "0781848",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Trūpeņi",
@@ -32603,10 +34576,14 @@
 "LatLong": "56.631,26.7989"
 }
 ]
+}
+]
 },
 {
 "Name": "Sokolku pag.",
 "Code": "0781890",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bokāni",
@@ -32719,10 +34696,14 @@
 "LatLong": "56.4911,26.9985"
 }
 ]
+}
+]
 },
 {
 "Name": "Viļānu pag.",
 "Code": "0781898",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lielie Tuči",
@@ -32907,6 +34888,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Zilupes nov.",
@@ -32915,6 +34898,8 @@
 {
 "Name": "Lauderu pag.",
 "Code": "0681864",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cucuri",
@@ -33087,10 +35072,14 @@
 "LatLong": "56.3203,27.9761"
 }
 ]
+}
+]
 },
 {
 "Name": "Pasienes pag.",
 "Code": "0681884",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zaborje",
@@ -33253,10 +35242,14 @@
 "LatLong": "56.2734,28.1722"
 }
 ]
+}
+]
 },
 {
 "Name": "Zaļesjes pag.",
 "Code": "0681896",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Duboviki",
@@ -33481,11 +35474,15 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Mērsraga nov.",
 "Code": "F1",
 "Provinces": [
+{
+"Communities": [
 {
 "Places": [
 {
@@ -33507,6 +35504,8 @@
 "Name": "Ķipati",
 "PostCode": "LV-3284",
 "LatLong": "57.3331,23.0593"
+}
+]
 }
 ]
 }

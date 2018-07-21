@@ -1,5 +1,4 @@
 {
-"Structure": "State/Province/Place",
 "States": [
 {
 "Name": "Region Nordjylland",
@@ -8,6 +7,8 @@
 {
 "Name": "Morsø Kommune",
 "Code": "773",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nykøbing M",
@@ -40,10 +41,14 @@
 "LatLong": "56.7011,8.6946"
 }
 ]
+}
+]
 },
 {
 "Name": "Thisted Kommune",
 "Code": "787",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Thisted",
@@ -86,10 +91,14 @@
 "LatLong": "56.7628,8.3194"
 }
 ]
+}
+]
 },
 {
 "Name": "Brønderslev Kommune",
 "Code": "810",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hjallerup",
@@ -152,10 +161,14 @@
 "LatLong": "57.3476,9.9515"
 }
 ]
+}
+]
 },
 {
 "Name": "Frederikshavn Kommune",
 "Code": "813",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sæby",
@@ -223,10 +236,14 @@
 "LatLong": "57.7209,10.5839"
 }
 ]
+}
+]
 },
 {
 "Name": "Vesthimmerlands Kommune",
 "Code": "820",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nibe",
@@ -274,10 +291,14 @@
 "LatLong": "56.8973,9.2287"
 }
 ]
+}
+]
 },
 {
 "Name": "Læsø Kommune",
 "Code": "825",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Læsø",
@@ -285,10 +306,14 @@
 "LatLong": "57.5448,10.4827"
 }
 ]
+}
+]
 },
 {
 "Name": "Rebild Kommune",
 "Code": "840",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Svenstrup J",
@@ -366,10 +391,14 @@
 "LatLong": "56.6947,9.4934"
 }
 ]
+}
+]
 },
 {
 "Name": "Mariagerfjord Kommune",
 "Code": "846",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Havndal",
@@ -412,10 +441,14 @@
 "LatLong": "56.6167,9.5011"
 }
 ]
+}
+]
 },
 {
 "Name": "Jammerbugt Kommune",
 "Code": "849",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sulsted",
@@ -478,10 +511,14 @@
 "LatLong": "57.2702,9.941"
 }
 ]
+}
+]
 },
 {
 "Name": "Aalborg Kommune",
 "Code": "851",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aalborg",
@@ -589,10 +626,14 @@
 "LatLong": "56.8854,9.8384"
 }
 ]
+}
+]
 },
 {
 "Name": "Hjørring Kommune",
 "Code": "860",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Løkken",
@@ -652,6 +693,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Region Midtjylland",
@@ -660,6 +703,8 @@
 {
 "Name": "Horsens Kommune",
 "Code": "615",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bryrup",
@@ -722,10 +767,14 @@
 "LatLong": "55.7526,9.8512"
 }
 ]
+}
+]
 },
 {
 "Name": "Herning Kommune",
 "Code": "657",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kibæk",
@@ -808,10 +857,14 @@
 "LatLong": "56.4751,8.7908"
 }
 ]
+}
+]
 },
 {
 "Name": "Holstebro Kommune",
 "Code": "661",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ulfborg",
@@ -854,10 +907,14 @@
 "LatLong": "56.4751,8.7908"
 }
 ]
+}
+]
 },
 {
 "Name": "Lemvig Kommune",
 "Code": "665",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ulfborg",
@@ -900,10 +957,14 @@
 "LatLong": "56.6985,8.2124"
 }
 ]
+}
+]
 },
 {
 "Name": "Struer Kommune",
 "Code": "671",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Holstebro",
@@ -941,10 +1002,14 @@
 "LatLong": "56.4751,8.7908"
 }
 ]
+}
+]
 },
 {
 "Name": "Syddjurs Kommune",
 "Code": "706",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ebeltoft",
@@ -1002,10 +1067,14 @@
 "LatLong": "56.4308,10.3782"
 }
 ]
+}
+]
 },
 {
 "Name": "Norddjurs Kommune",
 "Code": "707",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Balle",
@@ -1068,10 +1137,14 @@
 "LatLong": "56.4308,10.3782"
 }
 ]
+}
+]
 },
 {
 "Name": "Favrskov Kommune",
 "Code": "710",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hadsten",
@@ -1144,10 +1217,14 @@
 "LatLong": "56.4422,10.3635"
 }
 ]
+}
+]
 },
 {
 "Name": "Odder Kommune",
 "Code": "727",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Odder",
@@ -1170,10 +1247,14 @@
 "LatLong": "56.0399,9.9272"
 }
 ]
+}
+]
 },
 {
 "Name": "Randers Kommune",
 "Code": "730",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ulstrup",
@@ -1236,10 +1317,14 @@
 "LatLong": "56.6499,9.9751"
 }
 ]
+}
+]
 },
 {
 "Name": "Silkeborg Kommune",
 "Code": "740",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hampen",
@@ -1342,10 +1427,14 @@
 "LatLong": "56.2302,9.7391"
 }
 ]
+}
+]
 },
 {
 "Name": "Samsø Kommune",
 "Code": "741",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Samsø",
@@ -1353,10 +1442,14 @@
 "LatLong": "55.8796,10.6076"
 }
 ]
+}
+]
 },
 {
 "Name": "Skanderborg Kommune",
 "Code": "746",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hørning",
@@ -1404,10 +1497,14 @@
 "LatLong": "55.9308,9.846"
 }
 ]
+}
+]
 },
 {
 "Name": "Aarhus Kommune",
 "Code": "751",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aarhus C",
@@ -1555,10 +1652,14 @@
 "LatLong": "56.0399,9.9272"
 }
 ]
+}
+]
 },
 {
 "Name": "Ikast-Brande Kommune",
 "Code": "756",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tørring",
@@ -1626,10 +1727,14 @@
 "LatLong": "55.9644,9.3932"
 }
 ]
+}
+]
 },
 {
 "Name": "Ringkøbing-Skjern Kommune",
 "Code": "760",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nørre Nebel",
@@ -1722,10 +1827,14 @@
 "LatLong": "56.2,8.7667"
 }
 ]
+}
+]
 },
 {
 "Name": "Hedensted Kommune",
 "Code": "766",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vejle",
@@ -1813,10 +1922,14 @@
 "LatLong": "55.7526,9.8512"
 }
 ]
+}
+]
 },
 {
 "Name": "Skive Kommune",
 "Code": "779",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skive",
@@ -1849,10 +1962,14 @@
 "LatLong": "56.5537,8.9353"
 }
 ]
+}
+]
 },
 {
 "Name": "Viborg Kommune",
 "Code": "791",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karup J",
@@ -1947,6 +2064,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Region Syddanmark",
@@ -1955,6 +2074,8 @@
 {
 "Name": "Middelfart Kommune",
 "Code": "410",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Harndrup",
@@ -1997,10 +2118,14 @@
 "LatLong": "55.4301,9.9297"
 }
 ]
+}
+]
 },
 {
 "Name": "Assens Kommune",
 "Code": "420",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vissenbjerg",
@@ -2043,10 +2168,14 @@
 "LatLong": "55.3195,10.2066"
 }
 ]
+}
+]
 },
 {
 "Name": "Faaborg-Midtfyn Kommune",
 "Code": "430",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Langeskov",
@@ -2114,10 +2243,14 @@
 "LatLong": "55.2064,10.6852"
 }
 ]
+}
+]
 },
 {
 "Name": "Kerteminde Kommune",
 "Code": "440",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marslev",
@@ -2170,10 +2303,14 @@
 "LatLong": "55.2064,10.6852"
 }
 ]
+}
+]
 },
 {
 "Name": "Nyborg Kommune",
 "Code": "450",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ullerslev",
@@ -2206,10 +2343,14 @@
 "LatLong": "55.1755,10.7452"
 }
 ]
+}
+]
 },
 {
 "Name": "Odense Kommune",
 "Code": "461",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Odense C",
@@ -2277,10 +2418,14 @@
 "LatLong": "55.3848,10.1378"
 }
 ]
+}
+]
 },
 {
 "Name": "Svendborg Kommune",
 "Code": "479",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Svendborg",
@@ -2338,10 +2483,14 @@
 "LatLong": "55.2064,10.6852"
 }
 ]
+}
+]
 },
 {
 "Name": "Nordfyns Kommune",
 "Code": "480",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Odense N",
@@ -2394,10 +2543,14 @@
 "LatLong": "55.3732,10.0413"
 }
 ]
+}
+]
 },
 {
 "Name": "Langeland Kommune",
 "Code": "482",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rudkøbing",
@@ -2420,10 +2573,14 @@
 "LatLong": "54.9976,10.8438"
 }
 ]
+}
+]
 },
 {
 "Name": "Ærø Kommune",
 "Code": "492",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marstal",
@@ -2441,10 +2598,14 @@
 "LatLong": "54.8763,10.643"
 }
 ]
+}
+]
 },
 {
 "Name": "Haderslev Kommune",
 "Code": "510",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Christiansfeld",
@@ -2497,10 +2658,14 @@
 "LatLong": "55.3657,9.0632"
 }
 ]
+}
+]
 },
 {
 "Name": "Billund Kommune",
 "Code": "530",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vorbasse",
@@ -2543,10 +2708,14 @@
 "LatLong": "55.8901,8.8473"
 }
 ]
+}
+]
 },
 {
 "Name": "Sønderborg Kommune",
 "Code": "540",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gråsten",
@@ -2584,10 +2753,14 @@
 "LatLong": "54.994,9.7903"
 }
 ]
+}
+]
 },
 {
 "Name": "Tønder Kommune",
 "Code": "550",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Løgumkloster",
@@ -2640,10 +2813,14 @@
 "LatLong": "55.1132,8.5428"
 }
 ]
+}
+]
 },
 {
 "Name": "Esbjerg Kommune",
 "Code": "561",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Holsted",
@@ -2706,10 +2883,14 @@
 "LatLong": "55.5725,8.6675"
 }
 ]
+}
+]
 },
 {
 "Name": "Fanø Kommune",
 "Code": "563",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fanø",
@@ -2717,10 +2898,14 @@
 "LatLong": "55.435,8.3679"
 }
 ]
+}
+]
 },
 {
 "Name": "Varde Kommune",
 "Code": "573",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hovborg",
@@ -2808,10 +2993,14 @@
 "LatLong": "55.754,8.9123"
 }
 ]
+}
+]
 },
 {
 "Name": "Vejen Kommune",
 "Code": "575",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vejen",
@@ -2879,10 +3068,14 @@
 "LatLong": "55.6,8.8"
 }
 ]
+}
+]
 },
 {
 "Name": "Aabenraa Kommune",
 "Code": "580",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aabenraa",
@@ -2925,10 +3118,14 @@
 "LatLong": "55.1289,9.1355"
 }
 ]
+}
+]
 },
 {
 "Name": "Fredericia Kommune",
 "Code": "607",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fredericia",
@@ -2941,10 +3138,14 @@
 "LatLong": "55.5657,9.7526"
 }
 ]
+}
+]
 },
 {
 "Name": "Kolding Kommune",
 "Code": "621",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kolding",
@@ -3022,10 +3223,14 @@
 "LatLong": "55.4838,9.2992"
 }
 ]
+}
+]
 },
 {
 "Name": "Vejle Kommune",
 "Code": "630",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Egtved",
@@ -3125,6 +3330,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Region Hovedstaden",
@@ -3133,6 +3340,8 @@
 {
 "Name": "Københavns Kommune",
 "Code": "101",
+"Communities": [
+{
 "Places": [
 {
 "Name": "København C",
@@ -5230,10 +5439,14 @@
 "LatLong": "56.2,8.7667"
 }
 ]
+}
+]
 },
 {
 "Name": "Frederiksberg Kommune",
 "Code": "147",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Frederiksberg C",
@@ -5781,10 +5994,14 @@
 "LatLong": "55.6836,12.4871"
 }
 ]
+}
+]
 },
 {
 "Name": "Ballerup Kommune",
 "Code": "151",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Herlev",
@@ -5812,10 +6029,14 @@
 "LatLong": "55.7825,12.3686"
 }
 ]
+}
+]
 },
 {
 "Name": "Brøndby Kommune",
 "Code": "153",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Københavns Pakkecent",
@@ -5848,10 +6069,14 @@
 "LatLong": "55.6167,12.35"
 }
 ]
+}
+]
 },
 {
 "Name": "Dragør Kommune",
 "Code": "155",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dragør",
@@ -5859,10 +6084,14 @@
 "LatLong": "55.5945,12.6664"
 }
 ]
+}
+]
 },
 {
 "Name": "Gentofte Kommune",
 "Code": "157",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kongens Lyngby",
@@ -5895,10 +6124,14 @@
 "LatLong": "55.7763,12.5901"
 }
 ]
+}
+]
 },
 {
 "Name": "Gladsaxe Kommune",
 "Code": "159",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Herlev",
@@ -5931,10 +6164,14 @@
 "LatLong": "55.7825,12.3686"
 }
 ]
+}
+]
 },
 {
 "Name": "Glostrup Kommune",
 "Code": "161",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Glostrup",
@@ -5942,10 +6179,14 @@
 "LatLong": "55.6666,12.4038"
 }
 ]
+}
+]
 },
 {
 "Name": "Herlev Kommune",
 "Code": "163",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Herlev",
@@ -5963,10 +6204,14 @@
 "LatLong": "55.7618,12.4679"
 }
 ]
+}
+]
 },
 {
 "Name": "Albertslund Kommune",
 "Code": "165",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Glostrup",
@@ -5984,10 +6229,14 @@
 "LatLong": "55.7316,12.3633"
 }
 ]
+}
+]
 },
 {
 "Name": "Hvidovre Kommune",
 "Code": "167",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rødovre",
@@ -6005,10 +6254,14 @@
 "LatLong": "55.6167,12.35"
 }
 ]
+}
+]
 },
 {
 "Name": "Høje-Taastrup Kommune",
 "Code": "169",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Høje Taastrup",
@@ -6031,10 +6284,14 @@
 "LatLong": "55.6415,12.0803"
 }
 ]
+}
+]
 },
 {
 "Name": "Lyngby-Taarbæk Kommune",
 "Code": "173",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kongens Lyngby",
@@ -6062,10 +6319,14 @@
 "LatLong": "55.7825,12.3686"
 }
 ]
+}
+]
 },
 {
 "Name": "Rødovre Kommune",
 "Code": "175",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rødovre",
@@ -6078,10 +6339,14 @@
 "LatLong": "55.7237,12.44"
 }
 ]
+}
+]
 },
 {
 "Name": "Ishøj Kommune",
 "Code": "183",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ishøj",
@@ -6094,10 +6359,14 @@
 "LatLong": "55.647,12.1936"
 }
 ]
+}
+]
 },
 {
 "Name": "Tårnby Kommune",
 "Code": "185",
+"Communities": [
+{
 "Places": [
 {
 "Name": "København V",
@@ -6125,10 +6394,14 @@
 "LatLong": "55.5945,12.6664"
 }
 ]
+}
+]
 },
 {
 "Name": "Vallensbæk Kommune",
 "Code": "187",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vallensbæk",
@@ -6141,10 +6414,14 @@
 "LatLong": "55.6139,12.3895"
 }
 ]
+}
+]
 },
 {
 "Name": "Furesø Kommune",
 "Code": "190",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bagsværd",
@@ -6172,10 +6449,14 @@
 "LatLong": "55.8394,12.2772"
 }
 ]
+}
+]
 },
 {
 "Name": "Allerød Kommune",
 "Code": "201",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hillerød",
@@ -6208,10 +6489,14 @@
 "LatLong": "55.85,12.1833"
 }
 ]
+}
+]
 },
 {
 "Name": "Fredensborg Kommune",
 "Code": "210",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hørsholm",
@@ -6259,10 +6544,14 @@
 "LatLong": "55.9935,12.5045"
 }
 ]
+}
+]
 },
 {
 "Name": "Helsingør Kommune",
 "Code": "217",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Helsingør",
@@ -6320,10 +6609,14 @@
 "LatLong": "55.9935,12.5045"
 }
 ]
+}
+]
 },
 {
 "Name": "Hillerød Kommune",
 "Code": "219",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Helsinge",
@@ -6381,10 +6674,14 @@
 "LatLong": "55.8396,12.069"
 }
 ]
+}
+]
 },
 {
 "Name": "Hørsholm Kommune",
 "Code": "223",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vedbæk",
@@ -6407,10 +6704,14 @@
 "LatLong": "55.9118,12.4995"
 }
 ]
+}
+]
 },
 {
 "Name": "Rudersdal Kommune",
 "Code": "230",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kongens Lyngby",
@@ -6453,10 +6754,14 @@
 "LatLong": "55.8476,12.4279"
 }
 ]
+}
+]
 },
 {
 "Name": "Egedal Kommune",
 "Code": "240",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ballerup",
@@ -6504,10 +6809,14 @@
 "LatLong": "55.8223,12.0862"
 }
 ]
+}
+]
 },
 {
 "Name": "Frederikssund Kommune",
 "Code": "250",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Slangerup",
@@ -6530,10 +6839,14 @@
 "LatLong": "55.7512,11.9608"
 }
 ]
+}
+]
 },
 {
 "Name": "Halsnæs Kommune",
 "Code": "260",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Frederiksværk",
@@ -6571,10 +6884,14 @@
 "LatLong": "55.8396,12.069"
 }
 ]
+}
+]
 },
 {
 "Name": "Gribskov Kommune",
 "Code": "270",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hornbæk",
@@ -6617,10 +6934,14 @@
 "LatLong": "55.9707,12.0225"
 }
 ]
+}
+]
 },
 {
 "Name": "Bornholm Kommune",
 "Code": "400",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rønne",
@@ -6668,15 +6989,21 @@
 "LatLong": "55.1821,14.7112"
 }
 ]
+}
+]
 },
 {
 "Name": "Christiansø",
 "Code": "411",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gudhjem",
 "PostCode": "3760",
 "LatLong": "55.2105,14.9713"
+}
+]
 }
 ]
 }
@@ -6689,6 +7016,8 @@
 {
 "Name": "Greve Kommune",
 "Code": "253",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hedehusene",
@@ -6711,10 +7040,14 @@
 "LatLong": "55.5953,12.1832"
 }
 ]
+}
+]
 },
 {
 "Name": "Køge Kommune",
 "Code": "259",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ringsted",
@@ -6767,10 +7100,14 @@
 "LatLong": "55.373,12.0769"
 }
 ]
+}
+]
 },
 {
 "Name": "Roskilde Kommune",
 "Code": "265",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hedehusene",
@@ -6828,10 +7165,14 @@
 "LatLong": "55.5098,12.1351"
 }
 ]
+}
+]
 },
 {
 "Name": "Solrød Kommune",
 "Code": "269",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Solrød Strand",
@@ -6854,10 +7195,14 @@
 "LatLong": "55.5098,12.1351"
 }
 ]
+}
+]
 },
 {
 "Name": "Odsherred Kommune",
 "Code": "306",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nykøbing Sj",
@@ -6915,10 +7260,14 @@
 "LatLong": "55.7255,11.3508"
 }
 ]
+}
+]
 },
 {
 "Name": "Holbæk Kommune",
 "Code": "316",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ringsted",
@@ -7006,10 +7355,14 @@
 "LatLong": "55.7343,11.5484"
 }
 ]
+}
+]
 },
 {
 "Name": "Faxe Kommune",
 "Code": "320",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ringsted",
@@ -7067,10 +7420,14 @@
 "LatLong": "55.165,11.9787"
 }
 ]
+}
+]
 },
 {
 "Name": "Kalundborg Kommune",
 "Code": "326",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Slagelse",
@@ -7148,10 +7505,14 @@
 "LatLong": "55.713,11.3045"
 }
 ]
+}
+]
 },
 {
 "Name": "Ringsted Kommune",
 "Code": "329",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ringsted",
@@ -7199,10 +7560,14 @@
 "LatLong": "55.3235,11.9639"
 }
 ]
+}
+]
 },
 {
 "Name": "Slagelse Kommune",
 "Code": "330",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sorø",
@@ -7265,10 +7630,14 @@
 "LatLong": "55.5116,11.2903"
 }
 ]
+}
+]
 },
 {
 "Name": "Stevns Kommune",
 "Code": "336",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Køge",
@@ -7311,10 +7680,14 @@
 "LatLong": "55.373,12.0769"
 }
 ]
+}
+]
 },
 {
 "Name": "Sorø Kommune",
 "Code": "340",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ringsted",
@@ -7367,10 +7740,14 @@
 "LatLong": "55.5438,11.713"
 }
 ]
+}
+]
 },
 {
 "Name": "Lejre Kommune",
 "Code": "350",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Roskilde",
@@ -7403,10 +7780,14 @@
 "LatLong": "55.6125,11.7703"
 }
 ]
+}
+]
 },
 {
 "Name": "Lolland Kommune",
 "Code": "360",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Øster Ulslev",
@@ -7489,10 +7870,14 @@
 "LatLong": "54.7624,11.1873"
 }
 ]
+}
+]
 },
 {
 "Name": "Næstved Kommune",
 "Code": "370",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ringsted",
@@ -7575,10 +7960,14 @@
 "LatLong": "55.1089,11.8747"
 }
 ]
+}
+]
 },
 {
 "Name": "Guldborgsund Kommune",
 "Code": "376",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nykøbing F",
@@ -7656,10 +8045,14 @@
 "LatLong": "54.7997,11.626"
 }
 ]
+}
+]
 },
 {
 "Name": "Vordingborg Kommune",
 "Code": "390",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Præstø",
@@ -7720,6 +8113,8 @@
 "Name": "Bogø By",
 "PostCode": "4793",
 "LatLong": "54.923,12.051"
+}
+]
 }
 ]
 }

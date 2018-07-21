@@ -1,5 +1,10 @@
 {
-"Structure": "Place",
+"States": [
+{
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ljubljana - dostava",
@@ -2780,6 +2785,12 @@
 "Name": "Murska Sobota",
 "PostCode": "9600",
 "LatLong": "46.6625,16.1664"
+}
+]
+}
+]
+}
+]
 }
 ]
 }

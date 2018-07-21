@@ -1,5 +1,10 @@
 {
-"Structure": "Place",
+"States": [
+{
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Reykjavík - 1",
@@ -735,6 +740,12 @@
 "Name": "Vestmannaeyjum",
 "PostCode": "902",
 "LatLong": "63.4406,-20.267"
+}
+]
+}
+]
+}
+]
 }
 ]
 }

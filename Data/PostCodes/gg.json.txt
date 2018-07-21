@@ -1,8 +1,11 @@
 {
-"Structure": "Province/Place",
+"States": [
+{
 "Provinces": [
 {
 "Name": "Guernsey Channel Islands",
+"Communities": [
+{
 "Places": [
 {
 "Name": "St Peter Port",
@@ -35,9 +38,13 @@
 "LatLong": "49.45,-2.6"
 }
 ]
+}
+]
 },
 {
 "Name": "Channel Islands",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sark",
@@ -48,6 +55,10 @@
 "Name": "Alderney",
 "PostCode": "GY9",
 "LatLong": "49.71,-2.2"
+}
+]
+}
+]
 }
 ]
 }

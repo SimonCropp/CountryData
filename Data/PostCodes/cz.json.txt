@@ -1,8 +1,12 @@
 {
-"Structure": "Province/Place",
+"States": [
+{
 "Provinces": [
 {
 "Name": "Hlavní město Praha",
+"Code": "3100",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vršovice",
@@ -1605,9 +1609,14 @@
 "LatLong": "50.1333,14.5167"
 }
 ]
+}
+]
 },
 {
 "Name": "Benešov",
+"Code": "3201",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pyšely",
@@ -4420,9 +4429,14 @@
 "LatLong": "49.775,15.0333"
 }
 ]
+}
+]
 },
 {
 "Name": "Beroun",
+"Code": "3202",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tetín",
@@ -5175,9 +5189,14 @@
 "LatLong": "49.8333,13.95"
 }
 ]
+}
+]
 },
 {
 "Name": "Kladno",
+"Code": "3203",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kladno",
@@ -5990,9 +6009,14 @@
 "LatLong": "50.25,14.0667"
 }
 ]
+}
+]
 },
 {
 "Name": "Kolín",
+"Code": "3204",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tuklaty",
@@ -6940,9 +6964,14 @@
 "LatLong": "50.1,14.9333"
 }
 ]
+}
+]
 },
 {
 "Name": "Kutná Hora",
+"Code": "3205",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Olšany",
@@ -8465,9 +8494,14 @@
 "LatLong": "49,14.05"
 }
 ]
+}
+]
 },
 {
 "Name": "Mělník",
+"Code": "3206",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Brozánky",
@@ -9265,9 +9299,14 @@
 "LatLong": "50.2333,14.2667"
 }
 ]
+}
+]
 },
 {
 "Name": "Mladá Boleslav",
+"Code": "3207",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kolomuty",
@@ -10595,9 +10634,14 @@
 "LatLong": "50.5167,15.0333"
 }
 ]
+}
+]
 },
 {
 "Name": "Nymburk",
+"Code": "3208",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kamenné Zboží",
@@ -11400,9 +11444,14 @@
 "LatLong": "50.2,15.3833"
 }
 ]
+}
+]
 },
 {
 "Name": "Praha-východ",
+"Code": "3209",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Popovice",
@@ -12280,9 +12329,14 @@
 "LatLong": "49.8909,14.6636"
 }
 ]
+}
+]
 },
 {
 "Name": "Praha-západ",
+"Code": "3210",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jíloviště",
@@ -12875,9 +12929,14 @@
 "LatLong": "50.2167,14.35"
 }
 ]
+}
+]
 },
 {
 "Name": "Příbram",
+"Code": "3211",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chouzavá",
@@ -14720,9 +14779,14 @@
 "LatLong": "49.656,14.4291"
 }
 ]
+}
+]
 },
 {
 "Name": "Rakovník",
+"Code": "3212",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nový Dům",
@@ -15440,9 +15504,14 @@
 "LatLong": "50.1333,13.9"
 }
 ]
+}
+]
 },
 {
 "Name": "České Budějovice",
+"Code": "3301",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vrábče",
@@ -17060,9 +17129,14 @@
 "LatLong": "49.2667,14.4667"
 }
 ]
+}
+]
 },
 {
 "Name": "Český Krumlov",
+"Code": "3302",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vyšný",
@@ -18115,9 +18189,14 @@
 "LatLong": "48.9,13.7333"
 }
 ]
+}
+]
 },
 {
 "Name": "Jindřichův Hradec",
+"Code": "3303",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oldřiš",
@@ -19555,9 +19634,14 @@
 "LatLong": "49.0833,15.2833"
 }
 ]
+}
+]
 },
 {
 "Name": "Pelhřimov",
+"Code": "3304",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Letny",
@@ -21175,9 +21259,14 @@
 "LatLong": "49.55,15.3667"
 }
 ]
+}
+]
 },
 {
 "Name": "Písek",
+"Code": "3305",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Újezd",
@@ -22520,9 +22609,14 @@
 "LatLong": "49.5006,14.3557"
 }
 ]
+}
+]
 },
 {
 "Name": "Prachatice",
+"Code": "3306",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arnoštov",
@@ -23810,9 +23904,14 @@
 "LatLong": "49.04,13.73"
 }
 ]
+}
+]
 },
 {
 "Name": "Strakonice",
+"Code": "3307",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tisov",
@@ -25125,9 +25224,14 @@
 "LatLong": "49.1667,14.15"
 }
 ]
+}
+]
 },
 {
 "Name": "Tábor",
+"Code": "3308",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Čelkovice",
@@ -26875,9 +26979,14 @@
 "LatLong": "49.5006,14.3557"
 }
 ]
+}
+]
 },
 {
 "Name": "Domažlice",
+"Code": "3401",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Háje",
@@ -28125,9 +28234,14 @@
 "LatLong": "49.5337,12.9558"
 }
 ]
+}
+]
 },
 {
 "Name": "Cheb",
+"Code": "3402",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pomezí nad Ohří",
@@ -28935,9 +29049,14 @@
 "LatLong": "50.0167,12.6333"
 }
 ]
+}
+]
 },
 {
 "Name": "Karlovy Vary",
+"Code": "3403",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nežichov",
@@ -30220,9 +30339,14 @@
 "LatLong": "50.15,13.2833"
 }
 ]
+}
+]
 },
 {
 "Name": "Klatovy",
+"Code": "3404",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mstice",
@@ -32655,9 +32779,14 @@
 "LatLong": "49.0667,13.5833"
 }
 ]
+}
+]
 },
 {
 "Name": "Plzeň-město",
+"Code": "3405",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valcha",
@@ -32935,9 +33064,14 @@
 "LatLong": "49.72,13.4267"
 }
 ]
+}
+]
 },
 {
 "Name": "Plzeň-jih",
+"Code": "3406",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lhota",
@@ -34030,9 +34164,14 @@
 "LatLong": "49.5,13.3667"
 }
 ]
+}
+]
 },
 {
 "Name": "Plzeň-sever",
+"Code": "3407",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kyšice",
@@ -35255,9 +35394,14 @@
 "LatLong": "49.85,13.05"
 }
 ]
+}
+]
 },
 {
 "Name": "Rokycany",
+"Code": "3408",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bujesily",
@@ -35780,9 +35924,14 @@
 "LatLong": "49.7333,13.7667"
 }
 ]
+}
+]
 },
 {
 "Name": "Sokolov",
+"Code": "3409",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Louka",
@@ -36290,9 +36439,14 @@
 "LatLong": "50.1667,13.5667"
 }
 ]
+}
+]
 },
 {
 "Name": "Tachov",
+"Code": "3410",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vrhaveč",
@@ -37415,9 +37569,14 @@
 "LatLong": "49.7167,12.9833"
 }
 ]
+}
+]
 },
 {
 "Name": "Česká Lípa",
+"Code": "3501",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Janovice v Podještědí",
@@ -38420,9 +38579,14 @@
 "LatLong": "50.7667,14.5667"
 }
 ]
+}
+]
 },
 {
 "Name": "Děčín",
+"Code": "3502",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hliněná",
@@ -39530,9 +39694,14 @@
 "LatLong": "50.925,14.5417"
 }
 ]
+}
+]
 },
 {
 "Name": "Chomutov",
+"Code": "3503",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mezihoří",
@@ -40350,9 +40519,14 @@
 "LatLong": "50.2027,13.3667"
 }
 ]
+}
+]
 },
 {
 "Name": "Jablonec nad Nisou",
+"Code": "3504",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Voděrady",
@@ -40920,9 +41094,14 @@
 "LatLong": "50.7333,15.2167"
 }
 ]
+}
+]
 },
 {
 "Name": "Liberec",
+"Code": "3505",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chlístov",
@@ -42240,9 +42419,14 @@
 "LatLong": "50.95,15.1833"
 }
 ]
+}
+]
 },
 {
 "Name": "Litoměřice",
+"Code": "3506",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oparno",
@@ -43575,9 +43759,14 @@
 "LatLong": "50.3667,14.2167"
 }
 ]
+}
+]
 },
 {
 "Name": "Louny",
+"Code": "3507",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zálezly",
@@ -44670,9 +44859,14 @@
 "LatLong": "50.15,13.4"
 }
 ]
+}
+]
 },
 {
 "Name": "Most",
+"Code": "3508",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Milá",
@@ -45070,9 +45264,14 @@
 "LatLong": "50.6,13.5833"
 }
 ]
+}
+]
 },
 {
 "Name": "Teplice",
+"Code": "3509",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Teplice",
@@ -45645,9 +45844,14 @@
 "LatLong": "50.6833,13.7167"
 }
 ]
+}
+]
 },
 {
 "Name": "Ústí nad Labem",
+"Code": "3510",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Klíše",
@@ -46155,9 +46359,14 @@
 "LatLong": "50.65,13.9167"
 }
 ]
+}
+]
 },
 {
 "Name": "Havlíčkův Brod",
+"Code": "3601",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Březinka",
@@ -47815,9 +48024,14 @@
 "LatLong": "49.7333,15.2333"
 }
 ]
+}
+]
 },
 {
 "Name": "Hradec Králové",
+"Code": "3602",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pražské Předměstí",
@@ -48870,9 +49084,14 @@
 "LatLong": "50.3,15.4167"
 }
 ]
+}
+]
 },
 {
 "Name": "Chrudim",
+"Code": "3603",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tuněchody",
@@ -50650,9 +50869,14 @@
 "LatLong": "49.75,16.0833"
 }
 ]
+}
+]
 },
 {
 "Name": "Jičín",
+"Code": "3604",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Staré Místo",
@@ -52185,9 +52409,14 @@
 "LatLong": "50.5,15.2667"
 }
 ]
+}
+]
 },
 {
 "Name": "Náchod",
+"Code": "3605",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Slotov",
@@ -53300,9 +53529,14 @@
 "LatLong": "50.3667,15.9833"
 }
 ]
+}
+]
 },
 {
 "Name": "Pardubice",
+"Code": "3606",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Labské Chrčice",
@@ -54395,9 +54629,14 @@
 "LatLong": "50,16.1"
 }
 ]
+}
+]
 },
 {
 "Name": "Rychnov nad Kněžnou",
+"Code": "3607",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bělá",
@@ -55325,9 +55564,14 @@
 "LatLong": "50.2667,16.2167"
 }
 ]
+}
+]
 },
 {
 "Name": "Semily",
+"Code": "3608",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Holenice",
@@ -56425,9 +56669,14 @@
 "LatLong": "50.5667,15.55"
 }
 ]
+}
+]
 },
 {
 "Name": "Svitavy",
+"Code": "3609",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Příluka",
@@ -57360,9 +57609,14 @@
 "LatLong": "49.6986,16.2736"
 }
 ]
+}
+]
 },
 {
 "Name": "Trutnov",
+"Code": "3610",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Křenov",
@@ -58230,9 +58484,14 @@
 "LatLong": "50.5167,15.6167"
 }
 ]
+}
+]
 },
 {
 "Name": "Ústí nad Orlicí",
+"Code": "3611",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Záhory",
@@ -59485,9 +59744,14 @@
 "LatLong": "49.8833,16.1167"
 }
 ]
+}
+]
 },
 {
 "Name": "Blansko",
+"Code": "3701",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Klepačov",
@@ -60460,9 +60724,14 @@
 "LatLong": "49.5167,16.7333"
 }
 ]
+}
+]
 },
 {
 "Name": "Brno-město",
+"Code": "3702",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Veveří",
@@ -60975,9 +61244,14 @@
 "LatLong": "49.2667,16.6333"
 }
 ]
+}
+]
 },
 {
 "Name": "Brno-venkov",
+"Code": "3703",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Řícmanice",
@@ -61770,9 +62044,14 @@
 "LatLong": "49.05,16.6167"
 }
 ]
+}
+]
 },
 {
 "Name": "Břeclav",
+"Code": "3704",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Břeclav",
@@ -62175,9 +62454,14 @@
 "LatLong": "48.9333,16.7333"
 }
 ]
+}
+]
 },
 {
 "Name": "Zlín",
+"Code": "3705",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kudlov",
@@ -62830,9 +63114,14 @@
 "LatLong": "49.15,17.9833"
 }
 ]
+}
+]
 },
 {
 "Name": "Hodonín",
+"Code": "3706",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hodonín",
@@ -63300,9 +63589,14 @@
 "LatLong": "48.9667,17.4"
 }
 ]
+}
+]
 },
 {
 "Name": "Jihlava",
+"Code": "3707",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Panské Dubenky",
@@ -64295,9 +64589,14 @@
 "LatLong": "49.1333,15.6333"
 }
 ]
+}
+]
 },
 {
 "Name": "Kroměříž",
+"Code": "3708",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lutopecny",
@@ -64965,9 +65264,14 @@
 "LatLong": "49.3167,17.6"
 }
 ]
+}
+]
 },
 {
 "Name": "Prostějov",
+"Code": "3709",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Slatinky",
@@ -65780,9 +66084,14 @@
 "LatLong": "49.4,16.8333"
 }
 ]
+}
+]
 },
 {
 "Name": "Třebíč",
+"Code": "3710",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Radkovice u Budče",
@@ -66955,9 +67264,14 @@
 "LatLong": "49.05,15.8"
 }
 ]
+}
+]
 },
 {
 "Name": "Uherské Hradiště",
+"Code": "3711",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sady",
@@ -67460,9 +67774,14 @@
 "LatLong": "49.0333,17.65"
 }
 ]
+}
+]
 },
 {
 "Name": "Vyškov",
+"Code": "3712",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lhota",
@@ -68065,9 +68384,14 @@
 "LatLong": "49.1333,16.9333"
 }
 ]
+}
+]
 },
 {
 "Name": "Znojmo",
+"Code": "3713",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Podmolí",
@@ -68950,9 +69274,14 @@
 "LatLong": "49,16.3"
 }
 ]
+}
+]
 },
 {
 "Name": "Žďár nad Sázavou",
+"Code": "3714",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mrhov",
@@ -70770,9 +71099,14 @@
 "LatLong": "49.2667,16.1833"
 }
 ]
+}
+]
 },
 {
 "Name": "Bruntál",
+"Code": "3801",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Roudno",
@@ -71625,9 +71959,14 @@
 "LatLong": "49.9333,17.2667"
 }
 ]
+}
+]
 },
 {
 "Name": "Frýdek-Místek",
+"Code": "3802",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Staré Město",
@@ -72180,9 +72519,14 @@
 "LatLong": "49.5333,18.75"
 }
 ]
+}
+]
 },
 {
 "Name": "Karviná",
+"Code": "3803",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fryštát",
@@ -72540,9 +72884,14 @@
 "LatLong": "49.7167,18.5667"
 }
 ]
+}
+]
 },
 {
 "Name": "Nový Jičín",
+"Code": "3804",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Blahutovice",
@@ -73145,9 +73494,14 @@
 "LatLong": "49.55,18.2167"
 }
 ]
+}
+]
 },
 {
 "Name": "Olomouc",
+"Code": "3805",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Majetín",
@@ -74250,9 +74604,14 @@
 "LatLong": "49.8,17.2833"
 }
 ]
+}
+]
 },
 {
 "Name": "Opava",
+"Code": "3806",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zlatníky",
@@ -75010,9 +75369,14 @@
 "LatLong": "49.7833,17.7833"
 }
 ]
+}
+]
 },
 {
 "Name": "Ostrava-město",
+"Code": "3807",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hrabůvka",
@@ -75400,9 +75764,14 @@
 "LatLong": "49.55,17.95"
 }
 ]
+}
+]
 },
 {
 "Name": "Přerov",
+"Code": "3808",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stará Ves",
@@ -76310,9 +76679,14 @@
 "LatLong": "49.55,17.7833"
 }
 ]
+}
+]
 },
 {
 "Name": "Šumperk",
+"Code": "3809",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lipinka",
@@ -77155,9 +77529,14 @@
 "LatLong": "50.0167,16.85"
 }
 ]
+}
+]
 },
 {
 "Name": "Vsetín",
+"Code": "3810",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Semetín",
@@ -77595,9 +77974,14 @@
 "LatLong": "49.4667,17.95"
 }
 ]
+}
+]
 },
 {
 "Name": "Jeseník",
+"Code": "3811",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Petříkov",
@@ -77918,6 +78302,10 @@
 "Name": "Zlaté Hory",
 "PostCode": "793 76",
 "LatLong": "50.2667,17.4"
+}
+]
+}
+]
 }
 ]
 }

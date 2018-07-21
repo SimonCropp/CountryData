@@ -1,5 +1,4 @@
 {
-"Structure": "State/Province/Place",
 "States": [
 {
 "Name": "Banskobystrický kraj",
@@ -8,6 +7,8 @@
 {
 "Name": "Banská Bystrica",
 "Code": "601",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bečov",
@@ -390,10 +391,14 @@
 "LatLong": "48.7943,19.3537"
 }
 ]
+}
+]
 },
 {
 "Name": "Banská Štiavnica",
 "Code": "602",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kozelník",
@@ -511,10 +516,14 @@
 "LatLong": "48.5202,18.9327"
 }
 ]
+}
+]
 },
 {
 "Name": "Brezno",
 "Code": "603",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mýto pod Ďumbierom",
@@ -832,10 +841,14 @@
 "LatLong": "48.8533,19.6571"
 }
 ]
+}
+]
 },
 {
 "Name": "Detva",
 "Code": "604",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vígľaš",
@@ -1088,10 +1101,14 @@
 "LatLong": "48.5167,19.4814"
 }
 ]
+}
+]
 },
 {
 "Name": "Krupina",
 "Code": "605",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kozí Vrbovok",
@@ -1349,10 +1366,14 @@
 "LatLong": "48.3905,18.9839"
 }
 ]
+}
+]
 },
 {
 "Name": "Lučenec",
 "Code": "606",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Šurice",
@@ -1740,10 +1761,14 @@
 "LatLong": "48.2696,19.8251"
 }
 ]
+}
+]
 },
 {
 "Name": "Poltár",
 "Code": "607",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sušany",
@@ -1976,10 +2001,14 @@
 "LatLong": "48.4395,19.7912"
 }
 ]
+}
+]
 },
 {
 "Name": "Revúca",
 "Code": "608",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Muráň",
@@ -2287,10 +2316,14 @@
 "LatLong": "48.6282,20.051"
 }
 ]
+}
+]
 },
 {
 "Name": "Rimavská Sobota",
 "Code": "609",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Včelinec",
@@ -2973,10 +3006,14 @@
 "LatLong": "48.3425,19.882"
 }
 ]
+}
+]
 },
 {
 "Name": "Veľký Krtíš",
 "Code": "610",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Malý Krtíš",
@@ -3419,10 +3456,14 @@
 "LatLong": "48.2413,19.3349"
 }
 ]
+}
+]
 },
 {
 "Name": "Zvolen",
 "Code": "611",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kráľová",
@@ -3655,10 +3696,14 @@
 "LatLong": "48.5678,18.997"
 }
 ]
+}
+]
 },
 {
 "Name": "Žarnovica",
 "Code": "612",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Veľká Lehota",
@@ -3831,10 +3876,14 @@
 "LatLong": "48.418,18.6134"
 }
 ]
+}
+]
 },
 {
 "Name": "Žiar nad Hronom",
 "Code": "613",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stará Kremnička",
@@ -4052,7 +4101,11 @@
 "LatLong": "48.6771,18.9128"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -4078,6 +4131,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Bratislavský kraj",
@@ -4086,6 +4141,8 @@
 {
 "Name": "Bratislava II",
 "Code": "102",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Podunajské Biskupice",
@@ -4098,10 +4155,14 @@
 "LatLong": "48.1383,17.2087"
 }
 ]
+}
+]
 },
 {
 "Name": "Bratislava III",
 "Code": "103",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vajnory",
@@ -4109,10 +4170,14 @@
 "LatLong": "48.2056,17.2076"
 }
 ]
+}
+]
 },
 {
 "Name": "Bratislava IV",
 "Code": "104",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lamač",
@@ -4130,10 +4195,14 @@
 "LatLong": "48.1744,16.9842"
 }
 ]
+}
+]
 },
 {
 "Name": "Bratislava V",
 "Code": "105",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Čunovo",
@@ -4151,10 +4220,14 @@
 "LatLong": "48.065,17.113"
 }
 ]
+}
+]
 },
 {
 "Name": "Malacky",
 "Code": "106",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stupava",
@@ -4292,10 +4365,14 @@
 "LatLong": "48.5265,17.1373"
 }
 ]
+}
+]
 },
 {
 "Name": "Pezinok",
 "Code": "107",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Harmónia",
@@ -4398,10 +4475,14 @@
 "LatLong": "48.2736,17.2484"
 }
 ]
+}
+]
 },
 {
 "Name": "Senec",
 "Code": "108",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Veľký Biel",
@@ -4614,7 +4695,11 @@
 "LatLong": "48.197,17.5562"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -4865,6 +4950,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Košický kraj",
@@ -4873,6 +4960,8 @@
 {
 "Name": "Gelnica",
 "Code": "801",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nálepkovo",
@@ -5000,10 +5089,14 @@
 "LatLong": "48.8558,20.9371"
 }
 ]
+}
+]
 },
 {
 "Name": "Košice I",
 "Code": "802",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kavečany",
@@ -5021,10 +5114,14 @@
 "LatLong": "48.7576,21.2576"
 }
 ]
+}
+]
 },
 {
 "Name": "Košice II",
 "Code": "803",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lorinčík",
@@ -5062,10 +5159,14 @@
 "LatLong": "48.5797,21.2299"
 }
 ]
+}
+]
 },
 {
 "Name": "Košice III",
 "Code": "804",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Košická Nová Ves",
@@ -5073,10 +5174,14 @@
 "LatLong": "48.7334,21.2973"
 }
 ]
+}
+]
 },
 {
 "Name": "Košice IV",
 "Code": "805",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vyšné Opátske",
@@ -5099,10 +5204,14 @@
 "LatLong": "48.67,21.3175"
 }
 ]
+}
+]
 },
 {
 "Name": "Košice-okolie",
 "Code": "806",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ľudvikov dvor",
@@ -5815,10 +5924,14 @@
 "LatLong": "48.6507,20.9778"
 }
 ]
+}
+]
 },
 {
 "Name": "Michalovce",
 "Code": "807",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lesné",
@@ -6346,10 +6459,14 @@
 "LatLong": "48.5726,22.0737"
 }
 ]
+}
+]
 },
 {
 "Name": "Rožňava",
 "Code": "808",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rožňava",
@@ -6697,10 +6814,14 @@
 "LatLong": "48.4884,20.3409"
 }
 ]
+}
+]
 },
 {
 "Name": "Sobrance",
 "Code": "809",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fekišovce",
@@ -6963,10 +7084,14 @@
 "LatLong": "48.7445,22.1814"
 }
 ]
+}
+]
 },
 {
 "Name": "Spišská Nová Ves",
 "Code": "810",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Teplička",
@@ -7214,10 +7339,14 @@
 "LatLong": "48.8586,20.4107"
 }
 ]
+}
+]
 },
 {
 "Name": "Trebišov",
 "Code": "811",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Trebišov",
@@ -7745,7 +7874,11 @@
 "LatLong": "48.6885,21.6259"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -7771,6 +7904,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Nitriansky kraj",
@@ -7779,6 +7914,8 @@
 {
 "Name": "Komárno",
 "Code": "401",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Madérét",
@@ -8216,10 +8353,14 @@
 "LatLong": "47.8887,18.2485"
 }
 ]
+}
+]
 },
 {
 "Name": "Levice",
 "Code": "402",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kamenec",
@@ -8932,10 +9073,14 @@
 "LatLong": "48.0419,18.6021"
 }
 ]
+}
+]
 },
 {
 "Name": "Nitra",
 "Code": "403",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mlynárce",
@@ -9423,10 +9568,14 @@
 "LatLong": "48.2022,18.3008"
 }
 ]
+}
+]
 },
 {
 "Name": "Nové Zámky",
 "Code": "404",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nové Zámky",
@@ -9864,10 +10013,14 @@
 "LatLong": "47.8559,18.7494"
 }
 ]
+}
+]
 },
 {
 "Name": "Šaľa",
 "Code": "405",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Trnovec nad Váhom",
@@ -9950,10 +10103,14 @@
 "LatLong": "48.2825,17.9125"
 }
 ]
+}
+]
 },
 {
 "Name": "Topoľčany",
 "Code": "406",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nemčice",
@@ -10276,10 +10433,14 @@
 "LatLong": "48.6311,18.1812"
 }
 ]
+}
+]
 },
 {
 "Name": "Zlaté Moravce",
 "Code": "407",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Slepčany",
@@ -10492,7 +10653,11 @@
 "LatLong": "48.3561,18.5301"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -10518,6 +10683,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Prešovský kraj",
@@ -10526,6 +10693,8 @@
 {
 "Name": "Bardejov",
 "Code": "701",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bardejov",
@@ -11008,10 +11177,14 @@
 "LatLong": "49.1442,21.4923"
 }
 ]
+}
+]
 },
 {
 "Name": "Humenné",
 "Code": "702",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Závadka",
@@ -11324,10 +11497,14 @@
 "LatLong": "49.1396,21.7922"
 }
 ]
+}
+]
 },
 {
 "Name": "Kežmarok",
 "Code": "703",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Krížová Ves",
@@ -11570,10 +11747,14 @@
 "LatLong": "49.3451,20.4067"
 }
 ]
+}
+]
 },
 {
 "Name": "Levoča",
 "Code": "704",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Domaňovce",
@@ -11781,10 +11962,14 @@
 "LatLong": "49.0288,20.5771"
 }
 ]
+}
+]
 },
 {
 "Name": "Medzilaborce",
 "Code": "705",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valentovce",
@@ -11917,10 +12102,14 @@
 "LatLong": "49.2719,21.9007"
 }
 ]
+}
+]
 },
 {
 "Name": "Poprad",
 "Code": "706",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Spišská Sobota",
@@ -12213,10 +12402,14 @@
 "LatLong": "49.1353,20.2201"
 }
 ]
+}
+]
 },
 {
 "Name": "Prešov",
 "Code": "707",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Šalgovík",
@@ -12829,10 +13022,14 @@
 "LatLong": "49.1265,21.2482"
 }
 ]
+}
+]
 },
 {
 "Name": "Sabinov",
 "Code": "708",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ostrovany",
@@ -13075,10 +13272,14 @@
 "LatLong": "49.0896,21.1116"
 }
 ]
+}
+]
 },
 {
 "Name": "Snina",
 "Code": "709",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Osadné",
@@ -13251,10 +13452,14 @@
 "LatLong": "48.9886,22.151"
 }
 ]
+}
+]
 },
 {
 "Name": "Stará Ľubovňa",
 "Code": "710",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chmeľnica",
@@ -13537,10 +13742,14 @@
 "LatLong": "49.2429,20.9089"
 }
 ]
+}
+]
 },
 {
 "Name": "Stropkov",
 "Code": "711",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vyškovce",
@@ -13788,10 +13997,14 @@
 "LatLong": "49.2586,21.6254"
 }
 ]
+}
+]
 },
 {
 "Name": "Svidník",
 "Code": "712",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cigla",
@@ -14149,10 +14362,14 @@
 "LatLong": "49.1394,21.5451"
 }
 ]
+}
+]
 },
 {
 "Name": "Vranov nad Topľou",
 "Code": "713",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nižný Kručov",
@@ -14527,6 +14744,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Trnavský kraj",
@@ -14535,6 +14754,8 @@
 {
 "Name": "Dunajská Streda",
 "Code": "201",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kútniky",
@@ -15157,10 +15378,14 @@
 "LatLong": "47.858,17.7688"
 }
 ]
+}
+]
 },
 {
 "Name": "Galanta",
 "Code": "202",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nebojsa",
@@ -15388,10 +15613,14 @@
 "LatLong": "48.3126,17.7205"
 }
 ]
+}
+]
 },
 {
 "Name": "Hlohovec",
 "Code": "203",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Trakovice",
@@ -15519,10 +15748,14 @@
 "LatLong": "48.4772,17.7803"
 }
 ]
+}
+]
 },
 {
 "Name": "Piešťany",
 "Code": "204",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kocurice",
@@ -15685,10 +15918,14 @@
 "LatLong": "48.5159,17.8029"
 }
 ]
+}
+]
 },
 {
 "Name": "Senica",
 "Code": "205",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sotina",
@@ -15926,10 +16163,14 @@
 "LatLong": "48.601,17.0038"
 }
 ]
+}
+]
 },
 {
 "Name": "Skalica",
 "Code": "206",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Petrova Ves",
@@ -16057,10 +16298,14 @@
 "LatLong": "48.8449,17.2264"
 }
 ]
+}
+]
 },
 {
 "Name": "Trnava",
 "Code": "207",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Modranka",
@@ -16348,7 +16593,11 @@
 "LatLong": "48.5345,17.5327"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -16369,6 +16618,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Trenčiansky kraj",
@@ -16377,6 +16628,8 @@
 {
 "Name": "Bánovce nad Bebravou",
 "Code": "301",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nedašovce",
@@ -16659,10 +16912,14 @@
 "LatLong": "48.4084,18.1537"
 }
 ]
+}
+]
 },
 {
 "Name": "Ilava",
 "Code": "302",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Veľké Košecké Podhra",
@@ -16845,10 +17102,14 @@
 "LatLong": "49.2088,18.6786"
 }
 ]
+}
+]
 },
 {
 "Name": "Myjava",
 "Code": "303",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vrbovce",
@@ -16986,10 +17247,14 @@
 "LatLong": "48.7559,17.7094"
 }
 ]
+}
+]
 },
 {
 "Name": "Nové Mesto n.Váhom",
 "Code": "304",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zabudišová",
@@ -17262,10 +17527,14 @@
 "LatLong": "48.7559,17.7094"
 }
 ]
+}
+]
 },
 {
 "Name": "Partizánske",
 "Code": "305",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bošany",
@@ -17428,10 +17697,14 @@
 "LatLong": "48.4084,18.1537"
 }
 ]
+}
+]
 },
 {
 "Name": "Považská Bystrica",
 "Code": "306",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Podmanín",
@@ -17749,10 +18022,14 @@
 "LatLong": "49.1135,18.2144"
 }
 ]
+}
+]
 },
 {
 "Name": "Prievidza",
 "Code": "307",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cigeľ",
@@ -18240,10 +18517,14 @@
 "LatLong": "49.0355,18.8879"
 }
 ]
+}
+]
 },
 {
 "Name": "Púchov",
 "Code": "308",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hloža",
@@ -18451,10 +18732,14 @@
 "LatLong": "49.1969,18.1537"
 }
 ]
+}
+]
 },
 {
 "Name": "Trenčín",
 "Code": "309",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kubrica",
@@ -18857,7 +19142,11 @@
 "LatLong": "48.4793,17.612"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -18883,6 +19172,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Žilinský kraj",
@@ -18891,6 +19182,8 @@
 {
 "Name": "Bytča",
 "Code": "501",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Maršová",
@@ -19093,10 +19386,14 @@
 "LatLong": "49.224,18.5588"
 }
 ]
+}
+]
 },
 {
 "Name": "Čadca",
 "Code": "502",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Podzávoz",
@@ -19509,10 +19806,14 @@
 "LatLong": "49.4127,18.6646"
 }
 ]
+}
+]
 },
 {
 "Name": "Dolný Kubín",
 "Code": "503",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pokryváč",
@@ -19745,10 +20046,14 @@
 "LatLong": "49.2835,19.4798"
 }
 ]
+}
+]
 },
 {
 "Name": "Kysucké Nové Mesto",
 "Code": "504",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rudinka",
@@ -19846,10 +20151,14 @@
 "LatLong": "49.298,18.7614"
 }
 ]
+}
+]
 },
 {
 "Name": "Liptovský Mikuláš",
 "Code": "505",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Huty",
@@ -20267,10 +20576,14 @@
 "LatLong": "49.0497,19.7607"
 }
 ]
+}
+]
 },
 {
 "Name": "Martin",
 "Code": "506",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jahodníky",
@@ -20548,10 +20861,14 @@
 "LatLong": "49.1133,18.9171"
 }
 ]
+}
+]
 },
 {
 "Name": "Námestovo",
 "Code": "507",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vavrečka",
@@ -20749,10 +21066,14 @@
 "LatLong": "49.4534,19.3484"
 }
 ]
+}
+]
 },
 {
 "Name": "Ružomberok",
 "Code": "508",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Štiavnička",
@@ -20965,10 +21286,14 @@
 "LatLong": "49.1351,19.2655"
 }
 ]
+}
+]
 },
 {
 "Name": "Turčianske Teplice",
 "Code": "509",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mošovce",
@@ -21151,10 +21476,14 @@
 "LatLong": "48.8814,18.8472"
 }
 ]
+}
+]
 },
 {
 "Name": "Tvrdošín",
 "Code": "510",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vitanová",
@@ -21262,10 +21591,14 @@
 "LatLong": "49.3419,19.6526"
 }
 ]
+}
+]
 },
 {
 "Name": "Žilina",
 "Code": "511",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Žilinská Lehota",
@@ -21673,7 +22006,11 @@
 "LatLong": "49.0831,18.6198"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -21695,6 +22032,8 @@
 "Name": "Kysucké Nové Mesto",
 "PostCode": "024 04",
 "LatLong": "49.3,18.7833"
+}
+]
 }
 ]
 }

@@ -1,5 +1,4 @@
 {
-"Structure": "State/Province/Place",
 "States": [
 {
 "Name": "Capellen",
@@ -8,6 +7,8 @@
 {
 "Name": "Dippach",
 "Code": "03",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Schouweiler",
@@ -100,10 +101,14 @@
 "LatLong": "49.5777,5.9613"
 }
 ]
+}
+]
 },
 {
 "Name": "Garnich",
 "Code": "04",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Garnich",
@@ -151,10 +156,14 @@
 "LatLong": "49.6327,5.9165"
 }
 ]
+}
+]
 },
 {
 "Name": "Hobscheid",
 "Code": "05",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hobscheid",
@@ -292,10 +301,14 @@
 "LatLong": "49.6827,5.882"
 }
 ]
+}
+]
 },
 {
 "Name": "Kehlen",
 "Code": "06",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dondelange",
@@ -518,10 +531,14 @@
 "LatLong": "49.6575,6.0008"
 }
 ]
+}
+]
 },
 {
 "Name": "Koerich",
 "Code": "07",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Goeblange",
@@ -584,10 +601,14 @@
 "LatLong": "49.6479,5.9583"
 }
 ]
+}
+]
 },
 {
 "Name": "Kopstal",
 "Code": "08",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bridel",
@@ -860,10 +881,14 @@
 "LatLong": "49.6637,6.0745"
 }
 ]
+}
+]
 },
 {
 "Name": "Mamer",
 "Code": "09",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mamer",
@@ -1296,10 +1321,14 @@
 "LatLong": "49.6447,5.9825"
 }
 ]
+}
+]
 },
 {
 "Name": "Septfontaines",
 "Code": "10",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Simmerfarm",
@@ -1342,10 +1371,14 @@
 "LatLong": "49.693,6.0006"
 }
 ]
+}
+]
 },
 {
 "Name": "Steinfort",
 "Code": "11",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Grass",
@@ -1548,10 +1581,14 @@
 "LatLong": "49.6598,5.928"
 }
 ]
+}
+]
 },
 {
 "Name": "Käerjeng",
 "Code": "8641865",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Linger",
@@ -1911,6 +1948,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Clervaux",
@@ -1919,6 +1958,8 @@
 {
 "Name": "Wincrange",
 "Code": "01",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Allerborn",
@@ -2076,10 +2117,14 @@
 "LatLong": "50.1035,5.9443"
 }
 ]
+}
+]
 },
 {
 "Name": "Clervaux",
 "Code": "03",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Clervaux",
@@ -2267,10 +2312,14 @@
 "LatLong": "50.1245,6.1091"
 }
 ]
+}
+]
 },
 {
 "Name": "Troisvierges",
 "Code": "09",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Troisvierges",
@@ -2358,10 +2407,14 @@
 "LatLong": "50.1402,6.0229"
 }
 ]
+}
+]
 },
 {
 "Name": "Weiswampach",
 "Code": "10",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beiler",
@@ -2429,10 +2482,14 @@
 "LatLong": "50.1544,6.0524"
 }
 ]
+}
+]
 },
 {
 "Name": "Parc Hosingen",
 "Code": "63",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Unterschlinder",
@@ -2537,6 +2594,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Diekirch",
@@ -2545,6 +2604,8 @@
 {
 "Name": "Bettendorf",
 "Code": "02",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gilsdorf",
@@ -2627,10 +2688,14 @@
 "LatLong": "49.8664,6.2383"
 }
 ]
+}
+]
 },
 {
 "Name": "Bourscheid",
 "Code": "03",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bourscheid",
@@ -2713,10 +2778,14 @@
 "LatLong": "49.912,6.114"
 }
 ]
+}
+]
 },
 {
 "Name": "Diekirch",
 "Code": "04",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Diekirch",
@@ -3099,10 +3168,14 @@
 "LatLong": "49.8641,6.1726"
 }
 ]
+}
+]
 },
 {
 "Name": "Erpeldange",
 "Code": "06",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ingeldorf",
@@ -3155,10 +3228,14 @@
 "LatLong": "49.8816,6.112"
 }
 ]
+}
+]
 },
 {
 "Name": "Ettelbruck",
 "Code": "07",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Grentzingen",
@@ -3496,10 +3573,14 @@
 "LatLong": "49.8461,6.0991"
 }
 ]
+}
+]
 },
 {
 "Name": "Feulen",
 "Code": "08",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Niederfeulen",
@@ -3537,10 +3618,14 @@
 "LatLong": "49.8468,6.0322"
 }
 ]
+}
+]
 },
 {
 "Name": "Mertzig",
 "Code": "11",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mertzig",
@@ -3568,10 +3653,14 @@
 "LatLong": "49.8277,6.0062"
 }
 ]
+}
+]
 },
 {
 "Name": "Reisdorf",
 "Code": "12",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Reisdorf",
@@ -3604,10 +3693,14 @@
 "LatLong": "49.8829,6.2566"
 }
 ]
+}
+]
 },
 {
 "Name": "Schieren",
 "Code": "13",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Colmar-Pont",
@@ -3740,10 +3833,14 @@
 "LatLong": "49.8197,6.1206"
 }
 ]
+}
+]
 },
 {
 "Name": "Commune de la Vallée de l’Ernz",
 "Code": "8641526",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Savelborn",
@@ -3818,6 +3915,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Canton d'Echternach",
@@ -3826,6 +3925,8 @@
 {
 "Name": "Beaufort",
 "Code": "01",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beaufort",
@@ -3873,10 +3974,14 @@
 "LatLong": "49.8348,6.3268"
 }
 ]
+}
+]
 },
 {
 "Name": "Bech",
 "Code": "02",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hersberg",
@@ -3934,10 +4039,14 @@
 "LatLong": "49.7449,6.2659"
 }
 ]
+}
+]
 },
 {
 "Name": "Berdorf",
 "Code": "03",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kalkesbach (Berdorf)",
@@ -3985,10 +4094,14 @@
 "LatLong": "49.837,6.3786"
 }
 ]
+}
+]
 },
 {
 "Name": "Consdorf",
 "Code": "04",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Consdorf",
@@ -4061,10 +4174,14 @@
 "LatLong": "49.7637,6.3521"
 }
 ]
+}
+]
 },
 {
 "Name": "Echternach",
 "Code": "05",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Echternach",
@@ -4452,10 +4569,14 @@
 "LatLong": "49.791,6.4242"
 }
 ]
+}
+]
 },
 {
 "Name": "Mompach",
 "Code": "06",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lilien",
@@ -4508,10 +4629,14 @@
 "LatLong": "49.7518,6.4637"
 }
 ]
+}
+]
 },
 {
 "Name": "Rosport",
 "Code": "07",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dickweiler",
@@ -4594,10 +4719,14 @@
 "LatLong": "49.8171,6.4772"
 }
 ]
+}
+]
 },
 {
 "Name": "Waldbillig",
 "Code": "08",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mullerthal",
@@ -4647,6 +4776,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Canton d'Esch-sur-Alzette",
@@ -4655,6 +4786,8 @@
 {
 "Name": "Bettembourg",
 "Code": "01",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bettembourg",
@@ -5062,10 +5195,14 @@
 "LatLong": "49.5075,6.0581"
 }
 ]
+}
+]
 },
 {
 "Name": "Differdange",
 "Code": "02",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Niederkorn",
@@ -5893,10 +6030,14 @@
 "LatLong": "49.5238,5.8364"
 }
 ]
+}
+]
 },
 {
 "Name": "Dudelange",
 "Code": "03",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dudelange",
@@ -6629,10 +6770,14 @@
 "LatLong": "49.4786,6.0923"
 }
 ]
+}
+]
 },
 {
 "Name": "Esch-sur-Alzette",
 "Code": "04",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Esch-sur-Alzette",
@@ -7855,10 +8000,14 @@
 "LatLong": "49.5023,5.9441"
 }
 ]
+}
+]
 },
 {
 "Name": "Frisange",
 "Code": "05",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hellange",
@@ -7991,10 +8140,14 @@
 "LatLong": "49.5122,6.1883"
 }
 ]
+}
+]
 },
 {
 "Name": "Kayl",
 "Code": "06",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kayl",
@@ -8337,10 +8490,14 @@
 "LatLong": "49.4722,6.0449"
 }
 ]
+}
+]
 },
 {
 "Name": "Leudelange",
 "Code": "07",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leudelange",
@@ -8498,10 +8655,14 @@
 "LatLong": "49.5706,6.0631"
 }
 ]
+}
+]
 },
 {
 "Name": "Mondercange",
 "Code": "08",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bergem",
@@ -8779,10 +8940,14 @@
 "LatLong": "49.5337,6.0162"
 }
 ]
+}
+]
 },
 {
 "Name": "Pétange",
 "Code": "09",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pétange",
@@ -9435,10 +9600,14 @@
 "LatLong": "49.5539,5.8861"
 }
 ]
+}
+]
 },
 {
 "Name": "Reckange-sur-Mess",
 "Code": "10",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Roedgen",
@@ -9491,10 +9660,14 @@
 "LatLong": "49.5635,6.0119"
 }
 ]
+}
+]
 },
 {
 "Name": "Roeser",
 "Code": "11",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kockelscheuer",
@@ -9607,10 +9780,14 @@
 "LatLong": "49.5448,6.1507"
 }
 ]
+}
+]
 },
 {
 "Name": "Rumelange",
 "Code": "12",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rumelange",
@@ -9808,10 +9985,14 @@
 "LatLong": "49.4604,6.0282"
 }
 ]
+}
+]
 },
 {
 "Name": "Sanem",
 "Code": "13",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Belvaux",
@@ -10299,10 +10480,14 @@
 "LatLong": "49.5507,5.9341"
 }
 ]
+}
+]
 },
 {
 "Name": "Schifflange",
 "Code": "14",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Schifflange",
@@ -10617,6 +10802,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Grevenmacher",
@@ -10625,6 +10812,8 @@
 {
 "Name": "Betzdorf",
 "Code": "01",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Betzdorf",
@@ -10727,10 +10916,14 @@
 "LatLong": "49.6805,6.318"
 }
 ]
+}
+]
 },
 {
 "Name": "Biwer",
 "Code": "02",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Biwer",
@@ -10808,10 +11001,14 @@
 "LatLong": "49.7168,6.3298"
 }
 ]
+}
+]
 },
 {
 "Name": "Flaxweiler",
 "Code": "03",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beyren",
@@ -10854,10 +11051,14 @@
 "LatLong": "49.6671,6.3417"
 }
 ]
+}
+]
 },
 {
 "Name": "Grevenmacher",
 "Code": "04",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Grevenmacher",
@@ -11210,10 +11411,14 @@
 "LatLong": "49.6854,6.441"
 }
 ]
+}
+]
 },
 {
 "Name": "Junglinster",
 "Code": "05",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Junglinster",
@@ -11521,10 +11726,14 @@
 "LatLong": "49.7424,6.2666"
 }
 ]
+}
+]
 },
 {
 "Name": "Manternach",
 "Code": "06",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Berbourg",
@@ -11552,10 +11761,14 @@
 "LatLong": "49.6994,6.4415"
 }
 ]
+}
+]
 },
 {
 "Name": "Mertert",
 "Code": "07",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Wasserbillig",
@@ -11808,10 +12021,14 @@
 "LatLong": "49.7052,6.4829"
 }
 ]
+}
+]
 },
 {
 "Name": "Wormeldange",
 "Code": "09",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ahn",
@@ -11896,6 +12113,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Luxembourg",
@@ -11904,6 +12123,8 @@
 {
 "Name": "Bertrange",
 "Code": "01",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bertrange",
@@ -12151,10 +12372,14 @@
 "LatLong": "49.6227,6.0389"
 }
 ]
+}
+]
 },
 {
 "Name": "Contern",
 "Code": "02",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Contern",
@@ -12297,10 +12522,14 @@
 "LatLong": "49.5981,6.2598"
 }
 ]
+}
+]
 },
 {
 "Name": "Hesperange",
 "Code": "03",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Howald",
@@ -13043,10 +13272,14 @@
 "LatLong": "49.5871,6.1782"
 }
 ]
+}
+]
 },
 {
 "Name": "Niederanven",
 "Code": "04",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Senningerberg",
@@ -13359,10 +13592,14 @@
 "LatLong": "49.6564,6.2305"
 }
 ]
+}
+]
 },
 {
 "Name": "Sandweiler",
 "Code": "05",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Findel",
@@ -13550,10 +13787,14 @@
 "LatLong": "49.6061,6.2015"
 }
 ]
+}
+]
 },
 {
 "Name": "Schuttrange",
 "Code": "06",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Neuhaeusgen",
@@ -13681,10 +13922,14 @@
 "LatLong": "49.6331,6.2803"
 }
 ]
+}
+]
 },
 {
 "Name": "Steinsel",
 "Code": "07",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Steinsel",
@@ -13942,10 +14187,14 @@
 "LatLong": "49.6707,6.1339"
 }
 ]
+}
+]
 },
 {
 "Name": "Strassen",
 "Code": "08",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Strassen",
@@ -14268,10 +14517,14 @@
 "LatLong": "49.6277,6.0469"
 }
 ]
+}
+]
 },
 {
 "Name": "Walferdange",
 "Code": "09",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Walferdange",
@@ -14589,10 +14842,14 @@
 "LatLong": "49.6556,6.1363"
 }
 ]
+}
+]
 },
 {
 "Name": "Weiler-la-Tour",
 "Code": "10",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hassel",
@@ -14650,10 +14907,14 @@
 "LatLong": "49.563,6.2194"
 }
 ]
+}
+]
 },
 {
 "Name": "Ville de Luxembourg",
 "Code": "2960317",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Luxembourg",
@@ -18323,6 +18584,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Mersch",
@@ -18331,6 +18594,8 @@
 {
 "Name": "Berg",
 "Code": "01",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Colmar-Berg",
@@ -18448,10 +18713,14 @@
 "LatLong": "49.8163,6.0859"
 }
 ]
+}
+]
 },
 {
 "Name": "Bissen",
 "Code": "02",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Roost (Bissen)",
@@ -18629,10 +18898,14 @@
 "LatLong": "49.7897,6.085"
 }
 ]
+}
+]
 },
 {
 "Name": "Boevange-sur-Attert",
 "Code": "03",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Brouch",
@@ -18685,10 +18958,14 @@
 "LatLong": "49.7714,6.0199"
 }
 ]
+}
+]
 },
 {
 "Name": "Fischbach",
 "Code": "04",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Koedange",
@@ -18726,10 +19003,14 @@
 "LatLong": "49.7505,6.1686"
 }
 ]
+}
+]
 },
 {
 "Name": "Heffingen",
 "Code": "05",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Heffingen",
@@ -18767,10 +19048,14 @@
 "LatLong": "49.7686,6.2291"
 }
 ]
+}
+]
 },
 {
 "Name": "Larochette",
 "Code": "06",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Larochette",
@@ -18858,10 +19143,14 @@
 "LatLong": "49.7713,6.2145"
 }
 ]
+}
+]
 },
 {
 "Name": "Lintgen",
 "Code": "07",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lintgen",
@@ -18974,10 +19263,14 @@
 "LatLong": "49.7171,6.1189"
 }
 ]
+}
+]
 },
 {
 "Name": "Lorentzweiler",
 "Code": "08",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lorentzweiler",
@@ -19180,10 +19473,14 @@
 "LatLong": "49.6969,6.1313"
 }
 ]
+}
+]
 },
 {
 "Name": "Mersch",
 "Code": "09",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beringen",
@@ -19551,10 +19848,14 @@
 "LatLong": "49.7285,6.0806"
 }
 ]
+}
+]
 },
 {
 "Name": "Nommern",
 "Code": "10",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cruchten",
@@ -19587,10 +19888,14 @@
 "LatLong": "49.8058,6.1551"
 }
 ]
+}
+]
 },
 {
 "Name": "Tuntange",
 "Code": "11",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ansembourg",
@@ -19635,6 +19940,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Redange",
@@ -19643,6 +19950,8 @@
 {
 "Name": "Beckerich",
 "Code": "02",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beckerich",
@@ -19700,10 +20009,14 @@
 "LatLong": "49.7221,5.9246"
 }
 ]
+}
+]
 },
 {
 "Name": "Ell",
 "Code": "05",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Colpach-Bas",
@@ -19736,10 +20049,14 @@
 "LatLong": "49.7956,5.8211"
 }
 ]
+}
+]
 },
 {
 "Name": "Rambrouch",
 "Code": "06",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hostert",
@@ -19867,10 +20184,14 @@
 "LatLong": "49.813,5.8768"
 }
 ]
+}
+]
 },
 {
 "Name": "Grosbous",
 "Code": "07",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Grevels (Grosbous)",
@@ -19898,10 +20219,14 @@
 "LatLong": "49.825,5.9662"
 }
 ]
+}
+]
 },
 {
 "Name": "Redange-sur-Attert",
 "Code": "09",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Redange/Attert",
@@ -19964,10 +20289,14 @@
 "LatLong": "49.7736,5.9259"
 }
 ]
+}
+]
 },
 {
 "Name": "Saeul",
 "Code": "10",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saeul",
@@ -20000,10 +20329,14 @@
 "LatLong": "49.7459,5.971"
 }
 ]
+}
+]
 },
 {
 "Name": "Useldange",
 "Code": "11",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Schandel",
@@ -20041,10 +20374,14 @@
 "LatLong": "49.7508,5.955"
 }
 ]
+}
+]
 },
 {
 "Name": "Vichten",
 "Code": "12",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Michelbouch",
@@ -20067,10 +20404,14 @@
 "LatLong": "49.8021,6.0023"
 }
 ]
+}
+]
 },
 {
 "Name": "Wahl",
 "Code": "13",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Buschrodt",
@@ -20108,10 +20449,14 @@
 "LatLong": "49.8368,5.9061"
 }
 ]
+}
+]
 },
 {
 "Name": "Commune de Préizerdaul",
 "Code": "8641291",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Platen",
@@ -20156,6 +20501,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Remich",
@@ -20164,6 +20511,8 @@
 {
 "Name": "Bous",
 "Code": "00",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Assel",
@@ -20196,10 +20545,14 @@
 "LatLong": "49.5503,6.3161"
 }
 ]
+}
+]
 },
 {
 "Name": "Dalheim",
 "Code": "02",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Reckingerhof",
@@ -20262,10 +20615,14 @@
 "LatLong": "49.5329,6.2469"
 }
 ]
+}
+]
 },
 {
 "Name": "Lenningen",
 "Code": "03",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Canach",
@@ -20303,10 +20660,14 @@
 "LatLong": "49.6015,6.3662"
 }
 ]
+}
+]
 },
 {
 "Name": "Mondorf-les-Bains",
 "Code": "04",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mondorf-les-Bains",
@@ -20504,10 +20865,14 @@
 "LatLong": "49.5128,6.3019"
 }
 ]
+}
+]
 },
 {
 "Name": "Schengen",
 "Code": "05",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bech-Kleinmacher",
@@ -20605,10 +20970,14 @@
 "LatLong": "49.4874,6.2903"
 }
 ]
+}
+]
 },
 {
 "Name": "Remich",
 "Code": "06",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Remich",
@@ -20841,10 +21210,14 @@
 "LatLong": "49.5458,6.3703"
 }
 ]
+}
+]
 },
 {
 "Name": "Stadtbredimus",
 "Code": "07",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Greiveldange",
@@ -20872,10 +21245,14 @@
 "LatLong": "49.5634,6.3626"
 }
 ]
+}
+]
 },
 {
 "Name": "Waldbredimus",
 "Code": "08",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ersange",
@@ -20905,6 +21282,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Vianden",
@@ -20913,6 +21292,8 @@
 {
 "Name": "Tandel",
 "Code": "01",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bastendorf",
@@ -21005,10 +21386,14 @@
 "LatLong": "49.925,6.1723"
 }
 ]
+}
+]
 },
 {
 "Name": "Putscheid",
 "Code": "02",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gralingen",
@@ -21051,10 +21436,14 @@
 "LatLong": "49.963,6.1242"
 }
 ]
+}
+]
 },
 {
 "Name": "Vianden",
 "Code": "03",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vianden",
@@ -21169,6 +21558,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Wiltz",
@@ -21177,6 +21568,8 @@
 {
 "Name": "Boulaide",
 "Code": "01",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Boulaide",
@@ -21204,10 +21597,14 @@
 "LatLong": "49.9023,5.7785"
 }
 ]
+}
+]
 },
 {
 "Name": "Esch-sur-Sûre",
 "Code": "02",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hierheck",
@@ -21290,10 +21687,14 @@
 "LatLong": "49.8763,5.8841"
 }
 ]
+}
+]
 },
 {
 "Name": "Gœsdorf",
 "Code": "04",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Goebelsmuehle",
@@ -21341,10 +21742,14 @@
 "LatLong": "49.9464,5.9769"
 }
 ]
+}
+]
 },
 {
 "Name": "Lac de la Haute-Sûre",
 "Code": "05",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bavigne",
@@ -21397,10 +21802,14 @@
 "LatLong": "49.9446,5.7872"
 }
 ]
+}
+]
 },
 {
 "Name": "Wiltz",
 "Code": "11",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Wiltz",
@@ -21698,10 +22107,14 @@
 "LatLong": "50.0163,5.9657"
 }
 ]
+}
+]
 },
 {
 "Name": "Winseler",
 "Code": "13",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Berlé",
@@ -21744,10 +22157,14 @@
 "LatLong": "49.9675,5.889"
 }
 ]
+}
+]
 },
 {
 "Name": "Kiischpelt",
 "Code": "8641289",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alscheid",
@@ -21783,6 +22200,8 @@
 "Name": "Wilwerwiltz",
 "PostCode": "L-9776",
 "LatLong": "49.9892,5.999"
+}
+]
 }
 ]
 }

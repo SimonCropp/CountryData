@@ -3,13 +3,6 @@ using System.IO;
 using System.IO.Compression;
 using System.Linq;
 using System.Threading.Tasks;
-using Community;
-using Place;
-using Province;
-using ProvinceCommunity;
-using State;
-using StateCommunity;
-using StateProvince;
 using StateProvinceCommunity;
 using Xunit;
 
@@ -20,12 +13,15 @@ public class Sync
     {
         var countriesPath = Path.GetFullPath(Path.Combine(DataLocations.SlnPath, "countries.txt"));
         var allCountriesZipPath = Path.Combine(DataLocations.TempPath, "allCountries.zip");
+        var countryInfoPath = Path.Combine(DataLocations.TempPath, "countryInfo.txt");
         await Downloader.DownloadFile(allCountriesZipPath, "http://download.geonames.org/export/zip/allCountries.zip");
+        await Downloader.DownloadFile(countryInfoPath, "http://download.geonames.org/export/dump/countryInfo.txt");
+
         var allCountriesTxtPath = Path.Combine(DataLocations.TempPath, "allCountries.txt");
         File.Delete(allCountriesTxtPath);
         ZipFile.ExtractToDirectory(allCountriesZipPath, DataLocations.TempPath);
 
-        var list = RowReader.ReadRows(allCountriesTxtPath).ToList();
+        var list = PostCodeRowReader.ReadRows(allCountriesTxtPath).ToList();
         var groupByCountry = list.GroupBy(x => x.CountryCode).ToList();
         File.Delete(countriesPath);
         File.WriteAllLines(countriesPath, groupByCountry.Select(x => x.Key.ToLower()));
@@ -33,7 +29,7 @@ public class Sync
     }
 
 
-    void WriteRows(string jsonPath, List<IGrouping<string, Row>> groupByCountry)
+    void WriteRows(string jsonPath, List<IGrouping<string, PostCodeRow>> groupByCountry)
     {
         IoHelpers.PurgeDirectory(jsonPath);
         foreach (var group in groupByCountry)
@@ -42,47 +38,8 @@ public class Sync
         }
     }
 
-    void ProcessCountry(string country, List<Row> rows, string directory)
+    void ProcessCountry(string country, List<PostCodeRow> rows, string directory)
     {
-        var hasState= rows.Any(_=>_.State != null);
-        var hasProvince = rows.Any(_=>_.Province != null);
-        var hasCommunity = rows.Any(_=>_.Community != null);
-
-        if (hasState && hasProvince && hasCommunity)
-        {
-            StateProvinceCommunitySerializer.Serialize(country, rows, directory);
-            return;
-        }
-        if (hasState && hasProvince)
-        {
-            StateProvinceSerializer.Serialize(country, rows, directory);
-            return;
-        }
-        if (hasState && hasCommunity)
-        {
-            StateCommunitySerializer.Serialize(country, rows, directory);
-            return;
-        }
-        if (hasProvince && hasCommunity)
-        {
-            ProvinceCommunitySerializer.Serialize(country, rows, directory);
-            return;
-        }
-        if (hasState)
-        {
-            StateSerializer.Serialize(country, rows, directory);
-            return;
-        }
-        if (hasProvince)
-        {
-            ProvinceSerializer.Serialize(country, rows, directory);
-            return;
-        }
-        if (hasCommunity)
-        {
-            CommunitySerializer.Serialize(country, rows, directory);
-            return;
-        }
-        PlaceSerializer.Serialize(country, rows, directory);
+        StateProvinceCommunitySerializer.Serialize(country, rows, directory);
     }
 }

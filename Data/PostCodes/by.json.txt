@@ -1,11 +1,12 @@
 {
-"Structure": "State/Province/Place",
 "States": [
 {
 "Name": "Vitebsk",
 "Provinces": [
 {
 "Name": "Vitebsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Витебск",
@@ -263,9 +264,13 @@
 "LatLong": "55.7777,27.9389"
 }
 ]
+}
+]
 },
 {
 "Name": "Orcha",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Старь",
@@ -443,9 +448,13 @@
 "LatLong": "54.371,30.5318"
 }
 ]
+}
+]
 },
 {
 "Name": "Doubrovno",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Дубровно",
@@ -543,9 +552,13 @@
 "LatLong": "54.5213,30.9357"
 }
 ]
+}
+]
 },
 {
 "Name": "Tolotchin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Коханово",
@@ -693,9 +706,13 @@
 "LatLong": "54.3056,29.4441"
 }
 ]
+}
+]
 },
 {
 "Name": "Lepel",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Черцы",
@@ -828,9 +845,13 @@
 "LatLong": "55.2423,28.542"
 }
 ]
+}
+]
 },
 {
 "Name": "Senno",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Литусово",
@@ -973,9 +994,13 @@
 "LatLong": "54.7151,30.1556"
 }
 ]
+}
+]
 },
 {
 "Name": "Tchachniki",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Круглица",
@@ -1098,9 +1123,13 @@
 "LatLong": "54.7346,29.3905"
 }
 ]
+}
+]
 },
 {
 "Name": "Liozno",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Лиозно",
@@ -1223,9 +1252,13 @@
 "LatLong": "54.8246,29.9099"
 }
 ]
+}
+]
 },
 {
 "Name": "Choumilino",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Язвино",
@@ -1343,9 +1376,13 @@
 "LatLong": "55.5358,29.5848"
 }
 ]
+}
+]
 },
 {
 "Name": "Miory",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Якубовщина",
@@ -1493,9 +1530,13 @@
 "LatLong": "55.4345,28.2252"
 }
 ]
+}
+]
 },
 {
 "Name": "Polotsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Горяны",
@@ -1678,9 +1719,13 @@
 "LatLong": "55.6045,29.0367"
 }
 ]
+}
+]
 },
 {
 "Name": "Bechenkovitchi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Бешенковичи",
@@ -1793,9 +1838,13 @@
 "LatLong": "55.0816,29.2275"
 }
 ]
+}
+]
 },
 {
 "Name": "Verkhnedvinsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Освея",
@@ -1918,9 +1967,13 @@
 "LatLong": "55.919,27.7627"
 }
 ]
+}
+]
 },
 {
 "Name": "Rossony",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Россоны",
@@ -1993,9 +2046,13 @@
 "LatLong": "55.9584,29.0513"
 }
 ]
+}
+]
 },
 {
 "Name": "Ouchatchi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ушачи",
@@ -2098,9 +2155,13 @@
 "LatLong": "55.2036,28.685"
 }
 ]
+}
+]
 },
 {
 "Name": "Ouchatci",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ильюшино",
@@ -2108,9 +2169,13 @@
 "LatLong": "55.1307,28.4734"
 }
 ]
+}
+]
 },
 {
 "Name": "Novopolotsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Боровуха",
@@ -2118,9 +2183,13 @@
 "LatLong": "55.2881,30.0348"
 }
 ]
+}
+]
 },
 {
 "Name": "Gorodok",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Городок",
@@ -2263,9 +2332,13 @@
 "LatLong": "55.7599,30.2966"
 }
 ]
+}
+]
 },
 {
 "Name": "Dokchitsy",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Парафьяново",
@@ -2398,9 +2471,13 @@
 "LatLong": "54.8816,27.7872"
 }
 ]
+}
+]
 },
 {
 "Name": "Gloubokoe",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Бортники",
@@ -2573,9 +2650,13 @@
 "LatLong": "55.1499,27.7851"
 }
 ]
+}
+]
 },
 {
 "Name": "Postavy",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Воропаево",
@@ -2723,9 +2804,13 @@
 "LatLong": "55.0928,26.3893"
 }
 ]
+}
+]
 },
 {
 "Name": "Charkovchtchina",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Жуковщина",
@@ -2838,9 +2923,13 @@
 "LatLong": "55.3694,28.1339"
 }
 ]
+}
+]
 },
 {
 "Name": "Braslav",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Друя",
@@ -2983,9 +3072,13 @@
 "LatLong": "55.5092,26.7701"
 }
 ]
+}
+]
 },
 {
 "Name": "Braslov",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Браслав",
@@ -3000,12 +3093,16 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Grodno",
 "Provinces": [
 {
 "Name": "Ostrovets",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Завидиненты",
@@ -3093,9 +3190,13 @@
 "LatLong": "54.6456,25.9916"
 }
 ]
+}
+]
 },
 {
 "Name": "Volkovyssk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Дулевцы",
@@ -3188,9 +3289,13 @@
 "LatLong": "53.6506,24.2778"
 }
 ]
+}
+]
 },
 {
 "Name": "Grodno",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Гродно",
@@ -3368,9 +3473,13 @@
 "LatLong": "53.6048,24.2913"
 }
 ]
+}
+]
 },
 {
 "Name": "Smorgon",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Сморгонь",
@@ -3488,9 +3597,13 @@
 "LatLong": "54.3983,26.1821"
 }
 ]
+}
+]
 },
 {
 "Name": "Smorghon",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Валейковичи",
@@ -3498,9 +3611,13 @@
 "LatLong": "54.2667,26.3129"
 }
 ]
+}
+]
 },
 {
 "Name": "Ochmiany",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ошмяны",
@@ -3613,9 +3730,13 @@
 "LatLong": "54.2578,26.2813"
 }
 ]
+}
+]
 },
 {
 "Name": "Lida",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Паперня",
@@ -3753,9 +3874,13 @@
 "LatLong": "53.9663,25.2441"
 }
 ]
+}
+]
 },
 {
 "Name": "Ivie",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ивье",
@@ -3833,9 +3958,13 @@
 "LatLong": "53.9657,25.972"
 }
 ]
+}
+]
 },
 {
 "Name": "Voronovo",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Вороново",
@@ -3938,9 +4067,13 @@
 "LatLong": "53.9379,25.042"
 }
 ]
+}
+]
 },
 {
 "Name": "Novogroudok",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Новогрудок",
@@ -4048,9 +4181,13 @@
 "LatLong": "53.6586,26.0781"
 }
 ]
+}
+]
 },
 {
 "Name": "Korelitchi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кореличи",
@@ -4153,9 +4290,13 @@
 "LatLong": "53.4983,26.2238"
 }
 ]
+}
+]
 },
 {
 "Name": "Diatlovo",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Дятлово",
@@ -4273,9 +4414,13 @@
 "LatLong": "53.4819,25.3498"
 }
 ]
+}
+]
 },
 {
 "Name": "Chtchoutchin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Рожанка - Станция",
@@ -4413,9 +4558,13 @@
 "LatLong": "53.6356,24.4728"
 }
 ]
+}
+]
 },
 {
 "Name": "Chtcoutchin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Василишки",
@@ -4423,9 +4572,13 @@
 "LatLong": "53.7807,24.8489"
 }
 ]
+}
+]
 },
 {
 "Name": "Ctchoutchin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Прудяны",
@@ -4433,9 +4586,13 @@
 "LatLong": "53.834,24.6375"
 }
 ]
+}
+]
 },
 {
 "Name": "Htchoutchin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Раковичи",
@@ -4443,9 +4600,13 @@
 "LatLong": "53.5134,24.8372"
 }
 ]
+}
+]
 },
 {
 "Name": "Mosty",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Мосты",
@@ -4568,9 +4729,13 @@
 "LatLong": "53.3129,24.5918"
 }
 ]
+}
+]
 },
 {
 "Name": "Berestovitsa",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Берестовица",
@@ -4653,9 +4818,13 @@
 "LatLong": "53.3976,24.0031"
 }
 ]
+}
+]
 },
 {
 "Name": "Slonim",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Слоним",
@@ -4758,9 +4927,13 @@
 "LatLong": "52.8838,25.0942"
 }
 ]
+}
+]
 },
 {
 "Name": "Volkovysk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Субочи",
@@ -4798,9 +4971,13 @@
 "LatLong": "53.1825,24.5168"
 }
 ]
+}
+]
 },
 {
 "Name": "Zelva",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Каролин",
@@ -4893,9 +5070,13 @@
 "LatLong": "53.1821,24.9793"
 }
 ]
+}
+]
 },
 {
 "Name": "Svislotch",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Свислочь",
@@ -4990,12 +5171,16 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Gomel",
 "Provinces": [
 {
 "Name": "Gomel",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Гомель",
@@ -5203,9 +5388,13 @@
 "LatLong": "52.3121,31.0476"
 }
 ]
+}
+]
 },
 {
 "Name": "Omel",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Шарпиловка",
@@ -5213,9 +5402,13 @@
 "LatLong": "52.1195,30.9313"
 }
 ]
+}
+]
 },
 {
 "Name": "Svetloghorsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Печищи",
@@ -5333,9 +5526,13 @@
 "LatLong": "52.9021,29.3322"
 }
 ]
+}
+]
 },
 {
 "Name": "Dobrouch",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Добруш",
@@ -5463,9 +5660,13 @@
 "LatLong": "52.1886,31.574"
 }
 ]
+}
+]
 },
 {
 "Name": "Loev",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Лоев",
@@ -5553,9 +5754,13 @@
 "LatLong": "51.7843,30.545"
 }
 ]
+}
+]
 },
 {
 "Name": "Oev",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Переделка",
@@ -5563,9 +5768,13 @@
 "LatLong": "52.0412,30.7214"
 }
 ]
+}
+]
 },
 {
 "Name": "Vetka",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Хальч - Совхоз",
@@ -5643,9 +5852,13 @@
 "LatLong": "52.7936,31.3209"
 }
 ]
+}
+]
 },
 {
 "Name": "Tchetchersk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Чечерск",
@@ -5713,9 +5926,13 @@
 "LatLong": "52.9624,31.018"
 }
 ]
+}
+]
 },
 {
 "Name": "Tchechersk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ровковичи",
@@ -5723,9 +5940,13 @@
 "LatLong": "52.8466,30.7736"
 }
 ]
+}
+]
 },
 {
 "Name": "Korma",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Корма",
@@ -5808,9 +6029,13 @@
 "LatLong": "52.9802,30.2724"
 }
 ]
+}
+]
 },
 {
 "Name": "Jlobin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ректа",
@@ -6013,9 +6238,13 @@
 "LatLong": "52.8173,30.1674"
 }
 ]
+}
+]
 },
 {
 "Name": "Roghatchev",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Рогачев",
@@ -6208,9 +6437,13 @@
 "LatLong": "53.0715,29.9472"
 }
 ]
+}
+]
 },
 {
 "Name": "Oktiabrski",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Октябрьский",
@@ -6298,9 +6531,13 @@
 "LatLong": "52.7951,28.9921"
 }
 ]
+}
+]
 },
 {
 "Name": "Oktiabrsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Хороицы",
@@ -6318,9 +6555,13 @@
 "LatLong": "52.5494,28.5717"
 }
 ]
+}
+]
 },
 {
 "Name": "Bouda-Kochelevo",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Буда - Кошелево",
@@ -6488,9 +6729,13 @@
 "LatLong": "52.6351,30.5251"
 }
 ]
+}
+]
 },
 {
 "Name": "Retchitsa",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Речица",
@@ -6683,9 +6928,13 @@
 "LatLong": "52.1,30.3925"
 }
 ]
+}
+]
 },
 {
 "Name": "Khoiniki",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Хойники",
@@ -6773,9 +7022,13 @@
 "LatLong": "51.7929,30.2099"
 }
 ]
+}
+]
 },
 {
 "Name": "Braghin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Брагин",
@@ -6873,9 +7126,13 @@
 "LatLong": "51.6113,30.4946"
 }
 ]
+}
+]
 },
 {
 "Name": "Kalinkovitchi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Мироненки",
@@ -7103,9 +7360,13 @@
 "LatLong": "52.3586,29.5675"
 }
 ]
+}
+]
 },
 {
 "Name": "Mozyr",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Бобренята",
@@ -7208,9 +7469,13 @@
 "LatLong": "52.1863,29.2274"
 }
 ]
+}
+]
 },
 {
 "Name": "Narovlia",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Наровля",
@@ -7268,9 +7533,13 @@
 "LatLong": "51.6729,29.4248"
 }
 ]
+}
+]
 },
 {
 "Name": "Elsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ельск",
@@ -7363,9 +7632,13 @@
 "LatLong": "51.8344,29.0394"
 }
 ]
+}
+]
 },
 {
 "Name": "Leltchitsy",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Лельчицы",
@@ -7463,9 +7736,13 @@
 "LatLong": "51.9017,28.4656"
 }
 ]
+}
+]
 },
 {
 "Name": "Petrikov",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Мышанка",
@@ -7638,9 +7915,13 @@
 "LatLong": "52.2454,28.289"
 }
 ]
+}
+]
 },
 {
 "Name": "Jitkovichi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Житковичи",
@@ -7648,9 +7929,13 @@
 "LatLong": "52.2168,27.8561"
 }
 ]
+}
+]
 },
 {
 "Name": "Jitkovitchi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Гребеневский",
@@ -7818,14 +8103,20 @@
 "LatLong": "52.0496,28.1319"
 }
 ]
+}
+]
 },
 {
 "Name": "Jidkovitchi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Семенча",
 "PostCode": "247969",
 "LatLong": "52.3459,27.8768"
+}
+]
 }
 ]
 }
@@ -7836,11 +8127,15 @@
 "Provinces": [
 {
 "Name": "Braslav",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Тетерки",
 "PostCode": "211974",
 "LatLong": "55.5454,27.2552"
+}
+]
 }
 ]
 }
@@ -7851,6 +8146,8 @@
 "Provinces": [
 {
 "Name": "Moghilev",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Могилев",
@@ -8033,9 +8330,13 @@
 "LatLong": "53.796,29.8248"
 }
 ]
+}
+]
 },
 {
 "Name": "Chklov",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Большой Межник",
@@ -8168,9 +8469,13 @@
 "LatLong": "54.0545,30.3135"
 }
 ]
+}
+]
 },
 {
 "Name": "Belynitchi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Белыничи",
@@ -8253,9 +8558,13 @@
 "LatLong": "53.8382,29.6073"
 }
 ]
+}
+]
 },
 {
 "Name": "Krougloe",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Круглое",
@@ -8313,9 +8622,13 @@
 "LatLong": "54.2448,29.5418"
 }
 ]
+}
+]
 },
 {
 "Name": "Krougliany",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Гробино",
@@ -8323,9 +8636,13 @@
 "LatLong": "54.23,29.6569"
 }
 ]
+}
+]
 },
 {
 "Name": "Tchaoussy",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Чаусы",
@@ -8413,9 +8730,13 @@
 "LatLong": "53.6754,30.6783"
 }
 ]
+}
+]
 },
 {
 "Name": "Slavgorod",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Славгород",
@@ -8493,9 +8814,13 @@
 "LatLong": "53.3233,31.058"
 }
 ]
+}
+]
 },
 {
 "Name": "Bykhov",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Баркалабово",
@@ -8663,9 +8988,13 @@
 "LatLong": "53.3291,30.1929"
 }
 ]
+}
+]
 },
 {
 "Name": "Gorki",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Коптевка",
@@ -8778,9 +9107,13 @@
 "LatLong": "54.3657,31.2381"
 }
 ]
+}
+]
 },
 {
 "Name": "Mstislavl",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ракшино",
@@ -8898,9 +9231,13 @@
 "LatLong": "54.0679,31.4348"
 }
 ]
+}
+]
 },
 {
 "Name": "Kritchev",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Молятичи",
@@ -8963,9 +9300,13 @@
 "LatLong": "53.4798,31.6078"
 }
 ]
+}
+]
 },
 {
 "Name": "Tcherikov",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Чериков",
@@ -9028,9 +9369,13 @@
 "LatLong": "53.7666,31.2771"
 }
 ]
+}
+]
 },
 {
 "Name": "Krasnopolie",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Краснополье",
@@ -9093,9 +9438,13 @@
 "LatLong": "53.337,31.271"
 }
 ]
+}
+]
 },
 {
 "Name": "Klimovitchi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Климовичи",
@@ -9208,9 +9557,13 @@
 "LatLong": "53.597,32.0462"
 }
 ]
+}
+]
 },
 {
 "Name": "Kostukovitchi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Костюковичи",
@@ -9308,9 +9661,13 @@
 "LatLong": "53.1413,32.2252"
 }
 ]
+}
+]
 },
 {
 "Name": "Khotimsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Хотимск",
@@ -9373,9 +9730,13 @@
 "LatLong": "53.237,32.4079"
 }
 ]
+}
+]
 },
 {
 "Name": "Kostioukovitchi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Новые Самотевичи",
@@ -9383,9 +9744,13 @@
 "LatLong": "53.2947,32.0777"
 }
 ]
+}
+]
 },
 {
 "Name": "Ossipovitchi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Вязье",
@@ -9503,9 +9868,13 @@
 "LatLong": "53.1746,28.4958"
 }
 ]
+}
+]
 },
 {
 "Name": "Bobrouisk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Бобруйск",
@@ -9653,9 +10022,13 @@
 "LatLong": "52.2488,29.6384"
 }
 ]
+}
+]
 },
 {
 "Name": "Glousk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Глуск",
@@ -9753,9 +10126,13 @@
 "LatLong": "52.807,28.9221"
 }
 ]
+}
+]
 },
 {
 "Name": "Gloussk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Старое Село",
@@ -9763,9 +10140,13 @@
 "LatLong": "52.9653,28.8948"
 }
 ]
+}
+]
 },
 {
 "Name": "Klitchev",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кличев",
@@ -9833,9 +10214,13 @@
 "LatLong": "53.6184,29.4484"
 }
 ]
+}
+]
 },
 {
 "Name": "Kirovsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Любоничи",
@@ -9943,9 +10328,13 @@
 "LatLong": "53.5156,29.6816"
 }
 ]
+}
+]
 },
 {
 "Name": "Dribin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Дрибин",
@@ -10000,12 +10389,16 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Mogholev",
 "Provinces": [
 {
 "Name": "Klimovitchi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Борисовичи",
@@ -10015,12 +10408,16 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Minsk",
 "Provinces": [
 {
 "Name": "Minsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Минск",
@@ -10273,7 +10670,11 @@
 "LatLong": "53.7556,27.7311"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -10727,9 +11128,13 @@
 "LatLong": "53.9,27.5667"
 }
 ]
+}
+]
 },
 {
 "Name": "Kroupki",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Холопеничи",
@@ -10852,9 +11257,13 @@
 "LatLong": "54.1125,29.3136"
 }
 ]
+}
+]
 },
 {
 "Name": "Kpoupki",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Яновщина",
@@ -10862,9 +11271,13 @@
 "LatLong": "54.4497,29.2829"
 }
 ]
+}
+]
 },
 {
 "Name": "Borissov",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Пересады",
@@ -11037,9 +11450,13 @@
 "LatLong": "54.5442,28.7977"
 }
 ]
+}
+]
 },
 {
 "Name": "Smolevitchi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Жодино",
@@ -11157,9 +11574,13 @@
 "LatLong": "54.0499,27.8843"
 }
 ]
+}
+]
 },
 {
 "Name": "Molodetchno",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Молодечно",
@@ -11282,9 +11703,13 @@
 "LatLong": "54.1257,26.9654"
 }
 ]
+}
+]
 },
 {
 "Name": "Volojin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Воложин",
@@ -11417,9 +11842,13 @@
 "LatLong": "53.9047,26.8105"
 }
 ]
+}
+]
 },
 {
 "Name": "Dzerjinsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Волма",
@@ -11557,9 +11986,13 @@
 "LatLong": "53.75,27.3334"
 }
 ]
+}
+]
 },
 {
 "Name": "Miadel",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Будслав",
@@ -11697,9 +12130,13 @@
 "LatLong": "54.688,27.1151"
 }
 ]
+}
+]
 },
 {
 "Name": "Vileika",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Вилейка",
@@ -11857,9 +12294,13 @@
 "LatLong": "54.5174,27.6136"
 }
 ]
+}
+]
 },
 {
 "Name": "Kletsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Смоличи",
@@ -11982,9 +12423,13 @@
 "LatLong": "53.0087,26.6465"
 }
 ]
+}
+]
 },
 {
 "Name": "Nesvij",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Высокая Липа",
@@ -12107,9 +12552,13 @@
 "LatLong": "53.1623,26.6683"
 }
 ]
+}
+]
 },
 {
 "Name": "Stolbtsy",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Столбцы",
@@ -12257,9 +12706,13 @@
 "LatLong": "53.6776,27.1109"
 }
 ]
+}
+]
 },
 {
 "Name": "Poukhovitchi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Марьина Горка",
@@ -12442,9 +12895,13 @@
 "LatLong": "53.5868,27.8077"
 }
 ]
+}
+]
 },
 {
 "Name": "Luban",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Уречье 2",
@@ -12582,9 +13039,13 @@
 "LatLong": "52.7185,28.0223"
 }
 ]
+}
+]
 },
 {
 "Name": "Starye Doroghi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Старые Дороги",
@@ -12677,9 +13138,13 @@
 "LatLong": "52.9697,28.0586"
 }
 ]
+}
+]
 },
 {
 "Name": "Loghoisk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Логойск",
@@ -12822,9 +13287,13 @@
 "LatLong": "54.4267,27.4918"
 }
 ]
+}
+]
 },
 {
 "Name": "Tcherven",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Червень",
@@ -12957,9 +13426,13 @@
 "LatLong": "53.6816,28.2705"
 }
 ]
+}
+]
 },
 {
 "Name": "Berezino",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Березино",
@@ -13077,9 +13550,13 @@
 "LatLong": "53.8318,28.7936"
 }
 ]
+}
+]
 },
 {
 "Name": "Ouzda",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Узда",
@@ -13172,9 +13649,13 @@
 "LatLong": "53.4681,27.1286"
 }
 ]
+}
+]
 },
 {
 "Name": "Sloutsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Слуцк",
@@ -13352,9 +13833,13 @@
 "LatLong": "53.0728,27.5516"
 }
 ]
+}
+]
 },
 {
 "Name": "Solighorsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Солигорск",
@@ -13517,9 +14002,13 @@
 "LatLong": "52.6301,27.2581"
 }
 ]
+}
+]
 },
 {
 "Name": "Kopyl",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Копыль",
@@ -13674,12 +14163,16 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Brest",
 "Provinces": [
 {
 "Name": "Brest",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Брест",
@@ -13832,9 +14325,13 @@
 "LatLong": "52.2607,23.4173"
 }
 ]
+}
+]
 },
 {
 "Name": "Kamenets",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Каменец",
@@ -13992,9 +14489,13 @@
 "LatLong": "52.3909,23.4211"
 }
 ]
+}
+]
 },
 {
 "Name": "Jabinka",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Жабинка",
@@ -14082,9 +14583,13 @@
 "LatLong": "52.3261,24.2954"
 }
 ]
+}
+]
 },
 {
 "Name": "Proujany",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Пружаны",
@@ -14282,9 +14787,13 @@
 "LatLong": "52.6747,24.6654"
 }
 ]
+}
+]
 },
 {
 "Name": "Bereza",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Белоозерск 1",
@@ -14412,9 +14921,13 @@
 "LatLong": "52.4343,24.7158"
 }
 ]
+}
+]
 },
 {
 "Name": "Ivatsevichi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ивацевичи",
@@ -14422,9 +14935,13 @@
 "LatLong": "52.709,25.3401"
 }
 ]
+}
+]
 },
 {
 "Name": "Ivatsevitchi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Подстаринь",
@@ -14642,9 +15159,13 @@
 "LatLong": "52.5899,25.3876"
 }
 ]
+}
+]
 },
 {
 "Name": "Baranovitchi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Малая Колпеница",
@@ -14862,9 +15383,13 @@
 "LatLong": "53.3605,26.1145"
 }
 ]
+}
+]
 },
 {
 "Name": "Liakhovitchi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ляховичи",
@@ -14992,9 +15517,13 @@
 "LatLong": "52.9455,26.3592"
 }
 ]
+}
+]
 },
 {
 "Name": "Liakhovichi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Русиновичи",
@@ -15002,9 +15531,13 @@
 "LatLong": "52.9816,26.3116"
 }
 ]
+}
+]
 },
 {
 "Name": "Gantsevitchi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Люсино",
@@ -15102,9 +15635,13 @@
 "LatLong": "52.7836,26.6936"
 }
 ]
+}
+]
 },
 {
 "Name": "Gantsevichi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Локтыши",
@@ -15112,9 +15649,13 @@
 "LatLong": "52.8306,26.7222"
 }
 ]
+}
+]
 },
 {
 "Name": "Stolin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Речица",
@@ -15357,9 +15898,13 @@
 "LatLong": "51.9628,26.7827"
 }
 ]
+}
+]
 },
 {
 "Name": "Droghitchin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кублик",
@@ -15527,9 +16072,13 @@
 "LatLong": "52.0981,25.04"
 }
 ]
+}
+]
 },
 {
 "Name": "Louninets",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Лахва",
@@ -15712,9 +16261,13 @@
 "LatLong": "52.2173,27.476"
 }
 ]
+}
+]
 },
 {
 "Name": "Pinsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Пинск",
@@ -15972,9 +16525,13 @@
 "LatLong": "52.1405,26.4929"
 }
 ]
+}
+]
 },
 {
 "Name": "Ivanovo",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Залядынье",
@@ -16112,9 +16669,13 @@
 "LatLong": "52.1812,25.4196"
 }
 ]
+}
+]
 },
 {
 "Name": "Kobrin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кобрин",
@@ -16307,9 +16868,13 @@
 "LatLong": "52.3248,24.547"
 }
 ]
+}
+]
 },
 {
 "Name": "Malorita",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Малорита",
@@ -16404,16 +16969,22 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Provinces": [
 {
 "Name": "Rodno",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Берестовица",
 "PostCode": "231778",
 "LatLong": "53.1187,23.9733"
+}
+]
 }
 ]
 }
@@ -16424,11 +16995,15 @@
 "Provinces": [
 {
 "Name": "Slonim",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Озерница",
 "PostCode": "231807",
 "LatLong": "53.074,25.0044"
+}
+]
 }
 ]
 }

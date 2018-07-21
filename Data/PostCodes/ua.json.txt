@@ -1,5 +1,4 @@
 {
-"Structure": "State/Province/Place",
 "States": [
 {
 "Name": "Cherkaska",
@@ -7,6 +6,8 @@
 "Provinces": [
 {
 "Name": "Cherkaska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Черкаси",
@@ -129,9 +130,13 @@
 "LatLong": "49.4285,32.0621"
 }
 ]
+}
+]
 },
 {
 "Name": "Kanivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Канів",
@@ -444,9 +449,13 @@
 "LatLong": "49.7767,32.5725"
 }
 ]
+}
+]
 },
 {
 "Name": "Monastyryshchenskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Монастирище",
@@ -654,9 +663,13 @@
 "LatLong": "48.187,35.8537"
 }
 ]
+}
+]
 },
 {
 "Name": "Zhashkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Жашків",
@@ -854,9 +867,13 @@
 "LatLong": "49.4483,30.1431"
 }
 ]
+}
+]
 },
 {
 "Name": "Lysianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Лисянка",
@@ -1054,9 +1071,13 @@
 "LatLong": "49.0978,30.8697"
 }
 ]
+}
+]
 },
 {
 "Name": "Korsun-Shevchenkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Корсунь-Шевченківський",
@@ -1329,9 +1350,13 @@
 "LatLong": "49.5583,30.4926"
 }
 ]
+}
+]
 },
 {
 "Name": "Horodyshchenskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Городище",
@@ -1504,9 +1529,13 @@
 "LatLong": "49.4672,32.8417"
 }
 ]
+}
+]
 },
 {
 "Name": "Cherkaskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Геронимівка",
@@ -1709,9 +1738,13 @@
 "LatLong": "49.576,31.6076"
 }
 ]
+}
+]
 },
 {
 "Name": "Zolotoniskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Золотоноша",
@@ -2044,9 +2077,13 @@
 "LatLong": "49.6549,32.096"
 }
 ]
+}
+]
 },
 {
 "Name": "Drabivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Драбів",
@@ -2304,9 +2341,13 @@
 "LatLong": "49.9337,31.7577"
 }
 ]
+}
+]
 },
 {
 "Name": "Chornobaivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Чорнобай",
@@ -2574,9 +2615,13 @@
 "LatLong": "49.3809,32.6811"
 }
 ]
+}
+]
 },
 {
 "Name": "Khrystynivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Христинівка",
@@ -2754,9 +2799,13 @@
 "LatLong": "48.6822,30.06"
 }
 ]
+}
+]
 },
 {
 "Name": "Mankivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Маньківка",
@@ -2914,9 +2963,13 @@
 "LatLong": "48.9306,30.2822"
 }
 ]
+}
+]
 },
 {
 "Name": "Zvenyhorodskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Звенигородка (Звенигородська міська рада)",
@@ -3139,9 +3192,13 @@
 "LatLong": "49.7253,31.5059"
 }
 ]
+}
+]
 },
 {
 "Name": "Umanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Умань",
@@ -3454,9 +3511,13 @@
 "LatLong": "48.5769,30.5094"
 }
 ]
+}
+]
 },
 {
 "Name": "Talnivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Тальне",
@@ -3674,9 +3735,13 @@
 "LatLong": "49.1825,31.1682"
 }
 ]
+}
+]
 },
 {
 "Name": "Katerynopilskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Катеринопіль",
@@ -3844,9 +3909,13 @@
 "LatLong": "50.5682,33.1925"
 }
 ]
+}
+]
 },
 {
 "Name": "Shpolianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Шпола",
@@ -4049,9 +4118,13 @@
 "LatLong": "49.0325,31.6546"
 }
 ]
+}
+]
 },
 {
 "Name": "Smilianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Сміла",
@@ -4299,9 +4372,13 @@
 "LatLong": "50.0448,37.3439"
 }
 ]
+}
+]
 },
 {
 "Name": "Kamianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кам'янка",
@@ -4454,9 +4531,13 @@
 "LatLong": "49.3245,36.3933"
 }
 ]
+}
+]
 },
 {
 "Name": "Chyhyrynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Чигирин",
@@ -4641,6 +4722,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Chernihivska",
@@ -4648,6 +4731,8 @@
 "Provinces": [
 {
 "Name": "Chernihivska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Чернігів",
@@ -4770,9 +4855,13 @@
 "LatLong": "51.5055,31.2849"
 }
 ]
+}
+]
 },
 {
 "Name": "Chernihivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Рогощі",
@@ -5375,9 +5464,13 @@
 "LatLong": "51.316,31.1577"
 }
 ]
+}
+]
 },
 {
 "Name": "Ripkynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ріпки",
@@ -5970,9 +6063,13 @@
 "LatLong": "51.7376,30.7925"
 }
 ]
+}
+]
 },
 {
 "Name": "Horodnianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Городня",
@@ -6355,9 +6452,13 @@
 "LatLong": "51.8668,31.3399"
 }
 ]
+}
+]
 },
 {
 "Name": "Snovkyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Сновськ",
@@ -6635,9 +6736,13 @@
 "LatLong": "51.6855,32.041"
 }
 ]
+}
+]
 },
 {
 "Name": "Koriukivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Корюківка",
@@ -7015,9 +7120,13 @@
 "LatLong": "51.9971,32.3474"
 }
 ]
+}
+]
 },
 {
 "Name": "Semenivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Семенівка",
@@ -7380,9 +7489,13 @@
 "LatLong": "51.9817,32.6166"
 }
 ]
+}
+]
 },
 {
 "Name": "Menskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Мена",
@@ -7665,9 +7778,13 @@
 "LatLong": "51.4901,31.8615"
 }
 ]
+}
+]
 },
 {
 "Name": "Novhorod-Siverskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Новгород-Сіверський",
@@ -8095,9 +8212,13 @@
 "LatLong": "52.1186,33.0739"
 }
 ]
+}
+]
 },
 {
 "Name": "Sosnytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Сосниця",
@@ -8315,9 +8436,13 @@
 "LatLong": "51.4951,32.6104"
 }
 ]
+}
+]
 },
 {
 "Name": "Koropskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Короп",
@@ -8640,9 +8765,13 @@
 "LatLong": "51.636,33.0167"
 }
 ]
+}
+]
 },
 {
 "Name": "Kulykivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Куликівка",
@@ -8770,9 +8899,13 @@
 "LatLong": "51.2456,31.8191"
 }
 ]
+}
+]
 },
 {
 "Name": "Borznianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Борзна",
@@ -9090,9 +9223,13 @@
 "LatLong": "49.7194,28.6666"
 }
 ]
+}
+]
 },
 {
 "Name": "Bakhmatskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Бахмач",
@@ -9510,9 +9647,13 @@
 "LatLong": "51.0069,32.8572"
 }
 ]
+}
+]
 },
 {
 "Name": "Nizhynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ніжин",
@@ -9920,9 +10061,13 @@
 "LatLong": "50.9613,32.0848"
 }
 ]
+}
+]
 },
 {
 "Name": "Ichnianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ічня",
@@ -10290,9 +10435,13 @@
 "LatLong": "50.8917,32.0641"
 }
 ]
+}
+]
 },
 {
 "Name": "Kozeletskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Козелець",
@@ -10850,9 +10999,13 @@
 "LatLong": "50.9502,31.0103"
 }
 ]
+}
+]
 },
 {
 "Name": "Nosivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Носівка",
@@ -11100,9 +11253,13 @@
 "LatLong": "50.7238,31.8143"
 }
 ]
+}
+]
 },
 {
 "Name": "Talalaivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Талалаївка",
@@ -11330,9 +11487,13 @@
 "LatLong": "50.6995,33.1299"
 }
 ]
+}
+]
 },
 {
 "Name": "Sribnianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Срібне",
@@ -11480,9 +11641,13 @@
 "LatLong": "50.5413,32.9609"
 }
 ]
+}
+]
 },
 {
 "Name": "Bobrovytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Бобровиця",
@@ -11750,9 +11915,13 @@
 "LatLong": "50.5108,31.4396"
 }
 ]
+}
+]
 },
 {
 "Name": "Prylutskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Прилуки",
@@ -12310,9 +12479,13 @@
 "LatLong": "50.5012,32.3679"
 }
 ]
+}
+]
 },
 {
 "Name": "Varvynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Варва",
@@ -12467,6 +12640,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Chernivetska",
@@ -12474,6 +12649,8 @@
 "Provinces": [
 {
 "Name": "Chernivetska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Чернівці",
@@ -12591,9 +12768,13 @@
 "LatLong": "48.2915,25.9403"
 }
 ]
+}
+]
 },
 {
 "Name": "Storozhynetskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Сторожинець",
@@ -12791,9 +12972,13 @@
 "LatLong": "49.0491,23.7694"
 }
 ]
+}
+]
 },
 {
 "Name": "Putylskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Поляківське",
@@ -13051,9 +13236,13 @@
 "LatLong": "48.0767,24.9986"
 }
 ]
+}
+]
 },
 {
 "Name": "Vyzhnytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Вижниця",
@@ -13226,9 +13415,13 @@
 "LatLong": "48.1167,25.15"
 }
 ]
+}
+]
 },
 {
 "Name": "Kitsmanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кіцмань",
@@ -13461,9 +13654,13 @@
 "LatLong": "49.2812,26.5312"
 }
 ]
+}
+]
 },
 {
 "Name": "Zastavnivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Заставна",
@@ -13661,9 +13858,13 @@
 "LatLong": "49.5904,28.2785"
 }
 ]
+}
+]
 },
 {
 "Name": "Khotynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Хотин",
@@ -13861,9 +14062,13 @@
 "LatLong": "50.5464,24.9018"
 }
 ]
+}
+]
 },
 {
 "Name": "Kelmenetskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кельменці",
@@ -14031,9 +14236,13 @@
 "LatLong": "48.9844,27.4135"
 }
 ]
+}
+]
 },
 {
 "Name": "Sokyrianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Сокиряни",
@@ -14186,9 +14395,13 @@
 "LatLong": "48.7819,27.1129"
 }
 ]
+}
+]
 },
 {
 "Name": "Novoselytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Новоселиця",
@@ -14406,9 +14619,13 @@
 "LatLong": "48.2557,26.5867"
 }
 ]
+}
+]
 },
 {
 "Name": "Hlybotskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Глибока",
@@ -14601,9 +14818,13 @@
 "LatLong": "49.028,26.5399"
 }
 ]
+}
+]
 },
 {
 "Name": "Hertsaivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Герца",
@@ -14728,6 +14949,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Dnipropetrovska",
@@ -14735,6 +14958,8 @@
 "Provinces": [
 {
 "Name": "Dnipropetrovska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Дніпро",
@@ -15117,9 +15342,13 @@
 "LatLong": "48.4593,35.0386"
 }
 ]
+}
+]
 },
 {
 "Name": "Solonianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Сонячне",
@@ -15657,9 +15886,13 @@
 "LatLong": "48.1779,34.4205"
 }
 ]
+}
+]
 },
 {
 "Name": "Kryvyi Rih",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кривий Ріг",
@@ -16002,9 +16235,13 @@
 "LatLong": "48.0558,33.5372"
 }
 ]
+}
+]
 },
 {
 "Name": "Tsarychanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Царичанка",
@@ -16257,9 +16494,13 @@
 "LatLong": "48.9147,34.496"
 }
 ]
+}
+]
 },
 {
 "Name": "Mahdalynivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Магдалинівка",
@@ -16562,9 +16803,13 @@
 "LatLong": "48.7691,34.8468"
 }
 ]
+}
+]
 },
 {
 "Name": "Novomoskovskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Новомосковськ",
@@ -16897,9 +17142,13 @@
 "LatLong": "48.7815,35.3656"
 }
 ]
+}
+]
 },
 {
 "Name": "Yurivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Юр'ївка",
@@ -17162,9 +17411,13 @@
 "LatLong": "48.2375,35.9758"
 }
 ]
+}
+]
 },
 {
 "Name": "Pavlohradskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Павлоград",
@@ -17412,9 +17665,13 @@
 "LatLong": "48.4596,35.8714"
 }
 ]
+}
+]
 },
 {
 "Name": "Ternivka",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Тернівка",
@@ -17437,9 +17694,13 @@
 "LatLong": "48.5225,36.0826"
 }
 ]
+}
+]
 },
 {
 "Name": "Verkhnodniprovskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Верхньодніпровськ",
@@ -17792,9 +18053,13 @@
 "LatLong": "48.5339,34.2072"
 }
 ]
+}
+]
 },
 {
 "Name": "Vilnohirsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Вільногірськ",
@@ -17802,9 +18067,13 @@
 "LatLong": "48.4843,34.014"
 }
 ]
+}
+]
 },
 {
 "Name": "Petrykivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Петриківка",
@@ -17907,9 +18176,13 @@
 "LatLong": "48.7293,34.6336"
 }
 ]
+}
+]
 },
 {
 "Name": "Kamyanske",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кам'янське",
@@ -18052,9 +18325,13 @@
 "LatLong": "48.4782,34.7307"
 }
 ]
+}
+]
 },
 {
 "Name": "Dniprovskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Підгороднє",
@@ -18297,9 +18574,13 @@
 "LatLong": "48.2602,34.8877"
 }
 ]
+}
+]
 },
 {
 "Name": "Piatykhatskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "П'ятихатки",
@@ -18752,9 +19033,13 @@
 "LatLong": "48.5936,34.1309"
 }
 ]
+}
+]
 },
 {
 "Name": "Zhovti Vody",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Жовті Води",
@@ -18782,9 +19067,13 @@
 "LatLong": "48.3871,33.543"
 }
 ]
+}
+]
 },
 {
 "Name": "Krynychanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кринички",
@@ -19342,9 +19631,13 @@
 "LatLong": "48.3822,34.2731"
 }
 ]
+}
+]
 },
 {
 "Name": "Synelnykivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Синельникове",
@@ -19972,9 +20265,13 @@
 "LatLong": "48.3011,35.6445"
 }
 ]
+}
+]
 },
 {
 "Name": "Vasylkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Васильківка",
@@ -20397,9 +20694,13 @@
 "LatLong": "48.1629,36.3462"
 }
 ]
+}
+]
 },
 {
 "Name": "Petropavlivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Петропавлівка",
@@ -20657,9 +20958,13 @@
 "LatLong": "48.416,36.2104"
 }
 ]
+}
+]
 },
 {
 "Name": "Pershotravensk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Першотравенськ",
@@ -20672,9 +20977,13 @@
 "LatLong": "48.3489,36.4027"
 }
 ]
+}
+]
 },
 {
 "Name": "Mezhivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Межова",
@@ -20947,9 +21256,13 @@
 "LatLong": "48.3016,36.9002"
 }
 ]
+}
+]
 },
 {
 "Name": "Kryvorizkyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Глеюватка (Глеюватська сільська рада)",
@@ -21397,9 +21710,13 @@
 "LatLong": "48.2984,33.5955"
 }
 ]
+}
+]
 },
 {
 "Name": "Sofiivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Софіївка (Софіївська сільська рада)",
@@ -21807,9 +22124,13 @@
 "LatLong": "47.8542,35.4075"
 }
 ]
+}
+]
 },
 {
 "Name": "Nikopolskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Нікополь",
@@ -22212,9 +22533,13 @@
 "LatLong": "47.942,34.259"
 }
 ]
+}
+]
 },
 {
 "Name": "Pokrov",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Покров",
@@ -22242,9 +22567,13 @@
 "LatLong": "47.8542,35.4075"
 }
 ]
+}
+]
 },
 {
 "Name": "Marhanets",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Марганець",
@@ -22287,9 +22616,13 @@
 "LatLong": "47.6444,34.6287"
 }
 ]
+}
+]
 },
 {
 "Name": "Tomakivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Томаківка (Томаківська селищна рада)",
@@ -22567,9 +22900,13 @@
 "LatLong": "47.7691,34.7226"
 }
 ]
+}
+]
 },
 {
 "Name": "Pokrovskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Покровське",
@@ -22937,9 +23274,13 @@
 "LatLong": "47.9457,36.5876"
 }
 ]
+}
+]
 },
 {
 "Name": "Shyrokivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Широке (Широківська сільська рада)",
@@ -23282,9 +23623,13 @@
 "LatLong": "47.8542,35.4075"
 }
 ]
+}
+]
 },
 {
 "Name": "Apostolivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Апостолове",
@@ -23489,6 +23834,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Donetska",
@@ -23496,6 +23843,8 @@
 "Provinces": [
 {
 "Name": "Oleksandrivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Олександрівка",
@@ -23808,9 +24157,13 @@
 "LatLong": "48.6646,36.9229"
 }
 ]
+}
+]
 },
 {
 "Name": "Slovianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Слов'янськ",
@@ -24138,9 +24491,13 @@
 "LatLong": "48.6486,37.3632"
 }
 ]
+}
+]
 },
 {
 "Name": "Druzhkivka",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Дружківка",
@@ -24218,9 +24575,13 @@
 "LatLong": "48.557,37.4068"
 }
 ]
+}
+]
 },
 {
 "Name": "Kramatorsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Краматорськ",
@@ -24373,9 +24734,13 @@
 "LatLong": "48.6657,37.6544"
 }
 ]
+}
+]
 },
 {
 "Name": "Lymanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Лиман",
@@ -24603,9 +24968,13 @@
 "LatLong": "48.8738,37.9033"
 }
 ]
+}
+]
 },
 {
 "Name": "Bahmutskiy",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Андріївка",
@@ -25123,9 +25492,13 @@
 "LatLong": "48.7079,37.4133"
 }
 ]
+}
+]
 },
 {
 "Name": "Dobropilskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Добропілля (Добропільська міська рада)",
@@ -25478,9 +25851,13 @@
 "LatLong": "48.3868,37.2593"
 }
 ]
+}
+]
 },
 {
 "Name": "Kostiantynivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Костянтинівка",
@@ -25838,9 +26215,13 @@
 "LatLong": "48.4258,36.6809"
 }
 ]
+}
+]
 },
 {
 "Name": "Toretsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Торецьк",
@@ -25968,9 +26349,13 @@
 "LatLong": "48.3187,37.7594"
 }
 ]
+}
+]
 },
 {
 "Name": "Pokrovskiy",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Покровськ",
@@ -26513,9 +26898,13 @@
 "LatLong": "48.0807,37.1826"
 }
 ]
+}
+]
 },
 {
 "Name": "Mirnograd",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Мирноград",
@@ -26548,9 +26937,13 @@
 "LatLong": "48.2573,37.2886"
 }
 ]
+}
+]
 },
 {
 "Name": "Selydove",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Селидове",
@@ -26598,9 +26991,13 @@
 "LatLong": "48.0307,37.3728"
 }
 ]
+}
+]
 },
 {
 "Name": "Novohrodivka",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Новогродівка",
@@ -26613,9 +27010,13 @@
 "LatLong": "48.2014,37.3393"
 }
 ]
+}
+]
 },
 {
 "Name": "Velykonovosilkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Велика Новосілка",
@@ -26958,9 +27359,13 @@
 "LatLong": "47.8704,36.8749"
 }
 ]
+}
+]
 },
 {
 "Name": "Marinskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Мар'їнка",
@@ -27238,9 +27643,13 @@
 "LatLong": "47.8244,37.4686"
 }
 ]
+}
+]
 },
 {
 "Name": "Vuhledar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Вугледар",
@@ -27248,9 +27657,13 @@
 "LatLong": "47.7803,37.2506"
 }
 ]
+}
+]
 },
 {
 "Name": "Volnovaskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Волноваха",
@@ -27693,9 +28106,13 @@
 "LatLong": "47.1476,37.6677"
 }
 ]
+}
+]
 },
 {
 "Name": "Yasynuvatskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Очеретине",
@@ -27738,9 +28155,13 @@
 "LatLong": "48.2046,37.6547"
 }
 ]
+}
+]
 },
 {
 "Name": "Avdiivka",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Авдіївка",
@@ -27758,9 +28179,13 @@
 "LatLong": "48.1399,37.7425"
 }
 ]
+}
+]
 },
 {
 "Name": "Nikolskiy",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Нікольське",
@@ -27978,9 +28403,13 @@
 "LatLong": "47.1476,37.0969"
 }
 ]
+}
+]
 },
 {
 "Name": "Mangushkyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Мангуш",
@@ -28113,9 +28542,13 @@
 "LatLong": "46.8936,37.0854"
 }
 ]
+}
+]
 },
 {
 "Name": "Mariupol",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Маріуполь",
@@ -28385,6 +28818,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ivano-Frankivska",
@@ -28392,6 +28827,8 @@
 "Provinces": [
 {
 "Name": "Ivano-Frankivska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Івано-Франківськ",
@@ -28469,9 +28906,13 @@
 "LatLong": "48.9215,24.7097"
 }
 ]
+}
+]
 },
 {
 "Name": "Ivano-Frankivsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Вовчинець",
@@ -28499,9 +28940,13 @@
 "LatLong": "49.3355,26.6622"
 }
 ]
+}
+]
 },
 {
 "Name": "Rohatynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Рогатин",
@@ -28949,9 +29394,13 @@
 "LatLong": "49.4914,24.5699"
 }
 ]
+}
+]
 },
 {
 "Name": "Halytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Галич",
@@ -29299,9 +29748,13 @@
 "LatLong": "50.8062,27.9048"
 }
 ]
+}
+]
 },
 {
 "Name": "Burshtyh",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Бурштин",
@@ -29319,9 +29772,13 @@
 "LatLong": "49.3133,24.6997"
 }
 ]
+}
+]
 },
 {
 "Name": "Bolekhiv",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Болехів",
@@ -29384,9 +29841,13 @@
 "LatLong": "48.9844,23.6511"
 }
 ]
+}
+]
 },
 {
 "Name": "Kaluskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Калуш",
@@ -29704,9 +30165,13 @@
 "LatLong": "50.4568,27.8611"
 }
 ]
+}
+]
 },
 {
 "Name": "Tysmenytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Тисмениця",
@@ -29964,9 +30429,13 @@
 "LatLong": "49.1287,24.6963"
 }
 ]
+}
+]
 },
 {
 "Name": "Dolynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Долина",
@@ -30199,9 +30668,13 @@
 "LatLong": "48.8901,23.8372"
 }
 ]
+}
+]
 },
 {
 "Name": "Rozhniativskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Рожнятів",
@@ -30459,9 +30932,13 @@
 "LatLong": "48.8276,24.259"
 }
 ]
+}
+]
 },
 {
 "Name": "Bohorodchanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Богородчани",
@@ -30669,9 +31146,13 @@
 "LatLong": "48.9307,24.5848"
 }
 ]
+}
+]
 },
 {
 "Name": "Tlumatskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Тлумач",
@@ -30969,9 +31450,13 @@
 "LatLong": "48.7003,25.1701"
 }
 ]
+}
+]
 },
 {
 "Name": "Horodenkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Городенка",
@@ -31229,9 +31714,13 @@
 "LatLong": "50.2672,26.204"
 }
 ]
+}
+]
 },
 {
 "Name": "Kolomyiskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Коломия",
@@ -31659,9 +32148,13 @@
 "LatLong": "48.5139,25.142"
 }
 ]
+}
+]
 },
 {
 "Name": "Sniatynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Снятин",
@@ -31909,9 +32402,13 @@
 "LatLong": "50.4348,24.5712"
 }
 ]
+}
+]
 },
 {
 "Name": "Nadvirnianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Надвірна",
@@ -32149,9 +32646,13 @@
 "LatLong": "48.335,23.8013"
 }
 ]
+}
+]
 },
 {
 "Name": "Yaremche",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Яремче",
@@ -32189,9 +32690,13 @@
 "LatLong": "48.3456,24.5784"
 }
 ]
+}
+]
 },
 {
 "Name": "Kosivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Косів",
@@ -32419,9 +32924,13 @@
 "LatLong": "48.2587,25.1795"
 }
 ]
+}
+]
 },
 {
 "Name": "Verkhovynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Верховина",
@@ -32641,6 +33150,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kharkivska",
@@ -32648,6 +33159,8 @@
 "Provinces": [
 {
 "Name": "Kharkivska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Харків",
@@ -33155,9 +33668,13 @@
 "LatLong": "49.9808,36.2527"
 }
 ]
+}
+]
 },
 {
 "Name": "Krasnokutskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Краснокутськ",
@@ -33500,9 +34017,13 @@
 "LatLong": "50.0371,35.2635"
 }
 ]
+}
+]
 },
 {
 "Name": "Bohodukhivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Богодухів",
@@ -33900,9 +34421,13 @@
 "LatLong": "50.1376,35.5396"
 }
 ]
+}
+]
 },
 {
 "Name": "Zolochivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Золочів",
@@ -34270,9 +34795,13 @@
 "LatLong": "50.4075,35.8373"
 }
 ]
+}
+]
 },
 {
 "Name": "Derhachivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Дергачі",
@@ -34610,9 +35139,13 @@
 "LatLong": "49.8641,35.1552"
 }
 ]
+}
+]
 },
 {
 "Name": "Kharkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Надточії",
@@ -35180,9 +35713,13 @@
 "LatLong": "49.8053,36.4103"
 }
 ]
+}
+]
 },
 {
 "Name": "Vovchanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Вовчанськ",
@@ -35685,9 +36222,13 @@
 "LatLong": "50.2539,36.9136"
 }
 ]
+}
+]
 },
 {
 "Name": "Velykoburlutskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Великий Бурлук",
@@ -36100,9 +36641,13 @@
 "LatLong": "49.9681,37.3817"
 }
 ]
+}
+]
 },
 {
 "Name": "Dvorichanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Дворічна (Дворічанська сільська рада)",
@@ -36380,9 +36925,13 @@
 "LatLong": "49.9581,37.6975"
 }
 ]
+}
+]
 },
 {
 "Name": "Pechenizkyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Печеніги",
@@ -36445,9 +36994,13 @@
 "LatLong": "49.8685,37.0996"
 }
 ]
+}
+]
 },
 {
 "Name": "Valkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Валки",
@@ -36965,9 +37518,13 @@
 "LatLong": "49.6576,35.555"
 }
 ]
+}
+]
 },
 {
 "Name": "Kolomatskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Коломак",
@@ -37140,9 +37697,13 @@
 "LatLong": "49.8878,35.2496"
 }
 ]
+}
+]
 },
 {
 "Name": "Novovodolazkyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Нова Водолага",
@@ -37440,9 +38001,13 @@
 "LatLong": "49.7477,35.9381"
 }
 ]
+}
+]
 },
 {
 "Name": "Krasnohradskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Красноград",
@@ -37740,9 +38305,13 @@
 "LatLong": "49.6361,35.5476"
 }
 ]
+}
+]
 },
 {
 "Name": "Zmiivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Зміїв",
@@ -38150,9 +38719,13 @@
 "LatLong": "49.7876,36.3015"
 }
 ]
+}
+]
 },
 {
 "Name": "Chuhuivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Чугуїв",
@@ -38390,9 +38963,13 @@
 "LatLong": "49.5994,36.9811"
 }
 ]
+}
+]
 },
 {
 "Name": "Shevchenkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Шевченкове",
@@ -38695,9 +39272,13 @@
 "LatLong": "49.5622,37.4325"
 }
 ]
+}
+]
 },
 {
 "Name": "Kupianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Куп'янськ",
@@ -39095,9 +39676,13 @@
 "LatLong": "49.751,37.6111"
 }
 ]
+}
+]
 },
 {
 "Name": "Borivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Борова",
@@ -39290,9 +39875,13 @@
 "LatLong": "49.2575,35.3769"
 }
 ]
+}
+]
 },
 {
 "Name": "Kehychivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кегичівка",
@@ -39495,9 +40084,13 @@
 "LatLong": "49.2844,35.9332"
 }
 ]
+}
+]
 },
 {
 "Name": "Pervomaiskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Первомайський",
@@ -39800,9 +40393,13 @@
 "LatLong": "49.4223,36.0686"
 }
 ]
+}
+]
 },
 {
 "Name": "Balakliiskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Балаклія",
@@ -40175,9 +40772,13 @@
 "LatLong": "49.4627,36.8595"
 }
 ]
+}
+]
 },
 {
 "Name": "Iziumskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ізюм",
@@ -40520,9 +41121,13 @@
 "LatLong": "49.249,37.3365"
 }
 ]
+}
+]
 },
 {
 "Name": "Zachepylivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Зачепилівка",
@@ -40715,9 +41320,13 @@
 "LatLong": "49.024,35.479"
 }
 ]
+}
+]
 },
 {
 "Name": "Sakhnovshchynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Сахновщина",
@@ -41040,9 +41649,13 @@
 "LatLong": "49.002,35.5309"
 }
 ]
+}
+]
 },
 {
 "Name": "Lozivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Лозова",
@@ -41530,9 +42143,13 @@
 "LatLong": "48.9948,35.957"
 }
 ]
+}
+]
 },
 {
 "Name": "Barvinkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Барвінкове",
@@ -41845,9 +42462,13 @@
 "LatLong": "48.8895,37.1502"
 }
 ]
+}
+]
 },
 {
 "Name": "Blyzniukivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Близнюки",
@@ -42337,6 +42958,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Khersonska",
@@ -42344,6 +42967,8 @@
 "Provinces": [
 {
 "Name": "Khersonska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Херсон",
@@ -42476,9 +43101,13 @@
 "LatLong": "46.6558,32.6178"
 }
 ]
+}
+]
 },
 {
 "Name": "Kherson",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Зеленівка",
@@ -42551,9 +43180,13 @@
 "LatLong": "46.7286,32.5817"
 }
 ]
+}
+]
 },
 {
 "Name": "Vysokopilskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Високопілля",
@@ -42761,9 +43394,13 @@
 "LatLong": "47.4717,33.1523"
 }
 ]
+}
+]
 },
 {
 "Name": "Velykooleksandrivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Велика Олександрівка",
@@ -43036,9 +43673,13 @@
 "LatLong": "47.2453,33.5956"
 }
 ]
+}
+]
 },
 {
 "Name": "Novovorontsovskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Нововоронцовка",
@@ -43131,9 +43772,13 @@
 "LatLong": "47.1856,33.7639"
 }
 ]
+}
+]
 },
 {
 "Name": "Beryslavskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Берислав",
@@ -43361,9 +44006,13 @@
 "LatLong": "46.8677,33.5839"
 }
 ]
+}
+]
 },
 {
 "Name": "Verkhnorohachytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Верхній Рогачик",
@@ -43476,9 +44125,13 @@
 "LatLong": "47.1334,34.4588"
 }
 ]
+}
+]
 },
 {
 "Name": "Velykolepetyskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Велика Лепетиха",
@@ -43551,9 +44204,13 @@
 "LatLong": "46.9964,34.1676"
 }
 ]
+}
+]
 },
 {
 "Name": "Hornostaivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Горностаївка",
@@ -43701,9 +44358,13 @@
 "LatLong": "46.8167,33.9333"
 }
 ]
+}
+]
 },
 {
 "Name": "Nyzhnosirohozkyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Нижні Сірогози",
@@ -43831,9 +44492,13 @@
 "LatLong": "46.7628,34.0817"
 }
 ]
+}
+]
 },
 {
 "Name": "Kakhovskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Каховка",
@@ -44086,9 +44751,13 @@
 "LatLong": "46.5766,33.8898"
 }
 ]
+}
+]
 },
 {
 "Name": "Nova Kakhovka",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Нова Каховка",
@@ -44171,9 +44840,13 @@
 "LatLong": "46.6963,33.2333"
 }
 ]
+}
+]
 },
 {
 "Name": "Bilozerskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Білозерка",
@@ -44461,9 +45134,13 @@
 "LatLong": "49.7501,35.2774"
 }
 ]
+}
+]
 },
 {
 "Name": "Oleshkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Олешки",
@@ -44626,9 +45303,13 @@
 "LatLong": "46.3696,32.9398"
 }
 ]
+}
+]
 },
 {
 "Name": "Chaplynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Чаплинка",
@@ -44826,9 +45507,13 @@
 "LatLong": "46.246,33.9268"
 }
 ]
+}
+]
 },
 {
 "Name": "Novotroitskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Новотроїцьке",
@@ -45051,9 +45736,13 @@
 "LatLong": "46.287,34.5021"
 }
 ]
+}
+]
 },
 {
 "Name": "Ivanivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Іванівка",
@@ -45196,9 +45885,13 @@
 "LatLong": "46.5586,34.4039"
 }
 ]
+}
+]
 },
 {
 "Name": "Henicheskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Генічеськ",
@@ -45506,9 +46199,13 @@
 "LatLong": "45.8989,34.8781"
 }
 ]
+}
+]
 },
 {
 "Name": "Holoprystanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Гола Пристань",
@@ -45781,9 +46478,13 @@
 "LatLong": "46.1642,32.5052"
 }
 ]
+}
+]
 },
 {
 "Name": "Skadovskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Скадовськ",
@@ -45986,9 +46687,13 @@
 "LatLong": "46.1544,33.1541"
 }
 ]
+}
+]
 },
 {
 "Name": "Kalanchatskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Каланчак",
@@ -46103,6 +46808,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Khmelnytska",
@@ -46110,6 +46817,8 @@
 "Provinces": [
 {
 "Name": "Khmelnytska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Хмельницький",
@@ -46232,9 +46941,13 @@
 "LatLong": "49.4216,26.9965"
 }
 ]
+}
+]
 },
 {
 "Name": "Slavutskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Новий Кривин",
@@ -46652,9 +47365,13 @@
 "LatLong": "50.3909,27.217"
 }
 ]
+}
+]
 },
 {
 "Name": "Netishyn",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Нетішин",
@@ -46662,9 +47379,13 @@
 "LatLong": "50.34,26.6417"
 }
 ]
+}
+]
 },
 {
 "Name": "Bilohirskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Українка",
@@ -47037,9 +47758,13 @@
 "LatLong": "49.9667,26.2599"
 }
 ]
+}
+]
 },
 {
 "Name": "Iziaslavskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Путринці",
@@ -47512,9 +48237,13 @@
 "LatLong": "49.912,26.9304"
 }
 ]
+}
+]
 },
 {
 "Name": "Shepetivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Шепетівка",
@@ -47852,9 +48581,13 @@
 "LatLong": "50.1494,27.1824"
 }
 ]
+}
+]
 },
 {
 "Name": "Polonskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Полонне",
@@ -48067,9 +48800,13 @@
 "LatLong": "49.9047,27.4943"
 }
 ]
+}
+]
 },
 {
 "Name": "Teofipolskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ленінка",
@@ -48372,9 +49109,13 @@
 "LatLong": "50.3813,25.8308"
 }
 ]
+}
+]
 },
 {
 "Name": "Krasylivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Красилів",
@@ -48857,9 +49598,13 @@
 "LatLong": "48.9903,30.2663"
 }
 ]
+}
+]
 },
 {
 "Name": "Starokostiantynivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Старокостянтинів",
@@ -49362,9 +50107,13 @@
 "LatLong": "49.8467,27.4689"
 }
 ]
+}
+]
 },
 {
 "Name": "Volochyskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Волочиськ",
@@ -49827,9 +50576,13 @@
 "LatLong": "49.665,28.2398"
 }
 ]
+}
+]
 },
 {
 "Name": "Khmelnytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Польові Гринівці",
@@ -50252,9 +51005,13 @@
 "LatLong": "49.7661,28.5542"
 }
 ]
+}
+]
 },
 {
 "Name": "Starosyniavskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Стара Синява",
@@ -50482,9 +51239,13 @@
 "LatLong": "49.756,28.1523"
 }
 ]
+}
+]
 },
 {
 "Name": "Letychivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Свічна",
@@ -50777,9 +51538,13 @@
 "LatLong": "48.4519,28.2822"
 }
 ]
+}
+]
 },
 {
 "Name": "Chemerovetskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Гайове",
@@ -51137,9 +51902,13 @@
 "LatLong": "49.5293,26.9894"
 }
 ]
+}
+]
 },
 {
 "Name": "Horodotskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Городок",
@@ -51467,9 +52236,13 @@
 "LatLong": "49.0981,26.5812"
 }
 ]
+}
+]
 },
 {
 "Name": "Yarmolynetskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ярмолинці",
@@ -51777,9 +52550,13 @@
 "LatLong": "49.8811,26.9052"
 }
 ]
+}
+]
 },
 {
 "Name": "Derazhnianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Деражня",
@@ -52097,9 +52874,13 @@
 "LatLong": "49.1737,27.261"
 }
 ]
+}
+]
 },
 {
 "Name": "Kamianets-Podilskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кам'янець-Подільський",
@@ -52767,9 +53548,13 @@
 "LatLong": "49.7667,27.9"
 }
 ]
+}
+]
 },
 {
 "Name": "Dunaievetskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Дунаївці",
@@ -53197,9 +53982,13 @@
 "LatLong": "48.7641,26.929"
 }
 ]
+}
+]
 },
 {
 "Name": "Vinkovetskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Віньківці",
@@ -53357,9 +54146,13 @@
 "LatLong": "49.7292,25.3876"
 }
 ]
+}
+]
 },
 {
 "Name": "Novoushytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Нова Ушиця",
@@ -53654,6 +54447,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kirovohradska",
@@ -53661,6 +54456,8 @@
 "Provinces": [
 {
 "Name": "Kirovohradska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кропивницький",
@@ -53743,9 +54540,13 @@
 "LatLong": "48.5132,32.2597"
 }
 ]
+}
+]
 },
 {
 "Name": "Kirovohradskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Сонячне",
@@ -54118,9 +54919,13 @@
 "LatLong": "48.4964,32.42"
 }
 ]
+}
+]
 },
 {
 "Name": "Novomyrhorodskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Костянтинівка",
@@ -54363,9 +55168,13 @@
 "LatLong": "49.1453,34.6448"
 }
 ]
+}
+]
 },
 {
 "Name": "Malovyskivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Заповідне",
@@ -54638,9 +55447,13 @@
 "LatLong": "48.5073,32.4511"
 }
 ]
+}
+]
 },
 {
 "Name": "Novoarkhanhelskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Новоархангельськ",
@@ -54873,9 +55686,13 @@
 "LatLong": "49.5401,32.6077"
 }
 ]
+}
+]
 },
 {
 "Name": "Haivoronskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Гайворон",
@@ -55033,9 +55850,13 @@
 "LatLong": "48.6082,31.2631"
 }
 ]
+}
+]
 },
 {
 "Name": "Blagovitshenskyy",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Благовіщенське",
@@ -55173,9 +55994,13 @@
 "LatLong": "48.0207,31.0525"
 }
 ]
+}
+]
 },
 {
 "Name": "Holovanivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Голованівськ",
@@ -55408,9 +56233,13 @@
 "LatLong": "48.164,37.9826"
 }
 ]
+}
+]
 },
 {
 "Name": "Vilshanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Вільшанка",
@@ -55533,9 +56362,13 @@
 "LatLong": "49.7556,28.7606"
 }
 ]
+}
+]
 },
 {
 "Name": "Dobrovelychkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Добровеличківка",
@@ -55848,9 +56681,13 @@
 "LatLong": "47.936,35.8423"
 }
 ]
+}
+]
 },
 {
 "Name": "Novoukrainskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Новоукраїнка",
@@ -56228,9 +57065,13 @@
 "LatLong": "47.7116,36.5949"
 }
 ]
+}
+]
 },
 {
 "Name": "Bobrynetskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Бобринець",
@@ -56598,9 +57439,13 @@
 "LatLong": "49.2088,33.6464"
 }
 ]
+}
+]
 },
 {
 "Name": "Oleksandrivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Олександрівка",
@@ -56868,9 +57713,13 @@
 "LatLong": "48.8681,32.3561"
 }
 ]
+}
+]
 },
 {
 "Name": "Znamianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Знам'янка",
@@ -57123,9 +57972,13 @@
 "LatLong": "48.6325,32.3989"
 }
 ]
+}
+]
 },
 {
 "Name": "Svitlovodskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Світловодськ",
@@ -57308,9 +58161,13 @@
 "LatLong": "49.115,33.2816"
 }
 ]
+}
+]
 },
 {
 "Name": "Oleksandriiskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Олександрія",
@@ -57733,9 +58590,13 @@
 "LatLong": "48.5376,33.1789"
 }
 ]
+}
+]
 },
 {
 "Name": "Onufriivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Онуфріївка",
@@ -57878,9 +58739,13 @@
 "LatLong": "48.4691,33.16"
 }
 ]
+}
+]
 },
 {
 "Name": "Novhorodkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Новгородка",
@@ -58018,9 +58883,13 @@
 "LatLong": "48.1958,33.3608"
 }
 ]
+}
+]
 },
 {
 "Name": "Petrivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Петрове",
@@ -58203,9 +59072,13 @@
 "LatLong": "48.5968,33.1503"
 }
 ]
+}
+]
 },
 {
 "Name": "Kompaniivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Компаніївка",
@@ -58458,9 +59331,13 @@
 "LatLong": "48.6567,33.9132"
 }
 ]
+}
+]
 },
 {
 "Name": "Dolynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Долинська",
@@ -58708,9 +59585,13 @@
 "LatLong": "48.893,32.6971"
 }
 ]
+}
+]
 },
 {
 "Name": "Ustynivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Устинівка",
@@ -58895,6 +59776,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kyivska",
@@ -58902,6 +59785,8 @@
 "Provinces": [
 {
 "Name": "Kyievo-Sviatoshynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Новосілки (Чабанівська селищна рада)",
@@ -59194,9 +60079,13 @@
 "LatLong": "50.2357,29.7065"
 }
 ]
+}
+]
 },
 {
 "Name": "Poliskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Радинка",
@@ -59349,9 +60238,13 @@
 "LatLong": "51.0951,29.6414"
 }
 ]
+}
+]
 },
 {
 "Name": "Slavutych",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Славутич",
@@ -59364,9 +60257,13 @@
 "LatLong": "51.5196,30.7343"
 }
 ]
+}
+]
 },
 {
 "Name": "Ivankivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Іванків",
@@ -59779,9 +60676,13 @@
 "LatLong": "51.0314,29.9147"
 }
 ]
+}
+]
 },
 {
 "Name": "Vyshhorodskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Вишгород",
@@ -60069,9 +60970,13 @@
 "LatLong": "50.8764,30.3144"
 }
 ]
+}
+]
 },
 {
 "Name": "Brovarskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Бровари",
@@ -60329,9 +61234,13 @@
 "LatLong": "51.3929,28.8684"
 }
 ]
+}
+]
 },
 {
 "Name": "Baryshivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Баришівка",
@@ -60534,9 +61443,13 @@
 "LatLong": "50.4166,31.4626"
 }
 ]
+}
+]
 },
 {
 "Name": "Berezan",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Березань",
@@ -60554,9 +61467,13 @@
 "LatLong": "50.3112,31.4671"
 }
 ]
+}
+]
 },
 {
 "Name": "Zghurivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Згурівка",
@@ -60764,9 +61681,13 @@
 "LatLong": "50.4522,32.0066"
 }
 ]
+}
+]
 },
 {
 "Name": "Yahotynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Яготин",
@@ -60989,9 +61910,13 @@
 "LatLong": "50.6298,34.1515"
 }
 ]
+}
+]
 },
 {
 "Name": "Borodianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Бородянка",
@@ -61239,9 +62164,13 @@
 "LatLong": "50.5145,30.0616"
 }
 ]
+}
+]
 },
 {
 "Name": "Makarivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Макарів",
@@ -61594,9 +62523,13 @@
 "LatLong": "50.6416,27.3031"
 }
 ]
+}
+]
 },
 {
 "Name": "Irpin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ірпінь",
@@ -61659,9 +62592,13 @@
 "LatLong": "50.5509,30.2103"
 }
 ]
+}
+]
 },
 {
 "Name": "Bucha",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Буча",
@@ -61679,9 +62616,13 @@
 "LatLong": "50.5434,30.212"
 }
 ]
+}
+]
 },
 {
 "Name": "Boryspilskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Бориспіль",
@@ -61929,9 +62870,13 @@
 "LatLong": "50.4386,31.0869"
 }
 ]
+}
+]
 },
 {
 "Name": "Pereiaslav-Khmelnytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Переяслав-Хмельницький",
@@ -62224,9 +63169,13 @@
 "LatLong": "49.003,33.4329"
 }
 ]
+}
+]
 },
 {
 "Name": "Fastivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Фастів",
@@ -62499,9 +63448,13 @@
 "LatLong": "49.9109,29.7407"
 }
 ]
+}
+]
 },
 {
 "Name": "Vasylkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Васильків",
@@ -62884,9 +63837,13 @@
 "LatLong": "50.1549,30.4069"
 }
 ]
+}
+]
 },
 {
 "Name": "Obukhivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Обухів",
@@ -63139,9 +64096,13 @@
 "LatLong": "52.1783,32.5818"
 }
 ]
+}
+]
 },
 {
 "Name": "Myronivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Миронівка",
@@ -63379,9 +64340,13 @@
 "LatLong": "49.9109,29.7407"
 }
 ]
+}
+]
 },
 {
 "Name": "Skvyrskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Сквира",
@@ -63639,9 +64604,13 @@
 "LatLong": "49.6162,34.3684"
 }
 ]
+}
+]
 },
 {
 "Name": "Bilotserkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Біла Церква",
@@ -64019,9 +64988,13 @@
 "LatLong": "49.5876,30.1891"
 }
 ]
+}
+]
 },
 {
 "Name": "Kaharlytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кагарлик",
@@ -64274,9 +65247,13 @@
 "LatLong": "49.946,30.3989"
 }
 ]
+}
+]
 },
 {
 "Name": "Rzhyshchiv",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ржищів",
@@ -64289,9 +65266,13 @@
 "LatLong": "50.3497,24.7688"
 }
 ]
+}
+]
 },
 {
 "Name": "Volodarskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Володарка",
@@ -64479,9 +65460,13 @@
 "LatLong": "49.5467,29.9916"
 }
 ]
+}
+]
 },
 {
 "Name": "Stavyshchenskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ставище",
@@ -64634,9 +65619,13 @@
 "LatLong": "50.2746,30.7478"
 }
 ]
+}
+]
 },
 {
 "Name": "Tarashchanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Тараща",
@@ -64819,9 +65808,13 @@
 "LatLong": "47.5986,32.8804"
 }
 ]
+}
+]
 },
 {
 "Name": "Rokytnianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Рокитне",
@@ -64949,9 +65942,13 @@
 "LatLong": "51.3929,28.8684"
 }
 ]
+}
+]
 },
 {
 "Name": "Bohuslavskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Богуслав",
@@ -65159,9 +66156,13 @@
 "LatLong": "49.4103,32.5397"
 }
 ]
+}
+]
 },
 {
 "Name": "Tetiivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Тетіїв",
@@ -65336,6 +66337,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kyiv",
@@ -65343,6 +66346,8 @@
 "Provinces": [
 {
 "Name": "Kyiv",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Київ",
@@ -66197,6 +67202,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Luhanska",
@@ -66204,6 +67211,8 @@
 "Provinces": [
 {
 "Name": "Novoaidarskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Щастя",
@@ -66416,9 +67425,13 @@
 "LatLong": "48.6679,39.0343"
 }
 ]
+}
+]
 },
 {
 "Name": "Troitskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Троїцьке",
@@ -66716,9 +67729,13 @@
 "LatLong": "49.8373,38.2518"
 }
 ]
+}
+]
 },
 {
 "Name": "Bilokurakynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Білокуракине",
@@ -66986,9 +68003,13 @@
 "LatLong": "49.6477,38.9326"
 }
 ]
+}
+]
 },
 {
 "Name": "Novopskovskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Новопсков",
@@ -67206,9 +68227,13 @@
 "LatLong": "49.2791,39.0887"
 }
 ]
+}
+]
 },
 {
 "Name": "Markivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Марківка",
@@ -67381,9 +68406,13 @@
 "LatLong": "49.5468,39.4582"
 }
 ]
+}
+]
 },
 {
 "Name": "Milovskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Мілове",
@@ -67531,9 +68560,13 @@
 "LatLong": "49.3399,39.9638"
 }
 ]
+}
+]
 },
 {
 "Name": "Svativskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Сватове",
@@ -67846,9 +68879,13 @@
 "LatLong": "48.6487,37.3485"
 }
 ]
+}
+]
 },
 {
 "Name": "Starobilskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Старобільськ",
@@ -68161,9 +69198,13 @@
 "LatLong": "49.0842,38.9643"
 }
 ]
+}
+]
 },
 {
 "Name": "Bilovodskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Біловодськ",
@@ -68326,9 +69367,13 @@
 "LatLong": "49.1278,39.6281"
 }
 ]
+}
+]
 },
 {
 "Name": "Kreminna",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кремінна",
@@ -68356,9 +69401,13 @@
 "LatLong": "49.0495,38.2179"
 }
 ]
+}
+]
 },
 {
 "Name": "Kreminskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Житлівка",
@@ -68556,9 +69605,13 @@
 "LatLong": "49.6477,38.9326"
 }
 ]
+}
+]
 },
 {
 "Name": "Rubizhne",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Рубіжне",
@@ -68616,9 +69669,13 @@
 "LatLong": "49.0123,38.3797"
 }
 ]
+}
+]
 },
 {
 "Name": "Lysychansk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Лисичанськ",
@@ -68701,9 +69758,13 @@
 "LatLong": "48.9627,38.3573"
 }
 ]
+}
+]
 },
 {
 "Name": "Popasnianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Тошківка",
@@ -68906,9 +69967,13 @@
 "LatLong": "48.7234,38.6351"
 }
 ]
+}
+]
 },
 {
 "Name": "Syeverodonetsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Сєвєродонецьк",
@@ -69021,9 +70086,13 @@
 "LatLong": "48.8527,38.66"
 }
 ]
+}
+]
 },
 {
 "Name": "Stanychno-Luhanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Станично-Луганське",
@@ -69248,6 +70317,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Lvivska",
@@ -69255,6 +70326,8 @@
 "Provinces": [
 {
 "Name": "Lvivska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Львів",
@@ -69592,9 +70665,13 @@
 "LatLong": "49.1565,23.8723"
 }
 ]
+}
+]
 },
 {
 "Name": "Lviv",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Брюховичі",
@@ -69612,9 +70689,13 @@
 "LatLong": "49.8167,24.1442"
 }
 ]
+}
+]
 },
 {
 "Name": "Sokalskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Сокаль",
@@ -70152,9 +71233,13 @@
 "LatLong": "50.4119,24.2059"
 }
 ]
+}
+]
 },
 {
 "Name": "Chervonohrad",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Червоноград",
@@ -70217,9 +71302,13 @@
 "LatLong": "50.2897,24.2514"
 }
 ]
+}
+]
 },
 {
 "Name": "Radekhivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Радехів",
@@ -70577,9 +71666,13 @@
 "LatLong": "50.361,24.6186"
 }
 ]
+}
+]
 },
 {
 "Name": "Zhovkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Жовква",
@@ -71407,9 +72500,13 @@
 "LatLong": "49.9166,24.6223"
 }
 ]
+}
+]
 },
 {
 "Name": "Kamianka-Buzkyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кам'янка-Бузька",
@@ -71817,9 +72914,13 @@
 "LatLong": "50.0802,24.3398"
 }
 ]
+}
+]
 },
 {
 "Name": "Buskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Буськ",
@@ -72237,9 +73338,13 @@
 "LatLong": "50.1696,24.8421"
 }
 ]
+}
+]
 },
 {
 "Name": "Brodivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Броди",
@@ -72767,9 +73872,13 @@
 "LatLong": "49.7243,24.5027"
 }
 ]
+}
+]
 },
 {
 "Name": "Zolochivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Золочів",
@@ -73322,9 +74431,13 @@
 "LatLong": "50.3714,26.5127"
 }
 ]
+}
+]
 },
 {
 "Name": "Yavorivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Яворів",
@@ -74047,9 +75160,13 @@
 "LatLong": "49.9244,23.3235"
 }
 ]
+}
+]
 },
 {
 "Name": "Pustomytivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Пустомити",
@@ -74572,9 +75689,13 @@
 "LatLong": "49.5742,24.2761"
 }
 ]
+}
+]
 },
 {
 "Name": "Peremyshlianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Перемишляни",
@@ -75022,9 +76143,13 @@
 "LatLong": "50.7415,26.1695"
 }
 ]
+}
+]
 },
 {
 "Name": "Mostyskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Мостиська",
@@ -75587,9 +76712,13 @@
 "LatLong": "49.7078,23.0782"
 }
 ]
+}
+]
 },
 {
 "Name": "Sambirskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Лопушно",
@@ -76142,9 +77271,13 @@
 "LatLong": "49.3955,23.1758"
 }
 ]
+}
+]
 },
 {
 "Name": "Horodotskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Городок",
@@ -76547,9 +77680,13 @@
 "LatLong": "49.927,25.1233"
 }
 ]
+}
+]
 },
 {
 "Name": "Mykolaivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Миколаїв (Миколаїв)",
@@ -76847,9 +77984,13 @@
 "LatLong": "49.5217,23.7646"
 }
 ]
+}
+]
 },
 {
 "Name": "Zhydachivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Жидачів",
@@ -77447,9 +78588,13 @@
 "LatLong": "49.1794,24.2495"
 }
 ]
+}
+]
 },
 {
 "Name": "Starosambirskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Старий Самбір",
@@ -78027,9 +79172,13 @@
 "LatLong": "49.3979,22.7907"
 }
 ]
+}
+]
 },
 {
 "Name": "Drohobytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Брониця (Броницька сільська рада)",
@@ -78422,9 +79571,13 @@
 "LatLong": "49.2482,23.2691"
 }
 ]
+}
+]
 },
 {
 "Name": "Truskavets",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Трускавець",
@@ -78437,9 +79590,13 @@
 "LatLong": "49.2784,23.5062"
 }
 ]
+}
+]
 },
 {
 "Name": "Boryslav",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Борислав",
@@ -78472,9 +79629,13 @@
 "LatLong": "49.2283,23.3502"
 }
 ]
+}
+]
 },
 {
 "Name": "Stryiskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кавське",
@@ -78832,9 +79993,13 @@
 "LatLong": "49.231,23.7369"
 }
 ]
+}
+]
 },
 {
 "Name": "Turkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Турка",
@@ -79182,9 +80347,13 @@
 "LatLong": "49.0881,23.0218"
 }
 ]
+}
+]
 },
 {
 "Name": "Skolivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Сколе",
@@ -79469,6 +80638,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Mykolaivska",
@@ -79476,6 +80647,8 @@
 "Provinces": [
 {
 "Name": "Mykolaivska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Миколаїв",
@@ -79618,9 +80791,13 @@
 "LatLong": "46.9659,31.9974"
 }
 ]
+}
+]
 },
 {
 "Name": "Yuzhnoukrainsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Южноукраїнськ",
@@ -79633,9 +80810,13 @@
 "LatLong": "47.8178,31.1826"
 }
 ]
+}
+]
 },
 {
 "Name": "Kryvoozerskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Криве Озеро",
@@ -79778,9 +80959,13 @@
 "LatLong": "47.7771,29.2764"
 }
 ]
+}
+]
 },
 {
 "Name": "Pervomaiskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Первомайськ",
@@ -80093,9 +81278,13 @@
 "LatLong": "48.2946,30.6588"
 }
 ]
+}
+]
 },
 {
 "Name": "Arbuzynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Арбузинка",
@@ -80243,9 +81432,13 @@
 "LatLong": "47.9097,31.3196"
 }
 ]
+}
+]
 },
 {
 "Name": "Bratskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Братське (Братська)",
@@ -80548,9 +81741,13 @@
 "LatLong": "47.8621,31.4887"
 }
 ]
+}
+]
 },
 {
 "Name": "Yelanetskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Єланець (Єланецька)",
@@ -80723,9 +81920,13 @@
 "LatLong": "47.8621,31.4887"
 }
 ]
+}
+]
 },
 {
 "Name": "Novobuzkyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Новий Буг",
@@ -81023,9 +82224,13 @@
 "LatLong": "47.4381,32.688"
 }
 ]
+}
+]
 },
 {
 "Name": "Kazankivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Казанка (Веселобалківська)",
@@ -81383,9 +82588,13 @@
 "LatLong": "47.2695,32.5349"
 }
 ]
+}
+]
 },
 {
 "Name": "Bashtanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Баштанка",
@@ -81688,9 +82897,13 @@
 "LatLong": "47.4072,32.4387"
 }
 ]
+}
+]
 },
 {
 "Name": "Bereznehuvatskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Березнегувате (Березнегуватська)",
@@ -81898,9 +83111,13 @@
 "LatLong": "47.6225,32.2193"
 }
 ]
+}
+]
 },
 {
 "Name": "Vradiivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Врадіївка (Врадіївська)",
@@ -82088,9 +83305,13 @@
 "LatLong": "47.6225,32.2193"
 }
 ]
+}
+]
 },
 {
 "Name": "Domanivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Доманівка (Доманівська)",
@@ -82403,9 +83624,13 @@
 "LatLong": "47.6225,32.2193"
 }
 ]
+}
+]
 },
 {
 "Name": "Voznesenskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Вознесенськ",
@@ -82688,9 +83913,13 @@
 "LatLong": "47.5649,31.3308"
 }
 ]
+}
+]
 },
 {
 "Name": "Novoodeskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Нова Одеса",
@@ -82908,9 +84137,13 @@
 "LatLong": "46.988,32.3137"
 }
 ]
+}
+]
 },
 {
 "Name": "Veselynivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Веселинове (Веселиновська)",
@@ -83173,9 +84406,13 @@
 "LatLong": "47.0593,32.5597"
 }
 ]
+}
+]
 },
 {
 "Name": "Mykolaivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ковалівка",
@@ -83443,9 +84680,13 @@
 "LatLong": "47.1639,31.222"
 }
 ]
+}
+]
 },
 {
 "Name": "Zhovtnevyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Водник (Полігонівська)",
@@ -83668,9 +84909,13 @@
 "LatLong": "47.0169,32.1457"
 }
 ]
+}
+]
 },
 {
 "Name": "Snihurivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Снігурівка",
@@ -83973,9 +85218,13 @@
 "LatLong": "47.0528,33.4898"
 }
 ]
+}
+]
 },
 {
 "Name": "Berezanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Березанка (Березанська)",
@@ -84228,9 +85477,13 @@
 "LatLong": "47.0593,32.5597"
 }
 ]
+}
+]
 },
 {
 "Name": "Ochakivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Очаків",
@@ -84395,6 +85648,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Odeska",
@@ -84402,6 +85657,8 @@
 "Provinces": [
 {
 "Name": "Odeska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Одеса",
@@ -84764,9 +86021,13 @@
 "LatLong": "46.6221,31.1013"
 }
 ]
+}
+]
 },
 {
 "Name": "Teplodar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Теплодар",
@@ -84774,9 +86035,13 @@
 "LatLong": "46.5058,30.3252"
 }
 ]
+}
+]
 },
 {
 "Name": "Ovidiopolskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Таїрове (Таїровська селищна рада)",
@@ -84914,9 +86179,13 @@
 "LatLong": "46.25,30.4413"
 }
 ]
+}
+]
 },
 {
 "Name": "Kodymskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кодима",
@@ -85049,9 +86318,13 @@
 "LatLong": "48.0988,29.1246"
 }
 ]
+}
+]
 },
 {
 "Name": "Baltskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Балта",
@@ -85269,9 +86542,13 @@
 "LatLong": "47.9355,29.6198"
 }
 ]
+}
+]
 },
 {
 "Name": "Savranskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Саврань",
@@ -85379,9 +86656,13 @@
 "LatLong": "48.1322,30.0825"
 }
 ]
+}
+]
 },
 {
 "Name": "Podilskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Подільськ",
@@ -85724,9 +87005,13 @@
 "LatLong": "47.8314,29.8914"
 }
 ]
+}
+]
 },
 {
 "Name": "Ananivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ананьїв",
@@ -85894,9 +87179,13 @@
 "LatLong": "47.7211,29.945"
 }
 ]
+}
+]
 },
 {
 "Name": "Lyubashivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Любашівка (Любашівська селищна рада)",
@@ -86174,9 +87463,13 @@
 "LatLong": "47.8314,29.8914"
 }
 ]
+}
+]
 },
 {
 "Name": "Zakharivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Захарівка (Захарівська селищна рада)",
@@ -86444,9 +87737,13 @@
 "LatLong": "47.8314,29.8914"
 }
 ]
+}
+]
 },
 {
 "Name": "Shyriaivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ширяєве (Ширяївська селищна рада)",
@@ -86809,9 +88106,13 @@
 "LatLong": "47.1652,30.9564"
 }
 ]
+}
+]
 },
 {
 "Name": "Mykolaivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Миколаївка (Миколаївська селищна рада)",
@@ -87044,9 +88345,13 @@
 "LatLong": "46.6178,30.6172"
 }
 ]
+}
+]
 },
 {
 "Name": "Velykomykhailivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Велика Михайлівка",
@@ -87464,9 +88769,13 @@
 "LatLong": "47.0509,29.8177"
 }
 ]
+}
+]
 },
 {
 "Name": "Ivanivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Іванівка (Іванівська селищна рада)",
@@ -87699,9 +89008,13 @@
 "LatLong": "48.2191,34.0124"
 }
 ]
+}
+]
 },
 {
 "Name": "Berezivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Березівка",
@@ -88024,9 +89337,13 @@
 "LatLong": "47.2043,30.9078"
 }
 ]
+}
+]
 },
 {
 "Name": "Rozdilnianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Роздільна",
@@ -88464,9 +89781,13 @@
 "LatLong": "46.7658,30.297"
 }
 ]
+}
+]
 },
 {
 "Name": "Limanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Доброслав",
@@ -88799,9 +90120,13 @@
 "LatLong": "46.6178,30.6172"
 }
 ]
+}
+]
 },
 {
 "Name": "Biliaivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Біляївка",
@@ -89064,9 +90389,13 @@
 "LatLong": "46.4832,30.2168"
 }
 ]
+}
+]
 },
 {
 "Name": "Bilhorod-Dnistrovskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Білгород-Дністровський",
@@ -89419,9 +90748,13 @@
 "LatLong": "46.1616,30.4161"
 }
 ]
+}
+]
 },
 {
 "Name": "Оknianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Окни",
@@ -89699,9 +91032,13 @@
 "LatLong": "47.5404,29.46"
 }
 ]
+}
+]
 },
 {
 "Name": "Chernomorsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Чорноморськ (Чорноморська міська рада)",
@@ -89744,9 +91081,13 @@
 "LatLong": "45.647,29.0499"
 }
 ]
+}
+]
 },
 {
 "Name": "Tatarbunarskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Татарбунари",
@@ -89924,9 +91265,13 @@
 "LatLong": "45.7892,29.6411"
 }
 ]
+}
+]
 },
 {
 "Name": "Saratskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Сарата",
@@ -90119,9 +91464,13 @@
 "LatLong": "46.0681,29.6593"
 }
 ]
+}
+]
 },
 {
 "Name": "Kiliiskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кілія",
@@ -90234,9 +91583,13 @@
 "LatLong": "45.4552,29.2637"
 }
 ]
+}
+]
 },
 {
 "Name": "Artsyzkyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Арциз",
@@ -90384,9 +91737,13 @@
 "LatLong": "45.9919,29.4182"
 }
 ]
+}
+]
 },
 {
 "Name": "Tarutynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Тарутине",
@@ -90644,9 +92001,13 @@
 "LatLong": "46.3006,29.1735"
 }
 ]
+}
+]
 },
 {
 "Name": "Izmailskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ізмаїл",
@@ -90824,9 +92185,13 @@
 "LatLong": "45.3493,28.8408"
 }
 ]
+}
+]
 },
 {
 "Name": "Bolhradskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Болград",
@@ -90934,9 +92299,13 @@
 "LatLong": "45.6351,28.6184"
 }
 ]
+}
+]
 },
 {
 "Name": "Reniiskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Рені",
@@ -90986,6 +92355,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Poltavska",
@@ -90993,6 +92364,8 @@
 "Provinces": [
 {
 "Name": "Poltavska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Полтава",
@@ -91125,9 +92498,13 @@
 "LatLong": "49.5937,34.5407"
 }
 ]
+}
+]
 },
 {
 "Name": "Pyriatynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Пирятин",
@@ -91355,9 +92732,13 @@
 "LatLong": "50.385,32.4681"
 }
 ]
+}
+]
 },
 {
 "Name": "Chornukhynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Чорнухи",
@@ -91560,9 +92941,13 @@
 "LatLong": "50.1712,33.0536"
 }
 ]
+}
+]
 },
 {
 "Name": "Lokhvytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Лохвиця",
@@ -91970,9 +93355,13 @@
 "LatLong": "50.3384,33.5515"
 }
 ]
+}
+]
 },
 {
 "Name": "Hadiatskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Гадяч",
@@ -92455,9 +93844,13 @@
 "LatLong": "50.415,33.8446"
 }
 ]
+}
+]
 },
 {
 "Name": "Hrebinkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Гребінка",
@@ -92670,9 +94063,13 @@
 "LatLong": "50.0074,32.526"
 }
 ]
+}
+]
 },
 {
 "Name": "Lubenskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Лубни",
@@ -93110,9 +94507,13 @@
 "LatLong": "49.8861,33.1501"
 }
 ]
+}
+]
 },
 {
 "Name": "Myrhorodskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Миргород",
@@ -93630,9 +95031,13 @@
 "LatLong": "49.9942,33.5368"
 }
 ]
+}
+]
 },
 {
 "Name": "Orzhytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Оржиця",
@@ -93890,9 +95295,13 @@
 "LatLong": "49.7675,32.7636"
 }
 ]
+}
+]
 },
 {
 "Name": "Khorolskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Хорол",
@@ -94365,9 +95774,13 @@
 "LatLong": "49.809,33.1003"
 }
 ]
+}
+]
 },
 {
 "Name": "Shyshatskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Шишаки",
@@ -94755,9 +96168,13 @@
 "LatLong": "49.7655,34.0446"
 }
 ]
+}
+]
 },
 {
 "Name": "Zinkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Хмарівка",
@@ -95335,9 +96752,13 @@
 "LatLong": "50.0476,34.1917"
 }
 ]
+}
+]
 },
 {
 "Name": "Semenivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Семенівка",
@@ -95665,9 +97086,13 @@
 "LatLong": "49.5691,33.0158"
 }
 ]
+}
+]
 },
 {
 "Name": "Velykobahachanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Велика Багачка",
@@ -96045,9 +97470,13 @@
 "LatLong": "49.6112,33.6626"
 }
 ]
+}
+]
 },
 {
 "Name": "Reshetylivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Решетилівка",
@@ -96450,9 +97879,13 @@
 "LatLong": "49.4129,34.0492"
 }
 ]
+}
+]
 },
 {
 "Name": "Dykanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Диканька",
@@ -96745,9 +98178,13 @@
 "LatLong": "49.9106,34.3035"
 }
 ]
+}
+]
 },
 {
 "Name": "Kotelevskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Котельва",
@@ -96945,9 +98382,13 @@
 "LatLong": "49.8873,34.6993"
 }
 ]
+}
+]
 },
 {
 "Name": "Poltavskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ковалівка",
@@ -97690,9 +99131,13 @@
 "LatLong": "49.6676,34.3584"
 }
 ]
+}
+]
 },
 {
 "Name": "Chutivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Чутове",
@@ -97950,9 +99395,13 @@
 "LatLong": "49.6823,35.2864"
 }
 ]
+}
+]
 },
 {
 "Name": "Hlobynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Глобине",
@@ -98435,9 +99884,13 @@
 "LatLong": "49.2551,33.3047"
 }
 ]
+}
+]
 },
 {
 "Name": "Kozelshchynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Козельщина",
@@ -98835,9 +100288,13 @@
 "LatLong": "49.3216,33.8579"
 }
 ]
+}
+]
 },
 {
 "Name": "Kobeliatskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кобеляки",
@@ -99350,9 +100807,13 @@
 "LatLong": "49.2775,34.1139"
 }
 ]
+}
+]
 },
 {
 "Name": "Novosanzharskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Нові Санжари",
@@ -99740,9 +101201,13 @@
 "LatLong": "49.411,34.2682"
 }
 ]
+}
+]
 },
 {
 "Name": "Mashivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Машівка",
@@ -99950,9 +101415,13 @@
 "LatLong": "49.1825,34.9097"
 }
 ]
+}
+]
 },
 {
 "Name": "Karlivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Карлівка",
@@ -100155,9 +101624,13 @@
 "LatLong": "49.3697,35.316"
 }
 ]
+}
+]
 },
 {
 "Name": "Kremenchutskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кременчук",
@@ -100615,9 +102088,13 @@
 "LatLong": "49.1668,33.5314"
 }
 ]
+}
+]
 },
 {
 "Name": "Gorihni Plavni",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Горішні Плавні",
@@ -100667,6 +102144,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Rivnenska",
@@ -100674,6 +102153,8 @@
 "Provinces": [
 {
 "Name": "Rivnenska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Рівне",
@@ -100781,9 +102262,13 @@
 "LatLong": "50.6231,26.2274"
 }
 ]
+}
+]
 },
 {
 "Name": "Zarichnenskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Зарічне",
@@ -101041,9 +102526,13 @@
 "LatLong": "51.8907,25.8752"
 }
 ]
+}
+]
 },
 {
 "Name": "Dubrovytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Дубровиця",
@@ -101341,9 +102830,13 @@
 "LatLong": "51.687,26.5872"
 }
 ]
+}
+]
 },
 {
 "Name": "Rokytnivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Рокитне (Рокитнівська селищна рада)",
@@ -101546,9 +103039,13 @@
 "LatLong": "51.4788,27.3527"
 }
 ]
+}
+]
 },
 {
 "Name": "Volodymyretskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Володимирець",
@@ -101886,9 +103383,13 @@
 "LatLong": "51.3724,25.9553"
 }
 ]
+}
+]
 },
 {
 "Name": "Varash",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Вараш",
@@ -101906,9 +103407,13 @@
 "LatLong": "51.35,25.8333"
 }
 ]
+}
+]
 },
 {
 "Name": "Sarnenskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Сарни",
@@ -102261,9 +103766,13 @@
 "LatLong": "51.3831,26.529"
 }
 ]
+}
+]
 },
 {
 "Name": "Bereznivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Березне",
@@ -102541,9 +104050,13 @@
 "LatLong": "50.9554,26.6339"
 }
 ]
+}
+]
 },
 {
 "Name": "Koretskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Корець",
@@ -102796,9 +104309,13 @@
 "LatLong": "50.5639,26.9995"
 }
 ]
+}
+]
 },
 {
 "Name": "Kostopilskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Костопіль",
@@ -103116,9 +104633,13 @@
 "LatLong": "51.07,26.3342"
 }
 ]
+}
+]
 },
 {
 "Name": "Mlynivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Млинів",
@@ -103591,9 +105112,13 @@
 "LatLong": "50.6899,25.621"
 }
 ]
+}
+]
 },
 {
 "Name": "Demydivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Демидівка",
@@ -103756,9 +105281,13 @@
 "LatLong": "50.4377,25.2026"
 }
 ]
+}
+]
 },
 {
 "Name": "Rivnenskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Шпанів",
@@ -104256,9 +105785,13 @@
 "LatLong": "50.7415,26.1695"
 }
 ]
+}
+]
 },
 {
 "Name": "Hoshchanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Гоща",
@@ -104576,9 +106109,13 @@
 "LatLong": "50.5891,26.6167"
 }
 ]
+}
+]
 },
 {
 "Name": "Radyvylivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Радивилів",
@@ -104951,9 +106488,13 @@
 "LatLong": "50.3269,25.249"
 }
 ]
+}
+]
 },
 {
 "Name": "Dubenskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Дубно",
@@ -105496,9 +107037,13 @@
 "LatLong": "50.1882,27.795"
 }
 ]
+}
+]
 },
 {
 "Name": "Zdolbunivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Здолбунів",
@@ -105786,9 +107331,13 @@
 "LatLong": "50.3432,26.1083"
 }
 ]
+}
+]
 },
 {
 "Name": "Ostrozkyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Острог",
@@ -106083,6 +107632,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Sumska",
@@ -106090,6 +107641,8 @@
 "Provinces": [
 {
 "Name": "Sumska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Суми",
@@ -106182,9 +107735,13 @@
 "LatLong": "50.9216,34.8003"
 }
 ]
+}
+]
 },
 {
 "Name": "Sumy",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Хомине",
@@ -106237,9 +107794,13 @@
 "LatLong": "50.9861,34.8102"
 }
 ]
+}
+]
 },
 {
 "Name": "Seredyno-Budskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Рудак (С-Буда)",
@@ -106557,9 +108118,13 @@
 "LatLong": "52.1279,34.0705"
 }
 ]
+}
+]
 },
 {
 "Name": "Shostkynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Шостка",
@@ -106787,9 +108352,13 @@
 "LatLong": "51.7684,33.2988"
 }
 ]
+}
+]
 },
 {
 "Name": "Yampilskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Неплюєве (Ямпільська)",
@@ -107097,9 +108666,13 @@
 "LatLong": "51.8722,34.0826"
 }
 ]
+}
+]
 },
 {
 "Name": "Krolevetskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кролевець",
@@ -107487,9 +109060,13 @@
 "LatLong": "51.3822,33.249"
 }
 ]
+}
+]
 },
 {
 "Name": "Hlukhivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Годунівка",
@@ -107892,9 +109469,13 @@
 "LatLong": "51.5363,34.1744"
 }
 ]
+}
+]
 },
 {
 "Name": "Putyvlskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Путивль",
@@ -108362,9 +109943,13 @@
 "LatLong": "51.2518,34.1586"
 }
 ]
+}
+]
 },
 {
 "Name": "Konotopskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Конотоп",
@@ -108842,9 +110427,13 @@
 "LatLong": "50.823,33.4078"
 }
 ]
+}
+]
 },
 {
 "Name": "Burynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Буринь",
@@ -109152,9 +110741,13 @@
 "LatLong": "51.003,33.7635"
 }
 ]
+}
+]
 },
 {
 "Name": "Bilopilskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Перемога",
@@ -109797,9 +111390,13 @@
 "LatLong": "50.8669,34.4481"
 }
 ]
+}
+]
 },
 {
 "Name": "Romenskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Левондівка",
@@ -110492,9 +112089,13 @@
 "LatLong": "50.5702,33.3165"
 }
 ]
+}
+]
 },
 {
 "Name": "Nedryhailivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Вакулки",
@@ -110972,9 +112573,13 @@
 "LatLong": "50.7539,34.1369"
 }
 ]
+}
+]
 },
 {
 "Name": "Lebedynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Лебедин",
@@ -111657,9 +113262,13 @@
 "LatLong": "50.4912,34.5045"
 }
 ]
+}
+]
 },
 {
 "Name": "Sumskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Северинівка",
@@ -112282,9 +113891,13 @@
 "LatLong": "50.7746,34.8292"
 }
 ]
+}
+]
 },
 {
 "Name": "Krasnopilskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Земляне",
@@ -112577,9 +114190,13 @@
 "LatLong": "50.562,35.373"
 }
 ]
+}
+]
 },
 {
 "Name": "Lypovodolynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Червона Долина",
@@ -112932,9 +114549,13 @@
 "LatLong": "50.4821,33.7966"
 }
 ]
+}
+]
 },
 {
 "Name": "Trostianetskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Тростянець",
@@ -113192,9 +114813,13 @@
 "LatLong": "50.4613,35.1826"
 }
 ]
+}
+]
 },
 {
 "Name": "Okhtyrskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Велике Озеро",
@@ -113702,9 +115327,13 @@
 "LatLong": "50.189,35.0484"
 }
 ]
+}
+]
 },
 {
 "Name": "Velykopysarivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Велика Писарівка",
@@ -113919,6 +115548,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ternopilska",
@@ -113926,6 +115557,8 @@
 "Provinces": [
 {
 "Name": "Ternopilska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Тернопіль",
@@ -114043,9 +115676,13 @@
 "LatLong": "49.5559,25.6056"
 }
 ]
+}
+]
 },
 {
 "Name": "Kremenetskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Зеблози (Чугалівська сільська рада)",
@@ -114403,9 +116040,13 @@
 "LatLong": "48.8512,25.5629"
 }
 ]
+}
+]
 },
 {
 "Name": "Shumskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Шумськ (Шумська селищна рада)",
@@ -114713,9 +116354,13 @@
 "LatLong": "48.8512,25.5629"
 }
 ]
+}
+]
 },
 {
 "Name": "Zborivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Футори (Зборівська міська рада)",
@@ -115178,9 +116823,13 @@
 "LatLong": "49.2504,25.1432"
 }
 ]
+}
+]
 },
 {
 "Name": "Zbarazkyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ліски (Залужанська сільська рада)",
@@ -115568,9 +117217,13 @@
 "LatLong": "49.2504,25.1432"
 }
 ]
+}
+]
 },
 {
 "Name": "Lanovetskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ланівці (Лановецька селищна рада)",
@@ -115843,9 +117496,13 @@
 "LatLong": "49.2504,25.1432"
 }
 ]
+}
+]
 },
 {
 "Name": "Berezhanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Бережани",
@@ -116138,9 +117795,13 @@
 "LatLong": "49.45,24.9333"
 }
 ]
+}
+]
 },
 {
 "Name": "Kozivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Козова (Козівська селищна рада)",
@@ -116423,9 +118084,13 @@
 "LatLong": "49.2504,25.1432"
 }
 ]
+}
+]
 },
 {
 "Name": "Ternopilskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ігровиця (Ігровицька сільська рада)",
@@ -116723,9 +118388,13 @@
 "LatLong": "49.2504,25.1432"
 }
 ]
+}
+]
 },
 {
 "Name": "Pidvolochyskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Гущанки (Терпилівська сільська рада)",
@@ -117038,9 +118707,13 @@
 "LatLong": "49.2504,25.1432"
 }
 ]
+}
+]
 },
 {
 "Name": "Pidhaietskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Підгайці (Підгаєцька міська рада)",
@@ -117228,9 +118901,13 @@
 "LatLong": "49.6419,26.8203"
 }
 ]
+}
+]
 },
 {
 "Name": "Terebovlianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Теребовля (Теребовлянська міська рада)",
@@ -117623,9 +119300,13 @@
 "LatLong": "49.6419,26.8203"
 }
 ]
+}
+]
 },
 {
 "Name": "Husiatynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Боднарівка (Суходільська сільська рада)",
@@ -117958,9 +119639,13 @@
 "LatLong": "49.6419,26.8203"
 }
 ]
+}
+]
 },
 {
 "Name": "Monastyryskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Рідколісся (Горішньослобідська сільська рада)",
@@ -118203,9 +119888,13 @@
 "LatLong": "49.6419,26.8203"
 }
 ]
+}
+]
 },
 {
 "Name": "Buchatskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Бучач",
@@ -118513,9 +120202,13 @@
 "LatLong": "49.0625,25.388"
 }
 ]
+}
+]
 },
 {
 "Name": "Chortkivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Переходи (Горішньовигнанська сільська рада)",
@@ -118808,9 +120501,13 @@
 "LatLong": "49.6419,26.8203"
 }
 ]
+}
+]
 },
 {
 "Name": "Zalishchytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Заліщики (Заліщицька міська рада)",
@@ -119088,9 +120785,13 @@
 "LatLong": "51.3798,31.1172"
 }
 ]
+}
+]
 },
 {
 "Name": "Borshchivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Борщів (Борщівська міська рада)",
@@ -119465,6 +121166,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Vinnytska",
@@ -119472,6 +121175,8 @@
 "Provinces": [
 {
 "Name": "Vinnytska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Вінниця",
@@ -119624,9 +121329,13 @@
 "LatLong": "49.2328,28.481"
 }
 ]
+}
+]
 },
 {
 "Name": "Khmilnyk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Хмільник",
@@ -119639,9 +121348,13 @@
 "LatLong": "49.5708,27.8966"
 }
 ]
+}
+]
 },
 {
 "Name": "Khmilnytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Лелітка",
@@ -120044,9 +121757,13 @@
 "LatLong": "49.7301,27.8437"
 }
 ]
+}
+]
 },
 {
 "Name": "Kosiatin",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Козятин",
@@ -120059,9 +121776,13 @@
 "LatLong": "49.7143,28.8338"
 }
 ]
+}
+]
 },
 {
 "Name": "Koziatynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Козятин (Козятинська сільська Рада)",
@@ -120429,9 +122150,13 @@
 "LatLong": "49.7139,28.5288"
 }
 ]
+}
+]
 },
 {
 "Name": "Pohrebyshchenskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Погребище",
@@ -120734,9 +122459,13 @@
 "LatLong": "49.5279,29.1862"
 }
 ]
+}
+]
 },
 {
 "Name": "Litynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Літин",
@@ -121049,9 +122778,13 @@
 "LatLong": "49.3302,28.726"
 }
 ]
+}
+]
 },
 {
 "Name": "Kalynivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Калинівка",
@@ -121349,9 +123082,13 @@
 "LatLong": "49.9675,28.4986"
 }
 ]
+}
+]
 },
 {
 "Name": "Lypovetskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Липовець",
@@ -121649,9 +123386,13 @@
 "LatLong": "49.3039,28.839"
 }
 ]
+}
+]
 },
 {
 "Name": "Orativskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Оратів",
@@ -121924,9 +123665,13 @@
 "LatLong": "49.2823,28.6815"
 }
 ]
+}
+]
 },
 {
 "Name": "Illinetskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Іллінці",
@@ -122204,9 +123949,13 @@
 "LatLong": "49.2574,29.3875"
 }
 ]
+}
+]
 },
 {
 "Name": "Nemyrivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Немирів",
@@ -122684,9 +124433,13 @@
 "LatLong": "48.772,28.9712"
 }
 ]
+}
+]
 },
 {
 "Name": "Barskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Бар",
@@ -123164,9 +124917,13 @@
 "LatLong": "51.4023,32.4704"
 }
 ]
+}
+]
 },
 {
 "Name": "Zhmerynka",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Жмеринка",
@@ -123184,9 +124941,13 @@
 "LatLong": "49.0371,28.112"
 }
 ]
+}
+]
 },
 {
 "Name": "Zhmerynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Леляки",
@@ -123534,9 +125295,13 @@
 "LatLong": "49.6959,37.1735"
 }
 ]
+}
+]
 },
 {
 "Name": "Vinnytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Гавришівка",
@@ -123819,9 +125584,13 @@
 "LatLong": "49.2523,30.8295"
 }
 ]
+}
+]
 },
 {
 "Name": "Tyvrivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Тиврів",
@@ -124104,9 +125873,13 @@
 "LatLong": "48.8365,28.3319"
 }
 ]
+}
+]
 },
 {
 "Name": "Murovanokurylovetskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Муровані Курилівці",
@@ -124409,9 +126182,13 @@
 "LatLong": "48.8719,25.7266"
 }
 ]
+}
+]
 },
 {
 "Name": "Sharhorodskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Шаргород",
@@ -124724,9 +126501,13 @@
 "LatLong": "48.7282,28.1721"
 }
 ]
+}
+]
 },
 {
 "Name": "Tulchynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Тульчин",
@@ -124984,9 +126765,13 @@
 "LatLong": "48.9878,28.4445"
 }
 ]
+}
+]
 },
 {
 "Name": "Haisynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Гайсин",
@@ -125309,9 +127094,13 @@
 "LatLong": "49.1977,24.8892"
 }
 ]
+}
+]
 },
 {
 "Name": "Teplytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Теплик",
@@ -125549,9 +127338,13 @@
 "LatLong": "48.6056,31.1591"
 }
 ]
+}
+]
 },
 {
 "Name": "Mohyliv-Podilskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Могилів-Подільський",
@@ -125849,9 +127642,13 @@
 "LatLong": "48.4895,28.6242"
 }
 ]
+}
+]
 },
 {
 "Name": "Chernivetskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Чернівці",
@@ -126049,9 +127846,13 @@
 "LatLong": "48.4929,28.0987"
 }
 ]
+}
+]
 },
 {
 "Name": "Tomashpilskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Томашпіль",
@@ -126229,9 +128030,13 @@
 "LatLong": "48.5109,28.4879"
 }
 ]
+}
+]
 },
 {
 "Name": "Trostianetskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Тростянець",
@@ -126434,9 +128239,13 @@
 "LatLong": "48.3246,29.1475"
 }
 ]
+}
+]
 },
 {
 "Name": "Ladyzhyn",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ладижин",
@@ -126449,9 +128258,13 @@
 "LatLong": "48.685,29.2368"
 }
 ]
+}
+]
 },
 {
 "Name": "Bershadskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Бершадь",
@@ -126684,9 +128497,13 @@
 "LatLong": "48.8136,29.0761"
 }
 ]
+}
+]
 },
 {
 "Name": "Yampilskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ямпіль",
@@ -126884,9 +128701,13 @@
 "LatLong": "48.2141,28.3769"
 }
 ]
+}
+]
 },
 {
 "Name": "Kryzhopilskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Крижопіль",
@@ -127119,9 +128940,13 @@
 "LatLong": "48.35,28.5545"
 }
 ]
+}
+]
 },
 {
 "Name": "Pishchanskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Піщанка",
@@ -127269,9 +129094,13 @@
 "LatLong": "48.6178,29.3956"
 }
 ]
+}
+]
 },
 {
 "Name": "Chechelnytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Чечельник",
@@ -127386,6 +129215,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Volynska",
@@ -127393,6 +129224,8 @@
 "Provinces": [
 {
 "Name": "Volynska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Луцьк",
@@ -127475,9 +129308,13 @@
 "LatLong": "50.7593,25.3424"
 }
 ]
+}
+]
 },
 {
 "Name": "Shatskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Шацьк",
@@ -127635,9 +129472,13 @@
 "LatLong": "51.6399,23.73"
 }
 ]
+}
+]
 },
 {
 "Name": "Ratnivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ратне",
@@ -127985,9 +129826,13 @@
 "LatLong": "51.6242,24.6709"
 }
 ]
+}
+]
 },
 {
 "Name": "Lyubeshivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Любешів",
@@ -128225,9 +130070,13 @@
 "LatLong": "51.7909,25.5959"
 }
 ]
+}
+]
 },
 {
 "Name": "Lyubomlskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Любомль",
@@ -128580,9 +130429,13 @@
 "LatLong": "51.3893,24.051"
 }
 ]
+}
+]
 },
 {
 "Name": "Starovyzhivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Стара Вижівка",
@@ -128820,9 +130673,13 @@
 "LatLong": "51.4787,24.5447"
 }
 ]
+}
+]
 },
 {
 "Name": "Kamin-Kashyrskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Камінь-Каширський",
@@ -129150,9 +131007,13 @@
 "LatLong": "51.6623,25.1754"
 }
 ]
+}
+]
 },
 {
 "Name": "Manevytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Маневичі",
@@ -129515,9 +131376,13 @@
 "LatLong": "51.2506,25.7306"
 }
 ]
+}
+]
 },
 {
 "Name": "Volodymyr-Volynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Володимир-Волинський",
@@ -129925,9 +131790,13 @@
 "LatLong": "50.8211,24.5156"
 }
 ]
+}
+]
 },
 {
 "Name": "Turiiskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Турійськ",
@@ -130310,9 +132179,13 @@
 "LatLong": "50.9863,24.3856"
 }
 ]
+}
+]
 },
 {
 "Name": "Kovelskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ковель",
@@ -130820,9 +132693,13 @@
 "LatLong": "51.0395,24.9258"
 }
 ]
+}
+]
 },
 {
 "Name": "Rozhyshchenskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Рожище",
@@ -131165,9 +133042,13 @@
 "LatLong": "50.8914,25.1826"
 }
 ]
+}
+]
 },
 {
 "Name": "Kivertsivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ківерці",
@@ -131545,9 +133426,13 @@
 "LatLong": "50.8051,25.7767"
 }
 ]
+}
+]
 },
 {
 "Name": "Ivanychivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Іваничі",
@@ -131845,9 +133730,13 @@
 "LatLong": "50.6719,24.4199"
 }
 ]
+}
+]
 },
 {
 "Name": "Novovolynsk",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Нововолинськ",
@@ -131895,9 +133784,13 @@
 "LatLong": "47.8793,38.4849"
 }
 ]
+}
+]
 },
 {
 "Name": "Lokachynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Локачі",
@@ -132170,9 +134063,13 @@
 "LatLong": "50.6962,24.5293"
 }
 ]
+}
+]
 },
 {
 "Name": "Lutskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Липини",
@@ -132605,9 +134502,13 @@
 "LatLong": "50.7994,25.2094"
 }
 ]
+}
+]
 },
 {
 "Name": "Horokhivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Горохів",
@@ -133082,6 +134983,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Zakarpatska",
@@ -133089,6 +134992,8 @@
 "Provinces": [
 {
 "Name": "Zakarpatska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ужгород",
@@ -133171,9 +135076,13 @@
 "LatLong": "48.6167,22.3"
 }
 ]
+}
+]
 },
 {
 "Name": "Velykobereznianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Забрідь (В.Березний)",
@@ -133336,9 +135245,13 @@
 "LatLong": "48.8498,22.6033"
 }
 ]
+}
+]
 },
 {
 "Name": "Volovetskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Воловець (Воловець)",
@@ -133471,9 +135384,13 @@
 "LatLong": "48.7109,23.1851"
 }
 ]
+}
+]
 },
 {
 "Name": "Perechynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ворочово (Ворочово)",
@@ -133601,9 +135518,13 @@
 "LatLong": "48.701,22.8046"
 }
 ]
+}
+]
 },
 {
 "Name": "Svaliavskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ганьковиця (Ганьковицька сільська рада)",
@@ -133756,9 +135677,13 @@
 "LatLong": "48.7405,22.6757"
 }
 ]
+}
+]
 },
 {
 "Name": "Uzhhorodskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Невицьке (Невицька сільська рада)",
@@ -134086,9 +136011,13 @@
 "LatLong": "48.432,22.2055"
 }
 ]
+}
+]
 },
 {
 "Name": "Chop",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Чоп",
@@ -134096,9 +136025,13 @@
 "LatLong": "48.432,22.2055"
 }
 ]
+}
+]
 },
 {
 "Name": "Mukachivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Мукачеве",
@@ -134571,9 +136504,13 @@
 "LatLong": "48.4392,22.7178"
 }
 ]
+}
+]
 },
 {
 "Name": "Mizhhirskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Міжгір'я (Міжгірська селищна рада)",
@@ -134801,9 +136738,13 @@
 "LatLong": "48.1924,22.9716"
 }
 ]
+}
+]
 },
 {
 "Name": "Irshavskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Іршава (Іршавська міська рада)",
@@ -135041,9 +136982,13 @@
 "LatLong": "48.1924,22.9716"
 }
 ]
+}
+]
 },
 {
 "Name": "Berehivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Берегове",
@@ -135276,9 +137221,13 @@
 "LatLong": "48.2056,22.6442"
 }
 ]
+}
+]
 },
 {
 "Name": "Vynohradivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Виноградів (Виноградівська міська рада)",
@@ -135531,9 +137480,13 @@
 "LatLong": "48.1924,22.9716"
 }
 ]
+}
+]
 },
 {
 "Name": "Khustskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Хуст",
@@ -135846,9 +137799,13 @@
 "LatLong": "48.1793,23.2991"
 }
 ]
+}
+]
 },
 {
 "Name": "Tyachivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Тячів (Тячівська міська рада)",
@@ -136156,9 +138113,13 @@
 "LatLong": "48.1924,22.9716"
 }
 ]
+}
+]
 },
 {
 "Name": "Rakhivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Рахів (Рахівська міська рада)",
@@ -136328,6 +138289,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Zaporizka",
@@ -136335,6 +138298,8 @@
 "Provinces": [
 {
 "Name": "Zaporizka",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Запоріжжя",
@@ -136622,9 +138587,13 @@
 "LatLong": "46.9599,35.0432"
 }
 ]
+}
+]
 },
 {
 "Name": "Vilnianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Вільнянськ",
@@ -137177,9 +139146,13 @@
 "LatLong": "48.1063,35.1378"
 }
 ]
+}
+]
 },
 {
 "Name": "Novomykolaivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Новомиколаївка",
@@ -137532,9 +139505,13 @@
 "LatLong": "47.9858,36.0147"
 }
 ]
+}
+]
 },
 {
 "Name": "Huliaipilskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Гуляйполе",
@@ -137842,9 +139819,13 @@
 "LatLong": "47.7285,36.3258"
 }
 ]
+}
+]
 },
 {
 "Name": "Rozivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Розівка",
@@ -137992,9 +139973,13 @@
 "LatLong": "47.3566,37.0588"
 }
 ]
+}
+]
 },
 {
 "Name": "Zaporizkyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Миколай-Поле",
@@ -138352,9 +140337,13 @@
 "LatLong": "48.0403,34.8601"
 }
 ]
+}
+]
 },
 {
 "Name": "Orikhivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Оріхів",
@@ -138682,9 +140671,13 @@
 "LatLong": "47.6868,35.9358"
 }
 ]
+}
+]
 },
 {
 "Name": "Polohivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Пологи",
@@ -138927,9 +140920,13 @@
 "LatLong": "47.5741,36.4702"
 }
 ]
+}
+]
 },
 {
 "Name": "Kuibyshevskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Більмак",
@@ -139132,9 +141129,13 @@
 "LatLong": "47.2908,36.898"
 }
 ]
+}
+]
 },
 {
 "Name": "Berdianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Бердянськ",
@@ -139407,9 +141408,13 @@
 "LatLong": "46.9013,36.7714"
 }
 ]
+}
+]
 },
 {
 "Name": "Chernihivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Чернігівка",
@@ -139622,9 +141627,13 @@
 "LatLong": "47.1376,36.2106"
 }
 ]
+}
+]
 },
 {
 "Name": "Kamiansko-Dniprovskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Кам'янка-Дніпровська",
@@ -139752,9 +141761,13 @@
 "LatLong": "46.6989,34.7975"
 }
 ]
+}
+]
 },
 {
 "Name": "Velykobilozerskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Велика Білозерка",
@@ -139797,9 +141810,13 @@
 "LatLong": "47.2861,34.5465"
 }
 ]
+}
+]
 },
 {
 "Name": "Enerhodar",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Енергодар",
@@ -139827,9 +141844,13 @@
 "LatLong": "47.4986,34.6574"
 }
 ]
+}
+]
 },
 {
 "Name": "Vasylivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Василівка",
@@ -140062,9 +142083,13 @@
 "LatLong": "47.2718,34.9819"
 }
 ]
+}
+]
 },
 {
 "Name": "Tokmatskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Токмак",
@@ -140392,9 +142417,13 @@
 "LatLong": "47.3755,37.0334"
 }
 ]
+}
+]
 },
 {
 "Name": "Mykhailivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Михайлівка",
@@ -140647,9 +142676,13 @@
 "LatLong": "47.31,35.3559"
 }
 ]
+}
+]
 },
 {
 "Name": "Prymorskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Приморськ",
@@ -140817,9 +142850,13 @@
 "LatLong": "46.9203,36.4096"
 }
 ]
+}
+]
 },
 {
 "Name": "Veselivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Веселе",
@@ -140977,9 +143014,13 @@
 "LatLong": "47.0628,34.8319"
 }
 ]
+}
+]
 },
 {
 "Name": "Melitopolskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Мелітополь",
@@ -141412,9 +143453,13 @@
 "LatLong": "46.8988,35.3489"
 }
 ]
+}
+]
 },
 {
 "Name": "Pryazovskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Приазовське",
@@ -141677,9 +143722,13 @@
 "LatLong": "46.7413,35.6626"
 }
 ]
+}
+]
 },
 {
 "Name": "Yakymivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Якимівка",
@@ -141919,6 +143968,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Zhytomyrska",
@@ -141926,6 +143977,8 @@
 "Provinces": [
 {
 "Name": "Zhytomyrska",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Житомир",
@@ -142043,9 +144096,13 @@
 "LatLong": "50.2649,28.6767"
 }
 ]
+}
+]
 },
 {
 "Name": "Korostenskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Красносілка",
@@ -142653,9 +144710,13 @@
 "LatLong": "50.8299,28.6697"
 }
 ]
+}
+]
 },
 {
 "Name": "Malynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Стасіва",
@@ -143198,9 +145259,13 @@
 "LatLong": "50.7048,29.3482"
 }
 ]
+}
+]
 },
 {
 "Name": "Narodytskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Батьківщина",
@@ -143493,9 +145558,13 @@
 "LatLong": "51.1613,28.9268"
 }
 ]
+}
+]
 },
 {
 "Name": "Ovrutskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Гладковицька Кам'янка",
@@ -144208,9 +146277,13 @@
 "LatLong": "51.3654,28.4924"
 }
 ]
+}
+]
 },
 {
 "Name": "Novohrad-Volynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Абрамок",
@@ -144803,9 +146876,13 @@
 "LatLong": "50.5997,27.6213"
 }
 ]
+}
+]
 },
 {
 "Name": "Yemilchynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Рогівка",
@@ -145398,9 +147475,13 @@
 "LatLong": "50.6101,28.026"
 }
 ]
+}
+]
 },
 {
 "Name": "Olevskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Олевськ",
@@ -145713,9 +147794,13 @@
 "LatLong": "51.0881,27.5804"
 }
 ]
+}
+]
 },
 {
 "Name": "Luhynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Вербівка",
@@ -145963,9 +148048,13 @@
 "LatLong": "51.0039,28.4196"
 }
 ]
+}
+]
 },
 {
 "Name": "Baranivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Зелений Гай",
@@ -146288,9 +148377,13 @@
 "LatLong": "50.4435,27.295"
 }
 ]
+}
+]
 },
 {
 "Name": "Pulynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Пулини",
@@ -146628,9 +148721,13 @@
 "LatLong": "50.4328,28.2516"
 }
 ]
+}
+]
 },
 {
 "Name": "Horoshivskiy",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Хорошів",
@@ -147033,9 +149130,13 @@
 "LatLong": "50.687,28.3275"
 }
 ]
+}
+]
 },
 {
 "Name": "Radomyshlskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Радомишль",
@@ -147453,9 +149554,13 @@
 "LatLong": "50.7095,29.4376"
 }
 ]
+}
+]
 },
 {
 "Name": "Cherniakhivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Черняхів",
@@ -147738,9 +149843,13 @@
 "LatLong": "50.4834,28.6888"
 }
 ]
+}
+]
 },
 {
 "Name": "Zhytomyrskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Вереси",
@@ -148203,9 +150312,13 @@
 "LatLong": "50.2808,28.4263"
 }
 ]
+}
+]
 },
 {
 "Name": "Korostyshivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Коростишів",
@@ -148548,9 +150661,13 @@
 "LatLong": "50.4334,28.9586"
 }
 ]
+}
+]
 },
 {
 "Name": "Brusylivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Брусилів",
@@ -148738,9 +150855,13 @@
 "LatLong": "50.1824,29.3009"
 }
 ]
+}
+]
 },
 {
 "Name": "Romanivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Романів",
@@ -149058,9 +151179,13 @@
 "LatLong": "50.2167,27.6667"
 }
 ]
+}
+]
 },
 {
 "Name": "Lyubarskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Любар",
@@ -149303,9 +151428,13 @@
 "LatLong": "49.7783,27.7323"
 }
 ]
+}
+]
 },
 {
 "Name": "Chudnivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Короченки (0,001464)",
@@ -149608,9 +151737,13 @@
 "LatLong": "49.7947,27.9237"
 }
 ]
+}
+]
 },
 {
 "Name": "Berdychivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Бердичів",
@@ -149968,9 +152101,13 @@
 "LatLong": "49.9584,28.6511"
 }
 ]
+}
+]
 },
 {
 "Name": "Andrushivskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Андрушівка",
@@ -150183,9 +152320,13 @@
 "LatLong": "49.8672,28.9283"
 }
 ]
+}
+]
 },
 {
 "Name": "Popilnianskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Попільня (Попільнянська сільська  Рада)",
@@ -150433,9 +152574,13 @@
 "LatLong": "50.1268,29.4913"
 }
 ]
+}
+]
 },
 {
 "Name": "Ruzhynskyi",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ружин",
@@ -150686,6 +152831,8 @@
 "Name": "Котелянка",
 "PostCode": "13657",
 "LatLong": "49.6651,29.0552"
+}
+]
 }
 ]
 }

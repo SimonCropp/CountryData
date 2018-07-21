@@ -1,8 +1,12 @@
 {
-"Structure": "Province/Place",
+"States": [
+{
 "Provinces": [
 {
 "Name": "Anuradhapura",
+"Code": "AD",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Anuradhapura",
@@ -645,9 +649,14 @@
 "LatLong": "8.4941,80.4801"
 }
 ]
+}
+]
 },
 {
 "Name": "Ampara",
+"Code": "APR",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ampara",
@@ -955,9 +964,14 @@
 "LatLong": "6.914,81.6639"
 }
 ]
+}
+]
 },
 {
 "Name": "Batticaloa",
+"Code": "BC",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Batticaloa",
@@ -1190,9 +1204,14 @@
 "LatLong": "8.2167,81.4"
 }
 ]
+}
+]
 },
 {
 "Name": "Badulla",
+"Code": "BD",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Badulla",
@@ -1855,9 +1874,14 @@
 "LatLong": "6.7819,80.8931"
 }
 ]
+}
+]
 },
 {
 "Name": "Colombo",
+"Code": "CO",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fort",
@@ -2155,9 +2179,14 @@
 "LatLong": "6.9459,80.1114"
 }
 ]
+}
+]
 },
 {
 "Name": "Galle",
+"Code": "GL",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Galle",
@@ -2625,9 +2654,14 @@
 "LatLong": "6.0116,80.3729"
 }
 ]
+}
+]
 },
 {
 "Name": "Gampaha",
+"Code": "GQ",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pugoda",
@@ -3260,9 +3294,14 @@
 "LatLong": "7.207,80.1769"
 }
 ]
+}
+]
 },
 {
 "Name": "Hambantota",
+"Code": "HB",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hambantota",
@@ -3585,9 +3624,14 @@
 "LatLong": "6.3391,81.1337"
 }
 ]
+}
+]
 },
 {
 "Name": "Jaffna",
+"Code": "JA",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jaffna",
@@ -3595,9 +3639,14 @@
 "LatLong": "9.6684,80.0074"
 }
 ]
+}
+]
 },
 {
 "Name": "Kegalle",
+"Code": "KE",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kegalle",
@@ -4105,9 +4154,14 @@
 "LatLong": "7.0079,80.3798"
 }
 ]
+}
+]
 },
 {
 "Name": "Kurunegala",
+"Code": "KG",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kurunegala",
@@ -5115,9 +5169,14 @@
 "LatLong": "7.9935,80.381"
 }
 ]
+}
+]
 },
 {
 "Name": "Kalutara",
+"Code": "KT",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kalutara",
@@ -5525,9 +5584,14 @@
 "LatLong": "6.6355,79.9472"
 }
 ]
+}
+]
 },
 {
 "Name": "Kandy",
+"Code": "KY",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kandy",
@@ -6350,9 +6414,14 @@
 "LatLong": "7.3076,80.887"
 }
 ]
+}
+]
 },
 {
 "Name": "Mannar",
+"Code": "MB",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mannar",
@@ -6360,9 +6429,14 @@
 "LatLong": "8.9833,79.9"
 }
 ]
+}
+]
 },
 {
 "Name": "Matara",
+"Code": "MH",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Matara",
@@ -6755,9 +6829,14 @@
 "LatLong": "5.9486,80.5006"
 }
 ]
+}
+]
 },
 {
 "Name": "Moneragala",
+"Code": "MJ",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sewanagala",
@@ -7050,9 +7129,14 @@
 "LatLong": "6.9979,81.2821"
 }
 ]
+}
+]
 },
 {
 "Name": "Mullaitivu",
+"Code": "MP",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mullativu",
@@ -7060,9 +7144,14 @@
 "LatLong": "9.1762,80.5686"
 }
 ]
+}
+]
 },
 {
 "Name": "Matale",
+"Code": "MT",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Matale",
@@ -7420,9 +7509,14 @@
 "LatLong": "7.5833,80.9667"
 }
 ]
+}
+]
 },
 {
 "Name": "Nuwara Eliya",
+"Code": "NW",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kotmale",
@@ -7775,9 +7869,14 @@
 "LatLong": "7.1181,80.9179"
 }
 ]
+}
+]
 },
 {
 "Name": "Polonnaruwa",
+"Code": "PR",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Polonnaruwa",
@@ -8090,9 +8189,14 @@
 "LatLong": "7.9,80.4833"
 }
 ]
+}
+]
 },
 {
 "Name": "Puttalam",
+"Code": "PX",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chilaw",
@@ -8500,9 +8604,14 @@
 "LatLong": "7.9524,79.928"
 }
 ]
+}
+]
 },
 {
 "Name": "Ratnapura",
+"Code": "RN",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ratnapura",
@@ -9095,9 +9204,14 @@
 "LatLong": "6.9052,80.2193"
 }
 ]
+}
+]
 },
 {
 "Name": "Trincomalee",
+"Code": "TC",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Trincomalee",
@@ -9295,14 +9409,23 @@
 "LatLong": "8.3466,81.0037"
 }
 ]
+}
+]
 },
 {
 "Name": "Vavuniya",
+"Code": "VA",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vavuniya",
 "PostCode": "43000",
 "LatLong": "8.7514,80.4971"
+}
+]
+}
+]
 }
 ]
 }

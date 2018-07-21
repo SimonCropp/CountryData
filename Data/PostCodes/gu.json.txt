@@ -1,5 +1,4 @@
 {
-"Structure": "State/Province/Place",
 "States": [
 {
 "Name": "Gu",
@@ -8,6 +7,8 @@
 {
 "Name": "Guam",
 "Code": "010",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hagatna",
@@ -113,6 +114,8 @@
 "Name": "Hagatna",
 "PostCode": "96932",
 "LatLong": "13.4746,144.7464"
+}
+]
 }
 ]
 }

@@ -1,9 +1,12 @@
 {
-"Structure": "State/Place",
 "States": [
 {
 "Name": "Artigas",
 "Code": "01",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Limite Contestado",
@@ -301,10 +304,18 @@
 "LatLong": "-30.3774,-57.6178"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Canelones",
 "Code": "02",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Shangrila",
@@ -1762,10 +1773,18 @@
 "LatLong": "-34.2081,-55.732"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Cerro Largo",
 "Code": "03",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arevalo",
@@ -2393,10 +2412,18 @@
 "LatLong": "-33.0983,-56.0159"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Colonia",
 "Code": "04",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Artilleros",
@@ -3129,10 +3156,18 @@
 "LatLong": "-33.7334,-57.4003"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Durazno",
 "Code": "05",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Molles Chico",
@@ -3550,10 +3585,18 @@
 "LatLong": "-33.4201,-55.4206"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Flores",
 "Code": "06",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ismael Cortinas",
@@ -3761,10 +3804,18 @@
 "LatLong": "-33.0983,-56.0159"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Florida",
 "Code": "07",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nico Perez",
@@ -4322,10 +4373,18 @@
 "LatLong": "-33.4201,-55.4206"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Lavalleja",
 "Code": "08",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puente De Marmaraja",
@@ -4808,10 +4867,18 @@
 "LatLong": "-34.0999,-55.6481"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Maldonado",
 "Code": "09",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sarandi Del Mataojo",
@@ -5329,10 +5396,18 @@
 "LatLong": "-34.6297,-55.3748"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Montevideo",
 "Code": "10",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto",
@@ -5655,10 +5730,18 @@
 "LatLong": "-33.6142,-56.6893"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Paysandu",
 "Code": "11",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tambores",
@@ -6111,10 +6194,18 @@
 "LatLong": "-32.3964,-57.5709"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Rio Negro",
 "Code": "12",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sarandi De Navarro",
@@ -6432,10 +6523,18 @@
 "LatLong": "-33.0983,-56.0159"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Rivera",
 "Code": "13",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Teresa",
@@ -6993,10 +7092,18 @@
 "LatLong": "-31.9435,-55.7274"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Rocha",
 "Code": "14",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "19 De Abril",
@@ -7459,10 +7566,18 @@
 "LatLong": "-34.5479,-54.0786"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Salto",
 "Code": "15",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saucedo",
@@ -7865,10 +7980,18 @@
 "LatLong": "-30.8074,-57.7737"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "San Jose",
 "Code": "16",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Juncal",
@@ -8436,10 +8559,18 @@
 "LatLong": "-34.2746,-56.1122"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Soriano",
 "Code": "17",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Castillos",
@@ -8852,10 +8983,18 @@
 "LatLong": "-33.5202,-56.4169"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tacuarembo",
 "Code": "18",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Los Vazquez",
@@ -9488,10 +9627,18 @@
 "LatLong": "-32.37,-55.8567"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Treinta y Tres",
 "Code": "19",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Bellaco",
@@ -9932,6 +10079,10 @@
 "Name": "Arrocera Rincon",
 "PostCode": "37100",
 "LatLong": "-33.0201,-53.5753"
+}
+]
+}
+]
 }
 ]
 }

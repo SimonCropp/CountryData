@@ -1,9 +1,12 @@
 {
-"Structure": "State/Place",
 "States": [
 {
 "Name": "Circonscription d'Alo",
 "Code": "98611",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alo",
@@ -11,10 +14,18 @@
 "LatLong": "-14.3066,-178.1188"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Circonscription de Sigave",
 "Code": "98612",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sigave",
@@ -22,15 +33,27 @@
 "LatLong": "-14.2667,-178.1667"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Circonscription d'Uvéa",
 "Code": "98613",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Uvéa",
 "PostCode": "98600",
 "LatLong": "-13.2988,-176.2205"
+}
+]
+}
+]
 }
 ]
 }

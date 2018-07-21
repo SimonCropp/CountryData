@@ -1,9 +1,12 @@
 {
-"Structure": "State/Place",
 "States": [
 {
 "Name": "Rota",
 "Code": "100",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rota",
@@ -11,10 +14,18 @@
 "LatLong": "14.154,145.201"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Saipan",
 "Code": "110",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saipan",
@@ -22,15 +33,27 @@
 "LatLong": "15.1685,145.7408"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tinian",
 "Code": "120",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tinian",
 "PostCode": "96952",
 "LatLong": "15.029,145.616"
+}
+]
+}
+]
 }
 ]
 }

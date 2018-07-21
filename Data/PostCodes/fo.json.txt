@@ -1,5 +1,10 @@
 {
-"Structure": "Place",
+"States": [
+{
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tórshavn",
@@ -650,6 +655,12 @@
 "Name": "Sumba",
 "PostCode": "970",
 "LatLong": "61.4,-6.7"
+}
+]
+}
+]
+}
+]
 }
 ]
 }

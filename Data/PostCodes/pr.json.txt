@@ -1,9 +1,12 @@
 {
-"Structure": "State/Place",
 "States": [
 {
 "Name": "Adjuntas",
 "Code": "001",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Adjuntas",
@@ -11,10 +14,18 @@
 "LatLong": "18.1627,-66.7221"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Aguada",
 "Code": "003",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aguada",
@@ -22,10 +33,18 @@
 "LatLong": "18.3794,-67.1882"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Aguadilla",
 "Code": "005",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aguadilla",
@@ -48,10 +67,18 @@
 "LatLong": "18.4922,-67.0985"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Aguas Buenas",
 "Code": "007",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aguas Buenas",
@@ -59,10 +86,18 @@
 "LatLong": "18.2569,-66.1029"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Aibonito",
 "Code": "009",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aibonito",
@@ -75,10 +110,18 @@
 "LatLong": "18.1544,-66.2329"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Anasco",
 "Code": "011",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Anasco",
@@ -86,10 +129,18 @@
 "LatLong": "18.2827,-67.1396"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Arecibo",
 "Code": "013",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arecibo",
@@ -122,10 +173,18 @@
 "LatLong": "18.4338,-66.6138"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Arroyo",
 "Code": "015",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arroyo",
@@ -133,10 +192,18 @@
 "LatLong": "17.9658,-66.0613"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Barceloneta",
 "Code": "017",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Barceloneta",
@@ -144,10 +211,18 @@
 "LatLong": "18.4505,-66.5385"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Barranquitas",
 "Code": "019",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Barranquitas",
@@ -155,10 +230,18 @@
 "LatLong": "18.1866,-66.3063"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Bayamon",
 "Code": "021",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fort Buchanan",
@@ -196,10 +279,18 @@
 "LatLong": "18.3986,-66.1557"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Cabo Rojo",
 "Code": "023",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Boqueron",
@@ -212,10 +303,18 @@
 "LatLong": "18.0866,-67.1457"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Caguas",
 "Code": "025",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Caguas",
@@ -233,10 +332,18 @@
 "LatLong": "18.2341,-66.0485"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Camuy",
 "Code": "027",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Camuy",
@@ -244,10 +351,18 @@
 "LatLong": "18.4838,-66.8449"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Canovanas",
 "Code": "029",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Canovanas",
@@ -255,10 +370,18 @@
 "LatLong": "18.3751,-65.8993"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Carolina",
 "Code": "031",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Carolina",
@@ -291,10 +414,18 @@
 "LatLong": "18.3808,-65.9574"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Catano",
 "Code": "033",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Catano",
@@ -307,10 +438,18 @@
 "LatLong": "18.4413,-66.1182"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Cayey",
 "Code": "035",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cayey",
@@ -323,10 +462,18 @@
 "LatLong": "18.1119,-66.166"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ceiba",
 "Code": "037",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ceiba",
@@ -339,10 +486,18 @@
 "LatLong": "18.235,-65.6291"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ciales",
 "Code": "039",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ciales",
@@ -350,10 +505,18 @@
 "LatLong": "18.3361,-66.4688"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Cidra",
 "Code": "041",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cidra",
@@ -361,10 +524,18 @@
 "LatLong": "18.1758,-66.1613"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Coamo",
 "Code": "043",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Coamo",
@@ -372,10 +543,18 @@
 "LatLong": "18.08,-66.3579"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Comerio",
 "Code": "045",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Comerio",
@@ -383,10 +562,18 @@
 "LatLong": "18.218,-66.226"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Corozal",
 "Code": "047",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Corozal",
@@ -394,10 +581,18 @@
 "LatLong": "18.3411,-66.3168"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Culebra",
 "Code": "049",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Culebra",
@@ -405,10 +600,18 @@
 "LatLong": "18.303,-65.301"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Dorado",
 "Code": "051",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dorado",
@@ -416,10 +619,18 @@
 "LatLong": "18.4588,-66.2677"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Fajardo",
 "Code": "053",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fajardo",
@@ -432,10 +643,18 @@
 "LatLong": "18.25,-65.7493"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Florida",
 "Code": "054",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Florida",
@@ -443,10 +662,18 @@
 "LatLong": "18.3624,-66.5613"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Guanica",
 "Code": "055",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ensenada",
@@ -459,10 +686,18 @@
 "LatLong": "17.9716,-66.908"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Guayama",
 "Code": "057",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aguirre",
@@ -475,10 +710,18 @@
 "LatLong": "17.9841,-66.1138"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Guayanilla",
 "Code": "059",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guayanilla",
@@ -491,10 +734,18 @@
 "LatLong": "17.9841,-66.1138"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Guaynabo",
 "Code": "061",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guaynabo",
@@ -522,10 +773,18 @@
 "LatLong": "18.3575,-66.111"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Gurabo",
 "Code": "063",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gurabo",
@@ -533,10 +792,18 @@
 "LatLong": "18.2544,-65.9729"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Hatillo",
 "Code": "065",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hatillo",
@@ -544,10 +811,18 @@
 "LatLong": "18.4863,-66.8255"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Hormigueros",
 "Code": "067",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hormigueros",
@@ -555,10 +830,18 @@
 "LatLong": "18.1397,-67.1274"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Humacao",
 "Code": "069",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Punta Santiago",
@@ -576,10 +859,18 @@
 "LatLong": "18.1497,-65.8274"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Isabela",
 "Code": "071",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Isabela",
@@ -587,10 +878,18 @@
 "LatLong": "18.5008,-67.0243"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Jayuya",
 "Code": "073",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jayuya",
@@ -598,10 +897,18 @@
 "LatLong": "18.2186,-66.5916"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Juana Diaz",
 "Code": "075",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Juana Diaz",
@@ -609,10 +916,18 @@
 "LatLong": "18.0525,-66.5066"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Juncos",
 "Code": "077",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Juncos",
@@ -620,10 +935,18 @@
 "LatLong": "18.2275,-65.921"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Lajas",
 "Code": "079",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lajas",
@@ -631,10 +954,18 @@
 "LatLong": "18.05,-67.0593"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Lares",
 "Code": "081",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Castaner",
@@ -647,10 +978,18 @@
 "LatLong": "18.2947,-66.8771"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Las Marias",
 "Code": "083",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Las Marias",
@@ -658,10 +997,18 @@
 "LatLong": "18.2519,-66.9921"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Las Piedras",
 "Code": "085",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Las Piedras",
@@ -669,10 +1016,18 @@
 "LatLong": "18.183,-65.8663"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Loiza",
 "Code": "087",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Loiza",
@@ -680,10 +1035,18 @@
 "LatLong": "18.4313,-65.8802"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Luquillo",
 "Code": "089",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Luquillo",
@@ -691,10 +1054,18 @@
 "LatLong": "18.3725,-65.7166"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Manati",
 "Code": "091",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Manati",
@@ -702,10 +1073,18 @@
 "LatLong": "18.4274,-66.4921"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Maricao",
 "Code": "093",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Maricao",
@@ -713,10 +1092,18 @@
 "LatLong": "18.1808,-66.9799"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Maunabo",
 "Code": "095",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Maunabo",
@@ -724,10 +1111,18 @@
 "LatLong": "18.0072,-65.8993"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Mayaguez",
 "Code": "097",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mayaguez",
@@ -745,10 +1140,18 @@
 "LatLong": "18.2011,-67.1396"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Moca",
 "Code": "099",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Moca",
@@ -756,10 +1159,18 @@
 "LatLong": "18.3947,-67.1132"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Morovis",
 "Code": "101",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Morovis",
@@ -767,10 +1178,18 @@
 "LatLong": "18.3258,-66.4066"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Naguabo",
 "Code": "103",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Naguabo",
@@ -783,10 +1202,18 @@
 "LatLong": "18.2183,-65.7885"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Naranjito",
 "Code": "105",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Naranjito",
@@ -794,10 +1221,18 @@
 "LatLong": "18.3008,-66.2449"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Orocovis",
 "Code": "107",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Orocovis",
@@ -805,10 +1240,18 @@
 "LatLong": "18.2269,-66.391"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Patillas",
 "Code": "109",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Patillas",
@@ -816,10 +1259,18 @@
 "LatLong": "18.0064,-66.0157"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Penuelas",
 "Code": "111",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Penuelas",
@@ -827,10 +1278,18 @@
 "LatLong": "18.0564,-66.7216"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ponce",
 "Code": "113",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mercedita",
@@ -883,10 +1342,18 @@
 "LatLong": "18.0497,-66.5513"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Quebradillas",
 "Code": "115",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Quebradillas",
@@ -894,10 +1361,18 @@
 "LatLong": "18.4738,-66.9385"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Rincon",
 "Code": "117",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rincon",
@@ -905,10 +1380,18 @@
 "LatLong": "18.3402,-67.2499"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Rio Grande",
 "Code": "119",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Palmer",
@@ -921,10 +1404,18 @@
 "LatLong": "18.3802,-65.8313"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Sabana Grande",
 "Code": "121",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sabana Grande",
@@ -932,10 +1423,18 @@
 "LatLong": "18.0777,-66.9605"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Salinas",
 "Code": "123",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Salinas",
@@ -943,10 +1442,18 @@
 "LatLong": "17.9775,-66.2979"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "San German",
 "Code": "125",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rosario",
@@ -959,10 +1466,18 @@
 "LatLong": "18.0816,-67.0449"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "San Juan",
 "Code": "127",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Juan",
@@ -1170,10 +1685,18 @@
 "LatLong": "18.3808,-65.9574"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "San Lorenzo",
 "Code": "129",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Lorenzo",
@@ -1181,10 +1704,18 @@
 "LatLong": "18.1894,-65.961"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "San Sebastian",
 "Code": "131",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Sebastian",
@@ -1192,10 +1723,18 @@
 "LatLong": "18.3366,-66.9902"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Santa Isabel",
 "Code": "133",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Isabel",
@@ -1203,10 +1742,18 @@
 "LatLong": "17.9661,-66.4049"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Toa Alta",
 "Code": "135",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Toa Alta",
@@ -1219,10 +1766,18 @@
 "LatLong": "18.3883,-66.2482"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Toa Baja",
 "Code": "137",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Toa Baja",
@@ -1245,10 +1800,18 @@
 "LatLong": "18.4269,-66.1846"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Trujillo Alto",
 "Code": "139",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Trujillo Alto",
@@ -1266,10 +1829,18 @@
 "LatLong": "18.3786,-66.05"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Utuado",
 "Code": "141",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Angeles",
@@ -1282,10 +1853,18 @@
 "LatLong": "18.2655,-66.7005"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Vega Alta",
 "Code": "143",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vega Alta",
@@ -1293,10 +1872,18 @@
 "LatLong": "18.4122,-66.3313"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Vega Baja",
 "Code": "145",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vega Baja",
@@ -1309,10 +1896,18 @@
 "LatLong": "18.4444,-66.3877"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Vieques",
 "Code": "147",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vieques",
@@ -1320,10 +1915,18 @@
 "LatLong": "18.0859,-66.2431"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Villalba",
 "Code": "149",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villalba",
@@ -1331,10 +1934,18 @@
 "LatLong": "18.1272,-66.4921"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Yabucoa",
 "Code": "151",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yabucoa",
@@ -1342,15 +1953,27 @@
 "LatLong": "18.0505,-65.8793"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Yauco",
 "Code": "153",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yauco",
 "PostCode": "00698",
 "LatLong": "18.035,-66.8499"
+}
+]
+}
+]
 }
 ]
 }

@@ -1,8 +1,11 @@
 {
-"Structure": "Province/Place",
+"States": [
+{
 "Provinces": [
 {
 "Name": "Jersey Channel Islands",
+"Communities": [
+{
 "Places": [
 {
 "Name": "St Helier",
@@ -23,6 +26,10 @@
 "Name": "St Lawrence",
 "PostCode": "JE3",
 "LatLong": "49.2,-2.1333"
+}
+]
+}
+]
 }
 ]
 }

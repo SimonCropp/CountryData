@@ -1,5 +1,10 @@
 {
-"Structure": "Place",
+"States": [
+{
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Canillo",
@@ -35,6 +40,12 @@
 "Name": "Escaldes-Engordany",
 "PostCode": "AD700",
 "LatLong": "42.5,1.5667"
+}
+]
+}
+]
+}
+]
 }
 ]
 }

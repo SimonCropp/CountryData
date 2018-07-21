@@ -1,5 +1,10 @@
 {
-"Structure": "Place",
+"States": [
+{
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ballyboughal",
@@ -690,6 +695,12 @@
 "Name": "Wexford",
 "PostCode": "Y35",
 "LatLong": "52.3342,-6.4575"
+}
+]
+}
+]
+}
+]
 }
 ]
 }

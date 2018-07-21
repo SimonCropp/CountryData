@@ -1,5 +1,4 @@
 {
-"Structure": "State/Province/Place",
 "States": [
 {
 "Name": "Stockholm",
@@ -8,6 +7,8 @@
 {
 "Name": "Vallentuna",
 "Code": "0115",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vallentuna",
@@ -225,10 +226,14 @@
 "LatLong": "59.5632,18.2403"
 }
 ]
+}
+]
 },
 {
 "Name": "Österåker",
 "Code": "0117",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ingmarsö",
@@ -441,10 +446,14 @@
 "LatLong": "59.5275,18.6211"
 }
 ]
+}
+]
 },
 {
 "Name": "Värmdö",
 "Code": "0120",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gällnöby",
@@ -792,10 +801,14 @@
 "LatLong": "59.35,18.5"
 }
 ]
+}
+]
 },
 {
 "Name": "Järfälla",
 "Code": "0123",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Järfälla",
@@ -1253,10 +1266,14 @@
 "LatLong": "59.3501,17.9658"
 }
 ]
+}
+]
 },
 {
 "Name": "Ekerö",
 "Code": "0125",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ekerö",
@@ -1449,10 +1466,14 @@
 "LatLong": "59.3667,17.7333"
 }
 ]
+}
+]
 },
 {
 "Name": "Huddinge",
 "Code": "0126",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skärholmen",
@@ -1995,10 +2016,14 @@
 "LatLong": "59.2667,17.8833"
 }
 ]
+}
+]
 },
 {
 "Name": "Botkyrka",
 "Code": "0127",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Norsborg",
@@ -2421,10 +2446,14 @@
 "LatLong": "59.1988,17.829"
 }
 ]
+}
+]
 },
 {
 "Name": "Salem",
 "Code": "0128",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rönninge",
@@ -2517,10 +2546,14 @@
 "LatLong": "59.2,17.7333"
 }
 ]
+}
+]
 },
 {
 "Name": "Haninge",
 "Code": "0136",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dalarö",
@@ -2913,10 +2946,14 @@
 "LatLong": "58.9831,18.1331"
 }
 ]
+}
+]
 },
 {
 "Name": "Tyresö",
 "Code": "0138",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tyresö",
@@ -3149,10 +3186,14 @@
 "LatLong": "59.2333,18.3"
 }
 ]
+}
+]
 },
 {
 "Name": "Nykvarn",
 "Code": "0140",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nykvarn",
@@ -3220,10 +3261,14 @@
 "LatLong": "59.1833,17.4333"
 }
 ]
+}
+]
 },
 {
 "Name": "Täby",
 "Code": "0160",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Täby",
@@ -3551,10 +3596,14 @@
 "LatLong": "59.4439,18.0687"
 }
 ]
+}
+]
 },
 {
 "Name": "Danderyd",
 "Code": "0162",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Danderyd",
@@ -3847,10 +3896,14 @@
 "LatLong": "59.3987,18.0294"
 }
 ]
+}
+]
 },
 {
 "Name": "Stockholm",
 "Code": "0180",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stockholm",
@@ -10743,10 +10796,14 @@
 "LatLong": "59.3326,18.0649"
 }
 ]
+}
+]
 },
 {
 "Name": "Södertälje",
 "Code": "0181",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mölnbo",
@@ -11239,10 +11296,14 @@
 "LatLong": "59.1,17.5667"
 }
 ]
+}
+]
 },
 {
 "Name": "Nacka",
 "Code": "0182",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nacka",
@@ -11815,10 +11876,14 @@
 "LatLong": "59.2667,18.1833"
 }
 ]
+}
+]
 },
 {
 "Name": "Sundbyberg",
 "Code": "0183",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sundbyberg",
@@ -12176,10 +12241,14 @@
 "LatLong": "59.3613,17.9711"
 }
 ]
+}
+]
 },
 {
 "Name": "Solna",
 "Code": "0184",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Solna",
@@ -12937,10 +13006,14 @@
 "LatLong": "59.3326,18.0649"
 }
 ]
+}
+]
 },
 {
 "Name": "Lidingö",
 "Code": "0186",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lidingö",
@@ -13223,10 +13296,14 @@
 "LatLong": "59.3667,18.1333"
 }
 ]
+}
+]
 },
 {
 "Name": "Vaxholm",
 "Code": "0187",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gustavsberg",
@@ -13339,10 +13416,14 @@
 "LatLong": "59.4022,18.3532"
 }
 ]
+}
+]
 },
 {
 "Name": "Norrtälje",
 "Code": "0188",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bergshamra",
@@ -13765,10 +13846,14 @@
 "LatLong": "60.05,18.6"
 }
 ]
+}
+]
 },
 {
 "Name": "Nynäshamn",
 "Code": "0192",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Västerhaninge",
@@ -13986,7 +14071,11 @@
 "LatLong": "58.9034,17.9479"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -17332,6 +17421,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Västerbotten",
@@ -17340,6 +17431,8 @@
 {
 "Name": "Nordmaling",
 "Code": "2401",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Trehörningsjö",
@@ -17417,10 +17510,14 @@
 "LatLong": "63.5667,19.6667"
 }
 ]
+}
+]
 },
 {
 "Name": "Bjurholm",
 "Code": "2403",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Norrfors",
@@ -17468,10 +17565,14 @@
 "LatLong": "63.9303,19.2137"
 }
 ]
+}
+]
 },
 {
 "Name": "Vindeln",
 "Code": "2404",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vindeln",
@@ -17539,10 +17640,14 @@
 "LatLong": "64.25,19.3167"
 }
 ]
+}
+]
 },
 {
 "Name": "Robertsfors",
 "Code": "2409",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Robertsfors",
@@ -17620,10 +17725,14 @@
 "LatLong": "64.0667,20.85"
 }
 ]
+}
+]
 },
 {
 "Name": "Norsjö",
 "Code": "2417",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Norsjö",
@@ -17666,10 +17775,14 @@
 "LatLong": "64.9121,19.4815"
 }
 ]
+}
+]
 },
 {
 "Name": "Malå",
 "Code": "2418",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Malå",
@@ -17687,10 +17800,14 @@
 "LatLong": "65.35,18.6167"
 }
 ]
+}
+]
 },
 {
 "Name": "Storuman",
 "Code": "2421",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gunnarn",
@@ -17778,10 +17895,14 @@
 "LatLong": "65.0959,17.1173"
 }
 ]
+}
+]
 },
 {
 "Name": "Sorsele",
 "Code": "2422",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sorsele",
@@ -17804,10 +17925,14 @@
 "LatLong": "65.3949,17.6846"
 }
 ]
+}
+]
 },
 {
 "Name": "Dorotea",
 "Code": "2425",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Norråker",
@@ -17890,10 +18015,14 @@
 "LatLong": "64.2618,16.4131"
 }
 ]
+}
+]
 },
 {
 "Name": "Vännäs",
 "Code": "2460",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vännäs",
@@ -17971,10 +18100,14 @@
 "LatLong": "63.9068,19.7571"
 }
 ]
+}
+]
 },
 {
 "Name": "Vilhelmina",
 "Code": "2462",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marsfjäll",
@@ -18082,10 +18215,14 @@
 "LatLong": "64.6268,16.6563"
 }
 ]
+}
+]
 },
 {
 "Name": "Åsele",
 "Code": "2463",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Solberg",
@@ -18113,10 +18250,14 @@
 "LatLong": "63.9333,17.2667"
 }
 ]
+}
+]
 },
 {
 "Name": "Umeå",
 "Code": "2480",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Umeå",
@@ -19094,10 +19235,14 @@
 "LatLong": "64.25,20.2667"
 }
 ]
+}
+]
 },
 {
 "Name": "Lycksele",
 "Code": "2481",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Örträsk",
@@ -19270,10 +19415,14 @@
 "LatLong": "64.5954,18.6735"
 }
 ]
+}
+]
 },
 {
 "Name": "Skellefteå",
 "Code": "2482",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Botsmark",
@@ -19836,7 +19985,11 @@
 "LatLong": "64.3492,20.5041"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -20062,6 +20215,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Norrbotten",
@@ -20070,6 +20225,8 @@
 {
 "Name": "Arvidsjaur",
 "Code": "2505",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Glommersträsk",
@@ -20152,10 +20309,14 @@
 "LatLong": "65.5903,19.1668"
 }
 ]
+}
+]
 },
 {
 "Name": "Arjeplog",
 "Code": "2506",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arjeplog",
@@ -20188,10 +20349,14 @@
 "LatLong": "65.8339,18.0231"
 }
 ]
+}
+]
 },
 {
 "Name": "Jokkmokk",
 "Code": "2510",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vuollerim",
@@ -20294,10 +20459,14 @@
 "LatLong": "66.9593,19.8207"
 }
 ]
+}
+]
 },
 {
 "Name": "Överkalix",
 "Code": "2513",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Överkalix",
@@ -20355,10 +20524,14 @@
 "LatLong": "66.3275,22.8441"
 }
 ]
+}
+]
 },
 {
 "Name": "Kalix",
 "Code": "2514",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Töre",
@@ -20526,10 +20699,14 @@
 "LatLong": "65.853,23.1565"
 }
 ]
+}
+]
 },
 {
 "Name": "Övertorneå",
 "Code": "2518",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Övertorneå",
@@ -20597,10 +20774,14 @@
 "LatLong": "66.3878,23.6543"
 }
 ]
+}
+]
 },
 {
 "Name": "Pajala",
 "Code": "2521",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Korpilombolo",
@@ -20693,10 +20874,14 @@
 "LatLong": "67.2128,23.3661"
 }
 ]
+}
+]
 },
 {
 "Name": "Gällivare",
 "Code": "2523",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lansjärv",
@@ -20889,10 +21074,14 @@
 "LatLong": "67.1753,20.655"
 }
 ]
+}
+]
 },
 {
 "Name": "Älvsbyn",
 "Code": "2560",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Älvsbyn",
@@ -20980,10 +21169,14 @@
 "LatLong": "65.6762,21.0016"
 }
 ]
+}
+]
 },
 {
 "Name": "Luleå",
 "Code": "2580",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gammelstad",
@@ -21651,10 +21844,14 @@
 "LatLong": "65.5842,22.1546"
 }
 ]
+}
+]
 },
 {
 "Name": "Piteå",
 "Code": "2581",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Piteå",
@@ -22077,10 +22274,14 @@
 "LatLong": "65.35,21.2"
 }
 ]
+}
+]
 },
 {
 "Name": "Boden",
 "Code": "2582",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vidsel",
@@ -22338,10 +22539,14 @@
 "LatLong": "65.8252,21.6886"
 }
 ]
+}
+]
 },
 {
 "Name": "Haparanda",
 "Code": "2583",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lappträsk",
@@ -22444,10 +22649,14 @@
 "LatLong": "65.8,23.9333"
 }
 ]
+}
+]
 },
 {
 "Name": "Kiruna",
 "Code": "2584",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vittangi",
@@ -22650,7 +22859,11 @@
 "LatLong": "68.427,18.1257"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -22826,6 +23039,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Uppsala",
@@ -22834,6 +23049,8 @@
 {
 "Name": "Håbo",
 "Code": "0305",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bålsta",
@@ -22991,10 +23208,14 @@
 "LatLong": "59.5671,17.5278"
 }
 ]
+}
+]
 },
 {
 "Name": "Älvkarleby",
 "Code": "0319",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skutskär",
@@ -23097,10 +23318,14 @@
 "LatLong": "60.5708,17.4489"
 }
 ]
+}
+]
 },
 {
 "Name": "Knivsta",
 "Code": "0330",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Knivsta",
@@ -23228,10 +23453,14 @@
 "LatLong": "59.7256,17.7875"
 }
 ]
+}
+]
 },
 {
 "Name": "Tierp",
 "Code": "0360",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Örbyhus",
@@ -23424,10 +23653,14 @@
 "LatLong": "60.2333,17.4667"
 }
 ]
+}
+]
 },
 {
 "Name": "Uppsala",
 "Code": "0380",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Almunge",
@@ -24580,10 +24813,14 @@
 "LatLong": "59.8,18.2833"
 }
 ]
+}
+]
 },
 {
 "Name": "Enköping",
 "Code": "0381",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Grillby",
@@ -24826,10 +25063,14 @@
 "LatLong": "59.6361,17.0777"
 }
 ]
+}
+]
 },
 {
 "Name": "Östhammar",
 "Code": "0382",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Öregrund",
@@ -25037,7 +25278,11 @@
 "LatLong": "60.4667,17.7667"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -25433,6 +25678,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Södermanland",
@@ -25441,6 +25688,8 @@
 {
 "Name": "Vingåker",
 "Code": "0428",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vingåker",
@@ -25508,10 +25757,14 @@
 "LatLong": "59.0433,15.8737"
 }
 ]
+}
+]
 },
 {
 "Name": "Gnesta",
 "Code": "0461",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gnesta",
@@ -25584,10 +25837,14 @@
 "LatLong": "59.0475,17.3119"
 }
 ]
+}
+]
 },
 {
 "Name": "Nyköping",
 "Code": "0480",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Enstaberga",
@@ -25875,10 +26132,14 @@
 "LatLong": "59.0667,17.15"
 }
 ]
+}
+]
 },
 {
 "Name": "Oxelösund",
 "Code": "0481",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oxelösund",
@@ -25981,10 +26242,14 @@
 "LatLong": "58.6706,17.1015"
 }
 ]
+}
+]
 },
 {
 "Name": "Flen",
 "Code": "0482",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mellösa",
@@ -26112,10 +26377,14 @@
 "LatLong": "59.0583,16.5878"
 }
 ]
+}
+]
 },
 {
 "Name": "Katrineholm",
 "Code": "0483",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stavsjö",
@@ -26328,10 +26597,14 @@
 "LatLong": "58.9959,16.2072"
 }
 ]
+}
+]
 },
 {
 "Name": "Eskilstuna",
 "Code": "0484",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eskilstuna",
@@ -26854,10 +27127,14 @@
 "LatLong": "59.4167,16.4667"
 }
 ]
+}
+]
 },
 {
 "Name": "Strängnäs",
 "Code": "0486",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Malmköping",
@@ -27090,10 +27367,14 @@
 "LatLong": "59.2667,17.2167"
 }
 ]
+}
+]
 },
 {
 "Name": "Trosa",
 "Code": "0488",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tystberga",
@@ -27196,7 +27477,11 @@
 "LatLong": "58.8962,17.5481"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -27327,6 +27612,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Östergötland",
@@ -27335,6 +27622,8 @@
 {
 "Name": "Ödeshög",
 "Code": "0509",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ödeshög",
@@ -27397,10 +27686,14 @@
 "LatLong": "58.2295,14.6529"
 }
 ]
+}
+]
 },
 {
 "Name": "Boxholm",
 "Code": "0560",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Österbymo",
@@ -27443,10 +27736,14 @@
 "LatLong": "58.1972,15.0538"
 }
 ]
+}
+]
 },
 {
 "Name": "Åtvidaberg",
 "Code": "0561",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Åtvidaberg",
@@ -27579,10 +27876,14 @@
 "LatLong": "58.2015,15.9977"
 }
 ]
+}
+]
 },
 {
 "Name": "Finspång",
 "Code": "0562",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Grytgöl",
@@ -27770,10 +28071,14 @@
 "LatLong": "58.7058,15.7674"
 }
 ]
+}
+]
 },
 {
 "Name": "Valdemarsvik",
 "Code": "0563",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gryt",
@@ -27856,10 +28161,14 @@
 "LatLong": "58.2031,16.6023"
 }
 ]
+}
+]
 },
 {
 "Name": "Linköping",
 "Code": "0580",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Linköping",
@@ -28742,10 +29051,14 @@
 "LatLong": "58.4833,15.5167"
 }
 ]
+}
+]
 },
 {
 "Name": "Norrköping",
 "Code": "0581",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Linghem",
@@ -29608,10 +29921,14 @@
 "LatLong": "58.6667,16.3833"
 }
 ]
+}
+]
 },
 {
 "Name": "Söderköping",
 "Code": "0582",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Norsholm",
@@ -29734,10 +30051,14 @@
 "LatLong": "58.4806,16.3222"
 }
 ]
+}
+]
 },
 {
 "Name": "Motala",
 "Code": "0583",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Borensberg",
@@ -29995,10 +30316,14 @@
 "LatLong": "58.5371,15.0365"
 }
 ]
+}
+]
 },
 {
 "Name": "Vadstena",
 "Code": "0584",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vadstena",
@@ -30091,10 +30416,14 @@
 "LatLong": "58.4486,14.8897"
 }
 ]
+}
+]
 },
 {
 "Name": "Mjölby",
 "Code": "0586",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mantorp",
@@ -30352,7 +30681,11 @@
 "LatLong": "58.4,15.0833"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -30598,6 +30931,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Jönköping",
@@ -30606,6 +30941,8 @@
 {
 "Name": "Aneby",
 "Code": "0604",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sunhultsbrunn",
@@ -30683,10 +31020,14 @@
 "LatLong": "57.8389,14.8102"
 }
 ]
+}
+]
 },
 {
 "Name": "Gnosjö",
 "Code": "0617",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hillerstorp",
@@ -30769,10 +31110,14 @@
 "LatLong": "57.4,13.8"
 }
 ]
+}
+]
 },
 {
 "Name": "Mullsjö",
 "Code": "0642",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mullsjö",
@@ -30850,10 +31195,14 @@
 "LatLong": "57.9171,13.8783"
 }
 ]
+}
+]
 },
 {
 "Name": "Habo",
 "Code": "0643",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Habo",
@@ -30926,10 +31275,14 @@
 "LatLong": "58.1,14.1833"
 }
 ]
+}
+]
 },
 {
 "Name": "Gislaved",
 "Code": "0662",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Reftele",
@@ -31152,10 +31505,14 @@
 "LatLong": "57.2833,13.6333"
 }
 ]
+}
+]
 },
 {
 "Name": "Vaggeryd",
 "Code": "0665",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vaggeryd",
@@ -31258,10 +31615,14 @@
 "LatLong": "57.4333,14.0833"
 }
 ]
+}
+]
 },
 {
 "Name": "Jönköping",
 "Code": "0680",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jönköping",
@@ -32159,10 +32520,14 @@
 "LatLong": "57.85,14.1167"
 }
 ]
+}
+]
 },
 {
 "Name": "Nässjö",
 "Code": "0682",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Malmbäck",
@@ -32435,10 +32800,14 @@
 "LatLong": "57.7833,14.8"
 }
 ]
+}
+]
 },
 {
 "Name": "Värnamo",
 "Code": "0683",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bredaryd",
@@ -32661,10 +33030,14 @@
 "LatLong": "57.4333,14.0833"
 }
 ]
+}
+]
 },
 {
 "Name": "Sävsjö",
 "Code": "0684",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hok",
@@ -32757,10 +33130,14 @@
 "LatLong": "57.4033,14.6624"
 }
 ]
+}
+]
 },
 {
 "Name": "Vetlanda",
 "Code": "0685",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Myresjö",
@@ -32928,10 +33305,14 @@
 "LatLong": "57.35,15.25"
 }
 ]
+}
+]
 },
 {
 "Name": "Eksjö",
 "Code": "0686",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ingatorp",
@@ -33069,10 +33450,14 @@
 "LatLong": "57.6664,14.972"
 }
 ]
+}
+]
 },
 {
 "Name": "Tranås",
 "Code": "0687",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gränna",
@@ -33260,7 +33645,11 @@
 "LatLong": "58.0372,14.9782"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -33416,6 +33805,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kronoberg",
@@ -33424,6 +33815,8 @@
 {
 "Name": "Uppvidinge",
 "Code": "0760",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Åseda",
@@ -33456,10 +33849,14 @@
 "LatLong": "57.3167,15.1167"
 }
 ]
+}
+]
 },
 {
 "Name": "Lessebo",
 "Code": "0761",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lessebo",
@@ -33467,10 +33864,14 @@
 "LatLong": "56.7519,15.2697"
 }
 ]
+}
+]
 },
 {
 "Name": "Tingsryd",
 "Code": "0763",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Urshult",
@@ -33543,10 +33944,14 @@
 "LatLong": "56.5247,14.979"
 }
 ]
+}
+]
 },
 {
 "Name": "Alvesta",
 "Code": "0764",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rydaholm",
@@ -33664,10 +34069,14 @@
 "LatLong": "56.8994,14.5556"
 }
 ]
+}
+]
 },
 {
 "Name": "Älmhult",
 "Code": "0765",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Älmhult",
@@ -33805,10 +34214,14 @@
 "LatLong": "56.5515,14.1383"
 }
 ]
+}
+]
 },
 {
 "Name": "Markaryd",
 "Code": "0767",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Markaryd",
@@ -33946,10 +34359,14 @@
 "LatLong": "56.55,13.7167"
 }
 ]
+}
+]
 },
 {
 "Name": "Växjö",
 "Code": "0780",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vislanda",
@@ -34382,10 +34799,14 @@
 "LatLong": "57.3667,14.9"
 }
 ]
+}
+]
 },
 {
 "Name": "Ljungby",
 "Code": "0781",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Traryd",
@@ -34573,7 +34994,11 @@
 "LatLong": "56.8332,13.9408"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -34669,6 +35094,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Kalmar",
@@ -34677,6 +35104,8 @@
 {
 "Name": "Högsby",
 "Code": "0821",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fagerhult",
@@ -34749,10 +35178,14 @@
 "LatLong": "57.166,16.0256"
 }
 ]
+}
+]
 },
 {
 "Name": "Torsås",
 "Code": "0834",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Torsås",
@@ -34875,10 +35308,14 @@
 "LatLong": "56.4125,15.9984"
 }
 ]
+}
+]
 },
 {
 "Name": "Mörbylånga",
 "Code": "0840",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mörbylånga",
@@ -34961,10 +35398,14 @@
 "LatLong": "56.65,16.45"
 }
 ]
+}
+]
 },
 {
 "Name": "Hultsfred",
 "Code": "0860",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kvillsfors",
@@ -35112,10 +35553,14 @@
 "LatLong": "57.4882,15.8436"
 }
 ]
+}
+]
 },
 {
 "Name": "Mönsterås",
 "Code": "0861",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Timmernabben",
@@ -35263,10 +35708,14 @@
 "LatLong": "57.3,15.8333"
 }
 ]
+}
+]
 },
 {
 "Name": "Emmaboda",
 "Code": "0862",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Älmeboda",
@@ -35364,10 +35813,14 @@
 "LatLong": "56.4667,15.9833"
 }
 ]
+}
+]
 },
 {
 "Name": "Kalmar",
 "Code": "0880",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vissefjärda",
@@ -35755,10 +36208,14 @@
 "LatLong": "56.6616,16.3616"
 }
 ]
+}
+]
 },
 {
 "Name": "Nybro",
 "Code": "0881",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Boda Glasbruk",
@@ -35971,10 +36428,14 @@
 "LatLong": "57.0833,15.7333"
 }
 ]
+}
+]
 },
 {
 "Name": "Oskarshamn",
 "Code": "0882",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Påskallavik",
@@ -36177,10 +36638,14 @@
 "LatLong": "57.2167,16.0333"
 }
 ]
+}
+]
 },
 {
 "Name": "Västervik",
 "Code": "0883",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fårbo",
@@ -36473,10 +36938,14 @@
 "LatLong": "57.9,16.4"
 }
 ]
+}
+]
 },
 {
 "Name": "Vimmerby",
 "Code": "0884",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mariannelund",
@@ -36679,10 +37148,14 @@
 "LatLong": "57.6659,15.8551"
 }
 ]
+}
+]
 },
 {
 "Name": "Borgholm",
 "Code": "0885",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Löttorp",
@@ -36830,7 +37303,11 @@
 "LatLong": "56.8793,16.6563"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -36961,6 +37438,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Gotland",
@@ -36969,6 +37448,8 @@
 {
 "Name": "Gotland",
 "Code": "0980",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Burgsvik",
@@ -37351,7 +37832,11 @@
 "LatLong": "57.6409,18.296"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -37887,6 +38372,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Blekinge",
@@ -37895,6 +38382,8 @@
 {
 "Name": "Olofström",
 "Code": "1060",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Olofström",
@@ -38012,10 +38501,14 @@
 "LatLong": "56.4667,14.6833"
 }
 ]
+}
+]
 },
 {
 "Name": "Karlskrona",
 "Code": "1080",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Drottningskär",
@@ -38348,10 +38841,14 @@
 "LatLong": "56.1833,15.7667"
 }
 ]
+}
+]
 },
 {
 "Name": "Ronneby",
 "Code": "1081",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bräkne-Hoby",
@@ -38539,10 +39036,14 @@
 "LatLong": "56.21,15.276"
 }
 ]
+}
+]
 },
 {
 "Name": "Karlshamn",
 "Code": "1082",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kyrkhult",
@@ -38820,10 +39321,14 @@
 "LatLong": "56.2667,14.7667"
 }
 ]
+}
+]
 },
 {
 "Name": "Sölvesborg",
 "Code": "1083",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sölvesborg",
@@ -38976,7 +39481,11 @@
 "LatLong": "56.0521,14.5753"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -39052,6 +39561,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Skåne",
@@ -39060,6 +39571,8 @@
 {
 "Name": "Svalöv",
 "Code": "1214",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Röstånga",
@@ -39117,10 +39630,14 @@
 "LatLong": "55.9134,13.1076"
 }
 ]
+}
+]
 },
 {
 "Name": "Staffanstorp",
 "Code": "1230",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Staffanstorp",
@@ -39268,10 +39785,14 @@
 "LatLong": "55.6428,13.2064"
 }
 ]
+}
+]
 },
 {
 "Name": "Burlöv",
 "Code": "1231",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arlöv",
@@ -39369,10 +39890,14 @@
 "LatLong": "55.654,13.1111"
 }
 ]
+}
+]
 },
 {
 "Name": "Vellinge",
 "Code": "1233",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vellinge",
@@ -39645,10 +40170,14 @@
 "LatLong": "55.3833,12.8333"
 }
 ]
+}
+]
 },
 {
 "Name": "Östra Göinge",
 "Code": "1256",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Broby",
@@ -39701,10 +40230,14 @@
 "LatLong": "56.1833,14.0833"
 }
 ]
+}
+]
 },
 {
 "Name": "Örkelljunga",
 "Code": "1257",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Örkelljunga",
@@ -39787,10 +40320,14 @@
 "LatLong": "56.25,13.1833"
 }
 ]
+}
+]
 },
 {
 "Name": "Bjuv",
 "Code": "1260",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Billesholm",
@@ -39888,10 +40425,14 @@
 "LatLong": "56.0837,12.9191"
 }
 ]
+}
+]
 },
 {
 "Name": "Kävlinge",
 "Code": "1261",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kävlinge",
@@ -40124,10 +40665,14 @@
 "LatLong": "55.7667,12.95"
 }
 ]
+}
+]
 },
 {
 "Name": "Lomma",
 "Code": "1262",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lomma",
@@ -40290,10 +40835,14 @@
 "LatLong": "55.7167,13.0167"
 }
 ]
+}
+]
 },
 {
 "Name": "Svedala",
 "Code": "1263",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Svedala",
@@ -40421,10 +40970,14 @@
 "LatLong": "55.5079,13.2351"
 }
 ]
+}
+]
 },
 {
 "Name": "Skurup",
 "Code": "1264",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skurup",
@@ -40572,10 +41125,14 @@
 "LatLong": "55.4784,13.5019"
 }
 ]
+}
+]
 },
 {
 "Name": "Sjöbo",
 "Code": "1265",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lövestad",
@@ -40703,10 +41260,14 @@
 "LatLong": "55.5833,13.6667"
 }
 ]
+}
+]
 },
 {
 "Name": "Hörby",
 "Code": "1266",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hörby",
@@ -40809,10 +41370,14 @@
 "LatLong": "55.7,13.7667"
 }
 ]
+}
+]
 },
 {
 "Name": "Höör",
 "Code": "1267",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Höör",
@@ -40905,10 +41470,14 @@
 "LatLong": "55.9344,13.5385"
 }
 ]
+}
+]
 },
 {
 "Name": "Tomelilla",
 "Code": "1270",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Äsperöd",
@@ -41021,10 +41590,14 @@
 "LatLong": "55.7167,14.1167"
 }
 ]
+}
+]
 },
 {
 "Name": "Bromölla",
 "Code": "1272",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jämshög",
@@ -41127,10 +41700,14 @@
 "LatLong": "56.0755,14.4696"
 }
 ]
+}
+]
 },
 {
 "Name": "Osby",
 "Code": "1273",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Glimåkra",
@@ -41248,10 +41825,14 @@
 "LatLong": "56.4167,13.85"
 }
 ]
+}
+]
 },
 {
 "Name": "Perstorp",
 "Code": "1275",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Perstorp",
@@ -41329,10 +41910,14 @@
 "LatLong": "56.1383,13.3948"
 }
 ]
+}
+]
 },
 {
 "Name": "Klippan",
 "Code": "1276",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kågeröd",
@@ -41450,10 +42035,14 @@
 "LatLong": "56.1356,13.1309"
 }
 ]
+}
+]
 },
 {
 "Name": "Åstorp",
 "Code": "1277",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kvidinge",
@@ -41566,10 +42155,14 @@
 "LatLong": "56.1357,12.9443"
 }
 ]
+}
+]
 },
 {
 "Name": "Båstad",
 "Code": "1278",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Förslöv",
@@ -41732,10 +42325,14 @@
 "LatLong": "56.4269,12.8534"
 }
 ]
+}
+]
 },
 {
 "Name": "Malmö",
 "Code": "1280",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arlöv",
@@ -41833,10 +42430,14 @@
 "LatLong": "55.5333,13.1"
 }
 ]
+}
+]
 },
 {
 "Name": "Lund",
 "Code": "1281",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dalby",
@@ -41939,10 +42540,14 @@
 "LatLong": "55.7167,13.3333"
 }
 ]
+}
+]
 },
 {
 "Name": "Landskrona",
 "Code": "1282",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sankt Ibb",
@@ -42175,10 +42780,14 @@
 "LatLong": "55.8708,12.8302"
 }
 ]
+}
+]
 },
 {
 "Name": "Helsingborg",
 "Code": "1283",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Helsingborg",
@@ -42926,10 +43535,14 @@
 "LatLong": "56,12.9667"
 }
 ]
+}
+]
 },
 {
 "Name": "Höganäs",
 "Code": "1284",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nyhamnsläge",
@@ -43097,10 +43710,14 @@
 "LatLong": "56.1997,12.558"
 }
 ]
+}
+]
 },
 {
 "Name": "Eslöv",
 "Code": "1285",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marieholm",
@@ -43263,10 +43880,14 @@
 "LatLong": "55.8667,13.0833"
 }
 ]
+}
+]
 },
 {
 "Name": "Ystad",
 "Code": "1286",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Glemmingebro",
@@ -43519,10 +44140,14 @@
 "LatLong": "55.4333,14.1167"
 }
 ]
+}
+]
 },
 {
 "Name": "Trelleborg",
 "Code": "1287",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Trelleborg",
@@ -43790,10 +44415,14 @@
 "LatLong": "55.4,13.3667"
 }
 ]
+}
+]
 },
 {
 "Name": "Kristianstad",
 "Code": "1290",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tollarp",
@@ -44326,10 +44955,14 @@
 "LatLong": "55.8833,14.0167"
 }
 ]
+}
+]
 },
 {
 "Name": "Simrishamn",
 "Code": "1291",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Simrishamn",
@@ -44577,10 +45210,14 @@
 "LatLong": "55.8333,14.0833"
 }
 ]
+}
+]
 },
 {
 "Name": "Ängelholm",
 "Code": "1292",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hasslarp",
@@ -44858,10 +45495,14 @@
 "LatLong": "56.3167,12.9167"
 }
 ]
+}
+]
 },
 {
 "Name": "Hässleholm",
 "Code": "1293",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tjörnarp",
@@ -45204,7 +45845,11 @@
 "LatLong": "56.0667,13.8333"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -49480,6 +50125,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Halland",
@@ -49488,6 +50135,8 @@
 {
 "Name": "Hylte",
 "Code": "1315",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Unnaryd",
@@ -49615,10 +50264,14 @@
 "LatLong": "56.8333,13.4333"
 }
 ]
+}
+]
 },
 {
 "Name": "Halmstad",
 "Code": "1380",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Halmstad",
@@ -50086,10 +50739,14 @@
 "LatLong": "56.75,12.9333"
 }
 ]
+}
+]
 },
 {
 "Name": "Laholm",
 "Code": "1381",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Munka-Ljungby",
@@ -50277,10 +50934,14 @@
 "LatLong": "56.4333,13.1"
 }
 ]
+}
+]
 },
 {
 "Name": "Falkenberg",
 "Code": "1382",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Haverdal",
@@ -50518,10 +51179,14 @@
 "LatLong": "56.9667,13.0833"
 }
 ]
+}
+]
 },
 {
 "Name": "Varberg",
 "Code": "1383",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vessigebro",
@@ -50799,10 +51464,14 @@
 "LatLong": "57.3167,12.5667"
 }
 ]
+}
+]
 },
 {
 "Name": "Kungsbacka",
 "Code": "1384",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Billdal",
@@ -51195,7 +51864,11 @@
 "LatLong": "57.4253,12.029"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -51286,6 +51959,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Västra Götaland",
@@ -51294,6 +51969,8 @@
 {
 "Name": "Härryda",
 "Code": "1401",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mölnlycke",
@@ -51501,10 +52178,14 @@
 "LatLong": "57.6544,12.3632"
 }
 ]
+}
+]
 },
 {
 "Name": "Partille",
 "Code": "1402",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Partille",
@@ -51742,10 +52423,14 @@
 "LatLong": "57.7395,12.1064"
 }
 ]
+}
+]
 },
 {
 "Name": "Öckerö",
 "Code": "1407",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Öckerö",
@@ -51788,10 +52473,14 @@
 "LatLong": "57.7761,11.6167"
 }
 ]
+}
+]
 },
 {
 "Name": "Stenungsund",
 "Code": "1415",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stenungsund",
@@ -51979,10 +52668,14 @@
 "LatLong": "58.05,11.7"
 }
 ]
+}
+]
 },
 {
 "Name": "Tjörn",
 "Code": "1419",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kållekärr",
@@ -52185,10 +52878,14 @@
 "LatLong": "57.9922,11.5651"
 }
 ]
+}
+]
 },
 {
 "Name": "Orust",
 "Code": "1421",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Varekil",
@@ -52451,10 +53148,14 @@
 "LatLong": "58.1,11.5167"
 }
 ]
+}
+]
 },
 {
 "Name": "Sotenäs",
 "Code": "1427",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Smögen",
@@ -52552,10 +53253,14 @@
 "LatLong": "58.3631,11.2594"
 }
 ]
+}
+]
 },
 {
 "Name": "Munkedal",
 "Code": "1430",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hedekas",
@@ -52638,10 +53343,14 @@
 "LatLong": "58.4724,11.6686"
 }
 ]
+}
+]
 },
 {
 "Name": "Tanum",
 "Code": "1435",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hällevadsholm",
@@ -52764,10 +53473,14 @@
 "LatLong": "58.8,11.1667"
 }
 ]
+}
+]
 },
 {
 "Name": "Dals-Ed",
 "Code": "1438",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ed",
@@ -52810,10 +53523,14 @@
 "LatLong": "58.9125,11.9253"
 }
 ]
+}
+]
 },
 {
 "Name": "Färgelanda",
 "Code": "1439",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Färgelanda",
@@ -52881,10 +53598,14 @@
 "LatLong": "58.5667,12.0667"
 }
 ]
+}
+]
 },
 {
 "Name": "Ale",
 "Code": "1440",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Surte",
@@ -53137,10 +53858,14 @@
 "LatLong": "57.9167,12.05"
 }
 ]
+}
+]
 },
 {
 "Name": "Lerum",
 "Code": "1441",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jonsered",
@@ -53448,10 +54173,14 @@
 "LatLong": "57.9167,12.05"
 }
 ]
+}
+]
 },
 {
 "Name": "Vårgårda",
 "Code": "1442",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vårgårda",
@@ -53564,10 +54293,14 @@
 "LatLong": "58.0371,12.8091"
 }
 ]
+}
+]
 },
 {
 "Name": "Bollebygd",
 "Code": "1443",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hindås",
@@ -53665,10 +54398,14 @@
 "LatLong": "57.8,12.6333"
 }
 ]
+}
+]
 },
 {
 "Name": "Grästorp",
 "Code": "1444",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Grästorp",
@@ -53771,10 +54508,14 @@
 "LatLong": "58.3322,12.6812"
 }
 ]
+}
+]
 },
 {
 "Name": "Essunga",
 "Code": "1445",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nossebro",
@@ -53837,10 +54578,14 @@
 "LatLong": "58.1881,12.716"
 }
 ]
+}
+]
 },
 {
 "Name": "Karlsborg",
 "Code": "1446",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karlsborg",
@@ -53938,10 +54683,14 @@
 "LatLong": "58.5372,14.5047"
 }
 ]
+}
+]
 },
 {
 "Name": "Gullspång",
 "Code": "1447",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gullspång",
@@ -54044,10 +54793,14 @@
 "LatLong": "58.8667,14.1833"
 }
 ]
+}
+]
 },
 {
 "Name": "Tranemo",
 "Code": "1452",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hestra",
@@ -54240,10 +54993,14 @@
 "LatLong": "57.7667,13.8167"
 }
 ]
+}
+]
 },
 {
 "Name": "Bengtsfors",
 "Code": "1460",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Högsäter",
@@ -54356,10 +55113,14 @@
 "LatLong": "58.8844,11.9857"
 }
 ]
+}
+]
 },
 {
 "Name": "Mellerud",
 "Code": "1461",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mellerud",
@@ -54462,10 +55223,14 @@
 "LatLong": "58.8,12.1667"
 }
 ]
+}
+]
 },
 {
 "Name": "Lilla Edet",
 "Code": "1462",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alvhem",
@@ -54593,10 +55358,14 @@
 "LatLong": "58.0333,12.1333"
 }
 ]
+}
+]
 },
 {
 "Name": "Mark",
 "Code": "1463",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fjärås",
@@ -54859,10 +55628,14 @@
 "LatLong": "57.381,12.4929"
 }
 ]
+}
+]
 },
 {
 "Name": "Svenljunga",
 "Code": "1465",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Svenljunga",
@@ -55020,10 +55793,14 @@
 "LatLong": "57.35,13.2833"
 }
 ]
+}
+]
 },
 {
 "Name": "Herrljunga",
 "Code": "1466",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Herrljunga",
@@ -55111,10 +55888,14 @@
 "LatLong": "58.0774,13.0266"
 }
 ]
+}
+]
 },
 {
 "Name": "Vara",
 "Code": "1470",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nossebro",
@@ -55257,10 +56038,14 @@
 "LatLong": "58.3,13.1833"
 }
 ]
+}
+]
 },
 {
 "Name": "Götene",
 "Code": "1471",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Götene",
@@ -55388,10 +56173,14 @@
 "LatLong": "58.5282,13.4946"
 }
 ]
+}
+]
 },
 {
 "Name": "Tibro",
 "Code": "1472",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tibro",
@@ -55499,10 +56288,14 @@
 "LatLong": "58.4667,14.3"
 }
 ]
+}
+]
 },
 {
 "Name": "Töreboda",
 "Code": "1473",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Töreboda",
@@ -55625,10 +56418,14 @@
 "LatLong": "58.6167,14.0333"
 }
 ]
+}
+]
 },
 {
 "Name": "Göteborg",
 "Code": "1480",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Göteborg",
@@ -59011,10 +59808,14 @@
 "LatLong": "57.8833,12.0667"
 }
 ]
+}
+]
 },
 {
 "Name": "Mölndal",
 "Code": "1481",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Billdal",
@@ -59432,10 +60233,14 @@
 "LatLong": "57.6866,12.2117"
 }
 ]
+}
+]
 },
 {
 "Name": "Kungälv",
 "Code": "1482",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marstrand",
@@ -59698,10 +60503,14 @@
 "LatLong": "57.9333,11.85"
 }
 ]
+}
+]
 },
 {
 "Name": "Lysekil",
 "Code": "1484",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Grundsund",
@@ -59904,10 +60713,14 @@
 "LatLong": "58.1833,11.4667"
 }
 ]
+}
+]
 },
 {
 "Name": "Uddevalla",
 "Code": "1485",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Svenshögen",
@@ -60265,10 +61078,14 @@
 "LatLong": "58.2385,11.676"
 }
 ]
+}
+]
 },
 {
 "Name": "Strömstad",
 "Code": "1486",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Strömstad",
@@ -60436,10 +61253,14 @@
 "LatLong": "58.8167,11.3333"
 }
 ]
+}
+]
 },
 {
 "Name": "Vänersborg",
 "Code": "1487",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Frändefors",
@@ -60697,10 +61518,14 @@
 "LatLong": "58.356,12.3906"
 }
 ]
+}
+]
 },
 {
 "Name": "Trollhättan",
 "Code": "1488",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sjuntorp",
@@ -60998,10 +61823,14 @@
 "LatLong": "58.2837,12.2886"
 }
 ]
+}
+]
 },
 {
 "Name": "Alingsås",
 "Code": "1489",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alingsås",
@@ -61359,10 +62188,14 @@
 "LatLong": "58.1167,12.5333"
 }
 ]
+}
+]
 },
 {
 "Name": "Borås",
 "Code": "1490",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Borås",
@@ -62480,10 +63313,14 @@
 "LatLong": "57.9833,13.05"
 }
 ]
+}
+]
 },
 {
 "Name": "Ulricehamn",
 "Code": "1491",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dannike",
@@ -62681,10 +63518,14 @@
 "LatLong": "57.9833,13.05"
 }
 ]
+}
+]
 },
 {
 "Name": "Åmål",
 "Code": "1492",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Håverud",
@@ -62782,10 +63623,14 @@
 "LatLong": "58.9667,12.6167"
 }
 ]
+}
+]
 },
 {
 "Name": "Mariestad",
 "Code": "1493",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sjötorp",
@@ -62963,10 +63808,14 @@
 "LatLong": "58.8,14.0667"
 }
 ]
+}
+]
 },
 {
 "Name": "Lidköping",
 "Code": "1494",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tun",
@@ -63239,10 +64088,14 @@
 "LatLong": "58.3,13.1833"
 }
 ]
+}
+]
 },
 {
 "Name": "Skara",
 "Code": "1495",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skara",
@@ -63370,10 +64223,14 @@
 "LatLong": "58.4833,13.45"
 }
 ]
+}
+]
 },
 {
 "Name": "Skövde",
 "Code": "1496",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Axvall",
@@ -63701,10 +64558,14 @@
 "LatLong": "58.6167,14.0333"
 }
 ]
+}
+]
 },
 {
 "Name": "Hjo",
 "Code": "1497",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Värsås",
@@ -63777,10 +64638,14 @@
 "LatLong": "58.3013,14.2878"
 }
 ]
+}
+]
 },
 {
 "Name": "Tidaholm",
 "Code": "1498",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tidaholm",
@@ -63893,10 +64758,14 @@
 "LatLong": "58.1804,13.9582"
 }
 ]
+}
+]
 },
 {
 "Name": "Falköping",
 "Code": "1499",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Blidsberg",
@@ -64139,7 +65008,11 @@
 "LatLong": "57.9833,13.7667"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -66300,6 +67173,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Värmland",
@@ -66308,6 +67183,8 @@
 {
 "Name": "Kil",
 "Code": "1715",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kil",
@@ -66385,10 +67262,14 @@
 "LatLong": "59.5072,13.3139"
 }
 ]
+}
+]
 },
 {
 "Name": "Eda",
 "Code": "1730",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Koppom",
@@ -66441,10 +67322,14 @@
 "LatLong": "59.8842,12.304"
 }
 ]
+}
+]
 },
 {
 "Name": "Torsby",
 "Code": "1737",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stöllet",
@@ -66567,10 +67452,14 @@
 "LatLong": "60.1353,13.0082"
 }
 ]
+}
+]
 },
 {
 "Name": "Storfors",
 "Code": "1760",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Storfors",
@@ -66613,10 +67502,14 @@
 "LatLong": "59.5318,14.272"
 }
 ]
+}
+]
 },
 {
 "Name": "Hammarö",
 "Code": "1761",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skoghall",
@@ -66704,10 +67597,14 @@
 "LatLong": "59.3333,13.5167"
 }
 ]
+}
+]
 },
 {
 "Name": "Munkfors",
 "Code": "1762",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Munkfors",
@@ -66765,10 +67662,14 @@
 "LatLong": "59.8386,13.5436"
 }
 ]
+}
+]
 },
 {
 "Name": "Forshaga",
 "Code": "1763",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Forshaga",
@@ -66861,10 +67762,14 @@
 "LatLong": "59.7667,13.4333"
 }
 ]
+}
+]
 },
 {
 "Name": "Grums",
 "Code": "1764",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Segmon",
@@ -66937,10 +67842,14 @@
 "LatLong": "59.3466,13.1091"
 }
 ]
+}
+]
 },
 {
 "Name": "Årjäng",
 "Code": "1765",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gustavsfors",
@@ -67023,10 +67932,14 @@
 "LatLong": "59.3922,12.1334"
 }
 ]
+}
+]
 },
 {
 "Name": "Sunne",
 "Code": "1766",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sunne",
@@ -67134,10 +68047,14 @@
 "LatLong": "59.8438,13.1354"
 }
 ]
+}
+]
 },
 {
 "Name": "Karlstad",
 "Code": "1780",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karlstad",
@@ -67645,10 +68562,14 @@
 "LatLong": "59.6,13.4667"
 }
 ]
+}
+]
 },
 {
 "Name": "Kristinehamn",
 "Code": "1781",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Väse",
@@ -67866,10 +68787,14 @@
 "LatLong": "59.3098,14.1081"
 }
 ]
+}
+]
 },
 {
 "Name": "Filipstad",
 "Code": "1782",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Molkom",
@@ -67967,10 +68892,14 @@
 "LatLong": "59.8333,14.0833"
 }
 ]
+}
+]
 },
 {
 "Name": "Hagfors",
 "Code": "1783",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ekshärad",
@@ -68083,10 +69012,14 @@
 "LatLong": "60.0167,13.1333"
 }
 ]
+}
+]
 },
 {
 "Name": "Arvika",
 "Code": "1784",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Glava",
@@ -68259,10 +69192,14 @@
 "LatLong": "59.8842,12.304"
 }
 ]
+}
+]
 },
 {
 "Name": "Säffle",
 "Code": "1785",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Säffle",
@@ -68405,7 +69342,11 @@
 "LatLong": "59.3667,12.9333"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -68571,6 +69512,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Örebro",
@@ -68579,6 +69522,8 @@
 {
 "Name": "Lekeberg",
 "Code": "1814",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fjugesta",
@@ -68616,10 +69561,14 @@
 "LatLong": "59.15,14.6833"
 }
 ]
+}
+]
 },
 {
 "Name": "Laxå",
 "Code": "1860",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gårdsjö",
@@ -68737,10 +69686,14 @@
 "LatLong": "58.9845,14.5509"
 }
 ]
+}
+]
 },
 {
 "Name": "Hallsberg",
 "Code": "1861",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ljusfallshammar",
@@ -68903,10 +69856,14 @@
 "LatLong": "58.9,15.4333"
 }
 ]
+}
+]
 },
 {
 "Name": "Degerfors",
 "Code": "1862",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Degerfors",
@@ -69009,10 +69966,14 @@
 "LatLong": "59.1167,14.35"
 }
 ]
+}
+]
 },
 {
 "Name": "Hällefors",
 "Code": "1863",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hällefors",
@@ -69105,10 +70066,14 @@
 "LatLong": "59.7,14.5333"
 }
 ]
+}
+]
 },
 {
 "Name": "Ljusnarsberg",
 "Code": "1864",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kopparberg",
@@ -69196,10 +70161,14 @@
 "LatLong": "60.0833,14.9833"
 }
 ]
+}
+]
 },
 {
 "Name": "Örebro",
 "Code": "1880",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Högsjö",
@@ -70032,10 +71001,14 @@
 "LatLong": "59.25,14.95"
 }
 ]
+}
+]
 },
 {
 "Name": "Kumla",
 "Code": "1881",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kumla",
@@ -70193,10 +71166,14 @@
 "LatLong": "59.1737,14.8723"
 }
 ]
+}
+]
 },
 {
 "Name": "Askersund",
 "Code": "1882",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Åsbro",
@@ -70314,10 +71291,14 @@
 "LatLong": "58.8167,15.0833"
 }
 ]
+}
+]
 },
 {
 "Name": "Karlskoga",
 "Code": "1883",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Karlskoga",
@@ -70550,10 +71531,14 @@
 "LatLong": "59.3267,14.5239"
 }
 ]
+}
+]
 },
 {
 "Name": "Nora",
 "Code": "1884",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Granbergsdal",
@@ -70646,10 +71631,14 @@
 "LatLong": "59.5193,15.0398"
 }
 ]
+}
+]
 },
 {
 "Name": "Lindesberg",
 "Code": "1885",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lindesberg",
@@ -70872,7 +71861,11 @@
 "LatLong": "59.4167,15.2333"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -71063,6 +72056,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Västmanland",
@@ -71071,6 +72066,8 @@
 {
 "Name": "Skinnskatteberg",
 "Code": "1904",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Riddarhyttan",
@@ -71123,10 +72120,14 @@
 "LatLong": "59.8303,15.6934"
 }
 ]
+}
+]
 },
 {
 "Name": "Surahammar",
 "Code": "1907",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ramnäs",
@@ -71204,10 +72205,14 @@
 "LatLong": "59.7072,16.2219"
 }
 ]
+}
+]
 },
 {
 "Name": "Heby",
 "Code": "1917",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Järlåsa",
@@ -71295,10 +72300,14 @@
 "LatLong": "59.9,17.0667"
 }
 ]
+}
+]
 },
 {
 "Name": "Kungsör",
 "Code": "1960",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valskog",
@@ -71381,10 +72390,14 @@
 "LatLong": "59.4225,16.0966"
 }
 ]
+}
+]
 },
 {
 "Name": "Hallstahammar",
 "Code": "1961",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kolbäck",
@@ -71497,10 +72510,14 @@
 "LatLong": "59.6139,16.2285"
 }
 ]
+}
+]
 },
 {
 "Name": "Norberg",
 "Code": "1962",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Norberg",
@@ -71573,10 +72590,14 @@
 "LatLong": "60.065,15.9237"
 }
 ]
+}
+]
 },
 {
 "Name": "Västerås",
 "Code": "1980",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kvicksund",
@@ -72344,10 +73365,14 @@
 "LatLong": "59.6162,16.5528"
 }
 ]
+}
+]
 },
 {
 "Name": "Sala",
 "Code": "1981",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skultuna",
@@ -72520,10 +73545,14 @@
 "LatLong": "59.7833,16.9333"
 }
 ]
+}
+]
 },
 {
 "Name": "Fagersta",
 "Code": "1982",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fagersta",
@@ -72661,10 +73690,14 @@
 "LatLong": "60.0042,15.7932"
 }
 ]
+}
+]
 },
 {
 "Name": "Köping",
 "Code": "1983",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kolsva",
@@ -72867,10 +73900,14 @@
 "LatLong": "59.514,15.9926"
 }
 ]
+}
+]
 },
 {
 "Name": "Arboga",
 "Code": "1984",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fellingsbro",
@@ -73013,7 +74050,11 @@
 "LatLong": "59.3939,15.8388"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -73154,6 +74195,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Dalarna",
@@ -73162,6 +74205,8 @@
 {
 "Name": "Vansbro",
 "Code": "2021",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vansbro",
@@ -73179,10 +74224,14 @@
 "LatLong": "60.45,14.4833"
 }
 ]
+}
+]
 },
 {
 "Name": "Malung",
 "Code": "2023",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Äppelbo",
@@ -73280,10 +74329,14 @@
 "LatLong": "60.6833,13.7154"
 }
 ]
+}
+]
 },
 {
 "Name": "Gagnef",
 "Code": "2026",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mockfjärd",
@@ -73306,10 +74359,14 @@
 "LatLong": "60.45,14.7"
 }
 ]
+}
+]
 },
 {
 "Name": "Leksand",
 "Code": "2029",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Djura",
@@ -73462,10 +74519,14 @@
 "LatLong": "60.7833,14.85"
 }
 ]
+}
+]
 },
 {
 "Name": "Rättvik",
 "Code": "2031",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Furudal",
@@ -73563,10 +74624,14 @@
 "LatLong": "60.8939,15.0926"
 }
 ]
+}
+]
 },
 {
 "Name": "Orsa",
 "Code": "2034",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Orsa",
@@ -73634,10 +74699,14 @@
 "LatLong": "61.1203,14.6155"
 }
 ]
+}
+]
 },
 {
 "Name": "Älvdalen",
 "Code": "2039",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sörsjön",
@@ -73710,10 +74779,14 @@
 "LatLong": "61.2277,14.0393"
 }
 ]
+}
+]
 },
 {
 "Name": "Smedjebacken",
 "Code": "2061",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Grängesberg",
@@ -73826,10 +74899,14 @@
 "LatLong": "60.0833,15.55"
 }
 ]
+}
+]
 },
 {
 "Name": "Mora",
 "Code": "2062",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mora",
@@ -74007,10 +75084,14 @@
 "LatLong": "60.9167,14.8333"
 }
 ]
+}
+]
 },
 {
 "Name": "Falun",
 "Code": "2080",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sundborn",
@@ -74393,10 +75474,14 @@
 "LatLong": "60.6036,15.626"
 }
 ]
+}
+]
 },
 {
 "Name": "Borlänge",
 "Code": "2081",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Borlänge",
@@ -74729,10 +75814,14 @@
 "LatLong": "60.6833,15.0833"
 }
 ]
+}
+]
 },
 {
 "Name": "Säter",
 "Code": "2082",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Säter",
@@ -74805,10 +75894,14 @@
 "LatLong": "60.4,15.6"
 }
 ]
+}
+]
 },
 {
 "Name": "Hedemora",
 "Code": "2083",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Långshyttan",
@@ -74931,10 +76024,14 @@
 "LatLong": "60.4,15.8"
 }
 ]
+}
+]
 },
 {
 "Name": "Avesta",
 "Code": "2084",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Avesta",
@@ -75152,10 +76249,14 @@
 "LatLong": "60.1333,16.2167"
 }
 ]
+}
+]
 },
 {
 "Name": "Ludvika",
 "Code": "2085",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fredriksberg",
@@ -75413,7 +76514,11 @@
 "LatLong": "60.3833,15.2333"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -75514,6 +76619,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Gävleborg",
@@ -75522,6 +76629,8 @@
 {
 "Name": "Ockelbo",
 "Code": "2101",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ockelbo",
@@ -75594,10 +76703,14 @@
 "LatLong": "60.8912,16.7185"
 }
 ]
+}
+]
 },
 {
 "Name": "Hofors",
 "Code": "2104",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hofors",
@@ -75700,10 +76813,14 @@
 "LatLong": "60.5167,16.4833"
 }
 ]
+}
+]
 },
 {
 "Name": "Ovanåker",
 "Code": "2121",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Enviken",
@@ -75851,10 +76968,14 @@
 "LatLong": "61.3769,15.8175"
 }
 ]
+}
+]
 },
 {
 "Name": "Nordanstig",
 "Code": "2132",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bergsjö",
@@ -75892,10 +77013,14 @@
 "LatLong": "62.0667,17.2833"
 }
 ]
+}
+]
 },
 {
 "Name": "Ljusdal",
 "Code": "2161",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Färila",
@@ -76033,10 +77158,14 @@
 "LatLong": "61.8667,16.0167"
 }
 ]
+}
+]
 },
 {
 "Name": "Gävle",
 "Code": "2180",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gävle",
@@ -76799,10 +77928,14 @@
 "LatLong": "60.65,17.0333"
 }
 ]
+}
+]
 },
 {
 "Name": "Sandviken",
 "Code": "2181",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Horndal",
@@ -77105,10 +78238,14 @@
 "LatLong": "60.6167,16.8833"
 }
 ]
+}
+]
 },
 {
 "Name": "Söderhamn",
 "Code": "2182",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Axmar",
@@ -77311,10 +78448,14 @@
 "LatLong": "61.3144,17.0171"
 }
 ]
+}
+]
 },
 {
 "Name": "Bollnäs",
 "Code": "2183",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Åmotsbruk",
@@ -77552,10 +78693,14 @@
 "LatLong": "61.2667,16.6333"
 }
 ]
+}
+]
 },
 {
 "Name": "Hudiksvall",
 "Code": "2184",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Delsbo",
@@ -77813,7 +78958,11 @@
 "LatLong": "61.5456,17.0106"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -77999,6 +79148,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Västernorrland",
@@ -78007,6 +79158,8 @@
 {
 "Name": "Ånge",
 "Code": "2260",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ljungaverk",
@@ -78114,10 +79267,14 @@
 "LatLong": "62.5333,15.9167"
 }
 ]
+}
+]
 },
 {
 "Name": "Timrå",
 "Code": "2262",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sörberge",
@@ -78215,10 +79372,14 @@
 "LatLong": "62.487,17.3257"
 }
 ]
+}
+]
 },
 {
 "Name": "Härnösand",
 "Code": "2280",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Söråker",
@@ -78436,10 +79597,14 @@
 "LatLong": "62.7667,17.4167"
 }
 ]
+}
+]
 },
 {
 "Name": "Sundsvall",
 "Code": "2281",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sundsvall",
@@ -79212,10 +80377,14 @@
 "LatLong": "62.4489,17.4047"
 }
 ]
+}
+]
 },
 {
 "Name": "Kramfors",
 "Code": "2282",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ramvik",
@@ -79428,10 +80597,14 @@
 "LatLong": "63,17.6833"
 }
 ]
+}
+]
 },
 {
 "Name": "Sollefteå",
 "Code": "2283",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Näsåker",
@@ -79644,10 +80817,14 @@
 "LatLong": "63.0667,16.95"
 }
 ]
+}
+]
 },
 {
 "Name": "Örnsköldsvik",
 "Code": "2284",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Junsele",
@@ -80170,7 +81347,11 @@
 "LatLong": "63.7833,17.6333"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -80811,6 +81992,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Jämtland",
@@ -80819,6 +82002,8 @@
 {
 "Name": "Ragunda",
 "Code": "2303",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hammarstrand",
@@ -80836,10 +82021,14 @@
 "LatLong": "62.7,16.8"
 }
 ]
+}
+]
 },
 {
 "Name": "Bräcke",
 "Code": "2305",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Torpshammar",
@@ -80872,10 +82061,14 @@
 "LatLong": "62.8,16.2"
 }
 ]
+}
+]
 },
 {
 "Name": "Krokom",
 "Code": "2309",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ås",
@@ -80948,10 +82141,14 @@
 "LatLong": "63.3667,14.5"
 }
 ]
+}
+]
 },
 {
 "Name": "Strömsund",
 "Code": "2313",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hammerdal",
@@ -81089,10 +82286,14 @@
 "LatLong": "63.9333,16.35"
 }
 ]
+}
+]
 },
 {
 "Name": "Åre",
 "Code": "2321",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hallen",
@@ -81150,10 +82351,14 @@
 "LatLong": "63.45,13.9833"
 }
 ]
+}
+]
 },
 {
 "Name": "Berg",
 "Code": "2326",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oviken",
@@ -81191,10 +82396,14 @@
 "LatLong": "62.5484,14.3647"
 }
 ]
+}
+]
 },
 {
 "Name": "Härjedalen",
 "Code": "2361",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ramsjö",
@@ -81317,10 +82526,14 @@
 "LatLong": "62.0341,14.3658"
 }
 ]
+}
+]
 },
 {
 "Name": "Östersund",
 "Code": "2380",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tandsbyn",
@@ -81783,7 +82996,11 @@
 "LatLong": "62.7667,14.4353"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
@@ -82139,9 +83356,13 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Provinces": [
+{
+"Communities": [
 {
 "Places": [
 {
@@ -82328,6 +83549,8 @@
 "Name": "Grängesberg",
 "PostCode": "772 20",
 "LatLong": "60.0833,14.9833"
+}
+]
 }
 ]
 }

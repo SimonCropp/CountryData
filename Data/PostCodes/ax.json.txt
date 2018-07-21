@@ -1,5 +1,4 @@
 {
-"Structure": "State/Province/Place",
 "States": [
 {
 "Name": "Mariehamns stad",
@@ -8,6 +7,8 @@
 {
 "Name": "Mariehamn",
 "Code": "478",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mariehamn",
@@ -22,6 +23,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ålands landsbygd",
@@ -30,6 +33,8 @@
 {
 "Name": "Eckerö",
 "Code": "043",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eckerö",
@@ -37,10 +42,14 @@
 "LatLong": "60.2203,19.6263"
 }
 ]
+}
+]
 },
 {
 "Name": "Finström",
 "Code": "060",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Emkarby",
@@ -68,10 +77,14 @@
 "LatLong": "60.2235,19.9794"
 }
 ]
+}
+]
 },
 {
 "Name": "Geta",
 "Code": "065",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Geta",
@@ -79,10 +92,14 @@
 "LatLong": "60.3791,19.8878"
 }
 ]
+}
+]
 },
 {
 "Name": "Hammarland",
 "Code": "076",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hammarland",
@@ -90,10 +107,14 @@
 "LatLong": "60.2286,19.7396"
 }
 ]
+}
+]
 },
 {
 "Name": "Jomala",
 "Code": "170",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mariehamn",
@@ -121,10 +142,14 @@
 "LatLong": "60.1497,19.9521"
 }
 ]
+}
+]
 },
 {
 "Name": "Lemland",
 "Code": "417",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mariehamn",
@@ -137,10 +162,14 @@
 "LatLong": "60.0491,20.1232"
 }
 ]
+}
+]
 },
 {
 "Name": "Lumparland",
 "Code": "438",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lumparland",
@@ -148,10 +177,14 @@
 "LatLong": "60.1204,20.2616"
 }
 ]
+}
+]
 },
 {
 "Name": "Saltvik",
 "Code": "736",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ödkarby",
@@ -164,10 +197,14 @@
 "LatLong": "60.3146,20.1073"
 }
 ]
+}
+]
 },
 {
 "Name": "Sund",
 "Code": "771",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kastelholm",
@@ -182,6 +219,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Ålands skärgård",
@@ -190,6 +229,8 @@
 {
 "Name": "Brändö",
 "Code": "035",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lappo",
@@ -222,10 +263,14 @@
 "LatLong": "60.5196,21.0717"
 }
 ]
+}
+]
 },
 {
 "Name": "Föglö",
 "Code": "062",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Föglö",
@@ -233,10 +278,14 @@
 "LatLong": "60.0316,20.4605"
 }
 ]
+}
+]
 },
 {
 "Name": "Kumlinge",
 "Code": "295",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Seglinge",
@@ -254,10 +303,14 @@
 "LatLong": "60.3349,20.758"
 }
 ]
+}
+]
 },
 {
 "Name": "Kökar",
 "Code": "318",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kökar",
@@ -265,10 +318,14 @@
 "LatLong": "59.9345,20.9298"
 }
 ]
+}
+]
 },
 {
 "Name": "Sottunga",
 "Code": "766",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sottunga",
@@ -276,15 +333,21 @@
 "LatLong": "60.1248,20.6751"
 }
 ]
+}
+]
 },
 {
 "Name": "Vårdö",
 "Code": "941",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vårdö",
 "PostCode": "22550",
 "LatLong": "60.2607,20.3725"
+}
+]
 }
 ]
 }

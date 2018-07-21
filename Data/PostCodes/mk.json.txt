@@ -1,5 +1,10 @@
 {
-"Structure": "Place",
+"States": [
+{
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skopje",
@@ -1100,6 +1105,12 @@
 "Name": "Krusevo",
 "PostCode": "7550",
 "LatLong": "41.3689,21.2489"
+}
+]
+}
+]
+}
+]
 }
 ]
 }

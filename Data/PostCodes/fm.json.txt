@@ -1,9 +1,12 @@
 {
-"Structure": "State/Place",
 "States": [
 {
 "Name": "State of Kosrae",
 "Code": "01",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kosrae",
@@ -11,10 +14,18 @@
 "LatLong": "7.1383,151.5031"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "State of Pohnpei",
 "Code": "02",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pohnpei",
@@ -22,10 +33,18 @@
 "LatLong": "7.1383,151.5031"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "State of Chuuk",
 "Code": "03",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chuuk",
@@ -33,15 +52,27 @@
 "LatLong": "7.1383,151.5031"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "State of Yap",
 "Code": "04",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yap",
 "PostCode": "96943",
 "LatLong": "7.1383,151.5031"
+}
+]
+}
+]
 }
 ]
 }

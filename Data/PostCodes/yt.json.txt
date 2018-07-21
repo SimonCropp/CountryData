@@ -1,9 +1,12 @@
 {
-"Structure": "State/Place",
 "States": [
 {
 "Name": "Mayotte (general)",
 "Code": "00",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Passamainty",
@@ -11,10 +14,18 @@
 "LatLong": "-12.802,45.2082"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Acoua",
 "Code": "97601",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Acoua",
@@ -22,10 +33,18 @@
 "LatLong": "-12.7239,45.0582"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Bandraboua",
 "Code": "97602",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bandraboua",
@@ -33,10 +52,18 @@
 "LatLong": "-12.7044,45.1223"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Bandrele",
 "Code": "97603",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bandrélé",
@@ -44,10 +71,18 @@
 "LatLong": "-12.9128,45.1926"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Bouéni",
 "Code": "97604",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bouéni",
@@ -55,10 +90,18 @@
 "LatLong": "-12.9025,45.0761"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Chiconi",
 "Code": "97605",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chiconi",
@@ -66,10 +109,18 @@
 "LatLong": "-12.8333,45.1106"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Chirongui",
 "Code": "97606",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chirongui",
@@ -77,10 +128,18 @@
 "LatLong": "-12.9319,45.1483"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Dembeni",
 "Code": "97607",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dembeni",
@@ -88,10 +147,18 @@
 "LatLong": "-12.8436,45.1844"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Dzaoudzi",
 "Code": "97608",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dzaoudzi",
@@ -99,10 +166,18 @@
 "LatLong": "-12.7783,45.2837"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Kani-Kéli",
 "Code": "97609",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kani Kéli",
@@ -110,10 +185,18 @@
 "LatLong": "-12.9536,45.1033"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Koungou",
 "Code": "97610",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Koungou",
@@ -121,10 +204,18 @@
 "LatLong": "-12.7336,45.2042"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Mamoudzou",
 "Code": "97611",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mamoudzou",
@@ -147,10 +238,18 @@
 "LatLong": "-12.7823,45.2288"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Mtsamboro",
 "Code": "97612",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mtsamboro",
@@ -158,10 +257,18 @@
 "LatLong": "-12.6998,45.0689"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "M'Tsangamouji",
 "Code": "97613",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "M'Tsangamouji",
@@ -169,10 +276,18 @@
 "LatLong": "-12.7594,45.0836"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ouangani",
 "Code": "97614",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ouangani",
@@ -180,10 +295,18 @@
 "LatLong": "-12.8464,45.1361"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Pamandzi",
 "Code": "97615",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pamandzi",
@@ -191,10 +314,18 @@
 "LatLong": "-12.7949,45.282"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Sada",
 "Code": "97616",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sada",
@@ -202,15 +333,27 @@
 "LatLong": "-12.8505,45.1021"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tsingoni",
 "Code": "97617",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tsingoni",
 "PostCode": "97680",
 "LatLong": "-12.7872,45.1028"
+}
+]
+}
+]
 }
 ]
 }

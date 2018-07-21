@@ -1,5 +1,10 @@
 {
-"Structure": "Place",
+"States": [
+{
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pretoria",
@@ -19600,6 +19605,12 @@
 "Name": "Bethulie",
 "PostCode": "9992",
 "LatLong": "-30.5333,21.2833"
+}
+]
+}
+]
+}
+]
 }
 ]
 }

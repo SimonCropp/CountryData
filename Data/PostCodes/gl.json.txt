@@ -1,5 +1,10 @@
 {
-"Structure": "Place",
+"States": [
+{
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Claus/Julemanden",
@@ -165,6 +170,12 @@
 "Name": "Slædepatruljen Sirius",
 "PostCode": "3992",
 "LatLong": "67.2561,-48.0617"
+}
+]
+}
+]
+}
+]
 }
 ]
 }

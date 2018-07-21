@@ -1,9 +1,12 @@
 {
-"Structure": "State/Place",
 "States": [
 {
 "Name": "Adrar",
 "Code": "01",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Adrar Cite Zerrari Med",
@@ -1191,10 +1194,18 @@
 "LatLong": "28.2134,0.1323"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Chlef",
 "Code": "02",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ech Cheliff Rp",
@@ -3237,10 +3248,18 @@
 "LatLong": "36.2477,1.3278"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "L.Aghouat",
 "Code": "03",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dekhla",
@@ -3863,10 +3882,18 @@
 "LatLong": "33.9131,2.4344"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Oum-El-Bouaghi",
 "Code": "04",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lefdjoudj",
@@ -5244,10 +5271,18 @@
 "LatLong": "35.776,7.3576"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Batna",
 "Code": "05",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Biar",
@@ -7195,10 +7230,18 @@
 "LatLong": "35.4602,6.1787"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Bejaia",
 "Code": "06",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ibouhathmane",
@@ -11296,10 +11339,18 @@
 "LatLong": "36.4869,4.6911"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Biskra",
 "Code": "07",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Biskra Rp",
@@ -12217,10 +12268,18 @@
 "LatLong": "34.7405,5.7624"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Bechar",
 "Code": "08",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Benzireg",
@@ -13383,10 +13442,18 @@
 "LatLong": "30.4892,-1.9505"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Blida",
 "Code": "09",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tabelbala",
@@ -14754,10 +14821,18 @@
 "LatLong": "36.6204,3.2225"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Bouira",
 "Code": "10",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kafi",
@@ -17725,10 +17800,18 @@
 "LatLong": "36.3328,3.9195"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tamanrasset",
 "Code": "11",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tit",
@@ -18161,10 +18244,18 @@
 "LatLong": "23.8236,5.9331"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tebessa",
 "Code": "12",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bir Salem",
@@ -18662,10 +18753,18 @@
 "LatLong": "35.5175,7.9448"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tlemcen",
 "Code": "13",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chetouane",
@@ -22703,10 +22802,18 @@
 "LatLong": "34.6816,-1.479"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tiaret",
 "Code": "14",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tiaret Cherif Djaghri",
@@ -23769,10 +23876,18 @@
 "LatLong": "35.4791,1.1572"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tizi-Ouzou",
 "Code": "15",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ferme Ali Oulamara",
@@ -32200,10 +32315,18 @@
 "LatLong": "36.6522,4.3071"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Alger",
 "Code": "16",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alger Palais Du Gouvernement",
@@ -35871,10 +35994,18 @@
 "LatLong": "36.7482,3.1791"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Djelfa",
 "Code": "17",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Djelfa Terre",
@@ -36597,10 +36728,18 @@
 "LatLong": "34.4265,3.323"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Jijel",
 "Code": "18",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Haddada",
@@ -37233,10 +37372,18 @@
 "LatLong": "36.7331,5.9118"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Setif",
 "Code": "19",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Setif Ain Romane",
@@ -41154,10 +41301,18 @@
 "LatLong": "36.1058,5.4477"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Saida",
 "Code": "20",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saida Soummam",
@@ -41860,10 +42015,18 @@
 "LatLong": "35.0251,0.563"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Skikda",
 "Code": "21",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skikda Rp",
@@ -42956,10 +43119,18 @@
 "LatLong": "36.6969,7.011"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Sidi-Bel-Abbes",
 "Code": "22",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sidi Bel Abbes Terre",
@@ -43687,10 +43858,18 @@
 "LatLong": "35.2423,-0.5217"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Annaba",
 "Code": "23",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Annaba Rp",
@@ -44203,10 +44382,18 @@
 "LatLong": "36.8474,7.6167"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Guelma",
 "Code": "24",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Domaine Houati",
@@ -45319,10 +45506,18 @@
 "LatLong": "36.5125,7.2244"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Constantine",
 "Code": "25",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sidi M'Cid",
@@ -46825,10 +47020,18 @@
 "LatLong": "36.3396,6.704"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Medea",
 "Code": "26",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Draa Benguanif",
@@ -50666,10 +50869,18 @@
 "LatLong": "36.0686,2.8927"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Mostaganem",
 "Code": "27",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bellada",
@@ -52612,10 +52823,18 @@
 "LatLong": "35.9036,0.1799"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "M'Sila",
 "Code": "28",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ouled Bedira",
@@ -53748,10 +53967,18 @@
 "LatLong": "35.1875,4.1036"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Mascara",
 "Code": "29",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mouaissia",
@@ -58459,10 +58686,18 @@
 "LatLong": "35.4064,0.2996"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ouargla",
 "Code": "30",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ouargla Mekhadma",
@@ -59255,10 +59490,18 @@
 "LatLong": "32.6555,5.8221"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Oran",
 "Code": "31",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oran Mouloud Feraoun",
@@ -60116,10 +60359,18 @@
 "LatLong": "35.7129,-0.4888"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "El-Bayadh",
 "Code": "32",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ouled Omrane",
@@ -60797,10 +61048,18 @@
 "LatLong": "33.6519,0.3086"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Illizi",
 "Code": "33",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Halloufa",
@@ -61098,10 +61357,18 @@
 "LatLong": "28.2503,7.901"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Bordj-Bou-Arreridj",
 "Code": "34",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Domaine Ben Ahmed",
@@ -63559,10 +63826,18 @@
 "LatLong": "36.323,4.7197"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Boumerdes",
 "Code": "35",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cite Brock (Ferme)",
@@ -66420,10 +66695,18 @@
 "LatLong": "36.7851,3.586"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "El-Taref",
 "Code": "36",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mechta Laca",
@@ -67401,10 +67684,18 @@
 "LatLong": "36.8231,8.3407"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tindouf",
 "Code": "37",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tindou Secteur",
@@ -67467,10 +67758,18 @@
 "LatLong": "29.0687,-7.3555"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tissemsilt",
 "Code": "38",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beni Maida",
@@ -68358,10 +68657,18 @@
 "LatLong": "35.7085,1.8681"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "El-Oued",
 "Code": "39",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Oued Sahan",
@@ -69334,10 +69641,18 @@
 "LatLong": "33.5753,6.5821"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Khenchela",
 "Code": "40",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Boudjelbana",
@@ -70265,10 +70580,18 @@
 "LatLong": "34.9272,6.8553"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Souk-Ahras",
 "Code": "41",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Souk Ahras Rp",
@@ -70831,10 +71154,18 @@
 "LatLong": "36.1883,7.9606"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tipaza",
 "Code": "42",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Douar Mansour",
@@ -72502,10 +72833,18 @@
 "LatLong": "36.4667,2.5"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Mila",
 "Code": "43",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mechta Bouhama",
@@ -74578,10 +74917,18 @@
 "LatLong": "36.3422,6.1808"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ain-Defla",
 "Code": "44",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arabia",
@@ -76764,10 +77111,18 @@
 "LatLong": "36.1459,2.0062"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Naama",
 "Code": "45",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Naama Rp",
@@ -77105,10 +77460,18 @@
 "LatLong": "33.4153,-0.1933"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ain-Temouchent",
 "Code": "46",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ain Temouchent Sidi Said",
@@ -77776,10 +78139,18 @@
 "LatLong": "35.4429,-1.2367"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ghardaia",
 "Code": "47",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sid El Hadj Messaoud",
@@ -78362,10 +78733,18 @@
 "LatLong": "32.4849,3.8708"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Relizane",
 "Code": "48",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cheraitia",
@@ -80041,6 +80420,10 @@
 "Name": "Zenainia",
 "PostCode": "48073",
 "LatLong": "35.9432,0.8857"
+}
+]
+}
+]
 }
 ]
 }

@@ -1,9 +1,12 @@
 {
-"Structure": "State/Place",
 "States": [
 {
 "Name": "DEPTO DE ALTA VERAPAZ",
 "Code": "01",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE ALTA VERAPAZ",
@@ -141,10 +144,18 @@
 "LatLong": "15.4462,-90.091"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE BAJA VERAPAZ",
 "Code": "02",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE BAJA VERAPAZ",
@@ -212,10 +223,18 @@
 "LatLong": "15.0516,-90.4148"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE CHIMALTENANGO",
 "Code": "03",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE CHIMALTENANGO",
@@ -303,10 +322,18 @@
 "LatLong": "14.6478,-90.7928"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE CHIQUIMULA",
 "Code": "04",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE CHIQUIMULA",
@@ -414,10 +441,18 @@
 "LatLong": "14.6974,-89.4654"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE ESCUINTLA",
 "Code": "06",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE ESCUINTLA",
@@ -525,10 +560,18 @@
 "LatLong": "14.276,-90.9404"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ciudad de Guatemala",
 "Code": "07",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "ZONA 1",
@@ -631,10 +674,18 @@
 "LatLong": "14.6328,-90.5199"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE GUATEMALA",
 "Code": "07",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "SANTA CATARINA PINULA",
@@ -752,10 +803,18 @@
 "LatLong": "14.6328,-90.5199"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE EL PROGRESO",
 "Code": "07",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE EL PROGRESO",
@@ -838,10 +897,18 @@
 "LatLong": "14.8515,-90.1145"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE HUEHUETENANGO",
 "Code": "08",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE HUEHUETENANGO",
@@ -1054,10 +1121,18 @@
 "LatLong": "15.6167,-91.9833"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE IZABAL",
 "Code": "09",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE IZABAL",
@@ -1180,10 +1255,18 @@
 "LatLong": "15.5667,-88.9233"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE JALAPA",
 "Code": "10",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE JALAPA",
@@ -1231,10 +1314,18 @@
 "LatLong": "14.6167,-89.9667"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE JUTIAPA",
 "Code": "11",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE JUTIAPA",
@@ -1377,10 +1468,18 @@
 "LatLong": "14.2333,-89.9667"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE PETEN",
 "Code": "12",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE PETEN",
@@ -1533,10 +1632,18 @@
 "LatLong": "16.7663,-89.8155"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE QUETZALTENANGO",
 "Code": "13",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE QUETZALTENANGO",
@@ -1714,10 +1821,18 @@
 "LatLong": "14.8542,-91.6097"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DEL QUICHE",
 "Code": "14",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DEL QUICHE",
@@ -1850,10 +1965,18 @@
 "LatLong": "15.2583,-90.5833"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE RETALHULEU",
 "Code": "15",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE RETALHULEU",
@@ -1931,10 +2054,18 @@
 "LatLong": "14.4833,-91.8333"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE SACATEPEQUEZ",
 "Code": "16",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE SACATEPEQUEZ",
@@ -2027,10 +2158,18 @@
 "LatLong": "14.5261,-90.7608"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE SAN MARCOS",
 "Code": "17",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE SAN MARCOS",
@@ -2288,10 +2427,18 @@
 "LatLong": "14.9533,-91.8938"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE SANTA ROSA",
 "Code": "18",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE SANTA ROSA",
@@ -2434,10 +2581,18 @@
 "LatLong": "14.2574,-90.3188"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE SOLOLA",
 "Code": "19",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE SOLOLA",
@@ -2565,10 +2720,18 @@
 "LatLong": "14.8667,-91.1833"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE SUCHITEPEQUEZ",
 "Code": "20",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE SUCHITEPEQUEZ",
@@ -2726,10 +2889,18 @@
 "LatLong": "14.4926,-91.3981"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE TOTONICAPAN",
 "Code": "21",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE TOTONICAPAN",
@@ -2777,10 +2948,18 @@
 "LatLong": "15.0844,-91.4558"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "DEPTO DE ZACAPA",
 "Code": "22",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DEPTO DE ZACAPA",
@@ -2876,6 +3055,10 @@
 "Name": "SAN VICENTE",
 "PostCode": "19018",
 "LatLong": "14.9,-89.75"
+}
+]
+}
+]
 }
 ]
 }

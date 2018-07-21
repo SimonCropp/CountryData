@@ -1,9 +1,12 @@
 {
-"Structure": "State/Place",
 "States": [
 {
 "Name": "Salta",
 "Code": "A",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "POZO CERCADO (EL CHORRO (F), DPTO. RIVADAVIA (S))",
@@ -4656,10 +4659,18 @@
 "LatLong": "-22.2139,-65.2528"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Buenos Aires",
 "Code": "B",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "ISLA MARTIN GARCIA",
@@ -20597,10 +20608,18 @@
 "LatLong": "-39.7667,-62.6167"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "San Luis",
 "Code": "D",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "ALTO",
@@ -26853,10 +26872,18 @@
 "LatLong": "-34.375,-59.6417"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Entre Rios",
 "Code": "E",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "BRAZO LARGO",
@@ -32239,10 +32266,18 @@
 "LatLong": "-32.7,-58.7667"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "La Rioja",
 "Code": "F",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "LA LIBERTAD (EL MEDANO, DPTO. CAPITAL)",
@@ -34095,10 +34130,18 @@
 "LatLong": "-33.15,-66.35"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Santiago Del Estero",
 "Code": "G",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "NUEVA CERES",
@@ -43836,10 +43879,18 @@
 "LatLong": "-32.2351,-66.0825"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Chaco",
 "Code": "H",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "BARRIO VILLA PALERMO",
@@ -46082,10 +46133,18 @@
 "LatLong": "-27.4667,-61.6875"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "San Juan",
 "Code": "J",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "TRINIDAD",
@@ -48068,10 +48127,18 @@
 "LatLong": "-32.7896,-68.8979"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Catamarca",
 "Code": "K",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "TOROYACO",
@@ -51989,10 +52056,18 @@
 "LatLong": "-32.6625,-65.7167"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "La Pampa",
 "Code": "L",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "LA CHIRLANDIA",
@@ -55555,10 +55630,18 @@
 "LatLong": "-39,-66.9042"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Mendoza",
 "Code": "M",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "PUESTO LOS CHAÑARES",
@@ -58391,10 +58474,18 @@
 "LatLong": "-34.7333,-66.7"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Misiones",
 "Code": "N",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "POSADAS",
@@ -60352,10 +60443,18 @@
 "LatLong": "-26.19,-58.5733"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Formosa",
 "Code": "P",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "KILOMETRO 254 (NAVEGACION RIO BERMEJO)",
@@ -62208,10 +62307,18 @@
 "LatLong": "-37.0722,-60.3833"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Neuquen",
 "Code": "Q",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "QUEMPU LEUFU",
@@ -64534,10 +64641,18 @@
 "LatLong": "-40.7733,-71.6633"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Rio Negro",
 "Code": "R",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "KILOMETRO 823",
@@ -66810,10 +66925,18 @@
 "LatLong": "-43.3028,-65.9618"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Santa Fe",
 "Code": "S",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "BARRIO GODOY",
@@ -71766,10 +71889,18 @@
 "LatLong": "-39.4833,-62.6833"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tucuman",
 "Code": "T",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "VILLA LUJAN",
@@ -77252,10 +77383,18 @@
 "LatLong": "-31.3603,-64.6885"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Chubut",
 "Code": "U",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "CUSHAMEN",
@@ -79468,10 +79607,18 @@
 "LatLong": "-51.394,-70.6055"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tierra Del Fuego",
 "Code": "V",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "ISLAS MALVINAS",
@@ -79714,10 +79861,18 @@
 "LatLong": "-53.5,-68.05"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Corrientes",
 "Code": "W",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "PEDRO DIAZ COLODRERO",
@@ -85770,10 +85925,18 @@
 "LatLong": "-24.8784,-59.7288"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Cordoba",
 "Code": "X",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "CRUZ ALTA",
@@ -97751,10 +97914,18 @@
 "LatLong": "-41.2278,-65.7463"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Jujuy",
 "Code": "Y",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "SEY",
@@ -100117,10 +100288,18 @@
 "LatLong": "-22.12,-65.9533"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Santa Cruz",
 "Code": "Z",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "DIEGO E. RITCHIE",
@@ -101436,6 +101615,10 @@
 "Name": "RINCON DE LOS MORROS",
 "PostCode": "9407",
 "LatLong": "-51.7083,-72.0375"
+}
+]
+}
+]
 }
 ]
 }

@@ -1,5 +1,4 @@
 {
-"Structure": "State/Province/Place",
 "States": [
 {
 "Name": "Drenthe",
@@ -8,6 +7,8 @@
 {
 "Name": "Assen",
 "Code": "0106",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Assen",
@@ -85,10 +86,14 @@
 "LatLong": "53.0496,6.5795"
 }
 ]
+}
+]
 },
 {
 "Name": "Coevorden",
 "Code": "0109",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Coevorden",
@@ -221,10 +226,14 @@
 "LatLong": "52.7003,6.6341"
 }
 ]
+}
+]
 },
 {
 "Name": "Emmen",
 "Code": "0114",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Schoonebeek",
@@ -392,10 +401,14 @@
 "LatLong": "52.8399,7.031"
 }
 ]
+}
+]
 },
 {
 "Name": "Hoogeveen",
 "Code": "0118",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hoogeveen",
@@ -518,10 +531,14 @@
 "LatLong": "52.7491,6.5438"
 }
 ]
+}
+]
 },
 {
 "Name": "Meppel",
 "Code": "0119",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Meppel",
@@ -569,10 +586,14 @@
 "LatLong": "52.6783,6.2583"
 }
 ]
+}
+]
 },
 {
 "Name": "Aa en Hunze",
 "Code": "1680",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Schoonloo",
@@ -755,10 +776,14 @@
 "LatLong": "53.0582,6.8328"
 }
 ]
+}
+]
 },
 {
 "Name": "Borger-Odoorn",
 "Code": "1681",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eeserveen",
@@ -891,10 +916,14 @@
 "LatLong": "52.9027,6.9013"
 }
 ]
+}
+]
 },
 {
 "Name": "De Wolden",
 "Code": "1690",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Drogteropslagen",
@@ -962,10 +991,14 @@
 "LatLong": "52.7829,6.3332"
 }
 ]
+}
+]
 },
 {
 "Name": "Noordenveld",
 "Code": "1699",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Roden",
@@ -1093,10 +1126,14 @@
 "LatLong": "53.1937,6.4505"
 }
 ]
+}
+]
 },
 {
 "Name": "Westerveld",
 "Code": "1701",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dwingeloo",
@@ -1234,10 +1271,14 @@
 "LatLong": "52.9098,6.3685"
 }
 ]
+}
+]
 },
 {
 "Name": "Tynaarlo",
 "Code": "1730",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zuidlaren",
@@ -1335,10 +1376,14 @@
 "LatLong": "53.1791,6.5389"
 }
 ]
+}
+]
 },
 {
 "Name": "Midden-Drenthe",
 "Code": "1731",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nieuweroord",
@@ -1478,6 +1523,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Friesland",
@@ -1486,6 +1533,8 @@
 {
 "Name": "Dongeradeel",
 "Code": "0058",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dokkum",
@@ -1638,10 +1687,14 @@
 "LatLong": "53.3326,5.9612"
 }
 ]
+}
+]
 },
 {
 "Name": "Achtkarspelen",
 "Code": "0059",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Surhuisterveen",
@@ -1709,10 +1762,14 @@
 "LatLong": "53.2407,6.206"
 }
 ]
+}
+]
 },
 {
 "Name": "Ameland",
 "Code": "0060",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hollum",
@@ -1735,10 +1792,14 @@
 "LatLong": "53.4523,5.8009"
 }
 ]
+}
+]
 },
 {
 "Name": "het Bildt",
 "Code": "0063",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Minnertsga",
@@ -1781,10 +1842,14 @@
 "LatLong": "53.2768,5.6087"
 }
 ]
+}
+]
 },
 {
 "Name": "Franekeradeel",
 "Code": "0070",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Franeker",
@@ -1877,10 +1942,14 @@
 "LatLong": "53.2134,5.4686"
 }
 ]
+}
+]
 },
 {
 "Name": "Harlingen",
 "Code": "0072",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Wijnaldum",
@@ -1908,10 +1977,14 @@
 "LatLong": "53.1825,5.4459"
 }
 ]
+}
+]
 },
 {
 "Name": "Heerenveen",
 "Code": "0074",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jubbega",
@@ -2059,10 +2132,14 @@
 "LatLong": "52.9565,5.9306"
 }
 ]
+}
+]
 },
 {
 "Name": "Kollumerland en Nieuwkruisland",
 "Code": "0079",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kollum",
@@ -2130,10 +2207,14 @@
 "LatLong": "53.3046,6.2695"
 }
 ]
+}
+]
 },
 {
 "Name": "Leeuwarden",
 "Code": "0080",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leeuwarden",
@@ -2356,10 +2437,14 @@
 "LatLong": "53.1397,5.7824"
 }
 ]
+}
+]
 },
 {
 "Name": "Leeuwarderadeel",
 "Code": "0081",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stiens",
@@ -2397,10 +2482,14 @@
 "LatLong": "53.2883,5.7282"
 }
 ]
+}
+]
 },
 {
 "Name": "Ooststellingwerf",
 "Code": "0085",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oldeberkoop",
@@ -2468,10 +2557,14 @@
 "LatLong": "53.0193,6.2375"
 }
 ]
+}
+]
 },
 {
 "Name": "Opsterland",
 "Code": "0086",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gorredijk",
@@ -2559,10 +2652,14 @@
 "LatLong": "53.1081,6.2059"
 }
 ]
+}
+]
 },
 {
 "Name": "Schiermonnikoog",
 "Code": "0088",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Schiermonnikoog",
@@ -2570,10 +2667,14 @@
 "LatLong": "53.4806,6.1623"
 }
 ]
+}
+]
 },
 {
 "Name": "Smallingerland",
 "Code": "0090",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Goëngahuizen",
@@ -2676,10 +2777,14 @@
 "LatLong": "53.1517,6.1426"
 }
 ]
+}
+]
 },
 {
 "Name": "Terschelling",
 "Code": "0093",
+"Communities": [
+{
 "Places": [
 {
 "Name": "West-Terschelling",
@@ -2742,10 +2847,14 @@
 "LatLong": "53.4042,5.3771"
 }
 ]
+}
+]
 },
 {
 "Name": "Vlieland",
 "Code": "0096",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vlieland",
@@ -2753,10 +2862,14 @@
 "LatLong": "53.2986,5.0663"
 }
 ]
+}
+]
 },
 {
 "Name": "Weststellingwerf",
 "Code": "0098",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oosterstreek",
@@ -2894,10 +3007,14 @@
 "LatLong": "52.8063,5.8444"
 }
 ]
+}
+]
 },
 {
 "Name": "Littenseradiel",
 "Code": "0140",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Boazum",
@@ -3045,10 +3162,14 @@
 "LatLong": "53.1662,5.7065"
 }
 ]
+}
+]
 },
 {
 "Name": "Tytsjerksteradiel",
 "Code": "0737",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gytsjerk",
@@ -3131,10 +3252,14 @@
 "LatLong": "53.1794,5.9244"
 }
 ]
+}
+]
 },
 {
 "Name": "Ferwerderadiel",
 "Code": "1722",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marrum",
@@ -3202,10 +3327,14 @@
 "LatLong": "53.2974,5.8478"
 }
 ]
+}
+]
 },
 {
 "Name": "Dantumadiel",
 "Code": "1891",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Readtsjerk",
@@ -3258,10 +3387,14 @@
 "LatLong": "53.2554,6.0353"
 }
 ]
+}
+]
 },
 {
 "Name": "Súdwest-Fryslân",
 "Code": "1900",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Koufurderrige",
@@ -3699,10 +3832,14 @@
 "LatLong": "53.074,5.7381"
 }
 ]
+}
+]
 },
 {
 "Name": "Menameradiel",
 "Code": "1908",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Skingen",
@@ -3770,10 +3907,14 @@
 "LatLong": "53.2353,5.7064"
 }
 ]
+}
+]
 },
 {
 "Name": "De Fryske Marren",
 "Code": "1940",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rottum",
@@ -4053,6 +4194,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Gelderland",
@@ -4061,6 +4204,8 @@
 {
 "Name": "Rijnwaarden",
 "Code": "0196",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pannerden",
@@ -4103,10 +4248,14 @@
 "LatLong": "51.8503,6.1487"
 }
 ]
+}
+]
 },
 {
 "Name": "Aalten",
 "Code": "0197",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dinxperlo",
@@ -4139,10 +4288,14 @@
 "LatLong": "51.9426,6.6205"
 }
 ]
+}
+]
 },
 {
 "Name": "Apeldoorn",
 "Code": "0200",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Uddel",
@@ -4310,10 +4463,14 @@
 "LatLong": "52.1676,6.0453"
 }
 ]
+}
+]
 },
 {
 "Name": "Arnhem",
 "Code": "0202",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arnhem",
@@ -4446,10 +4603,14 @@
 "LatLong": "51.9537,5.843"
 }
 ]
+}
+]
 },
 {
 "Name": "Barneveld",
 "Code": "0203",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Barneveld",
@@ -4522,10 +4683,14 @@
 "LatLong": "52.2318,5.7087"
 }
 ]
+}
+]
 },
 {
 "Name": "Beuningen",
 "Code": "0209",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Weurt",
@@ -4553,10 +4718,14 @@
 "LatLong": "51.88,5.7049"
 }
 ]
+}
+]
 },
 {
 "Name": "Brummen",
 "Code": "0213",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eerbeek",
@@ -4589,10 +4758,14 @@
 "LatLong": "52.1515,6.1316"
 }
 ]
+}
+]
 },
 {
 "Name": "Buren",
 "Code": "0214",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zoelen",
@@ -4675,10 +4848,14 @@
 "LatLong": "51.9023,5.303"
 }
 ]
+}
+]
 },
 {
 "Name": "Culemborg",
 "Code": "0216",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Culemborg",
@@ -4716,10 +4893,14 @@
 "LatLong": "51.9386,5.1902"
 }
 ]
+}
+]
 },
 {
 "Name": "Doesburg",
 "Code": "0221",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Doesburg",
@@ -4742,10 +4923,14 @@
 "LatLong": "52.0219,6.1582"
 }
 ]
+}
+]
 },
 {
 "Name": "Doetinchem",
 "Code": "0222",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Doetinchem",
@@ -4803,10 +4988,14 @@
 "LatLong": "51.9608,6.206"
 }
 ]
+}
+]
 },
 {
 "Name": "Druten",
 "Code": "0225",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Horssen",
@@ -4849,10 +5038,14 @@
 "LatLong": "51.8785,5.5905"
 }
 ]
+}
+]
 },
 {
 "Name": "Duiven",
 "Code": "0226",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Loo Gld",
@@ -4885,10 +5078,14 @@
 "LatLong": "51.952,5.9853"
 }
 ]
+}
+]
 },
 {
 "Name": "Ede",
 "Code": "0228",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ede",
@@ -4986,10 +5183,14 @@
 "LatLong": "52.1106,5.8773"
 }
 ]
+}
+]
 },
 {
 "Name": "Elburg",
 "Code": "0230",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Elburg",
@@ -5012,10 +5213,14 @@
 "LatLong": "52.4141,5.8251"
 }
 ]
+}
+]
 },
 {
 "Name": "Epe",
 "Code": "0232",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Epe",
@@ -5053,10 +5258,14 @@
 "LatLong": "52.3448,6.0006"
 }
 ]
+}
+]
 },
 {
 "Name": "Ermelo",
 "Code": "0233",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ermelo",
@@ -5074,10 +5283,14 @@
 "LatLong": "52.3031,5.5971"
 }
 ]
+}
+]
 },
 {
 "Name": "Geldermalsen",
 "Code": "0236",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Acquoy",
@@ -5135,10 +5348,14 @@
 "LatLong": "51.8932,5.2905"
 }
 ]
+}
+]
 },
 {
 "Name": "Harderwijk",
 "Code": "0243",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Harderwijk",
@@ -5186,10 +5403,14 @@
 "LatLong": "52.353,5.6788"
 }
 ]
+}
+]
 },
 {
 "Name": "Hattem",
 "Code": "0244",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hattem",
@@ -5202,10 +5423,14 @@
 "LatLong": "52.4811,6.0528"
 }
 ]
+}
+]
 },
 {
 "Name": "Heerde",
 "Code": "0246",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Wapenveld",
@@ -5233,10 +5458,14 @@
 "LatLong": "52.378,6.0925"
 }
 ]
+}
+]
 },
 {
 "Name": "Heumen",
 "Code": "0252",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Malden",
@@ -5259,10 +5488,14 @@
 "LatLong": "51.7722,5.747"
 }
 ]
+}
+]
 },
 {
 "Name": "Lochem",
 "Code": "0262",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eefde",
@@ -5330,10 +5563,14 @@
 "LatLong": "52.1971,6.3724"
 }
 ]
+}
+]
 },
 {
 "Name": "Maasdriel",
 "Code": "0263",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hedel",
@@ -5386,10 +5623,14 @@
 "LatLong": "51.8175,5.3928"
 }
 ]
+}
+]
 },
 {
 "Name": "Nijkerk",
 "Code": "0267",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nijkerk",
@@ -5417,10 +5658,14 @@
 "LatLong": "52.1748,5.4605"
 }
 ]
+}
+]
 },
 {
 "Name": "Nijmegen",
 "Code": "0268",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nijmegen",
@@ -5548,10 +5793,14 @@
 "LatLong": "51.8677,5.867"
 }
 ]
+}
+]
 },
 {
 "Name": "Oldebroek",
 "Code": "0269",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Noordeinde Gld",
@@ -5594,10 +5843,14 @@
 "LatLong": "52.4664,5.8951"
 }
 ]
+}
+]
 },
 {
 "Name": "Putten",
 "Code": "0273",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Putten",
@@ -5610,10 +5863,14 @@
 "LatLong": "52.2546,5.5862"
 }
 ]
+}
+]
 },
 {
 "Name": "Renkum",
 "Code": "0274",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oosterbeek",
@@ -5656,10 +5913,14 @@
 "LatLong": "52.0066,5.7923"
 }
 ]
+}
+]
 },
 {
 "Name": "Rheden",
 "Code": "0275",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Velp",
@@ -5717,10 +5978,14 @@
 "LatLong": "52.0188,6.0632"
 }
 ]
+}
+]
 },
 {
 "Name": "Rozendaal",
 "Code": "0277",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rozendaal",
@@ -5733,10 +5998,14 @@
 "LatLong": "52.0654,6.0003"
 }
 ]
+}
+]
 },
 {
 "Name": "Scherpenzeel",
 "Code": "0279",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Scherpenzeel",
@@ -5744,10 +6013,14 @@
 "LatLong": "52.0806,5.4887"
 }
 ]
+}
+]
 },
 {
 "Name": "Tiel",
 "Code": "0281",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tiel",
@@ -5805,10 +6078,14 @@
 "LatLong": "51.8596,5.4079"
 }
 ]
+}
+]
 },
 {
 "Name": "Voorst",
 "Code": "0285",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Klarenbeek",
@@ -5871,10 +6148,14 @@
 "LatLong": "52.2454,6.1479"
 }
 ]
+}
+]
 },
 {
 "Name": "Wageningen",
 "Code": "0289",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Wageningen",
@@ -5922,10 +6203,14 @@
 "LatLong": "51.9682,5.6479"
 }
 ]
+}
+]
 },
 {
 "Name": "Westervoort",
 "Code": "0293",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Westervoort",
@@ -5938,10 +6223,14 @@
 "LatLong": "51.9483,5.9772"
 }
 ]
+}
+]
 },
 {
 "Name": "Winterswijk",
 "Code": "0294",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Winterswijk",
@@ -6004,10 +6293,14 @@
 "LatLong": "51.9663,6.6605"
 }
 ]
+}
+]
 },
 {
 "Name": "Wijchen",
 "Code": "0296",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Wijchen",
@@ -6065,10 +6358,14 @@
 "LatLong": "51.8241,5.63"
 }
 ]
+}
+]
 },
 {
 "Name": "Zaltbommel",
 "Code": "0297",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zaltbommel",
@@ -6136,10 +6433,14 @@
 "LatLong": "51.7484,5.1688"
 }
 ]
+}
+]
 },
 {
 "Name": "Zevenaar",
 "Code": "0299",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zevenaar",
@@ -6187,10 +6488,14 @@
 "LatLong": "51.9902,6.0345"
 }
 ]
+}
+]
 },
 {
 "Name": "Zutphen",
 "Code": "0301",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zutphen",
@@ -6243,10 +6548,14 @@
 "LatLong": "52.1319,6.2336"
 }
 ]
+}
+]
 },
 {
 "Name": "Nunspeet",
 "Code": "0302",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nunspeet",
@@ -6274,10 +6583,14 @@
 "LatLong": "52.3659,5.7243"
 }
 ]
+}
+]
 },
 {
 "Name": "Neerijnen",
 "Code": "0304",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ophemert",
@@ -6345,10 +6658,14 @@
 "LatLong": "51.8518,5.3153"
 }
 ]
+}
+]
 },
 {
 "Name": "West Maas en Waal",
 "Code": "0668",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dreumel",
@@ -6411,10 +6728,14 @@
 "LatLong": "51.8788,5.47"
 }
 ]
+}
+]
 },
 {
 "Name": "Lingewaal",
 "Code": "0733",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Asperen",
@@ -6447,10 +6768,14 @@
 "LatLong": "51.8272,5.0518"
 }
 ]
+}
+]
 },
 {
 "Name": "Oude IJsselstreek",
 "Code": "1509",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Terborg",
@@ -6528,10 +6853,14 @@
 "LatLong": "51.8811,6.4636"
 }
 ]
+}
+]
 },
 {
 "Name": "Oost Gelre",
 "Code": "1586",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lichtenvoorde",
@@ -6579,10 +6908,14 @@
 "LatLong": "52.0114,6.4752"
 }
 ]
+}
+]
 },
 {
 "Name": "Lingewaard",
 "Code": "1705",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bemmel",
@@ -6630,10 +6963,14 @@
 "LatLong": "51.9306,5.968"
 }
 ]
+}
+]
 },
 {
 "Name": "Overbetuwe",
 "Code": "1734",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Elst",
@@ -6701,10 +7038,14 @@
 "LatLong": "51.8794,5.8258"
 }
 ]
+}
+]
 },
 {
 "Name": "Neder-Betuwe",
 "Code": "1740",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kesteren",
@@ -6737,10 +7078,14 @@
 "LatLong": "51.9118,5.6577"
 }
 ]
+}
+]
 },
 {
 "Name": "Berkelland",
 "Code": "1859",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eibergen",
@@ -6803,10 +7148,14 @@
 "LatLong": "52.17,6.526"
 }
 ]
+}
+]
 },
 {
 "Name": "Bronckhorst",
 "Code": "1876",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Drempt",
@@ -6894,10 +7243,14 @@
 "LatLong": "52.0301,6.2953"
 }
 ]
+}
+]
 },
 {
 "Name": "Berg en Dal",
 "Code": "1945",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Groesbeek",
@@ -6965,10 +7318,14 @@
 "LatLong": "51.8632,6.0104"
 }
 ]
+}
+]
 },
 {
 "Name": "Montferland",
 "Code": "1955",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Didam",
@@ -7038,6 +7395,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Groningen",
@@ -7046,6 +7405,8 @@
 {
 "Name": "Appingedam",
 "Code": "0003",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Appingedam",
@@ -7063,10 +7424,14 @@
 "LatLong": "53.3175,6.8471"
 }
 ]
+}
+]
 },
 {
 "Name": "Bedum",
 "Code": "0005",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bedum",
@@ -7089,10 +7454,14 @@
 "LatLong": "53.3341,6.5872"
 }
 ]
+}
+]
 },
 {
 "Name": "Bellingwedde",
 "Code": "0007",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Veelerveen",
@@ -7125,10 +7494,14 @@
 "LatLong": "53.0742,7.1261"
 }
 ]
+}
+]
 },
 {
 "Name": "Ten Boer",
 "Code": "0009",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ten Boer",
@@ -7171,10 +7544,14 @@
 "LatLong": "53.2474,6.6533"
 }
 ]
+}
+]
 },
 {
 "Name": "Delfzijl",
 "Code": "0010",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Krewerd",
@@ -7267,10 +7644,14 @@
 "LatLong": "53.297,7.0161"
 }
 ]
+}
+]
 },
 {
 "Name": "Groningen",
 "Code": "0014",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Meerstad",
@@ -7448,10 +7829,14 @@
 "LatLong": "53.2562,6.5085"
 }
 ]
+}
+]
 },
 {
 "Name": "Grootegast",
 "Code": "0015",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oldekerk",
@@ -7494,10 +7879,14 @@
 "LatLong": "53.2348,6.2587"
 }
 ]
+}
+]
 },
 {
 "Name": "Haren",
 "Code": "0017",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Noordlaren",
@@ -7530,10 +7919,14 @@
 "LatLong": "53.1398,6.6298"
 }
 ]
+}
+]
 },
 {
 "Name": "Hoogezand-Sappemeer",
 "Code": "0018",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hoogezand",
@@ -7581,10 +7974,14 @@
 "LatLong": "53.1637,6.7875"
 }
 ]
+}
+]
 },
 {
 "Name": "Leek",
 "Code": "0022",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leek",
@@ -7632,10 +8029,14 @@
 "LatLong": "53.2025,6.4426"
 }
 ]
+}
+]
 },
 {
 "Name": "Loppersum",
 "Code": "0024",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Loppersum",
@@ -7743,10 +8144,14 @@
 "LatLong": "53.354,6.6381"
 }
 ]
+}
+]
 },
 {
 "Name": "Marum",
 "Code": "0025",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Boerakker",
@@ -7794,10 +8199,14 @@
 "LatLong": "53.1842,6.2962"
 }
 ]
+}
+]
 },
 {
 "Name": "Stadskanaal",
 "Code": "0037",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stadskanaal",
@@ -7840,10 +8249,14 @@
 "LatLong": "53.0486,7.0018"
 }
 ]
+}
+]
 },
 {
 "Name": "Slochteren",
 "Code": "0040",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kolham",
@@ -7926,10 +8339,14 @@
 "LatLong": "53.2781,6.8801"
 }
 ]
+}
+]
 },
 {
 "Name": "Veendam",
 "Code": "0047",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Borgercompagnie",
@@ -7967,10 +8384,14 @@
 "LatLong": "53.0789,6.8609"
 }
 ]
+}
+]
 },
 {
 "Name": "Vlagtwedde",
 "Code": "0048",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vlagtwedde",
@@ -7998,10 +8419,14 @@
 "LatLong": "52.9146,7.0488"
 }
 ]
+}
+]
 },
 {
 "Name": "Winsum",
 "Code": "0053",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sauwerd",
@@ -8064,10 +8489,14 @@
 "LatLong": "53.3815,6.4857"
 }
 ]
+}
+]
 },
 {
 "Name": "Zuidhorn",
 "Code": "0056",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Noordhorn",
@@ -8165,10 +8594,14 @@
 "LatLong": "53.3144,6.4188"
 }
 ]
+}
+]
 },
 {
 "Name": "Pekela",
 "Code": "0765",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nieuwe Pekela",
@@ -8186,10 +8619,14 @@
 "LatLong": "53.1039,7.0081"
 }
 ]
+}
+]
 },
 {
 "Name": "Eemsmond",
 "Code": "1651",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Startenhuizen",
@@ -8277,10 +8714,14 @@
 "LatLong": "53.3608,6.598"
 }
 ]
+}
+]
 },
 {
 "Name": "De Marne",
 "Code": "1663",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zuurdijk",
@@ -8383,10 +8824,14 @@
 "LatLong": "53.387,6.3535"
 }
 ]
+}
+]
 },
 {
 "Name": "Oldambt",
 "Code": "1895",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Winschoten",
@@ -8489,10 +8934,14 @@
 "LatLong": "53.2442,6.9807"
 }
 ]
+}
+]
 },
 {
 "Name": "Menterwolde",
 "Code": "1987",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Borgercompagnie",
@@ -8527,6 +8976,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Limburg",
@@ -8535,6 +8986,8 @@
 {
 "Name": "Onderbanken",
 "Code": "0881",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Merkelbeek",
@@ -8557,10 +9010,14 @@
 "LatLong": "50.9702,5.937"
 }
 ]
+}
+]
 },
 {
 "Name": "Landgraaf",
 "Code": "0882",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Landgraaf",
@@ -8583,10 +9040,14 @@
 "LatLong": "50.9156,6.0481"
 }
 ]
+}
+]
 },
 {
 "Name": "Beek",
 "Code": "0888",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Spaubeek",
@@ -8604,10 +9065,14 @@
 "LatLong": "50.9214,5.7776"
 }
 ]
+}
+]
 },
 {
 "Name": "Beesel",
 "Code": "0889",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Reuver",
@@ -8620,10 +9085,14 @@
 "LatLong": "51.2674,6.0423"
 }
 ]
+}
+]
 },
 {
 "Name": "Bergen (L.)",
 "Code": "0893",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Afferden L",
@@ -8651,10 +9120,14 @@
 "LatLong": "51.5353,6.143"
 }
 ]
+}
+]
 },
 {
 "Name": "Brunssum",
 "Code": "0899",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Brunssum",
@@ -8687,10 +9160,14 @@
 "LatLong": "50.9343,5.9427"
 }
 ]
+}
+]
 },
 {
 "Name": "Gennep",
 "Code": "0907",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gennep",
@@ -8718,10 +9195,14 @@
 "LatLong": "51.7134,6.0215"
 }
 ]
+}
+]
 },
 {
 "Name": "Heerlen",
 "Code": "0917",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Heerlen",
@@ -8794,10 +9275,14 @@
 "LatLong": "50.9124,5.9287"
 }
 ]
+}
+]
 },
 {
 "Name": "Kerkrade",
 "Code": "0928",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kerkrade",
@@ -8850,10 +9335,14 @@
 "LatLong": "50.8932,6.0589"
 }
 ]
+}
+]
 },
 {
 "Name": "Maastricht",
 "Code": "0935",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Maastricht",
@@ -8946,10 +9435,14 @@
 "LatLong": "50.8298,5.7082"
 }
 ]
+}
+]
 },
 {
 "Name": "Meerssen",
 "Code": "0938",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ulestraten",
@@ -8997,10 +9490,14 @@
 "LatLong": "50.9225,5.7502"
 }
 ]
+}
+]
 },
 {
 "Name": "Mook en Middelaar",
 "Code": "0944",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Molenhoek",
@@ -9023,10 +9520,14 @@
 "LatLong": "51.7266,5.9145"
 }
 ]
+}
+]
 },
 {
 "Name": "Nederweert",
 "Code": "0946",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nederweert",
@@ -9054,10 +9555,14 @@
 "LatLong": "51.2495,5.8482"
 }
 ]
+}
+]
 },
 {
 "Name": "Nuth",
 "Code": "0951",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Schimmert",
@@ -9085,10 +9590,14 @@
 "LatLong": "50.913,5.8992"
 }
 ]
+}
+]
 },
 {
 "Name": "Roermond",
 "Code": "0957",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Roermond",
@@ -9146,10 +9655,14 @@
 "LatLong": "51.2309,6.0422"
 }
 ]
+}
+]
 },
 {
 "Name": "Schinnen",
 "Code": "0962",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puth",
@@ -9182,10 +9695,14 @@
 "LatLong": "50.9671,5.9082"
 }
 ]
+}
+]
 },
 {
 "Name": "Simpelveld",
 "Code": "0965",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bocholtz",
@@ -9203,10 +9720,14 @@
 "LatLong": "50.8355,5.9804"
 }
 ]
+}
+]
 },
 {
 "Name": "Stein",
 "Code": "0971",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Urmond",
@@ -9224,10 +9745,14 @@
 "LatLong": "50.9505,5.7681"
 }
 ]
+}
+]
 },
 {
 "Name": "Vaals",
 "Code": "0981",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vaals",
@@ -9245,10 +9770,14 @@
 "LatLong": "50.7847,5.9904"
 }
 ]
+}
+]
 },
 {
 "Name": "Venlo",
 "Code": "0983",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Venlo",
@@ -9356,10 +9885,14 @@
 "LatLong": "51.3113,6.1183"
 }
 ]
+}
+]
 },
 {
 "Name": "Venray",
 "Code": "0984",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Venray",
@@ -9447,10 +9980,14 @@
 "LatLong": "51.5289,6.108"
 }
 ]
+}
+]
 },
 {
 "Name": "Voerendaal",
 "Code": "0986",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ransdaal",
@@ -9473,10 +10010,14 @@
 "LatLong": "50.8739,5.9332"
 }
 ]
+}
+]
 },
 {
 "Name": "Weert",
 "Code": "0988",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Weert",
@@ -9514,10 +10055,14 @@
 "LatLong": "51.194,5.7154"
 }
 ]
+}
+]
 },
 {
 "Name": "Valkenburg aan de Geul",
 "Code": "0994",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valkenburg",
@@ -9545,10 +10090,14 @@
 "LatLong": "50.8606,5.866"
 }
 ]
+}
+]
 },
 {
 "Name": "Horst aan de Maas",
 "Code": "1507",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Griendtsveen",
@@ -9631,10 +10180,14 @@
 "LatLong": "51.402,5.9509"
 }
 ]
+}
+]
 },
 {
 "Name": "Leudal",
 "Code": "1640",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ell",
@@ -9727,10 +10280,14 @@
 "LatLong": "51.1949,5.8579"
 }
 ]
+}
+]
 },
 {
 "Name": "Maasgouw",
 "Code": "1641",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Thorn",
@@ -9773,10 +10330,14 @@
 "LatLong": "51.1129,5.8309"
 }
 ]
+}
+]
 },
 {
 "Name": "Roerdalen",
 "Code": "1669",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Posterholt",
@@ -9809,10 +10370,14 @@
 "LatLong": "51.1424,6.001"
 }
 ]
+}
+]
 },
 {
 "Name": "Echt-Susteren",
 "Code": "1711",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Echt",
@@ -9860,10 +10425,14 @@
 "LatLong": "51.0372,5.8621"
 }
 ]
+}
+]
 },
 {
 "Name": "Gulpen-Wittem",
 "Code": "1729",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gulpen",
@@ -9926,10 +10495,14 @@
 "LatLong": "50.836,5.892"
 }
 ]
+}
+]
 },
 {
 "Name": "Sittard-Geleen",
 "Code": "1883",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Born",
@@ -10057,10 +10630,14 @@
 "LatLong": "50.9892,5.7976"
 }
 ]
+}
+]
 },
 {
 "Name": "Peel en Maas",
 "Code": "1894",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Baarlo",
@@ -10123,10 +10700,14 @@
 "LatLong": "51.292,6.0476"
 }
 ]
+}
+]
 },
 {
 "Name": "Eijsden-Margraten",
 "Code": "1903",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eijsden",
@@ -10191,6 +10772,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Noord-Brabant",
@@ -10199,6 +10782,8 @@
 {
 "Name": "Aalburg",
 "Code": "0738",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Wijk en Aalburg",
@@ -10236,10 +10821,14 @@
 "LatLong": "51.7446,5.0206"
 }
 ]
+}
+]
 },
 {
 "Name": "Asten",
 "Code": "0743",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Asten",
@@ -10257,10 +10846,14 @@
 "LatLong": "51.3802,5.7684"
 }
 ]
+}
+]
 },
 {
 "Name": "Baarle-Nassau",
 "Code": "0744",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Baarle-Nassau",
@@ -10278,10 +10871,14 @@
 "LatLong": "51.4193,4.7867"
 }
 ]
+}
+]
 },
 {
 "Name": "Bergen op Zoom",
 "Code": "0748",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bergen op Zoom",
@@ -10354,10 +10951,14 @@
 "LatLong": "51.5498,4.2756"
 }
 ]
+}
+]
 },
 {
 "Name": "Best",
 "Code": "0753",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Best",
@@ -10385,10 +10986,14 @@
 "LatLong": "51.501,5.3735"
 }
 ]
+}
+]
 },
 {
 "Name": "Boekel",
 "Code": "0755",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Boekel",
@@ -10401,10 +11006,14 @@
 "LatLong": "51.609,5.7358"
 }
 ]
+}
+]
 },
 {
 "Name": "Boxmeer",
 "Code": "0756",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oeffelt",
@@ -10467,10 +11076,14 @@
 "LatLong": "51.6349,5.9647"
 }
 ]
+}
+]
 },
 {
 "Name": "Boxtel",
 "Code": "0757",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Boxtel",
@@ -10493,10 +11106,14 @@
 "LatLong": "51.5698,5.3702"
 }
 ]
+}
+]
 },
 {
 "Name": "Breda",
 "Code": "0758",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Breda",
@@ -10629,10 +11246,14 @@
 "LatLong": "51.5666,4.8276"
 }
 ]
+}
+]
 },
 {
 "Name": "Deurne",
 "Code": "0762",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Deurne",
@@ -10675,10 +11296,14 @@
 "LatLong": "51.3911,5.9138"
 }
 ]
+}
+]
 },
 {
 "Name": "Dongen",
 "Code": "0766",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dongen",
@@ -10721,10 +11346,14 @@
 "LatLong": "51.6582,4.9438"
 }
 ]
+}
+]
 },
 {
 "Name": "Eersel",
 "Code": "0770",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Knegsel",
@@ -10767,10 +11396,14 @@
 "LatLong": "51.3692,5.2956"
 }
 ]
+}
+]
 },
 {
 "Name": "Eindhoven",
 "Code": "0772",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eindhoven",
@@ -10943,10 +11576,14 @@
 "LatLong": "51.4406,5.4104"
 }
 ]
+}
+]
 },
 {
 "Name": "Etten-Leur",
 "Code": "0777",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Etten-Leur",
@@ -10994,10 +11631,14 @@
 "LatLong": "51.5607,4.6194"
 }
 ]
+}
+]
 },
 {
 "Name": "Geertruidenberg",
 "Code": "0779",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Geertruidenberg",
@@ -11020,10 +11661,14 @@
 "LatLong": "51.6888,4.9081"
 }
 ]
+}
+]
 },
 {
 "Name": "Gilze en Rijen",
 "Code": "0784",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rijen",
@@ -11051,10 +11696,14 @@
 "LatLong": "51.5435,4.9391"
 }
 ]
+}
+]
 },
 {
 "Name": "Goirle",
 "Code": "0785",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Riel",
@@ -11082,10 +11731,14 @@
 "LatLong": "51.5248,5.0197"
 }
 ]
+}
+]
 },
 {
 "Name": "Grave",
 "Code": "0786",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Grave",
@@ -11108,10 +11761,14 @@
 "LatLong": "51.7395,5.7793"
 }
 ]
+}
+]
 },
 {
 "Name": "Haaren",
 "Code": "0788",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Biezenmortel",
@@ -11134,10 +11791,14 @@
 "LatLong": "51.6117,5.2918"
 }
 ]
+}
+]
 },
 {
 "Name": "Helmond",
 "Code": "0794",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Helmond",
@@ -11185,10 +11846,14 @@
 "LatLong": "51.4814,5.7003"
 }
 ]
+}
+]
 },
 {
 "Name": "'s-Hertogenbosch",
 "Code": "0796",
+"Communities": [
+{
 "Places": [
 {
 "Name": "'s-Hertogenbosch",
@@ -11346,10 +12011,14 @@
 "LatLong": "51.731,5.4267"
 }
 ]
+}
+]
 },
 {
 "Name": "Heusden",
 "Code": "0797",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Drunen",
@@ -11422,10 +12091,14 @@
 "LatLong": "51.7323,5.1221"
 }
 ]
+}
+]
 },
 {
 "Name": "Hilvarenbeek",
 "Code": "0798",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hilvarenbeek",
@@ -11453,10 +12126,14 @@
 "LatLong": "51.497,5.2078"
 }
 ]
+}
+]
 },
 {
 "Name": "Loon op Zand",
 "Code": "0809",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Loon op Zand",
@@ -11484,10 +12161,14 @@
 "LatLong": "51.6254,5.0114"
 }
 ]
+}
+]
 },
 {
 "Name": "Mill en Sint Hubert",
 "Code": "0815",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mill",
@@ -11510,10 +12191,14 @@
 "LatLong": "51.656,5.7736"
 }
 ]
+}
+]
 },
 {
 "Name": "Nuenen, Gerwen en Nederwetten",
 "Code": "0820",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nuenen",
@@ -11536,10 +12221,14 @@
 "LatLong": "51.4762,5.5469"
 }
 ]
+}
+]
 },
 {
 "Name": "Oirschot",
 "Code": "0823",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oost West en Middelbeers",
@@ -11557,10 +12246,14 @@
 "LatLong": "51.4985,5.3132"
 }
 ]
+}
+]
 },
 {
 "Name": "Oisterwijk",
 "Code": "0824",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Heukelom",
@@ -11588,10 +12281,14 @@
 "LatLong": "51.5433,5.1823"
 }
 ]
+}
+]
 },
 {
 "Name": "Oosterhout",
 "Code": "0826",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dorst",
@@ -11649,10 +12346,14 @@
 "LatLong": "51.6569,4.812"
 }
 ]
+}
+]
 },
 {
 "Name": "Oss",
 "Code": "0828",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oss",
@@ -11815,10 +12516,14 @@
 "LatLong": "51.7909,5.3894"
 }
 ]
+}
+]
 },
 {
 "Name": "Rucphen",
 "Code": "0840",
+"Communities": [
+{
 "Places": [
 {
 "Name": "St. Willebrord",
@@ -11851,10 +12556,14 @@
 "LatLong": "51.5569,4.5165"
 }
 ]
+}
+]
 },
 {
 "Name": "Sint-Michielsgestel",
 "Code": "0845",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Berlicum",
@@ -11907,10 +12616,14 @@
 "LatLong": "51.616,5.369"
 }
 ]
+}
+]
 },
 {
 "Name": "Someren",
 "Code": "0847",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Someren",
@@ -11928,10 +12641,14 @@
 "LatLong": "51.4212,5.6798"
 }
 ]
+}
+]
 },
 {
 "Name": "Son en Breugel",
 "Code": "0848",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Son en Breugel",
@@ -11954,10 +12671,14 @@
 "LatLong": "51.5183,5.5116"
 }
 ]
+}
+]
 },
 {
 "Name": "Steenbergen",
 "Code": "0851",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Steenbergen",
@@ -11990,10 +12711,14 @@
 "LatLong": "51.5694,4.4083"
 }
 ]
+}
+]
 },
 {
 "Name": "Tilburg",
 "Code": "0855",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tilburg",
@@ -12136,10 +12861,14 @@
 "LatLong": "51.6097,5.1439"
 }
 ]
+}
+]
 },
 {
 "Name": "Uden",
 "Code": "0856",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Uden",
@@ -12182,10 +12911,14 @@
 "LatLong": "51.6429,5.7085"
 }
 ]
+}
+]
 },
 {
 "Name": "Valkenswaard",
 "Code": "0858",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valkenswaard",
@@ -12218,10 +12951,14 @@
 "LatLong": "51.3019,5.4455"
 }
 ]
+}
+]
 },
 {
 "Name": "Veldhoven",
 "Code": "0861",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Veldhoven",
@@ -12269,10 +13006,14 @@
 "LatLong": "51.4318,5.4043"
 }
 ]
+}
+]
 },
 {
 "Name": "Vught",
 "Code": "0865",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vught",
@@ -12305,10 +13046,14 @@
 "LatLong": "51.6566,5.2535"
 }
 ]
+}
+]
 },
 {
 "Name": "Waalre",
 "Code": "0866",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Waalre",
@@ -12326,10 +13071,14 @@
 "LatLong": "51.396,5.4858"
 }
 ]
+}
+]
 },
 {
 "Name": "Waalwijk",
 "Code": "0867",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Waalwijk",
@@ -12372,10 +13121,14 @@
 "LatLong": "51.6848,4.9479"
 }
 ]
+}
+]
 },
 {
 "Name": "Werkendam",
 "Code": "0870",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Werkendam",
@@ -12403,10 +13156,14 @@
 "LatLong": "51.7344,4.8957"
 }
 ]
+}
+]
 },
 {
 "Name": "Woensdrecht",
 "Code": "0873",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hoogerheide",
@@ -12434,10 +13191,14 @@
 "LatLong": "51.3626,4.3961"
 }
 ]
+}
+]
 },
 {
 "Name": "Woudrichem",
 "Code": "0874",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Andel",
@@ -12475,10 +13236,14 @@
 "LatLong": "51.7865,5.0076"
 }
 ]
+}
+]
 },
 {
 "Name": "Zundert",
 "Code": "0879",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zundert",
@@ -12516,10 +13281,14 @@
 "LatLong": "51.5165,4.6979"
 }
 ]
+}
+]
 },
 {
 "Name": "Gemert-Bakel",
 "Code": "1652",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gemert",
@@ -12562,10 +13331,14 @@
 "LatLong": "51.549,5.8136"
 }
 ]
+}
+]
 },
 {
 "Name": "Halderberge",
 "Code": "1655",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hoeven",
@@ -12598,10 +13371,14 @@
 "LatLong": "51.6126,4.4416"
 }
 ]
+}
+]
 },
 {
 "Name": "Heeze-Leende",
 "Code": "1658",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Heeze",
@@ -12619,10 +13396,14 @@
 "LatLong": "51.3519,5.6163"
 }
 ]
+}
+]
 },
 {
 "Name": "Laarbeek",
 "Code": "1659",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aarle-Rixtel",
@@ -12645,10 +13426,14 @@
 "LatLong": "51.5341,5.6291"
 }
 ]
+}
+]
 },
 {
 "Name": "Reusel-De Mierden",
 "Code": "1667",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lage Mierde",
@@ -12671,10 +13456,14 @@
 "LatLong": "51.3611,5.1642"
 }
 ]
+}
+]
 },
 {
 "Name": "Roosendaal",
 "Code": "1674",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Roosendaal",
@@ -12762,10 +13551,14 @@
 "LatLong": "51.5382,4.3433"
 }
 ]
+}
+]
 },
 {
 "Name": "Cuijk",
 "Code": "1684",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Katwijk NB",
@@ -12833,10 +13626,14 @@
 "LatLong": "51.6901,5.8617"
 }
 ]
+}
+]
 },
 {
 "Name": "Landerd",
 "Code": "1685",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Schaijk",
@@ -12854,10 +13651,14 @@
 "LatLong": "51.6958,5.6772"
 }
 ]
+}
+]
 },
 {
 "Name": "Sint Anthonis",
 "Code": "1702",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Landhorst",
@@ -12900,10 +13701,14 @@
 "LatLong": "51.6357,5.8714"
 }
 ]
+}
+]
 },
 {
 "Name": "Cranendonck",
 "Code": "1706",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Budel",
@@ -12936,10 +13741,14 @@
 "LatLong": "51.2856,5.5544"
 }
 ]
+}
+]
 },
 {
 "Name": "Moerdijk",
 "Code": "1709",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Heijningen",
@@ -13017,10 +13826,14 @@
 "LatLong": "51.686,4.4398"
 }
 ]
+}
+]
 },
 {
 "Name": "Drimmelen",
 "Code": "1719",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zevenbergschen Hoek",
@@ -13058,10 +13871,14 @@
 "LatLong": "51.6838,4.7472"
 }
 ]
+}
+]
 },
 {
 "Name": "Bernheze",
 "Code": "1721",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vinkel",
@@ -13104,10 +13921,14 @@
 "LatLong": "51.6549,5.552"
 }
 ]
+}
+]
 },
 {
 "Name": "Alphen-Chaam",
 "Code": "1723",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Galder",
@@ -13140,10 +13961,14 @@
 "LatLong": "51.4832,4.9583"
 }
 ]
+}
+]
 },
 {
 "Name": "Bergeijk",
 "Code": "1724",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Riethoven",
@@ -13166,10 +13991,14 @@
 "LatLong": "51.2891,5.321"
 }
 ]
+}
+]
 },
 {
 "Name": "Bladel",
 "Code": "1728",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hapert",
@@ -13197,10 +14026,14 @@
 "LatLong": "51.4045,5.2081"
 }
 ]
+}
+]
 },
 {
 "Name": "Geldrop-Mierlo",
 "Code": "1771",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Geldrop",
@@ -13248,10 +14081,14 @@
 "LatLong": "51.441,5.6182"
 }
 ]
+}
+]
 },
 {
 "Name": "Meierijstad",
 "Code": "1948",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Veghel",
@@ -13316,6 +14153,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Noord-Holland",
@@ -13324,6 +14163,8 @@
 {
 "Name": "Aalsmeer",
 "Code": "0358",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aalsmeer",
@@ -13341,10 +14182,14 @@
 "LatLong": "52.235,4.7511"
 }
 ]
+}
+]
 },
 {
 "Name": "Alkmaar",
 "Code": "0361",
+"Communities": [
+{
 "Places": [
 {
 "Name": "De Rijp",
@@ -13522,10 +14367,14 @@
 "LatLong": "52.5983,4.7783"
 }
 ]
+}
+]
 },
 {
 "Name": "Amstelveen",
 "Code": "0362",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Amstelveen",
@@ -13573,10 +14422,14 @@
 "LatLong": "52.2594,4.8715"
 }
 ]
+}
+]
 },
 {
 "Name": "Amsterdam",
 "Code": "0363",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Amsterdam",
@@ -13984,10 +14837,14 @@
 "LatLong": "52.3059,5.0163"
 }
 ]
+}
+]
 },
 {
 "Name": "Beemster",
 "Code": "0370",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zuidoostbeemster",
@@ -14010,10 +14867,14 @@
 "LatLong": "52.5594,4.8802"
 }
 ]
+}
+]
 },
 {
 "Name": "Bergen (NH.)",
 "Code": "0373",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bergen (NH)",
@@ -14066,10 +14927,14 @@
 "LatLong": "52.5949,4.654"
 }
 ]
+}
+]
 },
 {
 "Name": "Beverwijk",
 "Code": "0375",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beverwijk",
@@ -14117,10 +14982,14 @@
 "LatLong": "52.4933,4.5948"
 }
 ]
+}
+]
 },
 {
 "Name": "Blaricum",
 "Code": "0376",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Blaricum",
@@ -14133,10 +15002,14 @@
 "LatLong": "52.2932,5.2797"
 }
 ]
+}
+]
 },
 {
 "Name": "Bloemendaal",
 "Code": "0377",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Overveen",
@@ -14174,10 +15047,14 @@
 "LatLong": "52.3212,4.5976"
 }
 ]
+}
+]
 },
 {
 "Name": "Castricum",
 "Code": "0383",
+"Communities": [
+{
 "Places": [
 {
 "Name": "de Woude",
@@ -14205,10 +15082,14 @@
 "LatLong": "52.5616,4.7329"
 }
 ]
+}
+]
 },
 {
 "Name": "Diemen",
 "Code": "0384",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Diemen",
@@ -14226,10 +15107,14 @@
 "LatLong": "52.3487,4.9805"
 }
 ]
+}
+]
 },
 {
 "Name": "Edam-Volendam",
 "Code": "0385",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Volendam",
@@ -14287,10 +15172,14 @@
 "LatLong": "52.5039,5.0228"
 }
 ]
+}
+]
 },
 {
 "Name": "Enkhuizen",
 "Code": "0388",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Enkhuizen",
@@ -14303,10 +15192,14 @@
 "LatLong": "52.7133,5.2742"
 }
 ]
+}
+]
 },
 {
 "Name": "Haarlem",
 "Code": "0392",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Haarlem",
@@ -14409,10 +15302,14 @@
 "LatLong": "52.4141,4.6775"
 }
 ]
+}
+]
 },
 {
 "Name": "Haarlemmerliede en Spaarnwoude",
 "Code": "0393",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Halfweg",
@@ -14430,10 +15327,14 @@
 "LatLong": "52.3887,4.6847"
 }
 ]
+}
+]
 },
 {
 "Name": "Haarlemmermeer",
 "Code": "0394",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Schiphol",
@@ -14591,10 +15492,14 @@
 "LatLong": "52.256,4.5736"
 }
 ]
+}
+]
 },
 {
 "Name": "Heemskerk",
 "Code": "0396",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Heemskerk",
@@ -14642,10 +15547,14 @@
 "LatLong": "52.5076,4.6472"
 }
 ]
+}
+]
 },
 {
 "Name": "Heemstede",
 "Code": "0397",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Heemstede",
@@ -14683,10 +15592,14 @@
 "LatLong": "52.3438,4.5973"
 }
 ]
+}
+]
 },
 {
 "Name": "Heerhugowaard",
 "Code": "0398",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Heerhugowaard",
@@ -14719,10 +15632,14 @@
 "LatLong": "52.6683,4.8643"
 }
 ]
+}
+]
 },
 {
 "Name": "Heiloo",
 "Code": "0399",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Heiloo",
@@ -14740,10 +15657,14 @@
 "LatLong": "52.5923,4.6995"
 }
 ]
+}
+]
 },
 {
 "Name": "Den Helder",
 "Code": "0400",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Den Helder",
@@ -14791,10 +15712,14 @@
 "LatLong": "52.9528,4.7275"
 }
 ]
+}
+]
 },
 {
 "Name": "Hilversum",
 "Code": "0402",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hilversum",
@@ -14857,10 +15782,14 @@
 "LatLong": "52.2655,5.1954"
 }
 ]
+}
+]
 },
 {
 "Name": "Hoorn",
 "Code": "0405",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hoorn",
@@ -14908,10 +15837,14 @@
 "LatLong": "52.6615,5.0861"
 }
 ]
+}
+]
 },
 {
 "Name": "Huizen",
 "Code": "0406",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Huizen",
@@ -14949,10 +15882,14 @@
 "LatLong": "52.2972,5.2799"
 }
 ]
+}
+]
 },
 {
 "Name": "Landsmeer",
 "Code": "0415",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Landsmeer",
@@ -14970,10 +15907,14 @@
 "LatLong": "52.4796,4.9244"
 }
 ]
+}
+]
 },
 {
 "Name": "Langedijk",
 "Code": "0416",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Broek op Langedijk",
@@ -15016,10 +15957,14 @@
 "LatLong": "52.6737,4.7843"
 }
 ]
+}
+]
 },
 {
 "Name": "Laren",
 "Code": "0417",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Laren",
@@ -15037,10 +15982,14 @@
 "LatLong": "52.2168,5.2204"
 }
 ]
+}
+]
 },
 {
 "Name": "Medemblik",
 "Code": "0420",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Andijk",
@@ -15148,10 +16097,14 @@
 "LatLong": "52.7348,5.1478"
 }
 ]
+}
+]
 },
 {
 "Name": "Oostzaan",
 "Code": "0431",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oostzaan",
@@ -15159,10 +16112,14 @@
 "LatLong": "52.4396,4.8753"
 }
 ]
+}
+]
 },
 {
 "Name": "Opmeer",
 "Code": "0432",
+"Communities": [
+{
 "Places": [
 {
 "Name": "De Weere",
@@ -15200,10 +16157,14 @@
 "LatLong": "52.747,4.9549"
 }
 ]
+}
+]
 },
 {
 "Name": "Ouder-Amstel",
 "Code": "0437",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Amsterdam-Duivendrecht",
@@ -15221,10 +16182,14 @@
 "LatLong": "52.2946,4.9118"
 }
 ]
+}
+]
 },
 {
 "Name": "Purmerend",
 "Code": "0439",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Purmerend",
@@ -15272,10 +16237,14 @@
 "LatLong": "52.5199,5.0164"
 }
 ]
+}
+]
 },
 {
 "Name": "Schagen",
 "Code": "0441",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oudkarspel",
@@ -15358,10 +16327,14 @@
 "LatLong": "52.8438,4.7054"
 }
 ]
+}
+]
 },
 {
 "Name": "Texel",
 "Code": "0448",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Den Burg",
@@ -15399,10 +16372,14 @@
 "LatLong": "53.024,4.7623"
 }
 ]
+}
+]
 },
 {
 "Name": "Uitgeest",
 "Code": "0450",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Uitgeest",
@@ -15410,10 +16387,14 @@
 "LatLong": "52.5253,4.7084"
 }
 ]
+}
+]
 },
 {
 "Name": "Uithoorn",
 "Code": "0451",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Uithoorn",
@@ -15441,10 +16422,14 @@
 "LatLong": "52.2128,4.7247"
 }
 ]
+}
+]
 },
 {
 "Name": "Velsen",
 "Code": "0453",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Velsen-Noord",
@@ -15512,10 +16497,14 @@
 "LatLong": "52.4189,4.6305"
 }
 ]
+}
+]
 },
 {
 "Name": "Weesp",
 "Code": "0457",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Weesp",
@@ -15538,10 +16527,14 @@
 "LatLong": "52.3162,5.0396"
 }
 ]
+}
+]
 },
 {
 "Name": "Zandvoort",
 "Code": "0473",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zandvoort",
@@ -15559,10 +16552,14 @@
 "LatLong": "52.3654,4.5716"
 }
 ]
+}
+]
 },
 {
 "Name": "Zaanstad",
 "Code": "0479",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zaandam",
@@ -15680,10 +16677,14 @@
 "LatLong": "52.4899,4.7496"
 }
 ]
+}
+]
 },
 {
 "Name": "Drechterland",
 "Code": "0498",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Venhuizen",
@@ -15731,10 +16732,14 @@
 "LatLong": "52.637,5.1224"
 }
 ]
+}
+]
 },
 {
 "Name": "Stede Broec",
 "Code": "0532",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bovenkarspel",
@@ -15762,10 +16767,14 @@
 "LatLong": "52.7075,5.1872"
 }
 ]
+}
+]
 },
 {
 "Name": "Waterland",
 "Code": "0852",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Monnickendam",
@@ -15813,10 +16822,14 @@
 "LatLong": "52.4816,5.0011"
 }
 ]
+}
+]
 },
 {
 "Name": "Wormerland",
 "Code": "0880",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Wijdewormer",
@@ -15844,10 +16857,14 @@
 "LatLong": "52.5073,4.8517"
 }
 ]
+}
+]
 },
 {
 "Name": "Koggenland",
 "Code": "1598",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oudendijk",
@@ -15920,10 +16937,14 @@
 "LatLong": "52.675,4.9035"
 }
 ]
+}
+]
 },
 {
 "Name": "Wijdemeren",
 "Code": "1696",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Loosdrecht",
@@ -15961,10 +16982,14 @@
 "LatLong": "52.1761,5.0691"
 }
 ]
+}
+]
 },
 {
 "Name": "Hollands Kroon",
 "Code": "1911",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Winkel",
@@ -16072,10 +17097,14 @@
 "LatLong": "52.9226,5.0366"
 }
 ]
+}
+]
 },
 {
 "Name": "Gooise Meren",
 "Code": "1942",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bussum",
@@ -16135,6 +17164,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Utrecht",
@@ -16143,6 +17174,8 @@
 {
 "Name": "Amersfoort",
 "Code": "0307",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Amersfoort",
@@ -16240,10 +17273,14 @@
 "LatLong": "52.1612,5.4643"
 }
 ]
+}
+]
 },
 {
 "Name": "Baarn",
 "Code": "0308",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Baarn",
@@ -16271,10 +17308,14 @@
 "LatLong": "52.1806,5.2218"
 }
 ]
+}
+]
 },
 {
 "Name": "De Bilt",
 "Code": "0310",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Westbroek",
@@ -16327,10 +17368,14 @@
 "LatLong": "52.1754,5.1751"
 }
 ]
+}
+]
 },
 {
 "Name": "Bunnik",
 "Code": "0312",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bunnik",
@@ -16348,10 +17393,14 @@
 "LatLong": "52.0234,5.2435"
 }
 ]
+}
+]
 },
 {
 "Name": "Bunschoten",
 "Code": "0313",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bunschoten-Spakenburg",
@@ -16369,10 +17418,14 @@
 "LatLong": "52.2538,5.3287"
 }
 ]
+}
+]
 },
 {
 "Name": "Eemnes",
 "Code": "0317",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Eemnes",
@@ -16380,10 +17433,14 @@
 "LatLong": "52.2523,5.2587"
 }
 ]
+}
+]
 },
 {
 "Name": "Houten",
 "Code": "0321",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Houten",
@@ -16426,10 +17483,14 @@
 "LatLong": "51.9975,5.1411"
 }
 ]
+}
+]
 },
 {
 "Name": "Leusden",
 "Code": "0327",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Achterveld",
@@ -16467,10 +17528,14 @@
 "LatLong": "52.153,5.4359"
 }
 ]
+}
+]
 },
 {
 "Name": "Lopik",
 "Code": "0331",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Benschop",
@@ -16498,10 +17563,14 @@
 "LatLong": "51.9821,4.8642"
 }
 ]
+}
+]
 },
 {
 "Name": "Montfoort",
 "Code": "0335",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Montfoort",
@@ -16514,10 +17583,14 @@
 "LatLong": "52.0632,4.9167"
 }
 ]
+}
+]
 },
 {
 "Name": "Renswoude",
 "Code": "0339",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Renswoude",
@@ -16525,10 +17598,14 @@
 "LatLong": "52.0735,5.539"
 }
 ]
+}
+]
 },
 {
 "Name": "Rhenen",
 "Code": "0340",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rhenen",
@@ -16551,10 +17628,14 @@
 "LatLong": "51.9894,5.4854"
 }
 ]
+}
+]
 },
 {
 "Name": "Soest",
 "Code": "0342",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Soest",
@@ -16597,10 +17678,14 @@
 "LatLong": "52.1186,5.2902"
 }
 ]
+}
+]
 },
 {
 "Name": "Utrecht",
 "Code": "0344",
+"Communities": [
+{
 "Places": [
 {
 "Name": "De Meern",
@@ -16858,10 +17943,14 @@
 "LatLong": "52.1079,5.1551"
 }
 ]
+}
+]
 },
 {
 "Name": "Veenendaal",
 "Code": "0345",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Veenendaal",
@@ -16899,10 +17988,14 @@
 "LatLong": "52.0234,5.5833"
 }
 ]
+}
+]
 },
 {
 "Name": "Woudenberg",
 "Code": "0351",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Woudenberg",
@@ -16910,10 +18003,14 @@
 "LatLong": "52.0811,5.4218"
 }
 ]
+}
+]
 },
 {
 "Name": "Wijk bij Duurstede",
 "Code": "0352",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cothen",
@@ -16936,10 +18033,14 @@
 "LatLong": "51.9801,5.34"
 }
 ]
+}
+]
 },
 {
 "Name": "IJsselstein",
 "Code": "0353",
+"Communities": [
+{
 "Places": [
 {
 "Name": "IJsselstein",
@@ -16962,10 +18063,14 @@
 "LatLong": "52.0113,5.0396"
 }
 ]
+}
+]
 },
 {
 "Name": "Zeist",
 "Code": "0355",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zeist",
@@ -17038,10 +18143,14 @@
 "LatLong": "52.1221,5.2405"
 }
 ]
+}
+]
 },
 {
 "Name": "Nieuwegein",
 "Code": "0356",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nieuwegein",
@@ -17089,10 +18198,14 @@
 "LatLong": "52.0409,5.1077"
 }
 ]
+}
+]
 },
 {
 "Name": "Oudewater",
 "Code": "0589",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oudewater",
@@ -17115,10 +18228,14 @@
 "LatLong": "52.0167,4.8173"
 }
 ]
+}
+]
 },
 {
 "Name": "Vianen",
 "Code": "0620",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ossenwaard",
@@ -17161,10 +18278,14 @@
 "LatLong": "51.9825,5.0786"
 }
 ]
+}
+]
 },
 {
 "Name": "Woerden",
 "Code": "0632",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Woerden",
@@ -17242,10 +18363,14 @@
 "LatLong": "52.1444,4.8326"
 }
 ]
+}
+]
 },
 {
 "Name": "De Ronde Venen",
 "Code": "0736",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Abcoude",
@@ -17298,10 +18423,14 @@
 "LatLong": "52.1974,4.8931"
 }
 ]
+}
+]
 },
 {
 "Name": "Utrechtse Heuvelrug",
 "Code": "1581",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Doorn",
@@ -17344,10 +18473,14 @@
 "LatLong": "52.0497,5.2751"
 }
 ]
+}
+]
 },
 {
 "Name": "Stichtse Vecht",
 "Code": "1904",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nigtevecht",
@@ -17452,6 +18585,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Zeeland",
@@ -17460,6 +18595,8 @@
 {
 "Name": "Borsele",
 "Code": "0654",
+"Communities": [
+{
 "Places": [
 {
 "Name": "'s-Gravenpolder",
@@ -17537,10 +18674,14 @@
 "LatLong": "51.4937,3.75"
 }
 ]
+}
+]
 },
 {
 "Name": "Goes",
 "Code": "0664",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Wolphaartsdijk",
@@ -17633,10 +18774,14 @@
 "LatLong": "51.4919,3.9082"
 }
 ]
+}
+]
 },
 {
 "Name": "Hulst",
 "Code": "0677",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hulst",
@@ -17719,10 +18864,14 @@
 "LatLong": "51.3887,3.977"
 }
 ]
+}
+]
 },
 {
 "Name": "Kapelle",
 "Code": "0678",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kapelle",
@@ -17745,10 +18894,14 @@
 "LatLong": "51.4811,3.9179"
 }
 ]
+}
+]
 },
 {
 "Name": "Middelburg",
 "Code": "0687",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Middelburg",
@@ -17801,10 +18954,14 @@
 "LatLong": "51.5043,3.6764"
 }
 ]
+}
+]
 },
 {
 "Name": "Reimerswaal",
 "Code": "0703",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yerseke",
@@ -17842,10 +18999,14 @@
 "LatLong": "51.4501,4.0035"
 }
 ]
+}
+]
 },
 {
 "Name": "Terneuzen",
 "Code": "0715",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Biervliet",
@@ -17963,10 +19124,14 @@
 "LatLong": "51.3008,3.9759"
 }
 ]
+}
+]
 },
 {
 "Name": "Tholen",
 "Code": "0716",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sint Philipsland",
@@ -18009,10 +19174,14 @@
 "LatLong": "51.5708,4.1987"
 }
 ]
+}
+]
 },
 {
 "Name": "Veere",
 "Code": "0717",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Veere",
@@ -18090,10 +19259,14 @@
 "LatLong": "51.504,3.4835"
 }
 ]
+}
+]
 },
 {
 "Name": "Vlissingen",
 "Code": "0718",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vlissingen",
@@ -18141,10 +19314,14 @@
 "LatLong": "51.4569,3.6467"
 }
 ]
+}
+]
 },
 {
 "Name": "Schouwen-Duiveland",
 "Code": "1676",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zierikzee",
@@ -18247,10 +19424,14 @@
 "LatLong": "51.6936,3.728"
 }
 ]
+}
+]
 },
 {
 "Name": "Noord-Beveland",
 "Code": "1695",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kortgene",
@@ -18283,10 +19464,14 @@
 "LatLong": "51.5659,3.7708"
 }
 ]
+}
+]
 },
 {
 "Name": "Sluis",
 "Code": "1714",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oostburg",
@@ -18371,6 +19556,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Zuid-Holland",
@@ -18379,6 +19566,8 @@
 {
 "Name": "Alblasserdam",
 "Code": "0482",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alblasserdam",
@@ -18401,10 +19590,14 @@
 "LatLong": "51.8716,4.6609"
 }
 ]
+}
+]
 },
 {
 "Name": "Alphen aan den Rijn",
 "Code": "0484",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hazerswoude-Dorp",
@@ -18497,10 +19690,14 @@
 "LatLong": "52.0744,4.6563"
 }
 ]
+}
+]
 },
 {
 "Name": "Barendrecht",
 "Code": "0489",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Barendrecht",
@@ -18528,10 +19725,14 @@
 "LatLong": "51.8546,4.5227"
 }
 ]
+}
+]
 },
 {
 "Name": "Brielle",
 "Code": "0501",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Brielle",
@@ -18569,10 +19770,14 @@
 "LatLong": "51.8811,4.2183"
 }
 ]
+}
+]
 },
 {
 "Name": "Capelle aan den IJssel",
 "Code": "0502",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Capelle aan den IJssel",
@@ -18620,10 +19825,14 @@
 "LatLong": "51.9167,4.5466"
 }
 ]
+}
+]
 },
 {
 "Name": "Delft",
 "Code": "0503",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Delft",
@@ -18691,10 +19900,14 @@
 "LatLong": "51.9881,4.3777"
 }
 ]
+}
+]
 },
 {
 "Name": "Dordrecht",
 "Code": "0505",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dordrecht",
@@ -18752,10 +19965,14 @@
 "LatLong": "51.7882,4.7187"
 }
 ]
+}
+]
 },
 {
 "Name": "Gorinchem",
 "Code": "0512",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gorinchem",
@@ -18803,10 +20020,14 @@
 "LatLong": "51.8272,5.0102"
 }
 ]
+}
+]
 },
 {
 "Name": "Gouda",
 "Code": "0513",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gouda",
@@ -18854,10 +20075,14 @@
 "LatLong": "52.0053,4.6857"
 }
 ]
+}
+]
 },
 {
 "Name": "'s-Gravenhage",
 "Code": "0518",
+"Communities": [
+{
 "Places": [
 {
 "Name": "'s-Gravenhage",
@@ -19165,10 +20390,14 @@
 "LatLong": "52.1023,4.3198"
 }
 ]
+}
+]
 },
 {
 "Name": "Hardinxveld-Giessendam",
 "Code": "0523",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hardinxveld-Giessendam",
@@ -19186,10 +20415,14 @@
 "LatLong": "51.8329,4.8368"
 }
 ]
+}
+]
 },
 {
 "Name": "Hellevoetsluis",
 "Code": "0530",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hellevoetsluis",
@@ -19222,10 +20455,14 @@
 "LatLong": "51.8631,4.1836"
 }
 ]
+}
+]
 },
 {
 "Name": "Hendrik-Ido-Ambacht",
 "Code": "0531",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hendrik-Ido-Ambacht",
@@ -19248,10 +20485,14 @@
 "LatLong": "51.8323,4.6456"
 }
 ]
+}
+]
 },
 {
 "Name": "Hillegom",
 "Code": "0534",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hillegom",
@@ -19264,10 +20505,14 @@
 "LatLong": "52.2895,4.5782"
 }
 ]
+}
+]
 },
 {
 "Name": "Katwijk",
 "Code": "0537",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Katwijk",
@@ -19310,10 +20555,14 @@
 "LatLong": "52.1778,4.4365"
 }
 ]
+}
+]
 },
 {
 "Name": "Krimpen aan den IJssel",
 "Code": "0542",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Krimpen aan den IJssel",
@@ -19346,10 +20595,14 @@
 "LatLong": "51.9103,4.6081"
 }
 ]
+}
+]
 },
 {
 "Name": "Leerdam",
 "Code": "0545",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leerdam",
@@ -19382,10 +20635,14 @@
 "LatLong": "51.8629,5.0484"
 }
 ]
+}
+]
 },
 {
 "Name": "Leiden",
 "Code": "0546",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leiden",
@@ -19468,10 +20725,14 @@
 "LatLong": "52.1725,4.4818"
 }
 ]
+}
+]
 },
 {
 "Name": "Leiderdorp",
 "Code": "0547",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leiderdorp",
@@ -19489,10 +20750,14 @@
 "LatLong": "52.1658,4.5338"
 }
 ]
+}
+]
 },
 {
 "Name": "Lisse",
 "Code": "0553",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lisse",
@@ -19510,10 +20775,14 @@
 "LatLong": "52.2663,4.5609"
 }
 ]
+}
+]
 },
 {
 "Name": "Maassluis",
 "Code": "0556",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Maassluis",
@@ -19551,10 +20820,14 @@
 "LatLong": "51.9348,4.2394"
 }
 ]
+}
+]
 },
 {
 "Name": "Nieuwkoop",
 "Code": "0569",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vrouwenakker",
@@ -19607,10 +20880,14 @@
 "LatLong": "52.1504,4.8656"
 }
 ]
+}
+]
 },
 {
 "Name": "Noordwijk",
 "Code": "0575",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Noordwijk",
@@ -19633,10 +20910,14 @@
 "LatLong": "52.2722,4.4739"
 }
 ]
+}
+]
 },
 {
 "Name": "Noordwijkerhout",
 "Code": "0576",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Noordwijkerhout",
@@ -19664,10 +20945,14 @@
 "LatLong": "52.2778,4.4938"
 }
 ]
+}
+]
 },
 {
 "Name": "Oegstgeest",
 "Code": "0579",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oegstgeest",
@@ -19685,10 +20970,14 @@
 "LatLong": "52.1909,4.4756"
 }
 ]
+}
+]
 },
 {
 "Name": "Oud-Beijerland",
 "Code": "0584",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oud-Beijerland",
@@ -19706,10 +20995,14 @@
 "LatLong": "51.8247,4.3967"
 }
 ]
+}
+]
 },
 {
 "Name": "Binnenmaas",
 "Code": "0585",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mijnsheerenland",
@@ -19762,10 +21055,14 @@
 "LatLong": "51.7872,4.5538"
 }
 ]
+}
+]
 },
 {
 "Name": "Korendijk",
 "Code": "0588",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nieuw-Beijerland",
@@ -19793,10 +21090,14 @@
 "LatLong": "51.7528,4.3632"
 }
 ]
+}
+]
 },
 {
 "Name": "Papendrecht",
 "Code": "0590",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Papendrecht",
@@ -19829,10 +21130,14 @@
 "LatLong": "51.8313,4.7175"
 }
 ]
+}
+]
 },
 {
 "Name": "Ridderkerk",
 "Code": "0597",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ridderkerk",
@@ -19880,10 +21185,14 @@
 "LatLong": "51.8527,4.629"
 }
 ]
+}
+]
 },
 {
 "Name": "Rotterdam",
 "Code": "0599",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rotterdam",
@@ -20281,10 +21590,14 @@
 "LatLong": "51.9446,4.0377"
 }
 ]
+}
+]
 },
 {
 "Name": "Rijswijk",
 "Code": "0603",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rijswijk",
@@ -20332,10 +21645,14 @@
 "LatLong": "52.0334,4.3491"
 }
 ]
+}
+]
 },
 {
 "Name": "Schiedam",
 "Code": "0606",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Schiedam",
@@ -20408,10 +21725,14 @@
 "LatLong": "51.9317,4.404"
 }
 ]
+}
+]
 },
 {
 "Name": "Sliedrecht",
 "Code": "0610",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sliedrecht",
@@ -20439,10 +21760,14 @@
 "LatLong": "51.844,4.7555"
 }
 ]
+}
+]
 },
 {
 "Name": "Cromstrijen",
 "Code": "0611",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Numansdorp",
@@ -20465,10 +21790,14 @@
 "LatLong": "51.7707,4.4466"
 }
 ]
+}
+]
 },
 {
 "Name": "Albrandswaard",
 "Code": "0613",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rhoon",
@@ -20501,10 +21830,14 @@
 "LatLong": "51.8631,4.3983"
 }
 ]
+}
+]
 },
 {
 "Name": "Westvoorne",
 "Code": "0614",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oostvoorne",
@@ -20532,10 +21865,14 @@
 "LatLong": "51.9031,4.0772"
 }
 ]
+}
+]
 },
 {
 "Name": "Strijen",
 "Code": "0617",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Strijen",
@@ -20558,10 +21895,14 @@
 "LatLong": "51.753,4.5992"
 }
 ]
+}
+]
 },
 {
 "Name": "Vlaardingen",
 "Code": "0622",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vlaardingen",
@@ -20604,10 +21945,14 @@
 "LatLong": "51.9249,4.326"
 }
 ]
+}
+]
 },
 {
 "Name": "Voorschoten",
 "Code": "0626",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Voorschoten",
@@ -20630,10 +21975,14 @@
 "LatLong": "52.129,4.4364"
 }
 ]
+}
+]
 },
 {
 "Name": "Waddinxveen",
 "Code": "0627",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Waddinxveen",
@@ -20651,10 +22000,14 @@
 "LatLong": "52.0368,4.6365"
 }
 ]
+}
+]
 },
 {
 "Name": "Wassenaar",
 "Code": "0629",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Wassenaar",
@@ -20682,10 +22035,14 @@
 "LatLong": "52.1155,4.379"
 }
 ]
+}
+]
 },
 {
 "Name": "Zoetermeer",
 "Code": "0637",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zoetermeer",
@@ -20773,10 +22130,14 @@
 "LatLong": "52.0639,4.5356"
 }
 ]
+}
+]
 },
 {
 "Name": "Zoeterwoude",
 "Code": "0638",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zoeterwoude",
@@ -20794,10 +22155,14 @@
 "LatLong": "52.0908,4.53"
 }
 ]
+}
+]
 },
 {
 "Name": "Zwijndrecht",
 "Code": "0642",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Heerjansdam",
@@ -20835,10 +22200,14 @@
 "LatLong": "51.8093,4.6147"
 }
 ]
+}
+]
 },
 {
 "Name": "Giessenlanden",
 "Code": "0689",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Giessenburg",
@@ -20871,10 +22240,14 @@
 "LatLong": "51.8637,4.9934"
 }
 ]
+}
+]
 },
 {
 "Name": "Zederik",
 "Code": "0707",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hei- en Boeicop",
@@ -20917,10 +22290,14 @@
 "LatLong": "51.9127,5.0477"
 }
 ]
+}
+]
 },
 {
 "Name": "Teylingen",
 "Code": "1525",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Warmond",
@@ -20958,10 +22335,14 @@
 "LatLong": "52.1924,4.5427"
 }
 ]
+}
+]
 },
 {
 "Name": "Lansingerland",
 "Code": "1621",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Berkel en Rodenrijs",
@@ -20994,10 +22375,14 @@
 "LatLong": "52.0118,4.5368"
 }
 ]
+}
+]
 },
 {
 "Name": "Westland",
 "Code": "1783",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Wateringen",
@@ -21085,10 +22470,14 @@
 "LatLong": "52.0071,4.1661"
 }
 ]
+}
+]
 },
 {
 "Name": "Midden-Delfland",
 "Code": "1842",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Den Hoorn",
@@ -21106,10 +22495,14 @@
 "LatLong": "51.9363,4.2718"
 }
 ]
+}
+]
 },
 {
 "Name": "Kaag en Braassem",
 "Code": "1884",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kaag",
@@ -21162,10 +22555,14 @@
 "LatLong": "52.1701,4.6348"
 }
 ]
+}
+]
 },
 {
 "Name": "Zuidplas",
 "Code": "1892",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Moerkapelle",
@@ -21218,10 +22615,14 @@
 "LatLong": "51.9722,4.6169"
 }
 ]
+}
+]
 },
 {
 "Name": "Bodegraven-Reeuwijk",
 "Code": "1901",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bodegraven",
@@ -21254,10 +22655,14 @@
 "LatLong": "52.0602,4.822"
 }
 ]
+}
+]
 },
 {
 "Name": "Leidschendam-Voorburg",
 "Code": "1916",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leidschendam",
@@ -21320,10 +22725,14 @@
 "LatLong": "52.0628,4.3511"
 }
 ]
+}
+]
 },
 {
 "Name": "Goeree-Overflakkee",
 "Code": "1924",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Middelharnis",
@@ -21406,10 +22815,14 @@
 "LatLong": "51.713,4.2818"
 }
 ]
+}
+]
 },
 {
 "Name": "Pijnacker-Nootdorp",
 "Code": "1926",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nootdorp",
@@ -21442,10 +22855,14 @@
 "LatLong": "52.0044,4.3948"
 }
 ]
+}
+]
 },
 {
 "Name": "Molenwaard",
 "Code": "1927",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nieuw-Lekkerland",
@@ -21518,10 +22935,14 @@
 "LatLong": "51.845,4.7643"
 }
 ]
+}
+]
 },
 {
 "Name": "Nissewaard",
 "Code": "1930",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Spijkenisse",
@@ -21629,10 +23050,14 @@
 "LatLong": "51.8267,4.1913"
 }
 ]
+}
+]
 },
 {
 "Name": "Krimpenerwaard",
 "Code": "1931",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Stolwijk",
@@ -21712,6 +23137,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Overijssel",
@@ -21720,6 +23147,8 @@
 {
 "Name": "Almelo",
 "Code": "0141",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Almelo",
@@ -21782,10 +23211,14 @@
 "LatLong": "52.3119,6.6572"
 }
 ]
+}
+]
 },
 {
 "Name": "Borne",
 "Code": "0147",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zenderen",
@@ -21818,10 +23251,14 @@
 "LatLong": "52.3189,6.7638"
 }
 ]
+}
+]
 },
 {
 "Name": "Dalfsen",
 "Code": "0148",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nieuwleusen",
@@ -21859,10 +23296,14 @@
 "LatLong": "52.4381,6.3049"
 }
 ]
+}
+]
 },
 {
 "Name": "Deventer",
 "Code": "0150",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Deventer",
@@ -21980,10 +23421,14 @@
 "LatLong": "52.2493,6.2953"
 }
 ]
+}
+]
 },
 {
 "Name": "Enschede",
 "Code": "0153",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Enschede",
@@ -22101,10 +23546,14 @@
 "LatLong": "52.2015,6.7962"
 }
 ]
+}
+]
 },
 {
 "Name": "Haaksbergen",
 "Code": "0158",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Haaksbergen",
@@ -22122,10 +23571,14 @@
 "LatLong": "52.1673,6.7349"
 }
 ]
+}
+]
 },
 {
 "Name": "Hardenberg",
 "Code": "0160",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bergentheim",
@@ -22293,10 +23746,14 @@
 "LatLong": "52.5939,6.5947"
 }
 ]
+}
+]
 },
 {
 "Name": "Hellendoorn",
 "Code": "0163",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nijverdal",
@@ -22334,10 +23791,14 @@
 "LatLong": "52.4286,6.539"
 }
 ]
+}
+]
 },
 {
 "Name": "Hengelo",
 "Code": "0164",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hengelo",
@@ -22385,10 +23846,14 @@
 "LatLong": "52.2936,6.8072"
 }
 ]
+}
+]
 },
 {
 "Name": "Kampen",
 "Code": "0166",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kampen",
@@ -22481,10 +23946,14 @@
 "LatLong": "52.5673,6.0056"
 }
 ]
+}
+]
 },
 {
 "Name": "Losser",
 "Code": "0168",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Losser",
@@ -22517,10 +23986,14 @@
 "LatLong": "52.3552,7.0029"
 }
 ]
+}
+]
 },
 {
 "Name": "Oldenzaal",
 "Code": "0173",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Deurningen",
@@ -22568,10 +24041,14 @@
 "LatLong": "52.3236,6.9186"
 }
 ]
+}
+]
 },
 {
 "Name": "Ommen",
 "Code": "0175",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beerzerveld",
@@ -22634,10 +24111,14 @@
 "LatLong": "52.4519,6.4106"
 }
 ]
+}
+]
 },
 {
 "Name": "Raalte",
 "Code": "0177",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Laag Zuthem",
@@ -22695,10 +24176,14 @@
 "LatLong": "52.4367,6.1927"
 }
 ]
+}
+]
 },
 {
 "Name": "Staphorst",
 "Code": "0180",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Punthorst",
@@ -22726,10 +24211,14 @@
 "LatLong": "52.6574,6.2979"
 }
 ]
+}
+]
 },
 {
 "Name": "Tubbergen",
 "Code": "0183",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mariaparochie",
@@ -22802,10 +24291,14 @@
 "LatLong": "52.4619,6.7196"
 }
 ]
+}
+]
 },
 {
 "Name": "Wierden",
 "Code": "0189",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zuna",
@@ -22853,10 +24346,14 @@
 "LatLong": "52.3917,6.563"
 }
 ]
+}
+]
 },
 {
 "Name": "Zwolle",
 "Code": "0193",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zwolle",
@@ -22984,10 +24481,14 @@
 "LatLong": "52.56,6.068"
 }
 ]
+}
+]
 },
 {
 "Name": "Twenterand",
 "Code": "1700",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vriezenveen",
@@ -23035,10 +24536,14 @@
 "LatLong": "52.4931,6.6713"
 }
 ]
+}
+]
 },
 {
 "Name": "Steenwijkerland",
 "Code": "1708",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Wanneperveen",
@@ -23206,10 +24711,14 @@
 "LatLong": "52.8125,6.0044"
 }
 ]
+}
+]
 },
 {
 "Name": "Hof van Twente",
 "Code": "1735",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Goor",
@@ -23252,10 +24761,14 @@
 "LatLong": "52.2231,6.6859"
 }
 ]
+}
+]
 },
 {
 "Name": "Rijssen-Holten",
 "Code": "1742",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Holten",
@@ -23278,10 +24791,14 @@
 "LatLong": "52.3109,6.4956"
 }
 ]
+}
+]
 },
 {
 "Name": "Olst-Wijhe",
 "Code": "1773",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Olst",
@@ -23309,10 +24826,14 @@
 "LatLong": "52.4118,6.1246"
 }
 ]
+}
+]
 },
 {
 "Name": "Dinkelland",
 "Code": "1774",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Deurningen",
@@ -23370,10 +24891,14 @@
 "LatLong": "52.4206,6.8712"
 }
 ]
+}
+]
 },
 {
 "Name": "Zwartewaterland",
 "Code": "1896",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hasselt",
@@ -23408,6 +24933,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Flevoland",
@@ -23416,6 +24943,8 @@
 {
 "Name": "Almere",
 "Code": "0034",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Almere",
@@ -23628,10 +25157,14 @@
 "LatLong": "52.3521,5.1493"
 }
 ]
+}
+]
 },
 {
 "Name": "Zeewolde",
 "Code": "0050",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zeewolde",
@@ -23679,10 +25212,14 @@
 "LatLong": "52.3557,5.5011"
 }
 ]
+}
+]
 },
 {
 "Name": "Noordoostpolder",
 "Code": "0171",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Emmeloord",
@@ -23765,10 +25302,14 @@
 "LatLong": "52.6444,5.7754"
 }
 ]
+}
+]
 },
 {
 "Name": "Urk",
 "Code": "0184",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Urk",
@@ -23781,10 +25322,14 @@
 "LatLong": "52.6645,5.629"
 }
 ]
+}
+]
 },
 {
 "Name": "Dronten",
 "Code": "0303",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dronten",
@@ -23817,10 +25362,14 @@
 "LatLong": "52.4429,5.6995"
 }
 ]
+}
+]
 },
 {
 "Name": "Lelystad",
 "Code": "0995",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lelystad",
@@ -23916,6 +25465,8 @@
 "Name": "Lelystad",
 "PostCode": "8245",
 "LatLong": "52.494,5.457"
+}
+]
 }
 ]
 }

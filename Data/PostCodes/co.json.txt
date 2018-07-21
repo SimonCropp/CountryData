@@ -1,5 +1,4 @@
 {
-"Structure": "State/Province/Place",
 "States": [
 {
 "Name": "Amazonas",
@@ -8,6 +7,8 @@
 {
 "Name": "Leticia",
 "Code": "91001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leticia",
@@ -25,10 +26,14 @@
 "LatLong": "-4.2153,-69.9406"
 }
 ]
+}
+]
 },
 {
 "Name": "El Encanto",
 "Code": "91263",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Encanto",
@@ -51,10 +56,14 @@
 "LatLong": "-1.7477,-73.2083"
 }
 ]
+}
+]
 },
 {
 "Name": "La Chorrera",
 "Code": "91405",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Chorrera",
@@ -67,10 +76,14 @@
 "LatLong": "-0.7333,-73.0167"
 }
 ]
+}
+]
 },
 {
 "Name": "La Pedrera",
 "Code": "91407",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Pedrera",
@@ -88,10 +101,14 @@
 "LatLong": "-1.3239,-69.5744"
 }
 ]
+}
+]
 },
 {
 "Name": "La Victoria",
 "Code": "91430",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Victoria",
@@ -99,10 +116,14 @@
 "LatLong": "0.0551,-71.222"
 }
 ]
+}
+]
 },
 {
 "Name": "Miriti - Paraná",
 "Code": "91460",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Miriti - Parana",
@@ -115,10 +136,14 @@
 "LatLong": "-0.6853,-71.1859"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Alegría",
 "Code": "91530",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Alegria",
@@ -131,10 +156,14 @@
 "LatLong": "-1.0333,-74.0333"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Arica",
 "Code": "91536",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Arica",
@@ -157,10 +186,14 @@
 "LatLong": "-2.1485,-71.7548"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Nariño",
 "Code": "91540",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Nariño",
@@ -178,10 +211,14 @@
 "LatLong": "-3.7889,-70.3558"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Santander",
 "Code": "91669",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Santander",
@@ -204,10 +241,14 @@
 "LatLong": "-0.6217,-72.384"
 }
 ]
+}
+]
 },
 {
 "Name": "Tarapacá",
 "Code": "91798",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tarapaca",
@@ -232,6 +273,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Antioquia",
@@ -240,6 +283,8 @@
 {
 "Name": "Medellín",
 "Code": "05001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Medellin",
@@ -447,10 +492,14 @@
 "LatLong": "6.2518,-75.5636"
 }
 ]
+}
+]
 },
 {
 "Name": "Abejorral",
 "Code": "05002",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Abejorral",
@@ -468,10 +517,14 @@
 "LatLong": "5.7893,-75.4273"
 }
 ]
+}
+]
 },
 {
 "Name": "Abriaquí",
 "Code": "05004",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Abriaqui",
@@ -484,10 +537,14 @@
 "LatLong": "6.6315,-76.0644"
 }
 ]
+}
+]
 },
 {
 "Name": "Alejandría",
 "Code": "05021",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alejandria",
@@ -500,10 +557,14 @@
 "LatLong": "6.3774,-75.1406"
 }
 ]
+}
+]
 },
 {
 "Name": "Amagá",
 "Code": "05030",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Amaga",
@@ -521,10 +582,14 @@
 "LatLong": "6.04,-75.7032"
 }
 ]
+}
+]
 },
 {
 "Name": "Amalfi",
 "Code": "05031",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Amalfi",
@@ -542,10 +607,14 @@
 "LatLong": "6.9102,-75.0776"
 }
 ]
+}
+]
 },
 {
 "Name": "Andes",
 "Code": "05034",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Andes",
@@ -563,10 +632,14 @@
 "LatLong": "5.6561,-75.8788"
 }
 ]
+}
+]
 },
 {
 "Name": "Angelópolis",
 "Code": "05036",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Angelopolis",
@@ -579,10 +652,14 @@
 "LatLong": "6.1107,-75.7092"
 }
 ]
+}
+]
 },
 {
 "Name": "Angostura",
 "Code": "05038",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Angostura",
@@ -600,10 +677,14 @@
 "LatLong": "6.8851,-75.3347"
 }
 ]
+}
+]
 },
 {
 "Name": "Anorí",
 "Code": "05040",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Anori",
@@ -616,10 +697,14 @@
 "LatLong": "7.1833,-75.0667"
 }
 ]
+}
+]
 },
 {
 "Name": "Santafé de Antioquia",
 "Code": "05042",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santafe De Antioquia",
@@ -637,10 +722,14 @@
 "LatLong": "6.5332,-75.9028"
 }
 ]
+}
+]
 },
 {
 "Name": "Anza",
 "Code": "05044",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Anza",
@@ -658,10 +747,14 @@
 "LatLong": "6.3032,-75.8538"
 }
 ]
+}
+]
 },
 {
 "Name": "Apartadó",
 "Code": "05045",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Apartado",
@@ -679,10 +772,14 @@
 "LatLong": "7.883,-76.6259"
 }
 ]
+}
+]
 },
 {
 "Name": "Arboletes",
 "Code": "05051",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arboletes",
@@ -705,10 +802,14 @@
 "LatLong": "8.8505,-76.4269"
 }
 ]
+}
+]
 },
 {
 "Name": "Argelia",
 "Code": "05055",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Argelia",
@@ -726,10 +827,14 @@
 "LatLong": "5.7313,-75.1426"
 }
 ]
+}
+]
 },
 {
 "Name": "Armenia",
 "Code": "05059",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Armenia",
@@ -742,10 +847,14 @@
 "LatLong": "6.1564,-75.7872"
 }
 ]
+}
+]
 },
 {
 "Name": "Barbosa",
 "Code": "05079",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Barbosa",
@@ -763,10 +872,14 @@
 "LatLong": "6.4381,-75.3314"
 }
 ]
+}
+]
 },
 {
 "Name": "Belmira",
 "Code": "05086",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Belmira",
@@ -779,10 +892,14 @@
 "LatLong": "6.6051,-75.6662"
 }
 ]
+}
+]
 },
 {
 "Name": "Bello",
 "Code": "05088",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bello",
@@ -825,10 +942,14 @@
 "LatLong": "6.3373,-75.558"
 }
 ]
+}
+]
 },
 {
 "Name": "Betania",
 "Code": "05091",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Betania",
@@ -841,10 +962,14 @@
 "LatLong": "5.746,-75.9777"
 }
 ]
+}
+]
 },
 {
 "Name": "Betulia",
 "Code": "05093",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Betulia",
@@ -862,10 +987,14 @@
 "LatLong": "6.1128,-75.9838"
 }
 ]
+}
+]
 },
 {
 "Name": "Ciudad Bolívar",
 "Code": "05101",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ciudad Bolivar",
@@ -883,10 +1012,14 @@
 "LatLong": "5.8539,-76.0253"
 }
 ]
+}
+]
 },
 {
 "Name": "Briceño",
 "Code": "05107",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Briceño",
@@ -904,10 +1037,14 @@
 "LatLong": "7.111,-75.5515"
 }
 ]
+}
+]
 },
 {
 "Name": "Buriticá",
 "Code": "05113",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Buritica",
@@ -925,10 +1062,14 @@
 "LatLong": "6.7187,-75.9073"
 }
 ]
+}
+]
 },
 {
 "Name": "Cáceres",
 "Code": "05120",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Caceres",
@@ -946,10 +1087,14 @@
 "LatLong": "7.5808,-75.3484"
 }
 ]
+}
+]
 },
 {
 "Name": "Caicedo",
 "Code": "05125",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Caicedo",
@@ -962,10 +1107,14 @@
 "LatLong": "6.4051,-75.9825"
 }
 ]
+}
+]
 },
 {
 "Name": "Caldas",
 "Code": "05129",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Caldas",
@@ -983,10 +1132,14 @@
 "LatLong": "6.0911,-75.6357"
 }
 ]
+}
+]
 },
 {
 "Name": "Campamento",
 "Code": "05134",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Campamento",
@@ -999,10 +1152,14 @@
 "LatLong": "6.9792,-75.2972"
 }
 ]
+}
+]
 },
 {
 "Name": "Cañasgordas",
 "Code": "05138",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cañasgordas",
@@ -1020,10 +1177,14 @@
 "LatLong": "6.7499,-76.0254"
 }
 ]
+}
+]
 },
 {
 "Name": "Caracolí",
 "Code": "05142",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Caracoli",
@@ -1036,10 +1197,14 @@
 "LatLong": "6.4119,-74.7606"
 }
 ]
+}
+]
 },
 {
 "Name": "Caramanta",
 "Code": "05145",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Caramanta",
@@ -1052,10 +1217,14 @@
 "LatLong": "5.5478,-75.6437"
 }
 ]
+}
+]
 },
 {
 "Name": "Carepa",
 "Code": "05147",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Carepa",
@@ -1073,10 +1242,14 @@
 "LatLong": "7.7585,-76.6525"
 }
 ]
+}
+]
 },
 {
 "Name": "El Carmen de Viboral",
 "Code": "05148",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Carmen De Viboral",
@@ -1094,10 +1267,14 @@
 "LatLong": "6.0824,-75.3351"
 }
 ]
+}
+]
 },
 {
 "Name": "Carolina",
 "Code": "05150",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Carolina",
@@ -1110,10 +1287,14 @@
 "LatLong": "6.7244,-75.2817"
 }
 ]
+}
+]
 },
 {
 "Name": "Caucasia",
 "Code": "05154",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Caucasia",
@@ -1131,10 +1312,14 @@
 "LatLong": "7.9865,-75.1935"
 }
 ]
+}
+]
 },
 {
 "Name": "Chigorodó",
 "Code": "05172",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chigorodo",
@@ -1152,10 +1337,14 @@
 "LatLong": "7.6664,-76.6811"
 }
 ]
+}
+]
 },
 {
 "Name": "Cisneros",
 "Code": "05190",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cisneros",
@@ -1168,10 +1357,14 @@
 "LatLong": "6.5383,-75.0886"
 }
 ]
+}
+]
 },
 {
 "Name": "Cocorná",
 "Code": "05197",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cocorna",
@@ -1189,10 +1382,14 @@
 "LatLong": "6.0573,-75.1852"
 }
 ]
+}
+]
 },
 {
 "Name": "Concepción",
 "Code": "05206",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Concepcion",
@@ -1205,10 +1402,14 @@
 "LatLong": "6.3941,-75.2583"
 }
 ]
+}
+]
 },
 {
 "Name": "Concordia",
 "Code": "05209",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Concordia",
@@ -1221,10 +1422,14 @@
 "LatLong": "6.0464,-75.9071"
 }
 ]
+}
+]
 },
 {
 "Name": "Copacabana",
 "Code": "05212",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Copacabana",
@@ -1242,10 +1447,14 @@
 "LatLong": "6.3463,-75.5089"
 }
 ]
+}
+]
 },
 {
 "Name": "Dabeiba",
 "Code": "05234",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dabeiba",
@@ -1263,10 +1472,14 @@
 "LatLong": "7.0002,-76.2691"
 }
 ]
+}
+]
 },
 {
 "Name": "Don Matías",
 "Code": "05237",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Don Matias",
@@ -1284,10 +1497,14 @@
 "LatLong": "6.4857,-75.395"
 }
 ]
+}
+]
 },
 {
 "Name": "Ebéjico",
 "Code": "05240",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ebejico",
@@ -1305,10 +1522,14 @@
 "LatLong": "6.326,-75.7683"
 }
 ]
+}
+]
 },
 {
 "Name": "El Bagre",
 "Code": "05250",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Bagre",
@@ -1326,10 +1547,14 @@
 "LatLong": "7.6035,-74.8095"
 }
 ]
+}
+]
 },
 {
 "Name": "Entrerrios",
 "Code": "05264",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Entrerrios",
@@ -1342,10 +1567,14 @@
 "LatLong": "6.5654,-75.5169"
 }
 ]
+}
+]
 },
 {
 "Name": "Envigado",
 "Code": "05266",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Envigado",
@@ -1373,10 +1602,14 @@
 "LatLong": "6.1759,-75.5917"
 }
 ]
+}
+]
 },
 {
 "Name": "Fredonia",
 "Code": "05282",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fredonia",
@@ -1394,10 +1627,14 @@
 "LatLong": "5.9258,-75.6706"
 }
 ]
+}
+]
 },
 {
 "Name": "Frontino",
 "Code": "05284",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Frontino",
@@ -1415,10 +1652,14 @@
 "LatLong": "6.7713,-76.1332"
 }
 ]
+}
+]
 },
 {
 "Name": "Giraldo",
 "Code": "05306",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Giraldo",
@@ -1431,10 +1672,14 @@
 "LatLong": "6.6831,-75.9892"
 }
 ]
+}
+]
 },
 {
 "Name": "Girardota",
 "Code": "05308",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Girardota",
@@ -1452,10 +1697,14 @@
 "LatLong": "6.3771,-75.4478"
 }
 ]
+}
+]
 },
 {
 "Name": "Gómez Plata",
 "Code": "05310",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gomez Plata",
@@ -1473,10 +1722,14 @@
 "LatLong": "6.6818,-75.2191"
 }
 ]
+}
+]
 },
 {
 "Name": "Granada",
 "Code": "05313",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Granada",
@@ -1489,10 +1742,14 @@
 "LatLong": "6.1435,-75.1853"
 }
 ]
+}
+]
 },
 {
 "Name": "Guadalupe",
 "Code": "05315",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guadalupe",
@@ -1505,10 +1762,14 @@
 "LatLong": "6.8145,-75.2406"
 }
 ]
+}
+]
 },
 {
 "Name": "Guarne",
 "Code": "05318",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guarne",
@@ -1526,10 +1787,14 @@
 "LatLong": "6.2805,-75.4435"
 }
 ]
+}
+]
 },
 {
 "Name": "Guatapé",
 "Code": "05321",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guatape",
@@ -1542,10 +1807,14 @@
 "LatLong": "6.2343,-75.1633"
 }
 ]
+}
+]
 },
 {
 "Name": "Heliconia",
 "Code": "05347",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Heliconia",
@@ -1558,10 +1827,14 @@
 "LatLong": "6.2083,-75.7357"
 }
 ]
+}
+]
 },
 {
 "Name": "Hispania",
 "Code": "05353",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hispania",
@@ -1574,10 +1847,14 @@
 "LatLong": "5.7993,-75.9072"
 }
 ]
+}
+]
 },
 {
 "Name": "Itagui",
 "Code": "05360",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Itagüi",
@@ -1605,10 +1882,14 @@
 "LatLong": "6.1846,-75.5991"
 }
 ]
+}
+]
 },
 {
 "Name": "Ituango",
 "Code": "05361",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ituango",
@@ -1631,10 +1912,14 @@
 "LatLong": "7.1712,-75.764"
 }
 ]
+}
+]
 },
 {
 "Name": "Jardín",
 "Code": "05364",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jardin",
@@ -1647,10 +1932,14 @@
 "LatLong": "5.599,-75.8198"
 }
 ]
+}
+]
 },
 {
 "Name": "Jericó",
 "Code": "05368",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jerico",
@@ -1663,10 +1952,14 @@
 "LatLong": "5.7921,-75.786"
 }
 ]
+}
+]
 },
 {
 "Name": "La Ceja",
 "Code": "05376",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Ceja",
@@ -1684,10 +1977,14 @@
 "LatLong": "6.0313,-75.4333"
 }
 ]
+}
+]
 },
 {
 "Name": "La Estrella",
 "Code": "05380",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Estrella",
@@ -1705,10 +2002,14 @@
 "LatLong": "6.1577,-75.6432"
 }
 ]
+}
+]
 },
 {
 "Name": "La Pintada",
 "Code": "05390",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Pintada",
@@ -1726,10 +2027,14 @@
 "LatLong": "5.7487,-75.6063"
 }
 ]
+}
+]
 },
 {
 "Name": "La Unión",
 "Code": "05400",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Union",
@@ -1747,10 +2052,14 @@
 "LatLong": "5.9743,-75.362"
 }
 ]
+}
+]
 },
 {
 "Name": "Liborina",
 "Code": "05411",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Liborina",
@@ -1768,10 +2077,14 @@
 "LatLong": "6.6779,-75.8122"
 }
 ]
+}
+]
 },
 {
 "Name": "Maceo",
 "Code": "05425",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Maceo",
@@ -1784,10 +2097,14 @@
 "LatLong": "6.552,-74.7874"
 }
 ]
+}
+]
 },
 {
 "Name": "Marinilla",
 "Code": "05440",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marinilla",
@@ -1805,10 +2122,14 @@
 "LatLong": "6.1736,-75.3362"
 }
 ]
+}
+]
 },
 {
 "Name": "Montebello",
 "Code": "05467",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Montebello",
@@ -1826,10 +2147,14 @@
 "LatLong": "5.9449,-75.5243"
 }
 ]
+}
+]
 },
 {
 "Name": "Murindó",
 "Code": "05475",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Murindo",
@@ -1847,10 +2172,14 @@
 "LatLong": "6.9848,-76.7544"
 }
 ]
+}
+]
 },
 {
 "Name": "Mutatá",
 "Code": "05480",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mutata",
@@ -1868,10 +2197,14 @@
 "LatLong": "7.2441,-76.4356"
 }
 ]
+}
+]
 },
 {
 "Name": "Nariño",
 "Code": "05483",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nariño",
@@ -1889,10 +2222,14 @@
 "LatLong": "5.6089,-75.1766"
 }
 ]
+}
+]
 },
 {
 "Name": "Necoclí",
 "Code": "05490",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Necocli",
@@ -1910,10 +2247,14 @@
 "LatLong": "8.4263,-76.7893"
 }
 ]
+}
+]
 },
 {
 "Name": "Nechí",
 "Code": "05495",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nechi",
@@ -1931,10 +2272,14 @@
 "LatLong": "8.0942,-74.7757"
 }
 ]
+}
+]
 },
 {
 "Name": "Olaya",
 "Code": "05501",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Olaya",
@@ -1947,10 +2292,14 @@
 "LatLong": "6.6299,-75.803"
 }
 ]
+}
+]
 },
 {
 "Name": "Peñol",
 "Code": "05541",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Peñol",
@@ -1963,10 +2312,14 @@
 "LatLong": "6.2464,-75.221"
 }
 ]
+}
+]
 },
 {
 "Name": "Peque",
 "Code": "05543",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Peque",
@@ -1984,10 +2337,14 @@
 "LatLong": "7.0212,-75.9093"
 }
 ]
+}
+]
 },
 {
 "Name": "Pueblorrico",
 "Code": "05576",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pueblorrico",
@@ -2000,10 +2357,14 @@
 "LatLong": "5.7918,-75.841"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Berrío",
 "Code": "05579",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Berrio",
@@ -2021,10 +2382,14 @@
 "LatLong": "6.4916,-74.4033"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Nare",
 "Code": "05585",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Nare",
@@ -2037,10 +2402,14 @@
 "LatLong": "6.2053,-74.5997"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Triunfo",
 "Code": "05591",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Triunfo",
@@ -2058,10 +2427,14 @@
 "LatLong": "5.8726,-74.6403"
 }
 ]
+}
+]
 },
 {
 "Name": "Remedios",
 "Code": "05604",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Remedios",
@@ -2079,10 +2452,14 @@
 "LatLong": "7.0308,-74.5333"
 }
 ]
+}
+]
 },
 {
 "Name": "Retiro",
 "Code": "05607",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Retiro",
@@ -2100,10 +2477,14 @@
 "LatLong": "6.0547,-75.5137"
 }
 ]
+}
+]
 },
 {
 "Name": "Rionegro",
 "Code": "05615",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rionegro",
@@ -2121,10 +2502,14 @@
 "LatLong": "6.1551,-75.3737"
 }
 ]
+}
+]
 },
 {
 "Name": "Sabanalarga",
 "Code": "05628",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sabanalarga",
@@ -2142,10 +2527,14 @@
 "LatLong": "6.8489,-75.8171"
 }
 ]
+}
+]
 },
 {
 "Name": "Sabaneta",
 "Code": "05631",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sabaneta",
@@ -2158,10 +2547,14 @@
 "LatLong": "6.1515,-75.6166"
 }
 ]
+}
+]
 },
 {
 "Name": "Salgar",
 "Code": "05642",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Salgar",
@@ -2179,10 +2572,14 @@
 "LatLong": "5.965,-75.9654"
 }
 ]
+}
+]
 },
 {
 "Name": "San Andrés de Cuerquía",
 "Code": "05647",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Andres De Cuerquia",
@@ -2195,10 +2592,14 @@
 "LatLong": "6.9189,-75.6641"
 }
 ]
+}
+]
 },
 {
 "Name": "San Carlos",
 "Code": "05649",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Carlos",
@@ -2216,10 +2617,14 @@
 "LatLong": "6.1879,-74.9931"
 }
 ]
+}
+]
 },
 {
 "Name": "San Francisco",
 "Code": "05652",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Francisco",
@@ -2237,10 +2642,14 @@
 "LatLong": "5.9643,-75.1016"
 }
 ]
+}
+]
 },
 {
 "Name": "San Jerónimo",
 "Code": "05656",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Jeronimo",
@@ -2253,10 +2662,14 @@
 "LatLong": "6.4434,-75.7281"
 }
 ]
+}
+]
 },
 {
 "Name": "San José de La Montaña",
 "Code": "05658",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Jose De La Montaña",
@@ -2269,10 +2682,14 @@
 "LatLong": "6.8503,-75.6833"
 }
 ]
+}
+]
 },
 {
 "Name": "San Juan de Urabá",
 "Code": "05659",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Juan De Uraba",
@@ -2285,10 +2702,14 @@
 "LatLong": "8.7592,-76.5297"
 }
 ]
+}
+]
 },
 {
 "Name": "San Luis",
 "Code": "05660",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Luis",
@@ -2306,10 +2727,14 @@
 "LatLong": "6.0434,-74.9937"
 }
 ]
+}
+]
 },
 {
 "Name": "San Pedro",
 "Code": "05664",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Pedro De Los Milagros",
@@ -2322,10 +2747,14 @@
 "LatLong": "6.4582,-75.5638"
 }
 ]
+}
+]
 },
 {
 "Name": "San Pedro de Uraba",
 "Code": "05665",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Pedro De Uraba",
@@ -2348,10 +2777,14 @@
 "LatLong": "8.2751,-76.3764"
 }
 ]
+}
+]
 },
 {
 "Name": "San Rafael",
 "Code": "05667",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Rafael",
@@ -2369,10 +2802,14 @@
 "LatLong": "6.2944,-75.0259"
 }
 ]
+}
+]
 },
 {
 "Name": "San Roque",
 "Code": "05670",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Roque",
@@ -2385,10 +2822,14 @@
 "LatLong": "6.4851,-75.0196"
 }
 ]
+}
+]
 },
 {
 "Name": "San Vicente",
 "Code": "05674",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Vicente",
@@ -2406,10 +2847,14 @@
 "LatLong": "6.2328,-75.3361"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa Bárbara",
 "Code": "05679",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Barbara",
@@ -2427,10 +2872,14 @@
 "LatLong": "5.8746,-75.5671"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa Rosa de Osos",
 "Code": "05686",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Rosa De Osos",
@@ -2448,10 +2897,14 @@
 "LatLong": "6.6474,-75.4603"
 }
 ]
+}
+]
 },
 {
 "Name": "Santo Domingo",
 "Code": "05690",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santo Domingo",
@@ -2469,10 +2922,14 @@
 "LatLong": "6.4728,-75.1655"
 }
 ]
+}
+]
 },
 {
 "Name": "El Santuario",
 "Code": "05697",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Santuario",
@@ -2485,10 +2942,14 @@
 "LatLong": "6.1383,-75.2642"
 }
 ]
+}
+]
 },
 {
 "Name": "Segovia",
 "Code": "05736",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Segovia",
@@ -2506,10 +2967,14 @@
 "LatLong": "7.0799,-74.6989"
 }
 ]
+}
+]
 },
 {
 "Name": "Sonson",
 "Code": "05756",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sonson",
@@ -2532,10 +2997,14 @@
 "LatLong": "5.7106,-75.3107"
 }
 ]
+}
+]
 },
 {
 "Name": "Sopetrán",
 "Code": "05761",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sopetran",
@@ -2553,10 +3022,14 @@
 "LatLong": "6.5213,-75.7455"
 }
 ]
+}
+]
 },
 {
 "Name": "Támesis",
 "Code": "05789",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tamesis",
@@ -2574,10 +3047,14 @@
 "LatLong": "5.6646,-75.7134"
 }
 ]
+}
+]
 },
 {
 "Name": "Tarazá",
 "Code": "05790",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Taraza",
@@ -2595,10 +3072,14 @@
 "LatLong": "7.5836,-75.4007"
 }
 ]
+}
+]
 },
 {
 "Name": "Tarso",
 "Code": "05792",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tarso",
@@ -2616,10 +3097,14 @@
 "LatLong": "5.8647,-75.8219"
 }
 ]
+}
+]
 },
 {
 "Name": "Titiribí",
 "Code": "05809",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Titiribi",
@@ -2637,10 +3122,14 @@
 "LatLong": "6.0628,-75.7937"
 }
 ]
+}
+]
 },
 {
 "Name": "Toledo",
 "Code": "05819",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Toledo",
@@ -2653,10 +3142,14 @@
 "LatLong": "7.0131,-75.6953"
 }
 ]
+}
+]
 },
 {
 "Name": "Turbo",
 "Code": "05837",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Turbo",
@@ -2679,10 +3172,14 @@
 "LatLong": "8.0926,-76.7282"
 }
 ]
+}
+]
 },
 {
 "Name": "Uramita",
 "Code": "05842",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Uramita",
@@ -2695,10 +3192,14 @@
 "LatLong": "6.8994,-76.1742"
 }
 ]
+}
+]
 },
 {
 "Name": "Urrao",
 "Code": "05847",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Urrao",
@@ -2716,10 +3217,14 @@
 "LatLong": "6.317,-76.1342"
 }
 ]
+}
+]
 },
 {
 "Name": "Valdivia",
 "Code": "05854",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valdivia",
@@ -2737,10 +3242,14 @@
 "LatLong": "7.2889,-75.3978"
 }
 ]
+}
+]
 },
 {
 "Name": "Valparaíso",
 "Code": "05856",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valparaiso",
@@ -2753,10 +3262,14 @@
 "LatLong": "5.615,-75.6242"
 }
 ]
+}
+]
 },
 {
 "Name": "Vegachí",
 "Code": "05858",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vegachi",
@@ -2769,10 +3282,14 @@
 "LatLong": "6.8361,-74.7532"
 }
 ]
+}
+]
 },
 {
 "Name": "Venecia",
 "Code": "05861",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Venecia",
@@ -2785,10 +3302,14 @@
 "LatLong": "5.9628,-75.7381"
 }
 ]
+}
+]
 },
 {
 "Name": "Vigía del Fuerte",
 "Code": "05873",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vigia Del Fuerte",
@@ -2806,10 +3327,14 @@
 "LatLong": "6.5789,-76.8863"
 }
 ]
+}
+]
 },
 {
 "Name": "Yalí",
 "Code": "05885",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yali",
@@ -2822,10 +3347,14 @@
 "LatLong": "6.6746,-74.8343"
 }
 ]
+}
+]
 },
 {
 "Name": "Yarumal",
 "Code": "05887",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yarumal",
@@ -2843,10 +3372,14 @@
 "LatLong": "7.0303,-75.5906"
 }
 ]
+}
+]
 },
 {
 "Name": "Yolombó",
 "Code": "05890",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yolombo",
@@ -2864,10 +3397,14 @@
 "LatLong": "6.5984,-75.0114"
 }
 ]
+}
+]
 },
 {
 "Name": "Yondó",
 "Code": "05893",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yondo",
@@ -2885,10 +3422,14 @@
 "LatLong": "6.2859,-74.6188"
 }
 ]
+}
+]
 },
 {
 "Name": "Zaragoza",
 "Code": "05895",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zaragoza",
@@ -2908,6 +3449,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Arauca",
@@ -2916,6 +3459,8 @@
 {
 "Name": "Arauca",
 "Code": "81001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arauca",
@@ -2938,10 +3483,14 @@
 "LatLong": "7.0847,-70.7591"
 }
 ]
+}
+]
 },
 {
 "Name": "Arauquita",
 "Code": "81065",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arauquita",
@@ -2964,10 +3513,14 @@
 "LatLong": "7.0292,-71.4281"
 }
 ]
+}
+]
 },
 {
 "Name": "Cravo Norte",
 "Code": "81220",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cravo Norte",
@@ -2990,10 +3543,14 @@
 "LatLong": "6.3017,-70.2042"
 }
 ]
+}
+]
 },
 {
 "Name": "Fortul",
 "Code": "81300",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fortul",
@@ -3011,10 +3568,14 @@
 "LatLong": "6.6965,-71.8569"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Rondón",
 "Code": "81591",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Rondon",
@@ -3032,10 +3593,14 @@
 "LatLong": "6.2805,-71.1"
 }
 ]
+}
+]
 },
 {
 "Name": "Saravena",
 "Code": "81736",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saravena",
@@ -3053,10 +3618,14 @@
 "LatLong": "6.9632,-71.8823"
 }
 ]
+}
+]
 },
 {
 "Name": "Tame",
 "Code": "81794",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tame",
@@ -3076,6 +3645,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Atlantico",
@@ -3084,6 +3655,8 @@
 {
 "Name": "Barranquilla",
 "Code": "08001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Barranquilla",
@@ -3161,10 +3734,14 @@
 "LatLong": "10.9685,-74.7813"
 }
 ]
+}
+]
 },
 {
 "Name": "Baranoa",
 "Code": "08078",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Baranoa",
@@ -3182,10 +3759,14 @@
 "LatLong": "10.7941,-74.9164"
 }
 ]
+}
+]
 },
 {
 "Name": "Campo de La Cruz",
 "Code": "08137",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Campo De La Cruz",
@@ -3198,10 +3779,14 @@
 "LatLong": "10.3781,-74.8836"
 }
 ]
+}
+]
 },
 {
 "Name": "Candelaria",
 "Code": "08141",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Candelaria",
@@ -3214,10 +3799,14 @@
 "LatLong": "10.4591,-74.8797"
 }
 ]
+}
+]
 },
 {
 "Name": "Galapa",
 "Code": "08296",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Galapa",
@@ -3230,10 +3819,14 @@
 "LatLong": "10.8969,-74.886"
 }
 ]
+}
+]
 },
 {
 "Name": "Juan de Acosta",
 "Code": "08372",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Juan De Acosta",
@@ -3251,10 +3844,14 @@
 "LatLong": "10.8281,-75.0334"
 }
 ]
+}
+]
 },
 {
 "Name": "Luruaco",
 "Code": "08421",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Luruaco",
@@ -3272,10 +3869,14 @@
 "LatLong": "10.6171,-75.1515"
 }
 ]
+}
+]
 },
 {
 "Name": "Malambo",
 "Code": "08433",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Malambo",
@@ -3298,10 +3899,14 @@
 "LatLong": "10.8595,-74.7739"
 }
 ]
+}
+]
 },
 {
 "Name": "Manatí",
 "Code": "08436",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Manati",
@@ -3314,10 +3919,14 @@
 "LatLong": "10.4459,-74.9587"
 }
 ]
+}
+]
 },
 {
 "Name": "Palmar de Varela",
 "Code": "08520",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Palmar De Varela",
@@ -3330,10 +3939,14 @@
 "LatLong": "10.7405,-74.7544"
 }
 ]
+}
+]
 },
 {
 "Name": "Piojó",
 "Code": "08549",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Piojo",
@@ -3346,10 +3959,14 @@
 "LatLong": "10.7485,-75.1078"
 }
 ]
+}
+]
 },
 {
 "Name": "Polonuevo",
 "Code": "08558",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Polonuevo",
@@ -3362,10 +3979,14 @@
 "LatLong": "10.777,-74.8534"
 }
 ]
+}
+]
 },
 {
 "Name": "Ponedera",
 "Code": "08560",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ponedera",
@@ -3383,10 +4004,14 @@
 "LatLong": "10.641,-74.7503"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Colombia",
 "Code": "08573",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Colombia",
@@ -3404,10 +4029,14 @@
 "LatLong": "10.9878,-74.9547"
 }
 ]
+}
+]
 },
 {
 "Name": "Repelón",
 "Code": "08606",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Repelon",
@@ -3425,10 +4054,14 @@
 "LatLong": "10.4919,-75.1292"
 }
 ]
+}
+]
 },
 {
 "Name": "Sabanagrande",
 "Code": "08634",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sabanagrande",
@@ -3441,10 +4074,14 @@
 "LatLong": "10.7912,-74.7606"
 }
 ]
+}
+]
 },
 {
 "Name": "Sabanalarga",
 "Code": "08638",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sabanalarga",
@@ -3467,10 +4104,14 @@
 "LatLong": "10.6296,-74.9206"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa Lucía",
 "Code": "08675",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Lucia",
@@ -3483,10 +4124,14 @@
 "LatLong": "10.3242,-74.9602"
 }
 ]
+}
+]
 },
 {
 "Name": "Santo Tomás",
 "Code": "08685",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santo Tomas",
@@ -3499,10 +4144,14 @@
 "LatLong": "10.7577,-74.7545"
 }
 ]
+}
+]
 },
 {
 "Name": "Soledad",
 "Code": "08758",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Soledad",
@@ -3545,10 +4194,14 @@
 "LatLong": "10.9184,-74.7646"
 }
 ]
+}
+]
 },
 {
 "Name": "Suan",
 "Code": "08770",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Suan",
@@ -3561,10 +4214,14 @@
 "LatLong": "10.3335,-74.8802"
 }
 ]
+}
+]
 },
 {
 "Name": "Tubará",
 "Code": "08832",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tubara",
@@ -3582,10 +4239,14 @@
 "LatLong": "10.8756,-74.9787"
 }
 ]
+}
+]
 },
 {
 "Name": "Usiacurí",
 "Code": "08849",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Usiacuri",
@@ -3600,6 +4261,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Caqueta",
@@ -3608,6 +4271,8 @@
 {
 "Name": "Florencia",
 "Code": "18001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Florencia",
@@ -3640,10 +4305,14 @@
 "LatLong": "1.6144,-75.6062"
 }
 ]
+}
+]
 },
 {
 "Name": "Albania",
 "Code": "18029",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Albania",
@@ -3661,10 +4330,14 @@
 "LatLong": "1.3287,-75.8782"
 }
 ]
+}
+]
 },
 {
 "Name": "Belén de Los Andaquies",
 "Code": "18094",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Belen De Los Andaquies",
@@ -3682,10 +4355,14 @@
 "LatLong": "1.4183,-75.8775"
 }
 ]
+}
+]
 },
 {
 "Name": "Cartagena del Chairá",
 "Code": "18150",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cartagena Del Chaira",
@@ -3713,10 +4390,14 @@
 "LatLong": "1.3349,-74.8429"
 }
 ]
+}
+]
 },
 {
 "Name": "Curillo",
 "Code": "18205",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Curillo",
@@ -3739,10 +4420,14 @@
 "LatLong": "1.0333,-75.9191"
 }
 ]
+}
+]
 },
 {
 "Name": "El Doncello",
 "Code": "18247",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Doncello",
@@ -3765,10 +4450,14 @@
 "LatLong": "1.6782,-75.2847"
 }
 ]
+}
+]
 },
 {
 "Name": "El Paujil",
 "Code": "18256",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Paujil",
@@ -3791,10 +4480,14 @@
 "LatLong": "1.5701,-75.3286"
 }
 ]
+}
+]
 },
 {
 "Name": "La Montañita",
 "Code": "18410",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Montañita",
@@ -3822,10 +4515,14 @@
 "LatLong": "1.4766,-75.4398"
 }
 ]
+}
+]
 },
 {
 "Name": "Milán",
 "Code": "18460",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Milan",
@@ -3843,10 +4540,14 @@
 "LatLong": "1.292,-75.5117"
 }
 ]
+}
+]
 },
 {
 "Name": "Morelia",
 "Code": "18479",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Morelia",
@@ -3864,10 +4565,14 @@
 "LatLong": "1.4875,-75.7258"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Rico",
 "Code": "18592",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Rico",
@@ -3890,10 +4595,14 @@
 "LatLong": "1.9142,-75.145"
 }
 ]
+}
+]
 },
 {
 "Name": "San José del Fragua",
 "Code": "18610",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Jose Del Fragua",
@@ -3911,10 +4620,14 @@
 "LatLong": "1.332,-75.973"
 }
 ]
+}
+]
 },
 {
 "Name": "San Vicente del Caguán",
 "Code": "18753",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Vicente Del Caguan",
@@ -3937,10 +4650,14 @@
 "LatLong": "2.1217,-74.7661"
 }
 ]
+}
+]
 },
 {
 "Name": "Solano",
 "Code": "18756",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Solano",
@@ -3963,10 +4680,14 @@
 "LatLong": "0.6994,-75.2535"
 }
 ]
+}
+]
 },
 {
 "Name": "Solita",
 "Code": "18785",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Solita",
@@ -3984,10 +4705,14 @@
 "LatLong": "0.874,-75.6188"
 }
 ]
+}
+]
 },
 {
 "Name": "Valparaíso",
 "Code": "18860",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valparaiso",
@@ -4007,6 +4732,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Cauca",
@@ -4015,6 +4742,8 @@
 {
 "Name": "Popayán",
 "Code": "19001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Popayan",
@@ -4062,10 +4791,14 @@
 "LatLong": "2.4382,-76.6132"
 }
 ]
+}
+]
 },
 {
 "Name": "Almaguer",
 "Code": "19022",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Almaguer",
@@ -4088,10 +4821,14 @@
 "LatLong": "1.917,-76.8523"
 }
 ]
+}
+]
 },
 {
 "Name": "Argelia",
 "Code": "19050",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Argelia",
@@ -4104,10 +4841,14 @@
 "LatLong": "2.2556,-77.2488"
 }
 ]
+}
+]
 },
 {
 "Name": "Balboa",
 "Code": "19075",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Balboa",
@@ -4135,10 +4876,14 @@
 "LatLong": "2.0396,-77.2168"
 }
 ]
+}
+]
 },
 {
 "Name": "Bolívar",
 "Code": "19100",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bolivar",
@@ -4176,10 +4921,14 @@
 "LatLong": "1.8399,-76.9689"
 }
 ]
+}
+]
 },
 {
 "Name": "Buenos Aires",
 "Code": "19110",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Buenos Aires",
@@ -4207,10 +4956,14 @@
 "LatLong": "3.014,-76.6461"
 }
 ]
+}
+]
 },
 {
 "Name": "Cajibío",
 "Code": "19130",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cajibio",
@@ -4243,10 +4996,14 @@
 "LatLong": "2.6227,-76.5704"
 }
 ]
+}
+]
 },
 {
 "Name": "Caldono",
 "Code": "19137",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Caldono",
@@ -4274,10 +5031,14 @@
 "LatLong": "2.7974,-76.4832"
 }
 ]
+}
+]
 },
 {
 "Name": "Caloto",
 "Code": "19142",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Caloto",
@@ -4305,10 +5066,14 @@
 "LatLong": "3.0359,-76.4079"
 }
 ]
+}
+]
 },
 {
 "Name": "Corinto",
 "Code": "19212",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Corinto",
@@ -4331,10 +5096,14 @@
 "LatLong": "3.173,-76.2627"
 }
 ]
+}
+]
 },
 {
 "Name": "El Tambo",
 "Code": "19256",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Tambo",
@@ -4377,10 +5146,14 @@
 "LatLong": "2.452,-76.8103"
 }
 ]
+}
+]
 },
 {
 "Name": "Florencia",
 "Code": "19290",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Florencia",
@@ -4393,10 +5166,14 @@
 "LatLong": "1.6832,-77.0733"
 }
 ]
+}
+]
 },
 {
 "Name": "Guachene",
 "Code": "19300",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guachene",
@@ -4404,10 +5181,14 @@
 "LatLong": "3.1333,-76.3927"
 }
 ]
+}
+]
 },
 {
 "Name": "Guapi",
 "Code": "19318",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guapi",
@@ -4430,10 +5211,14 @@
 "LatLong": "2.5708,-77.8854"
 }
 ]
+}
+]
 },
 {
 "Name": "Inzá",
 "Code": "19355",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Inza",
@@ -4466,10 +5251,14 @@
 "LatLong": "2.5545,-76.0672"
 }
 ]
+}
+]
 },
 {
 "Name": "Jambaló",
 "Code": "19364",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jambalo",
@@ -4492,10 +5281,14 @@
 "LatLong": "2.7798,-76.3282"
 }
 ]
+}
+]
 },
 {
 "Name": "La Sierra",
 "Code": "19392",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Sierra",
@@ -4513,10 +5306,14 @@
 "LatLong": "2.1783,-76.7626"
 }
 ]
+}
+]
 },
 {
 "Name": "La Vega",
 "Code": "19397",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Vega",
@@ -4549,10 +5346,14 @@
 "LatLong": "2.0063,-76.7803"
 }
 ]
+}
+]
 },
 {
 "Name": "López",
 "Code": "19418",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lopez",
@@ -4570,10 +5371,14 @@
 "LatLong": "2.8454,-77.2479"
 }
 ]
+}
+]
 },
 {
 "Name": "Mercaderes",
 "Code": "19450",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mercaderes",
@@ -4596,10 +5401,14 @@
 "LatLong": "1.8017,-77.1703"
 }
 ]
+}
+]
 },
 {
 "Name": "Miranda",
 "Code": "19455",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Miranda",
@@ -4622,10 +5431,14 @@
 "LatLong": "3.2499,-76.2281"
 }
 ]
+}
+]
 },
 {
 "Name": "Morales",
 "Code": "19473",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Morales",
@@ -4653,10 +5466,14 @@
 "LatLong": "2.757,-76.6172"
 }
 ]
+}
+]
 },
 {
 "Name": "Padilla",
 "Code": "19513",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Padilla",
@@ -4669,10 +5486,14 @@
 "LatLong": "3.2204,-76.3139"
 }
 ]
+}
+]
 },
 {
 "Name": "Paez",
 "Code": "19517",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Paez",
@@ -4705,10 +5526,14 @@
 "LatLong": "2.6547,-75.9928"
 }
 ]
+}
+]
 },
 {
 "Name": "Patía",
 "Code": "19532",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Patia",
@@ -4731,10 +5556,14 @@
 "LatLong": "2.0689,-77.0527"
 }
 ]
+}
+]
 },
 {
 "Name": "Piamonte",
 "Code": "19533",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Piamonte",
@@ -4752,10 +5581,14 @@
 "LatLong": "1.12,-76.3213"
 }
 ]
+}
+]
 },
 {
 "Name": "Piendamó",
 "Code": "19548",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Piendamo",
@@ -4788,10 +5621,14 @@
 "LatLong": "2.6392,-76.5306"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Tejada",
 "Code": "19573",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Tejada",
@@ -4804,10 +5641,14 @@
 "LatLong": "3.2311,-76.4167"
 }
 ]
+}
+]
 },
 {
 "Name": "Puracé",
 "Code": "19585",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Purace",
@@ -4830,10 +5671,14 @@
 "LatLong": "2.3425,-76.4958"
 }
 ]
+}
+]
 },
 {
 "Name": "Rosas",
 "Code": "19622",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rosas",
@@ -4851,10 +5696,14 @@
 "LatLong": "2.2609,-76.7399"
 }
 ]
+}
+]
 },
 {
 "Name": "San Sebastián",
 "Code": "19693",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Sebastian",
@@ -4877,10 +5726,14 @@
 "LatLong": "1.8386,-76.7719"
 }
 ]
+}
+]
 },
 {
 "Name": "Santander de Quilichao",
 "Code": "19698",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santander De Quilichao",
@@ -4918,10 +5771,14 @@
 "LatLong": "3.0095,-76.4849"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa Rosa",
 "Code": "19701",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Rosa",
@@ -4939,10 +5796,14 @@
 "LatLong": "1.7027,-76.5739"
 }
 ]
+}
+]
 },
 {
 "Name": "Silvia",
 "Code": "19743",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Silvia",
@@ -4970,10 +5831,14 @@
 "LatLong": "2.6156,-76.3826"
 }
 ]
+}
+]
 },
 {
 "Name": "Sotara",
 "Code": "19760",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sotara",
@@ -4991,10 +5856,14 @@
 "LatLong": "2.2546,-76.6109"
 }
 ]
+}
+]
 },
 {
 "Name": "Suárez",
 "Code": "19780",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Suarez",
@@ -5022,10 +5891,14 @@
 "LatLong": "2.954,-76.6964"
 }
 ]
+}
+]
 },
 {
 "Name": "Sucre",
 "Code": "19785",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sucre",
@@ -5043,10 +5916,14 @@
 "LatLong": "2.038,-76.9245"
 }
 ]
+}
+]
 },
 {
 "Name": "Timbío",
 "Code": "19807",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Timbio",
@@ -5074,10 +5951,14 @@
 "LatLong": "2.3502,-76.6834"
 }
 ]
+}
+]
 },
 {
 "Name": "Timbiquí",
 "Code": "19809",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Timbiqui",
@@ -5095,10 +5976,14 @@
 "LatLong": "2.7717,-77.6654"
 }
 ]
+}
+]
 },
 {
 "Name": "Toribio",
 "Code": "19821",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Toribio",
@@ -5121,10 +6006,14 @@
 "LatLong": "2.9548,-76.2684"
 }
 ]
+}
+]
 },
 {
 "Name": "Totoró",
 "Code": "19824",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Totoro",
@@ -5147,10 +6036,14 @@
 "LatLong": "2.5159,-76.4044"
 }
 ]
+}
+]
 },
 {
 "Name": "Villa Rica",
 "Code": "19845",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villa Rica",
@@ -5165,6 +6058,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Cesar",
@@ -5173,6 +6068,8 @@
 {
 "Name": "Valledupar",
 "Code": "20001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valledupar",
@@ -5225,10 +6122,14 @@
 "LatLong": "10.4631,-73.2532"
 }
 ]
+}
+]
 },
 {
 "Name": "Aguachica",
 "Code": "20011",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aguachica",
@@ -5246,10 +6147,14 @@
 "LatLong": "8.3084,-73.6166"
 }
 ]
+}
+]
 },
 {
 "Name": "Agustín Codazzi",
 "Code": "20013",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Agustin Codazzi",
@@ -5267,10 +6172,14 @@
 "LatLong": "10.0367,-73.2356"
 }
 ]
+}
+]
 },
 {
 "Name": "Astrea",
 "Code": "20032",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Astrea",
@@ -5288,10 +6197,14 @@
 "LatLong": "9.4983,-73.9759"
 }
 ]
+}
+]
 },
 {
 "Name": "Becerril",
 "Code": "20045",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Becerril",
@@ -5304,10 +6217,14 @@
 "LatLong": "9.7041,-73.2793"
 }
 ]
+}
+]
 },
 {
 "Name": "Bosconia",
 "Code": "20060",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bosconia",
@@ -5320,10 +6237,14 @@
 "LatLong": "9.9689,-73.8836"
 }
 ]
+}
+]
 },
 {
 "Name": "Chimichagua",
 "Code": "20175",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chimichagua",
@@ -5341,10 +6262,14 @@
 "LatLong": "9.2578,-73.8123"
 }
 ]
+}
+]
 },
 {
 "Name": "Chiriguaná",
 "Code": "20178",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chiriguana",
@@ -5362,10 +6287,14 @@
 "LatLong": "9.3624,-73.6031"
 }
 ]
+}
+]
 },
 {
 "Name": "Curumaní",
 "Code": "20228",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Curumani",
@@ -5378,10 +6307,14 @@
 "LatLong": "9.1999,-73.5427"
 }
 ]
+}
+]
 },
 {
 "Name": "El Copey",
 "Code": "20238",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Copey",
@@ -5399,10 +6332,14 @@
 "LatLong": "10.1503,-73.9614"
 }
 ]
+}
+]
 },
 {
 "Name": "El Paso",
 "Code": "20250",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Paso",
@@ -5420,10 +6357,14 @@
 "LatLong": "9.6572,-73.7468"
 }
 ]
+}
+]
 },
 {
 "Name": "Gamarra",
 "Code": "20295",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gamarra",
@@ -5441,10 +6382,14 @@
 "LatLong": "8.3228,-73.7427"
 }
 ]
+}
+]
 },
 {
 "Name": "González",
 "Code": "20310",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gonzalez",
@@ -5457,10 +6402,14 @@
 "LatLong": "8.3894,-73.3799"
 }
 ]
+}
+]
 },
 {
 "Name": "La Gloria",
 "Code": "20383",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Gloria",
@@ -5478,10 +6427,14 @@
 "LatLong": "8.6187,-73.8027"
 }
 ]
+}
+]
 },
 {
 "Name": "La Jagua de Ibirico",
 "Code": "20400",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Jagua De Ibirico",
@@ -5494,10 +6447,14 @@
 "LatLong": "9.5623,-73.3341"
 }
 ]
+}
+]
 },
 {
 "Name": "Manaure",
 "Code": "20443",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Manaure",
@@ -5510,10 +6467,14 @@
 "LatLong": "10.3909,-72.992"
 }
 ]
+}
+]
 },
 {
 "Name": "Pailitas",
 "Code": "20517",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pailitas",
@@ -5526,10 +6487,14 @@
 "LatLong": "8.9565,-73.6255"
 }
 ]
+}
+]
 },
 {
 "Name": "Pelaya",
 "Code": "20550",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pelaya",
@@ -5542,10 +6507,14 @@
 "LatLong": "8.6882,-73.6645"
 }
 ]
+}
+]
 },
 {
 "Name": "Pueblo Bello",
 "Code": "20570",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pueblo Bello",
@@ -5563,10 +6532,14 @@
 "LatLong": "10.4171,-73.5804"
 }
 ]
+}
+]
 },
 {
 "Name": "Río de Oro",
 "Code": "20614",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rio De Oro",
@@ -5584,10 +6557,14 @@
 "LatLong": "8.2919,-73.3849"
 }
 ]
+}
+]
 },
 {
 "Name": "La Paz",
 "Code": "20621",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Paz",
@@ -5605,10 +6582,14 @@
 "LatLong": "10.3844,-73.1733"
 }
 ]
+}
+]
 },
 {
 "Name": "San Alberto",
 "Code": "20710",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Alberto",
@@ -5626,10 +6607,14 @@
 "LatLong": "7.7611,-73.3922"
 }
 ]
+}
+]
 },
 {
 "Name": "San Diego",
 "Code": "20750",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Diego",
@@ -5647,10 +6632,14 @@
 "LatLong": "10.3362,-73.182"
 }
 ]
+}
+]
 },
 {
 "Name": "San Martín",
 "Code": "20770",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Martin",
@@ -5673,10 +6662,14 @@
 "LatLong": "8.0015,-73.5113"
 }
 ]
+}
+]
 },
 {
 "Name": "Tamalameque",
 "Code": "20787",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tamalameque",
@@ -5696,6 +6689,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Choco",
@@ -5704,6 +6699,8 @@
 {
 "Name": "Quibdó",
 "Code": "27001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Quibdo",
@@ -5731,10 +6728,14 @@
 "LatLong": "5.6919,-76.6583"
 }
 ]
+}
+]
 },
 {
 "Name": "Acandí",
 "Code": "27006",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Acandi",
@@ -5752,10 +6753,14 @@
 "LatLong": "8.5116,-77.2772"
 }
 ]
+}
+]
 },
 {
 "Name": "Alto Baudo",
 "Code": "27025",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alto Baudo",
@@ -5773,10 +6778,14 @@
 "LatLong": "5.516,-76.9745"
 }
 ]
+}
+]
 },
 {
 "Name": "Atrato",
 "Code": "27050",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Atrato",
@@ -5794,10 +6803,14 @@
 "LatLong": "5.5514,-76.6138"
 }
 ]
+}
+]
 },
 {
 "Name": "Bagadó",
 "Code": "27073",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bagado",
@@ -5815,10 +6828,14 @@
 "LatLong": "5.4116,-76.4152"
 }
 ]
+}
+]
 },
 {
 "Name": "Bahía Solano",
 "Code": "27075",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bahia Solano",
@@ -5836,10 +6853,14 @@
 "LatLong": "6.2262,-77.4044"
 }
 ]
+}
+]
 },
 {
 "Name": "Bajo Baudó",
 "Code": "27077",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bajo Baudo",
@@ -5857,10 +6878,14 @@
 "LatLong": "4.9533,-77.366"
 }
 ]
+}
+]
 },
 {
 "Name": "Bojaya",
 "Code": "27099",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bojaya",
@@ -5873,10 +6898,14 @@
 "LatLong": "6.5213,-76.9723"
 }
 ]
+}
+]
 },
 {
 "Name": "El Cantón del San Pablo",
 "Code": "27135",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Canton Del San Pablo",
@@ -5894,10 +6923,14 @@
 "LatLong": "5.3596,-76.7723"
 }
 ]
+}
+]
 },
 {
 "Name": "Carmen del Darien",
 "Code": "27150",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Carmen Del Darien",
@@ -5915,10 +6948,14 @@
 "LatLong": "7.0746,-77.0607"
 }
 ]
+}
+]
 },
 {
 "Name": "Cértegui",
 "Code": "27160",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Certegui",
@@ -5931,10 +6968,14 @@
 "LatLong": "5.3707,-76.6044"
 }
 ]
+}
+]
 },
 {
 "Name": "Condoto",
 "Code": "27205",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Condoto",
@@ -5952,10 +6993,14 @@
 "LatLong": "5.0935,-76.6497"
 }
 ]
+}
+]
 },
 {
 "Name": "El Carmen de Atrato",
 "Code": "27245",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Carmen De Atrato",
@@ -5973,10 +7018,14 @@
 "LatLong": "5.8108,-76.192"
 }
 ]
+}
+]
 },
 {
 "Name": "El Litoral del San Juan",
 "Code": "27250",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Litoral Del San Juan",
@@ -5994,10 +7043,14 @@
 "LatLong": "4.251,-76.9682"
 }
 ]
+}
+]
 },
 {
 "Name": "Istmina",
 "Code": "27361",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Istmina",
@@ -6020,10 +7073,14 @@
 "LatLong": "5.1605,-76.684"
 }
 ]
+}
+]
 },
 {
 "Name": "Juradó",
 "Code": "27372",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jurado",
@@ -6046,10 +7103,14 @@
 "LatLong": "7.1042,-77.762"
 }
 ]
+}
+]
 },
 {
 "Name": "Lloró",
 "Code": "27413",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lloro",
@@ -6062,10 +7123,14 @@
 "LatLong": "5.496,-76.5494"
 }
 ]
+}
+]
 },
 {
 "Name": "Medio Atrato",
 "Code": "27425",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Medio Atrato",
@@ -6083,10 +7148,14 @@
 "LatLong": "6.0265,-76.6945"
 }
 ]
+}
+]
 },
 {
 "Name": "Medio Baudó",
 "Code": "27430",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Medio Baudo",
@@ -6104,10 +7173,14 @@
 "LatLong": "5.1107,-76.9962"
 }
 ]
+}
+]
 },
 {
 "Name": "Medio San Juan",
 "Code": "27450",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Medio San Juan",
@@ -6130,10 +7203,14 @@
 "LatLong": "4.8113,-76.8044"
 }
 ]
+}
+]
 },
 {
 "Name": "Nóvita",
 "Code": "27491",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Novita",
@@ -6151,10 +7228,14 @@
 "LatLong": "4.9551,-76.6053"
 }
 ]
+}
+]
 },
 {
 "Name": "Nuquí",
 "Code": "27495",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nuqui",
@@ -6172,10 +7253,14 @@
 "LatLong": "5.6741,-77.2909"
 }
 ]
+}
+]
 },
 {
 "Name": "Río Iro",
 "Code": "27580",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rio Iro",
@@ -6188,10 +7273,14 @@
 "LatLong": "5.1767,-76.4802"
 }
 ]
+}
+]
 },
 {
 "Name": "Río Quito",
 "Code": "27600",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rio Quito",
@@ -6209,10 +7298,14 @@
 "LatLong": "5.5665,-76.8134"
 }
 ]
+}
+]
 },
 {
 "Name": "Riosucio",
 "Code": "27615",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Riosucio",
@@ -6245,10 +7338,14 @@
 "LatLong": "7.4435,-77.1196"
 }
 ]
+}
+]
 },
 {
 "Name": "San José del Palmar",
 "Code": "27660",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Jose Del Palmar",
@@ -6266,10 +7363,14 @@
 "LatLong": "4.8885,-76.2965"
 }
 ]
+}
+]
 },
 {
 "Name": "Sipí",
 "Code": "27745",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sipi",
@@ -6287,10 +7388,14 @@
 "LatLong": "4.6581,-76.4767"
 }
 ]
+}
+]
 },
 {
 "Name": "Tadó",
 "Code": "27787",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tado",
@@ -6303,10 +7408,14 @@
 "LatLong": "5.266,-76.5649"
 }
 ]
+}
+]
 },
 {
 "Name": "Unguía",
 "Code": "27800",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Unguia",
@@ -6324,10 +7433,14 @@
 "LatLong": "8.0436,-77.0914"
 }
 ]
+}
+]
 },
 {
 "Name": "Unión Panamericana",
 "Code": "27810",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Union Panamericana",
@@ -6342,6 +7455,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Cordoba",
@@ -6350,6 +7465,8 @@
 {
 "Name": "Montería",
 "Code": "23001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Monteria",
@@ -6417,10 +7534,14 @@
 "LatLong": "8.748,-75.8814"
 }
 ]
+}
+]
 },
 {
 "Name": "Ayapel",
 "Code": "23068",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ayapel",
@@ -6443,10 +7564,14 @@
 "LatLong": "8.3137,-75.1398"
 }
 ]
+}
+]
 },
 {
 "Name": "Buenavista",
 "Code": "23079",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Buenavista",
@@ -6464,10 +7589,14 @@
 "LatLong": "8.1915,-75.4338"
 }
 ]
+}
+]
 },
 {
 "Name": "Canalete",
 "Code": "23090",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Canalete",
@@ -6485,10 +7614,14 @@
 "LatLong": "8.7856,-76.2406"
 }
 ]
+}
+]
 },
 {
 "Name": "Cereté",
 "Code": "23162",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cerete",
@@ -6511,10 +7644,14 @@
 "LatLong": "8.8848,-75.7905"
 }
 ]
+}
+]
 },
 {
 "Name": "Chimá",
 "Code": "23168",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chima",
@@ -6532,10 +7669,14 @@
 "LatLong": "9.1489,-75.6284"
 }
 ]
+}
+]
 },
 {
 "Name": "Chinú",
 "Code": "23182",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chinu",
@@ -6558,10 +7699,14 @@
 "LatLong": "9.1057,-75.3981"
 }
 ]
+}
+]
 },
 {
 "Name": "Ciénaga de Oro",
 "Code": "23189",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cienaga De Oro",
@@ -6594,10 +7739,14 @@
 "LatLong": "8.8744,-75.6203"
 }
 ]
+}
+]
 },
 {
 "Name": "Cotorra",
 "Code": "23300",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cotorra",
@@ -6610,10 +7759,14 @@
 "LatLong": "9.0389,-75.7897"
 }
 ]
+}
+]
 },
 {
 "Name": "La Apartada",
 "Code": "23350",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Apartada",
@@ -6626,10 +7779,14 @@
 "LatLong": "8.0479,-75.301"
 }
 ]
+}
+]
 },
 {
 "Name": "Lorica",
 "Code": "23417",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lorica",
@@ -6677,10 +7834,14 @@
 "LatLong": "9.2365,-75.8135"
 }
 ]
+}
+]
 },
 {
 "Name": "Los Córdobas",
 "Code": "23419",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Los Cordobas",
@@ -6698,10 +7859,14 @@
 "LatLong": "8.894,-76.3546"
 }
 ]
+}
+]
 },
 {
 "Name": "Momil",
 "Code": "23464",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Momil",
@@ -6719,10 +7884,14 @@
 "LatLong": "9.2377,-75.6749"
 }
 ]
+}
+]
 },
 {
 "Name": "Montelíbano",
 "Code": "23466",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Montelibano",
@@ -6740,10 +7909,14 @@
 "LatLong": "7.9792,-75.4202"
 }
 ]
+}
+]
 },
 {
 "Name": "Moñitos",
 "Code": "23500",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Moñitos",
@@ -6761,10 +7934,14 @@
 "LatLong": "9.2455,-76.1302"
 }
 ]
+}
+]
 },
 {
 "Name": "Planeta Rica",
 "Code": "23555",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Planeta Rica",
@@ -6792,10 +7969,14 @@
 "LatLong": "8.4115,-75.5851"
 }
 ]
+}
+]
 },
 {
 "Name": "Pueblo Nuevo",
 "Code": "23570",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pueblo Nuevo",
@@ -6818,10 +7999,14 @@
 "LatLong": "8.5012,-75.508"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Escondido",
 "Code": "23574",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Escondido",
@@ -6839,10 +8024,14 @@
 "LatLong": "9.0181,-76.2641"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Libertador",
 "Code": "23580",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Libertador",
@@ -6865,10 +8054,14 @@
 "LatLong": "7.7097,-75.7688"
 }
 ]
+}
+]
 },
 {
 "Name": "Purísima",
 "Code": "23586",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Purisima",
@@ -6881,10 +8074,14 @@
 "LatLong": "9.2366,-75.7219"
 }
 ]
+}
+]
 },
 {
 "Name": "Sahagún",
 "Code": "23660",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sahagun",
@@ -6922,10 +8119,14 @@
 "LatLong": "8.9462,-75.4427"
 }
 ]
+}
+]
 },
 {
 "Name": "San Andrés Sotavento",
 "Code": "23670",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Andres Sotavento",
@@ -6943,10 +8144,14 @@
 "LatLong": "9.1218,-75.5163"
 }
 ]
+}
+]
 },
 {
 "Name": "San Antero",
 "Code": "23672",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Antero",
@@ -6964,10 +8169,14 @@
 "LatLong": "9.3741,-75.7589"
 }
 ]
+}
+]
 },
 {
 "Name": "San Bernardo del Viento",
 "Code": "23675",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Bernardo Del Viento",
@@ -6990,10 +8199,14 @@
 "LatLong": "9.3533,-75.9524"
 }
 ]
+}
+]
 },
 {
 "Name": "San Carlos",
 "Code": "23678",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Carlos",
@@ -7021,10 +8234,14 @@
 "LatLong": "8.7958,-75.6995"
 }
 ]
+}
+]
 },
 {
 "Name": "San Jose De Ure",
 "Code": "23682",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Jose De Ure",
@@ -7037,10 +8254,14 @@
 "LatLong": "7.7533,-75.5659"
 }
 ]
+}
+]
 },
 {
 "Name": "San Pelayo",
 "Code": "23686",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Pelayo",
@@ -7073,10 +8294,14 @@
 "LatLong": "8.9583,-75.8363"
 }
 ]
+}
+]
 },
 {
 "Name": "Tierralta",
 "Code": "23807",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tierralta",
@@ -7109,10 +8334,14 @@
 "LatLong": "8.1736,-76.0592"
 }
 ]
+}
+]
 },
 {
 "Name": "Tuchin",
 "Code": "23815",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tuchin",
@@ -7125,10 +8354,14 @@
 "LatLong": "9.1866,-75.5547"
 }
 ]
+}
+]
 },
 {
 "Name": "Valencia",
 "Code": "23855",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valencia",
@@ -7153,6 +8386,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Guaviare",
@@ -7161,6 +8396,8 @@
 {
 "Name": "San José del Guaviare",
 "Code": "95001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Jose Del Guaviare",
@@ -7183,10 +8420,14 @@
 "LatLong": "2.5729,-72.6459"
 }
 ]
+}
+]
 },
 {
 "Name": "Calamar",
 "Code": "95015",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Calamar",
@@ -7219,10 +8460,14 @@
 "LatLong": "1.9596,-72.6531"
 }
 ]
+}
+]
 },
 {
 "Name": "El Retorno",
 "Code": "95025",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Retorno",
@@ -7250,10 +8495,14 @@
 "LatLong": "2.3302,-72.6276"
 }
 ]
+}
+]
 },
 {
 "Name": "Miraflores",
 "Code": "95200",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Miraflores",
@@ -7283,6 +8532,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Guainia",
@@ -7291,6 +8542,8 @@
 {
 "Name": "Inírida",
 "Code": "94001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Inirida",
@@ -7338,10 +8591,14 @@
 "LatLong": "3.8653,-67.9239"
 }
 ]
+}
+]
 },
 {
 "Name": "Barranco Minas",
 "Code": "94343",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Barranco Minas",
@@ -7364,10 +8621,14 @@
 "LatLong": "3.4842,-69.8108"
 }
 ]
+}
+]
 },
 {
 "Name": "Mapiripana",
 "Code": "94663",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mapiripana",
@@ -7385,10 +8646,14 @@
 "LatLong": "2.8101,-70.2856"
 }
 ]
+}
+]
 },
 {
 "Name": "San Felipe",
 "Code": "94883",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Felipe",
@@ -7406,10 +8671,14 @@
 "LatLong": "1.9141,-67.07"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Colombia",
 "Code": "94884",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Colombia",
@@ -7432,10 +8701,14 @@
 "LatLong": "2.7221,-67.5658"
 }
 ]
+}
+]
 },
 {
 "Name": "La Guadalupe",
 "Code": "94885",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guadalupe",
@@ -7443,10 +8716,14 @@
 "LatLong": "1.2451,-66.8647"
 }
 ]
+}
+]
 },
 {
 "Name": "Cacahual",
 "Code": "94886",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cacahual",
@@ -7464,10 +8741,14 @@
 "LatLong": "3.5142,-67.4153"
 }
 ]
+}
+]
 },
 {
 "Name": "Pana Pana",
 "Code": "94887",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pana Pana",
@@ -7485,10 +8766,14 @@
 "LatLong": "1.8442,-69.0064"
 }
 ]
+}
+]
 },
 {
 "Name": "Morichal",
 "Code": "94888",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Morichal",
@@ -7513,6 +8798,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Huila",
@@ -7521,6 +8808,8 @@
 {
 "Name": "Neiva",
 "Code": "41001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Neiva",
@@ -7583,10 +8872,14 @@
 "LatLong": "2.9273,-75.2819"
 }
 ]
+}
+]
 },
 {
 "Name": "Acevedo",
 "Code": "41006",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Acevedo",
@@ -7619,10 +8912,14 @@
 "LatLong": "1.6867,-76.0207"
 }
 ]
+}
+]
 },
 {
 "Name": "Agrado",
 "Code": "41013",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Agrado",
@@ -7635,10 +8932,14 @@
 "LatLong": "2.2573,-75.7714"
 }
 ]
+}
+]
 },
 {
 "Name": "Aipe",
 "Code": "41016",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aipe",
@@ -7656,10 +8957,14 @@
 "LatLong": "3.2222,-75.2367"
 }
 ]
+}
+]
 },
 {
 "Name": "Algeciras",
 "Code": "41020",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Algeciras",
@@ -7677,10 +8982,14 @@
 "LatLong": "2.5238,-75.3173"
 }
 ]
+}
+]
 },
 {
 "Name": "Altamira",
 "Code": "41026",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Altamira",
@@ -7693,10 +9002,14 @@
 "LatLong": "2.0628,-75.7872"
 }
 ]
+}
+]
 },
 {
 "Name": "Baraya",
 "Code": "41078",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Baraya",
@@ -7709,10 +9022,14 @@
 "LatLong": "3.1533,-75.0531"
 }
 ]
+}
+]
 },
 {
 "Name": "Campoalegre",
 "Code": "41132",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Campoalegre",
@@ -7730,10 +9047,14 @@
 "LatLong": "2.6849,-75.3231"
 }
 ]
+}
+]
 },
 {
 "Name": "Colombia",
 "Code": "41206",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Colombia",
@@ -7751,10 +9072,14 @@
 "LatLong": "3.3761,-74.8015"
 }
 ]
+}
+]
 },
 {
 "Name": "Elías",
 "Code": "41244",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Elias",
@@ -7767,10 +9092,14 @@
 "LatLong": "2.0117,-75.9397"
 }
 ]
+}
+]
 },
 {
 "Name": "Garzón",
 "Code": "41298",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Garzon",
@@ -7793,10 +9122,14 @@
 "LatLong": "2.1959,-75.6278"
 }
 ]
+}
+]
 },
 {
 "Name": "Gigante",
 "Code": "41306",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gigante",
@@ -7819,10 +9152,14 @@
 "LatLong": "2.3868,-75.5474"
 }
 ]
+}
+]
 },
 {
 "Name": "Guadalupe",
 "Code": "41319",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guadalupe",
@@ -7840,10 +9177,14 @@
 "LatLong": "2.0248,-75.7559"
 }
 ]
+}
+]
 },
 {
 "Name": "Hobo",
 "Code": "41349",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hobo",
@@ -7856,10 +9197,14 @@
 "LatLong": "2.5833,-75.45"
 }
 ]
+}
+]
 },
 {
 "Name": "Iquira",
 "Code": "41357",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Iquira",
@@ -7877,10 +9222,14 @@
 "LatLong": "2.6487,-75.6346"
 }
 ]
+}
+]
 },
 {
 "Name": "Isnos",
 "Code": "41359",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Isnos",
@@ -7903,10 +9252,14 @@
 "LatLong": "1.9287,-76.211"
 }
 ]
+}
+]
 },
 {
 "Name": "La Argentina",
 "Code": "41378",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Argentina",
@@ -7924,10 +9277,14 @@
 "LatLong": "2.1976,-75.9799"
 }
 ]
+}
+]
 },
 {
 "Name": "La Plata",
 "Code": "41396",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Plata",
@@ -7960,10 +9317,14 @@
 "LatLong": "2.3934,-75.8923"
 }
 ]
+}
+]
 },
 {
 "Name": "Nátaga",
 "Code": "41483",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nataga",
@@ -7976,10 +9337,14 @@
 "LatLong": "2.5436,-75.8085"
 }
 ]
+}
+]
 },
 {
 "Name": "Oporapa",
 "Code": "41503",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oporapa",
@@ -7997,10 +9362,14 @@
 "LatLong": "2.0501,-75.9767"
 }
 ]
+}
+]
 },
 {
 "Name": "Paicol",
 "Code": "41518",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Paicol",
@@ -8013,10 +9382,14 @@
 "LatLong": "2.4496,-75.775"
 }
 ]
+}
+]
 },
 {
 "Name": "Palermo",
 "Code": "41524",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Palermo",
@@ -8034,10 +9407,14 @@
 "LatLong": "2.8917,-75.4375"
 }
 ]
+}
+]
 },
 {
 "Name": "Palestina",
 "Code": "41530",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Palestina",
@@ -8050,10 +9427,14 @@
 "LatLong": "1.7236,-76.134"
 }
 ]
+}
+]
 },
 {
 "Name": "Pital",
 "Code": "41548",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pital",
@@ -8071,10 +9452,14 @@
 "LatLong": "2.2665,-75.8044"
 }
 ]
+}
+]
 },
 {
 "Name": "Pitalito",
 "Code": "41551",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pitalito",
@@ -8107,10 +9492,14 @@
 "LatLong": "1.8537,-76.0507"
 }
 ]
+}
+]
 },
 {
 "Name": "Rivera",
 "Code": "41615",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rivera",
@@ -8128,10 +9517,14 @@
 "LatLong": "2.7772,-75.2564"
 }
 ]
+}
+]
 },
 {
 "Name": "Saladoblanco",
 "Code": "41660",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saladoblanco",
@@ -8149,10 +9542,14 @@
 "LatLong": "1.9924,-76.0434"
 }
 ]
+}
+]
 },
 {
 "Name": "San Agustín",
 "Code": "41668",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Agustin",
@@ -8180,10 +9577,14 @@
 "LatLong": "1.8788,-76.2672"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa María",
 "Code": "41676",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Maria",
@@ -8196,10 +9597,14 @@
 "LatLong": "2.939,-75.5858"
 }
 ]
+}
+]
 },
 {
 "Name": "Suaza",
 "Code": "41770",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Suaza",
@@ -8222,10 +9627,14 @@
 "LatLong": "1.9761,-75.7945"
 }
 ]
+}
+]
 },
 {
 "Name": "Tarqui",
 "Code": "41791",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tarqui",
@@ -8238,10 +9647,14 @@
 "LatLong": "2.1125,-75.8242"
 }
 ]
+}
+]
 },
 {
 "Name": "Tesalia",
 "Code": "41797",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tesalia",
@@ -8259,10 +9672,14 @@
 "LatLong": "2.4859,-75.7292"
 }
 ]
+}
+]
 },
 {
 "Name": "Tello",
 "Code": "41799",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tello",
@@ -8280,10 +9697,14 @@
 "LatLong": "3.0669,-75.1378"
 }
 ]
+}
+]
 },
 {
 "Name": "Teruel",
 "Code": "41801",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Teruel",
@@ -8296,10 +9717,14 @@
 "LatLong": "2.7419,-75.5674"
 }
 ]
+}
+]
 },
 {
 "Name": "Timaná",
 "Code": "41807",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Timana",
@@ -8317,10 +9742,14 @@
 "LatLong": "1.9714,-75.9312"
 }
 ]
+}
+]
 },
 {
 "Name": "Villavieja",
 "Code": "41872",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villavieja",
@@ -8338,10 +9767,14 @@
 "LatLong": "3.2205,-75.2186"
 }
 ]
+}
+]
 },
 {
 "Name": "Yaguará",
 "Code": "41885",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yaguara",
@@ -8356,6 +9789,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "La Guajira",
@@ -8364,6 +9799,8 @@
 {
 "Name": "Riohacha",
 "Code": "44001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Riohacha",
@@ -8401,10 +9838,14 @@
 "LatLong": "11.5444,-72.9072"
 }
 ]
+}
+]
 },
 {
 "Name": "Albania",
 "Code": "44035",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Albania",
@@ -8427,10 +9868,14 @@
 "LatLong": "11.161,-72.5924"
 }
 ]
+}
+]
 },
 {
 "Name": "Barrancas",
 "Code": "44078",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Barrancas",
@@ -8453,10 +9898,14 @@
 "LatLong": "10.9576,-72.7877"
 }
 ]
+}
+]
 },
 {
 "Name": "Dibulla",
 "Code": "44090",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dibulla",
@@ -8484,10 +9933,14 @@
 "LatLong": "11.2725,-73.3091"
 }
 ]
+}
+]
 },
 {
 "Name": "Distracción",
 "Code": "44098",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Distraccion",
@@ -8505,10 +9958,14 @@
 "LatLong": "10.8969,-72.8861"
 }
 ]
+}
+]
 },
 {
 "Name": "El Molino",
 "Code": "44110",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Molino",
@@ -8521,10 +9978,14 @@
 "LatLong": "10.6522,-72.924"
 }
 ]
+}
+]
 },
 {
 "Name": "Fonseca",
 "Code": "44279",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fonseca",
@@ -8542,10 +10003,14 @@
 "LatLong": "10.8861,-72.8487"
 }
 ]
+}
+]
 },
 {
 "Name": "Hatonuevo",
 "Code": "44378",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hatonuevo",
@@ -8563,10 +10028,14 @@
 "LatLong": "11.0694,-72.7669"
 }
 ]
+}
+]
 },
 {
 "Name": "La Jagua del Pilar",
 "Code": "44420",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Jagua Del Pilar",
@@ -8579,10 +10048,14 @@
 "LatLong": "10.5167,-73.0833"
 }
 ]
+}
+]
 },
 {
 "Name": "Maicao",
 "Code": "44430",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Maicao",
@@ -8605,10 +10078,14 @@
 "LatLong": "11.3832,-72.2432"
 }
 ]
+}
+]
 },
 {
 "Name": "Manaure",
 "Code": "44560",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Manaure",
@@ -8641,10 +10118,14 @@
 "LatLong": "11.775,-72.4445"
 }
 ]
+}
+]
 },
 {
 "Name": "San Juan del Cesar",
 "Code": "44650",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Juan Del Cesar",
@@ -8662,10 +10143,14 @@
 "LatLong": "10.7711,-73.0031"
 }
 ]
+}
+]
 },
 {
 "Name": "Uribia",
 "Code": "44847",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Uribia",
@@ -8733,10 +10218,14 @@
 "LatLong": "11.7139,-72.266"
 }
 ]
+}
+]
 },
 {
 "Name": "Urumita",
 "Code": "44855",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Urumita",
@@ -8749,10 +10238,14 @@
 "LatLong": "10.5589,-73.0123"
 }
 ]
+}
+]
 },
 {
 "Name": "Villanueva",
 "Code": "44874",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villanueva",
@@ -8772,6 +10265,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Meta",
@@ -8780,6 +10275,8 @@
 {
 "Name": "Villavicencio",
 "Code": "50001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villavicencio",
@@ -8827,10 +10324,14 @@
 "LatLong": "4.142,-73.6266"
 }
 ]
+}
+]
 },
 {
 "Name": "Acacías",
 "Code": "50006",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Acacias",
@@ -8858,10 +10359,14 @@
 "LatLong": "3.7116,-73.2434"
 }
 ]
+}
+]
 },
 {
 "Name": "Barranca de Upía",
 "Code": "50110",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Barranca De Upia",
@@ -8874,10 +10379,14 @@
 "LatLong": "4.5696,-72.9668"
 }
 ]
+}
+]
 },
 {
 "Name": "Cabuyaro",
 "Code": "50124",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cabuyaro",
@@ -8895,10 +10404,14 @@
 "LatLong": "4.2817,-72.794"
 }
 ]
+}
+]
 },
 {
 "Name": "Castilla la Nueva",
 "Code": "50150",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Castilla La Nueva",
@@ -8916,10 +10429,14 @@
 "LatLong": "3.8272,-73.6883"
 }
 ]
+}
+]
 },
 {
 "Name": "Cubarral",
 "Code": "50223",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cubarral",
@@ -8937,10 +10454,14 @@
 "LatLong": "3.7954,-73.8406"
 }
 ]
+}
+]
 },
 {
 "Name": "Cumaral",
 "Code": "50226",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cumaral",
@@ -8958,10 +10479,14 @@
 "LatLong": "4.2708,-73.4867"
 }
 ]
+}
+]
 },
 {
 "Name": "El Calvario",
 "Code": "50245",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Calvario",
@@ -8974,10 +10499,14 @@
 "LatLong": "4.3534,-73.7115"
 }
 ]
+}
+]
 },
 {
 "Name": "El Castillo",
 "Code": "50251",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Castillo",
@@ -8995,10 +10524,14 @@
 "LatLong": "3.5636,-73.7949"
 }
 ]
+}
+]
 },
 {
 "Name": "El Dorado",
 "Code": "50270",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Dorado",
@@ -9011,10 +10544,14 @@
 "LatLong": "3.7392,-73.8349"
 }
 ]
+}
+]
 },
 {
 "Name": "Fuente de Oro",
 "Code": "50287",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fuente De Oro",
@@ -9032,10 +10569,14 @@
 "LatLong": "3.4626,-73.6216"
 }
 ]
+}
+]
 },
 {
 "Name": "Granada",
 "Code": "50313",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Granada",
@@ -9053,10 +10594,14 @@
 "LatLong": "3.5462,-73.7069"
 }
 ]
+}
+]
 },
 {
 "Name": "Guamal",
 "Code": "50318",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guamal",
@@ -9074,10 +10619,14 @@
 "LatLong": "3.8804,-73.7657"
 }
 ]
+}
+]
 },
 {
 "Name": "Mapiripán",
 "Code": "50325",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mapiripan",
@@ -9105,10 +10654,14 @@
 "LatLong": "2.8118,-73.0279"
 }
 ]
+}
+]
 },
 {
 "Name": "Mesetas",
 "Code": "50330",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mesetas",
@@ -9126,10 +10679,14 @@
 "LatLong": "3.3846,-74.0442"
 }
 ]
+}
+]
 },
 {
 "Name": "La Macarena",
 "Code": "50350",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Macarena",
@@ -9147,10 +10704,14 @@
 "LatLong": "2.1837,-73.7848"
 }
 ]
+}
+]
 },
 {
 "Name": "Uribe",
 "Code": "50370",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Uribe",
@@ -9168,10 +10729,14 @@
 "LatLong": "3.0264,-74.4361"
 }
 ]
+}
+]
 },
 {
 "Name": "Lejanías",
 "Code": "50400",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lejanias",
@@ -9189,10 +10754,14 @@
 "LatLong": "3.5276,-74.0234"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Concordia",
 "Code": "50450",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Concordia",
@@ -9205,10 +10774,14 @@
 "LatLong": "2.6221,-72.7572"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Gaitán",
 "Code": "50568",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Gaitan",
@@ -9246,10 +10819,14 @@
 "LatLong": "4.3133,-72.0816"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto López",
 "Code": "50573",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Lopez",
@@ -9272,10 +10849,14 @@
 "LatLong": "4.0991,-72.9565"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Lleras",
 "Code": "50577",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Lleras",
@@ -9293,10 +10874,14 @@
 "LatLong": "2.8118,-73.0279"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Rico",
 "Code": "50590",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Rico",
@@ -9314,10 +10899,14 @@
 "LatLong": "2.9383,-73.2083"
 }
 ]
+}
+]
 },
 {
 "Name": "Restrepo",
 "Code": "50606",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Restrepo",
@@ -9335,10 +10924,14 @@
 "LatLong": "4.2583,-73.5614"
 }
 ]
+}
+]
 },
 {
 "Name": "San Carlos de Guaroa",
 "Code": "50680",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Carlos De Guaroa",
@@ -9351,10 +10944,14 @@
 "LatLong": "3.7116,-73.2434"
 }
 ]
+}
+]
 },
 {
 "Name": "San Juan de Arama",
 "Code": "50683",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Juan De Arama",
@@ -9372,10 +10969,14 @@
 "LatLong": "3.3699,-73.8727"
 }
 ]
+}
+]
 },
 {
 "Name": "San Juanito",
 "Code": "50686",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Juanito",
@@ -9388,10 +10989,14 @@
 "LatLong": "4.461,-73.6805"
 }
 ]
+}
+]
 },
 {
 "Name": "San Martín",
 "Code": "50689",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Martin",
@@ -9419,10 +11024,14 @@
 "LatLong": "3.6964,-73.6996"
 }
 ]
+}
+]
 },
 {
 "Name": "Vistahermosa",
 "Code": "50711",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vistahermosa",
@@ -9442,6 +11051,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Nariño",
@@ -9450,6 +11061,8 @@
 {
 "Name": "Pasto",
 "Code": "52001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pasto",
@@ -9542,10 +11155,14 @@
 "LatLong": "1.2136,-77.2811"
 }
 ]
+}
+]
 },
 {
 "Name": "Albán",
 "Code": "52019",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Jose De Alban",
@@ -9558,10 +11175,14 @@
 "LatLong": "1.4769,-77.0829"
 }
 ]
+}
+]
 },
 {
 "Name": "Aldana",
 "Code": "52022",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aldana",
@@ -9574,10 +11195,14 @@
 "LatLong": "0.8828,-77.701"
 }
 ]
+}
+]
 },
 {
 "Name": "Ancuyá",
 "Code": "52036",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ancuya",
@@ -9590,10 +11215,14 @@
 "LatLong": "1.2633,-77.5138"
 }
 ]
+}
+]
 },
 {
 "Name": "Arboleda",
 "Code": "52051",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arboleda - Berruecos",
@@ -9611,10 +11240,14 @@
 "LatLong": "1.4977,-77.1359"
 }
 ]
+}
+]
 },
 {
 "Name": "Barbacoas",
 "Code": "52079",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Barbacoas",
@@ -9647,10 +11280,14 @@
 "LatLong": "1.6715,-78.1398"
 }
 ]
+}
+]
 },
 {
 "Name": "Belén",
 "Code": "52083",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Belen",
@@ -9663,10 +11300,14 @@
 "LatLong": "1.5937,-77.0373"
 }
 ]
+}
+]
 },
 {
 "Name": "Buesaco",
 "Code": "52110",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Buesaco",
@@ -9699,10 +11340,14 @@
 "LatLong": "1.3902,-77.1598"
 }
 ]
+}
+]
 },
 {
 "Name": "Colón",
 "Code": "52203",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Colon",
@@ -9715,10 +11360,14 @@
 "LatLong": "1.6236,-77.0311"
 }
 ]
+}
+]
 },
 {
 "Name": "Consaca",
 "Code": "52207",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Consaca",
@@ -9736,10 +11385,14 @@
 "LatLong": "1.2081,-77.4655"
 }
 ]
+}
+]
 },
 {
 "Name": "Contadero",
 "Code": "52210",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Contadero",
@@ -9752,10 +11405,14 @@
 "LatLong": "0.907,-77.5473"
 }
 ]
+}
+]
 },
 {
 "Name": "Córdoba",
 "Code": "52215",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cordoba",
@@ -9778,10 +11435,14 @@
 "LatLong": "0.8591,-77.5195"
 }
 ]
+}
+]
 },
 {
 "Name": "Cuaspud",
 "Code": "52224",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cuaspud",
@@ -9794,10 +11455,14 @@
 "LatLong": "0.8757,-77.7364"
 }
 ]
+}
+]
 },
 {
 "Name": "Cumbal",
 "Code": "52227",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cumbal",
@@ -9820,10 +11485,14 @@
 "LatLong": "0.9087,-77.7915"
 }
 ]
+}
+]
 },
 {
 "Name": "Cumbitara",
 "Code": "52233",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cumbitara",
@@ -9841,10 +11510,14 @@
 "LatLong": "1.6517,-77.5822"
 }
 ]
+}
+]
 },
 {
 "Name": "Chachagüí",
 "Code": "52240",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chachagüi",
@@ -9857,10 +11530,14 @@
 "LatLong": "1.3594,-77.2837"
 }
 ]
+}
+]
 },
 {
 "Name": "El Charco",
 "Code": "52250",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Charco",
@@ -9888,10 +11565,14 @@
 "LatLong": "2.4769,-78.1105"
 }
 ]
+}
+]
 },
 {
 "Name": "El Peñol",
 "Code": "52254",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Peñol",
@@ -9909,10 +11590,14 @@
 "LatLong": "1.4599,-77.4454"
 }
 ]
+}
+]
 },
 {
 "Name": "El Rosario",
 "Code": "52256",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Rosario",
@@ -9935,10 +11620,14 @@
 "LatLong": "1.7417,-77.3352"
 }
 ]
+}
+]
 },
 {
 "Name": "El Tablón de Gómez",
 "Code": "52258",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Tablon De Gomez",
@@ -9961,10 +11650,14 @@
 "LatLong": "1.412,-76.9853"
 }
 ]
+}
+]
 },
 {
 "Name": "El Tambo",
 "Code": "52260",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Tambo",
@@ -9982,10 +11675,14 @@
 "LatLong": "1.4181,-77.3968"
 }
 ]
+}
+]
 },
 {
 "Name": "Funes",
 "Code": "52287",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Funes",
@@ -10003,10 +11700,14 @@
 "LatLong": "1.0027,-77.4507"
 }
 ]
+}
+]
 },
 {
 "Name": "Guachucal",
 "Code": "52317",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guachucal",
@@ -10024,10 +11725,14 @@
 "LatLong": "0.9609,-77.7316"
 }
 ]
+}
+]
 },
 {
 "Name": "Guaitarilla",
 "Code": "52320",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guaitarilla",
@@ -10045,10 +11750,14 @@
 "LatLong": "1.131,-77.5481"
 }
 ]
+}
+]
 },
 {
 "Name": "Gualmatán",
 "Code": "52323",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gualmatan",
@@ -10061,10 +11770,14 @@
 "LatLong": "0.9189,-77.5665"
 }
 ]
+}
+]
 },
 {
 "Name": "Iles",
 "Code": "52352",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Iles",
@@ -10082,10 +11795,14 @@
 "LatLong": "0.9749,-77.5274"
 }
 ]
+}
+]
 },
 {
 "Name": "Imués",
 "Code": "52354",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Imues",
@@ -10103,10 +11820,14 @@
 "LatLong": "1.0529,-77.5017"
 }
 ]
+}
+]
 },
 {
 "Name": "Ipiales",
 "Code": "52356",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ipiales",
@@ -10144,10 +11865,14 @@
 "LatLong": "0.8302,-77.6496"
 }
 ]
+}
+]
 },
 {
 "Name": "La Cruz",
 "Code": "52378",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Cruz",
@@ -10165,10 +11890,14 @@
 "LatLong": "1.5841,-76.9239"
 }
 ]
+}
+]
 },
 {
 "Name": "La Florida",
 "Code": "52381",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Florida",
@@ -10186,10 +11915,14 @@
 "LatLong": "1.2985,-77.4061"
 }
 ]
+}
+]
 },
 {
 "Name": "La Llanada",
 "Code": "52385",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Llanada",
@@ -10202,10 +11935,14 @@
 "LatLong": "1.49,-77.5835"
 }
 ]
+}
+]
 },
 {
 "Name": "La Tola",
 "Code": "52390",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Tola",
@@ -10223,10 +11960,14 @@
 "LatLong": "2.4808,-78.1912"
 }
 ]
+}
+]
 },
 {
 "Name": "La Unión",
 "Code": "52399",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Union",
@@ -10249,10 +11990,14 @@
 "LatLong": "1.6045,-77.1315"
 }
 ]
+}
+]
 },
 {
 "Name": "Leiva",
 "Code": "52405",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leiva",
@@ -10270,10 +12015,14 @@
 "LatLong": "1.9339,-77.3025"
 }
 ]
+}
+]
 },
 {
 "Name": "Linares",
 "Code": "52411",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Linares",
@@ -10291,10 +12040,14 @@
 "LatLong": "1.3578,-77.5272"
 }
 ]
+}
+]
 },
 {
 "Name": "Los Andes",
 "Code": "52418",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Los Andes",
@@ -10317,10 +12070,14 @@
 "LatLong": "1.5147,-77.5044"
 }
 ]
+}
+]
 },
 {
 "Name": "Magüi",
 "Code": "52427",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Magüi",
@@ -10348,10 +12105,14 @@
 "LatLong": "1.905,-78.0492"
 }
 ]
+}
+]
 },
 {
 "Name": "Mallama",
 "Code": "52435",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mallama",
@@ -10374,10 +12135,14 @@
 "LatLong": "1.1374,-77.8489"
 }
 ]
+}
+]
 },
 {
 "Name": "Mosquera",
 "Code": "52473",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mosquera",
@@ -10400,10 +12165,14 @@
 "LatLong": "2.5086,-78.4511"
 }
 ]
+}
+]
 },
 {
 "Name": "Nariño",
 "Code": "52480",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nariño",
@@ -10416,10 +12185,14 @@
 "LatLong": "1.2899,-77.3572"
 }
 ]
+}
+]
 },
 {
 "Name": "Olaya Herrera",
 "Code": "52490",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Olaya Herrera",
@@ -10442,10 +12215,14 @@
 "LatLong": "2.286,-78.2933"
 }
 ]
+}
+]
 },
 {
 "Name": "Ospina",
 "Code": "52506",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ospina",
@@ -10458,10 +12235,14 @@
 "LatLong": "1.0595,-77.5655"
 }
 ]
+}
+]
 },
 {
 "Name": "Francisco Pizarro",
 "Code": "52520",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Francisco Pizarro",
@@ -10479,10 +12260,14 @@
 "LatLong": "2.0965,-78.5857"
 }
 ]
+}
+]
 },
 {
 "Name": "Policarpa",
 "Code": "52540",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Policarpa",
@@ -10505,10 +12290,14 @@
 "LatLong": "1.6323,-77.462"
 }
 ]
+}
+]
 },
 {
 "Name": "Potosí",
 "Code": "52560",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Potosi",
@@ -10531,10 +12320,14 @@
 "LatLong": "0.8074,-77.5722"
 }
 ]
+}
+]
 },
 {
 "Name": "Providencia",
 "Code": "52565",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Providencia",
@@ -10547,10 +12340,14 @@
 "LatLong": "1.2398,-77.5972"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerres",
 "Code": "52573",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerres",
@@ -10568,10 +12365,14 @@
 "LatLong": "0.8837,-77.5032"
 }
 ]
+}
+]
 },
 {
 "Name": "Pupiales",
 "Code": "52585",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pupiales",
@@ -10589,10 +12390,14 @@
 "LatLong": "0.8714,-77.6403"
 }
 ]
+}
+]
 },
 {
 "Name": "Ricaurte",
 "Code": "52612",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ricaurte",
@@ -10620,10 +12425,14 @@
 "LatLong": "1.1811,-77.9612"
 }
 ]
+}
+]
 },
 {
 "Name": "Roberto Payán",
 "Code": "52621",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Roberto Payan",
@@ -10651,10 +12460,14 @@
 "LatLong": "1.6966,-78.2448"
 }
 ]
+}
+]
 },
 {
 "Name": "Samaniego",
 "Code": "52678",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Samaniego",
@@ -10687,10 +12500,14 @@
 "LatLong": "1.3385,-77.5957"
 }
 ]
+}
+]
 },
 {
 "Name": "Sandoná",
 "Code": "52683",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sandona",
@@ -10703,10 +12520,14 @@
 "LatLong": "1.2863,-77.4692"
 }
 ]
+}
+]
 },
 {
 "Name": "San Bernardo",
 "Code": "52685",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Bernardo",
@@ -10719,10 +12540,14 @@
 "LatLong": "1.5306,-77.0216"
 }
 ]
+}
+]
 },
 {
 "Name": "San Lorenzo",
 "Code": "52687",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Lorenzo",
@@ -10745,10 +12570,14 @@
 "LatLong": "1.5063,-77.219"
 }
 ]
+}
+]
 },
 {
 "Name": "San Pablo",
 "Code": "52693",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Pablo",
@@ -10766,10 +12595,14 @@
 "LatLong": "1.6725,-77.0139"
 }
 ]
+}
+]
 },
 {
 "Name": "San Pedro de Cartago",
 "Code": "52694",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Pedro De Cartago",
@@ -10787,10 +12620,14 @@
 "LatLong": "1.5368,-77.1014"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa Bárbara",
 "Code": "52696",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Barbara",
@@ -10808,10 +12645,14 @@
 "LatLong": "2.4501,-77.9794"
 }
 ]
+}
+]
 },
 {
 "Name": "Santacruz",
 "Code": "52699",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santacruz",
@@ -10834,10 +12675,14 @@
 "LatLong": "1.2656,-77.7356"
 }
 ]
+}
+]
 },
 {
 "Name": "Sapuyes",
 "Code": "52720",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sapuyes",
@@ -10855,10 +12700,14 @@
 "LatLong": "1.0333,-77.6"
 }
 ]
+}
+]
 },
 {
 "Name": "Taminango",
 "Code": "52786",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Taminango",
@@ -10881,10 +12730,14 @@
 "LatLong": "1.5749,-77.2867"
 }
 ]
+}
+]
 },
 {
 "Name": "Tangua",
 "Code": "52788",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tangua",
@@ -10902,10 +12755,14 @@
 "LatLong": "1.0947,-77.3948"
 }
 ]
+}
+]
 },
 {
 "Name": "San Andres de Tumaco",
 "Code": "52835",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Andres De Tumaco",
@@ -10983,10 +12840,14 @@
 "LatLong": "1.7986,-78.8156"
 }
 ]
+}
+]
 },
 {
 "Name": "Túquerres",
 "Code": "52838",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tuquerres",
@@ -11014,10 +12875,14 @@
 "LatLong": "1.0888,-77.6183"
 }
 ]
+}
+]
 },
 {
 "Name": "Yacuanquer",
 "Code": "52885",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yacuanquer",
@@ -11037,6 +12902,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Norte De Santander",
@@ -11045,6 +12912,8 @@
 {
 "Name": "Cúcuta",
 "Code": "54001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cucuta",
@@ -11117,10 +12986,14 @@
 "LatLong": "7.8939,-72.5078"
 }
 ]
+}
+]
 },
 {
 "Name": "Abrego",
 "Code": "54003",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Abrego",
@@ -11143,10 +13016,14 @@
 "LatLong": "8.0806,-73.2205"
 }
 ]
+}
+]
 },
 {
 "Name": "Arboledas",
 "Code": "54051",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arboledas",
@@ -11164,10 +13041,14 @@
 "LatLong": "7.6423,-72.7994"
 }
 ]
+}
+]
 },
 {
 "Name": "Bochalema",
 "Code": "54099",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bochalema",
@@ -11185,10 +13066,14 @@
 "LatLong": "7.611,-72.6477"
 }
 ]
+}
+]
 },
 {
 "Name": "Bucarasica",
 "Code": "54109",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bucarasica",
@@ -11206,10 +13091,14 @@
 "LatLong": "8.041,-72.8654"
 }
 ]
+}
+]
 },
 {
 "Name": "Cácota",
 "Code": "54125",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cacota",
@@ -11222,10 +13111,14 @@
 "LatLong": "7.2679,-72.642"
 }
 ]
+}
+]
 },
 {
 "Name": "Cachirá",
 "Code": "54128",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cachira",
@@ -11243,10 +13136,14 @@
 "LatLong": "7.741,-73.0483"
 }
 ]
+}
+]
 },
 {
 "Name": "Chinácota",
 "Code": "54172",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chinacota",
@@ -11259,10 +13156,14 @@
 "LatLong": "7.6073,-72.6011"
 }
 ]
+}
+]
 },
 {
 "Name": "Chitagá",
 "Code": "54174",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chitaga",
@@ -11280,10 +13181,14 @@
 "LatLong": "7.1378,-72.6646"
 }
 ]
+}
+]
 },
 {
 "Name": "Convención",
 "Code": "54206",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Convencion",
@@ -11306,10 +13211,14 @@
 "LatLong": "8.4641,-73.3447"
 }
 ]
+}
+]
 },
 {
 "Name": "Cucutilla",
 "Code": "54223",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cucutilla",
@@ -11332,10 +13241,14 @@
 "LatLong": "7.5394,-72.7724"
 }
 ]
+}
+]
 },
 {
 "Name": "Durania",
 "Code": "54239",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Durania",
@@ -11348,10 +13261,14 @@
 "LatLong": "7.7131,-72.6576"
 }
 ]
+}
+]
 },
 {
 "Name": "El Carmen",
 "Code": "54245",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Carmen",
@@ -11374,10 +13291,14 @@
 "LatLong": "8.5106,-73.4478"
 }
 ]
+}
+]
 },
 {
 "Name": "El Tarra",
 "Code": "54250",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Tarra",
@@ -11395,10 +13316,14 @@
 "LatLong": "8.5756,-73.0949"
 }
 ]
+}
+]
 },
 {
 "Name": "El Zulia",
 "Code": "54261",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Zulia",
@@ -11416,10 +13341,14 @@
 "LatLong": "7.9325,-72.6013"
 }
 ]
+}
+]
 },
 {
 "Name": "Gramalote",
 "Code": "54313",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gramalote",
@@ -11432,10 +13361,14 @@
 "LatLong": "7.8875,-72.7975"
 }
 ]
+}
+]
 },
 {
 "Name": "Hacarí",
 "Code": "54344",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hacari",
@@ -11448,10 +13381,14 @@
 "LatLong": "8.3233,-73.1489"
 }
 ]
+}
+]
 },
 {
 "Name": "Herrán",
 "Code": "54347",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Herran",
@@ -11469,10 +13406,14 @@
 "LatLong": "7.5061,-72.4833"
 }
 ]
+}
+]
 },
 {
 "Name": "Labateca",
 "Code": "54377",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Labateca",
@@ -11490,10 +13431,14 @@
 "LatLong": "7.2989,-72.4947"
 }
 ]
+}
+]
 },
 {
 "Name": "La Esperanza",
 "Code": "54385",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Esperanza",
@@ -11511,10 +13456,14 @@
 "LatLong": "7.6392,-73.3358"
 }
 ]
+}
+]
 },
 {
 "Name": "La Playa",
 "Code": "54398",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Playa",
@@ -11527,10 +13476,14 @@
 "LatLong": "8.2164,-73.2414"
 }
 ]
+}
+]
 },
 {
 "Name": "Los Patios",
 "Code": "54405",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Los Patios",
@@ -11548,10 +13501,14 @@
 "LatLong": "7.8379,-72.5037"
 }
 ]
+}
+]
 },
 {
 "Name": "Lourdes",
 "Code": "54418",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lourdes",
@@ -11564,10 +13521,14 @@
 "LatLong": "7.9441,-72.8325"
 }
 ]
+}
+]
 },
 {
 "Name": "Mutiscua",
 "Code": "54480",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mutiscua",
@@ -11580,10 +13541,14 @@
 "LatLong": "7.3006,-72.7467"
 }
 ]
+}
+]
 },
 {
 "Name": "Ocaña",
 "Code": "54498",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ocaña",
@@ -11611,10 +13576,14 @@
 "LatLong": "8.2377,-73.356"
 }
 ]
+}
+]
 },
 {
 "Name": "Pamplona",
 "Code": "54518",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pamplona",
@@ -11632,10 +13601,14 @@
 "LatLong": "7.3756,-72.6479"
 }
 ]
+}
+]
 },
 {
 "Name": "Pamplonita",
 "Code": "54520",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pamplonita",
@@ -11653,10 +13626,14 @@
 "LatLong": "7.4364,-72.6381"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Santander",
 "Code": "54553",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Santander",
@@ -11669,10 +13646,14 @@
 "LatLong": "8.3636,-72.4063"
 }
 ]
+}
+]
 },
 {
 "Name": "Ragonvalia",
 "Code": "54599",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ragonvalia",
@@ -11685,10 +13666,14 @@
 "LatLong": "7.5775,-72.4757"
 }
 ]
+}
+]
 },
 {
 "Name": "Salazar",
 "Code": "54660",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Salazar",
@@ -11706,10 +13691,14 @@
 "LatLong": "7.7736,-72.8679"
 }
 ]
+}
+]
 },
 {
 "Name": "San Calixto",
 "Code": "54670",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Calixto",
@@ -11727,10 +13716,14 @@
 "LatLong": "8.4021,-73.2074"
 }
 ]
+}
+]
 },
 {
 "Name": "San Cayetano",
 "Code": "54673",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Cayetano",
@@ -11743,10 +13736,14 @@
 "LatLong": "7.8771,-72.6243"
 }
 ]
+}
+]
 },
 {
 "Name": "Santiago",
 "Code": "54680",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santiago",
@@ -11759,10 +13756,14 @@
 "LatLong": "7.8643,-72.7162"
 }
 ]
+}
+]
 },
 {
 "Name": "Sardinata",
 "Code": "54720",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sardinata",
@@ -11785,10 +13786,14 @@
 "LatLong": "8.0829,-72.8007"
 }
 ]
+}
+]
 },
 {
 "Name": "Silos",
 "Code": "54743",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Silos",
@@ -11806,10 +13811,14 @@
 "LatLong": "7.2052,-72.7564"
 }
 ]
+}
+]
 },
 {
 "Name": "Teorama",
 "Code": "54800",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Teorama",
@@ -11832,10 +13841,14 @@
 "LatLong": "8.7637,-73.1569"
 }
 ]
+}
+]
 },
 {
 "Name": "Tibú",
 "Code": "54810",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tibu",
@@ -11853,10 +13866,14 @@
 "LatLong": "8.639,-72.7358"
 }
 ]
+}
+]
 },
 {
 "Name": "Toledo",
 "Code": "54820",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Toledo",
@@ -11874,10 +13891,14 @@
 "LatLong": "7.3098,-72.4829"
 }
 ]
+}
+]
 },
 {
 "Name": "Villa Caro",
 "Code": "54871",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villa Caro",
@@ -11890,10 +13911,14 @@
 "LatLong": "7.9143,-72.9714"
 }
 ]
+}
+]
 },
 {
 "Name": "Villa del Rosario",
 "Code": "54874",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villa Del Rosario",
@@ -11908,6 +13933,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Putumayo",
@@ -11916,6 +13943,8 @@
 {
 "Name": "Mocoa",
 "Code": "86001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mocoa",
@@ -11933,10 +13962,14 @@
 "LatLong": "1.1528,-76.6521"
 }
 ]
+}
+]
 },
 {
 "Name": "Colón",
 "Code": "86219",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Colon",
@@ -11949,10 +13982,14 @@
 "LatLong": "1.1903,-76.9737"
 }
 ]
+}
+]
 },
 {
 "Name": "Orito",
 "Code": "86320",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Orito",
@@ -11970,10 +14007,14 @@
 "LatLong": "0.6675,-76.873"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Asís",
 "Code": "86568",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Asis",
@@ -11996,10 +14037,14 @@
 "LatLong": "0.5133,-76.5007"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Caicedo",
 "Code": "86569",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Caicedo",
@@ -12012,10 +14057,14 @@
 "LatLong": "0.6836,-76.6044"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Guzmán",
 "Code": "86571",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Guzman",
@@ -12033,10 +14082,14 @@
 "LatLong": "0.9645,-76.408"
 }
 ]
+}
+]
 },
 {
 "Name": "Leguízamo",
 "Code": "86573",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Leguizamo",
@@ -12059,10 +14112,14 @@
 "LatLong": "-0.1934,-74.7819"
 }
 ]
+}
+]
 },
 {
 "Name": "Sibundoy",
 "Code": "86749",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sibundoy",
@@ -12075,10 +14132,14 @@
 "LatLong": "1.203,-76.9227"
 }
 ]
+}
+]
 },
 {
 "Name": "San Francisco",
 "Code": "86755",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Francisco",
@@ -12096,10 +14157,14 @@
 "LatLong": "1.1764,-76.8784"
 }
 ]
+}
+]
 },
 {
 "Name": "San Miguel",
 "Code": "86757",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Miguel",
@@ -12112,10 +14177,14 @@
 "LatLong": "0.3431,-76.9112"
 }
 ]
+}
+]
 },
 {
 "Name": "Santiago",
 "Code": "86760",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santiago",
@@ -12133,10 +14202,14 @@
 "LatLong": "1.1484,-77.0045"
 }
 ]
+}
+]
 },
 {
 "Name": "Valle del Guamuez",
 "Code": "86865",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valle Del Guamuez",
@@ -12154,10 +14227,14 @@
 "LatLong": "0.4525,-76.9192"
 }
 ]
+}
+]
 },
 {
 "Name": "Villagarzón",
 "Code": "86885",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villagarzon",
@@ -12177,6 +14254,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Quindio",
@@ -12185,6 +14264,8 @@
 {
 "Name": "Armenia",
 "Code": "63001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Armenia",
@@ -12217,10 +14298,14 @@
 "LatLong": "4.5339,-75.6811"
 }
 ]
+}
+]
 },
 {
 "Name": "Buenavista",
 "Code": "63111",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Buenavista",
@@ -12233,10 +14318,14 @@
 "LatLong": "4.3539,-75.7178"
 }
 ]
+}
+]
 },
 {
 "Name": "Calarca",
 "Code": "63130",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Calarca",
@@ -12254,10 +14343,14 @@
 "LatLong": "4.5295,-75.6409"
 }
 ]
+}
+]
 },
 {
 "Name": "Circasia",
 "Code": "63190",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Circasia",
@@ -12275,10 +14368,14 @@
 "LatLong": "4.6189,-75.6358"
 }
 ]
+}
+]
 },
 {
 "Name": "Córdoba",
 "Code": "63212",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cordoba",
@@ -12291,10 +14388,14 @@
 "LatLong": "4.3932,-75.6894"
 }
 ]
+}
+]
 },
 {
 "Name": "Filandia",
 "Code": "63272",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Filandia",
@@ -12312,10 +14413,14 @@
 "LatLong": "4.6747,-75.6583"
 }
 ]
+}
+]
 },
 {
 "Name": "Génova",
 "Code": "63302",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Genova",
@@ -12328,10 +14433,14 @@
 "LatLong": "4.208,-75.7888"
 }
 ]
+}
+]
 },
 {
 "Name": "La Tebaida",
 "Code": "63401",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Tebaida",
@@ -12344,10 +14453,14 @@
 "LatLong": "4.4526,-75.7875"
 }
 ]
+}
+]
 },
 {
 "Name": "Montenegro",
 "Code": "63470",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Montenegro",
@@ -12365,10 +14478,14 @@
 "LatLong": "4.5664,-75.7511"
 }
 ]
+}
+]
 },
 {
 "Name": "Pijao",
 "Code": "63548",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pijao",
@@ -12381,10 +14498,14 @@
 "LatLong": "4.3342,-75.7035"
 }
 ]
+}
+]
 },
 {
 "Name": "Quimbaya",
 "Code": "63594",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Quimbaya",
@@ -12397,10 +14518,14 @@
 "LatLong": "4.6231,-75.7628"
 }
 ]
+}
+]
 },
 {
 "Name": "Salento",
 "Code": "63690",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Salento",
@@ -12420,6 +14545,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Risaralda",
@@ -12428,6 +14555,8 @@
 {
 "Name": "Pereira",
 "Code": "66001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pereira",
@@ -12480,10 +14609,14 @@
 "LatLong": "4.8133,-75.6961"
 }
 ]
+}
+]
 },
 {
 "Name": "Apía",
 "Code": "66045",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Apia",
@@ -12501,10 +14634,14 @@
 "LatLong": "5.1064,-75.9432"
 }
 ]
+}
+]
 },
 {
 "Name": "Balboa",
 "Code": "66075",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Balboa",
@@ -12517,10 +14654,14 @@
 "LatLong": "4.9517,-75.9572"
 }
 ]
+}
+]
 },
 {
 "Name": "Belén de Umbría",
 "Code": "66088",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Belen De Umbria",
@@ -12538,10 +14679,14 @@
 "LatLong": "5.2009,-75.8687"
 }
 ]
+}
+]
 },
 {
 "Name": "Dosquebradas",
 "Code": "66170",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dosquebradas",
@@ -12564,10 +14709,14 @@
 "LatLong": "4.8417,-75.6701"
 }
 ]
+}
+]
 },
 {
 "Name": "Guática",
 "Code": "66318",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guatica",
@@ -12585,10 +14734,14 @@
 "LatLong": "5.3157,-75.7983"
 }
 ]
+}
+]
 },
 {
 "Name": "La Celia",
 "Code": "66383",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Celia",
@@ -12601,10 +14754,14 @@
 "LatLong": "4.9878,-76.0084"
 }
 ]
+}
+]
 },
 {
 "Name": "La Virginia",
 "Code": "66400",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Virginia",
@@ -12617,10 +14774,14 @@
 "LatLong": "4.8997,-75.8825"
 }
 ]
+}
+]
 },
 {
 "Name": "Marsella",
 "Code": "66440",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marsella",
@@ -12638,10 +14799,14 @@
 "LatLong": "4.9372,-75.7378"
 }
 ]
+}
+]
 },
 {
 "Name": "Mistrató",
 "Code": "66456",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mistrato",
@@ -12659,10 +14824,14 @@
 "LatLong": "5.2962,-75.8839"
 }
 ]
+}
+]
 },
 {
 "Name": "Pueblo Rico",
 "Code": "66572",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pueblo Rico",
@@ -12680,10 +14849,14 @@
 "LatLong": "5.2383,-76.0364"
 }
 ]
+}
+]
 },
 {
 "Name": "Quinchía",
 "Code": "66594",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Quinchia",
@@ -12701,10 +14874,14 @@
 "LatLong": "5.3396,-75.7302"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa Rosa de Cabal",
 "Code": "66682",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Rosa De Cabal",
@@ -12722,10 +14899,14 @@
 "LatLong": "4.8681,-75.6214"
 }
 ]
+}
+]
 },
 {
 "Name": "Santuario",
 "Code": "66687",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santuario",
@@ -12745,6 +14926,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Archipielago De San Andres",
@@ -12753,6 +14936,8 @@
 {
 "Name": "San Andrés",
 "Code": "88001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Andres",
@@ -12770,10 +14955,14 @@
 "LatLong": "12.5847,-81.7006"
 }
 ]
+}
+]
 },
 {
 "Name": "Providencia",
 "Code": "88564",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Providencia",
@@ -12793,6 +14982,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Santander",
@@ -12801,6 +14992,8 @@
 {
 "Name": "Bucaramanga",
 "Code": "68001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bucaramanga",
@@ -12848,10 +15041,14 @@
 "LatLong": "7.1254,-73.1198"
 }
 ]
+}
+]
 },
 {
 "Name": "Aguada",
 "Code": "68013",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aguada",
@@ -12864,10 +15061,14 @@
 "LatLong": "6.1816,-73.531"
 }
 ]
+}
+]
 },
 {
 "Name": "Albania",
 "Code": "68020",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Albania",
@@ -12880,10 +15081,14 @@
 "LatLong": "5.7614,-73.9178"
 }
 ]
+}
+]
 },
 {
 "Name": "Aratoca",
 "Code": "68051",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aratoca",
@@ -12901,10 +15106,14 @@
 "LatLong": "6.6935,-73.0208"
 }
 ]
+}
+]
 },
 {
 "Name": "Barbosa",
 "Code": "68077",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Barbosa",
@@ -12917,10 +15126,14 @@
 "LatLong": "5.9317,-73.6151"
 }
 ]
+}
+]
 },
 {
 "Name": "Barichara",
 "Code": "68079",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Barichara",
@@ -12938,10 +15151,14 @@
 "LatLong": "6.6357,-73.2228"
 }
 ]
+}
+]
 },
 {
 "Name": "Barrancabermeja",
 "Code": "68081",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Barrancabermeja",
@@ -12979,10 +15196,14 @@
 "LatLong": "7.0653,-73.8547"
 }
 ]
+}
+]
 },
 {
 "Name": "Betulia",
 "Code": "68092",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Betulia",
@@ -13000,10 +15221,14 @@
 "LatLong": "6.9007,-73.2835"
 }
 ]
+}
+]
 },
 {
 "Name": "Bolívar",
 "Code": "68101",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bolivar",
@@ -13026,10 +15251,14 @@
 "LatLong": "5.9894,-73.7702"
 }
 ]
+}
+]
 },
 {
 "Name": "Cabrera",
 "Code": "68121",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cabrera",
@@ -13042,10 +15271,14 @@
 "LatLong": "6.5933,-73.2455"
 }
 ]
+}
+]
 },
 {
 "Name": "California",
 "Code": "68132",
+"Communities": [
+{
 "Places": [
 {
 "Name": "California",
@@ -13058,10 +15291,14 @@
 "LatLong": "7.3471,-72.9452"
 }
 ]
+}
+]
 },
 {
 "Name": "Capitanejo",
 "Code": "68147",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Capitanejo",
@@ -13079,10 +15316,14 @@
 "LatLong": "6.5288,-72.6959"
 }
 ]
+}
+]
 },
 {
 "Name": "Carcasí",
 "Code": "68152",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Carcasi",
@@ -13105,10 +15346,14 @@
 "LatLong": "6.6271,-72.6262"
 }
 ]
+}
+]
 },
 {
 "Name": "Cepitá",
 "Code": "68160",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cepita",
@@ -13121,10 +15366,14 @@
 "LatLong": "6.7543,-72.9744"
 }
 ]
+}
+]
 },
 {
 "Name": "Cerrito",
 "Code": "68162",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cerrito",
@@ -13147,10 +15396,14 @@
 "LatLong": "6.8431,-72.694"
 }
 ]
+}
+]
 },
 {
 "Name": "Charalá",
 "Code": "68167",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Charala",
@@ -13173,10 +15426,14 @@
 "LatLong": "6.2858,-73.1472"
 }
 ]
+}
+]
 },
 {
 "Name": "Charta",
 "Code": "68169",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Charta",
@@ -13189,10 +15446,14 @@
 "LatLong": "7.2803,-72.9678"
 }
 ]
+}
+]
 },
 {
 "Name": "Chima",
 "Code": "68176",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chima",
@@ -13205,10 +15466,14 @@
 "LatLong": "6.3443,-73.3739"
 }
 ]
+}
+]
 },
 {
 "Name": "Chipatá",
 "Code": "68179",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chipata",
@@ -13221,10 +15486,14 @@
 "LatLong": "6.062,-73.6372"
 }
 ]
+}
+]
 },
 {
 "Name": "Cimitarra",
 "Code": "68190",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cimitarra",
@@ -13257,10 +15526,14 @@
 "LatLong": "6.3142,-73.9497"
 }
 ]
+}
+]
 },
 {
 "Name": "Concepción",
 "Code": "68207",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Concepcion",
@@ -13283,10 +15556,14 @@
 "LatLong": "6.7662,-72.694"
 }
 ]
+}
+]
 },
 {
 "Name": "Confines",
 "Code": "68209",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Confines",
@@ -13299,10 +15576,14 @@
 "LatLong": "6.3636,-73.244"
 }
 ]
+}
+]
 },
 {
 "Name": "Contratación",
 "Code": "68211",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Contratacion",
@@ -13315,10 +15596,14 @@
 "LatLong": "6.2901,-73.4735"
 }
 ]
+}
+]
 },
 {
 "Name": "Coromoro",
 "Code": "68217",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Coromoro",
@@ -13341,10 +15626,14 @@
 "LatLong": "6.2946,-73.0402"
 }
 ]
+}
+]
 },
 {
 "Name": "Curití",
 "Code": "68229",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Curiti",
@@ -13362,10 +15651,14 @@
 "LatLong": "6.6052,-73.0681"
 }
 ]
+}
+]
 },
 {
 "Name": "El Carmen de Chucurí",
 "Code": "68235",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Carmen De Chucuri",
@@ -13393,10 +15686,14 @@
 "LatLong": "6.6637,-73.5628"
 }
 ]
+}
+]
 },
 {
 "Name": "El Guacamayo",
 "Code": "68245",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Guacamayo",
@@ -13409,10 +15706,14 @@
 "LatLong": "6.2452,-73.4966"
 }
 ]
+}
+]
 },
 {
 "Name": "El Peñón",
 "Code": "68250",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Peñon",
@@ -13425,10 +15726,14 @@
 "LatLong": "6.0549,-73.8152"
 }
 ]
+}
+]
 },
 {
 "Name": "El Playón",
 "Code": "68255",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Playon",
@@ -13451,10 +15756,14 @@
 "LatLong": "7.4713,-73.2031"
 }
 ]
+}
+]
 },
 {
 "Name": "Encino",
 "Code": "68264",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Encino",
@@ -13477,10 +15786,14 @@
 "LatLong": "6.1373,-73.0985"
 }
 ]
+}
+]
 },
 {
 "Name": "Enciso",
 "Code": "68266",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Enciso",
@@ -13493,10 +15806,14 @@
 "LatLong": "6.6681,-72.6999"
 }
 ]
+}
+]
 },
 {
 "Name": "Florián",
 "Code": "68271",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Florian",
@@ -13509,10 +15826,14 @@
 "LatLong": "5.8049,-73.9703"
 }
 ]
+}
+]
 },
 {
 "Name": "Floridablanca",
 "Code": "68276",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Floridablanca",
@@ -13545,10 +15866,14 @@
 "LatLong": "7.0622,-73.0864"
 }
 ]
+}
+]
 },
 {
 "Name": "Galán",
 "Code": "68296",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Galan",
@@ -13566,10 +15891,14 @@
 "LatLong": "6.6378,-73.2888"
 }
 ]
+}
+]
 },
 {
 "Name": "Gambita",
 "Code": "68298",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gambita",
@@ -13592,10 +15921,14 @@
 "LatLong": "5.946,-73.3443"
 }
 ]
+}
+]
 },
 {
 "Name": "Girón",
 "Code": "68307",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Giron",
@@ -13633,10 +15966,14 @@
 "LatLong": "7.0682,-73.1698"
 }
 ]
+}
+]
 },
 {
 "Name": "Guaca",
 "Code": "68318",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guaca",
@@ -13654,10 +15991,14 @@
 "LatLong": "6.8762,-72.8559"
 }
 ]
+}
+]
 },
 {
 "Name": "Guadalupe",
 "Code": "68320",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guadalupe",
@@ -13670,10 +16011,14 @@
 "LatLong": "6.2464,-73.4183"
 }
 ]
+}
+]
 },
 {
 "Name": "Guapotá",
 "Code": "68322",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guapota",
@@ -13686,10 +16031,14 @@
 "LatLong": "6.308,-73.3202"
 }
 ]
+}
+]
 },
 {
 "Name": "Guavatá",
 "Code": "68324",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guavata",
@@ -13702,10 +16051,14 @@
 "LatLong": "5.955,-73.7002"
 }
 ]
+}
+]
 },
 {
 "Name": "Güepsa",
 "Code": "68327",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Güepsa",
@@ -13718,10 +16071,14 @@
 "LatLong": "6.0251,-73.5731"
 }
 ]
+}
+]
 },
 {
 "Name": "Hato",
 "Code": "68344",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hato",
@@ -13734,10 +16091,14 @@
 "LatLong": "6.543,-73.3083"
 }
 ]
+}
+]
 },
 {
 "Name": "Jesús María",
 "Code": "68368",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jesus Maria",
@@ -13750,10 +16111,14 @@
 "LatLong": "5.8772,-73.781"
 }
 ]
+}
+]
 },
 {
 "Name": "Jordán",
 "Code": "68370",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jordan",
@@ -13766,10 +16131,14 @@
 "LatLong": "6.733,-73.0959"
 }
 ]
+}
+]
 },
 {
 "Name": "La Belleza",
 "Code": "68377",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Belleza",
@@ -13782,10 +16151,14 @@
 "LatLong": "5.8637,-73.9617"
 }
 ]
+}
+]
 },
 {
 "Name": "Landázuri",
 "Code": "68385",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Landazuri",
@@ -13808,10 +16181,14 @@
 "LatLong": "6.2183,-73.8112"
 }
 ]
+}
+]
 },
 {
 "Name": "La Paz",
 "Code": "68397",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Paz",
@@ -13829,10 +16206,14 @@
 "LatLong": "6.1785,-73.5895"
 }
 ]
+}
+]
 },
 {
 "Name": "Lebríja",
 "Code": "68406",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lebrija",
@@ -13860,10 +16241,14 @@
 "LatLong": "7.1132,-73.2178"
 }
 ]
+}
+]
 },
 {
 "Name": "Los Santos",
 "Code": "68418",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Los Santos",
@@ -13886,10 +16271,14 @@
 "LatLong": "6.7534,-73.1047"
 }
 ]
+}
+]
 },
 {
 "Name": "Macaravita",
 "Code": "68425",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Macaravita",
@@ -13907,10 +16296,14 @@
 "LatLong": "6.5057,-72.593"
 }
 ]
+}
+]
 },
 {
 "Name": "Málaga",
 "Code": "68432",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Malaga",
@@ -13928,10 +16321,14 @@
 "LatLong": "6.699,-72.7323"
 }
 ]
+}
+]
 },
 {
 "Name": "Matanza",
 "Code": "68444",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Matanza",
@@ -13949,10 +16346,14 @@
 "LatLong": "7.3223,-73.0152"
 }
 ]
+}
+]
 },
 {
 "Name": "Mogotes",
 "Code": "68464",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mogotes",
@@ -13975,10 +16376,14 @@
 "LatLong": "6.4756,-72.9705"
 }
 ]
+}
+]
 },
 {
 "Name": "Molagavita",
 "Code": "68468",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Molagavita",
@@ -13996,10 +16401,14 @@
 "LatLong": "6.6732,-72.8087"
 }
 ]
+}
+]
 },
 {
 "Name": "Ocamonte",
 "Code": "68498",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ocamonte",
@@ -14017,10 +16426,14 @@
 "LatLong": "6.34,-73.1221"
 }
 ]
+}
+]
 },
 {
 "Name": "Oiba",
 "Code": "68500",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oiba",
@@ -14048,10 +16461,14 @@
 "LatLong": "6.2639,-73.2988"
 }
 ]
+}
+]
 },
 {
 "Name": "Onzaga",
 "Code": "68502",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Onzaga",
@@ -14079,10 +16496,14 @@
 "LatLong": "6.3443,-72.8173"
 }
 ]
+}
+]
 },
 {
 "Name": "Palmar",
 "Code": "68522",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Palmar",
@@ -14095,10 +16516,14 @@
 "LatLong": "6.5377,-73.2923"
 }
 ]
+}
+]
 },
 {
 "Name": "Palmas del Socorro",
 "Code": "68524",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Palmas Del Socorro",
@@ -14111,10 +16536,14 @@
 "LatLong": "6.4076,-73.2882"
 }
 ]
+}
+]
 },
 {
 "Name": "Páramo",
 "Code": "68533",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Paramo",
@@ -14132,10 +16561,14 @@
 "LatLong": "6.4164,-73.17"
 }
 ]
+}
+]
 },
 {
 "Name": "Piedecuesta",
 "Code": "68547",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Piedecuesta",
@@ -14168,10 +16601,14 @@
 "LatLong": "6.9879,-73.0495"
 }
 ]
+}
+]
 },
 {
 "Name": "Pinchote",
 "Code": "68549",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pinchote",
@@ -14189,10 +16626,14 @@
 "LatLong": "6.5323,-73.1731"
 }
 ]
+}
+]
 },
 {
 "Name": "Puente Nacional",
 "Code": "68572",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puente Nacional",
@@ -14205,10 +16646,14 @@
 "LatLong": "5.8774,-73.6781"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Parra",
 "Code": "68573",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Parra",
@@ -14226,10 +16671,14 @@
 "LatLong": "6.6515,-74.0573"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Wilches",
 "Code": "68575",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Wilches",
@@ -14252,10 +16701,14 @@
 "LatLong": "7.3483,-73.896"
 }
 ]
+}
+]
 },
 {
 "Name": "Rionegro",
 "Code": "68615",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rionegro",
@@ -14283,10 +16736,14 @@
 "LatLong": "7.2646,-73.1501"
 }
 ]
+}
+]
 },
 {
 "Name": "Sabana de Torres",
 "Code": "68655",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sabana De Torres",
@@ -14304,10 +16761,14 @@
 "LatLong": "7.3915,-73.4957"
 }
 ]
+}
+]
 },
 {
 "Name": "San Andrés",
 "Code": "68669",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Andres",
@@ -14330,10 +16791,14 @@
 "LatLong": "6.8115,-72.8493"
 }
 ]
+}
+]
 },
 {
 "Name": "San Benito",
 "Code": "68673",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Benito",
@@ -14346,10 +16811,14 @@
 "LatLong": "6.1327,-73.4907"
 }
 ]
+}
+]
 },
 {
 "Name": "San Gil",
 "Code": "68679",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Gil",
@@ -14372,10 +16841,14 @@
 "LatLong": "6.5595,-73.1364"
 }
 ]
+}
+]
 },
 {
 "Name": "San Joaquín",
 "Code": "68682",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Joaquin",
@@ -14388,10 +16861,14 @@
 "LatLong": "6.43,-72.8677"
 }
 ]
+}
+]
 },
 {
 "Name": "San José de Miranda",
 "Code": "68684",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Jose De Miranda",
@@ -14404,10 +16881,14 @@
 "LatLong": "6.6587,-72.7334"
 }
 ]
+}
+]
 },
 {
 "Name": "San Miguel",
 "Code": "68686",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Miguel",
@@ -14420,10 +16901,14 @@
 "LatLong": "6.5758,-72.6459"
 }
 ]
+}
+]
 },
 {
 "Name": "San Vicente de Chucurí",
 "Code": "68689",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Vicente De Chucuri",
@@ -14451,10 +16936,14 @@
 "LatLong": "6.881,-73.4098"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa Bárbara",
 "Code": "68705",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Barbara",
@@ -14472,10 +16961,14 @@
 "LatLong": "6.9902,-72.907"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa Helena del Opón",
 "Code": "68720",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Helena Del Opon",
@@ -14488,10 +16981,14 @@
 "LatLong": "6.34,-73.617"
 }
 ]
+}
+]
 },
 {
 "Name": "Simacota",
 "Code": "68745",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Simacota",
@@ -14519,10 +17016,14 @@
 "LatLong": "6.4429,-73.3369"
 }
 ]
+}
+]
 },
 {
 "Name": "Socorro",
 "Code": "68755",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Socorro",
@@ -14540,10 +17041,14 @@
 "LatLong": "6.4684,-73.2602"
 }
 ]
+}
+]
 },
 {
 "Name": "Suaita",
 "Code": "68770",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Suaita",
@@ -14566,10 +17071,14 @@
 "LatLong": "6.159,-73.4476"
 }
 ]
+}
+]
 },
 {
 "Name": "Sucre",
 "Code": "68773",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sucre",
@@ -14592,10 +17101,14 @@
 "LatLong": "5.9183,-73.7911"
 }
 ]
+}
+]
 },
 {
 "Name": "Suratá",
 "Code": "68780",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Surata",
@@ -14608,10 +17121,14 @@
 "LatLong": "7.3663,-72.9836"
 }
 ]
+}
+]
 },
 {
 "Name": "Tona",
 "Code": "68820",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tona",
@@ -14629,10 +17146,14 @@
 "LatLong": "7.2022,-72.965"
 }
 ]
+}
+]
 },
 {
 "Name": "Valle de San José",
 "Code": "68855",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valle De San Jose",
@@ -14650,10 +17171,14 @@
 "LatLong": "6.4475,-73.1436"
 }
 ]
+}
+]
 },
 {
 "Name": "Vélez",
 "Code": "68861",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Velez",
@@ -14676,10 +17201,14 @@
 "LatLong": "6.0134,-73.6735"
 }
 ]
+}
+]
 },
 {
 "Name": "Vetas",
 "Code": "68867",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vetas",
@@ -14692,10 +17221,14 @@
 "LatLong": "7.3091,-72.8712"
 }
 ]
+}
+]
 },
 {
 "Name": "Villanueva",
 "Code": "68872",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villanueva",
@@ -14713,10 +17246,14 @@
 "LatLong": "6.6717,-73.1742"
 }
 ]
+}
+]
 },
 {
 "Name": "Zapatoca",
 "Code": "68895",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zapatoca",
@@ -14741,6 +17278,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Sucre",
@@ -14749,6 +17288,8 @@
 {
 "Name": "Sincelejo",
 "Code": "70001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sincelejo",
@@ -14786,10 +17327,14 @@
 "LatLong": "9.3047,-75.3978"
 }
 ]
+}
+]
 },
 {
 "Name": "Buenavista",
 "Code": "70110",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Buenavista",
@@ -14802,10 +17347,14 @@
 "LatLong": "9.3194,-74.9736"
 }
 ]
+}
+]
 },
 {
 "Name": "Caimito",
 "Code": "70124",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Caimito",
@@ -14823,10 +17372,14 @@
 "LatLong": "8.7401,-75.1891"
 }
 ]
+}
+]
 },
 {
 "Name": "Coloso",
 "Code": "70204",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Coloso",
@@ -14839,10 +17392,14 @@
 "LatLong": "9.4915,-75.3615"
 }
 ]
+}
+]
 },
 {
 "Name": "Corozal",
 "Code": "70215",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Corozal",
@@ -14865,10 +17422,14 @@
 "LatLong": "9.315,-75.2928"
 }
 ]
+}
+]
 },
 {
 "Name": "Coveñas",
 "Code": "70221",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Coveñas",
@@ -14881,10 +17442,14 @@
 "LatLong": "9.4041,-75.6963"
 }
 ]
+}
+]
 },
 {
 "Name": "Chalán",
 "Code": "70230",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chalan",
@@ -14897,10 +17462,14 @@
 "LatLong": "9.5477,-75.3113"
 }
 ]
+}
+]
 },
 {
 "Name": "El Roble",
 "Code": "70233",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Roble",
@@ -14918,10 +17487,14 @@
 "LatLong": "9.1019,-75.1951"
 }
 ]
+}
+]
 },
 {
 "Name": "Galeras",
 "Code": "70235",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Galeras",
@@ -14934,10 +17507,14 @@
 "LatLong": "9.1609,-75.0481"
 }
 ]
+}
+]
 },
 {
 "Name": "Guaranda",
 "Code": "70265",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guaranda",
@@ -14955,10 +17532,14 @@
 "LatLong": "8.3813,-74.6744"
 }
 ]
+}
+]
 },
 {
 "Name": "La Unión",
 "Code": "70400",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Union",
@@ -14971,10 +17552,14 @@
 "LatLong": "8.8606,-75.2806"
 }
 ]
+}
+]
 },
 {
 "Name": "Los Palmitos",
 "Code": "70418",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Los Palmitos",
@@ -14992,10 +17577,14 @@
 "LatLong": "9.379,-75.2677"
 }
 ]
+}
+]
 },
 {
 "Name": "Majagual",
 "Code": "70429",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Majagual",
@@ -15013,10 +17602,14 @@
 "LatLong": "8.5389,-74.6204"
 }
 ]
+}
+]
 },
 {
 "Name": "Morroa",
 "Code": "70473",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Morroa",
@@ -15034,10 +17627,14 @@
 "LatLong": "9.3335,-75.3054"
 }
 ]
+}
+]
 },
 {
 "Name": "Ovejas",
 "Code": "70508",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ovejas",
@@ -15055,10 +17652,14 @@
 "LatLong": "9.5325,-75.2238"
 }
 ]
+}
+]
 },
 {
 "Name": "Palmito",
 "Code": "70523",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Palmito",
@@ -15071,10 +17672,14 @@
 "LatLong": "9.3333,-75.55"
 }
 ]
+}
+]
 },
 {
 "Name": "Sampués",
 "Code": "70670",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sampues",
@@ -15097,10 +17702,14 @@
 "LatLong": "9.1836,-75.3817"
 }
 ]
+}
+]
 },
 {
 "Name": "San Benito Abad",
 "Code": "70678",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Benito Abad",
@@ -15118,10 +17727,14 @@
 "LatLong": "8.929,-75.0271"
 }
 ]
+}
+]
 },
 {
 "Name": "San Juan de Betulia",
 "Code": "70702",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Juan De Betulia",
@@ -15139,10 +17752,14 @@
 "LatLong": "9.2735,-75.241"
 }
 ]
+}
+]
 },
 {
 "Name": "San Marcos",
 "Code": "70708",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Marcos",
@@ -15160,10 +17777,14 @@
 "LatLong": "8.6597,-75.1281"
 }
 ]
+}
+]
 },
 {
 "Name": "San Onofre",
 "Code": "70713",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Onofre",
@@ -15181,10 +17802,14 @@
 "LatLong": "9.7359,-75.5263"
 }
 ]
+}
+]
 },
 {
 "Name": "San Pedro",
 "Code": "70717",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Pedro",
@@ -15202,10 +17827,14 @@
 "LatLong": "9.3956,-75.0648"
 }
 ]
+}
+]
 },
 {
 "Name": "San Luis de Sincé",
 "Code": "70742",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Luis De Since",
@@ -15223,10 +17852,14 @@
 "LatLong": "9.3068,-75.0339"
 }
 ]
+}
+]
 },
 {
 "Name": "Sucre",
 "Code": "70771",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sucre",
@@ -15244,10 +17877,14 @@
 "LatLong": "8.8114,-74.7208"
 }
 ]
+}
+]
 },
 {
 "Name": "Santiago de Tolú",
 "Code": "70820",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santiago De Tolu",
@@ -15265,10 +17902,14 @@
 "LatLong": "9.5239,-75.5814"
 }
 ]
+}
+]
 },
 {
 "Name": "Tolú Viejo",
 "Code": "70823",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tolu Viejo",
@@ -15283,6 +17924,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Tolima",
@@ -15291,6 +17934,8 @@
 {
 "Name": "Ibagué",
 "Code": "73001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ibague",
@@ -15358,10 +18003,14 @@
 "LatLong": "4.4389,-75.2322"
 }
 ]
+}
+]
 },
 {
 "Name": "Alpujarra",
 "Code": "73024",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alpujarra",
@@ -15374,10 +18023,14 @@
 "LatLong": "3.3918,-74.9334"
 }
 ]
+}
+]
 },
 {
 "Name": "Alvarado",
 "Code": "73026",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alvarado",
@@ -15395,10 +18048,14 @@
 "LatLong": "4.5661,-74.9623"
 }
 ]
+}
+]
 },
 {
 "Name": "Ambalema",
 "Code": "73030",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ambalema",
@@ -15411,10 +18068,14 @@
 "LatLong": "4.784,-74.7627"
 }
 ]
+}
+]
 },
 {
 "Name": "Anzoátegui",
 "Code": "73043",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Anzoategui",
@@ -15432,10 +18093,14 @@
 "LatLong": "4.63,-75.0954"
 }
 ]
+}
+]
 },
 {
 "Name": "Armero",
 "Code": "73055",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Armero",
@@ -15453,10 +18118,14 @@
 "LatLong": "5.031,-74.8868"
 }
 ]
+}
+]
 },
 {
 "Name": "Ataco",
 "Code": "73067",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ataco",
@@ -15474,10 +18143,14 @@
 "LatLong": "3.5915,-75.3818"
 }
 ]
+}
+]
 },
 {
 "Name": "Cajamarca",
 "Code": "73124",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cajamarca",
@@ -15495,10 +18168,14 @@
 "LatLong": "4.4423,-75.4287"
 }
 ]
+}
+]
 },
 {
 "Name": "Carmen de Apicalá",
 "Code": "73148",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Carmen De Apicala",
@@ -15511,10 +18188,14 @@
 "LatLong": "4.1473,-74.7201"
 }
 ]
+}
+]
 },
 {
 "Name": "Casabianca",
 "Code": "73152",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Casabianca",
@@ -15532,10 +18213,14 @@
 "LatLong": "5.0796,-75.1206"
 }
 ]
+}
+]
 },
 {
 "Name": "Chaparral",
 "Code": "73168",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chaparral",
@@ -15558,10 +18243,14 @@
 "LatLong": "3.7231,-75.4832"
 }
 ]
+}
+]
 },
 {
 "Name": "Coello",
 "Code": "73200",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Coello",
@@ -15579,10 +18268,14 @@
 "LatLong": "4.2891,-74.8982"
 }
 ]
+}
+]
 },
 {
 "Name": "Coyaima",
 "Code": "73217",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Coyaima",
@@ -15610,10 +18303,14 @@
 "LatLong": "3.7994,-75.1947"
 }
 ]
+}
+]
 },
 {
 "Name": "Cunday",
 "Code": "73226",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cunday",
@@ -15631,10 +18328,14 @@
 "LatLong": "4.06,-74.6921"
 }
 ]
+}
+]
 },
 {
 "Name": "Dolores",
 "Code": "73236",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dolores",
@@ -15647,10 +18348,14 @@
 "LatLong": "3.5391,-74.8975"
 }
 ]
+}
+]
 },
 {
 "Name": "Espinal",
 "Code": "73268",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Espinal",
@@ -15673,10 +18378,14 @@
 "LatLong": "4.1492,-74.8843"
 }
 ]
+}
+]
 },
 {
 "Name": "Falan",
 "Code": "73270",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Falan",
@@ -15694,10 +18403,14 @@
 "LatLong": "5.1156,-74.9489"
 }
 ]
+}
+]
 },
 {
 "Name": "Flandes",
 "Code": "73275",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Flandes",
@@ -15710,10 +18423,14 @@
 "LatLong": "4.29,-74.8161"
 }
 ]
+}
+]
 },
 {
 "Name": "Fresno",
 "Code": "73283",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fresno",
@@ -15731,10 +18448,14 @@
 "LatLong": "5.1526,-75.0362"
 }
 ]
+}
+]
 },
 {
 "Name": "Guamo",
 "Code": "73319",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guamo",
@@ -15767,10 +18488,14 @@
 "LatLong": "4.0308,-74.9701"
 }
 ]
+}
+]
 },
 {
 "Name": "Herveo",
 "Code": "73347",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Herveo",
@@ -15788,10 +18513,14 @@
 "LatLong": "5.0833,-75.1667"
 }
 ]
+}
+]
 },
 {
 "Name": "Honda",
 "Code": "73349",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Honda",
@@ -15809,10 +18538,14 @@
 "LatLong": "5.2086,-74.7358"
 }
 ]
+}
+]
 },
 {
 "Name": "Icononzo",
 "Code": "73352",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Icononzo",
@@ -15830,10 +18563,14 @@
 "LatLong": "4.177,-74.5325"
 }
 ]
+}
+]
 },
 {
 "Name": "Lérida",
 "Code": "73408",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lerida",
@@ -15846,10 +18583,14 @@
 "LatLong": "4.8624,-74.9098"
 }
 ]
+}
+]
 },
 {
 "Name": "Líbano",
 "Code": "73411",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Libano",
@@ -15867,10 +18608,14 @@
 "LatLong": "4.9218,-75.0623"
 }
 ]
+}
+]
 },
 {
 "Name": "Mariquita",
 "Code": "73443",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mariquita",
@@ -15888,10 +18633,14 @@
 "LatLong": "5.1989,-74.8929"
 }
 ]
+}
+]
 },
 {
 "Name": "Melgar",
 "Code": "73449",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Melgar",
@@ -15904,10 +18653,14 @@
 "LatLong": "4.2047,-74.6407"
 }
 ]
+}
+]
 },
 {
 "Name": "Murillo",
 "Code": "73461",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Murillo",
@@ -15920,10 +18673,14 @@
 "LatLong": "4.8739,-75.1715"
 }
 ]
+}
+]
 },
 {
 "Name": "Natagaima",
 "Code": "73483",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Natagaima",
@@ -15941,10 +18698,14 @@
 "LatLong": "3.6206,-75.0941"
 }
 ]
+}
+]
 },
 {
 "Name": "Ortega",
 "Code": "73504",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ortega",
@@ -15972,10 +18733,14 @@
 "LatLong": "3.9361,-75.2217"
 }
 ]
+}
+]
 },
 {
 "Name": "Palocabildo",
 "Code": "73520",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Palocabildo",
@@ -15988,10 +18753,14 @@
 "LatLong": "5.117,-75.0173"
 }
 ]
+}
+]
 },
 {
 "Name": "Piedras",
 "Code": "73547",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Piedras",
@@ -16004,10 +18773,14 @@
 "LatLong": "4.5383,-74.8817"
 }
 ]
+}
+]
 },
 {
 "Name": "Planadas",
 "Code": "73555",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Planadas",
@@ -16025,10 +18798,14 @@
 "LatLong": "3.197,-75.6451"
 }
 ]
+}
+]
 },
 {
 "Name": "Prado",
 "Code": "73563",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Prado",
@@ -16046,10 +18823,14 @@
 "LatLong": "3.7512,-74.93"
 }
 ]
+}
+]
 },
 {
 "Name": "Purificación",
 "Code": "73585",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Purificacion",
@@ -16072,10 +18853,14 @@
 "LatLong": "3.8587,-74.9313"
 }
 ]
+}
+]
 },
 {
 "Name": "Rioblanco",
 "Code": "73616",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rioblanco",
@@ -16098,10 +18883,14 @@
 "LatLong": "3.5308,-75.6806"
 }
 ]
+}
+]
 },
 {
 "Name": "Roncesvalles",
 "Code": "73622",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Roncesvalles",
@@ -16114,10 +18903,14 @@
 "LatLong": "4.0108,-75.6049"
 }
 ]
+}
+]
 },
 {
 "Name": "Rovira",
 "Code": "73624",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rovira",
@@ -16135,10 +18928,14 @@
 "LatLong": "4.2392,-75.24"
 }
 ]
+}
+]
 },
 {
 "Name": "Saldaña",
 "Code": "73671",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saldaña",
@@ -16156,10 +18953,14 @@
 "LatLong": "3.9292,-75.0152"
 }
 ]
+}
+]
 },
 {
 "Name": "San Antonio",
 "Code": "73675",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Antonio",
@@ -16177,10 +18978,14 @@
 "LatLong": "3.9142,-75.4801"
 }
 ]
+}
+]
 },
 {
 "Name": "San Luis",
 "Code": "73678",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Luis",
@@ -16198,10 +19003,14 @@
 "LatLong": "4.1326,-75.095"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa Isabel",
 "Code": "73686",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Isabel",
@@ -16219,10 +19028,14 @@
 "LatLong": "4.7142,-75.098"
 }
 ]
+}
+]
 },
 {
 "Name": "Suárez",
 "Code": "73770",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Suarez",
@@ -16240,10 +19053,14 @@
 "LatLong": "4.0491,-74.832"
 }
 ]
+}
+]
 },
 {
 "Name": "Valle de San Juan",
 "Code": "73854",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valle De San Juan",
@@ -16256,10 +19073,14 @@
 "LatLong": "4.1987,-75.1173"
 }
 ]
+}
+]
 },
 {
 "Name": "Venadillo",
 "Code": "73861",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Venadillo",
@@ -16277,10 +19098,14 @@
 "LatLong": "4.7193,-74.9292"
 }
 ]
+}
+]
 },
 {
 "Name": "Villahermosa",
 "Code": "73870",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villahermosa",
@@ -16298,10 +19123,14 @@
 "LatLong": "5.0307,-75.1161"
 }
 ]
+}
+]
 },
 {
 "Name": "Villarrica",
 "Code": "73873",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villarrica",
@@ -16321,6 +19150,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Valle Del Cauca",
@@ -16329,6 +19160,8 @@
 {
 "Name": "Cali",
 "Code": "76001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cali",
@@ -16516,10 +19349,14 @@
 "LatLong": "3.4372,-76.5225"
 }
 ]
+}
+]
 },
 {
 "Name": "Alcalá",
 "Code": "76020",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alcala",
@@ -16532,10 +19369,14 @@
 "LatLong": "4.6747,-75.7825"
 }
 ]
+}
+]
 },
 {
 "Name": "Andalucía",
 "Code": "76036",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Andalucia",
@@ -16548,10 +19389,14 @@
 "LatLong": "4.1706,-76.1664"
 }
 ]
+}
+]
 },
 {
 "Name": "Ansermanuevo",
 "Code": "76041",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ansermanuevo",
@@ -16569,10 +19414,14 @@
 "LatLong": "4.7972,-75.995"
 }
 ]
+}
+]
 },
 {
 "Name": "Argelia",
 "Code": "76054",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Argelia",
@@ -16585,10 +19434,14 @@
 "LatLong": "4.7234,-76.1191"
 }
 ]
+}
+]
 },
 {
 "Name": "Bolívar",
 "Code": "76100",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bolivar",
@@ -16606,10 +19459,14 @@
 "LatLong": "4.3387,-76.1834"
 }
 ]
+}
+]
 },
 {
 "Name": "Buenaventura",
 "Code": "76109",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Buenaventura",
@@ -16652,10 +19509,14 @@
 "LatLong": "3.5833,-77"
 }
 ]
+}
+]
 },
 {
 "Name": "Guadalajara de Buga",
 "Code": "76111",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guadalajara De Buga",
@@ -16683,10 +19544,14 @@
 "LatLong": "3.9009,-76.2978"
 }
 ]
+}
+]
 },
 {
 "Name": "Bugalagrande",
 "Code": "76113",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bugalagrande",
@@ -16704,10 +19569,14 @@
 "LatLong": "4.2121,-76.1556"
 }
 ]
+}
+]
 },
 {
 "Name": "Caicedonia",
 "Code": "76122",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Caicedonia",
@@ -16725,10 +19594,14 @@
 "LatLong": "4.3324,-75.8267"
 }
 ]
+}
+]
 },
 {
 "Name": "Calima",
 "Code": "76126",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Calima",
@@ -16746,10 +19619,14 @@
 "LatLong": "3.9509,-76.6288"
 }
 ]
+}
+]
 },
 {
 "Name": "Candelaria",
 "Code": "76130",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Candelaria",
@@ -16772,10 +19649,14 @@
 "LatLong": "3.4067,-76.3482"
 }
 ]
+}
+]
 },
 {
 "Name": "Cartago",
 "Code": "76147",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cartago",
@@ -16793,10 +19674,14 @@
 "LatLong": "4.7464,-75.9117"
 }
 ]
+}
+]
 },
 {
 "Name": "Dagua",
 "Code": "76233",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dagua",
@@ -16819,10 +19704,14 @@
 "LatLong": "3.6569,-76.6886"
 }
 ]
+}
+]
 },
 {
 "Name": "El Águila",
 "Code": "76243",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Aguila",
@@ -16840,10 +19729,14 @@
 "LatLong": "4.9135,-76.04"
 }
 ]
+}
+]
 },
 {
 "Name": "El Cairo",
 "Code": "76246",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Cairo",
@@ -16861,10 +19754,14 @@
 "LatLong": "4.7628,-76.221"
 }
 ]
+}
+]
 },
 {
 "Name": "El Cerrito",
 "Code": "76248",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Cerrito",
@@ -16882,10 +19779,14 @@
 "LatLong": "3.6855,-76.3137"
 }
 ]
+}
+]
 },
 {
 "Name": "El Dovio",
 "Code": "76250",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Dovio",
@@ -16898,10 +19799,14 @@
 "LatLong": "4.5079,-76.2362"
 }
 ]
+}
+]
 },
 {
 "Name": "Florida",
 "Code": "76275",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Florida",
@@ -16919,10 +19824,14 @@
 "LatLong": "3.3223,-76.2348"
 }
 ]
+}
+]
 },
 {
 "Name": "Ginebra",
 "Code": "76306",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ginebra",
@@ -16940,10 +19849,14 @@
 "LatLong": "3.7246,-76.2667"
 }
 ]
+}
+]
 },
 {
 "Name": "Guacarí",
 "Code": "76318",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guacari",
@@ -16961,10 +19874,14 @@
 "LatLong": "3.7638,-76.3329"
 }
 ]
+}
+]
 },
 {
 "Name": "Jamundí",
 "Code": "76364",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jamundi",
@@ -16982,10 +19899,14 @@
 "LatLong": "3.2607,-76.535"
 }
 ]
+}
+]
 },
 {
 "Name": "La Cumbre",
 "Code": "76377",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Cumbre",
@@ -17003,10 +19924,14 @@
 "LatLong": "3.65,-76.5698"
 }
 ]
+}
+]
 },
 {
 "Name": "La Unión",
 "Code": "76400",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Union",
@@ -17024,10 +19949,14 @@
 "LatLong": "4.5328,-76.1032"
 }
 ]
+}
+]
 },
 {
 "Name": "La Victoria",
 "Code": "76403",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Victoria",
@@ -17040,10 +19969,14 @@
 "LatLong": "4.5248,-76.0392"
 }
 ]
+}
+]
 },
 {
 "Name": "Obando",
 "Code": "76497",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Obando",
@@ -17056,10 +19989,14 @@
 "LatLong": "4.5758,-75.9739"
 }
 ]
+}
+]
 },
 {
 "Name": "Palmira",
 "Code": "76520",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Palmira",
@@ -17097,10 +20034,14 @@
 "LatLong": "3.5394,-76.3036"
 }
 ]
+}
+]
 },
 {
 "Name": "Pradera",
 "Code": "76563",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pradera",
@@ -17118,10 +20059,14 @@
 "LatLong": "3.4211,-76.2447"
 }
 ]
+}
+]
 },
 {
 "Name": "Restrepo",
 "Code": "76606",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Restrepo",
@@ -17139,10 +20084,14 @@
 "LatLong": "3.822,-76.5224"
 }
 ]
+}
+]
 },
 {
 "Name": "Riofrío",
 "Code": "76616",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Riofrio",
@@ -17160,10 +20109,14 @@
 "LatLong": "4.1571,-76.2885"
 }
 ]
+}
+]
 },
 {
 "Name": "Roldanillo",
 "Code": "76622",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Roldanillo",
@@ -17181,10 +20134,14 @@
 "LatLong": "4.4126,-76.1546"
 }
 ]
+}
+]
 },
 {
 "Name": "San Pedro",
 "Code": "76670",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Pedro",
@@ -17202,10 +20159,14 @@
 "LatLong": "3.9945,-76.2288"
 }
 ]
+}
+]
 },
 {
 "Name": "Sevilla",
 "Code": "76736",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sevilla",
@@ -17223,10 +20184,14 @@
 "LatLong": "4.2642,-75.9309"
 }
 ]
+}
+]
 },
 {
 "Name": "Toro",
 "Code": "76823",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Toro",
@@ -17244,10 +20209,14 @@
 "LatLong": "4.6117,-76.0814"
 }
 ]
+}
+]
 },
 {
 "Name": "Trujillo",
 "Code": "76828",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Trujillo",
@@ -17265,10 +20234,14 @@
 "LatLong": "4.2122,-76.3195"
 }
 ]
+}
+]
 },
 {
 "Name": "Tuluá",
 "Code": "76834",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tulua",
@@ -17301,10 +20274,14 @@
 "LatLong": "4.0847,-76.1954"
 }
 ]
+}
+]
 },
 {
 "Name": "Ulloa",
 "Code": "76845",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ulloa",
@@ -17317,10 +20294,14 @@
 "LatLong": "4.7044,-75.7403"
 }
 ]
+}
+]
 },
 {
 "Name": "Versalles",
 "Code": "76863",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Versalles",
@@ -17333,10 +20314,14 @@
 "LatLong": "4.5754,-76.1981"
 }
 ]
+}
+]
 },
 {
 "Name": "Vijes",
 "Code": "76869",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vijes",
@@ -17349,10 +20334,14 @@
 "LatLong": "3.6993,-76.4423"
 }
 ]
+}
+]
 },
 {
 "Name": "Yotoco",
 "Code": "76890",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yotoco",
@@ -17370,10 +20359,14 @@
 "LatLong": "3.8605,-76.3836"
 }
 ]
+}
+]
 },
 {
 "Name": "Yumbo",
 "Code": "76892",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yumbo",
@@ -17396,10 +20389,14 @@
 "LatLong": "3.5861,-76.5011"
 }
 ]
+}
+]
 },
 {
 "Name": "Zarzal",
 "Code": "76895",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zarzal",
@@ -17419,6 +20416,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Vaupes",
@@ -17427,6 +20426,8 @@
 {
 "Name": "Mitú",
 "Code": "97001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mitu",
@@ -17449,10 +20450,14 @@
 "LatLong": "1.2578,-70.2347"
 }
 ]
+}
+]
 },
 {
 "Name": "Caruru",
 "Code": "97161",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Caruru",
@@ -17470,10 +20475,14 @@
 "LatLong": "1.014,-71.2962"
 }
 ]
+}
+]
 },
 {
 "Name": "Pacoa",
 "Code": "97511",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pacoa",
@@ -17486,10 +20495,14 @@
 "LatLong": "0.1814,-70.91"
 }
 ]
+}
+]
 },
 {
 "Name": "Taraira",
 "Code": "97666",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Taraira",
@@ -17507,10 +20520,14 @@
 "LatLong": "-0.5636,-69.6336"
 }
 ]
+}
+]
 },
 {
 "Name": "Papunaua",
 "Code": "97777",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Papunaua",
@@ -17523,10 +20540,14 @@
 "LatLong": "1.75,-70.1167"
 }
 ]
+}
+]
 },
 {
 "Name": "Yavaraté",
 "Code": "97889",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yavarate",
@@ -17541,6 +20562,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Vichada",
@@ -17549,6 +20572,8 @@
 {
 "Name": "Puerto Carreño",
 "Code": "99001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Carreño",
@@ -17581,10 +20606,14 @@
 "LatLong": "6.189,-67.4859"
 }
 ]
+}
+]
 },
 {
 "Name": "La Primavera",
 "Code": "99524",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Primavera",
@@ -17617,10 +20646,14 @@
 "LatLong": "5.4906,-70.4092"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa Rosalía",
 "Code": "99624",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Rosalia",
@@ -17643,10 +20676,14 @@
 "LatLong": "5.3493,-70.6773"
 }
 ]
+}
+]
 },
 {
 "Name": "Cumaribo",
 "Code": "99773",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cumaribo",
@@ -17746,6 +20783,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Casanare",
@@ -17754,6 +20793,8 @@
 {
 "Name": "Yopal",
 "Code": "85001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yopal",
@@ -17781,10 +20822,14 @@
 "LatLong": "5.3378,-72.3959"
 }
 ]
+}
+]
 },
 {
 "Name": "Aguazul",
 "Code": "85010",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aguazul",
@@ -17807,10 +20852,14 @@
 "LatLong": "5.1728,-72.5471"
 }
 ]
+}
+]
 },
 {
 "Name": "Chameza",
 "Code": "85015",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chameza",
@@ -17828,10 +20877,14 @@
 "LatLong": "5.2142,-72.8695"
 }
 ]
+}
+]
 },
 {
 "Name": "Hato Corozal",
 "Code": "85125",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hato Corozal",
@@ -17854,10 +20907,14 @@
 "LatLong": "6.109,-71.1377"
 }
 ]
+}
+]
 },
 {
 "Name": "La Salina",
 "Code": "85136",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Salina",
@@ -17870,10 +20927,14 @@
 "LatLong": "6.1316,-72.3384"
 }
 ]
+}
+]
 },
 {
 "Name": "Maní",
 "Code": "85139",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mani",
@@ -17896,10 +20957,14 @@
 "LatLong": "4.8172,-72.2886"
 }
 ]
+}
+]
 },
 {
 "Name": "Monterrey",
 "Code": "85162",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Monterrey",
@@ -17917,10 +20982,14 @@
 "LatLong": "4.8721,-72.8988"
 }
 ]
+}
+]
 },
 {
 "Name": "Nunchía",
 "Code": "85225",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nunchia",
@@ -17938,10 +21007,14 @@
 "LatLong": "5.6406,-72.1986"
 }
 ]
+}
+]
 },
 {
 "Name": "Orocué",
 "Code": "85230",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Orocue",
@@ -17964,10 +21037,14 @@
 "LatLong": "4.7912,-71.3354"
 }
 ]
+}
+]
 },
 {
 "Name": "Paz de Ariporo",
 "Code": "85250",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Paz De Ariporo",
@@ -17990,10 +21067,14 @@
 "LatLong": "5.8836,-71.8973"
 }
 ]
+}
+]
 },
 {
 "Name": "Pore",
 "Code": "85263",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pore",
@@ -18011,10 +21092,14 @@
 "LatLong": "5.7299,-72.0016"
 }
 ]
+}
+]
 },
 {
 "Name": "Recetor",
 "Code": "85279",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Recetor",
@@ -18032,10 +21117,14 @@
 "LatLong": "5.2318,-72.7604"
 }
 ]
+}
+]
 },
 {
 "Name": "Sabanalarga",
 "Code": "85300",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sabanalarga",
@@ -18053,10 +21142,14 @@
 "LatLong": "4.8543,-73.04"
 }
 ]
+}
+]
 },
 {
 "Name": "Sácama",
 "Code": "85315",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sacama",
@@ -18074,10 +21167,14 @@
 "LatLong": "6.1023,-72.2528"
 }
 ]
+}
+]
 },
 {
 "Name": "San Luis de Palenque",
 "Code": "85325",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Luis De Palenque",
@@ -18100,10 +21197,14 @@
 "LatLong": "5.4214,-71.7317"
 }
 ]
+}
+]
 },
 {
 "Name": "Támara",
 "Code": "85400",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tamara",
@@ -18121,10 +21222,14 @@
 "LatLong": "5.8297,-72.1633"
 }
 ]
+}
+]
 },
 {
 "Name": "Tauramena",
 "Code": "85410",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tauramena",
@@ -18147,10 +21252,14 @@
 "LatLong": "5.0183,-72.7492"
 }
 ]
+}
+]
 },
 {
 "Name": "Trinidad",
 "Code": "85430",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Trinidad",
@@ -18173,10 +21282,14 @@
 "LatLong": "5.4074,-71.6614"
 }
 ]
+}
+]
 },
 {
 "Name": "Villanueva",
 "Code": "85440",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villanueva",
@@ -18201,6 +21314,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Cundinamarca",
@@ -18209,6 +21324,8 @@
 {
 "Name": "Agua de Dios",
 "Code": "25001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Agua De Dios",
@@ -18221,10 +21338,14 @@
 "LatLong": "4.3765,-74.67"
 }
 ]
+}
+]
 },
 {
 "Name": "Albán",
 "Code": "25019",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Alban",
@@ -18237,10 +21358,14 @@
 "LatLong": "4.8766,-74.4377"
 }
 ]
+}
+]
 },
 {
 "Name": "Anapoima",
 "Code": "25035",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Anapoima",
@@ -18258,10 +21383,14 @@
 "LatLong": "4.5203,-74.5394"
 }
 ]
+}
+]
 },
 {
 "Name": "Anolaima",
 "Code": "25040",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Anolaima",
@@ -18279,10 +21408,14 @@
 "LatLong": "4.7897,-74.4618"
 }
 ]
+}
+]
 },
 {
 "Name": "Arbeláez",
 "Code": "25053",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arbelaez",
@@ -18300,10 +21433,14 @@
 "LatLong": "4.2725,-74.4151"
 }
 ]
+}
+]
 },
 {
 "Name": "Beltrán",
 "Code": "25086",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beltran",
@@ -18316,10 +21453,14 @@
 "LatLong": "4.8017,-74.7418"
 }
 ]
+}
+]
 },
 {
 "Name": "Bituima",
 "Code": "25095",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bituima",
@@ -18332,10 +21473,14 @@
 "LatLong": "4.8725,-74.5393"
 }
 ]
+}
+]
 },
 {
 "Name": "Bojacá",
 "Code": "25099",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bojaca",
@@ -18348,10 +21493,14 @@
 "LatLong": "4.7318,-74.3413"
 }
 ]
+}
+]
 },
 {
 "Name": "Cabrera",
 "Code": "25120",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cabrera",
@@ -18364,10 +21513,14 @@
 "LatLong": "3.986,-74.4828"
 }
 ]
+}
+]
 },
 {
 "Name": "Cachipay",
 "Code": "25123",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cachipay",
@@ -18380,10 +21533,14 @@
 "LatLong": "4.7231,-74.4592"
 }
 ]
+}
+]
 },
 {
 "Name": "Cajicá",
 "Code": "25126",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cajica",
@@ -18396,10 +21553,14 @@
 "LatLong": "4.9186,-74.028"
 }
 ]
+}
+]
 },
 {
 "Name": "Caparrapí",
 "Code": "25148",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Caparrapi",
@@ -18417,10 +21578,14 @@
 "LatLong": "5.3464,-74.4915"
 }
 ]
+}
+]
 },
 {
 "Name": "Caqueza",
 "Code": "25151",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Caqueza",
@@ -18433,10 +21598,14 @@
 "LatLong": "4.4057,-73.9468"
 }
 ]
+}
+]
 },
 {
 "Name": "Carmen de Carupa",
 "Code": "25154",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Carmen De Carupa",
@@ -18454,10 +21623,14 @@
 "LatLong": "5.3486,-73.9017"
 }
 ]
+}
+]
 },
 {
 "Name": "Chaguaní",
 "Code": "25168",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chaguani",
@@ -18470,10 +21643,14 @@
 "LatLong": "4.9483,-74.5939"
 }
 ]
+}
+]
 },
 {
 "Name": "Chía",
 "Code": "25175",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chia",
@@ -18496,10 +21673,14 @@
 "LatLong": "4.8588,-74.0587"
 }
 ]
+}
+]
 },
 {
 "Name": "Chipaque",
 "Code": "25178",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chipaque",
@@ -18517,10 +21698,14 @@
 "LatLong": "4.4425,-74.0442"
 }
 ]
+}
+]
 },
 {
 "Name": "Choachí",
 "Code": "25181",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Choachi",
@@ -18538,10 +21723,14 @@
 "LatLong": "4.529,-73.9227"
 }
 ]
+}
+]
 },
 {
 "Name": "Chocontá",
 "Code": "25183",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Choconta",
@@ -18559,10 +21748,14 @@
 "LatLong": "5.1447,-73.6858"
 }
 ]
+}
+]
 },
 {
 "Name": "Cogua",
 "Code": "25200",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cogua",
@@ -18580,10 +21773,14 @@
 "LatLong": "5.0605,-73.9793"
 }
 ]
+}
+]
 },
 {
 "Name": "Cota",
 "Code": "25214",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cota",
@@ -18596,10 +21793,14 @@
 "LatLong": "4.8094,-74.098"
 }
 ]
+}
+]
 },
 {
 "Name": "Cucunubá",
 "Code": "25224",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cucunuba",
@@ -18612,10 +21813,14 @@
 "LatLong": "5.2496,-73.7661"
 }
 ]
+}
+]
 },
 {
 "Name": "El Colegio",
 "Code": "25245",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Colegio",
@@ -18633,10 +21838,14 @@
 "LatLong": "4.5573,-74.4834"
 }
 ]
+}
+]
 },
 {
 "Name": "El Peñón",
 "Code": "25258",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Peñon",
@@ -18649,10 +21858,14 @@
 "LatLong": "5.2526,-74.2907"
 }
 ]
+}
+]
 },
 {
 "Name": "El Rosal",
 "Code": "25260",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Rosal",
@@ -18665,10 +21878,14 @@
 "LatLong": "4.8531,-74.26"
 }
 ]
+}
+]
 },
 {
 "Name": "Facatativá",
 "Code": "25269",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Facatativa",
@@ -18691,10 +21908,14 @@
 "LatLong": "4.8137,-74.3545"
 }
 ]
+}
+]
 },
 {
 "Name": "Fomeque",
 "Code": "25279",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fomeque",
@@ -18712,10 +21933,14 @@
 "LatLong": "4.488,-73.8975"
 }
 ]
+}
+]
 },
 {
 "Name": "Fosca",
 "Code": "25281",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fosca",
@@ -18728,10 +21953,14 @@
 "LatLong": "4.3392,-73.9385"
 }
 ]
+}
+]
 },
 {
 "Name": "Funza",
 "Code": "25286",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Funza",
@@ -18744,10 +21973,14 @@
 "LatLong": "4.7164,-74.212"
 }
 ]
+}
+]
 },
 {
 "Name": "Fúquene",
 "Code": "25288",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fuquene",
@@ -18760,10 +21993,14 @@
 "LatLong": "5.4043,-73.7964"
 }
 ]
+}
+]
 },
 {
 "Name": "Fusagasugá",
 "Code": "25290",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fusagasuga",
@@ -18791,10 +22028,14 @@
 "LatLong": "4.3365,-74.3638"
 }
 ]
+}
+]
 },
 {
 "Name": "Gachala",
 "Code": "25293",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gachala",
@@ -18807,10 +22048,14 @@
 "LatLong": "4.6924,-73.5204"
 }
 ]
+}
+]
 },
 {
 "Name": "Gachancipá",
 "Code": "25295",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gachancipa",
@@ -18823,10 +22068,14 @@
 "LatLong": "4.9911,-73.8715"
 }
 ]
+}
+]
 },
 {
 "Name": "Gachetá",
 "Code": "25297",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gacheta",
@@ -18844,10 +22093,14 @@
 "LatLong": "4.8208,-73.64"
 }
 ]
+}
+]
 },
 {
 "Name": "Gama",
 "Code": "25299",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gama",
@@ -18860,10 +22113,14 @@
 "LatLong": "4.7629,-73.6109"
 }
 ]
+}
+]
 },
 {
 "Name": "Girardot",
 "Code": "25307",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Girardot",
@@ -18881,10 +22138,14 @@
 "LatLong": "4.3008,-74.8075"
 }
 ]
+}
+]
 },
 {
 "Name": "Granada",
 "Code": "25312",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Granada",
@@ -18897,10 +22158,14 @@
 "LatLong": "4.52,-74.3526"
 }
 ]
+}
+]
 },
 {
 "Name": "Guachetá",
 "Code": "25317",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guacheta",
@@ -18918,10 +22183,14 @@
 "LatLong": "5.3842,-73.6862"
 }
 ]
+}
+]
 },
 {
 "Name": "Guaduas",
 "Code": "25320",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guaduas",
@@ -18944,10 +22213,14 @@
 "LatLong": "5.0669,-74.595"
 }
 ]
+}
+]
 },
 {
 "Name": "Guasca",
 "Code": "25322",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guasca",
@@ -18965,10 +22238,14 @@
 "LatLong": "4.866,-73.8775"
 }
 ]
+}
+]
 },
 {
 "Name": "Guataquí",
 "Code": "25324",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guataqui",
@@ -18981,10 +22258,14 @@
 "LatLong": "4.5157,-74.7894"
 }
 ]
+}
+]
 },
 {
 "Name": "Guatavita",
 "Code": "25326",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guatavita",
@@ -18997,10 +22278,14 @@
 "LatLong": "4.9366,-73.8331"
 }
 ]
+}
+]
 },
 {
 "Name": "Guayabal de Siquima",
 "Code": "25328",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guayabal De Siquima",
@@ -19013,10 +22298,14 @@
 "LatLong": "4.8774,-74.4674"
 }
 ]
+}
+]
 },
 {
 "Name": "Guayabetal",
 "Code": "25335",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guayabetal",
@@ -19029,10 +22318,14 @@
 "LatLong": "4.2147,-73.8172"
 }
 ]
+}
+]
 },
 {
 "Name": "Gutiérrez",
 "Code": "25339",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gutierrez",
@@ -19045,10 +22338,14 @@
 "LatLong": "4.2547,-74.0025"
 }
 ]
+}
+]
 },
 {
 "Name": "Jerusalén",
 "Code": "25368",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jerusalen",
@@ -19061,10 +22358,14 @@
 "LatLong": "4.5631,-74.6952"
 }
 ]
+}
+]
 },
 {
 "Name": "Junín",
 "Code": "25372",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Junin",
@@ -19077,10 +22378,14 @@
 "LatLong": "4.7903,-73.6601"
 }
 ]
+}
+]
 },
 {
 "Name": "La Calera",
 "Code": "25377",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Calera",
@@ -19098,10 +22403,14 @@
 "LatLong": "4.7207,-73.9693"
 }
 ]
+}
+]
 },
 {
 "Name": "La Mesa",
 "Code": "25386",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Mesa",
@@ -19119,10 +22428,14 @@
 "LatLong": "4.6303,-74.4633"
 }
 ]
+}
+]
 },
 {
 "Name": "La Palma",
 "Code": "25394",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Palma",
@@ -19140,10 +22453,14 @@
 "LatLong": "5.3592,-74.3905"
 }
 ]
+}
+]
 },
 {
 "Name": "La Peña",
 "Code": "25398",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Peña",
@@ -19161,10 +22478,14 @@
 "LatLong": "5.1985,-74.3937"
 }
 ]
+}
+]
 },
 {
 "Name": "La Vega",
 "Code": "25402",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Vega",
@@ -19182,10 +22503,14 @@
 "LatLong": "5.0018,-74.3417"
 }
 ]
+}
+]
 },
 {
 "Name": "Lenguazaque",
 "Code": "25407",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lenguazaque",
@@ -19203,10 +22528,14 @@
 "LatLong": "5.3071,-73.7115"
 }
 ]
+}
+]
 },
 {
 "Name": "Macheta",
 "Code": "25426",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Macheta",
@@ -19224,10 +22553,14 @@
 "LatLong": "5.0815,-73.6076"
 }
 ]
+}
+]
 },
 {
 "Name": "Madrid",
 "Code": "25430",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Madrid",
@@ -19245,10 +22578,14 @@
 "LatLong": "4.7324,-74.2642"
 }
 ]
+}
+]
 },
 {
 "Name": "Manta",
 "Code": "25436",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Manta",
@@ -19261,10 +22598,14 @@
 "LatLong": "5.0086,-73.5412"
 }
 ]
+}
+]
 },
 {
 "Name": "Medina",
 "Code": "25438",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Medina",
@@ -19282,10 +22623,14 @@
 "LatLong": "4.5101,-73.3498"
 }
 ]
+}
+]
 },
 {
 "Name": "Mosquera",
 "Code": "25473",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mosquera",
@@ -19298,10 +22643,14 @@
 "LatLong": "4.7059,-74.2302"
 }
 ]
+}
+]
 },
 {
 "Name": "Nariño",
 "Code": "25483",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nariño",
@@ -19314,10 +22663,14 @@
 "LatLong": "4.3978,-74.8273"
 }
 ]
+}
+]
 },
 {
 "Name": "Nemocón",
 "Code": "25486",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nemocon",
@@ -19335,10 +22688,14 @@
 "LatLong": "5.05,-73.8833"
 }
 ]
+}
+]
 },
 {
 "Name": "Nilo",
 "Code": "25488",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nilo",
@@ -19356,10 +22713,14 @@
 "LatLong": "4.306,-74.6208"
 }
 ]
+}
+]
 },
 {
 "Name": "Nimaima",
 "Code": "25489",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nimaima",
@@ -19372,10 +22733,14 @@
 "LatLong": "5.1261,-74.3849"
 }
 ]
+}
+]
 },
 {
 "Name": "Nocaima",
 "Code": "25491",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nocaima",
@@ -19388,10 +22753,14 @@
 "LatLong": "5.067,-74.3844"
 }
 ]
+}
+]
 },
 {
 "Name": "Venecia",
 "Code": "25506",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Venecia",
@@ -19404,10 +22773,14 @@
 "LatLong": "4.0881,-74.4775"
 }
 ]
+}
+]
 },
 {
 "Name": "Pacho",
 "Code": "25513",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pacho",
@@ -19425,10 +22798,14 @@
 "LatLong": "5.1328,-74.1598"
 }
 ]
+}
+]
 },
 {
 "Name": "Paime",
 "Code": "25518",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Paime",
@@ -19441,10 +22818,14 @@
 "LatLong": "5.3636,-74.1458"
 }
 ]
+}
+]
 },
 {
 "Name": "Pandi",
 "Code": "25524",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pandi",
@@ -19457,10 +22838,14 @@
 "LatLong": "4.1911,-74.4875"
 }
 ]
+}
+]
 },
 {
 "Name": "Paratebueno",
 "Code": "25530",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Paratebueno",
@@ -19473,10 +22858,14 @@
 "LatLong": "4.3758,-73.2155"
 }
 ]
+}
+]
 },
 {
 "Name": "Pasca",
 "Code": "25535",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pasca",
@@ -19494,10 +22883,14 @@
 "LatLong": "4.3072,-74.3006"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Salgar",
 "Code": "25572",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Salgar",
@@ -19510,10 +22903,14 @@
 "LatLong": "5.463,-74.6544"
 }
 ]
+}
+]
 },
 {
 "Name": "Pulí",
 "Code": "25580",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puli",
@@ -19526,10 +22923,14 @@
 "LatLong": "4.6812,-74.7141"
 }
 ]
+}
+]
 },
 {
 "Name": "Quebradanegra",
 "Code": "25592",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Quebradanegra",
@@ -19542,10 +22943,14 @@
 "LatLong": "5.1174,-74.4794"
 }
 ]
+}
+]
 },
 {
 "Name": "Quetame",
 "Code": "25594",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Quetame",
@@ -19558,10 +22963,14 @@
 "LatLong": "4.3323,-73.8614"
 }
 ]
+}
+]
 },
 {
 "Name": "Quipile",
 "Code": "25596",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Quipile",
@@ -19574,10 +22983,14 @@
 "LatLong": "4.7481,-74.5631"
 }
 ]
+}
+]
 },
 {
 "Name": "Apulo",
 "Code": "25599",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Apulo",
@@ -19590,10 +23003,14 @@
 "LatLong": "4.5195,-74.5929"
 }
 ]
+}
+]
 },
 {
 "Name": "Ricaurte",
 "Code": "25612",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ricaurte",
@@ -19606,10 +23023,14 @@
 "LatLong": "4.2808,-74.7647"
 }
 ]
+}
+]
 },
 {
 "Name": "San Antonio del Tequendama",
 "Code": "25645",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Antonio Del Tequendama",
@@ -19622,10 +23043,14 @@
 "LatLong": "4.6189,-74.3539"
 }
 ]
+}
+]
 },
 {
 "Name": "San Bernardo",
 "Code": "25649",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Bernardo",
@@ -19643,10 +23068,14 @@
 "LatLong": "4.1786,-74.4231"
 }
 ]
+}
+]
 },
 {
 "Name": "San Cayetano",
 "Code": "25653",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Cayetano",
@@ -19659,10 +23088,14 @@
 "LatLong": "5.3015,-74.0695"
 }
 ]
+}
+]
 },
 {
 "Name": "San Francisco",
 "Code": "25658",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Francisco",
@@ -19680,10 +23113,14 @@
 "LatLong": "4.9788,-74.2927"
 }
 ]
+}
+]
 },
 {
 "Name": "San Juan de Río Seco",
 "Code": "25662",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Juan De Rio Seco",
@@ -19701,10 +23138,14 @@
 "LatLong": "4.8402,-74.6592"
 }
 ]
+}
+]
 },
 {
 "Name": "Sasaima",
 "Code": "25718",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sasaima",
@@ -19722,10 +23163,14 @@
 "LatLong": "4.9671,-74.4351"
 }
 ]
+}
+]
 },
 {
 "Name": "Sesquilé",
 "Code": "25736",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sesquile",
@@ -19743,10 +23188,14 @@
 "LatLong": "5.0446,-73.7972"
 }
 ]
+}
+]
 },
 {
 "Name": "Sibaté",
 "Code": "25740",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sibate",
@@ -19764,10 +23213,14 @@
 "LatLong": "4.4842,-74.245"
 }
 ]
+}
+]
 },
 {
 "Name": "Silvania",
 "Code": "25743",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Silvania",
@@ -19785,10 +23238,14 @@
 "LatLong": "4.4037,-74.3867"
 }
 ]
+}
+]
 },
 {
 "Name": "Simijaca",
 "Code": "25745",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Simijaca",
@@ -19801,10 +23258,14 @@
 "LatLong": "5.5029,-73.8523"
 }
 ]
+}
+]
 },
 {
 "Name": "Soacha",
 "Code": "25754",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Soacha",
@@ -19842,10 +23303,14 @@
 "LatLong": "4.5794,-74.2168"
 }
 ]
+}
+]
 },
 {
 "Name": "Sopó",
 "Code": "25758",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sopo",
@@ -19863,10 +23328,14 @@
 "LatLong": "4.9075,-73.9384"
 }
 ]
+}
+]
 },
 {
 "Name": "Subachoque",
 "Code": "25769",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Subachoque",
@@ -19884,10 +23353,14 @@
 "LatLong": "4.9261,-74.173"
 }
 ]
+}
+]
 },
 {
 "Name": "Suesca",
 "Code": "25772",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Suesca",
@@ -19905,10 +23378,14 @@
 "LatLong": "5.1029,-73.7985"
 }
 ]
+}
+]
 },
 {
 "Name": "Supatá",
 "Code": "25777",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Supata",
@@ -19921,10 +23398,14 @@
 "LatLong": "5.061,-74.2372"
 }
 ]
+}
+]
 },
 {
 "Name": "Susa",
 "Code": "25779",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Susa",
@@ -19937,10 +23418,14 @@
 "LatLong": "5.4519,-73.8144"
 }
 ]
+}
+]
 },
 {
 "Name": "Sutatausa",
 "Code": "25781",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sutatausa",
@@ -19953,10 +23438,14 @@
 "LatLong": "5.2478,-73.8524"
 }
 ]
+}
+]
 },
 {
 "Name": "Tabio",
 "Code": "25785",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tabio",
@@ -19969,10 +23458,14 @@
 "LatLong": "4.9173,-74.0936"
 }
 ]
+}
+]
 },
 {
 "Name": "Tausa",
 "Code": "25793",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tausa",
@@ -19990,10 +23483,14 @@
 "LatLong": "5.199,-73.8913"
 }
 ]
+}
+]
 },
 {
 "Name": "Tena",
 "Code": "25797",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tena",
@@ -20006,10 +23503,14 @@
 "LatLong": "4.66,-74.3926"
 }
 ]
+}
+]
 },
 {
 "Name": "Tenjo",
 "Code": "25799",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tenjo",
@@ -20027,10 +23528,14 @@
 "LatLong": "4.8727,-74.1444"
 }
 ]
+}
+]
 },
 {
 "Name": "Tibacuy",
 "Code": "25805",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tibacuy",
@@ -20043,10 +23548,14 @@
 "LatLong": "4.3206,-74.4872"
 }
 ]
+}
+]
 },
 {
 "Name": "Tibirita",
 "Code": "25807",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tibirita",
@@ -20059,10 +23568,14 @@
 "LatLong": "5.0523,-73.5046"
 }
 ]
+}
+]
 },
 {
 "Name": "Tocaima",
 "Code": "25815",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tocaima",
@@ -20080,10 +23593,14 @@
 "LatLong": "4.4582,-74.6343"
 }
 ]
+}
+]
 },
 {
 "Name": "Tocancipá",
 "Code": "25817",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tocancipa",
@@ -20096,10 +23613,14 @@
 "LatLong": "4.9653,-73.913"
 }
 ]
+}
+]
 },
 {
 "Name": "Topaipí",
 "Code": "25823",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Topaipi",
@@ -20112,10 +23633,14 @@
 "LatLong": "5.3346,-74.3029"
 }
 ]
+}
+]
 },
 {
 "Name": "Ubalá",
 "Code": "25839",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ubala",
@@ -20133,10 +23658,14 @@
 "LatLong": "4.7592,-73.4082"
 }
 ]
+}
+]
 },
 {
 "Name": "Ubaque",
 "Code": "25841",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ubaque",
@@ -20149,10 +23678,14 @@
 "LatLong": "4.4867,-73.9375"
 }
 ]
+}
+]
 },
 {
 "Name": "Villa de San Diego de Ubate",
 "Code": "25843",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villa De San Diego De Ubate",
@@ -20165,10 +23698,14 @@
 "LatLong": "5.3154,-73.8204"
 }
 ]
+}
+]
 },
 {
 "Name": "Une",
 "Code": "25845",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Une",
@@ -20181,10 +23718,14 @@
 "LatLong": "4.4031,-74.0253"
 }
 ]
+}
+]
 },
 {
 "Name": "Útica",
 "Code": "25851",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Utica",
@@ -20197,10 +23738,14 @@
 "LatLong": "5.1873,-74.481"
 }
 ]
+}
+]
 },
 {
 "Name": "Vergara",
 "Code": "25862",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Vergara",
@@ -20218,10 +23763,14 @@
 "LatLong": "5.1184,-74.3455"
 }
 ]
+}
+]
 },
 {
 "Name": "Vianí",
 "Code": "25867",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Viani",
@@ -20234,10 +23783,14 @@
 "LatLong": "4.8738,-74.5624"
 }
 ]
+}
+]
 },
 {
 "Name": "Villagómez",
 "Code": "25871",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villagomez",
@@ -20250,10 +23803,14 @@
 "LatLong": "5.2737,-74.1961"
 }
 ]
+}
+]
 },
 {
 "Name": "Villapinzón",
 "Code": "25873",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villapinzon",
@@ -20271,10 +23828,14 @@
 "LatLong": "5.2162,-73.5949"
 }
 ]
+}
+]
 },
 {
 "Name": "Villeta",
 "Code": "25875",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villeta",
@@ -20292,10 +23853,14 @@
 "LatLong": "5.0089,-74.4723"
 }
 ]
+}
+]
 },
 {
 "Name": "Viotá",
 "Code": "25878",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Viota",
@@ -20313,10 +23878,14 @@
 "LatLong": "4.4371,-74.5216"
 }
 ]
+}
+]
 },
 {
 "Name": "Yacopí",
 "Code": "25885",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Yacopi",
@@ -20334,10 +23903,14 @@
 "LatLong": "5.4595,-74.3382"
 }
 ]
+}
+]
 },
 {
 "Name": "Zipacón",
 "Code": "25898",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zipacon",
@@ -20350,10 +23923,14 @@
 "LatLong": "4.7588,-74.3802"
 }
 ]
+}
+]
 },
 {
 "Name": "Zipaquirá",
 "Code": "25899",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zipaquira",
@@ -20378,6 +23955,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Bogota, D.C.",
@@ -20386,6 +23965,8 @@
 {
 "Name": "Bogotá  D.C.",
 "Code": "11001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Usaquen",
@@ -20795,6 +24376,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Bolivar",
@@ -20803,6 +24386,8 @@
 {
 "Name": "Cartagena",
 "Code": "13001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cartagena",
@@ -20900,10 +24485,14 @@
 "LatLong": "10.3997,-75.5144"
 }
 ]
+}
+]
 },
 {
 "Name": "Achí",
 "Code": "13006",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Achi",
@@ -20921,10 +24510,14 @@
 "LatLong": "8.5682,-74.5541"
 }
 ]
+}
+]
 },
 {
 "Name": "Altos del Rosario",
 "Code": "13030",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Altos Del Rosario",
@@ -20942,10 +24535,14 @@
 "LatLong": "8.7944,-74.1658"
 }
 ]
+}
+]
 },
 {
 "Name": "Arenal",
 "Code": "13042",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arenal",
@@ -20958,10 +24555,14 @@
 "LatLong": "8.4593,-73.9433"
 }
 ]
+}
+]
 },
 {
 "Name": "Arjona",
 "Code": "13052",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arjona",
@@ -20984,10 +24585,14 @@
 "LatLong": "10.2544,-75.3439"
 }
 ]
+}
+]
 },
 {
 "Name": "Arroyohondo",
 "Code": "13062",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arroyohondo",
@@ -21000,10 +24605,14 @@
 "LatLong": "10.2522,-75.0198"
 }
 ]
+}
+]
 },
 {
 "Name": "Barranco de Loba",
 "Code": "13074",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Barranco De Loba",
@@ -21021,10 +24630,14 @@
 "LatLong": "8.946,-74.1065"
 }
 ]
+}
+]
 },
 {
 "Name": "Calamar",
 "Code": "13140",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Calamar",
@@ -21042,10 +24655,14 @@
 "LatLong": "10.2226,-74.9969"
 }
 ]
+}
+]
 },
 {
 "Name": "Cantagallo",
 "Code": "13160",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cantagallo",
@@ -21058,10 +24675,14 @@
 "LatLong": "7.376,-73.9196"
 }
 ]
+}
+]
 },
 {
 "Name": "Cicuco",
 "Code": "13188",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cicuco",
@@ -21074,10 +24695,14 @@
 "LatLong": "9.2631,-74.6569"
 }
 ]
+}
+]
 },
 {
 "Name": "Córdoba",
 "Code": "13212",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cordoba",
@@ -21095,10 +24720,14 @@
 "LatLong": "9.5861,-74.8271"
 }
 ]
+}
+]
 },
 {
 "Name": "Clemencia",
 "Code": "13222",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Clemencia",
@@ -21111,10 +24740,14 @@
 "LatLong": "10.5665,-75.325"
 }
 ]
+}
+]
 },
 {
 "Name": "El Carmen de Bolívar",
 "Code": "13244",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Carmen De Bolivar",
@@ -21137,10 +24770,14 @@
 "LatLong": "9.7174,-75.1202"
 }
 ]
+}
+]
 },
 {
 "Name": "El Guamo",
 "Code": "13248",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Guamo",
@@ -21153,10 +24790,14 @@
 "LatLong": "10.0316,-74.9761"
 }
 ]
+}
+]
 },
 {
 "Name": "El Peñón",
 "Code": "13268",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Peñon",
@@ -21174,10 +24815,14 @@
 "LatLong": "8.8653,-73.9114"
 }
 ]
+}
+]
 },
 {
 "Name": "Hatillo de Loba",
 "Code": "13300",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Hatillo De Loba",
@@ -21200,10 +24845,14 @@
 "LatLong": "8.9564,-74.0782"
 }
 ]
+}
+]
 },
 {
 "Name": "Magangué",
 "Code": "13430",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Magangue",
@@ -21236,10 +24885,14 @@
 "LatLong": "9.242,-74.7547"
 }
 ]
+}
+]
 },
 {
 "Name": "Mahates",
 "Code": "13433",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mahates",
@@ -21257,10 +24910,14 @@
 "LatLong": "10.2329,-75.1898"
 }
 ]
+}
+]
 },
 {
 "Name": "Margarita",
 "Code": "13440",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Margarita",
@@ -21278,10 +24935,14 @@
 "LatLong": "9.156,-74.2662"
 }
 ]
+}
+]
 },
 {
 "Name": "María La Baja",
 "Code": "13442",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Maria La Baja",
@@ -21309,10 +24970,14 @@
 "LatLong": "9.9832,-75.3016"
 }
 ]
+}
+]
 },
 {
 "Name": "Montecristo",
 "Code": "13458",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Montecristo",
@@ -21325,10 +24990,14 @@
 "LatLong": "8.2971,-74.4733"
 }
 ]
+}
+]
 },
 {
 "Name": "Mompós",
 "Code": "13468",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mompos",
@@ -21346,10 +25015,14 @@
 "LatLong": "9.2419,-74.4267"
 }
 ]
+}
+]
 },
 {
 "Name": "Morales",
 "Code": "13473",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Morales",
@@ -21367,10 +25040,14 @@
 "LatLong": "8.2752,-73.8688"
 }
 ]
+}
+]
 },
 {
 "Name": "Norosi",
 "Code": "13490",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Norosi",
@@ -21383,10 +25060,14 @@
 "LatLong": "8.5269,-74.0374"
 }
 ]
+}
+]
 },
 {
 "Name": "Pinillos",
 "Code": "13549",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pinillos",
@@ -21404,10 +25085,14 @@
 "LatLong": "8.9192,-74.4677"
 }
 ]
+}
+]
 },
 {
 "Name": "Regidor",
 "Code": "13580",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Regidor",
@@ -21420,10 +25105,14 @@
 "LatLong": "8.6657,-73.8215"
 }
 ]
+}
+]
 },
 {
 "Name": "Río Viejo",
 "Code": "13600",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rio Viejo",
@@ -21436,10 +25125,14 @@
 "LatLong": "8.5874,-73.839"
 }
 ]
+}
+]
 },
 {
 "Name": "San Cristóbal",
 "Code": "13620",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Cristobal",
@@ -21452,10 +25145,14 @@
 "LatLong": "10.3696,-75.0734"
 }
 ]
+}
+]
 },
 {
 "Name": "San Estanislao",
 "Code": "13647",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Estanislao",
@@ -21468,10 +25165,14 @@
 "LatLong": "10.3983,-75.1511"
 }
 ]
+}
+]
 },
 {
 "Name": "San Fernando",
 "Code": "13650",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Fernando",
@@ -21489,10 +25190,14 @@
 "LatLong": "9.0919,-74.3597"
 }
 ]
+}
+]
 },
 {
 "Name": "San Jacinto",
 "Code": "13654",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Jacinto",
@@ -21505,10 +25210,14 @@
 "LatLong": "9.8277,-75.1217"
 }
 ]
+}
+]
 },
 {
 "Name": "San Jacinto del Cauca",
 "Code": "13655",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Jacinto Del Cauca",
@@ -21526,10 +25235,14 @@
 "LatLong": "8.2373,-74.6677"
 }
 ]
+}
+]
 },
 {
 "Name": "San Juan Nepomuceno",
 "Code": "13657",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Juan Nepomuceno",
@@ -21547,10 +25260,14 @@
 "LatLong": "9.9516,-75.082"
 }
 ]
+}
+]
 },
 {
 "Name": "San Martín de Loba",
 "Code": "13667",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Martin De Loba",
@@ -21568,10 +25285,14 @@
 "LatLong": "8.8191,-74.0575"
 }
 ]
+}
+]
 },
 {
 "Name": "San Pablo",
 "Code": "13670",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Pablo",
@@ -21589,10 +25310,14 @@
 "LatLong": "7.4775,-73.9226"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa Catalina",
 "Code": "13673",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Catalina",
@@ -21610,10 +25335,14 @@
 "LatLong": "10.6036,-75.2882"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa Rosa",
 "Code": "13683",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Rosa",
@@ -21631,10 +25360,14 @@
 "LatLong": "10.4447,-75.3697"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa Rosa del Sur",
 "Code": "13688",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Rosa Del Sur",
@@ -21652,10 +25385,14 @@
 "LatLong": "7.9644,-74.0544"
 }
 ]
+}
+]
 },
 {
 "Name": "Simití",
 "Code": "13744",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Simiti",
@@ -21673,10 +25410,14 @@
 "LatLong": "7.9579,-73.9436"
 }
 ]
+}
+]
 },
 {
 "Name": "Soplaviento",
 "Code": "13760",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Soplaviento",
@@ -21689,10 +25430,14 @@
 "LatLong": "10.3875,-75.1356"
 }
 ]
+}
+]
 },
 {
 "Name": "Talaigua Nuevo",
 "Code": "13780",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Talaigua Nuevo",
@@ -21710,10 +25455,14 @@
 "LatLong": "9.3035,-74.5648"
 }
 ]
+}
+]
 },
 {
 "Name": "Tiquisio",
 "Code": "13810",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tiquisio",
@@ -21731,10 +25480,14 @@
 "LatLong": "8.5597,-74.2669"
 }
 ]
+}
+]
 },
 {
 "Name": "Turbaco",
 "Code": "13836",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Turbaco",
@@ -21752,10 +25505,14 @@
 "LatLong": "10.3294,-75.4114"
 }
 ]
+}
+]
 },
 {
 "Name": "Turbaná",
 "Code": "13838",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Turbana",
@@ -21768,10 +25525,14 @@
 "LatLong": "10.2717,-75.4422"
 }
 ]
+}
+]
 },
 {
 "Name": "Villanueva",
 "Code": "13873",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villanueva",
@@ -21784,10 +25545,14 @@
 "LatLong": "10.4436,-75.2731"
 }
 ]
+}
+]
 },
 {
 "Name": "Zambrano",
 "Code": "13894",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zambrano",
@@ -21802,6 +25567,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Boyaca",
@@ -21810,6 +25577,8 @@
 {
 "Name": "Tunja",
 "Code": "15001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tunja",
@@ -21842,10 +25611,14 @@
 "LatLong": "5.5353,-73.3678"
 }
 ]
+}
+]
 },
 {
 "Name": "Almeida",
 "Code": "15022",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Almeida",
@@ -21858,10 +25631,14 @@
 "LatLong": "4.9708,-73.3797"
 }
 ]
+}
+]
 },
 {
 "Name": "Aquitania",
 "Code": "15047",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aquitania",
@@ -21884,10 +25661,14 @@
 "LatLong": "5.5197,-72.8875"
 }
 ]
+}
+]
 },
 {
 "Name": "Arcabuco",
 "Code": "15051",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Arcabuco",
@@ -21900,10 +25681,14 @@
 "LatLong": "5.7546,-73.4367"
 }
 ]
+}
+]
 },
 {
 "Name": "Belén",
 "Code": "15087",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Belen",
@@ -21916,10 +25701,14 @@
 "LatLong": "5.9889,-72.9125"
 }
 ]
+}
+]
 },
 {
 "Name": "Berbeo",
 "Code": "15090",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Berbeo",
@@ -21932,10 +25721,14 @@
 "LatLong": "5.2268,-73.1261"
 }
 ]
+}
+]
 },
 {
 "Name": "Betéitiva",
 "Code": "15092",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Beteitiva",
@@ -21948,10 +25741,14 @@
 "LatLong": "5.911,-72.8093"
 }
 ]
+}
+]
 },
 {
 "Name": "Boavita",
 "Code": "15097",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Boavita",
@@ -21964,10 +25761,14 @@
 "LatLong": "6.3303,-72.585"
 }
 ]
+}
+]
 },
 {
 "Name": "Boyacá",
 "Code": "15104",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Boyaca",
@@ -21980,10 +25781,14 @@
 "LatLong": "5.4537,-73.3625"
 }
 ]
+}
+]
 },
 {
 "Name": "Briceño",
 "Code": "15106",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Briceño",
@@ -21996,10 +25801,14 @@
 "LatLong": "5.6882,-73.9178"
 }
 ]
+}
+]
 },
 {
 "Name": "Buenavista",
 "Code": "15109",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Buenavista",
@@ -22017,10 +25826,14 @@
 "LatLong": "5.5138,-73.9491"
 }
 ]
+}
+]
 },
 {
 "Name": "Busbanzá",
 "Code": "15114",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Busbanza",
@@ -22033,10 +25846,14 @@
 "LatLong": "5.8305,-72.8842"
 }
 ]
+}
+]
 },
 {
 "Name": "Caldas",
 "Code": "15131",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Caldas",
@@ -22049,10 +25866,14 @@
 "LatLong": "5.5546,-73.8657"
 }
 ]
+}
+]
 },
 {
 "Name": "Campohermoso",
 "Code": "15135",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Campohermoso",
@@ -22065,10 +25886,14 @@
 "LatLong": "5.0313,-73.1033"
 }
 ]
+}
+]
 },
 {
 "Name": "Cerinza",
 "Code": "15162",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cerinza",
@@ -22081,10 +25906,14 @@
 "LatLong": "5.9557,-72.9478"
 }
 ]
+}
+]
 },
 {
 "Name": "Chinavita",
 "Code": "15172",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chinavita",
@@ -22097,10 +25926,14 @@
 "LatLong": "5.1672,-73.3682"
 }
 ]
+}
+]
 },
 {
 "Name": "Chiquinquirá",
 "Code": "15176",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chiquinquira",
@@ -22118,10 +25951,14 @@
 "LatLong": "5.6164,-73.8175"
 }
 ]
+}
+]
 },
 {
 "Name": "Chiscas",
 "Code": "15180",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chiscas",
@@ -22134,10 +25971,14 @@
 "LatLong": "6.5564,-72.5038"
 }
 ]
+}
+]
 },
 {
 "Name": "Chita",
 "Code": "15183",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chita",
@@ -22160,10 +26001,14 @@
 "LatLong": "6.1905,-72.4759"
 }
 ]
+}
+]
 },
 {
 "Name": "Chitaraque",
 "Code": "15185",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chitaraque",
@@ -22181,10 +26026,14 @@
 "LatLong": "5.9828,-73.4254"
 }
 ]
+}
+]
 },
 {
 "Name": "Chivatá",
 "Code": "15187",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chivata",
@@ -22197,10 +26046,14 @@
 "LatLong": "5.5582,-73.282"
 }
 ]
+}
+]
 },
 {
 "Name": "Ciénega",
 "Code": "15189",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cienega",
@@ -22213,10 +26066,14 @@
 "LatLong": "5.4087,-73.2957"
 }
 ]
+}
+]
 },
 {
 "Name": "Cómbita",
 "Code": "15204",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Combita",
@@ -22234,10 +26091,14 @@
 "LatLong": "5.6333,-73.3167"
 }
 ]
+}
+]
 },
 {
 "Name": "Coper",
 "Code": "15212",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Coper",
@@ -22250,10 +26111,14 @@
 "LatLong": "5.4768,-74.0442"
 }
 ]
+}
+]
 },
 {
 "Name": "Corrales",
 "Code": "15215",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Corrales",
@@ -22266,10 +26131,14 @@
 "LatLong": "5.8297,-72.8433"
 }
 ]
+}
+]
 },
 {
 "Name": "Covarachía",
 "Code": "15218",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Covarachia",
@@ -22282,10 +26151,14 @@
 "LatLong": "6.5056,-72.7331"
 }
 ]
+}
+]
 },
 {
 "Name": "Cubará",
 "Code": "15223",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cubara",
@@ -22298,10 +26171,14 @@
 "LatLong": "6.9989,-72.1092"
 }
 ]
+}
+]
 },
 {
 "Name": "Cucaita",
 "Code": "15224",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cucaita",
@@ -22314,10 +26191,14 @@
 "LatLong": "5.5437,-73.4543"
 }
 ]
+}
+]
 },
 {
 "Name": "Cuítiva",
 "Code": "15226",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cuitiva",
@@ -22330,10 +26211,14 @@
 "LatLong": "5.5801,-72.9669"
 }
 ]
+}
+]
 },
 {
 "Name": "Chíquiza",
 "Code": "15232",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chiquiza",
@@ -22346,10 +26231,14 @@
 "LatLong": "5.6041,-73.4852"
 }
 ]
+}
+]
 },
 {
 "Name": "Chivor",
 "Code": "15236",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chivor",
@@ -22362,10 +26251,14 @@
 "LatLong": "4.8856,-73.3689"
 }
 ]
+}
+]
 },
 {
 "Name": "Duitama",
 "Code": "15238",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Duitama",
@@ -22398,10 +26291,14 @@
 "LatLong": "5.8245,-73.0341"
 }
 ]
+}
+]
 },
 {
 "Name": "El Cocuy",
 "Code": "15244",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Cocuy",
@@ -22414,10 +26311,14 @@
 "LatLong": "6.4115,-72.4488"
 }
 ]
+}
+]
 },
 {
 "Name": "El Espino",
 "Code": "15248",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Espino",
@@ -22430,10 +26331,14 @@
 "LatLong": "6.4828,-72.4972"
 }
 ]
+}
+]
 },
 {
 "Name": "Firavitoba",
 "Code": "15272",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Firavitoba",
@@ -22446,10 +26351,14 @@
 "LatLong": "5.6688,-72.9929"
 }
 ]
+}
+]
 },
 {
 "Name": "Floresta",
 "Code": "15276",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Floresta",
@@ -22462,10 +26371,14 @@
 "LatLong": "5.859,-72.9188"
 }
 ]
+}
+]
 },
 {
 "Name": "Gachantivá",
 "Code": "15293",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gachantiva",
@@ -22478,10 +26391,14 @@
 "LatLong": "5.7566,-73.5395"
 }
 ]
+}
+]
 },
 {
 "Name": "Gameza",
 "Code": "15296",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gameza",
@@ -22494,10 +26411,14 @@
 "LatLong": "5.8026,-72.8059"
 }
 ]
+}
+]
 },
 {
 "Name": "Garagoa",
 "Code": "15299",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Garagoa",
@@ -22510,10 +26431,14 @@
 "LatLong": "5.0824,-73.3633"
 }
 ]
+}
+]
 },
 {
 "Name": "Guacamayas",
 "Code": "15317",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guacamayas",
@@ -22526,10 +26451,14 @@
 "LatLong": "6.4624,-72.5047"
 }
 ]
+}
+]
 },
 {
 "Name": "Guateque",
 "Code": "15322",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guateque",
@@ -22542,10 +26471,14 @@
 "LatLong": "5.0062,-73.4727"
 }
 ]
+}
+]
 },
 {
 "Name": "Guayatá",
 "Code": "15325",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guayata",
@@ -22558,10 +26491,14 @@
 "LatLong": "4.9642,-73.4875"
 }
 ]
+}
+]
 },
 {
 "Name": "Güicán",
 "Code": "15332",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Güican",
@@ -22579,10 +26516,14 @@
 "LatLong": "6.4655,-72.4154"
 }
 ]
+}
+]
 },
 {
 "Name": "Iza",
 "Code": "15362",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Iza",
@@ -22595,10 +26536,14 @@
 "LatLong": "5.612,-72.9793"
 }
 ]
+}
+]
 },
 {
 "Name": "Jenesano",
 "Code": "15367",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jenesano",
@@ -22616,10 +26561,14 @@
 "LatLong": "5.3854,-73.3636"
 }
 ]
+}
+]
 },
 {
 "Name": "Jericó",
 "Code": "15368",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Jerico",
@@ -22632,10 +26581,14 @@
 "LatLong": "6.1459,-72.5708"
 }
 ]
+}
+]
 },
 {
 "Name": "Labranzagrande",
 "Code": "15377",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Labranzagrande",
@@ -22648,10 +26601,14 @@
 "LatLong": "5.5622,-72.575"
 }
 ]
+}
+]
 },
 {
 "Name": "La Capilla",
 "Code": "15380",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Capilla",
@@ -22664,10 +26621,14 @@
 "LatLong": "5.1138,-73.4587"
 }
 ]
+}
+]
 },
 {
 "Name": "La Victoria",
 "Code": "15401",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Victoria",
@@ -22680,10 +26641,14 @@
 "LatLong": "5.5228,-74.2328"
 }
 ]
+}
+]
 },
 {
 "Name": "La Uvita",
 "Code": "15403",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Uvita",
@@ -22696,10 +26661,14 @@
 "LatLong": "6.3206,-72.5628"
 }
 ]
+}
+]
 },
 {
 "Name": "Villa de Leyva",
 "Code": "15407",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villa De Leyva",
@@ -22712,10 +26681,14 @@
 "LatLong": "5.6667,-73.5119"
 }
 ]
+}
+]
 },
 {
 "Name": "Macanal",
 "Code": "15425",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Macanal",
@@ -22728,10 +26701,14 @@
 "LatLong": "4.9721,-73.3196"
 }
 ]
+}
+]
 },
 {
 "Name": "Maripí",
 "Code": "15442",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Maripi",
@@ -22749,10 +26726,14 @@
 "LatLong": "5.5519,-74.0086"
 }
 ]
+}
+]
 },
 {
 "Name": "Miraflores",
 "Code": "15455",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Miraflores",
@@ -22765,10 +26746,14 @@
 "LatLong": "5.1961,-73.145"
 }
 ]
+}
+]
 },
 {
 "Name": "Mongua",
 "Code": "15464",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mongua",
@@ -22781,10 +26766,14 @@
 "LatLong": "5.7508,-72.8034"
 }
 ]
+}
+]
 },
 {
 "Name": "Monguí",
 "Code": "15466",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mongui",
@@ -22797,10 +26786,14 @@
 "LatLong": "5.7215,-72.8491"
 }
 ]
+}
+]
 },
 {
 "Name": "Moniquirá",
 "Code": "15469",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Moniquira",
@@ -22823,10 +26816,14 @@
 "LatLong": "5.8764,-73.5728"
 }
 ]
+}
+]
 },
 {
 "Name": "Motavita",
 "Code": "15476",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Motavita",
@@ -22839,10 +26836,14 @@
 "LatLong": "5.5765,-73.367"
 }
 ]
+}
+]
 },
 {
 "Name": "Muzo",
 "Code": "15480",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Muzo",
@@ -22855,10 +26856,14 @@
 "LatLong": "5.5353,-74.1078"
 }
 ]
+}
+]
 },
 {
 "Name": "Nobsa",
 "Code": "15491",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nobsa",
@@ -22876,10 +26881,14 @@
 "LatLong": "5.7698,-72.941"
 }
 ]
+}
+]
 },
 {
 "Name": "Nuevo Colón",
 "Code": "15494",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nuevo Colon",
@@ -22892,10 +26901,14 @@
 "LatLong": "5.3537,-73.4566"
 }
 ]
+}
+]
 },
 {
 "Name": "Oicatá",
 "Code": "15500",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Oicata",
@@ -22908,10 +26921,14 @@
 "LatLong": "5.5955,-73.3082"
 }
 ]
+}
+]
 },
 {
 "Name": "Otanche",
 "Code": "15507",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Otanche",
@@ -22929,10 +26946,14 @@
 "LatLong": "5.6567,-74.1825"
 }
 ]
+}
+]
 },
 {
 "Name": "Pachavita",
 "Code": "15511",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pachavita",
@@ -22945,10 +26966,14 @@
 "LatLong": "5.1486,-73.3994"
 }
 ]
+}
+]
 },
 {
 "Name": "Páez",
 "Code": "15514",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Paez",
@@ -22961,10 +26986,14 @@
 "LatLong": "5.1011,-73.0512"
 }
 ]
+}
+]
 },
 {
 "Name": "Paipa",
 "Code": "15516",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Paipa",
@@ -22987,10 +27016,14 @@
 "LatLong": "5.7801,-73.1171"
 }
 ]
+}
+]
 },
 {
 "Name": "Pajarito",
 "Code": "15518",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pajarito",
@@ -23003,10 +27036,14 @@
 "LatLong": "5.3842,-72.697"
 }
 ]
+}
+]
 },
 {
 "Name": "Panqueba",
 "Code": "15522",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Panqueba",
@@ -23019,10 +27056,14 @@
 "LatLong": "6.4453,-72.4627"
 }
 ]
+}
+]
 },
 {
 "Name": "Pauna",
 "Code": "15531",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pauna",
@@ -23040,10 +27081,14 @@
 "LatLong": "5.6586,-73.9825"
 }
 ]
+}
+]
 },
 {
 "Name": "Paya",
 "Code": "15533",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Paya",
@@ -23056,10 +27101,14 @@
 "LatLong": "5.6249,-72.4235"
 }
 ]
+}
+]
 },
 {
 "Name": "Paz de Río",
 "Code": "15537",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Paz De Rio",
@@ -23072,10 +27121,14 @@
 "LatLong": "5.9845,-72.7505"
 }
 ]
+}
+]
 },
 {
 "Name": "Pesca",
 "Code": "15542",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pesca",
@@ -23098,10 +27151,14 @@
 "LatLong": "5.55,-73.05"
 }
 ]
+}
+]
 },
 {
 "Name": "Pisba",
 "Code": "15550",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pisba",
@@ -23114,10 +27171,14 @@
 "LatLong": "5.724,-72.4865"
 }
 ]
+}
+]
 },
 {
 "Name": "Puerto Boyacá",
 "Code": "15572",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puerto Boyaca",
@@ -23155,10 +27216,14 @@
 "LatLong": "5.9758,-74.5885"
 }
 ]
+}
+]
 },
 {
 "Name": "Quípama",
 "Code": "15580",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Quipama",
@@ -23176,10 +27241,14 @@
 "LatLong": "5.5194,-74.1777"
 }
 ]
+}
+]
 },
 {
 "Name": "Ramiriquí",
 "Code": "15599",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ramiriqui",
@@ -23197,10 +27266,14 @@
 "LatLong": "5.4002,-73.3354"
 }
 ]
+}
+]
 },
 {
 "Name": "Ráquira",
 "Code": "15600",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Raquira",
@@ -23223,10 +27296,14 @@
 "LatLong": "5.5379,-73.632"
 }
 ]
+}
+]
 },
 {
 "Name": "Rondón",
 "Code": "15621",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rondon",
@@ -23239,10 +27316,14 @@
 "LatLong": "5.3564,-73.2092"
 }
 ]
+}
+]
 },
 {
 "Name": "Saboyá",
 "Code": "15632",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saboya",
@@ -23270,10 +27351,14 @@
 "LatLong": "5.6964,-73.7693"
 }
 ]
+}
+]
 },
 {
 "Name": "Sáchica",
 "Code": "15638",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sachica",
@@ -23286,10 +27371,14 @@
 "LatLong": "5.5845,-73.5418"
 }
 ]
+}
+]
 },
 {
 "Name": "Samacá",
 "Code": "15646",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Samaca",
@@ -23307,10 +27396,14 @@
 "LatLong": "5.4927,-73.4854"
 }
 ]
+}
+]
 },
 {
 "Name": "San Eduardo",
 "Code": "15660",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Eduardo",
@@ -23323,10 +27416,14 @@
 "LatLong": "5.2,-73.05"
 }
 ]
+}
+]
 },
 {
 "Name": "San José de Pare",
 "Code": "15664",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Jose De Pare",
@@ -23339,10 +27436,14 @@
 "LatLong": "6.0175,-73.547"
 }
 ]
+}
+]
 },
 {
 "Name": "San Luis de Gaceno",
 "Code": "15667",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Luis De Gaceno",
@@ -23355,10 +27456,14 @@
 "LatLong": "4.8205,-73.1685"
 }
 ]
+}
+]
 },
 {
 "Name": "San Mateo",
 "Code": "15673",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Mateo",
@@ -23371,10 +27476,14 @@
 "LatLong": "6.402,-72.5531"
 }
 ]
+}
+]
 },
 {
 "Name": "San Miguel de Sema",
 "Code": "15676",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Miguel De Sema",
@@ -23387,10 +27496,14 @@
 "LatLong": "5.5185,-73.7224"
 }
 ]
+}
+]
 },
 {
 "Name": "San Pablo de Borbur",
 "Code": "15681",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Pablo De Borbur",
@@ -23408,10 +27521,14 @@
 "LatLong": "5.6603,-74.0621"
 }
 ]
+}
+]
 },
 {
 "Name": "Santana",
 "Code": "15686",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santana",
@@ -23429,10 +27546,14 @@
 "LatLong": "6.0575,-73.4811"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa María",
 "Code": "15690",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Maria",
@@ -23445,10 +27566,14 @@
 "LatLong": "4.8605,-73.2623"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa Rosa de Viterbo",
 "Code": "15693",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Rosa De Viterbo",
@@ -23466,10 +27591,14 @@
 "LatLong": "5.874,-72.9822"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa Sofía",
 "Code": "15696",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Sofia",
@@ -23482,10 +27611,14 @@
 "LatLong": "5.7091,-73.604"
 }
 ]
+}
+]
 },
 {
 "Name": "Sativanorte",
 "Code": "15720",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sativanorte",
@@ -23498,10 +27631,14 @@
 "LatLong": "6.1316,-72.7089"
 }
 ]
+}
+]
 },
 {
 "Name": "Sativasur",
 "Code": "15723",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sativasur",
@@ -23514,10 +27651,14 @@
 "LatLong": "6.0896,-72.7243"
 }
 ]
+}
+]
 },
 {
 "Name": "Siachoque",
 "Code": "15740",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Siachoque",
@@ -23535,10 +27676,14 @@
 "LatLong": "5.5124,-73.2444"
 }
 ]
+}
+]
 },
 {
 "Name": "Soatá",
 "Code": "15753",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Soata",
@@ -23551,10 +27696,14 @@
 "LatLong": "6.3337,-72.6828"
 }
 ]
+}
+]
 },
 {
 "Name": "Socotá",
 "Code": "15755",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Socota",
@@ -23572,10 +27721,14 @@
 "LatLong": "6.0403,-72.6351"
 }
 ]
+}
+]
 },
 {
 "Name": "Socha",
 "Code": "15757",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Socha",
@@ -23588,10 +27741,14 @@
 "LatLong": "5.9817,-72.715"
 }
 ]
+}
+]
 },
 {
 "Name": "Sogamoso",
 "Code": "15759",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sogamoso",
@@ -23619,10 +27776,14 @@
 "LatLong": "5.7143,-72.9339"
 }
 ]
+}
+]
 },
 {
 "Name": "Somondoco",
 "Code": "15761",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Somondoco",
@@ -23635,10 +27796,14 @@
 "LatLong": "4.9854,-73.4327"
 }
 ]
+}
+]
 },
 {
 "Name": "Sora",
 "Code": "15762",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sora",
@@ -23651,10 +27816,14 @@
 "LatLong": "5.5651,-73.4502"
 }
 ]
+}
+]
 },
 {
 "Name": "Sotaquirá",
 "Code": "15763",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sotaquira",
@@ -23672,10 +27841,14 @@
 "LatLong": "5.7648,-73.2476"
 }
 ]
+}
+]
 },
 {
 "Name": "Soracá",
 "Code": "15764",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Soraca",
@@ -23688,10 +27861,14 @@
 "LatLong": "5.5005,-73.333"
 }
 ]
+}
+]
 },
 {
 "Name": "Susacón",
 "Code": "15774",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Susacon",
@@ -23704,10 +27881,14 @@
 "LatLong": "6.2298,-72.6901"
 }
 ]
+}
+]
 },
 {
 "Name": "Sutamarchán",
 "Code": "15776",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sutamarchan",
@@ -23720,10 +27901,14 @@
 "LatLong": "5.6154,-73.617"
 }
 ]
+}
+]
 },
 {
 "Name": "Sutatenza",
 "Code": "15778",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sutatenza",
@@ -23736,10 +27921,14 @@
 "LatLong": "5.0264,-73.4337"
 }
 ]
+}
+]
 },
 {
 "Name": "Tasco",
 "Code": "15790",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tasco",
@@ -23752,10 +27941,14 @@
 "LatLong": "5.9104,-72.78"
 }
 ]
+}
+]
 },
 {
 "Name": "Tenza",
 "Code": "15798",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tenza",
@@ -23768,10 +27961,14 @@
 "LatLong": "5.0708,-73.4246"
 }
 ]
+}
+]
 },
 {
 "Name": "Tibaná",
 "Code": "15804",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tibana",
@@ -23789,10 +27986,14 @@
 "LatLong": "5.3173,-73.3965"
 }
 ]
+}
+]
 },
 {
 "Name": "Tibasosa",
 "Code": "15806",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tibasosa",
@@ -23810,10 +28011,14 @@
 "LatLong": "5.7463,-72.9983"
 }
 ]
+}
+]
 },
 {
 "Name": "Tinjacá",
 "Code": "15808",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tinjaca",
@@ -23826,10 +28031,14 @@
 "LatLong": "5.5792,-73.6449"
 }
 ]
+}
+]
 },
 {
 "Name": "Tipacoque",
 "Code": "15810",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tipacoque",
@@ -23842,10 +28051,14 @@
 "LatLong": "6.4203,-72.6918"
 }
 ]
+}
+]
 },
 {
 "Name": "Toca",
 "Code": "15814",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Toca",
@@ -23863,10 +28076,14 @@
 "LatLong": "5.5639,-73.184"
 }
 ]
+}
+]
 },
 {
 "Name": "Togüí",
 "Code": "15816",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Togüi",
@@ -23879,10 +28096,14 @@
 "LatLong": "5.9204,-73.4885"
 }
 ]
+}
+]
 },
 {
 "Name": "Tópaga",
 "Code": "15820",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Topaga",
@@ -23895,10 +28116,14 @@
 "LatLong": "5.7598,-72.8258"
 }
 ]
+}
+]
 },
 {
 "Name": "Tota",
 "Code": "15822",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tota",
@@ -23916,10 +28141,14 @@
 "LatLong": "5.5583,-72.9876"
 }
 ]
+}
+]
 },
 {
 "Name": "Tununguá",
 "Code": "15832",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tunungua",
@@ -23932,10 +28161,14 @@
 "LatLong": "5.7297,-73.9414"
 }
 ]
+}
+]
 },
 {
 "Name": "Turmequé",
 "Code": "15835",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Turmeque",
@@ -23948,10 +28181,14 @@
 "LatLong": "5.3236,-73.4907"
 }
 ]
+}
+]
 },
 {
 "Name": "Tuta",
 "Code": "15837",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tuta",
@@ -23969,10 +28206,14 @@
 "LatLong": "5.6897,-73.2278"
 }
 ]
+}
+]
 },
 {
 "Name": "Tutazá",
 "Code": "15839",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tutaza",
@@ -23985,10 +28226,14 @@
 "LatLong": "6.0323,-72.8564"
 }
 ]
+}
+]
 },
 {
 "Name": "Umbita",
 "Code": "15842",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Umbita",
@@ -24006,10 +28251,14 @@
 "LatLong": "5.2184,-73.3931"
 }
 ]
+}
+]
 },
 {
 "Name": "Ventaquemada",
 "Code": "15861",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ventaquemada",
@@ -24032,10 +28281,14 @@
 "LatLong": "5.3675,-73.5207"
 }
 ]
+}
+]
 },
 {
 "Name": "Viracachá",
 "Code": "15879",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Viracacha",
@@ -24048,10 +28301,14 @@
 "LatLong": "5.4364,-73.2961"
 }
 ]
+}
+]
 },
 {
 "Name": "Zetaquira",
 "Code": "15897",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zetaquira",
@@ -24066,6 +28323,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Caldas",
@@ -24074,6 +28333,8 @@
 {
 "Name": "Manizales",
 "Code": "17001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Manizales",
@@ -24121,10 +28382,14 @@
 "LatLong": "5.0689,-75.5174"
 }
 ]
+}
+]
 },
 {
 "Name": "Aguadas",
 "Code": "17013",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aguadas",
@@ -24147,10 +28412,14 @@
 "LatLong": "5.6116,-75.4562"
 }
 ]
+}
+]
 },
 {
 "Name": "Anserma",
 "Code": "17042",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Anserma",
@@ -24173,10 +28442,14 @@
 "LatLong": "5.2006,-75.7531"
 }
 ]
+}
+]
 },
 {
 "Name": "Aranzazu",
 "Code": "17050",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aranzazu",
@@ -24189,10 +28462,14 @@
 "LatLong": "5.2712,-75.4904"
 }
 ]
+}
+]
 },
 {
 "Name": "Belalcázar",
 "Code": "17088",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Belalcazar",
@@ -24205,10 +28482,14 @@
 "LatLong": "4.9953,-75.8128"
 }
 ]
+}
+]
 },
 {
 "Name": "Chinchiná",
 "Code": "17174",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chinchina",
@@ -24226,10 +28507,14 @@
 "LatLong": "4.9825,-75.6036"
 }
 ]
+}
+]
 },
 {
 "Name": "Filadelfia",
 "Code": "17272",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Filadelfia",
@@ -24247,10 +28532,14 @@
 "LatLong": "5.2961,-75.5612"
 }
 ]
+}
+]
 },
 {
 "Name": "La Dorada",
 "Code": "17380",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Dorada",
@@ -24273,10 +28562,14 @@
 "LatLong": "5.4478,-74.6631"
 }
 ]
+}
+]
 },
 {
 "Name": "La Merced",
 "Code": "17388",
+"Communities": [
+{
 "Places": [
 {
 "Name": "La Merced",
@@ -24289,10 +28582,14 @@
 "LatLong": "5.3934,-75.5581"
 }
 ]
+}
+]
 },
 {
 "Name": "Manzanares",
 "Code": "17433",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Manzanares",
@@ -24310,10 +28607,14 @@
 "LatLong": "5.2327,-75.1504"
 }
 ]
+}
+]
 },
 {
 "Name": "Marmato",
 "Code": "17442",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marmato",
@@ -24326,10 +28627,14 @@
 "LatLong": "5.4784,-75.5927"
 }
 ]
+}
+]
 },
 {
 "Name": "Marquetalia",
 "Code": "17444",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marquetalia",
@@ -24347,10 +28652,14 @@
 "LatLong": "5.2966,-75.055"
 }
 ]
+}
+]
 },
 {
 "Name": "Marulanda",
 "Code": "17446",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marulanda",
@@ -24363,10 +28672,14 @@
 "LatLong": "5.2839,-75.2602"
 }
 ]
+}
+]
 },
 {
 "Name": "Neira",
 "Code": "17486",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Neira",
@@ -24384,10 +28697,14 @@
 "LatLong": "5.1665,-75.52"
 }
 ]
+}
+]
 },
 {
 "Name": "Norcasia",
 "Code": "17495",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Norcasia",
@@ -24400,10 +28717,14 @@
 "LatLong": "5.5778,-74.8852"
 }
 ]
+}
+]
 },
 {
 "Name": "Pácora",
 "Code": "17513",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pacora",
@@ -24421,10 +28742,14 @@
 "LatLong": "5.5271,-75.4593"
 }
 ]
+}
+]
 },
 {
 "Name": "Palestina",
 "Code": "17524",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Palestina",
@@ -24442,10 +28767,14 @@
 "LatLong": "5.0194,-75.6224"
 }
 ]
+}
+]
 },
 {
 "Name": "Pensilvania",
 "Code": "17541",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pensilvania",
@@ -24468,10 +28797,14 @@
 "LatLong": "5.3835,-75.1612"
 }
 ]
+}
+]
 },
 {
 "Name": "Riosucio",
 "Code": "17614",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Riosucio",
@@ -24499,10 +28832,14 @@
 "LatLong": "5.4216,-75.7032"
 }
 ]
+}
+]
 },
 {
 "Name": "Risaralda",
 "Code": "17616",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Risaralda",
@@ -24520,10 +28857,14 @@
 "LatLong": "5.1665,-75.766"
 }
 ]
+}
+]
 },
 {
 "Name": "Salamina",
 "Code": "17653",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Salamina",
@@ -24546,10 +28887,14 @@
 "LatLong": "5.4073,-75.4875"
 }
 ]
+}
+]
 },
 {
 "Name": "Samaná",
 "Code": "17662",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Samana",
@@ -24572,10 +28917,14 @@
 "LatLong": "5.4126,-74.9922"
 }
 ]
+}
+]
 },
 {
 "Name": "San José",
 "Code": "17665",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Jose",
@@ -24588,10 +28937,14 @@
 "LatLong": "5.0858,-75.7883"
 }
 ]
+}
+]
 },
 {
 "Name": "Supía",
 "Code": "17777",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Supia",
@@ -24609,10 +28962,14 @@
 "LatLong": "5.453,-75.6507"
 }
 ]
+}
+]
 },
 {
 "Name": "Victoria",
 "Code": "17867",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Victoria",
@@ -24630,10 +28987,14 @@
 "LatLong": "5.3165,-74.911"
 }
 ]
+}
+]
 },
 {
 "Name": "Villamaría",
 "Code": "17873",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Villamaria",
@@ -24651,10 +29012,14 @@
 "LatLong": "5.0449,-75.5146"
 }
 ]
+}
+]
 },
 {
 "Name": "Viterbo",
 "Code": "17877",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Viterbo",
@@ -24669,6 +29034,8 @@
 ]
 }
 ]
+}
+]
 },
 {
 "Name": "Magdalena",
@@ -24677,6 +29044,8 @@
 {
 "Name": "Santa Marta",
 "Code": "47001",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Marta",
@@ -24729,10 +29098,14 @@
 "LatLong": "11.2408,-74.199"
 }
 ]
+}
+]
 },
 {
 "Name": "Algarrobo",
 "Code": "47030",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Algarrobo",
@@ -24745,10 +29118,14 @@
 "LatLong": "10.1862,-74.0609"
 }
 ]
+}
+]
 },
 {
 "Name": "Aracataca",
 "Code": "47053",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Aracataca",
@@ -24766,10 +29143,14 @@
 "LatLong": "10.5918,-74.1898"
 }
 ]
+}
+]
 },
 {
 "Name": "Ariguaní",
 "Code": "47058",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ariguani",
@@ -24792,10 +29173,14 @@
 "LatLong": "9.8497,-74.2363"
 }
 ]
+}
+]
 },
 {
 "Name": "Cerro San Antonio",
 "Code": "47161",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cerro San Antonio",
@@ -24808,10 +29193,14 @@
 "LatLong": "10.3259,-74.8693"
 }
 ]
+}
+]
 },
 {
 "Name": "Chibolo",
 "Code": "47170",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Chibolo",
@@ -24829,10 +29218,14 @@
 "LatLong": "10.025,-74.6228"
 }
 ]
+}
+]
 },
 {
 "Name": "Ciénaga",
 "Code": "47189",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Cienaga",
@@ -24855,10 +29248,14 @@
 "LatLong": "11.007,-74.2476"
 }
 ]
+}
+]
 },
 {
 "Name": "Concordia",
 "Code": "47205",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Concordia",
@@ -24871,10 +29268,14 @@
 "LatLong": "10.2576,-74.8333"
 }
 ]
+}
+]
 },
 {
 "Name": "El Banco",
 "Code": "47245",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Banco",
@@ -24897,10 +29298,14 @@
 "LatLong": "9.0011,-73.9758"
 }
 ]
+}
+]
 },
 {
 "Name": "El Piñon",
 "Code": "47258",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Piñon",
@@ -24918,10 +29323,14 @@
 "LatLong": "10.4028,-74.8242"
 }
 ]
+}
+]
 },
 {
 "Name": "El Retén",
 "Code": "47268",
+"Communities": [
+{
 "Places": [
 {
 "Name": "El Reten",
@@ -24934,10 +29343,14 @@
 "LatLong": "10.6114,-74.2682"
 }
 ]
+}
+]
 },
 {
 "Name": "Fundación",
 "Code": "47288",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fundacion",
@@ -24955,10 +29368,14 @@
 "LatLong": "10.5207,-74.185"
 }
 ]
+}
+]
 },
 {
 "Name": "Guamal",
 "Code": "47318",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Guamal",
@@ -24981,10 +29398,14 @@
 "LatLong": "9.1433,-74.2238"
 }
 ]
+}
+]
 },
 {
 "Name": "Nueva Granada",
 "Code": "47460",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nueva Granada",
@@ -25002,10 +29423,14 @@
 "LatLong": "9.8017,-74.393"
 }
 ]
+}
+]
 },
 {
 "Name": "Pedraza",
 "Code": "47541",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pedraza",
@@ -25023,10 +29448,14 @@
 "LatLong": "10.1874,-74.915"
 }
 ]
+}
+]
 },
 {
 "Name": "Pijiño del Carmen",
 "Code": "47545",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pijiño Del Carmen",
@@ -25044,10 +29473,14 @@
 "LatLong": "9.5353,-74.1199"
 }
 ]
+}
+]
 },
 {
 "Name": "Pivijay",
 "Code": "47551",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pivijay",
@@ -25065,10 +29498,14 @@
 "LatLong": "10.4617,-74.6162"
 }
 ]
+}
+]
 },
 {
 "Name": "Plato",
 "Code": "47555",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Plato",
@@ -25086,10 +29523,14 @@
 "LatLong": "9.7903,-74.7824"
 }
 ]
+}
+]
 },
 {
 "Name": "Puebloviejo",
 "Code": "47570",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Puebloviejo",
@@ -25107,10 +29548,14 @@
 "LatLong": "10.9938,-74.2844"
 }
 ]
+}
+]
 },
 {
 "Name": "Remolino",
 "Code": "47605",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Remolino",
@@ -25123,10 +29568,14 @@
 "LatLong": "10.702,-74.716"
 }
 ]
+}
+]
 },
 {
 "Name": "Sabanas de San Angel",
 "Code": "47660",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sabanas De San Angel",
@@ -25144,10 +29593,14 @@
 "LatLong": "10.1108,-74.2601"
 }
 ]
+}
+]
 },
 {
 "Name": "Salamina",
 "Code": "47675",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Salamina",
@@ -25160,10 +29613,14 @@
 "LatLong": "10.4903,-74.7946"
 }
 ]
+}
+]
 },
 {
 "Name": "San Sebastián de Buenavista",
 "Code": "47692",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Sebastian De Buenavista",
@@ -25181,10 +29638,14 @@
 "LatLong": "9.2378,-74.3517"
 }
 ]
+}
+]
 },
 {
 "Name": "San Zenón",
 "Code": "47703",
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Zenon",
@@ -25202,10 +29663,14 @@
 "LatLong": "9.3315,-74.3471"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa Ana",
 "Code": "47707",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Ana",
@@ -25223,10 +29688,14 @@
 "LatLong": "9.3212,-74.5685"
 }
 ]
+}
+]
 },
 {
 "Name": "Santa Bárbara de Pinto",
 "Code": "47720",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Barbara De Pinto",
@@ -25239,10 +29708,14 @@
 "LatLong": "9.5211,-74.6491"
 }
 ]
+}
+]
 },
 {
 "Name": "Sitionuevo",
 "Code": "47745",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sitionuevo",
@@ -25265,10 +29738,14 @@
 "LatLong": "10.8916,-74.6297"
 }
 ]
+}
+]
 },
 {
 "Name": "Tenerife",
 "Code": "47798",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tenerife",
@@ -25281,10 +29758,14 @@
 "LatLong": "9.9009,-74.8599"
 }
 ]
+}
+]
 },
 {
 "Name": "Zapayán",
 "Code": "47960",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zapayan",
@@ -25302,10 +29783,14 @@
 "LatLong": "10.1186,-74.6914"
 }
 ]
+}
+]
 },
 {
 "Name": "Zona Bananera",
 "Code": "47980",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Zona Bananera",
@@ -25331,6 +29816,8 @@
 "Name": "Zona Bananera",
 "PostCode": "478037",
 "LatLong": "10.7964,-74.178"
+}
+]
 }
 ]
 }

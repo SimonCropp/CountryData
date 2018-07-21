@@ -22,9 +22,7 @@ The GeoNames data is structured as
 
 State > Province > Community > Place
 
-However many countries do not have data for every level. To keep the data small only nodes that have data are represented in the json. This structure for each country is stored in a `Structure` property at the root.
-
-So a country with all levels would have a `Structure` property of `State/Province/Community/Place`. While a country with no Community values would be `Structure` property of `State/Province/Place`.
+However many countries do not have data for every level.
 
 
 ## Icon

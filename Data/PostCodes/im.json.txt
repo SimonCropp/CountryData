@@ -1,8 +1,12 @@
 {
-"Structure": "Province/Place",
+"States": [
+{
 "Provinces": [
 {
 "Name": "Isle of Man",
+"Code": "IOM",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Douglas",
@@ -435,13 +439,21 @@
 "LatLong": "54.0951,-4.6929"
 }
 ]
+}
+]
 },
+{
+"Communities": [
 {
 "Places": [
 {
 "Name": "Douglas",
 "PostCode": "IM2",
 "LatLong": "54.15,-4.4833"
+}
+]
+}
+]
 }
 ]
 }

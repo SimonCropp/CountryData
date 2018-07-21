@@ -1,5 +1,4 @@
 {
-"Structure": "State/Province/Place",
 "States": [
 {
 "Name": "Mh",
@@ -8,6 +7,8 @@
 {
 "Name": "Ailinginae",
 "Code": "007",
+"Communities": [
+{
 "Places": [
 {
 "Name": "Majuro",
@@ -18,6 +19,8 @@
 "Name": "Ebeye",
 "PostCode": "96970",
 "LatLong": "11.1405,166.4103"
+}
+]
 }
 ]
 }

@@ -1,9 +1,12 @@
 {
-"Structure": "State/Place",
 "States": [
 {
 "Name": "Attard",
 "Code": "01",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Attard",
@@ -11,10 +14,18 @@
 "LatLong": "35.8917,14.4319"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Balzan",
 "Code": "02",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Balzan",
@@ -22,10 +33,18 @@
 "LatLong": "35.8972,14.4528"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Il-Birgu",
 "Code": "03",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Birgu",
@@ -33,10 +52,18 @@
 "LatLong": "35.8861,14.5242"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Birkirkara",
 "Code": "04",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Birkirkara",
@@ -44,10 +71,18 @@
 "LatLong": "35.8972,14.4653"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Birżebbuġa",
 "Code": "05",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Birżebbuġa",
@@ -55,10 +90,18 @@
 "LatLong": "35.8222,14.5228"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Bormla",
 "Code": "06",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Bormla",
@@ -66,10 +109,18 @@
 "LatLong": "35.8806,14.5217"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Dingli",
 "Code": "07",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Dingli",
@@ -77,10 +128,18 @@
 "LatLong": "35.8597,14.3833"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Il-Fgura",
 "Code": "08",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fgura",
@@ -88,10 +147,18 @@
 "LatLong": "35.8728,14.5203"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Il-Furjana",
 "Code": "09",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Floriana",
@@ -99,10 +166,18 @@
 "LatLong": "35.8917,14.5042"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Il-Fontana",
 "Code": "10",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Fontana",
@@ -110,10 +185,18 @@
 "LatLong": "36.0375,14.2361"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Għajnsielem",
 "Code": "11",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Għajnsielem",
@@ -126,10 +209,18 @@
 "LatLong": "36.0267,14.2861"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "L-Għarb",
 "Code": "12",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Għarb",
@@ -137,10 +228,18 @@
 "LatLong": "36.0681,14.2014"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ħal Għargħur",
 "Code": "13",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Għargħur",
@@ -148,10 +247,18 @@
 "LatLong": "35.9236,14.455"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "L-Għasri",
 "Code": "14",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Għasri",
@@ -159,10 +266,18 @@
 "LatLong": "36.0653,14.2217"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ħal Għaxaq",
 "Code": "15",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Għaxaq",
@@ -170,10 +285,18 @@
 "LatLong": "35.8458,14.5167"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Il-Gudja",
 "Code": "16",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gudja",
@@ -181,10 +304,18 @@
 "LatLong": "35.8514,14.5033"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Il-Gżira",
 "Code": "17",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Gżira",
@@ -192,10 +323,18 @@
 "LatLong": "35.9056,14.4928"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Il-Ħamrun",
 "Code": "18",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ħamrun",
@@ -203,10 +342,18 @@
 "LatLong": "35.8869,14.4883"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "L-Iklin",
 "Code": "19",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Iklin",
@@ -214,10 +361,18 @@
 "LatLong": "35.9097,14.4556"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "L-Imdina",
 "Code": "20",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mdina",
@@ -225,10 +380,18 @@
 "LatLong": "35.8872,14.4053"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "L-Imġarr",
 "Code": "21",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mġarr",
@@ -236,10 +399,18 @@
 "LatLong": "35.9194,14.3639"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "L-Imqabba",
 "Code": "22",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mqabba",
@@ -247,10 +418,18 @@
 "LatLong": "35.845,14.4675"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "L-Imsida",
 "Code": "23",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Msida",
@@ -258,10 +437,18 @@
 "LatLong": "35.8986,14.4839"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "L-Imtarfa",
 "Code": "24",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mtarfa",
@@ -269,10 +456,18 @@
 "LatLong": "35.8906,14.3972"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "L-Isla",
 "Code": "25",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Isla",
@@ -280,10 +475,18 @@
 "LatLong": "35.8878,14.5169"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Il-Kalkara",
 "Code": "26",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kalkara",
@@ -296,10 +499,18 @@
 "LatLong": "35.8911,14.5328"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ta’ Kerċem",
 "Code": "27",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kerċem",
@@ -307,10 +518,18 @@
 "LatLong": "36.0439,14.2161"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Kirkop",
 "Code": "28",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Kirkop",
@@ -318,10 +537,18 @@
 "LatLong": "35.8442,14.4842"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Lija",
 "Code": "29",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Lija",
@@ -329,10 +556,18 @@
 "LatLong": "35.9014,14.4422"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Luqa",
 "Code": "30",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Luqa",
@@ -340,10 +575,18 @@
 "LatLong": "35.8597,14.4833"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Il-Marsa",
 "Code": "31",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marsa",
@@ -356,10 +599,18 @@
 "LatLong": "35.8764,14.4922"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Marsaskala",
 "Code": "32",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marsaskala",
@@ -367,10 +618,18 @@
 "LatLong": "35.8606,14.5592"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Marsaxlokk",
 "Code": "33",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marsaxlokk",
@@ -378,10 +637,18 @@
 "LatLong": "35.8417,14.5514"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Il-Mellieħa",
 "Code": "34",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mellieħa",
@@ -389,10 +656,18 @@
 "LatLong": "35.9583,14.3514"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Il-Mosta",
 "Code": "35",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Mosta",
@@ -400,10 +675,18 @@
 "LatLong": "35.9125,14.4208"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Il-Munxar",
 "Code": "36",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Munxar",
@@ -416,10 +699,18 @@
 "LatLong": "36.0292,14.2256"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "In-Nadur",
 "Code": "37",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Nadur",
@@ -427,10 +718,18 @@
 "LatLong": "36.0486,14.2944"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "In-Naxxar",
 "Code": "38",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Naxxar",
@@ -438,10 +737,18 @@
 "LatLong": "35.9333,14.4375"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Paola",
 "Code": "39",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Paola",
@@ -449,10 +756,18 @@
 "LatLong": "35.8736,14.5061"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Pembroke",
 "Code": "40",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pembroke",
@@ -460,10 +775,18 @@
 "LatLong": "35.9306,14.4764"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tal-Pietà",
 "Code": "41",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Pietà",
@@ -471,10 +794,18 @@
 "LatLong": "35.8925,14.4939"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Il-Qala",
 "Code": "42",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Qala",
@@ -482,10 +813,18 @@
 "LatLong": "36.0375,14.3167"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Qormi",
 "Code": "43",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Qormi",
@@ -493,10 +832,18 @@
 "LatLong": "35.8792,14.4667"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Il-Qrendi",
 "Code": "44",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Qrendi",
@@ -504,10 +851,18 @@
 "LatLong": "35.8319,14.4514"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ir-Rabat",
 "Code": "45",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Rabat",
@@ -515,10 +870,18 @@
 "LatLong": "35.8826,14.3978"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Victoria",
 "Code": "46",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Victoria",
@@ -526,10 +889,18 @@
 "LatLong": "36.0453,14.2417"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Safi",
 "Code": "47",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Safi",
@@ -537,10 +908,18 @@
 "LatLong": "35.8347,14.4917"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Saint John",
 "Code": "48",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Ġwann",
@@ -548,10 +927,18 @@
 "LatLong": "35.9089,14.475"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Saint Julian's",
 "Code": "49",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saint Julians",
@@ -559,10 +946,18 @@
 "LatLong": "35.9172,14.4894"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Saint Lawrence",
 "Code": "50",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "San Lawrenz",
@@ -570,10 +965,18 @@
 "LatLong": "36.0486,14.1978"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Saint Lucia",
 "Code": "51",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Luċija",
@@ -581,10 +984,18 @@
 "LatLong": "35.8617,14.5064"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Saint Paul’s Bay",
 "Code": "52",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Saint Paul's Bay",
@@ -592,10 +1003,18 @@
 "LatLong": "35.9375,14.3986"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Saint Venera",
 "Code": "53",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Santa Venera",
@@ -603,10 +1022,18 @@
 "LatLong": "35.8903,14.4778"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Sannat",
 "Code": "54",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sannat",
@@ -614,10 +1041,18 @@
 "LatLong": "36.0231,14.2514"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Is-Siġġiewi",
 "Code": "55",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Siġġiewi",
@@ -625,10 +1060,18 @@
 "LatLong": "35.8486,14.4264"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tas-Sliema",
 "Code": "56",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Sliema",
@@ -636,10 +1079,18 @@
 "LatLong": "35.9125,14.5022"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Is-Swieqi",
 "Code": "57",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Swieqi",
@@ -647,10 +1098,18 @@
 "LatLong": "35.9217,14.4694"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Tarxien",
 "Code": "58",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Tarxien",
@@ -658,10 +1117,18 @@
 "LatLong": "35.8667,14.5131"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ta’ Xbiex",
 "Code": "59",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Ta' Xbiex",
@@ -669,10 +1136,18 @@
 "LatLong": "35.8994,14.4961"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Il-Belt Valletta",
 "Code": "60",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Valletta",
@@ -680,10 +1155,18 @@
 "LatLong": "35.8983,14.5125"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ix-Xagħra",
 "Code": "61",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Xagħra",
@@ -691,10 +1174,18 @@
 "LatLong": "36.0542,14.2667"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ix-Xewkija",
 "Code": "62",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Xewkija",
@@ -702,10 +1193,18 @@
 "LatLong": "36.0333,14.2611"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ix-Xgħajra",
 "Code": "63",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Xgħajra",
@@ -713,10 +1212,18 @@
 "LatLong": "35.8847,14.5486"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ħaż-Żabbar",
 "Code": "64",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Żabbar",
@@ -724,10 +1231,18 @@
 "LatLong": "35.875,14.5417"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Ħaż-Żebbuġ",
 "Code": "65",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Żebbuġ",
@@ -735,10 +1250,18 @@
 "LatLong": "35.8736,14.4361"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Iż-Żebbuġ",
 "Code": "66",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Marsalforn",
@@ -751,10 +1274,18 @@
 "LatLong": "36.0667,14.2444"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Iż-Żejtun",
 "Code": "67",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Żejtun",
@@ -762,15 +1293,27 @@
 "LatLong": "35.8578,14.5333"
 }
 ]
+}
+]
+}
+]
 },
 {
 "Name": "Iż-Żurrieq",
 "Code": "68",
+"Provinces": [
+{
+"Communities": [
+{
 "Places": [
 {
 "Name": "Żurrieq",
 "PostCode": "ZRQ",
 "LatLong": "35.8222,14.4833"
+}
+]
+}
+]
 }
 ]
 }
