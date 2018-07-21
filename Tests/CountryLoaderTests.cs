@@ -7,7 +7,7 @@ public class CountryLoaderTests
     [Fact]
     public void Run()
     {
-        var states = CountryLoader.Load("PW");
+        var states = CountryLoader.LoadLocationData("PW");
         ObjectApprover.VerifyWithJson(states);
     }
 }

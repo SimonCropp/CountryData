@@ -19,9 +19,15 @@ namespace CountryData
         {
             serializer = new JsonSerializer();
             assembly = typeof(CountryLoader).Assembly;
+            using (var stream = assembly.GetManifestResourceStream("CountryData.countryInfo.json.txt"))
+            {
+                CountryInfo = Deserialize<List<CountryInfo>>(stream);
+            }
         }
 
-        public static List<State> Load(string countryCode)
+        public static List<CountryInfo> CountryInfo;
+
+        public static List<State> LoadLocationData(string countryCode)
         {
             countryCode = countryCode.ToUpperInvariant();
             return cache.GetOrAdd(countryCode, Inner);
@@ -29,7 +35,7 @@ namespace CountryData
 
         static List<State> Inner(string countryCode)
         {
-            var stream = assembly.GetManifestResourceStream("CountryData.postcodes.zip");
+            using (var stream = assembly.GetManifestResourceStream("CountryData.postcodes.zip"))
             using (var archive = new ZipArchive(stream))
             {
                 var entry = archive.Entries.SingleOrDefault(x => x.Name == $"{countryCode}.json.txt");
@@ -39,11 +45,18 @@ namespace CountryData
                 }
 
                 using (var entryStream = entry.Open())
-                using (var streamReader = new StreamReader(entryStream))
-                using (var jsonTextReader = new JsonTextReader(streamReader))
                 {
-                    return serializer.Deserialize<List<State>>(jsonTextReader);
+                    return Deserialize<List<State>>(entryStream);
                 }
+            }
+        }
+
+        static T Deserialize<T>(Stream stream)
+        {
+            using (var streamReader = new StreamReader(stream))
+            using (var jsonTextReader = new JsonTextReader(streamReader))
+            {
+                return serializer.Deserialize<T>(jsonTextReader);
             }
         }
     }

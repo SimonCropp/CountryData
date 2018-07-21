@@ -1,12 +1,13 @@
 ﻿using System.Collections.Generic;
+using CountryData;
 
 static class CountryInfoRowReader
 {
-    public static IEnumerable<CountryInfoRow> ReadRows(string path)
+    public static IEnumerable<CountryInfo> ReadRows(string path)
     {
         foreach (var split in RowReader.ReadRows(path))
         {
-            var row = new CountryInfoRow
+            var row = new CountryInfo
             {
                 Iso = split[0],
                 Iso3 = split[1],
