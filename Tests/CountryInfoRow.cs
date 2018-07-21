@@ -1,5 +1,6 @@
 ﻿class CountryInfoRow
 {
+    public string Name;
     public string Iso;
     public string Iso3;
     public ushort IsoNumeric;
@@ -18,5 +19,4 @@
     public string PostCodeFormat;
     public string PostCodeRegex;
     public string[] Languages;
-    public string Name;
 }
