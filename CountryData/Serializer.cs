@@ -1,5 +1,4 @@
 ﻿using System.IO;
-using CountryData;
 using Newtonsoft.Json;
 
 static class Serializer

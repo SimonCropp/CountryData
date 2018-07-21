@@ -1,19 +1,17 @@
 ﻿using System;
+using CountryData;
 using Newtonsoft.Json;
 
-namespace CountryData
+class StateConverter : JsonConverter
 {
-    public class StateConverter : JsonConverter
+    public override bool CanConvert(Type objectType) => objectType == typeof(IState);
+
+    public override object ReadJson(JsonReader reader, Type objectType, object existingValue, JsonSerializer serializer)
     {
-        public override bool CanConvert(Type objectType) => objectType == typeof(IState);
+        return serializer.Deserialize(reader, typeof(State));
+    }
 
-        public override object ReadJson(JsonReader reader, Type objectType, object existingValue, JsonSerializer serializer)
-        {
-            return serializer.Deserialize(reader, typeof(State));
-        }
-
-        public override void WriteJson(JsonWriter writer, object value, JsonSerializer serializer)
-        {
-        }
+    public override void WriteJson(JsonWriter writer, object value, JsonSerializer serializer)
+    {
     }
 }
