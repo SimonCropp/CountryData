@@ -4,6 +4,7 @@
     <TargetFramework>net471</TargetFramework>
     <DebugType>full</DebugType>
     <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
   </PropertyGroup>
 
   <ItemGroup>
