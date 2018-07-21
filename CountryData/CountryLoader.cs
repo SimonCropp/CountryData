@@ -7,9 +7,9 @@ using System.Reflection;
 
 namespace CountryData
 {
-    public static class CountryLoader
+    public static partial class CountryLoader
     {
-        static ConcurrentDictionary<string, IReadOnlyList<State>> cache = new ConcurrentDictionary<string, IReadOnlyList<State>>();
+        static ConcurrentDictionary<string, IReadOnlyList<IState>> cache = new ConcurrentDictionary<string, IReadOnlyList<IState>>();
         static Assembly assembly;
 
         static CountryLoader()
@@ -23,15 +23,15 @@ namespace CountryData
 
         public static IReadOnlyList<ICountryInfo> CountryInfo { get; }
 
-        public static IReadOnlyDictionary<string, IReadOnlyList<State>> LoadedLocationData => cache;
+        public static IReadOnlyDictionary<string, IReadOnlyList<IState>> LoadedLocationData => cache;
 
-        public static IReadOnlyList<State> LoadLocationData(string countryCode)
+        public static IReadOnlyList<IState> LoadLocationData(string countryCode)
         {
             countryCode = countryCode.ToUpperInvariant();
             return cache.GetOrAdd(countryCode, Inner);
         }
 
-        static List<State> Inner(string countryCode)
+        static IReadOnlyList<IState> Inner(string countryCode)
         {
             using (var stream = assembly.GetManifestResourceStream("CountryData.postcodes.zip"))
             using (var archive = new ZipArchive(stream))

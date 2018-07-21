@@ -10,8 +10,11 @@ public static class DataLocations
         TempPath = Path.GetFullPath(Path.Combine(SlnPath, "temp"));
         Directory.CreateDirectory(TempPath);
         DataPath = Path.GetFullPath(Path.Combine(SlnPath, "Data"));
+        CountryDataProjectPath = Path.GetFullPath(Path.Combine(SlnPath, "CountryData"));
         PostCodesPath = Path.GetFullPath(Path.Combine(DataPath, "PostCodes"));
     }
+
+    public static string CountryDataProjectPath;
 
     public static string SlnPath;
 

@@ -5,7 +5,7 @@ using CountryData;
 
 static class CountrySerializer
 {
-    public static void Serialize(string country, List<PostCodeRow> rows, string directory)
+    public static List<State> Serialize(string country, List<PostCodeRow> rows, string directory)
     {
         var states = new List<State>();
         foreach (var stateGroup in rows.GroupBy(x => x.State))
@@ -61,5 +61,6 @@ static class CountrySerializer
 
         var path = Path.Combine(directory, country + ".json.txt");
         JsonSerializer.Serialize(states, path);
+        return states;
     }
 }
