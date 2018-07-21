@@ -1,22 +1,22 @@
 ﻿namespace CountryData
 {
-    public class CountryInfo
+    public class CountryInfo : ICountryInfo
     {
-        public string Name;
-        public string Iso;
-        public string Iso3;
-        public ushort IsoNumeric;
-        public string Fips;
-        public string Capital;
-        public double Area;
-        public uint Population;
-        public string Continent;
-        public string TopLevelDomain;
-        public string CurrencyCode;
-        public string CurrencyName;
-        public string PhonePrefix;
-        public string PostCodeFormat;
-        public string PostCodeRegex;
-        public string[] Languages;
+        public string Name { get; set; }
+        public string Iso { get; set; }
+        public string Iso3 { get; set; }
+        public ushort IsoNumeric { get; set; }
+        public string Fips { get; set; }
+        public string Capital { get; set; }
+        public double Area { get; set; }
+        public uint Population { get; set; }
+        public string Continent { get; set; }
+        public string TopLevelDomain { get; set; }
+        public string CurrencyCode { get; set; }
+        public string CurrencyName { get; set; }
+        public string PhonePrefix { get; set; }
+        public string PostCodeFormat { get; set; }
+        public string PostCodeRegex { get; set; }
+        public string[] Languages { get; set; }
     }
 }

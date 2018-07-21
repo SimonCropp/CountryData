@@ -1,9 +1,9 @@
 ﻿namespace CountryData
 {
-    public class Place
+    public class Place : IPlace
     {
-        public string Name;
-        public string PostCode;
-        public string LatLong;
+        public string Name { get; set; }
+        public string PostCode { get; set; }
+        public string LatLong { get; set; }
     }
 }

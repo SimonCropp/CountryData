@@ -1,33 +1,31 @@
 ﻿using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
-using System.IO;
 using System.IO.Compression;
 using System.Linq;
 using System.Reflection;
-using Newtonsoft.Json;
 
 namespace CountryData
 {
     public static class CountryLoader
     {
-        static ConcurrentDictionary<string, List<State>> cache = new ConcurrentDictionary<string, List<State>>();
+        static ConcurrentDictionary<string, IReadOnlyList<State>> cache = new ConcurrentDictionary<string, IReadOnlyList<State>>();
         static Assembly assembly;
-        static JsonSerializer serializer;
 
         static CountryLoader()
         {
-            serializer = new JsonSerializer();
             assembly = typeof(CountryLoader).Assembly;
             using (var stream = assembly.GetManifestResourceStream("CountryData.countryInfo.json.txt"))
             {
-                CountryInfo = Deserialize<List<CountryInfo>>(stream);
+                CountryInfo = Serializer.Deserialize<List<CountryInfo>>(stream).Cast<ICountryInfo>().ToList();
             }
         }
 
-        public static List<CountryInfo> CountryInfo;
+        public static IReadOnlyList<ICountryInfo> CountryInfo { get; }
 
-        public static List<State> LoadLocationData(string countryCode)
+        public static IReadOnlyDictionary<string, IReadOnlyList<State>> LoadedLocationData => cache;
+
+        public static IReadOnlyList<State> LoadLocationData(string countryCode)
         {
             countryCode = countryCode.ToUpperInvariant();
             return cache.GetOrAdd(countryCode, Inner);
@@ -44,19 +42,27 @@ namespace CountryData
                     throw new Exception($"Could not find data for '{countryCode}'.");
                 }
 
-                using (var entryStream = entry.Open())
+                return DeserializeEntry(entry);
+            }
+        }
+
+        public static void LoadAll()
+        {
+            using (var stream = assembly.GetManifestResourceStream("CountryData.postcodes.zip"))
+            using (var archive = new ZipArchive(stream))
+            {
+                foreach (var entry in archive.Entries)
                 {
-                    return Deserialize<List<State>>(entryStream);
+                    cache[entry.Name] = DeserializeEntry(entry);
                 }
             }
         }
 
-        static T Deserialize<T>(Stream stream)
+        static List<State> DeserializeEntry(ZipArchiveEntry entry)
         {
-            using (var streamReader = new StreamReader(stream))
-            using (var jsonTextReader = new JsonTextReader(streamReader))
+            using (var entryStream = entry.Open())
             {
-                return serializer.Deserialize<T>(jsonTextReader);
+                return Serializer.Deserialize<List<State>>(entryStream);
             }
         }
     }

@@ -10,34 +10,38 @@ static class CountrySerializer
         var states = new List<State>();
         foreach (var stateGroup in rows.GroupBy(x => x.State))
         {
-            var provinces = stateGroup.ToList();
+            var provinceRows = stateGroup.ToList();
             var state = new State
             {
                 Name = stateGroup.Key,
-                Code = provinces.First().StateCode
+                Code = provinceRows.First().StateCode
             };
             states.Add(state);
 
-            foreach (var provinceGroup in provinces.GroupBy(x => x.Province))
+            var provinces = new List<IProvince>();
+            foreach (var provinceGroup in provinceRows.GroupBy(x => x.Province))
             {
-                var communities = provinceGroup.ToList();
+                var communityRows = provinceGroup.ToList();
                 var province = new Province
                 {
                     Name = provinceGroup.Key,
-                    Code = communities.First().ProvinceCode
+                    Code = communityRows.First().ProvinceCode
                 };
-                state.Provinces.Add(province);
+                provinces.Add(province);
 
-                foreach (var communityGroup in communities.GroupBy(x => x.Community))
+                var communities = new List<ICommunity>();
+                foreach (var communityGroup in communityRows.GroupBy(x => x.Community))
                 {
-                    var places = communityGroup.ToList();
+                    var placeRows = communityGroup.ToList();
                     var community = new Community
                     {
                         Name = communityGroup.Key,
-                        Code = places.First().CommunityCode
+                        Code = placeRows.First().CommunityCode
                     };
-                    province.Communities.Add(community);
-                    foreach (var place in places)
+                    communities.Add(community);
+
+                    var places = new List<IPlace>();
+                    foreach (var place in placeRows)
                     {
                         var item = new Place
                         {
@@ -46,9 +50,12 @@ static class CountrySerializer
                             Name = place.PlaceName
                         };
 
-                        community.Places.Add(item);
+                        places.Add(item);
                     }
+                    community.Places = places;
                 }
+                province.Communities = communities;
+                state.Provinces= provinces;
             }
         }
 

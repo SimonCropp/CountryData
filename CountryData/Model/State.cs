@@ -2,10 +2,10 @@
 
 namespace CountryData
 {
-    public class State
+    public class State : IState
     {
-        public string Name;
-        public string Code;
-        public List<Province> Provinces = new List<Province>();
+        public string Name { get; set; }
+        public string Code { get; set; }
+        public IReadOnlyList<IProvince> Provinces { get; set; } = new List<IProvince>();
     }
 }
