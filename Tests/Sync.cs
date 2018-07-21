@@ -12,7 +12,7 @@ public class Sync
     [Fact]
     public async Task SyncCountryData()
     {
-        var countriesPath = Path.GetFullPath(Path.Combine(DataLocations.SlnPath, "countries.txt"));
+        var countriesPath = Path.GetFullPath(Path.Combine(DataLocations.DataPath, "countrycodes.txt"));
         var allCountriesZipPath = Path.Combine(DataLocations.TempPath, "allCountries.zip");
 
         var countryInfos = await SyncCountryInfo();
@@ -78,8 +78,7 @@ public class Sync
         File.Delete(namedBogusData);
         using (var writer = File.CreateText(namedBogusData))
         {
-            writer.WriteLine(@"using System.Collections.Generic;
-using Bogus;
+            writer.WriteLine(@"using Bogus;
 
 namespace CountryData.Bogus
 {

@@ -1,11 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using Bogus;
+using Bogus.Premium;
 
 namespace CountryData.Bogus
 {
     public static class LocationDataExtensions
     {
+        public static CountryDataSet Country(this Faker faker)
+        {
+            return ContextHelper.GetOrSet(faker, () => new CountryDataSet());
+        }
+
         static Random random = new Random();
 
         public static IState State(this ICountry country)
@@ -46,6 +53,15 @@ namespace CountryData.Bogus
         public static IEnumerable<IPlace> Places(this ICountry country, uint count)
         {
             return AllPlaces(country).ToList().Random(count);
+        }
+        public static string PostCode(this ICountry country)
+        {
+            return Place(country).PostCode;
+        }
+
+        public static IEnumerable<string> PostCode(this ICountry country, uint count)
+        {
+            return Places(country, count).Select(x=>x.PostCode);
         }
 
         public static IEnumerable<ICommunity> AllCommunities(this ICountry country)
