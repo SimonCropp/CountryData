@@ -80,7 +80,8 @@ namespace CountryData
             {
                 foreach (var entry in archive.Entries)
                 {
-                    cache[entry.Name] = ConstructCountry(entry, entry.Name);
+                    var countryCode = entry.Name.Split('.').First();
+                    cache[countryCode] = ConstructCountry(entry, countryCode);
                 }
             }
         }
