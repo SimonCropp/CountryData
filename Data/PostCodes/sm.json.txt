@@ -2,22 +2,22 @@
  "Structure": "Place",
  "Places": [
   {
-   "Name": "Murata",
-   "PostCode": "47890",
-   "LatLong": "43.9202,12.4515"
-  },
-  {
-   "Name": "Santa Mustiola",
-   "PostCode": "47890",
-   "LatLong": "43.9267,12.4507"
-  },
-  {
    "Name": "San Marino",
    "PostCode": "47890",
    "LatLong": "43.9333,12.45"
   },
   {
    "Name": "Casole",
+   "PostCode": "47890",
+   "LatLong": "43.9267,12.4507"
+  },
+  {
+   "Name": "Murata",
+   "PostCode": "47890",
+   "LatLong": "43.9202,12.4515"
+  },
+  {
+   "Name": "Santa Mustiola",
    "PostCode": "47890",
    "LatLong": "43.9267,12.4507"
   },
@@ -32,19 +32,14 @@
    "LatLong": "43.9803,12.4905"
   },
   {
-   "Name": "Rovereta",
-   "PostCode": "47891",
-   "LatLong": "43.9818,12.4953"
-  },
-  {
    "Name": "Galazzano",
    "PostCode": "47891",
    "LatLong": "43.9818,12.4953"
   },
   {
-   "Name": "Acquaviva",
-   "PostCode": "47892",
-   "LatLong": "43.95,12.4167"
+   "Name": "Rovereta",
+   "PostCode": "47891",
+   "LatLong": "43.9818,12.4953"
   },
   {
    "Name": "Gualdicciolo",
@@ -52,12 +47,27 @@
    "LatLong": "43.9498,12.4073"
   },
   {
-   "Name": "Ventoso",
+   "Name": "Acquaviva",
+   "PostCode": "47892",
+   "LatLong": "43.95,12.4167"
+  },
+  {
+   "Name": "Valdragone",
    "PostCode": "47893",
    "LatLong": "43.9419,12.4474"
   },
   {
    "Name": "Borgo Maggiore",
+   "PostCode": "47893",
+   "LatLong": "43.9419,12.4474"
+  },
+  {
+   "Name": "Ventoso",
+   "PostCode": "47893",
+   "LatLong": "43.9419,12.4474"
+  },
+  {
+   "Name": "San Giovanni",
    "PostCode": "47893",
    "LatLong": "43.9419,12.4474"
   },
@@ -68,16 +78,6 @@
   },
   {
    "Name": "Cailungo",
-   "PostCode": "47893",
-   "LatLong": "43.9419,12.4474"
-  },
-  {
-   "Name": "San Giovanni",
-   "PostCode": "47893",
-   "LatLong": "43.9419,12.4474"
-  },
-  {
-   "Name": "Valdragone",
    "PostCode": "47893",
    "LatLong": "43.9419,12.4474"
   },
@@ -122,14 +122,14 @@
    "LatLong": "43.9,12.5"
   },
   {
-   "Name": "Fiorina",
-   "PostCode": "47899",
-   "LatLong": "43.958,12.4769"
-  },
-  {
    "Name": "Serravalle",
    "PostCode": "47899",
    "LatLong": "43.95,12.5"
+  },
+  {
+   "Name": "Fiorina",
+   "PostCode": "47899",
+   "LatLong": "43.958,12.4769"
   }
  ]
 }

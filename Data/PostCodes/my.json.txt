@@ -541,14 +541,14 @@
      "LatLong": "1.7601,103.6852"
     },
     {
-     "Name": "Pekan Nenas",
-     "PostCode": "81500",
-     "LatLong": "1.6627,103.4182"
-    },
-    {
      "Name": "Sungai Mati",
      "PostCode": "81500",
      "LatLong": "1.5141,103.7014"
+    },
+    {
+     "Name": "Pekan Nenas",
+     "PostCode": "81500",
+     "LatLong": "1.6627,103.4182"
     },
     {
      "Name": "Gelang Patah",
@@ -566,14 +566,14 @@
      "LatLong": "1.5002,103.8273"
     },
     {
-     "Name": "masai",
-     "PostCode": "81750",
-     "LatLong": "1.5641,103.7838"
-    },
-    {
      "Name": "Masai",
      "PostCode": "81750",
      "LatLong": "1.5558,103.7616"
+    },
+    {
+     "Name": "masai",
+     "PostCode": "81750",
+     "LatLong": "1.5641,103.7838"
     },
     {
      "Name": "Ulu Tiram",
@@ -591,11 +591,6 @@
      "LatLong": "1.7427,103.7788"
     },
     {
-     "Name": "Ayer Tawar 3",
-     "PostCode": "81920",
-     "LatLong": "1.721,103.8967"
-    },
-    {
      "Name": "Ayer Tawar 5",
      "PostCode": "81920",
      "LatLong": "2.1308,102.4472"
@@ -604,6 +599,11 @@
      "Name": "Ayer Tawar 2",
      "PostCode": "81920",
      "LatLong": "1.7578,103.9291"
+    },
+    {
+     "Name": "Ayer Tawar 3",
+     "PostCode": "81920",
+     "LatLong": "1.721,103.8967"
     },
     {
      "Name": "Ayer Tawar 4",
@@ -2140,12 +2140,12 @@
     {
      "Name": "Pasir Puteh",
      "PostCode": "16800",
-     "LatLong": "5.8178,102.3748"
+     "LatLong": "5.876,102.3841"
     },
     {
      "Name": "Pasir Puteh",
      "PostCode": "16800",
-     "LatLong": "5.876,102.3841"
+     "LatLong": "5.8178,102.3748"
     },
     {
      "Name": "Selising",
@@ -3871,11 +3871,6 @@
      "LatLong": "2.211,102.2548"
     },
     {
-     "Name": "Ayer Keroh",
-     "PostCode": "75450",
-     "LatLong": "2.2872,102.2759"
-    },
-    {
      "Name": "Air Keroh",
      "PostCode": "75450",
      "LatLong": "2.3053,102.3346"
@@ -3884,6 +3879,11 @@
      "Name": "Melaka",
      "PostCode": "75450",
      "LatLong": "2.21,102.2637"
+    },
+    {
+     "Name": "Ayer Keroh",
+     "PostCode": "75450",
+     "LatLong": "2.2872,102.2759"
     },
     {
      "Name": "Melaka",
@@ -5813,14 +5813,14 @@
      "LatLong": "3.7416,102.5443"
     },
     {
-     "Name": "Maran",
-     "PostCode": "26500",
-     "LatLong": "3.5735,102.7896"
-    },
-    {
      "Name": "Bandar Pusat Jengka",
      "PostCode": "26500",
      "LatLong": "3.7416,102.5443"
+    },
+    {
+     "Name": "Maran",
+     "PostCode": "26500",
+     "LatLong": "3.5735,102.7896"
     },
     {
      "Name": "Pekan",
@@ -8362,14 +8362,14 @@
      "LatLong": "4.3633,101.0817"
     },
     {
-     "Name": "Kampar",
-     "PostCode": "31920",
-     "LatLong": "4.2801,101.0995"
-    },
-    {
      "Name": "Mambang Di Awan",
      "PostCode": "31920",
      "LatLong": "4.4423,101.1131"
+    },
+    {
+     "Name": "Kampar",
+     "PostCode": "31920",
+     "LatLong": "4.2801,101.0995"
     },
     {
      "Name": "Mambang Di Awan",
@@ -11479,14 +11479,14 @@
      "LatLong": "2.7691,101.5625"
     },
     {
-     "Name": "Pelabuhan Klang",
-     "PostCode": "42920",
-     "LatLong": "3.1373,101.7471"
-    },
-    {
      "Name": "Pulau Indah",
      "PostCode": "42920",
      "LatLong": "2.9662,101.3768"
+    },
+    {
+     "Name": "Pelabuhan Klang",
+     "PostCode": "42920",
+     "LatLong": "3.1373,101.7471"
     },
     {
      "Name": "Pulau Ketam",
@@ -11614,14 +11614,14 @@
      "LatLong": "3.3861,101.6093"
     },
     {
-     "Name": "Batang Kali",
-     "PostCode": "44300",
-     "LatLong": "3.3751,101.6306"
-    },
-    {
      "Name": "Batangkali",
      "PostCode": "44300",
      "LatLong": "3.2206,101.5735"
+    },
+    {
+     "Name": "Batang Kali",
+     "PostCode": "44300",
+     "LatLong": "3.3751,101.6306"
     },
     {
      "Name": "Kuala Selangor",
@@ -12124,14 +12124,14 @@
      "LatLong": "3.12,101.5952"
     },
     {
-     "Name": "Petaling Jaya",
-     "PostCode": "47500",
-     "LatLong": "3.0886,101.607"
-    },
-    {
      "Name": "Subang Jaya",
      "PostCode": "47500",
      "LatLong": "3.0542,101.5949"
+    },
+    {
+     "Name": "Petaling Jaya",
+     "PostCode": "47500",
+     "LatLong": "3.0886,101.607"
     },
     {
      "Name": "Subang Jaya",
