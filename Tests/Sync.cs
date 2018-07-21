@@ -33,12 +33,10 @@ public class Sync
         var countryInfoPath = Path.Combine(DataLocations.TempPath, "countryInfo.txt");
         await Downloader.DownloadFile(countryInfoPath, "http://download.geonames.org/export/dump/countryInfo.txt");
 
-
         var path = Path.Combine(DataLocations.DataPath, "countryInfo.json.txt");
         var value = CountryInfoRowReader.ReadRows(countryInfoPath);
         JsonSerializer.Serialize(value, path);
     }
-
 
     void WriteRows(string jsonPath, List<IGrouping<string, PostCodeRow>> groupByCountry)
     {

@@ -1,5 +1,6 @@
 [
 {
+"Name": "Andorra",
 "Iso": "AD",
 "Iso3": "AND",
 "IsoNumeric": 20,
@@ -16,10 +17,10 @@
 "PostCodeRegex": "^(?:AD)*(\\d{3})$",
 "Languages": [
 "ca"
-],
-"Name": "Andorra"
+]
 },
 {
+"Name": "United Arab Emirates",
 "Iso": "AE",
 "Iso3": "ARE",
 "IsoNumeric": 784,
@@ -38,10 +39,10 @@
 "en",
 "hi",
 "ur"
-],
-"Name": "United Arab Emirates"
+]
 },
 {
+"Name": "Afghanistan",
 "Iso": "AF",
 "Iso3": "AFG",
 "IsoNumeric": 4,
@@ -59,10 +60,10 @@
 "ps",
 "uz-AF",
 "tk"
-],
-"Name": "Afghanistan"
+]
 },
 {
+"Name": "Antigua and Barbuda",
 "Iso": "AG",
 "Iso3": "ATG",
 "IsoNumeric": 28,
@@ -77,10 +78,10 @@
 "PhonePrefix": "+1-268",
 "Languages": [
 "en-AG"
-],
-"Name": "Antigua and Barbuda"
+]
 },
 {
+"Name": "Anguilla",
 "Iso": "AI",
 "Iso3": "AIA",
 "IsoNumeric": 660,
@@ -95,10 +96,10 @@
 "PhonePrefix": "+1-264",
 "Languages": [
 "en-AI"
-],
-"Name": "Anguilla"
+]
 },
 {
+"Name": "Albania",
 "Iso": "AL",
 "Iso3": "ALB",
 "IsoNumeric": 8,
@@ -116,10 +117,10 @@
 "Languages": [
 "sq",
 "el"
-],
-"Name": "Albania"
+]
 },
 {
+"Name": "Armenia",
 "Iso": "AM",
 "Iso3": "ARM",
 "IsoNumeric": 51,
@@ -136,10 +137,10 @@
 "PostCodeRegex": "^(\\d{6})$",
 "Languages": [
 "hy"
-],
-"Name": "Armenia"
+]
 },
 {
+"Name": "Angola",
 "Iso": "AO",
 "Iso3": "AGO",
 "IsoNumeric": 24,
@@ -154,10 +155,10 @@
 "PhonePrefix": "244",
 "Languages": [
 "pt-AO"
-],
-"Name": "Angola"
+]
 },
 {
+"Name": "Antarctica",
 "Iso": "AQ",
 "Iso3": "ATA",
 "IsoNumeric": 10,
@@ -165,10 +166,10 @@
 "Area": 14000000.0,
 "Population": 0,
 "Continent": "AN",
-"TopLevelDomain": ".aq",
-"Name": "Antarctica"
+"TopLevelDomain": ".aq"
 },
 {
+"Name": "Argentina",
 "Iso": "AR",
 "Iso3": "ARG",
 "IsoNumeric": 32,
@@ -190,10 +191,10 @@
 "de",
 "fr",
 "gn"
-],
-"Name": "Argentina"
+]
 },
 {
+"Name": "American Samoa",
 "Iso": "AS",
 "Iso3": "ASM",
 "IsoNumeric": 16,
@@ -212,10 +213,10 @@
 "en-AS",
 "sm",
 "to"
-],
-"Name": "American Samoa"
+]
 },
 {
+"Name": "Austria",
 "Iso": "AT",
 "Iso3": "AUT",
 "IsoNumeric": 40,
@@ -235,10 +236,10 @@
 "hr",
 "hu",
 "sl"
-],
-"Name": "Austria"
+]
 },
 {
+"Name": "Australia",
 "Iso": "AU",
 "Iso3": "AUS",
 "IsoNumeric": 36,
@@ -255,10 +256,10 @@
 "PostCodeRegex": "^(\\d{4})$",
 "Languages": [
 "en-AU"
-],
-"Name": "Australia"
+]
 },
 {
+"Name": "Aruba",
 "Iso": "AW",
 "Iso3": "ABW",
 "IsoNumeric": 533,
@@ -276,10 +277,10 @@
 "pap",
 "es",
 "en"
-],
-"Name": "Aruba"
+]
 },
 {
+"Name": "Aland Islands",
 "Iso": "AX",
 "Iso3": "ALA",
 "IsoNumeric": 248,
@@ -295,10 +296,10 @@
 "PostCodeRegex": "^(?:FI)*(\\d{5})$",
 "Languages": [
 "sv-AX"
-],
-"Name": "Aland Islands"
+]
 },
 {
+"Name": "Azerbaijan",
 "Iso": "AZ",
 "Iso3": "AZE",
 "IsoNumeric": 31,
@@ -317,10 +318,10 @@
 "az",
 "ru",
 "hy"
-],
-"Name": "Azerbaijan"
+]
 },
 {
+"Name": "Bosnia and Herzegovina",
 "Iso": "BA",
 "Iso3": "BIH",
 "IsoNumeric": 70,
@@ -339,10 +340,10 @@
 "bs",
 "hr-BA",
 "sr-BA"
-],
-"Name": "Bosnia and Herzegovina"
+]
 },
 {
+"Name": "Barbados",
 "Iso": "BB",
 "Iso3": "BRB",
 "IsoNumeric": 52,
@@ -359,10 +360,10 @@
 "PostCodeRegex": "^(?:BB)*(\\d{5})$",
 "Languages": [
 "en-BB"
-],
-"Name": "Barbados"
+]
 },
 {
+"Name": "Bangladesh",
 "Iso": "BD",
 "Iso3": "BGD",
 "IsoNumeric": 50,
@@ -380,10 +381,10 @@
 "Languages": [
 "bn-BD",
 "en"
-],
-"Name": "Bangladesh"
+]
 },
 {
+"Name": "Belgium",
 "Iso": "BE",
 "Iso3": "BEL",
 "IsoNumeric": 56,
@@ -402,10 +403,10 @@
 "nl-BE",
 "fr-BE",
 "de-BE"
-],
-"Name": "Belgium"
+]
 },
 {
+"Name": "Burkina Faso",
 "Iso": "BF",
 "Iso3": "BFA",
 "IsoNumeric": 854,
@@ -421,10 +422,10 @@
 "Languages": [
 "fr-BF",
 "mos"
-],
-"Name": "Burkina Faso"
+]
 },
 {
+"Name": "Bulgaria",
 "Iso": "BG",
 "Iso3": "BGR",
 "IsoNumeric": 100,
@@ -443,10 +444,10 @@
 "bg",
 "tr-BG",
 "rom"
-],
-"Name": "Bulgaria"
+]
 },
 {
+"Name": "Bahrain",
 "Iso": "BH",
 "Iso3": "BHR",
 "IsoNumeric": 48,
@@ -466,10 +467,10 @@
 "en",
 "fa",
 "ur"
-],
-"Name": "Bahrain"
+]
 },
 {
+"Name": "Burundi",
 "Iso": "BI",
 "Iso3": "BDI",
 "IsoNumeric": 108,
@@ -485,10 +486,10 @@
 "Languages": [
 "fr-BI",
 "rn"
-],
-"Name": "Burundi"
+]
 },
 {
+"Name": "Benin",
 "Iso": "BJ",
 "Iso3": "BEN",
 "IsoNumeric": 204,
@@ -503,10 +504,10 @@
 "PhonePrefix": "229",
 "Languages": [
 "fr-BJ"
-],
-"Name": "Benin"
+]
 },
 {
+"Name": "Saint Barthelemy",
 "Iso": "BL",
 "Iso3": "BLM",
 "IsoNumeric": 652,
@@ -523,10 +524,10 @@
 "PostCodeRegex": "^(\\d{5})$",
 "Languages": [
 "fr"
-],
-"Name": "Saint Barthelemy"
+]
 },
 {
+"Name": "Bermuda",
 "Iso": "BM",
 "Iso3": "BMU",
 "IsoNumeric": 60,
@@ -544,10 +545,10 @@
 "Languages": [
 "en-BM",
 "pt"
-],
-"Name": "Bermuda"
+]
 },
 {
+"Name": "Brunei",
 "Iso": "BN",
 "Iso3": "BRN",
 "IsoNumeric": 96,
@@ -565,10 +566,10 @@
 "Languages": [
 "ms-BN",
 "en-BN"
-],
-"Name": "Brunei"
+]
 },
 {
+"Name": "Bolivia",
 "Iso": "BO",
 "Iso3": "BOL",
 "IsoNumeric": 68,
@@ -585,10 +586,10 @@
 "es-BO",
 "qu",
 "ay"
-],
-"Name": "Bolivia"
+]
 },
 {
+"Name": "Bonaire, Saint Eustatius and Saba",
 "Iso": "BQ",
 "Iso3": "BES",
 "IsoNumeric": 535,
@@ -603,10 +604,10 @@
 "nl",
 "pap",
 "en"
-],
-"Name": "Bonaire, Saint Eustatius and Saba"
+]
 },
 {
+"Name": "Brazil",
 "Iso": "BR",
 "Iso3": "BRA",
 "IsoNumeric": 76,
@@ -626,10 +627,10 @@
 "es",
 "en",
 "fr"
-],
-"Name": "Brazil"
+]
 },
 {
+"Name": "Bahamas",
 "Iso": "BS",
 "Iso3": "BHS",
 "IsoNumeric": 44,
@@ -644,10 +645,10 @@
 "PhonePrefix": "+1-242",
 "Languages": [
 "en-BS"
-],
-"Name": "Bahamas"
+]
 },
 {
+"Name": "Bhutan",
 "Iso": "BT",
 "Iso3": "BTN",
 "IsoNumeric": 64,
@@ -662,10 +663,10 @@
 "PhonePrefix": "975",
 "Languages": [
 "dz"
-],
-"Name": "Bhutan"
+]
 },
 {
+"Name": "Bouvet Island",
 "Iso": "BV",
 "Iso3": "BVT",
 "IsoNumeric": 74,
@@ -675,10 +676,10 @@
 "Continent": "AN",
 "TopLevelDomain": ".bv",
 "CurrencyCode": "NOK",
-"CurrencyName": "Krone",
-"Name": "Bouvet Island"
+"CurrencyName": "Krone"
 },
 {
+"Name": "Botswana",
 "Iso": "BW",
 "Iso3": "BWA",
 "IsoNumeric": 72,
@@ -694,10 +695,10 @@
 "Languages": [
 "en-BW",
 "tn-BW"
-],
-"Name": "Botswana"
+]
 },
 {
+"Name": "Belarus",
 "Iso": "BY",
 "Iso3": "BLR",
 "IsoNumeric": 112,
@@ -715,10 +716,10 @@
 "Languages": [
 "be",
 "ru"
-],
-"Name": "Belarus"
+]
 },
 {
+"Name": "Belize",
 "Iso": "BZ",
 "Iso3": "BLZ",
 "IsoNumeric": 84,
@@ -734,10 +735,10 @@
 "Languages": [
 "en-BZ",
 "es"
-],
-"Name": "Belize"
+]
 },
 {
+"Name": "Canada",
 "Iso": "CA",
 "Iso3": "CAN",
 "IsoNumeric": 124,
@@ -756,10 +757,10 @@
 "en-CA",
 "fr-CA",
 "iu"
-],
-"Name": "Canada"
+]
 },
 {
+"Name": "Cocos Islands",
 "Iso": "CC",
 "Iso3": "CCK",
 "IsoNumeric": 166,
@@ -775,10 +776,10 @@
 "Languages": [
 "ms-CC",
 "en"
-],
-"Name": "Cocos Islands"
+]
 },
 {
+"Name": "Democratic Republic of the Congo",
 "Iso": "CD",
 "Iso3": "COD",
 "IsoNumeric": 180,
@@ -798,10 +799,10 @@
 "kg",
 "sw",
 "lua"
-],
-"Name": "Democratic Republic of the Congo"
+]
 },
 {
+"Name": "Central African Republic",
 "Iso": "CF",
 "Iso3": "CAF",
 "IsoNumeric": 140,
@@ -819,10 +820,10 @@
 "sg",
 "ln",
 "kg"
-],
-"Name": "Central African Republic"
+]
 },
 {
+"Name": "Republic of the Congo",
 "Iso": "CG",
 "Iso3": "COG",
 "IsoNumeric": 178,
@@ -839,10 +840,10 @@
 "fr-CG",
 "kg",
 "ln-CG"
-],
-"Name": "Republic of the Congo"
+]
 },
 {
+"Name": "Switzerland",
 "Iso": "CH",
 "Iso3": "CHE",
 "IsoNumeric": 756,
@@ -862,10 +863,10 @@
 "fr-CH",
 "it-CH",
 "rm"
-],
-"Name": "Switzerland"
+]
 },
 {
+"Name": "Ivory Coast",
 "Iso": "CI",
 "Iso3": "CIV",
 "IsoNumeric": 384,
@@ -880,10 +881,10 @@
 "PhonePrefix": "225",
 "Languages": [
 "fr-CI"
-],
-"Name": "Ivory Coast"
+]
 },
 {
+"Name": "Cook Islands",
 "Iso": "CK",
 "Iso3": "COK",
 "IsoNumeric": 184,
@@ -899,10 +900,10 @@
 "Languages": [
 "en-CK",
 "mi"
-],
-"Name": "Cook Islands"
+]
 },
 {
+"Name": "Chile",
 "Iso": "CL",
 "Iso3": "CHL",
 "IsoNumeric": 152,
@@ -919,10 +920,10 @@
 "PostCodeRegex": "^(\\d{7})$",
 "Languages": [
 "es-CL"
-],
-"Name": "Chile"
+]
 },
 {
+"Name": "Cameroon",
 "Iso": "CM",
 "Iso3": "CMR",
 "IsoNumeric": 120,
@@ -938,10 +939,10 @@
 "Languages": [
 "en-CM",
 "fr-CM"
-],
-"Name": "Cameroon"
+]
 },
 {
+"Name": "China",
 "Iso": "CN",
 "Iso3": "CHN",
 "IsoNumeric": 156,
@@ -963,10 +964,10 @@
 "dta",
 "ug",
 "za"
-],
-"Name": "China"
+]
 },
 {
+"Name": "Colombia",
 "Iso": "CO",
 "Iso3": "COL",
 "IsoNumeric": 170,
@@ -983,10 +984,10 @@
 "PostCodeRegex": "^(\\d{6})$",
 "Languages": [
 "es-CO"
-],
-"Name": "Colombia"
+]
 },
 {
+"Name": "Costa Rica",
 "Iso": "CR",
 "Iso3": "CRI",
 "IsoNumeric": 188,
@@ -1004,10 +1005,10 @@
 "Languages": [
 "es-CR",
 "en"
-],
-"Name": "Costa Rica"
+]
 },
 {
+"Name": "Cuba",
 "Iso": "CU",
 "Iso3": "CUB",
 "IsoNumeric": 192,
@@ -1025,10 +1026,10 @@
 "Languages": [
 "es-CU",
 "pap"
-],
-"Name": "Cuba"
+]
 },
 {
+"Name": "Cape Verde",
 "Iso": "CV",
 "Iso3": "CPV",
 "IsoNumeric": 132,
@@ -1045,10 +1046,10 @@
 "PostCodeRegex": "^(\\d{4})$",
 "Languages": [
 "pt-CV"
-],
-"Name": "Cape Verde"
+]
 },
 {
+"Name": "Curacao",
 "Iso": "CW",
 "Iso3": "CUW",
 "IsoNumeric": 531,
@@ -1064,10 +1065,10 @@
 "Languages": [
 "nl",
 "pap"
-],
-"Name": "Curacao"
+]
 },
 {
+"Name": "Christmas Island",
 "Iso": "CX",
 "Iso3": "CXR",
 "IsoNumeric": 162,
@@ -1086,10 +1087,10 @@
 "en",
 "zh",
 "ms-CC"
-],
-"Name": "Christmas Island"
+]
 },
 {
+"Name": "Cyprus",
 "Iso": "CY",
 "Iso3": "CYP",
 "IsoNumeric": 196,
@@ -1108,10 +1109,10 @@
 "el-CY",
 "tr-CY",
 "en"
-],
-"Name": "Cyprus"
+]
 },
 {
+"Name": "Czechia",
 "Iso": "CZ",
 "Iso3": "CZE",
 "IsoNumeric": 203,
@@ -1129,10 +1130,10 @@
 "Languages": [
 "cs",
 "sk"
-],
-"Name": "Czechia"
+]
 },
 {
+"Name": "Germany",
 "Iso": "DE",
 "Iso3": "DEU",
 "IsoNumeric": 276,
@@ -1149,10 +1150,10 @@
 "PostCodeRegex": "^(\\d{5})$",
 "Languages": [
 "de"
-],
-"Name": "Germany"
+]
 },
 {
+"Name": "Djibouti",
 "Iso": "DJ",
 "Iso3": "DJI",
 "IsoNumeric": 262,
@@ -1170,10 +1171,10 @@
 "ar",
 "so-DJ",
 "aa"
-],
-"Name": "Djibouti"
+]
 },
 {
+"Name": "Denmark",
 "Iso": "DK",
 "Iso3": "DNK",
 "IsoNumeric": 208,
@@ -1193,10 +1194,10 @@
 "en",
 "fo",
 "de-DK"
-],
-"Name": "Denmark"
+]
 },
 {
+"Name": "Dominica",
 "Iso": "DM",
 "Iso3": "DMA",
 "IsoNumeric": 212,
@@ -1211,10 +1212,10 @@
 "PhonePrefix": "+1-767",
 "Languages": [
 "en-DM"
-],
-"Name": "Dominica"
+]
 },
 {
+"Name": "Dominican Republic",
 "Iso": "DO",
 "Iso3": "DOM",
 "IsoNumeric": 214,
@@ -1231,10 +1232,10 @@
 "PostCodeRegex": "^(\\d{5})$",
 "Languages": [
 "es-DO"
-],
-"Name": "Dominican Republic"
+]
 },
 {
+"Name": "Algeria",
 "Iso": "DZ",
 "Iso3": "DZA",
 "IsoNumeric": 12,
@@ -1251,10 +1252,10 @@
 "PostCodeRegex": "^(\\d{5})$",
 "Languages": [
 "ar-DZ"
-],
-"Name": "Algeria"
+]
 },
 {
+"Name": "Ecuador",
 "Iso": "EC",
 "Iso3": "ECU",
 "IsoNumeric": 218,
@@ -1271,10 +1272,10 @@
 "PostCodeRegex": "^([a-zA-Z]\\d{4}[a-zA-Z])$",
 "Languages": [
 "es-EC"
-],
-"Name": "Ecuador"
+]
 },
 {
+"Name": "Estonia",
 "Iso": "EE",
 "Iso3": "EST",
 "IsoNumeric": 233,
@@ -1292,10 +1293,10 @@
 "Languages": [
 "et",
 "ru"
-],
-"Name": "Estonia"
+]
 },
 {
+"Name": "Egypt",
 "Iso": "EG",
 "Iso3": "EGY",
 "IsoNumeric": 818,
@@ -1314,10 +1315,10 @@
 "ar-EG",
 "en",
 "fr"
-],
-"Name": "Egypt"
+]
 },
 {
+"Name": "Western Sahara",
 "Iso": "EH",
 "Iso3": "ESH",
 "IsoNumeric": 732,
@@ -1333,10 +1334,10 @@
 "Languages": [
 "ar",
 "mey"
-],
-"Name": "Western Sahara"
+]
 },
 {
+"Name": "Eritrea",
 "Iso": "ER",
 "Iso3": "ERI",
 "IsoNumeric": 232,
@@ -1355,10 +1356,10 @@
 "tig",
 "kun",
 "ti-ER"
-],
-"Name": "Eritrea"
+]
 },
 {
+"Name": "Spain",
 "Iso": "ES",
 "Iso3": "ESP",
 "IsoNumeric": 724,
@@ -1379,10 +1380,10 @@
 "gl",
 "eu",
 "oc"
-],
-"Name": "Spain"
+]
 },
 {
+"Name": "Ethiopia",
 "Iso": "ET",
 "Iso3": "ETH",
 "IsoNumeric": 231,
@@ -1404,10 +1405,10 @@
 "ti-ET",
 "so-ET",
 "sid"
-],
-"Name": "Ethiopia"
+]
 },
 {
+"Name": "Finland",
 "Iso": "FI",
 "Iso3": "FIN",
 "IsoNumeric": 246,
@@ -1426,10 +1427,10 @@
 "fi-FI",
 "sv-FI",
 "smn"
-],
-"Name": "Finland"
+]
 },
 {
+"Name": "Fiji",
 "Iso": "FJ",
 "Iso3": "FJI",
 "IsoNumeric": 242,
@@ -1445,10 +1446,10 @@
 "Languages": [
 "en-FJ",
 "fj"
-],
-"Name": "Fiji"
+]
 },
 {
+"Name": "Falkland Islands",
 "Iso": "FK",
 "Iso3": "FLK",
 "IsoNumeric": 238,
@@ -1463,10 +1464,10 @@
 "PhonePrefix": "500",
 "Languages": [
 "en-FK"
-],
-"Name": "Falkland Islands"
+]
 },
 {
+"Name": "Micronesia",
 "Iso": "FM",
 "Iso3": "FSM",
 "IsoNumeric": 583,
@@ -1491,10 +1492,10 @@
 "woe",
 "nkr",
 "kpg"
-],
-"Name": "Micronesia"
+]
 },
 {
+"Name": "Faroe Islands",
 "Iso": "FO",
 "Iso3": "FRO",
 "IsoNumeric": 234,
@@ -1512,10 +1513,10 @@
 "Languages": [
 "fo",
 "da-FO"
-],
-"Name": "Faroe Islands"
+]
 },
 {
+"Name": "France",
 "Iso": "FR",
 "Iso3": "FRA",
 "IsoNumeric": 250,
@@ -1538,10 +1539,10 @@
 "ca",
 "eu",
 "oc"
-],
-"Name": "France"
+]
 },
 {
+"Name": "Gabon",
 "Iso": "GA",
 "Iso3": "GAB",
 "IsoNumeric": 266,
@@ -1556,10 +1557,10 @@
 "PhonePrefix": "241",
 "Languages": [
 "fr-GA"
-],
-"Name": "Gabon"
+]
 },
 {
+"Name": "United Kingdom",
 "Iso": "GB",
 "Iso3": "GBR",
 "IsoNumeric": 826,
@@ -1578,10 +1579,10 @@
 "en-GB",
 "cy-GB",
 "gd"
-],
-"Name": "United Kingdom"
+]
 },
 {
+"Name": "Grenada",
 "Iso": "GD",
 "Iso3": "GRD",
 "IsoNumeric": 308,
@@ -1596,10 +1597,10 @@
 "PhonePrefix": "+1-473",
 "Languages": [
 "en-GD"
-],
-"Name": "Grenada"
+]
 },
 {
+"Name": "Georgia",
 "Iso": "GE",
 "Iso3": "GEO",
 "IsoNumeric": 268,
@@ -1619,10 +1620,10 @@
 "ru",
 "hy",
 "az"
-],
-"Name": "Georgia"
+]
 },
 {
+"Name": "French Guiana",
 "Iso": "GF",
 "Iso3": "GUF",
 "IsoNumeric": 254,
@@ -1639,10 +1640,10 @@
 "PostCodeRegex": "^((97|98)3\\d{2})$",
 "Languages": [
 "fr-GF"
-],
-"Name": "French Guiana"
+]
 },
 {
+"Name": "Guernsey",
 "Iso": "GG",
 "Iso3": "GGY",
 "IsoNumeric": 831,
@@ -1660,10 +1661,10 @@
 "Languages": [
 "en",
 "nrf"
-],
-"Name": "Guernsey"
+]
 },
 {
+"Name": "Ghana",
 "Iso": "GH",
 "Iso3": "GHA",
 "IsoNumeric": 288,
@@ -1681,10 +1682,10 @@
 "ak",
 "ee",
 "tw"
-],
-"Name": "Ghana"
+]
 },
 {
+"Name": "Gibraltar",
 "Iso": "GI",
 "Iso3": "GIB",
 "IsoNumeric": 292,
@@ -1702,10 +1703,10 @@
 "es",
 "it",
 "pt"
-],
-"Name": "Gibraltar"
+]
 },
 {
+"Name": "Greenland",
 "Iso": "GL",
 "Iso3": "GRL",
 "IsoNumeric": 304,
@@ -1724,10 +1725,10 @@
 "kl",
 "da-GL",
 "en"
-],
-"Name": "Greenland"
+]
 },
 {
+"Name": "Gambia",
 "Iso": "GM",
 "Iso3": "GMB",
 "IsoNumeric": 270,
@@ -1746,10 +1747,10 @@
 "wof",
 "wo",
 "ff"
-],
-"Name": "Gambia"
+]
 },
 {
+"Name": "Guinea",
 "Iso": "GN",
 "Iso3": "GIN",
 "IsoNumeric": 324,
@@ -1764,10 +1765,10 @@
 "PhonePrefix": "224",
 "Languages": [
 "fr-GN"
-],
-"Name": "Guinea"
+]
 },
 {
+"Name": "Guadeloupe",
 "Iso": "GP",
 "Iso3": "GLP",
 "IsoNumeric": 312,
@@ -1784,10 +1785,10 @@
 "PostCodeRegex": "^((97|98)\\d{3})$",
 "Languages": [
 "fr-GP"
-],
-"Name": "Guadeloupe"
+]
 },
 {
+"Name": "Equatorial Guinea",
 "Iso": "GQ",
 "Iso3": "GNQ",
 "IsoNumeric": 226,
@@ -1803,10 +1804,10 @@
 "Languages": [
 "es-GQ",
 "fr"
-],
-"Name": "Equatorial Guinea"
+]
 },
 {
+"Name": "Greece",
 "Iso": "GR",
 "Iso3": "GRC",
 "IsoNumeric": 300,
@@ -1825,10 +1826,10 @@
 "el-GR",
 "en",
 "fr"
-],
-"Name": "Greece"
+]
 },
 {
+"Name": "South Georgia and the South Sandwich Islands",
 "Iso": "GS",
 "Iso3": "SGS",
 "IsoNumeric": 239,
@@ -1842,10 +1843,10 @@
 "CurrencyName": "Pound",
 "Languages": [
 "en"
-],
-"Name": "South Georgia and the South Sandwich Islands"
+]
 },
 {
+"Name": "Guatemala",
 "Iso": "GT",
 "Iso3": "GTM",
 "IsoNumeric": 320,
@@ -1862,10 +1863,10 @@
 "PostCodeRegex": "^(\\d{5})$",
 "Languages": [
 "es-GT"
-],
-"Name": "Guatemala"
+]
 },
 {
+"Name": "Guam",
 "Iso": "GU",
 "Iso3": "GUM",
 "IsoNumeric": 316,
@@ -1883,10 +1884,10 @@
 "Languages": [
 "en-GU",
 "ch-GU"
-],
-"Name": "Guam"
+]
 },
 {
+"Name": "Guinea-Bissau",
 "Iso": "GW",
 "Iso3": "GNB",
 "IsoNumeric": 624,
@@ -1904,10 +1905,10 @@
 "Languages": [
 "pt-GW",
 "pov"
-],
-"Name": "Guinea-Bissau"
+]
 },
 {
+"Name": "Guyana",
 "Iso": "GY",
 "Iso3": "GUY",
 "IsoNumeric": 328,
@@ -1922,10 +1923,10 @@
 "PhonePrefix": "592",
 "Languages": [
 "en-GY"
-],
-"Name": "Guyana"
+]
 },
 {
+"Name": "Hong Kong",
 "Iso": "HK",
 "Iso3": "HKG",
 "IsoNumeric": 344,
@@ -1943,10 +1944,10 @@
 "yue",
 "zh",
 "en"
-],
-"Name": "Hong Kong"
+]
 },
 {
+"Name": "Heard Island and McDonald Islands",
 "Iso": "HM",
 "Iso3": "HMD",
 "IsoNumeric": 334,
@@ -1957,10 +1958,10 @@
 "TopLevelDomain": ".hm",
 "CurrencyCode": "AUD",
 "CurrencyName": "Dollar",
-"PhonePrefix": "",
-"Name": "Heard Island and McDonald Islands"
+"PhonePrefix": ""
 },
 {
+"Name": "Honduras",
 "Iso": "HN",
 "Iso3": "HND",
 "IsoNumeric": 340,
@@ -1979,10 +1980,10 @@
 "es-HN",
 "cab",
 "miq"
-],
-"Name": "Honduras"
+]
 },
 {
+"Name": "Croatia",
 "Iso": "HR",
 "Iso3": "HRV",
 "IsoNumeric": 191,
@@ -2000,10 +2001,10 @@
 "Languages": [
 "hr-HR",
 "sr"
-],
-"Name": "Croatia"
+]
 },
 {
+"Name": "Haiti",
 "Iso": "HT",
 "Iso3": "HTI",
 "IsoNumeric": 332,
@@ -2021,10 +2022,10 @@
 "Languages": [
 "ht",
 "fr-HT"
-],
-"Name": "Haiti"
+]
 },
 {
+"Name": "Hungary",
 "Iso": "HU",
 "Iso3": "HUN",
 "IsoNumeric": 348,
@@ -2041,10 +2042,10 @@
 "PostCodeRegex": "^(\\d{4})$",
 "Languages": [
 "hu-HU"
-],
-"Name": "Hungary"
+]
 },
 {
+"Name": "Indonesia",
 "Iso": "ID",
 "Iso3": "IDN",
 "IsoNumeric": 360,
@@ -2064,10 +2065,10 @@
 "en",
 "nl",
 "jv"
-],
-"Name": "Indonesia"
+]
 },
 {
+"Name": "Ireland",
 "Iso": "IE",
 "Iso3": "IRL",
 "IsoNumeric": 372,
@@ -2085,10 +2086,10 @@
 "Languages": [
 "en-IE",
 "ga-IE"
-],
-"Name": "Ireland"
+]
 },
 {
+"Name": "Israel",
 "Iso": "IL",
 "Iso3": "ISR",
 "IsoNumeric": 376,
@@ -2108,10 +2109,10 @@
 "ar-IL",
 "en-IL",
 ""
-],
-"Name": "Israel"
+]
 },
 {
+"Name": "Isle of Man",
 "Iso": "IM",
 "Iso3": "IMN",
 "IsoNumeric": 833,
@@ -2129,10 +2130,10 @@
 "Languages": [
 "en",
 "gv"
-],
-"Name": "Isle of Man"
+]
 },
 {
+"Name": "India",
 "Iso": "IN",
 "Iso3": "IND",
 "IsoNumeric": 356,
@@ -2174,10 +2175,10 @@
 "fr",
 "lus",
 "inc"
-],
-"Name": "India"
+]
 },
 {
+"Name": "British Indian Ocean Territory",
 "Iso": "IO",
 "Iso3": "IOT",
 "IsoNumeric": 86,
@@ -2192,10 +2193,10 @@
 "PhonePrefix": "246",
 "Languages": [
 "en-IO"
-],
-"Name": "British Indian Ocean Territory"
+]
 },
 {
+"Name": "Iraq",
 "Iso": "IQ",
 "Iso3": "IRQ",
 "IsoNumeric": 368,
@@ -2214,10 +2215,10 @@
 "ar-IQ",
 "ku",
 "hy"
-],
-"Name": "Iraq"
+]
 },
 {
+"Name": "Iran",
 "Iso": "IR",
 "Iso3": "IRN",
 "IsoNumeric": 364,
@@ -2235,10 +2236,10 @@
 "Languages": [
 "fa-IR",
 "ku"
-],
-"Name": "Iran"
+]
 },
 {
+"Name": "Iceland",
 "Iso": "IS",
 "Iso3": "ISL",
 "IsoNumeric": 352,
@@ -2260,10 +2261,10 @@
 "da",
 "sv",
 "no"
-],
-"Name": "Iceland"
+]
 },
 {
+"Name": "Italy",
 "Iso": "IT",
 "Iso3": "ITA",
 "IsoNumeric": 380,
@@ -2286,10 +2287,10 @@
 "ca",
 "co",
 "sl"
-],
-"Name": "Italy"
+]
 },
 {
+"Name": "Jersey",
 "Iso": "JE",
 "Iso3": "JEY",
 "IsoNumeric": 832,
@@ -2308,10 +2309,10 @@
 "en",
 "fr",
 "nrf"
-],
-"Name": "Jersey"
+]
 },
 {
+"Name": "Jamaica",
 "Iso": "JM",
 "Iso3": "JAM",
 "IsoNumeric": 388,
@@ -2326,10 +2327,10 @@
 "PhonePrefix": "+1-876",
 "Languages": [
 "en-JM"
-],
-"Name": "Jamaica"
+]
 },
 {
+"Name": "Jordan",
 "Iso": "JO",
 "Iso3": "JOR",
 "IsoNumeric": 400,
@@ -2347,10 +2348,10 @@
 "Languages": [
 "ar-JO",
 "en"
-],
-"Name": "Jordan"
+]
 },
 {
+"Name": "Japan",
 "Iso": "JP",
 "Iso3": "JPN",
 "IsoNumeric": 392,
@@ -2367,10 +2368,10 @@
 "PostCodeRegex": "^\\d{3}-\\d{4}$",
 "Languages": [
 "ja"
-],
-"Name": "Japan"
+]
 },
 {
+"Name": "Kenya",
 "Iso": "KE",
 "Iso3": "KEN",
 "IsoNumeric": 404,
@@ -2388,10 +2389,10 @@
 "Languages": [
 "en-KE",
 "sw-KE"
-],
-"Name": "Kenya"
+]
 },
 {
+"Name": "Kyrgyzstan",
 "Iso": "KG",
 "Iso3": "KGZ",
 "IsoNumeric": 417,
@@ -2410,10 +2411,10 @@
 "ky",
 "uz",
 "ru"
-],
-"Name": "Kyrgyzstan"
+]
 },
 {
+"Name": "Cambodia",
 "Iso": "KH",
 "Iso3": "KHM",
 "IsoNumeric": 116,
@@ -2432,10 +2433,10 @@
 "km",
 "fr",
 "en"
-],
-"Name": "Cambodia"
+]
 },
 {
+"Name": "Kiribati",
 "Iso": "KI",
 "Iso3": "KIR",
 "IsoNumeric": 296,
@@ -2451,10 +2452,10 @@
 "Languages": [
 "en-KI",
 "gil"
-],
-"Name": "Kiribati"
+]
 },
 {
+"Name": "Comoros",
 "Iso": "KM",
 "Iso3": "COM",
 "IsoNumeric": 174,
@@ -2470,10 +2471,10 @@
 "Languages": [
 "ar",
 "fr-KM"
-],
-"Name": "Comoros"
+]
 },
 {
+"Name": "Saint Kitts and Nevis",
 "Iso": "KN",
 "Iso3": "KNA",
 "IsoNumeric": 659,
@@ -2488,10 +2489,10 @@
 "PhonePrefix": "+1-869",
 "Languages": [
 "en-KN"
-],
-"Name": "Saint Kitts and Nevis"
+]
 },
 {
+"Name": "North Korea",
 "Iso": "KP",
 "Iso3": "PRK",
 "IsoNumeric": 408,
@@ -2508,10 +2509,10 @@
 "PostCodeRegex": "^(\\d{6})$",
 "Languages": [
 "ko-KP"
-],
-"Name": "North Korea"
+]
 },
 {
+"Name": "South Korea",
 "Iso": "KR",
 "Iso3": "KOR",
 "IsoNumeric": 410,
@@ -2529,10 +2530,10 @@
 "Languages": [
 "ko-KR",
 "en"
-],
-"Name": "South Korea"
+]
 },
 {
+"Name": "Kosovo",
 "Iso": "XK",
 "Iso3": "XKX",
 "IsoNumeric": 0,
@@ -2546,10 +2547,10 @@
 "Languages": [
 "sq",
 "sr"
-],
-"Name": "Kosovo"
+]
 },
 {
+"Name": "Kuwait",
 "Iso": "KW",
 "Iso3": "KWT",
 "IsoNumeric": 414,
@@ -2567,10 +2568,10 @@
 "Languages": [
 "ar-KW",
 "en"
-],
-"Name": "Kuwait"
+]
 },
 {
+"Name": "Cayman Islands",
 "Iso": "KY",
 "Iso3": "CYM",
 "IsoNumeric": 136,
@@ -2585,10 +2586,10 @@
 "PhonePrefix": "+1-345",
 "Languages": [
 "en-KY"
-],
-"Name": "Cayman Islands"
+]
 },
 {
+"Name": "Kazakhstan",
 "Iso": "KZ",
 "Iso3": "KAZ",
 "IsoNumeric": 398,
@@ -2606,10 +2607,10 @@
 "Languages": [
 "kk",
 "ru"
-],
-"Name": "Kazakhstan"
+]
 },
 {
+"Name": "Laos",
 "Iso": "LA",
 "Iso3": "LAO",
 "IsoNumeric": 418,
@@ -2628,10 +2629,10 @@
 "lo",
 "fr",
 "en"
-],
-"Name": "Laos"
+]
 },
 {
+"Name": "Lebanon",
 "Iso": "LB",
 "Iso3": "LBN",
 "IsoNumeric": 422,
@@ -2651,10 +2652,10 @@
 "fr-LB",
 "en",
 "hy"
-],
-"Name": "Lebanon"
+]
 },
 {
+"Name": "Saint Lucia",
 "Iso": "LC",
 "Iso3": "LCA",
 "IsoNumeric": 662,
@@ -2669,10 +2670,10 @@
 "PhonePrefix": "+1-758",
 "Languages": [
 "en-LC"
-],
-"Name": "Saint Lucia"
+]
 },
 {
+"Name": "Liechtenstein",
 "Iso": "LI",
 "Iso3": "LIE",
 "IsoNumeric": 438,
@@ -2689,10 +2690,10 @@
 "PostCodeRegex": "^(\\d{4})$",
 "Languages": [
 "de-LI"
-],
-"Name": "Liechtenstein"
+]
 },
 {
+"Name": "Sri Lanka",
 "Iso": "LK",
 "Iso3": "LKA",
 "IsoNumeric": 144,
@@ -2711,10 +2712,10 @@
 "si",
 "ta",
 "en"
-],
-"Name": "Sri Lanka"
+]
 },
 {
+"Name": "Liberia",
 "Iso": "LR",
 "Iso3": "LBR",
 "IsoNumeric": 430,
@@ -2731,10 +2732,10 @@
 "PostCodeRegex": "^(\\d{4})$",
 "Languages": [
 "en-LR"
-],
-"Name": "Liberia"
+]
 },
 {
+"Name": "Lesotho",
 "Iso": "LS",
 "Iso3": "LSO",
 "IsoNumeric": 426,
@@ -2754,10 +2755,10 @@
 "st",
 "zu",
 "xh"
-],
-"Name": "Lesotho"
+]
 },
 {
+"Name": "Lithuania",
 "Iso": "LT",
 "Iso3": "LTU",
 "IsoNumeric": 440,
@@ -2776,10 +2777,10 @@
 "lt",
 "ru",
 "pl"
-],
-"Name": "Lithuania"
+]
 },
 {
+"Name": "Luxembourg",
 "Iso": "LU",
 "Iso3": "LUX",
 "IsoNumeric": 442,
@@ -2798,10 +2799,10 @@
 "lb",
 "de-LU",
 "fr-LU"
-],
-"Name": "Luxembourg"
+]
 },
 {
+"Name": "Latvia",
 "Iso": "LV",
 "Iso3": "LVA",
 "IsoNumeric": 428,
@@ -2820,10 +2821,10 @@
 "lv",
 "ru",
 "lt"
-],
-"Name": "Latvia"
+]
 },
 {
+"Name": "Libya",
 "Iso": "LY",
 "Iso3": "LBY",
 "IsoNumeric": 434,
@@ -2840,10 +2841,10 @@
 "ar-LY",
 "it",
 "en"
-],
-"Name": "Libya"
+]
 },
 {
+"Name": "Morocco",
 "Iso": "MA",
 "Iso3": "MAR",
 "IsoNumeric": 504,
@@ -2862,10 +2863,10 @@
 "ar-MA",
 "ber",
 "fr"
-],
-"Name": "Morocco"
+]
 },
 {
+"Name": "Monaco",
 "Iso": "MC",
 "Iso3": "MCO",
 "IsoNumeric": 492,
@@ -2884,10 +2885,10 @@
 "fr-MC",
 "en",
 "it"
-],
-"Name": "Monaco"
+]
 },
 {
+"Name": "Moldova",
 "Iso": "MD",
 "Iso3": "MDA",
 "IsoNumeric": 498,
@@ -2907,10 +2908,10 @@
 "ru",
 "gag",
 "tr"
-],
-"Name": "Moldova"
+]
 },
 {
+"Name": "Montenegro",
 "Iso": "ME",
 "Iso3": "MNE",
 "IsoNumeric": 499,
@@ -2932,10 +2933,10 @@
 "sq",
 "hr",
 "rom"
-],
-"Name": "Montenegro"
+]
 },
 {
+"Name": "Saint Martin",
 "Iso": "MF",
 "Iso3": "MAF",
 "IsoNumeric": 663,
@@ -2952,10 +2953,10 @@
 "PostCodeRegex": "^(\\d{5})$",
 "Languages": [
 "fr"
-],
-"Name": "Saint Martin"
+]
 },
 {
+"Name": "Madagascar",
 "Iso": "MG",
 "Iso3": "MDG",
 "IsoNumeric": 450,
@@ -2973,10 +2974,10 @@
 "Languages": [
 "fr-MG",
 "mg"
-],
-"Name": "Madagascar"
+]
 },
 {
+"Name": "Marshall Islands",
 "Iso": "MH",
 "Iso3": "MHL",
 "IsoNumeric": 584,
@@ -2994,10 +2995,10 @@
 "Languages": [
 "mh",
 "en-MH"
-],
-"Name": "Marshall Islands"
+]
 },
 {
+"Name": "Macedonia",
 "Iso": "MK",
 "Iso3": "MKD",
 "IsoNumeric": 807,
@@ -3018,10 +3019,10 @@
 "tr",
 "rmm",
 "sr"
-],
-"Name": "Macedonia"
+]
 },
 {
+"Name": "Mali",
 "Iso": "ML",
 "Iso3": "MLI",
 "IsoNumeric": 466,
@@ -3037,10 +3038,10 @@
 "Languages": [
 "fr-ML",
 "bm"
-],
-"Name": "Mali"
+]
 },
 {
+"Name": "Myanmar",
 "Iso": "MM",
 "Iso3": "MMR",
 "IsoNumeric": 104,
@@ -3057,10 +3058,10 @@
 "PostCodeRegex": "^(\\d{5})$",
 "Languages": [
 "my"
-],
-"Name": "Myanmar"
+]
 },
 {
+"Name": "Mongolia",
 "Iso": "MN",
 "Iso3": "MNG",
 "IsoNumeric": 496,
@@ -3078,10 +3079,10 @@
 "Languages": [
 "mn",
 "ru"
-],
-"Name": "Mongolia"
+]
 },
 {
+"Name": "Macao",
 "Iso": "MO",
 "Iso3": "MAC",
 "IsoNumeric": 446,
@@ -3098,10 +3099,10 @@
 "zh",
 "zh-MO",
 "pt"
-],
-"Name": "Macao"
+]
 },
 {
+"Name": "Northern Mariana Islands",
 "Iso": "MP",
 "Iso3": "MNP",
 "IsoNumeric": 580,
@@ -3122,10 +3123,10 @@
 "zh",
 "ch-MP",
 "en-MP"
-],
-"Name": "Northern Mariana Islands"
+]
 },
 {
+"Name": "Martinique",
 "Iso": "MQ",
 "Iso3": "MTQ",
 "IsoNumeric": 474,
@@ -3142,10 +3143,10 @@
 "PostCodeRegex": "^(\\d{5})$",
 "Languages": [
 "fr-MQ"
-],
-"Name": "Martinique"
+]
 },
 {
+"Name": "Mauritania",
 "Iso": "MR",
 "Iso3": "MRT",
 "IsoNumeric": 478,
@@ -3165,10 +3166,10 @@
 "fr",
 "mey",
 "wo"
-],
-"Name": "Mauritania"
+]
 },
 {
+"Name": "Montserrat",
 "Iso": "MS",
 "Iso3": "MSR",
 "IsoNumeric": 500,
@@ -3183,10 +3184,10 @@
 "PhonePrefix": "+1-664",
 "Languages": [
 "en-MS"
-],
-"Name": "Montserrat"
+]
 },
 {
+"Name": "Malta",
 "Iso": "MT",
 "Iso3": "MLT",
 "IsoNumeric": 470,
@@ -3204,10 +3205,10 @@
 "Languages": [
 "mt",
 "en-MT"
-],
-"Name": "Malta"
+]
 },
 {
+"Name": "Mauritius",
 "Iso": "MU",
 "Iso3": "MUS",
 "IsoNumeric": 480,
@@ -3224,10 +3225,10 @@
 "en-MU",
 "bho",
 "fr"
-],
-"Name": "Mauritius"
+]
 },
 {
+"Name": "Maldives",
 "Iso": "MV",
 "Iso3": "MDV",
 "IsoNumeric": 462,
@@ -3245,10 +3246,10 @@
 "Languages": [
 "dv",
 "en"
-],
-"Name": "Maldives"
+]
 },
 {
+"Name": "Malawi",
 "Iso": "MW",
 "Iso3": "MWI",
 "IsoNumeric": 454,
@@ -3266,10 +3267,10 @@
 "yao",
 "tum",
 "swk"
-],
-"Name": "Malawi"
+]
 },
 {
+"Name": "Mexico",
 "Iso": "MX",
 "Iso3": "MEX",
 "IsoNumeric": 484,
@@ -3286,10 +3287,10 @@
 "PostCodeRegex": "^(\\d{5})$",
 "Languages": [
 "es-MX"
-],
-"Name": "Mexico"
+]
 },
 {
+"Name": "Malaysia",
 "Iso": "MY",
 "Iso3": "MYS",
 "IsoNumeric": 458,
@@ -3313,10 +3314,10 @@
 "ml",
 "pa",
 "th"
-],
-"Name": "Malaysia"
+]
 },
 {
+"Name": "Mozambique",
 "Iso": "MZ",
 "Iso3": "MOZ",
 "IsoNumeric": 508,
@@ -3334,10 +3335,10 @@
 "Languages": [
 "pt-MZ",
 "vmw"
-],
-"Name": "Mozambique"
+]
 },
 {
+"Name": "Namibia",
 "Iso": "NA",
 "Iso3": "NAM",
 "IsoNumeric": 516,
@@ -3356,10 +3357,10 @@
 "de",
 "hz",
 "naq"
-],
-"Name": "Namibia"
+]
 },
 {
+"Name": "New Caledonia",
 "Iso": "NC",
 "Iso3": "NCL",
 "IsoNumeric": 540,
@@ -3376,10 +3377,10 @@
 "PostCodeRegex": "^(\\d{5})$",
 "Languages": [
 "fr-NC"
-],
-"Name": "New Caledonia"
+]
 },
 {
+"Name": "Niger",
 "Iso": "NE",
 "Iso3": "NER",
 "IsoNumeric": 562,
@@ -3399,10 +3400,10 @@
 "ha",
 "kr",
 "dje"
-],
-"Name": "Niger"
+]
 },
 {
+"Name": "Norfolk Island",
 "Iso": "NF",
 "Iso3": "NFK",
 "IsoNumeric": 574,
@@ -3419,10 +3420,10 @@
 "PostCodeRegex": "^(\\d{4})$",
 "Languages": [
 "en-NF"
-],
-"Name": "Norfolk Island"
+]
 },
 {
+"Name": "Nigeria",
 "Iso": "NG",
 "Iso3": "NGA",
 "IsoNumeric": 566,
@@ -3443,10 +3444,10 @@
 "yo",
 "ig",
 "ff"
-],
-"Name": "Nigeria"
+]
 },
 {
+"Name": "Nicaragua",
 "Iso": "NI",
 "Iso3": "NIC",
 "IsoNumeric": 558,
@@ -3464,10 +3465,10 @@
 "Languages": [
 "es-NI",
 "en"
-],
-"Name": "Nicaragua"
+]
 },
 {
+"Name": "Netherlands",
 "Iso": "NL",
 "Iso3": "NLD",
 "IsoNumeric": 528,
@@ -3485,10 +3486,10 @@
 "Languages": [
 "nl-NL",
 "fy-NL"
-],
-"Name": "Netherlands"
+]
 },
 {
+"Name": "Norway",
 "Iso": "NO",
 "Iso3": "NOR",
 "IsoNumeric": 578,
@@ -3509,10 +3510,10 @@
 "nn",
 "se",
 "fi"
-],
-"Name": "Norway"
+]
 },
 {
+"Name": "Nepal",
 "Iso": "NP",
 "Iso3": "NPL",
 "IsoNumeric": 524,
@@ -3530,10 +3531,10 @@
 "Languages": [
 "ne",
 "en"
-],
-"Name": "Nepal"
+]
 },
 {
+"Name": "Nauru",
 "Iso": "NR",
 "Iso3": "NRU",
 "IsoNumeric": 520,
@@ -3549,10 +3550,10 @@
 "Languages": [
 "na",
 "en-NR"
-],
-"Name": "Nauru"
+]
 },
 {
+"Name": "Niue",
 "Iso": "NU",
 "Iso3": "NIU",
 "IsoNumeric": 570,
@@ -3568,10 +3569,10 @@
 "Languages": [
 "niu",
 "en-NU"
-],
-"Name": "Niue"
+]
 },
 {
+"Name": "New Zealand",
 "Iso": "NZ",
 "Iso3": "NZL",
 "IsoNumeric": 554,
@@ -3589,10 +3590,10 @@
 "Languages": [
 "en-NZ",
 "mi"
-],
-"Name": "New Zealand"
+]
 },
 {
+"Name": "Oman",
 "Iso": "OM",
 "Iso3": "OMN",
 "IsoNumeric": 512,
@@ -3612,10 +3613,10 @@
 "en",
 "bal",
 "ur"
-],
-"Name": "Oman"
+]
 },
 {
+"Name": "Panama",
 "Iso": "PA",
 "Iso3": "PAN",
 "IsoNumeric": 591,
@@ -3631,10 +3632,10 @@
 "Languages": [
 "es-PA",
 "en"
-],
-"Name": "Panama"
+]
 },
 {
+"Name": "Peru",
 "Iso": "PE",
 "Iso3": "PER",
 "IsoNumeric": 604,
@@ -3651,10 +3652,10 @@
 "es-PE",
 "qu",
 "ay"
-],
-"Name": "Peru"
+]
 },
 {
+"Name": "French Polynesia",
 "Iso": "PF",
 "Iso3": "PYF",
 "IsoNumeric": 258,
@@ -3672,10 +3673,10 @@
 "Languages": [
 "fr-PF",
 "ty"
-],
-"Name": "French Polynesia"
+]
 },
 {
+"Name": "Papua New Guinea",
 "Iso": "PG",
 "Iso3": "PNG",
 "IsoNumeric": 598,
@@ -3695,10 +3696,10 @@
 "ho",
 "meu",
 "tpi"
-],
-"Name": "Papua New Guinea"
+]
 },
 {
+"Name": "Philippines",
 "Iso": "PH",
 "Iso3": "PHL",
 "IsoNumeric": 608,
@@ -3738,10 +3739,10 @@
 "yka",
 "mta",
 "abx"
-],
-"Name": "Philippines"
+]
 },
 {
+"Name": "Pakistan",
 "Iso": "PK",
 "Iso3": "PAK",
 "IsoNumeric": 586,
@@ -3763,10 +3764,10 @@
 "sd",
 "ps",
 "brh"
-],
-"Name": "Pakistan"
+]
 },
 {
+"Name": "Poland",
 "Iso": "PL",
 "Iso3": "POL",
 "IsoNumeric": 616,
@@ -3783,10 +3784,10 @@
 "PostCodeRegex": "^\\d{2}-\\d{3}$",
 "Languages": [
 "pl"
-],
-"Name": "Poland"
+]
 },
 {
+"Name": "Saint Pierre and Miquelon",
 "Iso": "PM",
 "Iso3": "SPM",
 "IsoNumeric": 666,
@@ -3803,10 +3804,10 @@
 "PostCodeRegex": "^(97500)$",
 "Languages": [
 "fr-PM"
-],
-"Name": "Saint Pierre and Miquelon"
+]
 },
 {
+"Name": "Pitcairn",
 "Iso": "PN",
 "Iso3": "PCN",
 "IsoNumeric": 612,
@@ -3821,10 +3822,10 @@
 "PhonePrefix": "870",
 "Languages": [
 "en-PN"
-],
-"Name": "Pitcairn"
+]
 },
 {
+"Name": "Puerto Rico",
 "Iso": "PR",
 "Iso3": "PRI",
 "IsoNumeric": 630,
@@ -3842,10 +3843,10 @@
 "Languages": [
 "en-PR",
 "es-PR"
-],
-"Name": "Puerto Rico"
+]
 },
 {
+"Name": "Palestinian Territory",
 "Iso": "PS",
 "Iso3": "PSE",
 "IsoNumeric": 275,
@@ -3860,10 +3861,10 @@
 "PhonePrefix": "970",
 "Languages": [
 "ar-PS"
-],
-"Name": "Palestinian Territory"
+]
 },
 {
+"Name": "Portugal",
 "Iso": "PT",
 "Iso3": "PRT",
 "IsoNumeric": 620,
@@ -3881,10 +3882,10 @@
 "Languages": [
 "pt-PT",
 "mwl"
-],
-"Name": "Portugal"
+]
 },
 {
+"Name": "Palau",
 "Iso": "PW",
 "Iso3": "PLW",
 "IsoNumeric": 585,
@@ -3907,10 +3908,10 @@
 "ja",
 "fil",
 "zh"
-],
-"Name": "Palau"
+]
 },
 {
+"Name": "Paraguay",
 "Iso": "PY",
 "Iso3": "PRY",
 "IsoNumeric": 600,
@@ -3928,10 +3929,10 @@
 "Languages": [
 "es-PY",
 "gn"
-],
-"Name": "Paraguay"
+]
 },
 {
+"Name": "Qatar",
 "Iso": "QA",
 "Iso3": "QAT",
 "IsoNumeric": 634,
@@ -3947,10 +3948,10 @@
 "Languages": [
 "ar-QA",
 "es"
-],
-"Name": "Qatar"
+]
 },
 {
+"Name": "Reunion",
 "Iso": "RE",
 "Iso3": "REU",
 "IsoNumeric": 638,
@@ -3967,10 +3968,10 @@
 "PostCodeRegex": "^((97|98)(4|7|8)\\d{2})$",
 "Languages": [
 "fr-RE"
-],
-"Name": "Reunion"
+]
 },
 {
+"Name": "Romania",
 "Iso": "RO",
 "Iso3": "ROU",
 "IsoNumeric": 642,
@@ -3989,10 +3990,10 @@
 "ro",
 "hu",
 "rom"
-],
-"Name": "Romania"
+]
 },
 {
+"Name": "Serbia",
 "Iso": "RS",
 "Iso3": "SRB",
 "IsoNumeric": 688,
@@ -4012,10 +4013,10 @@
 "hu",
 "bs",
 "rom"
-],
-"Name": "Serbia"
+]
 },
 {
+"Name": "Russia",
 "Iso": "RU",
 "Iso3": "RUS",
 "IsoNumeric": 643,
@@ -4055,10 +4056,10 @@
 "av",
 "sah",
 "nog"
-],
-"Name": "Russia"
+]
 },
 {
+"Name": "Rwanda",
 "Iso": "RW",
 "Iso3": "RWA",
 "IsoNumeric": 646,
@@ -4076,10 +4077,10 @@
 "en-RW",
 "fr-RW",
 "sw"
-],
-"Name": "Rwanda"
+]
 },
 {
+"Name": "Saudi Arabia",
 "Iso": "SA",
 "Iso3": "SAU",
 "IsoNumeric": 682,
@@ -4096,10 +4097,10 @@
 "PostCodeRegex": "^(\\d{5})$",
 "Languages": [
 "ar-SA"
-],
-"Name": "Saudi Arabia"
+]
 },
 {
+"Name": "Solomon Islands",
 "Iso": "SB",
 "Iso3": "SLB",
 "IsoNumeric": 90,
@@ -4115,10 +4116,10 @@
 "Languages": [
 "en-SB",
 "tpi"
-],
-"Name": "Solomon Islands"
+]
 },
 {
+"Name": "Seychelles",
 "Iso": "SC",
 "Iso3": "SYC",
 "IsoNumeric": 690,
@@ -4134,10 +4135,10 @@
 "Languages": [
 "en-SC",
 "fr-SC"
-],
-"Name": "Seychelles"
+]
 },
 {
+"Name": "Sudan",
 "Iso": "SD",
 "Iso3": "SDN",
 "IsoNumeric": 729,
@@ -4156,10 +4157,10 @@
 "ar-SD",
 "en",
 "fia"
-],
-"Name": "Sudan"
+]
 },
 {
+"Name": "South Sudan",
 "Iso": "SS",
 "Iso3": "SSD",
 "IsoNumeric": 728,
@@ -4173,10 +4174,10 @@
 "PhonePrefix": "211",
 "Languages": [
 "en"
-],
-"Name": "South Sudan"
+]
 },
 {
+"Name": "Sweden",
 "Iso": "SE",
 "Iso3": "SWE",
 "IsoNumeric": 752,
@@ -4196,10 +4197,10 @@
 "se",
 "sma",
 "fi-SE"
-],
-"Name": "Sweden"
+]
 },
 {
+"Name": "Singapore",
 "Iso": "SG",
 "Iso3": "SGP",
 "IsoNumeric": 702,
@@ -4220,10 +4221,10 @@
 "ms-SG",
 "ta-SG",
 "zh-SG"
-],
-"Name": "Singapore"
+]
 },
 {
+"Name": "Saint Helena",
 "Iso": "SH",
 "Iso3": "SHN",
 "IsoNumeric": 654,
@@ -4240,10 +4241,10 @@
 "PostCodeRegex": "^(STHL1ZZ)$",
 "Languages": [
 "en-SH"
-],
-"Name": "Saint Helena"
+]
 },
 {
+"Name": "Slovenia",
 "Iso": "SI",
 "Iso3": "SVN",
 "IsoNumeric": 705,
@@ -4261,10 +4262,10 @@
 "Languages": [
 "sl",
 "sh"
-],
-"Name": "Slovenia"
+]
 },
 {
+"Name": "Svalbard and Jan Mayen",
 "Iso": "SJ",
 "Iso3": "SJM",
 "IsoNumeric": 744,
@@ -4282,10 +4283,10 @@
 "Languages": [
 "no",
 "ru"
-],
-"Name": "Svalbard and Jan Mayen"
+]
 },
 {
+"Name": "Slovakia",
 "Iso": "SK",
 "Iso3": "SVK",
 "IsoNumeric": 703,
@@ -4303,10 +4304,10 @@
 "Languages": [
 "sk",
 "hu"
-],
-"Name": "Slovakia"
+]
 },
 {
+"Name": "Sierra Leone",
 "Iso": "SL",
 "Iso3": "SLE",
 "IsoNumeric": 694,
@@ -4323,10 +4324,10 @@
 "en-SL",
 "men",
 "tem"
-],
-"Name": "Sierra Leone"
+]
 },
 {
+"Name": "San Marino",
 "Iso": "SM",
 "Iso3": "SMR",
 "IsoNumeric": 674,
@@ -4343,10 +4344,10 @@
 "PostCodeRegex": "^(4789\\d)$",
 "Languages": [
 "it-SM"
-],
-"Name": "San Marino"
+]
 },
 {
+"Name": "Senegal",
 "Iso": "SN",
 "Iso3": "SEN",
 "IsoNumeric": 686,
@@ -4366,10 +4367,10 @@
 "wo",
 "fuc",
 "mnk"
-],
-"Name": "Senegal"
+]
 },
 {
+"Name": "Somalia",
 "Iso": "SO",
 "Iso3": "SOM",
 "IsoNumeric": 706,
@@ -4389,10 +4390,10 @@
 "ar-SO",
 "it",
 "en-SO"
-],
-"Name": "Somalia"
+]
 },
 {
+"Name": "Suriname",
 "Iso": "SR",
 "Iso3": "SUR",
 "IsoNumeric": 740,
@@ -4411,10 +4412,10 @@
 "srn",
 "hns",
 "jv"
-],
-"Name": "Suriname"
+]
 },
 {
+"Name": "Sao Tome and Principe",
 "Iso": "ST",
 "Iso3": "STP",
 "IsoNumeric": 678,
@@ -4429,10 +4430,10 @@
 "PhonePrefix": "239",
 "Languages": [
 "pt-ST"
-],
-"Name": "Sao Tome and Principe"
+]
 },
 {
+"Name": "El Salvador",
 "Iso": "SV",
 "Iso3": "SLV",
 "IsoNumeric": 222,
@@ -4449,10 +4450,10 @@
 "PostCodeRegex": "^(?:CP)*(\\d{4})$",
 "Languages": [
 "es-SV"
-],
-"Name": "El Salvador"
+]
 },
 {
+"Name": "Sint Maarten",
 "Iso": "SX",
 "Iso3": "SXM",
 "IsoNumeric": 534,
@@ -4468,10 +4469,10 @@
 "Languages": [
 "nl",
 "en"
-],
-"Name": "Sint Maarten"
+]
 },
 {
+"Name": "Syria",
 "Iso": "SY",
 "Iso3": "SYR",
 "IsoNumeric": 760,
@@ -4491,10 +4492,10 @@
 "arc",
 "fr",
 "en"
-],
-"Name": "Syria"
+]
 },
 {
+"Name": "Swaziland",
 "Iso": "SZ",
 "Iso3": "SWZ",
 "IsoNumeric": 748,
@@ -4512,10 +4513,10 @@
 "Languages": [
 "en-SZ",
 "ss-SZ"
-],
-"Name": "Swaziland"
+]
 },
 {
+"Name": "Turks and Caicos Islands",
 "Iso": "TC",
 "Iso3": "TCA",
 "IsoNumeric": 796,
@@ -4532,10 +4533,10 @@
 "PostCodeRegex": "^(TKCA 1ZZ)$",
 "Languages": [
 "en-TC"
-],
-"Name": "Turks and Caicos Islands"
+]
 },
 {
+"Name": "Chad",
 "Iso": "TD",
 "Iso3": "TCD",
 "IsoNumeric": 148,
@@ -4552,10 +4553,10 @@
 "fr-TD",
 "ar-TD",
 "sre"
-],
-"Name": "Chad"
+]
 },
 {
+"Name": "French Southern Territories",
 "Iso": "TF",
 "Iso3": "ATF",
 "IsoNumeric": 260,
@@ -4569,10 +4570,10 @@
 "CurrencyName": "Euro",
 "Languages": [
 "fr"
-],
-"Name": "French Southern Territories"
+]
 },
 {
+"Name": "Togo",
 "Iso": "TG",
 "Iso3": "TGO",
 "IsoNumeric": 768,
@@ -4592,10 +4593,10 @@
 "kbp",
 "dag",
 "ha"
-],
-"Name": "Togo"
+]
 },
 {
+"Name": "Thailand",
 "Iso": "TH",
 "Iso3": "THA",
 "IsoNumeric": 764,
@@ -4613,10 +4614,10 @@
 "Languages": [
 "th",
 "en"
-],
-"Name": "Thailand"
+]
 },
 {
+"Name": "Tajikistan",
 "Iso": "TJ",
 "Iso3": "TJK",
 "IsoNumeric": 762,
@@ -4634,10 +4635,10 @@
 "Languages": [
 "tg",
 "ru"
-],
-"Name": "Tajikistan"
+]
 },
 {
+"Name": "Tokelau",
 "Iso": "TK",
 "Iso3": "TKL",
 "IsoNumeric": 772,
@@ -4652,10 +4653,10 @@
 "Languages": [
 "tkl",
 "en-TK"
-],
-"Name": "Tokelau"
+]
 },
 {
+"Name": "Timor Leste",
 "Iso": "TL",
 "Iso3": "TLS",
 "IsoNumeric": 626,
@@ -4673,10 +4674,10 @@
 "pt-TL",
 "id",
 "en"
-],
-"Name": "Timor Leste"
+]
 },
 {
+"Name": "Turkmenistan",
 "Iso": "TM",
 "Iso3": "TKM",
 "IsoNumeric": 795,
@@ -4695,10 +4696,10 @@
 "tk",
 "ru",
 "uz"
-],
-"Name": "Turkmenistan"
+]
 },
 {
+"Name": "Tunisia",
 "Iso": "TN",
 "Iso3": "TUN",
 "IsoNumeric": 788,
@@ -4716,10 +4717,10 @@
 "Languages": [
 "ar-TN",
 "fr"
-],
-"Name": "Tunisia"
+]
 },
 {
+"Name": "Tonga",
 "Iso": "TO",
 "Iso3": "TON",
 "IsoNumeric": 776,
@@ -4735,10 +4736,10 @@
 "Languages": [
 "to",
 "en-TO"
-],
-"Name": "Tonga"
+]
 },
 {
+"Name": "Turkey",
 "Iso": "TR",
 "Iso3": "TUR",
 "IsoNumeric": 792,
@@ -4759,10 +4760,10 @@
 "diq",
 "az",
 "av"
-],
-"Name": "Turkey"
+]
 },
 {
+"Name": "Trinidad and Tobago",
 "Iso": "TT",
 "Iso3": "TTO",
 "IsoNumeric": 780,
@@ -4781,10 +4782,10 @@
 "fr",
 "es",
 "zh"
-],
-"Name": "Trinidad and Tobago"
+]
 },
 {
+"Name": "Tuvalu",
 "Iso": "TV",
 "Iso3": "TUV",
 "IsoNumeric": 798,
@@ -4802,10 +4803,10 @@
 "en",
 "sm",
 "gil"
-],
-"Name": "Tuvalu"
+]
 },
 {
+"Name": "Taiwan",
 "Iso": "TW",
 "Iso3": "TWN",
 "IsoNumeric": 158,
@@ -4825,10 +4826,10 @@
 "zh",
 "nan",
 "hak"
-],
-"Name": "Taiwan"
+]
 },
 {
+"Name": "Tanzania",
 "Iso": "TZ",
 "Iso3": "TZA",
 "IsoNumeric": 834,
@@ -4845,10 +4846,10 @@
 "sw-TZ",
 "en",
 "ar"
-],
-"Name": "Tanzania"
+]
 },
 {
+"Name": "Ukraine",
 "Iso": "UA",
 "Iso3": "UKR",
 "IsoNumeric": 804,
@@ -4869,10 +4870,10 @@
 "rom",
 "pl",
 "hu"
-],
-"Name": "Ukraine"
+]
 },
 {
+"Name": "Uganda",
 "Iso": "UG",
 "Iso3": "UGA",
 "IsoNumeric": 800,
@@ -4890,10 +4891,10 @@
 "lg",
 "sw",
 "ar"
-],
-"Name": "Uganda"
+]
 },
 {
+"Name": "United States Minor Outlying Islands",
 "Iso": "UM",
 "Iso3": "UMI",
 "IsoNumeric": 581,
@@ -4906,10 +4907,10 @@
 "PhonePrefix": "1",
 "Languages": [
 "en-UM"
-],
-"Name": "United States Minor Outlying Islands"
+]
 },
 {
+"Name": "United States",
 "Iso": "US",
 "Iso3": "USA",
 "IsoNumeric": 840,
@@ -4929,10 +4930,10 @@
 "es-US",
 "haw",
 "fr"
-],
-"Name": "United States"
+]
 },
 {
+"Name": "Uruguay",
 "Iso": "UY",
 "Iso3": "URY",
 "IsoNumeric": 858,
@@ -4949,10 +4950,10 @@
 "PostCodeRegex": "^(\\d{5})$",
 "Languages": [
 "es-UY"
-],
-"Name": "Uruguay"
+]
 },
 {
+"Name": "Uzbekistan",
 "Iso": "UZ",
 "Iso3": "UZB",
 "IsoNumeric": 860,
@@ -4971,10 +4972,10 @@
 "uz",
 "ru",
 "tg"
-],
-"Name": "Uzbekistan"
+]
 },
 {
+"Name": "Vatican",
 "Iso": "VA",
 "Iso3": "VAT",
 "IsoNumeric": 336,
@@ -4993,10 +4994,10 @@
 "la",
 "it",
 "fr"
-],
-"Name": "Vatican"
+]
 },
 {
+"Name": "Saint Vincent and the Grenadines",
 "Iso": "VC",
 "Iso3": "VCT",
 "IsoNumeric": 670,
@@ -5012,10 +5013,10 @@
 "Languages": [
 "en-VC",
 "fr"
-],
-"Name": "Saint Vincent and the Grenadines"
+]
 },
 {
+"Name": "Venezuela",
 "Iso": "VE",
 "Iso3": "VEN",
 "IsoNumeric": 862,
@@ -5032,10 +5033,10 @@
 "PostCodeRegex": "^(\\d{4})$",
 "Languages": [
 "es-VE"
-],
-"Name": "Venezuela"
+]
 },
 {
+"Name": "British Virgin Islands",
 "Iso": "VG",
 "Iso3": "VGB",
 "IsoNumeric": 92,
@@ -5050,10 +5051,10 @@
 "PhonePrefix": "+1-284",
 "Languages": [
 "en-VG"
-],
-"Name": "British Virgin Islands"
+]
 },
 {
+"Name": "U.S. Virgin Islands",
 "Iso": "VI",
 "Iso3": "VIR",
 "IsoNumeric": 850,
@@ -5070,10 +5071,10 @@
 "PostCodeRegex": "^008\\d{2}(?:-\\d{4})?$",
 "Languages": [
 "en-VI"
-],
-"Name": "U.S. Virgin Islands"
+]
 },
 {
+"Name": "Vietnam",
 "Iso": "VN",
 "Iso3": "VNM",
 "IsoNumeric": 704,
@@ -5094,10 +5095,10 @@
 "fr",
 "zh",
 "km"
-],
-"Name": "Vietnam"
+]
 },
 {
+"Name": "Vanuatu",
 "Iso": "VU",
 "Iso3": "VUT",
 "IsoNumeric": 548,
@@ -5114,10 +5115,10 @@
 "bi",
 "en-VU",
 "fr-VU"
-],
-"Name": "Vanuatu"
+]
 },
 {
+"Name": "Wallis and Futuna",
 "Iso": "WF",
 "Iso3": "WLF",
 "IsoNumeric": 876,
@@ -5136,10 +5137,10 @@
 "wls",
 "fud",
 "fr-WF"
-],
-"Name": "Wallis and Futuna"
+]
 },
 {
+"Name": "Samoa",
 "Iso": "WS",
 "Iso3": "WSM",
 "IsoNumeric": 882,
@@ -5155,10 +5156,10 @@
 "Languages": [
 "sm",
 "en-WS"
-],
-"Name": "Samoa"
+]
 },
 {
+"Name": "Yemen",
 "Iso": "YE",
 "Iso3": "YEM",
 "IsoNumeric": 887,
@@ -5173,10 +5174,10 @@
 "PhonePrefix": "967",
 "Languages": [
 "ar-YE"
-],
-"Name": "Yemen"
+]
 },
 {
+"Name": "Mayotte",
 "Iso": "YT",
 "Iso3": "MYT",
 "IsoNumeric": 175,
@@ -5193,10 +5194,10 @@
 "PostCodeRegex": "^(\\d{5})$",
 "Languages": [
 "fr-YT"
-],
-"Name": "Mayotte"
+]
 },
 {
+"Name": "South Africa",
 "Iso": "ZA",
 "Iso3": "ZAF",
 "IsoNumeric": 710,
@@ -5223,10 +5224,10 @@
 "ss",
 "ve",
 "nr"
-],
-"Name": "South Africa"
+]
 },
 {
+"Name": "Zambia",
 "Iso": "ZM",
 "Iso3": "ZMB",
 "IsoNumeric": 894,
@@ -5249,10 +5250,10 @@
 "lue",
 "ny",
 "toi"
-],
-"Name": "Zambia"
+]
 },
 {
+"Name": "Zimbabwe",
 "Iso": "ZW",
 "Iso3": "ZWE",
 "IsoNumeric": 716,
@@ -5270,10 +5271,10 @@
 "sn",
 "nr",
 "nd"
-],
-"Name": "Zimbabwe"
+]
 },
 {
+"Name": "Serbia and Montenegro",
 "Iso": "CS",
 "Iso3": "SCG",
 "IsoNumeric": 891,
@@ -5293,10 +5294,10 @@
 "hu",
 "sq",
 "sr"
-],
-"Name": "Serbia and Montenegro"
+]
 },
 {
+"Name": "Netherlands Antilles",
 "Iso": "AN",
 "Iso3": "ANT",
 "IsoNumeric": 530,
@@ -5313,7 +5314,6 @@
 "nl-AN",
 "en",
 "es"
-],
-"Name": "Netherlands Antilles"
+]
 }
 ]
