@@ -1,6 +1,6 @@
 # CountryLocationData
 
-Provides a .net wrapper around the [GeoNames Postal Codes](https://www.geonames.org/postal-codes/). Also exposes the data as per country json files.
+Provides a .net wrapper around the [GeoNames Data](https://www.geonames.org/). Also exposes the data as per country json files.
 
 
 ## NuGets
