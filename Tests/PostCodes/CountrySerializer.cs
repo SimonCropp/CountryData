@@ -52,7 +52,7 @@ static class CountrySerializer
             }
         }
 
-        var path = Path.Combine(directory, country+".json.txt");
-       JsonSerializer. Serialize(new Country {States = states}, path);
+        var path = Path.Combine(directory, country + ".json.txt");
+        JsonSerializer.Serialize(states, path);
     }
 }

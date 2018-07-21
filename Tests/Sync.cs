@@ -26,6 +26,10 @@ public class Sync
         File.Delete(countriesPath);
         File.WriteAllLines(countriesPath, groupByCountry.Select(x => x.Key.ToLower()));
         WriteRows(DataLocations.PostCodesPath, groupByCountry);
+
+        var postcodeZip = Path.Combine(DataLocations.DataPath, "postcodes.zip");
+        File.Delete(postcodeZip);
+        ZipFile.CreateFromDirectory(DataLocations.PostCodesPath, postcodeZip, CompressionLevel.Optimal, false);
     }
 
     static async Task SyncCountryInfo()
