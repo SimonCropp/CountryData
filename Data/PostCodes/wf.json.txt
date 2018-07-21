@@ -1,38 +1,38 @@
 {
- "Structure": "State/Place",
- "States": [
-  {
-   "Name": "Circonscription d'Alo",
-   "Code": "98611",
-   "Places": [
-    {
-     "Name": "Alo",
-     "PostCode": "98610",
-     "LatLong": "-14.3066,-178.1188"
-    }
-   ]
-  },
-  {
-   "Name": "Circonscription de Sigave",
-   "Code": "98612",
-   "Places": [
-    {
-     "Name": "Sigave",
-     "PostCode": "98620",
-     "LatLong": "-14.2667,-178.1667"
-    }
-   ]
-  },
-  {
-   "Name": "Circonscription d'Uvéa",
-   "Code": "98613",
-   "Places": [
-    {
-     "Name": "Uvéa",
-     "PostCode": "98600",
-     "LatLong": "-13.2988,-176.2205"
-    }
-   ]
-  }
- ]
+"Structure": "State/Place",
+"States": [
+{
+"Name": "Circonscription d'Alo",
+"Code": "98611",
+"Places": [
+{
+"Name": "Alo",
+"PostCode": "98610",
+"LatLong": "-14.3066,-178.1188"
+}
+]
+},
+{
+"Name": "Circonscription de Sigave",
+"Code": "98612",
+"Places": [
+{
+"Name": "Sigave",
+"PostCode": "98620",
+"LatLong": "-14.2667,-178.1667"
+}
+]
+},
+{
+"Name": "Circonscription d'Uvéa",
+"Code": "98613",
+"Places": [
+{
+"Name": "Uvéa",
+"PostCode": "98600",
+"LatLong": "-13.2988,-176.2205"
+}
+]
+}
+]
 }

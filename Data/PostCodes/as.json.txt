@@ -1,22 +1,22 @@
 {
- "Structure": "State/Province/Place",
- "States": [
-  {
-   "Name": "As",
-   "Code": "60",
-   "Provinces": [
-    {
-     "Name": "Western",
-     "Code": "050",
-     "Places": [
-      {
-       "Name": "Pago Pago",
-       "PostCode": "96799",
-       "LatLong": "-14.2781,-170.7025"
-      }
-     ]
-    }
-   ]
-  }
- ]
+"Structure": "State/Province/Place",
+"States": [
+{
+"Name": "As",
+"Code": "60",
+"Provinces": [
+{
+"Name": "Western",
+"Code": "050",
+"Places": [
+{
+"Name": "Pago Pago",
+"PostCode": "96799",
+"LatLong": "-14.2781,-170.7025"
+}
+]
+}
+]
+}
+]
 }

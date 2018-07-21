@@ -1,2883 +1,2883 @@
 {
- "Structure": "State/Place",
- "States": [
-  {
-   "Name": "DEPTO DE ALTA VERAPAZ",
-   "Code": "01",
-   "Places": [
-    {
-     "Name": "DEPTO DE ALTA VERAPAZ",
-     "PostCode": "16000",
-     "LatLong": "15.387,-90.1667"
-    },
-    {
-     "Name": "COBAN",
-     "PostCode": "16001",
-     "LatLong": "15.4833,-90.3667"
-    },
-    {
-     "Name": "SANTA CRUZ VERAPAZ",
-     "PostCode": "16002",
-     "LatLong": "15.3667,-90.4333"
-    },
-    {
-     "Name": "SAN CRISTOBAL VERAPAZ",
-     "PostCode": "16003",
-     "LatLong": "15.3833,-90.4"
-    },
-    {
-     "Name": "TACTIC",
-     "PostCode": "16004",
-     "LatLong": "15.3333,-90.3"
-    },
-    {
-     "Name": "TAMAHU",
-     "PostCode": "16005",
-     "LatLong": "15.3333,-90.1667"
-    },
-    {
-     "Name": "TUCURU",
-     "PostCode": "16006",
-     "LatLong": "15.3,-90.0667"
-    },
-    {
-     "Name": "PANZOS",
-     "PostCode": "16007",
-     "LatLong": "15.4,-89.6667"
-    },
-    {
-     "Name": "SENAHU",
-     "PostCode": "16008",
-     "LatLong": "15.4,-89.8333"
-    },
-    {
-     "Name": "SAN PEDRO CARCHA",
-     "PostCode": "16009",
-     "LatLong": "15.4833,-90.2667"
-    },
-    {
-     "Name": "SAN JUAN CHAMELCO",
-     "PostCode": "16010",
-     "LatLong": "15.4333,-90.3333"
-    },
-    {
-     "Name": "LANQUIN",
-     "PostCode": "16011",
-     "LatLong": "15.5667,-89.9667"
-    },
-    {
-     "Name": "CAHABON",
-     "PostCode": "16012",
-     "LatLong": "15.5667,-89.8167"
-    },
-    {
-     "Name": "CHISET",
-     "PostCode": "16013",
-     "LatLong": "15.5792,-89.9208"
-    },
-    {
-     "Name": "CHAHAL",
-     "PostCode": "16014",
-     "LatLong": "15.75,-89.5667"
-    },
-    {
-     "Name": "FRAY BARTOLOME DE LAS CASAS",
-     "PostCode": "16015",
-     "LatLong": "15.5792,-89.9208"
-    },
-    {
-     "Name": "LA TINTA (PANZOS)",
-     "PostCode": "16016",
-     "LatLong": "15.5792,-89.9208"
-    },
-    {
-     "Name": "TELEMAN (PANZOS)",
-     "PostCode": "16017",
-     "LatLong": "15.5792,-89.9208"
-    },
-    {
-     "Name": "PANCAJCHE (TUCURU)",
-     "PostCode": "16018",
-     "LatLong": "15.5792,-89.9208"
-    },
-    {
-     "Name": "SEBOL (FRAY BARTOLOME)",
-     "PostCode": "16019",
-     "LatLong": "15.5792,-89.9208"
-    },
-    {
-     "Name": "BOLONCO (FRAY BARTOLOME)",
-     "PostCode": "16020",
-     "LatLong": "15.4462,-90.091"
-    },
-    {
-     "Name": "CAMPUR (SAN PEDRO CARCHA)",
-     "PostCode": "16021",
-     "LatLong": "15.4462,-90.091"
-    },
-    {
-     "Name": "LAS CASAS",
-     "PostCode": "16022",
-     "LatLong": "15.4462,-90.091"
-    },
-    {
-     "Name": "SALACUIN",
-     "PostCode": "16023",
-     "LatLong": "15.4462,-90.091"
-    },
-    {
-     "Name": "EL ROSARIO",
-     "PostCode": "16024",
-     "LatLong": "15.4462,-90.091"
-    },
-    {
-     "Name": "LAS CONCHAS",
-     "PostCode": "16025",
-     "LatLong": "15.4462,-90.091"
-    },
-    {
-     "Name": "RAXRUHA (CHISEC)",
-     "PostCode": "16026",
-     "LatLong": "15.4462,-90.091"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE BAJA VERAPAZ",
-   "Code": "02",
-   "Places": [
-    {
-     "Name": "DEPTO DE BAJA VERAPAZ",
-     "PostCode": "15000",
-     "LatLong": "15.0516,-90.4148"
-    },
-    {
-     "Name": "SALAMA",
-     "PostCode": "15001",
-     "LatLong": "15.1,-90.2667"
-    },
-    {
-     "Name": "SAN MIGUEL CHICAJ",
-     "PostCode": "15002",
-     "LatLong": "15.1,-90.4"
-    },
-    {
-     "Name": "RABINAL",
-     "PostCode": "15003",
-     "LatLong": "15.1,-90.45"
-    },
-    {
-     "Name": "CUBULCO",
-     "PostCode": "15004",
-     "LatLong": "15.1333,-90.5833"
-    },
-    {
-     "Name": "GRANADOS",
-     "PostCode": "15005",
-     "LatLong": "14.9136,-90.5228"
-    },
-    {
-     "Name": "EL CHOL",
-     "PostCode": "15006",
-     "LatLong": "14.9642,-90.4806"
-    },
-    {
-     "Name": "SAN JERONIMO",
-     "PostCode": "15007",
-     "LatLong": "15.05,-90.2"
-    },
-    {
-     "Name": "PERULHA",
-     "PostCode": "15008",
-     "LatLong": "15.0516,-90.4148"
-    },
-    {
-     "Name": "LOS AMATES (EL CHOL)",
-     "PostCode": "15009",
-     "LatLong": "15.0516,-90.4148"
-    },
-    {
-     "Name": "LA CANOA (SALAMA)",
-     "PostCode": "15010",
-     "LatLong": "15.0516,-90.4148"
-    },
-    {
-     "Name": "SALTAN (GRANADOS)",
-     "PostCode": "15011",
-     "LatLong": "15.0516,-90.4148"
-    },
-    {
-     "Name": "SAN GABRIEL PANTZUY (SAN MIGUEL CHICAJ)",
-     "PostCode": "15012",
-     "LatLong": "15.0516,-90.4148"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE CHIMALTENANGO",
-   "Code": "03",
-   "Places": [
-    {
-     "Name": "DEPTO DE CHIMALTENANGO",
-     "PostCode": "04000",
-     "LatLong": "14.7156,-90.9328"
-    },
-    {
-     "Name": "CHIMALTENANGO",
-     "PostCode": "04001",
-     "LatLong": "14.6686,-90.8167"
-    },
-    {
-     "Name": "SAN JOSE POAQUIL",
-     "PostCode": "04002",
-     "LatLong": "14.8197,-90.9064"
-    },
-    {
-     "Name": "SAN MARTIN JILOTEPEQUE",
-     "PostCode": "04003",
-     "LatLong": "14.7878,-90.7925"
-    },
-    {
-     "Name": "COMALAPA",
-     "PostCode": "04004",
-     "LatLong": "14.7411,-90.8875"
-    },
-    {
-     "Name": "SANTA APOLONIA",
-     "PostCode": "04005",
-     "LatLong": "14.7914,-90.9708"
-    },
-    {
-     "Name": "TECPAN GUATEMALA",
-     "PostCode": "04006",
-     "LatLong": "14.7669,-90.9942"
-    },
-    {
-     "Name": "PATZUN",
-     "PostCode": "04007",
-     "LatLong": "14.6833,-91.0167"
-    },
-    {
-     "Name": "POCHUTA",
-     "PostCode": "04008",
-     "LatLong": "14.55,-91.0833"
-    },
-    {
-     "Name": "PATZICIA",
-     "PostCode": "04009",
-     "LatLong": "14.6317,-90.9269"
-    },
-    {
-     "Name": "SANTA CRUZ BALANYA",
-     "PostCode": "04010",
-     "LatLong": "14.6872,-90.915"
-    },
-    {
-     "Name": "ACATENANGO",
-     "PostCode": "04011",
-     "LatLong": "14.5519,-90.9422"
-    },
-    {
-     "Name": "YEPOCAPA",
-     "PostCode": "04012",
-     "LatLong": "14.5042,-90.9569"
-    },
-    {
-     "Name": "SAN ANDRES ITZAPA",
-     "PostCode": "04013",
-     "LatLong": "14.62,-90.8442"
-    },
-    {
-     "Name": "PARRAMOS",
-     "PostCode": "04014",
-     "LatLong": "14.6078,-90.8031"
-    },
-    {
-     "Name": "ZARAGOZA",
-     "PostCode": "04015",
-     "LatLong": "14.6544,-90.8894"
-    },
-    {
-     "Name": "EL TEJAR",
-     "PostCode": "04016",
-     "LatLong": "14.6478,-90.7928"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE CHIQUIMULA",
-   "Code": "04",
-   "Places": [
-    {
-     "Name": "DEPTO DE CHIQUIMULA",
-     "PostCode": "20000",
-     "LatLong": "14.7019,-89.4352"
-    },
-    {
-     "Name": "CHIQUIMULA",
-     "PostCode": "20001",
-     "LatLong": "14.8,-89.55"
-    },
-    {
-     "Name": "SAN JOSE LA ARADA",
-     "PostCode": "20002",
-     "LatLong": "14.7167,-89.5833"
-    },
-    {
-     "Name": "SAN JUAN ERMITA",
-     "PostCode": "20003",
-     "LatLong": "14.7667,-89.4333"
-    },
-    {
-     "Name": "JOCOTAN",
-     "PostCode": "20004",
-     "LatLong": "14.8167,-89.3833"
-    },
-    {
-     "Name": "CAMOTAN",
-     "PostCode": "20005",
-     "LatLong": "14.8167,-89.3667"
-    },
-    {
-     "Name": "OLOPA",
-     "PostCode": "20006",
-     "LatLong": "14.6833,-89.35"
-    },
-    {
-     "Name": "ESQUIPULAS",
-     "PostCode": "20007",
-     "LatLong": "14.5667,-89.35"
-    },
-    {
-     "Name": "CONCEPCION LAS MINAS",
-     "PostCode": "20008",
-     "LatLong": "14.5167,-89.45"
-    },
-    {
-     "Name": "QUETZALTEPEQUE",
-     "PostCode": "20009",
-     "LatLong": "14.6333,-89.45"
-    },
-    {
-     "Name": "SAN JACINTO",
-     "PostCode": "20010",
-     "LatLong": "14.6667,-89.5"
-    },
-    {
-     "Name": "IPALA",
-     "PostCode": "20011",
-     "LatLong": "14.6167,-89.6167"
-    },
-    {
-     "Name": "ANGUIATU (CONCEP. LAS MINAS )",
-     "PostCode": "20012",
-     "LatLong": "14.6875,-89.5333"
-    },
-    {
-     "Name": "EL AMATILLO (JOCOTAN)",
-     "PostCode": "20013",
-     "LatLong": "14.6875,-89.5333"
-    },
-    {
-     "Name": "EL FLORIDO (CAMOTAN)",
-     "PostCode": "20014",
-     "LatLong": "14.6875,-89.5333"
-    },
-    {
-     "Name": "SANTA ELENA (CHIQUIMULA)",
-     "PostCode": "20015",
-     "LatLong": "14.7167,-89.5"
-    },
-    {
-     "Name": "VALDO HONDO (CHIQUIMULA)",
-     "PostCode": "20016",
-     "LatLong": "14.6875,-89.5333"
-    },
-    {
-     "Name": "SAN ESTEBAN (CHIQUIMULA)",
-     "PostCode": "20017",
-     "LatLong": "14.75,-89.5167"
-    },
-    {
-     "Name": "TIERRA COLORADA ( SAN JOSE LA ARADA)",
-     "PostCode": "20018",
-     "LatLong": "14.6875,-89.5333"
-    },
-    {
-     "Name": "AGUA CALIENTE ( ESQUIPULAS)",
-     "PostCode": "20019",
-     "LatLong": "14.6875,-89.5333"
-    },
-    {
-     "Name": "NUEVA ANGUIATU (CONCEP. LAS MINAS)",
-     "PostCode": "20020",
-     "LatLong": "14.6974,-89.4654"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE ESCUINTLA",
-   "Code": "06",
-   "Places": [
-    {
-     "Name": "DEPTO DE ESCUINTLA",
-     "PostCode": "05000",
-     "LatLong": "14.2088,-90.9754"
-    },
-    {
-     "Name": "ESCUINTLA",
-     "PostCode": "05001",
-     "LatLong": "14.305,-90.785"
-    },
-    {
-     "Name": "SANTA LUCIA COTZUMALGUAPA",
-     "PostCode": "05002",
-     "LatLong": "14.3333,-91.0167"
-    },
-    {
-     "Name": "LA DEMOCRACIA",
-     "PostCode": "05003",
-     "LatLong": "14.2308,-90.9472"
-    },
-    {
-     "Name": "SIQUINALA",
-     "PostCode": "05004",
-     "LatLong": "14.3061,-90.965"
-    },
-    {
-     "Name": "MASAGUA",
-     "PostCode": "05005",
-     "LatLong": "14.2031,-90.8481"
-    },
-    {
-     "Name": "TIQUISATE",
-     "PostCode": "05006",
-     "LatLong": "14.2833,-91.3667"
-    },
-    {
-     "Name": "LA GOMERA",
-     "PostCode": "05007",
-     "LatLong": "14.0833,-91.05"
-    },
-    {
-     "Name": "SAN JOSE",
-     "PostCode": "05009",
-     "LatLong": "13.9256,-90.8244"
-    },
-    {
-     "Name": "ITZAPA",
-     "PostCode": "05010",
-     "LatLong": "14.62,-90.8442"
-    },
-    {
-     "Name": "PALIN",
-     "PostCode": "05011",
-     "LatLong": "14.4056,-90.6983"
-    },
-    {
-     "Name": "SAN VICENTE PACAYA",
-     "PostCode": "05012",
-     "LatLong": "14.4161,-90.6392"
-    },
-    {
-     "Name": "NUEVA CONCEPCION",
-     "PostCode": "05013",
-     "LatLong": "14.2,-91.3"
-    },
-    {
-     "Name": "OBERO (MASAGUA)",
-     "PostCode": "05014",
-     "LatLong": "14.4104,-90.8704"
-    },
-    {
-     "Name": "BRITO (GUANAGAZAPA)",
-     "PostCode": "05015",
-     "LatLong": "14.4104,-90.8704"
-    },
-    {
-     "Name": "SANTA ANA MIXTAN (NUEVA CONCEPCION)",
-     "PostCode": "05016",
-     "LatLong": "14.4104,-90.8704"
-    },
-    {
-     "Name": "EL NARANJO (MASAGUA)",
-     "PostCode": "05017",
-     "LatLong": "14.4104,-90.8704"
-    },
-    {
-     "Name": "SAN ANDRES OSUMA (ESCUINTLA)",
-     "PostCode": "05018",
-     "LatLong": "14.4104,-90.8704"
-    },
-    {
-     "Name": "CUYUTA (MASAGUA)",
-     "PostCode": "05019",
-     "LatLong": "14.4104,-90.8704"
-    },
-    {
-     "Name": "EL PORVENIR TICANLU (TIQUISATE)",
-     "PostCode": "05020",
-     "LatLong": "14.276,-90.9404"
-    },
-    {
-     "Name": "SIPACATE (LA GOMERA)",
-     "PostCode": "05021",
-     "LatLong": "14.276,-90.9404"
-    }
-   ]
-  },
-  {
-   "Name": "Ciudad de Guatemala",
-   "Code": "07",
-   "Places": [
-    {
-     "Name": "ZONA 1",
-     "PostCode": "01001",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 2",
-     "PostCode": "01002",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 3",
-     "PostCode": "01003",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 4",
-     "PostCode": "01004",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 5",
-     "PostCode": "01005",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 6",
-     "PostCode": "01006",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 7",
-     "PostCode": "01007",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 8",
-     "PostCode": "01008",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 9",
-     "PostCode": "01009",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 10",
-     "PostCode": "01010",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 11",
-     "PostCode": "01011",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 12",
-     "PostCode": "01012",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 13",
-     "PostCode": "01013",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 14",
-     "PostCode": "01014",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 15",
-     "PostCode": "01015",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 16",
-     "PostCode": "01016",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 17",
-     "PostCode": "01017",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 18",
-     "PostCode": "01018",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 19",
-     "PostCode": "01019",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "ZONA 21",
-     "PostCode": "01021",
-     "LatLong": "14.6328,-90.5199"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE GUATEMALA",
-   "Code": "07",
-   "Places": [
-    {
-     "Name": "SANTA CATARINA PINULA",
-     "PostCode": "01051",
-     "LatLong": "14.5689,-90.4953"
-    },
-    {
-     "Name": "SAN JOSE PINULA",
-     "PostCode": "01052",
-     "LatLong": "14.5461,-90.4114"
-    },
-    {
-     "Name": "SAN JOSE DEL GOLFO",
-     "PostCode": "01053",
-     "LatLong": "14.7628,-90.3764"
-    },
-    {
-     "Name": "PALENCIA",
-     "PostCode": "01054",
-     "LatLong": "14.6647,-90.3586"
-    },
-    {
-     "Name": "CHINAUTLA",
-     "PostCode": "01055",
-     "LatLong": "14.7083,-90.4994"
-    },
-    {
-     "Name": "SAN PEDRO AYAMPUC",
-     "PostCode": "01056",
-     "LatLong": "14.7867,-90.4511"
-    },
-    {
-     "Name": "MIXCO",
-     "PostCode": "01057",
-     "LatLong": "14.6333,-90.6064"
-    },
-    {
-     "Name": "SAN PEDRO SACATEPEQUEZ",
-     "PostCode": "01058",
-     "LatLong": "14.6842,-90.6442"
-    },
-    {
-     "Name": "SAN JUAN SACATEPEQUEZ",
-     "PostCode": "01059",
-     "LatLong": "14.7189,-90.6442"
-    },
-    {
-     "Name": "SAN RAYMUNDO",
-     "PostCode": "01060",
-     "LatLong": "14.7647,-90.5956"
-    },
-    {
-     "Name": "CHUARRANCHO",
-     "PostCode": "01061",
-     "LatLong": "14.8217,-90.5086"
-    },
-    {
-     "Name": "FRAIJANES",
-     "PostCode": "01062",
-     "LatLong": "14.4653,-90.4408"
-    },
-    {
-     "Name": "AMATITLAN",
-     "PostCode": "01063",
-     "LatLong": "14.4875,-90.6153"
-    },
-    {
-     "Name": "VILLA NUEVA",
-     "PostCode": "01064",
-     "LatLong": "14.5269,-90.5875"
-    },
-    {
-     "Name": "VILLA CANALES",
-     "PostCode": "01065",
-     "LatLong": "14.4814,-90.5317"
-    },
-    {
-     "Name": "PETAPA",
-     "PostCode": "01066",
-     "LatLong": "14.5028,-90.5517"
-    },
-    {
-     "Name": "CANALITOS (ZONA 21)",
-     "PostCode": "01067",
-     "LatLong": "14.5786,-90.5473"
-    },
-    {
-     "Name": "EL FISCAL (PALENCIA)",
-     "PostCode": "01068",
-     "LatLong": "14.5786,-90.5473"
-    },
-    {
-     "Name": "BOCA DEL MONTE (VILLA CANALES)",
-     "PostCode": "01069",
-     "LatLong": "14.5786,-90.5473"
-    },
-    {
-     "Name": "VUELTA GRANDE (SAN RAYMUNDO)",
-     "PostCode": "01070",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "TRAPICHE GRANDE (CHUARRANCHO)",
-     "PostCode": "01071",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "SANTA ELENA BARILLAS (VILLA CANALES)",
-     "PostCode": "01072",
-     "LatLong": "14.6328,-90.5199"
-    },
-    {
-     "Name": "PUERTA PARADA (SANTA CATARINA PINULA)",
-     "PostCode": "01073",
-     "LatLong": "14.6328,-90.5199"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE EL PROGRESO",
-   "Code": "07",
-   "Places": [
-    {
-     "Name": "DEPTO DE EL PROGRESO",
-     "PostCode": "02000",
-     "LatLong": "14.8515,-90.1145"
-    },
-    {
-     "Name": "GUASTATOYA",
-     "PostCode": "02001",
-     "LatLong": "14.8539,-90.0647"
-    },
-    {
-     "Name": "MORAZAN",
-     "PostCode": "02002",
-     "LatLong": "14.9328,-90.1431"
-    },
-    {
-     "Name": "SAN AGUSTIN ACASAGUASTLAN",
-     "PostCode": "02003",
-     "LatLong": "14.95,-89.9667"
-    },
-    {
-     "Name": "SAN CRISTOBAL ACASAGUASTLAN",
-     "PostCode": "02004",
-     "LatLong": "14.9167,-89.8833"
-    },
-    {
-     "Name": "EL JICARO",
-     "PostCode": "02005",
-     "LatLong": "14.8667,-90.2667"
-    },
-    {
-     "Name": "SANSARE",
-     "PostCode": "02006",
-     "LatLong": "14.7472,-90.1125"
-    },
-    {
-     "Name": "SANARATE",
-     "PostCode": "02007",
-     "LatLong": "14.795,-90.1922"
-    },
-    {
-     "Name": "SAN ANTONIO LA PAZ",
-     "PostCode": "02008",
-     "LatLong": "14.7497,-90.2867"
-    },
-    {
-     "Name": "TULUMAJILLO (SAN AGUSTIN ACASAGUASTLAN)",
-     "PostCode": "02009",
-     "LatLong": "14.8515,-90.1145"
-    },
-    {
-     "Name": "ESTACION JALAPA (SANSARE)",
-     "PostCode": "02010",
-     "LatLong": "14.8515,-90.1145"
-    },
-    {
-     "Name": "TULUMAJE (SAN AGUSTIN ACASAGUASTLAN)",
-     "PostCode": "02011",
-     "LatLong": "14.8515,-90.1145"
-    },
-    {
-     "Name": "ESTANCIA DE LA VIRGEN (SAN CRISTOBAL ACASAGUASTLAN)",
-     "PostCode": "02012",
-     "LatLong": "14.8515,-90.1145"
-    },
-    {
-     "Name": "PASO DE LOS JALAPAS (EL JICARO)",
-     "PostCode": "02013",
-     "LatLong": "14.8515,-90.1145"
-    },
-    {
-     "Name": "SANTA RITA (GUASTATOYA)",
-     "PostCode": "02014",
-     "LatLong": "14.8515,-90.1145"
-    },
-    {
-     "Name": "EL RANCHO ( SAN AGUSTIN ACASAGUASTLAN)",
-     "PostCode": "02015",
-     "LatLong": "14.8515,-90.1145"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE HUEHUETENANGO",
-   "Code": "08",
-   "Places": [
-    {
-     "Name": "DEPTO DE HUEHUETENANGO",
-     "PostCode": "13000",
-     "LatLong": "15.5368,-91.6565"
-    },
-    {
-     "Name": "HUEHUETENANGO",
-     "PostCode": "13001",
-     "LatLong": "15.3197,-91.4708"
-    },
-    {
-     "Name": "CHIANTLA",
-     "PostCode": "13002",
-     "LatLong": "15.3547,-91.4583"
-    },
-    {
-     "Name": "MALACANCITO",
-     "PostCode": "13003",
-     "LatLong": "15.5368,-91.6565"
-    },
-    {
-     "Name": "CUILCO",
-     "PostCode": "13004",
-     "LatLong": "15.4,-91.9667"
-    },
-    {
-     "Name": "NENTON",
-     "PostCode": "13005",
-     "LatLong": "15.8,-91.75"
-    },
-    {
-     "Name": "SAN PEDRO NECTA",
-     "PostCode": "13006",
-     "LatLong": "15.5,-91.7667"
-    },
-    {
-     "Name": "JACALTENANGO",
-     "PostCode": "13007",
-     "LatLong": "15.6667,-91.7333"
-    },
-    {
-     "Name": "SOLOMA",
-     "PostCode": "13008",
-     "LatLong": "15.7167,-91.45"
-    },
-    {
-     "Name": "IXTAHUATAN",
-     "PostCode": "13009",
-     "LatLong": "15.5368,-91.6565"
-    },
-    {
-     "Name": "SANTA BARBARA",
-     "PostCode": "13010",
-     "LatLong": "15.3167,-91.6167"
-    },
-    {
-     "Name": "LA LIBERTAD",
-     "PostCode": "13011",
-     "LatLong": "15.5,-91.8333"
-    },
-    {
-     "Name": "LA DEMOCRACIA",
-     "PostCode": "13012",
-     "LatLong": "15.5739,-91.6113"
-    },
-    {
-     "Name": "SAN MIGUEL ACATAN",
-     "PostCode": "13013",
-     "LatLong": "15.7,-91.6167"
-    },
-    {
-     "Name": "SAN RAFAEL LA INDEPENDENCIA",
-     "PostCode": "13014",
-     "LatLong": "15.7167,-91.5333"
-    },
-    {
-     "Name": "TODOS SANTOS CUCHUMATAN",
-     "PostCode": "13015",
-     "LatLong": "15.5167,-91.6167"
-    },
-    {
-     "Name": "SAN JUAN ATITAN",
-     "PostCode": "13016",
-     "LatLong": "15.4333,-91.6333"
-    },
-    {
-     "Name": "SANTA EULALIA",
-     "PostCode": "13017",
-     "LatLong": "15.7331,-91.4569"
-    },
-    {
-     "Name": "SAN MATEO IXTATAN",
-     "PostCode": "13018",
-     "LatLong": "15.8319,-91.4781"
-    },
-    {
-     "Name": "COLOTENANGO",
-     "PostCode": "13019",
-     "LatLong": "15.4167,-91.7167"
-    },
-    {
-     "Name": "SAN SEBASTIAN HUEHUETENANGO",
-     "PostCode": "13020",
-     "LatLong": "15.3833,-91.5833"
-    },
-    {
-     "Name": "TECTITAN",
-     "PostCode": "13021",
-     "LatLong": "15.3333,-92.0333"
-    },
-    {
-     "Name": "CONCEPCION",
-     "PostCode": "13022",
-     "LatLong": "15.6167,-91.6833"
-    },
-    {
-     "Name": "SAN JUAN IXCOY",
-     "PostCode": "13023",
-     "LatLong": "15.5997,-91.4453"
-    },
-    {
-     "Name": "SAN ANTONIO HUISTA",
-     "PostCode": "13024",
-     "LatLong": "15.65,-91.7667"
-    },
-    {
-     "Name": "SAN SEBASTIAN COSTAN",
-     "PostCode": "13025",
-     "LatLong": "15.5033,-91.6136"
-    },
-    {
-     "Name": "BARILLAS",
-     "PostCode": "13026",
-     "LatLong": "15.8036,-91.3158"
-    },
-    {
-     "Name": "AGUACATAN",
-     "PostCode": "13027",
-     "LatLong": "15.3431,-91.3117"
-    },
-    {
-     "Name": "SAN RAFAEL PETZAL",
-     "PostCode": "13028",
-     "LatLong": "15.4167,-91.6667"
-    },
-    {
-     "Name": "SAN GASPAR IXCHIL",
-     "PostCode": "13029",
-     "LatLong": "15.3833,-91.7167"
-    },
-    {
-     "Name": "SANTIAGO CHIMALTENANGO",
-     "PostCode": "13030",
-     "LatLong": "15.4667,-91.7167"
-    },
-    {
-     "Name": "SANTA ANA HUISTA",
-     "PostCode": "13031",
-     "LatLong": "15.6833,-91.8167"
-    },
-    {
-     "Name": "GRACIAS A DIOS (NENTON)",
-     "PostCode": "13032",
-     "LatLong": "15.4798,-91.6645"
-    },
-    {
-     "Name": "SAN LORENZO (HUEHUETENANGO)",
-     "PostCode": "13033",
-     "LatLong": "15.2894,-91.4603"
-    },
-    {
-     "Name": "SAN MARTIN CUCHUMATAN (TODOS SANTOS CUCHUMATAN)",
-     "PostCode": "13034",
-     "LatLong": "15.4798,-91.6645"
-    },
-    {
-     "Name": "SAN MARCOS HUISTA (JACALTENANGO)",
-     "PostCode": "13035",
-     "LatLong": "15.4798,-91.6645"
-    },
-    {
-     "Name": "PETATAN (CONCEPCION)",
-     "PostCode": "13036",
-     "LatLong": "15.4798,-91.6645"
-    },
-    {
-     "Name": "PAQUIX (CHIANTLA)",
-     "PostCode": "13037",
-     "LatLong": "15.4798,-91.6645"
-    },
-    {
-     "Name": "MICHICOY (SAN PEDRO NECTA)",
-     "PostCode": "13038",
-     "LatLong": "15.4798,-91.6645"
-    },
-    {
-     "Name": "SAN ANDRES HIUISTA (JACALTENANGO)",
-     "PostCode": "13039",
-     "LatLong": "15.4798,-91.6645"
-    },
-    {
-     "Name": "CHALUM (LA LIBERTAD)",
-     "PostCode": "13040",
-     "LatLong": "15.6167,-91.9833"
-    },
-    {
-     "Name": "LA MESILLA",
-     "PostCode": "13041",
-     "LatLong": "15.6167,-91.9833"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE IZABAL",
-   "Code": "09",
-   "Places": [
-    {
-     "Name": "DEPTO DE IZABAL",
-     "PostCode": "18000",
-     "LatLong": "15.5667,-88.9233"
-    },
-    {
-     "Name": "PUERTO BARRIOS",
-     "PostCode": "18001",
-     "LatLong": "15.7167,-88.6"
-    },
-    {
-     "Name": "LIVINGSTON",
-     "PostCode": "18002",
-     "LatLong": "15.8333,-88.75"
-    },
-    {
-     "Name": "EL ESTOR",
-     "PostCode": "18003",
-     "LatLong": "15.5333,-89.35"
-    },
-    {
-     "Name": "MORALES",
-     "PostCode": "18004",
-     "LatLong": "15.4833,-88.8167"
-    },
-    {
-     "Name": "LOS AMATES",
-     "PostCode": "18005",
-     "LatLong": "15.2667,-89.1"
-    },
-    {
-     "Name": "PLAYITAS (MORALES)",
-     "PostCode": "18006",
-     "LatLong": "15.5667,-88.9233"
-    },
-    {
-     "Name": "EL RICO (LOS AMATES)",
-     "PostCode": "18007",
-     "LatLong": "15.5667,-88.9233"
-    },
-    {
-     "Name": "CAYUGA (MORALES)",
-     "PostCode": "18008",
-     "LatLong": "15.5667,-88.9233"
-    },
-    {
-     "Name": "QUIRIGUA (LOS AMATES)",
-     "PostCode": "18009",
-     "LatLong": "15.5667,-88.9233"
-    },
-    {
-     "Name": "EL CINCHADO (PUERTO BARRIOS)",
-     "PostCode": "18010",
-     "LatLong": "15.5667,-88.9233"
-    },
-    {
-     "Name": "LAS QUEBRADAS (MORALES)",
-     "PostCode": "18011",
-     "LatLong": "15.5667,-88.9233"
-    },
-    {
-     "Name": "ENTRE RIOS (PUERTO BARRIOS)",
-     "PostCode": "18012",
-     "LatLong": "15.5667,-88.9233"
-    },
-    {
-     "Name": "SANTO TOMAS DE CASTILLA (PUERTO BARRIOS)",
-     "PostCode": "18013",
-     "LatLong": "15.5667,-88.9233"
-    },
-    {
-     "Name": "EL MITCHAL (MORALES)",
-     "PostCode": "18014",
-     "LatLong": "15.5667,-88.9233"
-    },
-    {
-     "Name": "LAS VINAS (MORALES)",
-     "PostCode": "18015",
-     "LatLong": "15.5667,-88.9233"
-    },
-    {
-     "Name": "EL REFUGIO (LOS AMATES)",
-     "PostCode": "18016",
-     "LatLong": "15.5667,-88.9233"
-    },
-    {
-     "Name": "SANTA INES (LOS AMATES)",
-     "PostCode": "18017",
-     "LatLong": "15.5667,-88.9233"
-    },
-    {
-     "Name": "TENEDORES (MORALES)",
-     "PostCode": "18018",
-     "LatLong": "15.5667,-88.9233"
-    },
-    {
-     "Name": "SAN FELIPE (LIVINGSTON)",
-     "PostCode": "18019",
-     "LatLong": "15.5667,-88.9233"
-    },
-    {
-     "Name": "BANANERA (MORALES)",
-     "PostCode": "18020",
-     "LatLong": "15.5667,-88.9233"
-    },
-    {
-     "Name": "FRONTERAS (LIVINGSTON)",
-     "PostCode": "18021",
-     "LatLong": "15.5667,-88.9233"
-    },
-    {
-     "Name": "MARISCOS (LOS AMATES)",
-     "PostCode": "18022",
-     "LatLong": "15.5667,-88.9233"
-    },
-    {
-     "Name": "BUENOS AIRES (MORALES)",
-     "PostCode": "18023",
-     "LatLong": "15.5667,-88.9233"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE JALAPA",
-   "Code": "10",
-   "Places": [
-    {
-     "Name": "DEPTO DE JALAPA",
-     "PostCode": "21000",
-     "LatLong": "14.583,-89.8896"
-    },
-    {
-     "Name": "JALAPA",
-     "PostCode": "21001",
-     "LatLong": "14.6333,-89.9833"
-    },
-    {
-     "Name": "SAN PEDRO PINULA",
-     "PostCode": "21002",
-     "LatLong": "14.6667,-89.85"
-    },
-    {
-     "Name": "SAN LUIS JILOTEPEQUE",
-     "PostCode": "21003",
-     "LatLong": "14.65,-89.7333"
-    },
-    {
-     "Name": "SAN MANUEL CHAPARRON",
-     "PostCode": "21004",
-     "LatLong": "14.5167,-89.7667"
-    },
-    {
-     "Name": "SAN CARLOS ALZATATE",
-     "PostCode": "21005",
-     "LatLong": "14.4978,-90.0603"
-    },
-    {
-     "Name": "MONJAS",
-     "PostCode": "21006",
-     "LatLong": "14.5,-89.8667"
-    },
-    {
-     "Name": "MATATESCUINTLA",
-     "PostCode": "21007",
-     "LatLong": "14.583,-89.8896"
-    },
-    {
-     "Name": "LLANO GRANDE",
-     "PostCode": "21008",
-     "LatLong": "14.6167,-89.9667"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE JUTIAPA",
-   "Code": "11",
-   "Places": [
-    {
-     "Name": "DEPTO DE JUTIAPA",
-     "PostCode": "22000",
-     "LatLong": "14.3069,-89.7775"
-    },
-    {
-     "Name": "JUTIAPA",
-     "PostCode": "22001",
-     "LatLong": "14.2833,-89.9"
-    },
-    {
-     "Name": "EL PROGRESO",
-     "PostCode": "22002",
-     "LatLong": "14.35,-89.85"
-    },
-    {
-     "Name": "SANTA CATARINA MITA",
-     "PostCode": "22003",
-     "LatLong": "14.45,-89.75"
-    },
-    {
-     "Name": "AGUA BLANCA",
-     "PostCode": "22004",
-     "LatLong": "14.5,-89.65"
-    },
-    {
-     "Name": "ASUNCION MITA",
-     "PostCode": "22005",
-     "LatLong": "14.3308,-89.7108"
-    },
-    {
-     "Name": "YUPILTEPEQUE",
-     "PostCode": "22006",
-     "LatLong": "14.2,-89.7833"
-    },
-    {
-     "Name": "ATESCATEMPA",
-     "PostCode": "22007",
-     "LatLong": "14.1744,-89.7425"
-    },
-    {
-     "Name": "JERES",
-     "PostCode": "22008",
-     "LatLong": "14.3069,-89.7775"
-    },
-    {
-     "Name": "EL ADELANTO",
-     "PostCode": "22009",
-     "LatLong": "14.1667,-89.8333"
-    },
-    {
-     "Name": "ZAPOTITLAN",
-     "PostCode": "22010",
-     "LatLong": "14.1333,-89.8333"
-    },
-    {
-     "Name": "COMAPA",
-     "PostCode": "22011",
-     "LatLong": "14.1167,-89.9167"
-    },
-    {
-     "Name": "JALPATAGUA",
-     "PostCode": "22012",
-     "LatLong": "14.1417,-90.0086"
-    },
-    {
-     "Name": "CONGUANCO",
-     "PostCode": "22013",
-     "LatLong": "14.1347,-90.0304"
-    },
-    {
-     "Name": "MOYUTA",
-     "PostCode": "22014",
-     "LatLong": "14.0386,-90.0808"
-    },
-    {
-     "Name": "PASACO",
-     "PostCode": "22015",
-     "LatLong": "13.9772,-90.2064"
-    },
-    {
-     "Name": "SAN JOSE ACATEMPA",
-     "PostCode": "22016",
-     "LatLong": "14.2653,-90.1269"
-    },
-    {
-     "Name": "QUESADA",
-     "PostCode": "22017",
-     "LatLong": "14.2703,-90.0403"
-    },
-    {
-     "Name": "CIUDAD PEDRO DE ALVARADO (MOYUTA)",
-     "PostCode": "22018",
-     "LatLong": "14.1347,-90.0304"
-    },
-    {
-     "Name": "SAN CRSITOBAL FRONTERA (ATESCATEMPA)",
-     "PostCode": "22019",
-     "LatLong": "14.1347,-90.0304"
-    },
-    {
-     "Name": "VALLE NUEVO JALPATAGUA",
-     "PostCode": "22020",
-     "LatLong": "14.2333,-89.9667"
-    },
-    {
-     "Name": "RIO DE PAZ",
-     "PostCode": "22021",
-     "LatLong": "14.2333,-89.9667"
-    },
-    {
-     "Name": "HORCONES (STA. CAT. MITA)",
-     "PostCode": "22022",
-     "LatLong": "14.2333,-89.9667"
-    },
-    {
-     "Name": "EL OVEJERO (EL PROGRESO)",
-     "PostCode": "22023",
-     "LatLong": "14.2333,-89.9667"
-    },
-    {
-     "Name": "CONTEPEQUE (ATESCATEMPA)",
-     "PostCode": "22024",
-     "LatLong": "14.2333,-89.9667"
-    },
-    {
-     "Name": "LA ESMERALDA (JEREZ)",
-     "PostCode": "22025",
-     "LatLong": "14.2333,-89.9667"
-    },
-    {
-     "Name": "HORCONES (ATESCATEMPA)",
-     "PostCode": "22026",
-     "LatLong": "14.2333,-89.9667"
-    },
-    {
-     "Name": "TIUCAL (ASUNCION MITA)",
-     "PostCode": "22027",
-     "LatLong": "14.2333,-89.9667"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE PETEN",
-   "Code": "12",
-   "Places": [
-    {
-     "Name": "DEPTO DE PETEN",
-     "PostCode": "17000",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "FLORES",
-     "PostCode": "17001",
-     "LatLong": "16.9333,-89.8833"
-    },
-    {
-     "Name": "SAN JOSE",
-     "PostCode": "17002",
-     "LatLong": "16.9833,-89.9"
-    },
-    {
-     "Name": "SAN BENITO",
-     "PostCode": "17003",
-     "LatLong": "16.9167,-89.9"
-    },
-    {
-     "Name": "SAN ANDRES",
-     "PostCode": "17004",
-     "LatLong": "16.9667,-89.9167"
-    },
-    {
-     "Name": "LA LIBERTAD",
-     "PostCode": "17005",
-     "LatLong": "16.7833,-90.1167"
-    },
-    {
-     "Name": "SAN FRANCISCO",
-     "PostCode": "17006",
-     "LatLong": "16.8,-89.9333"
-    },
-    {
-     "Name": "SANTA ANA",
-     "PostCode": "17007",
-     "LatLong": "16.8,-89.8333"
-    },
-    {
-     "Name": "DOLORES",
-     "PostCode": "17008",
-     "LatLong": "16.5142,-89.4158"
-    },
-    {
-     "Name": "SAN LUIS",
-     "PostCode": "17009",
-     "LatLong": "16.1989,-89.4403"
-    },
-    {
-     "Name": "SAYAXCHE",
-     "PostCode": "17010",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "MELCHOR DE MENCOS",
-     "PostCode": "17011",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "POPTUN",
-     "PostCode": "17012",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "TIKAL (FLORES)",
-     "PostCode": "17013",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "DOS LAGUNAS (FLORES)",
-     "PostCode": "17014",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "SANTO TORIBIO (DOLORES)",
-     "PostCode": "17015",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "PASO CABALLOS (SAN ANDRES)",
-     "PostCode": "17016",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "UAXACTUN (FLORES)",
-     "PostCode": "17017",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "CARMELITA (SAN ANDRES)",
-     "PostCode": "17018",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "MACHAQUILA (DOLORES)",
-     "PostCode": "17019",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "EL CHAL ( DOLORES )",
-     "PostCode": "17020",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "MACANCHE (DOLORES)",
-     "PostCode": "17021",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "EL REMATE (FLORES)",
-     "PostCode": "17022",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "LA FELICIDAD (SAYAXCHE)",
-     "PostCode": "17023",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "EL NARANJO (LA LIBERTAD)",
-     "PostCode": "17024",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "SACPUY (SAN ANDRES)",
-     "PostCode": "17025",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "PAXCAMAN (FLORES)",
-     "PostCode": "17026",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "LAS CRUCES (LA LIBERTAD)",
-     "PostCode": "17027",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "SABANETA (DOLORES)",
-     "PostCode": "17028",
-     "LatLong": "16.7663,-89.8155"
-    },
-    {
-     "Name": "SANTA ELENA",
-     "PostCode": "17029",
-     "LatLong": "16.7663,-89.8155"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE QUETZALTENANGO",
-   "Code": "13",
-   "Places": [
-    {
-     "Name": "DEPTO DE QUETZALTENANGO",
-     "PostCode": "09000",
-     "LatLong": "14.9375,-91.5625"
-    },
-    {
-     "Name": "QUETZALTENANGO",
-     "PostCode": "09001",
-     "LatLong": "14.8333,-91.5167"
-    },
-    {
-     "Name": "SALCAJA",
-     "PostCode": "09002",
-     "LatLong": "14.8833,-91.45"
-    },
-    {
-     "Name": "OLINTEPEQUE",
-     "PostCode": "09003",
-     "LatLong": "14.8833,-91.5167"
-    },
-    {
-     "Name": "SAN CARLOS SIJA",
-     "PostCode": "09004",
-     "LatLong": "14.9833,-91.55"
-    },
-    {
-     "Name": "SIBILIA",
-     "PostCode": "09005",
-     "LatLong": "15,-91.6167"
-    },
-    {
-     "Name": "CABRICAN",
-     "PostCode": "09006",
-     "LatLong": "15.1333,-91.6167"
-    },
-    {
-     "Name": "CAJOLA",
-     "PostCode": "09007",
-     "LatLong": "14.9167,-91.6167"
-    },
-    {
-     "Name": "SAN MIGUEL SIQUINALA",
-     "PostCode": "09008",
-     "LatLong": "14.9375,-91.5625"
-    },
-    {
-     "Name": "OSTUNCALCO",
-     "PostCode": "09009",
-     "LatLong": "14.8667,-91.6167"
-    },
-    {
-     "Name": "SAN MATEO",
-     "PostCode": "09010",
-     "LatLong": "14.8667,-91.5833"
-    },
-    {
-     "Name": "CONCEPCION CHIQUIRICHAPA",
-     "PostCode": "09011",
-     "LatLong": "14.85,-91.6167"
-    },
-    {
-     "Name": "SAN MARTIN SACATEPEQUEZ",
-     "PostCode": "09012",
-     "LatLong": "14.8167,-91.65"
-    },
-    {
-     "Name": "ALMOLONGA",
-     "PostCode": "09013",
-     "LatLong": "14.8167,-91.5"
-    },
-    {
-     "Name": "CANTEL",
-     "PostCode": "09014",
-     "LatLong": "14.8167,-91.45"
-    },
-    {
-     "Name": "HUITAN",
-     "PostCode": "09015",
-     "LatLong": "15.1,-91.6167"
-    },
-    {
-     "Name": "ZUNIL",
-     "PostCode": "09016",
-     "LatLong": "14.7833,-91.4833"
-    },
-    {
-     "Name": "COLOMBA",
-     "PostCode": "09017",
-     "LatLong": "14.7167,-91.7333"
-    },
-    {
-     "Name": "SAN FRANCISCO LA UNION",
-     "PostCode": "09018",
-     "LatLong": "14.9167,-91.5333"
-    },
-    {
-     "Name": "EL PALMAR",
-     "PostCode": "09019",
-     "LatLong": "14.65,-91.5833"
-    },
-    {
-     "Name": "COATEPEQUE",
-     "PostCode": "09020",
-     "LatLong": "14.7,-91.8667"
-    },
-    {
-     "Name": "GENOVA",
-     "PostCode": "09021",
-     "LatLong": "14.6167,-91.8333"
-    },
-    {
-     "Name": "FLORES COSTA CUCA",
-     "PostCode": "09022",
-     "LatLong": "14.65,-91.8167"
-    },
-    {
-     "Name": "LA ESPERANZA",
-     "PostCode": "09023",
-     "LatLong": "14.8833,-91.6833"
-    },
-    {
-     "Name": "PALESTINA DE LOS ALTOS",
-     "PostCode": "09024",
-     "LatLong": "14.9333,-91.7"
-    },
-    {
-     "Name": "SANTA MARIA DE JESUS (ZUNIL)",
-     "PostCode": "09025",
-     "LatLong": "14.7778,-91.7306"
-    },
-    {
-     "Name": "CHIQUIBAL (SAN CARLOS SIJA)",
-     "PostCode": "09026",
-     "LatLong": "14.7778,-91.7306"
-    },
-    {
-     "Name": "LAS PALMAS (COATEPEQUE)",
-     "PostCode": "09027",
-     "LatLong": "14.7778,-91.7306"
-    },
-    {
-     "Name": "CUICALBA (SIBILIA)",
-     "PostCode": "09028",
-     "LatLong": "14.7778,-91.7306"
-    },
-    {
-     "Name": "SAN JOSE CHIQUILAJA (QUETZALTENANGO)",
-     "PostCode": "09029",
-     "LatLong": "14.8833,-91.4833"
-    },
-    {
-     "Name": "EL EDEN (PALESTINA DE LOS ALTOS)",
-     "PostCode": "09030",
-     "LatLong": "14.8542,-91.6097"
-    },
-    {
-     "Name": "CHUATUJ (SAN CARLOS SIJA)",
-     "PostCode": "09031",
-     "LatLong": "14.8542,-91.6097"
-    },
-    {
-     "Name": "EL TAMBOR (EL PALMAR)",
-     "PostCode": "09032",
-     "LatLong": "14.8542,-91.6097"
-    },
-    {
-     "Name": "LAS MERCEDES (COLOMBA)",
-     "PostCode": "09033",
-     "LatLong": "14.8542,-91.6097"
-    },
-    {
-     "Name": "PALMIRA (COLOMBA)",
-     "PostCode": "09034",
-     "LatLong": "14.8542,-91.6097"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DEL QUICHE",
-   "Code": "14",
-   "Places": [
-    {
-     "Name": "DEPTO DEL QUICHE",
-     "PostCode": "14000",
-     "LatLong": "15.0926,-91.1044"
-    },
-    {
-     "Name": "SANTA CRUZ DEL QUICHE",
-     "PostCode": "14001",
-     "LatLong": "15.0306,-91.1489"
-    },
-    {
-     "Name": "QUICHE",
-     "PostCode": "14002",
-     "LatLong": "15.0926,-91.1044"
-    },
-    {
-     "Name": "CHINISQUE",
-     "PostCode": "14003",
-     "LatLong": "15.0926,-91.1044"
-    },
-    {
-     "Name": "ZACUALPA",
-     "PostCode": "14004",
-     "LatLong": "15.0833,-90.8333"
-    },
-    {
-     "Name": "CHAJUL",
-     "PostCode": "14005",
-     "LatLong": "15.4853,-91.0342"
-    },
-    {
-     "Name": "CHICHICASTENANGO",
-     "PostCode": "14006",
-     "LatLong": "14.9333,-91.1167"
-    },
-    {
-     "Name": "PATZITE",
-     "PostCode": "14007",
-     "LatLong": "14.9667,-91.2167"
-    },
-    {
-     "Name": "SAN ANTONIO ILOTENANGO",
-     "PostCode": "14008",
-     "LatLong": "15.0547,-91.2297"
-    },
-    {
-     "Name": "SAN PEDRO JOCOPILAS",
-     "PostCode": "14009",
-     "LatLong": "15.0944,-91.1514"
-    },
-    {
-     "Name": "CUNEN",
-     "PostCode": "14010",
-     "LatLong": "15.3375,-91.0269"
-    },
-    {
-     "Name": "SAN JUAN COTZAL",
-     "PostCode": "14011",
-     "LatLong": "15.4342,-91.0342"
-    },
-    {
-     "Name": "JOYABAJ",
-     "PostCode": "14012",
-     "LatLong": "14.995,-90.8061"
-    },
-    {
-     "Name": "NEBAJ",
-     "PostCode": "14013",
-     "LatLong": "15.4058,-91.1461"
-    },
-    {
-     "Name": "SAN ANDRES SAJCABAJA",
-     "PostCode": "14014",
-     "LatLong": "15.2167,-90.9167"
-    },
-    {
-     "Name": "USPANTAN",
-     "PostCode": "14015",
-     "LatLong": "15.3833,-90.8333"
-    },
-    {
-     "Name": "SACAPULAS",
-     "PostCode": "14016",
-     "LatLong": "15.2867,-91.0872"
-    },
-    {
-     "Name": "SAN BARTOLOME JOCOTENANGO",
-     "PostCode": "14017",
-     "LatLong": "15.1928,-91.0772"
-    },
-    {
-     "Name": "CANILLA",
-     "PostCode": "14018",
-     "LatLong": "15.1667,-90.85"
-    },
-    {
-     "Name": "PLAYA GRANDE (IXCAN)",
-     "PostCode": "14019",
-     "LatLong": "15.2687,-90.9753"
-    },
-    {
-     "Name": "CHICAMAN",
-     "PostCode": "14020",
-     "LatLong": "15.4,-90.7667"
-    },
-    {
-     "Name": "SANTA ROSA CHUJUYUB (SANTA CRUZ DEL QUICHE)",
-     "PostCode": "14021",
-     "LatLong": "15.2583,-90.5833"
-    },
-    {
-     "Name": "PACHALUM",
-     "PostCode": "14022",
-     "LatLong": "15.1167,-90.4"
-    },
-    {
-     "Name": "CANTABAL",
-     "PostCode": "14023",
-     "LatLong": "15.2583,-90.5833"
-    },
-    {
-     "Name": "SAN JOSE LA 20 (USPANTAN-IXCAN)",
-     "PostCode": "14024",
-     "LatLong": "15.2583,-90.5833"
-    },
-    {
-     "Name": "XACBAL",
-     "PostCode": "14025",
-     "LatLong": "15.2583,-90.5833"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE RETALHULEU",
-   "Code": "15",
-   "Places": [
-    {
-     "Name": "DEPTO DE RETALHULEU",
-     "PostCode": "11000",
-     "LatLong": "14.5519,-91.6759"
-    },
-    {
-     "Name": "RETALHULEU",
-     "PostCode": "11001",
-     "LatLong": "14.5333,-91.6833"
-    },
-    {
-     "Name": "SAN SEBASTIAN",
-     "PostCode": "11002",
-     "LatLong": "14.5667,-91.65"
-    },
-    {
-     "Name": "SANTA CRUZ MULUA",
-     "PostCode": "11003",
-     "LatLong": "14.5833,-91.6167"
-    },
-    {
-     "Name": "SAN MARTIN ZAPOTITLAN",
-     "PostCode": "11004",
-     "LatLong": "14.6,-91.6"
-    },
-    {
-     "Name": "SAN FELIPE",
-     "PostCode": "11005",
-     "LatLong": "14.6167,-91.6"
-    },
-    {
-     "Name": "SAN ANDRES VILLA SECA",
-     "PostCode": "11006",
-     "LatLong": "14.5667,-91.5833"
-    },
-    {
-     "Name": "CHAMPERICO",
-     "PostCode": "11007",
-     "LatLong": "14.3,-91.9167"
-    },
-    {
-     "Name": "NUEVO SAN CARLOS",
-     "PostCode": "11008",
-     "LatLong": "14.6,-91.7"
-    },
-    {
-     "Name": "EL ASINTAL",
-     "PostCode": "11009",
-     "LatLong": "14.6,-91.7333"
-    },
-    {
-     "Name": "CABALLO BLANCO (RETALHULEU)",
-     "PostCode": "11010",
-     "LatLong": "14.4833,-91.8333"
-    },
-    {
-     "Name": "CANDELARIA XOLHUITZ (NUEVO SAN CARLOS)",
-     "PostCode": "11011",
-     "LatLong": "14.4833,-91.8333"
-    },
-    {
-     "Name": "SINAVBA (EL ASINTAL)",
-     "PostCode": "11012",
-     "LatLong": "14.4833,-91.8333"
-    },
-    {
-     "Name": "EL XAB (EL ASINTAL)",
-     "PostCode": "11013",
-     "LatLong": "14.4833,-91.8333"
-    },
-    {
-     "Name": "LA MAQUINA (SAN ANDRES VILLA SECA)",
-     "PostCode": "11014",
-     "LatLong": "14.4833,-91.8333"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE SACATEPEQUEZ",
-   "Code": "16",
-   "Places": [
-    {
-     "Name": "DEPTO DE SACATEPEQUEZ",
-     "PostCode": "03000",
-     "LatLong": "14.6101,-90.7063"
-    },
-    {
-     "Name": "ANTIGUA GUATEMALA",
-     "PostCode": "03001",
-     "LatLong": "14.5611,-90.7344"
-    },
-    {
-     "Name": "JOCOTENANGO",
-     "PostCode": "03002",
-     "LatLong": "14.5819,-90.7436"
-    },
-    {
-     "Name": "PASTORES",
-     "PostCode": "03003",
-     "LatLong": "14.5967,-90.7547"
-    },
-    {
-     "Name": "SUMPANGO",
-     "PostCode": "03004",
-     "LatLong": "14.6464,-90.7339"
-    },
-    {
-     "Name": "SANTO DOMINGO XENACOJ",
-     "PostCode": "03005",
-     "LatLong": "14.6778,-90.6978"
-    },
-    {
-     "Name": "SANTIAGO SACATEPEQUEZ",
-     "PostCode": "03006",
-     "LatLong": "14.6353,-90.6764"
-    },
-    {
-     "Name": "SAN BARTOLOME MILPAS ALTAS",
-     "PostCode": "03007",
-     "LatLong": "14.6061,-90.68"
-    },
-    {
-     "Name": "SAN LUCAS SACATEPEQUEZ",
-     "PostCode": "03008",
-     "LatLong": "14.6097,-90.6569"
-    },
-    {
-     "Name": "SANTA LUCIA MILPAS ALTAS",
-     "PostCode": "03009",
-     "LatLong": "14.5758,-90.6786"
-    },
-    {
-     "Name": "MAGDALENA MILPAS ALTAS",
-     "PostCode": "03010",
-     "LatLong": "14.5453,-90.6753"
-    },
-    {
-     "Name": "SANTA MARIA DE JESUS",
-     "PostCode": "03011",
-     "LatLong": "14.5183,-90.7267"
-    },
-    {
-     "Name": "CIUDAD VIEJA",
-     "PostCode": "03012",
-     "LatLong": "14.5264,-90.7597"
-    },
-    {
-     "Name": "SAN MIGUEL DUENAS",
-     "PostCode": "03013",
-     "LatLong": "14.5239,-90.7983"
-    },
-    {
-     "Name": "ALOTENANGO",
-     "PostCode": "03014",
-     "LatLong": "14.4803,-90.8075"
-    },
-    {
-     "Name": "SAN ANTONIO AGUAS CALIENTES",
-     "PostCode": "03015",
-     "LatLong": "14.5397,-90.7694"
-    },
-    {
-     "Name": "SANTA CATARINA BARAHONA",
-     "PostCode": "03016",
-     "LatLong": "14.5489,-90.7883"
-    },
-    {
-     "Name": "SANTA MARIA CAUQUE (SANTIAGO SACATEPEQUEZ)",
-     "PostCode": "03017",
-     "LatLong": "14.5261,-90.7608"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE SAN MARCOS",
-   "Code": "17",
-   "Places": [
-    {
-     "Name": "DEPTO DE SAN MARCOS",
-     "PostCode": "12000",
-     "LatLong": "15.0896,-91.8521"
-    },
-    {
-     "Name": "SAN MARCOS",
-     "PostCode": "12001",
-     "LatLong": "14.9667,-91.8"
-    },
-    {
-     "Name": "SAN PEDRO SACATEPEQUEZ",
-     "PostCode": "12002",
-     "LatLong": "14.9667,-91.7667"
-    },
-    {
-     "Name": "SAN ANTONIO SACATEPEQUEZ",
-     "PostCode": "12003",
-     "LatLong": "14.9667,-91.7333"
-    },
-    {
-     "Name": "COMITANCILLO",
-     "PostCode": "12004",
-     "LatLong": "15.0833,-91.7167"
-    },
-    {
-     "Name": "SAN MIGUEL IXTAGUACAN",
-     "PostCode": "12005",
-     "LatLong": "15.0896,-91.8521"
-    },
-    {
-     "Name": "CONCEPCION TUTUAPA",
-     "PostCode": "12006",
-     "LatLong": "15.2833,-91.7833"
-    },
-    {
-     "Name": "TACANA",
-     "PostCode": "12007",
-     "LatLong": "15.2333,-92.0833"
-    },
-    {
-     "Name": "SIBINAL",
-     "PostCode": "12008",
-     "LatLong": "15.1333,-92.05"
-    },
-    {
-     "Name": "TAJUMULCO",
-     "PostCode": "12009",
-     "LatLong": "15.0833,-91.8833"
-    },
-    {
-     "Name": "TEJUTLA",
-     "PostCode": "12010",
-     "LatLong": "15.1167,-91.8"
-    },
-    {
-     "Name": "SAN RAFAEL PIE DE LA CUESTA",
-     "PostCode": "12011",
-     "LatLong": "14.9333,-91.9167"
-    },
-    {
-     "Name": "NUEVO PROGRESO",
-     "PostCode": "12012",
-     "LatLong": "14.8,-91.9167"
-    },
-    {
-     "Name": "EL TUMBADOR",
-     "PostCode": "12013",
-     "LatLong": "14.8667,-91.9333"
-    },
-    {
-     "Name": "EL RODEO",
-     "PostCode": "12014",
-     "LatLong": "14.9167,-91.9667"
-    },
-    {
-     "Name": "MALACATAN",
-     "PostCode": "12015",
-     "LatLong": "14.9,-92.05"
-    },
-    {
-     "Name": "CATARINA",
-     "PostCode": "12016",
-     "LatLong": "14.85,-92.0833"
-    },
-    {
-     "Name": "TECUN UMAN",
-     "PostCode": "12017",
-     "LatLong": "14.6667,-92.15"
-    },
-    {
-     "Name": "OCOS",
-     "PostCode": "12018",
-     "LatLong": "14.5094,-92.1933"
-    },
-    {
-     "Name": "SAN PABLO",
-     "PostCode": "12019",
-     "LatLong": "14.9333,-92"
-    },
-    {
-     "Name": "EL QUETZAL",
-     "PostCode": "12020",
-     "LatLong": "14.7667,-91.8167"
-    },
-    {
-     "Name": "LA REFORMA",
-     "PostCode": "12021",
-     "LatLong": "14.8,-91.8167"
-    },
-    {
-     "Name": "PAJAPITA",
-     "PostCode": "12022",
-     "LatLong": "14.7167,-92.0333"
-    },
-    {
-     "Name": "IXCHIGUAN",
-     "PostCode": "12023",
-     "LatLong": "15.2,-91.8833"
-    },
-    {
-     "Name": "SAN JOSE OJETEPAN",
-     "PostCode": "12024",
-     "LatLong": "14.9229,-91.8208"
-    },
-    {
-     "Name": "SAN CRISTOBAL CUCHO",
-     "PostCode": "12025",
-     "LatLong": "14.9,-91.7833"
-    },
-    {
-     "Name": "SIPACANA",
-     "PostCode": "12026",
-     "LatLong": "14.9229,-91.8208"
-    },
-    {
-     "Name": "ESQUIPULAS PALO GORDO",
-     "PostCode": "12027",
-     "LatLong": "14.9333,-91.8167"
-    },
-    {
-     "Name": "RIO BLANCO",
-     "PostCode": "12028",
-     "LatLong": "15.0333,-91.6833"
-    },
-    {
-     "Name": "SAN LORENZO",
-     "PostCode": "12029",
-     "LatLong": "15.0333,-91.7333"
-    },
-    {
-     "Name": "EL CARMEN (MALACATAN)",
-     "PostCode": "12030",
-     "LatLong": "15.05,-91.8167"
-    },
-    {
-     "Name": "ZANJON SAN LORENZO (TECUN UMAN)",
-     "PostCode": "12031",
-     "LatLong": "15.05,-91.8167"
-    },
-    {
-     "Name": "SAN JERONIMO (EL TUMBADOR)",
-     "PostCode": "12032",
-     "LatLong": "15.05,-91.8167"
-    },
-    {
-     "Name": "SERCHIL ( SAN MARCOS)",
-     "PostCode": "12033",
-     "LatLong": "15.0333,-91.8"
-    },
-    {
-     "Name": "LA DEMOCRACIA (EL TUMBADOR)",
-     "PostCode": "12034",
-     "LatLong": "15.05,-91.8167"
-    },
-    {
-     "Name": "SAN FRANCISCO ( EL RODEO)",
-     "PostCode": "12035",
-     "LatLong": "15.05,-91.8167"
-    },
-    {
-     "Name": "EL AMPARO (EL TUMBADOR)",
-     "PostCode": "12036",
-     "LatLong": "15.05,-91.8167"
-    },
-    {
-     "Name": "SAN SEBASTIAN (SAN MARCOS)",
-     "PostCode": "12037",
-     "LatLong": "15.0667,-91.8333"
-    },
-    {
-     "Name": "LOS LIMINES (OCOS)",
-     "PostCode": "12038",
-     "LatLong": "15.05,-91.8167"
-    },
-    {
-     "Name": "LA BLANCA (OCOS)",
-     "PostCode": "12039",
-     "LatLong": "15.05,-91.8167"
-    },
-    {
-     "Name": "EL CIELO (EL TUMBADOR)",
-     "PostCode": "12040",
-     "LatLong": "14.9533,-91.8938"
-    },
-    {
-     "Name": "SAN JOSE IXTAL (NUEVO PROGRESO)",
-     "PostCode": "12041",
-     "LatLong": "14.9533,-91.8938"
-    },
-    {
-     "Name": "PLATANARES (OCOS)",
-     "PostCode": "12042",
-     "LatLong": "14.9533,-91.8938"
-    },
-    {
-     "Name": "LAS DELICIAS (EL TUMBADOR)",
-     "PostCode": "12043",
-     "LatLong": "14.9533,-91.8938"
-    },
-    {
-     "Name": "CALAPTE (IXCHIGUAN)",
-     "PostCode": "12044",
-     "LatLong": "14.9533,-91.8938"
-    },
-    {
-     "Name": "TOCAHE(SAN PABLO)",
-     "PostCode": "12045",
-     "LatLong": "14.9533,-91.8938"
-    },
-    {
-     "Name": "LA CONQUISTA (NUEVO PROGRESO)",
-     "PostCode": "12046",
-     "LatLong": "14.9533,-91.8938"
-    },
-    {
-     "Name": "CHAMPOLLAP (SAN PEDRO SACATEPEQUEZ)",
-     "PostCode": "12047",
-     "LatLong": "14.9533,-91.8938"
-    },
-    {
-     "Name": "PIEDRA GRANDE (SAN PEDRO SACATEPEQUEZ",
-     "PostCode": "12048",
-     "LatLong": "14.9533,-91.8938"
-    },
-    {
-     "Name": "SANTA LUCIA IXCAMAL (SAN MARCOS)",
-     "PostCode": "12049",
-     "LatLong": "14.9533,-91.8938"
-    },
-    {
-     "Name": "EL SITIO (CATARINA )",
-     "PostCode": "12050",
-     "LatLong": "14.9533,-91.8938"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE SANTA ROSA",
-   "Code": "18",
-   "Places": [
-    {
-     "Name": "DEPTO DE SANTA ROSA",
-     "PostCode": "06000",
-     "LatLong": "14.2605,-90.2946"
-    },
-    {
-     "Name": "CUILAPA",
-     "PostCode": "06001",
-     "LatLong": "14.2764,-90.3003"
-    },
-    {
-     "Name": "BARBERENA",
-     "PostCode": "06002",
-     "LatLong": "14.3094,-90.3611"
-    },
-    {
-     "Name": "SANTA ROSA DE LIMA",
-     "PostCode": "06003",
-     "LatLong": "14.3881,-90.2956"
-    },
-    {
-     "Name": "CASILLAS",
-     "PostCode": "06004",
-     "LatLong": "14.4222,-90.2442"
-    },
-    {
-     "Name": "SAN RAFAEL LAS FLORES",
-     "PostCode": "06005",
-     "LatLong": "14.4814,-90.1733"
-    },
-    {
-     "Name": "ORATORIO",
-     "PostCode": "06006",
-     "LatLong": "14.2281,-90.1758"
-    },
-    {
-     "Name": "SAN JUAN TECUACO",
-     "PostCode": "06007",
-     "LatLong": "14.0822,-90.2611"
-    },
-    {
-     "Name": "CHIQUIMULILLA",
-     "PostCode": "06008",
-     "LatLong": "14.0858,-90.3767"
-    },
-    {
-     "Name": "TAXISCO",
-     "PostCode": "06009",
-     "LatLong": "14.0708,-90.4631"
-    },
-    {
-     "Name": "SANTA MARIA IXHUATAN",
-     "PostCode": "06010",
-     "LatLong": "14.19,-90.2747"
-    },
-    {
-     "Name": "GUAZACAPAN",
-     "PostCode": "06011",
-     "LatLong": "14.0742,-90.4167"
-    },
-    {
-     "Name": "SANTA CRUZ NARANJO",
-     "PostCode": "06012",
-     "LatLong": "14.3881,-90.3697"
-    },
-    {
-     "Name": "PUEBLO NUEVO VINAS",
-     "PostCode": "06013",
-     "LatLong": "14.2258,-90.4742"
-    },
-    {
-     "Name": "NUEVA SANTA ROSA",
-     "PostCode": "06014",
-     "LatLong": "14.3811,-90.2761"
-    },
-    {
-     "Name": "EL AHUMADO (CHIQUIMULILLA)",
-     "PostCode": "06015",
-     "LatLong": "14.2518,-90.3623"
-    },
-    {
-     "Name": "LOS CERRITOS (CHIQUIMULILLA)",
-     "PostCode": "06016",
-     "LatLong": "14.2518,-90.3623"
-    },
-    {
-     "Name": "CASAS VIEJAS (CHIQUIMULILLA)",
-     "PostCode": "06017",
-     "LatLong": "14.2518,-90.3623"
-    },
-    {
-     "Name": "AYARZA (CASILLAS)",
-     "PostCode": "06018",
-     "LatLong": "14.2518,-90.3623"
-    },
-    {
-     "Name": "EL MOLINO (CUILAPA)",
-     "PostCode": "06019",
-     "LatLong": "14.2518,-90.3623"
-    },
-    {
-     "Name": "NANCINTA (CHIQUIMULILLA)",
-     "PostCode": "06020",
-     "LatLong": "14.2574,-90.3188"
-    },
-    {
-     "Name": "SAN MIGUEL AROCHE (CHIQUIMULILLA)",
-     "PostCode": "06021",
-     "LatLong": "14.2574,-90.3188"
-    },
-    {
-     "Name": "LOS ESCLAVOS (CUILAPA)",
-     "PostCode": "06022",
-     "LatLong": "14.2574,-90.3188"
-    },
-    {
-     "Name": "EL SERINAL (BARBERENA)",
-     "PostCode": "06023",
-     "LatLong": "14.2574,-90.3188"
-    },
-    {
-     "Name": "MONTERICO (TAXISCO)",
-     "PostCode": "06024",
-     "LatLong": "14.2574,-90.3188"
-    },
-    {
-     "Name": "SAN JUAN DE ARANA (CUILAPA)",
-     "PostCode": "06025",
-     "LatLong": "14.2574,-90.3188"
-    },
-    {
-     "Name": "EL RINCONCITO (SANTA ROSA DE LIMA)",
-     "PostCode": "06026",
-     "LatLong": "14.2574,-90.3188"
-    },
-    {
-     "Name": "CERRO GORDO (SANTA ROSA DE LIMA)",
-     "PostCode": "06027",
-     "LatLong": "14.2574,-90.3188"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE SOLOLA",
-   "Code": "19",
-   "Places": [
-    {
-     "Name": "DEPTO DE SOLOLA",
-     "PostCode": "07000",
-     "LatLong": "14.7708,-91.2646"
-    },
-    {
-     "Name": "SOLOLA",
-     "PostCode": "07001",
-     "LatLong": "14.7667,-91.1833"
-    },
-    {
-     "Name": "SAN JOSE CHACAYA",
-     "PostCode": "07002",
-     "LatLong": "14.7667,-91.2167"
-    },
-    {
-     "Name": "SANTA MARIA VISITACION",
-     "PostCode": "07003",
-     "LatLong": "14.7167,-91.3167"
-    },
-    {
-     "Name": "SANTA LUCIA UTATLAN",
-     "PostCode": "07004",
-     "LatLong": "14.7667,-91.2667"
-    },
-    {
-     "Name": "NAHUALA",
-     "PostCode": "07005",
-     "LatLong": "14.85,-91.3167"
-    },
-    {
-     "Name": "SANTA CATARINA IXTAHUACAN",
-     "PostCode": "07006",
-     "LatLong": "14.8,-91.3667"
-    },
-    {
-     "Name": "SANTA CLARA LA LAGUNA",
-     "PostCode": "07007",
-     "LatLong": "14.7167,-91.3"
-    },
-    {
-     "Name": "CONCEPCION",
-     "PostCode": "07008",
-     "LatLong": "14.7833,-91.15"
-    },
-    {
-     "Name": "SAN ANDRES SEMETATABAJ",
-     "PostCode": "07009",
-     "LatLong": "14.7708,-91.2646"
-    },
-    {
-     "Name": "PANAJACHEL",
-     "PostCode": "07010",
-     "LatLong": "14.7333,-91.15"
-    },
-    {
-     "Name": "SANTA CATARINA PALOPO",
-     "PostCode": "07011",
-     "LatLong": "14.7167,-91.1333"
-    },
-    {
-     "Name": "SAN ANTONIO PALOPO",
-     "PostCode": "07012",
-     "LatLong": "14.7,-91.1167"
-    },
-    {
-     "Name": "SAN LUCAS TOLIMAN",
-     "PostCode": "07013",
-     "LatLong": "14.6333,-91.1333"
-    },
-    {
-     "Name": "SANTA CRUZ LA LAGUNA",
-     "PostCode": "07014",
-     "LatLong": "14.75,-91.2167"
-    },
-    {
-     "Name": "SAN PABLO LA LAGUNA",
-     "PostCode": "07015",
-     "LatLong": "14.7167,-91.2667"
-    },
-    {
-     "Name": "SAN MARCOS LA LAGUNA",
-     "PostCode": "07016",
-     "LatLong": "14.7167,-91.2667"
-    },
-    {
-     "Name": "SAN JUAN LA LAGUNA",
-     "PostCode": "07017",
-     "LatLong": "14.7,-91.2833"
-    },
-    {
-     "Name": "SAN PEDRO LA LAGUNA",
-     "PostCode": "07018",
-     "LatLong": "14.6833,-91.2667"
-    },
-    {
-     "Name": "SANTIAGO ATITLAN",
-     "PostCode": "07019",
-     "LatLong": "14.6382,-91.229"
-    },
-    {
-     "Name": "LOS ENCUENTROS SOLOLA",
-     "PostCode": "07020",
-     "LatLong": "14.85,-91.15"
-    },
-    {
-     "Name": "GODINEZ (SAN ANDRES SEMETABAJ)",
-     "PostCode": "07021",
-     "LatLong": "14.8444,-91.1889"
-    },
-    {
-     "Name": "AGUA ESCONDIDA ( SAN ANTONIO PALOPO)",
-     "PostCode": "07022",
-     "LatLong": "14.8444,-91.1889"
-    },
-    {
-     "Name": "ARGUETA (SOLOLA)",
-     "PostCode": "07023",
-     "LatLong": "14.8167,-91.2333"
-    },
-    {
-     "Name": "PIXABAJ (SOLOLA)",
-     "PostCode": "07024",
-     "LatLong": "14.8667,-91.1833"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE SUCHITEPEQUEZ",
-   "Code": "20",
-   "Places": [
-    {
-     "Name": "DEPTO DE SUCHITEPEQUEZ",
-     "PostCode": "10000",
-     "LatLong": "14.5208,-91.4875"
-    },
-    {
-     "Name": "MAZATENANGO",
-     "PostCode": "10001",
-     "LatLong": "14.5333,-91.5"
-    },
-    {
-     "Name": "CUYOTENANGO",
-     "PostCode": "10002",
-     "LatLong": "14.5333,-91.5667"
-    },
-    {
-     "Name": "SAN FRANCISCO ZAPOTITLAN",
-     "PostCode": "10003",
-     "LatLong": "14.5833,-91.5167"
-    },
-    {
-     "Name": "SAN BERNARDINO",
-     "PostCode": "10004",
-     "LatLong": "14.5333,-91.45"
-    },
-    {
-     "Name": "SAN JOSE EL IDOLO",
-     "PostCode": "10005",
-     "LatLong": "14.45,-91.4167"
-    },
-    {
-     "Name": "SANTO DOMINGO SUCHITEPEQUEZ",
-     "PostCode": "10006",
-     "LatLong": "14.4667,-91.4833"
-    },
-    {
-     "Name": "SAN LORENZO",
-     "PostCode": "10007",
-     "LatLong": "14.4833,-91.5167"
-    },
-    {
-     "Name": "SAMAYAO",
-     "PostCode": "10008",
-     "LatLong": "14.5208,-91.4875"
-    },
-    {
-     "Name": "SAN PABLO JOCOPILAS",
-     "PostCode": "10009",
-     "LatLong": "14.5833,-91.45"
-    },
-    {
-     "Name": "SAN ANTONIO SUCHITEPEQUEZ",
-     "PostCode": "10010",
-     "LatLong": "14.5333,-91.4167"
-    },
-    {
-     "Name": "SAN MIGUEL PANAN",
-     "PostCode": "10011",
-     "LatLong": "14.5333,-91.3667"
-    },
-    {
-     "Name": "SAN GABRIEL",
-     "PostCode": "10012",
-     "LatLong": "14.5167,-91.5167"
-    },
-    {
-     "Name": "CHICACAO",
-     "PostCode": "10013",
-     "LatLong": "14.5333,-91.3167"
-    },
-    {
-     "Name": "PATULUL",
-     "PostCode": "10014",
-     "LatLong": "14.4167,-91.1667"
-    },
-    {
-     "Name": "SANTA BARBARA",
-     "PostCode": "10015",
-     "LatLong": "14.4333,-91.2333"
-    },
-    {
-     "Name": "SAN JUAN BAUTISTA",
-     "PostCode": "10016",
-     "LatLong": "14.4167,-91.1833"
-    },
-    {
-     "Name": "SANTO TOMAS LA UNION",
-     "PostCode": "10017",
-     "LatLong": "14.6333,-91.3833"
-    },
-    {
-     "Name": "ZUNULITO",
-     "PostCode": "10018",
-     "LatLong": "14.4778,-91.3278"
-    },
-    {
-     "Name": "PUEBLO NUEVO",
-     "PostCode": "10019",
-     "LatLong": "14.2833,-91.3667"
-    },
-    {
-     "Name": "RIO BRAVO",
-     "PostCode": "10020",
-     "LatLong": "14.4,-91.3167"
-    },
-    {
-     "Name": "COCALES (PATULUL)",
-     "PostCode": "10021",
-     "LatLong": "14.4,-91.3167"
-    },
-    {
-     "Name": "CHOCOLA (SAN PABLO JOCOPILAS)",
-     "PostCode": "10022",
-     "LatLong": "14.4,-91.3167"
-    },
-    {
-     "Name": "TAHUEXCO (MAZATENANGO)",
-     "PostCode": "10023",
-     "LatLong": "14.4,-91.3167"
-    },
-    {
-     "Name": "GUATALON (RIO BRAVO)",
-     "PostCode": "10024",
-     "LatLong": "14.4,-91.3167"
-    },
-    {
-     "Name": "PALO GORDO (SAN ANTONIO SUCHITEPEQUEZ)",
-     "PostCode": "10025",
-     "LatLong": "14.4,-91.3167"
-    },
-    {
-     "Name": "SAN RAFAEL PANAN (SANTA BARBARA)",
-     "PostCode": "10026",
-     "LatLong": "14.4,-91.3167"
-    },
-    {
-     "Name": "BRACITOS (MAZATENANGO)",
-     "PostCode": "10027",
-     "LatLong": "14.4,-91.3167"
-    },
-    {
-     "Name": "BOLIVIA (SANTO DOMINGO SUCHITEPEQUEZ)",
-     "PostCode": "10028",
-     "LatLong": "14.4,-91.3167"
-    },
-    {
-     "Name": "MONTERREY (SANTO DOMINGO SUCHITEPEQUEZ)",
-     "PostCode": "10029",
-     "LatLong": "14.4,-91.3167"
-    },
-    {
-     "Name": "LA MAQUINA (CUYOTENANGO)",
-     "PostCode": "10030",
-     "LatLong": "14.4926,-91.3981"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE TOTONICAPAN",
-   "Code": "21",
-   "Places": [
-    {
-     "Name": "DEPTO DE TOTONICAPAN",
-     "PostCode": "08000",
-     "LatLong": "14.9962,-91.3953"
-    },
-    {
-     "Name": "TOTONICAPAN",
-     "PostCode": "08001",
-     "LatLong": "14.9167,-91.3667"
-    },
-    {
-     "Name": "SAN CRISTOBAL TOTONICAPAN",
-     "PostCode": "08002",
-     "LatLong": "14.9167,-91.4333"
-    },
-    {
-     "Name": "SAN FRANCISCO EL ALTO",
-     "PostCode": "08003",
-     "LatLong": "14.95,-91.45"
-    },
-    {
-     "Name": "SAN ANDRES XECUL",
-     "PostCode": "08004",
-     "LatLong": "14.9,-91.4833"
-    },
-    {
-     "Name": "MOMOSTENANGO",
-     "PostCode": "08005",
-     "LatLong": "15.0436,-91.4086"
-    },
-    {
-     "Name": "SANTA MARIA CHIQUIMULA",
-     "PostCode": "08006",
-     "LatLong": "15.0303,-91.3292"
-    },
-    {
-     "Name": "SANTA LUCIA LA REFORMA",
-     "PostCode": "08007",
-     "LatLong": "15.1283,-91.2356"
-    },
-    {
-     "Name": "SAN BARTOLO",
-     "PostCode": "08008",
-     "LatLong": "15.0844,-91.4558"
-    }
-   ]
-  },
-  {
-   "Name": "DEPTO DE ZACAPA",
-   "Code": "22",
-   "Places": [
-    {
-     "Name": "DEPTO DE ZACAPA",
-     "PostCode": "19000",
-     "LatLong": "14.9759,-89.6019"
-    },
-    {
-     "Name": "ZACAPA",
-     "PostCode": "19001",
-     "LatLong": "14.9667,-89.5333"
-    },
-    {
-     "Name": "ESTANZUELA",
-     "PostCode": "19002",
-     "LatLong": "15,-89.5667"
-    },
-    {
-     "Name": "RIO HONDO",
-     "PostCode": "19003",
-     "LatLong": "15.0667,-89.5833"
-    },
-    {
-     "Name": "GUALAN",
-     "PostCode": "19004",
-     "LatLong": "15.1333,-89.3667"
-    },
-    {
-     "Name": "TECULUTAN",
-     "PostCode": "19005",
-     "LatLong": "14.9833,-89.7167"
-    },
-    {
-     "Name": "USUMATLAN",
-     "PostCode": "19006",
-     "LatLong": "14.95,-89.7833"
-    },
-    {
-     "Name": "CABANAS",
-     "PostCode": "19007",
-     "LatLong": "14.9333,-89.8"
-    },
-    {
-     "Name": "SAN DIEGO",
-     "PostCode": "19008",
-     "LatLong": "14.7833,-89.7833"
-    },
-    {
-     "Name": "LA UNION",
-     "PostCode": "19009",
-     "LatLong": "14.9667,-89.2833"
-    },
-    {
-     "Name": "HUITE",
-     "PostCode": "19010",
-     "LatLong": "14.9333,-89.7167"
-    },
-    {
-     "Name": "LA REFORMA (HUITE)",
-     "PostCode": "19011",
-     "LatLong": "14.95,-89.6028"
-    },
-    {
-     "Name": "SAN JOSE (TECULUTAN)",
-     "PostCode": "19012",
-     "LatLong": "14.95,-89.6028"
-    },
-    {
-     "Name": "SAN JORGE (ZACAPA)",
-     "PostCode": "19013",
-     "LatLong": "14.9333,-89.5833"
-    },
-    {
-     "Name": "SANTA ROSALIA (ZACAPA)",
-     "PostCode": "19014",
-     "LatLong": "14.95,-89.6028"
-    },
-    {
-     "Name": "SANTA LUCIA (ZACAPA)",
-     "PostCode": "19015",
-     "LatLong": "14.9167,-89.5167"
-    },
-    {
-     "Name": "LA FRAGUA (ZACAPA)",
-     "PostCode": "19016",
-     "LatLong": "14.9667,-89.55"
-    },
-    {
-     "Name": "SAN PABLO (ZACAPA)",
-     "PostCode": "19017",
-     "LatLong": "15.05,-89.5"
-    },
-    {
-     "Name": "SAN VICENTE",
-     "PostCode": "19018",
-     "LatLong": "14.9,-89.75"
-    }
-   ]
-  }
- ]
+"Structure": "State/Place",
+"States": [
+{
+"Name": "DEPTO DE ALTA VERAPAZ",
+"Code": "01",
+"Places": [
+{
+"Name": "DEPTO DE ALTA VERAPAZ",
+"PostCode": "16000",
+"LatLong": "15.387,-90.1667"
+},
+{
+"Name": "COBAN",
+"PostCode": "16001",
+"LatLong": "15.4833,-90.3667"
+},
+{
+"Name": "SANTA CRUZ VERAPAZ",
+"PostCode": "16002",
+"LatLong": "15.3667,-90.4333"
+},
+{
+"Name": "SAN CRISTOBAL VERAPAZ",
+"PostCode": "16003",
+"LatLong": "15.3833,-90.4"
+},
+{
+"Name": "TACTIC",
+"PostCode": "16004",
+"LatLong": "15.3333,-90.3"
+},
+{
+"Name": "TAMAHU",
+"PostCode": "16005",
+"LatLong": "15.3333,-90.1667"
+},
+{
+"Name": "TUCURU",
+"PostCode": "16006",
+"LatLong": "15.3,-90.0667"
+},
+{
+"Name": "PANZOS",
+"PostCode": "16007",
+"LatLong": "15.4,-89.6667"
+},
+{
+"Name": "SENAHU",
+"PostCode": "16008",
+"LatLong": "15.4,-89.8333"
+},
+{
+"Name": "SAN PEDRO CARCHA",
+"PostCode": "16009",
+"LatLong": "15.4833,-90.2667"
+},
+{
+"Name": "SAN JUAN CHAMELCO",
+"PostCode": "16010",
+"LatLong": "15.4333,-90.3333"
+},
+{
+"Name": "LANQUIN",
+"PostCode": "16011",
+"LatLong": "15.5667,-89.9667"
+},
+{
+"Name": "CAHABON",
+"PostCode": "16012",
+"LatLong": "15.5667,-89.8167"
+},
+{
+"Name": "CHISET",
+"PostCode": "16013",
+"LatLong": "15.5792,-89.9208"
+},
+{
+"Name": "CHAHAL",
+"PostCode": "16014",
+"LatLong": "15.75,-89.5667"
+},
+{
+"Name": "FRAY BARTOLOME DE LAS CASAS",
+"PostCode": "16015",
+"LatLong": "15.5792,-89.9208"
+},
+{
+"Name": "LA TINTA (PANZOS)",
+"PostCode": "16016",
+"LatLong": "15.5792,-89.9208"
+},
+{
+"Name": "TELEMAN (PANZOS)",
+"PostCode": "16017",
+"LatLong": "15.5792,-89.9208"
+},
+{
+"Name": "PANCAJCHE (TUCURU)",
+"PostCode": "16018",
+"LatLong": "15.5792,-89.9208"
+},
+{
+"Name": "SEBOL (FRAY BARTOLOME)",
+"PostCode": "16019",
+"LatLong": "15.5792,-89.9208"
+},
+{
+"Name": "BOLONCO (FRAY BARTOLOME)",
+"PostCode": "16020",
+"LatLong": "15.4462,-90.091"
+},
+{
+"Name": "CAMPUR (SAN PEDRO CARCHA)",
+"PostCode": "16021",
+"LatLong": "15.4462,-90.091"
+},
+{
+"Name": "LAS CASAS",
+"PostCode": "16022",
+"LatLong": "15.4462,-90.091"
+},
+{
+"Name": "SALACUIN",
+"PostCode": "16023",
+"LatLong": "15.4462,-90.091"
+},
+{
+"Name": "EL ROSARIO",
+"PostCode": "16024",
+"LatLong": "15.4462,-90.091"
+},
+{
+"Name": "LAS CONCHAS",
+"PostCode": "16025",
+"LatLong": "15.4462,-90.091"
+},
+{
+"Name": "RAXRUHA (CHISEC)",
+"PostCode": "16026",
+"LatLong": "15.4462,-90.091"
+}
+]
+},
+{
+"Name": "DEPTO DE BAJA VERAPAZ",
+"Code": "02",
+"Places": [
+{
+"Name": "DEPTO DE BAJA VERAPAZ",
+"PostCode": "15000",
+"LatLong": "15.0516,-90.4148"
+},
+{
+"Name": "SALAMA",
+"PostCode": "15001",
+"LatLong": "15.1,-90.2667"
+},
+{
+"Name": "SAN MIGUEL CHICAJ",
+"PostCode": "15002",
+"LatLong": "15.1,-90.4"
+},
+{
+"Name": "RABINAL",
+"PostCode": "15003",
+"LatLong": "15.1,-90.45"
+},
+{
+"Name": "CUBULCO",
+"PostCode": "15004",
+"LatLong": "15.1333,-90.5833"
+},
+{
+"Name": "GRANADOS",
+"PostCode": "15005",
+"LatLong": "14.9136,-90.5228"
+},
+{
+"Name": "EL CHOL",
+"PostCode": "15006",
+"LatLong": "14.9642,-90.4806"
+},
+{
+"Name": "SAN JERONIMO",
+"PostCode": "15007",
+"LatLong": "15.05,-90.2"
+},
+{
+"Name": "PERULHA",
+"PostCode": "15008",
+"LatLong": "15.0516,-90.4148"
+},
+{
+"Name": "LOS AMATES (EL CHOL)",
+"PostCode": "15009",
+"LatLong": "15.0516,-90.4148"
+},
+{
+"Name": "LA CANOA (SALAMA)",
+"PostCode": "15010",
+"LatLong": "15.0516,-90.4148"
+},
+{
+"Name": "SALTAN (GRANADOS)",
+"PostCode": "15011",
+"LatLong": "15.0516,-90.4148"
+},
+{
+"Name": "SAN GABRIEL PANTZUY (SAN MIGUEL CHICAJ)",
+"PostCode": "15012",
+"LatLong": "15.0516,-90.4148"
+}
+]
+},
+{
+"Name": "DEPTO DE CHIMALTENANGO",
+"Code": "03",
+"Places": [
+{
+"Name": "DEPTO DE CHIMALTENANGO",
+"PostCode": "04000",
+"LatLong": "14.7156,-90.9328"
+},
+{
+"Name": "CHIMALTENANGO",
+"PostCode": "04001",
+"LatLong": "14.6686,-90.8167"
+},
+{
+"Name": "SAN JOSE POAQUIL",
+"PostCode": "04002",
+"LatLong": "14.8197,-90.9064"
+},
+{
+"Name": "SAN MARTIN JILOTEPEQUE",
+"PostCode": "04003",
+"LatLong": "14.7878,-90.7925"
+},
+{
+"Name": "COMALAPA",
+"PostCode": "04004",
+"LatLong": "14.7411,-90.8875"
+},
+{
+"Name": "SANTA APOLONIA",
+"PostCode": "04005",
+"LatLong": "14.7914,-90.9708"
+},
+{
+"Name": "TECPAN GUATEMALA",
+"PostCode": "04006",
+"LatLong": "14.7669,-90.9942"
+},
+{
+"Name": "PATZUN",
+"PostCode": "04007",
+"LatLong": "14.6833,-91.0167"
+},
+{
+"Name": "POCHUTA",
+"PostCode": "04008",
+"LatLong": "14.55,-91.0833"
+},
+{
+"Name": "PATZICIA",
+"PostCode": "04009",
+"LatLong": "14.6317,-90.9269"
+},
+{
+"Name": "SANTA CRUZ BALANYA",
+"PostCode": "04010",
+"LatLong": "14.6872,-90.915"
+},
+{
+"Name": "ACATENANGO",
+"PostCode": "04011",
+"LatLong": "14.5519,-90.9422"
+},
+{
+"Name": "YEPOCAPA",
+"PostCode": "04012",
+"LatLong": "14.5042,-90.9569"
+},
+{
+"Name": "SAN ANDRES ITZAPA",
+"PostCode": "04013",
+"LatLong": "14.62,-90.8442"
+},
+{
+"Name": "PARRAMOS",
+"PostCode": "04014",
+"LatLong": "14.6078,-90.8031"
+},
+{
+"Name": "ZARAGOZA",
+"PostCode": "04015",
+"LatLong": "14.6544,-90.8894"
+},
+{
+"Name": "EL TEJAR",
+"PostCode": "04016",
+"LatLong": "14.6478,-90.7928"
+}
+]
+},
+{
+"Name": "DEPTO DE CHIQUIMULA",
+"Code": "04",
+"Places": [
+{
+"Name": "DEPTO DE CHIQUIMULA",
+"PostCode": "20000",
+"LatLong": "14.7019,-89.4352"
+},
+{
+"Name": "CHIQUIMULA",
+"PostCode": "20001",
+"LatLong": "14.8,-89.55"
+},
+{
+"Name": "SAN JOSE LA ARADA",
+"PostCode": "20002",
+"LatLong": "14.7167,-89.5833"
+},
+{
+"Name": "SAN JUAN ERMITA",
+"PostCode": "20003",
+"LatLong": "14.7667,-89.4333"
+},
+{
+"Name": "JOCOTAN",
+"PostCode": "20004",
+"LatLong": "14.8167,-89.3833"
+},
+{
+"Name": "CAMOTAN",
+"PostCode": "20005",
+"LatLong": "14.8167,-89.3667"
+},
+{
+"Name": "OLOPA",
+"PostCode": "20006",
+"LatLong": "14.6833,-89.35"
+},
+{
+"Name": "ESQUIPULAS",
+"PostCode": "20007",
+"LatLong": "14.5667,-89.35"
+},
+{
+"Name": "CONCEPCION LAS MINAS",
+"PostCode": "20008",
+"LatLong": "14.5167,-89.45"
+},
+{
+"Name": "QUETZALTEPEQUE",
+"PostCode": "20009",
+"LatLong": "14.6333,-89.45"
+},
+{
+"Name": "SAN JACINTO",
+"PostCode": "20010",
+"LatLong": "14.6667,-89.5"
+},
+{
+"Name": "IPALA",
+"PostCode": "20011",
+"LatLong": "14.6167,-89.6167"
+},
+{
+"Name": "ANGUIATU (CONCEP. LAS MINAS )",
+"PostCode": "20012",
+"LatLong": "14.6875,-89.5333"
+},
+{
+"Name": "EL AMATILLO (JOCOTAN)",
+"PostCode": "20013",
+"LatLong": "14.6875,-89.5333"
+},
+{
+"Name": "EL FLORIDO (CAMOTAN)",
+"PostCode": "20014",
+"LatLong": "14.6875,-89.5333"
+},
+{
+"Name": "SANTA ELENA (CHIQUIMULA)",
+"PostCode": "20015",
+"LatLong": "14.7167,-89.5"
+},
+{
+"Name": "VALDO HONDO (CHIQUIMULA)",
+"PostCode": "20016",
+"LatLong": "14.6875,-89.5333"
+},
+{
+"Name": "SAN ESTEBAN (CHIQUIMULA)",
+"PostCode": "20017",
+"LatLong": "14.75,-89.5167"
+},
+{
+"Name": "TIERRA COLORADA ( SAN JOSE LA ARADA)",
+"PostCode": "20018",
+"LatLong": "14.6875,-89.5333"
+},
+{
+"Name": "AGUA CALIENTE ( ESQUIPULAS)",
+"PostCode": "20019",
+"LatLong": "14.6875,-89.5333"
+},
+{
+"Name": "NUEVA ANGUIATU (CONCEP. LAS MINAS)",
+"PostCode": "20020",
+"LatLong": "14.6974,-89.4654"
+}
+]
+},
+{
+"Name": "DEPTO DE ESCUINTLA",
+"Code": "06",
+"Places": [
+{
+"Name": "DEPTO DE ESCUINTLA",
+"PostCode": "05000",
+"LatLong": "14.2088,-90.9754"
+},
+{
+"Name": "ESCUINTLA",
+"PostCode": "05001",
+"LatLong": "14.305,-90.785"
+},
+{
+"Name": "SANTA LUCIA COTZUMALGUAPA",
+"PostCode": "05002",
+"LatLong": "14.3333,-91.0167"
+},
+{
+"Name": "LA DEMOCRACIA",
+"PostCode": "05003",
+"LatLong": "14.2308,-90.9472"
+},
+{
+"Name": "SIQUINALA",
+"PostCode": "05004",
+"LatLong": "14.3061,-90.965"
+},
+{
+"Name": "MASAGUA",
+"PostCode": "05005",
+"LatLong": "14.2031,-90.8481"
+},
+{
+"Name": "TIQUISATE",
+"PostCode": "05006",
+"LatLong": "14.2833,-91.3667"
+},
+{
+"Name": "LA GOMERA",
+"PostCode": "05007",
+"LatLong": "14.0833,-91.05"
+},
+{
+"Name": "SAN JOSE",
+"PostCode": "05009",
+"LatLong": "13.9256,-90.8244"
+},
+{
+"Name": "ITZAPA",
+"PostCode": "05010",
+"LatLong": "14.62,-90.8442"
+},
+{
+"Name": "PALIN",
+"PostCode": "05011",
+"LatLong": "14.4056,-90.6983"
+},
+{
+"Name": "SAN VICENTE PACAYA",
+"PostCode": "05012",
+"LatLong": "14.4161,-90.6392"
+},
+{
+"Name": "NUEVA CONCEPCION",
+"PostCode": "05013",
+"LatLong": "14.2,-91.3"
+},
+{
+"Name": "OBERO (MASAGUA)",
+"PostCode": "05014",
+"LatLong": "14.4104,-90.8704"
+},
+{
+"Name": "BRITO (GUANAGAZAPA)",
+"PostCode": "05015",
+"LatLong": "14.4104,-90.8704"
+},
+{
+"Name": "SANTA ANA MIXTAN (NUEVA CONCEPCION)",
+"PostCode": "05016",
+"LatLong": "14.4104,-90.8704"
+},
+{
+"Name": "EL NARANJO (MASAGUA)",
+"PostCode": "05017",
+"LatLong": "14.4104,-90.8704"
+},
+{
+"Name": "SAN ANDRES OSUMA (ESCUINTLA)",
+"PostCode": "05018",
+"LatLong": "14.4104,-90.8704"
+},
+{
+"Name": "CUYUTA (MASAGUA)",
+"PostCode": "05019",
+"LatLong": "14.4104,-90.8704"
+},
+{
+"Name": "EL PORVENIR TICANLU (TIQUISATE)",
+"PostCode": "05020",
+"LatLong": "14.276,-90.9404"
+},
+{
+"Name": "SIPACATE (LA GOMERA)",
+"PostCode": "05021",
+"LatLong": "14.276,-90.9404"
+}
+]
+},
+{
+"Name": "Ciudad de Guatemala",
+"Code": "07",
+"Places": [
+{
+"Name": "ZONA 1",
+"PostCode": "01001",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 2",
+"PostCode": "01002",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 3",
+"PostCode": "01003",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 4",
+"PostCode": "01004",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 5",
+"PostCode": "01005",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 6",
+"PostCode": "01006",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 7",
+"PostCode": "01007",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 8",
+"PostCode": "01008",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 9",
+"PostCode": "01009",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 10",
+"PostCode": "01010",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 11",
+"PostCode": "01011",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 12",
+"PostCode": "01012",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 13",
+"PostCode": "01013",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 14",
+"PostCode": "01014",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 15",
+"PostCode": "01015",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 16",
+"PostCode": "01016",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 17",
+"PostCode": "01017",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 18",
+"PostCode": "01018",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 19",
+"PostCode": "01019",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "ZONA 21",
+"PostCode": "01021",
+"LatLong": "14.6328,-90.5199"
+}
+]
+},
+{
+"Name": "DEPTO DE GUATEMALA",
+"Code": "07",
+"Places": [
+{
+"Name": "SANTA CATARINA PINULA",
+"PostCode": "01051",
+"LatLong": "14.5689,-90.4953"
+},
+{
+"Name": "SAN JOSE PINULA",
+"PostCode": "01052",
+"LatLong": "14.5461,-90.4114"
+},
+{
+"Name": "SAN JOSE DEL GOLFO",
+"PostCode": "01053",
+"LatLong": "14.7628,-90.3764"
+},
+{
+"Name": "PALENCIA",
+"PostCode": "01054",
+"LatLong": "14.6647,-90.3586"
+},
+{
+"Name": "CHINAUTLA",
+"PostCode": "01055",
+"LatLong": "14.7083,-90.4994"
+},
+{
+"Name": "SAN PEDRO AYAMPUC",
+"PostCode": "01056",
+"LatLong": "14.7867,-90.4511"
+},
+{
+"Name": "MIXCO",
+"PostCode": "01057",
+"LatLong": "14.6333,-90.6064"
+},
+{
+"Name": "SAN PEDRO SACATEPEQUEZ",
+"PostCode": "01058",
+"LatLong": "14.6842,-90.6442"
+},
+{
+"Name": "SAN JUAN SACATEPEQUEZ",
+"PostCode": "01059",
+"LatLong": "14.7189,-90.6442"
+},
+{
+"Name": "SAN RAYMUNDO",
+"PostCode": "01060",
+"LatLong": "14.7647,-90.5956"
+},
+{
+"Name": "CHUARRANCHO",
+"PostCode": "01061",
+"LatLong": "14.8217,-90.5086"
+},
+{
+"Name": "FRAIJANES",
+"PostCode": "01062",
+"LatLong": "14.4653,-90.4408"
+},
+{
+"Name": "AMATITLAN",
+"PostCode": "01063",
+"LatLong": "14.4875,-90.6153"
+},
+{
+"Name": "VILLA NUEVA",
+"PostCode": "01064",
+"LatLong": "14.5269,-90.5875"
+},
+{
+"Name": "VILLA CANALES",
+"PostCode": "01065",
+"LatLong": "14.4814,-90.5317"
+},
+{
+"Name": "PETAPA",
+"PostCode": "01066",
+"LatLong": "14.5028,-90.5517"
+},
+{
+"Name": "CANALITOS (ZONA 21)",
+"PostCode": "01067",
+"LatLong": "14.5786,-90.5473"
+},
+{
+"Name": "EL FISCAL (PALENCIA)",
+"PostCode": "01068",
+"LatLong": "14.5786,-90.5473"
+},
+{
+"Name": "BOCA DEL MONTE (VILLA CANALES)",
+"PostCode": "01069",
+"LatLong": "14.5786,-90.5473"
+},
+{
+"Name": "VUELTA GRANDE (SAN RAYMUNDO)",
+"PostCode": "01070",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "TRAPICHE GRANDE (CHUARRANCHO)",
+"PostCode": "01071",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "SANTA ELENA BARILLAS (VILLA CANALES)",
+"PostCode": "01072",
+"LatLong": "14.6328,-90.5199"
+},
+{
+"Name": "PUERTA PARADA (SANTA CATARINA PINULA)",
+"PostCode": "01073",
+"LatLong": "14.6328,-90.5199"
+}
+]
+},
+{
+"Name": "DEPTO DE EL PROGRESO",
+"Code": "07",
+"Places": [
+{
+"Name": "DEPTO DE EL PROGRESO",
+"PostCode": "02000",
+"LatLong": "14.8515,-90.1145"
+},
+{
+"Name": "GUASTATOYA",
+"PostCode": "02001",
+"LatLong": "14.8539,-90.0647"
+},
+{
+"Name": "MORAZAN",
+"PostCode": "02002",
+"LatLong": "14.9328,-90.1431"
+},
+{
+"Name": "SAN AGUSTIN ACASAGUASTLAN",
+"PostCode": "02003",
+"LatLong": "14.95,-89.9667"
+},
+{
+"Name": "SAN CRISTOBAL ACASAGUASTLAN",
+"PostCode": "02004",
+"LatLong": "14.9167,-89.8833"
+},
+{
+"Name": "EL JICARO",
+"PostCode": "02005",
+"LatLong": "14.8667,-90.2667"
+},
+{
+"Name": "SANSARE",
+"PostCode": "02006",
+"LatLong": "14.7472,-90.1125"
+},
+{
+"Name": "SANARATE",
+"PostCode": "02007",
+"LatLong": "14.795,-90.1922"
+},
+{
+"Name": "SAN ANTONIO LA PAZ",
+"PostCode": "02008",
+"LatLong": "14.7497,-90.2867"
+},
+{
+"Name": "TULUMAJILLO (SAN AGUSTIN ACASAGUASTLAN)",
+"PostCode": "02009",
+"LatLong": "14.8515,-90.1145"
+},
+{
+"Name": "ESTACION JALAPA (SANSARE)",
+"PostCode": "02010",
+"LatLong": "14.8515,-90.1145"
+},
+{
+"Name": "TULUMAJE (SAN AGUSTIN ACASAGUASTLAN)",
+"PostCode": "02011",
+"LatLong": "14.8515,-90.1145"
+},
+{
+"Name": "ESTANCIA DE LA VIRGEN (SAN CRISTOBAL ACASAGUASTLAN)",
+"PostCode": "02012",
+"LatLong": "14.8515,-90.1145"
+},
+{
+"Name": "PASO DE LOS JALAPAS (EL JICARO)",
+"PostCode": "02013",
+"LatLong": "14.8515,-90.1145"
+},
+{
+"Name": "SANTA RITA (GUASTATOYA)",
+"PostCode": "02014",
+"LatLong": "14.8515,-90.1145"
+},
+{
+"Name": "EL RANCHO ( SAN AGUSTIN ACASAGUASTLAN)",
+"PostCode": "02015",
+"LatLong": "14.8515,-90.1145"
+}
+]
+},
+{
+"Name": "DEPTO DE HUEHUETENANGO",
+"Code": "08",
+"Places": [
+{
+"Name": "DEPTO DE HUEHUETENANGO",
+"PostCode": "13000",
+"LatLong": "15.5368,-91.6565"
+},
+{
+"Name": "HUEHUETENANGO",
+"PostCode": "13001",
+"LatLong": "15.3197,-91.4708"
+},
+{
+"Name": "CHIANTLA",
+"PostCode": "13002",
+"LatLong": "15.3547,-91.4583"
+},
+{
+"Name": "MALACANCITO",
+"PostCode": "13003",
+"LatLong": "15.5368,-91.6565"
+},
+{
+"Name": "CUILCO",
+"PostCode": "13004",
+"LatLong": "15.4,-91.9667"
+},
+{
+"Name": "NENTON",
+"PostCode": "13005",
+"LatLong": "15.8,-91.75"
+},
+{
+"Name": "SAN PEDRO NECTA",
+"PostCode": "13006",
+"LatLong": "15.5,-91.7667"
+},
+{
+"Name": "JACALTENANGO",
+"PostCode": "13007",
+"LatLong": "15.6667,-91.7333"
+},
+{
+"Name": "SOLOMA",
+"PostCode": "13008",
+"LatLong": "15.7167,-91.45"
+},
+{
+"Name": "IXTAHUATAN",
+"PostCode": "13009",
+"LatLong": "15.5368,-91.6565"
+},
+{
+"Name": "SANTA BARBARA",
+"PostCode": "13010",
+"LatLong": "15.3167,-91.6167"
+},
+{
+"Name": "LA LIBERTAD",
+"PostCode": "13011",
+"LatLong": "15.5,-91.8333"
+},
+{
+"Name": "LA DEMOCRACIA",
+"PostCode": "13012",
+"LatLong": "15.5739,-91.6113"
+},
+{
+"Name": "SAN MIGUEL ACATAN",
+"PostCode": "13013",
+"LatLong": "15.7,-91.6167"
+},
+{
+"Name": "SAN RAFAEL LA INDEPENDENCIA",
+"PostCode": "13014",
+"LatLong": "15.7167,-91.5333"
+},
+{
+"Name": "TODOS SANTOS CUCHUMATAN",
+"PostCode": "13015",
+"LatLong": "15.5167,-91.6167"
+},
+{
+"Name": "SAN JUAN ATITAN",
+"PostCode": "13016",
+"LatLong": "15.4333,-91.6333"
+},
+{
+"Name": "SANTA EULALIA",
+"PostCode": "13017",
+"LatLong": "15.7331,-91.4569"
+},
+{
+"Name": "SAN MATEO IXTATAN",
+"PostCode": "13018",
+"LatLong": "15.8319,-91.4781"
+},
+{
+"Name": "COLOTENANGO",
+"PostCode": "13019",
+"LatLong": "15.4167,-91.7167"
+},
+{
+"Name": "SAN SEBASTIAN HUEHUETENANGO",
+"PostCode": "13020",
+"LatLong": "15.3833,-91.5833"
+},
+{
+"Name": "TECTITAN",
+"PostCode": "13021",
+"LatLong": "15.3333,-92.0333"
+},
+{
+"Name": "CONCEPCION",
+"PostCode": "13022",
+"LatLong": "15.6167,-91.6833"
+},
+{
+"Name": "SAN JUAN IXCOY",
+"PostCode": "13023",
+"LatLong": "15.5997,-91.4453"
+},
+{
+"Name": "SAN ANTONIO HUISTA",
+"PostCode": "13024",
+"LatLong": "15.65,-91.7667"
+},
+{
+"Name": "SAN SEBASTIAN COSTAN",
+"PostCode": "13025",
+"LatLong": "15.5033,-91.6136"
+},
+{
+"Name": "BARILLAS",
+"PostCode": "13026",
+"LatLong": "15.8036,-91.3158"
+},
+{
+"Name": "AGUACATAN",
+"PostCode": "13027",
+"LatLong": "15.3431,-91.3117"
+},
+{
+"Name": "SAN RAFAEL PETZAL",
+"PostCode": "13028",
+"LatLong": "15.4167,-91.6667"
+},
+{
+"Name": "SAN GASPAR IXCHIL",
+"PostCode": "13029",
+"LatLong": "15.3833,-91.7167"
+},
+{
+"Name": "SANTIAGO CHIMALTENANGO",
+"PostCode": "13030",
+"LatLong": "15.4667,-91.7167"
+},
+{
+"Name": "SANTA ANA HUISTA",
+"PostCode": "13031",
+"LatLong": "15.6833,-91.8167"
+},
+{
+"Name": "GRACIAS A DIOS (NENTON)",
+"PostCode": "13032",
+"LatLong": "15.4798,-91.6645"
+},
+{
+"Name": "SAN LORENZO (HUEHUETENANGO)",
+"PostCode": "13033",
+"LatLong": "15.2894,-91.4603"
+},
+{
+"Name": "SAN MARTIN CUCHUMATAN (TODOS SANTOS CUCHUMATAN)",
+"PostCode": "13034",
+"LatLong": "15.4798,-91.6645"
+},
+{
+"Name": "SAN MARCOS HUISTA (JACALTENANGO)",
+"PostCode": "13035",
+"LatLong": "15.4798,-91.6645"
+},
+{
+"Name": "PETATAN (CONCEPCION)",
+"PostCode": "13036",
+"LatLong": "15.4798,-91.6645"
+},
+{
+"Name": "PAQUIX (CHIANTLA)",
+"PostCode": "13037",
+"LatLong": "15.4798,-91.6645"
+},
+{
+"Name": "MICHICOY (SAN PEDRO NECTA)",
+"PostCode": "13038",
+"LatLong": "15.4798,-91.6645"
+},
+{
+"Name": "SAN ANDRES HIUISTA (JACALTENANGO)",
+"PostCode": "13039",
+"LatLong": "15.4798,-91.6645"
+},
+{
+"Name": "CHALUM (LA LIBERTAD)",
+"PostCode": "13040",
+"LatLong": "15.6167,-91.9833"
+},
+{
+"Name": "LA MESILLA",
+"PostCode": "13041",
+"LatLong": "15.6167,-91.9833"
+}
+]
+},
+{
+"Name": "DEPTO DE IZABAL",
+"Code": "09",
+"Places": [
+{
+"Name": "DEPTO DE IZABAL",
+"PostCode": "18000",
+"LatLong": "15.5667,-88.9233"
+},
+{
+"Name": "PUERTO BARRIOS",
+"PostCode": "18001",
+"LatLong": "15.7167,-88.6"
+},
+{
+"Name": "LIVINGSTON",
+"PostCode": "18002",
+"LatLong": "15.8333,-88.75"
+},
+{
+"Name": "EL ESTOR",
+"PostCode": "18003",
+"LatLong": "15.5333,-89.35"
+},
+{
+"Name": "MORALES",
+"PostCode": "18004",
+"LatLong": "15.4833,-88.8167"
+},
+{
+"Name": "LOS AMATES",
+"PostCode": "18005",
+"LatLong": "15.2667,-89.1"
+},
+{
+"Name": "PLAYITAS (MORALES)",
+"PostCode": "18006",
+"LatLong": "15.5667,-88.9233"
+},
+{
+"Name": "EL RICO (LOS AMATES)",
+"PostCode": "18007",
+"LatLong": "15.5667,-88.9233"
+},
+{
+"Name": "CAYUGA (MORALES)",
+"PostCode": "18008",
+"LatLong": "15.5667,-88.9233"
+},
+{
+"Name": "QUIRIGUA (LOS AMATES)",
+"PostCode": "18009",
+"LatLong": "15.5667,-88.9233"
+},
+{
+"Name": "EL CINCHADO (PUERTO BARRIOS)",
+"PostCode": "18010",
+"LatLong": "15.5667,-88.9233"
+},
+{
+"Name": "LAS QUEBRADAS (MORALES)",
+"PostCode": "18011",
+"LatLong": "15.5667,-88.9233"
+},
+{
+"Name": "ENTRE RIOS (PUERTO BARRIOS)",
+"PostCode": "18012",
+"LatLong": "15.5667,-88.9233"
+},
+{
+"Name": "SANTO TOMAS DE CASTILLA (PUERTO BARRIOS)",
+"PostCode": "18013",
+"LatLong": "15.5667,-88.9233"
+},
+{
+"Name": "EL MITCHAL (MORALES)",
+"PostCode": "18014",
+"LatLong": "15.5667,-88.9233"
+},
+{
+"Name": "LAS VINAS (MORALES)",
+"PostCode": "18015",
+"LatLong": "15.5667,-88.9233"
+},
+{
+"Name": "EL REFUGIO (LOS AMATES)",
+"PostCode": "18016",
+"LatLong": "15.5667,-88.9233"
+},
+{
+"Name": "SANTA INES (LOS AMATES)",
+"PostCode": "18017",
+"LatLong": "15.5667,-88.9233"
+},
+{
+"Name": "TENEDORES (MORALES)",
+"PostCode": "18018",
+"LatLong": "15.5667,-88.9233"
+},
+{
+"Name": "SAN FELIPE (LIVINGSTON)",
+"PostCode": "18019",
+"LatLong": "15.5667,-88.9233"
+},
+{
+"Name": "BANANERA (MORALES)",
+"PostCode": "18020",
+"LatLong": "15.5667,-88.9233"
+},
+{
+"Name": "FRONTERAS (LIVINGSTON)",
+"PostCode": "18021",
+"LatLong": "15.5667,-88.9233"
+},
+{
+"Name": "MARISCOS (LOS AMATES)",
+"PostCode": "18022",
+"LatLong": "15.5667,-88.9233"
+},
+{
+"Name": "BUENOS AIRES (MORALES)",
+"PostCode": "18023",
+"LatLong": "15.5667,-88.9233"
+}
+]
+},
+{
+"Name": "DEPTO DE JALAPA",
+"Code": "10",
+"Places": [
+{
+"Name": "DEPTO DE JALAPA",
+"PostCode": "21000",
+"LatLong": "14.583,-89.8896"
+},
+{
+"Name": "JALAPA",
+"PostCode": "21001",
+"LatLong": "14.6333,-89.9833"
+},
+{
+"Name": "SAN PEDRO PINULA",
+"PostCode": "21002",
+"LatLong": "14.6667,-89.85"
+},
+{
+"Name": "SAN LUIS JILOTEPEQUE",
+"PostCode": "21003",
+"LatLong": "14.65,-89.7333"
+},
+{
+"Name": "SAN MANUEL CHAPARRON",
+"PostCode": "21004",
+"LatLong": "14.5167,-89.7667"
+},
+{
+"Name": "SAN CARLOS ALZATATE",
+"PostCode": "21005",
+"LatLong": "14.4978,-90.0603"
+},
+{
+"Name": "MONJAS",
+"PostCode": "21006",
+"LatLong": "14.5,-89.8667"
+},
+{
+"Name": "MATATESCUINTLA",
+"PostCode": "21007",
+"LatLong": "14.583,-89.8896"
+},
+{
+"Name": "LLANO GRANDE",
+"PostCode": "21008",
+"LatLong": "14.6167,-89.9667"
+}
+]
+},
+{
+"Name": "DEPTO DE JUTIAPA",
+"Code": "11",
+"Places": [
+{
+"Name": "DEPTO DE JUTIAPA",
+"PostCode": "22000",
+"LatLong": "14.3069,-89.7775"
+},
+{
+"Name": "JUTIAPA",
+"PostCode": "22001",
+"LatLong": "14.2833,-89.9"
+},
+{
+"Name": "EL PROGRESO",
+"PostCode": "22002",
+"LatLong": "14.35,-89.85"
+},
+{
+"Name": "SANTA CATARINA MITA",
+"PostCode": "22003",
+"LatLong": "14.45,-89.75"
+},
+{
+"Name": "AGUA BLANCA",
+"PostCode": "22004",
+"LatLong": "14.5,-89.65"
+},
+{
+"Name": "ASUNCION MITA",
+"PostCode": "22005",
+"LatLong": "14.3308,-89.7108"
+},
+{
+"Name": "YUPILTEPEQUE",
+"PostCode": "22006",
+"LatLong": "14.2,-89.7833"
+},
+{
+"Name": "ATESCATEMPA",
+"PostCode": "22007",
+"LatLong": "14.1744,-89.7425"
+},
+{
+"Name": "JERES",
+"PostCode": "22008",
+"LatLong": "14.3069,-89.7775"
+},
+{
+"Name": "EL ADELANTO",
+"PostCode": "22009",
+"LatLong": "14.1667,-89.8333"
+},
+{
+"Name": "ZAPOTITLAN",
+"PostCode": "22010",
+"LatLong": "14.1333,-89.8333"
+},
+{
+"Name": "COMAPA",
+"PostCode": "22011",
+"LatLong": "14.1167,-89.9167"
+},
+{
+"Name": "JALPATAGUA",
+"PostCode": "22012",
+"LatLong": "14.1417,-90.0086"
+},
+{
+"Name": "CONGUANCO",
+"PostCode": "22013",
+"LatLong": "14.1347,-90.0304"
+},
+{
+"Name": "MOYUTA",
+"PostCode": "22014",
+"LatLong": "14.0386,-90.0808"
+},
+{
+"Name": "PASACO",
+"PostCode": "22015",
+"LatLong": "13.9772,-90.2064"
+},
+{
+"Name": "SAN JOSE ACATEMPA",
+"PostCode": "22016",
+"LatLong": "14.2653,-90.1269"
+},
+{
+"Name": "QUESADA",
+"PostCode": "22017",
+"LatLong": "14.2703,-90.0403"
+},
+{
+"Name": "CIUDAD PEDRO DE ALVARADO (MOYUTA)",
+"PostCode": "22018",
+"LatLong": "14.1347,-90.0304"
+},
+{
+"Name": "SAN CRSITOBAL FRONTERA (ATESCATEMPA)",
+"PostCode": "22019",
+"LatLong": "14.1347,-90.0304"
+},
+{
+"Name": "VALLE NUEVO JALPATAGUA",
+"PostCode": "22020",
+"LatLong": "14.2333,-89.9667"
+},
+{
+"Name": "RIO DE PAZ",
+"PostCode": "22021",
+"LatLong": "14.2333,-89.9667"
+},
+{
+"Name": "HORCONES (STA. CAT. MITA)",
+"PostCode": "22022",
+"LatLong": "14.2333,-89.9667"
+},
+{
+"Name": "EL OVEJERO (EL PROGRESO)",
+"PostCode": "22023",
+"LatLong": "14.2333,-89.9667"
+},
+{
+"Name": "CONTEPEQUE (ATESCATEMPA)",
+"PostCode": "22024",
+"LatLong": "14.2333,-89.9667"
+},
+{
+"Name": "LA ESMERALDA (JEREZ)",
+"PostCode": "22025",
+"LatLong": "14.2333,-89.9667"
+},
+{
+"Name": "HORCONES (ATESCATEMPA)",
+"PostCode": "22026",
+"LatLong": "14.2333,-89.9667"
+},
+{
+"Name": "TIUCAL (ASUNCION MITA)",
+"PostCode": "22027",
+"LatLong": "14.2333,-89.9667"
+}
+]
+},
+{
+"Name": "DEPTO DE PETEN",
+"Code": "12",
+"Places": [
+{
+"Name": "DEPTO DE PETEN",
+"PostCode": "17000",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "FLORES",
+"PostCode": "17001",
+"LatLong": "16.9333,-89.8833"
+},
+{
+"Name": "SAN JOSE",
+"PostCode": "17002",
+"LatLong": "16.9833,-89.9"
+},
+{
+"Name": "SAN BENITO",
+"PostCode": "17003",
+"LatLong": "16.9167,-89.9"
+},
+{
+"Name": "SAN ANDRES",
+"PostCode": "17004",
+"LatLong": "16.9667,-89.9167"
+},
+{
+"Name": "LA LIBERTAD",
+"PostCode": "17005",
+"LatLong": "16.7833,-90.1167"
+},
+{
+"Name": "SAN FRANCISCO",
+"PostCode": "17006",
+"LatLong": "16.8,-89.9333"
+},
+{
+"Name": "SANTA ANA",
+"PostCode": "17007",
+"LatLong": "16.8,-89.8333"
+},
+{
+"Name": "DOLORES",
+"PostCode": "17008",
+"LatLong": "16.5142,-89.4158"
+},
+{
+"Name": "SAN LUIS",
+"PostCode": "17009",
+"LatLong": "16.1989,-89.4403"
+},
+{
+"Name": "SAYAXCHE",
+"PostCode": "17010",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "MELCHOR DE MENCOS",
+"PostCode": "17011",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "POPTUN",
+"PostCode": "17012",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "TIKAL (FLORES)",
+"PostCode": "17013",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "DOS LAGUNAS (FLORES)",
+"PostCode": "17014",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "SANTO TORIBIO (DOLORES)",
+"PostCode": "17015",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "PASO CABALLOS (SAN ANDRES)",
+"PostCode": "17016",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "UAXACTUN (FLORES)",
+"PostCode": "17017",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "CARMELITA (SAN ANDRES)",
+"PostCode": "17018",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "MACHAQUILA (DOLORES)",
+"PostCode": "17019",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "EL CHAL ( DOLORES )",
+"PostCode": "17020",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "MACANCHE (DOLORES)",
+"PostCode": "17021",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "EL REMATE (FLORES)",
+"PostCode": "17022",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "LA FELICIDAD (SAYAXCHE)",
+"PostCode": "17023",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "EL NARANJO (LA LIBERTAD)",
+"PostCode": "17024",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "SACPUY (SAN ANDRES)",
+"PostCode": "17025",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "PAXCAMAN (FLORES)",
+"PostCode": "17026",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "LAS CRUCES (LA LIBERTAD)",
+"PostCode": "17027",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "SABANETA (DOLORES)",
+"PostCode": "17028",
+"LatLong": "16.7663,-89.8155"
+},
+{
+"Name": "SANTA ELENA",
+"PostCode": "17029",
+"LatLong": "16.7663,-89.8155"
+}
+]
+},
+{
+"Name": "DEPTO DE QUETZALTENANGO",
+"Code": "13",
+"Places": [
+{
+"Name": "DEPTO DE QUETZALTENANGO",
+"PostCode": "09000",
+"LatLong": "14.9375,-91.5625"
+},
+{
+"Name": "QUETZALTENANGO",
+"PostCode": "09001",
+"LatLong": "14.8333,-91.5167"
+},
+{
+"Name": "SALCAJA",
+"PostCode": "09002",
+"LatLong": "14.8833,-91.45"
+},
+{
+"Name": "OLINTEPEQUE",
+"PostCode": "09003",
+"LatLong": "14.8833,-91.5167"
+},
+{
+"Name": "SAN CARLOS SIJA",
+"PostCode": "09004",
+"LatLong": "14.9833,-91.55"
+},
+{
+"Name": "SIBILIA",
+"PostCode": "09005",
+"LatLong": "15,-91.6167"
+},
+{
+"Name": "CABRICAN",
+"PostCode": "09006",
+"LatLong": "15.1333,-91.6167"
+},
+{
+"Name": "CAJOLA",
+"PostCode": "09007",
+"LatLong": "14.9167,-91.6167"
+},
+{
+"Name": "SAN MIGUEL SIQUINALA",
+"PostCode": "09008",
+"LatLong": "14.9375,-91.5625"
+},
+{
+"Name": "OSTUNCALCO",
+"PostCode": "09009",
+"LatLong": "14.8667,-91.6167"
+},
+{
+"Name": "SAN MATEO",
+"PostCode": "09010",
+"LatLong": "14.8667,-91.5833"
+},
+{
+"Name": "CONCEPCION CHIQUIRICHAPA",
+"PostCode": "09011",
+"LatLong": "14.85,-91.6167"
+},
+{
+"Name": "SAN MARTIN SACATEPEQUEZ",
+"PostCode": "09012",
+"LatLong": "14.8167,-91.65"
+},
+{
+"Name": "ALMOLONGA",
+"PostCode": "09013",
+"LatLong": "14.8167,-91.5"
+},
+{
+"Name": "CANTEL",
+"PostCode": "09014",
+"LatLong": "14.8167,-91.45"
+},
+{
+"Name": "HUITAN",
+"PostCode": "09015",
+"LatLong": "15.1,-91.6167"
+},
+{
+"Name": "ZUNIL",
+"PostCode": "09016",
+"LatLong": "14.7833,-91.4833"
+},
+{
+"Name": "COLOMBA",
+"PostCode": "09017",
+"LatLong": "14.7167,-91.7333"
+},
+{
+"Name": "SAN FRANCISCO LA UNION",
+"PostCode": "09018",
+"LatLong": "14.9167,-91.5333"
+},
+{
+"Name": "EL PALMAR",
+"PostCode": "09019",
+"LatLong": "14.65,-91.5833"
+},
+{
+"Name": "COATEPEQUE",
+"PostCode": "09020",
+"LatLong": "14.7,-91.8667"
+},
+{
+"Name": "GENOVA",
+"PostCode": "09021",
+"LatLong": "14.6167,-91.8333"
+},
+{
+"Name": "FLORES COSTA CUCA",
+"PostCode": "09022",
+"LatLong": "14.65,-91.8167"
+},
+{
+"Name": "LA ESPERANZA",
+"PostCode": "09023",
+"LatLong": "14.8833,-91.6833"
+},
+{
+"Name": "PALESTINA DE LOS ALTOS",
+"PostCode": "09024",
+"LatLong": "14.9333,-91.7"
+},
+{
+"Name": "SANTA MARIA DE JESUS (ZUNIL)",
+"PostCode": "09025",
+"LatLong": "14.7778,-91.7306"
+},
+{
+"Name": "CHIQUIBAL (SAN CARLOS SIJA)",
+"PostCode": "09026",
+"LatLong": "14.7778,-91.7306"
+},
+{
+"Name": "LAS PALMAS (COATEPEQUE)",
+"PostCode": "09027",
+"LatLong": "14.7778,-91.7306"
+},
+{
+"Name": "CUICALBA (SIBILIA)",
+"PostCode": "09028",
+"LatLong": "14.7778,-91.7306"
+},
+{
+"Name": "SAN JOSE CHIQUILAJA (QUETZALTENANGO)",
+"PostCode": "09029",
+"LatLong": "14.8833,-91.4833"
+},
+{
+"Name": "EL EDEN (PALESTINA DE LOS ALTOS)",
+"PostCode": "09030",
+"LatLong": "14.8542,-91.6097"
+},
+{
+"Name": "CHUATUJ (SAN CARLOS SIJA)",
+"PostCode": "09031",
+"LatLong": "14.8542,-91.6097"
+},
+{
+"Name": "EL TAMBOR (EL PALMAR)",
+"PostCode": "09032",
+"LatLong": "14.8542,-91.6097"
+},
+{
+"Name": "LAS MERCEDES (COLOMBA)",
+"PostCode": "09033",
+"LatLong": "14.8542,-91.6097"
+},
+{
+"Name": "PALMIRA (COLOMBA)",
+"PostCode": "09034",
+"LatLong": "14.8542,-91.6097"
+}
+]
+},
+{
+"Name": "DEPTO DEL QUICHE",
+"Code": "14",
+"Places": [
+{
+"Name": "DEPTO DEL QUICHE",
+"PostCode": "14000",
+"LatLong": "15.0926,-91.1044"
+},
+{
+"Name": "SANTA CRUZ DEL QUICHE",
+"PostCode": "14001",
+"LatLong": "15.0306,-91.1489"
+},
+{
+"Name": "QUICHE",
+"PostCode": "14002",
+"LatLong": "15.0926,-91.1044"
+},
+{
+"Name": "CHINISQUE",
+"PostCode": "14003",
+"LatLong": "15.0926,-91.1044"
+},
+{
+"Name": "ZACUALPA",
+"PostCode": "14004",
+"LatLong": "15.0833,-90.8333"
+},
+{
+"Name": "CHAJUL",
+"PostCode": "14005",
+"LatLong": "15.4853,-91.0342"
+},
+{
+"Name": "CHICHICASTENANGO",
+"PostCode": "14006",
+"LatLong": "14.9333,-91.1167"
+},
+{
+"Name": "PATZITE",
+"PostCode": "14007",
+"LatLong": "14.9667,-91.2167"
+},
+{
+"Name": "SAN ANTONIO ILOTENANGO",
+"PostCode": "14008",
+"LatLong": "15.0547,-91.2297"
+},
+{
+"Name": "SAN PEDRO JOCOPILAS",
+"PostCode": "14009",
+"LatLong": "15.0944,-91.1514"
+},
+{
+"Name": "CUNEN",
+"PostCode": "14010",
+"LatLong": "15.3375,-91.0269"
+},
+{
+"Name": "SAN JUAN COTZAL",
+"PostCode": "14011",
+"LatLong": "15.4342,-91.0342"
+},
+{
+"Name": "JOYABAJ",
+"PostCode": "14012",
+"LatLong": "14.995,-90.8061"
+},
+{
+"Name": "NEBAJ",
+"PostCode": "14013",
+"LatLong": "15.4058,-91.1461"
+},
+{
+"Name": "SAN ANDRES SAJCABAJA",
+"PostCode": "14014",
+"LatLong": "15.2167,-90.9167"
+},
+{
+"Name": "USPANTAN",
+"PostCode": "14015",
+"LatLong": "15.3833,-90.8333"
+},
+{
+"Name": "SACAPULAS",
+"PostCode": "14016",
+"LatLong": "15.2867,-91.0872"
+},
+{
+"Name": "SAN BARTOLOME JOCOTENANGO",
+"PostCode": "14017",
+"LatLong": "15.1928,-91.0772"
+},
+{
+"Name": "CANILLA",
+"PostCode": "14018",
+"LatLong": "15.1667,-90.85"
+},
+{
+"Name": "PLAYA GRANDE (IXCAN)",
+"PostCode": "14019",
+"LatLong": "15.2687,-90.9753"
+},
+{
+"Name": "CHICAMAN",
+"PostCode": "14020",
+"LatLong": "15.4,-90.7667"
+},
+{
+"Name": "SANTA ROSA CHUJUYUB (SANTA CRUZ DEL QUICHE)",
+"PostCode": "14021",
+"LatLong": "15.2583,-90.5833"
+},
+{
+"Name": "PACHALUM",
+"PostCode": "14022",
+"LatLong": "15.1167,-90.4"
+},
+{
+"Name": "CANTABAL",
+"PostCode": "14023",
+"LatLong": "15.2583,-90.5833"
+},
+{
+"Name": "SAN JOSE LA 20 (USPANTAN-IXCAN)",
+"PostCode": "14024",
+"LatLong": "15.2583,-90.5833"
+},
+{
+"Name": "XACBAL",
+"PostCode": "14025",
+"LatLong": "15.2583,-90.5833"
+}
+]
+},
+{
+"Name": "DEPTO DE RETALHULEU",
+"Code": "15",
+"Places": [
+{
+"Name": "DEPTO DE RETALHULEU",
+"PostCode": "11000",
+"LatLong": "14.5519,-91.6759"
+},
+{
+"Name": "RETALHULEU",
+"PostCode": "11001",
+"LatLong": "14.5333,-91.6833"
+},
+{
+"Name": "SAN SEBASTIAN",
+"PostCode": "11002",
+"LatLong": "14.5667,-91.65"
+},
+{
+"Name": "SANTA CRUZ MULUA",
+"PostCode": "11003",
+"LatLong": "14.5833,-91.6167"
+},
+{
+"Name": "SAN MARTIN ZAPOTITLAN",
+"PostCode": "11004",
+"LatLong": "14.6,-91.6"
+},
+{
+"Name": "SAN FELIPE",
+"PostCode": "11005",
+"LatLong": "14.6167,-91.6"
+},
+{
+"Name": "SAN ANDRES VILLA SECA",
+"PostCode": "11006",
+"LatLong": "14.5667,-91.5833"
+},
+{
+"Name": "CHAMPERICO",
+"PostCode": "11007",
+"LatLong": "14.3,-91.9167"
+},
+{
+"Name": "NUEVO SAN CARLOS",
+"PostCode": "11008",
+"LatLong": "14.6,-91.7"
+},
+{
+"Name": "EL ASINTAL",
+"PostCode": "11009",
+"LatLong": "14.6,-91.7333"
+},
+{
+"Name": "CABALLO BLANCO (RETALHULEU)",
+"PostCode": "11010",
+"LatLong": "14.4833,-91.8333"
+},
+{
+"Name": "CANDELARIA XOLHUITZ (NUEVO SAN CARLOS)",
+"PostCode": "11011",
+"LatLong": "14.4833,-91.8333"
+},
+{
+"Name": "SINAVBA (EL ASINTAL)",
+"PostCode": "11012",
+"LatLong": "14.4833,-91.8333"
+},
+{
+"Name": "EL XAB (EL ASINTAL)",
+"PostCode": "11013",
+"LatLong": "14.4833,-91.8333"
+},
+{
+"Name": "LA MAQUINA (SAN ANDRES VILLA SECA)",
+"PostCode": "11014",
+"LatLong": "14.4833,-91.8333"
+}
+]
+},
+{
+"Name": "DEPTO DE SACATEPEQUEZ",
+"Code": "16",
+"Places": [
+{
+"Name": "DEPTO DE SACATEPEQUEZ",
+"PostCode": "03000",
+"LatLong": "14.6101,-90.7063"
+},
+{
+"Name": "ANTIGUA GUATEMALA",
+"PostCode": "03001",
+"LatLong": "14.5611,-90.7344"
+},
+{
+"Name": "JOCOTENANGO",
+"PostCode": "03002",
+"LatLong": "14.5819,-90.7436"
+},
+{
+"Name": "PASTORES",
+"PostCode": "03003",
+"LatLong": "14.5967,-90.7547"
+},
+{
+"Name": "SUMPANGO",
+"PostCode": "03004",
+"LatLong": "14.6464,-90.7339"
+},
+{
+"Name": "SANTO DOMINGO XENACOJ",
+"PostCode": "03005",
+"LatLong": "14.6778,-90.6978"
+},
+{
+"Name": "SANTIAGO SACATEPEQUEZ",
+"PostCode": "03006",
+"LatLong": "14.6353,-90.6764"
+},
+{
+"Name": "SAN BARTOLOME MILPAS ALTAS",
+"PostCode": "03007",
+"LatLong": "14.6061,-90.68"
+},
+{
+"Name": "SAN LUCAS SACATEPEQUEZ",
+"PostCode": "03008",
+"LatLong": "14.6097,-90.6569"
+},
+{
+"Name": "SANTA LUCIA MILPAS ALTAS",
+"PostCode": "03009",
+"LatLong": "14.5758,-90.6786"
+},
+{
+"Name": "MAGDALENA MILPAS ALTAS",
+"PostCode": "03010",
+"LatLong": "14.5453,-90.6753"
+},
+{
+"Name": "SANTA MARIA DE JESUS",
+"PostCode": "03011",
+"LatLong": "14.5183,-90.7267"
+},
+{
+"Name": "CIUDAD VIEJA",
+"PostCode": "03012",
+"LatLong": "14.5264,-90.7597"
+},
+{
+"Name": "SAN MIGUEL DUENAS",
+"PostCode": "03013",
+"LatLong": "14.5239,-90.7983"
+},
+{
+"Name": "ALOTENANGO",
+"PostCode": "03014",
+"LatLong": "14.4803,-90.8075"
+},
+{
+"Name": "SAN ANTONIO AGUAS CALIENTES",
+"PostCode": "03015",
+"LatLong": "14.5397,-90.7694"
+},
+{
+"Name": "SANTA CATARINA BARAHONA",
+"PostCode": "03016",
+"LatLong": "14.5489,-90.7883"
+},
+{
+"Name": "SANTA MARIA CAUQUE (SANTIAGO SACATEPEQUEZ)",
+"PostCode": "03017",
+"LatLong": "14.5261,-90.7608"
+}
+]
+},
+{
+"Name": "DEPTO DE SAN MARCOS",
+"Code": "17",
+"Places": [
+{
+"Name": "DEPTO DE SAN MARCOS",
+"PostCode": "12000",
+"LatLong": "15.0896,-91.8521"
+},
+{
+"Name": "SAN MARCOS",
+"PostCode": "12001",
+"LatLong": "14.9667,-91.8"
+},
+{
+"Name": "SAN PEDRO SACATEPEQUEZ",
+"PostCode": "12002",
+"LatLong": "14.9667,-91.7667"
+},
+{
+"Name": "SAN ANTONIO SACATEPEQUEZ",
+"PostCode": "12003",
+"LatLong": "14.9667,-91.7333"
+},
+{
+"Name": "COMITANCILLO",
+"PostCode": "12004",
+"LatLong": "15.0833,-91.7167"
+},
+{
+"Name": "SAN MIGUEL IXTAGUACAN",
+"PostCode": "12005",
+"LatLong": "15.0896,-91.8521"
+},
+{
+"Name": "CONCEPCION TUTUAPA",
+"PostCode": "12006",
+"LatLong": "15.2833,-91.7833"
+},
+{
+"Name": "TACANA",
+"PostCode": "12007",
+"LatLong": "15.2333,-92.0833"
+},
+{
+"Name": "SIBINAL",
+"PostCode": "12008",
+"LatLong": "15.1333,-92.05"
+},
+{
+"Name": "TAJUMULCO",
+"PostCode": "12009",
+"LatLong": "15.0833,-91.8833"
+},
+{
+"Name": "TEJUTLA",
+"PostCode": "12010",
+"LatLong": "15.1167,-91.8"
+},
+{
+"Name": "SAN RAFAEL PIE DE LA CUESTA",
+"PostCode": "12011",
+"LatLong": "14.9333,-91.9167"
+},
+{
+"Name": "NUEVO PROGRESO",
+"PostCode": "12012",
+"LatLong": "14.8,-91.9167"
+},
+{
+"Name": "EL TUMBADOR",
+"PostCode": "12013",
+"LatLong": "14.8667,-91.9333"
+},
+{
+"Name": "EL RODEO",
+"PostCode": "12014",
+"LatLong": "14.9167,-91.9667"
+},
+{
+"Name": "MALACATAN",
+"PostCode": "12015",
+"LatLong": "14.9,-92.05"
+},
+{
+"Name": "CATARINA",
+"PostCode": "12016",
+"LatLong": "14.85,-92.0833"
+},
+{
+"Name": "TECUN UMAN",
+"PostCode": "12017",
+"LatLong": "14.6667,-92.15"
+},
+{
+"Name": "OCOS",
+"PostCode": "12018",
+"LatLong": "14.5094,-92.1933"
+},
+{
+"Name": "SAN PABLO",
+"PostCode": "12019",
+"LatLong": "14.9333,-92"
+},
+{
+"Name": "EL QUETZAL",
+"PostCode": "12020",
+"LatLong": "14.7667,-91.8167"
+},
+{
+"Name": "LA REFORMA",
+"PostCode": "12021",
+"LatLong": "14.8,-91.8167"
+},
+{
+"Name": "PAJAPITA",
+"PostCode": "12022",
+"LatLong": "14.7167,-92.0333"
+},
+{
+"Name": "IXCHIGUAN",
+"PostCode": "12023",
+"LatLong": "15.2,-91.8833"
+},
+{
+"Name": "SAN JOSE OJETEPAN",
+"PostCode": "12024",
+"LatLong": "14.9229,-91.8208"
+},
+{
+"Name": "SAN CRISTOBAL CUCHO",
+"PostCode": "12025",
+"LatLong": "14.9,-91.7833"
+},
+{
+"Name": "SIPACANA",
+"PostCode": "12026",
+"LatLong": "14.9229,-91.8208"
+},
+{
+"Name": "ESQUIPULAS PALO GORDO",
+"PostCode": "12027",
+"LatLong": "14.9333,-91.8167"
+},
+{
+"Name": "RIO BLANCO",
+"PostCode": "12028",
+"LatLong": "15.0333,-91.6833"
+},
+{
+"Name": "SAN LORENZO",
+"PostCode": "12029",
+"LatLong": "15.0333,-91.7333"
+},
+{
+"Name": "EL CARMEN (MALACATAN)",
+"PostCode": "12030",
+"LatLong": "15.05,-91.8167"
+},
+{
+"Name": "ZANJON SAN LORENZO (TECUN UMAN)",
+"PostCode": "12031",
+"LatLong": "15.05,-91.8167"
+},
+{
+"Name": "SAN JERONIMO (EL TUMBADOR)",
+"PostCode": "12032",
+"LatLong": "15.05,-91.8167"
+},
+{
+"Name": "SERCHIL ( SAN MARCOS)",
+"PostCode": "12033",
+"LatLong": "15.0333,-91.8"
+},
+{
+"Name": "LA DEMOCRACIA (EL TUMBADOR)",
+"PostCode": "12034",
+"LatLong": "15.05,-91.8167"
+},
+{
+"Name": "SAN FRANCISCO ( EL RODEO)",
+"PostCode": "12035",
+"LatLong": "15.05,-91.8167"
+},
+{
+"Name": "EL AMPARO (EL TUMBADOR)",
+"PostCode": "12036",
+"LatLong": "15.05,-91.8167"
+},
+{
+"Name": "SAN SEBASTIAN (SAN MARCOS)",
+"PostCode": "12037",
+"LatLong": "15.0667,-91.8333"
+},
+{
+"Name": "LOS LIMINES (OCOS)",
+"PostCode": "12038",
+"LatLong": "15.05,-91.8167"
+},
+{
+"Name": "LA BLANCA (OCOS)",
+"PostCode": "12039",
+"LatLong": "15.05,-91.8167"
+},
+{
+"Name": "EL CIELO (EL TUMBADOR)",
+"PostCode": "12040",
+"LatLong": "14.9533,-91.8938"
+},
+{
+"Name": "SAN JOSE IXTAL (NUEVO PROGRESO)",
+"PostCode": "12041",
+"LatLong": "14.9533,-91.8938"
+},
+{
+"Name": "PLATANARES (OCOS)",
+"PostCode": "12042",
+"LatLong": "14.9533,-91.8938"
+},
+{
+"Name": "LAS DELICIAS (EL TUMBADOR)",
+"PostCode": "12043",
+"LatLong": "14.9533,-91.8938"
+},
+{
+"Name": "CALAPTE (IXCHIGUAN)",
+"PostCode": "12044",
+"LatLong": "14.9533,-91.8938"
+},
+{
+"Name": "TOCAHE(SAN PABLO)",
+"PostCode": "12045",
+"LatLong": "14.9533,-91.8938"
+},
+{
+"Name": "LA CONQUISTA (NUEVO PROGRESO)",
+"PostCode": "12046",
+"LatLong": "14.9533,-91.8938"
+},
+{
+"Name": "CHAMPOLLAP (SAN PEDRO SACATEPEQUEZ)",
+"PostCode": "12047",
+"LatLong": "14.9533,-91.8938"
+},
+{
+"Name": "PIEDRA GRANDE (SAN PEDRO SACATEPEQUEZ",
+"PostCode": "12048",
+"LatLong": "14.9533,-91.8938"
+},
+{
+"Name": "SANTA LUCIA IXCAMAL (SAN MARCOS)",
+"PostCode": "12049",
+"LatLong": "14.9533,-91.8938"
+},
+{
+"Name": "EL SITIO (CATARINA )",
+"PostCode": "12050",
+"LatLong": "14.9533,-91.8938"
+}
+]
+},
+{
+"Name": "DEPTO DE SANTA ROSA",
+"Code": "18",
+"Places": [
+{
+"Name": "DEPTO DE SANTA ROSA",
+"PostCode": "06000",
+"LatLong": "14.2605,-90.2946"
+},
+{
+"Name": "CUILAPA",
+"PostCode": "06001",
+"LatLong": "14.2764,-90.3003"
+},
+{
+"Name": "BARBERENA",
+"PostCode": "06002",
+"LatLong": "14.3094,-90.3611"
+},
+{
+"Name": "SANTA ROSA DE LIMA",
+"PostCode": "06003",
+"LatLong": "14.3881,-90.2956"
+},
+{
+"Name": "CASILLAS",
+"PostCode": "06004",
+"LatLong": "14.4222,-90.2442"
+},
+{
+"Name": "SAN RAFAEL LAS FLORES",
+"PostCode": "06005",
+"LatLong": "14.4814,-90.1733"
+},
+{
+"Name": "ORATORIO",
+"PostCode": "06006",
+"LatLong": "14.2281,-90.1758"
+},
+{
+"Name": "SAN JUAN TECUACO",
+"PostCode": "06007",
+"LatLong": "14.0822,-90.2611"
+},
+{
+"Name": "CHIQUIMULILLA",
+"PostCode": "06008",
+"LatLong": "14.0858,-90.3767"
+},
+{
+"Name": "TAXISCO",
+"PostCode": "06009",
+"LatLong": "14.0708,-90.4631"
+},
+{
+"Name": "SANTA MARIA IXHUATAN",
+"PostCode": "06010",
+"LatLong": "14.19,-90.2747"
+},
+{
+"Name": "GUAZACAPAN",
+"PostCode": "06011",
+"LatLong": "14.0742,-90.4167"
+},
+{
+"Name": "SANTA CRUZ NARANJO",
+"PostCode": "06012",
+"LatLong": "14.3881,-90.3697"
+},
+{
+"Name": "PUEBLO NUEVO VINAS",
+"PostCode": "06013",
+"LatLong": "14.2258,-90.4742"
+},
+{
+"Name": "NUEVA SANTA ROSA",
+"PostCode": "06014",
+"LatLong": "14.3811,-90.2761"
+},
+{
+"Name": "EL AHUMADO (CHIQUIMULILLA)",
+"PostCode": "06015",
+"LatLong": "14.2518,-90.3623"
+},
+{
+"Name": "LOS CERRITOS (CHIQUIMULILLA)",
+"PostCode": "06016",
+"LatLong": "14.2518,-90.3623"
+},
+{
+"Name": "CASAS VIEJAS (CHIQUIMULILLA)",
+"PostCode": "06017",
+"LatLong": "14.2518,-90.3623"
+},
+{
+"Name": "AYARZA (CASILLAS)",
+"PostCode": "06018",
+"LatLong": "14.2518,-90.3623"
+},
+{
+"Name": "EL MOLINO (CUILAPA)",
+"PostCode": "06019",
+"LatLong": "14.2518,-90.3623"
+},
+{
+"Name": "NANCINTA (CHIQUIMULILLA)",
+"PostCode": "06020",
+"LatLong": "14.2574,-90.3188"
+},
+{
+"Name": "SAN MIGUEL AROCHE (CHIQUIMULILLA)",
+"PostCode": "06021",
+"LatLong": "14.2574,-90.3188"
+},
+{
+"Name": "LOS ESCLAVOS (CUILAPA)",
+"PostCode": "06022",
+"LatLong": "14.2574,-90.3188"
+},
+{
+"Name": "EL SERINAL (BARBERENA)",
+"PostCode": "06023",
+"LatLong": "14.2574,-90.3188"
+},
+{
+"Name": "MONTERICO (TAXISCO)",
+"PostCode": "06024",
+"LatLong": "14.2574,-90.3188"
+},
+{
+"Name": "SAN JUAN DE ARANA (CUILAPA)",
+"PostCode": "06025",
+"LatLong": "14.2574,-90.3188"
+},
+{
+"Name": "EL RINCONCITO (SANTA ROSA DE LIMA)",
+"PostCode": "06026",
+"LatLong": "14.2574,-90.3188"
+},
+{
+"Name": "CERRO GORDO (SANTA ROSA DE LIMA)",
+"PostCode": "06027",
+"LatLong": "14.2574,-90.3188"
+}
+]
+},
+{
+"Name": "DEPTO DE SOLOLA",
+"Code": "19",
+"Places": [
+{
+"Name": "DEPTO DE SOLOLA",
+"PostCode": "07000",
+"LatLong": "14.7708,-91.2646"
+},
+{
+"Name": "SOLOLA",
+"PostCode": "07001",
+"LatLong": "14.7667,-91.1833"
+},
+{
+"Name": "SAN JOSE CHACAYA",
+"PostCode": "07002",
+"LatLong": "14.7667,-91.2167"
+},
+{
+"Name": "SANTA MARIA VISITACION",
+"PostCode": "07003",
+"LatLong": "14.7167,-91.3167"
+},
+{
+"Name": "SANTA LUCIA UTATLAN",
+"PostCode": "07004",
+"LatLong": "14.7667,-91.2667"
+},
+{
+"Name": "NAHUALA",
+"PostCode": "07005",
+"LatLong": "14.85,-91.3167"
+},
+{
+"Name": "SANTA CATARINA IXTAHUACAN",
+"PostCode": "07006",
+"LatLong": "14.8,-91.3667"
+},
+{
+"Name": "SANTA CLARA LA LAGUNA",
+"PostCode": "07007",
+"LatLong": "14.7167,-91.3"
+},
+{
+"Name": "CONCEPCION",
+"PostCode": "07008",
+"LatLong": "14.7833,-91.15"
+},
+{
+"Name": "SAN ANDRES SEMETATABAJ",
+"PostCode": "07009",
+"LatLong": "14.7708,-91.2646"
+},
+{
+"Name": "PANAJACHEL",
+"PostCode": "07010",
+"LatLong": "14.7333,-91.15"
+},
+{
+"Name": "SANTA CATARINA PALOPO",
+"PostCode": "07011",
+"LatLong": "14.7167,-91.1333"
+},
+{
+"Name": "SAN ANTONIO PALOPO",
+"PostCode": "07012",
+"LatLong": "14.7,-91.1167"
+},
+{
+"Name": "SAN LUCAS TOLIMAN",
+"PostCode": "07013",
+"LatLong": "14.6333,-91.1333"
+},
+{
+"Name": "SANTA CRUZ LA LAGUNA",
+"PostCode": "07014",
+"LatLong": "14.75,-91.2167"
+},
+{
+"Name": "SAN PABLO LA LAGUNA",
+"PostCode": "07015",
+"LatLong": "14.7167,-91.2667"
+},
+{
+"Name": "SAN MARCOS LA LAGUNA",
+"PostCode": "07016",
+"LatLong": "14.7167,-91.2667"
+},
+{
+"Name": "SAN JUAN LA LAGUNA",
+"PostCode": "07017",
+"LatLong": "14.7,-91.2833"
+},
+{
+"Name": "SAN PEDRO LA LAGUNA",
+"PostCode": "07018",
+"LatLong": "14.6833,-91.2667"
+},
+{
+"Name": "SANTIAGO ATITLAN",
+"PostCode": "07019",
+"LatLong": "14.6382,-91.229"
+},
+{
+"Name": "LOS ENCUENTROS SOLOLA",
+"PostCode": "07020",
+"LatLong": "14.85,-91.15"
+},
+{
+"Name": "GODINEZ (SAN ANDRES SEMETABAJ)",
+"PostCode": "07021",
+"LatLong": "14.8444,-91.1889"
+},
+{
+"Name": "AGUA ESCONDIDA ( SAN ANTONIO PALOPO)",
+"PostCode": "07022",
+"LatLong": "14.8444,-91.1889"
+},
+{
+"Name": "ARGUETA (SOLOLA)",
+"PostCode": "07023",
+"LatLong": "14.8167,-91.2333"
+},
+{
+"Name": "PIXABAJ (SOLOLA)",
+"PostCode": "07024",
+"LatLong": "14.8667,-91.1833"
+}
+]
+},
+{
+"Name": "DEPTO DE SUCHITEPEQUEZ",
+"Code": "20",
+"Places": [
+{
+"Name": "DEPTO DE SUCHITEPEQUEZ",
+"PostCode": "10000",
+"LatLong": "14.5208,-91.4875"
+},
+{
+"Name": "MAZATENANGO",
+"PostCode": "10001",
+"LatLong": "14.5333,-91.5"
+},
+{
+"Name": "CUYOTENANGO",
+"PostCode": "10002",
+"LatLong": "14.5333,-91.5667"
+},
+{
+"Name": "SAN FRANCISCO ZAPOTITLAN",
+"PostCode": "10003",
+"LatLong": "14.5833,-91.5167"
+},
+{
+"Name": "SAN BERNARDINO",
+"PostCode": "10004",
+"LatLong": "14.5333,-91.45"
+},
+{
+"Name": "SAN JOSE EL IDOLO",
+"PostCode": "10005",
+"LatLong": "14.45,-91.4167"
+},
+{
+"Name": "SANTO DOMINGO SUCHITEPEQUEZ",
+"PostCode": "10006",
+"LatLong": "14.4667,-91.4833"
+},
+{
+"Name": "SAN LORENZO",
+"PostCode": "10007",
+"LatLong": "14.4833,-91.5167"
+},
+{
+"Name": "SAMAYAO",
+"PostCode": "10008",
+"LatLong": "14.5208,-91.4875"
+},
+{
+"Name": "SAN PABLO JOCOPILAS",
+"PostCode": "10009",
+"LatLong": "14.5833,-91.45"
+},
+{
+"Name": "SAN ANTONIO SUCHITEPEQUEZ",
+"PostCode": "10010",
+"LatLong": "14.5333,-91.4167"
+},
+{
+"Name": "SAN MIGUEL PANAN",
+"PostCode": "10011",
+"LatLong": "14.5333,-91.3667"
+},
+{
+"Name": "SAN GABRIEL",
+"PostCode": "10012",
+"LatLong": "14.5167,-91.5167"
+},
+{
+"Name": "CHICACAO",
+"PostCode": "10013",
+"LatLong": "14.5333,-91.3167"
+},
+{
+"Name": "PATULUL",
+"PostCode": "10014",
+"LatLong": "14.4167,-91.1667"
+},
+{
+"Name": "SANTA BARBARA",
+"PostCode": "10015",
+"LatLong": "14.4333,-91.2333"
+},
+{
+"Name": "SAN JUAN BAUTISTA",
+"PostCode": "10016",
+"LatLong": "14.4167,-91.1833"
+},
+{
+"Name": "SANTO TOMAS LA UNION",
+"PostCode": "10017",
+"LatLong": "14.6333,-91.3833"
+},
+{
+"Name": "ZUNULITO",
+"PostCode": "10018",
+"LatLong": "14.4778,-91.3278"
+},
+{
+"Name": "PUEBLO NUEVO",
+"PostCode": "10019",
+"LatLong": "14.2833,-91.3667"
+},
+{
+"Name": "RIO BRAVO",
+"PostCode": "10020",
+"LatLong": "14.4,-91.3167"
+},
+{
+"Name": "COCALES (PATULUL)",
+"PostCode": "10021",
+"LatLong": "14.4,-91.3167"
+},
+{
+"Name": "CHOCOLA (SAN PABLO JOCOPILAS)",
+"PostCode": "10022",
+"LatLong": "14.4,-91.3167"
+},
+{
+"Name": "TAHUEXCO (MAZATENANGO)",
+"PostCode": "10023",
+"LatLong": "14.4,-91.3167"
+},
+{
+"Name": "GUATALON (RIO BRAVO)",
+"PostCode": "10024",
+"LatLong": "14.4,-91.3167"
+},
+{
+"Name": "PALO GORDO (SAN ANTONIO SUCHITEPEQUEZ)",
+"PostCode": "10025",
+"LatLong": "14.4,-91.3167"
+},
+{
+"Name": "SAN RAFAEL PANAN (SANTA BARBARA)",
+"PostCode": "10026",
+"LatLong": "14.4,-91.3167"
+},
+{
+"Name": "BRACITOS (MAZATENANGO)",
+"PostCode": "10027",
+"LatLong": "14.4,-91.3167"
+},
+{
+"Name": "BOLIVIA (SANTO DOMINGO SUCHITEPEQUEZ)",
+"PostCode": "10028",
+"LatLong": "14.4,-91.3167"
+},
+{
+"Name": "MONTERREY (SANTO DOMINGO SUCHITEPEQUEZ)",
+"PostCode": "10029",
+"LatLong": "14.4,-91.3167"
+},
+{
+"Name": "LA MAQUINA (CUYOTENANGO)",
+"PostCode": "10030",
+"LatLong": "14.4926,-91.3981"
+}
+]
+},
+{
+"Name": "DEPTO DE TOTONICAPAN",
+"Code": "21",
+"Places": [
+{
+"Name": "DEPTO DE TOTONICAPAN",
+"PostCode": "08000",
+"LatLong": "14.9962,-91.3953"
+},
+{
+"Name": "TOTONICAPAN",
+"PostCode": "08001",
+"LatLong": "14.9167,-91.3667"
+},
+{
+"Name": "SAN CRISTOBAL TOTONICAPAN",
+"PostCode": "08002",
+"LatLong": "14.9167,-91.4333"
+},
+{
+"Name": "SAN FRANCISCO EL ALTO",
+"PostCode": "08003",
+"LatLong": "14.95,-91.45"
+},
+{
+"Name": "SAN ANDRES XECUL",
+"PostCode": "08004",
+"LatLong": "14.9,-91.4833"
+},
+{
+"Name": "MOMOSTENANGO",
+"PostCode": "08005",
+"LatLong": "15.0436,-91.4086"
+},
+{
+"Name": "SANTA MARIA CHIQUIMULA",
+"PostCode": "08006",
+"LatLong": "15.0303,-91.3292"
+},
+{
+"Name": "SANTA LUCIA LA REFORMA",
+"PostCode": "08007",
+"LatLong": "15.1283,-91.2356"
+},
+{
+"Name": "SAN BARTOLO",
+"PostCode": "08008",
+"LatLong": "15.0844,-91.4558"
+}
+]
+},
+{
+"Name": "DEPTO DE ZACAPA",
+"Code": "22",
+"Places": [
+{
+"Name": "DEPTO DE ZACAPA",
+"PostCode": "19000",
+"LatLong": "14.9759,-89.6019"
+},
+{
+"Name": "ZACAPA",
+"PostCode": "19001",
+"LatLong": "14.9667,-89.5333"
+},
+{
+"Name": "ESTANZUELA",
+"PostCode": "19002",
+"LatLong": "15,-89.5667"
+},
+{
+"Name": "RIO HONDO",
+"PostCode": "19003",
+"LatLong": "15.0667,-89.5833"
+},
+{
+"Name": "GUALAN",
+"PostCode": "19004",
+"LatLong": "15.1333,-89.3667"
+},
+{
+"Name": "TECULUTAN",
+"PostCode": "19005",
+"LatLong": "14.9833,-89.7167"
+},
+{
+"Name": "USUMATLAN",
+"PostCode": "19006",
+"LatLong": "14.95,-89.7833"
+},
+{
+"Name": "CABANAS",
+"PostCode": "19007",
+"LatLong": "14.9333,-89.8"
+},
+{
+"Name": "SAN DIEGO",
+"PostCode": "19008",
+"LatLong": "14.7833,-89.7833"
+},
+{
+"Name": "LA UNION",
+"PostCode": "19009",
+"LatLong": "14.9667,-89.2833"
+},
+{
+"Name": "HUITE",
+"PostCode": "19010",
+"LatLong": "14.9333,-89.7167"
+},
+{
+"Name": "LA REFORMA (HUITE)",
+"PostCode": "19011",
+"LatLong": "14.95,-89.6028"
+},
+{
+"Name": "SAN JOSE (TECULUTAN)",
+"PostCode": "19012",
+"LatLong": "14.95,-89.6028"
+},
+{
+"Name": "SAN JORGE (ZACAPA)",
+"PostCode": "19013",
+"LatLong": "14.9333,-89.5833"
+},
+{
+"Name": "SANTA ROSALIA (ZACAPA)",
+"PostCode": "19014",
+"LatLong": "14.95,-89.6028"
+},
+{
+"Name": "SANTA LUCIA (ZACAPA)",
+"PostCode": "19015",
+"LatLong": "14.9167,-89.5167"
+},
+{
+"Name": "LA FRAGUA (ZACAPA)",
+"PostCode": "19016",
+"LatLong": "14.9667,-89.55"
+},
+{
+"Name": "SAN PABLO (ZACAPA)",
+"PostCode": "19017",
+"LatLong": "15.05,-89.5"
+},
+{
+"Name": "SAN VICENTE",
+"PostCode": "19018",
+"LatLong": "14.9,-89.75"
+}
+]
+}
+]
 }
