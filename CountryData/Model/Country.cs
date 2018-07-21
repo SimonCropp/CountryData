@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 
-namespace StateProvinceCommunity
+namespace CountryData
 {
-    class Country
+    public class Country
     {
         public List<State> States = new List<State>();
     }

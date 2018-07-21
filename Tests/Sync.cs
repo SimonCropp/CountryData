@@ -3,7 +3,6 @@ using System.IO;
 using System.IO.Compression;
 using System.Linq;
 using System.Threading.Tasks;
-using StateProvinceCommunity;
 using Xunit;
 
 public class Sync
@@ -13,9 +12,10 @@ public class Sync
     {
         var countriesPath = Path.GetFullPath(Path.Combine(DataLocations.SlnPath, "countries.txt"));
         var allCountriesZipPath = Path.Combine(DataLocations.TempPath, "allCountries.zip");
-        var countryInfoPath = Path.Combine(DataLocations.TempPath, "countryInfo.txt");
+
+        await SyncCountryInfo();
+
         await Downloader.DownloadFile(allCountriesZipPath, "http://download.geonames.org/export/zip/allCountries.zip");
-        await Downloader.DownloadFile(countryInfoPath, "http://download.geonames.org/export/dump/countryInfo.txt");
 
         var allCountriesTxtPath = Path.Combine(DataLocations.TempPath, "allCountries.txt");
         File.Delete(allCountriesTxtPath);
@@ -26,6 +26,17 @@ public class Sync
         File.Delete(countriesPath);
         File.WriteAllLines(countriesPath, groupByCountry.Select(x => x.Key.ToLower()));
         WriteRows(DataLocations.PostCodesPath, groupByCountry);
+    }
+
+    static async Task SyncCountryInfo()
+    {
+        var countryInfoPath = Path.Combine(DataLocations.TempPath, "countryInfo.txt");
+        await Downloader.DownloadFile(countryInfoPath, "http://download.geonames.org/export/dump/countryInfo.txt");
+
+
+        var path = Path.Combine(DataLocations.DataPath, "countryInfo.json.txt");
+        var value = CountryInfoRowReader.ReadRows(countryInfoPath);
+        JsonSerializer.Serialize(value, path);
     }
 
 
@@ -40,6 +51,6 @@ public class Sync
 
     void ProcessCountry(string country, List<PostCodeRow> rows, string directory)
     {
-        StateProvinceCommunitySerializer.Serialize(country, rows, directory);
+        CountrySerializer.Serialize(country, rows, directory);
     }
 }

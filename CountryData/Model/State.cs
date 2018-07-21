@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 
-namespace StateProvinceCommunity
+namespace CountryData
 {
-    class State
+    public class State
     {
         public string Name;
         public string Code;

@@ -1,6 +1,6 @@
-﻿namespace StateProvinceCommunity
+﻿namespace CountryData
 {
-    class Place
+    public class Place
     {
         public string Name;
         public string PostCode;

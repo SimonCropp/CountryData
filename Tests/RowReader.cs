@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Runtime.InteropServices;
 
 static class RowReader
 {
@@ -17,6 +18,10 @@ static class RowReader
                     break;
                 }
 
+                if (line.StartsWith("#"))
+                {
+                    continue;
+                }
                 var split = line.Split(tab);
                 for (var index = 0; index < split.Length; index++)
                 {

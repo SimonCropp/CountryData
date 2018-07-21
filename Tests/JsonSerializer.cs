@@ -14,9 +14,9 @@ static class JsonSerializer
         };
     }
 
-    public static void Serialize(string directory,string country, object value)
+    public static void Serialize(object value, string path)
     {
-        using (var fileStream = File.OpenWrite(Path.Combine(directory, country+".json.txt")))
+        using (var fileStream = File.OpenWrite(path))
         using (var textWriter = new StreamWriter(fileStream))
         using (var jsonTextWriter = new JsonTextWriter(textWriter))
         {
