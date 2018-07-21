@@ -1,432 +1,429 @@
-
-using System.Collections.Generic;
-
 namespace CountryData
 {
     public static partial class CountryLoader
     {
 
-        public static IReadOnlyList<IState> LoadAndorraLocationData()
+        public static ICountry LoadAndorraLocationData()
         {
             return LoadLocationData("AD");
         }
 
-        public static IReadOnlyList<IState> LoadArgentinaLocationData()
+        public static ICountry LoadArgentinaLocationData()
         {
             return LoadLocationData("AR");
         }
 
-        public static IReadOnlyList<IState> LoadAmericanSamoaLocationData()
+        public static ICountry LoadAmericanSamoaLocationData()
         {
             return LoadLocationData("AS");
         }
 
-        public static IReadOnlyList<IState> LoadAustriaLocationData()
+        public static ICountry LoadAustriaLocationData()
         {
             return LoadLocationData("AT");
         }
 
-        public static IReadOnlyList<IState> LoadAustraliaLocationData()
+        public static ICountry LoadAustraliaLocationData()
         {
             return LoadLocationData("AU");
         }
 
-        public static IReadOnlyList<IState> LoadAlandIslandsLocationData()
+        public static ICountry LoadAlandIslandsLocationData()
         {
             return LoadLocationData("AX");
         }
 
-        public static IReadOnlyList<IState> LoadBangladeshLocationData()
+        public static ICountry LoadBangladeshLocationData()
         {
             return LoadLocationData("BD");
         }
 
-        public static IReadOnlyList<IState> LoadBelgiumLocationData()
+        public static ICountry LoadBelgiumLocationData()
         {
             return LoadLocationData("BE");
         }
 
-        public static IReadOnlyList<IState> LoadBulgariaLocationData()
+        public static ICountry LoadBulgariaLocationData()
         {
             return LoadLocationData("BG");
         }
 
-        public static IReadOnlyList<IState> LoadBermudaLocationData()
+        public static ICountry LoadBermudaLocationData()
         {
             return LoadLocationData("BM");
         }
 
-        public static IReadOnlyList<IState> LoadBrazilLocationData()
+        public static ICountry LoadBrazilLocationData()
         {
             return LoadLocationData("BR");
         }
 
-        public static IReadOnlyList<IState> LoadBelarusLocationData()
+        public static ICountry LoadBelarusLocationData()
         {
             return LoadLocationData("BY");
         }
 
-        public static IReadOnlyList<IState> LoadCanadaLocationData()
+        public static ICountry LoadCanadaLocationData()
         {
             return LoadLocationData("CA");
         }
 
-        public static IReadOnlyList<IState> LoadSwitzerlandLocationData()
+        public static ICountry LoadSwitzerlandLocationData()
         {
             return LoadLocationData("CH");
         }
 
-        public static IReadOnlyList<IState> LoadColombiaLocationData()
+        public static ICountry LoadColombiaLocationData()
         {
             return LoadLocationData("CO");
         }
 
-        public static IReadOnlyList<IState> LoadCostaRicaLocationData()
+        public static ICountry LoadCostaRicaLocationData()
         {
             return LoadLocationData("CR");
         }
 
-        public static IReadOnlyList<IState> LoadCzechiaLocationData()
+        public static ICountry LoadCzechiaLocationData()
         {
             return LoadLocationData("CZ");
         }
 
-        public static IReadOnlyList<IState> LoadGermanyLocationData()
+        public static ICountry LoadGermanyLocationData()
         {
             return LoadLocationData("DE");
         }
 
-        public static IReadOnlyList<IState> LoadDenmarkLocationData()
+        public static ICountry LoadDenmarkLocationData()
         {
             return LoadLocationData("DK");
         }
 
-        public static IReadOnlyList<IState> LoadDominicanRepublicLocationData()
+        public static ICountry LoadDominicanRepublicLocationData()
         {
             return LoadLocationData("DO");
         }
 
-        public static IReadOnlyList<IState> LoadAlgeriaLocationData()
+        public static ICountry LoadAlgeriaLocationData()
         {
             return LoadLocationData("DZ");
         }
 
-        public static IReadOnlyList<IState> LoadSpainLocationData()
+        public static ICountry LoadSpainLocationData()
         {
             return LoadLocationData("ES");
         }
 
-        public static IReadOnlyList<IState> LoadFinlandLocationData()
+        public static ICountry LoadFinlandLocationData()
         {
             return LoadLocationData("FI");
         }
 
-        public static IReadOnlyList<IState> LoadMicronesiaLocationData()
+        public static ICountry LoadMicronesiaLocationData()
         {
             return LoadLocationData("FM");
         }
 
-        public static IReadOnlyList<IState> LoadFaroeIslandsLocationData()
+        public static ICountry LoadFaroeIslandsLocationData()
         {
             return LoadLocationData("FO");
         }
 
-        public static IReadOnlyList<IState> LoadFranceLocationData()
+        public static ICountry LoadFranceLocationData()
         {
             return LoadLocationData("FR");
         }
 
-        public static IReadOnlyList<IState> LoadUnitedKingdomLocationData()
+        public static ICountry LoadUnitedKingdomLocationData()
         {
             return LoadLocationData("GB");
         }
 
-        public static IReadOnlyList<IState> LoadFrenchGuianaLocationData()
+        public static ICountry LoadFrenchGuianaLocationData()
         {
             return LoadLocationData("GF");
         }
 
-        public static IReadOnlyList<IState> LoadGuernseyLocationData()
+        public static ICountry LoadGuernseyLocationData()
         {
             return LoadLocationData("GG");
         }
 
-        public static IReadOnlyList<IState> LoadGreenlandLocationData()
+        public static ICountry LoadGreenlandLocationData()
         {
             return LoadLocationData("GL");
         }
 
-        public static IReadOnlyList<IState> LoadGuadeloupeLocationData()
+        public static ICountry LoadGuadeloupeLocationData()
         {
             return LoadLocationData("GP");
         }
 
-        public static IReadOnlyList<IState> LoadGuatemalaLocationData()
+        public static ICountry LoadGuatemalaLocationData()
         {
             return LoadLocationData("GT");
         }
 
-        public static IReadOnlyList<IState> LoadGuamLocationData()
+        public static ICountry LoadGuamLocationData()
         {
             return LoadLocationData("GU");
         }
 
-        public static IReadOnlyList<IState> LoadCroatiaLocationData()
+        public static ICountry LoadCroatiaLocationData()
         {
             return LoadLocationData("HR");
         }
 
-        public static IReadOnlyList<IState> LoadHungaryLocationData()
+        public static ICountry LoadHungaryLocationData()
         {
             return LoadLocationData("HU");
         }
 
-        public static IReadOnlyList<IState> LoadIrelandLocationData()
+        public static ICountry LoadIrelandLocationData()
         {
             return LoadLocationData("IE");
         }
 
-        public static IReadOnlyList<IState> LoadIsleOfManLocationData()
+        public static ICountry LoadIsleOfManLocationData()
         {
             return LoadLocationData("IM");
         }
 
-        public static IReadOnlyList<IState> LoadIndiaLocationData()
+        public static ICountry LoadIndiaLocationData()
         {
             return LoadLocationData("IN");
         }
 
-        public static IReadOnlyList<IState> LoadIcelandLocationData()
+        public static ICountry LoadIcelandLocationData()
         {
             return LoadLocationData("IS");
         }
 
-        public static IReadOnlyList<IState> LoadItalyLocationData()
+        public static ICountry LoadItalyLocationData()
         {
             return LoadLocationData("IT");
         }
 
-        public static IReadOnlyList<IState> LoadJerseyLocationData()
+        public static ICountry LoadJerseyLocationData()
         {
             return LoadLocationData("JE");
         }
 
-        public static IReadOnlyList<IState> LoadJapanLocationData()
+        public static ICountry LoadJapanLocationData()
         {
             return LoadLocationData("JP");
         }
 
-        public static IReadOnlyList<IState> LoadLiechtensteinLocationData()
+        public static ICountry LoadLiechtensteinLocationData()
         {
             return LoadLocationData("LI");
         }
 
-        public static IReadOnlyList<IState> LoadSriLankaLocationData()
+        public static ICountry LoadSriLankaLocationData()
         {
             return LoadLocationData("LK");
         }
 
-        public static IReadOnlyList<IState> LoadLithuaniaLocationData()
+        public static ICountry LoadLithuaniaLocationData()
         {
             return LoadLocationData("LT");
         }
 
-        public static IReadOnlyList<IState> LoadLuxembourgLocationData()
+        public static ICountry LoadLuxembourgLocationData()
         {
             return LoadLocationData("LU");
         }
 
-        public static IReadOnlyList<IState> LoadLatviaLocationData()
+        public static ICountry LoadLatviaLocationData()
         {
             return LoadLocationData("LV");
         }
 
-        public static IReadOnlyList<IState> LoadMonacoLocationData()
+        public static ICountry LoadMonacoLocationData()
         {
             return LoadLocationData("MC");
         }
 
-        public static IReadOnlyList<IState> LoadMoldovaLocationData()
+        public static ICountry LoadMoldovaLocationData()
         {
             return LoadLocationData("MD");
         }
 
-        public static IReadOnlyList<IState> LoadMarshallIslandsLocationData()
+        public static ICountry LoadMarshallIslandsLocationData()
         {
             return LoadLocationData("MH");
         }
 
-        public static IReadOnlyList<IState> LoadMacedoniaLocationData()
+        public static ICountry LoadMacedoniaLocationData()
         {
             return LoadLocationData("MK");
         }
 
-        public static IReadOnlyList<IState> LoadNorthernMarianaIslandsLocationData()
+        public static ICountry LoadNorthernMarianaIslandsLocationData()
         {
             return LoadLocationData("MP");
         }
 
-        public static IReadOnlyList<IState> LoadMartiniqueLocationData()
+        public static ICountry LoadMartiniqueLocationData()
         {
             return LoadLocationData("MQ");
         }
 
-        public static IReadOnlyList<IState> LoadMaltaLocationData()
+        public static ICountry LoadMaltaLocationData()
         {
             return LoadLocationData("MT");
         }
 
-        public static IReadOnlyList<IState> LoadMexicoLocationData()
+        public static ICountry LoadMexicoLocationData()
         {
             return LoadLocationData("MX");
         }
 
-        public static IReadOnlyList<IState> LoadMalaysiaLocationData()
+        public static ICountry LoadMalaysiaLocationData()
         {
             return LoadLocationData("MY");
         }
 
-        public static IReadOnlyList<IState> LoadNewCaledoniaLocationData()
+        public static ICountry LoadNewCaledoniaLocationData()
         {
             return LoadLocationData("NC");
         }
 
-        public static IReadOnlyList<IState> LoadNetherlandsLocationData()
+        public static ICountry LoadNetherlandsLocationData()
         {
             return LoadLocationData("NL");
         }
 
-        public static IReadOnlyList<IState> LoadNorwayLocationData()
+        public static ICountry LoadNorwayLocationData()
         {
             return LoadLocationData("NO");
         }
 
-        public static IReadOnlyList<IState> LoadNewZealandLocationData()
+        public static ICountry LoadNewZealandLocationData()
         {
             return LoadLocationData("NZ");
         }
 
-        public static IReadOnlyList<IState> LoadPhilippinesLocationData()
+        public static ICountry LoadPhilippinesLocationData()
         {
             return LoadLocationData("PH");
         }
 
-        public static IReadOnlyList<IState> LoadPakistanLocationData()
+        public static ICountry LoadPakistanLocationData()
         {
             return LoadLocationData("PK");
         }
 
-        public static IReadOnlyList<IState> LoadPolandLocationData()
+        public static ICountry LoadPolandLocationData()
         {
             return LoadLocationData("PL");
         }
 
-        public static IReadOnlyList<IState> LoadSaintPierreAndMiquelonLocationData()
+        public static ICountry LoadSaintPierreAndMiquelonLocationData()
         {
             return LoadLocationData("PM");
         }
 
-        public static IReadOnlyList<IState> LoadPuertoRicoLocationData()
+        public static ICountry LoadPuertoRicoLocationData()
         {
             return LoadLocationData("PR");
         }
 
-        public static IReadOnlyList<IState> LoadPortugalLocationData()
+        public static ICountry LoadPortugalLocationData()
         {
             return LoadLocationData("PT");
         }
 
-        public static IReadOnlyList<IState> LoadPalauLocationData()
+        public static ICountry LoadPalauLocationData()
         {
             return LoadLocationData("PW");
         }
 
-        public static IReadOnlyList<IState> LoadReunionLocationData()
+        public static ICountry LoadReunionLocationData()
         {
             return LoadLocationData("RE");
         }
 
-        public static IReadOnlyList<IState> LoadRomaniaLocationData()
+        public static ICountry LoadRomaniaLocationData()
         {
             return LoadLocationData("RO");
         }
 
-        public static IReadOnlyList<IState> LoadRussiaLocationData()
+        public static ICountry LoadRussiaLocationData()
         {
             return LoadLocationData("RU");
         }
 
-        public static IReadOnlyList<IState> LoadSwedenLocationData()
+        public static ICountry LoadSwedenLocationData()
         {
             return LoadLocationData("SE");
         }
 
-        public static IReadOnlyList<IState> LoadSloveniaLocationData()
+        public static ICountry LoadSloveniaLocationData()
         {
             return LoadLocationData("SI");
         }
 
-        public static IReadOnlyList<IState> LoadSvalbardAndJanMayenLocationData()
+        public static ICountry LoadSvalbardAndJanMayenLocationData()
         {
             return LoadLocationData("SJ");
         }
 
-        public static IReadOnlyList<IState> LoadSlovakiaLocationData()
+        public static ICountry LoadSlovakiaLocationData()
         {
             return LoadLocationData("SK");
         }
 
-        public static IReadOnlyList<IState> LoadSanMarinoLocationData()
+        public static ICountry LoadSanMarinoLocationData()
         {
             return LoadLocationData("SM");
         }
 
-        public static IReadOnlyList<IState> LoadThailandLocationData()
+        public static ICountry LoadThailandLocationData()
         {
             return LoadLocationData("TH");
         }
 
-        public static IReadOnlyList<IState> LoadTurkeyLocationData()
+        public static ICountry LoadTurkeyLocationData()
         {
             return LoadLocationData("TR");
         }
 
-        public static IReadOnlyList<IState> LoadUkraineLocationData()
+        public static ICountry LoadUkraineLocationData()
         {
             return LoadLocationData("UA");
         }
 
-        public static IReadOnlyList<IState> LoadUnitedStatesLocationData()
+        public static ICountry LoadUnitedStatesLocationData()
         {
             return LoadLocationData("US");
         }
 
-        public static IReadOnlyList<IState> LoadUruguayLocationData()
+        public static ICountry LoadUruguayLocationData()
         {
             return LoadLocationData("UY");
         }
 
-        public static IReadOnlyList<IState> LoadVaticanLocationData()
+        public static ICountry LoadVaticanLocationData()
         {
             return LoadLocationData("VA");
         }
 
-        public static IReadOnlyList<IState> LoadUSVirginIslandsLocationData()
+        public static ICountry LoadUSVirginIslandsLocationData()
         {
             return LoadLocationData("VI");
         }
 
-        public static IReadOnlyList<IState> LoadWallisAndFutunaLocationData()
+        public static ICountry LoadWallisAndFutunaLocationData()
         {
             return LoadLocationData("WF");
         }
 
-        public static IReadOnlyList<IState> LoadMayotteLocationData()
+        public static ICountry LoadMayotteLocationData()
         {
             return LoadLocationData("YT");
         }
 
-        public static IReadOnlyList<IState> LoadSouthAfricaLocationData()
+        public static ICountry LoadSouthAfricaLocationData()
         {
             return LoadLocationData("ZA");
         }

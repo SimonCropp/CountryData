@@ -6,427 +6,427 @@ namespace CountryData.Bogus
     public partial class CountryDataSet : DataSet
     {
 
-        public IReadOnlyList<IState> Andorra()
+        public ICountry Andorra()
         {
             return CountryLoader.LoadAndorraLocationData();
         }
 
-        public IReadOnlyList<IState> Argentina()
+        public ICountry Argentina()
         {
             return CountryLoader.LoadArgentinaLocationData();
         }
 
-        public IReadOnlyList<IState> AmericanSamoa()
+        public ICountry AmericanSamoa()
         {
             return CountryLoader.LoadAmericanSamoaLocationData();
         }
 
-        public IReadOnlyList<IState> Austria()
+        public ICountry Austria()
         {
             return CountryLoader.LoadAustriaLocationData();
         }
 
-        public IReadOnlyList<IState> Australia()
+        public ICountry Australia()
         {
             return CountryLoader.LoadAustraliaLocationData();
         }
 
-        public IReadOnlyList<IState> AlandIslands()
+        public ICountry AlandIslands()
         {
             return CountryLoader.LoadAlandIslandsLocationData();
         }
 
-        public IReadOnlyList<IState> Bangladesh()
+        public ICountry Bangladesh()
         {
             return CountryLoader.LoadBangladeshLocationData();
         }
 
-        public IReadOnlyList<IState> Belgium()
+        public ICountry Belgium()
         {
             return CountryLoader.LoadBelgiumLocationData();
         }
 
-        public IReadOnlyList<IState> Bulgaria()
+        public ICountry Bulgaria()
         {
             return CountryLoader.LoadBulgariaLocationData();
         }
 
-        public IReadOnlyList<IState> Bermuda()
+        public ICountry Bermuda()
         {
             return CountryLoader.LoadBermudaLocationData();
         }
 
-        public IReadOnlyList<IState> Brazil()
+        public ICountry Brazil()
         {
             return CountryLoader.LoadBrazilLocationData();
         }
 
-        public IReadOnlyList<IState> Belarus()
+        public ICountry Belarus()
         {
             return CountryLoader.LoadBelarusLocationData();
         }
 
-        public IReadOnlyList<IState> Canada()
+        public ICountry Canada()
         {
             return CountryLoader.LoadCanadaLocationData();
         }
 
-        public IReadOnlyList<IState> Switzerland()
+        public ICountry Switzerland()
         {
             return CountryLoader.LoadSwitzerlandLocationData();
         }
 
-        public IReadOnlyList<IState> Colombia()
+        public ICountry Colombia()
         {
             return CountryLoader.LoadColombiaLocationData();
         }
 
-        public IReadOnlyList<IState> CostaRica()
+        public ICountry CostaRica()
         {
             return CountryLoader.LoadCostaRicaLocationData();
         }
 
-        public IReadOnlyList<IState> Czechia()
+        public ICountry Czechia()
         {
             return CountryLoader.LoadCzechiaLocationData();
         }
 
-        public IReadOnlyList<IState> Germany()
+        public ICountry Germany()
         {
             return CountryLoader.LoadGermanyLocationData();
         }
 
-        public IReadOnlyList<IState> Denmark()
+        public ICountry Denmark()
         {
             return CountryLoader.LoadDenmarkLocationData();
         }
 
-        public IReadOnlyList<IState> DominicanRepublic()
+        public ICountry DominicanRepublic()
         {
             return CountryLoader.LoadDominicanRepublicLocationData();
         }
 
-        public IReadOnlyList<IState> Algeria()
+        public ICountry Algeria()
         {
             return CountryLoader.LoadAlgeriaLocationData();
         }
 
-        public IReadOnlyList<IState> Spain()
+        public ICountry Spain()
         {
             return CountryLoader.LoadSpainLocationData();
         }
 
-        public IReadOnlyList<IState> Finland()
+        public ICountry Finland()
         {
             return CountryLoader.LoadFinlandLocationData();
         }
 
-        public IReadOnlyList<IState> Micronesia()
+        public ICountry Micronesia()
         {
             return CountryLoader.LoadMicronesiaLocationData();
         }
 
-        public IReadOnlyList<IState> FaroeIslands()
+        public ICountry FaroeIslands()
         {
             return CountryLoader.LoadFaroeIslandsLocationData();
         }
 
-        public IReadOnlyList<IState> France()
+        public ICountry France()
         {
             return CountryLoader.LoadFranceLocationData();
         }
 
-        public IReadOnlyList<IState> UnitedKingdom()
+        public ICountry UnitedKingdom()
         {
             return CountryLoader.LoadUnitedKingdomLocationData();
         }
 
-        public IReadOnlyList<IState> FrenchGuiana()
+        public ICountry FrenchGuiana()
         {
             return CountryLoader.LoadFrenchGuianaLocationData();
         }
 
-        public IReadOnlyList<IState> Guernsey()
+        public ICountry Guernsey()
         {
             return CountryLoader.LoadGuernseyLocationData();
         }
 
-        public IReadOnlyList<IState> Greenland()
+        public ICountry Greenland()
         {
             return CountryLoader.LoadGreenlandLocationData();
         }
 
-        public IReadOnlyList<IState> Guadeloupe()
+        public ICountry Guadeloupe()
         {
             return CountryLoader.LoadGuadeloupeLocationData();
         }
 
-        public IReadOnlyList<IState> Guatemala()
+        public ICountry Guatemala()
         {
             return CountryLoader.LoadGuatemalaLocationData();
         }
 
-        public IReadOnlyList<IState> Guam()
+        public ICountry Guam()
         {
             return CountryLoader.LoadGuamLocationData();
         }
 
-        public IReadOnlyList<IState> Croatia()
+        public ICountry Croatia()
         {
             return CountryLoader.LoadCroatiaLocationData();
         }
 
-        public IReadOnlyList<IState> Hungary()
+        public ICountry Hungary()
         {
             return CountryLoader.LoadHungaryLocationData();
         }
 
-        public IReadOnlyList<IState> Ireland()
+        public ICountry Ireland()
         {
             return CountryLoader.LoadIrelandLocationData();
         }
 
-        public IReadOnlyList<IState> IsleOfMan()
+        public ICountry IsleOfMan()
         {
             return CountryLoader.LoadIsleOfManLocationData();
         }
 
-        public IReadOnlyList<IState> India()
+        public ICountry India()
         {
             return CountryLoader.LoadIndiaLocationData();
         }
 
-        public IReadOnlyList<IState> Iceland()
+        public ICountry Iceland()
         {
             return CountryLoader.LoadIcelandLocationData();
         }
 
-        public IReadOnlyList<IState> Italy()
+        public ICountry Italy()
         {
             return CountryLoader.LoadItalyLocationData();
         }
 
-        public IReadOnlyList<IState> Jersey()
+        public ICountry Jersey()
         {
             return CountryLoader.LoadJerseyLocationData();
         }
 
-        public IReadOnlyList<IState> Japan()
+        public ICountry Japan()
         {
             return CountryLoader.LoadJapanLocationData();
         }
 
-        public IReadOnlyList<IState> Liechtenstein()
+        public ICountry Liechtenstein()
         {
             return CountryLoader.LoadLiechtensteinLocationData();
         }
 
-        public IReadOnlyList<IState> SriLanka()
+        public ICountry SriLanka()
         {
             return CountryLoader.LoadSriLankaLocationData();
         }
 
-        public IReadOnlyList<IState> Lithuania()
+        public ICountry Lithuania()
         {
             return CountryLoader.LoadLithuaniaLocationData();
         }
 
-        public IReadOnlyList<IState> Luxembourg()
+        public ICountry Luxembourg()
         {
             return CountryLoader.LoadLuxembourgLocationData();
         }
 
-        public IReadOnlyList<IState> Latvia()
+        public ICountry Latvia()
         {
             return CountryLoader.LoadLatviaLocationData();
         }
 
-        public IReadOnlyList<IState> Monaco()
+        public ICountry Monaco()
         {
             return CountryLoader.LoadMonacoLocationData();
         }
 
-        public IReadOnlyList<IState> Moldova()
+        public ICountry Moldova()
         {
             return CountryLoader.LoadMoldovaLocationData();
         }
 
-        public IReadOnlyList<IState> MarshallIslands()
+        public ICountry MarshallIslands()
         {
             return CountryLoader.LoadMarshallIslandsLocationData();
         }
 
-        public IReadOnlyList<IState> Macedonia()
+        public ICountry Macedonia()
         {
             return CountryLoader.LoadMacedoniaLocationData();
         }
 
-        public IReadOnlyList<IState> NorthernMarianaIslands()
+        public ICountry NorthernMarianaIslands()
         {
             return CountryLoader.LoadNorthernMarianaIslandsLocationData();
         }
 
-        public IReadOnlyList<IState> Martinique()
+        public ICountry Martinique()
         {
             return CountryLoader.LoadMartiniqueLocationData();
         }
 
-        public IReadOnlyList<IState> Malta()
+        public ICountry Malta()
         {
             return CountryLoader.LoadMaltaLocationData();
         }
 
-        public IReadOnlyList<IState> Mexico()
+        public ICountry Mexico()
         {
             return CountryLoader.LoadMexicoLocationData();
         }
 
-        public IReadOnlyList<IState> Malaysia()
+        public ICountry Malaysia()
         {
             return CountryLoader.LoadMalaysiaLocationData();
         }
 
-        public IReadOnlyList<IState> NewCaledonia()
+        public ICountry NewCaledonia()
         {
             return CountryLoader.LoadNewCaledoniaLocationData();
         }
 
-        public IReadOnlyList<IState> Netherlands()
+        public ICountry Netherlands()
         {
             return CountryLoader.LoadNetherlandsLocationData();
         }
 
-        public IReadOnlyList<IState> Norway()
+        public ICountry Norway()
         {
             return CountryLoader.LoadNorwayLocationData();
         }
 
-        public IReadOnlyList<IState> NewZealand()
+        public ICountry NewZealand()
         {
             return CountryLoader.LoadNewZealandLocationData();
         }
 
-        public IReadOnlyList<IState> Philippines()
+        public ICountry Philippines()
         {
             return CountryLoader.LoadPhilippinesLocationData();
         }
 
-        public IReadOnlyList<IState> Pakistan()
+        public ICountry Pakistan()
         {
             return CountryLoader.LoadPakistanLocationData();
         }
 
-        public IReadOnlyList<IState> Poland()
+        public ICountry Poland()
         {
             return CountryLoader.LoadPolandLocationData();
         }
 
-        public IReadOnlyList<IState> SaintPierreAndMiquelon()
+        public ICountry SaintPierreAndMiquelon()
         {
             return CountryLoader.LoadSaintPierreAndMiquelonLocationData();
         }
 
-        public IReadOnlyList<IState> PuertoRico()
+        public ICountry PuertoRico()
         {
             return CountryLoader.LoadPuertoRicoLocationData();
         }
 
-        public IReadOnlyList<IState> Portugal()
+        public ICountry Portugal()
         {
             return CountryLoader.LoadPortugalLocationData();
         }
 
-        public IReadOnlyList<IState> Palau()
+        public ICountry Palau()
         {
             return CountryLoader.LoadPalauLocationData();
         }
 
-        public IReadOnlyList<IState> Reunion()
+        public ICountry Reunion()
         {
             return CountryLoader.LoadReunionLocationData();
         }
 
-        public IReadOnlyList<IState> Romania()
+        public ICountry Romania()
         {
             return CountryLoader.LoadRomaniaLocationData();
         }
 
-        public IReadOnlyList<IState> Russia()
+        public ICountry Russia()
         {
             return CountryLoader.LoadRussiaLocationData();
         }
 
-        public IReadOnlyList<IState> Sweden()
+        public ICountry Sweden()
         {
             return CountryLoader.LoadSwedenLocationData();
         }
 
-        public IReadOnlyList<IState> Slovenia()
+        public ICountry Slovenia()
         {
             return CountryLoader.LoadSloveniaLocationData();
         }
 
-        public IReadOnlyList<IState> SvalbardAndJanMayen()
+        public ICountry SvalbardAndJanMayen()
         {
             return CountryLoader.LoadSvalbardAndJanMayenLocationData();
         }
 
-        public IReadOnlyList<IState> Slovakia()
+        public ICountry Slovakia()
         {
             return CountryLoader.LoadSlovakiaLocationData();
         }
 
-        public IReadOnlyList<IState> SanMarino()
+        public ICountry SanMarino()
         {
             return CountryLoader.LoadSanMarinoLocationData();
         }
 
-        public IReadOnlyList<IState> Thailand()
+        public ICountry Thailand()
         {
             return CountryLoader.LoadThailandLocationData();
         }
 
-        public IReadOnlyList<IState> Turkey()
+        public ICountry Turkey()
         {
             return CountryLoader.LoadTurkeyLocationData();
         }
 
-        public IReadOnlyList<IState> Ukraine()
+        public ICountry Ukraine()
         {
             return CountryLoader.LoadUkraineLocationData();
         }
 
-        public IReadOnlyList<IState> UnitedStates()
+        public ICountry UnitedStates()
         {
             return CountryLoader.LoadUnitedStatesLocationData();
         }
 
-        public IReadOnlyList<IState> Uruguay()
+        public ICountry Uruguay()
         {
             return CountryLoader.LoadUruguayLocationData();
         }
 
-        public IReadOnlyList<IState> Vatican()
+        public ICountry Vatican()
         {
             return CountryLoader.LoadVaticanLocationData();
         }
 
-        public IReadOnlyList<IState> USVirginIslands()
+        public ICountry USVirginIslands()
         {
             return CountryLoader.LoadUSVirginIslandsLocationData();
         }
 
-        public IReadOnlyList<IState> WallisAndFutuna()
+        public ICountry WallisAndFutuna()
         {
             return CountryLoader.LoadWallisAndFutunaLocationData();
         }
 
-        public IReadOnlyList<IState> Mayotte()
+        public ICountry Mayotte()
         {
             return CountryLoader.LoadMayotteLocationData();
         }
 
-        public IReadOnlyList<IState> SouthAfrica()
+        public ICountry SouthAfrica()
         {
             return CountryLoader.LoadSouthAfricaLocationData();
         }

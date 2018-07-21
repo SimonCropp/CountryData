@@ -9,7 +9,7 @@ namespace CountryData
 {
     public static partial class CountryLoader
     {
-        static ConcurrentDictionary<string, IReadOnlyList<IState>> cache = new ConcurrentDictionary<string, IReadOnlyList<IState>>();
+        static ConcurrentDictionary<string, ICountry> cache = new ConcurrentDictionary<string, ICountry>();
         static Assembly assembly;
 
         static CountryLoader()
@@ -23,16 +23,16 @@ namespace CountryData
 
         public static IReadOnlyList<ICountryInfo> CountryInfo { get; }
 
-        public static IReadOnlyDictionary<string, IReadOnlyList<IState>> LoadedLocationData => cache;
+        public static IReadOnlyDictionary<string, ICountry> LoadedLocationData => cache;
 
-        public static IReadOnlyList<IState> LoadLocationData(string countryCode)
+        public static ICountry LoadLocationData(string countryCode)
         {
             Guard.AgainstNullWhiteSpace(countryCode, nameof(countryCode));
             countryCode = countryCode.ToUpperInvariant();
             return cache.GetOrAdd(countryCode, Inner);
         }
 
-        static IReadOnlyList<IState> Inner(string countryCode)
+        static Country Inner(string countryCode)
         {
             using (var stream = assembly.GetManifestResourceStream("CountryData.postcodes.zip"))
             using (var archive = new ZipArchive(stream))
@@ -43,8 +43,34 @@ namespace CountryData
                     throw new Exception($"Could not find data for '{countryCode}'.");
                 }
 
-                return DeserializeEntry(entry);
+                return ConstructCountry(entry,countryCode);
             }
+        }
+
+        static Country ConstructCountry(ZipArchiveEntry entry, string countryCode)
+        {
+            var countryInfo = CountryInfo.Single(x=>x.Iso == countryCode);
+            var readOnlyList = DeserializeEntry(entry);
+            return new Country
+            {
+                States = readOnlyList,
+                Name = countryInfo.Name,
+                Iso = countryInfo.Iso,
+                PostCodeFormat = countryInfo.PostCodeFormat,
+                Population = countryInfo.Population,
+                Continent = countryInfo.Continent,
+                Iso3 = countryInfo.Iso3,
+                Fips = countryInfo.Fips,
+                CurrencyCode = countryInfo.CurrencyCode,
+                Area = countryInfo.Area,
+                Capital = countryInfo.Capital,
+                IsoNumeric = countryInfo.IsoNumeric,
+                PostCodeRegex = countryInfo.PostCodeRegex,
+                CurrencyName = countryInfo.CurrencyName,
+                PhonePrefix = countryInfo.PhonePrefix,
+                TopLevelDomain = countryInfo.TopLevelDomain,
+                Languages = countryInfo.Languages
+            };
         }
 
         public static void LoadAll()
@@ -54,7 +80,7 @@ namespace CountryData
             {
                 foreach (var entry in archive.Entries)
                 {
-                    cache[entry.Name] = DeserializeEntry(entry);
+                    cache[entry.Name] = ConstructCountry(entry, entry.Name);
                 }
             }
         }

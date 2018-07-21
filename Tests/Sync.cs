@@ -59,17 +59,14 @@ public class Sync
 
         using (var writer = File.CreateText(namedCountryData))
         {
-            writer.WriteLine(@"
-using System.Collections.Generic;
-
-namespace CountryData
+            writer.WriteLine(@"namespace CountryData
 {
     public static partial class CountryLoader
     {");
             foreach (var locationData in keyToName)
             {
                 writer.WriteLine($@"
-        public static IReadOnlyList<IState> Load{locationData.Value}LocationData()
+        public static ICountry Load{locationData.Value}LocationData()
         {{
             return LoadLocationData(""{locationData.Key}"");
         }}");
@@ -91,7 +88,7 @@ namespace CountryData.Bogus
             foreach (var locationData in keyToName)
             {
                 writer.WriteLine($@"
-        public IReadOnlyList<IState> {locationData.Value}()
+        public ICountry {locationData.Value}()
         {{
             return CountryLoader.Load{locationData.Value}LocationData();
         }}");
