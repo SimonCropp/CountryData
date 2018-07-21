@@ -17,7 +17,7 @@ namespace CountryData
             assembly = typeof(CountryLoader).Assembly;
             using (var stream = assembly.GetManifestResourceStream("CountryData.countryInfo.json.txt"))
             {
-                CountryInfo = Serializer.Deserialize<List<CountryInfo>>(stream).Cast<ICountryInfo>().ToList();
+                CountryInfo = Serializer.Deserialize<List<CountryInfo>>(stream);
             }
         }
 
@@ -27,6 +27,7 @@ namespace CountryData
 
         public static IReadOnlyList<IState> LoadLocationData(string countryCode)
         {
+            Guard.AgainstNullWhiteSpace(countryCode, nameof(countryCode));
             countryCode = countryCode.ToUpperInvariant();
             return cache.GetOrAdd(countryCode, Inner);
         }

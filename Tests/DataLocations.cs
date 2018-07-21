@@ -11,10 +11,13 @@ public static class DataLocations
         Directory.CreateDirectory(TempPath);
         DataPath = Path.GetFullPath(Path.Combine(SlnPath, "Data"));
         CountryDataProjectPath = Path.GetFullPath(Path.Combine(SlnPath, "CountryData"));
+        BogusProjectPath = Path.GetFullPath(Path.Combine(SlnPath, "CountryData.Bogus"));
         PostCodesPath = Path.GetFullPath(Path.Combine(DataPath, "PostCodes"));
     }
 
     public static string CountryDataProjectPath;
+
+    public static string BogusProjectPath;
 
     public static string SlnPath;
 

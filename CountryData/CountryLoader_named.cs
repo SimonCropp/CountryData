@@ -186,7 +186,7 @@ namespace CountryData
             return LoadLocationData("IE");
         }
 
-        public static IReadOnlyList<IState> LoadIsleofManLocationData()
+        public static IReadOnlyList<IState> LoadIsleOfManLocationData()
         {
             return LoadLocationData("IM");
         }
@@ -321,7 +321,7 @@ namespace CountryData
             return LoadLocationData("PL");
         }
 
-        public static IReadOnlyList<IState> LoadSaintPierreandMiquelonLocationData()
+        public static IReadOnlyList<IState> LoadSaintPierreAndMiquelonLocationData()
         {
             return LoadLocationData("PM");
         }
@@ -366,7 +366,7 @@ namespace CountryData
             return LoadLocationData("SI");
         }
 
-        public static IReadOnlyList<IState> LoadSvalbardandJanMayenLocationData()
+        public static IReadOnlyList<IState> LoadSvalbardAndJanMayenLocationData()
         {
             return LoadLocationData("SJ");
         }
@@ -416,7 +416,7 @@ namespace CountryData
             return LoadLocationData("VI");
         }
 
-        public static IReadOnlyList<IState> LoadWallisandFutunaLocationData()
+        public static IReadOnlyList<IState> LoadWallisAndFutunaLocationData()
         {
             return LoadLocationData("WF");
         }

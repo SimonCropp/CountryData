@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
 using System.IO.Compression;
 using System.Linq;
@@ -40,6 +41,22 @@ public class Sync
     {
         var namedCountryData = Path.Combine(DataLocations.CountryDataProjectPath, "CountryLoader_named.cs");
         File.Delete(namedCountryData);
+
+        var keyToName = new Dictionary<string, string>();
+        var cultInfo = new CultureInfo("en-US", false).TextInfo;
+        foreach (var locationData in countryLocationData)
+        {
+            var name = countryInfos
+                .Single(x => x.Iso == locationData.Key)
+                .Name;
+
+            name = cultInfo.ToTitleCase(name);
+            name = name
+                .Replace(" ", "")
+                .Replace(".", "");
+            keyToName.Add(locationData.Key, name);
+        }
+
         using (var writer = File.CreateText(namedCountryData))
         {
             writer.WriteLine(@"
@@ -49,17 +66,34 @@ namespace CountryData
 {
     public static partial class CountryLoader
     {");
-            foreach (var locationData in countryLocationData)
+            foreach (var locationData in keyToName)
             {
-                var memberName = countryInfos
-                    .Single(x=>x.Iso== locationData.Key)
-                    .Name
-                    .Replace(" ","")
-                    .Replace(".","");
                 writer.WriteLine($@"
-        public static IReadOnlyList<IState> Load{memberName}LocationData()
+        public static IReadOnlyList<IState> Load{locationData.Value}LocationData()
         {{
             return LoadLocationData(""{locationData.Key}"");
+        }}");
+            }
+            writer.WriteLine("    }");
+            writer.WriteLine("}");
+        }
+        var namedBogusData = Path.Combine(DataLocations.BogusProjectPath, "CountryDataSet_named.cs");
+        File.Delete(namedBogusData);
+        using (var writer = File.CreateText(namedBogusData))
+        {
+            writer.WriteLine(@"using System.Collections.Generic;
+using Bogus;
+
+namespace CountryData.Bogus
+{
+    public partial class CountryDataSet : DataSet
+    {");
+            foreach (var locationData in keyToName)
+            {
+                writer.WriteLine($@"
+        public IReadOnlyList<IState> {locationData.Value}()
+        {{
+            return CountryLoader.Load{locationData.Value}LocationData();
         }}");
             }
             writer.WriteLine("    }");
