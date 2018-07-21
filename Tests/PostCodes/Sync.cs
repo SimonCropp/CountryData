@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
 using System.IO.Compression;
 using System.Linq;
@@ -19,24 +18,18 @@ public class Sync
     [Fact]
     public async Task SyncCountryData()
     {
-        var currentDirectory = Environment.CurrentDirectory;
-        var slnPath = Path.GetFullPath(Path.Combine(currentDirectory, "../../../../"));
-        var tempPath = Path.GetFullPath(Path.Combine(slnPath, "temp"));
-        Directory.CreateDirectory(tempPath);
-        var dataPath = Path.GetFullPath(Path.Combine(slnPath, "Data"));
-        var jsonPath = Path.GetFullPath(Path.Combine(dataPath, "PostCodes"));
-        var countriesPath = Path.GetFullPath(Path.Combine(slnPath, "countries.txt"));
-        var allCountriesZipPath = Path.Combine(tempPath, "allCountries.zip");
+        var countriesPath = Path.GetFullPath(Path.Combine(DataLocations.SlnPath, "countries.txt"));
+        var allCountriesZipPath = Path.Combine(DataLocations.TempPath, "allCountries.zip");
         await Downloader.DownloadFile(allCountriesZipPath, "http://download.geonames.org/export/zip/allCountries.zip");
-        var allCountriesTxtPath = Path.Combine(tempPath, "allCountries.txt");
+        var allCountriesTxtPath = Path.Combine(DataLocations.TempPath, "allCountries.txt");
         File.Delete(allCountriesTxtPath);
-        ZipFile.ExtractToDirectory(allCountriesZipPath, tempPath);
+        ZipFile.ExtractToDirectory(allCountriesZipPath, DataLocations.TempPath);
 
         var list = RowReader.ReadRows(allCountriesTxtPath).ToList();
         var groupByCountry = list.GroupBy(x => x.CountryCode).ToList();
         File.Delete(countriesPath);
         File.WriteAllLines(countriesPath, groupByCountry.Select(x => x.Key.ToLower()));
-        WriteRows(jsonPath, groupByCountry);
+        WriteRows(DataLocations.PostCodesPath, groupByCountry);
     }
 
 
