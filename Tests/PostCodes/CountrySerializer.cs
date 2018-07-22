@@ -18,7 +18,7 @@ static class CountrySerializer
             };
             states.Add(state);
 
-            var provinces = new List<IProvince>();
+            var provinces = new List<Province>();
             foreach (var provinceGroup in provinceRows.GroupBy(x => x.Province))
             {
                 var communityRows = provinceGroup.ToList();
@@ -29,7 +29,7 @@ static class CountrySerializer
                 };
                 provinces.Add(province);
 
-                var communities = new List<ICommunity>();
+                var communities = new List<Community>();
                 foreach (var communityGroup in communityRows.GroupBy(x => x.Community))
                 {
                     var placeRows = communityGroup.ToList();
@@ -40,7 +40,7 @@ static class CountrySerializer
                     };
                     communities.Add(community);
 
-                    var places = new List<IPlace>();
+                    var places = new List<Place>();
                     foreach (var place in placeRows)
                     {
                         var item = new Place

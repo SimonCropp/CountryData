@@ -1,4 +1,6 @@
-﻿namespace CountryData
+﻿using System.Collections.Generic;
+
+namespace CountryData
 {
     public interface ICountryInfo
     {
@@ -17,6 +19,6 @@
         string PhonePrefix { get; }
         string PostCodeFormat { get; }
         string PostCodeRegex { get; }
-        string[] Languages { get; }
+        IReadOnlyList<string> Languages { get; }
     }
 }
