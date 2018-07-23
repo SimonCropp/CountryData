@@ -31,13 +31,14 @@ public class Sync
         var countryLocationData = WriteRows(DataLocations.PostCodesPath, groupByCountry);
 
         var postcodeZip = Path.Combine(DataLocations.DataPath, "postcodes.zip");
-        File.Delete(postcodeZip);
-        ZipFile.CreateFromDirectory(DataLocations.PostCodesPath, postcodeZip, CompressionLevel.Optimal, false);
+
+        var postCodesPath = DataLocations.PostCodesPath;
+        Zipper.ZipDir(postcodeZip, postCodesPath);
 
         WriteNamedCountryCs(countryInfos, countryLocationData);
     }
 
-    private static void WriteNamedCountryCs(List<CountryInfo> countryInfos, Dictionary<string, List<State>> countryLocationData)
+    static void WriteNamedCountryCs(List<CountryInfo> countryInfos, Dictionary<string, List<State>> countryLocationData)
     {
         var namedCountryData = Path.Combine(DataLocations.CountryDataProjectPath, "CountryLoader_named.cs");
         File.Delete(namedCountryData);

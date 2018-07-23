@@ -42,7 +42,6 @@ namespace CountryData
                 {
                     throw new Exception($"Could not find data for '{countryCode}'.");
                 }
-
                 return ConstructCountry(entry,countryCode);
             }
         }
