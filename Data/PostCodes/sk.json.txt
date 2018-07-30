@@ -25,9 +25,9 @@
 "LatLong": "48.7376,19.1045"
 },
 {
-"Name": "Riečka",
+"Name": "Prostredná Môlča",
 "PostCode": "974 01",
-"LatLong": "48.7562,19.0768"
+"LatLong": "48.7157,19.2283"
 },
 {
 "Name": "Špania Dolina",
@@ -35,24 +35,9 @@
 "LatLong": "48.8075,19.1341"
 },
 {
-"Name": "Prostredná Môlča",
+"Name": "Riečka",
 "PostCode": "974 01",
-"LatLong": "48.7157,19.2283"
-},
-{
-"Name": "Čačín",
-"PostCode": "974 01",
-"LatLong": "48.6668,19.255"
-},
-{
-"Name": "Šalková",
-"PostCode": "974 01",
-"LatLong": "48.7378,19.2174"
-},
-{
-"Name": "Majer",
-"PostCode": "974 01",
-"LatLong": "48.7351,19.1793"
+"LatLong": "48.7562,19.0768"
 },
 {
 "Name": "Dolná Mičiná",
@@ -60,14 +45,29 @@
 "LatLong": "48.6754,19.2223"
 },
 {
+"Name": "Šalková",
+"PostCode": "974 01",
+"LatLong": "48.7378,19.2174"
+},
+{
+"Name": "Horná Môlča",
+"PostCode": "974 01",
+"LatLong": "48.7075,19.2371"
+},
+{
+"Name": "Čačín",
+"PostCode": "974 01",
+"LatLong": "48.6668,19.255"
+},
+{
 "Name": "Kostiviarska",
 "PostCode": "974 01",
 "LatLong": "48.7572,19.1425"
 },
 {
-"Name": "Uľanka",
+"Name": "Majer",
 "PostCode": "974 01",
-"LatLong": "48.7844,19.1124"
+"LatLong": "48.7351,19.1793"
 },
 {
 "Name": "Kynceľová",
@@ -80,9 +80,9 @@
 "LatLong": "48.742,19.1058"
 },
 {
-"Name": "Horná Môlča",
+"Name": "Sebedín - Bečov",
 "PostCode": "974 01",
-"LatLong": "48.7075,19.2371"
+"LatLong": "48.7247,19.1846"
 },
 {
 "Name": "Nemce",
@@ -90,12 +90,27 @@
 "LatLong": "48.7622,19.1853"
 },
 {
+"Name": "Senica",
+"PostCode": "974 01",
+"LatLong": "48.7498,19.1895"
+},
+{
+"Name": "Uľanka",
+"PostCode": "974 01",
+"LatLong": "48.7844,19.1124"
+},
+{
+"Name": "Môlča",
+"PostCode": "974 01",
+"LatLong": "48.7247,19.1846"
+},
+{
 "Name": "Horná Mičiná",
 "PostCode": "974 01",
 "LatLong": "48.6989,19.2144"
 },
 {
-"Name": "Môlča",
+"Name": "Polkanová (č.d.1,2,3",
 "PostCode": "974 01",
 "LatLong": "48.7247,19.1846"
 },
@@ -110,24 +125,9 @@
 "LatLong": "48.6607,19.2454"
 },
 {
-"Name": "Senica",
-"PostCode": "974 01",
-"LatLong": "48.7498,19.1895"
-},
-{
 "Name": "Sebedín",
 "PostCode": "974 01",
 "LatLong": "48.6338,19.2407"
-},
-{
-"Name": "Polkanová (č.d.1,2,3",
-"PostCode": "974 01",
-"LatLong": "48.7247,19.1846"
-},
-{
-"Name": "Sebedín - Bečov",
-"PostCode": "974 01",
-"LatLong": "48.7247,19.1846"
 },
 {
 "Name": "Kráľová",
@@ -145,9 +145,9 @@
 "LatLong": "48.7005,19.1435"
 },
 {
-"Name": "Kremnička",
+"Name": "Rakytovce",
 "PostCode": "974 05",
-"LatLong": "48.6967,19.1276"
+"LatLong": "48.7079,19.1187"
 },
 {
 "Name": "Horné Pršany",
@@ -155,9 +155,9 @@
 "LatLong": "48.6996,19.0833"
 },
 {
-"Name": "Rakytovce",
+"Name": "Kremnička",
 "PostCode": "974 05",
-"LatLong": "48.7079,19.1187"
+"LatLong": "48.6967,19.1276"
 },
 {
 "Name": "Malachov",
@@ -180,32 +180,7 @@
 "LatLong": "48.8391,19.1148"
 },
 {
-"Name": "Štubne",
-"PostCode": "976 02",
-"LatLong": "48.8391,19.1148"
-},
-{
-"Name": "Jergaly",
-"PostCode": "976 02",
-"LatLong": "48.8391,19.1148"
-},
-{
-"Name": "Dolný Jelenec",
-"PostCode": "976 02",
-"LatLong": "48.8391,19.1148"
-},
-{
 "Name": "Horný Jelenec",
-"PostCode": "976 02",
-"LatLong": "48.8391,19.1148"
-},
-{
-"Name": "Valentová",
-"PostCode": "976 02",
-"LatLong": "48.8391,19.1148"
-},
-{
-"Name": "Turecká",
 "PostCode": "976 02",
 "LatLong": "48.8391,19.1148"
 },
@@ -215,7 +190,32 @@
 "LatLong": "48.8391,19.1148"
 },
 {
+"Name": "Štubne",
+"PostCode": "976 02",
+"LatLong": "48.8391,19.1148"
+},
+{
+"Name": "Turecká",
+"PostCode": "976 02",
+"LatLong": "48.8391,19.1148"
+},
+{
 "Name": "Polkanová (ostat.č.)",
+"PostCode": "976 02",
+"LatLong": "48.8391,19.1148"
+},
+{
+"Name": "Jergaly",
+"PostCode": "976 02",
+"LatLong": "48.8391,19.1148"
+},
+{
+"Name": "Valentová",
+"PostCode": "976 02",
+"LatLong": "48.8391,19.1148"
+},
+{
+"Name": "Dolný Jelenec",
 "PostCode": "976 02",
 "LatLong": "48.8391,19.1148"
 },
@@ -500,7 +500,7 @@
 "LatLong": "48.5419,18.9464"
 },
 {
-"Name": "Žakýl",
+"Name": "Podhorie",
 "PostCode": "969 82",
 "LatLong": "48.5202,18.9327"
 },
@@ -510,7 +510,7 @@
 "LatLong": "48.4986,18.9191"
 },
 {
-"Name": "Podhorie",
+"Name": "Žakýl",
 "PostCode": "969 82",
 "LatLong": "48.5202,18.9327"
 }
@@ -555,9 +555,9 @@
 "LatLong": "48.733,19.7007"
 },
 {
-"Name": "Čierny Balog",
+"Name": "Vydrovo",
 "PostCode": "976 52",
-"LatLong": "48.7472,19.6513"
+"LatLong": "48.741,19.6546"
 },
 {
 "Name": "Krám",
@@ -580,9 +580,9 @@
 "LatLong": "48.7419,19.6796"
 },
 {
-"Name": "Pusté",
+"Name": "Čierny Balog",
 "PostCode": "976 52",
-"LatLong": "48.7347,19.6868"
+"LatLong": "48.7472,19.6513"
 },
 {
 "Name": "Fajtov",
@@ -590,9 +590,9 @@
 "LatLong": "48.7444,19.6768"
 },
 {
-"Name": "Vydrovo",
+"Name": "Pusté",
 "PostCode": "976 52",
-"LatLong": "48.741,19.6546"
+"LatLong": "48.7347,19.6868"
 },
 {
 "Name": "Lom nad Rimavicou",
@@ -660,7 +660,7 @@
 "LatLong": "48.8414,19.7508"
 },
 {
-"Name": "Braväcovo",
+"Name": "Pôbišovo",
 "PostCode": "976 64",
 "LatLong": "48.8354,19.7584"
 },
@@ -675,7 +675,7 @@
 "LatLong": "48.8216,19.7328"
 },
 {
-"Name": "Pôbišovo",
+"Name": "Braväcovo",
 "PostCode": "976 64",
 "LatLong": "48.8354,19.7584"
 },
@@ -895,7 +895,17 @@
 "LatLong": "48.5669,19.5177"
 },
 {
-"Name": "Jasenovo",
+"Name": "Vrchdobroč",
+"PostCode": "962 05",
+"LatLong": "48.5835,19.5724"
+},
+{
+"Name": "Hriňová",
+"PostCode": "962 05",
+"LatLong": "48.5779,19.5257"
+},
+{
+"Name": "Horná Hriňová",
 "PostCode": "962 05",
 "LatLong": "48.5835,19.5724"
 },
@@ -910,27 +920,17 @@
 "LatLong": "48.5835,19.5724"
 },
 {
-"Name": "Hriňová",
+"Name": "Mangútovo",
 "PostCode": "962 05",
-"LatLong": "48.5779,19.5257"
+"LatLong": "48.5835,19.5724"
 },
 {
-"Name": "Vrchdobroč",
+"Name": "Jasenovo",
 "PostCode": "962 05",
 "LatLong": "48.5835,19.5724"
 },
 {
 "Name": "Krivec I",
-"PostCode": "962 05",
-"LatLong": "48.5835,19.5724"
-},
-{
-"Name": "Horná Hriňová",
-"PostCode": "962 05",
-"LatLong": "48.5835,19.5724"
-},
-{
-"Name": "Mangútovo",
 "PostCode": "962 05",
 "LatLong": "48.5835,19.5724"
 },
@@ -955,7 +955,7 @@
 "LatLong": "48.5868,19.3687"
 },
 {
-"Name": "Zapriechody",
+"Name": "Krné",
 "PostCode": "962 12",
 "LatLong": "48.5697,19.3864"
 },
@@ -970,22 +970,7 @@
 "LatLong": "48.5843,19.454"
 },
 {
-"Name": "Želobudza",
-"PostCode": "962 12",
-"LatLong": "48.5697,19.3864"
-},
-{
-"Name": "Detva - sídlisko",
-"PostCode": "962 12",
-"LatLong": "48.5697,19.3864"
-},
-{
-"Name": "Kostolná",
-"PostCode": "962 12",
-"LatLong": "48.5697,19.3864"
-},
-{
-"Name": "Krné",
+"Name": "Piešť I (časť)",
 "PostCode": "962 12",
 "LatLong": "48.5697,19.3864"
 },
@@ -995,7 +980,22 @@
 "LatLong": "48.5697,19.3864"
 },
 {
-"Name": "Piešť I (časť)",
+"Name": "Kostolná",
+"PostCode": "962 12",
+"LatLong": "48.5697,19.3864"
+},
+{
+"Name": "Zapriechody",
+"PostCode": "962 12",
+"LatLong": "48.5697,19.3864"
+},
+{
+"Name": "Želobudza",
+"PostCode": "962 12",
+"LatLong": "48.5697,19.3864"
+},
+{
+"Name": "Detva - sídlisko",
 "PostCode": "962 12",
 "LatLong": "48.5697,19.3864"
 },
@@ -1035,14 +1035,14 @@
 "LatLong": "48.4915,19.3132"
 },
 {
-"Name": "Dolný Tisovník",
-"PostCode": "962 75",
-"LatLong": "48.3888,19.3775"
-},
-{
 "Name": "Horný Tisovník",
 "PostCode": "962 75",
 "LatLong": "48.4171,19.363"
+},
+{
+"Name": "Dolný Tisovník",
+"PostCode": "962 75",
+"LatLong": "48.3888,19.3775"
 },
 {
 "Name": "Nový Svet",
@@ -1050,14 +1050,14 @@
 "LatLong": "48.5608,19.611"
 },
 {
-"Name": "Mláky",
-"PostCode": "985 45",
-"LatLong": "48.5969,19.6718"
-},
-{
 "Name": "Látky",
 "PostCode": "985 45",
 "LatLong": "48.5797,19.6356"
+},
+{
+"Name": "Mláky",
+"PostCode": "985 45",
+"LatLong": "48.5969,19.6718"
 },
 {
 "Name": "Polianky",
@@ -1075,14 +1075,19 @@
 "LatLong": "48.5836,19.6457"
 },
 {
+"Name": "Podkriváň",
+"PostCode": "985 51",
+"LatLong": "48.5106,19.459"
+},
+{
 "Name": "Dolná Bzová",
 "PostCode": "985 51",
 "LatLong": "48.5228,19.5039"
 },
 {
-"Name": "Podkriváň",
+"Name": "Ivanišovo",
 "PostCode": "985 51",
-"LatLong": "48.5106,19.459"
+"LatLong": "48.5167,19.4814"
 },
 {
 "Name": "Zubria",
@@ -1091,11 +1096,6 @@
 },
 {
 "Name": "Bukovinka",
-"PostCode": "985 51",
-"LatLong": "48.5167,19.4814"
-},
-{
-"Name": "Ivanišovo",
 "PostCode": "985 51",
 "LatLong": "48.5167,19.4814"
 }
@@ -1190,9 +1190,9 @@
 "LatLong": "48.2699,19.0673"
 },
 {
-"Name": "Selce",
+"Name": "Horný Badín",
 "PostCode": "962 51",
-"LatLong": "48.2559,19.0429"
+"LatLong": "48.2789,19.0754"
 },
 {
 "Name": "Čabradský Vrbovok",
@@ -1200,9 +1200,9 @@
 "LatLong": "48.2576,19.0785"
 },
 {
-"Name": "Horný Badín",
+"Name": "Selce",
 "PostCode": "962 51",
-"LatLong": "48.2789,19.0754"
+"LatLong": "48.2559,19.0429"
 },
 {
 "Name": "Cerovo",
@@ -1290,9 +1290,9 @@
 "LatLong": "48.1998,18.927"
 },
 {
-"Name": "Terany",
+"Name": "Hontianske Tesáre",
 "PostCode": "962 68",
-"LatLong": "48.1797,18.8931"
+"LatLong": "48.2041,18.9203"
 },
 {
 "Name": "Báčovce",
@@ -1300,9 +1300,9 @@
 "LatLong": "48.2376,18.9155"
 },
 {
-"Name": "Hontianske Tesáre",
+"Name": "Terany",
 "PostCode": "962 68",
-"LatLong": "48.2041,18.9203"
+"LatLong": "48.1797,18.8931"
 },
 {
 "Name": "Drážovce",
@@ -1565,17 +1565,17 @@
 "LatLong": "48.3046,19.8266"
 },
 {
+"Name": "Buzitka",
+"PostCode": "985 41",
+"LatLong": "48.3371,19.8492"
+},
+{
 "Name": "Ipeľka",
 "PostCode": "985 41",
 "LatLong": "48.3371,19.8492"
 },
 {
 "Name": "Dora",
-"PostCode": "985 41",
-"LatLong": "48.3371,19.8492"
-},
-{
-"Name": "Buzitka",
 "PostCode": "985 41",
 "LatLong": "48.3371,19.8492"
 },
@@ -1635,12 +1635,12 @@
 "LatLong": "48.4999,19.5388"
 },
 {
-"Name": "Malá Dolina",
+"Name": "Brestina",
 "PostCode": "985 53",
 "LatLong": "48.4907,19.5513"
 },
 {
-"Name": "Brestina",
+"Name": "Malá Dolina",
 "PostCode": "985 53",
 "LatLong": "48.4907,19.5513"
 },
@@ -1695,12 +1695,12 @@
 "LatLong": "48.2211,19.8289"
 },
 {
-"Name": "Obručná",
+"Name": "Šiatorská Bukovinka",
 "PostCode": "985 58",
 "LatLong": "48.2171,19.8218"
 },
 {
-"Name": "Šiatorská Bukovinka",
+"Name": "Obručná",
 "PostCode": "985 58",
 "LatLong": "48.2171,19.8218"
 },
@@ -1870,12 +1870,12 @@
 "LatLong": "48.5813,19.747"
 },
 {
-"Name": "Ľubienka",
+"Name": "Ďubákovo",
 "PostCode": "985 07",
 "LatLong": "48.5813,19.747"
 },
 {
-"Name": "Ďubákovo",
+"Name": "Ľubienka",
 "PostCode": "985 07",
 "LatLong": "48.5813,19.747"
 },
@@ -1890,7 +1890,7 @@
 "LatLong": "48.4474,19.6527"
 },
 {
-"Name": "Maša",
+"Name": "Hrnčiarky",
 "PostCode": "985 22",
 "LatLong": "48.4438,19.6494"
 },
@@ -1900,7 +1900,7 @@
 "LatLong": "48.4518,19.6691"
 },
 {
-"Name": "Hrnčiarky",
+"Name": "Maša",
 "PostCode": "985 22",
 "LatLong": "48.4438,19.6494"
 },
@@ -1985,12 +1985,12 @@
 "LatLong": "48.4554,19.8026"
 },
 {
-"Name": "Maštinec",
+"Name": "Prievrana",
 "PostCode": "987 01",
 "LatLong": "48.4395,19.7912"
 },
 {
-"Name": "Prievrana",
+"Name": "Maštinec",
 "PostCode": "987 01",
 "LatLong": "48.4395,19.7912"
 },
@@ -2075,7 +2075,7 @@
 "LatLong": "48.6682,20.226"
 },
 {
-"Name": "Gemerský Milhosť",
+"Name": "Magnezitovce",
 "PostCode": "049 16",
 "LatLong": "48.6331,20.2458"
 },
@@ -2095,7 +2095,7 @@
 "LatLong": "48.6331,20.2458"
 },
 {
-"Name": "Magnezitovce",
+"Name": "Gemerský Milhosť",
 "PostCode": "049 16",
 "LatLong": "48.6331,20.2458"
 },
@@ -2180,9 +2180,9 @@
 "LatLong": "48.7376,20.1425"
 },
 {
-"Name": "Starňa",
+"Name": "Tornaľa",
 "PostCode": "982 01",
-"LatLong": "48.4391,20.332"
+"LatLong": "48.4192,20.3257"
 },
 {
 "Name": "Gemer",
@@ -2190,9 +2190,9 @@
 "LatLong": "48.4496,20.3158"
 },
 {
-"Name": "Tornaľa",
+"Name": "Starňa",
 "PostCode": "982 01",
-"LatLong": "48.4192,20.3257"
+"LatLong": "48.4391,20.332"
 },
 {
 "Name": "Žiar",
@@ -2215,19 +2215,14 @@
 "LatLong": "48.4521,20.1877"
 },
 {
-"Name": "Otročok",
-"PostCode": "982 62",
-"LatLong": "48.45,20.277"
-},
-{
-"Name": "Držkovce",
-"PostCode": "982 62",
-"LatLong": "48.5419,20.2362"
-},
-{
 "Name": "Skerešovo",
 "PostCode": "982 62",
 "LatLong": "48.5041,20.2017"
+},
+{
+"Name": "Rašice",
+"PostCode": "982 62",
+"LatLong": "48.4714,20.2391"
 },
 {
 "Name": "Levkuška",
@@ -2240,9 +2235,14 @@
 "LatLong": "48.4852,20.2778"
 },
 {
-"Name": "Rašice",
+"Name": "Otročok",
 "PostCode": "982 62",
-"LatLong": "48.4714,20.2391"
+"LatLong": "48.45,20.277"
+},
+{
+"Name": "Držkovce",
+"PostCode": "982 62",
+"LatLong": "48.5419,20.2362"
 },
 {
 "Name": "Gemerská Ves",
@@ -2325,7 +2325,7 @@
 {
 "Places": [
 {
-"Name": "Včelinec",
+"Name": "Sabová",
 "PostCode": "979 01",
 "LatLong": "48.3883,20.0176"
 },
@@ -2355,7 +2355,7 @@
 "LatLong": "48.4191,20.0194"
 },
 {
-"Name": "Vinice",
+"Name": "Kružno",
 "PostCode": "979 01",
 "LatLong": "48.3883,20.0176"
 },
@@ -2365,7 +2365,7 @@
 "LatLong": "48.4066,19.9886"
 },
 {
-"Name": "Kružno",
+"Name": "Včelinec",
 "PostCode": "979 01",
 "LatLong": "48.3883,20.0176"
 },
@@ -2375,7 +2375,7 @@
 "LatLong": "48.408,20.0273"
 },
 {
-"Name": "Sabová",
+"Name": "Kurinec",
 "PostCode": "979 01",
 "LatLong": "48.3883,20.0176"
 },
@@ -2390,7 +2390,7 @@
 "LatLong": "48.342,19.9724"
 },
 {
-"Name": "Kurinec",
+"Name": "Vinice",
 "PostCode": "979 01",
 "LatLong": "48.3883,20.0176"
 },
@@ -2400,14 +2400,14 @@
 "LatLong": "48.3416,20.1085"
 },
 {
-"Name": "Rimavské Janovce",
-"PostCode": "980 01",
-"LatLong": "48.3417,20.0628"
-},
-{
 "Name": "Pavlovce",
 "PostCode": "980 01",
 "LatLong": "48.3262,20.0823"
+},
+{
+"Name": "Rimavské Janovce",
+"PostCode": "980 01",
+"LatLong": "48.3417,20.0628"
 },
 {
 "Name": "Sútor",
@@ -2540,14 +2540,14 @@
 "LatLong": "48.4685,20.0648"
 },
 {
-"Name": "Lipovec",
-"PostCode": "980 23",
-"LatLong": "48.5495,20.0658"
-},
-{
 "Name": "Slizké",
 "PostCode": "980 23",
 "LatLong": "48.5173,20.0881"
+},
+{
+"Name": "Lipovec",
+"PostCode": "980 23",
+"LatLong": "48.5495,20.0658"
 },
 {
 "Name": "Španie Pole",
@@ -2675,9 +2675,9 @@
 "LatLong": "48.298,20.1729"
 },
 {
-"Name": "Zádor",
+"Name": "Ivanice",
 "PostCode": "980 42",
-"LatLong": "48.3212,20.2421"
+"LatLong": "48.3292,20.2366"
 },
 {
 "Name": "Cakov",
@@ -2695,9 +2695,9 @@
 "LatLong": "48.2802,20.2144"
 },
 {
-"Name": "Ivanice",
+"Name": "Zádor",
 "PostCode": "980 42",
-"LatLong": "48.3292,20.2366"
+"LatLong": "48.3212,20.2421"
 },
 {
 "Name": "Rimavská Seč",
@@ -2885,14 +2885,14 @@
 "LatLong": "48.5599,19.9573"
 },
 {
-"Name": "Hačava",
-"PostCode": "981 01",
-"LatLong": "48.6252,19.9511"
-},
-{
 "Name": "Hnúšťa",
 "PostCode": "981 01",
 "LatLong": "48.5726,19.954"
+},
+{
+"Name": "Hačava",
+"PostCode": "981 01",
+"LatLong": "48.6252,19.9511"
 },
 {
 "Name": "Stránska",
@@ -2910,7 +2910,7 @@
 "LatLong": "48.3991,20.253"
 },
 {
-"Name": "Kaloša",
+"Name": "Vyšná Kaloša",
 "PostCode": "982 52",
 "LatLong": "48.4326,20.2247"
 },
@@ -2925,7 +2925,7 @@
 "LatLong": "48.4577,20.1882"
 },
 {
-"Name": "Vyšná Kaloša",
+"Name": "Kaloša",
 "PostCode": "982 52",
 "LatLong": "48.4326,20.2247"
 },
@@ -3195,12 +3195,12 @@
 "LatLong": "48.1135,19.2782"
 },
 {
-"Name": "Iliašov",
+"Name": "Slovenské Ďarmoty",
 "PostCode": "991 07",
 "LatLong": "48.1135,19.2782"
 },
 {
-"Name": "Slovenské Ďarmoty",
+"Name": "Iliašov",
 "PostCode": "991 07",
 "LatLong": "48.1135,19.2782"
 },
@@ -3210,14 +3210,14 @@
 "LatLong": "48.0903,19.2503"
 },
 {
-"Name": "Malá Čalomija",
-"PostCode": "991 08",
-"LatLong": "48.0845,19.2322"
-},
-{
 "Name": "Lesenice",
 "PostCode": "991 08",
 "LatLong": "48.1065,19.247"
+},
+{
+"Name": "Malá Čalomija",
+"PostCode": "991 08",
+"LatLong": "48.0845,19.2322"
 },
 {
 "Name": "Veľká Čalomija",
@@ -3260,14 +3260,14 @@
 "LatLong": "48.0778,19.1309"
 },
 {
-"Name": "Pravica",
-"PostCode": "991 21",
-"LatLong": "48.317,19.4577"
-},
-{
 "Name": "Závada",
 "PostCode": "991 21",
 "LatLong": "48.2912,19.4879"
+},
+{
+"Name": "Pravica",
+"PostCode": "991 21",
+"LatLong": "48.317,19.4577"
 },
 {
 "Name": "Imrov Kopec",
@@ -3290,16 +3290,6 @@
 "LatLong": "48.18,19.446"
 },
 {
-"Name": "Potočok",
-"PostCode": "991 22",
-"LatLong": "48.1653,19.4647"
-},
-{
-"Name": "Olováry",
-"PostCode": "991 22",
-"LatLong": "48.1529,19.41"
-},
-{
 "Name": "Čeláre",
 "PostCode": "991 22",
 "LatLong": "48.1653,19.4647"
@@ -3315,14 +3305,24 @@
 "LatLong": "48.1653,19.4647"
 },
 {
-"Name": "Bušince",
-"PostCode": "991 22",
-"LatLong": "48.1746,19.5012"
-},
-{
 "Name": "Zombor",
 "PostCode": "991 22",
 "LatLong": "48.1366,19.4469"
+},
+{
+"Name": "Potočok",
+"PostCode": "991 22",
+"LatLong": "48.1653,19.4647"
+},
+{
+"Name": "Olováry",
+"PostCode": "991 22",
+"LatLong": "48.1529,19.41"
+},
+{
+"Name": "Bušince",
+"PostCode": "991 22",
+"LatLong": "48.1746,19.5012"
 },
 {
 "Name": "Veľké Zlievce",
@@ -3360,9 +3360,9 @@
 "LatLong": "48.1959,19.1772"
 },
 {
-"Name": "Kosihovce",
+"Name": "Príbelce",
 "PostCode": "991 25",
-"LatLong": "48.1817,19.2011"
+"LatLong": "48.1956,19.253"
 },
 {
 "Name": "Dolné Príbelce",
@@ -3370,14 +3370,14 @@
 "LatLong": "48.1954,19.2612"
 },
 {
-"Name": "Príbelce",
+"Name": "Horné Príbelce",
 "PostCode": "991 25",
 "LatLong": "48.1956,19.253"
 },
 {
-"Name": "Horné Príbelce",
+"Name": "Kosihovce",
 "PostCode": "991 25",
-"LatLong": "48.1956,19.253"
+"LatLong": "48.1817,19.2011"
 },
 {
 "Name": "Nenince",
@@ -3590,21 +3590,6 @@
 "LatLong": "48.5196,19.0598"
 },
 {
-"Name": "Michalková",
-"PostCode": "962 61",
-"LatLong": "48.5092,19.1545"
-},
-{
-"Name": "Dobrá Niva",
-"PostCode": "962 61",
-"LatLong": "48.4708,19.1056"
-},
-{
-"Name": "Podzámčok",
-"PostCode": "962 61",
-"LatLong": "48.5026,19.1129"
-},
-{
 "Name": "Horné Breziny",
 "PostCode": "962 61",
 "LatLong": "48.5099,19.085"
@@ -3613,6 +3598,21 @@
 "Name": "Ostrá Lúka",
 "PostCode": "962 61",
 "LatLong": "48.5454,19.0523"
+},
+{
+"Name": "Podzámčok",
+"PostCode": "962 61",
+"LatLong": "48.5026,19.1129"
+},
+{
+"Name": "Michalková",
+"PostCode": "962 61",
+"LatLong": "48.5092,19.1545"
+},
+{
+"Name": "Dobrá Niva",
+"PostCode": "962 61",
+"LatLong": "48.4708,19.1056"
 },
 {
 "Name": "Dubové",
@@ -3675,12 +3675,12 @@
 "LatLong": "48.4137,19.2234"
 },
 {
-"Name": "Lažteky",
+"Name": "Vidov Vrch",
 "PostCode": "962 63",
 "LatLong": "48.4137,19.2234"
 },
 {
-"Name": "Vidov Vrch",
+"Name": "Lažteky",
 "PostCode": "962 63",
 "LatLong": "48.4137,19.2234"
 },
@@ -3740,7 +3740,7 @@
 "LatLong": "48.3289,18.5544"
 },
 {
-"Name": "Dolné Hámre",
+"Name": "Hámre - Dolné Hámre",
 "PostCode": "966 61",
 "LatLong": "48.4616,18.7426"
 },
@@ -3755,7 +3755,7 @@
 "LatLong": "48.4529,18.7625"
 },
 {
-"Name": "Hámre - Dolné Hámre",
+"Name": "Dolné Hámre",
 "PostCode": "966 61",
 "LatLong": "48.4616,18.7426"
 },
@@ -3860,12 +3860,12 @@
 "LatLong": "48.4249,18.5782"
 },
 {
-"Name": "Chotár",
+"Name": "Kostivrch",
 "PostCode": "968 01",
 "LatLong": "48.418,18.6134"
 },
 {
-"Name": "Kostivrch",
+"Name": "Chotár",
 "PostCode": "968 01",
 "LatLong": "48.418,18.6134"
 },
@@ -3915,9 +3915,9 @@
 "LatLong": "48.5354,18.7873"
 },
 {
-"Name": "Bukovina",
+"Name": "Dolná Ždaňa",
 "PostCode": "966 01",
-"LatLong": "48.536,18.7326"
+"LatLong": "48.5465,18.762"
 },
 {
 "Name": "Horná Trnávka",
@@ -3930,9 +3930,9 @@
 "LatLong": "48.5871,18.7578"
 },
 {
-"Name": "Dolná Ždaňa",
+"Name": "Bukovina",
 "PostCode": "966 01",
-"LatLong": "48.5465,18.762"
+"LatLong": "48.536,18.7326"
 },
 {
 "Name": "Bzenica",
@@ -4584,12 +4584,12 @@
 "LatLong": "48.1423,17.3724"
 },
 {
-"Name": "Doma",
+"Name": "Vlky",
 "PostCode": "900 44",
 "LatLong": "48.1424,17.354"
 },
 {
-"Name": "Vlky",
+"Name": "Doma",
 "PostCode": "900 44",
 "LatLong": "48.1424,17.354"
 },
@@ -4659,12 +4659,12 @@
 "LatLong": "48.1704,17.4209"
 },
 {
-"Name": "Nový Svet",
+"Name": "Reca (č. 380,381,383",
 "PostCode": "903 01",
 "LatLong": "48.1839,17.4175"
 },
 {
-"Name": "Reca (č. 380,381,383",
+"Name": "Svätý Martin",
 "PostCode": "903 01",
 "LatLong": "48.1839,17.4175"
 },
@@ -4674,7 +4674,7 @@
 "LatLong": "48.1839,17.4175"
 },
 {
-"Name": "Svätý Martin",
+"Name": "Nový Svet",
 "PostCode": "903 01",
 "LatLong": "48.1839,17.4175"
 },
@@ -5448,14 +5448,14 @@
 "LatLong": "48.6142,21.5236"
 },
 {
-"Name": "Ruskov",
-"PostCode": "044 19",
-"LatLong": "48.6819,21.4324"
-},
-{
 "Name": "Olšovany",
 "PostCode": "044 19",
 "LatLong": "48.7069,21.4071"
+},
+{
+"Name": "Ruskov",
+"PostCode": "044 19",
+"LatLong": "48.6819,21.4324"
 },
 {
 "Name": "Ďurkov",
@@ -5533,11 +5533,6 @@
 "LatLong": "48.7211,20.7912"
 },
 {
-"Name": "Malá Vieska",
-"PostCode": "044 31",
-"LatLong": "48.8055,21.245"
-},
-{
 "Name": "Sokoľ",
 "PostCode": "044 31",
 "LatLong": "48.8127,21.2193"
@@ -5548,12 +5543,17 @@
 "LatLong": "48.797,21.2571"
 },
 {
-"Name": "Družstevná pri Horn.",
+"Name": "Malá Vieska",
+"PostCode": "044 31",
+"LatLong": "48.8055,21.245"
+},
+{
+"Name": "Kostoľany n/Hornádom",
 "PostCode": "044 31",
 "LatLong": "48.8051,21.2404"
 },
 {
-"Name": "Kostoľany n/Hornádom",
+"Name": "Družstevná pri Horn.",
 "PostCode": "044 31",
 "LatLong": "48.8051,21.2404"
 },
@@ -5623,9 +5623,9 @@
 "LatLong": "48.815,21.3257"
 },
 {
-"Name": "Kráľovce",
+"Name": "Chrastné",
 "PostCode": "044 44",
-"LatLong": "48.8025,21.3286"
+"LatLong": "48.7937,21.3514"
 },
 {
 "Name": "Nová Polhora",
@@ -5633,9 +5633,9 @@
 "LatLong": "48.8103,21.3413"
 },
 {
-"Name": "Chrastné",
+"Name": "Kráľovce",
 "PostCode": "044 44",
-"LatLong": "48.7937,21.3514"
+"LatLong": "48.8025,21.3286"
 },
 {
 "Name": "Košický Klečenov",
@@ -5683,9 +5683,9 @@
 "LatLong": "48.7348,21.4663"
 },
 {
-"Name": "Bačkovík",
+"Name": "Bidovce",
 "PostCode": "044 45",
-"LatLong": "48.7828,21.4316"
+"LatLong": "48.7362,21.4395"
 },
 {
 "Name": "Herľany",
@@ -5693,9 +5693,9 @@
 "LatLong": "48.7998,21.4766"
 },
 {
-"Name": "Bidovce",
+"Name": "Bačkovík",
 "PostCode": "044 45",
-"LatLong": "48.7362,21.4395"
+"LatLong": "48.7828,21.4316"
 },
 {
 "Name": "Trsťany",
@@ -5768,9 +5768,9 @@
 "LatLong": "48.596,21.1679"
 },
 {
-"Name": "Haniska",
+"Name": "Bočiar",
 "PostCode": "044 57",
-"LatLong": "48.6199,21.2516"
+"LatLong": "48.591,21.2354"
 },
 {
 "Name": "Grajciar",
@@ -5783,9 +5783,9 @@
 "LatLong": "48.6089,21.2294"
 },
 {
-"Name": "Bočiar",
+"Name": "Haniska",
 "PostCode": "044 57",
-"LatLong": "48.591,21.2354"
+"LatLong": "48.6199,21.2516"
 },
 {
 "Name": "Seňa",
@@ -5893,12 +5893,12 @@
 "LatLong": "48.8556,21.2197"
 },
 {
-"Name": "Obišovce",
+"Name": "Veľká Lodina",
 "PostCode": "044 81",
 "LatLong": "48.8453,21.2201"
 },
 {
-"Name": "Veľká Lodina",
+"Name": "Obišovce",
 "PostCode": "044 81",
 "LatLong": "48.8453,21.2201"
 },
@@ -5968,7 +5968,7 @@
 "LatLong": "48.7193,21.9045"
 },
 {
-"Name": "Petrovce n/Laborcom",
+"Name": "Milovaná",
 "PostCode": "071 01",
 "LatLong": "48.763,21.877"
 },
@@ -5983,12 +5983,12 @@
 "LatLong": "48.763,21.877"
 },
 {
-"Name": "Meďov",
+"Name": "Petrovce n/Laborcom",
 "PostCode": "071 01",
 "LatLong": "48.763,21.877"
 },
 {
-"Name": "Milovaná",
+"Name": "Meďov",
 "PostCode": "071 01",
 "LatLong": "48.763,21.877"
 },
@@ -6128,7 +6128,7 @@
 "LatLong": "48.6643,22.0231"
 },
 {
-"Name": "Zemplínska Široká",
+"Name": "Dolný Les",
 "PostCode": "072 13",
 "LatLong": "48.647,22.0004"
 },
@@ -6138,7 +6138,7 @@
 "LatLong": "48.6434,22.0037"
 },
 {
-"Name": "Dolný Les",
+"Name": "Zemplínska Široká",
 "PostCode": "072 13",
 "LatLong": "48.647,22.0004"
 },
@@ -6638,14 +6638,14 @@
 "LatLong": "48.7491,20.314"
 },
 {
-"Name": "Markuška",
-"PostCode": "049 34",
-"LatLong": "48.7284,20.3262"
-},
-{
 "Name": "Brdárka",
 "PostCode": "049 34",
 "LatLong": "48.7669,20.3389"
+},
+{
+"Name": "Markuška",
+"PostCode": "049 34",
+"LatLong": "48.7284,20.3262"
 },
 {
 "Name": "Slavoška",
@@ -6728,14 +6728,14 @@
 "LatLong": "48.5824,20.6354"
 },
 {
-"Name": "Jablonov nad Turňou",
-"PostCode": "049 43",
-"LatLong": "48.5939,20.6745"
-},
-{
 "Name": "Silická Jablonica",
 "PostCode": "049 43",
 "LatLong": "48.5583,20.6086"
+},
+{
+"Name": "Jablonov nad Turňou",
+"PostCode": "049 43",
+"LatLong": "48.5939,20.6745"
 },
 {
 "Name": "Hrhov",
@@ -6858,14 +6858,14 @@
 "LatLong": "48.7958,22.1678"
 },
 {
-"Name": "Gajdoš",
-"PostCode": "072 43",
-"LatLong": "48.7561,22.1214"
-},
-{
 "Name": "Vyšné Revištia",
 "PostCode": "072 43",
 "LatLong": "48.7333,22.1"
+},
+{
+"Name": "Gajdoš",
+"PostCode": "072 43",
+"LatLong": "48.7561,22.1214"
 },
 {
 "Name": "Veľké Revištia",
@@ -7163,12 +7163,12 @@
 "LatLong": "48.9337,20.6346"
 },
 {
-"Name": "Jamník",
+"Name": "Danišovce",
 "PostCode": "053 22",
 "LatLong": "48.9337,20.6346"
 },
 {
-"Name": "Danišovce",
+"Name": "Jamník",
 "PostCode": "053 22",
 "LatLong": "48.9337,20.6346"
 },
@@ -7243,7 +7243,7 @@
 "LatLong": "48.9275,20.7556"
 },
 {
-"Name": "Žehra",
+"Name": "Oľšavka",
 "PostCode": "053 61",
 "LatLong": "48.8953,20.8594"
 },
@@ -7258,7 +7258,7 @@
 "LatLong": "48.8953,20.8594"
 },
 {
-"Name": "Oľšavka",
+"Name": "Žehra",
 "PostCode": "053 61",
 "LatLong": "48.8953,20.8594"
 },
@@ -7323,17 +7323,17 @@
 "LatLong": "48.8538,20.3875"
 },
 {
-"Name": "Rakovec",
-"PostCode": "053 76",
-"LatLong": "48.8586,20.4107"
-},
-{
 "Name": "Sykavka",
 "PostCode": "053 76",
 "LatLong": "48.8586,20.4107"
 },
 {
 "Name": "Prostredný Hámor",
+"PostCode": "053 76",
+"LatLong": "48.8586,20.4107"
+},
+{
+"Name": "Rakovec",
 "PostCode": "053 76",
 "LatLong": "48.8586,20.4107"
 }
@@ -7433,9 +7433,9 @@
 "LatLong": "48.5196,21.8017"
 },
 {
-"Name": "Cejkov",
+"Name": "Brehov",
 "PostCode": "076 05",
-"LatLong": "48.4663,21.7605"
+"LatLong": "48.4836,21.815"
 },
 {
 "Name": "Zemplínske Jastrabie",
@@ -7443,19 +7443,19 @@
 "LatLong": "48.475,21.7878"
 },
 {
-"Name": "Brehov",
+"Name": "Cejkov",
 "PostCode": "076 05",
-"LatLong": "48.4836,21.815"
-},
-{
-"Name": "Kuzmice",
-"PostCode": "076 12",
-"LatLong": "48.5797,21.5696"
+"LatLong": "48.4663,21.7605"
 },
 {
 "Name": "Brezina",
 "PostCode": "076 12",
 "LatLong": "48.5483,21.5605"
+},
+{
+"Name": "Kuzmice",
+"PostCode": "076 12",
+"LatLong": "48.5797,21.5696"
 },
 {
 "Name": "Dancov Potok",
@@ -7558,7 +7558,7 @@
 "LatLong": "48.3838,21.7253"
 },
 {
-"Name": "Bara",
+"Name": "Veľká Bara",
 "PostCode": "076 32",
 "LatLong": "48.4256,21.7161"
 },
@@ -7573,7 +7573,7 @@
 "LatLong": "48.4412,21.732"
 },
 {
-"Name": "Veľká Bara",
+"Name": "Bara",
 "PostCode": "076 32",
 "LatLong": "48.4256,21.7161"
 },
@@ -8047,12 +8047,12 @@
 "LatLong": "47.9683,17.9932"
 },
 {
-"Name": "Částa",
+"Name": "Čierny Chrbát",
 "PostCode": "946 03",
 "LatLong": "47.933,17.9831"
 },
 {
-"Name": "Čierny Chrbát",
+"Name": "Částa",
 "PostCode": "946 03",
 "LatLong": "47.933,17.9831"
 },
@@ -8397,7 +8397,7 @@
 "LatLong": "48.2114,18.6699"
 },
 {
-"Name": "Krškany",
+"Name": "Veľké Krškany",
 "PostCode": "934 01",
 "LatLong": "48.2135,18.6753"
 },
@@ -8407,9 +8407,9 @@
 "LatLong": "48.2114,18.6699"
 },
 {
-"Name": "Veľké Krškany",
+"Name": "Malé Krškany",
 "PostCode": "934 01",
-"LatLong": "48.2135,18.6753"
+"LatLong": "48.218,18.6684"
 },
 {
 "Name": "Krížny Vrch",
@@ -8417,9 +8417,9 @@
 "LatLong": "48.2114,18.6699"
 },
 {
-"Name": "Malé Krškany",
+"Name": "Krškany",
 "PostCode": "934 01",
-"LatLong": "48.218,18.6684"
+"LatLong": "48.2135,18.6753"
 },
 {
 "Name": "Žemberovce",
@@ -8472,12 +8472,12 @@
 "LatLong": "48.3311,18.752"
 },
 {
-"Name": "Majere",
+"Name": "Uhliská",
 "PostCode": "935 05",
 "LatLong": "48.3311,18.752"
 },
 {
-"Name": "Uhliská",
+"Name": "Majere",
 "PostCode": "935 05",
 "LatLong": "48.3311,18.752"
 },
@@ -8622,12 +8622,12 @@
 "LatLong": "48.2111,18.4647"
 },
 {
-"Name": "Dolný Ďur",
+"Name": "Veľký Ďur",
 "PostCode": "935 34",
 "LatLong": "48.2111,18.4647"
 },
 {
-"Name": "Veľký Ďur",
+"Name": "Dolný Ďur",
 "PostCode": "935 34",
 "LatLong": "48.2111,18.4647"
 },
@@ -9032,9 +9032,9 @@
 "LatLong": "48.0764,18.7128"
 },
 {
-"Name": "Kukučínov",
+"Name": "Malé Ludince",
 "PostCode": "937 01",
-"LatLong": "48.089,18.7005"
+"LatLong": "47.9878,18.6968"
 },
 {
 "Name": "Želiezovce",
@@ -9042,9 +9042,9 @@
 "LatLong": "48.0508,18.6542"
 },
 {
-"Name": "Malé Ludince",
+"Name": "Trhyňa",
 "PostCode": "937 01",
-"LatLong": "47.9878,18.6968"
+"LatLong": "48.0622,18.7161"
 },
 {
 "Name": "Sikenica",
@@ -9052,9 +9052,9 @@
 "LatLong": "48.0489,18.6691"
 },
 {
-"Name": "Trhyňa",
+"Name": "Kukučínov",
 "PostCode": "937 01",
-"LatLong": "48.0622,18.7161"
+"LatLong": "48.089,18.7005"
 },
 {
 "Name": "Jarok",
@@ -9637,9 +9637,9 @@
 "LatLong": "48.1333,18.0333"
 },
 {
-"Name": "Rastislavice",
+"Name": "Tvrdošovce",
 "PostCode": "941 10",
-"LatLong": "48.1302,18.0992"
+"LatLong": "48.0945,18.0669"
 },
 {
 "Name": "Jatov",
@@ -9647,9 +9647,9 @@
 "LatLong": "48.1207,18.0519"
 },
 {
-"Name": "Tvrdošovce",
+"Name": "Rastislavice",
 "PostCode": "941 10",
-"LatLong": "48.0945,18.0669"
+"LatLong": "48.1302,18.0992"
 },
 {
 "Name": "Kendereš",
@@ -9697,14 +9697,14 @@
 "LatLong": "48.0063,18.097"
 },
 {
-"Name": "Dvory nad Žitavou",
-"PostCode": "941 31",
-"LatLong": "47.9895,18.2672"
-},
-{
 "Name": "Branovo",
 "PostCode": "941 31",
 "LatLong": "48.0232,18.308"
+},
+{
+"Name": "Dvory nad Žitavou",
+"PostCode": "941 31",
+"LatLong": "47.9895,18.2672"
 },
 {
 "Name": "Čechy",
@@ -10142,9 +10142,9 @@
 "LatLong": "48.6064,18.1534"
 },
 {
-"Name": "Práznovce",
+"Name": "Velušovce",
 "PostCode": "955 01",
-"LatLong": "48.5667,18.2103"
+"LatLong": "48.6299,18.0972"
 },
 {
 "Name": "Tovarníky",
@@ -10157,9 +10157,9 @@
 "LatLong": "48.6305,18.0549"
 },
 {
-"Name": "Velušovce",
+"Name": "Práznovce",
 "PostCode": "955 01",
-"LatLong": "48.6299,18.0972"
+"LatLong": "48.5667,18.2103"
 },
 {
 "Name": "Malé Dvorany",
@@ -10262,9 +10262,9 @@
 "LatLong": "48.4629,17.9836"
 },
 {
-"Name": "Lužany",
+"Name": "Malé Ripňany",
 "PostCode": "956 07",
-"LatLong": "48.5163,18.0153"
+"LatLong": "48.4771,17.9798"
 },
 {
 "Name": "Veľké Ripňany",
@@ -10272,9 +10272,9 @@
 "LatLong": "48.5029,17.9787"
 },
 {
-"Name": "Malé Ripňany",
+"Name": "Lužany",
 "PostCode": "956 07",
-"LatLong": "48.4771,17.9798"
+"LatLong": "48.5163,18.0153"
 },
 {
 "Name": "Čermany",
@@ -10462,7 +10462,7 @@
 "LatLong": "48.3949,18.3285"
 },
 {
-"Name": "Sľažany",
+"Name": "Dolné Sľažany",
 "PostCode": "951 71",
 "LatLong": "48.3837,18.3256"
 },
@@ -10472,7 +10472,7 @@
 "LatLong": "48.4143,18.3039"
 },
 {
-"Name": "Dolné Sľažany",
+"Name": "Sľažany",
 "PostCode": "951 71",
 "LatLong": "48.3837,18.3256"
 },
@@ -10711,7 +10711,7 @@
 "LatLong": "49.2756,21.1908"
 },
 {
-"Name": "Miháľov",
+"Name": "Bardejovská Zábava",
 "PostCode": "085 01",
 "LatLong": "49.301,21.2684"
 },
@@ -10721,7 +10721,7 @@
 "LatLong": "49.3358,21.2937"
 },
 {
-"Name": "Bardejovská Zábava",
+"Name": "Miháľov",
 "PostCode": "085 01",
 "LatLong": "49.301,21.2684"
 },
@@ -10821,12 +10821,12 @@
 "LatLong": "49.2934,21.0783"
 },
 {
-"Name": "Livov",
+"Name": "Livovská Huta",
 "PostCode": "086 05",
 "LatLong": "49.2934,21.0783"
 },
 {
-"Name": "Livovská Huta",
+"Name": "Livov",
 "PostCode": "086 05",
 "LatLong": "49.2934,21.0783"
 },
@@ -10891,9 +10891,9 @@
 "LatLong": "49.2694,21.4567"
 },
 {
-"Name": "Šašová",
+"Name": "Kurima",
 "PostCode": "086 12",
-"LatLong": "49.256,21.4523"
+"LatLong": "49.2263,21.4536"
 },
 {
 "Name": "Lipová",
@@ -10906,9 +10906,9 @@
 "LatLong": "49.2453,21.4384"
 },
 {
-"Name": "Kurima",
+"Name": "Šašová",
 "PostCode": "086 12",
-"LatLong": "49.2263,21.4536"
+"LatLong": "49.256,21.4523"
 },
 {
 "Name": "Porúbka",
@@ -11311,14 +11311,14 @@
 "LatLong": "49.0528,21.8467"
 },
 {
-"Name": "Baškovce",
-"PostCode": "067 23",
-"LatLong": "49.0325,21.8367"
-},
-{
 "Name": "Hrubov",
 "PostCode": "067 23",
 "LatLong": "49.0944,21.8615"
+},
+{
+"Name": "Baškovce",
+"PostCode": "067 23",
+"LatLong": "49.0325,21.8367"
 },
 {
 "Name": "Černina",
@@ -11546,9 +11546,9 @@
 "LatLong": "49.354,20.3634"
 },
 {
-"Name": "Reľov",
+"Name": "Spišské Hanušovce",
 "PostCode": "059 04",
-"LatLong": "49.2979,20.3808"
+"LatLong": "49.331,20.3448"
 },
 {
 "Name": "Hágy",
@@ -11561,9 +11561,9 @@
 "LatLong": "49.3028,20.3503"
 },
 {
-"Name": "Spišské Hanušovce",
+"Name": "Reľov",
 "PostCode": "059 04",
-"LatLong": "49.331,20.3448"
+"LatLong": "49.2979,20.3808"
 },
 {
 "Name": "Červený Kláštor",
@@ -11771,14 +11771,14 @@
 "LatLong": "49.0039,20.6681"
 },
 {
-"Name": "Nemešany",
-"PostCode": "053 02",
-"LatLong": "49.0032,20.685"
-},
-{
 "Name": "Spišský Hrhov",
 "PostCode": "053 02",
 "LatLong": "48.9998,20.6412"
+},
+{
+"Name": "Nemešany",
+"PostCode": "053 02",
+"LatLong": "49.0032,20.685"
 },
 {
 "Name": "Doľany",
@@ -11821,9 +11821,9 @@
 "LatLong": "48.9738,20.7325"
 },
 {
-"Name": "Harakovce",
+"Name": "Pongrácovce",
 "PostCode": "053 05",
-"LatLong": "48.9978,20.8468"
+"LatLong": "49.0196,20.8237"
 },
 {
 "Name": "Granč - Petrovce",
@@ -11836,9 +11836,9 @@
 "LatLong": "49.0249,20.8423"
 },
 {
-"Name": "Pongrácovce",
+"Name": "Harakovce",
 "PostCode": "053 05",
-"LatLong": "49.0196,20.8237"
+"LatLong": "48.9978,20.8468"
 },
 {
 "Name": "Korytné",
@@ -11976,14 +11976,14 @@
 "LatLong": "49.1783,21.9539"
 },
 {
-"Name": "Zbudská Belá",
-"PostCode": "067 01",
-"LatLong": "49.1534,21.9407"
-},
-{
 "Name": "Volica",
 "PostCode": "067 01",
 "LatLong": "49.1557,21.9182"
+},
+{
+"Name": "Zbudská Belá",
+"PostCode": "067 01",
+"LatLong": "49.1534,21.9407"
 },
 {
 "Name": "Radvaň nad Laborcom",
@@ -12166,17 +12166,17 @@
 "LatLong": "49.028,20.3578"
 },
 {
-"Name": "Primovce",
-"PostCode": "059 12",
-"LatLong": "49.0223,20.1956"
-},
-{
 "Name": "Kišovce",
 "PostCode": "059 12",
 "LatLong": "49.0223,20.1956"
 },
 {
 "Name": "Ondrej",
+"PostCode": "059 12",
+"LatLong": "49.0223,20.1956"
+},
+{
+"Name": "Primovce",
 "PostCode": "059 12",
 "LatLong": "49.0223,20.1956"
 },
@@ -12321,12 +12321,12 @@
 "LatLong": "49.1662,20.2813"
 },
 {
-"Name": "Kežmarské Žľaby",
+"Name": "Tatranská Lesná",
 "PostCode": "059 60",
 "LatLong": "49.1662,20.2813"
 },
 {
-"Name": "Tatranská Lesná",
+"Name": "Kežmarské Žľaby",
 "PostCode": "059 60",
 "LatLong": "49.1662,20.2813"
 },
@@ -12491,12 +12491,12 @@
 "LatLong": "49.013,21.2987"
 },
 {
-"Name": "Kendice",
+"Name": "Drienovská Nová Ves",
 "PostCode": "082 01",
 "LatLong": "48.878,21.3397"
 },
 {
-"Name": "Drienovská Nová Ves",
+"Name": "Kendice",
 "PostCode": "082 01",
 "LatLong": "48.878,21.3397"
 },
@@ -12621,6 +12621,16 @@
 "LatLong": "49.0452,21.3335"
 },
 {
+"Name": "Podhorany",
+"PostCode": "082 12",
+"LatLong": "49.0837,21.3553"
+},
+{
+"Name": "Šarišská Poruba",
+"PostCode": "082 12",
+"LatLong": "49.0385,21.3865"
+},
+{
 "Name": "Trnkov",
 "PostCode": "082 12",
 "LatLong": "49.0358,21.3579"
@@ -12631,19 +12641,9 @@
 "LatLong": "49.0222,21.3714"
 },
 {
-"Name": "Podhorany",
-"PostCode": "082 12",
-"LatLong": "49.0837,21.3553"
-},
-{
 "Name": "Taľka",
 "PostCode": "082 12",
 "LatLong": "49.0509,21.4083"
-},
-{
-"Name": "Šarišská Poruba",
-"PostCode": "082 12",
-"LatLong": "49.0385,21.3865"
 },
 {
 "Name": "Zimná Studňa",
@@ -12726,9 +12726,9 @@
 "LatLong": "48.9878,21.1297"
 },
 {
-"Name": "Kojatice",
+"Name": "Lažany",
 "PostCode": "082 32",
-"LatLong": "48.9981,21.1305"
+"LatLong": "49.036,21.0985"
 },
 {
 "Name": "Kojatická Dolina",
@@ -12741,9 +12741,9 @@
 "LatLong": "49.0127,21.1217"
 },
 {
-"Name": "Lažany",
+"Name": "Kojatice",
 "PostCode": "082 32",
-"LatLong": "49.036,21.0985"
+"LatLong": "48.9981,21.1305"
 },
 {
 "Name": "Bunde",
@@ -12751,9 +12751,9 @@
 "LatLong": "49.0253,21.0603"
 },
 {
-"Name": "Hrabkov",
+"Name": "Chminianska Nová Ves",
 "PostCode": "082 33",
-"LatLong": "48.9597,21.0234"
+"LatLong": "49.0033,21.0825"
 },
 {
 "Name": "Chmiňany",
@@ -12761,9 +12761,9 @@
 "LatLong": "49.0014,21.0678"
 },
 {
-"Name": "Chminianska Nová Ves",
+"Name": "Hrabkov",
 "PostCode": "082 33",
-"LatLong": "49.0033,21.0825"
+"LatLong": "48.9597,21.0234"
 },
 {
 "Name": "Krížovany",
@@ -12881,9 +12881,9 @@
 "LatLong": "48.9611,21.142"
 },
 {
-"Name": "Janov",
+"Name": "Ruské Pekľany",
 "PostCode": "082 42",
-"LatLong": "48.9389,21.1785"
+"LatLong": "48.9014,21.1879"
 },
 {
 "Name": "Bzenov",
@@ -12896,9 +12896,9 @@
 "LatLong": "48.9123,21.1747"
 },
 {
-"Name": "Ruské Pekľany",
+"Name": "Janov",
 "PostCode": "082 42",
-"LatLong": "48.9014,21.1879"
+"LatLong": "48.9389,21.1785"
 },
 {
 "Name": "Radatice",
@@ -13101,14 +13101,14 @@
 "LatLong": "49.0401,21.0629"
 },
 {
-"Name": "Renčišov",
-"PostCode": "082 63",
-"LatLong": "49.0936,20.9639"
-},
-{
 "Name": "Jarovnice",
 "PostCode": "082 63",
 "LatLong": "49.058,21.0581"
+},
+{
+"Name": "Renčišov",
+"PostCode": "082 63",
+"LatLong": "49.0936,20.9639"
 },
 {
 "Name": "Uzovce",
@@ -13176,12 +13176,12 @@
 "LatLong": "49.1694,20.912"
 },
 {
-"Name": "Potoky",
+"Name": "Ďačov",
 "PostCode": "082 71",
 "LatLong": "49.1642,20.9665"
 },
 {
-"Name": "Ďačov",
+"Name": "Potoky",
 "PostCode": "082 71",
 "LatLong": "49.1642,20.9665"
 },
@@ -13581,14 +13581,14 @@
 "LatLong": "49.3324,20.6146"
 },
 {
-"Name": "Veľký Lipník",
-"PostCode": "065 33",
-"LatLong": "49.3735,20.5027"
-},
-{
 "Name": "Lesnica",
 "PostCode": "065 33",
 "LatLong": "49.402,20.4698"
+},
+{
+"Name": "Veľký Lipník",
+"PostCode": "065 33",
+"LatLong": "49.3735,20.5027"
 },
 {
 "Name": "Stráňany",
@@ -13621,12 +13621,12 @@
 "LatLong": "49.2634,20.8769"
 },
 {
-"Name": "Ďurková",
+"Name": "Podpílie",
 "PostCode": "065 41",
 "LatLong": "49.2387,20.8798"
 },
 {
-"Name": "Podpílie",
+"Name": "Ďurková",
 "PostCode": "065 41",
 "LatLong": "49.2387,20.8798"
 },
@@ -13721,12 +13721,12 @@
 "LatLong": "49.332,20.8028"
 },
 {
-"Name": "Sulín",
+"Name": "Starina",
 "PostCode": "065 46",
 "LatLong": "49.332,20.8028"
 },
 {
-"Name": "Starina",
+"Name": "Sulín",
 "PostCode": "065 46",
 "LatLong": "49.332,20.8028"
 },
@@ -13816,7 +13816,7 @@
 "LatLong": "49.2436,21.8195"
 },
 {
-"Name": "Vladiča",
+"Name": "Driečna",
 "PostCode": "090 23",
 "LatLong": "49.2713,21.7826"
 },
@@ -13826,7 +13826,7 @@
 "LatLong": "49.2242,21.8069"
 },
 {
-"Name": "Driečna",
+"Name": "Vladiča",
 "PostCode": "090 23",
 "LatLong": "49.2713,21.7826"
 },
@@ -13956,9 +13956,9 @@
 "LatLong": "49.2095,21.7162"
 },
 {
-"Name": "Stropkov",
+"Name": "Breznička",
 "PostCode": "091 01",
-"LatLong": "49.2021,21.6522"
+"LatLong": "49.223,21.7039"
 },
 {
 "Name": "Tisinec",
@@ -13981,9 +13981,9 @@
 "LatLong": "49.1805,21.6628"
 },
 {
-"Name": "Breznička",
+"Name": "Stropkov",
 "PostCode": "091 01",
-"LatLong": "49.223,21.7039"
+"LatLong": "49.2021,21.6522"
 },
 {
 "Name": "Šandal",
@@ -14106,9 +14106,9 @@
 "LatLong": "49.2647,21.595"
 },
 {
-"Name": "Rakovčík",
+"Name": "Vyšná Jedľová",
 "PostCode": "089 01",
-"LatLong": "49.2445,21.576"
+"LatLong": "49.347,21.5421"
 },
 {
 "Name": "Nová Polianka",
@@ -14116,9 +14116,9 @@
 "LatLong": "49.2875,21.62"
 },
 {
-"Name": "Vyšná Jedľová",
+"Name": "Rakovčík",
 "PostCode": "089 01",
-"LatLong": "49.347,21.5421"
+"LatLong": "49.2445,21.576"
 },
 {
 "Name": "Dobroslava",
@@ -14241,14 +14241,14 @@
 "LatLong": "49.4021,21.7056"
 },
 {
-"Name": "Príkra",
-"PostCode": "090 05",
-"LatLong": "49.3623,21.7409"
-},
-{
 "Name": "Nižný Komárnik",
 "PostCode": "090 05",
 "LatLong": "49.3751,21.6969"
+},
+{
+"Name": "Príkra",
+"PostCode": "090 05",
+"LatLong": "49.3623,21.7409"
 },
 {
 "Name": "Roztoky",
@@ -14266,9 +14266,9 @@
 "LatLong": "49.3576,21.4752"
 },
 {
-"Name": "Nižný Orlík",
+"Name": "Dubová",
 "PostCode": "090 11",
-"LatLong": "49.3332,21.5286"
+"LatLong": "49.362,21.4342"
 },
 {
 "Name": "Vyšný Mirošov",
@@ -14281,9 +14281,9 @@
 "LatLong": "49.3438,21.5025"
 },
 {
-"Name": "Dubová",
+"Name": "Nižný Orlík",
 "PostCode": "090 11",
-"LatLong": "49.362,21.4342"
+"LatLong": "49.3332,21.5286"
 },
 {
 "Name": "Mlynárovce",
@@ -14566,14 +14566,14 @@
 "LatLong": "48.8691,21.7439"
 },
 {
-"Name": "Nižný Hrabovec",
-"PostCode": "094 21",
-"LatLong": "48.8534,21.7565"
-},
-{
 "Name": "Poša",
 "PostCode": "094 21",
 "LatLong": "48.8392,21.7598"
+},
+{
+"Name": "Nižný Hrabovec",
+"PostCode": "094 21",
+"LatLong": "48.8534,21.7565"
 },
 {
 "Name": "Nižný Hrušov",
@@ -14626,9 +14626,9 @@
 "LatLong": "49.0491,21.5966"
 },
 {
-"Name": "Detrík",
+"Name": "Babie",
 "PostCode": "094 31",
-"LatLong": "49.0422,21.6223"
+"LatLong": "49.0698,21.4913"
 },
 {
 "Name": "Hanušovce nad Topľou",
@@ -14656,14 +14656,19 @@
 "LatLong": "49.0359,21.4557"
 },
 {
-"Name": "Babie",
-"PostCode": "094 31",
-"LatLong": "49.0698,21.4913"
-},
-{
 "Name": "Remeniny",
 "PostCode": "094 31",
 "LatLong": "49.0354,21.5531"
+},
+{
+"Name": "Detrík",
+"PostCode": "094 31",
+"LatLong": "49.0422,21.6223"
+},
+{
+"Name": "Ďurďoš",
+"PostCode": "094 31",
+"LatLong": "49.0442,21.5207"
 },
 {
 "Name": "Majer",
@@ -14672,11 +14677,6 @@
 },
 {
 "Name": "Grodzin",
-"PostCode": "094 31",
-"LatLong": "49.0442,21.5207"
-},
-{
-"Name": "Ďurďoš",
 "PostCode": "094 31",
 "LatLong": "49.0442,21.5207"
 },
@@ -14757,9 +14757,9 @@
 {
 "Places": [
 {
-"Name": "Kútniky",
+"Name": "Pataš",
 "PostCode": "929 01",
-"LatLong": "47.9667,17.6667"
+"LatLong": "47.8754,17.6523"
 },
 {
 "Name": "Dunajská Streda",
@@ -14767,9 +14767,9 @@
 "LatLong": "47.9927,17.6121"
 },
 {
-"Name": "Pataš",
+"Name": "Kútniky",
 "PostCode": "929 01",
-"LatLong": "47.8754,17.6523"
+"LatLong": "47.9667,17.6667"
 },
 {
 "Name": "Mliečany",
@@ -14777,7 +14777,7 @@
 "LatLong": "47.9717,17.6046"
 },
 {
-"Name": "Pódafa",
+"Name": "Heďbeneéte",
 "PostCode": "929 01",
 "LatLong": "47.9639,17.6464"
 },
@@ -14792,7 +14792,7 @@
 "LatLong": "48.0011,17.6563"
 },
 {
-"Name": "Töböréte",
+"Name": "Lidér Tejed",
 "PostCode": "929 01",
 "LatLong": "47.9639,17.6464"
 },
@@ -14800,16 +14800,6 @@
 "Name": "Malé Dvorníky",
 "PostCode": "929 01",
 "LatLong": "48.0151,17.6468"
-},
-{
-"Name": "Milinovice",
-"PostCode": "929 01",
-"LatLong": "47.9639,17.6464"
-},
-{
-"Name": "Malé Blahovo",
-"PostCode": "929 01",
-"LatLong": "48,17.6167"
 },
 {
 "Name": "Čenkesfa",
@@ -14822,7 +14812,17 @@
 "LatLong": "47.9313,17.6828"
 },
 {
-"Name": "Heďbeneéte",
+"Name": "Kolónia",
+"PostCode": "929 01",
+"LatLong": "47.9639,17.6464"
+},
+{
+"Name": "Malé Blahovo",
+"PostCode": "929 01",
+"LatLong": "48,17.6167"
+},
+{
+"Name": "Milinovice",
 "PostCode": "929 01",
 "LatLong": "47.9639,17.6464"
 },
@@ -14832,12 +14832,12 @@
 "LatLong": "47.9186,17.6923"
 },
 {
-"Name": "Kolónia",
+"Name": "Töböréte",
 "PostCode": "929 01",
 "LatLong": "47.9639,17.6464"
 },
 {
-"Name": "Lidér Tejed",
+"Name": "Pódafa",
 "PostCode": "929 01",
 "LatLong": "47.9639,17.6464"
 },
@@ -14862,7 +14862,7 @@
 "LatLong": "48.0042,17.5292"
 },
 {
-"Name": "Amadeho Kračany",
+"Name": "Lúč na Ostrove",
 "PostCode": "930 03",
 "LatLong": "47.9775,17.5535"
 },
@@ -14892,7 +14892,7 @@
 "LatLong": "47.9767,17.5205"
 },
 {
-"Name": "Lúč na Ostrove",
+"Name": "Amadeho Kračany",
 "PostCode": "930 03",
 "LatLong": "47.9775,17.5535"
 },
@@ -14917,14 +14917,14 @@
 "LatLong": "47.9698,17.5827"
 },
 {
-"Name": "Jastrabie Kračany",
-"PostCode": "930 03",
-"LatLong": "48.0024,17.5465"
-},
-{
 "Name": "Kostolné Kračany",
 "PostCode": "930 03",
 "LatLong": "47.9735,17.5734"
+},
+{
+"Name": "Jastrabie Kračany",
+"PostCode": "930 03",
+"LatLong": "48.0024,17.5465"
 },
 {
 "Name": "Kynceľove Kračany",
@@ -15117,7 +15117,7 @@
 "LatLong": "47.952,17.4438"
 },
 {
-"Name": "Holice",
+"Name": "Stará Gala",
 "PostCode": "930 34",
 "LatLong": "47.993,17.4818"
 },
@@ -15127,12 +15127,22 @@
 "LatLong": "48.0113,17.4839"
 },
 {
-"Name": "Stará Gala",
+"Name": "Holice",
 "PostCode": "930 34",
 "LatLong": "47.993,17.4818"
 },
 {
+"Name": "Beketfa",
+"PostCode": "930 34",
+"LatLong": "47.9991,17.4825"
+},
+{
 "Name": "Kostolná Gala",
+"PostCode": "930 34",
+"LatLong": "47.9991,17.4825"
+},
+{
+"Name": "Veľká Budafa",
 "PostCode": "930 34",
 "LatLong": "47.9991,17.4825"
 },
@@ -15143,16 +15153,6 @@
 },
 {
 "Name": "Malá Budafa",
-"PostCode": "930 34",
-"LatLong": "47.9991,17.4825"
-},
-{
-"Name": "Beketfa",
-"PostCode": "930 34",
-"LatLong": "47.9991,17.4825"
-},
-{
-"Name": "Veľká Budafa",
 "PostCode": "930 34",
 "LatLong": "47.9991,17.4825"
 },
@@ -15232,7 +15232,7 @@
 "LatLong": "48.0924,17.4462"
 },
 {
-"Name": "Dolné Janíky",
+"Name": "Horné Janíky",
 "PostCode": "930 39",
 "LatLong": "48.1062,17.4179"
 },
@@ -15242,7 +15242,7 @@
 "LatLong": "48.0854,17.4234"
 },
 {
-"Name": "Búštelek",
+"Name": "Zlaté Klasy",
 "PostCode": "930 39",
 "LatLong": "48.1062,17.4179"
 },
@@ -15252,7 +15252,7 @@
 "LatLong": "48.1167,17.4167"
 },
 {
-"Name": "Zlaté Klasy",
+"Name": "Búštelek",
 "PostCode": "930 39",
 "LatLong": "48.1062,17.4179"
 },
@@ -15262,7 +15262,7 @@
 "LatLong": "48.1062,17.4301"
 },
 {
-"Name": "Horné Janíky",
+"Name": "Dolné Janíky",
 "PostCode": "930 39",
 "LatLong": "48.1062,17.4179"
 },
@@ -15317,7 +15317,7 @@
 "LatLong": "48.0467,17.3902"
 },
 {
-"Name": "Blahová",
+"Name": "Horná Potôň - Lúky",
 "PostCode": "930 52",
 "LatLong": "48.0908,17.5131"
 },
@@ -15327,17 +15327,17 @@
 "LatLong": "48.0908,17.5131"
 },
 {
-"Name": "Orechová Potôň-Lúky",
-"PostCode": "930 52",
-"LatLong": "48.0908,17.5131"
-},
-{
-"Name": "Horná Potôň - Lúky",
-"PostCode": "930 52",
-"LatLong": "48.0908,17.5131"
-},
-{
 "Name": "Potônske Lúky",
+"PostCode": "930 52",
+"LatLong": "48.0908,17.5131"
+},
+{
+"Name": "Blahová",
+"PostCode": "930 52",
+"LatLong": "48.0908,17.5131"
+},
+{
+"Name": "Orechová Potôň-Lúky",
 "PostCode": "930 52",
 "LatLong": "48.0908,17.5131"
 },
@@ -15392,14 +15392,14 @@
 "LatLong": "48.2197,17.7286"
 },
 {
-"Name": "Galanta",
-"PostCode": "924 01",
-"LatLong": "48.19,17.7275"
-},
-{
 "Name": "Gáň",
 "PostCode": "924 01",
 "LatLong": "48.2291,17.7189"
+},
+{
+"Name": "Galanta",
+"PostCode": "924 01",
+"LatLong": "48.19,17.7275"
 },
 {
 "Name": "Javorinka",
@@ -15702,12 +15702,12 @@
 "LatLong": "48.4622,17.9436"
 },
 {
-"Name": "Horné Otrokovce",
+"Name": "Tekolďany",
 "PostCode": "920 62",
 "LatLong": "48.4365,17.8847"
 },
 {
-"Name": "Tekolďany",
+"Name": "Horné Otrokovce",
 "PostCode": "920 62",
 "LatLong": "48.4365,17.8847"
 },
@@ -15887,9 +15887,9 @@
 "LatLong": "48.6374,17.6335"
 },
 {
-"Name": "Moravany nad Váhom",
+"Name": "Ducové",
 "PostCode": "922 21",
-"LatLong": "48.6012,17.8583"
+"LatLong": "48.6096,17.8715"
 },
 {
 "Name": "Hubina",
@@ -15897,9 +15897,9 @@
 "LatLong": "48.6179,17.8847"
 },
 {
-"Name": "Ducové",
+"Name": "Moravany nad Váhom",
 "PostCode": "922 21",
-"LatLong": "48.6096,17.8715"
+"LatLong": "48.6012,17.8583"
 },
 {
 "Name": "Sokolovce",
@@ -15992,7 +15992,7 @@
 "LatLong": "48.7351,17.4073"
 },
 {
-"Name": "Javorec",
+"Name": "Švrčkov Jarok",
 "PostCode": "906 05",
 "LatLong": "48.7358,17.4311"
 },
@@ -16007,12 +16007,12 @@
 "LatLong": "48.7336,17.4523"
 },
 {
-"Name": "Horná Dolina",
+"Name": "Javorec",
 "PostCode": "906 05",
 "LatLong": "48.7358,17.4311"
 },
 {
-"Name": "Švrčkov Jarok",
+"Name": "Horná Dolina",
 "PostCode": "906 05",
 "LatLong": "48.7358,17.4311"
 },
@@ -16646,12 +16646,12 @@
 "LatLong": "48.609,18.21"
 },
 {
-"Name": "Rybany",
+"Name": "Pečeňany",
 "PostCode": "956 36",
 "LatLong": "48.609,18.21"
 },
 {
-"Name": "Pečeňany",
+"Name": "Rybany",
 "PostCode": "956 36",
 "LatLong": "48.609,18.21"
 },
@@ -16676,22 +16676,7 @@
 "LatLong": "48.609,18.21"
 },
 {
-"Name": "Šišov",
-"PostCode": "956 38",
-"LatLong": "48.6255,18.1917"
-},
-{
-"Name": "Libichava",
-"PostCode": "956 38",
-"LatLong": "48.6255,18.1917"
-},
-{
 "Name": "Pochabany",
-"PostCode": "956 38",
-"LatLong": "48.6255,18.1917"
-},
-{
-"Name": "Chudá Lehota",
 "PostCode": "956 38",
 "LatLong": "48.6255,18.1917"
 },
@@ -16701,7 +16686,22 @@
 "LatLong": "48.6255,18.1917"
 },
 {
-"Name": "Rakovec",
+"Name": "Šišov",
+"PostCode": "956 38",
+"LatLong": "48.6255,18.1917"
+},
+{
+"Name": "Chudá Lehota",
+"PostCode": "956 38",
+"LatLong": "48.6255,18.1917"
+},
+{
+"Name": "Libichava",
+"PostCode": "956 38",
+"LatLong": "48.6255,18.1917"
+},
+{
+"Name": "Horné Naštice",
 "PostCode": "956 41",
 "LatLong": "48.532,18.0794"
 },
@@ -16711,7 +16711,7 @@
 "LatLong": "48.532,18.0794"
 },
 {
-"Name": "Horné Naštice",
+"Name": "Závada p/Čier.vrchom",
 "PostCode": "956 41",
 "LatLong": "48.532,18.0794"
 },
@@ -16721,22 +16721,12 @@
 "LatLong": "48.532,18.0794"
 },
 {
-"Name": "Kšinná",
-"PostCode": "956 41",
-"LatLong": "48.532,18.0794"
-},
-{
-"Name": "Závada p/Čier.vrchom",
-"PostCode": "956 41",
-"LatLong": "48.532,18.0794"
-},
-{
-"Name": "Žitná",
-"PostCode": "956 41",
-"LatLong": "48.532,18.0794"
-},
-{
 "Name": "Omastiná",
+"PostCode": "956 41",
+"LatLong": "48.532,18.0794"
+},
+{
+"Name": "Rakovec",
 "PostCode": "956 41",
 "LatLong": "48.532,18.0794"
 },
@@ -16746,13 +16736,18 @@
 "LatLong": "48.532,18.0794"
 },
 {
-"Name": "Radiša",
+"Name": "Žitná",
 "PostCode": "956 41",
 "LatLong": "48.532,18.0794"
 },
 {
-"Name": "Podlužany",
-"PostCode": "956 52",
+"Name": "Kšinná",
+"PostCode": "956 41",
+"LatLong": "48.532,18.0794"
+},
+{
+"Name": "Radiša",
+"PostCode": "956 41",
 "LatLong": "48.532,18.0794"
 },
 {
@@ -16761,17 +16756,12 @@
 "LatLong": "48.532,18.0794"
 },
 {
-"Name": "Čierna Lehota",
-"PostCode": "956 53",
+"Name": "Podlužany",
+"PostCode": "956 52",
 "LatLong": "48.532,18.0794"
 },
 {
-"Name": "Slatina nad Bebravou",
-"PostCode": "956 53",
-"LatLong": "48.532,18.0794"
-},
-{
-"Name": "Slatinka n/Bebravou",
+"Name": "Šípkov",
 "PostCode": "956 53",
 "LatLong": "48.532,18.0794"
 },
@@ -16786,7 +16776,17 @@
 "LatLong": "48.532,18.0794"
 },
 {
-"Name": "Šípkov",
+"Name": "Slatina nad Bebravou",
+"PostCode": "956 53",
+"LatLong": "48.532,18.0794"
+},
+{
+"Name": "Čierna Lehota",
+"PostCode": "956 53",
+"LatLong": "48.532,18.0794"
+},
+{
+"Name": "Slatinka n/Bebravou",
 "PostCode": "956 53",
 "LatLong": "48.532,18.0794"
 },
@@ -16796,7 +16796,7 @@
 "LatLong": "48.532,18.0794"
 },
 {
-"Name": "Kochnáč",
+"Name": "Čuklasovce",
 "PostCode": "956 54",
 "LatLong": "48.532,18.0794"
 },
@@ -16806,12 +16806,7 @@
 "LatLong": "48.532,18.0794"
 },
 {
-"Name": "Čuklasovce",
-"PostCode": "956 54",
-"LatLong": "48.532,18.0794"
-},
-{
-"Name": "Dolné Držkovce",
+"Name": "Kochnáč",
 "PostCode": "956 54",
 "LatLong": "48.532,18.0794"
 },
@@ -16826,6 +16821,21 @@
 "LatLong": "48.532,18.0794"
 },
 {
+"Name": "Dolné Držkovce",
+"PostCode": "956 54",
+"LatLong": "48.532,18.0794"
+},
+{
+"Name": "Otrhánky",
+"PostCode": "956 55",
+"LatLong": "48.532,18.0794"
+},
+{
+"Name": "Dvorec",
+"PostCode": "956 55",
+"LatLong": "48.532,18.0794"
+},
+{
 "Name": "Veľké Chlievany",
 "PostCode": "956 55",
 "LatLong": "48.532,18.0794"
@@ -16836,17 +16846,7 @@
 "LatLong": "48.532,18.0794"
 },
 {
-"Name": "Dvorec",
-"PostCode": "956 55",
-"LatLong": "48.532,18.0794"
-},
-{
-"Name": "Otrhánky",
-"PostCode": "956 55",
-"LatLong": "48.532,18.0794"
-},
-{
-"Name": "Látkovce",
+"Name": "Miezgovce",
 "PostCode": "957 01",
 "LatLong": "48.4084,18.1537"
 },
@@ -16856,7 +16856,7 @@
 "LatLong": "48.4084,18.1537"
 },
 {
-"Name": "Brezolupy",
+"Name": "Malé Chlievany",
 "PostCode": "957 01",
 "LatLong": "48.4084,18.1537"
 },
@@ -16866,17 +16866,17 @@
 "LatLong": "48.4084,18.1537"
 },
 {
+"Name": "Látkovce",
+"PostCode": "957 01",
+"LatLong": "48.4084,18.1537"
+},
+{
 "Name": "Dolné Ozorovce",
 "PostCode": "957 01",
 "LatLong": "48.4084,18.1537"
 },
 {
-"Name": "Miezgovce",
-"PostCode": "957 01",
-"LatLong": "48.4084,18.1537"
-},
-{
-"Name": "Malé Chlievany",
+"Name": "Brezolupy",
 "PostCode": "957 01",
 "LatLong": "48.4084,18.1537"
 },
@@ -16886,7 +16886,7 @@
 "LatLong": "48.4084,18.1537"
 },
 {
-"Name": "Dežerice",
+"Name": "Prusy",
 "PostCode": "957 03",
 "LatLong": "48.4084,18.1537"
 },
@@ -16906,7 +16906,7 @@
 "LatLong": "48.4084,18.1537"
 },
 {
-"Name": "Prusy",
+"Name": "Dežerice",
 "PostCode": "957 03",
 "LatLong": "48.4084,18.1537"
 }
@@ -16921,17 +16921,7 @@
 {
 "Places": [
 {
-"Name": "Veľké Košecké Podhra",
-"PostCode": "018 31",
-"LatLong": "49.1135,18.2144"
-},
-{
 "Name": "Košecké Podhradie",
-"PostCode": "018 31",
-"LatLong": "49.1135,18.2144"
-},
-{
-"Name": "Kopec",
 "PostCode": "018 31",
 "LatLong": "49.1135,18.2144"
 },
@@ -16941,12 +16931,22 @@
 "LatLong": "49.1135,18.2144"
 },
 {
-"Name": "Zliechov",
-"PostCode": "018 32",
+"Name": "Kopec",
+"PostCode": "018 31",
+"LatLong": "49.1135,18.2144"
+},
+{
+"Name": "Veľké Košecké Podhra",
+"PostCode": "018 31",
 "LatLong": "49.1135,18.2144"
 },
 {
 "Name": "Košecké Rovné",
+"PostCode": "018 32",
+"LatLong": "49.1135,18.2144"
+},
+{
+"Name": "Zliechov",
 "PostCode": "018 32",
 "LatLong": "49.1135,18.2144"
 },
@@ -16971,17 +16971,17 @@
 "LatLong": "48.9348,18.1463"
 },
 {
-"Name": "Malý Kolačín",
-"PostCode": "018 51",
-"LatLong": "48.9348,18.1463"
-},
-{
 "Name": "Veľký Kolačín",
 "PostCode": "018 51",
 "LatLong": "48.9348,18.1463"
 },
 {
-"Name": "Dulov",
+"Name": "Malý Kolačín",
+"PostCode": "018 51",
+"LatLong": "48.9348,18.1463"
+},
+{
+"Name": "Savčina",
 "PostCode": "018 52",
 "LatLong": "48.9348,18.1463"
 },
@@ -16991,12 +16991,7 @@
 "LatLong": "48.9348,18.1463"
 },
 {
-"Name": "Savčina",
-"PostCode": "018 52",
-"LatLong": "48.9348,18.1463"
-},
-{
-"Name": "Podvažie",
+"Name": "Pruské",
 "PostCode": "018 52",
 "LatLong": "48.9348,18.1463"
 },
@@ -17006,18 +17001,18 @@
 "LatLong": "48.9348,18.1463"
 },
 {
+"Name": "Podvažie",
+"PostCode": "018 52",
+"LatLong": "48.9348,18.1463"
+},
+{
+"Name": "Dulov",
+"PostCode": "018 52",
+"LatLong": "48.9348,18.1463"
+},
+{
 "Name": "Krivoklát",
 "PostCode": "018 52",
-"LatLong": "48.9348,18.1463"
-},
-{
-"Name": "Pruské",
-"PostCode": "018 52",
-"LatLong": "48.9348,18.1463"
-},
-{
-"Name": "Borčice",
-"PostCode": "018 53",
 "LatLong": "48.9348,18.1463"
 },
 {
@@ -17026,17 +17021,12 @@
 "LatLong": "48.9348,18.1463"
 },
 {
+"Name": "Borčice",
+"PostCode": "018 53",
+"LatLong": "48.9348,18.1463"
+},
+{
 "Name": "Slavnica",
-"PostCode": "018 54",
-"LatLong": "48.9348,18.1463"
-},
-{
-"Name": "Podhorie",
-"PostCode": "018 54",
-"LatLong": "48.9348,18.1463"
-},
-{
-"Name": "Tlstá Hora",
 "PostCode": "018 54",
 "LatLong": "48.9348,18.1463"
 },
@@ -17047,6 +17037,16 @@
 },
 {
 "Name": "Kameničany",
+"PostCode": "018 54",
+"LatLong": "48.9348,18.1463"
+},
+{
+"Name": "Tlstá Hora",
+"PostCode": "018 54",
+"LatLong": "48.9348,18.1463"
+},
+{
+"Name": "Podhorie",
 "PostCode": "018 54",
 "LatLong": "48.9348,18.1463"
 },
@@ -17066,12 +17066,12 @@
 "LatLong": "48.9348,18.1463"
 },
 {
-"Name": "Tunežice",
+"Name": "Ladce",
 "PostCode": "018 63",
 "LatLong": "49.1135,18.2144"
 },
 {
-"Name": "Ladce",
+"Name": "Tunežice",
 "PostCode": "018 63",
 "LatLong": "49.1135,18.2144"
 },
@@ -17086,12 +17086,12 @@
 "LatLong": "49.1135,18.2144"
 },
 {
-"Name": "Iliavka",
+"Name": "Klobušice",
 "PostCode": "019 01",
 "LatLong": "49.2088,18.6786"
 },
 {
-"Name": "Klobušice",
+"Name": "Iliavka",
 "PostCode": "019 01",
 "LatLong": "49.2088,18.6786"
 },
@@ -17111,12 +17111,12 @@
 {
 "Places": [
 {
-"Name": "Vrbovce",
+"Name": "Chvojnica",
 "PostCode": "906 06",
 "LatLong": "48.7196,17.3468"
 },
 {
-"Name": "Chvojnica",
+"Name": "Vrbovce",
 "PostCode": "906 06",
 "LatLong": "48.7196,17.3468"
 },
@@ -17136,11 +17136,6 @@
 "LatLong": "48.6418,17.4564"
 },
 {
-"Name": "Košariská",
-"PostCode": "906 15",
-"LatLong": "48.6418,17.4564"
-},
-{
 "Name": "Horné Košariská",
 "PostCode": "906 15",
 "LatLong": "48.6418,17.4564"
@@ -17152,6 +17147,11 @@
 },
 {
 "Name": "Dolné Košariská",
+"PostCode": "906 15",
+"LatLong": "48.6418,17.4564"
+},
+{
+"Name": "Košariská",
 "PostCode": "906 15",
 "LatLong": "48.6418,17.4564"
 },
@@ -17191,12 +17191,12 @@
 "LatLong": "48.7451,17.5354"
 },
 {
-"Name": "Babulicov Vrch",
+"Name": "Kostolné",
 "PostCode": "916 13",
 "LatLong": "48.7559,17.7094"
 },
 {
-"Name": "Kostolné",
+"Name": "Babulicov Vrch",
 "PostCode": "916 13",
 "LatLong": "48.7559,17.7094"
 },
@@ -17211,17 +17211,12 @@
 "LatLong": "48.7559,17.7094"
 },
 {
-"Name": "Podvrch",
+"Name": "Matejovec",
 "PostCode": "916 16",
 "LatLong": "48.7559,17.7094"
 },
 {
-"Name": "Krajné",
-"PostCode": "916 16",
-"LatLong": "48.7559,17.7094"
-},
-{
-"Name": "Luskovica",
+"Name": "Zbehy",
 "PostCode": "916 16",
 "LatLong": "48.7559,17.7094"
 },
@@ -17231,12 +17226,17 @@
 "LatLong": "48.7559,17.7094"
 },
 {
-"Name": "Matejovec",
+"Name": "Luskovica",
 "PostCode": "916 16",
 "LatLong": "48.7559,17.7094"
 },
 {
-"Name": "Zbehy",
+"Name": "Krajné",
+"PostCode": "916 16",
+"LatLong": "48.7559,17.7094"
+},
+{
+"Name": "Podvrch",
 "PostCode": "916 16",
 "LatLong": "48.7559,17.7094"
 },
@@ -17261,7 +17261,7 @@
 "LatLong": "48.8511,17.9228"
 },
 {
-"Name": "Haluzice",
+"Name": "Bošáca",
 "PostCode": "913 07",
 "LatLong": "48.8511,17.9228"
 },
@@ -17271,12 +17271,12 @@
 "LatLong": "48.8511,17.9228"
 },
 {
-"Name": "Zemianske Podhradie",
+"Name": "Haluzice",
 "PostCode": "913 07",
 "LatLong": "48.8511,17.9228"
 },
 {
-"Name": "Bošáca",
+"Name": "Zemianske Podhradie",
 "PostCode": "913 07",
 "LatLong": "48.8511,17.9228"
 },
@@ -17306,7 +17306,7 @@
 "LatLong": "48.7559,17.7094"
 },
 {
-"Name": "Stará Turá",
+"Name": "Černochov Vrch",
 "PostCode": "916 01",
 "LatLong": "48.7559,17.7094"
 },
@@ -17316,7 +17316,7 @@
 "LatLong": "48.7559,17.7094"
 },
 {
-"Name": "Černochov Vrch",
+"Name": "Stará Turá",
 "PostCode": "916 01",
 "LatLong": "48.7559,17.7094"
 },
@@ -17331,17 +17331,17 @@
 "LatLong": "48.7559,17.7094"
 },
 {
+"Name": "Hrušové",
+"PostCode": "916 11",
+"LatLong": "48.7559,17.7094"
+},
+{
 "Name": "Cetuna",
 "PostCode": "916 11",
 "LatLong": "48.7559,17.7094"
 },
 {
 "Name": "Bzince pod Javorinou",
-"PostCode": "916 11",
-"LatLong": "48.7559,17.7094"
-},
-{
-"Name": "Hrušové",
 "PostCode": "916 11",
 "LatLong": "48.7559,17.7094"
 },
@@ -17476,7 +17476,7 @@
 "LatLong": "48.7559,17.7094"
 },
 {
-"Name": "Stará Lehota",
+"Name": "Modrovka",
 "PostCode": "916 35",
 "LatLong": "48.7559,17.7094"
 },
@@ -17486,7 +17486,7 @@
 "LatLong": "48.7559,17.7094"
 },
 {
-"Name": "Modrovka",
+"Name": "Stará Lehota",
 "PostCode": "916 35",
 "LatLong": "48.7559,17.7094"
 },
@@ -17546,12 +17546,12 @@
 "LatLong": "48.4839,18.1399"
 },
 {
-"Name": "Nadlice",
+"Name": "Livinské Opatovce",
 "PostCode": "956 32",
 "LatLong": "48.61,18.2338"
 },
 {
-"Name": "Livinské Opatovce",
+"Name": "Nadlice",
 "PostCode": "956 32",
 "LatLong": "48.61,18.2338"
 },
@@ -17566,11 +17566,6 @@
 "LatLong": "48.609,18.21"
 },
 {
-"Name": "Veľké Ostratice",
-"PostCode": "956 34",
-"LatLong": "48.609,18.21"
-},
-{
 "Name": "Malé Ostratice",
 "PostCode": "956 34",
 "LatLong": "48.609,18.21"
@@ -17581,14 +17576,9 @@
 "LatLong": "48.609,18.21"
 },
 {
-"Name": "Malé Uherce",
-"PostCode": "958 03",
-"LatLong": "48.4084,18.1537"
-},
-{
-"Name": "Veľké Kršteňany",
-"PostCode": "958 03",
-"LatLong": "48.4084,18.1537"
+"Name": "Veľké Ostratice",
+"PostCode": "956 34",
+"LatLong": "48.609,18.21"
 },
 {
 "Name": "Pažiť",
@@ -17598,6 +17588,21 @@
 {
 "Name": "Malé Kršteňany",
 "PostCode": "958 03",
+"LatLong": "48.4084,18.1537"
+},
+{
+"Name": "Veľké Kršteňany",
+"PostCode": "958 03",
+"LatLong": "48.4084,18.1537"
+},
+{
+"Name": "Malé Uherce",
+"PostCode": "958 03",
+"LatLong": "48.4084,18.1537"
+},
+{
+"Name": "Návojovce",
+"PostCode": "958 04",
 "LatLong": "48.4084,18.1537"
 },
 {
@@ -17611,17 +17616,12 @@
 "LatLong": "48.4084,18.1537"
 },
 {
-"Name": "Návojovce",
-"PostCode": "958 04",
-"LatLong": "48.4084,18.1537"
-},
-{
-"Name": "Veľké Uherce",
+"Name": "Kolačno",
 "PostCode": "958 41",
 "LatLong": "48.4084,18.1537"
 },
 {
-"Name": "Kolačno",
+"Name": "Veľké Uherce",
 "PostCode": "958 41",
 "LatLong": "48.4084,18.1537"
 },
@@ -17631,22 +17631,22 @@
 "LatLong": "48.4084,18.1537"
 },
 {
-"Name": "Krásno",
-"PostCode": "958 43",
-"LatLong": "48.4084,18.1537"
-},
-{
 "Name": "Nedanovce",
 "PostCode": "958 43",
 "LatLong": "48.4084,18.1537"
 },
 {
-"Name": "Klátova Nová Ves",
-"PostCode": "958 44",
+"Name": "Krásno",
+"PostCode": "958 43",
 "LatLong": "48.4084,18.1537"
 },
 {
 "Name": "Turčianky",
+"PostCode": "958 44",
+"LatLong": "48.4084,18.1537"
+},
+{
+"Name": "Klátova Nová Ves",
 "PostCode": "958 44",
 "LatLong": "48.4084,18.1537"
 },
@@ -17661,12 +17661,12 @@
 "LatLong": "48.4084,18.1537"
 },
 {
-"Name": "Veľký Klíž",
+"Name": "Klížske Hradište",
 "PostCode": "958 45",
 "LatLong": "48.4084,18.1537"
 },
 {
-"Name": "Klížske Hradište",
+"Name": "Ješkova Ves",
 "PostCode": "958 45",
 "LatLong": "48.4084,18.1537"
 },
@@ -17676,7 +17676,7 @@
 "LatLong": "48.4084,18.1537"
 },
 {
-"Name": "Ješkova Ves",
+"Name": "Veľký Klíž",
 "PostCode": "958 45",
 "LatLong": "48.4084,18.1537"
 },
@@ -17706,27 +17706,7 @@
 {
 "Places": [
 {
-"Name": "Podmanín",
-"PostCode": "017 01",
-"LatLong": "49.2088,18.6786"
-},
-{
-"Name": "Dolný Moštenec",
-"PostCode": "017 01",
-"LatLong": "49.2088,18.6786"
-},
-{
-"Name": "Praznov",
-"PostCode": "017 01",
-"LatLong": "49.2088,18.6786"
-},
-{
 "Name": "Orlové",
-"PostCode": "017 01",
-"LatLong": "49.2088,18.6786"
-},
-{
-"Name": "Sverepec",
 "PostCode": "017 01",
 "LatLong": "49.2088,18.6786"
 },
@@ -17736,7 +17716,27 @@
 "LatLong": "49.2088,18.6786"
 },
 {
-"Name": "Považské Podhradie",
+"Name": "Praznov",
+"PostCode": "017 01",
+"LatLong": "49.2088,18.6786"
+},
+{
+"Name": "Dolný Moštenec",
+"PostCode": "017 01",
+"LatLong": "49.2088,18.6786"
+},
+{
+"Name": "Sverepec",
+"PostCode": "017 01",
+"LatLong": "49.2088,18.6786"
+},
+{
+"Name": "Podmanín",
+"PostCode": "017 01",
+"LatLong": "49.2088,18.6786"
+},
+{
+"Name": "Šebešťanová",
 "PostCode": "017 04",
 "LatLong": "49.2088,18.6786"
 },
@@ -17746,12 +17746,12 @@
 "LatLong": "49.2088,18.6786"
 },
 {
-"Name": "Šebešťanová",
+"Name": "Považské Podhradie",
 "PostCode": "017 04",
 "LatLong": "49.2088,18.6786"
 },
 {
-"Name": "Považská Teplá",
+"Name": "Kostolec",
 "PostCode": "017 05",
 "LatLong": "49.2088,18.6786"
 },
@@ -17761,17 +17761,17 @@
 "LatLong": "49.2088,18.6786"
 },
 {
-"Name": "Vrchteplá",
-"PostCode": "017 05",
-"LatLong": "49.2088,18.6786"
-},
-{
 "Name": "Záskalie",
 "PostCode": "017 05",
 "LatLong": "49.2088,18.6786"
 },
 {
-"Name": "Kostolec",
+"Name": "Považská Teplá",
+"PostCode": "017 05",
+"LatLong": "49.2088,18.6786"
+},
+{
+"Name": "Vrchteplá",
 "PostCode": "017 05",
 "LatLong": "49.2088,18.6786"
 },
@@ -17786,18 +17786,28 @@
 "LatLong": "49.2088,18.6786"
 },
 {
-"Name": "Upohlav",
+"Name": "Udiča",
 "PostCode": "018 01",
 "LatLong": "49.2921,18.2824"
 },
 {
-"Name": "Udiča",
+"Name": "Upohlav",
 "PostCode": "018 01",
 "LatLong": "49.2921,18.2824"
 },
 {
 "Name": "Prosné",
 "PostCode": "018 01",
+"LatLong": "49.2921,18.2824"
+},
+{
+"Name": "Dolná Mariková",
+"PostCode": "018 02",
+"LatLong": "49.2921,18.2824"
+},
+{
+"Name": "Hadoše",
+"PostCode": "018 02",
 "LatLong": "49.2921,18.2824"
 },
 {
@@ -17811,7 +17821,7 @@
 "LatLong": "49.2921,18.2824"
 },
 {
-"Name": "Hadoše",
+"Name": "Hatné",
 "PostCode": "018 02",
 "LatLong": "49.2921,18.2824"
 },
@@ -17821,62 +17831,7 @@
 "LatLong": "49.2921,18.2824"
 },
 {
-"Name": "Hatné",
-"PostCode": "018 02",
-"LatLong": "49.2921,18.2824"
-},
-{
-"Name": "Dolná Mariková",
-"PostCode": "018 02",
-"LatLong": "49.2921,18.2824"
-},
-{
 "Name": "Ráztoka",
-"PostCode": "018 03",
-"LatLong": "49.2921,18.2824"
-},
-{
-"Name": "Hlboké",
-"PostCode": "018 03",
-"LatLong": "49.2921,18.2824"
-},
-{
-"Name": "Modlatín",
-"PostCode": "018 03",
-"LatLong": "49.2921,18.2824"
-},
-{
-"Name": "Belejov",
-"PostCode": "018 03",
-"LatLong": "49.2921,18.2824"
-},
-{
-"Name": "Horná Mariková",
-"PostCode": "018 03",
-"LatLong": "49.2921,18.2824"
-},
-{
-"Name": "Rovné",
-"PostCode": "018 03",
-"LatLong": "49.2921,18.2824"
-},
-{
-"Name": "Pagaňov",
-"PostCode": "018 03",
-"LatLong": "49.2921,18.2824"
-},
-{
-"Name": "Stolečné",
-"PostCode": "018 03",
-"LatLong": "49.2921,18.2824"
-},
-{
-"Name": "Vlkov",
-"PostCode": "018 03",
-"LatLong": "49.2921,18.2824"
-},
-{
-"Name": "Žrnové",
 "PostCode": "018 03",
 "LatLong": "49.2921,18.2824"
 },
@@ -17886,12 +17841,57 @@
 "LatLong": "49.2921,18.2824"
 },
 {
-"Name": "Brvnište",
+"Name": "Belejov",
+"PostCode": "018 03",
+"LatLong": "49.2921,18.2824"
+},
+{
+"Name": "Žrnové",
+"PostCode": "018 03",
+"LatLong": "49.2921,18.2824"
+},
+{
+"Name": "Vlkov",
+"PostCode": "018 03",
+"LatLong": "49.2921,18.2824"
+},
+{
+"Name": "Pagaňov",
+"PostCode": "018 03",
+"LatLong": "49.2921,18.2824"
+},
+{
+"Name": "Hlboké",
+"PostCode": "018 03",
+"LatLong": "49.2921,18.2824"
+},
+{
+"Name": "Rovné",
+"PostCode": "018 03",
+"LatLong": "49.2921,18.2824"
+},
+{
+"Name": "Horná Mariková",
+"PostCode": "018 03",
+"LatLong": "49.2921,18.2824"
+},
+{
+"Name": "Modlatín",
+"PostCode": "018 03",
+"LatLong": "49.2921,18.2824"
+},
+{
+"Name": "Stolečné",
+"PostCode": "018 03",
+"LatLong": "49.2921,18.2824"
+},
+{
+"Name": "Stupné",
 "PostCode": "018 12",
 "LatLong": "49.1135,18.2144"
 },
 {
-"Name": "Stupné",
+"Name": "Brvnište",
 "PostCode": "018 12",
 "LatLong": "49.1135,18.2144"
 },
@@ -17906,12 +17906,12 @@
 "LatLong": "49.1135,18.2144"
 },
 {
-"Name": "Zemianska Závada",
+"Name": "Prečín",
 "PostCode": "018 15",
 "LatLong": "49.1135,18.2144"
 },
 {
-"Name": "Prečín",
+"Name": "Počarová",
 "PostCode": "018 15",
 "LatLong": "49.1135,18.2144"
 },
@@ -17921,8 +17921,13 @@
 "LatLong": "49.1135,18.2144"
 },
 {
-"Name": "Počarová",
+"Name": "Zemianska Závada",
 "PostCode": "018 15",
+"LatLong": "49.1135,18.2144"
+},
+{
+"Name": "Čelkova Lehota",
+"PostCode": "018 16",
 "LatLong": "49.1135,18.2144"
 },
 {
@@ -17941,11 +17946,6 @@
 "LatLong": "49.1135,18.2144"
 },
 {
-"Name": "Čelkova Lehota",
-"PostCode": "018 16",
-"LatLong": "49.1135,18.2144"
-},
-{
 "Name": "Sádočné",
 "PostCode": "018 16",
 "LatLong": "49.1135,18.2144"
@@ -17956,22 +17956,7 @@
 "LatLong": "49.1135,18.2144"
 },
 {
-"Name": "Lieskov-Hor. Lieskov",
-"PostCode": "018 21",
-"LatLong": "49.1135,18.2144"
-},
-{
 "Name": "Horný Lieskov",
-"PostCode": "018 21",
-"LatLong": "49.1135,18.2144"
-},
-{
-"Name": "Lieskov-Dol. Lieskov",
-"PostCode": "018 21",
-"LatLong": "49.1135,18.2144"
-},
-{
-"Name": "Dolný Lieskov",
 "PostCode": "018 21",
 "LatLong": "49.1135,18.2144"
 },
@@ -17981,7 +17966,37 @@
 "LatLong": "49.1135,18.2144"
 },
 {
+"Name": "Dolný Lieskov",
+"PostCode": "018 21",
+"LatLong": "49.1135,18.2144"
+},
+{
+"Name": "Lieskov-Hor. Lieskov",
+"PostCode": "018 21",
+"LatLong": "49.1135,18.2144"
+},
+{
+"Name": "Lieskov-Dol. Lieskov",
+"PostCode": "018 21",
+"LatLong": "49.1135,18.2144"
+},
+{
+"Name": "Briestenné",
+"PostCode": "018 22",
+"LatLong": "49.1135,18.2144"
+},
+{
 "Name": "Pružina",
+"PostCode": "018 22",
+"LatLong": "49.1135,18.2144"
+},
+{
+"Name": "Lieskov - Podskalie",
+"PostCode": "018 22",
+"LatLong": "49.1135,18.2144"
+},
+{
+"Name": "Podskalie",
 "PostCode": "018 22",
 "LatLong": "49.1135,18.2144"
 },
@@ -17996,22 +18011,7 @@
 "LatLong": "49.1135,18.2144"
 },
 {
-"Name": "Lieskov - Podskalie",
-"PostCode": "018 22",
-"LatLong": "49.1135,18.2144"
-},
-{
 "Name": "Lieskov - Tŕstie",
-"PostCode": "018 22",
-"LatLong": "49.1135,18.2144"
-},
-{
-"Name": "Podskalie",
-"PostCode": "018 22",
-"LatLong": "49.1135,18.2144"
-},
-{
-"Name": "Briestenné",
 "PostCode": "018 22",
 "LatLong": "49.1135,18.2144"
 },
@@ -18031,42 +18031,7 @@
 {
 "Places": [
 {
-"Name": "Cigeľ",
-"PostCode": "971 01",
-"LatLong": "48.7357,19.4638"
-},
-{
-"Name": "Staré Mesto-Priev.",
-"PostCode": "971 01",
-"LatLong": "48.7357,19.4638"
-},
-{
-"Name": "Štvrte - Prievidza V",
-"PostCode": "971 01",
-"LatLong": "48.7357,19.4638"
-},
-{
-"Name": "Veľká Čausa",
-"PostCode": "971 01",
-"LatLong": "48.7357,19.4638"
-},
-{
 "Name": "Kopanice-Priev. IV",
-"PostCode": "971 01",
-"LatLong": "48.7357,19.4638"
-},
-{
-"Name": "Malá Čausa",
-"PostCode": "971 01",
-"LatLong": "48.7357,19.4638"
-},
-{
-"Name": "Prievidza",
-"PostCode": "971 01",
-"LatLong": "48.7357,19.4638"
-},
-{
-"Name": "Necpaly-Prievid. III",
 "PostCode": "971 01",
 "LatLong": "48.7357,19.4638"
 },
@@ -18076,7 +18041,42 @@
 "LatLong": "48.7357,19.4638"
 },
 {
+"Name": "Štvrte - Prievidza V",
+"PostCode": "971 01",
+"LatLong": "48.7357,19.4638"
+},
+{
 "Name": "Kúty",
+"PostCode": "971 01",
+"LatLong": "48.7357,19.4638"
+},
+{
+"Name": "Prievidza",
+"PostCode": "971 01",
+"LatLong": "48.7357,19.4638"
+},
+{
+"Name": "Veľká Čausa",
+"PostCode": "971 01",
+"LatLong": "48.7357,19.4638"
+},
+{
+"Name": "Staré Mesto-Priev.",
+"PostCode": "971 01",
+"LatLong": "48.7357,19.4638"
+},
+{
+"Name": "Malá Čausa",
+"PostCode": "971 01",
+"LatLong": "48.7357,19.4638"
+},
+{
+"Name": "Cigeľ",
+"PostCode": "971 01",
+"LatLong": "48.7357,19.4638"
+},
+{
+"Name": "Necpaly-Prievid. III",
 "PostCode": "971 01",
 "LatLong": "48.7357,19.4638"
 },
@@ -18086,12 +18086,12 @@
 "LatLong": "48.9348,18.1463"
 },
 {
-"Name": "Bojnice - kúpele",
+"Name": "Šutovce",
 "PostCode": "972 01",
 "LatLong": "48.9348,18.1463"
 },
 {
-"Name": "Šutovce",
+"Name": "Bojnice - kúpele",
 "PostCode": "972 01",
 "LatLong": "48.9348,18.1463"
 },
@@ -18101,12 +18101,12 @@
 "LatLong": "48.9348,18.1463"
 },
 {
-"Name": "Opatovce nad Nitrou",
+"Name": "Kocurany",
 "PostCode": "972 02",
 "LatLong": "48.9348,18.1463"
 },
 {
-"Name": "Kocurany",
+"Name": "Opatovce nad Nitrou",
 "PostCode": "972 02",
 "LatLong": "48.9348,18.1463"
 },
@@ -18131,17 +18131,17 @@
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Brezany",
-"PostCode": "972 12",
-"LatLong": "49.0355,18.8879"
-},
-{
 "Name": "Nedožery - Brezany",
 "PostCode": "972 12",
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Vyšehradné",
+"Name": "Brezany",
+"PostCode": "972 12",
+"LatLong": "49.0355,18.8879"
+},
+{
+"Name": "Nitrianske Pravno",
 "PostCode": "972 13",
 "LatLong": "49.0355,18.8879"
 },
@@ -18151,17 +18151,17 @@
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Malinová",
-"PostCode": "972 13",
-"LatLong": "49.0355,18.8879"
-},
-{
 "Name": "Solka",
 "PostCode": "972 13",
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Nitrianske Pravno",
+"Name": "Vyšehradné",
+"PostCode": "972 13",
+"LatLong": "49.0355,18.8879"
+},
+{
+"Name": "Malinová",
 "PostCode": "972 13",
 "LatLong": "49.0355,18.8879"
 },
@@ -18176,12 +18176,12 @@
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Pravenec",
+"Name": "Poluvsie",
 "PostCode": "972 16",
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Poluvsie",
+"Name": "Pravenec",
 "PostCode": "972 16",
 "LatLong": "49.0355,18.8879"
 },
@@ -18196,7 +18196,7 @@
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Horné Vestenice",
+"Name": "Dvorníky n/ Nitricou",
 "PostCode": "972 22",
 "LatLong": "49.0355,18.8879"
 },
@@ -18206,7 +18206,7 @@
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Dvorníky n/ Nitricou",
+"Name": "Horné Vestenice",
 "PostCode": "972 22",
 "LatLong": "49.0355,18.8879"
 },
@@ -18221,22 +18221,22 @@
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Diviacka Nová Ves",
-"PostCode": "972 24",
-"LatLong": "49.0355,18.8879"
-},
-{
 "Name": "Vrbany",
 "PostCode": "972 24",
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Mačov",
+"Name": "Diviacka Nová Ves",
+"PostCode": "972 24",
+"LatLong": "49.0355,18.8879"
+},
+{
+"Name": "Banky",
 "PostCode": "972 25",
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Diviaky nad Nitricou",
+"Name": "Mačov",
 "PostCode": "972 25",
 "LatLong": "49.0355,18.8879"
 },
@@ -18246,7 +18246,7 @@
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Banky",
+"Name": "Diviaky nad Nitricou",
 "PostCode": "972 25",
 "LatLong": "49.0355,18.8879"
 },
@@ -18261,16 +18261,6 @@
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Kostolná Ves",
-"PostCode": "972 26",
-"LatLong": "49.0355,18.8879"
-},
-{
-"Name": "Dlžín",
-"PostCode": "972 26",
-"LatLong": "49.0355,18.8879"
-},
-{
 "Name": "Rudnianska Lehota",
 "PostCode": "972 26",
 "LatLong": "49.0355,18.8879"
@@ -18281,12 +18271,17 @@
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Nevidzany",
-"PostCode": "972 27",
+"Name": "Kostolná Ves",
+"PostCode": "972 26",
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Liešťany",
+"Name": "Dlžín",
+"PostCode": "972 26",
+"LatLong": "49.0355,18.8879"
+},
+{
+"Name": "Nevidzany",
 "PostCode": "972 27",
 "LatLong": "49.0355,18.8879"
 },
@@ -18301,22 +18296,17 @@
 "LatLong": "49.0355,18.8879"
 },
 {
+"Name": "Liešťany",
+"PostCode": "972 27",
+"LatLong": "49.0355,18.8879"
+},
+{
 "Name": "Matušíková",
 "PostCode": "972 28",
 "LatLong": "49.0355,18.8879"
 },
 {
 "Name": "Škrípov",
-"PostCode": "972 28",
-"LatLong": "49.0355,18.8879"
-},
-{
-"Name": "Valaská Belá",
-"PostCode": "972 28",
-"LatLong": "49.0355,18.8879"
-},
-{
-"Name": "Stanáková",
 "PostCode": "972 28",
 "LatLong": "49.0355,18.8879"
 },
@@ -18331,12 +18321,22 @@
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Biela Voda",
-"PostCode": "972 29",
+"Name": "Stanáková",
+"PostCode": "972 28",
+"LatLong": "49.0355,18.8879"
+},
+{
+"Name": "Valaská Belá",
+"PostCode": "972 28",
 "LatLong": "49.0355,18.8879"
 },
 {
 "Name": "Temeš",
+"PostCode": "972 29",
+"LatLong": "49.0355,18.8879"
+},
+{
+"Name": "Biela Voda",
 "PostCode": "972 29",
 "LatLong": "49.0355,18.8879"
 },
@@ -18351,13 +18351,18 @@
 "LatLong": "49.1363,19.6295"
 },
 {
+"Name": "Ráztočno",
+"PostCode": "972 31",
+"LatLong": "49.1363,19.6295"
+},
+{
 "Name": "Morovno",
 "PostCode": "972 31",
 "LatLong": "49.1363,19.6295"
 },
 {
-"Name": "Ráztočno",
-"PostCode": "972 31",
+"Name": "Brusno",
+"PostCode": "972 32",
 "LatLong": "49.1363,19.6295"
 },
 {
@@ -18367,11 +18372,6 @@
 },
 {
 "Name": "Chrenovec - Brusno",
-"PostCode": "972 32",
-"LatLong": "49.1363,19.6295"
-},
-{
-"Name": "Brusno",
 "PostCode": "972 32",
 "LatLong": "49.1363,19.6295"
 },
@@ -18391,11 +18391,6 @@
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Malá Lehota",
-"PostCode": "972 42",
-"LatLong": "49.0355,18.8879"
-},
-{
 "Name": "Podhradie",
 "PostCode": "972 42",
 "LatLong": "49.0355,18.8879"
@@ -18406,12 +18401,17 @@
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Zemianske Kostoľany",
-"PostCode": "972 43",
+"Name": "Malá Lehota",
+"PostCode": "972 42",
 "LatLong": "49.0355,18.8879"
 },
 {
 "Name": "Dolné Lelovce",
+"PostCode": "972 43",
+"LatLong": "49.0355,18.8879"
+},
+{
+"Name": "Zemianske Kostoľany",
 "PostCode": "972 43",
 "LatLong": "49.0355,18.8879"
 },
@@ -18421,7 +18421,7 @@
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Chalmová",
+"Name": "Vieska",
 "PostCode": "972 45",
 "LatLong": "49.0355,18.8879"
 },
@@ -18431,13 +18431,8 @@
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Vieska",
+"Name": "Chalmová",
 "PostCode": "972 45",
-"LatLong": "49.0355,18.8879"
-},
-{
-"Name": "Čereňany",
-"PostCode": "972 46",
 "LatLong": "49.0355,18.8879"
 },
 {
@@ -18446,8 +18441,8 @@
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Oslany",
-"PostCode": "972 47",
+"Name": "Čereňany",
+"PostCode": "972 46",
 "LatLong": "49.0355,18.8879"
 },
 {
@@ -18456,7 +18451,17 @@
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Banská",
+"Name": "Oslany",
+"PostCode": "972 47",
+"LatLong": "49.0355,18.8879"
+},
+{
+"Name": "Cerová",
+"PostCode": "972 48",
+"LatLong": "49.0355,18.8879"
+},
+{
+"Name": "Horná Ves",
 "PostCode": "972 48",
 "LatLong": "49.0355,18.8879"
 },
@@ -18471,17 +18476,12 @@
 "LatLong": "49.0355,18.8879"
 },
 {
-"Name": "Horná Ves",
+"Name": "Banská",
 "PostCode": "972 48",
 "LatLong": "49.0355,18.8879"
 },
 {
 "Name": "Radobica",
-"PostCode": "972 48",
-"LatLong": "49.0355,18.8879"
-},
-{
-"Name": "Cerová",
 "PostCode": "972 48",
 "LatLong": "49.0355,18.8879"
 },
@@ -18501,17 +18501,17 @@
 "LatLong": "49.0355,18.8879"
 },
 {
+"Name": "Horné Lelovce",
+"PostCode": "972 71",
+"LatLong": "49.0355,18.8879"
+},
+{
 "Name": "Laskár",
 "PostCode": "972 71",
 "LatLong": "49.0355,18.8879"
 },
 {
 "Name": "Nováky",
-"PostCode": "972 71",
-"LatLong": "49.0355,18.8879"
-},
-{
-"Name": "Horné Lelovce",
 "PostCode": "972 71",
 "LatLong": "49.0355,18.8879"
 }
@@ -18526,7 +18526,7 @@
 {
 "Places": [
 {
-"Name": "Hloža",
+"Name": "Visolaje",
 "PostCode": "018 61",
 "LatLong": "49.1135,18.2144"
 },
@@ -18536,7 +18536,7 @@
 "LatLong": "49.1135,18.2144"
 },
 {
-"Name": "Visolaje",
+"Name": "Hloža",
 "PostCode": "018 61",
 "LatLong": "49.1135,18.2144"
 },
@@ -18546,12 +18546,7 @@
 "LatLong": "49.1135,18.2144"
 },
 {
-"Name": "Hrabovka",
-"PostCode": "020 01",
-"LatLong": "49.1969,18.1537"
-},
-{
-"Name": "Streženice",
+"Name": "Dolné Kočkovce",
 "PostCode": "020 01",
 "LatLong": "49.1969,18.1537"
 },
@@ -18561,27 +18556,7 @@
 "LatLong": "49.1969,18.1537"
 },
 {
-"Name": "Dolné Kočkovce",
-"PostCode": "020 01",
-"LatLong": "49.1969,18.1537"
-},
-{
-"Name": "Púchov",
-"PostCode": "020 01",
-"LatLong": "49.1969,18.1537"
-},
-{
-"Name": "Vieska - Bezdedov",
-"PostCode": "020 01",
-"LatLong": "49.1969,18.1537"
-},
-{
 "Name": "Bezdedov - Vieska",
-"PostCode": "020 01",
-"LatLong": "49.1969,18.1537"
-},
-{
-"Name": "Nosice",
 "PostCode": "020 01",
 "LatLong": "49.1969,18.1537"
 },
@@ -18591,8 +18566,38 @@
 "LatLong": "49.1969,18.1537"
 },
 {
+"Name": "Streženice",
+"PostCode": "020 01",
+"LatLong": "49.1969,18.1537"
+},
+{
+"Name": "Hrabovka",
+"PostCode": "020 01",
+"LatLong": "49.1969,18.1537"
+},
+{
+"Name": "Nosice",
+"PostCode": "020 01",
+"LatLong": "49.1969,18.1537"
+},
+{
 "Name": "Hoštiná",
 "PostCode": "020 01",
+"LatLong": "49.1969,18.1537"
+},
+{
+"Name": "Vieska - Bezdedov",
+"PostCode": "020 01",
+"LatLong": "49.1969,18.1537"
+},
+{
+"Name": "Púchov",
+"PostCode": "020 01",
+"LatLong": "49.1969,18.1537"
+},
+{
+"Name": "Dohňany",
+"PostCode": "020 51",
 "LatLong": "49.1969,18.1537"
 },
 {
@@ -18602,11 +18607,6 @@
 },
 {
 "Name": "Zbora",
-"PostCode": "020 51",
-"LatLong": "49.1969,18.1537"
-},
-{
-"Name": "Dohňany",
 "PostCode": "020 51",
 "LatLong": "49.1969,18.1537"
 },
@@ -18621,17 +18621,7 @@
 "LatLong": "49.1969,18.1537"
 },
 {
-"Name": "Lúky",
-"PostCode": "020 53",
-"LatLong": "49.1969,18.1537"
-},
-{
 "Name": "Gaškovce",
-"PostCode": "020 53",
-"LatLong": "49.1969,18.1537"
-},
-{
-"Name": "Vydrná",
 "PostCode": "020 53",
 "LatLong": "49.1969,18.1537"
 },
@@ -18641,7 +18631,17 @@
 "LatLong": "49.1969,18.1537"
 },
 {
+"Name": "Vydrná",
+"PostCode": "020 53",
+"LatLong": "49.1969,18.1537"
+},
+{
 "Name": "Pasiečka",
+"PostCode": "020 53",
+"LatLong": "49.1969,18.1537"
+},
+{
+"Name": "Lúky",
 "PostCode": "020 53",
 "LatLong": "49.1969,18.1537"
 },
@@ -18661,28 +18661,13 @@
 "LatLong": "49.1969,18.1537"
 },
 {
-"Name": "Dubková",
-"PostCode": "020 55",
-"LatLong": "49.1969,18.1537"
-},
-{
 "Name": "Lazy pod Makytou",
 "PostCode": "020 55",
 "LatLong": "49.1969,18.1537"
 },
 {
-"Name": "Horná Breznica",
-"PostCode": "020 61",
-"LatLong": "49.1969,18.1537"
-},
-{
-"Name": "Medné",
-"PostCode": "020 61",
-"LatLong": "49.1969,18.1537"
-},
-{
-"Name": "Horenická Hôrka",
-"PostCode": "020 61",
+"Name": "Dubková",
+"PostCode": "020 55",
 "LatLong": "49.1969,18.1537"
 },
 {
@@ -18696,7 +18681,22 @@
 "LatLong": "49.1969,18.1537"
 },
 {
-"Name": "Horovce",
+"Name": "Medné",
+"PostCode": "020 61",
+"LatLong": "49.1969,18.1537"
+},
+{
+"Name": "Horná Breznica",
+"PostCode": "020 61",
+"LatLong": "49.1969,18.1537"
+},
+{
+"Name": "Horenická Hôrka",
+"PostCode": "020 61",
+"LatLong": "49.1969,18.1537"
+},
+{
+"Name": "Kvašov",
 "PostCode": "020 62",
 "LatLong": "49.1969,18.1537"
 },
@@ -18706,7 +18706,7 @@
 "LatLong": "49.1969,18.1537"
 },
 {
-"Name": "Kvašov",
+"Name": "Horovce",
 "PostCode": "020 62",
 "LatLong": "49.1969,18.1537"
 },
@@ -18741,17 +18741,7 @@
 {
 "Places": [
 {
-"Name": "Kubrica",
-"PostCode": "911 01",
-"LatLong": "48.8945,18.0444"
-},
-{
 "Name": "Opatová",
-"PostCode": "911 01",
-"LatLong": "48.8945,18.0444"
-},
-{
-"Name": "Kubrá",
 "PostCode": "911 01",
 "LatLong": "48.8945,18.0444"
 },
@@ -18761,12 +18751,22 @@
 "LatLong": "48.8945,18.0444"
 },
 {
+"Name": "Kubrá",
+"PostCode": "911 01",
+"LatLong": "48.8945,18.0444"
+},
+{
+"Name": "Kubrica",
+"PostCode": "911 01",
+"LatLong": "48.8945,18.0444"
+},
+{
 "Name": "Zamarovce",
 "PostCode": "911 05",
 "LatLong": "48.8945,18.0444"
 },
 {
-"Name": "Istebník",
+"Name": "Orechové",
 "PostCode": "911 05",
 "LatLong": "48.8945,18.0444"
 },
@@ -18776,7 +18776,7 @@
 "LatLong": "48.8945,18.0444"
 },
 {
-"Name": "Orechové",
+"Name": "Istebník",
 "PostCode": "911 05",
 "LatLong": "48.8945,18.0444"
 },
@@ -18791,7 +18791,7 @@
 "LatLong": "48.8511,17.9228"
 },
 {
-"Name": "Velčice",
+"Name": "Kostolná - Záriečie",
 "PostCode": "913 04",
 "LatLong": "48.8511,17.9228"
 },
@@ -18801,12 +18801,12 @@
 "LatLong": "48.8511,17.9228"
 },
 {
-"Name": "Chocholná",
+"Name": "Velčice",
 "PostCode": "913 04",
 "LatLong": "48.8511,17.9228"
 },
 {
-"Name": "Kostolná - Záriečie",
+"Name": "Chocholná",
 "PostCode": "913 04",
 "LatLong": "48.8511,17.9228"
 },
@@ -18821,7 +18821,7 @@
 "LatLong": "48.8469,17.9168"
 },
 {
-"Name": "Ivanovce",
+"Name": "Lieskové-Zem.Liesk.",
 "PostCode": "913 05",
 "LatLong": "48.8511,17.9228"
 },
@@ -18836,17 +18836,17 @@
 "LatLong": "48.8511,17.9228"
 },
 {
+"Name": "Štvrtok",
+"PostCode": "913 05",
+"LatLong": "48.8511,17.9228"
+},
+{
 "Name": "Melčice",
 "PostCode": "913 05",
 "LatLong": "48.8511,17.9228"
 },
 {
-"Name": "Lieskové-Zem.Liesk.",
-"PostCode": "913 05",
-"LatLong": "48.8511,17.9228"
-},
-{
-"Name": "Štvrtok",
+"Name": "Ivanovce",
 "PostCode": "913 05",
 "LatLong": "48.8511,17.9228"
 },
@@ -18856,7 +18856,7 @@
 "LatLong": "48.8446,17.9944"
 },
 {
-"Name": "Bodovka - Krivosúd",
+"Name": "Rozvadze",
 "PostCode": "913 11",
 "LatLong": "48.8485,17.9887"
 },
@@ -18871,12 +18871,7 @@
 "LatLong": "48.8485,17.9887"
 },
 {
-"Name": "Rozvadze",
-"PostCode": "913 11",
-"LatLong": "48.8485,17.9887"
-},
-{
-"Name": "Veľké Stankovce",
+"Name": "Malé Stankovce",
 "PostCode": "913 11",
 "LatLong": "48.8485,17.9887"
 },
@@ -18886,14 +18881,24 @@
 "LatLong": "48.8485,17.9887"
 },
 {
+"Name": "Veľké Stankovce",
+"PostCode": "913 11",
+"LatLong": "48.8485,17.9887"
+},
+{
 "Name": "Krivosúd - Bodovka",
 "PostCode": "913 11",
 "LatLong": "48.8485,17.9887"
 },
 {
-"Name": "Malé Stankovce",
+"Name": "Bodovka - Krivosúd",
 "PostCode": "913 11",
 "LatLong": "48.8485,17.9887"
+},
+{
+"Name": "Trenčianska Turná",
+"PostCode": "913 21",
+"LatLong": "48.85,17.9492"
 },
 {
 "Name": "Hámre",
@@ -18906,8 +18911,13 @@
 "LatLong": "48.85,17.9492"
 },
 {
-"Name": "Trenčianska Turná",
-"PostCode": "913 21",
+"Name": "Trenč.Jastrabie",
+"PostCode": "913 22",
+"LatLong": "48.85,17.9492"
+},
+{
+"Name": "Zemianske Mitice",
+"PostCode": "913 22",
 "LatLong": "48.85,17.9492"
 },
 {
@@ -18926,27 +18936,17 @@
 "LatLong": "48.85,17.9492"
 },
 {
-"Name": "Trenč.Jastrabie",
-"PostCode": "913 22",
-"LatLong": "48.85,17.9492"
-},
-{
-"Name": "Zemianske Mitice",
-"PostCode": "913 22",
-"LatLong": "48.85,17.9492"
-},
-{
 "Name": "Dubodiel",
 "PostCode": "913 23",
 "LatLong": "48.85,17.9492"
 },
 {
-"Name": "Horňany",
+"Name": "Svinná",
 "PostCode": "913 24",
 "LatLong": "48.85,17.9492"
 },
 {
-"Name": "Svinná",
+"Name": "Horňany",
 "PostCode": "913 24",
 "LatLong": "48.85,17.9492"
 },
@@ -18956,12 +18956,12 @@
 "LatLong": "48.85,17.9492"
 },
 {
-"Name": "Bobotská Lehota",
+"Name": "Bobot",
 "PostCode": "913 25",
 "LatLong": "48.85,17.9492"
 },
 {
-"Name": "Bobot",
+"Name": "Bobotská Lehota",
 "PostCode": "913 25",
 "LatLong": "48.85,17.9492"
 },
@@ -18971,7 +18971,7 @@
 "LatLong": "48.85,17.9492"
 },
 {
-"Name": "Horné Motešice",
+"Name": "Neporadza",
 "PostCode": "913 26",
 "LatLong": "48.85,17.9492"
 },
@@ -18986,7 +18986,12 @@
 "LatLong": "48.85,17.9492"
 },
 {
-"Name": "Neporadza",
+"Name": "Horné Motešice",
+"PostCode": "913 26",
+"LatLong": "48.85,17.9492"
+},
+{
+"Name": "Dolné Motešice",
 "PostCode": "913 26",
 "LatLong": "48.85,17.9492"
 },
@@ -19001,12 +19006,7 @@
 "LatLong": "48.85,17.9492"
 },
 {
-"Name": "Dolné Motešice",
-"PostCode": "913 26",
-"LatLong": "48.85,17.9492"
-},
-{
-"Name": "Skalka nad Váhom",
+"Name": "Újazd",
 "PostCode": "913 31",
 "LatLong": "48.85,17.9492"
 },
@@ -19016,13 +19016,18 @@
 "LatLong": "48.85,17.9492"
 },
 {
-"Name": "Újazd",
+"Name": "Skalka nad Váhom",
 "PostCode": "913 31",
 "LatLong": "48.85,17.9492"
 },
 {
 "Name": "Skala",
 "PostCode": "913 31",
+"LatLong": "48.85,17.9492"
+},
+{
+"Name": "Polníky",
+"PostCode": "913 32",
 "LatLong": "48.85,17.9492"
 },
 {
@@ -19036,8 +19041,13 @@
 "LatLong": "48.85,17.9492"
 },
 {
-"Name": "Polníky",
-"PostCode": "913 32",
+"Name": "Dúbrava",
+"PostCode": "913 33",
+"LatLong": "48.85,17.9492"
+},
+{
+"Name": "Trnávka",
+"PostCode": "913 33",
 "LatLong": "48.85,17.9492"
 },
 {
@@ -19051,27 +19061,17 @@
 "LatLong": "48.85,17.9492"
 },
 {
-"Name": "Dúbrava",
-"PostCode": "913 33",
-"LatLong": "48.85,17.9492"
-},
-{
-"Name": "Horná Závrská",
-"PostCode": "913 33",
-"LatLong": "48.85,17.9492"
-},
-{
-"Name": "Trnávka",
-"PostCode": "913 33",
-"LatLong": "48.85,17.9492"
-},
-{
 "Name": "Horná Súča",
 "PostCode": "913 33",
 "LatLong": "48.85,17.9492"
 },
 {
 "Name": "Krásny Dub",
+"PostCode": "913 33",
+"LatLong": "48.85,17.9492"
+},
+{
+"Name": "Horná Závrská",
 "PostCode": "913 33",
 "LatLong": "48.85,17.9492"
 },
@@ -19101,7 +19101,7 @@
 "LatLong": "48.4793,17.612"
 },
 {
-"Name": "Nemšová",
+"Name": "Ľuborča",
 "PostCode": "914 41",
 "LatLong": "48.4793,17.612"
 },
@@ -19116,7 +19116,7 @@
 "LatLong": "48.4793,17.612"
 },
 {
-"Name": "Ľuborča",
+"Name": "Nemšová",
 "PostCode": "914 41",
 "LatLong": "48.4793,17.612"
 },
@@ -19126,12 +19126,12 @@
 "LatLong": "48.4793,17.612"
 },
 {
-"Name": "Omšenie",
+"Name": "Dolná Poruba",
 "PostCode": "914 43",
 "LatLong": "48.4793,17.612"
 },
 {
-"Name": "Dolná Poruba",
+"Name": "Omšenie",
 "PostCode": "914 43",
 "LatLong": "48.4793,17.612"
 },
@@ -19235,7 +19235,7 @@
 "LatLong": "49.2723,18.5333"
 },
 {
-"Name": "Babiše",
+"Name": "Čiakov",
 "PostCode": "013 54",
 "LatLong": "49.2875,18.5201"
 },
@@ -19245,7 +19245,7 @@
 "LatLong": "49.3027,18.5069"
 },
 {
-"Name": "Škoruby",
+"Name": "Babiše",
 "PostCode": "013 54",
 "LatLong": "49.2875,18.5201"
 },
@@ -19255,12 +19255,12 @@
 "LatLong": "49.2875,18.5201"
 },
 {
-"Name": "Čiakov",
+"Name": "Slopkov",
 "PostCode": "013 54",
 "LatLong": "49.2875,18.5201"
 },
 {
-"Name": "Slopkov",
+"Name": "Škoruby",
 "PostCode": "013 54",
 "LatLong": "49.2875,18.5201"
 },
@@ -19315,9 +19315,9 @@
 "LatLong": "49.32,18.5608"
 },
 {
-"Name": "Veľké Rovné",
+"Name": "Madzín",
 "PostCode": "013 62",
-"LatLong": "49.2913,18.5843"
+"LatLong": "49.3286,18.5528"
 },
 {
 "Name": "Dolinky",
@@ -19335,9 +19335,9 @@
 "LatLong": "49.32,18.5608"
 },
 {
-"Name": "Madzín",
+"Name": "Veľké Rovné",
 "PostCode": "013 62",
-"LatLong": "49.3286,18.5528"
+"LatLong": "49.2913,18.5843"
 },
 {
 "Name": "Mikšová",
@@ -19410,7 +19410,7 @@
 "LatLong": "49.4577,18.8183"
 },
 {
-"Name": "Šamaja",
+"Name": "U Siheľnika",
 "PostCode": "022 01",
 "LatLong": "49.4511,18.7944"
 },
@@ -19420,7 +19420,17 @@
 "LatLong": "49.4261,18.8187"
 },
 {
+"Name": "Šamaja",
+"PostCode": "022 01",
+"LatLong": "49.4511,18.7944"
+},
+{
 "Name": "U Hluška",
+"PostCode": "022 01",
+"LatLong": "49.4511,18.7944"
+},
+{
+"Name": "Vojty",
 "PostCode": "022 01",
 "LatLong": "49.4511,18.7944"
 },
@@ -19435,22 +19445,12 @@
 "LatLong": "49.4511,18.7944"
 },
 {
-"Name": "Didka",
-"PostCode": "022 01",
-"LatLong": "49.4511,18.7944"
-},
-{
-"Name": "U Siheľnika",
-"PostCode": "022 01",
-"LatLong": "49.4511,18.7944"
-},
-{
 "Name": "Čadečka",
 "PostCode": "022 01",
 "LatLong": "49.4511,18.7944"
 },
 {
-"Name": "Vojty",
+"Name": "Didka",
 "PostCode": "022 01",
 "LatLong": "49.4511,18.7944"
 },
@@ -19460,7 +19460,7 @@
 "LatLong": "49.3759,18.6156"
 },
 {
-"Name": "Škrabáka",
+"Name": "Krkošky",
 "PostCode": "022 04",
 "LatLong": "49.3759,18.6156"
 },
@@ -19470,17 +19470,12 @@
 "LatLong": "49.3759,18.6156"
 },
 {
+"Name": "Škrabáka",
+"PostCode": "022 04",
+"LatLong": "49.3759,18.6156"
+},
+{
 "Name": "Ladunkov",
-"PostCode": "022 04",
-"LatLong": "49.3759,18.6156"
-},
-{
-"Name": "Krkošky",
-"PostCode": "022 04",
-"LatLong": "49.3759,18.6156"
-},
-{
-"Name": "Kyzka",
 "PostCode": "022 04",
 "LatLong": "49.3759,18.6156"
 },
@@ -19490,12 +19485,17 @@
 "LatLong": "49.3759,18.6156"
 },
 {
+"Name": "Sihelník",
+"PostCode": "022 04",
+"LatLong": "49.3759,18.6156"
+},
+{
 "Name": "Butty",
 "PostCode": "022 04",
 "LatLong": "49.3759,18.6156"
 },
 {
-"Name": "Sihelník",
+"Name": "Kyzka",
 "PostCode": "022 04",
 "LatLong": "49.3759,18.6156"
 },
@@ -19580,22 +19580,7 @@
 "LatLong": "49.4073,18.7318"
 },
 {
-"Name": "U Holých",
-"PostCode": "023 11",
-"LatLong": "49.4073,18.7318"
-},
-{
-"Name": "Blažková",
-"PostCode": "023 11",
-"LatLong": "49.4073,18.7318"
-},
-{
 "Name": "U Kordišov",
-"PostCode": "023 11",
-"LatLong": "49.4073,18.7318"
-},
-{
-"Name": "U Kľukov",
 "PostCode": "023 11",
 "LatLong": "49.4073,18.7318"
 },
@@ -19605,7 +19590,22 @@
 "LatLong": "49.4073,18.7318"
 },
 {
+"Name": "U Kľukov",
+"PostCode": "023 11",
+"LatLong": "49.4073,18.7318"
+},
+{
 "Name": "U Rulcov",
+"PostCode": "023 11",
+"LatLong": "49.4073,18.7318"
+},
+{
+"Name": "Blažková",
+"PostCode": "023 11",
+"LatLong": "49.4073,18.7318"
+},
+{
+"Name": "U Holých",
 "PostCode": "023 11",
 "LatLong": "49.4073,18.7318"
 },
@@ -19645,7 +19645,7 @@
 "LatLong": "49.4483,18.5648"
 },
 {
-"Name": "Klin",
+"Name": "Vrchpredmier",
 "PostCode": "023 22",
 "LatLong": "49.4522,18.5566"
 },
@@ -19655,17 +19655,17 @@
 "LatLong": "49.4562,18.5484"
 },
 {
-"Name": "Vrchpredmier",
-"PostCode": "023 22",
-"LatLong": "49.4522,18.5566"
-},
-{
 "Name": "Riečky",
 "PostCode": "023 22",
 "LatLong": "49.4522,18.5566"
 },
 {
-"Name": "Rybárie",
+"Name": "Javorová",
+"PostCode": "023 22",
+"LatLong": "49.4522,18.5566"
+},
+{
+"Name": "Klin",
 "PostCode": "023 22",
 "LatLong": "49.4522,18.5566"
 },
@@ -19675,7 +19675,7 @@
 "LatLong": "49.4522,18.5566"
 },
 {
-"Name": "Javorová",
+"Name": "Rybárie",
 "PostCode": "023 22",
 "LatLong": "49.4522,18.5566"
 },
@@ -19710,7 +19710,7 @@
 "LatLong": "49.4043,18.6226"
 },
 {
-"Name": "Dlhá nad Kysucou",
+"Name": "Hlinené",
 "PostCode": "023 54",
 "LatLong": "49.3507,18.6782"
 },
@@ -19720,7 +19720,7 @@
 "LatLong": "49.3667,18.6074"
 },
 {
-"Name": "Vyšný Koniec",
+"Name": "Dlhá nad Kysucou",
 "PostCode": "023 54",
 "LatLong": "49.3507,18.6782"
 },
@@ -19730,7 +19730,7 @@
 "LatLong": "49.1985,18.5327"
 },
 {
-"Name": "Hlinené",
+"Name": "Vyšný Koniec",
 "PostCode": "023 54",
 "LatLong": "49.3507,18.6782"
 },
@@ -19740,7 +19740,7 @@
 "LatLong": "49.3975,18.4904"
 },
 {
-"Name": "Zlámaná",
+"Name": "Vyšný Kelčov",
 "PostCode": "023 55",
 "LatLong": "49.3744,18.5401"
 },
@@ -19755,7 +19755,7 @@
 "LatLong": "49.3628,18.5475"
 },
 {
-"Name": "Zátoka",
+"Name": "Zlámaná",
 "PostCode": "023 55",
 "LatLong": "49.3744,18.5401"
 },
@@ -19765,12 +19765,12 @@
 "LatLong": "49.3587,18.5784"
 },
 {
-"Name": "Jedľovník",
+"Name": "Zátoka",
 "PostCode": "023 55",
 "LatLong": "49.3744,18.5401"
 },
 {
-"Name": "Vyšný Kelčov",
+"Name": "Jedľovník",
 "PostCode": "023 55",
 "LatLong": "49.3744,18.5401"
 },
@@ -19780,7 +19780,7 @@
 "LatLong": "49.3705,18.4804"
 },
 {
-"Name": "Kopanice",
+"Name": "Trojačka",
 "PostCode": "023 56",
 "LatLong": "49.4321,18.65"
 },
@@ -19790,7 +19790,7 @@
 "LatLong": "49.4936,18.8195"
 },
 {
-"Name": "Trojačka",
+"Name": "Kopanice",
 "PostCode": "023 56",
 "LatLong": "49.4321,18.65"
 },
@@ -19825,9 +19825,9 @@
 "LatLong": "49.2014,19.3654"
 },
 {
-"Name": "Malý Bysterec",
+"Name": "Jasenová",
 "PostCode": "026 01",
-"LatLong": "49.2138,19.2726"
+"LatLong": "49.1764,19.2957"
 },
 {
 "Name": "Leštiny",
@@ -19840,9 +19840,9 @@
 "LatLong": "49.1844,19.317"
 },
 {
-"Name": "Jasenová",
+"Name": "Malý Bysterec",
 "PostCode": "026 01",
-"LatLong": "49.1764,19.2957"
+"LatLong": "49.2138,19.2726"
 },
 {
 "Name": "Pucov",
@@ -19900,14 +19900,14 @@
 "LatLong": "49.1846,19.3885"
 },
 {
-"Name": "Párnica",
-"PostCode": "026 01",
-"LatLong": "49.1942,19.1976"
-},
-{
 "Name": "Kňažia",
 "PostCode": "026 01",
 "LatLong": "49.2341,19.3183"
+},
+{
+"Name": "Párnica",
+"PostCode": "026 01",
+"LatLong": "49.1942,19.1976"
 },
 {
 "Name": "Biela",
@@ -19935,7 +19935,7 @@
 "LatLong": "49.2979,19.1889"
 },
 {
-"Name": "Ráztoky",
+"Name": "Končitá",
 "PostCode": "027 05",
 "LatLong": "49.2342,19.1324"
 },
@@ -19945,7 +19945,12 @@
 "LatLong": "49.286,19.1951"
 },
 {
-"Name": "Petrová",
+"Name": "Demkovská",
+"PostCode": "027 05",
+"LatLong": "49.2342,19.1324"
+},
+{
+"Name": "Ráztoky",
 "PostCode": "027 05",
 "LatLong": "49.2342,19.1324"
 },
@@ -19955,12 +19960,7 @@
 "LatLong": "49.2342,19.1324"
 },
 {
-"Name": "Demkovská",
-"PostCode": "027 05",
-"LatLong": "49.2342,19.1324"
-},
-{
-"Name": "Končitá",
+"Name": "Petrová",
 "PostCode": "027 05",
 "LatLong": "49.2342,19.1324"
 },
@@ -20120,12 +20120,12 @@
 "LatLong": "49.28,18.827"
 },
 {
-"Name": "Lopuš.Pažite-Lopušná",
+"Name": "Lopuš.Pažite-Pažite",
 "PostCode": "023 36",
 "LatLong": "49.2866,18.8144"
 },
 {
-"Name": "Lopuš.Pažite-Pažite",
+"Name": "Lopuš.Pažite-Lopušná",
 "PostCode": "023 36",
 "LatLong": "49.2866,18.8144"
 },
@@ -20195,9 +20195,9 @@
 "LatLong": "49.063,19.5844"
 },
 {
-"Name": "Beňušovce",
+"Name": "Andice",
 "PostCode": "031 01",
-"LatLong": "49.1372,19.5533"
+"LatLong": "49.0731,19.5519"
 },
 {
 "Name": "Benice",
@@ -20220,9 +20220,9 @@
 "LatLong": "49.0668,19.5725"
 },
 {
-"Name": "Andice",
+"Name": "Beňušovce",
 "PostCode": "031 01",
-"LatLong": "49.0731,19.5519"
+"LatLong": "49.1372,19.5533"
 },
 {
 "Name": "Liptovský Trnovec",
@@ -20605,14 +20605,14 @@
 "LatLong": "49.0726,18.9282"
 },
 {
-"Name": "Záturčie",
-"PostCode": "036 01",
-"LatLong": "49.0925,18.9181"
-},
-{
 "Name": "Tomčany",
 "PostCode": "036 01",
 "LatLong": "49.0617,18.9432"
+},
+{
+"Name": "Záturčie",
+"PostCode": "036 01",
+"LatLong": "49.0925,18.9181"
 },
 {
 "Name": "Dolný Kalník",
@@ -20625,9 +20625,9 @@
 "LatLong": "49.0503,18.9631"
 },
 {
-"Name": "Dolné Jaseno",
+"Name": "Horný Kalník",
 "PostCode": "038 02",
-"LatLong": "49.0308,18.9894"
+"LatLong": "49.0344,18.969"
 },
 {
 "Name": "Turčianske Jaseno",
@@ -20635,9 +20635,9 @@
 "LatLong": "49.0385,18.9725"
 },
 {
-"Name": "Horný Kalník",
+"Name": "Dolné Jaseno",
 "PostCode": "038 02",
-"LatLong": "49.0344,18.969"
+"LatLong": "49.0308,18.9894"
 },
 {
 "Name": "Dražkovce",
@@ -20730,9 +20730,9 @@
 "LatLong": "49.0246,18.8609"
 },
 {
-"Name": "Benice",
+"Name": "Rakovo",
 "PostCode": "038 42",
-"LatLong": "48.9959,18.8716"
+"LatLong": "48.9888,18.882"
 },
 {
 "Name": "Ďanová",
@@ -20740,9 +20740,9 @@
 "LatLong": "48.9867,18.8885"
 },
 {
-"Name": "Rakovo",
+"Name": "Benice",
 "PostCode": "038 42",
-"LatLong": "48.9888,18.882"
+"LatLong": "48.9959,18.8716"
 },
 {
 "Name": "Ležiachov",
@@ -20990,7 +20990,7 @@
 "LatLong": "49.3675,19.1842"
 },
 {
-"Name": "Demänová",
+"Name": "Pribišská",
 "PostCode": "029 57",
 "LatLong": "49.372,19.1769"
 },
@@ -21015,17 +21015,17 @@
 "LatLong": "49.3667,19.1333"
 },
 {
-"Name": "Pribišská",
-"PostCode": "029 57",
-"LatLong": "49.372,19.1769"
-},
-{
 "Name": "Brišovka",
 "PostCode": "029 57",
 "LatLong": "49.372,19.1769"
 },
 {
 "Name": "Tanečník",
+"PostCode": "029 57",
+"LatLong": "49.372,19.1769"
+},
+{
+"Name": "Demänová",
 "PostCode": "029 57",
 "LatLong": "49.372,19.1769"
 },
@@ -21040,7 +21040,7 @@
 "LatLong": "49.4623,19.3196"
 },
 {
-"Name": "Novotský Duľov",
+"Name": "Mútňanská Píla",
 "PostCode": "029 63",
 "LatLong": "49.4471,19.331"
 },
@@ -21055,7 +21055,7 @@
 "LatLong": "49.4471,19.331"
 },
 {
-"Name": "Mútňanská Píla",
+"Name": "Novotský Duľov",
 "PostCode": "029 63",
 "LatLong": "49.4471,19.331"
 },
@@ -21305,9 +21305,9 @@
 "LatLong": "48.879,18.7243"
 },
 {
-"Name": "Abramová",
+"Name": "Brieštie",
 "PostCode": "038 22",
-"LatLong": "48.936,18.7956"
+"LatLong": "48.9209,18.7361"
 },
 {
 "Name": "Polerieka",
@@ -21330,9 +21330,9 @@
 "LatLong": "48.9256,18.8061"
 },
 {
-"Name": "Brieštie",
+"Name": "Abramová",
 "PostCode": "038 22",
-"LatLong": "48.9209,18.7361"
+"LatLong": "48.936,18.7956"
 },
 {
 "Name": "Ondrašová",
@@ -21395,9 +21395,9 @@
 "LatLong": "48.8948,18.8091"
 },
 {
-"Name": "Kevice",
+"Name": "Dvorec",
 "PostCode": "038 45",
-"LatLong": "48.9114,18.847"
+"LatLong": "48.9076,18.8062"
 },
 {
 "Name": "Bodorová",
@@ -21405,9 +21405,9 @@
 "LatLong": "48.9048,18.8496"
 },
 {
-"Name": "Dvorec",
+"Name": "Kevice",
 "PostCode": "038 45",
-"LatLong": "48.9076,18.8062"
+"LatLong": "48.9114,18.847"
 },
 {
 "Name": "Malý Čepčín",
@@ -21530,14 +21530,14 @@
 "LatLong": "49.2863,19.5548"
 },
 {
-"Name": "Nižná",
-"PostCode": "027 43",
-"LatLong": "49.3105,19.5243"
-},
-{
 "Name": "Zemianska Dedina",
 "PostCode": "027 43",
 "LatLong": "49.3226,19.5151"
+},
+{
+"Name": "Nižná",
+"PostCode": "027 43",
+"LatLong": "49.3105,19.5243"
 },
 {
 "Name": "Horný Štefanov",
@@ -21935,7 +21935,7 @@
 "LatLong": "49.2653,18.6467"
 },
 {
-"Name": "Stolečné",
+"Name": "Forbaky - Klukany",
 "PostCode": "013 32",
 "LatLong": "49.272,18.6473"
 },
@@ -21945,12 +21945,12 @@
 "LatLong": "49.262,18.6418"
 },
 {
-"Name": "Kravárska",
+"Name": "Stolečné",
 "PostCode": "013 32",
 "LatLong": "49.272,18.6473"
 },
 {
-"Name": "Forbaky - Klukany",
+"Name": "Kravárska",
 "PostCode": "013 32",
 "LatLong": "49.272,18.6473"
 },

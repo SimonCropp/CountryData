@@ -1123,11 +1123,6 @@
 "LatLong": "45.8639,18.3453"
 },
 {
-"Name": "Bosta",
-"PostCode": "7811",
-"LatLong": "45.9483,18.2092"
-},
-{
 "Name": "Szilvás",
 "PostCode": "7811",
 "LatLong": "45.9622,18.2"
@@ -1138,14 +1133,19 @@
 "LatLong": "45.9486,18.2375"
 },
 {
-"Name": "Bisse",
+"Name": "Bosta",
 "PostCode": "7811",
-"LatLong": "45.9078,18.2581"
+"LatLong": "45.9483,18.2092"
 },
 {
 "Name": "Túrony",
 "PostCode": "7811",
 "LatLong": "45.9044,18.2317"
+},
+{
+"Name": "Bisse",
+"PostCode": "7811",
+"LatLong": "45.9078,18.2581"
 },
 {
 "Name": "Csarnóta",
@@ -1298,9 +1298,9 @@
 "LatLong": "45.9,17.9667"
 },
 {
-"Name": "Nagycsány",
+"Name": "Vejti",
 "PostCode": "7838",
-"LatLong": "45.8667,17.95"
+"LatLong": "45.8167,17.9667"
 },
 {
 "Name": "Piskó",
@@ -1308,9 +1308,9 @@
 "LatLong": "45.8167,17.95"
 },
 {
-"Name": "Vejti",
+"Name": "Nagycsány",
 "PostCode": "7838",
-"LatLong": "45.8167,17.9667"
+"LatLong": "45.8667,17.95"
 },
 {
 "Name": "Vajszló",
@@ -1508,14 +1508,14 @@
 "LatLong": "46.1167,17.7167"
 },
 {
+"Name": "Patapoklosi",
+"PostCode": "7922",
+"LatLong": "46.0667,17.75"
+},
+{
 "Name": "Somogyapáti",
 "PostCode": "7922",
 "LatLong": "46.0833,17.75"
-},
-{
-"Name": "Basal",
-"PostCode": "7922",
-"LatLong": "46.0667,17.7833"
 },
 {
 "Name": "Somogyviszló",
@@ -1523,9 +1523,9 @@
 "LatLong": "46.1167,17.7667"
 },
 {
-"Name": "Patapoklosi",
+"Name": "Basal",
 "PostCode": "7922",
-"LatLong": "46.0667,17.75"
+"LatLong": "46.0667,17.7833"
 },
 {
 "Name": "Somogyhárságy",
@@ -5114,14 +5114,14 @@
 "LatLong": "48.3833,20.8667"
 },
 {
-"Name": "Hegymeg",
-"PostCode": "3786",
-"LatLong": "48.3333,20.8667"
-},
-{
 "Name": "Lak",
 "PostCode": "3786",
 "LatLong": "48.35,20.8667"
+},
+{
+"Name": "Hegymeg",
+"PostCode": "3786",
+"LatLong": "48.3333,20.8667"
 },
 {
 "Name": "Tomor",
@@ -5954,14 +5954,14 @@
 "LatLong": "48.5,21.5667"
 },
 {
-"Name": "Kovácsvágás",
-"PostCode": "3992",
-"LatLong": "48.45,21.5333"
-},
-{
 "Name": "Vágáshuta",
 "PostCode": "3992",
 "LatLong": "48.4167,21.55"
+},
+{
+"Name": "Kovácsvágás",
+"PostCode": "3992",
+"LatLong": "48.45,21.5333"
 },
 {
 "Name": "Füzérradvány",
@@ -6313,22 +6313,22 @@
 "LatLong": "46.318,20.027"
 },
 {
+"Name": "Szeged",
+"PostCode": "6750",
+"LatLong": "46.17,20.17"
+},
+{
 "Name": "Algyő",
 "PostCode": "6750",
 "LatLong": "46.17,20.17"
 },
 {
-"Name": "Szeged",
-"PostCode": "6750",
-"LatLong": "46.17,20.17"
-},
-{
-"Name": "Szeged",
+"Name": "Algyő",
 "PostCode": "6753",
 "LatLong": "46.17,20.17"
 },
 {
-"Name": "Algyő",
+"Name": "Szeged",
 "PostCode": "6753",
 "LatLong": "46.17,20.17"
 },
@@ -13439,14 +13439,14 @@
 "LatLong": "46.4167,17.9167"
 },
 {
-"Name": "Cserénfa",
-"PostCode": "7472",
-"LatLong": "46.3167,17.8833"
-},
-{
 "Name": "Szentbalázs",
 "PostCode": "7472",
 "LatLong": "46.3167,17.9"
+},
+{
+"Name": "Cserénfa",
+"PostCode": "7472",
+"LatLong": "46.3167,17.8833"
 },
 {
 "Name": "Kaposgyarmat",
@@ -19959,14 +19959,14 @@
 "LatLong": "46.8833,16.9333"
 },
 {
-"Name": "Zalaszentiván",
-"PostCode": "8921",
-"LatLong": "46.8886,16.8994"
-},
-{
 "Name": "Zalaszentlőrinc",
 "PostCode": "8921",
 "LatLong": "46.9167,16.8833"
+},
+{
+"Name": "Zalaszentiván",
+"PostCode": "8921",
+"LatLong": "46.8886,16.8994"
 },
 {
 "Name": "Nemesapáti",
@@ -20129,14 +20129,14 @@
 "LatLong": "46.65,16.7"
 },
 {
-"Name": "Csertalakos",
-"PostCode": "8951",
-"LatLong": "46.65,16.7"
-},
-{
 "Name": "Gutorfölde",
 "PostCode": "8951",
 "LatLong": "46.6414,16.7383"
+},
+{
+"Name": "Csertalakos",
+"PostCode": "8951",
+"LatLong": "46.65,16.7"
 },
 {
 "Name": "Szentpéterfölde",
@@ -20399,14 +20399,14 @@
 "LatLong": "46.8469,16.7758"
 },
 {
-"Name": "Hottó",
-"PostCode": "8991",
-"LatLong": "46.85,16.75"
-},
-{
 "Name": "Böde",
 "PostCode": "8991",
 "LatLong": "46.8375,16.7206"
+},
+{
+"Name": "Hottó",
+"PostCode": "8991",
+"LatLong": "46.85,16.75"
 },
 {
 "Name": "Hagyárosbörönd",

@@ -338,7 +338,7 @@
 "LatLong": "51.2167,4.4167"
 },
 {
-"Name": "Antwerpen Zandvliet",
+"Name": "Antwerpen Berendrecht",
 "PostCode": "2040",
 "LatLong": "51.2167,4.4167"
 },
@@ -348,17 +348,17 @@
 "LatLong": "51.2167,4.4167"
 },
 {
-"Name": "Antwerpen Berendrecht-Zandvliet-Lillo",
-"PostCode": "2040",
-"LatLong": "51.2167,4.4167"
-},
-{
 "Name": "Antwerpen Lillo",
 "PostCode": "2040",
 "LatLong": "51.2167,4.4167"
 },
 {
-"Name": "Antwerpen Berendrecht",
+"Name": "Antwerpen Berendrecht-Zandvliet-Lillo",
+"PostCode": "2040",
+"LatLong": "51.2167,4.4167"
+},
+{
+"Name": "Antwerpen Zandvliet",
 "PostCode": "2040",
 "LatLong": "51.2167,4.4167"
 },
@@ -939,12 +939,12 @@
 "LatLong": "51.1,5"
 },
 {
-"Name": "Laakdal Vorst",
+"Name": "Laakdal",
 "PostCode": "2430",
 "LatLong": "51.1,5"
 },
 {
-"Name": "Laakdal",
+"Name": "Laakdal Vorst",
 "PostCode": "2430",
 "LatLong": "51.1,5"
 },
@@ -954,7 +954,7 @@
 "LatLong": "51.0667,5"
 },
 {
-"Name": "Herselt Varendonk",
+"Name": "Laakdal",
 "PostCode": "2431",
 "LatLong": "51.0583,4.9417"
 },
@@ -964,7 +964,7 @@
 "LatLong": "51.05,4.8833"
 },
 {
-"Name": "Laakdal",
+"Name": "Herselt Varendonk",
 "PostCode": "2431",
 "LatLong": "51.0583,4.9417"
 },
@@ -979,14 +979,14 @@
 "LatLong": "51.35,4.75"
 },
 {
-"Name": "Kasterlee Lichtaart",
-"PostCode": "2460",
-"LatLong": "51.2333,4.9"
-},
-{
 "Name": "Kasterlee",
 "PostCode": "2460",
 "LatLong": "51.25,4.95"
+},
+{
+"Name": "Kasterlee Lichtaart",
+"PostCode": "2460",
+"LatLong": "51.2333,4.9"
 },
 {
 "Name": "Kasterlee Tielen",
@@ -1025,12 +1025,12 @@
 "Code": "12",
 "Places": [
 {
-"Name": "Heist-op-den-Berg",
+"Name": "Heist-op-den-Berg Hallaar",
 "PostCode": "2220",
 "LatLong": "51.1605,4.7784"
 },
 {
-"Name": "Heist-op-den-Berg Hallaar",
+"Name": "Heist-op-den-Berg",
 "PostCode": "2220",
 "LatLong": "51.1605,4.7784"
 },
@@ -1045,7 +1045,7 @@
 "LatLong": "51.1605,4.7784"
 },
 {
-"Name": "Heist-op-den-Berg Itegem",
+"Name": "Heist-op-den-Berg",
 "PostCode": "2222",
 "LatLong": "51.1605,4.7784"
 },
@@ -1055,7 +1055,7 @@
 "LatLong": "51.1605,4.7784"
 },
 {
-"Name": "Heist-op-den-Berg",
+"Name": "Heist-op-den-Berg Itegem",
 "PostCode": "2222",
 "LatLong": "51.1605,4.7784"
 },
@@ -1347,14 +1347,14 @@
 "LatLong": "50.75,3.9667"
 },
 {
-"Name": "Galmaarden Tollembeek",
-"PostCode": "1570",
-"LatLong": "50.7333,4.0167"
-},
-{
 "Name": "Galmaarden Vollezele",
 "PostCode": "1570",
 "LatLong": "50.7667,4.0167"
+},
+{
+"Name": "Galmaarden Tollembeek",
+"PostCode": "1570",
+"LatLong": "50.7333,4.0167"
 },
 {
 "Name": "Sint-Pieters-Leeuw",
@@ -1602,14 +1602,14 @@
 "LatLong": "50.95,4.1667"
 },
 {
-"Name": "Lennik Sint-Martens-Lennik",
-"PostCode": "1750",
-"LatLong": "50.8116,4.1697"
-},
-{
 "Name": "Lennik Gaasbeek",
 "PostCode": "1750",
 "LatLong": "50.8,4.1833"
+},
+{
+"Name": "Lennik Sint-Martens-Lennik",
+"PostCode": "1750",
+"LatLong": "50.8116,4.1697"
 },
 {
 "Name": "Lennik",
@@ -1652,14 +1652,14 @@
 "LatLong": "50.8461,4.0691"
 },
 {
-"Name": "Roosdaal Strijtem",
-"PostCode": "1760",
-"LatLong": "50.8333,4.1167"
-},
-{
 "Name": "Roosdaal",
 "PostCode": "1760",
 "LatLong": "50.832,4.0953"
+},
+{
+"Name": "Roosdaal Strijtem",
+"PostCode": "1760",
+"LatLong": "50.8333,4.1167"
 },
 {
 "Name": "Roosdaal",
@@ -1832,9 +1832,9 @@
 "LatLong": "50.95,4.55"
 },
 {
-"Name": "Kampenhout Berg",
+"Name": "Kampenhout Buken",
 "PostCode": "1910",
-"LatLong": "50.9333,4.5778"
+"LatLong": "50.9333,4.6167"
 },
 {
 "Name": "Kampenhout Nederokkerzeel",
@@ -1842,9 +1842,9 @@
 "LatLong": "50.9167,4.5667"
 },
 {
-"Name": "Kampenhout Buken",
+"Name": "Kampenhout Berg",
 "PostCode": "1910",
-"LatLong": "50.9333,4.6167"
+"LatLong": "50.9333,4.5778"
 },
 {
 "Name": "Zaventem",
@@ -1922,22 +1922,12 @@
 "LatLong": "50.9833,4.4667"
 },
 {
-"Name": "Overijse Eizer",
+"Name": "Overijse Jezus-Eik",
 "PostCode": "3090",
 "LatLong": "50.7667,4.5333"
 },
 {
 "Name": "Overijse",
-"PostCode": "3090",
-"LatLong": "50.7667,4.5333"
-},
-{
-"Name": "Overijse Maleizen",
-"PostCode": "3090",
-"LatLong": "50.7667,4.5333"
-},
-{
-"Name": "Overijse Jezus-Eik",
 "PostCode": "3090",
 "LatLong": "50.7667,4.5333"
 },
@@ -1948,6 +1938,16 @@
 },
 {
 "Name": "Overijse Terlanen",
+"PostCode": "3090",
+"LatLong": "50.7667,4.5333"
+},
+{
+"Name": "Overijse Maleizen",
+"PostCode": "3090",
+"LatLong": "50.7667,4.5333"
+},
+{
+"Name": "Overijse Eizer",
 "PostCode": "3090",
 "LatLong": "50.7667,4.5333"
 }
@@ -2234,7 +2234,7 @@
 "LatLong": "51,4.6167"
 },
 {
-"Name": "Haacht Wakkerzeel",
+"Name": "Haacht Kelfs",
 "PostCode": "3150",
 "LatLong": "50.9611,4.6333"
 },
@@ -2244,7 +2244,7 @@
 "LatLong": "50.95,4.6333"
 },
 {
-"Name": "Haacht Kelfs",
+"Name": "Haacht Wakkerzeel",
 "PostCode": "3150",
 "LatLong": "50.9611,4.6333"
 },
@@ -2269,14 +2269,14 @@
 "LatLong": "51,4.55"
 },
 {
-"Name": "Aarschot",
-"PostCode": "3200",
-"LatLong": "50.9833,4.8333"
-},
-{
 "Name": "Aarschot Gelrode",
 "PostCode": "3200",
 "LatLong": "50.9667,4.8"
+},
+{
+"Name": "Aarschot",
+"PostCode": "3200",
+"LatLong": "50.9833,4.8333"
 },
 {
 "Name": "Aarschot Langdorp",
@@ -2354,12 +2354,12 @@
 "LatLong": "50.9167,4.75"
 },
 {
-"Name": "Scherpenheuvel-Zichem",
+"Name": "Scherpenheuvel-Zichem Scherpenheuvel",
 "PostCode": "3270",
 "LatLong": "51,4.9833"
 },
 {
-"Name": "Scherpenheuvel-Zichem Scherpenheuvel",
+"Name": "Scherpenheuvel-Zichem",
 "PostCode": "3270",
 "LatLong": "51,4.9833"
 },
@@ -2614,7 +2614,7 @@
 "LatLong": "50.8667,4.95"
 },
 {
-"Name": "Tielt-Winge Sint-Joris-Winge",
+"Name": "Tielt-Winge",
 "PostCode": "3390",
 "LatLong": "50.9167,4.8667"
 },
@@ -2624,12 +2624,12 @@
 "LatLong": "50.9167,4.8667"
 },
 {
-"Name": "Tielt-Winge",
+"Name": "Tielt-Winge Tielt",
 "PostCode": "3390",
 "LatLong": "50.9167,4.8667"
 },
 {
-"Name": "Tielt-Winge Tielt",
+"Name": "Tielt-Winge Sint-Joris-Winge",
 "PostCode": "3390",
 "LatLong": "50.9167,4.8667"
 },
@@ -2911,22 +2911,22 @@
 "LatLong": "50.9833,5.35"
 },
 {
-"Name": "Herk-de-Stad Donk",
-"PostCode": "3540",
-"LatLong": "50.9556,5.0778"
-},
-{
-"Name": "Herk-de-Stad Schulen",
-"PostCode": "3540",
-"LatLong": "50.9556,5.0778"
-},
-{
 "Name": "Herk-de-Stad",
 "PostCode": "3540",
 "LatLong": "50.9556,5.0778"
 },
 {
 "Name": "Herk-de-Stad Berbroek",
+"PostCode": "3540",
+"LatLong": "50.9556,5.0778"
+},
+{
+"Name": "Herk-de-Stad Donk",
+"PostCode": "3540",
+"LatLong": "50.9556,5.0778"
+},
+{
+"Name": "Herk-de-Stad Schulen",
 "PostCode": "3540",
 "LatLong": "50.9556,5.0778"
 },
@@ -3056,7 +3056,7 @@
 "LatLong": "50.8167,5.2333"
 },
 {
-"Name": "Sint-Truiden Kerkom-bij-Sint-Truiden",
+"Name": "Sint-Truiden Aalst",
 "PostCode": "3800",
 "LatLong": "50.7938,5.2188"
 },
@@ -3066,7 +3066,7 @@
 "LatLong": "50.8,5.1333"
 },
 {
-"Name": "Sint-Truiden Aalst",
+"Name": "Sint-Truiden Kerkom-bij-Sint-Truiden",
 "PostCode": "3800",
 "LatLong": "50.7938,5.2188"
 },
@@ -3156,9 +3156,9 @@
 "LatLong": "50.9,5.2167"
 },
 {
-"Name": "Gingelom Niel-bij-Sint-Truiden",
+"Name": "Gingelom",
 "PostCode": "3890",
-"LatLong": "50.725,5.1611"
+"LatLong": "50.75,5.1167"
 },
 {
 "Name": "Gingelom Montenaken",
@@ -3166,9 +3166,9 @@
 "LatLong": "50.7167,5.1167"
 },
 {
-"Name": "Gingelom",
+"Name": "Gingelom Niel-bij-Sint-Truiden",
 "PostCode": "3890",
-"LatLong": "50.75,5.1167"
+"LatLong": "50.725,5.1611"
 },
 {
 "Name": "Gingelom Boekhout",
@@ -3191,9 +3191,9 @@
 "LatLong": "50.7,5.1333"
 },
 {
-"Name": "Gingelom",
+"Name": "Gingelom Muizen",
 "PostCode": "3891",
-"LatLong": "50.75,5.1167"
+"LatLong": "50.75,5.15"
 },
 {
 "Name": "Gingelom Buvingen",
@@ -3201,19 +3201,19 @@
 "LatLong": "50.75,5.1667"
 },
 {
-"Name": "Gingelom Muizen",
+"Name": "Gingelom Mielen-boven-Aalst",
 "PostCode": "3891",
 "LatLong": "50.75,5.15"
+},
+{
+"Name": "Gingelom",
+"PostCode": "3891",
+"LatLong": "50.75,5.1167"
 },
 {
 "Name": "Gingelom Borlo",
 "PostCode": "3891",
 "LatLong": "50.75,5.1667"
-},
-{
-"Name": "Gingelom Mielen-boven-Aalst",
-"PostCode": "3891",
-"LatLong": "50.75,5.15"
 },
 {
 "Name": "Ham",
@@ -3257,6 +3257,11 @@
 "Code": "72",
 "Places": [
 {
+"Name": "Houthalen-Helchteren Helchteren",
+"PostCode": "3530",
+"LatLong": "51.05,5.3667"
+},
+{
 "Name": "Houthalen-Helchteren",
 "PostCode": "3530",
 "LatLong": "51.05,5.3667"
@@ -3267,19 +3272,14 @@
 "LatLong": "51.05,5.3667"
 },
 {
-"Name": "Houthalen-Helchteren Helchteren",
-"PostCode": "3530",
-"LatLong": "51.05,5.3667"
-},
-{
 "Name": "Kinrooi Kessenich",
 "PostCode": "3640",
 "LatLong": "51.15,5.8167"
 },
 {
-"Name": "Kinrooi Ophoven",
+"Name": "Kinrooi Molenbeersel",
 "PostCode": "3640",
-"LatLong": "51.1167,5.8"
+"LatLong": "51.1667,5.7333"
 },
 {
 "Name": "Kinrooi Geistingen",
@@ -3292,9 +3292,9 @@
 "LatLong": "51.1454,5.7421"
 },
 {
-"Name": "Kinrooi Molenbeersel",
+"Name": "Kinrooi Ophoven",
 "PostCode": "3640",
-"LatLong": "51.1667,5.7333"
+"LatLong": "51.1167,5.8"
 },
 {
 "Name": "Dilsen-Stokkem Stokkem",
@@ -3342,7 +3342,7 @@
 "LatLong": "51.0833,5.5833"
 },
 {
-"Name": "Meeuwen-Gruitrode Neerglabbeek",
+"Name": "Meeuwen-Gruitrode Wijshagen",
 "PostCode": "3670",
 "LatLong": "51.0833,5.5833"
 },
@@ -3352,7 +3352,7 @@
 "LatLong": "51.0833,5.5833"
 },
 {
-"Name": "Meeuwen-Gruitrode Wijshagen",
+"Name": "Meeuwen-Gruitrode Neerglabbeek",
 "PostCode": "3670",
 "LatLong": "51.0833,5.5833"
 },
@@ -3382,7 +3382,7 @@
 "LatLong": "51.2333,5.4833"
 },
 {
-"Name": "Neerpelt Grote Heide",
+"Name": "Neerpelt Herent",
 "PostCode": "3910",
 "LatLong": "51.225,5.45"
 },
@@ -3392,7 +3392,7 @@
 "LatLong": "51.2167,5.4167"
 },
 {
-"Name": "Neerpelt Herent",
+"Name": "Neerpelt Grote Heide",
 "PostCode": "3910",
 "LatLong": "51.225,5.45"
 },
@@ -3407,12 +3407,12 @@
 "LatLong": "51.25,5.4833"
 },
 {
-"Name": "Hamont-Achel Achel",
+"Name": "Hamont-Achel Hamont",
 "PostCode": "3930",
 "LatLong": "51.25,5.4833"
 },
 {
-"Name": "Hamont-Achel Hamont",
+"Name": "Hamont-Achel Achel",
 "PostCode": "3930",
 "LatLong": "51.25,5.4833"
 },
@@ -3427,12 +3427,12 @@
 "LatLong": "51.15,5.3833"
 },
 {
-"Name": "Hechtel-Eksel Eksel",
+"Name": "Hechtel-Eksel",
 "PostCode": "3941",
 "LatLong": "51.15,5.3833"
 },
 {
-"Name": "Hechtel-Eksel",
+"Name": "Hechtel-Eksel Eksel",
 "PostCode": "3941",
 "LatLong": "51.15,5.3833"
 },
@@ -3462,9 +3462,9 @@
 "LatLong": "51.15,5.6"
 },
 {
-"Name": "Bree Opitter",
+"Name": "Bree",
 "PostCode": "3960",
-"LatLong": "51.1167,5.65"
+"LatLong": "51.1333,5.6"
 },
 {
 "Name": "Bree Tongerlo",
@@ -3472,9 +3472,9 @@
 "LatLong": "51.1375,5.6083"
 },
 {
-"Name": "Bree",
+"Name": "Bree Opitter",
 "PostCode": "3960",
-"LatLong": "51.1333,5.6"
+"LatLong": "51.1167,5.65"
 },
 {
 "Name": "Peer Grote-Brogel",
@@ -3593,7 +3593,7 @@
 "LatLong": "50.9167,5.7333"
 },
 {
-"Name": "Tongeren Piringen",
+"Name": "Tongeren Haren",
 "PostCode": "3700",
 "LatLong": "50.7708,5.4681"
 },
@@ -3603,7 +3603,7 @@
 "LatLong": "50.8,5.4667"
 },
 {
-"Name": "Tongeren Kolmont",
+"Name": "Tongeren Widooie",
 "PostCode": "3700",
 "LatLong": "50.7708,5.4681"
 },
@@ -3613,7 +3613,7 @@
 "LatLong": "50.7667,5.4333"
 },
 {
-"Name": "Tongeren Berg",
+"Name": "Tongeren Piringen",
 "PostCode": "3700",
 "LatLong": "50.7708,5.4681"
 },
@@ -3623,7 +3623,7 @@
 "LatLong": "50.7667,5.5"
 },
 {
-"Name": "Tongeren Widooie",
+"Name": "Tongeren 's Herenelderen",
 "PostCode": "3700",
 "LatLong": "50.7708,5.4681"
 },
@@ -3633,7 +3633,7 @@
 "LatLong": "50.75,5.4833"
 },
 {
-"Name": "Tongeren 's Herenelderen",
+"Name": "Tongeren Overrepen",
 "PostCode": "3700",
 "LatLong": "50.7708,5.4681"
 },
@@ -3643,7 +3643,7 @@
 "LatLong": "50.7667,5.5333"
 },
 {
-"Name": "Tongeren Overrepen",
+"Name": "Tongeren Berg",
 "PostCode": "3700",
 "LatLong": "50.7708,5.4681"
 },
@@ -3658,7 +3658,7 @@
 "LatLong": "50.7833,5.4667"
 },
 {
-"Name": "Tongeren Haren",
+"Name": "Tongeren Kolmont",
 "PostCode": "3700",
 "LatLong": "50.7708,5.4681"
 },
@@ -3673,14 +3673,14 @@
 "LatLong": "50.75,5.4333"
 },
 {
-"Name": "Tongeren Henis",
-"PostCode": "3700",
-"LatLong": "50.8,5.45"
-},
-{
 "Name": "Tongeren Lauw",
 "PostCode": "3700",
 "LatLong": "50.7333,5.4"
+},
+{
+"Name": "Tongeren Henis",
+"PostCode": "3700",
+"LatLong": "50.8,5.45"
 },
 {
 "Name": "Tongeren Neerrepen",
@@ -3793,7 +3793,7 @@
 "LatLong": "50.8333,5.55"
 },
 {
-"Name": "Bilzen Rosmeer",
+"Name": "Bilzen Rijkhoven",
 "PostCode": "3740",
 "LatLong": "50.8646,5.5375"
 },
@@ -3803,7 +3803,7 @@
 "LatLong": "50.9,5.4667"
 },
 {
-"Name": "Bilzen Rijkhoven",
+"Name": "Bilzen Rosmeer",
 "PostCode": "3740",
 "LatLong": "50.8646,5.5375"
 },
@@ -3813,14 +3813,14 @@
 "LatLong": "50.8333,5.55"
 },
 {
-"Name": "Bilzen Mopertingen",
-"PostCode": "3740",
-"LatLong": "50.8667,5.5667"
-},
-{
 "Name": "Bilzen Eigenbilzen",
 "PostCode": "3740",
 "LatLong": "50.8667,5.5833"
+},
+{
+"Name": "Bilzen Mopertingen",
+"PostCode": "3740",
+"LatLong": "50.8667,5.5667"
 },
 {
 "Name": "Bilzen Waltwilder",
@@ -4013,7 +4013,7 @@
 "LatLong": "50.8,5.25"
 },
 {
-"Name": "Borgloon Bommershoven",
+"Name": "Borgloon Kolmont",
 "PostCode": "3840",
 "LatLong": "50.803,5.3182"
 },
@@ -4028,7 +4028,7 @@
 "LatLong": "50.8167,5.2667"
 },
 {
-"Name": "Borgloon Haren",
+"Name": "Borgloon Bommershoven",
 "PostCode": "3840",
 "LatLong": "50.803,5.3182"
 },
@@ -4038,7 +4038,7 @@
 "LatLong": "50.8,5.3167"
 },
 {
-"Name": "Borgloon Kolmont",
+"Name": "Borgloon Haren",
 "PostCode": "3840",
 "LatLong": "50.803,5.3182"
 },
@@ -4190,22 +4190,17 @@
 "LatLong": "51.05,3.7167"
 },
 {
-"Name": "Gent Desteldonk",
-"PostCode": "9042",
-"LatLong": "51.05,3.7167"
-},
-{
 "Name": "Gent Sint-Kruis-Winkel",
 "PostCode": "9042",
 "LatLong": "51.05,3.7167"
 },
 {
-"Name": "Gent",
-"PostCode": "9050",
+"Name": "Gent Desteldonk",
+"PostCode": "9042",
 "LatLong": "51.05,3.7167"
 },
 {
-"Name": "Gent Gentbrugge",
+"Name": "Gent",
 "PostCode": "9050",
 "LatLong": "51.05,3.7167"
 },
@@ -4215,17 +4210,22 @@
 "LatLong": "51.05,3.7167"
 },
 {
+"Name": "Gent Gentbrugge",
+"PostCode": "9050",
+"LatLong": "51.05,3.7167"
+},
+{
 "Name": "Gent",
 "PostCode": "9051",
 "LatLong": "51.05,3.7167"
 },
 {
-"Name": "Gent Afsnee",
+"Name": "Gent Sint-Denijs-Westrem",
 "PostCode": "9051",
 "LatLong": "51.05,3.7167"
 },
 {
-"Name": "Gent Sint-Denijs-Westrem",
+"Name": "Gent Afsnee",
 "PostCode": "9051",
 "LatLong": "51.05,3.7167"
 },
@@ -4390,14 +4390,14 @@
 "LatLong": "51.0167,3.6333"
 },
 {
-"Name": "Sint-Martens-Latem Deurle",
-"PostCode": "9831",
-"LatLong": "51,3.6"
-},
-{
 "Name": "Sint-Martens-Latem",
 "PostCode": "9831",
 "LatLong": "51.0167,3.6333"
+},
+{
+"Name": "Sint-Martens-Latem Deurle",
+"PostCode": "9831",
+"LatLong": "51,3.6"
 },
 {
 "Name": "De Pinte De Pinte",
@@ -4600,7 +4600,7 @@
 "LatLong": "51.1833,3.75"
 },
 {
-"Name": "Evergem Rieme",
+"Name": "Evergem Wippelgem",
 "PostCode": "9940",
 "LatLong": "51.1458,3.7167"
 },
@@ -4610,7 +4610,7 @@
 "LatLong": "51.1333,3.6833"
 },
 {
-"Name": "Evergem Wippelgem",
+"Name": "Evergem Rieme",
 "PostCode": "9940",
 "LatLong": "51.1458,3.7167"
 },
@@ -4620,7 +4620,7 @@
 "LatLong": "51.1167,3.7"
 },
 {
-"Name": "Evergem Kerkbrugge-Langerbrugge",
+"Name": "Evergem Belzele",
 "PostCode": "9940",
 "LatLong": "51.1458,3.7167"
 },
@@ -4630,7 +4630,7 @@
 "LatLong": "51.1458,3.7167"
 },
 {
-"Name": "Evergem Belzele",
+"Name": "Evergem Kerkbrugge-Langerbrugge",
 "PostCode": "9940",
 "LatLong": "51.1458,3.7167"
 },
@@ -4832,22 +4832,22 @@
 "LatLong": "51.2167,4.25"
 },
 {
-"Name": "Beveren Doel",
-"PostCode": "9130",
-"LatLong": "51.2167,4.25"
-},
-{
-"Name": "Beveren Verrebroek",
-"PostCode": "9130",
-"LatLong": "51.2167,4.25"
-},
-{
 "Name": "Beveren Kieldrecht",
 "PostCode": "9130",
 "LatLong": "51.2167,4.25"
 },
 {
 "Name": "Beveren Kallo",
+"PostCode": "9130",
+"LatLong": "51.2167,4.25"
+},
+{
+"Name": "Beveren Doel",
+"PostCode": "9130",
+"LatLong": "51.2167,4.25"
+},
+{
+"Name": "Beveren Verrebroek",
 "PostCode": "9130",
 "LatLong": "51.2167,4.25"
 },
@@ -5139,12 +5139,12 @@
 "LatLong": "50.9333,4.0333"
 },
 {
-"Name": "Aalst Nieuwerkerken",
+"Name": "Aalst Erembodegem",
 "PostCode": "9320",
 "LatLong": "50.9333,4.0333"
 },
 {
-"Name": "Aalst Erembodegem",
+"Name": "Aalst Nieuwerkerken",
 "PostCode": "9320",
 "LatLong": "50.9333,4.0333"
 },
@@ -5259,21 +5259,6 @@
 "LatLong": "50.8333,4.0167"
 },
 {
-"Name": "Erpe-Mere Burst",
-"PostCode": "9420",
-"LatLong": "50.9167,3.9667"
-},
-{
-"Name": "Erpe-Mere Mere",
-"PostCode": "9420",
-"LatLong": "50.9167,3.9667"
-},
-{
-"Name": "Erpe-Mere Erpe",
-"PostCode": "9420",
-"LatLong": "50.9167,3.9667"
-},
-{
 "Name": "Erpe-Mere Ottergem",
 "PostCode": "9420",
 "LatLong": "50.9167,3.9667"
@@ -5284,17 +5269,32 @@
 "LatLong": "50.9167,3.9667"
 },
 {
+"Name": "Erpe-Mere Erpe",
+"PostCode": "9420",
+"LatLong": "50.9167,3.9667"
+},
+{
+"Name": "Erpe-Mere Burst",
+"PostCode": "9420",
+"LatLong": "50.9167,3.9667"
+},
+{
+"Name": "Erpe-Mere Mere",
+"PostCode": "9420",
+"LatLong": "50.9167,3.9667"
+},
+{
+"Name": "Erpe-Mere Bambrugge",
+"PostCode": "9420",
+"LatLong": "50.9167,3.9667"
+},
+{
 "Name": "Erpe-Mere Erondegem",
 "PostCode": "9420",
 "LatLong": "50.9167,3.9667"
 },
 {
 "Name": "Erpe-Mere Vlekkem",
-"PostCode": "9420",
-"LatLong": "50.9167,3.9667"
-},
-{
-"Name": "Erpe-Mere Bambrugge",
 "PostCode": "9420",
 "LatLong": "50.9167,3.9667"
 },
@@ -5374,9 +5374,9 @@
 "LatLong": "50.7833,3.9"
 },
 {
-"Name": "Geraardsbergen Zarlardinge",
+"Name": "Geraardsbergen Overboelare",
 "PostCode": "9500",
-"LatLong": "50.75,3.8167"
+"LatLong": "50.75,3.85"
 },
 {
 "Name": "Geraardsbergen Moerbeke",
@@ -5384,9 +5384,9 @@
 "LatLong": "50.75,3.9167"
 },
 {
-"Name": "Geraardsbergen Overboelare",
+"Name": "Geraardsbergen Zarlardinge",
 "PostCode": "9500",
-"LatLong": "50.75,3.85"
+"LatLong": "50.75,3.8167"
 },
 {
 "Name": "Geraardsbergen Goeferdinge",
@@ -5529,7 +5529,7 @@
 "LatLong": "50.8833,3.7667"
 },
 {
-"Name": "Zottegem Sint-Maria-Oudenhove",
+"Name": "Zottegem Oombergen",
 "PostCode": "9620",
 "LatLong": "50.8685,3.7981"
 },
@@ -5544,7 +5544,7 @@
 "LatLong": "50.8667,3.7833"
 },
 {
-"Name": "Zottegem Oombergen",
+"Name": "Zottegem Sint-Maria-Oudenhove",
 "PostCode": "9620",
 "LatLong": "50.8685,3.7981"
 },
@@ -5559,14 +5559,14 @@
 "LatLong": "50.85,3.7833"
 },
 {
-"Name": "Zottegem Grotenberge",
-"PostCode": "9620",
-"LatLong": "50.8667,3.8167"
-},
-{
 "Name": "Zottegem Leeuwergem",
 "PostCode": "9620",
 "LatLong": "50.8833,3.8167"
+},
+{
+"Name": "Zottegem Grotenberge",
+"PostCode": "9620",
+"LatLong": "50.8667,3.8167"
 },
 {
 "Name": "Zottegem Elene",
@@ -5630,9 +5630,9 @@
 "LatLong": "50.8667,3.75"
 },
 {
-"Name": "Zwalm Paulatem",
+"Name": "Zwalm Sint-Blasius-Boekel",
 "PostCode": "9630",
-"LatLong": "50.9,3.7"
+"LatLong": "50.85,3.7167"
 },
 {
 "Name": "Zwalm Sint-Denijs-Boekel",
@@ -5660,9 +5660,9 @@
 "LatLong": "50.9,3.7167"
 },
 {
-"Name": "Zwalm Sint-Blasius-Boekel",
+"Name": "Zwalm Paulatem",
 "PostCode": "9630",
-"LatLong": "50.85,3.7167"
+"LatLong": "50.9,3.7"
 },
 {
 "Name": "Zwalm Sint-Maria-Latem",
@@ -5790,12 +5790,17 @@
 "LatLong": "50.8,3.6667"
 },
 {
-"Name": "Kluisbergen",
+"Name": "Kluisbergen Ruien",
 "PostCode": "9690",
 "LatLong": "50.8478,3.7321"
 },
 {
 "Name": "Kluisbergen Zulzeke",
+"PostCode": "9690",
+"LatLong": "50.8478,3.7321"
+},
+{
+"Name": "Kluisbergen",
 "PostCode": "9690",
 "LatLong": "50.8478,3.7321"
 },
@@ -5806,11 +5811,6 @@
 },
 {
 "Name": "Kluisbergen Kwaremont",
-"PostCode": "9690",
-"LatLong": "50.8478,3.7321"
-},
-{
-"Name": "Kluisbergen Ruien",
 "PostCode": "9690",
 "LatLong": "50.8478,3.7321"
 },
@@ -5835,9 +5835,9 @@
 "LatLong": "50.85,3.6333"
 },
 {
-"Name": "Oudenaarde Bevere",
+"Name": "Oudenaarde",
 "PostCode": "9700",
-"LatLong": "50.85,3.5833"
+"LatLong": "50.85,3.6"
 },
 {
 "Name": "Oudenaarde Ooike",
@@ -5845,9 +5845,9 @@
 "LatLong": "50.8526,3.6167"
 },
 {
-"Name": "Oudenaarde",
+"Name": "Oudenaarde Bevere",
 "PostCode": "9700",
-"LatLong": "50.85,3.6"
+"LatLong": "50.85,3.5833"
 },
 {
 "Name": "Oudenaarde Eine",
@@ -5925,12 +5925,7 @@
 "LatLong": "50.9,3.5167"
 },
 {
-"Name": "Wortegem-Petegem",
-"PostCode": "9790",
-"LatLong": "50.8698,3.5921"
-},
-{
-"Name": "Wortegem-Petegem Petegem-aan-de-Schelde",
+"Name": "Wortegem-Petegem Wortegem",
 "PostCode": "9790",
 "LatLong": "50.8698,3.5921"
 },
@@ -5945,12 +5940,17 @@
 "LatLong": "50.8698,3.5921"
 },
 {
+"Name": "Wortegem-Petegem",
+"PostCode": "9790",
+"LatLong": "50.8698,3.5921"
+},
+{
 "Name": "Wortegem-Petegem Ooike",
 "PostCode": "9790",
 "LatLong": "50.8698,3.5921"
 },
 {
-"Name": "Wortegem-Petegem Wortegem",
+"Name": "Wortegem-Petegem Petegem-aan-de-Schelde",
 "PostCode": "9790",
 "LatLong": "50.8698,3.5921"
 }
@@ -5997,7 +5997,7 @@
 "LatLong": "51.1,3.2"
 },
 {
-"Name": "Brugge Sint-Michiels",
+"Name": "Brugge Sint-Andries",
 "PostCode": "8200",
 "LatLong": "51.2098,3.225"
 },
@@ -6007,7 +6007,7 @@
 "LatLong": "51.2098,3.225"
 },
 {
-"Name": "Brugge Sint-Andries",
+"Name": "Brugge Sint-Michiels",
 "PostCode": "8200",
 "LatLong": "51.2098,3.225"
 },
@@ -6072,12 +6072,12 @@
 "LatLong": "51.2098,3.225"
 },
 {
-"Name": "Brugge Assebroek",
+"Name": "Brugge Sint-Kruis",
 "PostCode": "8310",
 "LatLong": "51.2098,3.225"
 },
 {
-"Name": "Brugge Sint-Kruis",
+"Name": "Brugge Assebroek",
 "PostCode": "8310",
 "LatLong": "51.2098,3.225"
 },
@@ -6142,7 +6142,7 @@
 "LatLong": "51.2833,3.0833"
 },
 {
-"Name": "Brugge Zwankendamme",
+"Name": "Brugge Lissewege",
 "PostCode": "8380",
 "LatLong": "51.2098,3.225"
 },
@@ -6152,17 +6152,17 @@
 "LatLong": "51.2098,3.225"
 },
 {
+"Name": "Brugge Dudzele",
+"PostCode": "8380",
+"LatLong": "51.2098,3.225"
+},
+{
 "Name": "Brugge Zeebrugge",
 "PostCode": "8380",
 "LatLong": "51.2098,3.225"
 },
 {
-"Name": "Brugge Lissewege",
-"PostCode": "8380",
-"LatLong": "51.2098,3.225"
-},
-{
-"Name": "Brugge Dudzele",
+"Name": "Brugge Zwankendamme",
 "PostCode": "8380",
 "LatLong": "51.2098,3.225"
 },
@@ -6414,7 +6414,7 @@
 "LatLong": "50.828,3.2649"
 },
 {
-"Name": "Kortrijk Bellegem",
+"Name": "Kortrijk Kooigem",
 "PostCode": "8510",
 "LatLong": "50.828,3.2649"
 },
@@ -6424,7 +6424,7 @@
 "LatLong": "50.828,3.2649"
 },
 {
-"Name": "Kortrijk Kooigem",
+"Name": "Kortrijk Rollegem",
 "PostCode": "8510",
 "LatLong": "50.828,3.2649"
 },
@@ -6434,7 +6434,7 @@
 "LatLong": "50.828,3.2649"
 },
 {
-"Name": "Kortrijk Rollegem",
+"Name": "Kortrijk Bellegem",
 "PostCode": "8510",
 "LatLong": "50.828,3.2649"
 },
@@ -6674,6 +6674,11 @@
 "LatLong": "50.8833,3.2333"
 },
 {
+"Name": "Menen",
+"PostCode": "8930",
+"LatLong": "50.8,3.1167"
+},
+{
 "Name": "Menen Rekkem",
 "PostCode": "8930",
 "LatLong": "50.7833,3.15"
@@ -6682,11 +6687,6 @@
 "Name": "Menen Lauwe",
 "PostCode": "8930",
 "LatLong": "50.8,3.1833"
-},
-{
-"Name": "Menen",
-"PostCode": "8930",
-"LatLong": "50.8,3.1167"
 }
 ]
 },
@@ -6715,9 +6715,9 @@
 "LatLong": "51.05,2.9167"
 },
 {
-"Name": "Diksmuide Nieuwkapelle",
+"Name": "Diksmuide",
 "PostCode": "8600",
-"LatLong": "51,2.8"
+"LatLong": "51.0333,2.8667"
 },
 {
 "Name": "Diksmuide Beerst",
@@ -6725,9 +6725,9 @@
 "LatLong": "51.0667,2.8833"
 },
 {
-"Name": "Diksmuide",
+"Name": "Diksmuide Nieuwkapelle",
 "PostCode": "8600",
-"LatLong": "51.0333,2.8667"
+"LatLong": "51,2.8"
 },
 {
 "Name": "Diksmuide Oostkerke",
@@ -6755,7 +6755,7 @@
 "LatLong": "51.0833,2.8833"
 },
 {
-"Name": "Diksmuide Driekapellen",
+"Name": "Diksmuide Sint-Jacobs-Kapelle",
 "PostCode": "8600",
 "LatLong": "51.0474,2.8474"
 },
@@ -6765,7 +6765,7 @@
 "LatLong": "51.0167,2.8"
 },
 {
-"Name": "Diksmuide Sint-Jacobs-Kapelle",
+"Name": "Diksmuide Driekapellen",
 "PostCode": "8600",
 "LatLong": "51.0474,2.8474"
 },
@@ -6800,7 +6800,7 @@
 "LatLong": "50.9667,2.7333"
 },
 {
-"Name": "Lo-Reninge Lo",
+"Name": "Lo-Reninge Reninge",
 "PostCode": "8647",
 "LatLong": "50.9583,2.775"
 },
@@ -6810,7 +6810,7 @@
 "LatLong": "50.95,2.8167"
 },
 {
-"Name": "Lo-Reninge Reninge",
+"Name": "Lo-Reninge Lo",
 "PostCode": "8647",
 "LatLong": "50.9583,2.775"
 },
@@ -6820,14 +6820,14 @@
 "LatLong": "50.9583,2.775"
 },
 {
-"Name": "Houthulst Merkem",
-"PostCode": "8650",
-"LatLong": "50.95,2.85"
-},
-{
 "Name": "Houthulst Klerken",
 "PostCode": "8650",
 "LatLong": "51,2.9"
+},
+{
+"Name": "Houthulst Merkem",
+"PostCode": "8650",
+"LatLong": "50.95,2.85"
 },
 {
 "Name": "Houthulst Jonkershove",
@@ -6861,7 +6861,7 @@
 "Code": "38",
 "Places": [
 {
-"Name": "Nieuwpoort Ramskapelle",
+"Name": "Nieuwpoort Sint-Joris",
 "PostCode": "8620",
 "LatLong": "51.1333,2.75"
 },
@@ -6871,7 +6871,7 @@
 "LatLong": "51.1333,2.75"
 },
 {
-"Name": "Nieuwpoort Sint-Joris",
+"Name": "Nieuwpoort Ramskapelle",
 "PostCode": "8620",
 "LatLong": "51.1333,2.75"
 },
@@ -6931,14 +6931,14 @@
 "LatLong": "51.0833,2.7333"
 },
 {
-"Name": "De Panne",
-"PostCode": "8660",
-"LatLong": "51.1,2.5833"
-},
-{
 "Name": "De Panne Adinkerke",
 "PostCode": "8660",
 "LatLong": "51.0667,2.6"
+},
+{
+"Name": "De Panne",
+"PostCode": "8660",
+"LatLong": "51.1,2.5833"
 },
 {
 "Name": "De Panne De Panne",
@@ -6946,14 +6946,14 @@
 "LatLong": "51.0833,2.5917"
 },
 {
-"Name": "Koksijde Wulpen",
-"PostCode": "8670",
-"LatLong": "51.1,2.7"
-},
-{
 "Name": "Koksijde Oostduinkerke",
 "PostCode": "8670",
 "LatLong": "51.1167,2.6833"
+},
+{
+"Name": "Koksijde Wulpen",
+"PostCode": "8670",
+"LatLong": "51.1,2.7"
 },
 {
 "Name": "Koksijde Sint-Idesbald",
@@ -7262,14 +7262,14 @@
 "LatLong": "50.85,2.7167"
 },
 {
-"Name": "Zonnebeke Geluveld",
-"PostCode": "8980",
-"LatLong": "50.8351,2.9934"
-},
-{
 "Name": "Zonnebeke",
 "PostCode": "8980",
 "LatLong": "50.8726,2.9873"
+},
+{
+"Name": "Zonnebeke Geluveld",
+"PostCode": "8980",
+"LatLong": "50.8351,2.9934"
 },
 {
 "Name": "Zonnebeke Passendale",
@@ -7562,9 +7562,9 @@
 "LatLong": "50.7167,4.7833"
 },
 {
-"Name": "Beauvechain Tourinnes-la-Grosse",
+"Name": "Beauvechain",
 "PostCode": "1320",
-"LatLong": "50.775,4.7625"
+"LatLong": "50.7833,4.7667"
 },
 {
 "Name": "Beauvechain Hamme-Mille",
@@ -7572,9 +7572,9 @@
 "LatLong": "50.7833,4.7167"
 },
 {
-"Name": "Beauvechain",
+"Name": "Beauvechain Tourinnes-la-Grosse",
 "PostCode": "1320",
-"LatLong": "50.7833,4.7667"
+"LatLong": "50.775,4.7625"
 },
 {
 "Name": "Beauvechain L'Ecluse",
@@ -7672,17 +7672,17 @@
 "LatLong": "50.6833,4.9833"
 },
 {
-"Name": "Nivelles Folx-les-Caves",
-"PostCode": "1350",
-"LatLong": "50.7042,4.9583"
-},
-{
 "Name": "Nivelles Orp-le-Grand",
 "PostCode": "1350",
 "LatLong": "50.7042,4.9583"
 },
 {
 "Name": "Nivelles Jauche",
+"PostCode": "1350",
+"LatLong": "50.7042,4.9583"
+},
+{
+"Name": "Nivelles Folx-les-Caves",
 "PostCode": "1350",
 "LatLong": "50.7042,4.9583"
 },
@@ -7732,9 +7732,9 @@
 "LatLong": "50.6333,4.8667"
 },
 {
-"Name": "Ramillies Gérompont",
+"Name": "Ramillies Bomal",
 "PostCode": "1367",
-"LatLong": "50.65,4.8833"
+"LatLong": "50.6556,4.8833"
 },
 {
 "Name": "Ramillies Autre-Eglise",
@@ -7752,12 +7752,12 @@
 "LatLong": "50.6556,4.8833"
 },
 {
-"Name": "Ramillies",
+"Name": "Ramillies Gérompont",
 "PostCode": "1367",
-"LatLong": "50.6556,4.8833"
+"LatLong": "50.65,4.8833"
 },
 {
-"Name": "Ramillies Bomal",
+"Name": "Ramillies",
 "PostCode": "1367",
 "LatLong": "50.6556,4.8833"
 },
@@ -7917,14 +7917,14 @@
 "LatLong": "50.6339,4.4021"
 },
 {
-"Name": "Rebecq",
-"PostCode": "1430",
-"LatLong": "50.6667,4.1333"
-},
-{
 "Name": "Rebecq Quenast",
 "PostCode": "1430",
 "LatLong": "50.6667,4.15"
+},
+{
+"Name": "Rebecq",
+"PostCode": "1430",
+"LatLong": "50.6667,4.1333"
 },
 {
 "Name": "Rebecq Bierghes",
@@ -7947,12 +7947,12 @@
 "LatLong": "50.6333,4.6167"
 },
 {
-"Name": "Brainele-Château Wauthier-Braine",
+"Name": "Brainele-Château",
 "PostCode": "1440",
 "LatLong": "50.6339,4.4021"
 },
 {
-"Name": "Brainele-Château",
+"Name": "Brainele-Château Wauthier-Braine",
 "PostCode": "1440",
 "LatLong": "50.6339,4.4021"
 },
@@ -8087,12 +8087,12 @@
 "LatLong": "50.65,4.5667"
 },
 {
-"Name": "Villers-la-Ville",
+"Name": "Villers-la-Ville Mellery",
 "PostCode": "1495",
 "LatLong": "50.65,4.5667"
 },
 {
-"Name": "Villers-la-Ville Mellery",
+"Name": "Villers-la-Ville",
 "PostCode": "1495",
 "LatLong": "50.65,4.5667"
 },
@@ -8170,7 +8170,7 @@
 "LatLong": "50.4167,4.4333"
 },
 {
-"Name": "Charleroi Goutroux",
+"Name": "Charleroi Marchienne-au-Pont",
 "PostCode": "6030",
 "LatLong": "50.4167,4.4333"
 },
@@ -8180,7 +8180,7 @@
 "LatLong": "50.4167,4.4333"
 },
 {
-"Name": "Charleroi Marchienne-au-Pont",
+"Name": "Charleroi Goutroux",
 "PostCode": "6030",
 "LatLong": "50.4167,4.4333"
 },
@@ -8460,11 +8460,6 @@
 "LatLong": "50.4814,4.5488"
 },
 {
-"Name": "Pont-à-Celles Obaix",
-"PostCode": "6230",
-"LatLong": "50.4387,4.5254"
-},
-{
 "Name": "Pont-à-Celles",
 "PostCode": "6230",
 "LatLong": "50.4387,4.5254"
@@ -8475,7 +8470,7 @@
 "LatLong": "50.4387,4.5254"
 },
 {
-"Name": "Pont-à-Celles Viesville",
+"Name": "Pont-à-Celles Obaix",
 "PostCode": "6230",
 "LatLong": "50.4387,4.5254"
 },
@@ -8485,17 +8480,22 @@
 "LatLong": "50.4387,4.5254"
 },
 {
+"Name": "Pont-à-Celles Viesville",
+"PostCode": "6230",
+"LatLong": "50.4387,4.5254"
+},
+{
+"Name": "Pont-à-Celles",
+"PostCode": "6238",
+"LatLong": "50.4387,4.5254"
+},
+{
 "Name": "Pont-à-Celles Liberchies",
 "PostCode": "6238",
 "LatLong": "50.4387,4.5254"
 },
 {
 "Name": "Pont-à-Celles Luttre",
-"PostCode": "6238",
-"LatLong": "50.4387,4.5254"
-},
-{
-"Name": "Pont-à-Celles",
 "PostCode": "6238",
 "LatLong": "50.4387,4.5254"
 },
@@ -8520,7 +8520,7 @@
 "LatLong": "50.3833,4.5833"
 },
 {
-"Name": "Aiseau-Presles Pont-de-Loup",
+"Name": "Aiseau-Presles Roselies",
 "PostCode": "6250",
 "LatLong": "50.3833,4.5833"
 },
@@ -8530,7 +8530,7 @@
 "LatLong": "50.3833,4.5833"
 },
 {
-"Name": "Aiseau-Presles Roselies",
+"Name": "Aiseau-Presles Pont-de-Loup",
 "PostCode": "6250",
 "LatLong": "50.3833,4.5833"
 },
@@ -8570,12 +8570,12 @@
 "LatLong": "50.4495,4.1765"
 },
 {
-"Name": "Chapelle-lez-Herlaimont Godarville",
+"Name": "Chapelle-lez-Herlaimont",
 "PostCode": "7160",
 "LatLong": "50.4495,4.1765"
 },
 {
-"Name": "Chapelle-lez-Herlaimont",
+"Name": "Chapelle-lez-Herlaimont Godarville",
 "PostCode": "7160",
 "LatLong": "50.4495,4.1765"
 },
@@ -8641,6 +8641,11 @@
 "Code": "56",
 "Places": [
 {
+"Name": "Ham-sur-Heure-Nalinnes",
+"PostCode": "6120",
+"LatLong": "50.4524,4.3405"
+},
+{
 "Name": "Ham-sur-Heure-Nalinnes Marbaix",
 "PostCode": "6120",
 "LatLong": "50.4524,4.3405"
@@ -8651,17 +8656,12 @@
 "LatLong": "50.4524,4.3405"
 },
 {
-"Name": "Ham-sur-Heure-Nalinnes Ham-sur-Heure",
-"PostCode": "6120",
-"LatLong": "50.4524,4.3405"
-},
-{
-"Name": "Ham-sur-Heure-Nalinnes",
-"PostCode": "6120",
-"LatLong": "50.4524,4.3405"
-},
-{
 "Name": "Ham-sur-Heure-Nalinnes Jamioulx",
+"PostCode": "6120",
+"LatLong": "50.4524,4.3405"
+},
+{
+"Name": "Ham-sur-Heure-Nalinnes Ham-sur-Heure",
 "PostCode": "6120",
 "LatLong": "50.4524,4.3405"
 },
@@ -8681,12 +8681,12 @@
 "LatLong": "50.0574,4.3157"
 },
 {
-"Name": "Froidchapelle Vergnies",
+"Name": "Froidchapelle",
 "PostCode": "6440",
 "LatLong": "50.0574,4.3157"
 },
 {
-"Name": "Froidchapelle",
+"Name": "Froidchapelle Vergnies",
 "PostCode": "6440",
 "LatLong": "50.0574,4.3157"
 },
@@ -8711,9 +8711,9 @@
 "LatLong": "50.05,4.3"
 },
 {
-"Name": "Chimay Bailièvre",
+"Name": "Chimay Robechies",
 "PostCode": "6460",
-"LatLong": "50.0667,4.2333"
+"LatLong": "50.0667,4.2833"
 },
 {
 "Name": "Chimay Villers-la-Tour",
@@ -8726,9 +8726,9 @@
 "LatLong": "50.05,4.3167"
 },
 {
-"Name": "Chimay Robechies",
+"Name": "Chimay Bailièvre",
 "PostCode": "6460",
-"LatLong": "50.0667,4.2833"
+"LatLong": "50.0667,4.2333"
 },
 {
 "Name": "Chimay Salles",
@@ -8781,14 +8781,14 @@
 "LatLong": "49.9667,4.3667"
 },
 {
-"Name": "Chimay Forges",
-"PostCode": "6464",
-"LatLong": "50.0167,4.3333"
-},
-{
 "Name": "Chimay L'Escaillère",
 "PostCode": "6464",
 "LatLong": "49.95,4.4333"
+},
+{
+"Name": "Chimay Forges",
+"PostCode": "6464",
+"LatLong": "50.0167,4.3333"
 },
 {
 "Name": "Chimay Bourlers",
@@ -8801,7 +8801,7 @@
 "LatLong": "50.15,4.2667"
 },
 {
-"Name": "Sivry-Rance Montbliart",
+"Name": "Sivry-Rance Sautin",
 "PostCode": "6470",
 "LatLong": "50.15,4.2667"
 },
@@ -8811,7 +8811,7 @@
 "LatLong": "50.15,4.2667"
 },
 {
-"Name": "Sivry-Rance Sautin",
+"Name": "Sivry-Rance Montbliart",
 "PostCode": "6470",
 "LatLong": "50.15,4.2667"
 },
@@ -8826,19 +8826,14 @@
 "LatLong": "50.15,4.2667"
 },
 {
-"Name": "Beaumont",
-"PostCode": "6500",
-"LatLong": "50.2333,4.2333"
-},
-{
 "Name": "Beaumont Barbençon",
 "PostCode": "6500",
 "LatLong": "50.2167,4.2667"
 },
 {
-"Name": "Beaumont Leugnies",
+"Name": "Beaumont",
 "PostCode": "6500",
-"LatLong": "50.2167,4.1833"
+"LatLong": "50.2333,4.2333"
 },
 {
 "Name": "Beaumont Solre-Saint-Géry",
@@ -8846,14 +8841,19 @@
 "LatLong": "50.2,4.2333"
 },
 {
-"Name": "Beaumont Renlies",
+"Name": "Beaumont Leugnies",
 "PostCode": "6500",
-"LatLong": "50.2,4.2667"
+"LatLong": "50.2167,4.1833"
 },
 {
 "Name": "Beaumont Leval-Chaudeville",
 "PostCode": "6500",
 "LatLong": "50.2333,4.2167"
+},
+{
+"Name": "Beaumont Renlies",
+"PostCode": "6500",
+"LatLong": "50.2,4.2667"
 },
 {
 "Name": "Beaumont Thirimont",
@@ -9001,17 +9001,17 @@
 "LatLong": "50.3029,4.1342"
 },
 {
-"Name": "Merbes-le-Château",
-"PostCode": "6567",
-"LatLong": "50.3029,4.1342"
-},
-{
 "Name": "Merbes-le-Château Labuissière",
 "PostCode": "6567",
 "LatLong": "50.3029,4.1342"
 },
 {
 "Name": "Merbes-le-Château Fontaine-Valmont",
+"PostCode": "6567",
+"LatLong": "50.3029,4.1342"
+},
+{
+"Name": "Merbes-le-Château",
 "PostCode": "6567",
 "LatLong": "50.3029,4.1342"
 },
@@ -9116,12 +9116,12 @@
 "LatLong": "50.3663,4.0957"
 },
 {
-"Name": "Estinnes Vellereille-les-Brayeux",
+"Name": "Estinnes Vellereille-le-Sec",
 "PostCode": "7120",
 "LatLong": "50.3663,4.0957"
 },
 {
-"Name": "Estinnes Vellereille-le-Sec",
+"Name": "Estinnes Vellereille-les-Brayeux",
 "PostCode": "7120",
 "LatLong": "50.3663,4.0957"
 },
@@ -9237,12 +9237,12 @@
 "LatLong": "50.4541,3.9523"
 },
 {
-"Name": "Mons Flénu",
+"Name": "Mons Jemappes",
 "PostCode": "7012",
 "LatLong": "50.4541,3.9523"
 },
 {
-"Name": "Mons Jemappes",
+"Name": "Mons Flénu",
 "PostCode": "7012",
 "LatLong": "50.4541,3.9523"
 },
@@ -9252,7 +9252,7 @@
 "LatLong": "50.4541,3.9523"
 },
 {
-"Name": "Mons Casteau",
+"Name": "Mons Masnuy-Saint-Jean",
 "PostCode": "7020",
 "LatLong": "50.4541,3.9523"
 },
@@ -9262,17 +9262,17 @@
 "LatLong": "50.4541,3.9523"
 },
 {
+"Name": "Mons Maisières",
+"PostCode": "7020",
+"LatLong": "50.4541,3.9523"
+},
+{
 "Name": "Mons Casteau,Maisières,Masnuy-Saint-Jean",
 "PostCode": "7020",
 "LatLong": "50.4541,3.9523"
 },
 {
-"Name": "Mons Masnuy-Saint-Jean",
-"PostCode": "7020",
-"LatLong": "50.4541,3.9523"
-},
-{
-"Name": "Mons Maisières",
+"Name": "Mons Casteau",
 "PostCode": "7020",
 "LatLong": "50.4541,3.9523"
 },
@@ -9292,7 +9292,7 @@
 "LatLong": "50.4541,3.9523"
 },
 {
-"Name": "Mons Mesvin",
+"Name": "Mons Harmignies",
 "PostCode": "7022",
 "LatLong": "50.4541,3.9523"
 },
@@ -9302,17 +9302,17 @@
 "LatLong": "50.4541,3.9523"
 },
 {
-"Name": "Mons Harmignies",
+"Name": "Mons Hyon",
+"PostCode": "7022",
+"LatLong": "50.4541,3.9523"
+},
+{
+"Name": "Mons Mesvin",
 "PostCode": "7022",
 "LatLong": "50.4541,3.9523"
 },
 {
 "Name": "Mons Harveng",
-"PostCode": "7022",
-"LatLong": "50.4541,3.9523"
-},
-{
-"Name": "Mons Hyon",
 "PostCode": "7022",
 "LatLong": "50.4541,3.9523"
 },
@@ -9372,17 +9372,17 @@
 "LatLong": "50.4541,3.9523"
 },
 {
+"Name": "Mons Saint-Denis",
+"PostCode": "7034",
+"LatLong": "50.4541,3.9523"
+},
+{
 "Name": "Mons Obourg",
 "PostCode": "7034",
 "LatLong": "50.4541,3.9523"
 },
 {
 "Name": "Mons Obourg,Saint-Denis",
-"PostCode": "7034",
-"LatLong": "50.4541,3.9523"
-},
-{
-"Name": "Mons Saint-Denis",
 "PostCode": "7034",
 "LatLong": "50.4541,3.9523"
 },
@@ -9397,7 +9397,7 @@
 "LatLong": "50.3895,3.9124"
 },
 {
-"Name": "Quévy",
+"Name": "Quévy Quévy-le-Petit",
 "PostCode": "7040",
 "LatLong": "50.3696,3.9249"
 },
@@ -9412,7 +9412,7 @@
 "LatLong": "50.3578,3.8916"
 },
 {
-"Name": "Quévy Quévy-le-Petit",
+"Name": "Quévy",
 "PostCode": "7040",
 "LatLong": "50.3696,3.9249"
 },
@@ -9592,14 +9592,14 @@
 "LatLong": "50.4015,3.8224"
 },
 {
-"Name": "Hensies Thulin",
-"PostCode": "7350",
-"LatLong": "50.4301,3.7401"
-},
-{
 "Name": "Hensies Montroeul-sur-Haine",
 "PostCode": "7350",
 "LatLong": "50.4307,3.7303"
+},
+{
+"Name": "Hensies Thulin",
+"PostCode": "7350",
+"LatLong": "50.4301,3.7401"
 },
 {
 "Name": "Hensies Hainin",
@@ -9809,7 +9809,7 @@
 "LatLong": "50.5918,3.998"
 },
 {
-"Name": "Le Roeulx",
+"Name": "Le Roeulx Ville-sur-Haine",
 "PostCode": "7070",
 "LatLong": "50.501,4.1008"
 },
@@ -9819,7 +9819,7 @@
 "LatLong": "50.4953,4.06"
 },
 {
-"Name": "Le Roeulx Le Roeulx",
+"Name": "Le Roeulx",
 "PostCode": "7070",
 "LatLong": "50.501,4.1008"
 },
@@ -9829,7 +9829,7 @@
 "LatLong": "50.4743,4.0926"
 },
 {
-"Name": "Le Roeulx Ville-sur-Haine",
+"Name": "Le Roeulx Le Roeulx",
 "PostCode": "7070",
 "LatLong": "50.501,4.1008"
 },
@@ -9844,22 +9844,7 @@
 "LatLong": "50.4728,3.974"
 },
 {
-"Name": "Braine-le-Comte Hennuyères",
-"PostCode": "7090",
-"LatLong": "50.4728,3.974"
-},
-{
-"Name": "Braine-le-Comte Steenkerque",
-"PostCode": "7090",
-"LatLong": "50.4728,3.974"
-},
-{
 "Name": "Braine-le-Comte",
-"PostCode": "7090",
-"LatLong": "50.4728,3.974"
-},
-{
-"Name": "Braine-le-Comte Ronquières",
 "PostCode": "7090",
 "LatLong": "50.4728,3.974"
 },
@@ -9869,9 +9854,24 @@
 "LatLong": "50.4728,3.974"
 },
 {
-"Name": "La Louvière Trivières",
+"Name": "Braine-le-Comte Hennuyères",
+"PostCode": "7090",
+"LatLong": "50.4728,3.974"
+},
+{
+"Name": "Braine-le-Comte Ronquières",
+"PostCode": "7090",
+"LatLong": "50.4728,3.974"
+},
+{
+"Name": "Braine-le-Comte Steenkerque",
+"PostCode": "7090",
+"LatLong": "50.4728,3.974"
+},
+{
+"Name": "La Louvière",
 "PostCode": "7100",
-"LatLong": "50.4483,4.1451"
+"LatLong": "50.4866,4.1879"
 },
 {
 "Name": "La Louvière Saint-Vaast",
@@ -9879,9 +9879,9 @@
 "LatLong": "50.45,4.15"
 },
 {
-"Name": "La Louvière",
+"Name": "La Louvière Trivières",
 "PostCode": "7100",
-"LatLong": "50.4866,4.1879"
+"LatLong": "50.4483,4.1451"
 },
 {
 "Name": "La Louvière Haine-Saint-Paul",
@@ -9934,17 +9934,17 @@
 "LatLong": "50.4866,4.1879"
 },
 {
-"Name": "Ecaussinnes",
-"PostCode": "7190",
-"LatLong": "50.5667,4.1833"
-},
-{
 "Name": "Ecaussinnes Ecaussinnes-d'Enghien",
 "PostCode": "7190",
 "LatLong": "50.5667,4.1833"
 },
 {
 "Name": "Ecaussinnes Marche-lez-Ecaussinnes",
+"PostCode": "7190",
+"LatLong": "50.5667,4.1833"
+},
+{
+"Name": "Ecaussinnes",
 "PostCode": "7190",
 "LatLong": "50.5667,4.1833"
 },
@@ -10205,17 +10205,7 @@
 "LatLong": "50.6294,3.778"
 },
 {
-"Name": "Ath Houtaing",
-"PostCode": "7812",
-"LatLong": "50.6294,3.778"
-},
-{
-"Name": "Ath Moulbaix",
-"PostCode": "7812",
-"LatLong": "50.6294,3.778"
-},
-{
-"Name": "Ath Ligne",
+"Name": "Ath Villers-Notre-Dame",
 "PostCode": "7812",
 "LatLong": "50.6294,3.778"
 },
@@ -10225,17 +10215,22 @@
 "LatLong": "50.6294,3.778"
 },
 {
-"Name": "Ath Villers-Notre-Dame",
+"Name": "Ath Houtaing",
+"PostCode": "7812",
+"LatLong": "50.6294,3.778"
+},
+{
+"Name": "Ath Ligne",
+"PostCode": "7812",
+"LatLong": "50.6294,3.778"
+},
+{
+"Name": "Ath Moulbaix",
 "PostCode": "7812",
 "LatLong": "50.6294,3.778"
 },
 {
 "Name": "Ath",
-"PostCode": "7822",
-"LatLong": "50.6294,3.778"
-},
-{
-"Name": "Ath Isières",
 "PostCode": "7822",
 "LatLong": "50.6294,3.778"
 },
@@ -10246,6 +10241,11 @@
 },
 {
 "Name": "Ath Ghislenghien",
+"PostCode": "7822",
+"LatLong": "50.6294,3.778"
+},
+{
+"Name": "Ath Isières",
 "PostCode": "7822",
 "LatLong": "50.6294,3.778"
 },
@@ -10280,12 +10280,12 @@
 "LatLong": "50.7167,3.75"
 },
 {
-"Name": "Frasnes-lez-Anvaing",
+"Name": "Frasnes-lez-Anvaing Forest",
 "PostCode": "7910",
 "LatLong": "50.5523,3.7431"
 },
 {
-"Name": "Frasnes-lez-Anvaing Anvaing",
+"Name": "Frasnes-lez-Anvaing Cordes",
 "PostCode": "7910",
 "LatLong": "50.5523,3.7431"
 },
@@ -10300,7 +10300,7 @@
 "LatLong": "50.5523,3.7431"
 },
 {
-"Name": "Frasnes-lez-Anvaing Cordes",
+"Name": "Frasnes-lez-Anvaing",
 "PostCode": "7910",
 "LatLong": "50.5523,3.7431"
 },
@@ -10310,18 +10310,8 @@
 "LatLong": "50.5523,3.7431"
 },
 {
-"Name": "Frasnes-lez-Anvaing Forest",
+"Name": "Frasnes-lez-Anvaing Anvaing",
 "PostCode": "7910",
-"LatLong": "50.5523,3.7431"
-},
-{
-"Name": "Frasnes-lez-Anvaing Moustier",
-"PostCode": "7911",
-"LatLong": "50.5523,3.7431"
-},
-{
-"Name": "Frasnes-lez-Anvaing Frasnes-lez-Buissenal",
-"PostCode": "7911",
 "LatLong": "50.5523,3.7431"
 },
 {
@@ -10330,7 +10320,7 @@
 "LatLong": "50.5523,3.7431"
 },
 {
-"Name": "Frasnes-lez-Anvaing Herquegies",
+"Name": "Frasnes-lez-Anvaing",
 "PostCode": "7911",
 "LatLong": "50.5523,3.7431"
 },
@@ -10340,12 +10330,22 @@
 "LatLong": "50.5523,3.7431"
 },
 {
+"Name": "Frasnes-lez-Anvaing Frasnes-lez-Buissenal",
+"PostCode": "7911",
+"LatLong": "50.5523,3.7431"
+},
+{
+"Name": "Frasnes-lez-Anvaing Herquegies",
+"PostCode": "7911",
+"LatLong": "50.5523,3.7431"
+},
+{
 "Name": "Frasnes-lez-Anvaing Montroeul-au-Bois",
 "PostCode": "7911",
 "LatLong": "50.5523,3.7431"
 },
 {
-"Name": "Frasnes-lez-Anvaing",
+"Name": "Frasnes-lez-Anvaing Moustier",
 "PostCode": "7911",
 "LatLong": "50.5523,3.7431"
 },
@@ -10355,17 +10355,17 @@
 "LatLong": "50.5523,3.7431"
 },
 {
-"Name": "Frasnes-lez-Anvaing Saint-Sauveur",
-"PostCode": "7912",
-"LatLong": "50.5523,3.7431"
-},
-{
 "Name": "Frasnes-lez-Anvaing Dergneau",
 "PostCode": "7912",
 "LatLong": "50.5523,3.7431"
 },
 {
 "Name": "Frasnes-lez-Anvaing",
+"PostCode": "7912",
+"LatLong": "50.5523,3.7431"
+},
+{
+"Name": "Frasnes-lez-Anvaing Saint-Sauveur",
 "PostCode": "7912",
 "LatLong": "50.5523,3.7431"
 },
@@ -10596,12 +10596,7 @@
 "LatLong": "50.6,3.3833"
 },
 {
-"Name": "Tournai Marquain",
-"PostCode": "7522",
-"LatLong": "50.6,3.3833"
-},
-{
-"Name": "Tournai Lamain",
+"Name": "Tournai Hertain",
 "PostCode": "7522",
 "LatLong": "50.6,3.3833"
 },
@@ -10611,7 +10606,12 @@
 "LatLong": "50.6,3.3833"
 },
 {
-"Name": "Tournai Hertain",
+"Name": "Tournai Marquain",
+"PostCode": "7522",
+"LatLong": "50.6,3.3833"
+},
+{
+"Name": "Tournai Lamain",
 "PostCode": "7522",
 "LatLong": "50.6,3.3833"
 },
@@ -10696,12 +10696,12 @@
 "LatLong": "50.6,3.3833"
 },
 {
-"Name": "Tournai Quartes",
+"Name": "Tournai Kain",
 "PostCode": "7540",
 "LatLong": "50.6,3.3833"
 },
 {
-"Name": "Tournai Kain",
+"Name": "Tournai Quartes",
 "PostCode": "7540",
 "LatLong": "50.6,3.3833"
 },
@@ -10846,22 +10846,7 @@
 "LatLong": "50.55,3.3"
 },
 {
-"Name": "Brunehaut",
-"PostCode": "7620",
-"LatLong": "50.539,3.4902"
-},
-{
-"Name": "Brunehaut Jollain-Merlin",
-"PostCode": "7620",
-"LatLong": "50.539,3.4902"
-},
-{
-"Name": "Brunehaut Wez-Velvain",
-"PostCode": "7620",
-"LatLong": "50.539,3.4902"
-},
-{
-"Name": "Brunehaut Hollain",
+"Name": "Brunehaut Bléharies",
 "PostCode": "7620",
 "LatLong": "50.539,3.4902"
 },
@@ -10871,7 +10856,22 @@
 "LatLong": "50.539,3.4902"
 },
 {
-"Name": "Brunehaut Bléharies",
+"Name": "Brunehaut Hollain",
+"PostCode": "7620",
+"LatLong": "50.539,3.4902"
+},
+{
+"Name": "Brunehaut Wez-Velvain",
+"PostCode": "7620",
+"LatLong": "50.539,3.4902"
+},
+{
+"Name": "Brunehaut Jollain-Merlin",
+"PostCode": "7620",
+"LatLong": "50.539,3.4902"
+},
+{
+"Name": "Brunehaut",
 "PostCode": "7620",
 "LatLong": "50.539,3.4902"
 },
@@ -10886,13 +10886,18 @@
 "LatLong": "50.539,3.4902"
 },
 {
+"Name": "Brunehaut",
+"PostCode": "7622",
+"LatLong": "50.539,3.4902"
+},
+{
 "Name": "Brunehaut Laplaigne",
 "PostCode": "7622",
 "LatLong": "50.539,3.4902"
 },
 {
 "Name": "Brunehaut",
-"PostCode": "7622",
+"PostCode": "7623",
 "LatLong": "50.539,3.4902"
 },
 {
@@ -10901,17 +10906,12 @@
 "LatLong": "50.539,3.4902"
 },
 {
-"Name": "Brunehaut",
-"PostCode": "7623",
-"LatLong": "50.539,3.4902"
-},
-{
-"Name": "Brunehaut",
+"Name": "Brunehaut Howardries",
 "PostCode": "7624",
 "LatLong": "50.539,3.4902"
 },
 {
-"Name": "Brunehaut Howardries",
+"Name": "Brunehaut",
 "PostCode": "7624",
 "LatLong": "50.539,3.4902"
 },
@@ -10986,14 +10986,14 @@
 "LatLong": "50.6833,3.2667"
 },
 {
-"Name": "Estaimpuis Bailleul",
-"PostCode": "7730",
-"LatLong": "50.6667,3.3"
-},
-{
 "Name": "Estaimpuis",
 "PostCode": "7730",
 "LatLong": "50.7,3.25"
+},
+{
+"Name": "Estaimpuis Bailleul",
+"PostCode": "7730",
+"LatLong": "50.6667,3.3"
 },
 {
 "Name": "Pecq",
@@ -11031,12 +11031,12 @@
 "LatLong": "50.6833,3.3333"
 },
 {
-"Name": "Mont-de-l'Enclus Russeignies",
+"Name": "Mont-de-l'Enclus",
 "PostCode": "7750",
 "LatLong": "50.7005,3.2756"
 },
 {
-"Name": "Mont-de-l'Enclus Amougies",
+"Name": "Mont-de-l'Enclus Russeignies",
 "PostCode": "7750",
 "LatLong": "50.7005,3.2756"
 },
@@ -11051,7 +11051,7 @@
 "LatLong": "50.7005,3.2756"
 },
 {
-"Name": "Mont-de-l'Enclus",
+"Name": "Mont-de-l'Enclus Amougies",
 "PostCode": "7750",
 "LatLong": "50.7005,3.2756"
 },
@@ -11066,17 +11066,17 @@
 "LatLong": "50.7167,3.45"
 },
 {
-"Name": "Celles Molenbaix",
-"PostCode": "7760",
-"LatLong": "50.7167,3.45"
-},
-{
 "Name": "Celles Velaines",
 "PostCode": "7760",
 "LatLong": "50.7167,3.45"
 },
 {
 "Name": "Celles Escanaffles",
+"PostCode": "7760",
+"LatLong": "50.7167,3.45"
+},
+{
+"Name": "Celles Molenbaix",
 "PostCode": "7760",
 "LatLong": "50.7167,3.45"
 },
@@ -11116,13 +11116,23 @@
 "LatLong": "50.5523,3.7431"
 },
 {
+"Name": "Leuze-en-Hainaut Chapelle-à-Wattines",
+"PostCode": "7903",
+"LatLong": "50.5523,3.7431"
+},
+{
 "Name": "Leuze-en-Hainaut Chapelle-à-Oie",
 "PostCode": "7903",
 "LatLong": "50.5523,3.7431"
 },
 {
-"Name": "Leuze-en-Hainaut Chapelle-à-Wattines",
-"PostCode": "7903",
+"Name": "Leuze-en-Hainaut Willaupuis",
+"PostCode": "7904",
+"LatLong": "50.5523,3.7431"
+},
+{
+"Name": "Leuze-en-Hainaut Tourpes",
+"PostCode": "7904",
 "LatLong": "50.5523,3.7431"
 },
 {
@@ -11136,22 +11146,12 @@
 "LatLong": "50.5523,3.7431"
 },
 {
-"Name": "Leuze-en-Hainaut Tourpes",
-"PostCode": "7904",
-"LatLong": "50.5523,3.7431"
-},
-{
-"Name": "Leuze-en-Hainaut Willaupuis",
-"PostCode": "7904",
-"LatLong": "50.5523,3.7431"
-},
-{
-"Name": "Leuze-en-Hainaut",
+"Name": "Leuze-en-Hainaut Gallaix",
 "PostCode": "7906",
 "LatLong": "50.5523,3.7431"
 },
 {
-"Name": "Leuze-en-Hainaut Gallaix",
+"Name": "Leuze-en-Hainaut",
 "PostCode": "7906",
 "LatLong": "50.5523,3.7431"
 }
@@ -11237,12 +11237,12 @@
 "LatLong": "50.7594,2.96"
 },
 {
-"Name": "Comines-Warneton Warneton",
+"Name": "Comines-Warneton",
 "PostCode": "7784",
 "LatLong": "50.7594,2.96"
 },
 {
-"Name": "Comines-Warneton",
+"Name": "Comines-Warneton Warneton",
 "PostCode": "7784",
 "LatLong": "50.7594,2.96"
 }
@@ -11284,12 +11284,12 @@
 "LatLong": "50.6412,5.5718"
 },
 {
-"Name": "Liège Jupille-sur-Meuse",
+"Name": "Liège Bressoux",
 "PostCode": "4020",
 "LatLong": "50.6412,5.5718"
 },
 {
-"Name": "Liège Bressoux",
+"Name": "Liège Jupille-sur-Meuse",
 "PostCode": "4020",
 "LatLong": "50.6412,5.5718"
 },
@@ -11424,22 +11424,22 @@
 "LatLong": "50.4952,5.5673"
 },
 {
+"Name": "Neupré",
+"PostCode": "4120",
+"LatLong": "50.4952,5.5673"
+},
+{
 "Name": "Neupré Ehein",
 "PostCode": "4120",
 "LatLong": "50.4952,5.5673"
 },
 {
 "Name": "Neupré",
-"PostCode": "4120",
-"LatLong": "50.4952,5.5673"
-},
-{
-"Name": "Neupré Neuville-en-Condroz",
 "PostCode": "4121",
 "LatLong": "50.4952,5.5673"
 },
 {
-"Name": "Neupré",
+"Name": "Neupré Neuville-en-Condroz",
 "PostCode": "4121",
 "LatLong": "50.4952,5.5673"
 },
@@ -11499,12 +11499,12 @@
 "LatLong": "50.4952,5.5673"
 },
 {
-"Name": "Comblain-au-Pont Poulseur",
+"Name": "Comblain-au-Pont",
 "PostCode": "4171",
 "LatLong": "50.4952,5.5673"
 },
 {
-"Name": "Comblain-au-Pont",
+"Name": "Comblain-au-Pont Poulseur",
 "PostCode": "4171",
 "LatLong": "50.4952,5.5673"
 },
@@ -11539,9 +11539,9 @@
 "LatLong": "50.6667,5.4667"
 },
 {
-"Name": "Flémalle Flémalle-Grande",
+"Name": "Flémalle Awirs",
 "PostCode": "4400",
-"LatLong": "50.6,5.4833"
+"LatLong": "50.6,5.4"
 },
 {
 "Name": "Flémalle Chokier",
@@ -11554,12 +11554,12 @@
 "LatLong": "50.6167,5.4"
 },
 {
-"Name": "Flémalle Awirs",
+"Name": "Flémalle Flémalle-Grande",
 "PostCode": "4400",
-"LatLong": "50.6,5.4"
+"LatLong": "50.6,5.4833"
 },
 {
-"Name": "Flémalle Mons-lez-Liège",
+"Name": "Flémalle Les Cahottes",
 "PostCode": "4400",
 "LatLong": "50.6033,5.4367"
 },
@@ -11569,17 +11569,17 @@
 "LatLong": "50.6,5.4667"
 },
 {
-"Name": "Flémalle",
-"PostCode": "4400",
-"LatLong": "50.6033,5.4367"
-},
-{
 "Name": "Flémalle Ivoz-Ramet",
 "PostCode": "4400",
 "LatLong": "50.6033,5.4367"
 },
 {
-"Name": "Flémalle Les Cahottes",
+"Name": "Flémalle",
+"PostCode": "4400",
+"LatLong": "50.6033,5.4367"
+},
+{
+"Name": "Flémalle Mons-lez-Liège",
 "PostCode": "4400",
 "LatLong": "50.6033,5.4367"
 },
@@ -11779,9 +11779,9 @@
 "LatLong": "50.75,5.7333"
 },
 {
-"Name": "Dalhem Mortroux",
+"Name": "Dalhem",
 "PostCode": "4607",
-"LatLong": "50.7167,5.75"
+"LatLong": "50.7167,5.7167"
 },
 {
 "Name": "Dalhem Feneur",
@@ -11789,9 +11789,9 @@
 "LatLong": "50.7,5.7167"
 },
 {
-"Name": "Dalhem",
+"Name": "Dalhem Mortroux",
 "PostCode": "4607",
-"LatLong": "50.7167,5.7167"
+"LatLong": "50.7167,5.75"
 },
 {
 "Name": "Dalhem Neufchâteau",
@@ -12185,9 +12185,9 @@
 "LatLong": "50.5833,5.0833"
 },
 {
-"Name": "Burdinne Oteppe",
+"Name": "Burdinne",
 "PostCode": "4210",
-"LatLong": "50.5833,5.1333"
+"LatLong": "50.5833,5.0667"
 },
 {
 "Name": "Burdinne Vissoul",
@@ -12195,9 +12195,9 @@
 "LatLong": "50.5833,5.0967"
 },
 {
-"Name": "Burdinne",
+"Name": "Burdinne Oteppe",
 "PostCode": "4210",
-"LatLong": "50.5833,5.0667"
+"LatLong": "50.5833,5.1333"
 },
 {
 "Name": "Burdinne Hannêche",
@@ -12240,12 +12240,12 @@
 "LatLong": "50.5833,5.4167"
 },
 {
-"Name": "Engis Ehein",
+"Name": "Engis Clermont-sous-Huy",
 "PostCode": "4480",
 "LatLong": "50.5833,5.4167"
 },
 {
-"Name": "Engis Clermont-sous-Huy",
+"Name": "Engis Ehein",
 "PostCode": "4480",
 "LatLong": "50.5833,5.4167"
 },
@@ -12300,16 +12300,6 @@
 "LatLong": "50.6083,5.2917"
 },
 {
-"Name": "Villers-le-Bouillet",
-"PostCode": "4530",
-"LatLong": "50.6083,5.2917"
-},
-{
-"Name": "Villers-le-Bouillet Fize-Fontaine",
-"PostCode": "4530",
-"LatLong": "50.6083,5.2917"
-},
-{
 "Name": "Villers-le-Bouillet Warnant-Dreye",
 "PostCode": "4530",
 "LatLong": "50.6083,5.2917"
@@ -12320,12 +12310,22 @@
 "LatLong": "50.6083,5.2917"
 },
 {
+"Name": "Villers-le-Bouillet",
+"PostCode": "4530",
+"LatLong": "50.6083,5.2917"
+},
+{
+"Name": "Villers-le-Bouillet Fize-Fontaine",
+"PostCode": "4530",
+"LatLong": "50.6083,5.2917"
+},
+{
 "Name": "Verlaine Chapon-Seraing",
 "PostCode": "4537",
 "LatLong": "50.6167,5.2667"
 },
 {
-"Name": "Verlaine Seraing-le-Château",
+"Name": "Verlaine Bodegnée",
 "PostCode": "4537",
 "LatLong": "50.6083,5.2917"
 },
@@ -12335,7 +12335,7 @@
 "LatLong": "50.6,5.3167"
 },
 {
-"Name": "Verlaine Bodegnée",
+"Name": "Verlaine Seraing-le-Château",
 "PostCode": "4537",
 "LatLong": "50.6083,5.2917"
 },
@@ -12646,7 +12646,7 @@
 "LatLong": "50.7,5.1167"
 },
 {
-"Name": "Hannut Villers-le-Peuplier",
+"Name": "Hannut Avernas-le-Bauduin",
 "PostCode": "4280",
 "LatLong": "50.6698,5.0771"
 },
@@ -12656,7 +12656,7 @@
 "LatLong": "50.6833,5.1333"
 },
 {
-"Name": "Hannut Avernas-le-Bauduin",
+"Name": "Hannut Villers-le-Peuplier",
 "PostCode": "4280",
 "LatLong": "50.6698,5.0771"
 },
@@ -12741,9 +12741,9 @@
 "LatLong": "50.7333,5.0333"
 },
 {
-"Name": "Waremme Bettincourt",
+"Name": "Waremme Grand-Axhe",
 "PostCode": "4300",
-"LatLong": "50.7167,5.2333"
+"LatLong": "50.6833,5.2333"
 },
 {
 "Name": "Waremme Lantremange",
@@ -12766,9 +12766,9 @@
 "LatLong": "50.7167,5.2833"
 },
 {
-"Name": "Waremme Grand-Axhe",
+"Name": "Waremme Bettincourt",
 "PostCode": "4300",
-"LatLong": "50.6833,5.2333"
+"LatLong": "50.7167,5.2333"
 },
 {
 "Name": "Waremme Bovenistier",
@@ -12906,9 +12906,9 @@
 "LatLong": "50.7333,5.3667"
 },
 {
-"Name": "Crisnée Thys",
+"Name": "Crisnée Fize-le-Marsal",
 "PostCode": "4367",
-"LatLong": "50.7167,5.4"
+"LatLong": "50.7083,5.4083"
 },
 {
 "Name": "Crisnée Kemexhe",
@@ -12916,14 +12916,14 @@
 "LatLong": "50.7,5.4167"
 },
 {
+"Name": "Crisnée Thys",
+"PostCode": "4367",
+"LatLong": "50.7167,5.4"
+},
+{
 "Name": "Crisnée Odeur",
 "PostCode": "4367",
 "LatLong": "50.7,5.4167"
-},
-{
-"Name": "Crisnée Fize-le-Marsal",
-"PostCode": "4367",
-"LatLong": "50.7083,5.4083"
 },
 {
 "Name": "Crisnée",
@@ -13037,12 +13037,12 @@
 "LatLong": "50.4406,6.1303"
 },
 {
-"Name": "Kelmis Neu-Moresnet",
+"Name": "Kelmis",
 "PostCode": "4721",
 "LatLong": "50.4406,6.1303"
 },
 {
-"Name": "Kelmis",
+"Name": "Kelmis Neu-Moresnet",
 "PostCode": "4721",
 "LatLong": "50.4406,6.1303"
 },
@@ -13072,12 +13072,12 @@
 "LatLong": "50.6833,6.1167"
 },
 {
-"Name": "Bütgenbach Elsenborn",
+"Name": "Bütgenbach",
 "PostCode": "4750",
 "LatLong": "50.4406,6.1303"
 },
 {
-"Name": "Bütgenbach",
+"Name": "Bütgenbach Elsenborn",
 "PostCode": "4750",
 "LatLong": "50.4406,6.1303"
 },
@@ -13382,7 +13382,7 @@
 "LatLong": "50.7,5.85"
 },
 {
-"Name": "Thimister-Clermont Thimister",
+"Name": "Thimister-Clermont Clermont",
 "PostCode": "4890",
 "LatLong": "50.6244,5.8764"
 },
@@ -13392,7 +13392,7 @@
 "LatLong": "50.6244,5.8764"
 },
 {
-"Name": "Thimister-Clermont Clermont",
+"Name": "Thimister-Clermont Thimister",
 "PostCode": "4890",
 "LatLong": "50.6244,5.8764"
 },
@@ -13472,12 +13472,12 @@
 "LatLong": "50.355,5.9208"
 },
 {
-"Name": "Trois-Ponts",
+"Name": "Trois-Ponts Fosse",
 "PostCode": "4980",
 "LatLong": "50.355,5.9208"
 },
 {
-"Name": "Trois-Ponts Fosse",
+"Name": "Trois-Ponts",
 "PostCode": "4980",
 "LatLong": "50.355,5.9208"
 },
@@ -13502,7 +13502,7 @@
 "LatLong": "50.4167,5.7333"
 },
 {
-"Name": "Stoumont Cheneux",
+"Name": "Stoumont Targnon",
 "PostCode": "4987",
 "LatLong": "50.4033,5.78"
 },
@@ -13527,7 +13527,7 @@
 "LatLong": "50.4167,5.8"
 },
 {
-"Name": "Stoumont Targnon",
+"Name": "Stoumont Cheneux",
 "PostCode": "4987",
 "LatLong": "50.4033,5.78"
 },
@@ -13574,12 +13574,12 @@
 "LatLong": "49.9907,5.7876"
 },
 {
-"Name": "Bastogne Noville",
+"Name": "Bastogne Villers-la-Bonne-Eau",
 "PostCode": "6600",
 "LatLong": "50.0025,5.7792"
 },
 {
-"Name": "Bastogne Villers-la-Bonne-Eau",
+"Name": "Bastogne Noville",
 "PostCode": "6600",
 "LatLong": "50.0025,5.7792"
 },
@@ -13604,6 +13604,11 @@
 "LatLong": "49.8833,5.55"
 },
 {
+"Name": "Vaux-sur-Sûre Vaux-lez-Rosières",
+"PostCode": "6640",
+"LatLong": "49.8833,5.55"
+},
+{
 "Name": "Vaux-sur-Sûre Nives",
 "PostCode": "6640",
 "LatLong": "49.8833,5.55"
@@ -13614,22 +13619,17 @@
 "LatLong": "49.8833,5.55"
 },
 {
-"Name": "Vaux-sur-Sûre Vaux-lez-Rosières",
-"PostCode": "6640",
-"LatLong": "49.8833,5.55"
-},
-{
-"Name": "Vaux-sur-Sûre Sibret",
-"PostCode": "6640",
-"LatLong": "49.8833,5.55"
-},
-{
 "Name": "Vaux-sur-Sûre Juseret",
 "PostCode": "6640",
 "LatLong": "49.8833,5.55"
 },
 {
 "Name": "Vaux-sur-Sûre Hompré",
+"PostCode": "6640",
+"LatLong": "49.8833,5.55"
+},
+{
+"Name": "Vaux-sur-Sûre Sibret",
 "PostCode": "6640",
 "LatLong": "49.8833,5.55"
 },
@@ -14192,12 +14192,7 @@
 "LatLong": "49.5528,5.5389"
 },
 {
-"Name": "Meix-devant-Virton",
-"PostCode": "6769",
-"LatLong": "49.5528,5.5389"
-},
-{
-"Name": "Meix-devant-Virton Robelmont",
+"Name": "Meix-devant-Virton Villers-la-Loue",
 "PostCode": "6769",
 "LatLong": "49.5528,5.5389"
 },
@@ -14207,7 +14202,12 @@
 "LatLong": "49.5528,5.5389"
 },
 {
-"Name": "Meix-devant-Virton Villers-la-Loue",
+"Name": "Meix-devant-Virton",
+"PostCode": "6769",
+"LatLong": "49.5528,5.5389"
+},
+{
+"Name": "Meix-devant-Virton Robelmont",
 "PostCode": "6769",
 "LatLong": "49.5528,5.5389"
 },
@@ -14313,37 +14313,7 @@
 "Code": "84",
 "Places": [
 {
-"Name": "Libramont-Chevigny Moircy",
-"PostCode": "6800",
-"LatLong": "49.8407,5.2515"
-},
-{
-"Name": "Libramont-Chevigny Saint-Pierre",
-"PostCode": "6800",
-"LatLong": "49.8407,5.2515"
-},
-{
-"Name": "Libramont-Chevigny Sainte-Marie-Chevigny",
-"PostCode": "6800",
-"LatLong": "49.8407,5.2515"
-},
-{
-"Name": "Libramont-Chevigny Bras",
-"PostCode": "6800",
-"LatLong": "49.8407,5.2515"
-},
-{
-"Name": "Libramont-Chevigny",
-"PostCode": "6800",
-"LatLong": "49.8407,5.2515"
-},
-{
 "Name": "Libramont-Chevigny Remagne",
-"PostCode": "6800",
-"LatLong": "49.8407,5.2515"
-},
-{
-"Name": "Libramont-Chevigny Recogne",
 "PostCode": "6800",
 "LatLong": "49.8407,5.2515"
 },
@@ -14354,6 +14324,36 @@
 },
 {
 "Name": "Libramont-Chevigny Libramont",
+"PostCode": "6800",
+"LatLong": "49.8407,5.2515"
+},
+{
+"Name": "Libramont-Chevigny Recogne",
+"PostCode": "6800",
+"LatLong": "49.8407,5.2515"
+},
+{
+"Name": "Libramont-Chevigny",
+"PostCode": "6800",
+"LatLong": "49.8407,5.2515"
+},
+{
+"Name": "Libramont-Chevigny Bras",
+"PostCode": "6800",
+"LatLong": "49.8407,5.2515"
+},
+{
+"Name": "Libramont-Chevigny Saint-Pierre",
+"PostCode": "6800",
+"LatLong": "49.8407,5.2515"
+},
+{
+"Name": "Libramont-Chevigny Moircy",
+"PostCode": "6800",
+"LatLong": "49.8407,5.2515"
+},
+{
+"Name": "Libramont-Chevigny Sainte-Marie-Chevigny",
 "PostCode": "6800",
 "LatLong": "49.8407,5.2515"
 },
@@ -14969,6 +14969,11 @@
 "LatLong": "50.1,5.5333"
 },
 {
+"Name": "La Roche-en-Ardenne Beausaint",
+"PostCode": "6980",
+"LatLong": "50.225,5.5125"
+},
+{
 "Name": "La Roche-en-Ardenne",
 "PostCode": "6980",
 "LatLong": "50.225,5.5125"
@@ -14979,27 +14984,22 @@
 "LatLong": "50.225,5.5125"
 },
 {
-"Name": "La Roche-en-Ardenne Beausaint",
-"PostCode": "6980",
-"LatLong": "50.225,5.5125"
-},
-{
-"Name": "La Roche-en-Ardenne",
-"PostCode": "6982",
-"LatLong": "50.225,5.5125"
-},
-{
 "Name": "La Roche-en-Ardenne Samrée",
 "PostCode": "6982",
 "LatLong": "50.225,5.5125"
 },
 {
-"Name": "La Roche-en-Ardenne Ortho",
-"PostCode": "6983",
+"Name": "La Roche-en-Ardenne",
+"PostCode": "6982",
 "LatLong": "50.225,5.5125"
 },
 {
 "Name": "La Roche-en-Ardenne",
+"PostCode": "6983",
+"LatLong": "50.225,5.5125"
+},
+{
+"Name": "La Roche-en-Ardenne Ortho",
 "PostCode": "6983",
 "LatLong": "50.225,5.5125"
 },
@@ -15029,9 +15029,9 @@
 "LatLong": "50.2333,5.5"
 },
 {
-"Name": "Rendeux Hodister",
+"Name": "Rendeux Beffe",
 "PostCode": "6987",
-"LatLong": "50.2,5.5"
+"LatLong": "50.25,5.5167"
 },
 {
 "Name": "Rendeux Marcourt",
@@ -15039,9 +15039,9 @@
 "LatLong": "50.2167,5.5333"
 },
 {
-"Name": "Rendeux Beffe",
+"Name": "Rendeux Hodister",
 "PostCode": "6987",
-"LatLong": "50.25,5.5167"
+"LatLong": "50.2,5.5"
 },
 {
 "Name": "Hotton Hampteau",
@@ -15101,12 +15101,12 @@
 "LatLong": "50.7042,4.9583"
 },
 {
-"Name": "Florennes Linsmeau",
+"Name": "Florennes Opheylissem",
 "PostCode": "1357",
 "LatLong": "50.7042,4.9583"
 },
 {
-"Name": "Florennes Opheylissem",
+"Name": "Florennes Linsmeau",
 "PostCode": "1357",
 "LatLong": "50.7042,4.9583"
 },
@@ -15131,7 +15131,7 @@
 "LatLong": "50.2,4.5833"
 },
 {
-"Name": "Philippeville Villers-le-Gambon",
+"Name": "Philippeville Neuville",
 "PostCode": "5600",
 "LatLong": "50.1808,4.5923"
 },
@@ -15151,7 +15151,7 @@
 "LatLong": "50.2167,4.5333"
 },
 {
-"Name": "Philippeville Neuville",
+"Name": "Philippeville Villers-le-Gambon",
 "PostCode": "5600",
 "LatLong": "50.1808,4.5923"
 },
@@ -15201,6 +15201,11 @@
 "LatLong": "50.2444,4.6667"
 },
 {
+"Name": "Florennes Rosée",
+"PostCode": "5620",
+"LatLong": "50.2333,4.6833"
+},
+{
 "Name": "Florennes",
 "PostCode": "5620",
 "LatLong": "50.25,4.6167"
@@ -15211,9 +15216,9 @@
 "LatLong": "50.25,4.7"
 },
 {
-"Name": "Florennes Rosée",
+"Name": "Florennes Saint-Aubin",
 "PostCode": "5620",
-"LatLong": "50.2333,4.6833"
+"LatLong": "50.25,4.5833"
 },
 {
 "Name": "Florennes Morville",
@@ -15221,24 +15226,9 @@
 "LatLong": "50.2333,4.75"
 },
 {
-"Name": "Florennes Saint-Aubin",
-"PostCode": "5620",
-"LatLong": "50.25,4.5833"
-},
-{
 "Name": "Florennes Corenne",
 "PostCode": "5620",
 "LatLong": "50.25,4.6667"
-},
-{
-"Name": "Florennes Thy-le-Bauduin",
-"PostCode": "5621",
-"LatLong": "50.2875,4.5708"
-},
-{
-"Name": "Florennes Morialmé",
-"PostCode": "5621",
-"LatLong": "50.2833,4.5667"
 },
 {
 "Name": "Florennes Hanzinne",
@@ -15246,9 +15236,19 @@
 "LatLong": "50.3167,4.5333"
 },
 {
+"Name": "Florennes Morialmé",
+"PostCode": "5621",
+"LatLong": "50.2833,4.5667"
+},
+{
 "Name": "Florennes",
 "PostCode": "5621",
 "LatLong": "50.25,4.6167"
+},
+{
+"Name": "Florennes Thy-le-Bauduin",
+"PostCode": "5621",
+"LatLong": "50.2875,4.5708"
 },
 {
 "Name": "Florennes Hanzinelle",
@@ -15381,9 +15381,9 @@
 "LatLong": "50.05,4.4833"
 },
 {
-"Name": "Couvin Cul-des-Sarts",
+"Name": "Couvin Gonrieux",
 "PostCode": "5660",
-"LatLong": "50.0429,4.4571"
+"LatLong": "50.0333,4.4167"
 },
 {
 "Name": "Couvin Presgaux",
@@ -15391,7 +15391,12 @@
 "LatLong": "50.0333,4.4167"
 },
 {
-"Name": "Couvin Brûly-de-Pesche",
+"Name": "Couvin Cul-des-Sarts",
+"PostCode": "5660",
+"LatLong": "50.0429,4.4571"
+},
+{
+"Name": "Couvin Brûly",
 "PostCode": "5660",
 "LatLong": "50.0429,4.4571"
 },
@@ -15401,37 +15406,7 @@
 "LatLong": "50.0667,4.5333"
 },
 {
-"Name": "Couvin Mariembourg",
-"PostCode": "5660",
-"LatLong": "50.0429,4.4571"
-},
-{
-"Name": "Couvin Dailly",
-"PostCode": "5660",
-"LatLong": "50.0667,4.4333"
-},
-{
 "Name": "Couvin Pesche",
-"PostCode": "5660",
-"LatLong": "50.0429,4.4571"
-},
-{
-"Name": "Couvin Aublain",
-"PostCode": "5660",
-"LatLong": "50.0667,4.4167"
-},
-{
-"Name": "Couvin Boussu-en-Fagne",
-"PostCode": "5660",
-"LatLong": "50.0429,4.4571"
-},
-{
-"Name": "Couvin Gonrieux",
-"PostCode": "5660",
-"LatLong": "50.0333,4.4167"
-},
-{
-"Name": "Couvin Brûly",
 "PostCode": "5660",
 "LatLong": "50.0429,4.4571"
 },
@@ -15441,34 +15416,34 @@
 "LatLong": "50.0429,4.4571"
 },
 {
+"Name": "Couvin Dailly",
+"PostCode": "5660",
+"LatLong": "50.0667,4.4333"
+},
+{
+"Name": "Couvin Mariembourg",
+"PostCode": "5660",
+"LatLong": "50.0429,4.4571"
+},
+{
+"Name": "Couvin Aublain",
+"PostCode": "5660",
+"LatLong": "50.0667,4.4167"
+},
+{
+"Name": "Couvin Brûly-de-Pesche",
+"PostCode": "5660",
+"LatLong": "50.0429,4.4571"
+},
+{
+"Name": "Couvin Boussu-en-Fagne",
+"PostCode": "5660",
+"LatLong": "50.0429,4.4571"
+},
+{
 "Name": "Viroinval Dourbes",
 "PostCode": "5670",
 "LatLong": "50.0833,4.6"
-},
-{
-"Name": "Viroinval Treignes",
-"PostCode": "5670",
-"LatLong": "50.1,4.6667"
-},
-{
-"Name": "Viroinval Mazée",
-"PostCode": "5670",
-"LatLong": "50.1,4.7"
-},
-{
-"Name": "Viroinval Nismes",
-"PostCode": "5670",
-"LatLong": "50.0833,4.55"
-},
-{
-"Name": "Viroinval Le Mesnil",
-"PostCode": "5670",
-"LatLong": "50.0333,4.6667"
-},
-{
-"Name": "Viroinval",
-"PostCode": "5670",
-"LatLong": "50.08,4.6367"
 },
 {
 "Name": "Viroinval Oignies-en-Thiérache",
@@ -15476,9 +15451,34 @@
 "LatLong": "50.08,4.6367"
 },
 {
+"Name": "Viroinval Mazée",
+"PostCode": "5670",
+"LatLong": "50.1,4.7"
+},
+{
+"Name": "Viroinval",
+"PostCode": "5670",
+"LatLong": "50.08,4.6367"
+},
+{
+"Name": "Viroinval Le Mesnil",
+"PostCode": "5670",
+"LatLong": "50.0333,4.6667"
+},
+{
+"Name": "Viroinval Treignes",
+"PostCode": "5670",
+"LatLong": "50.1,4.6667"
+},
+{
 "Name": "Viroinval Vierves-sur-Viroin",
 "PostCode": "5670",
 "LatLong": "50.08,4.6367"
+},
+{
+"Name": "Viroinval Nismes",
+"PostCode": "5670",
+"LatLong": "50.0833,4.55"
 },
 {
 "Name": "Viroinval Olloy-sur-Viroin",
@@ -15496,14 +15496,14 @@
 "LatLong": "50.1458,4.7292"
 },
 {
-"Name": "Doische Vaucelles",
-"PostCode": "5680",
-"LatLong": "50.1167,4.75"
-},
-{
 "Name": "Doische Gimnée",
 "PostCode": "5680",
 "LatLong": "50.1333,4.7167"
+},
+{
+"Name": "Doische Vaucelles",
+"PostCode": "5680",
+"LatLong": "50.1167,4.75"
 },
 {
 "Name": "Doische Matagne-la-Grande",
@@ -15787,17 +15787,17 @@
 "LatLong": "50.4886,4.7695"
 },
 {
+"Name": "Fosses-la-Ville Sart-Eustache",
+"PostCode": "5070",
+"LatLong": "50.4886,4.7695"
+},
+{
 "Name": "Fosses-la-Ville Vitrival",
 "PostCode": "5070",
 "LatLong": "50.4886,4.7695"
 },
 {
 "Name": "Fosses-la-Ville Sart-Saint-Laurent",
-"PostCode": "5070",
-"LatLong": "50.4886,4.7695"
-},
-{
-"Name": "Fosses-la-Ville Sart-Eustache",
 "PostCode": "5070",
 "LatLong": "50.4886,4.7695"
 },
@@ -15902,9 +15902,9 @@
 "LatLong": "50.4583,4.8833"
 },
 {
-"Name": "Sombreffe",
+"Name": "Sombreffe Boignée",
 "PostCode": "5140",
-"LatLong": "50.5167,4.6"
+"LatLong": "50.5,4.6167"
 },
 {
 "Name": "Sombreffe Ligny",
@@ -15912,12 +15912,12 @@
 "LatLong": "50.5167,4.5667"
 },
 {
-"Name": "Sombreffe Tongrinne",
+"Name": "Sombreffe",
 "PostCode": "5140",
-"LatLong": "50.5,4.6167"
+"LatLong": "50.5167,4.6"
 },
 {
-"Name": "Sombreffe Boignée",
+"Name": "Sombreffe Tongrinne",
 "PostCode": "5140",
 "LatLong": "50.5,4.6167"
 },
@@ -15962,22 +15962,37 @@
 "LatLong": "50.3833,4.8667"
 },
 {
-"Name": "Profondeville Bois-de-Villers",
-"PostCode": "5170",
-"LatLong": "50.3728,4.8514"
-},
-{
 "Name": "Profondeville Arbre",
 "PostCode": "5170",
 "LatLong": "50.3728,4.8514"
 },
 {
-"Name": "Jemeppe-sur-Sambre",
+"Name": "Profondeville Bois-de-Villers",
+"PostCode": "5170",
+"LatLong": "50.3728,4.8514"
+},
+{
+"Name": "Jemeppe-sur-Sambre Ham-sur-Sambre",
 "PostCode": "5190",
 "LatLong": "50.439,4.7972"
 },
 {
 "Name": "Jemeppe-sur-Sambre Moustier-sur-Sambre",
+"PostCode": "5190",
+"LatLong": "50.439,4.7972"
+},
+{
+"Name": "Jemeppe-sur-Sambre Saint-Martin",
+"PostCode": "5190",
+"LatLong": "50.439,4.7972"
+},
+{
+"Name": "Jemeppe-sur-Sambre Balâtre",
+"PostCode": "5190",
+"LatLong": "50.439,4.7972"
+},
+{
+"Name": "Jemeppe-sur-Sambre",
 "PostCode": "5190",
 "LatLong": "50.439,4.7972"
 },
@@ -15992,22 +16007,7 @@
 "LatLong": "50.439,4.7972"
 },
 {
-"Name": "Jemeppe-sur-Sambre Saint-Martin",
-"PostCode": "5190",
-"LatLong": "50.439,4.7972"
-},
-{
 "Name": "Jemeppe-sur-Sambre Mornimont",
-"PostCode": "5190",
-"LatLong": "50.439,4.7972"
-},
-{
-"Name": "Jemeppe-sur-Sambre Balâtre",
-"PostCode": "5190",
-"LatLong": "50.439,4.7972"
-},
-{
-"Name": "Jemeppe-sur-Sambre Ham-sur-Sambre",
 "PostCode": "5190",
 "LatLong": "50.439,4.7972"
 },
@@ -16107,7 +16107,27 @@
 "LatLong": "50.5833,4.8167"
 },
 {
+"Name": "Eghezée Waret-la-Chaussée",
+"PostCode": "5310",
+"LatLong": "50.5907,4.8907"
+},
+{
 "Name": "Eghezée Noville-sur-Méhaigne",
+"PostCode": "5310",
+"LatLong": "50.5907,4.8907"
+},
+{
+"Name": "Eghezée Aische-en-Refail",
+"PostCode": "5310",
+"LatLong": "50.5907,4.8907"
+},
+{
+"Name": "Eghezée Longchamps",
+"PostCode": "5310",
+"LatLong": "50.5907,4.8907"
+},
+{
+"Name": "Eghezée Mehaigne",
 "PostCode": "5310",
 "LatLong": "50.5907,4.8907"
 },
@@ -16118,26 +16138,6 @@
 },
 {
 "Name": "Eghezée Taviers",
-"PostCode": "5310",
-"LatLong": "50.5907,4.8907"
-},
-{
-"Name": "Eghezée Longchamps",
-"PostCode": "5310",
-"LatLong": "50.5907,4.8907"
-},
-{
-"Name": "Eghezée Aische-en-Refail",
-"PostCode": "5310",
-"LatLong": "50.5907,4.8907"
-},
-{
-"Name": "Eghezée Mehaigne",
-"PostCode": "5310",
-"LatLong": "50.5907,4.8907"
-},
-{
-"Name": "Eghezée Waret-la-Chaussée",
 "PostCode": "5310",
 "LatLong": "50.5907,4.8907"
 },
@@ -16207,17 +16207,17 @@
 "LatLong": "50.4,5.0667"
 },
 {
+"Name": "Gesves Mozet",
+"PostCode": "5340",
+"LatLong": "50.425,5.075"
+},
+{
 "Name": "Gesves Sorée",
 "PostCode": "5340",
 "LatLong": "50.425,5.075"
 },
 {
 "Name": "Gesves Faulx-les-Tombes",
-"PostCode": "5340",
-"LatLong": "50.425,5.075"
-},
-{
-"Name": "Gesves Mozet",
 "PostCode": "5340",
 "LatLong": "50.425,5.075"
 },
@@ -16272,9 +16272,9 @@
 "LatLong": "50.4333,5.1333"
 },
 {
-"Name": "Fernelmont Hingeon",
+"Name": "Fernelmont",
 "PostCode": "5380",
-"LatLong": "50.5167,5.0167"
+"LatLong": "50.5438,4.9792"
 },
 {
 "Name": "Fernelmont Tillier",
@@ -16282,9 +16282,9 @@
 "LatLong": "50.55,4.95"
 },
 {
-"Name": "Fernelmont Cortil-Wodon",
+"Name": "Fernelmont Hemptinne",
 "PostCode": "5380",
-"LatLong": "50.5667,4.9333"
+"LatLong": "50.5438,4.9792"
 },
 {
 "Name": "Fernelmont Marchovelette",
@@ -16292,14 +16292,9 @@
 "LatLong": "50.5167,4.95"
 },
 {
-"Name": "Fernelmont Hemptinne",
+"Name": "Fernelmont Noville-les-Bois",
 "PostCode": "5380",
 "LatLong": "50.5438,4.9792"
-},
-{
-"Name": "Fernelmont Pontillas",
-"PostCode": "5380",
-"LatLong": "50.55,5"
 },
 {
 "Name": "Fernelmont Forville",
@@ -16307,9 +16302,14 @@
 "LatLong": "50.5667,4.9833"
 },
 {
-"Name": "Fernelmont",
+"Name": "Fernelmont Franc-Waret",
 "PostCode": "5380",
-"LatLong": "50.5438,4.9792"
+"LatLong": "50.5167,4.9833"
+},
+{
+"Name": "Fernelmont Hingeon",
+"PostCode": "5380",
+"LatLong": "50.5167,5.0167"
 },
 {
 "Name": "Fernelmont Bierwart",
@@ -16317,14 +16317,14 @@
 "LatLong": "50.5667,5.0167"
 },
 {
-"Name": "Fernelmont Noville-les-Bois",
+"Name": "Fernelmont Cortil-Wodon",
 "PostCode": "5380",
-"LatLong": "50.5438,4.9792"
+"LatLong": "50.5667,4.9333"
 },
 {
-"Name": "Fernelmont Franc-Waret",
+"Name": "Fernelmont Pontillas",
 "PostCode": "5380",
-"LatLong": "50.5167,4.9833"
+"LatLong": "50.55,5"
 },
 {
 "Name": "Mettet Oret",
@@ -16448,7 +16448,7 @@
 "LatLong": "50.3419,5.157"
 },
 {
-"Name": "Havelange Porcheresse",
+"Name": "Havelange Jeneffe",
 "PostCode": "5370",
 "LatLong": "50.3658,5.2405"
 },
@@ -16458,7 +16458,7 @@
 "LatLong": "50.3833,5.2333"
 },
 {
-"Name": "Havelange Jeneffe",
+"Name": "Havelange Porcheresse",
 "PostCode": "5370",
 "LatLong": "50.3658,5.2405"
 },
@@ -16508,9 +16508,9 @@
 "LatLong": "50.3833,5.2333"
 },
 {
-"Name": "Somme-Leuze Baillonville",
+"Name": "Somme-Leuze Heure",
 "PostCode": "5377",
-"LatLong": "50.2833,5.3333"
+"LatLong": "50.2958,5.3187"
 },
 {
 "Name": "Somme-Leuze Bonsin",
@@ -16518,9 +16518,9 @@
 "LatLong": "50.3667,5.3667"
 },
 {
-"Name": "Somme-Leuze",
+"Name": "Somme-Leuze Waillet",
 "PostCode": "5377",
-"LatLong": "50.3333,5.3667"
+"LatLong": "50.2667,5.3"
 },
 {
 "Name": "Somme-Leuze Sinsin",
@@ -16528,9 +16528,14 @@
 "LatLong": "50.2833,5.25"
 },
 {
-"Name": "Somme-Leuze Waillet",
+"Name": "Somme-Leuze Hogne",
 "PostCode": "5377",
-"LatLong": "50.2667,5.3"
+"LatLong": "50.25,5.2833"
+},
+{
+"Name": "Somme-Leuze Baillonville",
+"PostCode": "5377",
+"LatLong": "50.2833,5.3333"
 },
 {
 "Name": "Somme-Leuze Noiseux",
@@ -16538,14 +16543,9 @@
 "LatLong": "50.3,5.3833"
 },
 {
-"Name": "Somme-Leuze Heure",
+"Name": "Somme-Leuze",
 "PostCode": "5377",
-"LatLong": "50.2958,5.3187"
-},
-{
-"Name": "Somme-Leuze Hogne",
-"PostCode": "5377",
-"LatLong": "50.25,5.2833"
+"LatLong": "50.3333,5.3667"
 },
 {
 "Name": "Somme-Leuze Nettinne",
@@ -16823,27 +16823,7 @@
 "LatLong": "50.2167,4.8333"
 },
 {
-"Name": "Vresse-sur-Semois Mouzaive",
-"PostCode": "5550",
-"LatLong": "49.9095,5.0262"
-},
-{
-"Name": "Vresse-sur-Semois Laforêt",
-"PostCode": "5550",
-"LatLong": "49.9095,5.0262"
-},
-{
-"Name": "Vresse-sur-Semois Sugny",
-"PostCode": "5550",
-"LatLong": "49.9095,5.0262"
-},
-{
-"Name": "Vresse-sur-Semois Chairière",
-"PostCode": "5550",
-"LatLong": "49.9095,5.0262"
-},
-{
-"Name": "Vresse-sur-Semois Pussemange",
+"Name": "Vresse-sur-Semois Nafraiture",
 "PostCode": "5550",
 "LatLong": "49.9095,5.0262"
 },
@@ -16853,22 +16833,22 @@
 "LatLong": "49.9095,5.0262"
 },
 {
-"Name": "Vresse-sur-Semois Orchimont",
-"PostCode": "5550",
-"LatLong": "49.9095,5.0262"
-},
-{
-"Name": "Vresse-sur-Semois Alle",
-"PostCode": "5550",
-"LatLong": "49.9095,5.0262"
-},
-{
-"Name": "Vresse-sur-Semois Nafraiture",
+"Name": "Vresse-sur-Semois Mouzaive",
 "PostCode": "5550",
 "LatLong": "49.9095,5.0262"
 },
 {
 "Name": "Vresse-sur-Semois",
+"PostCode": "5550",
+"LatLong": "49.9095,5.0262"
+},
+{
+"Name": "Vresse-sur-Semois Vresse",
+"PostCode": "5550",
+"LatLong": "49.9095,5.0262"
+},
+{
+"Name": "Vresse-sur-Semois Laforêt",
 "PostCode": "5550",
 "LatLong": "49.9095,5.0262"
 },
@@ -16883,7 +16863,27 @@
 "LatLong": "49.9095,5.0262"
 },
 {
-"Name": "Vresse-sur-Semois Vresse",
+"Name": "Vresse-sur-Semois Orchimont",
+"PostCode": "5550",
+"LatLong": "49.9095,5.0262"
+},
+{
+"Name": "Vresse-sur-Semois Chairière",
+"PostCode": "5550",
+"LatLong": "49.9095,5.0262"
+},
+{
+"Name": "Vresse-sur-Semois Sugny",
+"PostCode": "5550",
+"LatLong": "49.9095,5.0262"
+},
+{
+"Name": "Vresse-sur-Semois Alle",
+"PostCode": "5550",
+"LatLong": "49.9095,5.0262"
+},
+{
+"Name": "Vresse-sur-Semois Pussemange",
 "PostCode": "5550",
 "LatLong": "49.9095,5.0262"
 },
@@ -16893,7 +16893,7 @@
 "LatLong": "49.8667,5"
 },
 {
-"Name": "Bièvre Gros-Fays",
+"Name": "Bièvre Monceau-en-Ardenne",
 "PostCode": "5555",
 "LatLong": "49.9095,5.0262"
 },
@@ -16913,7 +16913,7 @@
 "LatLong": "49.9167,5.0833"
 },
 {
-"Name": "Bièvre Monceau-en-Ardenne",
+"Name": "Bièvre Gros-Fays",
 "PostCode": "5555",
 "LatLong": "49.9095,5.0262"
 },
@@ -17028,9 +17028,9 @@
 "LatLong": "50.1,4.9"
 },
 {
-"Name": "Beauraing Honnay",
+"Name": "Beauraing Javingue",
 "PostCode": "5570",
-"LatLong": "50.0833,5.0333"
+"LatLong": "50.1,4.9167"
 },
 {
 "Name": "Beauraing Wancennes",
@@ -17043,9 +17043,9 @@
 "LatLong": "50.1333,4.95"
 },
 {
-"Name": "Beauraing Javingue",
+"Name": "Beauraing Honnay",
 "PostCode": "5570",
-"LatLong": "50.1,4.9167"
+"LatLong": "50.0833,5.0333"
 },
 {
 "Name": "Beauraing Felenne",
@@ -17213,12 +17213,12 @@
 "LatLong": "50.1167,5.25"
 },
 {
-"Name": "Rochefort Han-sur-Lesse",
+"Name": "Rochefort Ave-et-Auffe",
 "PostCode": "5580",
 "LatLong": "50.16,5.186"
 },
 {
-"Name": "Rochefort Ave-et-Auffe",
+"Name": "Rochefort Han-sur-Lesse",
 "PostCode": "5580",
 "LatLong": "50.16,5.186"
 },
@@ -17233,9 +17233,9 @@
 "LatLong": "50.2667,5.05"
 },
 {
-"Name": "Ciney Haversin",
+"Name": "Ciney Leignon",
 "PostCode": "5590",
-"LatLong": "50.25,5.2"
+"LatLong": "50.2686,5.1104"
 },
 {
 "Name": "Ciney Sovet",
@@ -17243,14 +17243,14 @@
 "LatLong": "50.264,5.1225"
 },
 {
+"Name": "Ciney Haversin",
+"PostCode": "5590",
+"LatLong": "50.25,5.2"
+},
+{
 "Name": "Ciney Serinchamps",
 "PostCode": "5590",
 "LatLong": "50.2333,5.2333"
-},
-{
-"Name": "Ciney Leignon",
-"PostCode": "5590",
-"LatLong": "50.2686,5.1104"
 },
 {
 "Name": "Ciney Conneux",

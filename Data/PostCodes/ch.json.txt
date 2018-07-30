@@ -2226,12 +2226,12 @@
 "LatLong": "47.2888,7.9633"
 },
 {
-"Name": "Zofingen PF UBS",
+"Name": "Zofingen PF",
 "PostCode": "4809",
 "LatLong": "47.2888,7.9633"
 },
 {
-"Name": "Zofingen PF",
+"Name": "Zofingen PF UBS",
 "PostCode": "4809",
 "LatLong": "47.2888,7.9633"
 },
@@ -2703,18 +2703,23 @@
 "Code": "1600",
 "Communities": [
 {
-"Name": "Appenzell",
-"Code": "3101",
+"Name": "Schlatt-Haslen",
+"Code": "3104",
 "Places": [
 {
-"Name": "Appenzell",
+"Name": "Appenzell Schlatt",
 "PostCode": "9050",
-"LatLong": "47.331,9.41"
+"LatLong": "47.3531,9.3623"
 },
 {
-"Name": "Appenzell Meistersrüte",
+"Name": "Appenzell Enggenhütten",
 "PostCode": "9050",
-"LatLong": "47.3446,9.4324"
+"LatLong": "47.3531,9.3623"
+},
+{
+"Name": "Haslen AI",
+"PostCode": "9054",
+"LatLong": "47.3693,9.3675"
 }
 ]
 },
@@ -2745,23 +2750,18 @@
 ]
 },
 {
-"Name": "Schlatt-Haslen",
-"Code": "3104",
+"Name": "Appenzell",
+"Code": "3101",
 "Places": [
 {
-"Name": "Appenzell Enggenhütten",
+"Name": "Appenzell",
 "PostCode": "9050",
-"LatLong": "47.3531,9.3623"
+"LatLong": "47.331,9.41"
 },
 {
-"Name": "Appenzell Schlatt",
+"Name": "Appenzell Meistersrüte",
 "PostCode": "9050",
-"LatLong": "47.3531,9.3623"
-},
-{
-"Name": "Haslen AI",
-"PostCode": "9054",
-"LatLong": "47.3693,9.3675"
+"LatLong": "47.3446,9.4324"
 }
 ]
 },
@@ -3680,17 +3680,17 @@
 "Code": "371",
 "Places": [
 {
+"Name": "Biel/Bienne 6",
+"PostCode": "2500",
+"LatLong": "47.1492,7.2611"
+},
+{
 "Name": "Biel/Bienne",
 "PostCode": "2500",
 "LatLong": "47.1492,7.2611"
 },
 {
 "Name": "Biel/Bienne 4",
-"PostCode": "2500",
-"LatLong": "47.1492,7.2611"
-},
-{
-"Name": "Biel/Bienne 6",
 "PostCode": "2500",
 "LatLong": "47.1492,7.2611"
 },
@@ -5724,7 +5724,7 @@
 "LatLong": "46.9476,7.4065"
 },
 {
-"Name": "Bern 15",
+"Name": "Bern 13",
 "PostCode": "3000",
 "LatLong": "46.9476,7.4065"
 },
@@ -5734,7 +5734,7 @@
 "LatLong": "46.9476,7.4065"
 },
 {
-"Name": "Bern 22",
+"Name": "Bern 9",
 "PostCode": "3000",
 "LatLong": "46.9476,7.4065"
 },
@@ -5744,7 +5744,7 @@
 "LatLong": "46.9476,7.4065"
 },
 {
-"Name": "Bern 31",
+"Name": "Bern 15",
 "PostCode": "3000",
 "LatLong": "46.9476,7.4065"
 },
@@ -5754,22 +5754,17 @@
 "LatLong": "46.9476,7.4065"
 },
 {
-"Name": "Bern 6",
+"Name": "Bern 22",
 "PostCode": "3000",
 "LatLong": "46.9476,7.4065"
 },
 {
-"Name": "Bern 9",
+"Name": "Bern 31",
 "PostCode": "3000",
 "LatLong": "46.9476,7.4065"
 },
 {
-"Name": "Bern 13",
-"PostCode": "3000",
-"LatLong": "46.9476,7.4065"
-},
-{
-"Name": "Bern 14",
+"Name": "Bern 5",
 "PostCode": "3000",
 "LatLong": "46.9476,7.4065"
 },
@@ -5779,7 +5774,12 @@
 "LatLong": "46.9476,7.4065"
 },
 {
-"Name": "Bern 5",
+"Name": "Bern 14",
+"PostCode": "3000",
+"LatLong": "46.9476,7.4065"
+},
+{
+"Name": "Bern 6",
 "PostCode": "3000",
 "LatLong": "46.9476,7.4065"
 },
@@ -6800,14 +6800,14 @@
 "LatLong": "47.1105,7.5263"
 },
 {
-"Name": "Mülchi",
-"PostCode": "3317",
-"LatLong": "47.1018,7.4736"
-},
-{
 "Name": "Limpach",
 "PostCode": "3317",
 "LatLong": "47.1077,7.4979"
+},
+{
+"Name": "Mülchi",
+"PostCode": "3317",
+"LatLong": "47.1018,7.4736"
 }
 ]
 },
@@ -7234,6 +7234,17 @@
 ]
 },
 {
+"Name": "Teuffenthal (BE)",
+"Code": "940",
+"Places": [
+{
+"Name": "Teuffenthal b. Thun",
+"PostCode": "3623",
+"LatLong": "46.7658,7.7127"
+}
+]
+},
+{
 "Name": "Horrenbach-Buchen",
 "Code": "932",
 "Places": [
@@ -7246,17 +7257,6 @@
 "Name": "Horrenbach",
 "PostCode": "3623",
 "LatLong": "46.7748,7.7824"
-}
-]
-},
-{
-"Name": "Teuffenthal (BE)",
-"Code": "940",
-"Places": [
-{
-"Name": "Teuffenthal b. Thun",
-"PostCode": "3623",
-"LatLong": "46.7658,7.7127"
 }
 ]
 },
@@ -7379,12 +7379,12 @@
 "Code": "948",
 "Places": [
 {
-"Name": "Forst b. Längenbühl",
+"Name": "Längenbühl",
 "PostCode": "3636",
 "LatLong": "46.7647,7.5233"
 },
 {
-"Name": "Längenbühl",
+"Name": "Forst b. Längenbühl",
 "PostCode": "3636",
 "LatLong": "46.7647,7.5233"
 }
@@ -7985,22 +7985,6 @@
 ]
 },
 {
-"Name": "Interlaken",
-"Code": "581",
-"Places": [
-{
-"Name": "Interlaken",
-"PostCode": "3800",
-"LatLong": "46.6839,7.8664"
-},
-{
-"Name": "Interlaken Ost",
-"PostCode": "3802",
-"LatLong": "46.6871,7.8649"
-}
-]
-},
-{
 "Name": "Gündlischwand",
 "Code": "578",
 "Places": [
@@ -8018,6 +8002,22 @@
 "Name": "Zweilütschinen",
 "PostCode": "3815",
 "LatLong": "46.6314,7.9015"
+}
+]
+},
+{
+"Name": "Interlaken",
+"Code": "581",
+"Places": [
+{
+"Name": "Interlaken",
+"PostCode": "3800",
+"LatLong": "46.6839,7.8664"
+},
+{
+"Name": "Interlaken Ost",
+"PostCode": "3802",
+"LatLong": "46.6871,7.8649"
 }
 ]
 },
@@ -9481,12 +9481,12 @@
 "LatLong": "47.5577,7.5936"
 },
 {
-"Name": "Basel SPI GLS",
+"Name": "Basel",
 "PostCode": "4089",
 "LatLong": "47.5577,7.5936"
 },
 {
-"Name": "Basel",
+"Name": "Basel SPI GLS",
 "PostCode": "4089",
 "LatLong": "47.5577,7.5936"
 },
@@ -11860,12 +11860,12 @@
 "LatLong": "46.2058,6.1416"
 },
 {
-"Name": "Genève 84 Votation",
+"Name": "Genève 14",
 "PostCode": "1211",
 "LatLong": "46.2058,6.1416"
 },
 {
-"Name": "Genève 71 CS CP",
+"Name": "Genève 84 Votation",
 "PostCode": "1211",
 "LatLong": "46.2058,6.1416"
 },
@@ -11875,57 +11875,7 @@
 "LatLong": "46.2058,6.1416"
 },
 {
-"Name": "Genève 4",
-"PostCode": "1211",
-"LatLong": "46.2058,6.1416"
-},
-{
 "Name": "Genève 20",
-"PostCode": "1211",
-"LatLong": "46.2058,6.1416"
-},
-{
-"Name": "Genève 2",
-"PostCode": "1211",
-"LatLong": "46.2058,6.1416"
-},
-{
-"Name": "Genève 19",
-"PostCode": "1211",
-"LatLong": "46.2058,6.1416"
-},
-{
-"Name": "Genève 13",
-"PostCode": "1211",
-"LatLong": "46.2058,6.1416"
-},
-{
-"Name": "Genève 11",
-"PostCode": "1211",
-"LatLong": "46.2058,6.1416"
-},
-{
-"Name": "Genève 6",
-"PostCode": "1211",
-"LatLong": "46.2058,6.1416"
-},
-{
-"Name": "Genève 70",
-"PostCode": "1211",
-"LatLong": "46.2058,6.1416"
-},
-{
-"Name": "Genève 1",
-"PostCode": "1211",
-"LatLong": "46.2058,6.1416"
-},
-{
-"Name": "Genève 73",
-"PostCode": "1211",
-"LatLong": "46.2058,6.1416"
-},
-{
-"Name": "Genève 10",
 "PostCode": "1211",
 "LatLong": "46.2058,6.1416"
 },
@@ -11935,7 +11885,27 @@
 "LatLong": "46.2058,6.1416"
 },
 {
+"Name": "Genève 19",
+"PostCode": "1211",
+"LatLong": "46.2058,6.1416"
+},
+{
 "Name": "Genève 12",
+"PostCode": "1211",
+"LatLong": "46.2058,6.1416"
+},
+{
+"Name": "Genève 11",
+"PostCode": "1211",
+"LatLong": "46.2058,6.1416"
+},
+{
+"Name": "Genève 10",
+"PostCode": "1211",
+"LatLong": "46.2058,6.1416"
+},
+{
+"Name": "Genève 70",
 "PostCode": "1211",
 "LatLong": "46.2058,6.1416"
 },
@@ -11945,7 +11915,37 @@
 "LatLong": "46.2058,6.1416"
 },
 {
-"Name": "Genève 14",
+"Name": "Genève 73",
+"PostCode": "1211",
+"LatLong": "46.2058,6.1416"
+},
+{
+"Name": "Genève 4",
+"PostCode": "1211",
+"LatLong": "46.2058,6.1416"
+},
+{
+"Name": "Genève 2",
+"PostCode": "1211",
+"LatLong": "46.2058,6.1416"
+},
+{
+"Name": "Genève 13",
+"PostCode": "1211",
+"LatLong": "46.2058,6.1416"
+},
+{
+"Name": "Genève 6",
+"PostCode": "1211",
+"LatLong": "46.2058,6.1416"
+},
+{
+"Name": "Genève 1",
+"PostCode": "1211",
+"LatLong": "46.2058,6.1416"
+},
+{
+"Name": "Genève 71 CS CP",
 "PostCode": "1211",
 "LatLong": "46.2058,6.1416"
 },
@@ -11958,6 +11958,48 @@
 "Name": "Genève",
 "PostCode": "1240",
 "LatLong": "46.2058,6.1416"
+}
+]
+},
+{
+"Name": "Meyrin",
+"Code": "6630",
+"Places": [
+{
+"Name": "Genève 23",
+"PostCode": "1211",
+"LatLong": "46.2322,6.0791"
+},
+{
+"Name": "Cointrin",
+"PostCode": "1216",
+"LatLong": "46.2267,6.1055"
+},
+{
+"Name": "Meyrin",
+"PostCode": "1217",
+"LatLong": "46.2342,6.0802"
+}
+]
+},
+{
+"Name": "Le Grand-Saconnex",
+"Code": "6623",
+"Places": [
+{
+"Name": "Genève 5",
+"PostCode": "1211",
+"LatLong": "46.2358,6.1192"
+},
+{
+"Name": "Genève",
+"PostCode": "1215",
+"LatLong": "46.2358,6.1192"
+},
+{
+"Name": "Le Grand-Saconnex",
+"PostCode": "1218",
+"LatLong": "46.2319,6.1209"
 }
 ]
 },
@@ -11995,48 +12037,6 @@
 "Name": "Chambésy",
 "PostCode": "1292",
 "LatLong": "46.2441,6.1444"
-}
-]
-},
-{
-"Name": "Le Grand-Saconnex",
-"Code": "6623",
-"Places": [
-{
-"Name": "Genève 5",
-"PostCode": "1211",
-"LatLong": "46.2358,6.1192"
-},
-{
-"Name": "Genève",
-"PostCode": "1215",
-"LatLong": "46.2358,6.1192"
-},
-{
-"Name": "Le Grand-Saconnex",
-"PostCode": "1218",
-"LatLong": "46.2319,6.1209"
-}
-]
-},
-{
-"Name": "Meyrin",
-"Code": "6630",
-"Places": [
-{
-"Name": "Genève 23",
-"PostCode": "1211",
-"LatLong": "46.2322,6.0791"
-},
-{
-"Name": "Cointrin",
-"PostCode": "1216",
-"LatLong": "46.2267,6.1055"
-},
-{
-"Name": "Meyrin",
-"PostCode": "1217",
-"LatLong": "46.2342,6.0802"
 }
 ]
 },
@@ -14011,17 +14011,17 @@
 "LatLong": "46.9513,9.7143"
 },
 {
+"Name": "Stels",
+"PostCode": "7226",
+"LatLong": "46.9712,9.7019"
+},
+{
+"Name": "Stels",
+"PostCode": "7226",
+"LatLong": "46.9712,9.7019"
+},
+{
 "Name": "Fajauna",
-"PostCode": "7226",
-"LatLong": "46.9712,9.7019"
-},
-{
-"Name": "Stels",
-"PostCode": "7226",
-"LatLong": "46.9712,9.7019"
-},
-{
-"Name": "Stels",
 "PostCode": "7226",
 "LatLong": "46.9712,9.7019"
 },
@@ -15917,17 +15917,7 @@
 "Code": "1061",
 "Places": [
 {
-"Name": "Luzern 30 AAL",
-"PostCode": "6000",
-"LatLong": "47.0471,8.3252"
-},
-{
 "Name": "Luzern 7",
-"PostCode": "6000",
-"LatLong": "47.0471,8.3252"
-},
-{
-"Name": "Luzern 16",
 "PostCode": "6000",
 "LatLong": "47.0471,8.3252"
 },
@@ -15937,17 +15927,27 @@
 "LatLong": "47.0471,8.3252"
 },
 {
+"Name": "Luzern 16",
+"PostCode": "6000",
+"LatLong": "47.0471,8.3252"
+},
+{
 "Name": "Luzern 6",
 "PostCode": "6000",
 "LatLong": "47.0471,8.3252"
 },
 {
-"Name": "Luzern",
+"Name": "Luzern 14",
 "PostCode": "6000",
 "LatLong": "47.0471,8.3252"
 },
 {
-"Name": "Luzern 14",
+"Name": "Luzern 30 AAL",
+"PostCode": "6000",
+"LatLong": "47.0471,8.3252"
+},
+{
+"Name": "Luzern",
 "PostCode": "6000",
 "LatLong": "47.0471,8.3252"
 },
@@ -18922,12 +18922,12 @@
 "LatLong": "47.1674,9.4779"
 },
 {
-"Name": "Buchs SG 3",
+"Name": "Buchs SG 1",
 "PostCode": "9471",
 "LatLong": "47.166,9.4627"
 },
 {
-"Name": "Buchs SG 1",
+"Name": "Buchs SG 3",
 "PostCode": "9471",
 "LatLong": "47.166,9.4627"
 }
@@ -19024,6 +19024,17 @@
 "Code": "1725",
 "Communities": [
 {
+"Name": "Bad Ragaz",
+"Code": "3291",
+"Places": [
+{
+"Name": "Bad Ragaz",
+"PostCode": "7310",
+"LatLong": "47.006,9.5027"
+}
+]
+},
+{
 "Name": "Pfäfers",
 "Code": "3294",
 "Places": [
@@ -19061,17 +19072,6 @@
 "Name": "Valens",
 "PostCode": "7317",
 "LatLong": "46.9666,9.477"
-}
-]
-},
-{
-"Name": "Bad Ragaz",
-"Code": "3291",
-"Places": [
-{
-"Name": "Bad Ragaz",
-"PostCode": "7310",
-"LatLong": "47.006,9.5027"
 }
 ]
 },
@@ -19762,14 +19762,14 @@
 "LatLong": "47.4396,9.1992"
 },
 {
-"Name": "Oberbüren",
-"PostCode": "9245",
-"LatLong": "47.4519,9.1586"
-},
-{
 "Name": "Sonnental",
 "PostCode": "9245",
 "LatLong": "47.4583,9.1394"
+},
+{
+"Name": "Oberbüren",
+"PostCode": "9245",
+"LatLong": "47.4519,9.1586"
 }
 ]
 },
@@ -21123,7 +21123,7 @@
 "Code": "2535",
 "Places": [
 {
-"Name": "Winistorf",
+"Name": "Heinrichswil",
 "PostCode": "4558",
 "LatLong": "47.1579,7.6351"
 },
@@ -21133,7 +21133,7 @@
 "LatLong": "47.1661,7.6352"
 },
 {
-"Name": "Heinrichswil",
+"Name": "Winistorf",
 "PostCode": "4558",
 "LatLong": "47.1579,7.6351"
 }
@@ -23508,6 +23508,11 @@
 "Code": "4891",
 "Places": [
 {
+"Name": "Berg TG",
+"PostCode": "8572",
+"LatLong": "47.5788,9.1664"
+},
+{
 "Name": "Andhausen",
 "PostCode": "8572",
 "LatLong": "47.5794,9.1807"
@@ -23526,11 +23531,6 @@
 "Name": "Graltshausen",
 "PostCode": "8572",
 "LatLong": "47.5972,9.1836"
-},
-{
-"Name": "Berg TG",
-"PostCode": "8572",
-"LatLong": "47.5788,9.1664"
 },
 {
 "Name": "Mauren TG",
@@ -24604,7 +24604,7 @@
 "LatLong": "46.204,8.6098"
 },
 {
-"Name": "Loco",
+"Name": "Auressio",
 "PostCode": "6661",
 "LatLong": "46.2035,8.5866"
 },
@@ -24614,7 +24614,7 @@
 "LatLong": "46.2035,8.5866"
 },
 {
-"Name": "Auressio",
+"Name": "Loco",
 "PostCode": "6661",
 "LatLong": "46.2035,8.5866"
 },
@@ -24919,6 +24919,22 @@
 ]
 },
 {
+"Name": "Torricella-Taverne",
+"Code": "5227",
+"Places": [
+{
+"Name": "Taverne",
+"PostCode": "6807",
+"LatLong": "46.0616,8.9287"
+},
+{
+"Name": "Torricella",
+"PostCode": "6808",
+"LatLong": "46.0638,8.9233"
+}
+]
+},
+{
 "Name": "Capriasca",
 "Code": "5226",
 "Places": [
@@ -24996,22 +25012,6 @@
 "Name": "Odogno",
 "PostCode": "6960",
 "LatLong": "46.0829,8.9719"
-}
-]
-},
-{
-"Name": "Torricella-Taverne",
-"Code": "5227",
-"Places": [
-{
-"Name": "Taverne",
-"PostCode": "6807",
-"LatLong": "46.0616,8.9287"
-},
-{
-"Name": "Torricella",
-"PostCode": "6808",
-"LatLong": "46.0638,8.9233"
 }
 ]
 },
@@ -25255,7 +25255,7 @@
 "LatLong": "46.0816,9.0241"
 },
 {
-"Name": "Piandera Paese",
+"Name": "Maglio di Colla",
 "PostCode": "6959",
 "LatLong": "46.0816,9.0434"
 },
@@ -25270,7 +25270,7 @@
 "LatLong": "46.0816,9.0434"
 },
 {
-"Name": "Maglio di Colla",
+"Name": "Piandera Paese",
 "PostCode": "6959",
 "LatLong": "46.0816,9.0434"
 },
@@ -26777,9 +26777,9 @@
 "LatLong": "46.2952,6.9931"
 },
 {
-"Name": "Arveyes",
+"Name": "Villars-sur-Ollon",
 "PostCode": "1884",
-"LatLong": "46.2899,7.0617"
+"LatLong": "46.2983,7.0563"
 },
 {
 "Name": "Huémoz",
@@ -26787,9 +26787,9 @@
 "LatLong": "46.291,7.0246"
 },
 {
-"Name": "Villars-sur-Ollon",
+"Name": "Arveyes",
 "PostCode": "1884",
-"LatLong": "46.2983,7.0563"
+"LatLong": "46.2899,7.0617"
 },
 {
 "Name": "Chesières",
@@ -26808,7 +26808,7 @@
 "LatLong": "46.2718,7.0276"
 },
 {
-"Name": "Les Posses-sur-Bex",
+"Name": "Frenières-sur-Bex",
 "PostCode": "1880",
 "LatLong": "46.2596,7.0436"
 },
@@ -26823,7 +26823,7 @@
 "LatLong": "46.2574,7.0934"
 },
 {
-"Name": "Frenières-sur-Bex",
+"Name": "Les Posses-sur-Bex",
 "PostCode": "1880",
 "LatLong": "46.2596,7.0436"
 }
@@ -28194,17 +28194,6 @@
 ]
 },
 {
-"Name": "Cuarny",
-"Code": "5911",
-"Places": [
-{
-"Name": "Cuarny",
-"PostCode": "1404",
-"LatLong": "46.7699,6.6921"
-}
-]
-},
-{
 "Name": "Villars-Epeney",
 "Code": "5935",
 "Places": [
@@ -28212,6 +28201,17 @@
 "Name": "Villars-Epeney",
 "PostCode": "1404",
 "LatLong": "46.7826,6.6976"
+}
+]
+},
+{
+"Name": "Cuarny",
+"Code": "5911",
+"Places": [
+{
+"Name": "Cuarny",
+"PostCode": "1404",
+"LatLong": "46.7699,6.6921"
 }
 ]
 },
@@ -28791,7 +28791,7 @@
 "Code": "5586",
 "Places": [
 {
-"Name": "Lausanne 27",
+"Name": "Lausanne 25",
 "PostCode": "1000",
 "LatLong": "46.5182,6.6329"
 },
@@ -28801,7 +28801,7 @@
 "LatLong": "46.5182,6.6329"
 },
 {
-"Name": "Lausanne 25",
+"Name": "Lausanne 27",
 "PostCode": "1000",
 "LatLong": "46.5182,6.6329"
 },
@@ -31123,14 +31123,14 @@
 "LatLong": "46.1868,7.2699"
 },
 {
-"Name": "Saclentse",
-"PostCode": "1996",
-"LatLong": "46.1761,7.3178"
-},
-{
 "Name": "Beuson (Nendaz)",
 "PostCode": "1996",
 "LatLong": "46.1667,7.3"
+},
+{
+"Name": "Saclentse",
+"PostCode": "1996",
+"LatLong": "46.1761,7.3178"
 },
 {
 "Name": "Sornard (Nendaz)",
@@ -31314,7 +31314,7 @@
 "LatLong": "46.009,7.1622"
 },
 {
-"Name": "Fontaine Dessous (Liddes)",
+"Name": "Petit Vichères (Liddes)",
 "PostCode": "1945",
 "LatLong": "45.9983,7.176"
 },
@@ -31334,7 +31334,7 @@
 "LatLong": "46.0046,7.168"
 },
 {
-"Name": "Petit Vichères (Liddes)",
+"Name": "Fontaine Dessous (Liddes)",
 "PostCode": "1945",
 "LatLong": "45.9983,7.176"
 },
@@ -31602,7 +31602,7 @@
 "LatLong": "46.2869,7.4153"
 },
 {
-"Name": "Signèse (Ayent)",
+"Name": "La Place (Ayent)",
 "PostCode": "1966",
 "LatLong": "46.278,7.4094"
 },
@@ -31612,7 +31612,7 @@
 "LatLong": "46.2734,7.4012"
 },
 {
-"Name": "La Place (Ayent)",
+"Name": "Signèse (Ayent)",
 "PostCode": "1966",
 "LatLong": "46.278,7.4094"
 },
@@ -31628,7 +31628,7 @@
 "Code": "6087",
 "Places": [
 {
-"Name": "Liez (St-Martin)",
+"Name": "St-Martin VS",
 "PostCode": "1969",
 "LatLong": "46.1615,7.451"
 },
@@ -31638,17 +31638,17 @@
 "LatLong": "46.1615,7.451"
 },
 {
-"Name": "St-Martin VS",
-"PostCode": "1969",
-"LatLong": "46.1615,7.451"
-},
-{
-"Name": "Eison (St-Martin)",
+"Name": "Liez (St-Martin)",
 "PostCode": "1969",
 "LatLong": "46.1615,7.451"
 },
 {
 "Name": "Trogne (St-Martin)",
+"PostCode": "1969",
+"LatLong": "46.1615,7.451"
+},
+{
+"Name": "Eison (St-Martin)",
 "PostCode": "1969",
 "LatLong": "46.1615,7.451"
 }
@@ -33364,14 +33364,14 @@
 "Code": "1709",
 "Places": [
 {
-"Name": "Unterägeri",
-"PostCode": "6314",
-"LatLong": "47.1364,8.5853"
-},
-{
 "Name": "Neuägeri",
 "PostCode": "6314",
 "LatLong": "47.1538,8.5642"
+},
+{
+"Name": "Unterägeri",
+"PostCode": "6314",
+"LatLong": "47.1364,8.5853"
 }
 ]
 },

@@ -421,7 +421,7 @@
 "LatLong": "-25.7069,28.2294"
 },
 {
-"Name": "Menlo Park",
+"Name": "Kromdraai",
 "PostCode": "0081",
 "LatLong": "-25.7069,28.2294"
 },
@@ -431,17 +431,17 @@
 "LatLong": "-25.7069,28.2294"
 },
 {
+"Name": "Menlo Park",
+"PostCode": "0081",
+"LatLong": "-25.7069,28.2294"
+},
+{
+"Name": "Garsfontein",
+"PostCode": "0081",
+"LatLong": "-25.7069,28.2294"
+},
+{
 "Name": "Wapadrand",
-"PostCode": "0081",
-"LatLong": "-25.7069,28.2294"
-},
-{
-"Name": "Moreletapark",
-"PostCode": "0081",
-"LatLong": "-25.7069,28.2294"
-},
-{
-"Name": "Kromdraai",
 "PostCode": "0081",
 "LatLong": "-25.7069,28.2294"
 },
@@ -451,7 +451,7 @@
 "LatLong": "-25.7069,28.2294"
 },
 {
-"Name": "Garsfontein",
+"Name": "Moreletapark",
 "PostCode": "0081",
 "LatLong": "-25.7069,28.2294"
 },
@@ -736,7 +736,7 @@
 "LatLong": "-25.8744,28.1706"
 },
 {
-"Name": "The Reeds",
+"Name": "Highveld",
 "PostCode": "0157",
 "LatLong": "-25.8049,28.2056"
 },
@@ -746,17 +746,17 @@
 "LatLong": "-25.7069,28.2294"
 },
 {
-"Name": "Highveld",
-"PostCode": "0157",
-"LatLong": "-25.8049,28.2056"
-},
-{
-"Name": "Rooihuiskraal",
+"Name": "The Reeds",
 "PostCode": "0157",
 "LatLong": "-25.8049,28.2056"
 },
 {
 "Name": "Wierdapark",
+"PostCode": "0157",
+"LatLong": "-25.8049,28.2056"
+},
+{
+"Name": "Rooihuiskraal",
 "PostCode": "0157",
 "LatLong": "-25.8049,28.2056"
 },
@@ -801,7 +801,7 @@
 "LatLong": "-25.7069,28.2294"
 },
 {
-"Name": "Lyttelton",
+"Name": "Centurion",
 "PostCode": "0163",
 "LatLong": "-25.7069,28.2294"
 },
@@ -811,7 +811,7 @@
 "LatLong": "-25.7069,28.2294"
 },
 {
-"Name": "Centurion",
+"Name": "Lyttelton",
 "PostCode": "0163",
 "LatLong": "-25.7069,28.2294"
 },
@@ -896,6 +896,11 @@
 "LatLong": "-25.7781,28.2358"
 },
 {
+"Name": "Moreletapark",
+"PostCode": "0181",
+"LatLong": "-25.7425,28.2326"
+},
+{
 "Name": "Wingate Park",
 "PostCode": "0181",
 "LatLong": "-25.7425,28.2326"
@@ -906,24 +911,9 @@
 "LatLong": "-25.7425,28.2326"
 },
 {
-"Name": "Moreletapark",
-"PostCode": "0181",
-"LatLong": "-25.7425,28.2326"
-},
-{
 "Name": "Pretoria",
 "PostCode": "0182",
 "LatLong": "-25.7069,28.2294"
-},
-{
-"Name": "Pretoria-Noord",
-"PostCode": "0182",
-"LatLong": "-25.6622,28.1653"
-},
-{
-"Name": "Rosslyn",
-"PostCode": "0182",
-"LatLong": "-25.6771,28.1867"
 },
 {
 "Name": "Pretoria North",
@@ -931,7 +921,32 @@
 "LatLong": "-25.6622,28.1653"
 },
 {
+"Name": "Boordfontein West",
+"PostCode": "0182",
+"LatLong": "-25.6771,28.1867"
+},
+{
+"Name": "Pretoria-Noord",
+"PostCode": "0182",
+"LatLong": "-25.6622,28.1653"
+},
+{
 "Name": "Theresapark",
+"PostCode": "0182",
+"LatLong": "-25.6771,28.1867"
+},
+{
+"Name": "Rosslyn",
+"PostCode": "0182",
+"LatLong": "-25.6771,28.1867"
+},
+{
+"Name": "Boordfontein",
+"PostCode": "0182",
+"LatLong": "-25.6771,28.1867"
+},
+{
+"Name": "Boordfontein-Wes",
 "PostCode": "0182",
 "LatLong": "-25.6771,28.1867"
 },
@@ -952,21 +967,6 @@
 },
 {
 "Name": "Karenpark",
-"PostCode": "0182",
-"LatLong": "-25.6771,28.1867"
-},
-{
-"Name": "Boordfontein West",
-"PostCode": "0182",
-"LatLong": "-25.6771,28.1867"
-},
-{
-"Name": "Boordfontein-Wes",
-"PostCode": "0182",
-"LatLong": "-25.6771,28.1867"
-},
-{
-"Name": "Boordfontein",
 "PostCode": "0182",
 "LatLong": "-25.6771,28.1867"
 },
@@ -1046,14 +1046,14 @@
 "LatLong": "-25.6333,27.7833"
 },
 {
-"Name": "Mabopane",
-"PostCode": "0190",
-"LatLong": "-25.5072,28.1075"
-},
-{
 "Name": "Medunsa",
 "PostCode": "0190",
 "LatLong": "-25.6189,28.0228"
+},
+{
+"Name": "Mabopane",
+"PostCode": "0190",
+"LatLong": "-25.5072,28.1075"
 },
 {
 "Name": "Mabopane",
@@ -1846,14 +1846,14 @@
 "LatLong": "-25.343,28.2204"
 },
 {
-"Name": "Hammanskraal",
-"PostCode": "0413",
-"LatLong": "-25.4075,28.2856"
-},
-{
 "Name": "Mutlestad",
 "PostCode": "0413",
 "LatLong": "-25.343,28.2204"
+},
+{
+"Name": "Hammanskraal",
+"PostCode": "0413",
+"LatLong": "-25.4075,28.2856"
 },
 {
 "Name": "Hammanskraal",
@@ -2031,14 +2031,14 @@
 "LatLong": "-25.365,28.2189"
 },
 {
-"Name": "Marble Hall",
-"PostCode": "0449",
-"LatLong": "-24.9667,29.3"
-},
-{
 "Name": "Mbibane",
 "PostCode": "0449",
 "LatLong": "-25.365,28.2189"
+},
+{
+"Name": "Marble Hall",
+"PostCode": "0449",
+"LatLong": "-24.9667,29.3"
 },
 {
 "Name": "Marble Hall",
@@ -2611,12 +2611,12 @@
 "LatLong": "-24.1833,29.0167"
 },
 {
-"Name": "Mokamole",
+"Name": "Potgietersrus",
 "PostCode": "0633",
 "LatLong": "-24.1833,29.0167"
 },
 {
-"Name": "Potgietersrus",
+"Name": "Mokamole",
 "PostCode": "0633",
 "LatLong": "-24.1833,29.0167"
 },
@@ -2736,14 +2736,14 @@
 "LatLong": "-24.1833,29.0167"
 },
 {
-"Name": "Pietersburg",
-"PostCode": "0699",
-"LatLong": "-24.1618,29.0088"
-},
-{
 "Name": "Seshego",
 "PostCode": "0699",
 "LatLong": "-23.85,29.3833"
+},
+{
+"Name": "Pietersburg",
+"PostCode": "0699",
+"LatLong": "-24.1618,29.0088"
 },
 {
 "Name": "Pietersburg",
@@ -2916,12 +2916,12 @@
 "LatLong": "-23.9333,29.8167"
 },
 {
-"Name": "Pietersburg",
+"Name": "Sovenga",
 "PostCode": "0727",
 "LatLong": "-23.9333,29.8167"
 },
 {
-"Name": "Sovenga",
+"Name": "Pietersburg",
 "PostCode": "0727",
 "LatLong": "-23.9333,29.8167"
 },
@@ -2951,12 +2951,12 @@
 "LatLong": "-23.9667,29.7"
 },
 {
-"Name": "Pietersburg",
+"Name": "Mphogodiba",
 "PostCode": "0732",
 "LatLong": "-23.9667,29.7"
 },
 {
-"Name": "Mphogodiba",
+"Name": "Pietersburg",
 "PostCode": "0732",
 "LatLong": "-23.9667,29.7"
 },
@@ -2981,12 +2981,12 @@
 "LatLong": "-23.9667,29.7"
 },
 {
-"Name": "Mphahlele",
+"Name": "Pietersburg",
 "PostCode": "0736",
 "LatLong": "-23.9667,29.7"
 },
 {
-"Name": "Pietersburg",
+"Name": "Mphahlele",
 "PostCode": "0736",
 "LatLong": "-23.9667,29.7"
 },
@@ -3036,22 +3036,22 @@
 "LatLong": "-23.95,29.1333"
 },
 {
+"Name": "Pietersburg",
+"PostCode": "0745",
+"LatLong": "-23.95,29.1333"
+},
+{
 "Name": "Chuenespoort",
 "PostCode": "0745",
 "LatLong": "-23.95,29.1333"
 },
 {
 "Name": "Pietersburg",
-"PostCode": "0745",
-"LatLong": "-23.95,29.1333"
-},
-{
-"Name": "Bakone",
 "PostCode": "0746",
 "LatLong": "-23.95,29.1333"
 },
 {
-"Name": "Pietersburg",
+"Name": "Bakone",
 "PostCode": "0746",
 "LatLong": "-23.95,29.1333"
 },
@@ -3086,14 +3086,14 @@
 "LatLong": "-23.6774,29.4869"
 },
 {
-"Name": "Seshego",
-"PostCode": "0751",
-"LatLong": "-23.85,29.3833"
-},
-{
 "Name": "Pietersburg",
 "PostCode": "0751",
 "LatLong": "-23.6774,29.4869"
+},
+{
+"Name": "Seshego",
+"PostCode": "0751",
+"LatLong": "-23.85,29.3833"
 },
 {
 "Name": "Pietersburg",
@@ -3946,12 +3946,12 @@
 "LatLong": "-23.3167,30.7167"
 },
 {
-"Name": "Louis Trichardt",
+"Name": "Munzhedzi",
 "PostCode": "0948",
 "LatLong": "-23.05,29.9"
 },
 {
-"Name": "Munzhedzi",
+"Name": "Louis Trichardt",
 "PostCode": "0948",
 "LatLong": "-23.05,29.9"
 },
@@ -4251,14 +4251,14 @@
 "LatLong": "-25.8083,28.7406"
 },
 {
-"Name": "Groblersdal",
-"PostCode": "1030",
-"LatLong": "-25.15,29.3833"
-},
-{
 "Name": "Siyabuswa",
 "PostCode": "1030",
 "LatLong": "-25.1167,29.05"
+},
+{
+"Name": "Groblersdal",
+"PostCode": "1030",
+"LatLong": "-25.15,29.3833"
 },
 {
 "Name": "Witbank",
@@ -4351,7 +4351,7 @@
 "LatLong": "-25.8667,29.2333"
 },
 {
-"Name": "Mpumalanga",
+"Name": "Middelburg",
 "PostCode": "1050",
 "LatLong": "-30.05,26.6167"
 },
@@ -4361,7 +4361,7 @@
 "LatLong": "-30.05,26.6167"
 },
 {
-"Name": "Middelburg",
+"Name": "Mpumalanga",
 "PostCode": "1050",
 "LatLong": "-30.05,26.6167"
 },
@@ -4446,14 +4446,14 @@
 "LatLong": "-25.625,29.4458"
 },
 {
-"Name": "Sekhukhune",
-"PostCode": "1064",
-"LatLong": "-25.625,29.4458"
-},
-{
 "Name": "Groblersdal",
 "PostCode": "1064",
 "LatLong": "-25.15,29.3833"
+},
+{
+"Name": "Sekhukhune",
+"PostCode": "1064",
+"LatLong": "-25.625,29.4458"
 },
 {
 "Name": "Middelburg",
@@ -4831,14 +4831,14 @@
 "LatLong": "-25.3167,31.0167"
 },
 {
-"Name": "Mkhuhlu",
-"PostCode": "1246",
-"LatLong": "-25.3917,30.9917"
-},
-{
 "Name": "Hazyview",
 "PostCode": "1246",
 "LatLong": "-25.0333,31.1167"
+},
+{
+"Name": "Mkhuhlu",
+"PostCode": "1246",
+"LatLong": "-25.3917,30.9917"
 },
 {
 "Name": "Kabokweni",
@@ -5146,14 +5146,14 @@
 "LatLong": "-24.65,31.3333"
 },
 {
-"Name": "Thulamahashe",
-"PostCode": "1365",
-"LatLong": "-24.6167,31.2083"
-},
-{
 "Name": "Acornhoek",
 "PostCode": "1365",
 "LatLong": "-24.5833,31.0833"
+},
+{
+"Name": "Thulamahashe",
+"PostCode": "1365",
+"LatLong": "-24.6167,31.2083"
 },
 {
 "Name": "Thulamahashe",
@@ -5411,12 +5411,12 @@
 "LatLong": "-26.3,28.1333"
 },
 {
-"Name": "Elsburg",
+"Name": "Germiston",
 "PostCode": "1428",
 "LatLong": "-26.3,28.1333"
 },
 {
-"Name": "Germiston",
+"Name": "Elsburg",
 "PostCode": "1428",
 "LatLong": "-26.3,28.1333"
 },
@@ -5446,7 +5446,7 @@
 "LatLong": "-26.3333,28.15"
 },
 {
-"Name": "Kwenzekile",
+"Name": "Katlehong Ext",
 "PostCode": "1434",
 "LatLong": "-26.3583,28.2667"
 },
@@ -5456,14 +5456,14 @@
 "LatLong": "-26.2167,28.1833"
 },
 {
+"Name": "Kwenzekile",
+"PostCode": "1434",
+"LatLong": "-26.3583,28.2667"
+},
+{
 "Name": "Katlehong",
 "PostCode": "1434",
 "LatLong": "-26.3333,28.15"
-},
-{
-"Name": "Katlehong Ext",
-"PostCode": "1434",
-"LatLong": "-26.3583,28.2667"
 },
 {
 "Name": "Katlehong Ext",
@@ -5761,14 +5761,14 @@
 "LatLong": "-26.2167,28.1833"
 },
 {
-"Name": "Petit",
-"PostCode": "1501",
-"LatLong": "-26.1,28.3833"
-},
-{
 "Name": "Benoni",
 "PostCode": "1501",
 "LatLong": "-26.1833,28.3167"
+},
+{
+"Name": "Petit",
+"PostCode": "1501",
+"LatLong": "-26.1,28.3833"
 },
 {
 "Name": "Benoni",
@@ -5906,7 +5906,7 @@
 "LatLong": "-26.2333,28.3667"
 },
 {
-"Name": "Brakpan North",
+"Name": "Dalpark",
 "PostCode": "1541",
 "LatLong": "-26.2333,28.3667"
 },
@@ -5916,12 +5916,12 @@
 "LatLong": "-26.2333,28.3667"
 },
 {
-"Name": "Dalpark",
+"Name": "Minnebron",
 "PostCode": "1541",
 "LatLong": "-26.2333,28.3667"
 },
 {
-"Name": "Minnebron",
+"Name": "Brakpan North",
 "PostCode": "1541",
 "LatLong": "-26.2333,28.3667"
 },
@@ -6221,7 +6221,7 @@
 "LatLong": "-26.1,28.25"
 },
 {
-"Name": "Tembisa",
+"Name": "Tembisa Ext",
 "PostCode": "1632",
 "LatLong": "-26.1,28.25"
 },
@@ -6231,7 +6231,7 @@
 "LatLong": "-26.1,28.25"
 },
 {
-"Name": "Tembisa Ext",
+"Name": "Tembisa",
 "PostCode": "1632",
 "LatLong": "-26.1,28.25"
 },
@@ -6241,14 +6241,14 @@
 "LatLong": "-26.1,28.25"
 },
 {
-"Name": "Tembisa",
-"PostCode": "1635",
-"LatLong": "-25.9989,28.2269"
-},
-{
 "Name": "Tembisa Ext",
 "PostCode": "1635",
 "LatLong": "-26.0762,28.2452"
+},
+{
+"Name": "Tembisa",
+"PostCode": "1635",
+"LatLong": "-25.9989,28.2269"
 },
 {
 "Name": "Tembisa",
@@ -6436,7 +6436,7 @@
 "LatLong": "-26.2167,27.8667"
 },
 {
-"Name": "Strubensvallei",
+"Name": "Rooderpoort",
 "PostCode": "1724",
 "LatLong": "-26.1767,27.8667"
 },
@@ -6451,12 +6451,12 @@
 "LatLong": "-26.1667,27.9167"
 },
 {
-"Name": "Rooderpoort",
+"Name": "Strubens Valley",
 "PostCode": "1724",
 "LatLong": "-26.1767,27.8667"
 },
 {
-"Name": "Strubens Valley",
+"Name": "Strubensvallei",
 "PostCode": "1724",
 "LatLong": "-26.1767,27.8667"
 },
@@ -6506,7 +6506,7 @@
 "LatLong": "-26.1667,27.8667"
 },
 {
-"Name": "Strubensvallei",
+"Name": "Strubens Valley",
 "PostCode": "1735",
 "LatLong": "-26.1667,27.8667"
 },
@@ -6516,7 +6516,7 @@
 "LatLong": "-26.1667,27.8667"
 },
 {
-"Name": "Strubens Valley",
+"Name": "Strubensvallei",
 "PostCode": "1735",
 "LatLong": "-26.1667,27.8667"
 },
@@ -6631,14 +6631,14 @@
 "LatLong": "-26.1,27.7667"
 },
 {
-"Name": "Randfontein",
-"PostCode": "1759",
-"LatLong": "-26.1667,27.7"
-},
-{
 "Name": "Mohlakeng",
 "PostCode": "1759",
 "LatLong": "-26.2333,27.7"
+},
+{
+"Name": "Randfontein",
+"PostCode": "1759",
+"LatLong": "-26.1667,27.7"
 },
 {
 "Name": "Kocksvlei",
@@ -6896,12 +6896,12 @@
 "LatLong": "-26.2917,27.9"
 },
 {
-"Name": "Tshiawelo",
+"Name": "Protea Glen",
 "PostCode": "1818",
 "LatLong": "-26.2917,27.9"
 },
 {
-"Name": "Protea Glen",
+"Name": "Tshiawelo",
 "PostCode": "1818",
 "LatLong": "-26.2917,27.9"
 },
@@ -6946,14 +6946,14 @@
 "LatLong": "-26.4167,27.8333"
 },
 {
-"Name": "Gauteng",
-"PostCode": "1827",
-"LatLong": "-26.3567,27.8333"
-},
-{
 "Name": "Lenasia",
 "PostCode": "1827",
 "LatLong": "-26.3167,27.8333"
+},
+{
+"Name": "Gauteng",
+"PostCode": "1827",
+"LatLong": "-26.3567,27.8333"
 },
 {
 "Name": "Lenasia",
@@ -7046,14 +7046,14 @@
 "LatLong": "-26.4667,28.2333"
 },
 {
-"Name": "Dobsonville",
-"PostCode": "1863",
-"LatLong": "-26.2167,27.8667"
-},
-{
 "Name": "Orlando",
 "PostCode": "1863",
 "LatLong": "-26.25,27.9167"
+},
+{
+"Name": "Dobsonville",
+"PostCode": "1863",
+"LatLong": "-26.2167,27.8667"
 },
 {
 "Name": "Dobsonville",
@@ -7201,14 +7201,14 @@
 "LatLong": "-26.6833,27.8833"
 },
 {
-"Name": "Sebokeng",
-"PostCode": "1914",
-"LatLong": "-26.5833,27.8333"
-},
-{
 "Name": "Palm Springs",
 "PostCode": "1914",
 "LatLong": "-26.6972,27.8278"
+},
+{
+"Name": "Sebokeng",
+"PostCode": "1914",
+"LatLong": "-26.5833,27.8333"
 },
 {
 "Name": "Vanderbijlpark",
@@ -7226,14 +7226,14 @@
 "LatLong": "-26.5667,28.0167"
 },
 {
-"Name": "Krugersdorp",
-"PostCode": "1928",
-"LatLong": "-26.1,27.7667"
-},
-{
 "Name": "Sharpeville",
 "PostCode": "1928",
 "LatLong": "-26.6833,27.8833"
+},
+{
+"Name": "Krugersdorp",
+"PostCode": "1928",
+"LatLong": "-26.1,27.7667"
 },
 {
 "Name": "Vereeniging",
@@ -7371,12 +7371,12 @@
 "LatLong": "-26.5667,28.0167"
 },
 {
-"Name": "Residensia",
+"Name": "Mafatsana",
 "PostCode": "1980",
 "LatLong": "-26.5833,27.8333"
 },
 {
-"Name": "Mafatsana",
+"Name": "Residensia",
 "PostCode": "1980",
 "LatLong": "-26.5833,27.8333"
 },
@@ -7401,7 +7401,7 @@
 "LatLong": "-26.5833,27.8333"
 },
 {
-"Name": "Residensia",
+"Name": "Palm Springs",
 "PostCode": "1984",
 "LatLong": "-26.5833,27.8333"
 },
@@ -7416,7 +7416,7 @@
 "LatLong": "-26.5833,27.8333"
 },
 {
-"Name": "Palm Springs",
+"Name": "Residensia",
 "PostCode": "1984",
 "LatLong": "-26.5833,27.8333"
 },
@@ -7571,7 +7571,7 @@
 "LatLong": "-26.2,28.0833"
 },
 {
-"Name": "Bryanston",
+"Name": "Strathavon",
 "PostCode": "2031",
 "LatLong": "-26.2,28.0833"
 },
@@ -7581,7 +7581,7 @@
 "LatLong": "-26.2,28.0833"
 },
 {
-"Name": "Strathavon",
+"Name": "Bryanston",
 "PostCode": "2031",
 "LatLong": "-26.2,28.0833"
 },
@@ -7796,12 +7796,12 @@
 "LatLong": "-26.05,28.0333"
 },
 {
-"Name": "Hurlingham View",
+"Name": "Johannesburg",
 "PostCode": "2070",
 "LatLong": "-26.2,28.0833"
 },
 {
-"Name": "Johannesburg",
+"Name": "Hurlingham View",
 "PostCode": "2070",
 "LatLong": "-26.2,28.0833"
 },
@@ -7846,7 +7846,7 @@
 "LatLong": "-26.2,28.0833"
 },
 {
-"Name": "Bramley",
+"Name": "Johannesburg",
 "PostCode": "2090",
 "LatLong": "-26.2,28.0833"
 },
@@ -7856,7 +7856,7 @@
 "LatLong": "-26.2,28.0833"
 },
 {
-"Name": "Johannesburg",
+"Name": "Bramley",
 "PostCode": "2090",
 "LatLong": "-26.2,28.0833"
 },
@@ -8271,6 +8271,16 @@
 "LatLong": "-26.05,27.9667"
 },
 {
+"Name": "Jukskeipark",
+"PostCode": "2188",
+"LatLong": "-26.1894,28.0779"
+},
+{
+"Name": "Northwold",
+"PostCode": "2188",
+"LatLong": "-26.1894,28.0779"
+},
+{
 "Name": "Bromhof",
 "PostCode": "2188",
 "LatLong": "-26.1894,28.0779"
@@ -8279,16 +8289,6 @@
 "Name": "Johannesburg",
 "PostCode": "2188",
 "LatLong": "-26.2,28.0833"
-},
-{
-"Name": "Northwold",
-"PostCode": "2188",
-"LatLong": "-26.1894,28.0779"
-},
-{
-"Name": "Jukskeipark",
-"PostCode": "2188",
-"LatLong": "-26.1894,28.0779"
 },
 {
 "Name": "Bryanston",
@@ -8406,14 +8406,14 @@
 "LatLong": "-26.1295,28.0503"
 },
 {
-"Name": "Sundra",
-"PostCode": "2200",
-"LatLong": "-26.2311,29.0356"
-},
-{
 "Name": "Witbank",
 "PostCode": "2200",
 "LatLong": "-25.8667,29.2333"
+},
+{
+"Name": "Sundra",
+"PostCode": "2200",
+"LatLong": "-26.2311,29.0356"
 },
 {
 "Name": "Delmas",
@@ -10746,14 +10746,14 @@
 "LatLong": "-29.8167,30.85"
 },
 {
-"Name": "Pinetown",
-"PostCode": "3624",
-"LatLong": "-29.8167,30.85"
-},
-{
 "Name": "Hillcrest",
 "PostCode": "3624",
 "LatLong": "-31.8833,26.8"
+},
+{
+"Name": "Pinetown",
+"PostCode": "3624",
+"LatLong": "-29.8167,30.85"
 },
 {
 "Name": "Pinetown",
@@ -11111,7 +11111,7 @@
 "LatLong": "-28.8833,31.9"
 },
 {
-"Name": "Richards Bay",
+"Name": "Richardsbaai",
 "PostCode": "3900",
 "LatLong": "-28.7901,32.0971"
 },
@@ -11121,7 +11121,7 @@
 "LatLong": "-28.7901,32.0971"
 },
 {
-"Name": "Richardsbaai",
+"Name": "Richards Bay",
 "PostCode": "3900",
 "LatLong": "-28.7901,32.0971"
 },
@@ -11486,14 +11486,14 @@
 "LatLong": "-29.85,31.0167"
 },
 {
-"Name": "Kwa-Mashu",
-"PostCode": "4032",
-"LatLong": "-29.85,31.0167"
-},
-{
 "Name": "Inanda",
 "PostCode": "4032",
 "LatLong": "-26.1167,28.05"
+},
+{
+"Name": "Kwa-Mashu",
+"PostCode": "4032",
+"LatLong": "-29.85,31.0167"
 },
 {
 "Name": "Durban",
@@ -11631,12 +11631,12 @@
 "LatLong": "-29.9667,30.8833"
 },
 {
-"Name": "Isipingo",
+"Name": "Ntokozweni",
 "PostCode": "4066",
 "LatLong": "-29.9667,30.8833"
 },
 {
-"Name": "Ntokozweni",
+"Name": "Isipingo",
 "PostCode": "4066",
 "LatLong": "-29.9667,30.8833"
 },
@@ -11741,14 +11741,14 @@
 "LatLong": "-29.95,30.95"
 },
 {
-"Name": "Ntokozweni",
-"PostCode": "4089",
-"LatLong": "-29.85,31.0167"
-},
-{
 "Name": "Umlazi",
 "PostCode": "4089",
 "LatLong": "-29.9667,30.8833"
+},
+{
+"Name": "Ntokozweni",
+"PostCode": "4089",
+"LatLong": "-29.85,31.0167"
 },
 {
 "Name": "Durban",
@@ -11776,7 +11776,7 @@
 "LatLong": "-29.95,30.95"
 },
 {
-"Name": "Chatsworth",
+"Name": "Marianhill",
 "PostCode": "4092",
 "LatLong": "-29.9,30.9833"
 },
@@ -11786,7 +11786,7 @@
 "LatLong": "-29.85,31.0167"
 },
 {
-"Name": "Marianhill",
+"Name": "Chatsworth",
 "PostCode": "4092",
 "LatLong": "-29.9,30.9833"
 },
@@ -11926,14 +11926,14 @@
 "LatLong": "-33.55,18.5833"
 },
 {
-"Name": "Isipingo",
-"PostCode": "4133",
-"LatLong": "-29.9833,30.9333"
-},
-{
 "Name": "Isipingo Beach",
 "PostCode": "4133",
 "LatLong": "-29.9833,30.95"
+},
+{
+"Name": "Isipingo",
+"PostCode": "4133",
+"LatLong": "-29.9833,30.9333"
 },
 {
 "Name": "Amanzimtoti",
@@ -11951,14 +11951,14 @@
 "LatLong": "-29.85,31.0167"
 },
 {
-"Name": "Dormerton",
-"PostCode": "4138",
-"LatLong": "-30.05,30.8833"
-},
-{
 "Name": "Mayville",
 "PostCode": "4138",
 "LatLong": "-29.85,30.9833"
+},
+{
+"Name": "Dormerton",
+"PostCode": "4138",
+"LatLong": "-30.05,30.8833"
 },
 {
 "Name": "Bluff",
@@ -11986,14 +11986,14 @@
 "LatLong": "-29.9667,30.8833"
 },
 {
-"Name": "Winklespruit",
-"PostCode": "4145",
-"LatLong": "-30.1,30.85"
-},
-{
 "Name": "Amanzimtoti",
 "PostCode": "4145",
 "LatLong": "-30.05,30.8833"
+},
+{
+"Name": "Winklespruit",
+"PostCode": "4145",
+"LatLong": "-30.1,30.85"
 },
 {
 "Name": "Malvern",
@@ -12016,7 +12016,7 @@
 "LatLong": "-26.2,28.1"
 },
 {
-"Name": "Queensburgh",
+"Name": "Pinetown",
 "PostCode": "4147",
 "LatLong": "-26.1167,28.0917"
 },
@@ -12026,7 +12026,7 @@
 "LatLong": "-26.1167,28.0917"
 },
 {
-"Name": "Pinetown",
+"Name": "Queensburgh",
 "PostCode": "4147",
 "LatLong": "-26.1167,28.0917"
 },
@@ -12076,14 +12076,14 @@
 "LatLong": "-30.05,30.8833"
 },
 {
-"Name": "Yellowwood Park",
-"PostCode": "4162",
-"LatLong": "-29.4379,30.4299"
-},
-{
 "Name": "Durban",
 "PostCode": "4162",
 "LatLong": "-29.85,31.0167"
+},
+{
+"Name": "Yellowwood Park",
+"PostCode": "4162",
+"LatLong": "-29.4379,30.4299"
 },
 {
 "Name": "Yellowwood Park",
@@ -12246,14 +12246,14 @@
 "LatLong": "-30.75,30.45"
 },
 {
-"Name": "Mehlomnyama",
-"PostCode": "4246",
-"LatLong": "-30.7571,30.4452"
-},
-{
 "Name": "Port Shepstone",
 "PostCode": "4246",
 "LatLong": "-30.75,30.45"
+},
+{
+"Name": "Mehlomnyama",
+"PostCode": "4246",
+"LatLong": "-30.7571,30.4452"
 },
 {
 "Name": "Port Shepstone",
@@ -12501,17 +12501,7 @@
 "LatLong": "-29.114,30.6772"
 },
 {
-"Name": "Ndwedwe",
-"PostCode": "4399",
-"LatLong": "-29.5,30.9333"
-},
-{
 "Name": "Desainagar",
-"PostCode": "4399",
-"LatLong": "-29.114,30.6772"
-},
-{
-"Name": "Hambanathi Heights",
 "PostCode": "4399",
 "LatLong": "-29.114,30.6772"
 },
@@ -12519,6 +12509,16 @@
 "Name": "Tongaat",
 "PostCode": "4399",
 "LatLong": "-29.5833,31.1333"
+},
+{
+"Name": "Ndwedwe",
+"PostCode": "4399",
+"LatLong": "-29.5,30.9333"
+},
+{
+"Name": "Hambanathi Heights",
+"PostCode": "4399",
+"LatLong": "-29.114,30.6772"
 },
 {
 "Name": "Maidstone",
@@ -12576,14 +12576,14 @@
 "LatLong": "-29.5833,31.1333"
 },
 {
-"Name": "Tongaat",
-"PostCode": "4420",
-"LatLong": "-29.5833,31.1333"
-},
-{
 "Name": "Umhlali",
 "PostCode": "4420",
 "LatLong": "-29.2675,30.7982"
+},
+{
+"Name": "Tongaat",
+"PostCode": "4420",
+"LatLong": "-29.5833,31.1333"
 },
 {
 "Name": "Shakaskraal",
@@ -12781,14 +12781,14 @@
 "LatLong": "-30.8,29.3667"
 },
 {
-"Name": "Maluti",
-"PostCode": "4740",
-"LatLong": "-30.25,28.5333"
-},
-{
 "Name": "Umtata",
 "PostCode": "4740",
 "LatLong": "-31.5833,28.7833"
+},
+{
+"Name": "Maluti",
+"PostCode": "4740",
+"LatLong": "-30.25,28.5333"
 },
 {
 "Name": "Maluti",
@@ -14321,14 +14321,14 @@
 "LatLong": "-33.9667,25.5833"
 },
 {
-"Name": "Emerald Hill",
-"PostCode": "6011",
-"LatLong": "-34,25.55"
-},
-{
 "Name": "Port Elizabeth",
 "PostCode": "6011",
 "LatLong": "-33.9667,25.5833"
+},
+{
+"Name": "Emerald Hill",
+"PostCode": "6011",
+"LatLong": "-34,25.55"
 },
 {
 "Name": "Port Elizabeth",
@@ -14646,14 +14646,14 @@
 "LatLong": "-33.6,26.9"
 },
 {
-"Name": "Port Elizabeth",
-"PostCode": "6175",
-"LatLong": "-33.9667,25.5833"
-},
-{
 "Name": "Colchester",
 "PostCode": "6175",
 "LatLong": "-33.6,26.9"
+},
+{
+"Name": "Port Elizabeth",
+"PostCode": "6175",
+"LatLong": "-33.9667,25.5833"
 },
 {
 "Name": "Port Elizabeth",
@@ -15081,7 +15081,7 @@
 "LatLong": "-34.1833,22.1333"
 },
 {
-"Name": "Kwanonqaba",
+"Name": "Mosselbay",
 "PostCode": "6506",
 "LatLong": "-34.1833,22.1333"
 },
@@ -15091,7 +15091,7 @@
 "LatLong": "-34.1833,22.1333"
 },
 {
-"Name": "Mosselbay",
+"Name": "Kwanonqaba",
 "PostCode": "6506",
 "LatLong": "-34.1833,22.1333"
 },
@@ -15351,12 +15351,12 @@
 "LatLong": "-33.5333,21.6833"
 },
 {
-"Name": "Western Cape",
+"Name": "Heidelberg Wc",
 "PostCode": "6665",
 "LatLong": "-33.5333,21.6833"
 },
 {
-"Name": "Heidelberg Wc",
+"Name": "Western Cape",
 "PostCode": "6665",
 "LatLong": "-33.5333,21.6833"
 },
@@ -15406,12 +15406,12 @@
 "LatLong": "-33.4833,21.2667"
 },
 {
-"Name": "Albertina",
+"Name": "Albertinia",
 "PostCode": "6695",
 "LatLong": "-34.2,21.5833"
 },
 {
-"Name": "Albertinia",
+"Name": "Albertina",
 "PostCode": "6695",
 "LatLong": "-34.2,21.5833"
 },
@@ -15691,14 +15691,14 @@
 "LatLong": "-31.4,23.1167"
 },
 {
-"Name": "Northern Cape",
-"PostCode": "7090",
-"LatLong": "-31.2889,23.5611"
-},
-{
 "Name": "Richmond",
 "PostCode": "7090",
 "LatLong": "-29.8667,30.2667"
+},
+{
+"Name": "Northern Cape",
+"PostCode": "7090",
+"LatLong": "-31.2889,23.5611"
 },
 {
 "Name": "Cape Town",
@@ -16056,12 +16056,12 @@
 "LatLong": "-33.5667,18.4833"
 },
 {
-"Name": "Dassenberg",
+"Name": "Kaapstad",
 "PostCode": "7349",
 "LatLong": "-33.5667,18.4833"
 },
 {
-"Name": "Kaapstad",
+"Name": "Dassenberg",
 "PostCode": "7349",
 "LatLong": "-33.5667,18.4833"
 },
@@ -16176,7 +16176,7 @@
 "LatLong": "-33.9167,18.4167"
 },
 {
-"Name": "Paarden Island",
+"Name": "Maitland",
 "PostCode": "7405",
 "LatLong": "-33.9083,18.45"
 },
@@ -16186,7 +16186,7 @@
 "LatLong": "-33.9167,18.4167"
 },
 {
-"Name": "Maitland",
+"Name": "Paarden Island",
 "PostCode": "7405",
 "LatLong": "-33.9083,18.45"
 },
@@ -16406,12 +16406,12 @@
 "LatLong": "-33.9167,18.5667"
 },
 {
-"Name": "Lavistown",
+"Name": "Elsies River",
 "PostCode": "7490",
 "LatLong": "-33.9222,18.5222"
 },
 {
-"Name": "Elsies River",
+"Name": "Lavistown",
 "PostCode": "7490",
 "LatLong": "-33.9222,18.5222"
 },
@@ -16436,12 +16436,12 @@
 "LatLong": "-33.9167,18.4167"
 },
 {
-"Name": "Belhar",
+"Name": "Kaapstad",
 "PostCode": "7493",
 "LatLong": "-33.9222,18.5333"
 },
 {
-"Name": "Kaapstad",
+"Name": "Belhar",
 "PostCode": "7493",
 "LatLong": "-33.9222,18.5333"
 },
@@ -16746,14 +16746,14 @@
 "LatLong": "-33.7297,19.2536"
 },
 {
-"Name": "Paarl",
-"PostCode": "7646",
-"LatLong": "-33.7333,18.9667"
-},
-{
 "Name": "Nederburg",
 "PostCode": "7646",
 "LatLong": "-33.7297,19.2536"
+},
+{
+"Name": "Paarl",
+"PostCode": "7646",
+"LatLong": "-33.7333,18.9667"
 },
 {
 "Name": "Huguenot",
@@ -16911,12 +16911,12 @@
 "LatLong": "-33.9833,18.575"
 },
 {
-"Name": "Khayalitsha",
+"Name": "Cape Town",
 "PostCode": "7750",
 "LatLong": "-33.9833,18.575"
 },
 {
-"Name": "Cape Town",
+"Name": "Khayalitsha",
 "PostCode": "7750",
 "LatLong": "-33.9833,18.575"
 },
@@ -16956,9 +16956,9 @@
 "LatLong": "-33.9625,18.4917"
 },
 {
-"Name": "Athlone",
+"Name": "Manenberg",
 "PostCode": "7764",
-"LatLong": "-33.9667,18.5"
+"LatLong": "-33.9833,18.55"
 },
 {
 "Name": "Crawford",
@@ -16966,9 +16966,14 @@
 "LatLong": "-33.9833,18.5"
 },
 {
-"Name": "Manenberg",
+"Name": "Athlone",
 "PostCode": "7764",
-"LatLong": "-33.9833,18.55"
+"LatLong": "-33.9667,18.5"
+},
+{
+"Name": "Gatesville",
+"PostCode": "7764",
+"LatLong": "-33.9778,18.5167"
 },
 {
 "Name": "Lansdowne",
@@ -16982,11 +16987,6 @@
 },
 {
 "Name": "Cape Town",
-"PostCode": "7764",
-"LatLong": "-33.9778,18.5167"
-},
-{
-"Name": "Gatesville",
 "PostCode": "7764",
 "LatLong": "-33.9778,18.5167"
 },
@@ -17036,12 +17036,12 @@
 "LatLong": "-34.0167,18.4833"
 },
 {
-"Name": "Gatesville",
+"Name": "Landsdowne",
 "PostCode": "7780",
 "LatLong": "-33.9722,18.4667"
 },
 {
-"Name": "Landsdowne",
+"Name": "Gatesville",
 "PostCode": "7780",
 "LatLong": "-33.9722,18.4667"
 },
@@ -17066,12 +17066,12 @@
 "LatLong": "-33.9167,18.4167"
 },
 {
-"Name": "Khayelitsha",
+"Name": "Mitchells Plain",
 "PostCode": "7784",
 "LatLong": "-33.9167,18.4167"
 },
 {
-"Name": "Mitchells Plain",
+"Name": "Khayelitsha",
 "PostCode": "7784",
 "LatLong": "-33.9167,18.4167"
 },
@@ -17081,7 +17081,7 @@
 "LatLong": "-34.05,18.6167"
 },
 {
-"Name": "Cape Town",
+"Name": "Kaapstad",
 "PostCode": "7785",
 "LatLong": "-33.9167,18.4167"
 },
@@ -17091,17 +17091,17 @@
 "LatLong": "-33.9611,18.4833"
 },
 {
-"Name": "Kaapstad",
+"Name": "Cape Town",
 "PostCode": "7785",
 "LatLong": "-33.9167,18.4167"
 },
 {
-"Name": "Mithchells Plain",
+"Name": "Mitchellsplain",
 "PostCode": "7785",
 "LatLong": "-33.9611,18.4833"
 },
 {
-"Name": "Mitchellsplain",
+"Name": "Mithchells Plain",
 "PostCode": "7785",
 "LatLong": "-33.9611,18.4833"
 },
@@ -17406,17 +17406,7 @@
 "LatLong": "-34.1833,18.4333"
 },
 {
-"Name": "Fish Hoek",
-"PostCode": "7975",
-"LatLong": "-34.0056,18.4222"
-},
-{
-"Name": "Kaapstad",
-"PostCode": "7975",
-"LatLong": "-33.9167,18.4167"
-},
-{
-"Name": "Fishhoek",
+"Name": "Vishoek",
 "PostCode": "7975",
 "LatLong": "-34.0056,18.4222"
 },
@@ -17431,7 +17421,17 @@
 "LatLong": "-34.0056,18.4222"
 },
 {
-"Name": "Vishoek",
+"Name": "Kaapstad",
+"PostCode": "7975",
+"LatLong": "-33.9167,18.4167"
+},
+{
+"Name": "Fishhoek",
+"PostCode": "7975",
+"LatLong": "-34.0056,18.4222"
+},
+{
+"Name": "Fish Hoek",
 "PostCode": "7975",
 "LatLong": "-34.0056,18.4222"
 },
@@ -17496,14 +17496,14 @@
 "LatLong": "-33.9167,18.4167"
 },
 {
-"Name": "Kaapstad",
-"PostCode": "8001",
-"LatLong": "-33.9166,18.4133"
-},
-{
 "Name": "Cape Town",
 "PostCode": "8001",
 "LatLong": "-33.9258,18.4232"
+},
+{
+"Name": "Kaapstad",
+"PostCode": "8001",
+"LatLong": "-33.9166,18.4133"
 },
 {
 "Name": "Cape Town",
@@ -17531,12 +17531,12 @@
 "LatLong": "-33.9167,18.4167"
 },
 {
-"Name": "Cape Town",
+"Name": "Kaapstad",
 "PostCode": "8008",
 "LatLong": "-33.9167,18.4167"
 },
 {
-"Name": "Kaapstad",
+"Name": "Cape Town",
 "PostCode": "8008",
 "LatLong": "-33.9167,18.4167"
 },
@@ -17586,12 +17586,12 @@
 "LatLong": "-33.9167,18.4167"
 },
 {
-"Name": "Cape Town",
+"Name": "Kaapstad",
 "PostCode": "8051",
 "LatLong": "-33.9167,18.4167"
 },
 {
-"Name": "Kaapstad",
+"Name": "Cape Town",
 "PostCode": "8051",
 "LatLong": "-33.9167,18.4167"
 },
@@ -18681,7 +18681,7 @@
 "LatLong": "-29.1333,26.2"
 },
 {
-"Name": "Kagisanong",
+"Name": "Gasehunelo",
 "PostCode": "9323",
 "LatLong": "-28.0833,24.8917"
 },
@@ -18691,7 +18691,7 @@
 "LatLong": "-29.1333,26.2"
 },
 {
-"Name": "Gasehunelo",
+"Name": "Kagisanong",
 "PostCode": "9323",
 "LatLong": "-28.0833,24.8917"
 },
@@ -18956,14 +18956,14 @@
 "LatLong": "-28.1333,25.5"
 },
 {
-"Name": "Odendaalsrus",
-"PostCode": "9483",
-"LatLong": "-27.8667,26.6833"
-},
-{
 "Name": "Merafong",
 "PostCode": "9483",
 "LatLong": "-28.0778,26.3778"
+},
+{
+"Name": "Odendaalsrus",
+"PostCode": "9483",
+"LatLong": "-27.8667,26.6833"
 },
 {
 "Name": "Virginia",
@@ -19271,12 +19271,12 @@
 "LatLong": "-25.3667,30.5333"
 },
 {
-"Name": "Ga-Rapulana",
+"Name": "Garapulana",
 "PostCode": "9775",
 "LatLong": "-29.3154,27.4386"
 },
 {
-"Name": "Garapulana",
+"Name": "Ga-Rapulana",
 "PostCode": "9775",
 "LatLong": "-29.3154,27.4386"
 },

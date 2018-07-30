@@ -641,24 +641,14 @@
 "LatLong": "15.6333,121.05"
 },
 {
-"Name": "Quezon City CPO",
-"PostCode": "1100",
-"LatLong": "15.1462,121.0447"
-},
-{
 "Name": "Central",
 "PostCode": "1100",
 "LatLong": "15.1462,121.0447"
 },
 {
-"Name": "Malaya",
-"PostCode": "1101",
-"LatLong": "14.3983,121.3397"
-},
-{
-"Name": "Sikatuna Village",
-"PostCode": "1101",
-"LatLong": "15.2681,121.4227"
+"Name": "Quezon City CPO",
+"PostCode": "1100",
+"LatLong": "15.1462,121.0447"
 },
 {
 "Name": "San Vicente",
@@ -667,6 +657,16 @@
 },
 {
 "Name": "Old Capitol Site",
+"PostCode": "1101",
+"LatLong": "15.2681,121.4227"
+},
+{
+"Name": "Malaya",
+"PostCode": "1101",
+"LatLong": "14.3983,121.3397"
+},
+{
+"Name": "University of the Philippines Village",
 "PostCode": "1101",
 "LatLong": "15.2681,121.4227"
 },
@@ -691,7 +691,7 @@
 "LatLong": "14.6411,121.0551"
 },
 {
-"Name": "University of the Philippines Village",
+"Name": "Sikatuna Village",
 "PostCode": "1101",
 "LatLong": "15.2681,121.4227"
 },
@@ -851,7 +851,7 @@
 "LatLong": "14.5779,121.4317"
 },
 {
-"Name": "R. Magsaysay",
+"Name": "Katipunan",
 "PostCode": "1105",
 "LatLong": "14.5779,121.4317"
 },
@@ -861,7 +861,7 @@
 "LatLong": "14.5779,121.4317"
 },
 {
-"Name": "Katipunan",
+"Name": "R. Magsaysay",
 "PostCode": "1105",
 "LatLong": "14.5779,121.4317"
 },
@@ -886,7 +886,7 @@
 "LatLong": "14.6483,121.0078"
 },
 {
-"Name": "Project 8",
+"Name": "Unang Sigaw",
 "PostCode": "1106",
 "LatLong": "14.6626,121.0112"
 },
@@ -896,7 +896,7 @@
 "LatLong": "14.6724,121.0113"
 },
 {
-"Name": "Unang Sigaw",
+"Name": "Project 8",
 "PostCode": "1106",
 "LatLong": "14.6626,121.0112"
 },
@@ -926,9 +926,9 @@
 "LatLong": "14.6167,121.05"
 },
 {
-"Name": "Bagong Buhay",
+"Name": "Villa Maria Clara",
 "PostCode": "1109",
-"LatLong": "14.5182,121.1988"
+"LatLong": "14.6089,121.0699"
 },
 {
 "Name": "Project 4",
@@ -941,14 +941,14 @@
 "LatLong": "14.8833,120.4333"
 },
 {
-"Name": "Villa Maria Clara",
+"Name": "Bagong Buhay",
 "PostCode": "1109",
-"LatLong": "14.6089,121.0699"
+"LatLong": "14.5182,121.1988"
 },
 {
-"Name": "Tagumpay",
+"Name": "Socorro",
 "PostCode": "1109",
-"LatLong": "14.6224,121.0629"
+"LatLong": "13.0583,121.4117"
 },
 {
 "Name": "San Roque",
@@ -966,12 +966,12 @@
 "LatLong": "14.3089,121.0511"
 },
 {
-"Name": "Socorro",
+"Name": "Tagumpay",
 "PostCode": "1109",
-"LatLong": "13.0583,121.4117"
+"LatLong": "14.6224,121.0629"
 },
 {
-"Name": "Escopa",
+"Name": "Dioquino Zobel",
 "PostCode": "1109",
 "LatLong": "14.5533,120.9758"
 },
@@ -991,7 +991,7 @@
 "LatLong": "14.6211,121.0703"
 },
 {
-"Name": "Dioquino Zobel",
+"Name": "Escopa",
 "PostCode": "1109",
 "LatLong": "14.5533,120.9758"
 },
@@ -1046,7 +1046,7 @@
 "LatLong": "14.619,121.0461"
 },
 {
-"Name": "St. Martin de Porres",
+"Name": "Kaunlaran",
 "PostCode": "1111",
 "LatLong": "14.621,121.0459"
 },
@@ -1056,7 +1056,7 @@
 "LatLong": "14.621,121.0459"
 },
 {
-"Name": "Kaunlaran",
+"Name": "St. Martin de Porres",
 "PostCode": "1111",
 "LatLong": "14.621,121.0459"
 },
@@ -1081,12 +1081,12 @@
 "LatLong": "14.6227,121.0253"
 },
 {
-"Name": "Valencia",
+"Name": "Damayan Lagi",
 "PostCode": "1112",
 "LatLong": "14.6184,121.0351"
 },
 {
-"Name": "Damayan Lagi",
+"Name": "Valencia",
 "PostCode": "1112",
 "LatLong": "14.6184,121.0351"
 },
@@ -1176,12 +1176,12 @@
 "LatLong": "14.6331,121.0055"
 },
 {
-"Name": "Paang Bundok",
+"Name": "Gintong Silahis",
 "PostCode": "1114",
 "LatLong": "15.5503,120.9554"
 },
 {
-"Name": "Gintong Silahis",
+"Name": "Paang Bundok",
 "PostCode": "1114",
 "LatLong": "15.5503,120.9554"
 },
@@ -2121,7 +2121,7 @@
 "LatLong": "14.6736,121.0229"
 },
 {
-"Name": "Kaunlaran Village",
+"Name": "Kaunlaran Village (shared with Caloocan City and Navotas)",
 "PostCode": "1409",
 "LatLong": "13.8025,121.4867"
 },
@@ -2131,7 +2131,7 @@
 "LatLong": "13.8025,121.4867"
 },
 {
-"Name": "Kaunlaran Village (shared with Caloocan City and Navotas)",
+"Name": "Kaunlaran Village",
 "PostCode": "1409",
 "LatLong": "13.8025,121.4867"
 },
@@ -2141,12 +2141,12 @@
 "LatLong": "14.6333,120.9667"
 },
 {
-"Name": "Fish Market (shared with Navotas)",
+"Name": "Fish Market",
 "PostCode": "1411",
 "LatLong": "14.6333,120.9667"
 },
 {
-"Name": "Fish Market",
+"Name": "Fish Market (shared with Navotas)",
 "PostCode": "1411",
 "LatLong": "14.6333,120.9667"
 },
@@ -2156,12 +2156,12 @@
 "LatLong": "14.6333,120.9667"
 },
 {
-"Name": "Kapitbayahan",
+"Name": "Kapitbahayan [East]",
 "PostCode": "1413",
 "LatLong": "14.6333,120.9667"
 },
 {
-"Name": "Kapitbahayan [East]",
+"Name": "Kapitbayahan",
 "PostCode": "1413",
 "LatLong": "14.6333,120.9667"
 },
@@ -2231,12 +2231,12 @@
 "LatLong": "14.7078,120.9861"
 },
 {
-"Name": "General T. de Leon",
+"Name": "Fortune Village",
 "PostCode": "1442",
 "LatLong": "14.7078,120.9861"
 },
 {
-"Name": "Fortune Village",
+"Name": "General T. de Leon",
 "PostCode": "1442",
 "LatLong": "14.7078,120.9861"
 },
@@ -2901,12 +2901,12 @@
 "LatLong": "14.4998,121.0422"
 },
 {
-"Name": "Ireneville Subdivision II",
+"Name": "Aeropark Subdivision",
 "PostCode": "1714",
 "LatLong": "14.4998,121.0422"
 },
 {
-"Name": "Aeropark Subdivision",
+"Name": "Ireneville Subdivision II",
 "PostCode": "1714",
 "LatLong": "14.4998,121.0422"
 },
@@ -2931,12 +2931,12 @@
 "LatLong": "14.4998,121.0422"
 },
 {
-"Name": "Maywood Village I",
+"Name": "Ireneville Subdivision I &amp; III",
 "PostCode": "1719",
 "LatLong": "14.4998,121.0422"
 },
 {
-"Name": "Ireneville Subdivision I &amp; III",
+"Name": "Maywood Village I",
 "PostCode": "1719",
 "LatLong": "14.4998,121.0422"
 },

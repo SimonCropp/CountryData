@@ -113,12 +113,12 @@
 "LatLong": "13.7667,100.65"
 },
 {
-"Name": "Bung Kum",
+"Name": "Saphan Sung B39",
 "PostCode": "10240",
 "LatLong": "13.7667,100.65"
 },
 {
-"Name": "Saphan Sung B39",
+"Name": "Bung Kum",
 "PostCode": "10240",
 "LatLong": "13.7667,100.65"
 },
@@ -163,12 +163,12 @@
 "LatLong": "13.7833,100.5167"
 },
 {
-"Name": "Ding Daeng",
+"Name": "Phaya Thai",
 "PostCode": "10400",
 "LatLong": "13.7625,100.531"
 },
 {
-"Name": "Phaya Thai",
+"Name": "Ding Daeng",
 "PostCode": "10400",
 "LatLong": "13.7625,100.531"
 },
@@ -689,12 +689,12 @@
 {
 "Places": [
 {
-"Name": "Muang Saraburi",
+"Name": "Chaloem Phakiat",
 "PostCode": "18000",
 "LatLong": "14.5521,100.9003"
 },
 {
-"Name": "Chaloem Phakiat",
+"Name": "Muang Saraburi",
 "PostCode": "18000",
 "LatLong": "14.5521,100.9003"
 },
@@ -955,12 +955,12 @@
 {
 "Places": [
 {
-"Name": "Ko Kud",
+"Name": "Muang Trat",
 "PostCode": "23000",
 "LatLong": "12.2131,102.5776"
 },
 {
-"Name": "Muang Trat",
+"Name": "Ko Kud",
 "PostCode": "23000",
 "LatLong": "12.2131,102.5776"
 },
@@ -1004,12 +1004,12 @@
 {
 "Places": [
 {
-"Name": "Muang Chachoengsao",
+"Name": "Khlong Kaen",
 "PostCode": "24000",
 "LatLong": "13.6861,101.1944"
 },
 {
-"Name": "Khlong Kaen",
+"Name": "Muang Chachoengsao",
 "PostCode": "24000",
 "LatLong": "13.6861,101.1944"
 },
@@ -1161,12 +1161,12 @@
 {
 "Places": [
 {
-"Name": "Khao Chakhun",
+"Name": "Muang Sa Kaeo",
 "PostCode": "27000",
 "LatLong": "13.8442,102.6536"
 },
 {
-"Name": "Muang Sa Kaeo",
+"Name": "Khao Chakhun",
 "PostCode": "27000",
 "LatLong": "13.8442,102.6536"
 },
@@ -1399,12 +1399,12 @@
 "LatLong": "13.9167,102.0167"
 },
 {
-"Name": "Huai Ratch",
+"Name": "Muang Buri Ram",
 "PostCode": "31000",
 "LatLong": "13.9167,102.0167"
 },
 {
-"Name": "Muang Buri Ram",
+"Name": "Huai Ratch",
 "PostCode": "31000",
 "LatLong": "13.9167,102.0167"
 },
@@ -1543,12 +1543,12 @@
 "LatLong": "15.1133,104.1408"
 },
 {
-"Name": "Po Sri Suwan",
+"Name": "Muang Chan",
 "PostCode": "33120",
 "LatLong": "15.1133,104.1408"
 },
 {
-"Name": "Muang Chan",
+"Name": "Po Sri Suwan",
 "PostCode": "33120",
 "LatLong": "15.1133,104.1408"
 },
@@ -1647,12 +1647,12 @@
 {
 "Places": [
 {
-"Name": "Muang Ubon Ratchathani",
+"Name": "Don Moddang",
 "PostCode": "34000",
 "LatLong": "14.7861,103.9111"
 },
 {
-"Name": "Don Moddang",
+"Name": "Muang Ubon Ratchathani",
 "PostCode": "34000",
 "LatLong": "14.7861,103.9111"
 },
@@ -1721,12 +1721,12 @@
 "LatLong": "15.65,104.3167"
 },
 {
-"Name": "Thai Chaloen",
+"Name": "Loeng Nok Tha",
 "PostCode": "35120",
 "LatLong": "15.6633,104.3067"
 },
 {
-"Name": "Loeng Nok Tha",
+"Name": "Thai Chaloen",
 "PostCode": "35120",
 "LatLong": "15.6633,104.3067"
 },
@@ -2116,7 +2116,7 @@
 "LatLong": "17.1336,102.9675"
 },
 {
-"Name": "Ku Khaew",
+"Name": "Nong Han",
 "PostCode": "41130",
 "LatLong": "17.1336,102.9675"
 },
@@ -2126,7 +2126,7 @@
 "LatLong": "17.1336,102.9675"
 },
 {
-"Name": "Nong Han",
+"Name": "Ku Khaew",
 "PostCode": "41130",
 "LatLong": "17.1336,102.9675"
 },
@@ -3297,7 +3297,7 @@
 {
 "Places": [
 {
-"Name": "Phu Piang",
+"Name": "Santisuk",
 "PostCode": "55000",
 "LatLong": "18.7833,100.7833"
 },
@@ -3307,7 +3307,7 @@
 "LatLong": "18.7833,100.7833"
 },
 {
-"Name": "Santisuk",
+"Name": "Phu Piang",
 "PostCode": "55000",
 "LatLong": "18.7833,100.7833"
 },
@@ -3628,17 +3628,17 @@
 "LatLong": "15.7506,99.7903"
 },
 {
+"Name": "Chum Tabong",
+"PostCode": "60150",
+"LatLong": "15.7506,99.7903"
+},
+{
 "Name": "Mae Poen",
 "PostCode": "60150",
 "LatLong": "15.7506,99.7903"
 },
 {
 "Name": "Mae Wong",
-"PostCode": "60150",
-"LatLong": "15.7506,99.7903"
-},
-{
-"Name": "Chum Tabong",
 "PostCode": "60150",
 "LatLong": "15.7506,99.7903"
 },
@@ -3771,12 +3771,12 @@
 "LatLong": "16.5,99.9167"
 },
 {
-"Name": "Lan Krabue",
+"Name": "Khosamphi Nakhon",
 "PostCode": "62170",
 "LatLong": "16.31,99.68"
 },
 {
-"Name": "Khosamphi Nakhon",
+"Name": "Lan Krabue",
 "PostCode": "62170",
 "LatLong": "16.31,99.68"
 },
@@ -5527,12 +5527,12 @@
 "LatLong": "15.6417,105.225"
 },
 {
-"Name": "Warin Chamrabp",
+"Name": "Sawang Werarong",
 "PostCode": "34190",
 "LatLong": "15.6417,105.225"
 },
 {
-"Name": "Sawang Werarong",
+"Name": "Warin Chamrabp",
 "PostCode": "34190",
 "LatLong": "15.6417,105.225"
 },
