@@ -112,36 +112,6 @@
 {
 "Places": [
 {
-"Name": "Hamilton Parish",
-"PostCode": "CR 01",
-"LatLong": "32.3264,-64.7411"
-},
-{
-"Name": "Hamilton Parish",
-"PostCode": "CR 02",
-"LatLong": "32.3264,-64.7411"
-},
-{
-"Name": "Hamilton Parish",
-"PostCode": "CR 03",
-"LatLong": "32.3264,-64.7411"
-},
-{
-"Name": "Hamilton Parish",
-"PostCode": "CR 04",
-"LatLong": "32.3264,-64.7411"
-},
-{
-"Name": "Hamilton Parish",
-"PostCode": "FL 04",
-"LatLong": "32.3264,-64.7411"
-},
-{
-"Name": "Hamilton Parish",
-"PostCode": "HS 02",
-"LatLong": "32.3264,-64.7411"
-},
-{
 "Name": "City of Hamilton",
 "PostCode": "HM 08",
 "LatLong": "32.2949,-64.783"
@@ -175,6 +145,36 @@
 "Name": "City of Hamilton",
 "PostCode": "HM 19",
 "LatLong": "32.2949,-64.783"
+},
+{
+"Name": "Hamilton Parish",
+"PostCode": "CR 01",
+"LatLong": "32.3264,-64.7411"
+},
+{
+"Name": "Hamilton Parish",
+"PostCode": "CR 02",
+"LatLong": "32.3264,-64.7411"
+},
+{
+"Name": "Hamilton Parish",
+"PostCode": "CR 03",
+"LatLong": "32.3264,-64.7411"
+},
+{
+"Name": "Hamilton Parish",
+"PostCode": "CR 04",
+"LatLong": "32.3264,-64.7411"
+},
+{
+"Name": "Hamilton Parish",
+"PostCode": "FL 04",
+"LatLong": "32.3264,-64.7411"
+},
+{
+"Name": "Hamilton Parish",
+"PostCode": "HS 02",
+"LatLong": "32.3264,-64.7411"
 }
 ]
 }
@@ -344,6 +344,11 @@
 {
 "Places": [
 {
+"Name": "St. George",
+"PostCode": "HS 02",
+"LatLong": "32.3817,-64.6781"
+},
+{
 "Name": "Town of St. George",
 "PostCode": "GE 02",
 "LatLong": "32.3842,-64.6764"
@@ -362,11 +367,6 @@
 "Name": "Town of St. George",
 "PostCode": "GE 05",
 "LatLong": "32.3842,-64.6764"
-},
-{
-"Name": "St. George",
-"PostCode": "HS 02",
-"LatLong": "32.3817,-64.6781"
 }
 ]
 }

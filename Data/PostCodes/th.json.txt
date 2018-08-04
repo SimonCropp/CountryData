@@ -1,5 +1,83 @@
 [
 {
+"Name": "Na Tan",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "Na Year",
+"PostCode": "34160",
+"LatLong": "15.6417,105.225"
+},
+{
+"Name": "Nam Khun",
+"PostCode": "34260",
+"LatLong": "12.9167,102.0333"
+},
+{
+"Name": "Nam Yuen",
+"PostCode": "34260",
+"LatLong": "12.9167,102.0333"
+},
+{
+"Name": "Phibun Mangsahan",
+"PostCode": "34110",
+"LatLong": "15.2333,105.2333"
+},
+{
+"Name": "Po Sai",
+"PostCode": "34340",
+"LatLong": "14.5167,102.85"
+},
+{
+"Name": "Samrong",
+"PostCode": "34360",
+"LatLong": "13.65,100.5833"
+},
+{
+"Name": "Sawang Werarong",
+"PostCode": "34190",
+"LatLong": "15.6417,105.225"
+},
+{
+"Name": "Si Muang Mai",
+"PostCode": "34250",
+"LatLong": "15.4833,105.2833"
+},
+{
+"Name": "Sirinhon",
+"PostCode": "34350",
+"LatLong": "14.5167,102.85"
+},
+{
+"Name": "Tan Sum",
+"PostCode": "34330",
+"LatLong": "15.3833,105.1167"
+},
+{
+"Name": "Thung Sriudom",
+"PostCode": "34160",
+"LatLong": "15.6417,105.225"
+},
+{
+"Name": "Trakan Puetphon",
+"PostCode": "34130",
+"LatLong": "15.6417,105.225"
+},
+{
+"Name": "Warin Chamrabp",
+"PostCode": "34190",
+"LatLong": "15.6417,105.225"
+}
+]
+}
+]
+}
+]
+},
+{
 "Name": "Bangkok",
 "Code": "10",
 "Provinces": [
@@ -8,24 +86,24 @@
 {
 "Places": [
 {
-"Name": "Pom Prap Sattru Phai",
-"PostCode": "10100",
-"LatLong": "13.7333,100.5"
+"Name": "Bang Bon",
+"PostCode": "10150",
+"LatLong": "13.7,100.4667"
 },
 {
-"Name": "Samphanthawong",
-"PostCode": "10100",
-"LatLong": "13.7333,100.5"
+"Name": "Bang Kapi",
+"PostCode": "10240",
+"LatLong": "13.7667,100.65"
 },
 {
-"Name": "Wattana",
-"PostCode": "10110",
-"LatLong": "13.7083,100.4562"
+"Name": "Bang Khae",
+"PostCode": "10160",
+"LatLong": "13.7167,100.4167"
 },
 {
-"Name": "Yannawa",
-"PostCode": "10120",
-"LatLong": "13.7083,100.4562"
+"Name": "Bang Khen",
+"PostCode": "10220",
+"LatLong": "13.8667,100.6"
 },
 {
 "Name": "Bang Kholame",
@@ -33,29 +111,99 @@
 "LatLong": "13.7083,100.4562"
 },
 {
-"Name": "Rat Burana",
-"PostCode": "10140",
-"LatLong": "13.6833,100.5"
-},
-{
-"Name": "Thung Khru",
-"PostCode": "10140",
-"LatLong": "13.6833,100.5"
-},
-{
 "Name": "Bang Khun Thian",
 "PostCode": "10150",
 "LatLong": "13.7,100.4667"
 },
 {
-"Name": "Bang Bon",
-"PostCode": "10150",
-"LatLong": "13.7,100.4667"
+"Name": "Bang Na",
+"PostCode": "10260",
+"LatLong": "13.6667,100.5833"
 },
 {
-"Name": "Phasi Charoen",
-"PostCode": "10160",
-"LatLong": "13.7167,100.4333"
+"Name": "Bang Plat",
+"PostCode": "10700",
+"LatLong": "13.75,100.4833"
+},
+{
+"Name": "Bang Rak",
+"PostCode": "10500",
+"LatLong": "13.7333,100.5333"
+},
+{
+"Name": "Bang Su",
+"PostCode": "10800",
+"LatLong": "13.8,100.5333"
+},
+{
+"Name": "Bangkok Noi",
+"PostCode": "10700",
+"LatLong": "13.75,100.4833"
+},
+{
+"Name": "Bangkok Yai",
+"PostCode": "10600",
+"LatLong": "13.7333,100.4833"
+},
+{
+"Name": "Bung Kum",
+"PostCode": "10240",
+"LatLong": "13.7667,100.65"
+},
+{
+"Name": "Ding Daeng",
+"PostCode": "10400",
+"LatLong": "13.7625,100.531"
+},
+{
+"Name": "Dusit",
+"PostCode": "10300",
+"LatLong": "13.7833,100.5167"
+},
+{
+"Name": "Huai Khwang",
+"PostCode": "10320",
+"LatLong": "13.7833,100.5167"
+},
+{
+"Name": "Khanna Yao",
+"PostCode": "10230",
+"LatLong": "14.3333,99.9167"
+},
+{
+"Name": "Khlong Samwa",
+"PostCode": "10510",
+"LatLong": "13.8167,100.75"
+},
+{
+"Name": "Khlong San",
+"PostCode": "10600",
+"LatLong": "13.7333,100.5"
+},
+{
+"Name": "Lak Si",
+"PostCode": "10210",
+"LatLong": "14.1833,100.2833"
+},
+{
+"Name": "Lat Krabang",
+"PostCode": "10520",
+"LatLong": "13.7167,100.7833"
+},
+{
+"Name": "Lat Phrao",
+"PostCode": "10230",
+"LatLong": "14.3333,99.9167"
+},
+{
+"Name": "Min Buri",
+"PostCode": "10510",
+"LatLong": "13.8167,100.75"
+},
+{
+"Name": "Nong Chok",
+"PostCode": "10530",
+"LatLong": "13.85,100.8667"
 },
 {
 "Name": "Nong Khaem",
@@ -63,9 +211,64 @@
 "LatLong": "13.6833,100.35"
 },
 {
-"Name": "Bang Khae",
+"Name": "Pahtum Wan",
+"PostCode": "10330",
+"LatLong": "13.7833,100.5167"
+},
+{
+"Name": "Phasi Charoen",
 "PostCode": "10160",
-"LatLong": "13.7167,100.4167"
+"LatLong": "13.7167,100.4333"
+},
+{
+"Name": "Phaya Thai",
+"PostCode": "10400",
+"LatLong": "13.7625,100.531"
+},
+{
+"Name": "Phra Khanong",
+"PostCode": "10260",
+"LatLong": "13.7,100.6"
+},
+{
+"Name": "Phra Nakhon",
+"PostCode": "10200",
+"LatLong": "13.75,100.5167"
+},
+{
+"Name": "Pom Prap Sattru Phai",
+"PostCode": "10100",
+"LatLong": "13.7333,100.5"
+},
+{
+"Name": "Pra Vet",
+"PostCode": "10250",
+"LatLong": "13.8583,100.4688"
+},
+{
+"Name": "Rat Burana",
+"PostCode": "10140",
+"LatLong": "13.6833,100.5"
+},
+{
+"Name": "Sai Mai",
+"PostCode": "10220",
+"LatLong": "13.8667,100.6"
+},
+{
+"Name": "Samphanthawong",
+"PostCode": "10100",
+"LatLong": "13.7333,100.5"
+},
+{
+"Name": "Saphan Sung B39",
+"PostCode": "10240",
+"LatLong": "13.7667,100.65"
+},
+{
+"Name": "Suang Luang",
+"PostCode": "10250",
+"LatLong": "13.8583,100.4688"
 },
 {
 "Name": "Taling Chan",
@@ -78,74 +281,14 @@
 "LatLong": "13.7667,100.45"
 },
 {
-"Name": "Phra Nakhon",
-"PostCode": "10200",
-"LatLong": "13.75,100.5167"
+"Name": "Thon Buri",
+"PostCode": "10600",
+"LatLong": "13.7167,100.4833"
 },
 {
-"Name": "Lak Si",
-"PostCode": "10210",
-"LatLong": "14.1833,100.2833"
-},
-{
-"Name": "Bang Khen",
-"PostCode": "10220",
-"LatLong": "13.8667,100.6"
-},
-{
-"Name": "Sai Mai",
-"PostCode": "10220",
-"LatLong": "13.8667,100.6"
-},
-{
-"Name": "Lat Phrao",
-"PostCode": "10230",
-"LatLong": "14.3333,99.9167"
-},
-{
-"Name": "Khanna Yao",
-"PostCode": "10230",
-"LatLong": "14.3333,99.9167"
-},
-{
-"Name": "Bang Kapi",
-"PostCode": "10240",
-"LatLong": "13.7667,100.65"
-},
-{
-"Name": "Saphan Sung B39",
-"PostCode": "10240",
-"LatLong": "13.7667,100.65"
-},
-{
-"Name": "Bung Kum",
-"PostCode": "10240",
-"LatLong": "13.7667,100.65"
-},
-{
-"Name": "Suang Luang",
-"PostCode": "10250",
-"LatLong": "13.8583,100.4688"
-},
-{
-"Name": "Pra Vet",
-"PostCode": "10250",
-"LatLong": "13.8583,100.4688"
-},
-{
-"Name": "Bang Na",
-"PostCode": "10260",
-"LatLong": "13.6667,100.5833"
-},
-{
-"Name": "Phra Khanong",
-"PostCode": "10260",
-"LatLong": "13.7,100.6"
-},
-{
-"Name": "Dusit",
-"PostCode": "10300",
-"LatLong": "13.7833,100.5167"
+"Name": "Thung Khru",
+"PostCode": "10140",
+"LatLong": "13.6833,100.5"
 },
 {
 "Name": "Wangthong Lang",
@@ -153,79 +296,14 @@
 "LatLong": "13.7833,100.5167"
 },
 {
-"Name": "Huai Khwang",
-"PostCode": "10320",
-"LatLong": "13.7833,100.5167"
+"Name": "Wattana",
+"PostCode": "10110",
+"LatLong": "13.7083,100.4562"
 },
 {
-"Name": "Pahtum Wan",
-"PostCode": "10330",
-"LatLong": "13.7833,100.5167"
-},
-{
-"Name": "Phaya Thai",
-"PostCode": "10400",
-"LatLong": "13.7625,100.531"
-},
-{
-"Name": "Ding Daeng",
-"PostCode": "10400",
-"LatLong": "13.7625,100.531"
-},
-{
-"Name": "Bang Rak",
-"PostCode": "10500",
-"LatLong": "13.7333,100.5333"
-},
-{
-"Name": "Khlong Samwa",
-"PostCode": "10510",
-"LatLong": "13.8167,100.75"
-},
-{
-"Name": "Min Buri",
-"PostCode": "10510",
-"LatLong": "13.8167,100.75"
-},
-{
-"Name": "Lat Krabang",
-"PostCode": "10520",
-"LatLong": "13.7167,100.7833"
-},
-{
-"Name": "Nong Chok",
-"PostCode": "10530",
-"LatLong": "13.85,100.8667"
-},
-{
-"Name": "Khlong San",
-"PostCode": "10600",
-"LatLong": "13.7333,100.5"
-},
-{
-"Name": "Bangkok Yai",
-"PostCode": "10600",
-"LatLong": "13.7333,100.4833"
-},
-{
-"Name": "Thon Buri",
-"PostCode": "10600",
-"LatLong": "13.7167,100.4833"
-},
-{
-"Name": "Bang Plat",
-"PostCode": "10700",
-"LatLong": "13.75,100.4833"
-},
-{
-"Name": "Bangkok Noi",
-"PostCode": "10700",
-"LatLong": "13.75,100.4833"
-},
-{
-"Name": "Bang Su",
-"PostCode": "10800",
-"LatLong": "13.8,100.5333"
+"Name": "Yannawa",
+"PostCode": "10120",
+"LatLong": "13.7083,100.4562"
 }
 ]
 }
@@ -242,19 +320,9 @@
 {
 "Places": [
 {
-"Name": "Phra Pradaeng",
-"PostCode": "10130",
-"LatLong": "13.6667,100.5333"
-},
-{
-"Name": "Muang Samut Prakan",
-"PostCode": "10270",
-"LatLong": "13.6,100.6"
-},
-{
-"Name": "Phra Samut Chedi",
-"PostCode": "10290",
-"LatLong": "13.8583,100.4688"
+"Name": "Bang Bo",
+"PostCode": "10560",
+"LatLong": "13.5833,100.8167"
 },
 {
 "Name": "Bang Phli",
@@ -267,9 +335,19 @@
 "LatLong": "13.6,100.7167"
 },
 {
-"Name": "Bang Bo",
-"PostCode": "10560",
-"LatLong": "13.5833,100.8167"
+"Name": "Muang Samut Prakan",
+"PostCode": "10270",
+"LatLong": "13.6,100.6"
+},
+{
+"Name": "Phra Pradaeng",
+"PostCode": "10130",
+"LatLong": "13.6667,100.5333"
+},
+{
+"Name": "Phra Samut Chedi",
+"PostCode": "10290",
+"LatLong": "13.8583,100.4688"
 }
 ]
 }
@@ -286,19 +364,9 @@
 {
 "Places": [
 {
-"Name": "Muang Nonthaburi",
-"PostCode": "11000",
-"LatLong": "13.89,100.4333"
-},
-{
 "Name": "Bang Bua Thong",
 "PostCode": "11110",
 "LatLong": "13.9167,100.4333"
-},
-{
-"Name": "Pak Kret",
-"PostCode": "11120",
-"LatLong": "13.9167,100.5"
 },
 {
 "Name": "Bang Kruai",
@@ -309,6 +377,16 @@
 "Name": "Bang Yai",
 "PostCode": "11140",
 "LatLong": "13.85,100.4333"
+},
+{
+"Name": "Muang Nonthaburi",
+"PostCode": "11000",
+"LatLong": "13.89,100.4333"
+},
+{
+"Name": "Pak Kret",
+"PostCode": "11120",
+"LatLong": "13.9167,100.5"
 },
 {
 "Name": "Sai Noi",
@@ -330,24 +408,9 @@
 {
 "Places": [
 {
-"Name": "Muang Pathum Thani",
-"PostCode": "12000",
-"LatLong": "14.0433,100.64"
-},
-{
-"Name": "Thanyaburi",
-"PostCode": "12110",
-"LatLong": "14.0433,100.64"
-},
-{
 "Name": "Khlong Luang",
 "PostCode": "12120",
 "LatLong": "14.0667,100.65"
-},
-{
-"Name": "Lat Lum Kaeo",
-"PostCode": "12140",
-"LatLong": "14.0333,100.4167"
 },
 {
 "Name": "Lam Luk Ka",
@@ -355,14 +418,29 @@
 "LatLong": "13.9333,100.75"
 },
 {
-"Name": "Sam Khok",
-"PostCode": "12160",
-"LatLong": "14.05,100.55"
+"Name": "Lat Lum Kaeo",
+"PostCode": "12140",
+"LatLong": "14.0333,100.4167"
+},
+{
+"Name": "Muang Pathum Thani",
+"PostCode": "12000",
+"LatLong": "14.0433,100.64"
 },
 {
 "Name": "Nong Sua",
 "PostCode": "12170",
 "LatLong": "14.1333,100.8333"
+},
+{
+"Name": "Sam Khok",
+"PostCode": "12160",
+"LatLong": "14.05,100.55"
+},
+{
+"Name": "Thanyaburi",
+"PostCode": "12110",
+"LatLong": "14.0433,100.64"
 }
 ]
 }
@@ -379,66 +457,6 @@
 {
 "Places": [
 {
-"Name": "Pharnakhon Si Ayutthaya",
-"PostCode": "13000",
-"LatLong": "14.3738,100.5631"
-},
-{
-"Name": "Sena",
-"PostCode": "13110",
-"LatLong": "14.3167,100.4"
-},
-{
-"Name": "Pak Hai",
-"PostCode": "13120",
-"LatLong": "14.3619,100.6"
-},
-{
-"Name": "Tha Rua",
-"PostCode": "13130",
-"LatLong": "14.5667,100.7333"
-},
-{
-"Name": "Phachi",
-"PostCode": "13140",
-"LatLong": "14.45,100.7167"
-},
-{
-"Name": "Maha Rat",
-"PostCode": "13150",
-"LatLong": "14.5333,100.5333"
-},
-{
-"Name": "Bang Pa-In",
-"PostCode": "13160",
-"LatLong": "14.2333,100.5833"
-},
-{
-"Name": "Wang Noi",
-"PostCode": "13170",
-"LatLong": "14.2167,100.7333"
-},
-{
-"Name": "Bang Sai",
-"PostCode": "13190",
-"LatLong": "14.2167,100.5"
-},
-{
-"Name": "Uthai",
-"PostCode": "13210",
-"LatLong": "14.3667,100.6667"
-},
-{
-"Name": "Bang Pahan",
-"PostCode": "13220",
-"LatLong": "14.45,100.55"
-},
-{
-"Name": "Lat Bua Luang",
-"PostCode": "13230",
-"LatLong": "14.1667,100.3167"
-},
-{
 "Name": "Ban Phraek",
 "PostCode": "13240",
 "LatLong": "14.6333,100.5667"
@@ -449,14 +467,74 @@
 "LatLong": "14.4167,100.4667"
 },
 {
-"Name": "Nakhon Luang",
-"PostCode": "13260",
-"LatLong": "14.45,100.6167"
+"Name": "Bang Pahan",
+"PostCode": "13220",
+"LatLong": "14.45,100.55"
+},
+{
+"Name": "Bang Pa-In",
+"PostCode": "13160",
+"LatLong": "14.2333,100.5833"
+},
+{
+"Name": "Bang Sai",
+"PostCode": "13190",
+"LatLong": "14.2167,100.5"
 },
 {
 "Name": "Bang Sai",
 "PostCode": "13270",
 "LatLong": "14.2167,100.5"
+},
+{
+"Name": "Lat Bua Luang",
+"PostCode": "13230",
+"LatLong": "14.1667,100.3167"
+},
+{
+"Name": "Maha Rat",
+"PostCode": "13150",
+"LatLong": "14.5333,100.5333"
+},
+{
+"Name": "Nakhon Luang",
+"PostCode": "13260",
+"LatLong": "14.45,100.6167"
+},
+{
+"Name": "Pak Hai",
+"PostCode": "13120",
+"LatLong": "14.3619,100.6"
+},
+{
+"Name": "Phachi",
+"PostCode": "13140",
+"LatLong": "14.45,100.7167"
+},
+{
+"Name": "Pharnakhon Si Ayutthaya",
+"PostCode": "13000",
+"LatLong": "14.3738,100.5631"
+},
+{
+"Name": "Sena",
+"PostCode": "13110",
+"LatLong": "14.3167,100.4"
+},
+{
+"Name": "Tha Rua",
+"PostCode": "13130",
+"LatLong": "14.5667,100.7333"
+},
+{
+"Name": "Uthai",
+"PostCode": "13210",
+"LatLong": "14.3667,100.6667"
+},
+{
+"Name": "Wang Noi",
+"PostCode": "13170",
+"LatLong": "14.2167,100.7333"
 }
 ]
 }
@@ -473,19 +551,14 @@
 {
 "Places": [
 {
+"Name": "Chaiyo",
+"PostCode": "14140",
+"LatLong": "14.65,100.4667"
+},
+{
 "Name": "Muang ANG THONG",
 "PostCode": "14000",
 "LatLong": "14.5833,100.45"
-},
-{
-"Name": "Wiset Chai Chan",
-"PostCode": "14110",
-"LatLong": "14.5833,100.35"
-},
-{
-"Name": "Pho Thong",
-"PostCode": "14120",
-"LatLong": "14.6667,100.4167"
 },
 {
 "Name": "Pa Mok",
@@ -493,9 +566,14 @@
 "LatLong": "14.4833,100.45"
 },
 {
-"Name": "Chaiyo",
-"PostCode": "14140",
-"LatLong": "14.65,100.4667"
+"Name": "Pho Thong",
+"PostCode": "14120",
+"LatLong": "14.6667,100.4167"
+},
+{
+"Name": "Samko",
+"PostCode": "14160",
+"LatLong": "14.5958,100.4208"
 },
 {
 "Name": "Sawaengha",
@@ -503,9 +581,9 @@
 "LatLong": "14.5958,100.4208"
 },
 {
-"Name": "Samko",
-"PostCode": "14160",
-"LatLong": "14.5958,100.4208"
+"Name": "Wiset Chai Chan",
+"PostCode": "14110",
+"LatLong": "14.5833,100.35"
 }
 ]
 }
@@ -522,24 +600,9 @@
 {
 "Places": [
 {
-"Name": "Muang Lopburi",
-"PostCode": "15000",
-"LatLong": "14.8,100.6167"
-},
-{
 "Name": "Ban Mi",
 "PostCode": "15110",
 "LatLong": "15.0436,100.5661"
-},
-{
-"Name": "Khok Samrong",
-"PostCode": "15120",
-"LatLong": "15.0644,100.7228"
-},
-{
-"Name": "Tha Luang",
-"PostCode": "15130",
-"LatLong": "14.9833,101.0167"
 },
 {
 "Name": "Chai Badan",
@@ -547,14 +610,24 @@
 "LatLong": "15.2,101.1333"
 },
 {
-"Name": "Phattana Nikhom",
-"PostCode": "15140",
+"Name": "Khok Charoen",
+"PostCode": "15250",
+"LatLong": "15.35,100.8167"
+},
+{
+"Name": "Khok Samrong",
+"PostCode": "15120",
+"LatLong": "15.0644,100.7228"
+},
+{
+"Name": "Lum Sunthi",
+"PostCode": "15190",
 "LatLong": "15.0216,100.7911"
 },
 {
-"Name": "Tha Wung",
-"PostCode": "15150",
-"LatLong": "14.8167,100.5167"
+"Name": "Muang Lopburi",
+"PostCode": "15000",
+"LatLong": "14.8,100.6167"
 },
 {
 "Name": "Nong Muang",
@@ -562,8 +635,8 @@
 "LatLong": "15.0216,100.7911"
 },
 {
-"Name": "Lum Sunthi",
-"PostCode": "15190",
+"Name": "Phattana Nikhom",
+"PostCode": "15140",
 "LatLong": "15.0216,100.7911"
 },
 {
@@ -572,9 +645,14 @@
 "LatLong": "15.35,100.8167"
 },
 {
-"Name": "Khok Charoen",
-"PostCode": "15250",
-"LatLong": "15.35,100.8167"
+"Name": "Tha Luang",
+"PostCode": "15130",
+"LatLong": "14.9833,101.0167"
+},
+{
+"Name": "Tha Wung",
+"PostCode": "15150",
+"LatLong": "14.8167,100.5167"
 }
 ]
 }
@@ -591,9 +669,9 @@
 {
 "Places": [
 {
-"Name": "Muang Sing Buri",
-"PostCode": "16000",
-"LatLong": "14.8708,100.375"
+"Name": "Bang Rachan",
+"PostCode": "16130",
+"LatLong": "14.8833,100.3167"
 },
 {
 "Name": "In Buri",
@@ -601,24 +679,24 @@
 "LatLong": "15,100.3333"
 },
 {
+"Name": "Khai Bang Rachan",
+"PostCode": "16150",
+"LatLong": "14.8708,100.375"
+},
+{
+"Name": "Muang Sing Buri",
+"PostCode": "16000",
+"LatLong": "14.8708,100.375"
+},
+{
 "Name": "Phrom Buri",
 "PostCode": "16120",
 "LatLong": "14.8333,100.45"
 },
 {
-"Name": "Bang Rachan",
-"PostCode": "16130",
-"LatLong": "14.8833,100.3167"
-},
-{
 "Name": "Tha Chang",
 "PostCode": "16140",
 "LatLong": "14.7667,100.4"
-},
-{
-"Name": "Khai Bang Rachan",
-"PostCode": "16150",
-"LatLong": "14.8708,100.375"
 }
 ]
 }
@@ -635,14 +713,9 @@
 {
 "Places": [
 {
-"Name": "Muang Chainat",
-"PostCode": "17000",
-"LatLong": "15.1833,100.1333"
-},
-{
-"Name": "Nong Mamong",
-"PostCode": "17100",
-"LatLong": "15.2775,99.8769"
+"Name": "Hankha",
+"PostCode": "17130",
+"LatLong": "14.9833,100.0167"
 },
 {
 "Name": "Manorom",
@@ -650,9 +723,9 @@
 "LatLong": "15.3167,100.0833"
 },
 {
-"Name": "Wat Sing",
-"PostCode": "17120",
-"LatLong": "15.2667,100.05"
+"Name": "Muang Chainat",
+"PostCode": "17000",
+"LatLong": "15.1833,100.1333"
 },
 {
 "Name": "Non Kham",
@@ -660,9 +733,9 @@
 "LatLong": "14.9833,100.0167"
 },
 {
-"Name": "Hankha",
-"PostCode": "17130",
-"LatLong": "14.9833,100.0167"
+"Name": "Nong Mamong",
+"PostCode": "17100",
+"LatLong": "15.2775,99.8769"
 },
 {
 "Name": "Sankhaburi",
@@ -673,6 +746,11 @@
 "Name": "Sanphaya",
 "PostCode": "17150",
 "LatLong": "15.1333,100.25"
+},
+{
+"Name": "Wat Sing",
+"PostCode": "17120",
+"LatLong": "15.2667,100.05"
 }
 ]
 }
@@ -689,59 +767,14 @@
 {
 "Places": [
 {
-"Name": "Chaloem Phakiat",
-"PostCode": "18000",
-"LatLong": "14.5521,100.9003"
-},
-{
-"Name": "Muang Saraburi",
-"PostCode": "18000",
-"LatLong": "14.5521,100.9003"
-},
-{
-"Name": "Kaeng Khoi",
-"PostCode": "18110",
-"LatLong": "14.5881,101.0031"
-},
-{
-"Name": "Phra Phutthabat",
-"PostCode": "18120",
-"LatLong": "14.7167,100.8"
-},
-{
 "Name": "Ban Mo",
 "PostCode": "18130",
 "LatLong": "14.6167,100.7333"
 },
 {
-"Name": "Nong Khae",
-"PostCode": "18140",
-"LatLong": "14.3333,100.8667"
-},
-{
-"Name": "Wihan Daeng",
-"PostCode": "18150",
-"LatLong": "14.35,101"
-},
-{
-"Name": "Sao Hai",
-"PostCode": "18160",
-"LatLong": "14.55,100.85"
-},
-{
-"Name": "Nong Saeng",
-"PostCode": "18170",
-"LatLong": "14.4833,100.7833"
-},
-{
-"Name": "Muak Lek",
-"PostCode": "18180",
-"LatLong": "14.5833,101.2167"
-},
-{
-"Name": "Nong Doan",
-"PostCode": "18190",
-"LatLong": "14.5277,100.9066"
+"Name": "Chaloem Phakiat",
+"PostCode": "18000",
+"LatLong": "14.5521,100.9003"
 },
 {
 "Name": "Don Phut",
@@ -749,9 +782,54 @@
 "LatLong": "14.5833,100.6667"
 },
 {
+"Name": "Kaeng Khoi",
+"PostCode": "18110",
+"LatLong": "14.5881,101.0031"
+},
+{
+"Name": "Muak Lek",
+"PostCode": "18180",
+"LatLong": "14.5833,101.2167"
+},
+{
+"Name": "Muang Saraburi",
+"PostCode": "18000",
+"LatLong": "14.5521,100.9003"
+},
+{
+"Name": "Nong Doan",
+"PostCode": "18190",
+"LatLong": "14.5277,100.9066"
+},
+{
+"Name": "Nong Khae",
+"PostCode": "18140",
+"LatLong": "14.3333,100.8667"
+},
+{
+"Name": "Nong Saeng",
+"PostCode": "18170",
+"LatLong": "14.4833,100.7833"
+},
+{
+"Name": "Phra Phutthabat",
+"PostCode": "18120",
+"LatLong": "14.7167,100.8"
+},
+{
+"Name": "Sao Hai",
+"PostCode": "18160",
+"LatLong": "14.55,100.85"
+},
+{
 "Name": "Wang Muang",
 "PostCode": "18220",
 "LatLong": "14.7167,101.0833"
+},
+{
+"Name": "Wihan Daeng",
+"PostCode": "18150",
+"LatLong": "14.35,101"
 }
 ]
 }
@@ -768,24 +846,9 @@
 {
 "Places": [
 {
-"Name": "Muang Chonburi",
-"PostCode": "20000",
-"LatLong": "13.1604,101.1083"
-},
-{
-"Name": "Si Racha",
-"PostCode": "20110",
-"LatLong": "13.1667,100.9333"
-},
-{
-"Name": "Ko Sichang",
-"PostCode": "20120",
-"LatLong": "13.1452,101.0619"
-},
-{
-"Name": "Phanat Nikhom",
-"PostCode": "20140",
-"LatLong": "13.45,101.1833"
+"Name": "Ban Bung",
+"PostCode": "20170",
+"LatLong": "13.0667,101"
 },
 {
 "Name": "Bang Lamung",
@@ -793,24 +856,9 @@
 "LatLong": "13.05,100.9333"
 },
 {
-"Name": "Phan Thong",
-"PostCode": "20160",
-"LatLong": "13.4667,101.1"
-},
-{
-"Name": "Ban Bung",
-"PostCode": "20170",
-"LatLong": "13.0667,101"
-},
-{
-"Name": "Sattahip",
-"PostCode": "20180",
-"LatLong": "12.6667,100.9"
-},
-{
-"Name": "Nong Yai",
-"PostCode": "20190",
-"LatLong": "13.15,101.3833"
+"Name": "Bo Thong",
+"PostCode": "20270",
+"LatLong": "13.2667,101.4333"
 },
 {
 "Name": "Ko Chan",
@@ -818,9 +866,39 @@
 "LatLong": "13.2667,101.4333"
 },
 {
-"Name": "Bo Thong",
-"PostCode": "20270",
-"LatLong": "13.2667,101.4333"
+"Name": "Ko Sichang",
+"PostCode": "20120",
+"LatLong": "13.1452,101.0619"
+},
+{
+"Name": "Muang Chonburi",
+"PostCode": "20000",
+"LatLong": "13.1604,101.1083"
+},
+{
+"Name": "Nong Yai",
+"PostCode": "20190",
+"LatLong": "13.15,101.3833"
+},
+{
+"Name": "Phan Thong",
+"PostCode": "20160",
+"LatLong": "13.4667,101.1"
+},
+{
+"Name": "Phanat Nikhom",
+"PostCode": "20140",
+"LatLong": "13.45,101.1833"
+},
+{
+"Name": "Sattahip",
+"PostCode": "20180",
+"LatLong": "12.6667,100.9"
+},
+{
+"Name": "Si Racha",
+"PostCode": "20110",
+"LatLong": "13.1667,100.9333"
 }
 ]
 }
@@ -837,19 +915,9 @@
 {
 "Places": [
 {
-"Name": "Muang Rayong",
-"PostCode": "21000",
-"LatLong": "12.6667,101.2833"
-},
-{
-"Name": "Klaeng",
-"PostCode": "21110",
-"LatLong": "12.7833,101.65"
-},
-{
-"Name": "Khao Chamao",
-"PostCode": "21110",
-"LatLong": "12.7833,101.65"
+"Name": "Ban Chang",
+"PostCode": "21130",
+"LatLong": "12.7167,101.0667"
 },
 {
 "Name": "Ban Khai",
@@ -857,19 +925,29 @@
 "LatLong": "12.7833,101.3"
 },
 {
-"Name": "Ban Chang",
-"PostCode": "21130",
-"LatLong": "12.7167,101.0667"
+"Name": "Khao Chamao",
+"PostCode": "21110",
+"LatLong": "12.7833,101.65"
 },
 {
-"Name": "Pluak Daeng",
-"PostCode": "21140",
-"LatLong": "12.9667,101.2167"
+"Name": "Klaeng",
+"PostCode": "21110",
+"LatLong": "12.7833,101.65"
+},
+{
+"Name": "Muang Rayong",
+"PostCode": "21000",
+"LatLong": "12.6667,101.2833"
 },
 {
 "Name": "Nikhom Pattana",
 "PostCode": "21180",
 "LatLong": "12.8125,101.3083"
+},
+{
+"Name": "Pluak Daeng",
+"PostCode": "21140",
+"LatLong": "12.9667,101.2167"
 },
 {
 "Name": "Wang Chan",
@@ -891,8 +969,13 @@
 {
 "Places": [
 {
-"Name": "Muang Chanthaburi",
-"PostCode": "22000",
+"Name": "Kaeng Hang Maew",
+"PostCode": "22160",
+"LatLong": "12.7833,101.8333"
+},
+{
+"Name": "Khao Kitchakut",
+"PostCode": "22210",
 "LatLong": "12.6528,102.1222"
 },
 {
@@ -901,19 +984,9 @@
 "LatLong": "12.45,102.2333"
 },
 {
-"Name": "Tha Mai",
-"PostCode": "22120",
-"LatLong": "12.6167,102.0167"
-},
-{
 "Name": "Laem Sing",
 "PostCode": "22130",
 "LatLong": "12.4833,102.0667"
-},
-{
-"Name": "Pong Nam Ron",
-"PostCode": "22140",
-"LatLong": "12.9167,102.3833"
 },
 {
 "Name": "Makham",
@@ -921,9 +994,9 @@
 "LatLong": "12.6667,102.2"
 },
 {
-"Name": "Kaeng Hang Maew",
-"PostCode": "22160",
-"LatLong": "12.7833,101.8333"
+"Name": "Muang Chanthaburi",
+"PostCode": "22000",
+"LatLong": "12.6528,102.1222"
 },
 {
 "Name": "Na Yai Am",
@@ -931,14 +1004,19 @@
 "LatLong": "12.7833,101.8333"
 },
 {
+"Name": "Pong Nam Ron",
+"PostCode": "22140",
+"LatLong": "12.9167,102.3833"
+},
+{
 "Name": "Soi Dao",
 "PostCode": "22180",
 "LatLong": "12.6528,102.1222"
 },
 {
-"Name": "Khao Kitchakut",
-"PostCode": "22210",
-"LatLong": "12.6528,102.1222"
+"Name": "Tha Mai",
+"PostCode": "22120",
+"LatLong": "12.6167,102.0167"
 }
 ]
 }
@@ -955,29 +1033,9 @@
 {
 "Places": [
 {
-"Name": "Muang Trat",
-"PostCode": "23000",
-"LatLong": "12.2131,102.5776"
-},
-{
-"Name": "Ko Kud",
-"PostCode": "23000",
-"LatLong": "12.2131,102.5776"
-},
-{
-"Name": "Khlong Yai",
-"PostCode": "23110",
-"LatLong": "11.7667,102.9"
-},
-{
-"Name": "Laem Ngob",
-"PostCode": "23120",
-"LatLong": "12.1667,102.4333"
-},
-{
-"Name": "Ko Chang",
-"PostCode": "23120",
-"LatLong": "12.1667,102.4333"
+"Name": "Bo Rai",
+"PostCode": "23140",
+"LatLong": "12.5692,102.5272"
 },
 {
 "Name": "Khao Saming",
@@ -985,9 +1043,29 @@
 "LatLong": "12.35,102.45"
 },
 {
-"Name": "Bo Rai",
-"PostCode": "23140",
-"LatLong": "12.5692,102.5272"
+"Name": "Khlong Yai",
+"PostCode": "23110",
+"LatLong": "11.7667,102.9"
+},
+{
+"Name": "Ko Chang",
+"PostCode": "23120",
+"LatLong": "12.1667,102.4333"
+},
+{
+"Name": "Ko Kud",
+"PostCode": "23000",
+"LatLong": "12.2131,102.5776"
+},
+{
+"Name": "Laem Ngob",
+"PostCode": "23120",
+"LatLong": "12.1667,102.4333"
+},
+{
+"Name": "Muang Trat",
+"PostCode": "23000",
+"LatLong": "12.2131,102.5776"
 }
 ]
 }
@@ -1004,6 +1082,26 @@
 {
 "Places": [
 {
+"Name": "Ban Pho",
+"PostCode": "24140",
+"LatLong": "13.6,101.0833"
+},
+{
+"Name": "Bang Khla",
+"PostCode": "24110",
+"LatLong": "13.7167,101.2167"
+},
+{
+"Name": "Bang Nam Prieo",
+"PostCode": "24150",
+"LatLong": "13.85,101.0667"
+},
+{
+"Name": "Bang Pakong",
+"PostCode": "24130",
+"LatLong": "13.55,101"
+},
+{
 "Name": "Khlong Kaen",
 "PostCode": "24000",
 "LatLong": "13.6861,101.1944"
@@ -1014,9 +1112,9 @@
 "LatLong": "13.6861,101.1944"
 },
 {
-"Name": "Bang Khla",
-"PostCode": "24110",
-"LatLong": "13.7167,101.2167"
+"Name": "Paeng Yao",
+"PostCode": "24190",
+"LatLong": "13.6861,101.1944"
 },
 {
 "Name": "Phanom Sarakham",
@@ -1029,21 +1127,6 @@
 "LatLong": "13.75,101.35"
 },
 {
-"Name": "Bang Pakong",
-"PostCode": "24130",
-"LatLong": "13.55,101"
-},
-{
-"Name": "Ban Pho",
-"PostCode": "24140",
-"LatLong": "13.6,101.0833"
-},
-{
-"Name": "Bang Nam Prieo",
-"PostCode": "24150",
-"LatLong": "13.85,101.0667"
-},
-{
 "Name": "Sanam Chai Khet",
 "PostCode": "24160",
 "LatLong": "13.65,101.45"
@@ -1052,11 +1135,6 @@
 "Name": "Ta Takiab",
 "PostCode": "24160",
 "LatLong": "13.65,101.45"
-},
-{
-"Name": "Paeng Yao",
-"PostCode": "24190",
-"LatLong": "13.6861,101.1944"
 }
 ]
 }
@@ -1073,14 +1151,29 @@
 {
 "Places": [
 {
-"Name": "Muang Prachinburi",
-"PostCode": "25000",
-"LatLong": "14.0048,101.5198"
+"Name": "Ban Sang",
+"PostCode": "25150",
+"LatLong": "14,101.2333"
 },
 {
 "Name": "Kabin Buri",
 "PostCode": "25110",
 "LatLong": "13.9833,101.7167"
+},
+{
+"Name": "Khok Pip",
+"PostCode": "25190",
+"LatLong": "13.8833,101.4"
+},
+{
+"Name": "Muang Prachinburi",
+"PostCode": "25000",
+"LatLong": "14.0048,101.5198"
+},
+{
+"Name": "Na Di",
+"PostCode": "25220",
+"LatLong": "14.1333,101.7333"
 },
 {
 "Name": "Prachantakham",
@@ -1093,24 +1186,9 @@
 "LatLong": "13.9667,101.5167"
 },
 {
-"Name": "Ban Sang",
-"PostCode": "25150",
-"LatLong": "14,101.2333"
-},
-{
-"Name": "Khok Pip",
-"PostCode": "25190",
-"LatLong": "13.8833,101.4"
-},
-{
 "Name": "Si Mahosot",
 "PostCode": "25190",
 "LatLong": "13.8833,101.4"
-},
-{
-"Name": "Na Di",
-"PostCode": "25220",
-"LatLong": "14.1333,101.7333"
 }
 ]
 }
@@ -1127,14 +1205,14 @@
 {
 "Places": [
 {
-"Name": "Muang Nakhon Nayok",
-"PostCode": "26000",
-"LatLong": "14.2031,101.2147"
-},
-{
 "Name": "Ban Na",
 "PostCode": "26110",
 "LatLong": "14.2592,101.0683"
+},
+{
+"Name": "Muang Nakhon Nayok",
+"PostCode": "26000",
+"LatLong": "14.2031,101.2147"
 },
 {
 "Name": "Ongkarak",
@@ -1161,9 +1239,9 @@
 {
 "Places": [
 {
-"Name": "Muang Sa Kaeo",
-"PostCode": "27000",
-"LatLong": "13.8442,102.6536"
+"Name": "Aranyaprathet",
+"PostCode": "27120",
+"LatLong": "13.6833,102.5"
 },
 {
 "Name": "Khao Chakhun",
@@ -1171,14 +1249,9 @@
 "LatLong": "13.8442,102.6536"
 },
 {
-"Name": "Aranyaprathet",
-"PostCode": "27120",
-"LatLong": "13.6833,102.5"
-},
-{
-"Name": "Wang Nam Yen",
-"PostCode": "27120",
-"LatLong": "13.6833,102.5"
+"Name": "Khlong Hat",
+"PostCode": "27260",
+"LatLong": "13.8442,102.6536"
 },
 {
 "Name": "Khok Sung",
@@ -1186,8 +1259,8 @@
 "LatLong": "13.6833,102.5"
 },
 {
-"Name": "Wattana Nakhon",
-"PostCode": "27160",
+"Name": "Muang Sa Kaeo",
+"PostCode": "27000",
 "LatLong": "13.8442,102.6536"
 },
 {
@@ -1196,13 +1269,18 @@
 "LatLong": "14.005,102.8072"
 },
 {
+"Name": "Wang Nam Yen",
+"PostCode": "27120",
+"LatLong": "13.6833,102.5"
+},
+{
 "Name": "Wang Sombun",
 "PostCode": "27250",
 "LatLong": "13.8442,102.6536"
 },
 {
-"Name": "Khlong Hat",
-"PostCode": "27260",
+"Name": "Wattana Nakhon",
+"PostCode": "27160",
 "LatLong": "13.8442,102.6536"
 }
 ]
@@ -1220,19 +1298,9 @@
 {
 "Places": [
 {
-"Name": "Muang Nakhon Ratchasima",
-"PostCode": "30000",
-"LatLong": "15.0555,102.2148"
-},
-{
-"Name": "Phimai",
-"PostCode": "30110",
-"LatLong": "15.2167,102.5"
-},
-{
-"Name": "Bua Yai",
-"PostCode": "30120",
-"LatLong": "15.5833,102.4167"
+"Name": "Ban Luam",
+"PostCode": "30350",
+"LatLong": "15.5833,102.15"
 },
 {
 "Name": "Bua Lai",
@@ -1240,59 +1308,9 @@
 "LatLong": "15.5833,102.4167"
 },
 {
-"Name": "Pak Chong",
-"PostCode": "30130",
-"LatLong": "14.7042,101.4131"
-},
-{
-"Name": "Sikhiu",
-"PostCode": "30140",
-"LatLong": "14.8994,101.7083"
-},
-{
-"Name": "Pak Thong Chai",
-"PostCode": "30150",
-"LatLong": "14.7453,102.0283"
-},
-{
-"Name": "Non Sung",
-"PostCode": "30160",
-"LatLong": "15.1833,102.2667"
-},
-{
-"Name": "Sung Noen",
-"PostCode": "30170",
-"LatLong": "14.8989,101.8139"
-},
-{
-"Name": "Prathai",
-"PostCode": "30180",
-"LatLong": "15.5167,102.8"
-},
-{
-"Name": "Chok Chai",
-"PostCode": "30190",
-"LatLong": "14.7333,102.1667"
-},
-{
-"Name": "Dan Khun Thot",
-"PostCode": "30210",
-"LatLong": "15.2064,101.8058"
-},
-{
-"Name": "Theparak",
-"PostCode": "30210",
-"LatLong": "15.2064,101.8058"
-},
-{
-"Name": "Non Thai",
-"PostCode": "30220",
-"LatLong": "15.2,102.0667"
-},
-{
-"Name": "Phra Thomgkom",
-"PostCode": "30220",
-"LatLong": "15.2,102.0667"
+"Name": "Bua Yai",
+"PostCode": "30120",
+"LatLong": "15.5833,102.4167"
 },
 {
 "Name": "Chakkarat",
@@ -1305,9 +1323,39 @@
 "LatLong": "15,102.2667"
 },
 {
+"Name": "Chok Chai",
+"PostCode": "30190",
+"LatLong": "14.7333,102.1667"
+},
+{
+"Name": "Chum Phuang",
+"PostCode": "30270",
+"LatLong": "15.3167,102.7667"
+},
+{
+"Name": "Dan Khun Thot",
+"PostCode": "30210",
+"LatLong": "15.2064,101.8058"
+},
+{
 "Name": "Huai Thalaeng",
 "PostCode": "30240",
 "LatLong": "15.0028,102.6556"
+},
+{
+"Name": "Kang Sanam Nang",
+"PostCode": "30440",
+"LatLong": "14.7,102.45"
+},
+{
+"Name": "Kham Sakae Saeng",
+"PostCode": "30290",
+"LatLong": "15.3333,102.1833"
+},
+{
+"Name": "Kham Thale So",
+"PostCode": "30280",
+"LatLong": "14.9747,101.985"
 },
 {
 "Name": "Khon Buri",
@@ -1320,39 +1368,19 @@
 "LatLong": "15.4333,102.3333"
 },
 {
-"Name": "Muang Yang",
-"PostCode": "30270",
-"LatLong": "15.3167,102.7667"
-},
-{
-"Name": "Chum Phuang",
-"PostCode": "30270",
-"LatLong": "15.3167,102.7667"
-},
-{
 "Name": "Lum Thamenchai",
 "PostCode": "30270",
 "LatLong": "15.3167,102.7667"
 },
 {
-"Name": "Kham Thale So",
-"PostCode": "30280",
-"LatLong": "14.9747,101.985"
+"Name": "Muang Nakhon Ratchasima",
+"PostCode": "30000",
+"LatLong": "15.0555,102.2148"
 },
 {
-"Name": "Kham Sakae Saeng",
-"PostCode": "30290",
-"LatLong": "15.3333,102.1833"
-},
-{
-"Name": "Soeng Sang",
-"PostCode": "30330",
-"LatLong": "14.4167,102.4833"
-},
-{
-"Name": "Ban Luam",
-"PostCode": "30350",
-"LatLong": "15.5833,102.15"
+"Name": "Muang Yang",
+"PostCode": "30270",
+"LatLong": "15.3167,102.7667"
 },
 {
 "Name": "Non Daeng",
@@ -1360,9 +1388,14 @@
 "LatLong": "15,102.3167"
 },
 {
-"Name": "Wang Nam Khyo",
-"PostCode": "30370",
-"LatLong": "15,102.3167"
+"Name": "Non Sung",
+"PostCode": "30160",
+"LatLong": "15.1833,102.2667"
+},
+{
+"Name": "Non Thai",
+"PostCode": "30220",
+"LatLong": "15.2,102.0667"
 },
 {
 "Name": "Nong Bunnak",
@@ -1370,14 +1403,59 @@
 "LatLong": "14.7,102.45"
 },
 {
+"Name": "Pak Chong",
+"PostCode": "30130",
+"LatLong": "14.7042,101.4131"
+},
+{
+"Name": "Pak Thong Chai",
+"PostCode": "30150",
+"LatLong": "14.7453,102.0283"
+},
+{
+"Name": "Phimai",
+"PostCode": "30110",
+"LatLong": "15.2167,102.5"
+},
+{
+"Name": "Phra Thomgkom",
+"PostCode": "30220",
+"LatLong": "15.2,102.0667"
+},
+{
+"Name": "Prathai",
+"PostCode": "30180",
+"LatLong": "15.5167,102.8"
+},
+{
 "Name": "Sida",
 "PostCode": "30430",
 "LatLong": "14.7,102.45"
 },
 {
-"Name": "Kang Sanam Nang",
-"PostCode": "30440",
-"LatLong": "14.7,102.45"
+"Name": "Sikhiu",
+"PostCode": "30140",
+"LatLong": "14.8994,101.7083"
+},
+{
+"Name": "Soeng Sang",
+"PostCode": "30330",
+"LatLong": "14.4167,102.4833"
+},
+{
+"Name": "Sung Noen",
+"PostCode": "30170",
+"LatLong": "14.8989,101.8139"
+},
+{
+"Name": "Theparak",
+"PostCode": "30210",
+"LatLong": "15.2064,101.8058"
+},
+{
+"Name": "Wang Nam Khyo",
+"PostCode": "30370",
+"LatLong": "15,102.3167"
 }
 ]
 }
@@ -1399,39 +1477,14 @@
 "LatLong": "13.9167,102.0167"
 },
 {
-"Name": "Muang Buri Ram",
-"PostCode": "31000",
-"LatLong": "13.9167,102.0167"
+"Name": "Ban Kruat",
+"PostCode": "31180",
+"LatLong": "15.0128,103.0967"
 },
 {
-"Name": "Huai Ratch",
-"PostCode": "31000",
-"LatLong": "13.9167,102.0167"
-},
-{
-"Name": "Non Suwan",
-"PostCode": "31110",
-"LatLong": "14.5833,102.5833"
-},
-{
-"Name": "Nang Rong",
-"PostCode": "31110",
-"LatLong": "14.6333,102.8"
-},
-{
-"Name": "Cham Ni",
-"PostCode": "31110",
-"LatLong": "14.6083,102.6917"
-},
-{
-"Name": "Chaloem Phrakhiat",
-"PostCode": "31110",
-"LatLong": "14.6083,102.6917"
-},
-{
-"Name": "Phutthaisong",
-"PostCode": "31120",
-"LatLong": "15.4167,102.9"
+"Name": "Ban Phlapphla",
+"PostCode": "31250",
+"LatLong": "14.7167,102.15"
 },
 {
 "Name": "Banmai Chaiphot",
@@ -1439,24 +1492,29 @@
 "LatLong": "15.4167,102.9"
 },
 {
-"Name": "Lam Phai Mat",
-"PostCode": "31130",
-"LatLong": "14.9088,102.9959"
+"Name": "Chaloem Phrakhiat",
+"PostCode": "31110",
+"LatLong": "14.6083,102.6917"
 },
 {
-"Name": "Prakhon Chai",
-"PostCode": "31140",
-"LatLong": "14.6167,103.0833"
+"Name": "Cham Ni",
+"PostCode": "31110",
+"LatLong": "14.6083,102.6917"
 },
 {
-"Name": "Satuk",
-"PostCode": "31150",
-"LatLong": "15.3,103.3"
+"Name": "Huai Ratch",
+"PostCode": "31000",
+"LatLong": "13.9167,102.0167"
 },
 {
 "Name": "Kandong",
 "PostCode": "31150",
 "LatLong": "15.3,103.3"
+},
+{
+"Name": "Khu Muang",
+"PostCode": "31190",
+"LatLong": "15.2833,103.0333"
 },
 {
 "Name": "Krasang",
@@ -1469,14 +1527,39 @@
 "LatLong": "14.4167,102.8667"
 },
 {
-"Name": "Ban Kruat",
-"PostCode": "31180",
-"LatLong": "15.0128,103.0967"
+"Name": "Lam Phai Mat",
+"PostCode": "31130",
+"LatLong": "14.9088,102.9959"
 },
 {
-"Name": "Khu Muang",
-"PostCode": "31190",
-"LatLong": "15.2833,103.0333"
+"Name": "Muang Buri Ram",
+"PostCode": "31000",
+"LatLong": "13.9167,102.0167"
+},
+{
+"Name": "Na Pho",
+"PostCode": "31230",
+"LatLong": "15.6333,102.95"
+},
+{
+"Name": "Nang Rong",
+"PostCode": "31110",
+"LatLong": "14.6333,102.8"
+},
+{
+"Name": "Non Dindaeng",
+"PostCode": "31260",
+"LatLong": "14.9625,102.5917"
+},
+{
+"Name": "Non Suwan",
+"PostCode": "31110",
+"LatLong": "14.5833,102.5833"
+},
+{
+"Name": "Nong Hong",
+"PostCode": "31240",
+"LatLong": "14.8333,102.7333"
 },
 {
 "Name": "Nong Ki",
@@ -1489,24 +1572,19 @@
 "LatLong": "14.9625,102.5917"
 },
 {
-"Name": "Na Pho",
-"PostCode": "31230",
-"LatLong": "15.6333,102.95"
+"Name": "Phutthaisong",
+"PostCode": "31120",
+"LatLong": "15.4167,102.9"
 },
 {
-"Name": "Nong Hong",
-"PostCode": "31240",
-"LatLong": "14.8333,102.7333"
+"Name": "Prakhon Chai",
+"PostCode": "31140",
+"LatLong": "14.6167,103.0833"
 },
 {
-"Name": "Ban Phlapphla",
-"PostCode": "31250",
-"LatLong": "14.7167,102.15"
-},
-{
-"Name": "Non Dindaeng",
-"PostCode": "31260",
-"LatLong": "14.9625,102.5917"
+"Name": "Satuk",
+"PostCode": "31150",
+"LatLong": "15.3,103.3"
 }
 ]
 }
@@ -1523,14 +1601,19 @@
 {
 "Places": [
 {
-"Name": "Muang Sisaket",
-"PostCode": "33000",
-"LatLong": "15.1167,104.3333"
-},
-{
 "Name": "Benchalak",
 "PostCode": "33110",
 "LatLong": "14.65,104.65"
+},
+{
+"Name": "Bung Bun",
+"PostCode": "33220",
+"LatLong": "15.3214,104.0572"
+},
+{
+"Name": "Huai Thap Than",
+"PostCode": "33210",
+"LatLong": "15.05,104.0333"
 },
 {
 "Name": "Kantharalak",
@@ -1538,37 +1621,12 @@
 "LatLong": "14.65,104.65"
 },
 {
-"Name": "Uthumphon Phisai",
-"PostCode": "33120",
-"LatLong": "15.1133,104.1408"
-},
-{
-"Name": "Muang Chan",
-"PostCode": "33120",
-"LatLong": "15.1133,104.1408"
-},
-{
-"Name": "Po Sri Suwan",
-"PostCode": "33120",
-"LatLong": "15.1133,104.1408"
-},
-{
 "Name": "Kanthararom",
 "PostCode": "33130",
 "LatLong": "15.1,104.5833"
 },
 {
-"Name": "Nam Kliang",
-"PostCode": "33130",
-"LatLong": "14.9,104.55"
-},
-{
 "Name": "Khukhan",
-"PostCode": "33140",
-"LatLong": "15.1167,104.3333"
-},
-{
-"Name": "Pu Sing",
 "PostCode": "33140",
 "LatLong": "15.1167,104.3333"
 },
@@ -1578,49 +1636,19 @@
 "LatLong": "14.6333,104.3667"
 },
 {
-"Name": "Rasi Salai",
-"PostCode": "33160",
-"LatLong": "15.3333,104.15"
+"Name": "Muang Chan",
+"PostCode": "33120",
+"LatLong": "15.1133,104.1408"
 },
 {
-"Name": "Silalad",
-"PostCode": "33160",
-"LatLong": "15.3333,104.15"
+"Name": "Muang Sisaket",
+"PostCode": "33000",
+"LatLong": "15.1167,104.3333"
 },
 {
-"Name": "Prang Ku",
-"PostCode": "33170",
-"LatLong": "14.85,104.0333"
-},
-{
-"Name": "Phrai Bung",
-"PostCode": "33180",
-"LatLong": "14.75,104.35"
-},
-{
-"Name": "Yang Chum Noi",
-"PostCode": "33190",
-"LatLong": "15.2667,104.35"
-},
-{
-"Name": "Huai Thap Than",
-"PostCode": "33210",
-"LatLong": "15.05,104.0333"
-},
-{
-"Name": "Bung Bun",
-"PostCode": "33220",
-"LatLong": "15.3214,104.0572"
-},
-{
-"Name": "Phayu",
-"PostCode": "33230",
-"LatLong": "14.9809,104.3381"
-},
-{
-"Name": "Si Rattana",
-"PostCode": "33240",
-"LatLong": "14.7333,104.5833"
+"Name": "Nam Kliang",
+"PostCode": "33130",
+"LatLong": "14.9,104.55"
 },
 {
 "Name": "Non Khun",
@@ -1628,9 +1656,59 @@
 "LatLong": "14.9167,104.7333"
 },
 {
+"Name": "Phayu",
+"PostCode": "33230",
+"LatLong": "14.9809,104.3381"
+},
+{
+"Name": "Phrai Bung",
+"PostCode": "33180",
+"LatLong": "14.75,104.35"
+},
+{
+"Name": "Po Sri Suwan",
+"PostCode": "33120",
+"LatLong": "15.1133,104.1408"
+},
+{
+"Name": "Prang Ku",
+"PostCode": "33170",
+"LatLong": "14.85,104.0333"
+},
+{
+"Name": "Pu Sing",
+"PostCode": "33140",
+"LatLong": "15.1167,104.3333"
+},
+{
+"Name": "Rasi Salai",
+"PostCode": "33160",
+"LatLong": "15.3333,104.15"
+},
+{
+"Name": "Si Rattana",
+"PostCode": "33240",
+"LatLong": "14.7333,104.5833"
+},
+{
+"Name": "Silalad",
+"PostCode": "33160",
+"LatLong": "15.3333,104.15"
+},
+{
+"Name": "Uthumphon Phisai",
+"PostCode": "33120",
+"LatLong": "15.1133,104.1408"
+},
+{
 "Name": "Wang Hin",
 "PostCode": "33270",
 "LatLong": "14.8833,104.2833"
+},
+{
+"Name": "Yang Chum Noi",
+"PostCode": "33190",
+"LatLong": "15.2667,104.35"
 }
 ]
 }
@@ -1647,29 +1725,19 @@
 {
 "Places": [
 {
-"Name": "Don Moddang",
-"PostCode": "34000",
-"LatLong": "14.7861,103.9111"
-},
-{
-"Name": "Muang Ubon Ratchathani",
-"PostCode": "34000",
-"LatLong": "14.7861,103.9111"
-},
-{
-"Name": "Muang Samsib",
-"PostCode": "34140",
-"LatLong": "15.6417,105.225"
-},
-{
-"Name": "Khuang Nai",
-"PostCode": "34150",
-"LatLong": "15.6417,105.225"
+"Name": "Buntharik",
+"PostCode": "34230",
+"LatLong": "14.2,103.6583"
 },
 {
 "Name": "Det Udom",
 "PostCode": "34160",
 "LatLong": "15.6417,105.225"
+},
+{
+"Name": "Don Moddang",
+"PostCode": "34000",
+"LatLong": "14.7861,103.9111"
 },
 {
 "Name": "Khemarat",
@@ -1682,14 +1750,24 @@
 "LatLong": "14.2,103.6583"
 },
 {
-"Name": "Buntharik",
-"PostCode": "34230",
-"LatLong": "14.2,103.6583"
+"Name": "Khuang Nai",
+"PostCode": "34150",
+"LatLong": "15.6417,105.225"
 },
 {
 "Name": "Kut Khaopun",
 "PostCode": "34270",
 "LatLong": "14.2,103.6583"
+},
+{
+"Name": "Muang Samsib",
+"PostCode": "34140",
+"LatLong": "15.6417,105.225"
+},
+{
+"Name": "Muang Ubon Ratchathani",
+"PostCode": "34000",
+"LatLong": "14.7861,103.9111"
 },
 {
 "Name": "Na Chaluai",
@@ -1711,22 +1789,22 @@
 {
 "Places": [
 {
-"Name": "Muang Yasothon",
-"PostCode": "35000",
-"LatLong": "15.7953,104.1494"
-},
-{
 "Name": "Kham Khuan Kaeo",
 "PostCode": "35110",
 "LatLong": "15.65,104.3167"
 },
 {
-"Name": "Loeng Nok Tha",
-"PostCode": "35120",
+"Name": "Kho Wang",
+"PostCode": "35160",
+"LatLong": "15.35,104.3667"
+},
+{
+"Name": "Kud Chum",
+"PostCode": "35140",
 "LatLong": "15.6633,104.3067"
 },
 {
-"Name": "Thai Chaloen",
+"Name": "Loeng Nok Tha",
 "PostCode": "35120",
 "LatLong": "15.6633,104.3067"
 },
@@ -1736,9 +1814,9 @@
 "LatLong": "15.5333,104.25"
 },
 {
-"Name": "Kud Chum",
-"PostCode": "35140",
-"LatLong": "15.6633,104.3067"
+"Name": "Muang Yasothon",
+"PostCode": "35000",
+"LatLong": "15.7953,104.1494"
 },
 {
 "Name": "Pa Tiu",
@@ -1746,14 +1824,14 @@
 "LatLong": "15.8333,104.3833"
 },
 {
-"Name": "Kho Wang",
-"PostCode": "35160",
-"LatLong": "15.35,104.3667"
-},
-{
 "Name": "Sai Mun",
 "PostCode": "35170",
 "LatLong": "15.95,104.2167"
+},
+{
+"Name": "Thai Chaloen",
+"PostCode": "35120",
+"LatLong": "15.6633,104.3067"
 }
 ]
 }
@@ -1770,46 +1848,6 @@
 {
 "Places": [
 {
-"Name": "Muang Chaiyaphum",
-"PostCode": "36000",
-"LatLong": "16.0085,101.9828"
-},
-{
-"Name": "Phu Khieo",
-"PostCode": "36110",
-"LatLong": "16.3667,102.1333"
-},
-{
-"Name": "Kaset Sombun",
-"PostCode": "36120",
-"LatLong": "16.2833,101.95"
-},
-{
-"Name": "Chaturat",
-"PostCode": "36130",
-"LatLong": "15.5647,101.8414"
-},
-{
-"Name": "Noen Sa Nga",
-"PostCode": "36130",
-"LatLong": "15.5647,101.8414"
-},
-{
-"Name": "Sub Yai",
-"PostCode": "36130",
-"LatLong": "15.5647,101.8414"
-},
-{
-"Name": "Khon Sawan",
-"PostCode": "36140",
-"LatLong": "15.9333,102.2833"
-},
-{
-"Name": "Kaeng Khro",
-"PostCode": "36150",
-"LatLong": "16.1,102.2667"
-},
-{
 "Name": "Bamnet Narong",
 "PostCode": "36160",
 "LatLong": "15.4992,101.6897"
@@ -1820,24 +1858,49 @@
 "LatLong": "15.7633,101.9131"
 },
 {
-"Name": "Khon San",
-"PostCode": "36180",
-"LatLong": "16.35,101.8333"
-},
-{
 "Name": "Ban Thaen",
 "PostCode": "36190",
 "LatLong": "16.4,102.3333"
 },
 {
+"Name": "Chaturat",
+"PostCode": "36130",
+"LatLong": "15.5647,101.8414"
+},
+{
+"Name": "Kaeng Khro",
+"PostCode": "36150",
+"LatLong": "16.1,102.2667"
+},
+{
+"Name": "Kaset Sombun",
+"PostCode": "36120",
+"LatLong": "16.2833,101.95"
+},
+{
+"Name": "Khon San",
+"PostCode": "36180",
+"LatLong": "16.35,101.8333"
+},
+{
+"Name": "Khon Sawan",
+"PostCode": "36140",
+"LatLong": "15.9333,102.2833"
+},
+{
+"Name": "Muang Chaiyaphum",
+"PostCode": "36000",
+"LatLong": "16.0085,101.9828"
+},
+{
+"Name": "Noen Sa Nga",
+"PostCode": "36130",
+"LatLong": "15.5647,101.8414"
+},
+{
 "Name": "Nong Bua Daeng",
 "PostCode": "36210",
 "LatLong": "16.0833,101.8"
-},
-{
-"Name": "Thep Satthit",
-"PostCode": "36230",
-"LatLong": "15.9167,101.7833"
 },
 {
 "Name": "Nong Bua Rawe",
@@ -1847,6 +1910,21 @@
 {
 "Name": "Phakdi Chumpon",
 "PostCode": "36260",
+"LatLong": "15.9167,101.7833"
+},
+{
+"Name": "Phu Khieo",
+"PostCode": "36110",
+"LatLong": "16.3667,102.1333"
+},
+{
+"Name": "Sub Yai",
+"PostCode": "36130",
+"LatLong": "15.5647,101.8414"
+},
+{
+"Name": "Thep Satthit",
+"PostCode": "36230",
 "LatLong": "15.9167,101.7833"
 }
 ]
@@ -1864,26 +1942,6 @@
 {
 "Places": [
 {
-"Name": "Muang Amnat Charoen",
-"PostCode": "37000",
-"LatLong": "15.7075,104.6797"
-},
-{
-"Name": "Lua Amnart",
-"PostCode": "37000",
-"LatLong": "15.7075,104.6797"
-},
-{
-"Name": "Phathumratvongsa",
-"PostCode": "37110",
-"LatLong": "15.6983,104.8928"
-},
-{
-"Name": "Phana",
-"PostCode": "37180",
-"LatLong": "15.6983,104.8928"
-},
-{
 "Name": "Chanunman",
 "PostCode": "37210",
 "LatLong": "15.7167,104.4667"
@@ -1892,6 +1950,26 @@
 "Name": "Hua Taphan",
 "PostCode": "37240",
 "LatLong": "15.7167,104.4667"
+},
+{
+"Name": "Lua Amnart",
+"PostCode": "37000",
+"LatLong": "15.7075,104.6797"
+},
+{
+"Name": "Muang Amnat Charoen",
+"PostCode": "37000",
+"LatLong": "15.7075,104.6797"
+},
+{
+"Name": "Phana",
+"PostCode": "37180",
+"LatLong": "15.6983,104.8928"
+},
+{
+"Name": "Phathumratvongsa",
+"PostCode": "37110",
+"LatLong": "15.6983,104.8928"
 },
 {
 "Name": "Senangkhanikhorn",
@@ -1918,14 +1996,9 @@
 "LatLong": "17.0409,102.3544"
 },
 {
-"Name": "Nong Sang",
-"PostCode": "39140",
-"LatLong": "16.8667,102.5667"
-},
-{
-"Name": "Non Sang",
-"PostCode": "39140",
-"LatLong": "16.8667,102.5667"
+"Name": "Na Klang",
+"PostCode": "39170",
+"LatLong": "17.2894,102.2133"
 },
 {
 "Name": "Nawang",
@@ -1933,9 +2006,14 @@
 "LatLong": "17.2894,102.2133"
 },
 {
-"Name": "Na Klang",
-"PostCode": "39170",
-"LatLong": "17.2894,102.2133"
+"Name": "Non Sang",
+"PostCode": "39140",
+"LatLong": "16.8667,102.5667"
+},
+{
+"Name": "Nong Sang",
+"PostCode": "39140",
+"LatLong": "16.8667,102.5667"
 },
 {
 "Name": "Si Bun Ruang",
@@ -1962,14 +2040,9 @@
 {
 "Places": [
 {
-"Name": "Muang Khonkaen",
-"PostCode": "40000",
-"LatLong": "16.2931,102.6157"
-},
-{
-"Name": "Ban Phai",
-"PostCode": "40110",
-"LatLong": "16.0667,102.7333"
+"Name": "Ban Fang",
+"PostCode": "40270",
+"LatLong": "16.45,102.6333"
 },
 {
 "Name": "Ban Had",
@@ -1977,14 +2050,14 @@
 "LatLong": "16.0667,102.7333"
 },
 {
-"Name": "Non Silla",
+"Name": "Ban Phai",
 "PostCode": "40110",
 "LatLong": "16.0667,102.7333"
 },
 {
-"Name": "Phon",
-"PostCode": "40120",
-"LatLong": "15.8167,102.6"
+"Name": "Chonnabot",
+"PostCode": "40180",
+"LatLong": "16.1,102.6333"
 },
 {
 "Name": "Chum Phae",
@@ -1992,24 +2065,9 @@
 "LatLong": "16.5333,102.1"
 },
 {
-"Name": "Nam Phong",
-"PostCode": "40140",
-"LatLong": "16.7,102.8667"
-},
-{
-"Name": "Nong Nakham",
-"PostCode": "40150",
-"LatLong": "16.65,102.3833"
-},
-{
-"Name": "Phu Wiang",
-"PostCode": "40150",
-"LatLong": "16.65,102.3833"
-},
-{
-"Name": "Mancha Khiri",
-"PostCode": "40160",
-"LatLong": "16.1167,102.55"
+"Name": "Khao Suan Kwang",
+"PostCode": "40280",
+"LatLong": "16.85,102.8833"
 },
 {
 "Name": "Khok Phochai",
@@ -2022,19 +2080,29 @@
 "LatLong": "16.7,103.0833"
 },
 {
-"Name": "Sum Sung",
-"PostCode": "40170",
-"LatLong": "16.7,103.0833"
+"Name": "Mancha Khiri",
+"PostCode": "40160",
+"LatLong": "16.1167,102.55"
 },
 {
-"Name": "Chonnabot",
-"PostCode": "40180",
-"LatLong": "16.1,102.6333"
+"Name": "Muang Khonkaen",
+"PostCode": "40000",
+"LatLong": "16.2931,102.6157"
 },
 {
-"Name": "Nong Song Hong",
-"PostCode": "40190",
-"LatLong": "15.7333,102.8"
+"Name": "Nam Phong",
+"PostCode": "40140",
+"LatLong": "16.7,102.8667"
+},
+{
+"Name": "Non Silla",
+"PostCode": "40110",
+"LatLong": "16.0667,102.7333"
+},
+{
+"Name": "Nong Nakham",
+"PostCode": "40150",
+"LatLong": "16.65,102.3833"
 },
 {
 "Name": "Nong Rua",
@@ -2042,29 +2110,14 @@
 "LatLong": "16.5,102.4333"
 },
 {
-"Name": "Si Chomphu",
-"PostCode": "40220",
-"LatLong": "16.8,102.2"
+"Name": "Nong Song Hong",
+"PostCode": "40190",
+"LatLong": "15.7333,102.8"
 },
 {
-"Name": "Waeng Noi",
-"PostCode": "40230",
-"LatLong": "15.8,102.4667"
-},
-{
-"Name": "Ubolratana",
-"PostCode": "40250",
-"LatLong": "16.48,102.5233"
-},
-{
-"Name": "Ban Fang",
-"PostCode": "40270",
-"LatLong": "16.45,102.6333"
-},
-{
-"Name": "Khao Suan Kwang",
-"PostCode": "40280",
-"LatLong": "16.85,102.8833"
+"Name": "Phon",
+"PostCode": "40120",
+"LatLong": "15.8167,102.6"
 },
 {
 "Name": "Phra Yun",
@@ -2072,9 +2125,14 @@
 "LatLong": "16.3333,102.65"
 },
 {
-"Name": "Waeng Yai",
-"PostCode": "40330",
-"LatLong": "15.95,102.5333"
+"Name": "Phu Pha Man",
+"PostCode": "40350",
+"LatLong": "16.0556,102.7"
+},
+{
+"Name": "Phu Wiang",
+"PostCode": "40150",
+"LatLong": "16.65,102.3833"
 },
 {
 "Name": "Puai Noi",
@@ -2082,9 +2140,29 @@
 "LatLong": "15.8833,102.9167"
 },
 {
-"Name": "Phu Pha Man",
-"PostCode": "40350",
-"LatLong": "16.0556,102.7"
+"Name": "Si Chomphu",
+"PostCode": "40220",
+"LatLong": "16.8,102.2"
+},
+{
+"Name": "Sum Sung",
+"PostCode": "40170",
+"LatLong": "16.7,103.0833"
+},
+{
+"Name": "Ubolratana",
+"PostCode": "40250",
+"LatLong": "16.48,102.5233"
+},
+{
+"Name": "Waeng Noi",
+"PostCode": "40230",
+"LatLong": "15.8,102.4667"
+},
+{
+"Name": "Waeng Yai",
+"PostCode": "40330",
+"LatLong": "15.95,102.5333"
 }
 ]
 }
@@ -2101,41 +2179,6 @@
 {
 "Places": [
 {
-"Name": "Muang Udon Thani",
-"PostCode": "41000",
-"LatLong": "17.1336,102.9675"
-},
-{
-"Name": "Phrachuk Siliakram",
-"PostCode": "41110",
-"LatLong": "17.1336,102.9675"
-},
-{
-"Name": "Kumphawapi",
-"PostCode": "41110",
-"LatLong": "17.1336,102.9675"
-},
-{
-"Name": "Nong Han",
-"PostCode": "41130",
-"LatLong": "17.1336,102.9675"
-},
-{
-"Name": "Pibun Rak",
-"PostCode": "41130",
-"LatLong": "17.1336,102.9675"
-},
-{
-"Name": "Ku Khaew",
-"PostCode": "41130",
-"LatLong": "17.1336,102.9675"
-},
-{
-"Name": "Phen",
-"PostCode": "41150",
-"LatLong": "17.1336,102.9675"
-},
-{
 "Name": "Ban Dung",
 "PostCode": "41190",
 "LatLong": "17.1336,102.9675"
@@ -2146,23 +2189,18 @@
 "LatLong": "17.1336,102.9675"
 },
 {
-"Name": "Nam Som",
-"PostCode": "41210",
+"Name": "Chaiwan",
+"PostCode": "41290",
 "LatLong": "17.1336,102.9675"
 },
 {
-"Name": "Nong Wua So",
-"PostCode": "41220",
+"Name": "Ku Khaew",
+"PostCode": "41130",
 "LatLong": "17.1336,102.9675"
 },
 {
-"Name": "Si That",
-"PostCode": "41230",
-"LatLong": "17.1336,102.9675"
-},
-{
-"Name": "Non Sa-at",
-"PostCode": "41240",
+"Name": "Kumphawapi",
+"PostCode": "41110",
 "LatLong": "17.1336,102.9675"
 },
 {
@@ -2171,18 +2209,28 @@
 "LatLong": "17.1336,102.9675"
 },
 {
-"Name": "Sang Khom",
-"PostCode": "41260",
+"Name": "Muang Udon Thani",
+"PostCode": "41000",
 "LatLong": "17.1336,102.9675"
 },
 {
-"Name": "Chaiwan",
-"PostCode": "41290",
+"Name": "Na Yung",
+"PostCode": "41380",
 "LatLong": "17.1336,102.9675"
 },
 {
-"Name": "Thung Fon",
-"PostCode": "41310",
+"Name": "Nam Som",
+"PostCode": "41210",
+"LatLong": "17.1336,102.9675"
+},
+{
+"Name": "Non Sa-at",
+"PostCode": "41240",
+"LatLong": "17.1336,102.9675"
+},
+{
+"Name": "Nong Han",
+"PostCode": "41130",
 "LatLong": "17.1336,102.9675"
 },
 {
@@ -2191,8 +2239,38 @@
 "LatLong": "17.1336,102.9675"
 },
 {
-"Name": "Na Yung",
-"PostCode": "41380",
+"Name": "Nong Wua So",
+"PostCode": "41220",
+"LatLong": "17.1336,102.9675"
+},
+{
+"Name": "Phen",
+"PostCode": "41150",
+"LatLong": "17.1336,102.9675"
+},
+{
+"Name": "Phrachuk Siliakram",
+"PostCode": "41110",
+"LatLong": "17.1336,102.9675"
+},
+{
+"Name": "Pibun Rak",
+"PostCode": "41130",
+"LatLong": "17.1336,102.9675"
+},
+{
+"Name": "Sang Khom",
+"PostCode": "41260",
+"LatLong": "17.1336,102.9675"
+},
+{
+"Name": "Si That",
+"PostCode": "41230",
+"LatLong": "17.1336,102.9675"
+},
+{
+"Name": "Thung Fon",
+"PostCode": "41310",
 "LatLong": "17.1336,102.9675"
 },
 {
@@ -2215,16 +2293,6 @@
 {
 "Places": [
 {
-"Name": "Erawan",
-"PostCode": "41220",
-"LatLong": "17.1336,102.9675"
-},
-{
-"Name": "Muang Loei",
-"PostCode": "42000",
-"LatLong": "17.4833,101.7167"
-},
-{
 "Name": "Chiang Khan",
 "PostCode": "42110",
 "LatLong": "17.8667,101.6"
@@ -2235,34 +2303,14 @@
 "LatLong": "17.2833,101.15"
 },
 {
-"Name": "Wang Saphung",
-"PostCode": "42130",
-"LatLong": "17.3,101.7667"
+"Name": "Erawan",
+"PostCode": "41220",
+"LatLong": "17.1336,102.9675"
 },
 {
-"Name": "Tha Li",
-"PostCode": "42140",
-"LatLong": "17.6167,101.4167"
-},
-{
-"Name": "Pak Chom",
-"PostCode": "42150",
-"LatLong": "18.0333,101.8833"
-},
-{
-"Name": "Phu Rua",
-"PostCode": "42160",
-"LatLong": "17.45,101.3667"
-},
-{
-"Name": "Na Haeo",
-"PostCode": "42170",
-"LatLong": "17.4833,101.0667"
-},
-{
-"Name": "Phu Kradung",
-"PostCode": "42180",
-"LatLong": "16.8833,101.8833"
+"Name": "Muang Loei",
+"PostCode": "42000",
+"LatLong": "17.4833,101.7167"
 },
 {
 "Name": "Na Duang",
@@ -2270,14 +2318,44 @@
 "LatLong": "17.4833,101.9833"
 },
 {
-"Name": "Phu Luang",
-"PostCode": "42230",
-"LatLong": "17.1667,101.7667"
+"Name": "Na Haeo",
+"PostCode": "42170",
+"LatLong": "17.4833,101.0667"
+},
+{
+"Name": "Pak Chom",
+"PostCode": "42150",
+"LatLong": "18.0333,101.8833"
 },
 {
 "Name": "Pha Khao",
 "PostCode": "42240",
 "LatLong": "17.325,101.875"
+},
+{
+"Name": "Phu Kradung",
+"PostCode": "42180",
+"LatLong": "16.8833,101.8833"
+},
+{
+"Name": "Phu Luang",
+"PostCode": "42230",
+"LatLong": "17.1667,101.7667"
+},
+{
+"Name": "Phu Rua",
+"PostCode": "42160",
+"LatLong": "17.45,101.3667"
+},
+{
+"Name": "Tha Li",
+"PostCode": "42140",
+"LatLong": "17.6167,101.4167"
+},
+{
+"Name": "Wang Saphung",
+"PostCode": "42130",
+"LatLong": "17.3,101.7667"
 }
 ]
 }
@@ -2294,19 +2372,19 @@
 {
 "Places": [
 {
-"Name": "Muang Nong Khai",
-"PostCode": "43000",
-"LatLong": "18.0501,103.3054"
+"Name": "Bung Kan",
+"PostCode": "43140",
+"LatLong": "18.3833,103.6167"
 },
 {
-"Name": "Sra Khai",
-"PostCode": "43100",
-"LatLong": "18.0613,103.2227"
+"Name": "Bung Khong Long",
+"PostCode": "43220",
+"LatLong": "17.95,104.05"
 },
 {
-"Name": "Tha Bo",
-"PostCode": "43110",
-"LatLong": "17.845,102.5842"
+"Name": "Bung Kla",
+"PostCode": "43140",
+"LatLong": "18.3833,103.6167"
 },
 {
 "Name": "Fao Rai",
@@ -2314,9 +2392,19 @@
 "LatLong": "18.0167,103.2833"
 },
 {
-"Name": "Rattana Wapi",
-"PostCode": "43120",
-"LatLong": "18.0167,103.1833"
+"Name": "Muang Nong Khai",
+"PostCode": "43000",
+"LatLong": "18.0501,103.3054"
+},
+{
+"Name": "Pak Khat",
+"PostCode": "43190",
+"LatLong": "18.3,103.3"
+},
+{
+"Name": "Phon Charoen",
+"PostCode": "43180",
+"LatLong": "18.0333,103.1667"
 },
 {
 "Name": "Phon Phisai",
@@ -2329,24 +2417,9 @@
 "LatLong": "17.9564,102.5867"
 },
 {
-"Name": "Si Chiang Mai",
-"PostCode": "43130",
-"LatLong": "17.9564,102.5867"
-},
-{
-"Name": "Bung Kan",
-"PostCode": "43140",
-"LatLong": "18.3833,103.6167"
-},
-{
-"Name": "Bung Kla",
-"PostCode": "43140",
-"LatLong": "18.3833,103.6167"
-},
-{
-"Name": "Seka",
-"PostCode": "43150",
-"LatLong": "17.9333,103.95"
+"Name": "Rattana Wapi",
+"PostCode": "43120",
+"LatLong": "18.0167,103.1833"
 },
 {
 "Name": "Sang Khom",
@@ -2354,19 +2427,14 @@
 "LatLong": "18.0613,103.2227"
 },
 {
-"Name": "So Phisai",
-"PostCode": "43170",
-"LatLong": "18.0667,103.4333"
+"Name": "Seka",
+"PostCode": "43150",
+"LatLong": "17.9333,103.95"
 },
 {
-"Name": "Phon Charoen",
-"PostCode": "43180",
-"LatLong": "18.0333,103.1667"
-},
-{
-"Name": "Pak Khat",
-"PostCode": "43190",
-"LatLong": "18.3,103.3"
+"Name": "Si Chiang Mai",
+"PostCode": "43130",
+"LatLong": "17.9564,102.5867"
 },
 {
 "Name": "Si Wilai",
@@ -2374,9 +2442,19 @@
 "LatLong": "17.95,104.05"
 },
 {
-"Name": "Bung Khong Long",
-"PostCode": "43220",
-"LatLong": "17.95,104.05"
+"Name": "So Phisai",
+"PostCode": "43170",
+"LatLong": "18.0667,103.4333"
+},
+{
+"Name": "Sra Khai",
+"PostCode": "43100",
+"LatLong": "18.0613,103.2227"
+},
+{
+"Name": "Tha Bo",
+"PostCode": "43110",
+"LatLong": "17.845,102.5842"
 }
 ]
 }
@@ -2393,39 +2471,9 @@
 {
 "Places": [
 {
-"Name": "Muang Maha Sarakham",
-"PostCode": "44000",
-"LatLong": "15.955,103.1867"
-},
-{
-"Name": "Phayakkhaphum Phisai",
-"PostCode": "44110",
-"LatLong": "15.5167,103.2"
-},
-{
-"Name": "Wapi Pathum",
-"PostCode": "44120",
-"LatLong": "15.85,103.3833"
-},
-{
 "Name": "Borabu",
 "PostCode": "44130",
 "LatLong": "16.0333,103.1167"
-},
-{
-"Name": "Kud Rang",
-"PostCode": "44130",
-"LatLong": "16.0333,103.1167"
-},
-{
-"Name": "Kosum Phisai",
-"PostCode": "44140",
-"LatLong": "16.2167,103.0167"
-},
-{
-"Name": "Kantharawichai",
-"PostCode": "44150",
-"LatLong": "16.3167,103.3"
 },
 {
 "Name": "Chiang Yun",
@@ -2438,6 +2486,31 @@
 "LatLong": "16.4167,103.1"
 },
 {
+"Name": "Kae Dam",
+"PostCode": "44190",
+"LatLong": "16.0167,103.3833"
+},
+{
+"Name": "Kantharawichai",
+"PostCode": "44150",
+"LatLong": "16.3167,103.3"
+},
+{
+"Name": "Kosum Phisai",
+"PostCode": "44140",
+"LatLong": "16.2167,103.0167"
+},
+{
+"Name": "Kud Rang",
+"PostCode": "44130",
+"LatLong": "16.0333,103.1167"
+},
+{
+"Name": "Muang Maha Sarakham",
+"PostCode": "44000",
+"LatLong": "15.955,103.1867"
+},
+{
 "Name": "Na Chuak",
 "PostCode": "44170",
 "LatLong": "15.7833,103.0333"
@@ -2448,9 +2521,14 @@
 "LatLong": "15.7167,103.2333"
 },
 {
-"Name": "Kae Dam",
-"PostCode": "44190",
-"LatLong": "16.0167,103.3833"
+"Name": "Phayakkhaphum Phisai",
+"PostCode": "44110",
+"LatLong": "15.5167,103.2"
+},
+{
+"Name": "Wapi Pathum",
+"PostCode": "44120",
+"LatLong": "15.85,103.3833"
 },
 {
 "Name": "Yang Si Surat",
@@ -2472,69 +2550,14 @@
 {
 "Places": [
 {
-"Name": "Chang Han",
-"PostCode": "45000",
-"LatLong": "16.7167,102.7333"
-},
-{
-"Name": "Sri Somdet",
-"PostCode": "45000",
-"LatLong": "16.3833,103.2"
-},
-{
-"Name": "Muang Roi Et",
-"PostCode": "45000",
-"LatLong": "16.05,103.6667"
-},
-{
-"Name": "Chiang Khaw",
-"PostCode": "45000",
-"LatLong": "16.3833,103.2"
-},
-{
-"Name": "Phon Thong",
-"PostCode": "45110",
-"LatLong": "16.1167,103.8333"
-},
-{
-"Name": "Salaphum",
-"PostCode": "45120",
-"LatLong": "15.8059,103.7251"
-},
-{
-"Name": "Suwannaphum",
-"PostCode": "45130",
-"LatLong": "15.6047,103.8075"
-},
-{
-"Name": "Nong Hi",
-"PostCode": "45140",
-"LatLong": "15.6167,103.9833"
-},
-{
-"Name": "Phaanom Phrai",
-"PostCode": "45140",
-"LatLong": "15.6167,103.9833"
-},
-{
-"Name": "Kaset Wisai",
-"PostCode": "45150",
-"LatLong": "15.65,103.5833"
-},
-{
 "Name": "At Samat",
 "PostCode": "45160",
 "LatLong": "15.8594,103.8597"
 },
 {
-"Name": "Thawatchaburi",
-"PostCode": "45170",
-"LatLong": "16.1167,103.8333"
-},
-{
-"Name": "Tung Khaoluang",
-"PostCode": "45170",
-"LatLong": "16.1167,103.8333"
+"Name": "Chang Han",
+"PostCode": "45000",
+"LatLong": "16.7167,102.7333"
 },
 {
 "Name": "Chaturaphak Phiman",
@@ -2542,9 +2565,34 @@
 "LatLong": "15.85,103.55"
 },
 {
-"Name": "Pathum Rat",
-"PostCode": "45190",
-"LatLong": "15.6333,103.35"
+"Name": "Chiang Khaw",
+"PostCode": "45000",
+"LatLong": "16.3833,103.2"
+},
+{
+"Name": "Kaset Wisai",
+"PostCode": "45150",
+"LatLong": "15.65,103.5833"
+},
+{
+"Name": "Moeiyawadi",
+"PostCode": "45250",
+"LatLong": "15.649,103.8556"
+},
+{
+"Name": "Muang Roi Et",
+"PostCode": "45000",
+"LatLong": "16.05,103.6667"
+},
+{
+"Name": "Muang Suang",
+"PostCode": "45220",
+"LatLong": "15.8167,103.7167"
+},
+{
+"Name": "Nong Hi",
+"PostCode": "45140",
+"LatLong": "15.6167,103.9833"
 },
 {
 "Name": "Nong Phok",
@@ -2552,9 +2600,14 @@
 "LatLong": "15.649,103.8556"
 },
 {
-"Name": "Muang Suang",
-"PostCode": "45220",
-"LatLong": "15.8167,103.7167"
+"Name": "Pathum Rat",
+"PostCode": "45190",
+"LatLong": "15.6333,103.35"
+},
+{
+"Name": "Phaanom Phrai",
+"PostCode": "45140",
+"LatLong": "15.6167,103.9833"
 },
 {
 "Name": "Pho Chai",
@@ -2567,9 +2620,34 @@
 "LatLong": "15.4814,103.9944"
 },
 {
-"Name": "Moeiyawadi",
-"PostCode": "45250",
-"LatLong": "15.649,103.8556"
+"Name": "Phon Thong",
+"PostCode": "45110",
+"LatLong": "16.1167,103.8333"
+},
+{
+"Name": "Salaphum",
+"PostCode": "45120",
+"LatLong": "15.8059,103.7251"
+},
+{
+"Name": "Sri Somdet",
+"PostCode": "45000",
+"LatLong": "16.3833,103.2"
+},
+{
+"Name": "Suwannaphum",
+"PostCode": "45130",
+"LatLong": "15.6047,103.8075"
+},
+{
+"Name": "Thawatchaburi",
+"PostCode": "45170",
+"LatLong": "16.1167,103.8333"
+},
+{
+"Name": "Tung Khaoluang",
+"PostCode": "45170",
+"LatLong": "16.1167,103.8333"
 }
 ]
 }
@@ -2586,24 +2664,19 @@
 {
 "Places": [
 {
-"Name": "Muang Kalasin",
-"PostCode": "46000",
-"LatLong": "16.4333,103.5"
-},
-{
 "Name": "Donchan",
 "PostCode": "46000",
 "LatLong": "16.4333,103.5"
 },
 {
-"Name": "Kuchinarai",
-"PostCode": "46110",
-"LatLong": "16.5333,104.0667"
+"Name": "Huai Mek",
+"PostCode": "46170",
+"LatLong": "16.6,103.2167"
 },
 {
-"Name": "Yang Talat",
-"PostCode": "46120",
-"LatLong": "16.4,103.3833"
+"Name": "Huai Phung",
+"PostCode": "46240",
+"LatLong": "16.65,103.9"
 },
 {
 "Name": "Kamalasai",
@@ -2611,9 +2684,49 @@
 "LatLong": "16.3333,103.5833"
 },
 {
+"Name": "Kham Muang",
+"PostCode": "46180",
+"LatLong": "16.9167,103.6333"
+},
+{
+"Name": "Khao Wong",
+"PostCode": "46160",
+"LatLong": "16.7,104.1"
+},
+{
 "Name": "Kong Chai",
 "PostCode": "46130",
 "LatLong": "16.3333,103.5833"
+},
+{
+"Name": "Kuchinarai",
+"PostCode": "46110",
+"LatLong": "16.5333,104.0667"
+},
+{
+"Name": "Muang Kalasin",
+"PostCode": "46000",
+"LatLong": "16.4333,103.5"
+},
+{
+"Name": "Na Ku",
+"PostCode": "46160",
+"LatLong": "16.7,104.1"
+},
+{
+"Name": "Na Mon",
+"PostCode": "46230",
+"LatLong": "16.5667,103.8"
+},
+{
+"Name": "Nong Kung Si",
+"PostCode": "46220",
+"LatLong": "16.65,103.3"
+},
+{
+"Name": "Rong Kham",
+"PostCode": "46210",
+"LatLong": "16.2667,103.6833"
 },
 {
 "Name": "Sahatsakhan",
@@ -2626,49 +2739,14 @@
 "LatLong": "16.7,103.7667"
 },
 {
-"Name": "Na Ku",
-"PostCode": "46160",
-"LatLong": "16.7,104.1"
-},
-{
-"Name": "Khao Wong",
-"PostCode": "46160",
-"LatLong": "16.7,104.1"
-},
-{
-"Name": "Huai Mek",
-"PostCode": "46170",
-"LatLong": "16.6,103.2167"
-},
-{
-"Name": "Kham Muang",
-"PostCode": "46180",
-"LatLong": "16.9167,103.6333"
-},
-{
 "Name": "Tha Khantho",
 "PostCode": "46190",
 "LatLong": "16.95,103.2333"
 },
 {
-"Name": "Rong Kham",
-"PostCode": "46210",
-"LatLong": "16.2667,103.6833"
-},
-{
-"Name": "Nong Kung Si",
-"PostCode": "46220",
-"LatLong": "16.65,103.3"
-},
-{
-"Name": "Na Mon",
-"PostCode": "46230",
-"LatLong": "16.5667,103.8"
-},
-{
-"Name": "Huai Phung",
-"PostCode": "46240",
-"LatLong": "16.65,103.9"
+"Name": "Yang Talat",
+"PostCode": "46120",
+"LatLong": "16.4,103.3833"
 }
 ]
 }
@@ -2685,24 +2763,9 @@
 {
 "Places": [
 {
-"Name": "Muang Sakon Nakhon",
-"PostCode": "47000",
-"LatLong": "17.4046,103.7674"
-},
-{
-"Name": "Sawang Daen Din",
-"PostCode": "47110",
-"LatLong": "17.4719,103.4583"
-},
-{
-"Name": "Wanon Niwat",
-"PostCode": "47120",
-"LatLong": "17.6333,103.7667"
-},
-{
-"Name": "Phanna Nikhom",
-"PostCode": "47130",
-"LatLong": "17.35,103.7833"
+"Name": "Akat Amnuai",
+"PostCode": "47170",
+"LatLong": "17.434,103.6615"
 },
 {
 "Name": "Ban Muang",
@@ -2710,43 +2773,8 @@
 "LatLong": "17.85,103.5833"
 },
 {
-"Name": "Waritchaphum",
-"PostCode": "47150",
-"LatLong": "17.2833,103.6333"
-},
-{
-"Name": "Phang Khon",
-"PostCode": "47160",
-"LatLong": "17.3833,103.7167"
-},
-{
-"Name": "Akat Amnuai",
-"PostCode": "47170",
-"LatLong": "17.434,103.6615"
-},
-{
-"Name": "Kut Bak",
-"PostCode": "47180",
-"LatLong": "17.0833,103.8167"
-},
-{
-"Name": "Phu Phan",
-"PostCode": "47180",
-"LatLong": "17.0833,103.8167"
-},
-{
-"Name": "Song Dao",
-"PostCode": "47190",
-"LatLong": "17.4167,103.5333"
-},
-{
-"Name": "Kusuman",
-"PostCode": "47210",
-"LatLong": "17.3333,104.3333"
-},
-{
-"Name": "Pon Nakaew",
-"PostCode": "47230",
+"Name": "Charoensin",
+"PostCode": "47290",
 "LatLong": "17.3458,103.9792"
 },
 {
@@ -2755,9 +2783,24 @@
 "LatLong": "17.85,103.75"
 },
 {
-"Name": "Tao Ngoi",
-"PostCode": "47260",
-"LatLong": "16.9833,104.1333"
+"Name": "Khok Si Supan",
+"PostCode": "47280",
+"LatLong": "17.3458,103.9792"
+},
+{
+"Name": "Kusuman",
+"PostCode": "47210",
+"LatLong": "17.3333,104.3333"
+},
+{
+"Name": "Kut Bak",
+"PostCode": "47180",
+"LatLong": "17.0833,103.8167"
+},
+{
+"Name": "Muang Sakon Nakhon",
+"PostCode": "47000",
+"LatLong": "17.4046,103.7674"
 },
 {
 "Name": "Nikhom Nam Un",
@@ -2765,14 +2808,49 @@
 "LatLong": "17.2167,103.7"
 },
 {
-"Name": "Khok Si Supan",
-"PostCode": "47280",
+"Name": "Phang Khon",
+"PostCode": "47160",
+"LatLong": "17.3833,103.7167"
+},
+{
+"Name": "Phanna Nikhom",
+"PostCode": "47130",
+"LatLong": "17.35,103.7833"
+},
+{
+"Name": "Phu Phan",
+"PostCode": "47180",
+"LatLong": "17.0833,103.8167"
+},
+{
+"Name": "Pon Nakaew",
+"PostCode": "47230",
 "LatLong": "17.3458,103.9792"
 },
 {
-"Name": "Charoensin",
-"PostCode": "47290",
-"LatLong": "17.3458,103.9792"
+"Name": "Sawang Daen Din",
+"PostCode": "47110",
+"LatLong": "17.4719,103.4583"
+},
+{
+"Name": "Song Dao",
+"PostCode": "47190",
+"LatLong": "17.4167,103.5333"
+},
+{
+"Name": "Tao Ngoi",
+"PostCode": "47260",
+"LatLong": "16.9833,104.1333"
+},
+{
+"Name": "Wanon Niwat",
+"PostCode": "47120",
+"LatLong": "17.6333,103.7667"
+},
+{
+"Name": "Waritchaphum",
+"PostCode": "47150",
+"LatLong": "17.2833,103.6333"
 }
 ]
 }
@@ -2789,29 +2867,14 @@
 {
 "Places": [
 {
+"Name": "Ban Phaeng",
+"PostCode": "48140",
+"LatLong": "17.9667,104.2333"
+},
+{
 "Name": "Muang Nakhon Phanom",
 "PostCode": "48000",
 "LatLong": "17.4,104.7833"
-},
-{
-"Name": "That Phanom",
-"PostCode": "48110",
-"LatLong": "16.95,104.7333"
-},
-{
-"Name": "Tha Songkhram",
-"PostCode": "48120",
-"LatLong": "17.65,104.2167"
-},
-{
-"Name": "Tha Uthen",
-"PostCode": "48120",
-"LatLong": "17.5667,104.6"
-},
-{
-"Name": "Wang Yang",
-"PostCode": "48130",
-"LatLong": "16.9667,104.5"
 },
 {
 "Name": "Na Kae",
@@ -2819,19 +2882,19 @@
 "LatLong": "16.9667,104.5"
 },
 {
-"Name": "Ban Phaeng",
-"PostCode": "48140",
-"LatLong": "17.9667,104.2333"
-},
-{
 "Name": "Na Thom",
 "PostCode": "48140",
 "LatLong": "17.9667,104.2333"
 },
 {
-"Name": "Si Songkhram",
-"PostCode": "48150",
-"LatLong": "17.6333,104.25"
+"Name": "Na Wa",
+"PostCode": "48180",
+"LatLong": "17.4833,104.1"
+},
+{
+"Name": "Phon Sawan",
+"PostCode": "48190",
+"LatLong": "17.45,104.45"
 },
 {
 "Name": "Pla Pak",
@@ -2844,14 +2907,29 @@
 "LatLong": "17.0667,104.6833"
 },
 {
-"Name": "Na Wa",
-"PostCode": "48180",
-"LatLong": "17.4833,104.1"
+"Name": "Si Songkhram",
+"PostCode": "48150",
+"LatLong": "17.6333,104.25"
 },
 {
-"Name": "Phon Sawan",
-"PostCode": "48190",
-"LatLong": "17.45,104.45"
+"Name": "Tha Songkhram",
+"PostCode": "48120",
+"LatLong": "17.65,104.2167"
+},
+{
+"Name": "Tha Uthen",
+"PostCode": "48120",
+"LatLong": "17.5667,104.6"
+},
+{
+"Name": "That Phanom",
+"PostCode": "48110",
+"LatLong": "16.95,104.7333"
+},
+{
+"Name": "Wang Yang",
+"PostCode": "48130",
+"LatLong": "16.9667,104.5"
 }
 ]
 }
@@ -2868,14 +2946,9 @@
 {
 "Places": [
 {
-"Name": "Muang Mukdahan",
-"PostCode": "49000",
+"Name": "Don Luang",
+"PostCode": "49140",
 "LatLong": "16.4792,104.6583"
-},
-{
-"Name": "Khamcha-I",
-"PostCode": "49110",
-"LatLong": "16.5833,104.4167"
 },
 {
 "Name": "Don Tan",
@@ -2883,24 +2956,29 @@
 "LatLong": "16.3167,104.9333"
 },
 {
+"Name": "Khamcha-I",
+"PostCode": "49110",
+"LatLong": "16.5833,104.4167"
+},
+{
+"Name": "Muang Mukdahan",
+"PostCode": "49000",
+"LatLong": "16.4792,104.6583"
+},
+{
 "Name": "Nikhom Kham Soi",
 "PostCode": "49130",
 "LatLong": "16.3667,104.5667"
 },
 {
-"Name": "Don Luang",
-"PostCode": "49140",
+"Name": "Nong Sung",
+"PostCode": "49160",
 "LatLong": "16.4792,104.6583"
 },
 {
 "Name": "Wan Yai",
 "PostCode": "49150",
 "LatLong": "16.65,104.7167"
-},
-{
-"Name": "Nong Sung",
-"PostCode": "49160",
-"LatLong": "16.4792,104.6583"
 }
 ]
 }
@@ -2917,39 +2995,14 @@
 {
 "Places": [
 {
-"Name": "Muang Chiang Mai",
-"PostCode": "50000",
-"LatLong": "18.7903,98.9817"
+"Name": "Chai Prakarn",
+"PostCode": "50320",
+"LatLong": "18.8583,98.825"
 },
 {
-"Name": "Fang",
-"PostCode": "50110",
-"LatLong": "19.9167,99.2167"
-},
-{
-"Name": "San Pa Tong",
-"PostCode": "50120",
-"LatLong": "18.6247,98.8944"
-},
-{
-"Name": "Mae On",
-"PostCode": "50130",
-"LatLong": "18.7422,99.1225"
-},
-{
-"Name": "San Kamphaeng",
-"PostCode": "50130",
-"LatLong": "18.7422,99.1225"
-},
-{
-"Name": "Saraphi",
-"PostCode": "50140",
-"LatLong": "18.7142,99.0353"
-},
-{
-"Name": "Mae Taeng",
-"PostCode": "50150",
-"LatLong": "19.1167,98.95"
+"Name": "Chiang Dao",
+"PostCode": "50170",
+"LatLong": "19.3667,98.9667"
 },
 {
 "Name": "Chom Thong",
@@ -2962,29 +3015,19 @@
 "LatLong": "18.4269,98.6781"
 },
 {
-"Name": "Chiang Dao",
-"PostCode": "50170",
-"LatLong": "19.3667,98.9667"
-},
-{
-"Name": "Mae Rim",
-"PostCode": "50180",
-"LatLong": "18.9122,98.9397"
-},
-{
-"Name": "Phrao",
-"PostCode": "50190",
-"LatLong": "19.3667,99.2167"
-},
-{
-"Name": "San Sai",
-"PostCode": "50210",
-"LatLong": "18.8522,99.0453"
-},
-{
 "Name": "Doi Saket",
 "PostCode": "50220",
 "LatLong": "18.8744,99.1356"
+},
+{
+"Name": "Doi Tao",
+"PostCode": "50260",
+"LatLong": "17.9,98.7333"
+},
+{
+"Name": "Fang",
+"PostCode": "50110",
+"LatLong": "19.9167,99.2167"
 },
 {
 "Name": "Hang Dong",
@@ -2997,14 +3040,9 @@
 "LatLong": "18.19,98.6089"
 },
 {
-"Name": "Samoeng",
-"PostCode": "50250",
-"LatLong": "18.8503,98.7328"
-},
-{
-"Name": "Doi Tao",
-"PostCode": "50260",
-"LatLong": "17.9,98.7333"
+"Name": "Mae Ai",
+"PostCode": "50280",
+"LatLong": "18.5508,98.7905"
 },
 {
 "Name": "Mae Chaem",
@@ -3012,9 +3050,29 @@
 "LatLong": "18.5014,98.3611"
 },
 {
-"Name": "Mae Ai",
-"PostCode": "50280",
-"LatLong": "18.5508,98.7905"
+"Name": "Mae On",
+"PostCode": "50130",
+"LatLong": "18.7422,99.1225"
+},
+{
+"Name": "Mae Rim",
+"PostCode": "50180",
+"LatLong": "18.9122,98.9397"
+},
+{
+"Name": "Mae Taeng",
+"PostCode": "50150",
+"LatLong": "19.1167,98.95"
+},
+{
+"Name": "Mae Wang",
+"PostCode": "50360",
+"LatLong": "19.9167,99.2833"
+},
+{
+"Name": "Muang Chiang Mai",
+"PostCode": "50000",
+"LatLong": "18.7903,98.9817"
 },
 {
 "Name": "Omkoi",
@@ -3022,19 +3080,39 @@
 "LatLong": "17.8,98.3667"
 },
 {
-"Name": "Chai Prakarn",
-"PostCode": "50320",
-"LatLong": "18.8583,98.825"
+"Name": "Phrao",
+"PostCode": "50190",
+"LatLong": "19.3667,99.2167"
+},
+{
+"Name": "Samoeng",
+"PostCode": "50250",
+"LatLong": "18.8503,98.7328"
+},
+{
+"Name": "San Kamphaeng",
+"PostCode": "50130",
+"LatLong": "18.7422,99.1225"
+},
+{
+"Name": "San Pa Tong",
+"PostCode": "50120",
+"LatLong": "18.6247,98.8944"
+},
+{
+"Name": "San Sai",
+"PostCode": "50210",
+"LatLong": "18.8522,99.0453"
+},
+{
+"Name": "Saraphi",
+"PostCode": "50140",
+"LatLong": "18.7142,99.0353"
 },
 {
 "Name": "Weang Hang",
 "PostCode": "50350",
 "LatLong": "18.8583,98.825"
-},
-{
-"Name": "Mae Wang",
-"PostCode": "50360",
-"LatLong": "19.9167,99.2833"
 }
 ]
 }
@@ -3051,9 +3129,14 @@
 {
 "Places": [
 {
-"Name": "Muang Lamphun",
-"PostCode": "51000",
-"LatLong": "18.5811,99.0092"
+"Name": "Ban Hong",
+"PostCode": "51130",
+"LatLong": "18.3147,98.8175"
+},
+{
+"Name": "Ban Thi",
+"PostCode": "51180",
+"LatLong": "18.2201,98.9751"
 },
 {
 "Name": "Li",
@@ -3061,9 +3144,14 @@
 "LatLong": "17.8,98.95"
 },
 {
-"Name": "Wiang Nonglong",
-"PostCode": "51120",
-"LatLong": "18.5244,98.9386"
+"Name": "Mae Tha",
+"PostCode": "51140",
+"LatLong": "18.4614,99.1361"
+},
+{
+"Name": "Muang Lamphun",
+"PostCode": "51000",
+"LatLong": "18.5811,99.0092"
 },
 {
 "Name": "Pa Sang",
@@ -3071,24 +3159,14 @@
 "LatLong": "18.5244,98.9386"
 },
 {
-"Name": "Ban Hong",
-"PostCode": "51130",
-"LatLong": "18.3147,98.8175"
-},
-{
-"Name": "Mae Tha",
-"PostCode": "51140",
-"LatLong": "18.4614,99.1361"
-},
-{
 "Name": "Thung Hua Chang",
 "PostCode": "51160",
 "LatLong": "18,99.0333"
 },
 {
-"Name": "Ban Thi",
-"PostCode": "51180",
-"LatLong": "18.2201,98.9751"
+"Name": "Wiang Nonglong",
+"PostCode": "51120",
+"LatLong": "18.5244,98.9386"
 }
 ]
 }
@@ -3105,49 +3183,9 @@
 {
 "Places": [
 {
-"Name": "Muang Lampang",
-"PostCode": "52000",
-"LatLong": "18.2983,99.5072"
-},
-{
-"Name": "Ngao",
-"PostCode": "52110",
-"LatLong": "18.7575,99.9783"
-},
-{
 "Name": "Chae Hom",
 "PostCode": "52120",
 "LatLong": "18.7022,99.5664"
-},
-{
-"Name": "Ko Kha",
-"PostCode": "52130",
-"LatLong": "18.19,99.3928"
-},
-{
-"Name": "Wang Nua",
-"PostCode": "52140",
-"LatLong": "19.15,99.6167"
-},
-{
-"Name": "Mae Tha",
-"PostCode": "52150",
-"LatLong": "18.1306,99.5092"
-},
-{
-"Name": "Thoen",
-"PostCode": "52160",
-"LatLong": "17.6025,99.2139"
-},
-{
-"Name": "Sop Prap",
-"PostCode": "52170",
-"LatLong": "17.8761,99.3431"
-},
-{
-"Name": "Mae Phrik",
-"PostCode": "52180",
-"LatLong": "17.4453,99.1222"
 },
 {
 "Name": "Hang Chat",
@@ -3155,9 +3193,9 @@
 "LatLong": "18.3264,99.3478"
 },
 {
-"Name": "Soem Ngam",
-"PostCode": "52210",
-"LatLong": "18.0333,99.2667"
+"Name": "Ko Kha",
+"PostCode": "52130",
+"LatLong": "18.19,99.3928"
 },
 {
 "Name": "Mae Mo",
@@ -3165,9 +3203,49 @@
 "LatLong": "18.2611,99.7042"
 },
 {
+"Name": "Mae Phrik",
+"PostCode": "52180",
+"LatLong": "17.4453,99.1222"
+},
+{
+"Name": "Mae Tha",
+"PostCode": "52150",
+"LatLong": "18.1306,99.5092"
+},
+{
+"Name": "Muang Lampang",
+"PostCode": "52000",
+"LatLong": "18.2983,99.5072"
+},
+{
 "Name": "Muang Pan",
 "PostCode": "52240",
 "LatLong": "18.75,99.5"
+},
+{
+"Name": "Ngao",
+"PostCode": "52110",
+"LatLong": "18.7575,99.9783"
+},
+{
+"Name": "Soem Ngam",
+"PostCode": "52210",
+"LatLong": "18.0333,99.2667"
+},
+{
+"Name": "Sop Prap",
+"PostCode": "52170",
+"LatLong": "17.8761,99.3431"
+},
+{
+"Name": "Thoen",
+"PostCode": "52160",
+"LatLong": "17.6025,99.2139"
+},
+{
+"Name": "Wang Nua",
+"PostCode": "52140",
+"LatLong": "19.15,99.6167"
 }
 ]
 }
@@ -3184,6 +3262,21 @@
 {
 "Places": [
 {
+"Name": "Ban Khok",
+"PostCode": "53180",
+"LatLong": "18.0189,101.0681"
+},
+{
+"Name": "Fak Tha",
+"PostCode": "53160",
+"LatLong": "17.9833,100.8833"
+},
+{
+"Name": "Laplae",
+"PostCode": "53130",
+"LatLong": "17.7168,100.5445"
+},
+{
 "Name": "Muang Uttaradit",
 "PostCode": "53000",
 "LatLong": "17.7168,100.5445"
@@ -3199,34 +3292,19 @@
 "LatLong": "17.2872,100.0967"
 },
 {
-"Name": "Laplae",
-"PostCode": "53130",
+"Name": "Tha Pla",
+"PostCode": "53150",
+"LatLong": "17.8,100.5333"
+},
+{
+"Name": "Tong Saen Khan",
+"PostCode": "53230",
 "LatLong": "17.7168,100.5445"
 },
 {
 "Name": "Tron",
 "PostCode": "53140",
 "LatLong": "17.4778,100.1189"
-},
-{
-"Name": "Tha Pla",
-"PostCode": "53150",
-"LatLong": "17.8,100.5333"
-},
-{
-"Name": "Fak Tha",
-"PostCode": "53160",
-"LatLong": "17.9833,100.8833"
-},
-{
-"Name": "Ban Khok",
-"PostCode": "53180",
-"LatLong": "18.0189,101.0681"
-},
-{
-"Name": "Tong Saen Khan",
-"PostCode": "53230",
-"LatLong": "17.7168,100.5445"
 }
 ]
 }
@@ -3243,9 +3321,29 @@
 {
 "Places": [
 {
+"Name": "Den Chai",
+"PostCode": "54140",
+"LatLong": "17.9794,100.0533"
+},
+{
+"Name": "Long",
+"PostCode": "54150",
+"LatLong": "18.0747,99.8303"
+},
+{
 "Name": "Muang Phrae",
 "PostCode": "54000",
 "LatLong": "18.15,100.1333"
+},
+{
+"Name": "Nong Muangkhai",
+"PostCode": "54170",
+"LatLong": "18.1353,100.0178"
+},
+{
+"Name": "Rong Kwang",
+"PostCode": "54140",
+"LatLong": "18.35,100.3167"
 },
 {
 "Name": "Song",
@@ -3258,29 +3356,9 @@
 "LatLong": "18.05,100.1167"
 },
 {
-"Name": "Den Chai",
-"PostCode": "54140",
-"LatLong": "17.9794,100.0533"
-},
-{
-"Name": "Rong Kwang",
-"PostCode": "54140",
-"LatLong": "18.35,100.3167"
-},
-{
-"Name": "Long",
-"PostCode": "54150",
-"LatLong": "18.0747,99.8303"
-},
-{
 "Name": "Wang Chin",
 "PostCode": "54160",
 "LatLong": "17.8908,99.6064"
-},
-{
-"Name": "Nong Muangkhai",
-"PostCode": "54170",
-"LatLong": "18.1353,100.0178"
 }
 ]
 }
@@ -3297,54 +3375,19 @@
 {
 "Places": [
 {
-"Name": "Santisuk",
-"PostCode": "55000",
-"LatLong": "18.7833,100.7833"
+"Name": "Ban Luang",
+"PostCode": "55190",
+"LatLong": "18.8333,100.45"
 },
 {
-"Name": "Muang Nan",
-"PostCode": "55000",
-"LatLong": "18.7833,100.7833"
-},
-{
-"Name": "Phu Piang",
-"PostCode": "55000",
-"LatLong": "18.7833,100.7833"
-},
-{
-"Name": "Wiang Sa",
-"PostCode": "55110",
-"LatLong": "18.5667,100.75"
-},
-{
-"Name": "Pua",
-"PostCode": "55120",
-"LatLong": "19.1833,100.9167"
-},
-{
-"Name": "Thung Chang",
-"PostCode": "55130",
-"LatLong": "19.4167,100.8833"
+"Name": "Bo Klua",
+"PostCode": "55220",
+"LatLong": "19.0833,101.0833"
 },
 {
 "Name": "Chaloem Phrakiat",
 "PostCode": "55130",
 "LatLong": "19.4167,100.8833"
-},
-{
-"Name": "Tha Wang Pha",
-"PostCode": "55140",
-"LatLong": "19.1,100.8167"
-},
-{
-"Name": "Na Noi",
-"PostCode": "55150",
-"LatLong": "18.3167,100.7167"
-},
-{
-"Name": "Song Khaew",
-"PostCode": "55160",
-"LatLong": "19.3,100.8667"
 },
 {
 "Name": "Chiang Klang",
@@ -3357,19 +3400,54 @@
 "LatLong": "18.7167,101.0333"
 },
 {
+"Name": "Muang Nan",
+"PostCode": "55000",
+"LatLong": "18.7833,100.7833"
+},
+{
 "Name": "Na Mun",
 "PostCode": "55180",
 "LatLong": "18.1833,100.6667"
 },
 {
-"Name": "Ban Luang",
-"PostCode": "55190",
-"LatLong": "18.8333,100.45"
+"Name": "Na Noi",
+"PostCode": "55150",
+"LatLong": "18.3167,100.7167"
 },
 {
-"Name": "Bo Klua",
-"PostCode": "55220",
-"LatLong": "19.0833,101.0833"
+"Name": "Phu Piang",
+"PostCode": "55000",
+"LatLong": "18.7833,100.7833"
+},
+{
+"Name": "Pua",
+"PostCode": "55120",
+"LatLong": "19.1833,100.9167"
+},
+{
+"Name": "Santisuk",
+"PostCode": "55000",
+"LatLong": "18.7833,100.7833"
+},
+{
+"Name": "Song Khaew",
+"PostCode": "55160",
+"LatLong": "19.3,100.8667"
+},
+{
+"Name": "Tha Wang Pha",
+"PostCode": "55140",
+"LatLong": "19.1,100.8167"
+},
+{
+"Name": "Thung Chang",
+"PostCode": "55130",
+"LatLong": "19.4167,100.8833"
+},
+{
+"Name": "Wiang Sa",
+"PostCode": "55110",
+"LatLong": "18.5667,100.75"
 }
 ]
 }
@@ -3386,14 +3464,9 @@
 {
 "Places": [
 {
-"Name": "Muang Phayao",
-"PostCode": "56000",
-"LatLong": "19.1667,99.9167"
-},
-{
-"Name": "Pu Khamyaw",
-"PostCode": "56000",
-"LatLong": "19.1667,99.9167"
+"Name": "Chiacg Muan",
+"PostCode": "56160",
+"LatLong": "19.3302,100.2497"
 },
 {
 "Name": "Chiang Kham",
@@ -3401,9 +3474,9 @@
 "LatLong": "19.5239,100.2992"
 },
 {
-"Name": "Pu Sang",
-"PostCode": "56110",
-"LatLong": "19.5239,100.2992"
+"Name": "Chun",
+"PostCode": "56150",
+"LatLong": "19.3,100.1667"
 },
 {
 "Name": "Dok Kham Tai",
@@ -3416,19 +3489,24 @@
 "LatLong": "19.3302,100.2497"
 },
 {
+"Name": "Muang Phayao",
+"PostCode": "56000",
+"LatLong": "19.1667,99.9167"
+},
+{
 "Name": "Pong",
 "PostCode": "56140",
 "LatLong": "19.1667,100.2833"
 },
 {
-"Name": "Chun",
-"PostCode": "56150",
-"LatLong": "19.3,100.1667"
+"Name": "Pu Khamyaw",
+"PostCode": "56000",
+"LatLong": "19.1667,99.9167"
 },
 {
-"Name": "Chiacg Muan",
-"PostCode": "56160",
-"LatLong": "19.3302,100.2497"
+"Name": "Pu Sang",
+"PostCode": "56110",
+"LatLong": "19.5239,100.2992"
 }
 ]
 }
@@ -3445,36 +3523,6 @@
 {
 "Places": [
 {
-"Name": "Muang Chiang Rai",
-"PostCode": "57000",
-"LatLong": "19.9,99.8333"
-},
-{
-"Name": "Mae Chan",
-"PostCode": "57110",
-"LatLong": "20.1472,99.8539"
-},
-{
-"Name": "Doi Luang",
-"PostCode": "57110",
-"LatLong": "20.3,100.3333"
-},
-{
-"Name": "Mae Pha Luang",
-"PostCode": "57110",
-"LatLong": "20.2236,100.0936"
-},
-{
-"Name": "Phan",
-"PostCode": "57120",
-"LatLong": "19.5667,99.7333"
-},
-{
-"Name": "Mae Sai",
-"PostCode": "57130",
-"LatLong": "20.43,99.8858"
-},
-{
 "Name": "Chiang Khong",
 "PostCode": "57140",
 "LatLong": "20.2833,100.4"
@@ -3485,14 +3533,34 @@
 "LatLong": "20.1472,99.8539"
 },
 {
-"Name": "Thoeng",
-"PostCode": "57160",
-"LatLong": "19.6833,100.2"
+"Name": "Doi Luang",
+"PostCode": "57110",
+"LatLong": "20.3,100.3333"
 },
 {
-"Name": "Wiang Pa Pao",
-"PostCode": "57170",
-"LatLong": "19.3667,99.5"
+"Name": "Khun Tan",
+"PostCode": "57340",
+"LatLong": "19.9048,99.9217"
+},
+{
+"Name": "Mae Chan",
+"PostCode": "57110",
+"LatLong": "20.1472,99.8539"
+},
+{
+"Name": "Mae Lao",
+"PostCode": "57250",
+"LatLong": "19.8833,99.9167"
+},
+{
+"Name": "Mae Pha Luang",
+"PostCode": "57110",
+"LatLong": "20.2236,100.0936"
+},
+{
+"Name": "Mae Sai",
+"PostCode": "57130",
+"LatLong": "20.43,99.8858"
 },
 {
 "Name": "Mae Suai",
@@ -3500,9 +3568,29 @@
 "LatLong": "19.65,99.55"
 },
 {
+"Name": "Muang Chiang Rai",
+"PostCode": "57000",
+"LatLong": "19.9,99.8333"
+},
+{
 "Name": "Pa Daet",
 "PostCode": "57190",
 "LatLong": "19.5,100"
+},
+{
+"Name": "Phan",
+"PostCode": "57120",
+"LatLong": "19.5667,99.7333"
+},
+{
+"Name": "Phaya Mengrai",
+"PostCode": "57290",
+"LatLong": "19.8833,99.9167"
+},
+{
+"Name": "Thoeng",
+"PostCode": "57160",
+"LatLong": "19.6833,100.2"
 },
 {
 "Name": "Wiang Chai",
@@ -3515,24 +3603,14 @@
 "LatLong": "19.8833,99.9167"
 },
 {
-"Name": "Mae Lao",
-"PostCode": "57250",
-"LatLong": "19.8833,99.9167"
-},
-{
-"Name": "Phaya Mengrai",
-"PostCode": "57290",
-"LatLong": "19.8833,99.9167"
-},
-{
 "Name": "Wiang Kaen",
 "PostCode": "57310",
 "LatLong": "19.9048,99.9217"
 },
 {
-"Name": "Khun Tan",
-"PostCode": "57340",
-"LatLong": "19.9048,99.9217"
+"Name": "Wiang Pa Pao",
+"PostCode": "57170",
+"LatLong": "19.3667,99.5"
 }
 ]
 }
@@ -3549,19 +3627,9 @@
 {
 "Places": [
 {
-"Name": "Muang Mae Hong Son",
-"PostCode": "58000",
-"LatLong": "18.6712,98.0633"
-},
-{
-"Name": "Mae Sariang",
-"PostCode": "58110",
-"LatLong": "18.1578,97.9336"
-},
-{
-"Name": "Sop Moei",
-"PostCode": "58110",
-"LatLong": "18.1578,97.9336"
+"Name": "Khun Yuam",
+"PostCode": "58140",
+"LatLong": "18.8289,97.9342"
 },
 {
 "Name": "Mae La Noi",
@@ -3569,19 +3637,29 @@
 "LatLong": "18.3814,97.9356"
 },
 {
+"Name": "Mae Sariang",
+"PostCode": "58110",
+"LatLong": "18.1578,97.9336"
+},
+{
+"Name": "Muang Mae Hong Son",
+"PostCode": "58000",
+"LatLong": "18.6712,98.0633"
+},
+{
 "Name": "Pai",
 "PostCode": "58130",
 "LatLong": "19.3167,98.45"
 },
 {
-"Name": "Khun Yuam",
-"PostCode": "58140",
-"LatLong": "18.8289,97.9342"
-},
-{
 "Name": "Pang Mapha",
 "PostCode": "58150",
 "LatLong": "18.6712,98.0633"
+},
+{
+"Name": "Sop Moei",
+"PostCode": "58110",
+"LatLong": "18.1578,97.9336"
 }
 ]
 }
@@ -3598,14 +3676,14 @@
 {
 "Places": [
 {
-"Name": "Muang Nakhon Sawan",
-"PostCode": "60000",
-"LatLong": "15.6833,100.1167"
+"Name": "Banphot Phisai",
+"PostCode": "60180",
+"LatLong": "15.9342,99.9789"
 },
 {
-"Name": "Nong Bua",
-"PostCode": "60110",
-"LatLong": "15.8667,100.5833"
+"Name": "Chum Tabong",
+"PostCode": "60150",
+"LatLong": "15.7506,99.7903"
 },
 {
 "Name": "Chumsaeng",
@@ -3613,22 +3691,17 @@
 "LatLong": "15.6454,100.2218"
 },
 {
-"Name": "Phayuha Khiri",
-"PostCode": "60130",
-"LatLong": "15.45,100.1333"
+"Name": "Kao Lieo",
+"PostCode": "60230",
+"LatLong": "15.85,100.0833"
 },
 {
-"Name": "Takhli",
-"PostCode": "60140",
-"LatLong": "15.6454,100.2218"
+"Name": "Krok Phra",
+"PostCode": "60170",
+"LatLong": "15.55,100.0833"
 },
 {
 "Name": "Lat Yao",
-"PostCode": "60150",
-"LatLong": "15.7506,99.7903"
-},
-{
-"Name": "Chum Tabong",
 "PostCode": "60150",
 "LatLong": "15.7506,99.7903"
 },
@@ -3643,24 +3716,14 @@
 "LatLong": "15.7506,99.7903"
 },
 {
-"Name": "Tha Tako",
-"PostCode": "60160",
-"LatLong": "15.6333,100.4833"
+"Name": "Muang Nakhon Sawan",
+"PostCode": "60000",
+"LatLong": "15.6833,100.1167"
 },
 {
-"Name": "Krok Phra",
-"PostCode": "60170",
-"LatLong": "15.55,100.0833"
-},
-{
-"Name": "Banphot Phisai",
-"PostCode": "60180",
-"LatLong": "15.9342,99.9789"
-},
-{
-"Name": "Tak Fa",
-"PostCode": "60190",
-"LatLong": "15.3333,100.5"
+"Name": "Nong Bua",
+"PostCode": "60110",
+"LatLong": "15.8667,100.5833"
 },
 {
 "Name": "Phaisali",
@@ -3668,9 +3731,24 @@
 "LatLong": "15.6,100.65"
 },
 {
-"Name": "Kao Lieo",
-"PostCode": "60230",
-"LatLong": "15.85,100.0833"
+"Name": "Phayuha Khiri",
+"PostCode": "60130",
+"LatLong": "15.45,100.1333"
+},
+{
+"Name": "Tak Fa",
+"PostCode": "60190",
+"LatLong": "15.3333,100.5"
+},
+{
+"Name": "Takhli",
+"PostCode": "60140",
+"LatLong": "15.6454,100.2218"
+},
+{
+"Name": "Tha Tako",
+"PostCode": "60160",
+"LatLong": "15.6333,100.4833"
 }
 ]
 }
@@ -3687,6 +3765,21 @@
 {
 "Places": [
 {
+"Name": "Ban Rai",
+"PostCode": "61140",
+"LatLong": "15.3667,99.85"
+},
+{
+"Name": "Huai Khot",
+"PostCode": "61170",
+"LatLong": "15.1333,99.5667"
+},
+{
+"Name": "Lan Sak",
+"PostCode": "61160",
+"LatLong": "15.4167,99.6833"
+},
+{
 "Name": "Muang Uthai Thani",
 "PostCode": "61000",
 "LatLong": "15.3667,100.05"
@@ -3697,19 +3790,9 @@
 "LatLong": "15.3919,99.8439"
 },
 {
-"Name": "Thap Than",
-"PostCode": "61120",
-"LatLong": "15.4594,99.8925"
-},
-{
 "Name": "Nong Khayang",
 "PostCode": "61130",
 "LatLong": "15.3619,99.9292"
-},
-{
-"Name": "Ban Rai",
-"PostCode": "61140",
-"LatLong": "15.3667,99.85"
 },
 {
 "Name": "Sawang Arom",
@@ -3717,14 +3800,9 @@
 "LatLong": "15.6167,99.8667"
 },
 {
-"Name": "Lan Sak",
-"PostCode": "61160",
-"LatLong": "15.4167,99.6833"
-},
-{
-"Name": "Huai Khot",
-"PostCode": "61170",
-"LatLong": "15.1333,99.5667"
+"Name": "Thap Than",
+"PostCode": "61120",
+"LatLong": "15.4594,99.8925"
 }
 ]
 }
@@ -3741,24 +3819,9 @@
 {
 "Places": [
 {
-"Name": "Muang Kamphaeng Phet",
-"PostCode": "62000",
+"Name": "Bung Samakki",
+"PostCode": "62210",
 "LatLong": "16.31,99.68"
-},
-{
-"Name": "Phran Kratai",
-"PostCode": "62110",
-"LatLong": "16.6667,99.6"
-},
-{
-"Name": "Khlong Khlung",
-"PostCode": "62120",
-"LatLong": "16.2,99.7167"
-},
-{
-"Name": "Pangslila Thong",
-"PostCode": "62120",
-"LatLong": "16.2,99.7167"
 },
 {
 "Name": "Khanu Woralaksaburi",
@@ -3766,9 +3829,14 @@
 "LatLong": "16.0667,99.8667"
 },
 {
-"Name": "Sai Ngam",
-"PostCode": "62150",
-"LatLong": "16.5,99.9167"
+"Name": "Khlong Khlung",
+"PostCode": "62120",
+"LatLong": "16.2,99.7167"
+},
+{
+"Name": "Khlong Lan",
+"PostCode": "62180",
+"LatLong": "16.1167,99.3"
 },
 {
 "Name": "Khosamphi Nakhon",
@@ -3781,18 +3849,28 @@
 "LatLong": "16.31,99.68"
 },
 {
-"Name": "Khlong Lan",
-"PostCode": "62180",
-"LatLong": "16.1167,99.3"
+"Name": "Muang Kamphaeng Phet",
+"PostCode": "62000",
+"LatLong": "16.31,99.68"
+},
+{
+"Name": "Pangslila Thong",
+"PostCode": "62120",
+"LatLong": "16.2,99.7167"
+},
+{
+"Name": "Phran Kratai",
+"PostCode": "62110",
+"LatLong": "16.6667,99.6"
+},
+{
+"Name": "Sai Ngam",
+"PostCode": "62150",
+"LatLong": "16.5,99.9167"
 },
 {
 "Name": "Saithong Wattana",
 "PostCode": "62190",
-"LatLong": "16.31,99.68"
-},
-{
-"Name": "Bung Samakki",
-"PostCode": "62210",
 "LatLong": "16.31,99.68"
 }
 ]
@@ -3810,29 +3888,9 @@
 {
 "Places": [
 {
-"Name": "Wang Chaw",
-"PostCode": "63000",
-"LatLong": "16.8667,99.1333"
-},
-{
-"Name": "Muang Tak",
-"PostCode": "63000",
-"LatLong": "16.8667,99.1333"
-},
-{
-"Name": "Mae Sot",
-"PostCode": "63110",
-"LatLong": "16.7167,98.5667"
-},
-{
 "Name": "Ban Tak",
 "PostCode": "63120",
 "LatLong": "17.0406,99.0631"
-},
-{
-"Name": "Sam Ngao",
-"PostCode": "63130",
-"LatLong": "17.2119,99.0578"
 },
 {
 "Name": "Mae Ramat",
@@ -3840,9 +3898,14 @@
 "LatLong": "16.9667,98.5167"
 },
 {
-"Name": "Tha Song Yang",
-"PostCode": "63150",
-"LatLong": "17.2167,98.2333"
+"Name": "Mae Sot",
+"PostCode": "63110",
+"LatLong": "16.7167,98.5667"
+},
+{
+"Name": "Muang Tak",
+"PostCode": "63000",
+"LatLong": "16.8667,99.1333"
 },
 {
 "Name": "Phob Phra",
@@ -3850,9 +3913,24 @@
 "LatLong": "16.8615,98.7174"
 },
 {
+"Name": "Sam Ngao",
+"PostCode": "63130",
+"LatLong": "17.2119,99.0578"
+},
+{
+"Name": "Tha Song Yang",
+"PostCode": "63150",
+"LatLong": "17.2167,98.2333"
+},
+{
 "Name": "Umphang",
 "PostCode": "63170",
 "LatLong": "16.0167,98.8667"
+},
+{
+"Name": "Wang Chaw",
+"PostCode": "63000",
+"LatLong": "16.8667,99.1333"
 }
 ]
 }
@@ -3869,34 +3947,9 @@
 {
 "Places": [
 {
-"Name": "Muang Sukhothai",
-"PostCode": "64000",
-"LatLong": "17.1772,99.8064"
-},
-{
-"Name": "Sawankhalok",
-"PostCode": "64110",
-"LatLong": "17.3086,99.8342"
-},
-{
-"Name": "Si Samrong",
-"PostCode": "64120",
-"LatLong": "17.1631,99.8672"
-},
-{
-"Name": "Si Satchanalai",
-"PostCode": "64130",
-"LatLong": "17.5167,99.7667"
-},
-{
 "Name": "Ban Dan Lan Hoi",
 "PostCode": "64140",
 "LatLong": "17.0153,99.7078"
-},
-{
-"Name": "Thung Saliam",
-"PostCode": "64150",
-"LatLong": "17.3136,99.5589"
 },
 {
 "Name": "Khiri Mat",
@@ -3909,9 +3962,34 @@
 "LatLong": "16.9333,99.9667"
 },
 {
+"Name": "Muang Sukhothai",
+"PostCode": "64000",
+"LatLong": "17.1772,99.8064"
+},
+{
+"Name": "Sawankhalok",
+"PostCode": "64110",
+"LatLong": "17.3086,99.8342"
+},
+{
 "Name": "Si Nakhon",
 "PostCode": "64180",
 "LatLong": "17.3333,99.95"
+},
+{
+"Name": "Si Samrong",
+"PostCode": "64120",
+"LatLong": "17.1631,99.8672"
+},
+{
+"Name": "Si Satchanalai",
+"PostCode": "64130",
+"LatLong": "17.5167,99.7667"
+},
+{
+"Name": "Thung Saliam",
+"PostCode": "64150",
+"LatLong": "17.3136,99.5589"
 }
 ]
 }
@@ -3928,24 +4006,9 @@
 {
 "Places": [
 {
-"Name": "Muang Phitsanulok",
-"PostCode": "65000",
-"LatLong": "16.8333,100.25"
-},
-{
 "Name": "Bang Krathum",
 "PostCode": "65110",
 "LatLong": "16.5667,100.3"
-},
-{
-"Name": "Nakhon Thai",
-"PostCode": "65120",
-"LatLong": "17.1167,100.8333"
-},
-{
-"Name": "Wang Thong",
-"PostCode": "65130",
-"LatLong": "16.8333,100.4333"
 },
 {
 "Name": "Bang Rakam",
@@ -3953,24 +4016,39 @@
 "LatLong": "16.75,100.1167"
 },
 {
-"Name": "Phrom Phiram",
-"PostCode": "65150",
-"LatLong": "17.0331,100.2019"
-},
-{
-"Name": "Wat Bot",
-"PostCode": "65160",
-"LatLong": "17,100.3167"
-},
-{
 "Name": "Chat Trakan",
 "PostCode": "65170",
 "LatLong": "17.2833,100.65"
 },
 {
+"Name": "Muang Phitsanulok",
+"PostCode": "65000",
+"LatLong": "16.8333,100.25"
+},
+{
+"Name": "Nakhon Thai",
+"PostCode": "65120",
+"LatLong": "17.1167,100.8333"
+},
+{
 "Name": "Noen Maprang",
 "PostCode": "65190",
 "LatLong": "16.5667,100.6333"
+},
+{
+"Name": "Phrom Phiram",
+"PostCode": "65150",
+"LatLong": "17.0331,100.2019"
+},
+{
+"Name": "Wang Thong",
+"PostCode": "65130",
+"LatLong": "16.8333,100.4333"
+},
+{
+"Name": "Wat Bot",
+"PostCode": "65160",
+"LatLong": "17,100.3167"
 }
 ]
 }
@@ -3987,24 +4065,9 @@
 {
 "Places": [
 {
-"Name": "Muang Phichit",
-"PostCode": "66000",
-"LatLong": "16.4333,100.3667"
-},
-{
-"Name": "Taphan Hin",
-"PostCode": "66110",
-"LatLong": "16.2167,100.4333"
-},
-{
 "Name": "Bang Mun Nak",
 "PostCode": "66120",
 "LatLong": "16.0333,100.3833"
-},
-{
-"Name": "Pho Thale",
-"PostCode": "66130",
-"LatLong": "16.0833,100.2667"
 },
 {
 "Name": "Bung Norong",
@@ -4012,12 +4075,32 @@
 "LatLong": "16.0833,100.2667"
 },
 {
-"Name": "Sam Ngam",
-"PostCode": "66140",
-"LatLong": "16.5167,100.2167"
+"Name": "Dong Charoen",
+"PostCode": "66210",
+"LatLong": "16.2952,100.3524"
 },
 {
-"Name": "Wachirabarami",
+"Name": "Muang Phichit",
+"PostCode": "66000",
+"LatLong": "16.4333,100.3667"
+},
+{
+"Name": "Pho Prathap Chang",
+"PostCode": "66190",
+"LatLong": "16.3,100.3167"
+},
+{
+"Name": "Pho Thale",
+"PostCode": "66130",
+"LatLong": "16.0833,100.2667"
+},
+{
+"Name": "Sak Lek",
+"PostCode": "66160",
+"LatLong": "16.4833,100.4833"
+},
+{
+"Name": "Sam Ngam",
 "PostCode": "66140",
 "LatLong": "16.5167,100.2167"
 },
@@ -4027,24 +4110,19 @@
 "LatLong": "16.2722,100.35"
 },
 {
-"Name": "Sak Lek",
-"PostCode": "66160",
-"LatLong": "16.4833,100.4833"
+"Name": "Taphan Hin",
+"PostCode": "66110",
+"LatLong": "16.2167,100.4333"
+},
+{
+"Name": "Wachirabarami",
+"PostCode": "66140",
+"LatLong": "16.5167,100.2167"
 },
 {
 "Name": "Wang Sai Phun",
 "PostCode": "66180",
 "LatLong": "16.2722,100.35"
-},
-{
-"Name": "Pho Prathap Chang",
-"PostCode": "66190",
-"LatLong": "16.3,100.3167"
-},
-{
-"Name": "Dong Charoen",
-"PostCode": "66210",
-"LatLong": "16.2952,100.3524"
 }
 ]
 }
@@ -4061,9 +4139,9 @@
 {
 "Places": [
 {
-"Name": "Muang Ratchaburi",
-"PostCode": "70000",
-"LatLong": "13.5854,99.7875"
+"Name": "Ban Ka",
+"PostCode": "70180",
+"LatLong": "13.5167,99.35"
 },
 {
 "Name": "Ban Pong",
@@ -4071,19 +4149,9 @@
 "LatLong": "13.8167,99.8833"
 },
 {
-"Name": "Photharam",
-"PostCode": "70120",
-"LatLong": "13.6833,99.85"
-},
-{
-"Name": "Damnoen Saduak",
-"PostCode": "70130",
-"LatLong": "13.5167,99.9333"
-},
-{
-"Name": "Pak Tho",
-"PostCode": "70140",
-"LatLong": "13.3833,99.85"
+"Name": "Bang Phae",
+"PostCode": "70160",
+"LatLong": "13.7,99.9333"
 },
 {
 "Name": "Chom Bung",
@@ -4091,14 +4159,24 @@
 "LatLong": "13.6167,99.6"
 },
 {
-"Name": "Bang Phae",
-"PostCode": "70160",
-"LatLong": "13.7,99.9333"
+"Name": "Damnoen Saduak",
+"PostCode": "70130",
+"LatLong": "13.5167,99.9333"
 },
 {
-"Name": "Wat Phleng",
-"PostCode": "70170",
-"LatLong": "13.45,99.9"
+"Name": "Muang Ratchaburi",
+"PostCode": "70000",
+"LatLong": "13.5854,99.7875"
+},
+{
+"Name": "Pak Tho",
+"PostCode": "70140",
+"LatLong": "13.3833,99.85"
+},
+{
+"Name": "Photharam",
+"PostCode": "70120",
+"LatLong": "13.6833,99.85"
 },
 {
 "Name": "Suan Phung",
@@ -4106,9 +4184,9 @@
 "LatLong": "13.5167,99.35"
 },
 {
-"Name": "Ban Ka",
-"PostCode": "70180",
-"LatLong": "13.5167,99.35"
+"Name": "Wat Phleng",
+"PostCode": "70170",
+"LatLong": "13.45,99.9"
 }
 ]
 }
@@ -4125,19 +4203,34 @@
 {
 "Places": [
 {
+"Name": "Bo Phloi",
+"PostCode": "71160",
+"LatLong": "14.3236,99.5161"
+},
+{
+"Name": "Dan Makham Tia",
+"PostCode": "71260",
+"LatLong": "13.85,99.4167"
+},
+{
+"Name": "Huai Khaiaw",
+"PostCode": "71170",
+"LatLong": "14.0866,99.5509"
+},
+{
+"Name": "Lao Khwan",
+"PostCode": "71210",
+"LatLong": "14.65,99.8"
+},
+{
 "Name": "Muang Kanchanaburi",
 "PostCode": "71000",
 "LatLong": "14.2617,99.4036"
 },
 {
-"Name": "Tha Muang",
-"PostCode": "71110",
-"LatLong": "13.9667,99.6333"
-},
-{
-"Name": "Tha Maka",
-"PostCode": "71120",
-"LatLong": "13.9,99.7667"
+"Name": "Nong Prue",
+"PostCode": "71220",
+"LatLong": "14.4806,99.2194"
 },
 {
 "Name": "Phanom Thuan",
@@ -4150,31 +4243,6 @@
 "LatLong": "14.1169,99.1375"
 },
 {
-"Name": "Bo Phloi",
-"PostCode": "71160",
-"LatLong": "14.3236,99.5161"
-},
-{
-"Name": "Huai Khaiaw",
-"PostCode": "71170",
-"LatLong": "14.0866,99.5509"
-},
-{
-"Name": "Thong Phaphum",
-"PostCode": "71180",
-"LatLong": "14.0866,99.5509"
-},
-{
-"Name": "Lao Khwan",
-"PostCode": "71210",
-"LatLong": "14.65,99.8"
-},
-{
-"Name": "Nong Prue",
-"PostCode": "71220",
-"LatLong": "14.4806,99.2194"
-},
-{
 "Name": "Sangkhla Buri",
 "PostCode": "71240",
 "LatLong": "14.7333,98.6333"
@@ -4185,9 +4253,19 @@
 "LatLong": "14.6892,99.0275"
 },
 {
-"Name": "Dan Makham Tia",
-"PostCode": "71260",
-"LatLong": "13.85,99.4167"
+"Name": "Tha Maka",
+"PostCode": "71120",
+"LatLong": "13.9,99.7667"
+},
+{
+"Name": "Tha Muang",
+"PostCode": "71110",
+"LatLong": "13.9667,99.6333"
+},
+{
+"Name": "Thong Phaphum",
+"PostCode": "71180",
+"LatLong": "14.0866,99.5509"
 }
 ]
 }
@@ -4204,18 +4282,33 @@
 {
 "Places": [
 {
+"Name": "Bang Pla Ma",
+"PostCode": "72150",
+"LatLong": "14.4228,100.1381"
+},
+{
+"Name": "Dan Chang",
+"PostCode": "72180",
+"LatLong": "14.8167,99.7"
+},
+{
+"Name": "Doembang Nangbuat",
+"PostCode": "72120",
+"LatLong": "14.576,100.0286"
+},
+{
+"Name": "Don Chedi",
+"PostCode": "72170",
+"LatLong": "14.6333,100.0333"
+},
+{
 "Name": "Muang Suphan Buri",
 "PostCode": "72000",
 "LatLong": "14.576,100.0286"
 },
 {
-"Name": "Song Phi Nong",
-"PostCode": "72110",
-"LatLong": "14.2167,100.05"
-},
-{
-"Name": "Doembang Nangbuat",
-"PostCode": "72120",
+"Name": "Nong Yasai",
+"PostCode": "72240",
 "LatLong": "14.576,100.0286"
 },
 {
@@ -4229,28 +4322,13 @@
 "LatLong": "14.6167,100.15"
 },
 {
-"Name": "Bang Pla Ma",
-"PostCode": "72150",
-"LatLong": "14.4228,100.1381"
+"Name": "Song Phi Nong",
+"PostCode": "72110",
+"LatLong": "14.2167,100.05"
 },
 {
 "Name": "U-Thong",
 "PostCode": "72160",
-"LatLong": "14.576,100.0286"
-},
-{
-"Name": "Don Chedi",
-"PostCode": "72170",
-"LatLong": "14.6333,100.0333"
-},
-{
-"Name": "Dan Chang",
-"PostCode": "72180",
-"LatLong": "14.8167,99.7"
-},
-{
-"Name": "Nong Yasai",
-"PostCode": "72240",
 "LatLong": "14.576,100.0286"
 }
 ]
@@ -4268,29 +4346,9 @@
 {
 "Places": [
 {
-"Name": "Muang Nakhon Pathom",
-"PostCode": "73000",
-"LatLong": "13.8667,100.1917"
-},
-{
-"Name": "Sam Phran",
-"PostCode": "73110",
-"LatLong": "13.7167,100.2167"
-},
-{
-"Name": "Nakhon Chaisi",
-"PostCode": "73120",
-"LatLong": "13.8667,100.1917"
-},
-{
 "Name": "Bang Len",
 "PostCode": "73130",
 "LatLong": "14.0167,100.1667"
-},
-{
-"Name": "Khamphaeng Saen",
-"PostCode": "73140",
-"LatLong": "13.8667,100.1917"
 },
 {
 "Name": "Don Tum",
@@ -4298,9 +4356,29 @@
 "LatLong": "13.8667,100.1917"
 },
 {
+"Name": "Khamphaeng Saen",
+"PostCode": "73140",
+"LatLong": "13.8667,100.1917"
+},
+{
+"Name": "Muang Nakhon Pathom",
+"PostCode": "73000",
+"LatLong": "13.8667,100.1917"
+},
+{
+"Name": "Nakhon Chaisi",
+"PostCode": "73120",
+"LatLong": "13.8667,100.1917"
+},
+{
 "Name": "Phutha Monthon",
 "PostCode": "73170",
 "LatLong": "13.8667,100.1917"
+},
+{
+"Name": "Sam Phran",
+"PostCode": "73110",
+"LatLong": "13.7167,100.2167"
 }
 ]
 }
@@ -4317,9 +4395,9 @@
 {
 "Places": [
 {
-"Name": "Muang Samut Sakhon",
-"PostCode": "74000",
-"LatLong": "13.5333,100.2833"
+"Name": "Ban Phaeo",
+"PostCode": "74120",
+"LatLong": "13.5833,100.1167"
 },
 {
 "Name": "Krathum Baen",
@@ -4327,9 +4405,9 @@
 "LatLong": "13.65,100.2667"
 },
 {
-"Name": "Ban Phaeo",
-"PostCode": "74120",
-"LatLong": "13.5833,100.1167"
+"Name": "Muang Samut Sakhon",
+"PostCode": "74000",
+"LatLong": "13.5333,100.2833"
 }
 ]
 }
@@ -4346,11 +4424,6 @@
 {
 "Places": [
 {
-"Name": "Muang Samut Songkhram",
-"PostCode": "75000",
-"LatLong": "13.4,100"
-},
-{
 "Name": "Amphawa",
 "PostCode": "75110",
 "LatLong": "13.4167,99.95"
@@ -4359,6 +4432,11 @@
 "Name": "Bang Khonthi",
 "PostCode": "75120",
 "LatLong": "13.4667,99.9333"
+},
+{
+"Name": "Muang Samut Songkhram",
+"PostCode": "75000",
+"LatLong": "13.4,100"
 }
 ]
 }
@@ -4375,29 +4453,9 @@
 {
 "Places": [
 {
-"Name": "Muang Phetchabun",
-"PostCode": "67000",
-"LatLong": "16.4167,101.1333"
-},
-{
-"Name": "Lom Sak",
-"PostCode": "67110",
-"LatLong": "16.7833,101.25"
-},
-{
-"Name": "Lom Kao",
-"PostCode": "67120",
-"LatLong": "16.8833,101.2333"
-},
-{
-"Name": "Wichian Buri",
-"PostCode": "67130",
-"LatLong": "15.6589,101.1125"
-},
-{
-"Name": "Nong Phai",
-"PostCode": "67140",
-"LatLong": "15.9825,101.0622"
+"Name": "Bung Sam Phan",
+"PostCode": "67160",
+"LatLong": "15.7833,101.0333"
 },
 {
 "Name": "Chon Daen",
@@ -4405,9 +4463,34 @@
 "LatLong": "16.1833,100.85"
 },
 {
-"Name": "Bung Sam Phan",
-"PostCode": "67160",
-"LatLong": "15.7833,101.0333"
+"Name": "Khao Kho",
+"PostCode": "67270",
+"LatLong": "16.6667,100.9667"
+},
+{
+"Name": "Lom Kao",
+"PostCode": "67120",
+"LatLong": "16.8833,101.2333"
+},
+{
+"Name": "Lom Sak",
+"PostCode": "67110",
+"LatLong": "16.7833,101.25"
+},
+{
+"Name": "Muang Phetchabun",
+"PostCode": "67000",
+"LatLong": "16.4167,101.1333"
+},
+{
+"Name": "Nam Nao",
+"PostCode": "67260",
+"LatLong": "16.75,101.75"
+},
+{
+"Name": "Nong Phai",
+"PostCode": "67140",
+"LatLong": "15.9825,101.0622"
 },
 {
 "Name": "Si Thep",
@@ -4420,14 +4503,9 @@
 "LatLong": "16.3333,100.8"
 },
 {
-"Name": "Nam Nao",
-"PostCode": "67260",
-"LatLong": "16.75,101.75"
-},
-{
-"Name": "Khao Kho",
-"PostCode": "67270",
-"LatLong": "16.6667,100.9667"
+"Name": "Wichian Buri",
+"PostCode": "67130",
+"LatLong": "15.6589,101.1125"
 }
 ]
 }
@@ -4444,29 +4522,9 @@
 {
 "Places": [
 {
-"Name": "Muang Phetchaburi",
-"PostCode": "76000",
-"LatLong": "13.0694,100.0528"
-},
-{
 "Name": "Ban Laem",
 "PostCode": "76110",
 "LatLong": "13.2167,99.9833"
-},
-{
-"Name": "Cha-Am",
-"PostCode": "76120",
-"LatLong": "12.8,99.9667"
-},
-{
-"Name": "Tha Yang",
-"PostCode": "76130",
-"LatLong": "12.9667,100.9"
-},
-{
-"Name": "Khao Yoi",
-"PostCode": "76140",
-"LatLong": "13.2333,99.8333"
 },
 {
 "Name": "Ban Lat",
@@ -4474,14 +4532,34 @@
 "LatLong": "13.05,99.9333"
 },
 {
-"Name": "Nong Ya Plong",
-"PostCode": "76160",
-"LatLong": "13.15,99.7"
+"Name": "Cha-Am",
+"PostCode": "76120",
+"LatLong": "12.8,99.9667"
 },
 {
 "Name": "Kang Krachan",
 "PostCode": "76170",
 "LatLong": "13.0694,100.0528"
+},
+{
+"Name": "Khao Yoi",
+"PostCode": "76140",
+"LatLong": "13.2333,99.8333"
+},
+{
+"Name": "Muang Phetchaburi",
+"PostCode": "76000",
+"LatLong": "13.0694,100.0528"
+},
+{
+"Name": "Nong Ya Plong",
+"PostCode": "76160",
+"LatLong": "13.15,99.7"
+},
+{
+"Name": "Tha Yang",
+"PostCode": "76130",
+"LatLong": "12.9667,100.9"
 }
 ]
 }
@@ -4498,34 +4576,9 @@
 {
 "Places": [
 {
-"Name": "Muang prachuap Khirikan",
-"PostCode": "77000",
-"LatLong": "11.7972,99.7278"
-},
-{
-"Name": "Hua Hin",
-"PostCode": "77110",
-"LatLong": "12.5667,99.9667"
-},
-{
-"Name": "Pran Buri",
-"PostCode": "77120",
-"LatLong": "12.3833,99.9167"
-},
-{
-"Name": "Thap Sakae",
-"PostCode": "77130",
-"LatLong": "11.5,99.6167"
-},
-{
 "Name": "Bang Saphan",
 "PostCode": "77140",
 "LatLong": "11.2,99.5167"
-},
-{
-"Name": "Kui Buri",
-"PostCode": "77150",
-"LatLong": "12.05,99.8667"
 },
 {
 "Name": "Bang Saphan Noi",
@@ -4533,9 +4586,34 @@
 "LatLong": "11.0833,99.4833"
 },
 {
+"Name": "Hua Hin",
+"PostCode": "77110",
+"LatLong": "12.5667,99.9667"
+},
+{
+"Name": "Kui Buri",
+"PostCode": "77150",
+"LatLong": "12.05,99.8667"
+},
+{
+"Name": "Muang prachuap Khirikan",
+"PostCode": "77000",
+"LatLong": "11.7972,99.7278"
+},
+{
+"Name": "Pran Buri",
+"PostCode": "77120",
+"LatLong": "12.3833,99.9167"
+},
+{
 "Name": "Samaroiyod",
 "PostCode": "77180",
 "LatLong": "11.7972,99.7278"
+},
+{
+"Name": "Thap Sakae",
+"PostCode": "77130",
+"LatLong": "11.5,99.6167"
 }
 ]
 }
@@ -4552,64 +4630,9 @@
 {
 "Places": [
 {
-"Name": "Phra Phrom",
-"PostCode": "80000",
-"LatLong": "14.65,100.6"
-},
-{
-"Name": "Muang Nakhon Si Thammarat",
-"PostCode": "80000",
-"LatLong": "14.65,100.6"
-},
-{
-"Name": "Thung Song",
-"PostCode": "80110",
-"LatLong": "8.15,99.7333"
-},
-{
-"Name": "Sichon",
-"PostCode": "80120",
-"LatLong": "9,99.9"
-},
-{
-"Name": "Ron Phibun",
-"PostCode": "80130",
-"LatLong": "8.15,99.85"
-},
-{
-"Name": "Chula Phon",
-"PostCode": "80130",
-"LatLong": "8.15,99.85"
-},
-{
-"Name": "Pak Phanang",
-"PostCode": "80140",
-"LatLong": "8.35,100.2"
-},
-{
-"Name": "Chawang",
-"PostCode": "80150",
-"LatLong": "8.4167,99.5"
-},
-{
-"Name": "Tha Sala",
-"PostCode": "80160",
-"LatLong": "8.6667,99.9333"
-},
-{
-"Name": "Nob Pitam",
-"PostCode": "80160",
-"LatLong": "8.6667,99.9333"
-},
-{
-"Name": "Hua Sai",
-"PostCode": "80170",
-"LatLong": "8.0333,100.3"
-},
-{
-"Name": "Cha-uat",
-"PostCode": "80180",
-"LatLong": "7.9667,100"
+"Name": "Bang Khan",
+"PostCode": "80360",
+"LatLong": "8,99.5333"
 },
 {
 "Name": "Chaloem Phrakiat",
@@ -4617,9 +4640,34 @@
 "LatLong": "8.1667,100.15"
 },
 {
+"Name": "Chang Khlang",
+"PostCode": "80250",
+"LatLong": "8.54,99.65"
+},
+{
+"Name": "Cha-uat",
+"PostCode": "80180",
+"LatLong": "7.9667,100"
+},
+{
+"Name": "Chawang",
+"PostCode": "80150",
+"LatLong": "8.4167,99.5"
+},
+{
 "Name": "Chian Yai",
 "PostCode": "80190",
 "LatLong": "8.1667,100.15"
+},
+{
+"Name": "Chula Phon",
+"PostCode": "80130",
+"LatLong": "8.15,99.85"
+},
+{
+"Name": "Hua Sai",
+"PostCode": "80170",
+"LatLong": "8.0333,100.3"
 },
 {
 "Name": "Khanom",
@@ -4627,9 +4675,9 @@
 "LatLong": "9.2,99.8667"
 },
 {
-"Name": "Na Bon",
-"PostCode": "80220",
-"LatLong": "8.25,99.5833"
+"Name": "Lamai Beach",
+"PostCode": "84310",
+"LatLong": "9.4659,100.045"
 },
 {
 "Name": "Lan Saka",
@@ -4637,19 +4685,24 @@
 "LatLong": "8.35,99.8"
 },
 {
-"Name": "Thung Yai",
-"PostCode": "80240",
-"LatLong": "8.3,99.3667"
+"Name": "Muang Nakhon Si Thammarat",
+"PostCode": "80000",
+"LatLong": "14.65,100.6"
 },
 {
-"Name": "Chang Khlang",
-"PostCode": "80250",
-"LatLong": "8.54,99.65"
+"Name": "Na Bon",
+"PostCode": "80220",
+"LatLong": "8.25,99.5833"
 },
 {
-"Name": "Tham Punnara",
-"PostCode": "80260",
-"LatLong": "8.54,99.65"
+"Name": "Nob Pitam",
+"PostCode": "80160",
+"LatLong": "8.6667,99.9333"
+},
+{
+"Name": "Pak Phanang",
+"PostCode": "80140",
+"LatLong": "8.35,100.2"
 },
 {
 "Name": "Phipun",
@@ -4657,19 +4710,44 @@
 "LatLong": "8.6,99.6333"
 },
 {
+"Name": "Phra Phrom",
+"PostCode": "80000",
+"LatLong": "14.65,100.6"
+},
+{
 "Name": "Phromkhiri",
 "PostCode": "80320",
 "LatLong": "8,99.5333"
 },
 {
-"Name": "Bang Khan",
-"PostCode": "80360",
-"LatLong": "8,99.5333"
+"Name": "Ron Phibun",
+"PostCode": "80130",
+"LatLong": "8.15,99.85"
 },
 {
-"Name": "Lamai Beach",
-"PostCode": "84310",
-"LatLong": "9.4659,100.045"
+"Name": "Sichon",
+"PostCode": "80120",
+"LatLong": "9,99.9"
+},
+{
+"Name": "Tha Sala",
+"PostCode": "80160",
+"LatLong": "8.6667,99.9333"
+},
+{
+"Name": "Tham Punnara",
+"PostCode": "80260",
+"LatLong": "8.54,99.65"
+},
+{
+"Name": "Thung Song",
+"PostCode": "80110",
+"LatLong": "8.15,99.7333"
+},
+{
+"Name": "Thung Yai",
+"PostCode": "80240",
+"LatLong": "8.3,99.3667"
 }
 ]
 }
@@ -4686,29 +4764,9 @@
 {
 "Places": [
 {
-"Name": "Muang Krabi",
-"PostCode": "81000",
-"LatLong": "8.119,99.0214"
-},
-{
 "Name": "Ao Luk",
 "PostCode": "81110",
 "LatLong": "8.3833,98.7167"
-},
-{
-"Name": "Lam Thap",
-"PostCode": "81120",
-"LatLong": "8.0667,99.3"
-},
-{
-"Name": "Khlong Thom",
-"PostCode": "81120",
-"LatLong": "7.9333,99.15"
-},
-{
-"Name": "Nua Khlong",
-"PostCode": "81130",
-"LatLong": "8.0667,99"
 },
 {
 "Name": "Khao Phanom",
@@ -4716,9 +4774,29 @@
 "LatLong": "8.25,99.0333"
 },
 {
+"Name": "Khlong Thom",
+"PostCode": "81120",
+"LatLong": "7.9333,99.15"
+},
+{
 "Name": "Ko Lanta",
 "PostCode": "81150",
 "LatLong": "7.55,99.0833"
+},
+{
+"Name": "Lam Thap",
+"PostCode": "81120",
+"LatLong": "8.0667,99.3"
+},
+{
+"Name": "Muang Krabi",
+"PostCode": "81000",
+"LatLong": "8.119,99.0214"
+},
+{
+"Name": "Nua Khlong",
+"PostCode": "81130",
+"LatLong": "8.0667,99"
 },
 {
 "Name": "Plai Phraya",
@@ -4740,24 +4818,9 @@
 {
 "Places": [
 {
-"Name": "Muang Phang Nga",
-"PostCode": "82000",
-"LatLong": "8.6944,98.4389"
-},
-{
-"Name": "Takua Pa",
-"PostCode": "82110",
-"LatLong": "8.8333,98.3667"
-},
-{
-"Name": "Thai Muang",
-"PostCode": "82120",
-"LatLong": "8.5333,98.3"
-},
-{
-"Name": "Takua Thung",
-"PostCode": "82130",
-"LatLong": "8.4,98.45"
+"Name": "Kapong",
+"PostCode": "82170",
+"LatLong": "8.6833,98.45"
 },
 {
 "Name": "Khura Buri",
@@ -4770,9 +4833,24 @@
 "LatLong": "8.6944,98.4389"
 },
 {
-"Name": "Kapong",
-"PostCode": "82170",
-"LatLong": "8.6833,98.45"
+"Name": "Muang Phang Nga",
+"PostCode": "82000",
+"LatLong": "8.6944,98.4389"
+},
+{
+"Name": "Takua Pa",
+"PostCode": "82110",
+"LatLong": "8.8333,98.3667"
+},
+{
+"Name": "Takua Thung",
+"PostCode": "82130",
+"LatLong": "8.4,98.45"
+},
+{
+"Name": "Thai Muang",
+"PostCode": "82120",
+"LatLong": "8.5333,98.3"
 },
 {
 "Name": "Thap Put",
@@ -4794,6 +4872,11 @@
 {
 "Places": [
 {
+"Name": "Kathu",
+"PostCode": "83120",
+"LatLong": "7.9167,98.35"
+},
+{
 "Name": "Muang Phuket",
 "PostCode": "83000",
 "LatLong": "7.95,98.3583"
@@ -4802,11 +4885,6 @@
 "Name": "Thalang",
 "PostCode": "83110",
 "LatLong": "7.9833,98.3667"
-},
-{
-"Name": "Kathu",
-"PostCode": "83120",
-"LatLong": "7.9167,98.35"
 }
 ]
 }
@@ -4823,14 +4901,9 @@
 {
 "Places": [
 {
-"Name": "Muang Surat Thani",
-"PostCode": "84000",
-"LatLong": "9.1308,99.3628"
-},
-{
-"Name": "Chaiya",
-"PostCode": "84110",
-"LatLong": "9.3833,99.2333"
+"Name": "Ban Na Doem",
+"PostCode": "84240",
+"LatLong": "8.8833,99.3167"
 },
 {
 "Name": "Ban Na San",
@@ -4838,44 +4911,9 @@
 "LatLong": "8.8,99.3667"
 },
 {
-"Name": "Phunphin",
-"PostCode": "84130",
-"LatLong": "9.1167,99.2"
-},
-{
-"Name": "Ko Samui",
-"PostCode": "84140",
-"LatLong": "9.4333,99.9667"
-},
-{
-"Name": "Tha Chang",
-"PostCode": "84150",
-"LatLong": "9.1417,99.3313"
-},
-{
-"Name": "Kanchanadit",
-"PostCode": "84160",
-"LatLong": "9.1667,99.4667"
-},
-{
-"Name": "Tha Chana",
-"PostCode": "84170",
-"LatLong": "9.5667,99.15"
-},
-{
-"Name": "Khiri Ratthanikhom",
-"PostCode": "84180",
-"LatLong": "9.0333,98.9167"
-},
-{
-"Name": "Wiphawadi",
-"PostCode": "84180",
-"LatLong": "9.0333,98.9167"
-},
-{
-"Name": "Wiang Sa",
-"PostCode": "84190",
-"LatLong": "8.6333,99.35"
+"Name": "Ban Ta Khun",
+"PostCode": "84230",
+"LatLong": "9.1133,99.4133"
 },
 {
 "Name": "Chai Buri",
@@ -4883,9 +4921,9 @@
 "LatLong": "9.1133,99.4133"
 },
 {
-"Name": "Phrasaeng",
-"PostCode": "84210",
-"LatLong": "9.1133,99.4133"
+"Name": "Chaiya",
+"PostCode": "84110",
+"LatLong": "9.3833,99.2333"
 },
 {
 "Name": "Don Sak",
@@ -4893,19 +4931,9 @@
 "LatLong": "9.3,99.6833"
 },
 {
-"Name": "Ban Ta Khun",
-"PostCode": "84230",
-"LatLong": "9.1133,99.4133"
-},
-{
-"Name": "Ban Na Doem",
-"PostCode": "84240",
-"LatLong": "8.8833,99.3167"
-},
-{
-"Name": "Phanom",
-"PostCode": "84250",
-"LatLong": "8.8167,98.8333"
+"Name": "Kanchanadit",
+"PostCode": "84160",
+"LatLong": "9.1667,99.4667"
 },
 {
 "Name": "Khian Sa",
@@ -4913,9 +4941,59 @@
 "LatLong": "8.85,99.2333"
 },
 {
+"Name": "Khiri Ratthanikhom",
+"PostCode": "84180",
+"LatLong": "9.0333,98.9167"
+},
+{
 "Name": "Ko Phangan",
 "PostCode": "84280",
 "LatLong": "9.7167,100"
+},
+{
+"Name": "Ko Samui",
+"PostCode": "84140",
+"LatLong": "9.4333,99.9667"
+},
+{
+"Name": "Muang Surat Thani",
+"PostCode": "84000",
+"LatLong": "9.1308,99.3628"
+},
+{
+"Name": "Phanom",
+"PostCode": "84250",
+"LatLong": "8.8167,98.8333"
+},
+{
+"Name": "Phrasaeng",
+"PostCode": "84210",
+"LatLong": "9.1133,99.4133"
+},
+{
+"Name": "Phunphin",
+"PostCode": "84130",
+"LatLong": "9.1167,99.2"
+},
+{
+"Name": "Tha Chana",
+"PostCode": "84170",
+"LatLong": "9.5667,99.15"
+},
+{
+"Name": "Tha Chang",
+"PostCode": "84150",
+"LatLong": "9.1417,99.3313"
+},
+{
+"Name": "Wiang Sa",
+"PostCode": "84190",
+"LatLong": "8.6333,99.35"
+},
+{
+"Name": "Wiphawadi",
+"PostCode": "84180",
+"LatLong": "9.0333,98.9167"
 }
 ]
 }
@@ -4932,9 +5010,9 @@
 {
 "Places": [
 {
-"Name": "Muang Ranong",
-"PostCode": "85000",
-"LatLong": "9.9667,98.6333"
+"Name": "Kapoe",
+"PostCode": "85120",
+"LatLong": "9.5833,98.6"
 },
 {
 "Name": "Kra Buri",
@@ -4942,19 +5020,19 @@
 "LatLong": "10.4,98.7833"
 },
 {
-"Name": "Kapoe",
-"PostCode": "85120",
-"LatLong": "9.5833,98.6"
+"Name": "La-Un",
+"PostCode": "85130",
+"LatLong": "10.1167,98.7667"
+},
+{
+"Name": "Muang Ranong",
+"PostCode": "85000",
+"LatLong": "9.9667,98.6333"
 },
 {
 "Name": "Suk Samran",
 "PostCode": "85120",
 "LatLong": "9.5833,98.6"
-},
-{
-"Name": "La-Un",
-"PostCode": "85130",
-"LatLong": "10.1167,98.7667"
 }
 ]
 }
@@ -4971,14 +5049,29 @@
 {
 "Places": [
 {
-"Name": "Muang Chumphon",
-"PostCode": "86000",
-"LatLong": "10.1905,99.0905"
+"Name": "Lamae",
+"PostCode": "86170",
+"LatLong": "9.85,99.0833"
 },
 {
 "Name": "Lang Suan",
 "PostCode": "86110",
 "LatLong": "9.95,99.0667"
+},
+{
+"Name": "Muang Chumphon",
+"PostCode": "86000",
+"LatLong": "10.1905,99.0905"
+},
+{
+"Name": "Pathiu",
+"PostCode": "86160",
+"LatLong": "10.7,99.3167"
+},
+{
+"Name": "Phato",
+"PostCode": "86180",
+"LatLong": "9.8,98.8"
 },
 {
 "Name": "Sawi",
@@ -4989,21 +5082,6 @@
 "Name": "Tha Sae",
 "PostCode": "86140",
 "LatLong": "10.6667,99.1667"
-},
-{
-"Name": "Pathiu",
-"PostCode": "86160",
-"LatLong": "10.7,99.3167"
-},
-{
-"Name": "Lamae",
-"PostCode": "86170",
-"LatLong": "9.85,99.0833"
-},
-{
-"Name": "Phato",
-"PostCode": "86180",
-"LatLong": "9.8,98.8"
 },
 {
 "Name": "Thung Tako",
@@ -5025,24 +5103,9 @@
 {
 "Places": [
 {
-"Name": "Muang Songkhla",
-"PostCode": "90000",
-"LatLong": "7.0167,100.6619"
-},
-{
 "Name": "Bang Klam",
 "PostCode": "90110",
 "LatLong": "7.1,100.4167"
-},
-{
-"Name": "Hat Yai",
-"PostCode": "90110",
-"LatLong": "7.0167,100.4667"
-},
-{
-"Name": "Sa Dao",
-"PostCode": "90120",
-"LatLong": "7.0694,100.6"
 },
 {
 "Name": "Chana",
@@ -5050,39 +5113,9 @@
 "LatLong": "6.9167,100.7333"
 },
 {
-"Name": "Ranot",
-"PostCode": "90140",
-"LatLong": "7.7667,100.3167"
-},
-{
-"Name": "Thepha",
-"PostCode": "90150",
-"LatLong": "6.8667,100.9667"
-},
-{
-"Name": "Na Thawi",
-"PostCode": "90160",
-"LatLong": "6.75,100.7"
-},
-{
-"Name": "Rattapum",
-"PostCode": "90180",
-"LatLong": "7.0694,100.6"
-},
-{
-"Name": "Sating Phra",
-"PostCode": "90190",
-"LatLong": "7.0694,100.6"
-},
-{
-"Name": "Sabayoi",
-"PostCode": "90210",
-"LatLong": "6.7,101.0333"
-},
-{
-"Name": "Kuan Niang",
-"PostCode": "90220",
-"LatLong": "6.7,101.0333"
+"Name": "Hat Yai",
+"PostCode": "90110",
+"LatLong": "7.0167,100.4667"
 },
 {
 "Name": "Khlong Hoykhong",
@@ -5095,14 +5128,59 @@
 "LatLong": "6.7,101.0333"
 },
 {
+"Name": "Kuan Niang",
+"PostCode": "90220",
+"LatLong": "6.7,101.0333"
+},
+{
+"Name": "Muang Songkhla",
+"PostCode": "90000",
+"LatLong": "7.0167,100.6619"
+},
+{
 "Name": "Na Mom",
 "PostCode": "90310",
 "LatLong": "7.0167,100.6619"
 },
 {
+"Name": "Na Thawi",
+"PostCode": "90160",
+"LatLong": "6.75,100.7"
+},
+{
+"Name": "Ranot",
+"PostCode": "90140",
+"LatLong": "7.7667,100.3167"
+},
+{
+"Name": "Rattapum",
+"PostCode": "90180",
+"LatLong": "7.0694,100.6"
+},
+{
+"Name": "Sa Dao",
+"PostCode": "90120",
+"LatLong": "7.0694,100.6"
+},
+{
+"Name": "Sabayoi",
+"PostCode": "90210",
+"LatLong": "6.7,101.0333"
+},
+{
+"Name": "Sating Phra",
+"PostCode": "90190",
+"LatLong": "7.0694,100.6"
+},
+{
 "Name": "Singha Nakorn",
 "PostCode": "90330",
 "LatLong": "7.0167,100.6619"
+},
+{
+"Name": "Thepha",
+"PostCode": "90150",
+"LatLong": "6.8667,100.9667"
 }
 ]
 }
@@ -5119,24 +5197,9 @@
 {
 "Places": [
 {
-"Name": "Muang Satun",
-"PostCode": "91000",
+"Name": "Khuan Doan",
+"PostCode": "91160",
 "LatLong": "6.9292,99.8708"
-},
-{
-"Name": "Langu",
-"PostCode": "91110",
-"LatLong": "6.8833,99.7833"
-},
-{
-"Name": "Thung Wa",
-"PostCode": "91120",
-"LatLong": "7.1,99.7667"
-},
-{
-"Name": "Manung",
-"PostCode": "91130",
-"LatLong": "6.8667,100.0167"
 },
 {
 "Name": "Khuan Ka Long",
@@ -5144,14 +5207,29 @@
 "LatLong": "6.8667,100.0167"
 },
 {
+"Name": "Langu",
+"PostCode": "91110",
+"LatLong": "6.8833,99.7833"
+},
+{
+"Name": "Manung",
+"PostCode": "91130",
+"LatLong": "6.8667,100.0167"
+},
+{
+"Name": "Muang Satun",
+"PostCode": "91000",
+"LatLong": "6.9292,99.8708"
+},
+{
 "Name": "Tha Phae",
 "PostCode": "91150",
 "LatLong": "6.8667,99.9167"
 },
 {
-"Name": "Khuan Doan",
-"PostCode": "91160",
-"LatLong": "6.9292,99.8708"
+"Name": "Thung Wa",
+"PostCode": "91120",
+"LatLong": "7.1,99.7667"
 }
 ]
 }
@@ -5168,21 +5246,6 @@
 {
 "Places": [
 {
-"Name": "Muang Trang",
-"PostCode": "92000",
-"LatLong": "7.5611,99.5417"
-},
-{
-"Name": "Kantang",
-"PostCode": "92110",
-"LatLong": "7.4167,99.5167"
-},
-{
-"Name": "Palian",
-"PostCode": "92120",
-"LatLong": "7.3333,99.8"
-},
-{
 "Name": "Had Samran",
 "PostCode": "92120",
 "LatLong": "7.3333,99.8"
@@ -5193,8 +5256,28 @@
 "LatLong": "7.75,99.6167"
 },
 {
-"Name": "Yan Tak Kao",
-"PostCode": "92140",
+"Name": "Kantang",
+"PostCode": "92110",
+"LatLong": "7.4167,99.5167"
+},
+{
+"Name": "Muang Trang",
+"PostCode": "92000",
+"LatLong": "7.5611,99.5417"
+},
+{
+"Name": "Na Yong",
+"PostCode": "92170",
+"LatLong": "7.5667,99.6833"
+},
+{
+"Name": "Palian",
+"PostCode": "92120",
+"LatLong": "7.3333,99.8"
+},
+{
+"Name": "Rachada",
+"PostCode": "92160",
 "LatLong": "7.5267,99.5933"
 },
 {
@@ -5203,19 +5286,14 @@
 "LatLong": "7.5667,99.35"
 },
 {
-"Name": "Rachada",
-"PostCode": "92160",
-"LatLong": "7.5267,99.5933"
-},
-{
-"Name": "Na Yong",
-"PostCode": "92170",
-"LatLong": "7.5667,99.6833"
-},
-{
 "Name": "Wang Wiset",
 "PostCode": "92220",
 "LatLong": "7.7333,99.2833"
+},
+{
+"Name": "Yan Tak Kao",
+"PostCode": "92140",
+"LatLong": "7.5267,99.5933"
 }
 ]
 }
@@ -5232,19 +5310,34 @@
 {
 "Places": [
 {
-"Name": "Muang Phatthalung",
-"PostCode": "93000",
+"Name": "Bang Kaeo",
+"PostCode": "93140",
 "LatLong": "7.4944,100.0583"
 },
 {
-"Name": "Sri Nakharin",
-"PostCode": "93000",
-"LatLong": "7.4944,100.0583"
+"Name": "Khao Chaison",
+"PostCode": "93130",
+"LatLong": "7.4167,100.0833"
 },
 {
 "Name": "Khuan Khanun",
 "PostCode": "93110",
 "LatLong": "7.7333,100.0167"
+},
+{
+"Name": "Kong Ra",
+"PostCode": "93180",
+"LatLong": "7.4667,99.95"
+},
+{
+"Name": "Muang Phatthalung",
+"PostCode": "93000",
+"LatLong": "7.4944,100.0583"
+},
+{
+"Name": "Pa Bon",
+"PostCode": "93170",
+"LatLong": "7.4944,100.0583"
 },
 {
 "Name": "Pa Payam",
@@ -5257,34 +5350,19 @@
 "LatLong": "7.35,100.3167"
 },
 {
-"Name": "Khao Chaison",
-"PostCode": "93130",
-"LatLong": "7.4167,100.0833"
+"Name": "Si Ban Phot",
+"PostCode": "93190",
+"LatLong": "7.7167,99.9333"
 },
 {
-"Name": "Bang Kaeo",
-"PostCode": "93140",
+"Name": "Sri Nakharin",
+"PostCode": "93000",
 "LatLong": "7.4944,100.0583"
 },
 {
 "Name": "Tamot",
 "PostCode": "93160",
 "LatLong": "7.2833,100.05"
-},
-{
-"Name": "Pa Bon",
-"PostCode": "93170",
-"LatLong": "7.4944,100.0583"
-},
-{
-"Name": "Kong Ra",
-"PostCode": "93180",
-"LatLong": "7.4667,99.95"
-},
-{
-"Name": "Si Ban Phot",
-"PostCode": "93190",
-"LatLong": "7.7167,99.9333"
 }
 ]
 }
@@ -5301,49 +5379,14 @@
 {
 "Places": [
 {
-"Name": "Muang Pattani",
-"PostCode": "94000",
-"LatLong": "6.758,101.3775"
-},
-{
-"Name": "Sai Buri",
-"PostCode": "94110",
-"LatLong": "6.7031,101.6203"
-},
-{
 "Name": "Khok Pho",
 "PostCode": "94120",
 "LatLong": "6.7314,101.1053"
 },
 {
-"Name": "Panare",
-"PostCode": "94130",
-"LatLong": "6.86,101.4903"
-},
-{
-"Name": "Thung Yan Daeng",
-"PostCode": "94140",
-"LatLong": "6.7794,101.3362"
-},
-{
-"Name": "Mayo",
-"PostCode": "94140",
-"LatLong": "6.7794,101.3362"
-},
-{
-"Name": "Yaring",
-"PostCode": "94150",
-"LatLong": "6.8617,101.365"
-},
-{
-"Name": "Yarang",
-"PostCode": "94160",
-"LatLong": "6.7728,101.3133"
-},
-{
-"Name": "Nong Chik",
-"PostCode": "94170",
-"LatLong": "6.8453,101.1881"
+"Name": "Kpho",
+"PostCode": "94230",
+"LatLong": "6.6078,101.6667"
 },
 {
 "Name": "Mae Lan",
@@ -5356,9 +5399,44 @@
 "LatLong": "6.6078,101.6667"
 },
 {
-"Name": "Kpho",
-"PostCode": "94230",
-"LatLong": "6.6078,101.6667"
+"Name": "Mayo",
+"PostCode": "94140",
+"LatLong": "6.7794,101.3362"
+},
+{
+"Name": "Muang Pattani",
+"PostCode": "94000",
+"LatLong": "6.758,101.3775"
+},
+{
+"Name": "Nong Chik",
+"PostCode": "94170",
+"LatLong": "6.8453,101.1881"
+},
+{
+"Name": "Panare",
+"PostCode": "94130",
+"LatLong": "6.86,101.4903"
+},
+{
+"Name": "Sai Buri",
+"PostCode": "94110",
+"LatLong": "6.7031,101.6203"
+},
+{
+"Name": "Thung Yan Daeng",
+"PostCode": "94140",
+"LatLong": "6.7794,101.3362"
+},
+{
+"Name": "Yarang",
+"PostCode": "94160",
+"LatLong": "6.7728,101.3133"
+},
+{
+"Name": "Yaring",
+"PostCode": "94150",
+"LatLong": "6.8617,101.365"
 }
 ]
 }
@@ -5375,14 +5453,9 @@
 {
 "Places": [
 {
-"Name": "Muang Yala",
-"PostCode": "95000",
-"LatLong": "6.5428,101.2836"
-},
-{
-"Name": "Kung Pinung",
-"PostCode": "95000",
-"LatLong": "6.5428,101.2836"
+"Name": "Bannang Sata",
+"PostCode": "95130",
+"LatLong": "6.2667,101.2667"
 },
 {
 "Name": "Betong",
@@ -5390,19 +5463,19 @@
 "LatLong": "5.75,101.0833"
 },
 {
-"Name": "Yaha",
-"PostCode": "95120",
-"LatLong": "6.4778,101.135"
-},
-{
 "Name": "Ka Bung",
 "PostCode": "95120",
 "LatLong": "6.4778,101.135"
 },
 {
-"Name": "Bannang Sata",
-"PostCode": "95130",
-"LatLong": "6.2667,101.2667"
+"Name": "Kung Pinung",
+"PostCode": "95000",
+"LatLong": "6.5428,101.2836"
+},
+{
+"Name": "Muang Yala",
+"PostCode": "95000",
+"LatLong": "6.5428,101.2836"
 },
 {
 "Name": "Raman",
@@ -5413,6 +5486,11 @@
 "Name": "Than To",
 "PostCode": "95150",
 "LatLong": "6.2167,101.15"
+},
+{
+"Name": "Yaha",
+"PostCode": "95120",
+"LatLong": "6.4778,101.135"
 }
 ]
 }
@@ -5429,24 +5507,14 @@
 {
 "Places": [
 {
-"Name": "Muang Narathiwat",
-"PostCode": "96000",
-"LatLong": "6.25,102.0333"
+"Name": "Bacho",
+"PostCode": "96170",
+"LatLong": "6.6167,101.65"
 },
 {
-"Name": "Tak Bai",
-"PostCode": "96110",
-"LatLong": "6.2667,102.05"
-},
-{
-"Name": "Sungai Kolok",
-"PostCode": "96120",
-"LatLong": "6.0267,101.9678"
-},
-{
-"Name": "Rangae",
-"PostCode": "96130",
-"LatLong": "6.2908,101.7119"
+"Name": "Chanae",
+"PostCode": "96220",
+"LatLong": "6.1106,101.6897"
 },
 {
 "Name": "Jao I Rong",
@@ -5454,9 +5522,14 @@
 "LatLong": "6.2908,101.7119"
 },
 {
-"Name": "Sungai Padi",
-"PostCode": "96140",
-"LatLong": "6.15,101.9"
+"Name": "Muang Narathiwat",
+"PostCode": "96000",
+"LatLong": "6.25,102.0333"
+},
+{
+"Name": "Rangae",
+"PostCode": "96130",
+"LatLong": "6.2908,101.7119"
 },
 {
 "Name": "Ruso",
@@ -5464,19 +5537,9 @@
 "LatLong": "6.3936,101.5197"
 },
 {
-"Name": "Waeng",
-"PostCode": "96160",
-"LatLong": "5.9333,101.9"
-},
-{
-"Name": "Bacho",
-"PostCode": "96170",
-"LatLong": "6.6167,101.65"
-},
-{
-"Name": "Yi-Ngo",
-"PostCode": "96180",
-"LatLong": "6.2014,101.8103"
+"Name": "Si Sakhon",
+"PostCode": "96210",
+"LatLong": "6.15,101.55"
 },
 {
 "Name": "Sukhirin",
@@ -5484,92 +5547,29 @@
 "LatLong": "5.9333,101.7833"
 },
 {
-"Name": "Si Sakhon",
-"PostCode": "96210",
-"LatLong": "6.15,101.55"
+"Name": "Sungai Kolok",
+"PostCode": "96120",
+"LatLong": "6.0267,101.9678"
 },
 {
-"Name": "Chanae",
-"PostCode": "96220",
-"LatLong": "6.1106,101.6897"
-}
-]
-}
-]
-}
-]
+"Name": "Sungai Padi",
+"PostCode": "96140",
+"LatLong": "6.15,101.9"
 },
 {
-"Name": "Na Tan",
-"Provinces": [
-{
-"Communities": [
-{
-"Places": [
-{
-"Name": "Phibun Mangsahan",
-"PostCode": "34110",
-"LatLong": "15.2333,105.2333"
+"Name": "Tak Bai",
+"PostCode": "96110",
+"LatLong": "6.2667,102.05"
 },
 {
-"Name": "Trakan Puetphon",
-"PostCode": "34130",
-"LatLong": "15.6417,105.225"
+"Name": "Waeng",
+"PostCode": "96160",
+"LatLong": "5.9333,101.9"
 },
 {
-"Name": "Thung Sriudom",
-"PostCode": "34160",
-"LatLong": "15.6417,105.225"
-},
-{
-"Name": "Na Year",
-"PostCode": "34160",
-"LatLong": "15.6417,105.225"
-},
-{
-"Name": "Sawang Werarong",
-"PostCode": "34190",
-"LatLong": "15.6417,105.225"
-},
-{
-"Name": "Warin Chamrabp",
-"PostCode": "34190",
-"LatLong": "15.6417,105.225"
-},
-{
-"Name": "Si Muang Mai",
-"PostCode": "34250",
-"LatLong": "15.4833,105.2833"
-},
-{
-"Name": "Nam Khun",
-"PostCode": "34260",
-"LatLong": "12.9167,102.0333"
-},
-{
-"Name": "Nam Yuen",
-"PostCode": "34260",
-"LatLong": "12.9167,102.0333"
-},
-{
-"Name": "Tan Sum",
-"PostCode": "34330",
-"LatLong": "15.3833,105.1167"
-},
-{
-"Name": "Po Sai",
-"PostCode": "34340",
-"LatLong": "14.5167,102.85"
-},
-{
-"Name": "Sirinhon",
-"PostCode": "34350",
-"LatLong": "14.5167,102.85"
-},
-{
-"Name": "Samrong",
-"PostCode": "34360",
-"LatLong": "13.65,100.5833"
+"Name": "Yi-Ngo",
+"PostCode": "96180",
+"LatLong": "6.2014,101.8103"
 }
 ]
 }

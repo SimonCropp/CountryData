@@ -215,14 +215,14 @@
 {
 "Places": [
 {
-"Name": "Poya",
-"PostCode": "98827",
-"LatLong": "-21.3449,165.164"
-},
-{
 "Name": "Népoui",
 "PostCode": "98877",
 "LatLong": "-21.3283,164.9985"
+},
+{
+"Name": "Poya",
+"PostCode": "98827",
+"LatLong": "-21.3449,165.164"
 }
 ]
 }
@@ -250,14 +250,14 @@
 {
 "Places": [
 {
-"Name": "Voh",
-"PostCode": "98833",
-"LatLong": "-20.9467,164.6854"
-},
-{
 "Name": "Ouåco",
 "PostCode": "98883",
 "LatLong": "-20.8353,164.4694"
+},
+{
+"Name": "Voh",
+"PostCode": "98833",
+"LatLong": "-20.9467,164.6854"
 }
 ]
 }
@@ -421,6 +421,11 @@
 {
 "Places": [
 {
+"Name": "La Coulée",
+"PostCode": "98876",
+"LatLong": "-22.2313,166.5758"
+},
+{
 "Name": "Le Mont-Dore",
 "PostCode": "98809",
 "LatLong": "-22.2799,166.5805"
@@ -431,19 +436,14 @@
 "LatLong": "-22.2626,166.5662"
 },
 {
-"Name": "Pont des Français",
-"PostCode": "98874",
-"LatLong": "-22.2167,166.4833"
-},
-{
 "Name": "Plum",
 "PostCode": "98875",
 "LatLong": "-22.2723,166.6144"
 },
 {
-"Name": "La Coulée",
-"PostCode": "98876",
-"LatLong": "-22.2313,166.5758"
+"Name": "Pont des Français",
+"PostCode": "98874",
+"LatLong": "-22.2167,166.4833"
 }
 ]
 }
@@ -552,11 +552,6 @@
 {
 "Places": [
 {
-"Name": "Wé",
-"PostCode": "98820",
-"LatLong": "-20.9169,167.2646"
-},
-{
 "Name": "Chépénéhé",
 "PostCode": "98884",
 "LatLong": "-20.7833,167.15"
@@ -565,6 +560,11 @@
 "Name": "Mou",
 "PostCode": "98885",
 "LatLong": "-21.0936,167.399"
+},
+{
+"Name": "Wé",
+"PostCode": "98820",
+"LatLong": "-20.9169,167.2646"
 }
 ]
 }
@@ -577,14 +577,14 @@
 {
 "Places": [
 {
-"Name": "Tadine",
-"PostCode": "98828",
-"LatLong": "-21.55,167.8833"
-},
-{
 "Name": "La Roche",
 "PostCode": "98878",
 "LatLong": "-21.478,168.0259"
+},
+{
+"Name": "Tadine",
+"PostCode": "98828",
+"LatLong": "-21.55,167.8833"
 }
 ]
 }

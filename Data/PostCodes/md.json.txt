@@ -7,39 +7,19 @@
 {
 "Places": [
 {
-"Name": "Chisinau",
-"PostCode": "MD-2000",
-"LatLong": "47.0056,28.8575"
+"Name": "Bacioi",
+"PostCode": "MD-6812",
+"LatLong": "46.9122,28.8839"
 },
 {
-"Name": "Durlesti",
-"PostCode": "MD-2003",
-"LatLong": "47.0178,28.7625"
-},
-{
-"Name": "Codru",
-"PostCode": "MD-2011",
-"LatLong": "46.9753,28.8194"
-},
-{
-"Name": "Vadul Lui Voda",
-"PostCode": "MD-2046",
-"LatLong": "47.0917,29.0756"
-},
-{
-"Name": "Vatra",
-"PostCode": "MD-2055",
-"LatLong": "47.0739,28.735"
-},
-{
-"Name": "Bumbrava",
-"PostCode": "MD-2071",
-"LatLong": "47.0443,28.7651"
-},
-{
-"Name": "Humulesti",
+"Name": "Bic",
 "PostCode": "MD-2081",
-"LatLong": "46.9975,28.9764"
+"LatLong": "46.9567,28.9422"
+},
+{
+"Name": "Braila",
+"PostCode": "MD-6812",
+"LatLong": "46.9156,28.8425"
 },
 {
 "Name": "Bubuieci",
@@ -47,9 +27,44 @@
 "LatLong": "46.985,28.9422"
 },
 {
-"Name": "Bic",
-"PostCode": "MD-2081",
-"LatLong": "46.9567,28.9422"
+"Name": "Budesti",
+"PostCode": "MD-4814",
+"LatLong": "47.0653,29.0067"
+},
+{
+"Name": "Bumbrava",
+"PostCode": "MD-2071",
+"LatLong": "47.0443,28.7651"
+},
+{
+"Name": "Buneti",
+"PostCode": "MD-2092",
+"LatLong": "47.0806,28.91"
+},
+{
+"Name": "Ceroborta",
+"PostCode": "MD-2085",
+"LatLong": "47.0936,28.9517"
+},
+{
+"Name": "Cheltuitori",
+"PostCode": "MD-2092",
+"LatLong": "47.0661,28.9211"
+},
+{
+"Name": "Chisinau",
+"PostCode": "MD-2000",
+"LatLong": "47.0056,28.8575"
+},
+{
+"Name": "Ciorescu",
+"PostCode": "MD-2089",
+"LatLong": "47.1294,28.8856"
+},
+{
+"Name": "Codru",
+"PostCode": "MD-2011",
+"LatLong": "46.9753,28.8194"
 },
 {
 "Name": "Colonita",
@@ -67,11 +82,6 @@
 "LatLong": "47.1389,28.8619"
 },
 {
-"Name": "Ceroborta",
-"PostCode": "MD-2085",
-"LatLong": "47.0936,28.9517"
-},
-{
 "Name": "Cruzesti",
 "PostCode": "MD-2085",
 "LatLong": "47.0847,28.9736"
@@ -82,19 +92,9 @@
 "LatLong": "46.8844,28.9892"
 },
 {
-"Name": "Ghidighici",
-"PostCode": "MD-2088",
-"LatLong": "47.0931,28.7686"
-},
-{
-"Name": "Ciorescu",
-"PostCode": "MD-2089",
-"LatLong": "47.1294,28.8856"
-},
-{
-"Name": "Goian",
-"PostCode": "MD-2089",
-"LatLong": "47.1336,28.9072"
+"Name": "Durlesti",
+"PostCode": "MD-2003",
+"LatLong": "47.0178,28.7625"
 },
 {
 "Name": "Fauresti",
@@ -102,29 +102,24 @@
 "LatLong": "47.145,28.8961"
 },
 {
-"Name": "Revaca",
-"PostCode": "MD-2091",
-"LatLong": "46.9086,28.9447"
+"Name": "Frumusica",
+"PostCode": "MD-6812",
+"LatLong": "46.9008,28.8917"
 },
 {
-"Name": "Singera",
-"PostCode": "MD-2091",
-"LatLong": "46.9131,28.9775"
+"Name": "Ghidighici",
+"PostCode": "MD-2088",
+"LatLong": "47.0931,28.7686"
 },
 {
-"Name": "Cheltuitori",
-"PostCode": "MD-2092",
-"LatLong": "47.0661,28.9211"
+"Name": "Goian",
+"PostCode": "MD-2089",
+"LatLong": "47.1336,28.9072"
 },
 {
-"Name": "Buneti",
-"PostCode": "MD-2092",
-"LatLong": "47.0806,28.91"
-},
-{
-"Name": "Tohatin",
-"PostCode": "MD-2092",
-"LatLong": "47.0625,28.9453"
+"Name": "Goianul Nou",
+"PostCode": "MD-4823",
+"LatLong": "47.1175,28.9008"
 },
 {
 "Name": "Gratiesti",
@@ -137,24 +132,19 @@
 "LatLong": "47.1161,28.7972"
 },
 {
-"Name": "Truseni",
-"PostCode": "MD-3733",
-"LatLong": "47.0689,28.6797"
+"Name": "Humulesti",
+"PostCode": "MD-2081",
+"LatLong": "46.9975,28.9764"
 },
 {
-"Name": "Vaduleni",
-"PostCode": "MD-4814",
-"LatLong": "47.0703,29.0836"
+"Name": "Revaca",
+"PostCode": "MD-2091",
+"LatLong": "46.9086,28.9447"
 },
 {
-"Name": "Budesti",
-"PostCode": "MD-4814",
-"LatLong": "47.0653,29.0067"
-},
-{
-"Name": "Goianul Nou",
-"PostCode": "MD-4823",
-"LatLong": "47.1175,28.9008"
+"Name": "Singera",
+"PostCode": "MD-2091",
+"LatLong": "46.9131,28.9775"
 },
 {
 "Name": "Stauceni",
@@ -167,19 +157,29 @@
 "LatLong": "46.9061,28.86"
 },
 {
-"Name": "Bacioi",
-"PostCode": "MD-6812",
-"LatLong": "46.9122,28.8839"
+"Name": "Tohatin",
+"PostCode": "MD-2092",
+"LatLong": "47.0625,28.9453"
 },
 {
-"Name": "Frumusica",
-"PostCode": "MD-6812",
-"LatLong": "46.9008,28.8917"
+"Name": "Truseni",
+"PostCode": "MD-3733",
+"LatLong": "47.0689,28.6797"
 },
 {
-"Name": "Braila",
-"PostCode": "MD-6812",
-"LatLong": "46.9156,28.8425"
+"Name": "Vadul Lui Voda",
+"PostCode": "MD-2046",
+"LatLong": "47.0917,29.0756"
+},
+{
+"Name": "Vaduleni",
+"PostCode": "MD-4814",
+"LatLong": "47.0703,29.0836"
+},
+{
+"Name": "Vatra",
+"PostCode": "MD-2055",
+"LatLong": "47.0739,28.735"
 }
 ]
 }
@@ -195,29 +195,14 @@
 {
 "Places": [
 {
-"Name": "Soroca 4",
-"PostCode": "MD-3004",
-"LatLong": "48.1558,28.2975"
-},
-{
-"Name": "Soroca 5",
-"PostCode": "MD-3005",
-"LatLong": "48.1558,28.2975"
-},
-{
-"Name": "Soroca 6",
-"PostCode": "MD-3006",
-"LatLong": "48.1558,28.2975"
+"Name": "Alexandru Cel Bun",
+"PostCode": "MD-3050",
+"LatLong": "48.0969,28.3406"
 },
 {
 "Name": "Badiceni",
 "PostCode": "MD-3011",
 "LatLong": "48.2033,28.0544"
-},
-{
-"Name": "Baxani",
-"PostCode": "MD-3012",
-"LatLong": "48.1239,28.0947"
 },
 {
 "Name": "Balinti",
@@ -230,9 +215,9 @@
 "LatLong": "48.3206,28.0236"
 },
 {
-"Name": "Bulbocii Noi",
-"PostCode": "MD-3014",
-"LatLong": "48.0603,28.1186"
+"Name": "Baxani",
+"PostCode": "MD-3012",
+"LatLong": "48.1239,28.0947"
 },
 {
 "Name": "Bulboci",
@@ -240,9 +225,9 @@
 "LatLong": "48.0397,28.0839"
 },
 {
-"Name": "Floriceni",
-"PostCode": "MD-3015",
-"LatLong": "48.0208,28.0164"
+"Name": "Bulbocii Noi",
+"PostCode": "MD-3014",
+"LatLong": "48.0603,28.1186"
 },
 {
 "Name": "Cainarii Vechi",
@@ -250,9 +235,19 @@
 "LatLong": "48.0081,28.125"
 },
 {
+"Name": "Cerlina",
+"PostCode": "MD-6641",
+"LatLong": "48.0814,28.6075"
+},
+{
 "Name": "Cosauti",
 "PostCode": "MD-3016",
 "LatLong": "48.2289,28.2911"
+},
+{
+"Name": "Cremenciug",
+"PostCode": "MD-3052",
+"LatLong": "48.2769,28.0853"
 },
 {
 "Name": "Curesnita",
@@ -260,19 +255,24 @@
 "LatLong": "48.2278,28.1764"
 },
 {
-"Name": "Darcautii Noi",
-"PostCode": "MD-3018",
-"LatLong": "48.2097,28.0019"
-},
-{
-"Name": "Malcauti",
-"PostCode": "MD-3018",
-"LatLong": "48.2139,27.9408"
+"Name": "Curesnita Noua",
+"PostCode": "MD-3043",
+"LatLong": "48.1814,28.1225"
 },
 {
 "Name": "Darcauti",
 "PostCode": "MD-3018",
 "LatLong": "48.2278,27.9808"
+},
+{
+"Name": "Darcautii Noi",
+"PostCode": "MD-3018",
+"LatLong": "48.2097,28.0019"
+},
+{
+"Name": "Decebal",
+"PostCode": "MD-5138",
+"LatLong": "48.2969,27.9761"
 },
 {
 "Name": "Dubna",
@@ -288,6 +288,11 @@
 "Name": "Egoreni",
 "PostCode": "MD-3021",
 "LatLong": "48.2016,28.3595"
+},
+{
+"Name": "Floriceni",
+"PostCode": "MD-3015",
+"LatLong": "48.0208,28.0164"
 },
 {
 "Name": "Grigorauca",
@@ -310,9 +315,39 @@
 "LatLong": "48.3197,28.0494"
 },
 {
+"Name": "Inundeni",
+"PostCode": "MD-3035",
+"LatLong": "48.1247,28.3583"
+},
+{
 "Name": "Iorjnita",
 "PostCode": "MD-3026",
 "LatLong": "48.1933,28.2178"
+},
+{
+"Name": "Livezi",
+"PostCode": "MD-3039",
+"LatLong": "48.2358,28.0494"
+},
+{
+"Name": "Lugovoe",
+"PostCode": "MD-3033",
+"LatLong": "48.0703,28.1783"
+},
+{
+"Name": "Malcauti",
+"PostCode": "MD-3018",
+"LatLong": "48.2139,27.9408"
+},
+{
+"Name": "Nimereuca",
+"PostCode": "MD-6647",
+"LatLong": "48.1139,28.5356"
+},
+{
+"Name": "Niorcani",
+"PostCode": "MD-5128",
+"LatLong": "48.3072,27.9083"
 },
 {
 "Name": "Oclanda",
@@ -335,16 +370,6 @@
 "LatLong": "48.0758,28.21"
 },
 {
-"Name": "Vantina",
-"PostCode": "MD-3030",
-"LatLong": "48.0967,28.1914"
-},
-{
-"Name": "Vantina Mica",
-"PostCode": "MD-3030",
-"LatLong": "48.0862,28.2007"
-},
-{
 "Name": "Racovat",
 "PostCode": "MD-3031",
 "LatLong": "48.0825,28.4061"
@@ -353,11 +378,6 @@
 "Name": "Redi-Ceresnovat",
 "PostCode": "MD-3032",
 "LatLong": "48.0633,28.3175"
-},
-{
-"Name": "Lugovoe",
-"PostCode": "MD-3033",
-"LatLong": "48.0703,28.1783"
 },
 {
 "Name": "Regina Maria",
@@ -375,9 +395,9 @@
 "LatLong": "48.1536,28.1347"
 },
 {
-"Name": "Inundeni",
-"PostCode": "MD-3035",
-"LatLong": "48.1247,28.3583"
+"Name": "Rudi",
+"PostCode": "MD-5133",
+"LatLong": "48.3344,27.8953"
 },
 {
 "Name": "Ruslanovca",
@@ -395,9 +415,19 @@
 "LatLong": "48.0717,28.105"
 },
 {
+"Name": "Septelici",
+"PostCode": "MD-3042",
+"LatLong": "48.1997,28.1581"
+},
+{
 "Name": "Slobozia-Cremene",
 "PostCode": "MD-3037",
 "LatLong": "48.0406,28.4231"
+},
+{
+"Name": "Slobozia-Noua",
+"PostCode": "MD-5135",
+"LatLong": "48.2589,27.98"
 },
 {
 "Name": "Slobozia-Varancau",
@@ -405,34 +435,9 @@
 "LatLong": "48.0664,28.4658"
 },
 {
-"Name": "Livezi",
-"PostCode": "MD-3039",
-"LatLong": "48.2358,28.0494"
-},
-{
-"Name": "Valea",
-"PostCode": "MD-3039",
-"LatLong": "48.2433,28.0653"
-},
-{
 "Name": "Sobari",
 "PostCode": "MD-3039",
 "LatLong": "48.2319,28.0669"
-},
-{
-"Name": "Solonet",
-"PostCode": "MD-3040",
-"LatLong": "47.9958,28.4028"
-},
-{
-"Name": "Stoicani",
-"PostCode": "MD-3041",
-"LatLong": "48.0267,28.3639"
-},
-{
-"Name": "Septelici",
-"PostCode": "MD-3042",
-"LatLong": "48.1997,28.1581"
 },
 {
 "Name": "Solcani",
@@ -440,79 +445,29 @@
 "LatLong": "48.1733,28.1106"
 },
 {
-"Name": "Curesnita Noua",
-"PostCode": "MD-3043",
-"LatLong": "48.1814,28.1225"
+"Name": "Solonet",
+"PostCode": "MD-3040",
+"LatLong": "47.9958,28.4028"
 },
 {
-"Name": "Trifauti",
-"PostCode": "MD-3044",
-"LatLong": "48.1617,28.3842"
+"Name": "Soroca 4",
+"PostCode": "MD-3004",
+"LatLong": "48.1558,28.2975"
 },
 {
-"Name": "Tepilova",
-"PostCode": "MD-3045",
-"LatLong": "48.1253,28.2328"
+"Name": "Soroca 5",
+"PostCode": "MD-3005",
+"LatLong": "48.1558,28.2975"
 },
 {
-"Name": "Vasilcau",
-"PostCode": "MD-3046",
-"LatLong": "48.1383,28.4214"
+"Name": "Soroca 6",
+"PostCode": "MD-3006",
+"LatLong": "48.1558,28.2975"
 },
 {
-"Name": "Vadeni",
-"PostCode": "MD-3047",
-"LatLong": "48.0108,28.2272"
-},
-{
-"Name": "Varancau",
-"PostCode": "MD-3048",
-"LatLong": "48.0653,28.515"
-},
-{
-"Name": "Voloave",
-"PostCode": "MD-3049",
-"LatLong": "48.0936,28.2925"
-},
-{
-"Name": "Alexandru Cel Bun",
-"PostCode": "MD-3050",
-"LatLong": "48.0969,28.3406"
-},
-{
-"Name": "Volovita",
-"PostCode": "MD-3050",
-"LatLong": "48.1031,28.3228"
-},
-{
-"Name": "Zastinca",
-"PostCode": "MD-3051",
-"LatLong": "48.1272,28.3061"
-},
-{
-"Name": "Cremenciug",
-"PostCode": "MD-3052",
-"LatLong": "48.2769,28.0853"
-},
-{
-"Name": "Tolocanesti",
-"PostCode": "MD-5128",
-"LatLong": "48.3072,27.9083"
-},
-{
-"Name": "Niorcani",
-"PostCode": "MD-5128",
-"LatLong": "48.3072,27.9083"
-},
-{
-"Name": "Rudi",
-"PostCode": "MD-5133",
-"LatLong": "48.3344,27.8953"
-},
-{
-"Name": "Slobozia-Noua",
-"PostCode": "MD-5135",
-"LatLong": "48.2589,27.98"
+"Name": "Stoicani",
+"PostCode": "MD-3041",
+"LatLong": "48.0267,28.3639"
 },
 {
 "Name": "Tatarauca Noua",
@@ -525,9 +480,49 @@
 "LatLong": "48.2969,27.9761"
 },
 {
-"Name": "Decebal",
-"PostCode": "MD-5138",
-"LatLong": "48.2969,27.9761"
+"Name": "Tepilova",
+"PostCode": "MD-3045",
+"LatLong": "48.1253,28.2328"
+},
+{
+"Name": "Tolocanesti",
+"PostCode": "MD-5128",
+"LatLong": "48.3072,27.9083"
+},
+{
+"Name": "Trifauti",
+"PostCode": "MD-3044",
+"LatLong": "48.1617,28.3842"
+},
+{
+"Name": "Vadeni",
+"PostCode": "MD-3047",
+"LatLong": "48.0108,28.2272"
+},
+{
+"Name": "Valea",
+"PostCode": "MD-3039",
+"LatLong": "48.2433,28.0653"
+},
+{
+"Name": "Vantina",
+"PostCode": "MD-3030",
+"LatLong": "48.0967,28.1914"
+},
+{
+"Name": "Vantina Mica",
+"PostCode": "MD-3030",
+"LatLong": "48.0862,28.2007"
+},
+{
+"Name": "Varancau",
+"PostCode": "MD-3048",
+"LatLong": "48.0653,28.515"
+},
+{
+"Name": "Vasilcau",
+"PostCode": "MD-3046",
+"LatLong": "48.1383,28.4214"
 },
 {
 "Name": "Visoca",
@@ -535,14 +530,19 @@
 "LatLong": "48.2469,27.9225"
 },
 {
-"Name": "Cerlina",
-"PostCode": "MD-6641",
-"LatLong": "48.0814,28.6075"
+"Name": "Voloave",
+"PostCode": "MD-3049",
+"LatLong": "48.0936,28.2925"
 },
 {
-"Name": "Nimereuca",
-"PostCode": "MD-6647",
-"LatLong": "48.1139,28.5356"
+"Name": "Volovita",
+"PostCode": "MD-3050",
+"LatLong": "48.1031,28.3228"
+},
+{
+"Name": "Zastinca",
+"PostCode": "MD-3051",
+"LatLong": "48.1272,28.3061"
 }
 ]
 }
@@ -604,16 +604,6 @@
 "LatLong": "46.8306,29.4711"
 },
 {
-"Name": "Varnita",
-"PostCode": "MD-3251",
-"LatLong": "46.8614,29.4692"
-},
-{
-"Name": "Proteagailovca",
-"PostCode": "MD-3252",
-"LatLong": "46.8231,29.4419"
-},
-{
 "Name": "Gisca 1",
 "PostCode": "MD-4316",
 "LatLong": "46.9982,28.8095"
@@ -622,6 +612,16 @@
 "Name": "Gisca 2",
 "PostCode": "MD-4317",
 "LatLong": "46.9982,28.8095"
+},
+{
+"Name": "Proteagailovca",
+"PostCode": "MD-3252",
+"LatLong": "46.8231,29.4419"
+},
+{
+"Name": "Varnita",
+"PostCode": "MD-3251",
+"LatLong": "46.8614,29.4692"
 }
 ]
 }
@@ -637,16 +637,6 @@
 {
 "Places": [
 {
-"Name": "Tiraspol",
-"PostCode": "MD-3300",
-"LatLong": "46.8403,29.6433"
-},
-{
-"Name": "Tiraspolul Nou",
-"PostCode": "MD-3311",
-"LatLong": "46.8319,29.5767"
-},
-{
 "Name": "Cremenciug",
 "PostCode": "MD-3351",
 "LatLong": "46.7086,29.6739"
@@ -655,6 +645,16 @@
 "Name": "Dnestrovsc",
 "PostCode": "MD-3352",
 "LatLong": "46.6222,29.9133"
+},
+{
+"Name": "Tiraspol",
+"PostCode": "MD-3300",
+"LatLong": "46.8403,29.6433"
+},
+{
+"Name": "Tiraspolul Nou",
+"PostCode": "MD-3311",
+"LatLong": "46.8319,29.5767"
 }
 ]
 }
@@ -669,16 +669,6 @@
 "Communities": [
 {
 "Places": [
-{
-"Name": "Hincesti",
-"PostCode": "MD-3401",
-"LatLong": "46.8258,28.5936"
-},
-{
-"Name": "Rusca",
-"PostCode": "MD-3411",
-"LatLong": "46.8761,28.4764"
-},
 {
 "Name": "Anini",
 "PostCode": "MD-3411",
@@ -695,11 +685,6 @@
 "LatLong": "46.985,28.4622"
 },
 {
-"Name": "Dahnovici",
-"PostCode": "MD-3413",
-"LatLong": "46.9764,28.4822"
-},
-{
 "Name": "Boghiceni",
 "PostCode": "MD-3414",
 "LatLong": "46.9489,28.3253"
@@ -708,6 +693,11 @@
 "Name": "Bozieni",
 "PostCode": "MD-3415",
 "LatLong": "46.7494,28.6472"
+},
+{
+"Name": "Bratianovca",
+"PostCode": "MD-3446",
+"LatLong": "46.7406,28.4647"
 },
 {
 "Name": "Bujor",
@@ -730,9 +720,9 @@
 "LatLong": "46.6986,28.5419"
 },
 {
-"Name": "Topor",
-"PostCode": "MD-3420",
-"LatLong": "46.7597,28.3531"
+"Name": "Carpineanca",
+"PostCode": "MD-3446",
+"LatLong": "46.6961,28.4725"
 },
 {
 "Name": "Carpineni",
@@ -740,9 +730,44 @@
 "LatLong": "46.7597,28.3531"
 },
 {
+"Name": "Cateleni",
+"PostCode": "MD-6420",
+"LatLong": "46.9178,28.1894"
+},
+{
+"Name": "Chetroseni",
+"PostCode": "MD-3437",
+"LatLong": "46.9631,28.2728"
+},
+{
 "Name": "Cioara",
 "PostCode": "MD-3421",
 "LatLong": "46.7325,28.2247"
+},
+{
+"Name": "Ciuciuleni",
+"PostCode": "MD-6422",
+"LatLong": "47.0217,28.4133"
+},
+{
+"Name": "Cococeni",
+"PostCode": "MD-3452",
+"LatLong": "46.6735,28.3031"
+},
+{
+"Name": "Cornesti",
+"PostCode": "MD-3448",
+"LatLong": "46.9981,28.3294"
+},
+{
+"Name": "Coroliovca",
+"PostCode": "MD-3446",
+"LatLong": "46.7108,28.4725"
+},
+{
+"Name": "Costesti",
+"PostCode": "MD-3430",
+"LatLong": "46.8733,28.2067"
 },
 {
 "Name": "Cotul Morii",
@@ -755,9 +780,9 @@
 "LatLong": "46.8294,28.2822"
 },
 {
-"Name": "Talaiesti",
-"PostCode": "MD-3423",
-"LatLong": "46.8003,28.2664"
+"Name": "Dahnovici",
+"PostCode": "MD-3413",
+"LatLong": "46.9764,28.4822"
 },
 {
 "Name": "Dancu",
@@ -770,9 +795,19 @@
 "LatLong": "46.9839,28.4503"
 },
 {
+"Name": "Dragusenii Noi",
+"PostCode": "MD-6426",
+"LatLong": "47.0444,28.4242"
+},
+{
 "Name": "Dubovca",
 "PostCode": "MD-3426",
 "LatLong": "46.7486,28.6083"
+},
+{
+"Name": "Feteasca",
+"PostCode": "MD-3432",
+"LatLong": "46.7878,28.1922"
 },
 {
 "Name": "Firladeni",
@@ -780,9 +815,19 @@
 "LatLong": "46.7875,28.6875"
 },
 {
+"Name": "Frasin",
+"PostCode": "MD-3430",
+"LatLong": "46.89,28.195"
+},
+{
 "Name": "Fundul Galbenei",
 "PostCode": "MD-3428",
 "LatLong": "46.8825,28.6231"
+},
+{
+"Name": "Hincesti",
+"PostCode": "MD-3401",
+"LatLong": "46.8258,28.5936"
 },
 {
 "Name": "Horjesti",
@@ -790,14 +835,9 @@
 "LatLong": "46.7128,28.3494"
 },
 {
-"Name": "Costesti",
-"PostCode": "MD-3430",
-"LatLong": "46.8733,28.2067"
-},
-{
-"Name": "Frasin",
-"PostCode": "MD-3430",
-"LatLong": "46.89,28.195"
+"Name": "Horodca",
+"PostCode": "MD-6426",
+"LatLong": "47.0561,28.4617"
 },
 {
 "Name": "Ivanovca",
@@ -810,11 +850,6 @@
 "LatLong": "46.8842,28.4119"
 },
 {
-"Name": "Feteasca",
-"PostCode": "MD-3432",
-"LatLong": "46.7878,28.1922"
-},
-{
 "Name": "Leuseni",
 "PostCode": "MD-3432",
 "LatLong": "46.8092,28.1994"
@@ -825,6 +860,11 @@
 "LatLong": "46.9039,28.5453"
 },
 {
+"Name": "Marchet",
+"PostCode": "MD-3445",
+"LatLong": "46.7081,28.2342"
+},
+{
 "Name": "Mereseni",
 "PostCode": "MD-3435",
 "LatLong": "46.7967,28.5417"
@@ -833,11 +873,6 @@
 "Name": "Mingir",
 "PostCode": "MD-3436",
 "LatLong": "46.6667,28.3272"
-},
-{
-"Name": "Chetroseni",
-"PostCode": "MD-3437",
-"LatLong": "46.9631,28.2728"
 },
 {
 "Name": "Miresti",
@@ -855,11 +890,6 @@
 "LatLong": "46.9086,28.1181"
 },
 {
-"Name": "Sarateni",
-"PostCode": "MD-3440",
-"LatLong": "46.8567,28.1686"
-},
-{
 "Name": "Obileni",
 "PostCode": "MD-3440",
 "LatLong": "46.8786,28.1606"
@@ -868,11 +898,6 @@
 "Name": "Onesti",
 "PostCode": "MD-3441",
 "LatLong": "46.8603,28.2525"
-},
-{
-"Name": "Strimbeni",
-"PostCode": "MD-3441",
-"LatLong": "46.8672,28.265"
 },
 {
 "Name": "Pascani",
@@ -890,19 +915,14 @@
 "LatLong": "46.8839,28.3231"
 },
 {
-"Name": "Marchet",
-"PostCode": "MD-3445",
-"LatLong": "46.7081,28.2342"
-},
-{
 "Name": "Poganesti",
 "PostCode": "MD-3445",
 "LatLong": "46.6928,28.2331"
 },
 {
-"Name": "Valea Florii",
-"PostCode": "MD-3446",
-"LatLong": "46.7128,28.4386"
+"Name": "Rusca",
+"PostCode": "MD-3411",
+"LatLong": "46.8761,28.4764"
 },
 {
 "Name": "Sarata Galbena",
@@ -910,29 +930,19 @@
 "LatLong": "46.7275,28.515"
 },
 {
-"Name": "Bratianovca",
-"PostCode": "MD-3446",
-"LatLong": "46.7406,28.4647"
-},
-{
-"Name": "Coroliovca",
-"PostCode": "MD-3446",
-"LatLong": "46.7108,28.4725"
-},
-{
-"Name": "Carpineanca",
-"PostCode": "MD-3446",
-"LatLong": "46.6961,28.4725"
-},
-{
 "Name": "Sarata-Mereseni",
 "PostCode": "MD-3447",
 "LatLong": "46.8,28.5036"
 },
 {
-"Name": "Cornesti",
+"Name": "Sarateni",
+"PostCode": "MD-3440",
+"LatLong": "46.8567,28.1686"
+},
+{
+"Name": "Secareni",
 "PostCode": "MD-3448",
-"LatLong": "46.9981,28.3294"
+"LatLong": "47.0253,28.3325"
 },
 {
 "Name": "Secarenii Noi",
@@ -940,9 +950,14 @@
 "LatLong": "47.0117,28.331"
 },
 {
-"Name": "Secareni",
-"PostCode": "MD-3448",
-"LatLong": "47.0253,28.3325"
+"Name": "Semionovca",
+"PostCode": "MD-3452",
+"LatLong": "46.6975,28.3044"
+},
+{
+"Name": "Sipoteni",
+"PostCode": "MD-3451",
+"LatLong": "46.9425,28.4564"
 },
 {
 "Name": "Sofia",
@@ -955,44 +970,29 @@
 "LatLong": "46.9603,28.5"
 },
 {
-"Name": "Sipoteni",
-"PostCode": "MD-3451",
-"LatLong": "46.9425,28.4564"
+"Name": "Strimbeni",
+"PostCode": "MD-3441",
+"LatLong": "46.8672,28.265"
 },
 {
-"Name": "Cococeni",
-"PostCode": "MD-3452",
-"LatLong": "46.6735,28.3031"
+"Name": "Talaiesti",
+"PostCode": "MD-3423",
+"LatLong": "46.8003,28.2664"
 },
 {
-"Name": "Semionovca",
-"PostCode": "MD-3452",
-"LatLong": "46.6975,28.3044"
+"Name": "Topor",
+"PostCode": "MD-3420",
+"LatLong": "46.7597,28.3531"
+},
+{
+"Name": "Valea Florii",
+"PostCode": "MD-3446",
+"LatLong": "46.7128,28.4386"
 },
 {
 "Name": "Voinescu",
 "PostCode": "MD-3452",
 "LatLong": "46.6494,28.3017"
-},
-{
-"Name": "Cateleni",
-"PostCode": "MD-6420",
-"LatLong": "46.9178,28.1894"
-},
-{
-"Name": "Ciuciuleni",
-"PostCode": "MD-6422",
-"LatLong": "47.0217,28.4133"
-},
-{
-"Name": "Horodca",
-"PostCode": "MD-6426",
-"LatLong": "47.0561,28.4617"
-},
-{
-"Name": "Dragusenii Noi",
-"PostCode": "MD-6426",
-"LatLong": "47.0444,28.4242"
 }
 ]
 }
@@ -1008,44 +1008,14 @@
 {
 "Places": [
 {
-"Name": "Orhei 2",
-"PostCode": "MD-3502",
-"LatLong": "47.3831,28.8231"
-},
-{
-"Name": "Orhei 3",
-"PostCode": "MD-3503",
-"LatLong": "47.3867,28.785"
-},
-{
-"Name": "Mitoc",
-"PostCode": "MD-3503",
-"LatLong": "47.3867,28.785"
-},
-{
-"Name": "Orhei 4",
-"PostCode": "MD-3504",
-"LatLong": "47.3831,28.8231"
-},
-{
-"Name": "Orhei 5",
-"PostCode": "MD-3505",
-"LatLong": "47.3831,28.8231"
+"Name": "Andreevca",
+"PostCode": "MD-3556",
+"LatLong": "47.5389,28.8775"
 },
 {
 "Name": "Berezlogi",
 "PostCode": "MD-3511",
 "LatLong": "47.4364,28.9339"
-},
-{
-"Name": "Cihoreni",
-"PostCode": "MD-3512",
-"LatLong": "47.5061,28.8622"
-},
-{
-"Name": "Slobozia-Hodorogea",
-"PostCode": "MD-3512",
-"LatLong": "47.5083,28.8886"
 },
 {
 "Name": "Biesti",
@@ -1058,14 +1028,14 @@
 "LatLong": "47.4319,28.8731"
 },
 {
-"Name": "Braviceni",
-"PostCode": "MD-3514",
-"LatLong": "47.4336,28.6578"
-},
-{
 "Name": "Branesti",
 "PostCode": "MD-3515",
 "LatLong": "47.3053,28.9267"
+},
+{
+"Name": "Braviceni",
+"PostCode": "MD-3514",
+"LatLong": "47.4336,28.6578"
 },
 {
 "Name": "Breanova",
@@ -1073,9 +1043,24 @@
 "LatLong": "47.4158,28.6497"
 },
 {
+"Name": "Budai",
+"PostCode": "MD-3547",
+"LatLong": "47.4344,28.8211"
+},
+{
 "Name": "Bulaiesti",
 "PostCode": "MD-3517",
 "LatLong": "47.4769,28.9786"
+},
+{
+"Name": "Butuceni",
+"PostCode": "MD-3552",
+"LatLong": "47.3014,28.9725"
+},
+{
+"Name": "Camencea",
+"PostCode": "MD-3526",
+"LatLong": "47.2808,28.6875"
 },
 {
 "Name": "Chiperceni",
@@ -1083,19 +1068,14 @@
 "LatLong": "47.525,28.8386"
 },
 {
+"Name": "Cihoreni",
+"PostCode": "MD-3512",
+"LatLong": "47.5061,28.8622"
+},
+{
 "Name": "Ciocilteni",
 "PostCode": "MD-3519",
 "LatLong": "47.4939,28.6089"
-},
-{
-"Name": "Fedoreuca",
-"PostCode": "MD-3519",
-"LatLong": "47.4881,28.6403"
-},
-{
-"Name": "Clisova Noua",
-"PostCode": "MD-3519",
-"LatLong": "47.491,28.6246"
 },
 {
 "Name": "Cismea",
@@ -1108,9 +1088,14 @@
 "LatLong": "47.4731,28.5736"
 },
 {
-"Name": "Ocnita-Razesi",
-"PostCode": "MD-3522",
-"LatLong": "47.4694,28.7203"
+"Name": "Clisova Noua",
+"PostCode": "MD-3519",
+"LatLong": "47.491,28.6246"
+},
+{
+"Name": "Crihana",
+"PostCode": "MD-3523",
+"LatLong": "47.5228,28.7211"
 },
 {
 "Name": "Cucuruzeni",
@@ -1123,16 +1108,6 @@
 "LatLong": "47.5456,28.6989"
 },
 {
-"Name": "Crihana",
-"PostCode": "MD-3523",
-"LatLong": "47.5228,28.7211"
-},
-{
-"Name": "Mana",
-"PostCode": "MD-3524",
-"LatLong": "47.3389,28.6844"
-},
-{
 "Name": "Curchi",
 "PostCode": "MD-3524",
 "LatLong": "47.3358,28.6539"
@@ -1143,14 +1118,14 @@
 "LatLong": "47.3756,28.5975"
 },
 {
-"Name": "Camencea",
-"PostCode": "MD-3526",
-"LatLong": "47.2808,28.6875"
-},
-{
 "Name": "Donici",
 "PostCode": "MD-3526",
 "LatLong": "47.2844,28.67"
+},
+{
+"Name": "Fedoreuca",
+"PostCode": "MD-3519",
+"LatLong": "47.4881,28.6403"
 },
 {
 "Name": "Furceni",
@@ -1163,11 +1138,6 @@
 "LatLong": "47.3719,28.5322"
 },
 {
-"Name": "Noroceni",
-"PostCode": "MD-3528",
-"LatLong": "47.3769,28.5181"
-},
-{
 "Name": "Hijdieni",
 "PostCode": "MD-3529",
 "LatLong": "47.4594,28.9147"
@@ -1176,6 +1146,11 @@
 "Name": "Hulboaca",
 "PostCode": "MD-3530",
 "LatLong": "47.3786,28.555"
+},
+{
+"Name": "Inculet",
+"PostCode": "MD-3557",
+"LatLong": "47.4489,28.7219"
 },
 {
 "Name": "Isacova",
@@ -1191,6 +1166,11 @@
 "Name": "Izvoare",
 "PostCode": "MD-3533",
 "LatLong": "47.5517,28.9572"
+},
+{
+"Name": "Jeloboc",
+"PostCode": "MD-3542",
+"LatLong": "47.3569,28.9047"
 },
 {
 "Name": "Jora De Jos",
@@ -1213,14 +1193,19 @@
 "LatLong": "47.495,29.0522"
 },
 {
-"Name": "Tirzieni",
-"PostCode": "MD-3536",
-"LatLong": "47.445,28.6236"
+"Name": "Lucaseuca",
+"PostCode": "MD-3545",
+"LatLong": "47.335,28.7558"
 },
 {
 "Name": "Malaiesti",
 "PostCode": "MD-3536",
 "LatLong": "47.4631,28.6636"
+},
+{
+"Name": "Mana",
+"PostCode": "MD-3524",
+"LatLong": "47.3389,28.6844"
 },
 {
 "Name": "Mirzaci",
@@ -1233,6 +1218,16 @@
 "LatLong": "47.4986,28.995"
 },
 {
+"Name": "Mitoc",
+"PostCode": "MD-3503",
+"LatLong": "47.3867,28.785"
+},
+{
+"Name": "Morovaia",
+"PostCode": "MD-3552",
+"LatLong": "47.2992,28.9953"
+},
+{
 "Name": "Morozeni",
 "PostCode": "MD-3538",
 "LatLong": "47.3781,28.6342"
@@ -1241,6 +1236,41 @@
 "Name": "Neculaieuca",
 "PostCode": "MD-3539",
 "LatLong": "47.3603,28.6922"
+},
+{
+"Name": "Noroceni",
+"PostCode": "MD-3528",
+"LatLong": "47.3769,28.5181"
+},
+{
+"Name": "Ocnita-Razesi",
+"PostCode": "MD-3522",
+"LatLong": "47.4694,28.7203"
+},
+{
+"Name": "Ocnita-Tarani",
+"PostCode": "MD-3557",
+"LatLong": "47.4572,28.7228"
+},
+{
+"Name": "Orhei 2",
+"PostCode": "MD-3502",
+"LatLong": "47.3831,28.8231"
+},
+{
+"Name": "Orhei 3",
+"PostCode": "MD-3503",
+"LatLong": "47.3867,28.785"
+},
+{
+"Name": "Orhei 4",
+"PostCode": "MD-3504",
+"LatLong": "47.3831,28.8231"
+},
+{
+"Name": "Orhei 5",
+"PostCode": "MD-3505",
+"LatLong": "47.3831,28.8231"
 },
 {
 "Name": "Pelivan",
@@ -1253,19 +1283,14 @@
 "LatLong": "47.2522,28.7689"
 },
 {
-"Name": "Jeloboc",
-"PostCode": "MD-3542",
-"LatLong": "47.3569,28.9047"
-},
-{
-"Name": "Pohorniceni",
-"PostCode": "MD-3542",
-"LatLong": "47.3736,28.8844"
-},
-{
 "Name": "Piatra",
 "PostCode": "MD-3542",
 "LatLong": "47.3667,28.8942"
+},
+{
+"Name": "Pocsesti",
+"PostCode": "MD-3550",
+"LatLong": "47.2492,28.6833"
 },
 {
 "Name": "Podgoreni",
@@ -1273,9 +1298,9 @@
 "LatLong": "47.5594,28.7825"
 },
 {
-"Name": "Sercani",
-"PostCode": "MD-3544",
-"LatLong": "47.5119,28.9322"
+"Name": "Pohorniceni",
+"PostCode": "MD-3542",
+"LatLong": "47.3736,28.8844"
 },
 {
 "Name": "Pohrebeni",
@@ -1283,14 +1308,24 @@
 "LatLong": "47.5564,28.9092"
 },
 {
+"Name": "Putintei",
+"PostCode": "MD-3554",
+"LatLong": "47.3739,28.5761"
+},
+{
+"Name": "Samananca",
+"PostCode": "MD-3550",
+"LatLong": "47.265,28.7308"
+},
+{
 "Name": "Seliste",
 "PostCode": "MD-3545",
 "LatLong": "47.3333,28.7844"
 },
 {
-"Name": "Lucaseuca",
-"PostCode": "MD-3545",
-"LatLong": "47.335,28.7558"
+"Name": "Sercani",
+"PostCode": "MD-3544",
+"LatLong": "47.5119,28.9322"
 },
 {
 "Name": "Sirota",
@@ -1298,9 +1333,9 @@
 "LatLong": "47.5278,28.7769"
 },
 {
-"Name": "Budai",
-"PostCode": "MD-3547",
-"LatLong": "47.4344,28.8211"
+"Name": "Slobozia-Hodorogea",
+"PostCode": "MD-3512",
+"LatLong": "47.5083,28.8886"
 },
 {
 "Name": "Step-Soci",
@@ -1318,24 +1353,14 @@
 "LatLong": "47.33,28.5647"
 },
 {
-"Name": "Pocsesti",
-"PostCode": "MD-3550",
-"LatLong": "47.2492,28.6833"
-},
-{
 "Name": "Teleseu",
 "PostCode": "MD-3550",
 "LatLong": "47.2661,28.7081"
 },
 {
-"Name": "Samananca",
-"PostCode": "MD-3550",
-"LatLong": "47.265,28.7308"
-},
-{
-"Name": "Butuceni",
-"PostCode": "MD-3552",
-"LatLong": "47.3014,28.9725"
+"Name": "Tirzieni",
+"PostCode": "MD-3536",
+"LatLong": "47.445,28.6236"
 },
 {
 "Name": "Trebujeni",
@@ -1343,19 +1368,9 @@
 "LatLong": "47.3139,28.9736"
 },
 {
-"Name": "Morovaia",
-"PostCode": "MD-3552",
-"LatLong": "47.2992,28.9953"
-},
-{
 "Name": "Vatici",
 "PostCode": "MD-3553",
 "LatLong": "47.3408,28.6219"
-},
-{
-"Name": "Putintei",
-"PostCode": "MD-3554",
-"LatLong": "47.3739,28.5761"
 },
 {
 "Name": "Viprova",
@@ -1368,34 +1383,19 @@
 "LatLong": "47.4325,29.0756"
 },
 {
-"Name": "Andreevca",
-"PostCode": "MD-3556",
-"LatLong": "47.5389,28.8775"
-},
-{
 "Name": "Vorotet",
 "PostCode": "MD-3556",
 "LatLong": "47.5592,28.8547"
 },
 {
-"Name": "Zorile",
-"PostCode": "MD-3557",
-"LatLong": "47.4567,28.7381"
-},
-{
-"Name": "Ocnita-Tarani",
-"PostCode": "MD-3557",
-"LatLong": "47.4572,28.7228"
-},
-{
-"Name": "Inculet",
-"PostCode": "MD-3557",
-"LatLong": "47.4489,28.7219"
-},
-{
 "Name": "Zahoreni",
 "PostCode": "MD-5439",
 "LatLong": "47.5758,28.7275"
+},
+{
+"Name": "Zorile",
+"PostCode": "MD-3557",
+"LatLong": "47.4567,28.7381"
 }
 ]
 }
@@ -1411,69 +1411,9 @@
 {
 "Places": [
 {
-"Name": "Ungheni-Gara",
-"PostCode": "MD-3601",
-"LatLong": "47.2042,27.7958"
-},
-{
-"Name": "Ungheni 2",
-"PostCode": "MD-3602",
-"LatLong": "47.2042,27.7958"
-},
-{
-"Name": "Ungheni 3",
-"PostCode": "MD-3603",
-"LatLong": "47.2042,27.7958"
-},
-{
-"Name": "Ungheni 4",
-"PostCode": "MD-3604",
-"LatLong": "47.2042,27.7958"
-},
-{
-"Name": "Elizavetovca",
-"PostCode": "MD-3606",
-"LatLong": "47.2436,27.8228"
-},
-{
-"Name": "Ungheni 6",
-"PostCode": "MD-3606",
-"LatLong": "47.2563,27.8343"
-},
-{
-"Name": "Novaia Nicolaevca",
-"PostCode": "MD-3606",
-"LatLong": "47.2689,27.8458"
-},
-{
-"Name": "Romanovca",
-"PostCode": "MD-3608",
-"LatLong": "47.3753,27.9739"
-},
-{
-"Name": "Poiana",
-"PostCode": "MD-3608",
-"LatLong": "47.3917,28"
-},
-{
-"Name": "Cornesti Oras",
-"PostCode": "MD-3608",
-"LatLong": "47.3835,27.9869"
-},
-{
 "Name": "Agronomova",
 "PostCode": "MD-3611",
 "LatLong": "47.3486,27.8964"
-},
-{
-"Name": "Saghieni",
-"PostCode": "MD-3612",
-"LatLong": "47.2461,27.9719"
-},
-{
-"Name": "Lidovca",
-"PostCode": "MD-3612",
-"LatLong": "47.2786,27.8944"
 },
 {
 "Name": "Alexeevca",
@@ -1481,9 +1421,9 @@
 "LatLong": "47.2636,27.9297"
 },
 {
-"Name": "Mircesti",
-"PostCode": "MD-3613",
-"LatLong": "47.4031,27.9956"
+"Name": "Blindesti",
+"PostCode": "MD-3644",
+"LatLong": "47.3131,27.6692"
 },
 {
 "Name": "Boghenii Noi",
@@ -1496,6 +1436,21 @@
 "LatLong": "47.3972,28.0261"
 },
 {
+"Name": "Buciumeni",
+"PostCode": "MD-3627",
+"LatLong": "47.3706,27.7136"
+},
+{
+"Name": "Buciumeni Loc.C.F.",
+"PostCode": "MD-3627",
+"LatLong": "47.3706,27.7136"
+},
+{
+"Name": "Bulhac",
+"PostCode": "MD-3647",
+"LatLong": "47.4281,27.7425"
+},
+{
 "Name": "Bumbata",
 "PostCode": "MD-3615",
 "LatLong": "47.3408,27.9744"
@@ -1504,6 +1459,16 @@
 "Name": "Busila",
 "PostCode": "MD-3616",
 "LatLong": "47.3875,27.8117"
+},
+{
+"Name": "Buzduganii De Jos",
+"PostCode": "MD-3651",
+"LatLong": "47.1436,27.8194"
+},
+{
+"Name": "Buzduganii De Sus",
+"PostCode": "MD-3651",
+"LatLong": "47.1608,27.8625"
 },
 {
 "Name": "Cetireni",
@@ -1526,9 +1491,9 @@
 "LatLong": "47.4122,28.1122"
 },
 {
-"Name": "Curtoaia",
-"PostCode": "MD-3620",
-"LatLong": "47.3928,28.1047"
+"Name": "Cornesti Oras",
+"PostCode": "MD-3608",
+"LatLong": "47.3835,27.9869"
 },
 {
 "Name": "Cornesti Sat",
@@ -1541,19 +1506,19 @@
 "LatLong": "47.3947,28.1717"
 },
 {
+"Name": "Coseni",
+"PostCode": "MD-3624",
+"LatLong": "47.4406,27.9261"
+},
+{
 "Name": "Costuleni",
 "PostCode": "MD-3623",
 "LatLong": "47.0781,27.9119"
 },
 {
-"Name": "Tighira",
-"PostCode": "MD-3624",
-"LatLong": "47.4447,27.9019"
-},
-{
-"Name": "Coseni",
-"PostCode": "MD-3624",
-"LatLong": "47.4406,27.9261"
+"Name": "Curtoaia",
+"PostCode": "MD-3620",
+"LatLong": "47.3928,28.1047"
 },
 {
 "Name": "Drujba",
@@ -1561,24 +1526,14 @@
 "LatLong": "47.4328,28.0761"
 },
 {
-"Name": "Floritoaia Noua",
-"PostCode": "MD-3626",
-"LatLong": "47.1672,27.9253"
+"Name": "Elizavetovca",
+"PostCode": "MD-3606",
+"LatLong": "47.2436,27.8228"
 },
 {
-"Name": "Grozasca",
-"PostCode": "MD-3626",
-"LatLong": "47.1811,27.8944"
-},
-{
-"Name": "Floritoaia Veche",
-"PostCode": "MD-3626",
-"LatLong": "47.2064,27.9078"
-},
-{
-"Name": "Buciumeni",
-"PostCode": "MD-3627",
-"LatLong": "47.3706,27.7136"
+"Name": "Floreni",
+"PostCode": "MD-3644",
+"LatLong": "47.3464,27.6639"
 },
 {
 "Name": "Floresti",
@@ -1586,9 +1541,14 @@
 "LatLong": "47.3706,27.7136"
 },
 {
-"Name": "Buciumeni Loc.C.F.",
-"PostCode": "MD-3627",
-"LatLong": "47.3706,27.7136"
+"Name": "Floritoaia Noua",
+"PostCode": "MD-3626",
+"LatLong": "47.1672,27.9253"
+},
+{
+"Name": "Floritoaia Veche",
+"PostCode": "MD-3626",
+"LatLong": "47.2064,27.9078"
 },
 {
 "Name": "Frasinesti",
@@ -1606,14 +1566,29 @@
 "LatLong": "47.3503,27.8353"
 },
 {
+"Name": "Grozasca",
+"PostCode": "MD-3626",
+"LatLong": "47.1811,27.8944"
+},
+{
 "Name": "Hircesti",
 "PostCode": "MD-3631",
 "LatLong": "47.3953,28.0864"
 },
 {
+"Name": "Hristoforovca",
+"PostCode": "MD-3641",
+"LatLong": "47.3547,27.9183"
+},
+{
 "Name": "Leordoaia",
 "PostCode": "MD-3631",
 "LatLong": "47.3367,28.1406"
+},
+{
+"Name": "Lidovca",
+"PostCode": "MD-3612",
+"LatLong": "47.2786,27.8944"
 },
 {
 "Name": "Macaresti",
@@ -1631,11 +1606,6 @@
 "LatLong": "47.2367,27.8831"
 },
 {
-"Name": "Vulpesti",
-"PostCode": "MD-3634",
-"LatLong": "47.2358,27.9081"
-},
-{
 "Name": "Medeleni",
 "PostCode": "MD-3635",
 "LatLong": "47.2956,27.6908"
@@ -1646,9 +1616,9 @@
 "LatLong": "47.3942,28.065"
 },
 {
-"Name": "Sicovat",
-"PostCode": "MD-3637",
-"LatLong": "47.1061,27.9086"
+"Name": "Mircesti",
+"PostCode": "MD-3613",
+"LatLong": "47.4031,27.9956"
 },
 {
 "Name": "Morenii Noi",
@@ -1671,19 +1641,14 @@
 "LatLong": "47.4003,27.8886"
 },
 {
-"Name": "Zazulenii Noi",
-"PostCode": "MD-3639",
-"LatLong": "47.3819,27.8706"
-},
-{
-"Name": "Zazulenii Vechi",
-"PostCode": "MD-3639",
-"LatLong": "47.4114,27.8561"
-},
-{
 "Name": "Negurenii Vechi",
 "PostCode": "MD-3639",
 "LatLong": "47.4161,27.8797"
+},
+{
+"Name": "Novaia Nicolaevca",
+"PostCode": "MD-3606",
+"LatLong": "47.2689,27.8458"
 },
 {
 "Name": "Petresti",
@@ -1696,14 +1661,19 @@
 "LatLong": "47.3067,27.7453"
 },
 {
-"Name": "Hristoforovca",
-"PostCode": "MD-3641",
-"LatLong": "47.3547,27.9183"
-},
-{
 "Name": "Pirlita",
 "PostCode": "MD-3641",
 "LatLong": "47.3194,27.8733"
+},
+{
+"Name": "Poiana",
+"PostCode": "MD-3608",
+"LatLong": "47.3917,28"
+},
+{
+"Name": "Pojarna",
+"PostCode": "MD-3646",
+"LatLong": "47.335,28.0856"
 },
 {
 "Name": "Radenii Vechi",
@@ -1716,9 +1686,14 @@
 "LatLong": "47.2144,27.8756"
 },
 {
-"Name": "Floreni",
-"PostCode": "MD-3644",
-"LatLong": "47.3464,27.6639"
+"Name": "Romanovca",
+"PostCode": "MD-3608",
+"LatLong": "47.3753,27.9739"
+},
+{
+"Name": "Saghieni",
+"PostCode": "MD-3612",
+"LatLong": "47.2461,27.9719"
 },
 {
 "Name": "Sculeni",
@@ -1726,19 +1701,14 @@
 "LatLong": "47.3228,27.6314"
 },
 {
-"Name": "Blindesti",
-"PostCode": "MD-3644",
-"LatLong": "47.3131,27.6692"
-},
-{
 "Name": "Semeni",
 "PostCode": "MD-3645",
 "LatLong": "47.2686,27.7519"
 },
 {
-"Name": "Pojarna",
-"PostCode": "MD-3646",
-"LatLong": "47.335,28.0856"
+"Name": "Sicovat",
+"PostCode": "MD-3637",
+"LatLong": "47.1061,27.9086"
 },
 {
 "Name": "Sinesti",
@@ -1751,14 +1721,14 @@
 "LatLong": "47.4111,27.7139"
 },
 {
-"Name": "Bulhac",
-"PostCode": "MD-3647",
-"LatLong": "47.4281,27.7425"
-},
-{
 "Name": "Tescureni",
 "PostCode": "MD-3648",
 "LatLong": "47.4117,27.9531"
+},
+{
+"Name": "Tighira",
+"PostCode": "MD-3624",
+"LatLong": "47.4447,27.9019"
 },
 {
 "Name": "Todiresti",
@@ -1766,14 +1736,34 @@
 "LatLong": "47.3186,27.82"
 },
 {
+"Name": "Ungheni 2",
+"PostCode": "MD-3602",
+"LatLong": "47.2042,27.7958"
+},
+{
+"Name": "Ungheni 3",
+"PostCode": "MD-3603",
+"LatLong": "47.2042,27.7958"
+},
+{
+"Name": "Ungheni 4",
+"PostCode": "MD-3604",
+"LatLong": "47.2042,27.7958"
+},
+{
+"Name": "Ungheni 6",
+"PostCode": "MD-3606",
+"LatLong": "47.2563,27.8343"
+},
+{
+"Name": "Ungheni-Gara",
+"PostCode": "MD-3601",
+"LatLong": "47.2042,27.7958"
+},
+{
 "Name": "Untesti",
 "PostCode": "MD-3650",
 "LatLong": "47.2436,27.8228"
-},
-{
-"Name": "Buzduganii De Sus",
-"PostCode": "MD-3651",
-"LatLong": "47.1608,27.8625"
 },
 {
 "Name": "Valea Mare",
@@ -1781,14 +1771,24 @@
 "LatLong": "47.1353,27.8608"
 },
 {
-"Name": "Buzduganii De Jos",
-"PostCode": "MD-3651",
-"LatLong": "47.1436,27.8194"
+"Name": "Vulpesti",
+"PostCode": "MD-3634",
+"LatLong": "47.2358,27.9081"
 },
 {
 "Name": "Zagarancea",
 "PostCode": "MD-3652",
 "LatLong": "47.2425,27.7611"
+},
+{
+"Name": "Zazulenii Noi",
+"PostCode": "MD-3639",
+"LatLong": "47.3819,27.8706"
+},
+{
+"Name": "Zazulenii Vechi",
+"PostCode": "MD-3639",
+"LatLong": "47.4114,27.8561"
 }
 ]
 }
@@ -1822,46 +1822,6 @@
 {
 "Places": [
 {
-"Name": "Veverita",
-"PostCode": "MD-3631",
-"LatLong": "47.3442,28.1056"
-},
-{
-"Name": "Tuzara",
-"PostCode": "MD-4401",
-"LatLong": "47.2417,28.3031"
-},
-{
-"Name": "Calarasi 1",
-"PostCode": "MD-4401",
-"LatLong": "47.2368,28.3079"
-},
-{
-"Name": "Selistea Noua",
-"PostCode": "MD-4401",
-"LatLong": "47.2319,28.3128"
-},
-{
-"Name": "Calarasi 2",
-"PostCode": "MD-4402",
-"LatLong": "47.2544,28.3081"
-},
-{
-"Name": "Vatamaneasca",
-"PostCode": "MD-4403",
-"LatLong": "47.2994,28.2361"
-},
-{
-"Name": "Oricova",
-"PostCode": "MD-4403",
-"LatLong": "47.2994,28.2361"
-},
-{
-"Name": "Calarasi 4",
-"PostCode": "MD-4403",
-"LatLong": "47.2994,28.2361"
-},
-{
 "Name": "Bahmut",
 "PostCode": "MD-4411",
 "LatLong": "47.3225,28.1158"
@@ -1882,24 +1842,9 @@
 "LatLong": "47.3611,28.4361"
 },
 {
-"Name": "Ursari",
-"PostCode": "MD-4415",
-"LatLong": "47.2214,28.1894"
-},
-{
 "Name": "Buda",
 "PostCode": "MD-4415",
 "LatLong": "47.2089,28.2189"
-},
-{
-"Name": "Cabaiesti",
-"PostCode": "MD-4416",
-"LatLong": "47.2164,28.1467"
-},
-{
-"Name": "Codru (Sanat.)",
-"PostCode": "MD-4417",
-"LatLong": "46.9753,28.8194"
 },
 {
 "Name": "Bularda",
@@ -1907,9 +1852,29 @@
 "LatLong": "47.3561,28.2222"
 },
 {
-"Name": "Duma",
-"PostCode": "MD-4418",
-"LatLong": "47.3689,28.2324"
+"Name": "Cabaiesti",
+"PostCode": "MD-4416",
+"LatLong": "47.2164,28.1467"
+},
+{
+"Name": "Calarasi 1",
+"PostCode": "MD-4401",
+"LatLong": "47.2368,28.3079"
+},
+{
+"Name": "Calarasi 2",
+"PostCode": "MD-4402",
+"LatLong": "47.2544,28.3081"
+},
+{
+"Name": "Calarasi 4",
+"PostCode": "MD-4403",
+"LatLong": "47.2994,28.2361"
+},
+{
+"Name": "Codru (Sanat.)",
+"PostCode": "MD-4417",
+"LatLong": "46.9753,28.8194"
 },
 {
 "Name": "Dereneu",
@@ -1917,24 +1882,19 @@
 "LatLong": "47.3817,28.2425"
 },
 {
+"Name": "Duma",
+"PostCode": "MD-4418",
+"LatLong": "47.3689,28.2324"
+},
+{
 "Name": "Frumoasa",
 "PostCode": "MD-4419",
 "LatLong": "47.3289,28.4028"
 },
 {
-"Name": "Hirova",
-"PostCode": "MD-4420",
-"LatLong": "47.4131,28.2817"
-},
-{
-"Name": "Palanca",
-"PostCode": "MD-4421",
-"LatLong": "47.3333,28.2014"
-},
-{
-"Name": "Leordoaia",
-"PostCode": "MD-4421",
-"LatLong": "47.3456,28.1533"
+"Name": "Hirbovat",
+"PostCode": "MD-4422",
+"LatLong": "47.3533,28.2928"
 },
 {
 "Name": "Hirjauca",
@@ -1942,14 +1902,9 @@
 "LatLong": "47.3242,28.2225"
 },
 {
-"Name": "Sverida",
-"PostCode": "MD-4422",
-"LatLong": "47.3533,28.2928"
-},
-{
-"Name": "Hirbovat",
-"PostCode": "MD-4422",
-"LatLong": "47.3533,28.2928"
+"Name": "Hirova",
+"PostCode": "MD-4420",
+"LatLong": "47.4131,28.2817"
 },
 {
 "Name": "Hoginesti",
@@ -1960,6 +1915,11 @@
 "Name": "Horodiste",
 "PostCode": "MD-4424",
 "LatLong": "47.2086,28.2519"
+},
+{
+"Name": "Leordoaia",
+"PostCode": "MD-4421",
+"LatLong": "47.3456,28.1533"
 },
 {
 "Name": "Meleseni",
@@ -1987,6 +1947,21 @@
 "LatLong": "47.3653,28.2881"
 },
 {
+"Name": "Oricova",
+"PostCode": "MD-4403",
+"LatLong": "47.2994,28.2361"
+},
+{
+"Name": "Palanca",
+"PostCode": "MD-4421",
+"LatLong": "47.3333,28.2014"
+},
+{
+"Name": "Parcani",
+"PostCode": "MD-4434",
+"LatLong": "47.2944,28.3736"
+},
+{
 "Name": "Paulesti",
 "PostCode": "MD-4430",
 "LatLong": "47.2681,28.3708"
@@ -1997,29 +1972,29 @@
 "LatLong": "47.2372,28.2072"
 },
 {
-"Name": "Pitusca",
-"PostCode": "MD-4432",
-"LatLong": "47.2375,28.4197"
-},
-{
 "Name": "Pirjolteni",
 "PostCode": "MD-4433",
 "LatLong": "47.1969,28.2417"
 },
 {
-"Name": "Parcani",
-"PostCode": "MD-4434",
-"LatLong": "47.2944,28.3736"
+"Name": "Pitusca",
+"PostCode": "MD-4432",
+"LatLong": "47.2375,28.4197"
 },
 {
-"Name": "Radeni",
-"PostCode": "MD-4435",
-"LatLong": "47.3978,28.2167"
+"Name": "Podul Lung",
+"PostCode": "MD-4438",
+"LatLong": "47.2619,28.2503"
 },
 {
 "Name": "Raciula",
 "PostCode": "MD-4435",
 "LatLong": "47.3025,28.3436"
+},
+{
+"Name": "Radeni",
+"PostCode": "MD-4435",
+"LatLong": "47.3978,28.2167"
 },
 {
 "Name": "Sadova",
@@ -2032,14 +2007,24 @@
 "LatLong": "47.3678,28.5014"
 },
 {
-"Name": "Podul Lung",
-"PostCode": "MD-4438",
-"LatLong": "47.2619,28.2503"
+"Name": "Schinoasa",
+"PostCode": "MD-4441",
+"LatLong": "47.2672,28.1289"
+},
+{
+"Name": "Selistea Noua",
+"PostCode": "MD-4401",
+"LatLong": "47.2319,28.3128"
 },
 {
 "Name": "Sipoteni",
 "PostCode": "MD-4438",
 "LatLong": "47.2772,28.1981"
+},
+{
+"Name": "Sverida",
+"PostCode": "MD-4422",
+"LatLong": "47.3533,28.2928"
 },
 {
 "Name": "Temeleuti",
@@ -2052,12 +2037,17 @@
 "LatLong": "47.3714,28.3689"
 },
 {
-"Name": "Valcinet",
-"PostCode": "MD-4441",
-"LatLong": "47.2672,28.1289"
+"Name": "Tuzara",
+"PostCode": "MD-4401",
+"LatLong": "47.2417,28.3031"
 },
 {
-"Name": "Schinoasa",
+"Name": "Ursari",
+"PostCode": "MD-4415",
+"LatLong": "47.2214,28.1894"
+},
+{
+"Name": "Valcinet",
 "PostCode": "MD-4441",
 "LatLong": "47.2672,28.1289"
 },
@@ -2065,6 +2055,16 @@
 "Name": "Varzarestii Noi",
 "PostCode": "MD-4442",
 "LatLong": "47.2322,28.445"
+},
+{
+"Name": "Vatamaneasca",
+"PostCode": "MD-4403",
+"LatLong": "47.2994,28.2361"
+},
+{
+"Name": "Veverita",
+"PostCode": "MD-3631",
+"LatLong": "47.3442,28.1056"
 }
 ]
 }
@@ -2079,21 +2079,6 @@
 "Communities": [
 {
 "Places": [
-{
-"Name": "Straseni 1",
-"PostCode": "MD-3701",
-"LatLong": "47.1414,28.6103"
-},
-{
-"Name": "Straseni 2",
-"PostCode": "MD-3702",
-"LatLong": "47.1414,28.6103"
-},
-{
-"Name": "Fagureni",
-"PostCode": "MD-3703",
-"LatLong": "47.1453,28.5628"
-},
 {
 "Name": "Bucovat",
 "PostCode": "MD-3711",
@@ -2110,14 +2095,14 @@
 "LatLong": "47.2558,28.5328"
 },
 {
+"Name": "Ciobanca",
+"PostCode": "MD-3725",
+"LatLong": "47.145,28.5022"
+},
+{
 "Name": "Codreanca",
 "PostCode": "MD-3714",
 "LatLong": "47.2867,28.5897"
-},
-{
-"Name": "Lupa-Recea",
-"PostCode": "MD-3714",
-"LatLong": "47.3128,28.5925"
 },
 {
 "Name": "Cojusna",
@@ -2125,14 +2110,19 @@
 "LatLong": "47.0928,28.6581"
 },
 {
+"Name": "Dolna",
+"PostCode": "MD-6425",
+"LatLong": "47.1219,28.2703"
+},
+{
 "Name": "Draguseni",
 "PostCode": "MD-3716",
 "LatLong": "47.2142,28.6642"
 },
 {
-"Name": "Galestii Noi",
-"PostCode": "MD-3717",
-"LatLong": "47.2075,28.4956"
+"Name": "Fagureni",
+"PostCode": "MD-3703",
+"LatLong": "47.1453,28.5628"
 },
 {
 "Name": "Galesti",
@@ -2140,9 +2130,9 @@
 "LatLong": "47.2281,28.4981"
 },
 {
-"Name": "Saca",
-"PostCode": "MD-3718",
-"LatLong": "47.1942,28.6108"
+"Name": "Galestii Noi",
+"PostCode": "MD-3717",
+"LatLong": "47.2075,28.4956"
 },
 {
 "Name": "Ghelauza",
@@ -2160,9 +2150,9 @@
 "LatLong": "47.2353,28.6069"
 },
 {
-"Name": "Martinesti",
-"PostCode": "MD-3720",
-"LatLong": "47.2353,28.6069"
+"Name": "Huzun",
+"PostCode": "MD-6431",
+"LatLong": "47.1214,28.3217"
 },
 {
 "Name": "Lozova",
@@ -2170,14 +2160,24 @@
 "LatLong": "47.1328,28.3858"
 },
 {
-"Name": "Stejareni",
-"PostCode": "MD-3721",
-"LatLong": "47.1061,28.4164"
+"Name": "Lupa-Recea",
+"PostCode": "MD-3714",
+"LatLong": "47.3128,28.5925"
+},
+{
+"Name": "Martinesti",
+"PostCode": "MD-3720",
+"LatLong": "47.2353,28.6069"
 },
 {
 "Name": "Micauti",
 "PostCode": "MD-3722",
 "LatLong": "47.1722,28.7489"
+},
+{
+"Name": "Micleuseni",
+"PostCode": "MD-6431",
+"LatLong": "47.1228,28.3081"
 },
 {
 "Name": "Negresti",
@@ -2195,14 +2195,14 @@
 "LatLong": "47.1531,28.5186"
 },
 {
-"Name": "Ciobanca",
-"PostCode": "MD-3725",
-"LatLong": "47.145,28.5022"
-},
-{
 "Name": "Radeni",
 "PostCode": "MD-3726",
 "LatLong": "47.2067,28.6992"
+},
+{
+"Name": "Rassvet",
+"PostCode": "MD-4435",
+"LatLong": "47.2031,28.4283"
 },
 {
 "Name": "Recea",
@@ -2220,6 +2220,11 @@
 "LatLong": "47.1475,28.6778"
 },
 {
+"Name": "Saca",
+"PostCode": "MD-3718",
+"LatLong": "47.1942,28.6108"
+},
+{
 "Name": "Scoreni",
 "PostCode": "MD-3730",
 "LatLong": "47.0647,28.6086"
@@ -2228,6 +2233,21 @@
 "Name": "Sireti",
 "PostCode": "MD-3731",
 "LatLong": "47.1339,28.7142"
+},
+{
+"Name": "Stejareni",
+"PostCode": "MD-3721",
+"LatLong": "47.1061,28.4164"
+},
+{
+"Name": "Straseni 1",
+"PostCode": "MD-3701",
+"LatLong": "47.1414,28.6103"
+},
+{
+"Name": "Straseni 2",
+"PostCode": "MD-3702",
+"LatLong": "47.1414,28.6103"
 },
 {
 "Name": "Tataresti",
@@ -2263,26 +2283,6 @@
 "Name": "Zubresti",
 "PostCode": "MD-3739",
 "LatLong": "47.2386,28.5258"
-},
-{
-"Name": "Rassvet",
-"PostCode": "MD-4435",
-"LatLong": "47.2031,28.4283"
-},
-{
-"Name": "Dolna",
-"PostCode": "MD-6425",
-"LatLong": "47.1219,28.2703"
-},
-{
-"Name": "Huzun",
-"PostCode": "MD-6431",
-"LatLong": "47.1214,28.3217"
-},
-{
-"Name": "Micleuseni",
-"PostCode": "MD-6431",
-"LatLong": "47.1228,28.3081"
 }
 ]
 }
@@ -2298,74 +2298,9 @@
 {
 "Places": [
 {
-"Name": "Comrat 1",
-"PostCode": "MD-3801",
-"LatLong": "46.3003,28.6572"
-},
-{
-"Name": "Comrat 2",
-"PostCode": "MD-3802",
-"LatLong": "46.3003,28.6572"
-},
-{
-"Name": "Comrat 5",
-"PostCode": "MD-3805",
-"LatLong": "46.3003,28.6572"
-},
-{
-"Name": "Besalma",
-"PostCode": "MD-3811",
-"LatLong": "46.1728,28.6483"
-},
-{
-"Name": "Bugeac",
-"PostCode": "MD-3812",
-"LatLong": "46.3658,28.6633"
-},
-{
-"Name": "Chirsova",
-"PostCode": "MD-3813",
-"LatLong": "46.2339,28.6481"
-},
-{
-"Name": "Chioselia Rusa",
-"PostCode": "MD-3814",
-"LatLong": "46.0833,28.5164"
-},
-{
-"Name": "Cirlaneni",
-"PostCode": "MD-3815",
-"LatLong": "46.1606,28.5136"
-},
-{
-"Name": "Congaz 1",
-"PostCode": "MD-3815",
-"LatLong": "46.1606,28.5136"
-},
-{
-"Name": "Cotovscoe-Cirlaneni",
-"PostCode": "MD-3815",
-"LatLong": "46.1606,28.5136"
-},
-{
-"Name": "Congazcicul De Sus",
-"PostCode": "MD-3816",
-"LatLong": "46.3333,28.5664"
-},
-{
-"Name": "Congazcic",
-"PostCode": "MD-3816",
-"LatLong": "46.3241,28.5506"
-},
-{
-"Name": "Congazcicul De Jos",
-"PostCode": "MD-3816",
-"LatLong": "46.3114,28.5714"
-},
-{
-"Name": "Dudulesti",
-"PostCode": "MD-3816",
-"LatLong": "46.3275,28.5139"
+"Name": "Alexeevca",
+"PostCode": "MD-3822",
+"LatLong": "46.0264,28.5675"
 },
 {
 "Name": "Avdarma",
@@ -2373,69 +2308,34 @@
 "LatLong": "46.2542,28.8394"
 },
 {
-"Name": "Cioc-Maidan",
-"PostCode": "MD-3818",
-"LatLong": "46.3581,28.8219"
+"Name": "Baurci",
+"PostCode": "MD-6111",
+"LatLong": "46.0939,28.6758"
 },
 {
-"Name": "Congaz",
-"PostCode": "MD-3819",
-"LatLong": "46.1092,28.6044"
+"Name": "Besalma",
+"PostCode": "MD-3811",
+"LatLong": "46.1728,28.6483"
 },
 {
-"Name": "Dezghingea",
-"PostCode": "MD-3820",
-"LatLong": "46.4244,28.6167"
+"Name": "Besghioz",
+"PostCode": "MD-6112",
+"LatLong": "46.1217,28.8722"
 },
 {
-"Name": "Ferapontievca",
-"PostCode": "MD-3821",
-"LatLong": "46.24,28.7744"
-},
-{
-"Name": "Alexeevca",
-"PostCode": "MD-3822",
-"LatLong": "46.0264,28.5675"
-},
-{
-"Name": "Svetlii",
-"PostCode": "MD-3822",
-"LatLong": "46.0164,28.5661"
-},
-{
-"Name": "Vulcanesti",
-"PostCode": "MD-5301",
-"LatLong": "45.6842,28.4028"
-},
-{
-"Name": "Vulcanesti St",
-"PostCode": "MD-5302",
-"LatLong": "45.6842,28.4028"
-},
-{
-"Name": "Cismichioi",
-"PostCode": "MD-5351",
-"LatLong": "45.5444,28.3828"
-},
-{
-"Name": "Etulia",
-"PostCode": "MD-5352",
-"LatLong": "45.5392,28.4428"
-},
-{
-"Name": "Etulia Noua",
-"PostCode": "MD-5353",
-"LatLong": "45.5164,28.4389"
-},
-{
-"Name": "Etulia Loc.C.F.",
-"PostCode": "MD-5354",
-"LatLong": "46.3003,28.6572"
+"Name": "Bugeac",
+"PostCode": "MD-3812",
+"LatLong": "46.3658,28.6633"
 },
 {
 "Name": "Carbalia",
 "PostCode": "MD-5355",
 "LatLong": "45.8733,28.4458"
+},
+{
+"Name": "Cazaclia",
+"PostCode": "MD-6113",
+"LatLong": "46.0103,28.6628"
 },
 {
 "Name": "Ceadir-Lunga 1",
@@ -2458,19 +2358,114 @@
 "LatLong": "46.055,28.8303"
 },
 {
-"Name": "Baurci",
-"PostCode": "MD-6111",
-"LatLong": "46.0939,28.6758"
+"Name": "Chioselia Rusa",
+"PostCode": "MD-3814",
+"LatLong": "46.0833,28.5164"
 },
 {
-"Name": "Besghioz",
-"PostCode": "MD-6112",
-"LatLong": "46.1217,28.8722"
+"Name": "Chiriet Lunga",
+"PostCode": "MD-6117",
+"LatLong": "46.2092,28.9442"
 },
 {
-"Name": "Cazaclia",
-"PostCode": "MD-6113",
-"LatLong": "46.0103,28.6628"
+"Name": "Chirsova",
+"PostCode": "MD-3813",
+"LatLong": "46.2339,28.6481"
+},
+{
+"Name": "Cioc-Maidan",
+"PostCode": "MD-3818",
+"LatLong": "46.3581,28.8219"
+},
+{
+"Name": "Cirlaneni",
+"PostCode": "MD-3815",
+"LatLong": "46.1606,28.5136"
+},
+{
+"Name": "Cismichioi",
+"PostCode": "MD-5351",
+"LatLong": "45.5444,28.3828"
+},
+{
+"Name": "Comrat 1",
+"PostCode": "MD-3801",
+"LatLong": "46.3003,28.6572"
+},
+{
+"Name": "Comrat 2",
+"PostCode": "MD-3802",
+"LatLong": "46.3003,28.6572"
+},
+{
+"Name": "Comrat 5",
+"PostCode": "MD-3805",
+"LatLong": "46.3003,28.6572"
+},
+{
+"Name": "Congaz",
+"PostCode": "MD-3819",
+"LatLong": "46.1092,28.6044"
+},
+{
+"Name": "Congaz 1",
+"PostCode": "MD-3815",
+"LatLong": "46.1606,28.5136"
+},
+{
+"Name": "Congazcic",
+"PostCode": "MD-3816",
+"LatLong": "46.3241,28.5506"
+},
+{
+"Name": "Congazcicul De Jos",
+"PostCode": "MD-3816",
+"LatLong": "46.3114,28.5714"
+},
+{
+"Name": "Congazcicul De Sus",
+"PostCode": "MD-3816",
+"LatLong": "46.3333,28.5664"
+},
+{
+"Name": "Copceac",
+"PostCode": "MD-6118",
+"LatLong": "45.8517,28.6925"
+},
+{
+"Name": "Cotovscoe-Cirlaneni",
+"PostCode": "MD-3815",
+"LatLong": "46.1606,28.5136"
+},
+{
+"Name": "Dezghingea",
+"PostCode": "MD-3820",
+"LatLong": "46.4244,28.6167"
+},
+{
+"Name": "Dudulesti",
+"PostCode": "MD-3816",
+"LatLong": "46.3275,28.5139"
+},
+{
+"Name": "Etulia",
+"PostCode": "MD-5352",
+"LatLong": "45.5392,28.4428"
+},
+{
+"Name": "Etulia Loc.C.F.",
+"PostCode": "MD-5354",
+"LatLong": "46.3003,28.6572"
+},
+{
+"Name": "Etulia Noua",
+"PostCode": "MD-5353",
+"LatLong": "45.5164,28.4389"
+},
+{
+"Name": "Ferapontievca",
+"PostCode": "MD-3821",
+"LatLong": "46.24,28.7744"
 },
 {
 "Name": "Gaidar",
@@ -2483,19 +2478,24 @@
 "LatLong": "46.1825,28.8761"
 },
 {
+"Name": "Svetlii",
+"PostCode": "MD-3822",
+"LatLong": "46.0164,28.5661"
+},
+{
 "Name": "Tomai",
 "PostCode": "MD-6116",
 "LatLong": "46.1817,28.7675"
 },
 {
-"Name": "Chiriet Lunga",
-"PostCode": "MD-6117",
-"LatLong": "46.2092,28.9442"
+"Name": "Vulcanesti",
+"PostCode": "MD-5301",
+"LatLong": "45.6842,28.4028"
 },
 {
-"Name": "Copceac",
-"PostCode": "MD-6118",
-"LatLong": "45.8517,28.6925"
+"Name": "Vulcanesti St",
+"PostCode": "MD-5302",
+"LatLong": "45.6842,28.4028"
 }
 ]
 }
@@ -2511,24 +2511,19 @@
 {
 "Places": [
 {
-"Name": "Cahul 1",
-"PostCode": "MD-3901",
-"LatLong": "45.8881,28.1881"
+"Name": "Alexandresti",
+"PostCode": "MD-3916",
+"LatLong": "46.0503,28.4125"
 },
 {
-"Name": "Cahul 5",
-"PostCode": "MD-3905",
-"LatLong": "45.9221,28.2216"
+"Name": "Alexandrfeld (Cimpeni)",
+"PostCode": "MD-5314",
+"LatLong": "45.8067,28.4278"
 },
 {
-"Name": "Cahul 7",
-"PostCode": "MD-3907",
-"LatLong": "45.9198,28.1933"
-},
-{
-"Name": "Cahul 9",
-"PostCode": "MD-3909",
-"LatLong": "45.9066,28.1931"
+"Name": "Alexandru Ioan Cuza",
+"PostCode": "MD-5311",
+"LatLong": "45.5992,28.4494"
 },
 {
 "Name": "Andrusul De Jos",
@@ -2551,9 +2546,14 @@
 "LatLong": "46.0331,28.2328"
 },
 {
-"Name": "Gibani",
-"PostCode": "MD-3914",
-"LatLong": "46.0331,28.2328"
+"Name": "Borceag",
+"PostCode": "MD-7415",
+"LatLong": "46.05,28.525"
+},
+{
+"Name": "Brinza",
+"PostCode": "MD-5312",
+"LatLong": "45.6778,28.1742"
 },
 {
 "Name": "Bucuria",
@@ -2561,19 +2561,54 @@
 "LatLong": "45.9656,28.3489"
 },
 {
+"Name": "Burlaceni",
+"PostCode": "MD-5313",
+"LatLong": "45.7581,28.5069"
+},
+{
 "Name": "Burlacu",
 "PostCode": "MD-3916",
 "LatLong": "46.0447,28.4128"
 },
 {
-"Name": "Spicoasa",
-"PostCode": "MD-3916",
-"LatLong": "46.0344,28.3769"
+"Name": "Cahul 1",
+"PostCode": "MD-3901",
+"LatLong": "45.8881,28.1881"
 },
 {
-"Name": "Alexandresti",
-"PostCode": "MD-3916",
-"LatLong": "46.0503,28.4125"
+"Name": "Cahul 5",
+"PostCode": "MD-3905",
+"LatLong": "45.9221,28.2216"
+},
+{
+"Name": "Cahul 7",
+"PostCode": "MD-3907",
+"LatLong": "45.9198,28.1933"
+},
+{
+"Name": "Cahul 9",
+"PostCode": "MD-3909",
+"LatLong": "45.9066,28.1931"
+},
+{
+"Name": "Chioselia Mare",
+"PostCode": "MD-3934",
+"LatLong": "46.1,28.4903"
+},
+{
+"Name": "Chircani",
+"PostCode": "MD-3919",
+"LatLong": "46.0872,28.1722"
+},
+{
+"Name": "Cislita-Prut",
+"PostCode": "MD-5315",
+"LatLong": "45.5378,28.17"
+},
+{
+"Name": "Colibasi",
+"PostCode": "MD-5316",
+"LatLong": "45.7186,28.1803"
 },
 {
 "Name": "Cotihana",
@@ -2591,14 +2626,54 @@
 "LatLong": "46.0569,28.1708"
 },
 {
-"Name": "Chircani",
-"PostCode": "MD-3919",
-"LatLong": "46.0872,28.1722"
+"Name": "Doina",
+"PostCode": "MD-7323",
+"LatLong": "46.1119,28.3289"
+},
+{
+"Name": "Frumusica",
+"PostCode": "MD-3934",
+"LatLong": "46.0814,28.4831"
+},
+{
+"Name": "Gavanoasa",
+"PostCode": "MD-5317",
+"LatLong": "45.7656,28.3833"
+},
+{
+"Name": "Gibani",
+"PostCode": "MD-3914",
+"LatLong": "46.0331,28.2328"
+},
+{
+"Name": "Giurgiulesti",
+"PostCode": "MD-5318",
+"LatLong": "45.4817,28.1972"
+},
+{
+"Name": "Greceni",
+"PostCode": "MD-5313",
+"LatLong": "45.7217,28.3917"
 },
 {
 "Name": "Huluboaia",
 "PostCode": "MD-3920",
 "LatLong": "46.0658,28.3333"
+},
+{
+"Name": "Hutulu",
+"PostCode": "MD-3922",
+"LatLong": "45.8631,28.3006"
+},
+{
+"Name": "Iasnaia Poleana",
+"PostCode": "MD-7323",
+"LatLong": "46.1411,28.3044"
+},
+{
+"Name": "Iujnoe",
+"PostCode": "MD-5319",
+"LatLong": "45.7525,28.4775"
 },
 {
 "Name": "Larga Noua",
@@ -2609,11 +2684,6 @@
 "Name": "Larga Veche",
 "PostCode": "MD-3921",
 "LatLong": "46.0708,28.2453"
-},
-{
-"Name": "Hutulu",
-"PostCode": "MD-3922",
-"LatLong": "45.8631,28.3006"
 },
 {
 "Name": "Lebedenco",
@@ -2636,19 +2706,24 @@
 "LatLong": "45.8061,28.1833"
 },
 {
-"Name": "Trifestii Noi",
-"PostCode": "MD-3926",
-"LatLong": "45.9481,28.355"
-},
-{
 "Name": "Moscovei",
 "PostCode": "MD-3926",
 "LatLong": "45.9342,28.3556"
 },
 {
-"Name": "Satuc",
-"PostCode": "MD-3927",
-"LatLong": "45.8031,28.3528"
+"Name": "Nicolaevca",
+"PostCode": "MD-5317",
+"LatLong": "45.7572,28.3772"
+},
+{
+"Name": "Paicu",
+"PostCode": "MD-3933",
+"LatLong": "46.0378,28.1553"
+},
+{
+"Name": "Pascani",
+"PostCode": "MD-3934",
+"LatLong": "45.825,28.1878"
 },
 {
 "Name": "Pelinei",
@@ -2661,6 +2736,21 @@
 "LatLong": "45.9547,28.1942"
 },
 {
+"Name": "Rumeantev",
+"PostCode": "MD-7333",
+"LatLong": "46.1136,28.2822"
+},
+{
+"Name": "Satuc",
+"PostCode": "MD-3927",
+"LatLong": "45.8031,28.3528"
+},
+{
+"Name": "Spicoasa",
+"PostCode": "MD-3916",
+"LatLong": "46.0344,28.3769"
+},
+{
 "Name": "Taraclia De Salcie",
 "PostCode": "MD-3929",
 "LatLong": "46.0075,28.4153"
@@ -2671,24 +2761,9 @@
 "LatLong": "45.9719,28.4119"
 },
 {
-"Name": "Tudoresti",
-"PostCode": "MD-3930",
-"LatLong": "45.9642,28.4028"
-},
-{
 "Name": "Tataresti",
 "PostCode": "MD-3931",
 "LatLong": "46.025,28.3453"
-},
-{
-"Name": "Ursoaia",
-"PostCode": "MD-3932",
-"LatLong": "45.8531,28.3156"
-},
-{
-"Name": "Zirnesti",
-"PostCode": "MD-3933",
-"LatLong": "46.0111,28.1631"
 },
 {
 "Name": "Tretesti",
@@ -2696,79 +2771,19 @@
 "LatLong": "46,28.1667"
 },
 {
-"Name": "Paicu",
-"PostCode": "MD-3933",
-"LatLong": "46.0378,28.1553"
+"Name": "Trifestii Noi",
+"PostCode": "MD-3926",
+"LatLong": "45.9481,28.355"
 },
 {
-"Name": "Chioselia Mare",
-"PostCode": "MD-3934",
-"LatLong": "46.1,28.4903"
+"Name": "Tudoresti",
+"PostCode": "MD-3930",
+"LatLong": "45.9642,28.4028"
 },
 {
-"Name": "Pascani",
-"PostCode": "MD-3934",
-"LatLong": "45.825,28.1878"
-},
-{
-"Name": "Frumusica",
-"PostCode": "MD-3934",
-"LatLong": "46.0814,28.4831"
-},
-{
-"Name": "Alexandru Ioan Cuza",
-"PostCode": "MD-5311",
-"LatLong": "45.5992,28.4494"
-},
-{
-"Name": "Brinza",
-"PostCode": "MD-5312",
-"LatLong": "45.6778,28.1742"
-},
-{
-"Name": "Greceni",
-"PostCode": "MD-5313",
-"LatLong": "45.7217,28.3917"
-},
-{
-"Name": "Burlaceni",
-"PostCode": "MD-5313",
-"LatLong": "45.7581,28.5069"
-},
-{
-"Name": "Alexandrfeld (Cimpeni)",
-"PostCode": "MD-5314",
-"LatLong": "45.8067,28.4278"
-},
-{
-"Name": "Cislita-Prut",
-"PostCode": "MD-5315",
-"LatLong": "45.5378,28.17"
-},
-{
-"Name": "Colibasi",
-"PostCode": "MD-5316",
-"LatLong": "45.7186,28.1803"
-},
-{
-"Name": "Nicolaevca",
-"PostCode": "MD-5317",
-"LatLong": "45.7572,28.3772"
-},
-{
-"Name": "Gavanoasa",
-"PostCode": "MD-5317",
-"LatLong": "45.7656,28.3833"
-},
-{
-"Name": "Giurgiulesti",
-"PostCode": "MD-5318",
-"LatLong": "45.4817,28.1972"
-},
-{
-"Name": "Iujnoe",
-"PostCode": "MD-5319",
-"LatLong": "45.7525,28.4775"
+"Name": "Ursoaia",
+"PostCode": "MD-3932",
+"LatLong": "45.8531,28.3156"
 },
 {
 "Name": "Vadul Lui Isac",
@@ -2786,24 +2801,9 @@
 "LatLong": "45.7881,28.3653"
 },
 {
-"Name": "Iasnaia Poleana",
-"PostCode": "MD-7323",
-"LatLong": "46.1411,28.3044"
-},
-{
-"Name": "Doina",
-"PostCode": "MD-7323",
-"LatLong": "46.1119,28.3289"
-},
-{
-"Name": "Rumeantev",
-"PostCode": "MD-7333",
-"LatLong": "46.1136,28.2822"
-},
-{
-"Name": "Borceag",
-"PostCode": "MD-7415",
-"LatLong": "46.05,28.525"
+"Name": "Zirnesti",
+"PostCode": "MD-3933",
+"LatLong": "46.0111,28.1631"
 }
 ]
 }
@@ -2819,24 +2819,14 @@
 {
 "Places": [
 {
-"Name": "Crasnoe",
-"PostCode": "MD-4001",
-"LatLong": "47.1808,29.3583"
-},
-{
-"Name": "Grigoriopol",
-"PostCode": "MD-4001",
-"LatLong": "47.1536,29.2964"
-},
-{
-"Name": "Maiac",
-"PostCode": "MD-4006",
-"LatLong": "47.2375,29.3858"
-},
-{
 "Name": "Bicioc",
 "PostCode": "MD-4011",
 "LatLong": "46.925,29.4803"
+},
+{
+"Name": "Bruslachi",
+"PostCode": "MD-4019",
+"LatLong": "47.2811,29.38"
 },
 {
 "Name": "Butor",
@@ -2844,19 +2834,9 @@
 "LatLong": "47.0414,29.4044"
 },
 {
-"Name": "India",
-"PostCode": "MD-4012",
-"LatLong": "47.0461,29.3872"
-},
-{
 "Name": "Carmanova",
 "PostCode": "MD-4013",
 "LatLong": "47.2589,29.5036"
-},
-{
-"Name": "Cotovca",
-"PostCode": "MD-4013",
-"LatLong": "47.2853,29.4783"
 },
 {
 "Name": "Cernita",
@@ -2864,24 +2844,29 @@
 "LatLong": "47.0306,29.5178"
 },
 {
-"Name": "Crasnaia Bessarabia",
-"PostCode": "MD-4015",
-"LatLong": "47.285,29.5869"
-},
-{
-"Name": "Pobeda",
-"PostCode": "MD-4015",
-"LatLong": "47.35,29.5"
-},
-{
 "Name": "Colosova",
 "PostCode": "MD-4015",
 "LatLong": "47.3258,29.5664"
 },
 {
+"Name": "Cotovca",
+"PostCode": "MD-4013",
+"LatLong": "47.2853,29.4783"
+},
+{
+"Name": "Crasnaia Bessarabia",
+"PostCode": "MD-4015",
+"LatLong": "47.285,29.5869"
+},
+{
 "Name": "Crasnaia Gorca",
 "PostCode": "MD-4016",
 "LatLong": "47.1322,29.315"
+},
+{
+"Name": "Crasnoe",
+"PostCode": "MD-4001",
+"LatLong": "47.1808,29.3583"
 },
 {
 "Name": "Crasnogorca",
@@ -2894,24 +2879,19 @@
 "LatLong": "47.1289,29.2989"
 },
 {
+"Name": "Fedoseevca",
+"PostCode": "MD-4022",
+"LatLong": "47.2333,29.5378"
+},
+{
+"Name": "Grigoriopol",
+"PostCode": "MD-4001",
+"LatLong": "47.1536,29.2964"
+},
+{
 "Name": "Hirtop",
 "PostCode": "MD-4019",
 "LatLong": "47.2397,29.3614"
-},
-{
-"Name": "Marian",
-"PostCode": "MD-4019",
-"LatLong": "47.2342,29.3319"
-},
-{
-"Name": "Bruslachi",
-"PostCode": "MD-4019",
-"LatLong": "47.2811,29.38"
-},
-{
-"Name": "Mocreachi",
-"PostCode": "MD-4019",
-"LatLong": "47.2756,29.3836"
 },
 {
 "Name": "Hlinaia",
@@ -2919,14 +2899,24 @@
 "LatLong": "47.2281,29.415"
 },
 {
+"Name": "India",
+"PostCode": "MD-4012",
+"LatLong": "47.0461,29.3872"
+},
+{
+"Name": "Maiac",
+"PostCode": "MD-4006",
+"LatLong": "47.2375,29.3858"
+},
+{
 "Name": "Malaiesti",
 "PostCode": "MD-4021",
 "LatLong": "46.9825,29.5522"
 },
 {
-"Name": "Fedoseevca",
-"PostCode": "MD-4022",
-"LatLong": "47.2333,29.5378"
+"Name": "Marian",
+"PostCode": "MD-4019",
+"LatLong": "47.2342,29.3319"
 },
 {
 "Name": "Mocearovca",
@@ -2934,14 +2924,19 @@
 "LatLong": "47.2403,29.5497"
 },
 {
+"Name": "Mocreachi",
+"PostCode": "MD-4019",
+"LatLong": "47.2756,29.3836"
+},
+{
 "Name": "Novovladimirovca",
 "PostCode": "MD-4023",
 "LatLong": "46.9392,29.52"
 },
 {
-"Name": "Speia",
-"PostCode": "MD-4024",
-"LatLong": "47.0067,29.2972"
+"Name": "Pobeda",
+"PostCode": "MD-4015",
+"LatLong": "47.35,29.5"
 },
 {
 "Name": "Sipca",
@@ -2949,19 +2944,24 @@
 "LatLong": "47.1689,29.5075"
 },
 {
+"Name": "Speia",
+"PostCode": "MD-4024",
+"LatLong": "47.0067,29.2972"
+},
+{
 "Name": "Taslic",
 "PostCode": "MD-4026",
 "LatLong": "47.0722,29.3953"
 },
 {
-"Name": "Tocmagiu",
-"PostCode": "MD-4027",
-"LatLong": "46.9447,29.375"
-},
-{
 "Name": "Teiu",
 "PostCode": "MD-4027",
 "LatLong": "46.9581,29.3956"
+},
+{
+"Name": "Tocmagiu",
+"PostCode": "MD-4027",
+"LatLong": "46.9447,29.375"
 },
 {
 "Name": "Vesioloe",
@@ -2987,19 +2987,9 @@
 {
 "Places": [
 {
-"Name": "Cimislia",
-"PostCode": "MD-4101",
-"LatLong": "46.52,28.7842"
-},
-{
-"Name": "Fetita",
-"PostCode": "MD-4111",
-"LatLong": "46.6933,28.6731"
-},
-{
-"Name": "Mereni",
-"PostCode": "MD-4111",
-"LatLong": "46.6747,28.6492"
+"Name": "Abaclia",
+"PostCode": "MD-6711",
+"LatLong": "46.3619,28.9419"
 },
 {
 "Name": "Albina",
@@ -3007,9 +2997,29 @@
 "LatLong": "46.7044,28.6419"
 },
 {
-"Name": "Bogdanovca Veche",
-"PostCode": "MD-4112",
-"LatLong": "46.4756,28.8256"
+"Name": "Artimonovca",
+"PostCode": "MD-4123",
+"LatLong": "46.5964,28.5908"
+},
+{
+"Name": "Basarabeasca 1",
+"PostCode": "MD-6701",
+"LatLong": "46.4167,28.9167"
+},
+{
+"Name": "Bascalia",
+"PostCode": "MD-6712",
+"LatLong": "46.3083,28.7844"
+},
+{
+"Name": "Batir",
+"PostCode": "MD-7712",
+"LatLong": "46.5775,29.0042"
+},
+{
+"Name": "Bogdanovca",
+"PostCode": "MD-6715",
+"LatLong": "46.5122,28.9342"
 },
 {
 "Name": "Bogdanovca Noua",
@@ -3017,9 +3027,29 @@
 "LatLong": "46.4933,28.8444"
 },
 {
+"Name": "Bogdanovca Veche",
+"PostCode": "MD-4112",
+"LatLong": "46.4756,28.8256"
+},
+{
+"Name": "Carabetovca",
+"PostCode": "MD-6713",
+"LatLong": "46.4139,28.9128"
+},
+{
+"Name": "Carabiber",
+"PostCode": "MD-6715",
+"LatLong": "46.4722,28.9956"
+},
+{
 "Name": "Cenac",
 "PostCode": "MD-4113",
 "LatLong": "46.4753,28.6419"
+},
+{
+"Name": "Cimislia",
+"PostCode": "MD-4101",
+"LatLong": "46.52,28.7842"
 },
 {
 "Name": "Ciucur-Mingir",
@@ -3027,14 +3057,29 @@
 "LatLong": "46.4408,28.7558"
 },
 {
+"Name": "Codreni",
+"PostCode": "MD-7718",
+"LatLong": "46.6756,28.8836"
+},
+{
 "Name": "Costangalia",
 "PostCode": "MD-4115",
 "LatLong": "46.6167,28.8031"
 },
 {
+"Name": "Dimitrovca",
+"PostCode": "MD-4131",
+"LatLong": "46.4853,28.7181"
+},
+{
 "Name": "Ecaterinovca",
 "PostCode": "MD-4116",
 "LatLong": "46.5839,28.7494"
+},
+{
+"Name": "Fetita",
+"PostCode": "MD-4111",
+"LatLong": "46.6933,28.6731"
 },
 {
 "Name": "Gradiste",
@@ -3057,19 +3102,19 @@
 "LatLong": "46.6517,28.5897"
 },
 {
-"Name": "Prisaca",
-"PostCode": "MD-4119",
-"LatLong": "46.6561,28.6025"
-},
-{
-"Name": "Marienfeld",
-"PostCode": "MD-4120",
-"LatLong": "46.5981,28.6186"
-},
-{
 "Name": "Ialpujeni",
 "PostCode": "MD-4120",
 "LatLong": "46.5981,28.6186"
+},
+{
+"Name": "Iordanovca",
+"PostCode": "MD-6714",
+"LatLong": "46.3939,28.9092"
+},
+{
+"Name": "Iserlia",
+"PostCode": "MD-6715",
+"LatLong": "46.4864,28.9539"
 },
 {
 "Name": "Iurievca",
@@ -3077,19 +3122,14 @@
 "LatLong": "46.6681,28.7642"
 },
 {
+"Name": "Ivanovca",
+"PostCode": "MD-6715",
+"LatLong": "46.5064,28.9492"
+},
+{
 "Name": "Ivanovca Noua",
 "PostCode": "MD-4122",
 "LatLong": "46.7456,28.6953"
-},
-{
-"Name": "Maximeni",
-"PostCode": "MD-4123",
-"LatLong": "46.5717,28.5969"
-},
-{
-"Name": "Artimonovca",
-"PostCode": "MD-4123",
-"LatLong": "46.5964,28.5908"
 },
 {
 "Name": "Javgur",
@@ -3097,19 +3137,24 @@
 "LatLong": "46.5392,28.6161"
 },
 {
-"Name": "Schinosica",
-"PostCode": "MD-4124",
-"LatLong": "46.7278,28.7875"
-},
-{
 "Name": "Lipoveni",
 "PostCode": "MD-4124",
 "LatLong": "46.7342,28.7619"
 },
 {
-"Name": "Munteni",
-"PostCode": "MD-4124",
-"LatLong": "46.7092,28.7747"
+"Name": "Marienfeld",
+"PostCode": "MD-4120",
+"LatLong": "46.5981,28.6186"
+},
+{
+"Name": "Maximeni",
+"PostCode": "MD-4123",
+"LatLong": "46.5717,28.5969"
+},
+{
+"Name": "Mereni",
+"PostCode": "MD-4111",
+"LatLong": "46.6747,28.6492"
 },
 {
 "Name": "Mihailovca",
@@ -3117,9 +3162,24 @@
 "LatLong": "46.5511,28.9319"
 },
 {
+"Name": "Munteni",
+"PostCode": "MD-4124",
+"LatLong": "46.7092,28.7747"
+},
+{
 "Name": "Porumbrei",
 "PostCode": "MD-4126",
 "LatLong": "46.6917,28.8161"
+},
+{
+"Name": "Prisaca",
+"PostCode": "MD-4119",
+"LatLong": "46.6561,28.6025"
+},
+{
+"Name": "Sadaclia",
+"PostCode": "MD-6716",
+"LatLong": "46.4492,28.8786"
 },
 {
 "Name": "Sagaidac",
@@ -3127,9 +3187,19 @@
 "LatLong": "46.6617,28.8458"
 },
 {
+"Name": "Sagaidacul Nou",
+"PostCode": "MD-7718",
+"LatLong": "46.6931,28.8508"
+},
+{
 "Name": "Satul Nou",
 "PostCode": "MD-4128",
 "LatLong": "46.6178,28.9078"
+},
+{
+"Name": "Schinosica",
+"PostCode": "MD-4124",
+"LatLong": "46.7278,28.7875"
 },
 {
 "Name": "Selemet",
@@ -3147,84 +3217,14 @@
 "LatLong": "46.4619,28.6744"
 },
 {
-"Name": "Dimitrovca",
-"PostCode": "MD-4131",
-"LatLong": "46.4853,28.7181"
-},
-{
-"Name": "Valea Perjei",
-"PostCode": "MD-4132",
-"LatLong": "46.6231,28.7264"
-},
-{
-"Name": "Basarabeasca 1",
-"PostCode": "MD-6701",
-"LatLong": "46.4167,28.9167"
-},
-{
-"Name": "Abaclia",
-"PostCode": "MD-6711",
-"LatLong": "46.3619,28.9419"
-},
-{
-"Name": "Bascalia",
-"PostCode": "MD-6712",
-"LatLong": "46.3083,28.7844"
-},
-{
-"Name": "Carabetovca",
-"PostCode": "MD-6713",
-"LatLong": "46.4139,28.9128"
-},
-{
-"Name": "Iordanovca",
-"PostCode": "MD-6714",
-"LatLong": "46.3939,28.9092"
-},
-{
-"Name": "Iserlia",
-"PostCode": "MD-6715",
-"LatLong": "46.4864,28.9539"
-},
-{
-"Name": "Bogdanovca",
-"PostCode": "MD-6715",
-"LatLong": "46.5122,28.9342"
-},
-{
-"Name": "Carabiber",
-"PostCode": "MD-6715",
-"LatLong": "46.4722,28.9956"
-},
-{
-"Name": "Ivanovca",
-"PostCode": "MD-6715",
-"LatLong": "46.5064,28.9492"
-},
-{
-"Name": "Sadaclia",
-"PostCode": "MD-6716",
-"LatLong": "46.4492,28.8786"
-},
-{
 "Name": "Troitcoe",
 "PostCode": "MD-6717",
 "LatLong": "46.5128,29.0281"
 },
 {
-"Name": "Batir",
-"PostCode": "MD-7712",
-"LatLong": "46.5775,29.0042"
-},
-{
-"Name": "Codreni",
-"PostCode": "MD-7718",
-"LatLong": "46.6756,28.8836"
-},
-{
-"Name": "Sagaidacul Nou",
-"PostCode": "MD-7718",
-"LatLong": "46.6931,28.8508"
+"Name": "Valea Perjei",
+"PostCode": "MD-4132",
+"LatLong": "46.6231,28.7264"
 },
 {
 "Name": "Zloti",
@@ -3245,11 +3245,6 @@
 {
 "Places": [
 {
-"Name": "Stefan-Voda",
-"PostCode": "MD-4201",
-"LatLong": "46.5153,29.6631"
-},
-{
 "Name": "Alava",
 "PostCode": "MD-4211",
 "LatLong": "46.5092,29.5678"
@@ -3265,14 +3260,14 @@
 "LatLong": "46.5208,29.4539"
 },
 {
-"Name": "Carahasani",
-"PostCode": "MD-4214",
-"LatLong": "46.4675,29.8122"
-},
-{
 "Name": "Caplani",
 "PostCode": "MD-4215",
 "LatLong": "46.3872,29.8714"
+},
+{
+"Name": "Carahasani",
+"PostCode": "MD-4214",
+"LatLong": "46.4675,29.8122"
 },
 {
 "Name": "Cioburciu",
@@ -3300,17 +3295,17 @@
 "LatLong": "46.5444,29.5656"
 },
 {
+"Name": "Hadjilari",
+"PostCode": "MD-4224",
+"LatLong": "46.5206,29.6014"
+},
+{
 "Name": "Lazo",
 "PostCode": "MD-4222",
 "LatLong": "46.4878,29.5764"
 },
 {
 "Name": "Marianca De Jos",
-"PostCode": "MD-4224",
-"LatLong": "46.5206,29.6014"
-},
-{
-"Name": "Hadjilari",
 "PostCode": "MD-4224",
 "LatLong": "46.5206,29.6014"
 },
@@ -3365,6 +3360,11 @@
 "LatLong": "46.4458,29.6878"
 },
 {
+"Name": "Stefan-Voda",
+"PostCode": "MD-4201",
+"LatLong": "46.5153,29.6631"
+},
+{
 "Name": "Talmaza 1",
 "PostCode": "MD-4237",
 "LatLong": "46.6358,29.6647"
@@ -3403,19 +3403,29 @@
 {
 "Places": [
 {
-"Name": "Gradinita",
-"PostCode": "MD-4221",
-"LatLong": "46.6531,29.5842"
+"Name": "Baccealia",
+"PostCode": "MD-4311",
+"LatLong": "46.6911,29.2806"
 },
 {
-"Name": "Leuntea",
-"PostCode": "MD-4223",
-"LatLong": "46.6628,29.5878"
+"Name": "Baimaclia",
+"PostCode": "MD-7711",
+"LatLong": "46.5908,29.0928"
 },
 {
-"Name": "Valea Verde",
-"PostCode": "MD-4223",
-"LatLong": "46.6933,29.5883"
+"Name": "Baurci",
+"PostCode": "MD-7714",
+"LatLong": "46.6581,28.9522"
+},
+{
+"Name": "Cainari",
+"PostCode": "MD-7701",
+"LatLong": "46.6789,29.0461"
+},
+{
+"Name": "Cainari Gara",
+"PostCode": "MD-7702",
+"LatLong": "46.6442,29.4139"
 },
 {
 "Name": "Causeni 1",
@@ -3438,24 +3448,44 @@
 "LatLong": "46.6442,29.4139"
 },
 {
-"Name": "Baccealia",
-"PostCode": "MD-4311",
-"LatLong": "46.6911,29.2806"
-},
-{
-"Name": "Tricolici",
-"PostCode": "MD-4311",
-"LatLong": "46.7372,29.2397"
-},
-{
 "Name": "Chircaesti",
 "PostCode": "MD-4312",
 "LatLong": "46.7181,29.5217"
 },
 {
+"Name": "Chircaestii Noi",
+"PostCode": "MD-7714",
+"LatLong": "46.6581,28.9522"
+},
+{
 "Name": "Cirnateni",
 "PostCode": "MD-4313",
 "LatLong": "46.6544,29.4919"
+},
+{
+"Name": "Cirnatenii Noi",
+"PostCode": "MD-7717",
+"LatLong": "46.6494,29.135"
+},
+{
+"Name": "Ciuflesti",
+"PostCode": "MD-7716",
+"LatLong": "46.6242,29.0019"
+},
+{
+"Name": "Constantinovca",
+"PostCode": "MD-7719",
+"LatLong": "46.7211,29.1094"
+},
+{
+"Name": "Copanca",
+"PostCode": "MD-5716",
+"LatLong": "46.7169,29.6206"
+},
+{
+"Name": "Coscalia",
+"PostCode": "MD-7720",
+"LatLong": "46.6856,29.1569"
 },
 {
 "Name": "Firladeni",
@@ -3468,6 +3498,16 @@
 "LatLong": "46.7525,29.3011"
 },
 {
+"Name": "Florica",
+"PostCode": "MD-7726",
+"LatLong": "46.69,29.2222"
+},
+{
+"Name": "Gradinita",
+"PostCode": "MD-4221",
+"LatLong": "46.6531,29.5842"
+},
+{
 "Name": "Grigorievca",
 "PostCode": "MD-4318",
 "LatLong": "46.6897,29.3294"
@@ -3478,9 +3518,29 @@
 "LatLong": "46.7564,29.4797"
 },
 {
+"Name": "Leuntea",
+"PostCode": "MD-4223",
+"LatLong": "46.6628,29.5878"
+},
+{
+"Name": "Marianca De Sus",
+"PostCode": "MD-4329",
+"LatLong": "46.6483,29.3119"
+},
+{
 "Name": "Opaci",
 "PostCode": "MD-4320",
 "LatLong": "46.5797,29.35"
+},
+{
+"Name": "Pervomaisc",
+"PostCode": "MD-7725",
+"LatLong": "46.7011,29.0892"
+},
+{
+"Name": "Plop",
+"PostCode": "MD-7726",
+"LatLong": "46.7108,29.2197"
 },
 {
 "Name": "Plop-Stiubei",
@@ -3498,9 +3558,9 @@
 "LatLong": "46.595,29.2444"
 },
 {
-"Name": "Tanatari",
-"PostCode": "MD-4324",
-"LatLong": "46.7222,29.4156"
+"Name": "Salcuta Noua",
+"PostCode": "MD-7717",
+"LatLong": "46.6322,29.1906"
 },
 {
 "Name": "Stefanesti",
@@ -3508,9 +3568,14 @@
 "LatLong": "46.7067,29.3708"
 },
 {
-"Name": "Ursoaia Noua",
-"PostCode": "MD-4325",
-"LatLong": "46.7269,29.3389"
+"Name": "Surchiceni",
+"PostCode": "MD-7729",
+"LatLong": "46.6228,29.0536"
+},
+{
+"Name": "Tanatari",
+"PostCode": "MD-4324",
+"LatLong": "46.7222,29.4156"
 },
 {
 "Name": "Tanatarii Noi",
@@ -3518,9 +3583,19 @@
 "LatLong": "46.7367,29.3208"
 },
 {
+"Name": "Taraclia",
+"PostCode": "MD-7730",
+"LatLong": "46.5703,29.1156"
+},
+{
 "Name": "Tocuz",
 "PostCode": "MD-4326",
 "LatLong": "46.5239,29.2961"
+},
+{
+"Name": "Tricolici",
+"PostCode": "MD-4311",
+"LatLong": "46.7372,29.2397"
 },
 {
 "Name": "Ucrainca",
@@ -3528,24 +3603,19 @@
 "LatLong": "46.4311,29.2728"
 },
 {
-"Name": "Zviozdocica",
-"PostCode": "MD-4327",
-"LatLong": "46.4797,29.3242"
-},
-{
 "Name": "Ursoaia",
 "PostCode": "MD-4328",
 "LatLong": "46.7058,29.4456"
 },
 {
-"Name": "Marianca De Sus",
-"PostCode": "MD-4329",
-"LatLong": "46.6483,29.3119"
+"Name": "Ursoaia Noua",
+"PostCode": "MD-4325",
+"LatLong": "46.7269,29.3389"
 },
 {
-"Name": "Zaim Loc.C.F.",
-"PostCode": "MD-4329",
-"LatLong": "46.6339,29.3292"
+"Name": "Valea Verde",
+"PostCode": "MD-4223",
+"LatLong": "46.6933,29.5883"
 },
 {
 "Name": "Zaim",
@@ -3553,84 +3623,14 @@
 "LatLong": "46.6194,29.3464"
 },
 {
-"Name": "Copanca",
-"PostCode": "MD-5716",
-"LatLong": "46.7169,29.6206"
+"Name": "Zaim Loc.C.F.",
+"PostCode": "MD-4329",
+"LatLong": "46.6339,29.3292"
 },
 {
-"Name": "Cainari",
-"PostCode": "MD-7701",
-"LatLong": "46.6789,29.0461"
-},
-{
-"Name": "Cainari Gara",
-"PostCode": "MD-7702",
-"LatLong": "46.6442,29.4139"
-},
-{
-"Name": "Baimaclia",
-"PostCode": "MD-7711",
-"LatLong": "46.5908,29.0928"
-},
-{
-"Name": "Baurci",
-"PostCode": "MD-7714",
-"LatLong": "46.6581,28.9522"
-},
-{
-"Name": "Chircaestii Noi",
-"PostCode": "MD-7714",
-"LatLong": "46.6581,28.9522"
-},
-{
-"Name": "Ciuflesti",
-"PostCode": "MD-7716",
-"LatLong": "46.6242,29.0019"
-},
-{
-"Name": "Salcuta Noua",
-"PostCode": "MD-7717",
-"LatLong": "46.6322,29.1906"
-},
-{
-"Name": "Cirnatenii Noi",
-"PostCode": "MD-7717",
-"LatLong": "46.6494,29.135"
-},
-{
-"Name": "Constantinovca",
-"PostCode": "MD-7719",
-"LatLong": "46.7211,29.1094"
-},
-{
-"Name": "Coscalia",
-"PostCode": "MD-7720",
-"LatLong": "46.6856,29.1569"
-},
-{
-"Name": "Pervomaisc",
-"PostCode": "MD-7725",
-"LatLong": "46.7011,29.0892"
-},
-{
-"Name": "Plop",
-"PostCode": "MD-7726",
-"LatLong": "46.7108,29.2197"
-},
-{
-"Name": "Florica",
-"PostCode": "MD-7726",
-"LatLong": "46.69,29.2222"
-},
-{
-"Name": "Surchiceni",
-"PostCode": "MD-7729",
-"LatLong": "46.6228,29.0536"
-},
-{
-"Name": "Taraclia",
-"PostCode": "MD-7730",
-"LatLong": "46.5703,29.1156"
+"Name": "Zviozdocica",
+"PostCode": "MD-4327",
+"LatLong": "46.4797,29.3242"
 }
 ]
 }
@@ -3646,44 +3646,9 @@
 {
 "Places": [
 {
-"Name": "Dubasari 1",
-"PostCode": "MD-4501",
-"LatLong": "47.2772,29.1397"
-},
-{
-"Name": "Mahala",
-"PostCode": "MD-4501",
-"LatLong": "47.2667,29.1497"
-},
-{
-"Name": "Dubasari 2",
-"PostCode": "MD-4502",
-"LatLong": "47.7591,27.932"
-},
-{
-"Name": "Coicova",
-"PostCode": "MD-4511",
-"LatLong": "47.4117,29.2425"
-},
-{
-"Name": "Vasilievca",
-"PostCode": "MD-4512",
-"LatLong": "47.3689,29.305"
-},
-{
-"Name": "Cosnita Noua",
-"PostCode": "MD-4512",
-"LatLong": "47.3133,29.3308"
-},
-{
-"Name": "Comisarovca Noua",
-"PostCode": "MD-4512",
-"LatLong": "47.3306,29.3472"
-},
-{
-"Name": "Crasnii Vinogradari",
+"Name": "Afanasievca",
 "PostCode": "MD-4513",
-"LatLong": "47.2983,29.2781"
+"LatLong": "47.3231,29.2536"
 },
 {
 "Name": "Alexandrovca Noua",
@@ -3691,19 +3656,34 @@
 "LatLong": "47.3,29.3025"
 },
 {
+"Name": "Bosca",
+"PostCode": "MD-4522",
+"LatLong": "47.3061,29.3644"
+},
+{
 "Name": "Calinovca",
 "PostCode": "MD-4513",
 "LatLong": "47.3117,29.25"
 },
 {
-"Name": "Afanasievca",
-"PostCode": "MD-4513",
-"LatLong": "47.3231,29.2536"
+"Name": "Coicova",
+"PostCode": "MD-4511",
+"LatLong": "47.4117,29.2425"
 },
 {
-"Name": "Lunga Noua",
+"Name": "Comisarovca Noua",
+"PostCode": "MD-4512",
+"LatLong": "47.3306,29.3472"
+},
+{
+"Name": "Cosnita Noua",
+"PostCode": "MD-4512",
+"LatLong": "47.3133,29.3308"
+},
+{
+"Name": "Crasnii Vinogradari",
 "PostCode": "MD-4513",
-"LatLong": "47.2858,29.2747"
+"LatLong": "47.2983,29.2781"
 },
 {
 "Name": "Doibani 1",
@@ -3716,9 +3696,14 @@
 "LatLong": "47.4036,29.2136"
 },
 {
-"Name": "Goianul Nou",
-"PostCode": "MD-4516",
-"LatLong": "47.3853,29.3203"
+"Name": "Dubasari 1",
+"PostCode": "MD-4501",
+"LatLong": "47.2772,29.1397"
+},
+{
+"Name": "Dubasari 2",
+"PostCode": "MD-4502",
+"LatLong": "47.7591,27.932"
 },
 {
 "Name": "Dubau",
@@ -3736,9 +3721,9 @@
 "LatLong": "47.3772,29.16"
 },
 {
-"Name": "Iagorlic",
-"PostCode": "MD-4518",
-"LatLong": "47.3922,29.1608"
+"Name": "Goianul Nou",
+"PostCode": "MD-4516",
+"LatLong": "47.3853,29.3203"
 },
 {
 "Name": "Harmatca",
@@ -3746,19 +3731,29 @@
 "LatLong": "47.4233,29.0928"
 },
 {
+"Name": "Iagorlic",
+"PostCode": "MD-4518",
+"LatLong": "47.3922,29.1608"
+},
+{
 "Name": "Lunga",
 "PostCode": "MD-4520",
 "LatLong": "47.2461,29.1667"
 },
 {
+"Name": "Lunga Noua",
+"PostCode": "MD-4513",
+"LatLong": "47.2858,29.2747"
+},
+{
+"Name": "Mahala",
+"PostCode": "MD-4501",
+"LatLong": "47.2667,29.1497"
+},
+{
 "Name": "Pohrebea Noua",
 "PostCode": "MD-4522",
 "LatLong": "47.3103,29.3783"
-},
-{
-"Name": "Bosca",
-"PostCode": "MD-4522",
-"LatLong": "47.3061,29.3644"
 },
 {
 "Name": "Roghi",
@@ -3769,6 +3764,11 @@
 "Name": "Tibuleuca",
 "PostCode": "MD-4524",
 "LatLong": "47.4056,29.1044"
+},
+{
+"Name": "Vasilievca",
+"PostCode": "MD-4512",
+"LatLong": "47.3689,29.305"
 }
 ]
 }
@@ -3784,14 +3784,14 @@
 {
 "Places": [
 {
-"Name": "Corjova",
-"PostCode": "MD-4501",
-"LatLong": "47.2878,29.1297"
-},
-{
 "Name": "Cocieri",
 "PostCode": "MD-4571",
 "LatLong": "47.3075,29.1103"
+},
+{
+"Name": "Corjova",
+"PostCode": "MD-4501",
+"LatLong": "47.2878,29.1297"
 },
 {
 "Name": "Cosnita",
@@ -3822,11 +3822,6 @@
 {
 "Places": [
 {
-"Name": "Pohrebea",
-"PostCode": "MD-4572",
-"LatLong": "47.1819,29.1661"
-},
-{
 "Name": "Molovata Noua",
 "PostCode": "MD-4576",
 "LatLong": "47.3469,29.0911"
@@ -3840,6 +3835,11 @@
 "Name": "Pirita",
 "PostCode": "MD-4579",
 "LatLong": "47.1008,29.1192"
+},
+{
+"Name": "Pohrebea",
+"PostCode": "MD-4572",
+"LatLong": "47.1819,29.1661"
 }
 ]
 }
@@ -3896,9 +3896,9 @@
 {
 "Places": [
 {
-"Name": "Edinet",
-"PostCode": "MD-4601",
-"LatLong": "48.1681,27.305"
+"Name": "Alexandreni",
+"PostCode": "MD-4612",
+"LatLong": "48.1472,27.2583"
 },
 {
 "Name": "Alexeevca",
@@ -3906,24 +3906,14 @@
 "LatLong": "48.0936,27.2608"
 },
 {
-"Name": "Alexandreni",
-"PostCode": "MD-4612",
-"LatLong": "48.1472,27.2583"
-},
-{
-"Name": "Badragii Vechi",
-"PostCode": "MD-4613",
-"LatLong": "48.0378,27.1064"
-},
-{
 "Name": "Badragii Noi",
 "PostCode": "MD-4614",
 "LatLong": "48.0642,27.0747"
 },
 {
-"Name": "Volodeni",
-"PostCode": "MD-4615",
-"LatLong": "48.1142,27.2014"
+"Name": "Badragii Vechi",
+"PostCode": "MD-4613",
+"LatLong": "48.0378,27.1064"
 },
 {
 "Name": "Blesteni",
@@ -3946,11 +3936,6 @@
 "LatLong": "48.0842,27.1756"
 },
 {
-"Name": "Heredeuca",
-"PostCode": "MD-4620",
-"LatLong": "48.1169,27.1431"
-},
-{
 "Name": "Burlanesti",
 "PostCode": "MD-4620",
 "LatLong": "48.1261,27.1303"
@@ -3961,9 +3946,19 @@
 "LatLong": "48.1078,27.1558"
 },
 {
+"Name": "Cepeleuti",
+"PostCode": "MD-7115",
+"LatLong": "48.3025,27.3072"
+},
+{
 "Name": "Chetrosica Noua",
 "PostCode": "MD-4621",
 "LatLong": "48.1192,27.4717"
+},
+{
+"Name": "Chetrosica Veche",
+"PostCode": "MD-4626",
+"LatLong": "48.1108,27.3853"
 },
 {
 "Name": "Chiurt",
@@ -3971,12 +3966,12 @@
 "LatLong": "48.0594,27.3411"
 },
 {
-"Name": "Constantinovca",
-"PostCode": "MD-4623",
-"LatLong": "48.2492,27.11"
+"Name": "Cliscauti",
+"PostCode": "MD-4633",
+"LatLong": "48.2844,27.3286"
 },
 {
-"Name": "Iachimeni",
+"Name": "Constantinovca",
 "PostCode": "MD-4623",
 "LatLong": "48.2492,27.11"
 },
@@ -4001,9 +3996,9 @@
 "LatLong": "48.1108,27.3853"
 },
 {
-"Name": "Chetrosica Veche",
-"PostCode": "MD-4626",
-"LatLong": "48.1108,27.3853"
+"Name": "Edinet",
+"PostCode": "MD-4601",
+"LatLong": "48.1681,27.305"
 },
 {
 "Name": "Fetesti",
@@ -4041,14 +4036,14 @@
 "LatLong": "48.0486,27.1889"
 },
 {
+"Name": "Heredeuca",
+"PostCode": "MD-4620",
+"LatLong": "48.1169,27.1431"
+},
+{
 "Name": "Hincauti",
 "PostCode": "MD-4633",
 "LatLong": "48.2739,27.3106"
-},
-{
-"Name": "Cliscauti",
-"PostCode": "MD-4633",
-"LatLong": "48.2844,27.3286"
 },
 {
 "Name": "Hlinaia",
@@ -4056,9 +4051,24 @@
 "LatLong": "48.2233,27.2533"
 },
 {
+"Name": "Hlinaia Mica",
+"PostCode": "MD-4638",
+"LatLong": "48.2536,27.2694"
+},
+{
+"Name": "Iachimeni",
+"PostCode": "MD-4623",
+"LatLong": "48.2492,27.11"
+},
+{
 "Name": "Lopatnic",
 "PostCode": "MD-4635",
 "LatLong": "48.1364,27.0522"
+},
+{
+"Name": "Onesti",
+"PostCode": "MD-4646",
+"LatLong": "48.0642,27.2722"
 },
 {
 "Name": "Parcova",
@@ -4071,9 +4081,9 @@
 "LatLong": "48.2522,27.3519"
 },
 {
-"Name": "Hlinaia Mica",
-"PostCode": "MD-4638",
-"LatLong": "48.2536,27.2694"
+"Name": "Ringaci",
+"PostCode": "MD-7115",
+"LatLong": "48.3122,27.3361"
 },
 {
 "Name": "Rotunda",
@@ -4081,24 +4091,24 @@
 "LatLong": "48.2442,27.3064"
 },
 {
-"Name": "Slobodca",
-"PostCode": "MD-4639",
-"LatLong": "48.2075,27.3686"
-},
-{
 "Name": "Ruseni",
 "PostCode": "MD-4639",
 "LatLong": "48.2017,27.4158"
 },
 {
-"Name": "Stolniceni",
-"PostCode": "MD-4640",
-"LatLong": "48.0381,27.3481"
+"Name": "Slobodca",
+"PostCode": "MD-4639",
+"LatLong": "48.2075,27.3686"
 },
 {
 "Name": "Sofrincani",
 "PostCode": "MD-4641",
 "LatLong": "48.0489,27.4139"
+},
+{
+"Name": "Stolniceni",
+"PostCode": "MD-4640",
+"LatLong": "48.0381,27.3481"
 },
 {
 "Name": "Terebna",
@@ -4116,34 +4126,24 @@
 "LatLong": "48.2083,27.1122"
 },
 {
-"Name": "Viisoara",
-"PostCode": "MD-4645",
-"LatLong": "48.0947,27.0447"
-},
-{
-"Name": "Zabriceni",
-"PostCode": "MD-4646",
-"LatLong": "48.0728,27.2533"
-},
-{
-"Name": "Onesti",
-"PostCode": "MD-4646",
-"LatLong": "48.0642,27.2722"
-},
-{
-"Name": "Cepeleuti",
-"PostCode": "MD-7115",
-"LatLong": "48.3025,27.3072"
-},
-{
 "Name": "Vancicauti",
 "PostCode": "MD-7115",
 "LatLong": "48.3074,27.3217"
 },
 {
-"Name": "Ringaci",
-"PostCode": "MD-7115",
-"LatLong": "48.3122,27.3361"
+"Name": "Viisoara",
+"PostCode": "MD-4645",
+"LatLong": "48.0947,27.0447"
+},
+{
+"Name": "Volodeni",
+"PostCode": "MD-4615",
+"LatLong": "48.1142,27.2014"
+},
+{
+"Name": "Zabriceni",
+"PostCode": "MD-4646",
+"LatLong": "48.0728,27.2533"
 }
 ]
 }
@@ -4159,39 +4159,19 @@
 {
 "Places": [
 {
-"Name": "Briceni 1",
-"PostCode": "MD-4701",
-"LatLong": "48.3628,27.085"
-},
-{
-"Name": "Lipcani 1",
-"PostCode": "MD-4706",
-"LatLong": "48.2653,26.8039"
-},
-{
-"Name": "Lipcani 2",
-"PostCode": "MD-4707",
-"LatLong": "48.2653,26.8039"
-},
-{
-"Name": "Lipcani 3",
-"PostCode": "MD-4708",
-"LatLong": "48.2653,26.8039"
-},
-{
 "Name": "Balasinesti",
 "PostCode": "MD-4711",
 "LatLong": "48.2439,26.9606"
 },
 {
-"Name": "Bocicauti",
-"PostCode": "MD-4712",
-"LatLong": "48.2922,27.1747"
-},
-{
 "Name": "Balcauti",
 "PostCode": "MD-4712",
 "LatLong": "48.2833,27.2022"
+},
+{
+"Name": "Beleavinti",
+"PostCode": "MD-4725",
+"LatLong": "48.2886,26.9461"
 },
 {
 "Name": "Berlinti",
@@ -4204,14 +4184,19 @@
 "LatLong": "48.1608,27.0011"
 },
 {
-"Name": "Grimesti",
-"PostCode": "MD-4715",
-"LatLong": "48.1331,26.9744"
+"Name": "Bocicauti",
+"PostCode": "MD-4712",
+"LatLong": "48.2922,27.1747"
 },
 {
 "Name": "Bogdanesti",
 "PostCode": "MD-4715",
 "LatLong": "48.1403,27.0019"
+},
+{
+"Name": "Briceni 1",
+"PostCode": "MD-4701",
+"LatLong": "48.3628,27.085"
 },
 {
 "Name": "Bulboaca",
@@ -4227,6 +4212,11 @@
 "Name": "Caracusenii Vechi",
 "PostCode": "MD-4718",
 "LatLong": "48.27,27.0758"
+},
+{
+"Name": "Chirilovca",
+"PostCode": "MD-4729",
+"LatLong": "48.2586,27.1783"
 },
 {
 "Name": "Colicauti",
@@ -4264,14 +4254,14 @@
 "LatLong": "48.2886,26.9461"
 },
 {
-"Name": "Beleavinti",
-"PostCode": "MD-4725",
-"LatLong": "48.2886,26.9461"
-},
-{
 "Name": "Grimancauti",
 "PostCode": "MD-4726",
 "LatLong": "48.3894,27.0897"
+},
+{
+"Name": "Grimesti",
+"PostCode": "MD-4715",
+"LatLong": "48.1331,26.9744"
 },
 {
 "Name": "Groznita",
@@ -4289,11 +4279,6 @@
 "LatLong": "48.2586,27.1783"
 },
 {
-"Name": "Chirilovca",
-"PostCode": "MD-4729",
-"LatLong": "48.2586,27.1783"
-},
-{
 "Name": "Hlina",
 "PostCode": "MD-4730",
 "LatLong": "48.2911,26.8781"
@@ -4304,14 +4289,19 @@
 "LatLong": "48.3722,26.8433"
 },
 {
-"Name": "Pavlovca",
-"PostCode": "MD-4731",
-"LatLong": "48.3808,26.8747"
+"Name": "Lipcani 1",
+"PostCode": "MD-4706",
+"LatLong": "48.2653,26.8039"
 },
 {
-"Name": "Marcautii Noi",
-"PostCode": "MD-4732",
-"LatLong": "48.2975,27.2281"
+"Name": "Lipcani 2",
+"PostCode": "MD-4707",
+"LatLong": "48.2653,26.8039"
+},
+{
+"Name": "Lipcani 3",
+"PostCode": "MD-4708",
+"LatLong": "48.2653,26.8039"
 },
 {
 "Name": "Marcauti",
@@ -4319,9 +4309,9 @@
 "LatLong": "48.3139,27.2261"
 },
 {
-"Name": "Slobozia-Medveja",
-"PostCode": "MD-4733",
-"LatLong": "48.3806,26.7525"
+"Name": "Marcautii Noi",
+"PostCode": "MD-4732",
+"LatLong": "48.2975,27.2281"
 },
 {
 "Name": "Medveja",
@@ -4334,6 +4324,11 @@
 "LatLong": "48.2472,27.2508"
 },
 {
+"Name": "Pavlovca",
+"PostCode": "MD-4731",
+"LatLong": "48.3808,26.8747"
+},
+{
 "Name": "Pererita",
 "PostCode": "MD-4735",
 "LatLong": "48.2072,26.9158"
@@ -4342,6 +4337,11 @@
 "Name": "Sirauti",
 "PostCode": "MD-4736",
 "LatLong": "48.2372,26.8425"
+},
+{
+"Name": "Slobozia-Medveja",
+"PostCode": "MD-4733",
+"LatLong": "48.3806,26.7525"
 },
 {
 "Name": "Slobozia-Sirauti",
@@ -4382,44 +4382,14 @@
 {
 "Places": [
 {
-"Name": "Zolonceni",
-"PostCode": "MD-4801",
-"LatLong": "47.2461,29.1383"
-},
-{
-"Name": "Criuleni",
-"PostCode": "MD-4801",
-"LatLong": "47.2144,29.1614"
-},
-{
-"Name": "Malaiesti",
-"PostCode": "MD-4811",
-"LatLong": "47.0853,29.1333"
-},
-{
-"Name": "Malaiestii Noi",
-"PostCode": "MD-4811",
-"LatLong": "47.0768,29.1326"
-},
-{
 "Name": "Balabanesti",
 "PostCode": "MD-4811",
 "LatLong": "47.0683,29.1319"
 },
 {
-"Name": "Sagaidac",
-"PostCode": "MD-4812",
-"LatLong": "47.0272,29.0239"
-},
-{
-"Name": "Baltata De Sus",
-"PostCode": "MD-4812",
-"LatLong": "47.0664,29.0356"
-},
-{
-"Name": "Sagaidacul De Sus",
-"PostCode": "MD-4812",
-"LatLong": "47.0497,29.0253"
+"Name": "Balasesti",
+"PostCode": "MD-4836",
+"LatLong": "47.2656,29.0425"
 },
 {
 "Name": "Baltata",
@@ -4427,9 +4397,9 @@
 "LatLong": "47.0514,29.0478"
 },
 {
-"Name": "Mardareuca",
-"PostCode": "MD-4813",
-"LatLong": "47.1175,29.0022"
+"Name": "Baltata De Sus",
+"PostCode": "MD-4812",
+"LatLong": "47.0664,29.0356"
 },
 {
 "Name": "Boscana",
@@ -4437,24 +4407,19 @@
 "LatLong": "47.1244,29.0072"
 },
 {
+"Name": "Chetroasa",
+"PostCode": "MD-4816",
+"LatLong": "47.1222,28.9786"
+},
+{
 "Name": "Cimiseni",
 "PostCode": "MD-4815",
 "LatLong": "47.0119,29.1294"
 },
 {
-"Name": "Hrusova",
-"PostCode": "MD-4816",
-"LatLong": "47.1367,28.9519"
-},
-{
 "Name": "Ciopleni",
 "PostCode": "MD-4816",
 "LatLong": "47.1303,28.9497"
-},
-{
-"Name": "Chetroasa",
-"PostCode": "MD-4816",
-"LatLong": "47.1222,28.9786"
 },
 {
 "Name": "Corjova",
@@ -4467,24 +4432,19 @@
 "LatLong": "47.1192,29.0472"
 },
 {
+"Name": "Criuleni",
+"PostCode": "MD-4801",
+"LatLong": "47.2144,29.1614"
+},
+{
 "Name": "Cruglic",
 "PostCode": "MD-4819",
 "LatLong": "47.2197,29.0267"
 },
 {
-"Name": "Valea Colonitei",
-"PostCode": "MD-4820",
-"LatLong": "47.01,28.9867"
-},
-{
 "Name": "Dolinnoe",
 "PostCode": "MD-4820",
 "LatLong": "47.0222,28.995"
-},
-{
-"Name": "Valea Satului",
-"PostCode": "MD-4820",
-"LatLong": "47.0353,29.0058"
 },
 {
 "Name": "Drasliceni",
@@ -4507,6 +4467,11 @@
 "LatLong": "47.2469,28.9283"
 },
 {
+"Name": "Hrusova",
+"PostCode": "MD-4816",
+"LatLong": "47.1367,28.9519"
+},
+{
 "Name": "Isnovat",
 "PostCode": "MD-4826",
 "LatLong": "47.2314,28.8636"
@@ -4522,14 +4487,29 @@
 "LatLong": "47.2583,29.0639"
 },
 {
-"Name": "Porumbeni",
-"PostCode": "MD-4829",
-"LatLong": "47.1339,28.8256"
+"Name": "Loganesti",
+"PostCode": "MD-4835",
+"LatLong": "47.1725,28.7842"
 },
 {
 "Name": "Magdacesti",
 "PostCode": "MD-4829",
 "LatLong": "47.1339,28.8256"
+},
+{
+"Name": "Malaiesti",
+"PostCode": "MD-4811",
+"LatLong": "47.0853,29.1333"
+},
+{
+"Name": "Malaiestii Noi",
+"PostCode": "MD-4811",
+"LatLong": "47.0768,29.1326"
+},
+{
+"Name": "Mardareuca",
+"PostCode": "MD-4813",
+"LatLong": "47.1175,29.0022"
 },
 {
 "Name": "Mascauti",
@@ -4557,14 +4537,9 @@
 "LatLong": "47.1672,28.8325"
 },
 {
-"Name": "Ratus",
-"PostCode": "MD-4835",
-"LatLong": "47.165,28.8067"
-},
-{
-"Name": "Loganesti",
-"PostCode": "MD-4835",
-"LatLong": "47.1725,28.7842"
+"Name": "Porumbeni",
+"PostCode": "MD-4829",
+"LatLong": "47.1339,28.8256"
 },
 {
 "Name": "Raculesti",
@@ -4572,14 +4547,24 @@
 "LatLong": "47.2706,29.0675"
 },
 {
-"Name": "Balasesti",
-"PostCode": "MD-4836",
-"LatLong": "47.2656,29.0425"
+"Name": "Ratus",
+"PostCode": "MD-4835",
+"LatLong": "47.165,28.8067"
 },
 {
 "Name": "Riscova",
 "PostCode": "MD-4837",
 "LatLong": "47.2525,28.8461"
+},
+{
+"Name": "Sagaidac",
+"PostCode": "MD-4812",
+"LatLong": "47.0272,29.0239"
+},
+{
+"Name": "Sagaidacul De Sus",
+"PostCode": "MD-4812",
+"LatLong": "47.0497,29.0253"
 },
 {
 "Name": "Slobozia-Dusca",
@@ -4592,9 +4577,24 @@
 "LatLong": "47.2364,28.825"
 },
 {
+"Name": "Valea Colonitei",
+"PostCode": "MD-4820",
+"LatLong": "47.01,28.9867"
+},
+{
+"Name": "Valea Satului",
+"PostCode": "MD-4820",
+"LatLong": "47.0353,29.0058"
+},
+{
 "Name": "Zaicana",
 "PostCode": "MD-4841",
 "LatLong": "47.1686,28.9522"
+},
+{
+"Name": "Zolonceni",
+"PostCode": "MD-4801",
+"LatLong": "47.2461,29.1383"
 }
 ]
 }
@@ -4610,44 +4610,9 @@
 {
 "Places": [
 {
-"Name": "Soroca",
-"PostCode": "MD-4901",
-"LatLong": "47.805,27.5625"
-},
-{
-"Name": "Stircea",
-"PostCode": "MD-4901",
-"LatLong": "47.7922,27.5275"
-},
-{
-"Name": "Glodeni",
-"PostCode": "MD-4901",
-"LatLong": "47.7708,27.5144"
-},
-{
 "Name": "Balatina",
 "PostCode": "MD-4911",
 "LatLong": "47.6933,27.3472"
-},
-{
-"Name": "Clococenii Vechi",
-"PostCode": "MD-4911",
-"LatLong": "47.7164,27.4158"
-},
-{
-"Name": "Lipovat",
-"PostCode": "MD-4911",
-"LatLong": "47.7275,27.3719"
-},
-{
-"Name": "Tomestii Vechi",
-"PostCode": "MD-4912",
-"LatLong": "47.6567,27.3422"
-},
-{
-"Name": "Cot",
-"PostCode": "MD-4912",
-"LatLong": "47.6536,27.34"
 },
 {
 "Name": "Bisericani",
@@ -4655,19 +4620,14 @@
 "LatLong": "47.6414,27.3289"
 },
 {
-"Name": "Serghieni",
-"PostCode": "MD-4912",
-"LatLong": "47.6467,27.3522"
+"Name": "Brinzeni",
+"PostCode": "MD-4915",
+"LatLong": "47.8142,27.3639"
 },
 {
 "Name": "Butesti",
 "PostCode": "MD-4913",
 "LatLong": "47.7953,27.3333"
-},
-{
-"Name": "Molesti",
-"PostCode": "MD-4913",
-"LatLong": "47.8008,27.3486"
 },
 {
 "Name": "Cajba",
@@ -4680,9 +4640,9 @@
 "LatLong": "47.8278,27.3642"
 },
 {
-"Name": "Brinzeni",
-"PostCode": "MD-4915",
-"LatLong": "47.8142,27.3639"
+"Name": "Camencuta",
+"PostCode": "MD-4920",
+"LatLong": "47.8386,27.4458"
 },
 {
 "Name": "Ciuciulea",
@@ -4690,9 +4650,19 @@
 "LatLong": "47.6578,27.4839"
 },
 {
+"Name": "Clococenii Vechi",
+"PostCode": "MD-4911",
+"LatLong": "47.7164,27.4158"
+},
+{
 "Name": "Cobani",
 "PostCode": "MD-4918",
 "LatLong": "47.7661,27.3208"
+},
+{
+"Name": "Cot",
+"PostCode": "MD-4912",
+"LatLong": "47.6536,27.34"
 },
 {
 "Name": "Cuhnesti",
@@ -4703,11 +4673,6 @@
 "Name": "Danu",
 "PostCode": "MD-4920",
 "LatLong": "47.8306,27.4961"
-},
-{
-"Name": "Camencuta",
-"PostCode": "MD-4920",
-"LatLong": "47.8386,27.4458"
 },
 {
 "Name": "Dusmani",
@@ -4723,6 +4688,11 @@
 "Name": "Fundurii Vechi",
 "PostCode": "MD-4923",
 "LatLong": "47.7411,27.7144"
+},
+{
+"Name": "Glodeni",
+"PostCode": "MD-4901",
+"LatLong": "47.7708,27.5144"
 },
 {
 "Name": "Hijdieni",
@@ -4745,6 +4715,21 @@
 "LatLong": "47.6892,27.6103"
 },
 {
+"Name": "Lipovat",
+"PostCode": "MD-4911",
+"LatLong": "47.7275,27.3719"
+},
+{
+"Name": "Moara Domneasca",
+"PostCode": "MD-4933",
+"LatLong": "47.6228,27.4167"
+},
+{
+"Name": "Molesti",
+"PostCode": "MD-4913",
+"LatLong": "47.8008,27.3486"
+},
+{
 "Name": "Nicolaevca",
 "PostCode": "MD-4928",
 "LatLong": "47.8231,27.5536"
@@ -4755,9 +4740,34 @@
 "LatLong": "47.7475,27.5797"
 },
 {
+"Name": "Serghieni",
+"PostCode": "MD-4912",
+"LatLong": "47.6467,27.3522"
+},
+{
+"Name": "Soroca",
+"PostCode": "MD-4901",
+"LatLong": "47.805,27.5625"
+},
+{
+"Name": "Stircea",
+"PostCode": "MD-4901",
+"LatLong": "47.7922,27.5275"
+},
+{
 "Name": "Sturzovca",
 "PostCode": "MD-4931",
 "LatLong": "47.8017,27.7189"
+},
+{
+"Name": "Tomestii Noi",
+"PostCode": "MD-4934",
+"LatLong": "47.6667,27.35"
+},
+{
+"Name": "Tomestii Vechi",
+"PostCode": "MD-4912",
+"LatLong": "47.6567,27.3422"
 },
 {
 "Name": "Ustia",
@@ -4765,19 +4775,9 @@
 "LatLong": "47.6619,27.595"
 },
 {
-"Name": "Moara Domneasca",
-"PostCode": "MD-4933",
-"LatLong": "47.6228,27.4167"
-},
-{
 "Name": "Viisoara",
 "PostCode": "MD-4933",
 "LatLong": "47.6158,27.4478"
-},
-{
-"Name": "Tomestii Noi",
-"PostCode": "MD-4934",
-"LatLong": "47.6667,27.35"
 }
 ]
 }
@@ -4793,29 +4793,9 @@
 {
 "Places": [
 {
-"Name": "Floresti 1",
-"PostCode": "MD-5001",
-"LatLong": "47.8933,28.3014"
-},
-{
-"Name": "Floresti 2",
-"PostCode": "MD-5002",
-"LatLong": "47.8933,28.3014"
-},
-{
-"Name": "Lunga",
-"PostCode": "MD-5007",
-"LatLong": "47.8583,28.2197"
-},
-{
-"Name": "Marculesti(Oras)",
-"PostCode": "MD-5008",
-"LatLong": "47.8686,28.2475"
-},
-{
-"Name": "Radulenii Noi",
-"PostCode": "MD-5011",
-"LatLong": "47.9567,28.2464"
+"Name": "Alexandrovca",
+"PostCode": "MD-5039",
+"LatLong": "47.9553,28.1289"
 },
 {
 "Name": "Alexeevca",
@@ -4823,9 +4803,34 @@
 "LatLong": "47.9439,28.2858"
 },
 {
+"Name": "Antonovca",
+"PostCode": "MD-5032",
+"LatLong": "47.7869,28.2142"
+},
+{
 "Name": "Bahrinesti",
 "PostCode": "MD-5012",
 "LatLong": "47.8564,28.2422"
+},
+{
+"Name": "Bezeni",
+"PostCode": "MD-5027",
+"LatLong": "47.9822,28.1206"
+},
+{
+"Name": "Bobulesti",
+"PostCode": "MD-5023",
+"LatLong": "47.8794,28.3525"
+},
+{
+"Name": "Bursuc",
+"PostCode": "MD-6645",
+"LatLong": "47.9733,28.7356"
+},
+{
+"Name": "Capresti",
+"PostCode": "MD-5033",
+"LatLong": "47.7542,28.4633"
 },
 {
 "Name": "Casunca",
@@ -4833,19 +4838,24 @@
 "LatLong": "47.785,28.3942"
 },
 {
+"Name": "Cenusa",
+"PostCode": "MD-5036",
+"LatLong": "47.8475,28.3864"
+},
+{
 "Name": "Cernita",
 "PostCode": "MD-5014",
 "LatLong": "47.9658,28.4669"
 },
 {
+"Name": "Chirilovca",
+"PostCode": "MD-5019",
+"LatLong": "47.9606,28.3292"
+},
+{
 "Name": "Ciripcau",
 "PostCode": "MD-5015",
 "LatLong": "47.9839,28.3822"
-},
-{
-"Name": "Marinesti",
-"PostCode": "MD-5016",
-"LatLong": "47.7314,28.3839"
 },
 {
 "Name": "Ciutulesti",
@@ -4858,6 +4868,21 @@
 "LatLong": "47.9381,28.4644"
 },
 {
+"Name": "Cuhurestii De Jos",
+"PostCode": "MD-6643",
+"LatLong": "47.9294,28.5919"
+},
+{
+"Name": "Cuhurestii De Sus",
+"PostCode": "MD-6642",
+"LatLong": "47.9211,28.5536"
+},
+{
+"Name": "Cunicea",
+"PostCode": "MD-6644",
+"LatLong": "47.9092,28.6444"
+},
+{
 "Name": "Domulgeni",
 "PostCode": "MD-5018",
 "LatLong": "47.7936,28.4339"
@@ -4868,14 +4893,19 @@
 "LatLong": "47.9714,28.3189"
 },
 {
-"Name": "Chirilovca",
-"PostCode": "MD-5019",
-"LatLong": "47.9606,28.3292"
+"Name": "Fagadau",
+"PostCode": "MD-6652",
+"LatLong": "47.9369,28.5253"
 },
 {
-"Name": "Frumusica Noua",
-"PostCode": "MD-5020",
-"LatLong": "47.8772,28.0619"
+"Name": "Floresti 1",
+"PostCode": "MD-5001",
+"LatLong": "47.8933,28.3014"
+},
+{
+"Name": "Floresti 2",
+"PostCode": "MD-5002",
+"LatLong": "47.8933,28.3014"
 },
 {
 "Name": "Frumusica",
@@ -4883,14 +4913,14 @@
 "LatLong": "47.9617,28.1181"
 },
 {
-"Name": "Tira",
-"PostCode": "MD-5021",
-"LatLong": "47.8436,28.4053"
+"Name": "Frumusica Noua",
+"PostCode": "MD-5020",
+"LatLong": "47.8772,28.0619"
 },
 {
-"Name": "Tira Loc.C.F.",
-"PostCode": "MD-5021",
-"LatLong": "47.8436,28.4053"
+"Name": "Frunzesti",
+"PostCode": "MD-5032",
+"LatLong": "47.7847,28.1864"
 },
 {
 "Name": "Ghindesti Oras",
@@ -4903,9 +4933,9 @@
 "LatLong": "47.8933,28.3014"
 },
 {
-"Name": "Stirceni",
-"PostCode": "MD-5023",
-"LatLong": "47.8756,28.3642"
+"Name": "Gura Cainarului",
+"PostCode": "MD-5024",
+"LatLong": "47.8669,28.1839"
 },
 {
 "Name": "Gura Camencii",
@@ -4918,21 +4948,6 @@
 "LatLong": "47.9039,28.3536"
 },
 {
-"Name": "Bobulesti",
-"PostCode": "MD-5023",
-"LatLong": "47.8794,28.3525"
-},
-{
-"Name": "Zarojeni",
-"PostCode": "MD-5024",
-"LatLong": "47.8669,28.1611"
-},
-{
-"Name": "Gura Cainarului",
-"PostCode": "MD-5024",
-"LatLong": "47.8669,28.1839"
-},
-{
 "Name": "Hirtop",
 "PostCode": "MD-5025",
 "LatLong": "47.8828,28.46"
@@ -4943,104 +4958,9 @@
 "LatLong": "48.1553,27.8794"
 },
 {
-"Name": "Izvoare",
-"PostCode": "MD-5027",
-"LatLong": "47.9772,28.1328"
-},
-{
-"Name": "Bezeni",
-"PostCode": "MD-5027",
-"LatLong": "47.9822,28.1206"
-},
-{
-"Name": "Scaieni",
-"PostCode": "MD-5027",
-"LatLong": "47.9694,28.1261"
-},
-{
-"Name": "Maiscoe",
-"PostCode": "MD-5029",
-"LatLong": "47.9111,28.0492"
-},
-{
-"Name": "Marculesti(Sat)",
-"PostCode": "MD-5030",
-"LatLong": "47.8686,28.2475"
-},
-{
-"Name": "Sirbesti",
-"PostCode": "MD-5031",
-"LatLong": "47.8022,28.3247"
-},
-{
-"Name": "Valea Radoaiei",
-"PostCode": "MD-5031",
-"LatLong": "47.7556,28.2639"
-},
-{
 "Name": "Ion Voda",
 "PostCode": "MD-5031",
 "LatLong": "47.7258,28.3283"
-},
-{
-"Name": "Nicolaevca",
-"PostCode": "MD-5031",
-"LatLong": "47.7539,28.2969"
-},
-{
-"Name": "Mihailovca",
-"PostCode": "MD-5032",
-"LatLong": "47.8017,28.2625"
-},
-{
-"Name": "Frunzesti",
-"PostCode": "MD-5032",
-"LatLong": "47.7847,28.1864"
-},
-{
-"Name": "Antonovca",
-"PostCode": "MD-5032",
-"LatLong": "47.7869,28.2142"
-},
-{
-"Name": "Prajila",
-"PostCode": "MD-5032",
-"LatLong": "47.8414,28.2039"
-},
-{
-"Name": "Capresti",
-"PostCode": "MD-5033",
-"LatLong": "47.7542,28.4633"
-},
-{
-"Name": "Prodanesti",
-"PostCode": "MD-5033",
-"LatLong": "47.7431,28.4822"
-},
-{
-"Name": "Putinesti",
-"PostCode": "MD-5034",
-"LatLong": "47.835,28.1242"
-},
-{
-"Name": "Radulenii Vechi",
-"PostCode": "MD-5035",
-"LatLong": "47.9856,28.2636"
-},
-{
-"Name": "Cenusa",
-"PostCode": "MD-5036",
-"LatLong": "47.8475,28.3864"
-},
-{
-"Name": "Rosieticii Vechi",
-"PostCode": "MD-5036",
-"LatLong": "47.8131,28.4"
-},
-{
-"Name": "Rosietici",
-"PostCode": "MD-5036",
-"LatLong": "47.8311,28.4031"
 },
 {
 "Name": "Ivanovca",
@@ -5048,69 +4968,9 @@
 "LatLong": "47.9103,28.1586"
 },
 {
-"Name": "Sevirova",
-"PostCode": "MD-5037",
-"LatLong": "47.9272,28.1508"
-},
-{
-"Name": "Stefanesti",
-"PostCode": "MD-5038",
-"LatLong": "47.7336,28.4389"
-},
-{
-"Name": "Prodanestii Vechi",
-"PostCode": "MD-5038",
-"LatLong": "47.7161,28.4428"
-},
-{
-"Name": "Trifanesti",
-"PostCode": "MD-5039",
-"LatLong": "47.7444,28.0983"
-},
-{
-"Name": "Alexandrovca",
-"PostCode": "MD-5039",
-"LatLong": "47.9553,28.1289"
-},
-{
-"Name": "Varvareuca",
-"PostCode": "MD-5040",
-"LatLong": "47.8789,28.3103"
-},
-{
-"Name": "Nicolaevca",
-"PostCode": "MD-6642",
-"LatLong": "47.9192,28.5272"
-},
-{
-"Name": "Unchitesti Loc.C.F.",
-"PostCode": "MD-6642",
-"LatLong": "47.9231,28.5356"
-},
-{
-"Name": "Cuhurestii De Sus",
-"PostCode": "MD-6642",
-"LatLong": "47.9211,28.5536"
-},
-{
-"Name": "Unchitesti",
-"PostCode": "MD-6642",
-"LatLong": "47.9292,28.5258"
-},
-{
-"Name": "Cuhurestii De Jos",
-"PostCode": "MD-6643",
-"LatLong": "47.9294,28.5919"
-},
-{
-"Name": "Cunicea",
-"PostCode": "MD-6644",
-"LatLong": "47.9092,28.6444"
-},
-{
-"Name": "Bursuc",
-"PostCode": "MD-6645",
-"LatLong": "47.9733,28.7356"
+"Name": "Izvoare",
+"PostCode": "MD-5027",
+"LatLong": "47.9772,28.1328"
 },
 {
 "Name": "Japca",
@@ -5118,9 +4978,94 @@
 "LatLong": "47.9819,28.7036"
 },
 {
+"Name": "Lunga",
+"PostCode": "MD-5007",
+"LatLong": "47.8583,28.2197"
+},
+{
+"Name": "Maiscoe",
+"PostCode": "MD-5029",
+"LatLong": "47.9111,28.0492"
+},
+{
+"Name": "Marculesti(Oras)",
+"PostCode": "MD-5008",
+"LatLong": "47.8686,28.2475"
+},
+{
+"Name": "Marculesti(Sat)",
+"PostCode": "MD-5030",
+"LatLong": "47.8686,28.2475"
+},
+{
+"Name": "Marinesti",
+"PostCode": "MD-5016",
+"LatLong": "47.7314,28.3839"
+},
+{
+"Name": "Mihailovca",
+"PostCode": "MD-5032",
+"LatLong": "47.8017,28.2625"
+},
+{
 "Name": "Napadova",
 "PostCode": "MD-6646",
 "LatLong": "48.0194,28.5983"
+},
+{
+"Name": "Nicolaevca",
+"PostCode": "MD-5031",
+"LatLong": "47.7539,28.2969"
+},
+{
+"Name": "Nicolaevca",
+"PostCode": "MD-6642",
+"LatLong": "47.9192,28.5272"
+},
+{
+"Name": "Octeabrscoe",
+"PostCode": "MD-6652",
+"LatLong": "47.7128,27.9514"
+},
+{
+"Name": "Prajila",
+"PostCode": "MD-5032",
+"LatLong": "47.8414,28.2039"
+},
+{
+"Name": "Prodanesti",
+"PostCode": "MD-5033",
+"LatLong": "47.7431,28.4822"
+},
+{
+"Name": "Prodanestii Vechi",
+"PostCode": "MD-5038",
+"LatLong": "47.7161,28.4428"
+},
+{
+"Name": "Putinesti",
+"PostCode": "MD-5034",
+"LatLong": "47.835,28.1242"
+},
+{
+"Name": "Radulenii Noi",
+"PostCode": "MD-5011",
+"LatLong": "47.9567,28.2464"
+},
+{
+"Name": "Radulenii Vechi",
+"PostCode": "MD-5035",
+"LatLong": "47.9856,28.2636"
+},
+{
+"Name": "Rosietici",
+"PostCode": "MD-5036",
+"LatLong": "47.8311,28.4031"
+},
+{
+"Name": "Rosieticii Vechi",
+"PostCode": "MD-5036",
+"LatLong": "47.8131,28.4"
 },
 {
 "Name": "Sanatauca",
@@ -5128,14 +5073,34 @@
 "LatLong": "48.0122,28.6822"
 },
 {
+"Name": "Scaieni",
+"PostCode": "MD-5027",
+"LatLong": "47.9694,28.1261"
+},
+{
+"Name": "Sevirova",
+"PostCode": "MD-5037",
+"LatLong": "47.9272,28.1508"
+},
+{
+"Name": "Sirbesti",
+"PostCode": "MD-5031",
+"LatLong": "47.8022,28.3247"
+},
+{
+"Name": "Stefanesti",
+"PostCode": "MD-5038",
+"LatLong": "47.7336,28.4389"
+},
+{
+"Name": "Stirceni",
+"PostCode": "MD-5023",
+"LatLong": "47.8756,28.3642"
+},
+{
 "Name": "Temeleuti",
 "PostCode": "MD-6649",
 "LatLong": "47.98,28.4972"
-},
-{
-"Name": "Tirgul-Vertiujeni",
-"PostCode": "MD-6650",
-"LatLong": "48.0308,28.5347"
 },
 {
 "Name": "Tipordei",
@@ -5143,14 +5108,44 @@
 "LatLong": "47.9353,28.6142"
 },
 {
-"Name": "Fagadau",
-"PostCode": "MD-6652",
-"LatLong": "47.9369,28.5253"
+"Name": "Tira",
+"PostCode": "MD-5021",
+"LatLong": "47.8436,28.4053"
 },
 {
-"Name": "Octeabrscoe",
-"PostCode": "MD-6652",
-"LatLong": "47.7128,27.9514"
+"Name": "Tira Loc.C.F.",
+"PostCode": "MD-5021",
+"LatLong": "47.8436,28.4053"
+},
+{
+"Name": "Tirgul-Vertiujeni",
+"PostCode": "MD-6650",
+"LatLong": "48.0308,28.5347"
+},
+{
+"Name": "Trifanesti",
+"PostCode": "MD-5039",
+"LatLong": "47.7444,28.0983"
+},
+{
+"Name": "Unchitesti",
+"PostCode": "MD-6642",
+"LatLong": "47.9292,28.5258"
+},
+{
+"Name": "Unchitesti Loc.C.F.",
+"PostCode": "MD-6642",
+"LatLong": "47.9231,28.5356"
+},
+{
+"Name": "Valea Radoaiei",
+"PostCode": "MD-5031",
+"LatLong": "47.7556,28.2639"
+},
+{
+"Name": "Varvareuca",
+"PostCode": "MD-5040",
+"LatLong": "47.8789,28.3103"
 },
 {
 "Name": "Vascauti",
@@ -5166,6 +5161,11 @@
 "Name": "Zaluceni",
 "PostCode": "MD-6654",
 "LatLong": "48.0494,28.5564"
+},
+{
+"Name": "Zarojeni",
+"PostCode": "MD-5024",
+"LatLong": "47.8669,28.1611"
 }
 ]
 }
@@ -5181,44 +5181,19 @@
 {
 "Places": [
 {
-"Name": "Marasesti",
-"PostCode": "MD-5020",
-"LatLong": "47.8642,28.0692"
-},
-{
-"Name": "Singerei",
-"PostCode": "MD-6201",
-"LatLong": "47.6406,28.1419"
-},
-{
-"Name": "Biruinta",
-"PostCode": "MD-6202",
-"LatLong": "47.8161,28.0686"
-},
-{
-"Name": "Vranesti",
-"PostCode": "MD-6203",
-"LatLong": "47.6231,28.1019"
-},
-{
-"Name": "Grigoresti",
-"PostCode": "MD-6211",
-"LatLong": "47.8003,28.0606"
-},
-{
 "Name": "Alexandreni",
 "PostCode": "MD-6211",
 "LatLong": "47.8056,28.0758"
 },
 {
-"Name": "Heciul Vechi",
-"PostCode": "MD-6211",
-"LatLong": "47.7983,28.1006"
+"Name": "Alexeuca",
+"PostCode": "MD-6220",
+"LatLong": "47.6872,28.2936"
 },
 {
-"Name": "Sloveanca",
-"PostCode": "MD-6212",
-"LatLong": "47.6589,28.3822"
+"Name": "Antonovca",
+"PostCode": "MD-6235",
+"LatLong": "47.6775,28.2383"
 },
 {
 "Name": "Balasesti",
@@ -5231,19 +5206,29 @@
 "LatLong": "47.6969,28.0367"
 },
 {
-"Name": "Lipovanca",
-"PostCode": "MD-6213",
-"LatLong": "47.6789,27.9844"
-},
-{
 "Name": "Bilicenii Vechi",
 "PostCode": "MD-6214",
 "LatLong": "47.6564,28.0472"
 },
 {
-"Name": "Coada Iazului",
-"PostCode": "MD-6214",
-"LatLong": "47.6553,27.9936"
+"Name": "Biruinta",
+"PostCode": "MD-6202",
+"LatLong": "47.8161,28.0686"
+},
+{
+"Name": "Bobletici",
+"PostCode": "MD-6219",
+"LatLong": "47.4664,28.0544"
+},
+{
+"Name": "Bocancea-Schit",
+"PostCode": "MD-6224",
+"LatLong": "47.5111,28.1358"
+},
+{
+"Name": "Brejeni",
+"PostCode": "MD-6217",
+"LatLong": "47.5817,28.1403"
 },
 {
 "Name": "Bursuceni",
@@ -5251,9 +5236,9 @@
 "LatLong": "47.4897,28.0139"
 },
 {
-"Name": "Slobozia-Magura",
-"PostCode": "MD-6215",
-"LatLong": "47.485,27.965"
+"Name": "Chirileni",
+"PostCode": "MD-6228",
+"LatLong": "47.6911,28.1978"
 },
 {
 "Name": "Chiscareni",
@@ -5266,9 +5251,14 @@
 "LatLong": "47.5581,28.1281"
 },
 {
-"Name": "Brejeni",
-"PostCode": "MD-6217",
-"LatLong": "47.5817,28.1403"
+"Name": "Cliscauti",
+"PostCode": "MD-6230",
+"LatLong": "47.6097,28.2919"
+},
+{
+"Name": "Coada Iazului",
+"PostCode": "MD-6214",
+"LatLong": "47.6553,27.9936"
 },
 {
 "Name": "Copaceni",
@@ -5281,39 +5271,19 @@
 "LatLong": "47.4886,28.0536"
 },
 {
-"Name": "Flaminzeni",
-"PostCode": "MD-6219",
-"LatLong": "47.4989,28.09"
-},
-{
-"Name": "Bobletici",
-"PostCode": "MD-6219",
-"LatLong": "47.4664,28.0544"
-},
-{
-"Name": "Alexeuca",
-"PostCode": "MD-6220",
-"LatLong": "47.6872,28.2936"
-},
-{
-"Name": "Gura-Oituz",
-"PostCode": "MD-6220",
-"LatLong": "47.7019,28.3475"
-},
-{
 "Name": "Cotiujenii Mici",
 "PostCode": "MD-6220",
 "LatLong": "47.7033,28.3081"
 },
 {
-"Name": "Cubolta",
-"PostCode": "MD-6221",
-"LatLong": "47.8742,28.0389"
-},
-{
 "Name": "Cotovca",
 "PostCode": "MD-6222",
 "LatLong": "47.8522,27.975"
+},
+{
+"Name": "Cubolta",
+"PostCode": "MD-6221",
+"LatLong": "47.8742,28.0389"
 },
 {
 "Name": "Dobrogea Noua",
@@ -5331,29 +5301,24 @@
 "LatLong": "47.7214,28.2542"
 },
 {
-"Name": "Sacarovca",
-"PostCode": "MD-6223",
-"LatLong": "47.7069,28.2103"
-},
-{
-"Name": "Bocancea-Schit",
-"PostCode": "MD-6224",
-"LatLong": "47.5111,28.1358"
-},
-{
-"Name": "Valea Lui Vlad",
-"PostCode": "MD-6224",
-"LatLong": "47.4828,28.1308"
-},
-{
 "Name": "Dumbravita",
 "PostCode": "MD-6224",
 "LatLong": "47.4808,28.1106"
 },
 {
-"Name": "Petropavlovca",
-"PostCode": "MD-6225",
-"LatLong": "47.5925,28.2108"
+"Name": "Evghenievca",
+"PostCode": "MD-6235",
+"LatLong": "47.67,28.2231"
+},
+{
+"Name": "Flaminzeni",
+"PostCode": "MD-6219",
+"LatLong": "47.4989,28.09"
+},
+{
+"Name": "Gavrilovca",
+"PostCode": "MD-6235",
+"LatLong": "47.6439,28.2583"
 },
 {
 "Name": "Grigorauca",
@@ -5361,14 +5326,24 @@
 "LatLong": "47.6214,28.1981"
 },
 {
+"Name": "Grigoresti",
+"PostCode": "MD-6211",
+"LatLong": "47.8003,28.0606"
+},
+{
+"Name": "Gura-Oituz",
+"PostCode": "MD-6220",
+"LatLong": "47.7019,28.3475"
+},
+{
 "Name": "Heciul Nou",
 "PostCode": "MD-6226",
 "LatLong": "47.7742,28.0606"
 },
 {
-"Name": "Iezarenii Vechi",
-"PostCode": "MD-6227",
-"LatLong": "47.5653,28.0894"
+"Name": "Heciul Vechi",
+"PostCode": "MD-6211",
+"LatLong": "47.7983,28.1006"
 },
 {
 "Name": "Iezarenii Noi",
@@ -5376,14 +5351,24 @@
 "LatLong": "47.5886,28.0972"
 },
 {
-"Name": "Chirileni",
-"PostCode": "MD-6228",
-"LatLong": "47.6911,28.1978"
+"Name": "Iezarenii Vechi",
+"PostCode": "MD-6227",
+"LatLong": "47.5653,28.0894"
 },
 {
 "Name": "Izvoare",
 "PostCode": "MD-6228",
 "LatLong": "47.7194,28.1967"
+},
+{
+"Name": "Lipovanca",
+"PostCode": "MD-6213",
+"LatLong": "47.6789,27.9844"
+},
+{
+"Name": "Marasesti",
+"PostCode": "MD-5020",
+"LatLong": "47.8642,28.0692"
 },
 {
 "Name": "Marinesti",
@@ -5394,16 +5379,6 @@
 "Name": "Mihailovca",
 "PostCode": "MD-6230",
 "LatLong": "47.5914,28.2603"
-},
-{
-"Name": "Sestaci",
-"PostCode": "MD-6230",
-"LatLong": "47.6236,28.2911"
-},
-{
-"Name": "Cliscauti",
-"PostCode": "MD-6230",
-"LatLong": "47.6097,28.2919"
 },
 {
 "Name": "Mindrestii Noi",
@@ -5421,19 +5396,9 @@
 "LatLong": "47.7128,27.9514"
 },
 {
-"Name": "Pepenii Noi",
-"PostCode": "MD-6234",
-"LatLong": "47.6525,28.3397"
-},
-{
-"Name": "Razalai",
-"PostCode": "MD-6234",
-"LatLong": "47.6422,28.3592"
-},
-{
-"Name": "Romanovca",
-"PostCode": "MD-6234",
-"LatLong": "47.6581,28.2961"
+"Name": "Palaria",
+"PostCode": "MD-6241",
+"LatLong": "47.6867,27.9394"
 },
 {
 "Name": "Pepeni",
@@ -5441,29 +5406,19 @@
 "LatLong": "47.6386,28.3406"
 },
 {
-"Name": "Evghenievca",
-"PostCode": "MD-6235",
-"LatLong": "47.67,28.2231"
+"Name": "Pepenii Noi",
+"PostCode": "MD-6234",
+"LatLong": "47.6525,28.3397"
 },
 {
-"Name": "Antonovca",
-"PostCode": "MD-6235",
-"LatLong": "47.6775,28.2383"
-},
-{
-"Name": "Gavrilovca",
-"PostCode": "MD-6235",
-"LatLong": "47.6439,28.2583"
+"Name": "Petropavlovca",
+"PostCode": "MD-6225",
+"LatLong": "47.5925,28.2108"
 },
 {
 "Name": "Petrovca",
 "PostCode": "MD-6235",
 "LatLong": "47.6608,28.225"
-},
-{
-"Name": "Vladimireuca",
-"PostCode": "MD-6235",
-"LatLong": "47.6569,28.2322"
 },
 {
 "Name": "Prepelita",
@@ -5476,9 +5431,29 @@
 "LatLong": "47.7281,28.16"
 },
 {
-"Name": "Trifanesti",
-"PostCode": "MD-6238",
-"LatLong": "47.7444,28.0983"
+"Name": "Razalai",
+"PostCode": "MD-6234",
+"LatLong": "47.6422,28.3592"
+},
+{
+"Name": "Romanovca",
+"PostCode": "MD-6234",
+"LatLong": "47.6581,28.2961"
+},
+{
+"Name": "Sacarovca",
+"PostCode": "MD-6223",
+"LatLong": "47.7069,28.2103"
+},
+{
+"Name": "Sestaci",
+"PostCode": "MD-6230",
+"LatLong": "47.6236,28.2911"
+},
+{
+"Name": "Singerei",
+"PostCode": "MD-6201",
+"LatLong": "47.6406,28.1419"
 },
 {
 "Name": "Singereii Noi",
@@ -5491,6 +5466,21 @@
 "LatLong": "47.5731,28.0097"
 },
 {
+"Name": "Slobozia-Magura",
+"PostCode": "MD-6215",
+"LatLong": "47.485,27.965"
+},
+{
+"Name": "Sloveanca",
+"PostCode": "MD-6212",
+"LatLong": "47.6589,28.3822"
+},
+{
+"Name": "Tambula",
+"PostCode": "MD-6241",
+"LatLong": "47.6961,27.9247"
+},
+{
 "Name": "Taura Noua",
 "PostCode": "MD-6240",
 "LatLong": "47.5483,27.9081"
@@ -5499,16 +5489,6 @@
 "Name": "Taura Veche",
 "PostCode": "MD-6240",
 "LatLong": "47.5369,27.9519"
-},
-{
-"Name": "Tambula",
-"PostCode": "MD-6241",
-"LatLong": "47.6961,27.9247"
-},
-{
-"Name": "Palaria",
-"PostCode": "MD-6241",
-"LatLong": "47.6867,27.9394"
 },
 {
 "Name": "Tiplesti",
@@ -5521,9 +5501,29 @@
 "LatLong": "47.8183,28.1236"
 },
 {
+"Name": "Trifanesti",
+"PostCode": "MD-6238",
+"LatLong": "47.7444,28.0983"
+},
+{
+"Name": "Valea Lui Vlad",
+"PostCode": "MD-6224",
+"LatLong": "47.4828,28.1308"
+},
+{
 "Name": "Valea Norocului",
 "PostCode": "MD-6243",
 "LatLong": "47.7656,28.2025"
+},
+{
+"Name": "Vladimireuca",
+"PostCode": "MD-6235",
+"LatLong": "47.6569,28.2322"
+},
+{
+"Name": "Vranesti",
+"PostCode": "MD-6203",
+"LatLong": "47.6231,28.1019"
 }
 ]
 }
@@ -5539,21 +5539,6 @@
 {
 "Places": [
 {
-"Name": "Donduseni 1",
-"PostCode": "MD-5101",
-"LatLong": "48.2427,27.6101"
-},
-{
-"Name": "Donduseni 2",
-"PostCode": "MD-5102",
-"LatLong": "48.2427,27.6101"
-},
-{
-"Name": "Donduseni",
-"PostCode": "MD-5106",
-"LatLong": "48.2244,27.5853"
-},
-{
 "Name": "Arionesti",
 "PostCode": "MD-5111",
 "LatLong": "48.3753,27.8431"
@@ -5562,6 +5547,11 @@
 "Name": "Baraboi",
 "PostCode": "MD-5112",
 "LatLong": "48.0858,27.6175"
+},
+{
+"Name": "Boroseni",
+"PostCode": "MD-5121",
+"LatLong": "47.9872,27.4725"
 },
 {
 "Name": "Braicau",
@@ -5579,9 +5569,9 @@
 "LatLong": "48.1147,27.6486"
 },
 {
-"Name": "Elenovca",
-"PostCode": "MD-5115",
-"LatLong": "48.1247,27.6261"
+"Name": "Caraiman",
+"PostCode": "MD-5123",
+"LatLong": "48.1067,27.5614"
 },
 {
 "Name": "Cernoleuca",
@@ -5609,19 +5599,29 @@
 "LatLong": "48.2664,27.8542"
 },
 {
+"Name": "Donduseni",
+"PostCode": "MD-5106",
+"LatLong": "48.2244,27.5853"
+},
+{
+"Name": "Donduseni 1",
+"PostCode": "MD-5101",
+"LatLong": "48.2427,27.6101"
+},
+{
+"Name": "Donduseni 2",
+"PostCode": "MD-5102",
+"LatLong": "48.2427,27.6101"
+},
+{
+"Name": "Elenovca",
+"PostCode": "MD-5115",
+"LatLong": "48.1247,27.6261"
+},
+{
 "Name": "Elizavetovca",
 "PostCode": "MD-5121",
 "LatLong": "48.2808,27.7086"
-},
-{
-"Name": "Boroseni",
-"PostCode": "MD-5121",
-"LatLong": "47.9872,27.4725"
-},
-{
-"Name": "Caraiman",
-"PostCode": "MD-5123",
-"LatLong": "48.1067,27.5614"
 },
 {
 "Name": "Frasin",
@@ -5634,14 +5634,14 @@
 "LatLong": "48.265,27.7892"
 },
 {
-"Name": "Octeabrscoe",
-"PostCode": "MD-5127",
-"LatLong": "48.3397,27.6683"
-},
-{
 "Name": "Mosana",
 "PostCode": "MD-5127",
 "LatLong": "48.3233,27.6892"
+},
+{
+"Name": "Octeabrscoe",
+"PostCode": "MD-5127",
+"LatLong": "48.3397,27.6683"
 },
 {
 "Name": "Pivniceni",
@@ -5674,6 +5674,11 @@
 "LatLong": "48.3053,27.7869"
 },
 {
+"Name": "Taul",
+"PostCode": "MD-5141",
+"LatLong": "48.2158,27.6728"
+},
+{
 "Name": "Teleseuca",
 "PostCode": "MD-5139",
 "LatLong": "48.2789,27.8992"
@@ -5687,11 +5692,6 @@
 "Name": "Tirnova",
 "PostCode": "MD-5140",
 "LatLong": "48.1678,27.6556"
-},
-{
-"Name": "Taul",
-"PostCode": "MD-5141",
-"LatLong": "48.2158,27.6728"
 }
 ]
 }
@@ -5707,46 +5707,6 @@
 {
 "Places": [
 {
-"Name": "Fintinita",
-"PostCode": "MD-5122",
-"LatLong": "48.1075,27.6911"
-},
-{
-"Name": "Ghizdita Loc.C.F.",
-"PostCode": "MD-5122",
-"LatLong": "48.1075,27.6911"
-},
-{
-"Name": "Maramonovca",
-"PostCode": "MD-5125",
-"LatLong": "48.2044,27.7958"
-},
-{
-"Name": "Mindic",
-"PostCode": "MD-5126",
-"LatLong": "48.1511,27.7928"
-},
-{
-"Name": "Drochia 1",
-"PostCode": "MD-5201",
-"LatLong": "48.0661,27.7994"
-},
-{
-"Name": "Surii Noi",
-"PostCode": "MD-5201",
-"LatLong": "48.0661,27.7994"
-},
-{
-"Name": "Drochia 2",
-"PostCode": "MD-5202",
-"LatLong": "48.0008,27.8583"
-},
-{
-"Name": "Baroncea Noua",
-"PostCode": "MD-5202",
-"LatLong": "48.0008,27.8583"
-},
-{
 "Name": "Antoneuca",
 "PostCode": "MD-5211",
 "LatLong": "48.0764,27.6908"
@@ -5755,6 +5715,16 @@
 "Name": "Baroncea",
 "PostCode": "MD-5212",
 "LatLong": "48.0364,27.9133"
+},
+{
+"Name": "Baroncea Noua",
+"PostCode": "MD-5202",
+"LatLong": "48.0008,27.8583"
+},
+{
+"Name": "Ceapaevca",
+"PostCode": "MD-5231",
+"LatLong": "48.2047,27.8703"
 },
 {
 "Name": "Chetrosu",
@@ -5772,9 +5742,34 @@
 "LatLong": "47.9572,27.9544"
 },
 {
+"Name": "Drochia 1",
+"PostCode": "MD-5201",
+"LatLong": "48.0661,27.7994"
+},
+{
+"Name": "Drochia 2",
+"PostCode": "MD-5202",
+"LatLong": "48.0008,27.8583"
+},
+{
 "Name": "Drochia Sat",
 "PostCode": "MD-5216",
 "LatLong": "48.035,27.8161"
+},
+{
+"Name": "Fintinita",
+"PostCode": "MD-5122",
+"LatLong": "48.1075,27.6911"
+},
+{
+"Name": "Ghizdita Loc.C.F.",
+"PostCode": "MD-5122",
+"LatLong": "48.1075,27.6911"
+},
+{
+"Name": "Gribova (Nadusita)",
+"PostCode": "MD-5223",
+"LatLong": "48.0172,27.93"
 },
 {
 "Name": "Hasnasenii Mari",
@@ -5787,14 +5782,34 @@
 "LatLong": "47.8556,27.9072"
 },
 {
+"Name": "Holosnita Noua",
+"PostCode": "MD-5226",
+"LatLong": "48.1161,27.9358"
+},
+{
+"Name": "Iliciovca",
+"PostCode": "MD-5231",
+"LatLong": "48.1553,27.8794"
+},
+{
 "Name": "Macareuca",
 "PostCode": "MD-5220",
 "LatLong": "48.1422,27.9717"
 },
 {
+"Name": "Maramonovca",
+"PostCode": "MD-5125",
+"LatLong": "48.2044,27.7958"
+},
+{
 "Name": "Miciurin",
 "PostCode": "MD-5221",
 "LatLong": "47.9861,27.7922"
+},
+{
+"Name": "Mindic",
+"PostCode": "MD-5126",
+"LatLong": "48.1511,27.7928"
 },
 {
 "Name": "Moara De Piatra",
@@ -5803,11 +5818,6 @@
 },
 {
 "Name": "Nadusita (Gribova)",
-"PostCode": "MD-5223",
-"LatLong": "48.0172,27.93"
-},
-{
-"Name": "Gribova (Nadusita)",
 "PostCode": "MD-5223",
 "LatLong": "48.0172,27.93"
 },
@@ -5827,19 +5837,14 @@
 "LatLong": "48.1228,27.9083"
 },
 {
-"Name": "Salvirii Noi",
-"PostCode": "MD-5226",
-"LatLong": "48.1447,27.9192"
+"Name": "Pelinia",
+"PostCode": "MD-5629",
+"LatLong": "47.8781,27.8344"
 },
 {
-"Name": "Holosnita Noua",
-"PostCode": "MD-5226",
-"LatLong": "48.1161,27.9358"
-},
-{
-"Name": "Sergheuca",
-"PostCode": "MD-5227",
-"LatLong": "48.0647,27.7269"
+"Name": "Pelinia Loc.C.F.",
+"PostCode": "MD-5629",
+"LatLong": "47.8781,27.8344"
 },
 {
 "Name": "Pervomaiscoe",
@@ -5852,11 +5857,6 @@
 "LatLong": "47.9431,27.9567"
 },
 {
-"Name": "Popestii Noi",
-"PostCode": "MD-5228",
-"LatLong": "47.9758,27.9897"
-},
-{
 "Name": "Popestii De Jos",
 "PostCode": "MD-5229",
 "LatLong": "48.0733,28.0306"
@@ -5867,24 +5867,39 @@
 "LatLong": "48.0881,28.0256"
 },
 {
+"Name": "Popestii Noi",
+"PostCode": "MD-5228",
+"LatLong": "47.9758,27.9897"
+},
+{
+"Name": "Salvirii Noi",
+"PostCode": "MD-5226",
+"LatLong": "48.1447,27.9192"
+},
+{
 "Name": "Salvirii Vechi",
 "PostCode": "MD-5231",
 "LatLong": "48.1978,27.8464"
 },
 {
-"Name": "Ceapaevca",
-"PostCode": "MD-5231",
-"LatLong": "48.2047,27.8703"
+"Name": "Sergheuca",
+"PostCode": "MD-5227",
+"LatLong": "48.0647,27.7269"
 },
 {
-"Name": "Iliciovca",
-"PostCode": "MD-5231",
-"LatLong": "48.1553,27.8794"
+"Name": "Sofia",
+"PostCode": "MD-5235",
+"LatLong": "47.9442,27.8675"
 },
 {
 "Name": "Suri",
 "PostCode": "MD-5232",
 "LatLong": "48.0964,27.8556"
+},
+{
+"Name": "Surii Noi",
+"PostCode": "MD-5201",
+"LatLong": "48.0661,27.7994"
 },
 {
 "Name": "Tarigrad",
@@ -5895,21 +5910,6 @@
 "Name": "Zgurita",
 "PostCode": "MD-5234",
 "LatLong": "48.115,28.0206"
-},
-{
-"Name": "Sofia",
-"PostCode": "MD-5235",
-"LatLong": "47.9442,27.8675"
-},
-{
-"Name": "Pelinia Loc.C.F.",
-"PostCode": "MD-5629",
-"LatLong": "47.8781,27.8344"
-},
-{
-"Name": "Pelinia",
-"PostCode": "MD-5629",
-"LatLong": "47.8781,27.8344"
 }
 ]
 }
@@ -5943,34 +5943,9 @@
 {
 "Places": [
 {
-"Name": "Stepanovca",
-"PostCode": "MD-5222",
-"LatLong": "47.895,28.0069"
-},
-{
-"Name": "Riscani",
-"PostCode": "MD-5601",
-"LatLong": "47.9572,27.5539"
-},
-{
-"Name": "Balanul Nou",
-"PostCode": "MD-5603",
-"LatLong": "47.9606,27.5025"
-},
-{
-"Name": "Cucuietii Vechi",
-"PostCode": "MD-5611",
-"LatLong": "47.9058,27.4356"
-},
-{
 "Name": "Alexandresti",
 "PostCode": "MD-5611",
 "LatLong": "47.8944,27.4311"
-},
-{
-"Name": "Cucuietii Noi",
-"PostCode": "MD-5611",
-"LatLong": "47.8944,27.42"
 },
 {
 "Name": "Alunis",
@@ -5978,19 +5953,9 @@
 "LatLong": "47.8486,27.6494"
 },
 {
-"Name": "Borosenii Noi",
-"PostCode": "MD-5613",
-"LatLong": "47.9872,27.4725"
-},
-{
-"Name": "Ivanesti",
-"PostCode": "MD-5614",
-"LatLong": "47.8878,27.4172"
-},
-{
-"Name": "Reteni",
-"PostCode": "MD-5614",
-"LatLong": "47.8117,27.2517"
+"Name": "Armanca",
+"PostCode": "MD-5642",
+"LatLong": "47.9869,27.5269"
 },
 {
 "Name": "Avrameni",
@@ -5998,9 +5963,14 @@
 "LatLong": "47.7861,27.2625"
 },
 {
-"Name": "Reteni-Vasileuti",
-"PostCode": "MD-5614",
-"LatLong": "47.8067,27.2614"
+"Name": "Balanul Nou",
+"PostCode": "MD-5603",
+"LatLong": "47.9606,27.5025"
+},
+{
+"Name": "Borosenii Noi",
+"PostCode": "MD-5613",
+"LatLong": "47.9872,27.4725"
 },
 {
 "Name": "Braniste",
@@ -6008,14 +5978,24 @@
 "LatLong": "47.7967,27.2558"
 },
 {
+"Name": "Bulhac",
+"PostCode": "MD-5640",
+"LatLong": "47.9233,27.675"
+},
+{
+"Name": "Ceparia",
+"PostCode": "MD-5640",
+"LatLong": "47.9322,27.7153"
+},
+{
+"Name": "Ciobanovca",
+"PostCode": "MD-5621",
+"LatLong": "47.8906,27.7586"
+},
+{
 "Name": "Ciubara",
 "PostCode": "MD-5615",
 "LatLong": "48.0778,27.5339"
-},
-{
-"Name": "Singureni",
-"PostCode": "MD-5616",
-"LatLong": "47.8242,27.8544"
 },
 {
 "Name": "Corlateni",
@@ -6028,9 +6008,14 @@
 "LatLong": "47.8583,27.2586"
 },
 {
-"Name": "Proscureni",
-"PostCode": "MD-5618",
-"LatLong": "47.8672,27.285"
+"Name": "Cucuietii Noi",
+"PostCode": "MD-5611",
+"LatLong": "47.8944,27.42"
+},
+{
+"Name": "Cucuietii Vechi",
+"PostCode": "MD-5611",
+"LatLong": "47.9058,27.4356"
 },
 {
 "Name": "Damascani",
@@ -6038,14 +6023,19 @@
 "LatLong": "47.8669,27.3056"
 },
 {
-"Name": "Duruitoarea",
-"PostCode": "MD-5618",
-"LatLong": "47.8694,27.26"
+"Name": "Druta",
+"PostCode": "MD-5633",
+"LatLong": "47.9667,27.2961"
 },
 {
 "Name": "Dumeni",
 "PostCode": "MD-5619",
 "LatLong": "47.9114,27.2031"
+},
+{
+"Name": "Duruitoarea",
+"PostCode": "MD-5618",
+"LatLong": "47.8694,27.26"
 },
 {
 "Name": "Duruitoarea Noua",
@@ -6063,11 +6053,6 @@
 "LatLong": "47.8811,27.7783"
 },
 {
-"Name": "Ciobanovca",
-"PostCode": "MD-5621",
-"LatLong": "47.8906,27.7586"
-},
-{
 "Name": "Hiliuti",
 "PostCode": "MD-5622",
 "LatLong": "47.9289,27.3869"
@@ -6076,6 +6061,16 @@
 "Name": "Horodiste",
 "PostCode": "MD-5623",
 "LatLong": "47.9539,27.2639"
+},
+{
+"Name": "Ivanesti",
+"PostCode": "MD-5614",
+"LatLong": "47.8878,27.4172"
+},
+{
+"Name": "Luparia",
+"PostCode": "MD-5625",
+"LatLong": "47.8758,27.5539"
 },
 {
 "Name": "Malaiesti",
@@ -6088,24 +6083,24 @@
 "LatLong": "47.885,27.5075"
 },
 {
-"Name": "Luparia",
-"PostCode": "MD-5625",
-"LatLong": "47.8758,27.5539"
-},
-{
-"Name": "Nihoreni",
-"PostCode": "MD-5626",
-"LatLong": "47.9356,27.5619"
-},
-{
 "Name": "Mihaileni",
 "PostCode": "MD-5626",
 "LatLong": "48.0408,27.6139"
 },
 {
+"Name": "Mihailenii Noi",
+"PostCode": "MD-5642",
+"LatLong": "48.0336,27.5325"
+},
+{
 "Name": "Moseni",
 "PostCode": "MD-5627",
 "LatLong": "48.0278,27.4469"
+},
+{
+"Name": "Nihoreni",
+"PostCode": "MD-5626",
+"LatLong": "47.9356,27.5619"
 },
 {
 "Name": "Pascauti",
@@ -6128,14 +6123,14 @@
 "LatLong": "47.9958,27.3236"
 },
 {
-"Name": "Druta",
-"PostCode": "MD-5633",
-"LatLong": "47.9667,27.2961"
-},
-{
 "Name": "Pociumbeni",
 "PostCode": "MD-5633",
 "LatLong": "47.9781,27.3033"
+},
+{
+"Name": "Proscureni",
+"PostCode": "MD-5618",
+"LatLong": "47.8672,27.285"
 },
 {
 "Name": "Racaria",
@@ -6148,24 +6143,49 @@
 "LatLong": "47.9847,27.6153"
 },
 {
-"Name": "Slobozia-Recea",
-"PostCode": "MD-5636",
-"LatLong": "47.8533,27.7019"
-},
-{
 "Name": "Recea",
 "PostCode": "MD-5636",
 "LatLong": "47.8964,27.6719"
 },
 {
-"Name": "Sverdiac",
-"PostCode": "MD-5637",
-"LatLong": "47.8958,27.7278"
+"Name": "Reteni",
+"PostCode": "MD-5614",
+"LatLong": "47.8117,27.2517"
+},
+{
+"Name": "Reteni-Vasileuti",
+"PostCode": "MD-5614",
+"LatLong": "47.8067,27.2614"
+},
+{
+"Name": "Riscani",
+"PostCode": "MD-5601",
+"LatLong": "47.9572,27.5539"
 },
 {
 "Name": "Saptebani",
 "PostCode": "MD-5638",
 "LatLong": "47.8972,27.3517"
+},
+{
+"Name": "Singureni",
+"PostCode": "MD-5616",
+"LatLong": "47.8242,27.8544"
+},
+{
+"Name": "Slobozia-Recea",
+"PostCode": "MD-5636",
+"LatLong": "47.8533,27.7019"
+},
+{
+"Name": "Stepanovca",
+"PostCode": "MD-5222",
+"LatLong": "47.895,28.0069"
+},
+{
+"Name": "Stiubeieni",
+"PostCode": "MD-5642",
+"LatLong": "48.0317,27.5114"
 },
 {
 "Name": "Sturzeni",
@@ -6178,14 +6198,9 @@
 "LatLong": "47.9211,27.7044"
 },
 {
-"Name": "Ceparia",
-"PostCode": "MD-5640",
-"LatLong": "47.9322,27.7153"
-},
-{
-"Name": "Bulhac",
-"PostCode": "MD-5640",
-"LatLong": "47.9233,27.675"
+"Name": "Sverdiac",
+"PostCode": "MD-5637",
+"LatLong": "47.8958,27.7278"
 },
 {
 "Name": "Usurei",
@@ -6193,29 +6208,14 @@
 "LatLong": "47.8908,27.5953"
 },
 {
-"Name": "Mihailenii Noi",
-"PostCode": "MD-5642",
-"LatLong": "48.0336,27.5325"
+"Name": "Varatic",
+"PostCode": "MD-5643",
+"LatLong": "47.9169,27.2633"
 },
 {
 "Name": "Vasileuti",
 "PostCode": "MD-5642",
 "LatLong": "48.0072,27.5069"
-},
-{
-"Name": "Stiubeieni",
-"PostCode": "MD-5642",
-"LatLong": "48.0317,27.5114"
-},
-{
-"Name": "Armanca",
-"PostCode": "MD-5642",
-"LatLong": "47.9869,27.5269"
-},
-{
-"Name": "Varatic",
-"PostCode": "MD-5643",
-"LatLong": "47.9169,27.2633"
 },
 {
 "Name": "Zaicani",
@@ -6254,29 +6254,14 @@
 {
 "Places": [
 {
-"Name": "Stohnaia",
-"PostCode": "MD-5400",
-"LatLong": "47.6667,28.8333"
-},
-{
 "Name": "Bosernita",
 "PostCode": "MD-5401",
 "LatLong": "47.7844,28.9806"
 },
 {
-"Name": "Rezina 1",
-"PostCode": "MD-5401",
-"LatLong": "47.7776,28.9776"
-},
-{
-"Name": "Ciorna",
-"PostCode": "MD-5401",
-"LatLong": "47.7708,28.9747"
-},
-{
-"Name": "Rezina 3",
-"PostCode": "MD-5403",
-"LatLong": "47.6667,28.8333"
+"Name": "Buciusca",
+"PostCode": "MD-5432",
+"LatLong": "47.6389,28.9869"
 },
 {
 "Name": "Busauca",
@@ -6287,6 +6272,11 @@
 "Name": "Ciniseuti",
 "PostCode": "MD-5412",
 "LatLong": "47.6956,28.855"
+},
+{
+"Name": "Ciorna",
+"PostCode": "MD-5401",
+"LatLong": "47.7708,28.9747"
 },
 {
 "Name": "Cogilniceni",
@@ -6304,19 +6294,9 @@
 "LatLong": "47.6942,28.9003"
 },
 {
-"Name": "Roscanii De Sus",
-"PostCode": "MD-5417",
-"LatLong": "47.6289,28.7689"
-},
-{
 "Name": "Ghiduleni",
 "PostCode": "MD-5417",
 "LatLong": "47.6108,28.7447"
-},
-{
-"Name": "Roscanii De Jos",
-"PostCode": "MD-5417",
-"LatLong": "47.6467,28.7375"
 },
 {
 "Name": "Gordinesti",
@@ -6329,24 +6309,9 @@
 "LatLong": "47.6147,28.9431"
 },
 {
-"Name": "Slobozia-Horodiste",
-"PostCode": "MD-5419",
-"LatLong": "47.5983,28.9356"
-},
-{
 "Name": "Ignatei",
 "PostCode": "MD-5420",
 "LatLong": "47.6825,28.6617"
-},
-{
-"Name": "Tipova",
-"PostCode": "MD-5421",
-"LatLong": "47.605,28.9794"
-},
-{
-"Name": "Nistreni",
-"PostCode": "MD-5421",
-"LatLong": "47.5411,29.01"
 },
 {
 "Name": "Lalova",
@@ -6379,6 +6344,11 @@
 "LatLong": "47.6494,28.8939"
 },
 {
+"Name": "Nistreni",
+"PostCode": "MD-5421",
+"LatLong": "47.5411,29.01"
+},
+{
 "Name": "Otac",
 "PostCode": "MD-5426",
 "LatLong": "47.5894,28.8297"
@@ -6394,19 +6364,14 @@
 "LatLong": "47.7156,28.7108"
 },
 {
-"Name": "Roscani",
-"PostCode": "MD-5429",
-"LatLong": "47.6539,28.7408"
-},
-{
 "Name": "Pereni",
 "PostCode": "MD-5429",
 "LatLong": "47.6556,28.7767"
 },
 {
-"Name": "Pripiceni-Razesi",
-"PostCode": "MD-5430",
-"LatLong": "47.6858,28.7631"
+"Name": "Piscaresti",
+"PostCode": "MD-5433",
+"LatLong": "47.7592,28.8103"
 },
 {
 "Name": "Pripiceni-Curchi",
@@ -6414,14 +6379,39 @@
 "LatLong": "47.6828,28.7836"
 },
 {
+"Name": "Pripiceni-Razesi",
+"PostCode": "MD-5430",
+"LatLong": "47.6858,28.7631"
+},
+{
+"Name": "Rezina 1",
+"PostCode": "MD-5401",
+"LatLong": "47.7776,28.9776"
+},
+{
+"Name": "Rezina 3",
+"PostCode": "MD-5403",
+"LatLong": "47.6667,28.8333"
+},
+{
+"Name": "Roscani",
+"PostCode": "MD-5429",
+"LatLong": "47.6539,28.7408"
+},
+{
+"Name": "Roscanii De Jos",
+"PostCode": "MD-5417",
+"LatLong": "47.6467,28.7375"
+},
+{
+"Name": "Roscanii De Sus",
+"PostCode": "MD-5417",
+"LatLong": "47.6289,28.7689"
+},
+{
 "Name": "Saharna",
 "PostCode": "MD-5431",
 "LatLong": "47.6936,28.9703"
-},
-{
-"Name": "Buciusca",
-"PostCode": "MD-5432",
-"LatLong": "47.6389,28.9869"
 },
 {
 "Name": "Saharna Noua",
@@ -6434,9 +6424,9 @@
 "LatLong": "47.7414,28.7836"
 },
 {
-"Name": "Piscaresti",
-"PostCode": "MD-5433",
-"LatLong": "47.7592,28.8103"
+"Name": "Slobozia-Horodiste",
+"PostCode": "MD-5419",
+"LatLong": "47.5983,28.9356"
 },
 {
 "Name": "Solonceni",
@@ -6444,14 +6434,9 @@
 "LatLong": "47.8283,29.0039"
 },
 {
-"Name": "Tarasova",
-"PostCode": "MD-5435",
-"LatLong": "47.8772,28.9636"
-},
-{
-"Name": "Trifesti",
-"PostCode": "MD-5436",
-"LatLong": "47.6764,28.8028"
+"Name": "Stohnaia",
+"PostCode": "MD-5400",
+"LatLong": "47.6667,28.8333"
 },
 {
 "Name": "Tahnauti",
@@ -6459,9 +6444,24 @@
 "LatLong": "47.7411,28.8619"
 },
 {
+"Name": "Tarasova",
+"PostCode": "MD-5435",
+"LatLong": "47.8772,28.9636"
+},
+{
 "Name": "Tareuca",
 "PostCode": "MD-5438",
 "LatLong": "47.7514,28.8783"
+},
+{
+"Name": "Tipova",
+"PostCode": "MD-5421",
+"LatLong": "47.605,28.9794"
+},
+{
+"Name": "Trifesti",
+"PostCode": "MD-5436",
+"LatLong": "47.6764,28.8028"
 }
 ]
 }
@@ -6477,6 +6477,161 @@
 {
 "Places": [
 {
+"Name": "Andreevca",
+"PostCode": "MD-5511",
+"LatLong": "47.7631,29.1711"
+},
+{
+"Name": "Basarabca",
+"PostCode": "MD-5525",
+"LatLong": "47.5764,29.1611"
+},
+{
+"Name": "Beloci",
+"PostCode": "MD-5512",
+"LatLong": "47.8892,28.9781"
+},
+{
+"Name": "Brosteni",
+"PostCode": "MD-5513",
+"LatLong": "47.8797,29.2614"
+},
+{
+"Name": "Buschi",
+"PostCode": "MD-5503",
+"LatLong": "47.7175,29.0778"
+},
+{
+"Name": "Butuceni",
+"PostCode": "MD-5514",
+"LatLong": "47.5336,29.0258"
+},
+{
+"Name": "Chirov",
+"PostCode": "MD-5536",
+"LatLong": "47.6511,29.0972"
+},
+{
+"Name": "Cobasna",
+"PostCode": "MD-5515",
+"LatLong": "47.7844,29.2061"
+},
+{
+"Name": "Cobasna Loc.C.F.",
+"PostCode": "MD-5515",
+"LatLong": "47.7844,29.2061"
+},
+{
+"Name": "Crasnencoe",
+"PostCode": "MD-5516",
+"LatLong": "47.8486,29.1397"
+},
+{
+"Name": "Dimitrova",
+"PostCode": "MD-5516",
+"LatLong": "47.8769,29.1433"
+},
+{
+"Name": "Ghersunovca",
+"PostCode": "MD-5535",
+"LatLong": "47.7211,29.1683"
+},
+{
+"Name": "Ghidirim",
+"PostCode": "MD-5517",
+"LatLong": "47.715,28.9747"
+},
+{
+"Name": "Haraba",
+"PostCode": "MD-5518",
+"LatLong": "47.8961,29.0881"
+},
+{
+"Name": "Hirjau",
+"PostCode": "MD-5519",
+"LatLong": "47.8069,29.0081"
+},
+{
+"Name": "Ivanovca",
+"PostCode": "MD-5520",
+"LatLong": "47.8778,29.1736"
+},
+{
+"Name": "Jura",
+"PostCode": "MD-5521",
+"LatLong": "47.5178,29.0431"
+},
+{
+"Name": "Lenin",
+"PostCode": "MD-5522",
+"LatLong": "47.6656,29.1903"
+},
+{
+"Name": "Lisaia Gora",
+"PostCode": "MD-5533",
+"LatLong": "47.7392,29.0686"
+},
+{
+"Name": "Mihailovca",
+"PostCode": "MD-5524",
+"LatLong": "47.4847,29.1192"
+},
+{
+"Name": "Mihailovca Noua",
+"PostCode": "MD-5523",
+"LatLong": "47.7953,29.1217"
+},
+{
+"Name": "Mocra",
+"PostCode": "MD-5525",
+"LatLong": "47.6303,29.1517"
+},
+{
+"Name": "Molochisul Mare",
+"PostCode": "MD-5526",
+"LatLong": "47.8564,29.0558"
+},
+{
+"Name": "Molochisul Mic",
+"PostCode": "MD-5527",
+"LatLong": "47.9358,29.0342"
+},
+{
+"Name": "Novaia Jizni",
+"PostCode": "MD-5528",
+"LatLong": "47.6578,29.0833"
+},
+{
+"Name": "Ofatinti",
+"PostCode": "MD-5528",
+"LatLong": "47.6689,28.9961"
+},
+{
+"Name": "Pervomaisc",
+"PostCode": "MD-5522",
+"LatLong": "47.68,29.2114"
+},
+{
+"Name": "Picalova",
+"PostCode": "MD-5511",
+"LatLong": "47.7628,29.1097"
+},
+{
+"Name": "Plopi",
+"PostCode": "MD-5529",
+"LatLong": "47.9553,29.1639"
+},
+{
+"Name": "Pobeda",
+"PostCode": "MD-5522",
+"LatLong": "47.6192,29.1942"
+},
+{
+"Name": "Popencu",
+"PostCode": "MD-5530",
+"LatLong": "47.5958,29.0136"
+},
+{
 "Name": "Ribnita 1",
 "PostCode": "MD-5501",
 "LatLong": "47.7664,29.0011"
@@ -6485,11 +6640,6 @@
 "Name": "Ribnita 2",
 "PostCode": "MD-5502",
 "LatLong": "47.7664,29.0011"
-},
-{
-"Name": "Buschi",
-"PostCode": "MD-5503",
-"LatLong": "47.7175,29.0778"
 },
 {
 "Name": "Ribnita 3",
@@ -6527,119 +6677,9 @@
 "LatLong": "47.7664,29.0011"
 },
 {
-"Name": "Smalena",
-"PostCode": "MD-5511",
-"LatLong": "47.7578,29.0758"
-},
-{
-"Name": "Andreevca",
-"PostCode": "MD-5511",
-"LatLong": "47.7631,29.1711"
-},
-{
-"Name": "Picalova",
-"PostCode": "MD-5511",
-"LatLong": "47.7628,29.1097"
-},
-{
-"Name": "Beloci",
-"PostCode": "MD-5512",
-"LatLong": "47.8892,28.9781"
-},
-{
-"Name": "Brosteni",
-"PostCode": "MD-5513",
-"LatLong": "47.8797,29.2614"
-},
-{
-"Name": "Butuceni",
-"PostCode": "MD-5514",
-"LatLong": "47.5336,29.0258"
-},
-{
-"Name": "Cobasna Loc.C.F.",
-"PostCode": "MD-5515",
-"LatLong": "47.7844,29.2061"
-},
-{
-"Name": "Cobasna",
-"PostCode": "MD-5515",
-"LatLong": "47.7844,29.2061"
-},
-{
-"Name": "Suhaia Ribnita",
-"PostCode": "MD-5515",
-"LatLong": "47.7844,29.2061"
-},
-{
-"Name": "Dimitrova",
-"PostCode": "MD-5516",
-"LatLong": "47.8769,29.1433"
-},
-{
-"Name": "Crasnencoe",
-"PostCode": "MD-5516",
-"LatLong": "47.8486,29.1397"
-},
-{
-"Name": "Ghidirim",
-"PostCode": "MD-5517",
-"LatLong": "47.715,28.9747"
-},
-{
-"Name": "Haraba",
-"PostCode": "MD-5518",
-"LatLong": "47.8961,29.0881"
-},
-{
-"Name": "Hirjau",
-"PostCode": "MD-5519",
-"LatLong": "47.8069,29.0081"
-},
-{
 "Name": "Saratei",
 "PostCode": "MD-5519",
 "LatLong": "47.8283,29.0208"
-},
-{
-"Name": "Ivanovca",
-"PostCode": "MD-5520",
-"LatLong": "47.8778,29.1736"
-},
-{
-"Name": "Jura",
-"PostCode": "MD-5521",
-"LatLong": "47.5178,29.0431"
-},
-{
-"Name": "Pervomaisc",
-"PostCode": "MD-5522",
-"LatLong": "47.68,29.2114"
-},
-{
-"Name": "Pobeda",
-"PostCode": "MD-5522",
-"LatLong": "47.6192,29.1942"
-},
-{
-"Name": "Lenin",
-"PostCode": "MD-5522",
-"LatLong": "47.6656,29.1903"
-},
-{
-"Name": "Stanislavca",
-"PostCode": "MD-5522",
-"LatLong": "47.6944,29.2069"
-},
-{
-"Name": "Mihailovca Noua",
-"PostCode": "MD-5523",
-"LatLong": "47.7953,29.1217"
-},
-{
-"Name": "Mihailovca",
-"PostCode": "MD-5524",
-"LatLong": "47.4847,29.1192"
 },
 {
 "Name": "Sevcenco",
@@ -6647,59 +6687,9 @@
 "LatLong": "47.5878,29.1839"
 },
 {
-"Name": "Basarabca",
-"PostCode": "MD-5525",
-"LatLong": "47.5764,29.1611"
-},
-{
-"Name": "Mocra",
-"PostCode": "MD-5525",
-"LatLong": "47.6303,29.1517"
-},
-{
-"Name": "Zaporojet",
-"PostCode": "MD-5525",
-"LatLong": "47.5903,29.1372"
-},
-{
-"Name": "Molochisul Mare",
-"PostCode": "MD-5526",
-"LatLong": "47.8564,29.0558"
-},
-{
-"Name": "Molochisul Mic",
-"PostCode": "MD-5527",
-"LatLong": "47.9358,29.0342"
-},
-{
-"Name": "Novaia Jizni",
-"PostCode": "MD-5528",
-"LatLong": "47.6578,29.0833"
-},
-{
-"Name": "Ofatinti",
-"PostCode": "MD-5528",
-"LatLong": "47.6689,28.9961"
-},
-{
-"Name": "Plopi",
-"PostCode": "MD-5529",
-"LatLong": "47.9553,29.1639"
-},
-{
-"Name": "Zazuleni",
-"PostCode": "MD-5530",
-"LatLong": "47.6167,28.9919"
-},
-{
-"Name": "Popencu",
-"PostCode": "MD-5530",
-"LatLong": "47.5958,29.0136"
-},
-{
-"Name": "Vasilievca",
-"PostCode": "MD-5531",
-"LatLong": "47.9406,29.1094"
+"Name": "Smalena",
+"PostCode": "MD-5511",
+"LatLong": "47.7578,29.0758"
 },
 {
 "Name": "Sovietscoe",
@@ -6707,24 +6697,29 @@
 "LatLong": "47.9542,29.145"
 },
 {
+"Name": "Stanislavca",
+"PostCode": "MD-5522",
+"LatLong": "47.6944,29.2069"
+},
+{
 "Name": "Stroiesti",
 "PostCode": "MD-5532",
 "LatLong": "47.8928,28.9325"
 },
 {
-"Name": "Lisaia Gora",
-"PostCode": "MD-5533",
-"LatLong": "47.7392,29.0686"
-},
-{
-"Name": "Ulmul Mic",
-"PostCode": "MD-5533",
-"LatLong": "47.7528,29.1219"
+"Name": "Suhaia Ribnita",
+"PostCode": "MD-5515",
+"LatLong": "47.7844,29.2061"
 },
 {
 "Name": "Ulmu",
 "PostCode": "MD-5533",
 "LatLong": "47.7467,29.1044"
+},
+{
+"Name": "Ulmul Mic",
+"PostCode": "MD-5533",
+"LatLong": "47.7528,29.1219"
 },
 {
 "Name": "Vadul Turcului",
@@ -6737,9 +6732,9 @@
 "LatLong": "47.7056,29.1192"
 },
 {
-"Name": "Ghersunovca",
-"PostCode": "MD-5535",
-"LatLong": "47.7211,29.1683"
+"Name": "Vasilievca",
+"PostCode": "MD-5531",
+"LatLong": "47.9406,29.1094"
 },
 {
 "Name": "Vladimirovca",
@@ -6747,9 +6742,14 @@
 "LatLong": "47.6231,29.0961"
 },
 {
-"Name": "Chirov",
-"PostCode": "MD-5536",
-"LatLong": "47.6511,29.0972"
+"Name": "Zaporojet",
+"PostCode": "MD-5525",
+"LatLong": "47.5903,29.1372"
+},
+{
+"Name": "Zazuleni",
+"PostCode": "MD-5530",
+"LatLong": "47.6167,28.9919"
 }
 ]
 }
@@ -6765,29 +6765,14 @@
 {
 "Places": [
 {
-"Name": "Slobozia 1",
-"PostCode": "MD-5701",
-"LatLong": "46.7281,29.7078"
-},
-{
-"Name": "Slobozia 2",
-"PostCode": "MD-5702",
-"LatLong": "46.7281,29.7078"
-},
-{
-"Name": "Crasnoe",
-"PostCode": "MD-5706",
-"LatLong": "46.6514,29.8047"
+"Name": "Andriasevca Noua",
+"PostCode": "MD-5711",
+"LatLong": "46.8336,29.9558"
 },
 {
 "Name": "Andriasevca Veche",
 "PostCode": "MD-5711",
 "LatLong": "46.8228,29.9706"
-},
-{
-"Name": "Andriasevca Noua",
-"PostCode": "MD-5711",
-"LatLong": "46.8336,29.9558"
 },
 {
 "Name": "Blijnii Hutor",
@@ -6800,16 +6785,6 @@
 "LatLong": "46.7778,29.6797"
 },
 {
-"Name": "Merenesti",
-"PostCode": "MD-5714",
-"LatLong": "46.7767,29.5378"
-},
-{
-"Name": "Zahorna",
-"PostCode": "MD-5714",
-"LatLong": "46.7431,29.5947"
-},
-{
 "Name": "Chitcani",
 "PostCode": "MD-5714",
 "LatLong": "46.7856,29.6086"
@@ -6820,9 +6795,19 @@
 "LatLong": "46.6831,29.7492"
 },
 {
+"Name": "Constantinovca",
+"PostCode": "MD-5728",
+"LatLong": "46.8522,29.8458"
+},
+{
 "Name": "Corotna",
 "PostCode": "MD-5717",
 "LatLong": "46.6292,29.8594"
+},
+{
+"Name": "Crasnoe",
+"PostCode": "MD-5706",
+"LatLong": "46.6514,29.8047"
 },
 {
 "Name": "Frunza",
@@ -6830,19 +6815,14 @@
 "LatLong": "46.8283,29.8803"
 },
 {
-"Name": "Novosavitcaia Loc.C.F.",
-"PostCode": "MD-5718",
-"LatLong": "46.8142,29.9068"
-},
-{
-"Name": "Prioziornoe",
-"PostCode": "MD-5718",
-"LatLong": "46.8,29.9333"
-},
-{
 "Name": "Hlinaia",
 "PostCode": "MD-5719",
 "LatLong": "46.6342,29.8139"
+},
+{
+"Name": "Merenesti",
+"PostCode": "MD-5714",
+"LatLong": "46.7767,29.5378"
 },
 {
 "Name": "Nezavertailovca",
@@ -6850,9 +6830,19 @@
 "LatLong": "46.6078,29.9314"
 },
 {
+"Name": "Nicolscoie",
+"PostCode": "MD-5728",
+"LatLong": "46.8483,29.8353"
+},
+{
 "Name": "Novocotovsc",
 "PostCode": "MD-5721",
 "LatLong": "46.7656,29.955"
+},
+{
+"Name": "Novosavitcaia Loc.C.F.",
+"PostCode": "MD-5718",
+"LatLong": "46.8142,29.9068"
 },
 {
 "Name": "Parcani",
@@ -6870,6 +6860,21 @@
 "LatLong": "46.7339,29.9586"
 },
 {
+"Name": "Prioziornoe",
+"PostCode": "MD-5718",
+"LatLong": "46.8,29.9333"
+},
+{
+"Name": "Slobozia 1",
+"PostCode": "MD-5701",
+"LatLong": "46.7281,29.7078"
+},
+{
+"Name": "Slobozia 2",
+"PostCode": "MD-5702",
+"LatLong": "46.7281,29.7078"
+},
+{
 "Name": "Sucleia",
 "PostCode": "MD-5725",
 "LatLong": "46.8211,29.6597"
@@ -6885,9 +6890,9 @@
 "LatLong": "46.8114,29.5506"
 },
 {
-"Name": "Constantinovca",
+"Name": "Uiutnoie",
 "PostCode": "MD-5728",
-"LatLong": "46.8522,29.8458"
+"LatLong": "46.8483,29.8353"
 },
 {
 "Name": "Vladimirovca",
@@ -6895,14 +6900,9 @@
 "LatLong": "46.8444,29.8247"
 },
 {
-"Name": "Nicolscoie",
-"PostCode": "MD-5728",
-"LatLong": "46.8483,29.8353"
-},
-{
-"Name": "Uiutnoie",
-"PostCode": "MD-5728",
-"LatLong": "46.8483,29.8353"
+"Name": "Zahorna",
+"PostCode": "MD-5714",
+"LatLong": "46.7431,29.5947"
 }
 ]
 }
@@ -6917,31 +6917,6 @@
 "Communities": [
 {
 "Places": [
-{
-"Name": "Izvoras",
-"PostCode": "MD-5801",
-"LatLong": "47.4997,28.3656"
-},
-{
-"Name": "Telenesti",
-"PostCode": "MD-5801",
-"LatLong": "47.4997,28.3656"
-},
-{
-"Name": "Mihalasa Noua",
-"PostCode": "MD-5802",
-"LatLong": "47.5078,28.3283"
-},
-{
-"Name": "Mihalasa",
-"PostCode": "MD-5802",
-"LatLong": "47.495,28.34"
-},
-{
-"Name": "Budai",
-"PostCode": "MD-5810",
-"LatLong": "47.4567,28.3494"
-},
 {
 "Name": "Banesti",
 "PostCode": "MD-5811",
@@ -6958,6 +6933,11 @@
 "LatLong": "47.4247,28.4283"
 },
 {
+"Name": "Bondareuca",
+"PostCode": "MD-5839",
+"LatLong": "47.5728,28.1658"
+},
+{
 "Name": "Brinzenii Noi",
 "PostCode": "MD-5813",
 "LatLong": "47.6572,28.4864"
@@ -6968,19 +6948,19 @@
 "LatLong": "47.6583,28.4725"
 },
 {
+"Name": "Budai",
+"PostCode": "MD-5810",
+"LatLong": "47.4567,28.3494"
+},
+{
 "Name": "Cazanesti",
 "PostCode": "MD-5814",
 "LatLong": "47.6153,28.4728"
 },
 {
-"Name": "Vadul-Leca Nou",
-"PostCode": "MD-5814",
-"LatLong": "47.6181,28.4361"
-},
-{
-"Name": "Vadul-Leca",
-"PostCode": "MD-5814",
-"LatLong": "47.6242,28.465"
+"Name": "Chersac",
+"PostCode": "MD-5827",
+"LatLong": "47.6375,28.5842"
 },
 {
 "Name": "Chistelnita",
@@ -6988,14 +6968,19 @@
 "LatLong": "47.5681,28.6608"
 },
 {
+"Name": "Chitcanii Noi",
+"PostCode": "MD-5816",
+"LatLong": "47.5653,28.4819"
+},
+{
 "Name": "Chitcanii Vechi",
 "PostCode": "MD-5816",
 "LatLong": "47.5928,28.5011"
 },
 {
-"Name": "Chitcanii Noi",
-"PostCode": "MD-5816",
-"LatLong": "47.5653,28.4819"
+"Name": "Ciofu",
+"PostCode": "MD-5839",
+"LatLong": "47.5642,28.2217"
 },
 {
 "Name": "Cisla",
@@ -7003,9 +6988,54 @@
 "LatLong": "47.4947,28.2269"
 },
 {
+"Name": "Ciulucani",
+"PostCode": "MD-5840",
+"LatLong": "47.5053,28.3431"
+},
+{
+"Name": "Codru",
+"PostCode": "MD-5824",
+"LatLong": "47.4656,28.2692"
+},
+{
+"Name": "Codrul Nou",
+"PostCode": "MD-5834",
+"LatLong": "47.5478,28.5772"
+},
+{
+"Name": "Coropceni",
+"PostCode": "MD-5838",
+"LatLong": "47.4761,28.5222"
+},
+{
+"Name": "Cozesti",
+"PostCode": "MD-5839",
+"LatLong": "47.5692,28.1817"
+},
+{
 "Name": "Crasnaseni",
 "PostCode": "MD-5818",
 "LatLong": "47.4333,28.3989"
+},
+{
+"Name": "Cucioaia",
+"PostCode": "MD-5841",
+"LatLong": "47.4603,28.1858"
+},
+{
+"Name": "Cucioaia Noua",
+"PostCode": "MD-5841",
+"LatLong": "47.4856,28.1667"
+},
+{
+"Name": "Dobrusa",
+"PostCode": "MD-5827",
+"LatLong": "47.6144,28.5567"
+},
+{
+"Name": "Flutura",
+"PostCode": "MD-5833",
+"LatLong": "47.6883,28.5475"
 },
 {
 "Name": "Ghermanesti",
@@ -7023,9 +7053,19 @@
 "LatLong": "47.4353,28.2867"
 },
 {
+"Name": "Hirtop",
+"PostCode": "MD-5828",
+"LatLong": "47.7053,28.4839"
+},
+{
 "Name": "Inesti",
 "PostCode": "MD-5822",
 "LatLong": "47.5028,28.3981"
+},
+{
+"Name": "Izvoras",
+"PostCode": "MD-5801",
+"LatLong": "47.4997,28.3656"
 },
 {
 "Name": "Leuseni",
@@ -7033,59 +7073,14 @@
 "LatLong": "47.4828,28.4353"
 },
 {
-"Name": "Codru",
-"PostCode": "MD-5824",
-"LatLong": "47.4656,28.2692"
+"Name": "Mihalasa",
+"PostCode": "MD-5802",
+"LatLong": "47.495,28.34"
 },
 {
-"Name": "Mindresti",
-"PostCode": "MD-5825",
-"LatLong": "47.5072,28.2769"
-},
-{
-"Name": "Negureni",
-"PostCode": "MD-5826",
-"LatLong": "47.6017,28.5111"
-},
-{
-"Name": "Dobrusa",
-"PostCode": "MD-5827",
-"LatLong": "47.6144,28.5567"
-},
-{
-"Name": "Nucareni",
-"PostCode": "MD-5827",
-"LatLong": "47.5936,28.5833"
-},
-{
-"Name": "Chersac",
-"PostCode": "MD-5827",
-"LatLong": "47.6375,28.5842"
-},
-{
-"Name": "Hirtop",
-"PostCode": "MD-5828",
-"LatLong": "47.7053,28.4839"
-},
-{
-"Name": "Moara",
-"PostCode": "MD-5828",
-"LatLong": "47.6951,28.4715"
-},
-{
-"Name": "Pistruienii Noi",
-"PostCode": "MD-5828",
-"LatLong": "47.6994,28.4178"
-},
-{
-"Name": "Pistruieni",
-"PostCode": "MD-5828",
-"LatLong": "47.6922,28.4881"
-},
-{
-"Name": "Ordasei",
-"PostCode": "MD-5828",
-"LatLong": "47.6833,28.4964"
+"Name": "Mihalasa Noua",
+"PostCode": "MD-5802",
+"LatLong": "47.5078,28.3283"
 },
 {
 "Name": "Mindra",
@@ -7093,24 +7088,49 @@
 "LatLong": "47.535,28.5261"
 },
 {
+"Name": "Mindresti",
+"PostCode": "MD-5825",
+"LatLong": "47.5072,28.2769"
+},
+{
+"Name": "Moara",
+"PostCode": "MD-5828",
+"LatLong": "47.6951,28.4715"
+},
+{
+"Name": "Negureni",
+"PostCode": "MD-5826",
+"LatLong": "47.6017,28.5111"
+},
+{
+"Name": "Nucareni",
+"PostCode": "MD-5827",
+"LatLong": "47.5936,28.5833"
+},
+{
+"Name": "Ordasei",
+"PostCode": "MD-5828",
+"LatLong": "47.6833,28.4964"
+},
+{
+"Name": "Pistruieni",
+"PostCode": "MD-5828",
+"LatLong": "47.6922,28.4881"
+},
+{
+"Name": "Pistruienii Noi",
+"PostCode": "MD-5828",
+"LatLong": "47.6994,28.4178"
+},
+{
 "Name": "Ratus",
 "PostCode": "MD-5829",
 "LatLong": "47.5369,28.5033"
 },
 {
-"Name": "Zaicani",
-"PostCode": "MD-5829",
-"LatLong": "47.5214,28.5081"
-},
-{
-"Name": "Zaicanii Noi",
-"PostCode": "MD-5829",
-"LatLong": "47.5311,28.5125"
-},
-{
-"Name": "Zahareuca",
-"PostCode": "MD-5830",
-"LatLong": "47.5317,28.5994"
+"Name": "Saratenii Noi",
+"PostCode": "MD-5832",
+"LatLong": "47.5092,28.5014"
 },
 {
 "Name": "Saratenii Vechi",
@@ -7128,19 +7148,9 @@
 "LatLong": "47.4664,28.5183"
 },
 {
-"Name": "Saratenii Noi",
-"PostCode": "MD-5832",
-"LatLong": "47.5092,28.5014"
-},
-{
-"Name": "Flutura",
-"PostCode": "MD-5833",
-"LatLong": "47.6883,28.5475"
-},
-{
-"Name": "Tirsitei",
-"PostCode": "MD-5833",
-"LatLong": "47.6922,28.5772"
+"Name": "Telenesti",
+"PostCode": "MD-5801",
+"LatLong": "47.4997,28.3656"
 },
 {
 "Name": "Tintareni",
@@ -7148,9 +7158,19 @@
 "LatLong": "47.5703,28.5625"
 },
 {
-"Name": "Codrul Nou",
-"PostCode": "MD-5834",
-"LatLong": "47.5478,28.5772"
+"Name": "Tirsitei",
+"PostCode": "MD-5833",
+"LatLong": "47.6922,28.5772"
+},
+{
+"Name": "Vadul-Leca",
+"PostCode": "MD-5814",
+"LatLong": "47.6242,28.465"
+},
+{
+"Name": "Vadul-Leca Nou",
+"PostCode": "MD-5814",
+"LatLong": "47.6181,28.4361"
 },
 {
 "Name": "Vasieni",
@@ -7163,44 +7183,24 @@
 "LatLong": "47.5342,28.4706"
 },
 {
+"Name": "Zahareuca",
+"PostCode": "MD-5830",
+"LatLong": "47.5317,28.5994"
+},
+{
+"Name": "Zaicani",
+"PostCode": "MD-5829",
+"LatLong": "47.5214,28.5081"
+},
+{
+"Name": "Zaicanii Noi",
+"PostCode": "MD-5829",
+"LatLong": "47.5311,28.5125"
+},
+{
 "Name": "Zgardesti",
 "PostCode": "MD-5837",
 "LatLong": "47.5314,28.1944"
-},
-{
-"Name": "Coropceni",
-"PostCode": "MD-5838",
-"LatLong": "47.4761,28.5222"
-},
-{
-"Name": "Cozesti",
-"PostCode": "MD-5839",
-"LatLong": "47.5692,28.1817"
-},
-{
-"Name": "Ciofu",
-"PostCode": "MD-5839",
-"LatLong": "47.5642,28.2217"
-},
-{
-"Name": "Bondareuca",
-"PostCode": "MD-5839",
-"LatLong": "47.5728,28.1658"
-},
-{
-"Name": "Ciulucani",
-"PostCode": "MD-5840",
-"LatLong": "47.5053,28.3431"
-},
-{
-"Name": "Cucioaia Noua",
-"PostCode": "MD-5841",
-"LatLong": "47.4856,28.1667"
-},
-{
-"Name": "Cucioaia",
-"PostCode": "MD-5841",
-"LatLong": "47.4603,28.1858"
 }
 ]
 }
@@ -7216,24 +7216,9 @@
 {
 "Places": [
 {
-"Name": "Falesti 1",
-"PostCode": "MD-5901",
-"LatLong": "47.573,27.7069"
-},
-{
-"Name": "Falesti 2",
-"PostCode": "MD-5902",
-"LatLong": "47.573,27.7069"
-},
-{
-"Name": "Falesti 3",
-"PostCode": "MD-5903",
-"LatLong": "47.573,27.7069"
-},
-{
-"Name": "Falesti St",
-"PostCode": "MD-5904",
-"LatLong": "47.573,27.7069"
+"Name": "Albinetul Nou",
+"PostCode": "MD-5911",
+"LatLong": "47.5806,27.6211"
 },
 {
 "Name": "Albinetul Vechi",
@@ -7241,19 +7226,9 @@
 "LatLong": "47.5564,27.6375"
 },
 {
-"Name": "Rediul De Sus",
-"PostCode": "MD-5911",
-"LatLong": "47.5247,27.6081"
-},
-{
-"Name": "Rediul De Jos",
-"PostCode": "MD-5911",
-"LatLong": "47.5089,27.6042"
-},
-{
-"Name": "Albinetul Nou",
-"PostCode": "MD-5911",
-"LatLong": "47.5806,27.6211"
+"Name": "Beleuti",
+"PostCode": "MD-5936",
+"LatLong": "47.6644,27.9061"
 },
 {
 "Name": "Bocani",
@@ -7261,9 +7236,14 @@
 "LatLong": "47.5183,27.8914"
 },
 {
-"Name": "Hincesti",
-"PostCode": "MD-5913",
-"LatLong": "47.5481,27.505"
+"Name": "Bocsa",
+"PostCode": "MD-5946",
+"LatLong": "47.4711,27.6497"
+},
+{
+"Name": "Burghelea",
+"PostCode": "MD-5920",
+"LatLong": "47.5386,27.8653"
 },
 {
 "Name": "Calinesti",
@@ -7271,34 +7251,14 @@
 "LatLong": "47.5642,27.4864"
 },
 {
-"Name": "Socii Noi",
-"PostCode": "MD-5914",
-"LatLong": "47.5394,27.6439"
-},
-{
-"Name": "Socii Vechi",
-"PostCode": "MD-5914",
-"LatLong": "47.5283,27.6747"
-},
-{
 "Name": "Calugar",
 "PostCode": "MD-5914",
 "LatLong": "47.5403,27.6864"
 },
 {
-"Name": "Frumusica",
-"PostCode": "MD-5914",
-"LatLong": "47.5142,27.6878"
-},
-{
 "Name": "Catranic",
 "PostCode": "MD-5915",
 "LatLong": "47.6,27.8"
-},
-{
-"Name": "Ciuluc",
-"PostCode": "MD-5916",
-"LatLong": "47.6342,27.7911"
 },
 {
 "Name": "Catranic Loc.C.F.",
@@ -7326,9 +7286,19 @@
 "LatLong": "47.4728,27.8644"
 },
 {
-"Name": "Pocrovca",
-"PostCode": "MD-5919",
-"LatLong": "47.4653,27.875"
+"Name": "Ciuluc",
+"PostCode": "MD-5916",
+"LatLong": "47.6342,27.7911"
+},
+{
+"Name": "Comarovca",
+"PostCode": "MD-5936",
+"LatLong": "47.6928,27.9044"
+},
+{
+"Name": "Cuzmenii Vechi",
+"PostCode": "MD-5944",
+"LatLong": "47.5264,27.5678"
 },
 {
 "Name": "Doltu",
@@ -7336,9 +7306,9 @@
 "LatLong": "47.5372,27.8231"
 },
 {
-"Name": "Burghelea",
-"PostCode": "MD-5920",
-"LatLong": "47.5386,27.8653"
+"Name": "Drujineni",
+"PostCode": "MD-5944",
+"LatLong": "47.5258,27.5358"
 },
 {
 "Name": "Egorovca",
@@ -7351,9 +7321,24 @@
 "LatLong": "47.4411,27.8039"
 },
 {
-"Name": "Soltoaia",
-"PostCode": "MD-5922",
-"LatLong": "47.4633,27.8147"
+"Name": "Falesti 1",
+"PostCode": "MD-5901",
+"LatLong": "47.573,27.7069"
+},
+{
+"Name": "Falesti 2",
+"PostCode": "MD-5902",
+"LatLong": "47.573,27.7069"
+},
+{
+"Name": "Falesti 3",
+"PostCode": "MD-5903",
+"LatLong": "47.573,27.7069"
+},
+{
+"Name": "Falesti St",
+"PostCode": "MD-5904",
+"LatLong": "47.573,27.7069"
 },
 {
 "Name": "Falestii Noi",
@@ -7361,9 +7346,9 @@
 "LatLong": "47.5719,27.7469"
 },
 {
-"Name": "Pietrosul Nou",
-"PostCode": "MD-5923",
-"LatLong": "47.5814,27.7686"
+"Name": "Frumusica",
+"PostCode": "MD-5914",
+"LatLong": "47.5142,27.6878"
 },
 {
 "Name": "Glinjeni",
@@ -7376,9 +7361,14 @@
 "LatLong": "47.6667,27.7647"
 },
 {
-"Name": "Rautelul Nou",
-"PostCode": "MD-5925",
-"LatLong": "47.7014,27.7464"
+"Name": "Hincesti",
+"PostCode": "MD-5913",
+"LatLong": "47.5481,27.505"
+},
+{
+"Name": "Hirtop",
+"PostCode": "MD-5949",
+"LatLong": "47.4806,27.7078"
 },
 {
 "Name": "Hitresti",
@@ -7386,24 +7376,9 @@
 "LatLong": "47.5492,27.7761"
 },
 {
-"Name": "Unteni",
-"PostCode": "MD-5927",
-"LatLong": "47.4156,27.5825"
-},
-{
 "Name": "Horesti",
 "PostCode": "MD-5927",
 "LatLong": "47.4322,27.5806"
-},
-{
-"Name": "Lucaceni",
-"PostCode": "MD-5927",
-"LatLong": "47.4572,27.5964"
-},
-{
-"Name": "Vranesti",
-"PostCode": "MD-5928",
-"LatLong": "47.4092,27.6006"
 },
 {
 "Name": "Hrubna Noua",
@@ -7421,6 +7396,11 @@
 "LatLong": "47.5731,27.8178"
 },
 {
+"Name": "Ivanovca",
+"PostCode": "MD-5936",
+"LatLong": "47.6586,27.8814"
+},
+{
 "Name": "Izvoare",
 "PostCode": "MD-5931",
 "LatLong": "47.4333,27.6672"
@@ -7429,6 +7409,26 @@
 "Name": "Logofteni",
 "PostCode": "MD-5932",
 "LatLong": "47.6256,27.5681"
+},
+{
+"Name": "Lucaceni",
+"PostCode": "MD-5927",
+"LatLong": "47.4572,27.5964"
+},
+{
+"Name": "Magura",
+"PostCode": "MD-5939",
+"LatLong": "47.4872,27.9344"
+},
+{
+"Name": "Magura Noua",
+"PostCode": "MD-5939",
+"LatLong": "47.5072,27.9531"
+},
+{
+"Name": "Magureanca",
+"PostCode": "MD-5949",
+"LatLong": "47.4825,27.7175"
 },
 {
 "Name": "Marandeni",
@@ -7446,34 +7446,19 @@
 "LatLong": "47.5108,27.6447"
 },
 {
-"Name": "Tapoc",
-"PostCode": "MD-5936",
-"LatLong": "47.7067,27.8975"
-},
-{
 "Name": "Natalievca",
 "PostCode": "MD-5936",
 "LatLong": "47.7006,27.8883"
 },
 {
-"Name": "Ivanovca",
-"PostCode": "MD-5936",
-"LatLong": "47.6586,27.8814"
-},
-{
-"Name": "Comarovca",
-"PostCode": "MD-5936",
-"LatLong": "47.6928,27.9044"
-},
-{
-"Name": "Beleuti",
-"PostCode": "MD-5936",
-"LatLong": "47.6644,27.9061"
-},
-{
 "Name": "Navirnet",
 "PostCode": "MD-5937",
 "LatLong": "47.5892,27.5619"
+},
+{
+"Name": "Nicolaevca",
+"PostCode": "MD-5949",
+"LatLong": "47.4994,27.7039"
 },
 {
 "Name": "Obreja Noua",
@@ -7486,9 +7471,9 @@
 "LatLong": "47.6747,27.6592"
 },
 {
-"Name": "Magura Noua",
-"PostCode": "MD-5939",
-"LatLong": "47.5072,27.9531"
+"Name": "Pervomaisc",
+"PostCode": "MD-5942",
+"LatLong": "47.6297,27.9783"
 },
 {
 "Name": "Pietrosu",
@@ -7496,14 +7481,9 @@
 "LatLong": "47.5014,27.9208"
 },
 {
-"Name": "Magura",
-"PostCode": "MD-5939",
-"LatLong": "47.4872,27.9344"
-},
-{
-"Name": "Pinzarenii Noi",
-"PostCode": "MD-5940",
-"LatLong": "47.5994,27.6483"
+"Name": "Pietrosul Nou",
+"PostCode": "MD-5923",
+"LatLong": "47.5814,27.7686"
 },
 {
 "Name": "Pinzareni",
@@ -7511,14 +7491,19 @@
 "LatLong": "47.6186,27.6767"
 },
 {
+"Name": "Pinzarenii Noi",
+"PostCode": "MD-5940",
+"LatLong": "47.5994,27.6483"
+},
+{
 "Name": "Pirlita",
 "PostCode": "MD-5941",
 "LatLong": "47.7403,27.8033"
 },
 {
-"Name": "Pervomaisc",
-"PostCode": "MD-5942",
-"LatLong": "47.6297,27.9783"
+"Name": "Pocrovca",
+"PostCode": "MD-5919",
+"LatLong": "47.4653,27.875"
 },
 {
 "Name": "Pompa",
@@ -7526,19 +7511,9 @@
 "LatLong": "47.6547,27.9425"
 },
 {
-"Name": "Suvorovca",
-"PostCode": "MD-5942",
-"LatLong": "47.6394,27.89"
-},
-{
 "Name": "Popovca",
 "PostCode": "MD-5943",
 "LatLong": "47.7058,27.8656"
-},
-{
-"Name": "Cuzmenii Vechi",
-"PostCode": "MD-5944",
-"LatLong": "47.5264,27.5678"
 },
 {
 "Name": "Pruteni",
@@ -7546,19 +7521,24 @@
 "LatLong": "47.5028,27.5489"
 },
 {
-"Name": "Drujineni",
-"PostCode": "MD-5944",
-"LatLong": "47.5258,27.5358"
-},
-{
 "Name": "Rautel",
 "PostCode": "MD-5945",
 "LatLong": "47.7142,27.8258"
 },
 {
-"Name": "Bocsa",
-"PostCode": "MD-5946",
-"LatLong": "47.4711,27.6497"
+"Name": "Rautelul Nou",
+"PostCode": "MD-5925",
+"LatLong": "47.7014,27.7464"
+},
+{
+"Name": "Rediul De Jos",
+"PostCode": "MD-5911",
+"LatLong": "47.5089,27.6042"
+},
+{
+"Name": "Rediul De Sus",
+"PostCode": "MD-5911",
+"LatLong": "47.5247,27.6081"
 },
 {
 "Name": "Risipeni",
@@ -7566,29 +7546,14 @@
 "LatLong": "47.46,27.6661"
 },
 {
-"Name": "Sarata Veche",
-"PostCode": "MD-5947",
-"LatLong": "47.51,27.7389"
-},
-{
 "Name": "Sarata Noua",
 "PostCode": "MD-5948",
 "LatLong": "47.4992,27.7914"
 },
 {
-"Name": "Nicolaevca",
-"PostCode": "MD-5949",
-"LatLong": "47.4994,27.7039"
-},
-{
-"Name": "Magureanca",
-"PostCode": "MD-5949",
-"LatLong": "47.4825,27.7175"
-},
-{
-"Name": "Hirtop",
-"PostCode": "MD-5949",
-"LatLong": "47.4806,27.7078"
+"Name": "Sarata Veche",
+"PostCode": "MD-5947",
+"LatLong": "47.51,27.7389"
 },
 {
 "Name": "Scumpia",
@@ -7596,14 +7561,49 @@
 "LatLong": "47.4675,27.7408"
 },
 {
+"Name": "Socii Noi",
+"PostCode": "MD-5914",
+"LatLong": "47.5394,27.6439"
+},
+{
+"Name": "Socii Vechi",
+"PostCode": "MD-5914",
+"LatLong": "47.5283,27.6747"
+},
+{
+"Name": "Soltoaia",
+"PostCode": "MD-5922",
+"LatLong": "47.4633,27.8147"
+},
+{
+"Name": "Suvorovca",
+"PostCode": "MD-5942",
+"LatLong": "47.6394,27.89"
+},
+{
+"Name": "Tapoc",
+"PostCode": "MD-5936",
+"LatLong": "47.7067,27.8975"
+},
+{
 "Name": "Taxobeni",
 "PostCode": "MD-5950",
 "LatLong": "47.3903,27.5917"
 },
 {
+"Name": "Unteni",
+"PostCode": "MD-5927",
+"LatLong": "47.4156,27.5825"
+},
+{
 "Name": "Valea Rusului",
 "PostCode": "MD-5951",
 "LatLong": "47.47,27.5819"
+},
+{
+"Name": "Vranesti",
+"PostCode": "MD-5928",
+"LatLong": "47.4092,27.6006"
 }
 ]
 }
@@ -7619,24 +7619,14 @@
 {
 "Places": [
 {
-"Name": "Leova",
-"PostCode": "MD-6301",
-"LatLong": "46.4786,28.2553"
-},
-{
-"Name": "Hirtop",
-"PostCode": "MD-6311",
-"LatLong": "46.6522,28.685"
-},
-{
 "Name": "Baius",
 "PostCode": "MD-6311",
 "LatLong": "46.4589,28.4825"
 },
 {
-"Name": "Cociulia Noua",
-"PostCode": "MD-6311",
-"LatLong": "46.4419,28.4733"
+"Name": "Bertovca",
+"PostCode": "MD-6324",
+"LatLong": "46.4908,28.39"
 },
 {
 "Name": "Bestemac",
@@ -7644,19 +7634,14 @@
 "LatLong": "46.5275,28.5275"
 },
 {
-"Name": "Pitesti",
-"PostCode": "MD-6312",
-"LatLong": "46.5031,28.5458"
+"Name": "Borogani",
+"PostCode": "MD-6335",
+"LatLong": "46.3692,28.5183"
 },
 {
-"Name": "Frumusica",
-"PostCode": "MD-6313",
-"LatLong": "46.5569,28.4286"
-},
-{
-"Name": "Seliste",
-"PostCode": "MD-6313",
-"LatLong": "46.5264,28.4314"
+"Name": "Bulgarica",
+"PostCode": "MD-6324",
+"LatLong": "46.4908,28.39"
 },
 {
 "Name": "Cazangic",
@@ -7669,6 +7654,11 @@
 "LatLong": "46.6717,28.4072"
 },
 {
+"Name": "Cimpul Drept",
+"PostCode": "MD-6327",
+"LatLong": "46.5644,28.515"
+},
+{
 "Name": "Cizlar",
 "PostCode": "MD-6315",
 "LatLong": "46.6508,28.525"
@@ -7677,6 +7667,11 @@
 "Name": "Cneazevca",
 "PostCode": "MD-6315",
 "LatLong": "46.6292,28.4878"
+},
+{
+"Name": "Cociulia Noua",
+"PostCode": "MD-6311",
+"LatLong": "46.4419,28.4733"
 },
 {
 "Name": "Colibabovca",
@@ -7694,14 +7689,19 @@
 "LatLong": "46.5158,28.3578"
 },
 {
+"Name": "Cuporani",
+"PostCode": "MD-6329",
+"LatLong": "46.3736,28.3597"
+},
+{
 "Name": "Filipeni",
 "PostCode": "MD-6319",
 "LatLong": "46.44,28.3319"
 },
 {
-"Name": "Romanovca",
-"PostCode": "MD-6319",
-"LatLong": "46.4594,28.3531"
+"Name": "Frumusica",
+"PostCode": "MD-6313",
+"LatLong": "46.5569,28.4286"
 },
 {
 "Name": "Hanasenii Noi",
@@ -7709,14 +7709,9 @@
 "LatLong": "46.4192,28.2558"
 },
 {
-"Name": "Nicolaevca",
-"PostCode": "MD-6320",
-"LatLong": "46.3906,28.2544"
-},
-{
-"Name": "Meseni",
-"PostCode": "MD-6321",
-"LatLong": "46.4172,28.4667"
+"Name": "Hirtop",
+"PostCode": "MD-6311",
+"LatLong": "46.6522,28.685"
 },
 {
 "Name": "Iargara",
@@ -7724,14 +7719,34 @@
 "LatLong": "46.4275,28.4367"
 },
 {
+"Name": "Leova",
+"PostCode": "MD-6301",
+"LatLong": "46.4786,28.2553"
+},
+{
+"Name": "Meseni",
+"PostCode": "MD-6321",
+"LatLong": "46.4172,28.4667"
+},
+{
+"Name": "Nicolaevca",
+"PostCode": "MD-6320",
+"LatLong": "46.3906,28.2544"
+},
+{
 "Name": "Orac",
 "PostCode": "MD-6322",
 "LatLong": "46.6683,28.4631"
 },
 {
-"Name": "Bertovca",
-"PostCode": "MD-6324",
-"LatLong": "46.4908,28.39"
+"Name": "Pitesti",
+"PostCode": "MD-6312",
+"LatLong": "46.5031,28.5458"
+},
+{
+"Name": "Romanovca",
+"PostCode": "MD-6319",
+"LatLong": "46.4594,28.3531"
 },
 {
 "Name": "Sarata Noua",
@@ -7739,19 +7754,9 @@
 "LatLong": "46.4908,28.39"
 },
 {
-"Name": "Bulgarica",
-"PostCode": "MD-6324",
-"LatLong": "46.4908,28.39"
-},
-{
 "Name": "Sarata Razesi",
 "PostCode": "MD-6325",
 "LatLong": "46.6142,28.2667"
-},
-{
-"Name": "Victoria",
-"PostCode": "MD-6326",
-"LatLong": "46.6161,28.4156"
 },
 {
 "Name": "Sarateni",
@@ -7764,19 +7769,19 @@
 "LatLong": "46.5725,28.5483"
 },
 {
-"Name": "Cimpul Drept",
-"PostCode": "MD-6327",
-"LatLong": "46.5644,28.515"
+"Name": "Saratica Veche",
+"PostCode": "MD-6332",
+"LatLong": "46.6008,28.5333"
+},
+{
+"Name": "Seliste",
+"PostCode": "MD-6313",
+"LatLong": "46.5264,28.4314"
 },
 {
 "Name": "Sirma",
 "PostCode": "MD-6328",
 "LatLong": "46.5269,28.2525"
-},
-{
-"Name": "Cuporani",
-"PostCode": "MD-6329",
-"LatLong": "46.3736,28.3597"
 },
 {
 "Name": "Tigheci",
@@ -7794,19 +7799,9 @@
 "LatLong": "46.6228,28.5528"
 },
 {
-"Name": "Saratica Veche",
-"PostCode": "MD-6332",
-"LatLong": "46.6008,28.5333"
-},
-{
 "Name": "Tomaiul Nou",
 "PostCode": "MD-6332",
 "LatLong": "46.6228,28.5528"
-},
-{
-"Name": "Troita",
-"PostCode": "MD-6333",
-"LatLong": "46.565,28.4661"
 },
 {
 "Name": "Troian",
@@ -7814,14 +7809,19 @@
 "LatLong": "46.5425,28.4633"
 },
 {
+"Name": "Troita",
+"PostCode": "MD-6333",
+"LatLong": "46.565,28.4661"
+},
+{
+"Name": "Victoria",
+"PostCode": "MD-6326",
+"LatLong": "46.6161,28.4156"
+},
+{
 "Name": "Vozneseni",
 "PostCode": "MD-6334",
 "LatLong": "46.5844,28.4703"
-},
-{
-"Name": "Borogani",
-"PostCode": "MD-6335",
-"LatLong": "46.3692,28.5183"
 }
 ]
 }
@@ -7836,11 +7836,6 @@
 "Communities": [
 {
 "Places": [
-{
-"Name": "Nisporeni",
-"PostCode": "MD-6401",
-"LatLong": "47.0814,28.1783"
-},
 {
 "Name": "Bacseni",
 "PostCode": "MD-6411",
@@ -7867,24 +7862,9 @@
 "LatLong": "47.1353,28.0597"
 },
 {
-"Name": "Chilisoaia",
-"PostCode": "MD-6415",
-"LatLong": "47.1136,28.0247"
-},
-{
-"Name": "Cornesti",
-"PostCode": "MD-6416",
-"LatLong": "46.9981,28.3294"
-},
-{
 "Name": "Boltun",
 "PostCode": "MD-6416",
 "LatLong": "47.0278,28.29"
-},
-{
-"Name": "Mirzoaia",
-"PostCode": "MD-6416",
-"LatLong": "47.0322,28.2653"
 },
 {
 "Name": "Bratuleni",
@@ -7892,14 +7872,9 @@
 "LatLong": "47.1392,27.9756"
 },
 {
-"Name": "Cirnesti",
-"PostCode": "MD-6417",
-"LatLong": "47.1742,28.0039"
-},
-{
-"Name": "Gaureni",
-"PostCode": "MD-6418",
-"LatLong": "47.2019,28.0894"
+"Name": "Bursuc",
+"PostCode": "MD-6442",
+"LatLong": "47.0944,28.3025"
 },
 {
 "Name": "Calimanesti",
@@ -7907,9 +7882,9 @@
 "LatLong": "46.9444,28.195"
 },
 {
-"Name": "Vulcanesti",
-"PostCode": "MD-6421",
-"LatLong": "47.1525,28.1917"
+"Name": "Chilisoaia",
+"PostCode": "MD-6415",
+"LatLong": "47.1136,28.0247"
 },
 {
 "Name": "Cioresti",
@@ -7917,9 +7892,19 @@
 "LatLong": "47.165,28.2225"
 },
 {
+"Name": "Cirnesti",
+"PostCode": "MD-6417",
+"LatLong": "47.1742,28.0039"
+},
+{
 "Name": "Ciutesti",
 "PostCode": "MD-6423",
 "LatLong": "47.1758,28.1239"
+},
+{
+"Name": "Cornesti",
+"PostCode": "MD-6416",
+"LatLong": "46.9981,28.3294"
 },
 {
 "Name": "Cristesti",
@@ -7927,9 +7912,24 @@
 "LatLong": "47.0564,28.2819"
 },
 {
+"Name": "Drojdieni",
+"PostCode": "MD-6437",
+"LatLong": "46.9372,28.2272"
+},
+{
+"Name": "Gaureni",
+"PostCode": "MD-6418",
+"LatLong": "47.2019,28.0894"
+},
+{
 "Name": "Grozesti",
 "PostCode": "MD-6427",
 "LatLong": "46.9986,28.0794"
+},
+{
+"Name": "Helesteni",
+"PostCode": "MD-6430",
+"LatLong": "46.9625,28.1858"
 },
 {
 "Name": "Isaicani",
@@ -7942,9 +7942,9 @@
 "LatLong": "47.0811,28.2592"
 },
 {
-"Name": "Helesteni",
-"PostCode": "MD-6430",
-"LatLong": "46.9625,28.1858"
+"Name": "Luminita",
+"PostCode": "MD-6438",
+"LatLong": "47.0842,28.0744"
 },
 {
 "Name": "Marinici",
@@ -7957,12 +7957,27 @@
 "LatLong": "47.2233,28.0386"
 },
 {
-"Name": "Paruceni",
-"PostCode": "MD-6433",
-"LatLong": "47.1494,28.1006"
+"Name": "Mirzoaia",
+"PostCode": "MD-6416",
+"LatLong": "47.0322,28.2653"
 },
 {
-"Name": "Valea Nirnovei",
+"Name": "Nisporeni",
+"PostCode": "MD-6401",
+"LatLong": "47.0814,28.1783"
+},
+{
+"Name": "Odaia",
+"PostCode": "MD-6437",
+"LatLong": "46.9558,28.2192"
+},
+{
+"Name": "Odobesti",
+"PostCode": "MD-6438",
+"LatLong": "47.0519,28.0683"
+},
+{
+"Name": "Paruceni",
 "PostCode": "MD-6433",
 "LatLong": "47.1494,28.1006"
 },
@@ -7972,9 +7987,9 @@
 "LatLong": "47.1689,28.1367"
 },
 {
-"Name": "Soltanesti",
-"PostCode": "MD-6435",
-"LatLong": "47.0594,28.11"
+"Name": "Selisteni",
+"PostCode": "MD-6438",
+"LatLong": "47.0617,28.0694"
 },
 {
 "Name": "Sendreni",
@@ -7987,34 +8002,19 @@
 "LatLong": "46.9744,28.2111"
 },
 {
-"Name": "Odaia",
-"PostCode": "MD-6437",
-"LatLong": "46.9558,28.2192"
+"Name": "Soltanesti",
+"PostCode": "MD-6435",
+"LatLong": "47.0594,28.11"
 },
 {
-"Name": "Drojdieni",
-"PostCode": "MD-6437",
-"LatLong": "46.9372,28.2272"
-},
-{
-"Name": "Odobesti",
-"PostCode": "MD-6438",
-"LatLong": "47.0519,28.0683"
+"Name": "Valea Nirnovei",
+"PostCode": "MD-6433",
+"LatLong": "47.1494,28.1006"
 },
 {
 "Name": "Valea-Trestieni",
 "PostCode": "MD-6438",
 "LatLong": "47.0717,28.0708"
-},
-{
-"Name": "Selisteni",
-"PostCode": "MD-6438",
-"LatLong": "47.0617,28.0694"
-},
-{
-"Name": "Luminita",
-"PostCode": "MD-6438",
-"LatLong": "47.0842,28.0744"
 },
 {
 "Name": "Varzaresti",
@@ -8027,14 +8027,14 @@
 "LatLong": "47.1858,28.1028"
 },
 {
+"Name": "Vulcanesti",
+"PostCode": "MD-6421",
+"LatLong": "47.1525,28.1917"
+},
+{
 "Name": "Zberoaia",
 "PostCode": "MD-6441",
 "LatLong": "46.9686,28.1069"
-},
-{
-"Name": "Bursuc",
-"PostCode": "MD-6442",
-"LatLong": "47.0944,28.3025"
 }
 ]
 }
@@ -8050,14 +8050,9 @@
 {
 "Places": [
 {
-"Name": "Beriozchi",
-"PostCode": "MD-6501",
-"LatLong": "46.8733,29.2625"
-},
-{
-"Name": "Hirbovatul Nou",
-"PostCode": "MD-6501",
-"LatLong": "46.8319,29.2775"
+"Name": "Albinita",
+"PostCode": "MD-6531",
+"LatLong": "46.8906,29.1739"
 },
 {
 "Name": "Anenii Noi",
@@ -8065,14 +8060,19 @@
 "LatLong": "46.8789,29.2247"
 },
 {
-"Name": "Salcia",
-"PostCode": "MD-6511",
-"LatLong": "46.9425,29.1694"
+"Name": "Balmaz",
+"PostCode": "MD-6537",
+"LatLong": "46.7981,29.285"
 },
 {
-"Name": "Botnarestii Noi",
-"PostCode": "MD-6511",
-"LatLong": "46.9203,29.1669"
+"Name": "Batic",
+"PostCode": "MD-6516",
+"LatLong": "46.7956,29.1914"
+},
+{
+"Name": "Beriozchi",
+"PostCode": "MD-6501",
+"LatLong": "46.8733,29.2625"
 },
 {
 "Name": "Botnaresti",
@@ -8080,19 +8080,24 @@
 "LatLong": "46.9347,29.1622"
 },
 {
+"Name": "Botnarestii Noi",
+"PostCode": "MD-6511",
+"LatLong": "46.9203,29.1669"
+},
+{
 "Name": "Bulboaca",
 "PostCode": "MD-6512",
 "LatLong": "46.8831,29.3097"
 },
 {
-"Name": "Calfa Noua",
-"PostCode": "MD-6513",
-"LatLong": "46.9125,29.3614"
-},
-{
 "Name": "Calfa",
 "PostCode": "MD-6513",
 "LatLong": "46.9042,29.3753"
+},
+{
+"Name": "Calfa Noua",
+"PostCode": "MD-6513",
+"LatLong": "46.9125,29.3614"
 },
 {
 "Name": "Chetrosu",
@@ -8103,11 +8108,6 @@
 "Name": "Chirca",
 "PostCode": "MD-6515",
 "LatLong": "46.9225,29.1092"
-},
-{
-"Name": "Batic",
-"PostCode": "MD-6516",
-"LatLong": "46.7956,29.1914"
 },
 {
 "Name": "Ciobanovca",
@@ -8121,11 +8121,6 @@
 },
 {
 "Name": "Cobusca Veche",
-"PostCode": "MD-6518",
-"LatLong": "46.9722,29.1792"
-},
-{
-"Name": "Floresti",
 "PostCode": "MD-6518",
 "LatLong": "46.9722,29.1792"
 },
@@ -8145,6 +8140,11 @@
 "LatLong": "46.9347,28.9928"
 },
 {
+"Name": "Floresti",
+"PostCode": "MD-6518",
+"LatLong": "46.9722,29.1792"
+},
+{
 "Name": "Geamana",
 "PostCode": "MD-6522",
 "LatLong": "46.8183,29.1389"
@@ -8160,6 +8160,16 @@
 "LatLong": "46.8425,29.3583"
 },
 {
+"Name": "Hirbovatul Nou",
+"PostCode": "MD-6501",
+"LatLong": "46.8319,29.2775"
+},
+{
+"Name": "Larga",
+"PostCode": "MD-7722",
+"LatLong": "46.7583,29.1608"
+},
+{
 "Name": "Maximovca",
 "PostCode": "MD-6525",
 "LatLong": "47.01,29.0128"
@@ -8170,14 +8180,34 @@
 "LatLong": "46.9633,29.0533"
 },
 {
+"Name": "Merenii Noi",
+"PostCode": "MD-6527",
+"LatLong": "46.9244,29.0564"
+},
+{
+"Name": "Mirnoe",
+"PostCode": "MD-6537",
+"LatLong": "46.8014,29.2289"
+},
+{
+"Name": "Nicolaevca",
+"PostCode": "MD-7723",
+"LatLong": "46.7722,29.2106"
+},
+{
+"Name": "Ochiul Ros",
+"PostCode": "MD-7724",
+"LatLong": "46.7672,29.1106"
+},
+{
 "Name": "Petrovca",
 "PostCode": "MD-6526",
 "LatLong": "46.9753,29.0858"
 },
 {
-"Name": "Merenii Noi",
-"PostCode": "MD-6527",
-"LatLong": "46.9244,29.0564"
+"Name": "Picus",
+"PostCode": "MD-7722",
+"LatLong": "46.75,29.0942"
 },
 {
 "Name": "Puhaceni",
@@ -8190,19 +8220,19 @@
 "LatLong": "46.9006,29.3206"
 },
 {
-"Name": "Varnita-2",
-"PostCode": "MD-6530",
-"LatLong": "46.9006,29.3206"
-},
-{
 "Name": "Ruseni",
 "PostCode": "MD-6531",
 "LatLong": "46.8853,29.2"
 },
 {
-"Name": "Albinita",
-"PostCode": "MD-6531",
-"LatLong": "46.8906,29.1739"
+"Name": "Salcia",
+"PostCode": "MD-6511",
+"LatLong": "46.9425,29.1694"
+},
+{
+"Name": "Serpeni",
+"PostCode": "MD-6534",
+"LatLong": "47.0208,29.3497"
 },
 {
 "Name": "Socoleni",
@@ -8215,9 +8245,9 @@
 "LatLong": "46.9817,29.3233"
 },
 {
-"Name": "Serpeni",
-"PostCode": "MD-6534",
-"LatLong": "47.0208,29.3497"
+"Name": "Telita",
+"PostCode": "MD-6535",
+"LatLong": "46.9569,29.3039"
 },
 {
 "Name": "Telita Noua",
@@ -8225,9 +8255,9 @@
 "LatLong": "46.9806,29.2864"
 },
 {
-"Name": "Telita",
-"PostCode": "MD-6535",
-"LatLong": "46.9569,29.3039"
+"Name": "Tintareni",
+"PostCode": "MD-6538",
+"LatLong": "46.9031,29.1389"
 },
 {
 "Name": "Todiresti",
@@ -8235,49 +8265,19 @@
 "LatLong": "46.9072,29.0864"
 },
 {
-"Name": "Balmaz",
-"PostCode": "MD-6537",
-"LatLong": "46.7981,29.285"
-},
-{
-"Name": "Mirnoe",
-"PostCode": "MD-6537",
-"LatLong": "46.8014,29.2289"
-},
-{
 "Name": "Troita Noua",
 "PostCode": "MD-6537",
 "LatLong": "46.7903,29.265"
 },
 {
-"Name": "Tintareni",
-"PostCode": "MD-6538",
-"LatLong": "46.9031,29.1389"
-},
-{
-"Name": "Larga",
-"PostCode": "MD-7722",
-"LatLong": "46.7583,29.1608"
-},
-{
-"Name": "Picus",
-"PostCode": "MD-7722",
-"LatLong": "46.75,29.0942"
-},
-{
-"Name": "Nicolaevca",
-"PostCode": "MD-7723",
-"LatLong": "46.7722,29.2106"
+"Name": "Varnita-2",
+"PostCode": "MD-6530",
+"LatLong": "46.9006,29.3206"
 },
 {
 "Name": "Zolotievca",
 "PostCode": "MD-7723",
 "LatLong": "46.7364,29.1903"
-},
-{
-"Name": "Ochiul Ros",
-"PostCode": "MD-7724",
-"LatLong": "46.7672,29.1106"
 }
 ]
 }
@@ -8293,14 +8293,19 @@
 {
 "Places": [
 {
+"Name": "Alexandrovca",
+"PostCode": "MD-6613",
+"LatLong": "48.0297,28.5542"
+},
+{
+"Name": "Bodeni",
+"PostCode": "MD-6628",
+"LatLong": "48.0819,28.7808"
+},
+{
 "Name": "Camenca 1",
 "PostCode": "MD-6601",
 "LatLong": "48.0319,28.6978"
-},
-{
-"Name": "Solnecinoe",
-"PostCode": "MD-6601",
-"LatLong": "48.0402,28.6355"
 },
 {
 "Name": "Camenca 2",
@@ -8318,9 +8323,9 @@
 "LatLong": "47.9339,28.8669"
 },
 {
-"Name": "Alexandrovca",
-"PostCode": "MD-6613",
-"LatLong": "48.0297,28.5542"
+"Name": "Constantinovca",
+"PostCode": "MD-6635",
+"LatLong": "47.9881,28.8572"
 },
 {
 "Name": "Crasnii Octeabri",
@@ -8333,9 +8338,9 @@
 "LatLong": "48.0944,28.6328"
 },
 {
-"Name": "Voitovca",
-"PostCode": "MD-6617",
-"LatLong": "48.1061,28.605"
+"Name": "Frunzauca",
+"PostCode": "MD-6619",
+"LatLong": "48.1569,28.5844"
 },
 {
 "Name": "Hristovaia",
@@ -8343,19 +8348,9 @@
 "LatLong": "48.1014,28.7342"
 },
 {
-"Name": "Frunzauca",
-"PostCode": "MD-6619",
-"LatLong": "48.1569,28.5844"
-},
-{
 "Name": "Hrusca",
 "PostCode": "MD-6619",
 "LatLong": "48.1125,28.5717"
-},
-{
-"Name": "Sadchi",
-"PostCode": "MD-6620",
-"LatLong": "47.8989,28.8678"
 },
 {
 "Name": "Iantarnoe",
@@ -8383,19 +8378,14 @@
 "LatLong": "47.955,28.8253"
 },
 {
-"Name": "Bodeni",
-"PostCode": "MD-6628",
-"LatLong": "48.0819,28.7808"
-},
-{
 "Name": "Rotari",
 "PostCode": "MD-6628",
 "LatLong": "48.1053,28.8161"
 },
 {
-"Name": "Socolovca",
-"PostCode": "MD-6628",
-"LatLong": "48.0619,28.8383"
+"Name": "Sadchi",
+"PostCode": "MD-6620",
+"LatLong": "47.8989,28.8678"
 },
 {
 "Name": "Severinovca",
@@ -8408,14 +8398,24 @@
 "LatLong": "47.9517,28.9489"
 },
 {
+"Name": "Socolovca",
+"PostCode": "MD-6628",
+"LatLong": "48.0619,28.8383"
+},
+{
+"Name": "Solnecinoe",
+"PostCode": "MD-6601",
+"LatLong": "48.0402,28.6355"
+},
+{
 "Name": "Valea Adinca",
 "PostCode": "MD-6635",
 "LatLong": "48.0056,28.8406"
 },
 {
-"Name": "Constantinovca",
-"PostCode": "MD-6635",
-"LatLong": "47.9881,28.8572"
+"Name": "Voitovca",
+"PostCode": "MD-6617",
+"LatLong": "48.1061,28.605"
 }
 ]
 }
@@ -8431,14 +8431,34 @@
 {
 "Places": [
 {
-"Name": "Ialoveni",
-"PostCode": "MD-6801",
-"LatLong": "46.9431,28.7778"
+"Name": "Alexandrovca",
+"PostCode": "MD-7721",
+"LatLong": "46.7219,29.0231"
+},
+{
+"Name": "Baltati",
+"PostCode": "MD-6828",
+"LatLong": "46.8422,28.9558"
 },
 {
 "Name": "Bardar",
 "PostCode": "MD-6811",
 "LatLong": "46.9019,28.6683"
+},
+{
+"Name": "Budai",
+"PostCode": "MD-6828",
+"LatLong": "46.8125,28.9739"
+},
+{
+"Name": "Carbuna",
+"PostCode": "MD-7713",
+"LatLong": "46.7122,28.9517"
+},
+{
+"Name": "Cigirleni",
+"PostCode": "MD-7715",
+"LatLong": "46.7553,28.8228"
 },
 {
 "Name": "Costesti",
@@ -8451,9 +8471,24 @@
 "LatLong": "46.9706,28.7078"
 },
 {
+"Name": "Gangura",
+"PostCode": "MD-7721",
+"LatLong": "46.73,29.0131"
+},
+{
+"Name": "Gaureni",
+"PostCode": "MD-6831",
+"LatLong": "46.8303,28.8433"
+},
+{
 "Name": "Hansca",
 "PostCode": "MD-6815",
 "LatLong": "46.8314,28.755"
+},
+{
+"Name": "Homuteanovca",
+"PostCode": "MD-7721",
+"LatLong": "46.7244,29.0556"
 },
 {
 "Name": "Horesti",
@@ -8466,6 +8501,11 @@
 "LatLong": "47.0456,28.4894"
 },
 {
+"Name": "Ialoveni",
+"PostCode": "MD-6801",
+"LatLong": "46.9431,28.7778"
+},
+{
 "Name": "Malcoci",
 "PostCode": "MD-6818",
 "LatLong": "47.0261,28.63"
@@ -8474,6 +8514,16 @@
 "Name": "Milestii Mici",
 "PostCode": "MD-6819",
 "LatLong": "46.8994,28.8047"
+},
+{
+"Name": "Milestii Noi",
+"PostCode": "MD-7727",
+"LatLong": "46.7461,28.9617"
+},
+{
+"Name": "Misovca",
+"PostCode": "MD-7721",
+"LatLong": "46.7661,29.0017"
 },
 {
 "Name": "Molesti",
@@ -8501,14 +8551,24 @@
 "LatLong": "46.8225,29.0328"
 },
 {
-"Name": "Rusestii Vechi",
-"PostCode": "MD-6825",
-"LatLong": "46.9192,28.6261"
+"Name": "Razeni 1",
+"PostCode": "MD-7727",
+"LatLong": "46.7461,28.9617"
+},
+{
+"Name": "Razeni 2",
+"PostCode": "MD-7728",
+"LatLong": "46.7708,28.9006"
 },
 {
 "Name": "Rusestii Noi",
 "PostCode": "MD-6825",
 "LatLong": "46.9297,28.6519"
+},
+{
+"Name": "Rusestii Vechi",
+"PostCode": "MD-6825",
+"LatLong": "46.9192,28.6261"
 },
 {
 "Name": "Sociteni",
@@ -8521,16 +8581,6 @@
 "LatLong": "46.9825,28.6686"
 },
 {
-"Name": "Baltati",
-"PostCode": "MD-6828",
-"LatLong": "46.8422,28.9558"
-},
-{
-"Name": "Budai",
-"PostCode": "MD-6828",
-"LatLong": "46.8125,28.9739"
-},
-{
 "Name": "Tipala",
 "PostCode": "MD-6828",
 "LatLong": "46.8278,28.9753"
@@ -8541,6 +8591,11 @@
 "LatLong": "47.02,28.5458"
 },
 {
+"Name": "Varatic",
+"PostCode": "MD-7731",
+"LatLong": "46.8094,29.0633"
+},
+{
 "Name": "Vasieni",
 "PostCode": "MD-6830",
 "LatLong": "46.9678,28.5914"
@@ -8549,61 +8604,6 @@
 "Name": "Zimbreni",
 "PostCode": "MD-6831",
 "LatLong": "46.8369,28.8475"
-},
-{
-"Name": "Gaureni",
-"PostCode": "MD-6831",
-"LatLong": "46.8303,28.8433"
-},
-{
-"Name": "Carbuna",
-"PostCode": "MD-7713",
-"LatLong": "46.7122,28.9517"
-},
-{
-"Name": "Cigirleni",
-"PostCode": "MD-7715",
-"LatLong": "46.7553,28.8228"
-},
-{
-"Name": "Homuteanovca",
-"PostCode": "MD-7721",
-"LatLong": "46.7244,29.0556"
-},
-{
-"Name": "Alexandrovca",
-"PostCode": "MD-7721",
-"LatLong": "46.7219,29.0231"
-},
-{
-"Name": "Gangura",
-"PostCode": "MD-7721",
-"LatLong": "46.73,29.0131"
-},
-{
-"Name": "Misovca",
-"PostCode": "MD-7721",
-"LatLong": "46.7661,29.0017"
-},
-{
-"Name": "Razeni 1",
-"PostCode": "MD-7727",
-"LatLong": "46.7461,28.9617"
-},
-{
-"Name": "Milestii Noi",
-"PostCode": "MD-7727",
-"LatLong": "46.7461,28.9617"
-},
-{
-"Name": "Razeni 2",
-"PostCode": "MD-7728",
-"LatLong": "46.7708,28.9006"
-},
-{
-"Name": "Varatic",
-"PostCode": "MD-7731",
-"LatLong": "46.8094,29.0633"
 }
 ]
 }
@@ -8619,39 +8619,9 @@
 {
 "Places": [
 {
-"Name": "Ocnita 1",
-"PostCode": "MD-7101",
-"LatLong": "48.3853,27.4392"
-},
-{
-"Name": "Ocnita Gara",
-"PostCode": "MD-7102",
-"LatLong": "48.3853,27.4392"
-},
-{
-"Name": "Ocnita 2",
-"PostCode": "MD-7102",
-"LatLong": "48.3853,27.4392"
-},
-{
-"Name": "Otaci",
-"PostCode": "MD-7106",
-"LatLong": "48.43,27.7939"
-},
-{
-"Name": "Frunza",
-"PostCode": "MD-7108",
-"LatLong": "48.4075,27.5986"
-},
-{
 "Name": "Berezovca",
 "PostCode": "MD-7111",
 "LatLong": "48.3814,27.7769"
-},
-{
-"Name": "Paladea",
-"PostCode": "MD-7112",
-"LatLong": "48.2464,27.4183"
 },
 {
 "Name": "Birladeni",
@@ -8684,19 +8654,14 @@
 "LatLong": "48.3528,27.2578"
 },
 {
-"Name": "Stalinesti",
-"PostCode": "MD-7118",
-"LatLong": "48.3386,27.2639"
-},
-{
 "Name": "Dingeni",
 "PostCode": "MD-7119",
 "LatLong": "48.3481,27.4814"
 },
 {
-"Name": "Paustova",
-"PostCode": "MD-7120",
-"LatLong": "45.8208,28.4364"
+"Name": "Frunza",
+"PostCode": "MD-7108",
+"LatLong": "48.4075,27.5986"
 },
 {
 "Name": "Girbova",
@@ -8734,6 +8699,11 @@
 "LatLong": "48.3936,27.5125"
 },
 {
+"Name": "Maiovca",
+"PostCode": "MD-7130",
+"LatLong": "48.3719,27.3936"
+},
+{
 "Name": "Mereseuca",
 "PostCode": "MD-7127",
 "LatLong": "48.4342,27.6842"
@@ -8749,14 +8719,39 @@
 "LatLong": "48.4672,27.5844"
 },
 {
+"Name": "Ocnita 1",
+"PostCode": "MD-7101",
+"LatLong": "48.3853,27.4392"
+},
+{
+"Name": "Ocnita 2",
+"PostCode": "MD-7102",
+"LatLong": "48.3853,27.4392"
+},
+{
+"Name": "Ocnita Gara",
+"PostCode": "MD-7102",
+"LatLong": "48.3853,27.4392"
+},
+{
 "Name": "Ocnita Sat",
 "PostCode": "MD-7130",
 "LatLong": "48.3719,27.3936"
 },
 {
-"Name": "Maiovca",
-"PostCode": "MD-7130",
-"LatLong": "48.3719,27.3936"
+"Name": "Otaci",
+"PostCode": "MD-7106",
+"LatLong": "48.43,27.7939"
+},
+{
+"Name": "Paladea",
+"PostCode": "MD-7112",
+"LatLong": "48.2464,27.4183"
+},
+{
+"Name": "Paustova",
+"PostCode": "MD-7120",
+"LatLong": "45.8208,28.4364"
 },
 {
 "Name": "Rediul Mare",
@@ -8772,6 +8767,11 @@
 "Name": "Sauca",
 "PostCode": "MD-7133",
 "LatLong": "48.3775,27.7256"
+},
+{
+"Name": "Stalinesti",
+"PostCode": "MD-7118",
+"LatLong": "48.3386,27.2639"
 },
 {
 "Name": "Unguri",
@@ -8801,16 +8801,6 @@
 "Communities": [
 {
 "Places": [
-{
-"Name": "Soldanesti",
-"PostCode": "MD-7201",
-"LatLong": "47.8153,28.7967"
-},
-{
-"Name": "Odaia",
-"PostCode": "MD-7211",
-"LatLong": "47.8567,28.8469"
-},
 {
 "Name": "Alcedar",
 "PostCode": "MD-7211",
@@ -8842,11 +8832,6 @@
 "LatLong": "47.9789,28.7778"
 },
 {
-"Name": "Cuselauca",
-"PostCode": "MD-7216",
-"LatLong": "47.8769,28.5608"
-},
-{
 "Name": "Cotiujenii Mari",
 "PostCode": "MD-7216",
 "LatLong": "47.8436,28.5544"
@@ -8855,6 +8840,11 @@
 "Name": "Curatura",
 "PostCode": "MD-7217",
 "LatLong": "47.8783,28.9122"
+},
+{
+"Name": "Cuselauca",
+"PostCode": "MD-7216",
+"LatLong": "47.8769,28.5608"
 },
 {
 "Name": "Cusmirca",
@@ -8882,9 +8872,19 @@
 "LatLong": "47.5986,27.89"
 },
 {
+"Name": "Lelina",
+"PostCode": "MD-7231",
+"LatLong": "47.925,28.7472"
+},
+{
 "Name": "Mihuleni",
 "PostCode": "MD-7223",
 "LatLong": "47.8306,28.8369"
+},
+{
+"Name": "Odaia",
+"PostCode": "MD-7211",
+"LatLong": "47.8567,28.8469"
 },
 {
 "Name": "Oliscani",
@@ -8912,19 +8912,9 @@
 "LatLong": "47.7456,28.6211"
 },
 {
-"Name": "Zahorna",
-"PostCode": "MD-7229",
-"LatLong": "47.7967,28.5528"
-},
-{
 "Name": "Recesti",
 "PostCode": "MD-7229",
 "LatLong": "47.7864,28.5622"
-},
-{
-"Name": "Rogojeni Loc.C.F.",
-"PostCode": "MD-7230",
-"LatLong": "47.8253,28.4117"
 },
 {
 "Name": "Rogojeni",
@@ -8932,19 +8922,14 @@
 "LatLong": "47.8253,28.4117"
 },
 {
-"Name": "Lelina",
-"PostCode": "MD-7231",
-"LatLong": "47.925,28.7472"
+"Name": "Rogojeni Loc.C.F.",
+"PostCode": "MD-7230",
+"LatLong": "47.8253,28.4117"
 },
 {
 "Name": "Salcia",
 "PostCode": "MD-7231",
 "LatLong": "47.9506,28.7342"
-},
-{
-"Name": "Socola",
-"PostCode": "MD-7232",
-"LatLong": "47.9081,28.8133"
 },
 {
 "Name": "Samascani",
@@ -8962,9 +8947,24 @@
 "LatLong": "47.8481,28.8061"
 },
 {
+"Name": "Socola",
+"PostCode": "MD-7232",
+"LatLong": "47.9081,28.8133"
+},
+{
+"Name": "Soldanesti",
+"PostCode": "MD-7201",
+"LatLong": "47.8153,28.7967"
+},
+{
 "Name": "Vadul-Rascov",
 "PostCode": "MD-7236",
 "LatLong": "47.9386,28.8269"
+},
+{
+"Name": "Zahorna",
+"PostCode": "MD-7229",
+"LatLong": "47.7967,28.5528"
 }
 ]
 }
@@ -8980,19 +8980,14 @@
 {
 "Places": [
 {
-"Name": "Cantemir 1",
-"PostCode": "MD-7301",
-"LatLong": "46.2781,28.2008"
-},
-{
 "Name": "Acui",
 "PostCode": "MD-7311",
 "LatLong": "46.1867,28.4247"
 },
 {
-"Name": "Leca",
-"PostCode": "MD-7312",
-"LatLong": "46.3097,28.205"
+"Name": "Alexandrovca",
+"PostCode": "MD-7337",
+"LatLong": "46.23,28.2664"
 },
 {
 "Name": "Antonesti",
@@ -9005,14 +9000,19 @@
 "LatLong": "46.1872,28.3869"
 },
 {
-"Name": "Iepureni",
-"PostCode": "MD-7314",
-"LatLong": "46.2633,28.2214"
+"Name": "Bobocica",
+"PostCode": "MD-7324",
+"LatLong": "46.2281,28.416"
 },
 {
 "Name": "Cania",
 "PostCode": "MD-7314",
 "LatLong": "46.2814,28.2286"
+},
+{
+"Name": "Cantemir 1",
+"PostCode": "MD-7301",
+"LatLong": "46.2781,28.2008"
 },
 {
 "Name": "Capaclia",
@@ -9025,29 +9025,9 @@
 "LatLong": "46.1411,28.4039"
 },
 {
-"Name": "Tarancuta",
-"PostCode": "MD-7316",
-"LatLong": "46.1589,28.4681"
-},
-{
-"Name": "Dimitrova",
-"PostCode": "MD-7317",
-"LatLong": "46.1589,28.4681"
-},
-{
 "Name": "Ciobalaccia",
 "PostCode": "MD-7318",
 "LatLong": "46.1744,28.2872"
-},
-{
-"Name": "Flocoasa",
-"PostCode": "MD-7318",
-"LatLong": "46.1528,28.2514"
-},
-{
-"Name": "Victorovca",
-"PostCode": "MD-7318",
-"LatLong": "46.1783,28.2917"
 },
 {
 "Name": "Cirpesti",
@@ -9055,19 +9035,9 @@
 "LatLong": "46.2636,28.3367"
 },
 {
-"Name": "Suhat",
-"PostCode": "MD-7320",
-"LatLong": "46.1625,28.3442"
-},
-{
 "Name": "Cisla",
 "PostCode": "MD-7320",
 "LatLong": "46.1419,28.3333"
-},
-{
-"Name": "Sofranovca",
-"PostCode": "MD-7320",
-"LatLong": "46.1239,28.3594"
 },
 {
 "Name": "Cociulia",
@@ -9075,9 +9045,24 @@
 "LatLong": "46.3578,28.4147"
 },
 {
+"Name": "Constantinesti",
+"PostCode": "MD-7333",
+"LatLong": "46.1114,28.215"
+},
+{
 "Name": "Costangalia",
 "PostCode": "MD-7322",
 "LatLong": "46.11,28.3872"
+},
+{
+"Name": "Craciun",
+"PostCode": "MD-7329",
+"LatLong": "46.2328,28.3517"
+},
+{
+"Name": "Dimitrova",
+"PostCode": "MD-7317",
+"LatLong": "46.1589,28.4681"
 },
 {
 "Name": "Enichioi",
@@ -9085,19 +9070,14 @@
 "LatLong": "46.2217,28.42"
 },
 {
+"Name": "Flocoasa",
+"PostCode": "MD-7318",
+"LatLong": "46.1528,28.2514"
+},
+{
 "Name": "Floricica",
 "PostCode": "MD-7324",
 "LatLong": "46.2344,28.4119"
-},
-{
-"Name": "Bobocica",
-"PostCode": "MD-7324",
-"LatLong": "46.2281,28.416"
-},
-{
-"Name": "Tolica",
-"PostCode": "MD-7324",
-"LatLong": "46.2281,28.416"
 },
 {
 "Name": "Ghioltosu",
@@ -9110,9 +9090,24 @@
 "LatLong": "46.1478,28.1672"
 },
 {
+"Name": "Hanaseni",
+"PostCode": "MD-7339",
+"LatLong": "46.3481,28.3303"
+},
+{
 "Name": "Haragis",
 "PostCode": "MD-7327",
 "LatLong": "46.2894,28.3783"
+},
+{
+"Name": "Hirtop",
+"PostCode": "MD-7337",
+"LatLong": "46.2339,28.2511"
+},
+{
+"Name": "Iepureni",
+"PostCode": "MD-7314",
+"LatLong": "46.2633,28.2214"
 },
 {
 "Name": "Larguta",
@@ -9120,14 +9115,9 @@
 "LatLong": "46.305,28.3192"
 },
 {
-"Name": "Popovca",
-"PostCode": "MD-7329",
-"LatLong": "46.2481,28.3094"
-},
-{
-"Name": "Craciun",
-"PostCode": "MD-7329",
-"LatLong": "46.2328,28.3517"
+"Name": "Leca",
+"PostCode": "MD-7312",
+"LatLong": "46.3097,28.205"
 },
 {
 "Name": "Lingura",
@@ -9145,19 +9135,19 @@
 "LatLong": "46.2078,28.2142"
 },
 {
+"Name": "Popovca",
+"PostCode": "MD-7329",
+"LatLong": "46.2481,28.3094"
+},
+{
 "Name": "Porumbesti",
 "PostCode": "MD-7332",
 "LatLong": "46.3139,28.2775"
 },
 {
-"Name": "Constantinesti",
-"PostCode": "MD-7333",
-"LatLong": "46.1114,28.215"
-},
-{
-"Name": "Stoianovca",
-"PostCode": "MD-7335",
-"LatLong": "46.2592,28.1644"
+"Name": "Sadic",
+"PostCode": "MD-7344",
+"LatLong": "46.2675,28.5128"
 },
 {
 "Name": "Samalia",
@@ -9165,9 +9155,19 @@
 "LatLong": "46.2733,28.4358"
 },
 {
-"Name": "Hirtop",
-"PostCode": "MD-7337",
-"LatLong": "46.2339,28.2511"
+"Name": "Sofranovca",
+"PostCode": "MD-7320",
+"LatLong": "46.1239,28.3594"
+},
+{
+"Name": "Stoianovca",
+"PostCode": "MD-7335",
+"LatLong": "46.2592,28.1644"
+},
+{
+"Name": "Suhat",
+"PostCode": "MD-7320",
+"LatLong": "46.1625,28.3442"
 },
 {
 "Name": "Taraclia",
@@ -9175,9 +9175,14 @@
 "LatLong": "46.22,28.2267"
 },
 {
-"Name": "Alexandrovca",
-"PostCode": "MD-7337",
-"LatLong": "46.23,28.2664"
+"Name": "Taraclia",
+"PostCode": "MD-7344",
+"LatLong": "46.22,28.2267"
+},
+{
+"Name": "Tarancuta",
+"PostCode": "MD-7316",
+"LatLong": "46.1589,28.4681"
 },
 {
 "Name": "Tartaul",
@@ -9190,14 +9195,9 @@
 "LatLong": "46.3403,28.3019"
 },
 {
-"Name": "Hanaseni",
-"PostCode": "MD-7339",
-"LatLong": "46.3481,28.3303"
-},
-{
-"Name": "Toceni",
-"PostCode": "MD-7340",
-"LatLong": "46.3669,28.2189"
+"Name": "Tiganca",
+"PostCode": "MD-7341",
+"LatLong": "46.2333,28.1558"
 },
 {
 "Name": "Tiganca Noua",
@@ -9205,14 +9205,19 @@
 "LatLong": "46.2047,28.1736"
 },
 {
-"Name": "Tiganca",
-"PostCode": "MD-7341",
-"LatLong": "46.2333,28.1558"
+"Name": "Toceni",
+"PostCode": "MD-7340",
+"LatLong": "46.3669,28.2189"
 },
 {
-"Name": "Visniovca",
-"PostCode": "MD-7342",
-"LatLong": "46.3333,28.4494"
+"Name": "Tolica",
+"PostCode": "MD-7324",
+"LatLong": "46.2281,28.416"
+},
+{
+"Name": "Victorovca",
+"PostCode": "MD-7318",
+"LatLong": "46.1783,28.2917"
 },
 {
 "Name": "Vilcele",
@@ -9220,14 +9225,9 @@
 "LatLong": "46.3814,28.2558"
 },
 {
-"Name": "Taraclia",
-"PostCode": "MD-7344",
-"LatLong": "46.22,28.2267"
-},
-{
-"Name": "Sadic",
-"PostCode": "MD-7344",
-"LatLong": "46.2675,28.5128"
+"Name": "Visniovca",
+"PostCode": "MD-7342",
+"LatLong": "46.3333,28.4494"
 }
 ]
 }
@@ -9261,26 +9261,6 @@
 {
 "Places": [
 {
-"Name": "Taraclia 1",
-"PostCode": "MD-7401",
-"LatLong": "45.9,28.6689"
-},
-{
-"Name": "Taraclia 2",
-"PostCode": "MD-7402",
-"LatLong": "45.9,28.6689"
-},
-{
-"Name": "Hagichioi",
-"PostCode": "MD-7411",
-"LatLong": "45.9256,28.4622"
-},
-{
-"Name": "Hirtop",
-"PostCode": "MD-7411",
-"LatLong": "45.9206,28.4928"
-},
-{
 "Name": "Albota De Jos",
 "PostCode": "MD-7411",
 "LatLong": "45.9458,28.4844"
@@ -9289,16 +9269,6 @@
 "Name": "Albota De Sus",
 "PostCode": "MD-7412",
 "LatLong": "45.9733,28.4742"
-},
-{
-"Name": "Sofievca",
-"PostCode": "MD-7412",
-"LatLong": "46.0086,28.4717"
-},
-{
-"Name": "Rosita",
-"PostCode": "MD-7412",
-"LatLong": "46.0333,28.4722"
 },
 {
 "Name": "Aluatu",
@@ -9311,11 +9281,6 @@
 "LatLong": "45.9319,28.5811"
 },
 {
-"Name": "Dermengi",
-"PostCode": "MD-7416",
-"LatLong": "45.88,28.4147"
-},
-{
 "Name": "Budai",
 "PostCode": "MD-7416",
 "LatLong": "45.8489,28.4664"
@@ -9326,24 +9291,14 @@
 "LatLong": "45.7783,28.6244"
 },
 {
-"Name": "Chirilovca",
-"PostCode": "MD-7418",
-"LatLong": "45.8167,28.5764"
-},
-{
-"Name": "Samurza",
-"PostCode": "MD-7419",
-"LatLong": "45.9769,28.5647"
-},
-{
-"Name": "Cortenul Nou",
-"PostCode": "MD-7419",
-"LatLong": "46.0042,28.5703"
-},
-{
 "Name": "Cealic",
 "PostCode": "MD-7419",
 "LatLong": "45.9956,28.5542"
+},
+{
+"Name": "Chirilovca",
+"PostCode": "MD-7418",
+"LatLong": "45.8167,28.5764"
 },
 {
 "Name": "Ciumai",
@@ -9356,9 +9311,24 @@
 "LatLong": "46.0144,28.7361"
 },
 {
-"Name": "Tvardita",
-"PostCode": "MD-7422",
-"LatLong": "46.1547,28.9656"
+"Name": "Cortenul Nou",
+"PostCode": "MD-7419",
+"LatLong": "46.0042,28.5703"
+},
+{
+"Name": "Dermengi",
+"PostCode": "MD-7416",
+"LatLong": "45.88,28.4147"
+},
+{
+"Name": "Hagichioi",
+"PostCode": "MD-7411",
+"LatLong": "45.9256,28.4622"
+},
+{
+"Name": "Hirtop",
+"PostCode": "MD-7411",
+"LatLong": "45.9206,28.4928"
 },
 {
 "Name": "Mirnoe",
@@ -9376,24 +9346,54 @@
 "LatLong": "45.9006,28.6017"
 },
 {
-"Name": "Salcia",
-"PostCode": "MD-7426",
-"LatLong": "45.8758,28.5158"
-},
-{
-"Name": "Vinogradovca",
-"PostCode": "MD-7426",
-"LatLong": "45.8042,28.5347"
-},
-{
 "Name": "Orehovca",
 "PostCode": "MD-7426",
 "LatLong": "45.9089,28.5278"
 },
 {
+"Name": "Rosita",
+"PostCode": "MD-7412",
+"LatLong": "46.0333,28.4722"
+},
+{
+"Name": "Salcia",
+"PostCode": "MD-7426",
+"LatLong": "45.8758,28.5158"
+},
+{
+"Name": "Samurza",
+"PostCode": "MD-7419",
+"LatLong": "45.9769,28.5647"
+},
+{
+"Name": "Sofievca",
+"PostCode": "MD-7412",
+"LatLong": "46.0086,28.4717"
+},
+{
+"Name": "Taraclia 1",
+"PostCode": "MD-7401",
+"LatLong": "45.9,28.6689"
+},
+{
+"Name": "Taraclia 2",
+"PostCode": "MD-7402",
+"LatLong": "45.9,28.6689"
+},
+{
+"Name": "Tvardita",
+"PostCode": "MD-7422",
+"LatLong": "46.1547,28.9656"
+},
+{
 "Name": "Valea Perjei",
 "PostCode": "MD-7427",
 "LatLong": "46.0339,28.925"
+},
+{
+"Name": "Vinogradovca",
+"PostCode": "MD-7426",
+"LatLong": "45.8042,28.5347"
 }
 ]
 }

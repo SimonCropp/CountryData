@@ -74,6 +74,11 @@
 "LatLong": "-10.2943,-67.2682"
 },
 {
+"Name": "Porto Acre",
+"PostCode": "69921-000",
+"LatLong": "-9.6504,-67.7773"
+},
+{
 "Name": "Porto Walter",
 "PostCode": "69982-000",
 "LatLong": "-8.5247,-72.8207"
@@ -94,14 +99,14 @@
 "LatLong": "-9.4773,-70.3903"
 },
 {
-"Name": "Senador Guiomard",
-"PostCode": "69925-000",
-"LatLong": "-9.9408,-67.3931"
-},
-{
 "Name": "Sena Madureira",
 "PostCode": "69940-000",
 "LatLong": "-10.0357,-69.5497"
+},
+{
+"Name": "Senador Guiomard",
+"PostCode": "69925-000",
+"LatLong": "-9.9408,-67.3931"
 },
 {
 "Name": "Tarauacá",
@@ -112,11 +117,6 @@
 "Name": "Xapuri",
 "PostCode": "69930-000",
 "LatLong": "-10.5966,-68.6489"
-},
-{
-"Name": "Porto Acre",
-"PostCode": "69921-000",
-"LatLong": "-9.6504,-67.7773"
 }
 ]
 }
@@ -369,6 +369,11 @@
 "LatLong": "-9.5168,-36.9649"
 },
 {
+"Name": "Mar Vermelho",
+"PostCode": "57730-000",
+"LatLong": "-9.4925,-36.3504"
+},
+{
 "Name": "Maragogi",
 "PostCode": "57955-000",
 "LatLong": "-8.9586,-35.276"
@@ -387,11 +392,6 @@
 "Name": "Maribondo",
 "PostCode": "57670-000",
 "LatLong": "-9.5509,-36.3403"
-},
-{
-"Name": "Mar Vermelho",
-"PostCode": "57730-000",
-"LatLong": "-9.4925,-36.3504"
 },
 {
 "Name": "Mata Grande",
@@ -649,7 +649,6 @@
 "Code": "03",
 "Provinces": [
 {
-"Code": "1600105",
 "Communities": [
 {
 "Places": [
@@ -659,9 +658,9 @@
 "LatLong": "1.8571,-50.8437"
 },
 {
-"Name": "Pedra Branca do Amaparí",
-"PostCode": "68948-000",
-"LatLong": "1.1484,-52.4012"
+"Name": "Amapari",
+"PostCode": "68945-000",
+"LatLong": "0.6167,-51.65"
 },
 {
 "Name": "Calçoene",
@@ -704,6 +703,11 @@
 "LatLong": "2.7079,-52.1696"
 },
 {
+"Name": "Pedra Branca do Amaparí",
+"PostCode": "68948-000",
+"LatLong": "1.1484,-52.4012"
+},
+{
 "Name": "Porto Grande",
 "PostCode": "68997-000",
 "LatLong": "0.5655,-51.7118"
@@ -727,11 +731,6 @@
 "Name": "Vitória do Jari",
 "PostCode": "68924-000",
 "LatLong": "-0.9565,-52.0344"
-},
-{
-"Name": "Amapari",
-"PostCode": "68945-000",
-"LatLong": "0.6167,-51.65"
 }
 ]
 }
@@ -1069,7 +1068,6 @@
 "Code": "05",
 "Provinces": [
 {
-"Code": "2900108",
 "Communities": [
 {
 "Places": [
@@ -1097,11 +1095,6 @@
 "Name": "Água Fria",
 "PostCode": "48170-000",
 "LatLong": "-11.7476,-38.735"
-},
-{
-"Name": "Érico Cardoso",
-"PostCode": "46180-000",
-"LatLong": "-13.4369,-42.1033"
 },
 {
 "Name": "Aiquara",
@@ -1189,14 +1182,14 @@
 "LatLong": "-13.83,-39.7344"
 },
 {
-"Name": "Aracatu",
-"PostCode": "46130-000",
-"LatLong": "-14.3901,-41.3633"
-},
-{
 "Name": "Araças",
 "PostCode": "48108-000",
 "LatLong": "-12.1468,-38.1723"
+},
+{
+"Name": "Aracatu",
+"PostCode": "46130-000",
+"LatLong": "-14.3901,-41.3633"
 },
 {
 "Name": "Araci",
@@ -1272,6 +1265,11 @@
 "Name": "Barro Alto",
 "PostCode": "44895-000",
 "LatLong": "-11.7739,-41.9132"
+},
+{
+"Name": "Barro Preto",
+"PostCode": "45625-000",
+"LatLong": "-14.8097,-39.4714"
 },
 {
 "Name": "Belmonte",
@@ -1687,6 +1685,11 @@
 "Name": "Entre Rios",
 "PostCode": "48180-000",
 "LatLong": "-12.0697,-38.0299"
+},
+{
+"Name": "Érico Cardoso",
+"PostCode": "46180-000",
+"LatLong": "-13.4369,-42.1033"
 },
 {
 "Name": "Esplanada",
@@ -2229,6 +2232,11 @@
 "LatLong": "-14.7064,-42.5044"
 },
 {
+"Name": "Livramento do Brumado",
+"PostCode": "46140-000",
+"LatLong": "-13.6431,-41.8406"
+},
+{
 "Name": "Macajuba",
 "PostCode": "46805-000",
 "LatLong": "-12.1437,-40.302"
@@ -2759,11 +2767,6 @@
 "LatLong": "-13.2662,-39.8331"
 },
 {
-"Name": "Santaluz",
-"PostCode": "48880-000",
-"LatLong": "-11.1279,-39.5086"
-},
-{
 "Name": "Santa Luzia",
 "PostCode": "45865-000",
 "LatLong": "-15.4639,-39.2767"
@@ -2774,16 +2777,6 @@
 "LatLong": "-13.2614,-44.378"
 },
 {
-"Name": "Santana",
-"PostCode": "47700-000",
-"LatLong": "-13.0894,-43.8476"
-},
-{
-"Name": "Santanópolis",
-"PostCode": "44260-000",
-"LatLong": "-12.0242,-38.8801"
-},
-{
 "Name": "Santa Rita de Cássia",
 "PostCode": "47150-000",
 "LatLong": "-11.0271,-44.5958"
@@ -2792,6 +2785,21 @@
 "Name": "Santa Teresinha",
 "PostCode": "44590-000",
 "LatLong": "-12.6712,-39.5508"
+},
+{
+"Name": "Santaluz",
+"PostCode": "48880-000",
+"LatLong": "-11.1279,-39.5086"
+},
+{
+"Name": "Santana",
+"PostCode": "47700-000",
+"LatLong": "-13.0894,-43.8476"
+},
+{
+"Name": "Santanópolis",
+"PostCode": "44260-000",
+"LatLong": "-12.0242,-38.8801"
 },
 {
 "Name": "Santo Amaro",
@@ -2819,6 +2827,11 @@
 "LatLong": "-11.4846,-39.5992"
 },
 {
+"Name": "São Felipe",
+"PostCode": "44550-000",
+"LatLong": "-12.8653,-39.0962"
+},
+{
 "Name": "São Félix",
 "PostCode": "44360-000",
 "LatLong": "-12.6781,-38.9998"
@@ -2827,11 +2840,6 @@
 "Name": "São Félix do Coribe",
 "PostCode": "47665-000",
 "LatLong": "-13.4147,-43.9814"
-},
-{
-"Name": "São Felipe",
-"PostCode": "44550-000",
-"LatLong": "-12.8653,-39.0962"
 },
 {
 "Name": "São Francisco do Conde",
@@ -2904,14 +2912,14 @@
 "LatLong": "-10.4287,-40.1012"
 },
 {
-"Name": "Serra do Ramalho",
-"PostCode": "47630-000",
-"LatLong": "-13.411,-43.7785"
-},
-{
 "Name": "Sento Sé",
 "PostCode": "47350-000",
 "LatLong": "-10.2125,-41.5795"
+},
+{
+"Name": "Serra do Ramalho",
+"PostCode": "47630-000",
+"LatLong": "-13.411,-43.7785"
 },
 {
 "Name": "Serra Dourada",
@@ -3137,16 +3145,6 @@
 "Name": "Xique-Xique",
 "PostCode": "47400-000",
 "LatLong": "-10.8339,-42.5632"
-},
-{
-"Name": "Barro Preto",
-"PostCode": "45625-000",
-"LatLong": "-14.8097,-39.4714"
-},
-{
-"Name": "Livramento do Brumado",
-"PostCode": "46140-000",
-"LatLong": "-13.6431,-41.8406"
 }
 ]
 }
@@ -3949,6 +3947,11 @@
 "LatLong": "-7.138,-40.2898"
 },
 {
+"Name": "Santa Quitéria",
+"PostCode": "62280-000",
+"LatLong": "-4.3958,-39.988"
+},
+{
 "Name": "Santana do Acaraú",
 "PostCode": "62150-000",
 "LatLong": "-3.4839,-40.1448"
@@ -3957,11 +3960,6 @@
 "Name": "Santana do Cariri",
 "PostCode": "63190-000",
 "LatLong": "-7.1797,-39.7845"
-},
-{
-"Name": "Santa Quitéria",
-"PostCode": "62280-000",
-"LatLong": "-4.3958,-39.988"
 },
 {
 "Name": "São Benedito",
@@ -4094,7 +4092,6 @@
 "Code": "07",
 "Provinces": [
 {
-"Code": "5300108",
 "Communities": [
 {
 "Places": [
@@ -4104,9 +4101,29 @@
 "LatLong": "-15.8307,-47.6127"
 },
 {
+"Name": "Brazlândia",
+"PostCode": "72700-000",
+"LatLong": "-15.6742,-48.2033"
+},
+{
+"Name": "Candangolândia",
+"PostCode": "71725-000",
+"LatLong": "-15.8542,-47.9556"
+},
+{
+"Name": "Ceilândia",
+"PostCode": "72200-000",
+"LatLong": "-15.8128,-48.1039"
+},
+{
 "Name": "Cruzeiro",
 "PostCode": "70640-000",
 "LatLong": "-15.7836,-47.9343"
+},
+{
+"Name": "Gama",
+"PostCode": "72400-000",
+"LatLong": "-16.0156,-48.0678"
 },
 {
 "Name": "Guara",
@@ -4119,19 +4136,9 @@
 "LatLong": "-15.7201,-47.8338"
 },
 {
-"Name": "Paranoá",
-"PostCode": "71570-000",
-"LatLong": "-15.7755,-47.7812"
-},
-{
 "Name": "Lago Sul",
 "PostCode": "71600-000",
 "LatLong": "-15.9064,-47.8653"
-},
-{
-"Name": "São Sebastiao",
-"PostCode": "71690-000",
-"LatLong": "-23.76,-45.4097"
 },
 {
 "Name": "Núcleo Bandeirante",
@@ -4139,39 +4146,14 @@
 "LatLong": "-15.8692,-47.9747"
 },
 {
-"Name": "Candangolândia",
-"PostCode": "71725-000",
-"LatLong": "-15.8542,-47.9556"
+"Name": "Paranoá",
+"PostCode": "71570-000",
+"LatLong": "-15.7755,-47.7812"
 },
 {
-"Name": "Riacho Fundo",
-"PostCode": "71800-000",
-"LatLong": "-15.9034,-48.0144"
-},
-{
-"Name": "Taguatinga",
-"PostCode": "72000-000",
-"LatLong": "-15.8041,-48.0628"
-},
-{
-"Name": "Ceilândia",
-"PostCode": "72200-000",
-"LatLong": "-15.8128,-48.1039"
-},
-{
-"Name": "Samambaia",
-"PostCode": "72300-000",
-"LatLong": "-15.8872,-48.1508"
-},
-{
-"Name": "Gama",
-"PostCode": "72400-000",
-"LatLong": "-16.0156,-48.0678"
-},
-{
-"Name": "Santa Maria",
-"PostCode": "72500-000",
-"LatLong": "-16.0462,-48.0349"
+"Name": "Planaltina",
+"PostCode": "73300-000",
+"LatLong": "-15.6554,-47.6202"
 },
 {
 "Name": "Recanto das Emas",
@@ -4179,9 +4161,24 @@
 "LatLong": "-15.922,-48.1048"
 },
 {
-"Name": "Brazlândia",
-"PostCode": "72700-000",
-"LatLong": "-15.6742,-48.2033"
+"Name": "Riacho Fundo",
+"PostCode": "71800-000",
+"LatLong": "-15.9034,-48.0144"
+},
+{
+"Name": "Samambaia",
+"PostCode": "72300-000",
+"LatLong": "-15.8872,-48.1508"
+},
+{
+"Name": "Santa Maria",
+"PostCode": "72500-000",
+"LatLong": "-16.0462,-48.0349"
+},
+{
+"Name": "São Sebastiao",
+"PostCode": "71690-000",
+"LatLong": "-23.76,-45.4097"
 },
 {
 "Name": "Sobradinho",
@@ -4189,9 +4186,9 @@
 "LatLong": "-15.6575,-47.7919"
 },
 {
-"Name": "Planaltina",
-"PostCode": "73300-000",
-"LatLong": "-15.6554,-47.6202"
+"Name": "Taguatinga",
+"PostCode": "72000-000",
+"LatLong": "-15.8041,-48.0628"
 }
 ]
 }
@@ -4214,14 +4211,14 @@
 "LatLong": "-20.1051,-41.1242"
 },
 {
-"Name": "Águia Branca",
-"PostCode": "29795-000",
-"LatLong": "-18.9962,-40.7073"
-},
-{
 "Name": "Água Doce do Norte",
 "PostCode": "29820-000",
 "LatLong": "-18.5065,-40.9919"
+},
+{
+"Name": "Águia Branca",
+"PostCode": "29795-000",
+"LatLong": "-18.9962,-40.7073"
 },
 {
 "Name": "Alegre",
@@ -4949,14 +4946,14 @@
 "LatLong": "-19.1317,-54.4487"
 },
 {
-"Name": "Sete Quedas",
-"PostCode": "79935-000",
-"LatLong": "-23.8557,-54.9771"
-},
-{
 "Name": "Selvíria",
 "PostCode": "79590-000",
 "LatLong": "-20.2496,-51.8323"
+},
+{
+"Name": "Sete Quedas",
+"PostCode": "79935-000",
+"LatLong": "-23.8557,-54.9771"
 },
 {
 "Name": "Sidrolândia",
@@ -5144,14 +5141,14 @@
 "LatLong": "-2.7233,-42.8965"
 },
 {
-"Name": "Belágua",
-"PostCode": "65535-000",
-"LatLong": "-3.1438,-43.4467"
-},
-{
 "Name": "Bela Vista do Maranhão",
 "PostCode": "65335-000",
 "LatLong": "-3.7914,-45.2955"
+},
+{
+"Name": "Belágua",
+"PostCode": "65535-000",
+"LatLong": "-3.1438,-43.4467"
 },
 {
 "Name": "Benedito Leite",
@@ -5509,6 +5506,11 @@
 "LatLong": "-4.3598,-44.9357"
 },
 {
+"Name": "Lago dos Rodrigues",
+"PostCode": "65712-000",
+"LatLong": "-4.4635,-44.8796"
+},
+{
 "Name": "Lago Verde",
 "PostCode": "65705-000",
 "LatLong": "-3.9478,-44.7252"
@@ -5517,11 +5519,6 @@
 "Name": "Lagoa do Mato",
 "PostCode": "65683-000",
 "LatLong": "-5.9553,-43.631"
-},
-{
-"Name": "Lago dos Rodrigues",
-"PostCode": "65712-000",
-"LatLong": "-4.4635,-44.8796"
 },
 {
 "Name": "Lagoa Grande do Maranhão",
@@ -6399,11 +6396,6 @@
 "LatLong": "-10.8724,-51.0928"
 },
 {
-"Name": "Vila Bela da Santíssima Trindade",
-"PostCode": "78245-000",
-"LatLong": "-14.8915,-60.0578"
-},
-{
 "Name": "Marcelândia",
 "PostCode": "78535-000",
 "LatLong": "-11.0037,-54.1332"
@@ -6439,11 +6431,6 @@
 "LatLong": "-9.6857,-58.0184"
 },
 {
-"Name": "Nova Lacerda",
-"PostCode": "78243-000",
-"LatLong": "-14.2673,-59.7928"
-},
-{
 "Name": "Nova Brasilândia",
 "PostCode": "78860-000",
 "LatLong": "-14.7574,-55.1053"
@@ -6452,6 +6439,31 @@
 "Name": "Nova Canaã do Norte",
 "PostCode": "78515-000",
 "LatLong": "-10.7199,-56.0344"
+},
+{
+"Name": "Nova Guarita",
+"PostCode": "78508-000",
+"LatLong": "-10.2853,-55.3373"
+},
+{
+"Name": "Nova Lacerda",
+"PostCode": "78243-000",
+"LatLong": "-14.2673,-59.7928"
+},
+{
+"Name": "Nova Marilândia",
+"PostCode": "78415-000",
+"LatLong": "-14.3126,-57.2609"
+},
+{
+"Name": "Nova Maringá",
+"PostCode": "78445-000",
+"LatLong": "-12.9838,-57.1917"
+},
+{
+"Name": "Nova Monte Verde",
+"PostCode": "78593-000",
+"LatLong": "-9.9974,-57.2977"
 },
 {
 "Name": "Nova Mutum",
@@ -6474,14 +6486,14 @@
 "LatLong": "-14.5875,-52.3258"
 },
 {
-"Name": "Novo Mundo",
-"PostCode": "78528-000",
-"LatLong": "-9.8366,-55.3135"
-},
-{
 "Name": "Novo Horizonte do Norte",
 "PostCode": "78570-000",
 "LatLong": "-11.3792,-57.2836"
+},
+{
+"Name": "Novo Mundo",
+"PostCode": "78528-000",
+"LatLong": "-9.8366,-55.3135"
 },
 {
 "Name": "Novo São Joaquim",
@@ -6569,11 +6581,6 @@
 "LatLong": "-12.3212,-52.5476"
 },
 {
-"Name": "São José dos Quatro Marcos",
-"PostCode": "78285-000",
-"LatLong": "-15.5161,-58.3243"
-},
-{
 "Name": "Reserva do Cabaçal",
 "PostCode": "78265-000",
 "LatLong": "-15.1254,-58.3858"
@@ -6594,14 +6601,44 @@
 "LatLong": "-15.3112,-58.1245"
 },
 {
+"Name": "Rondonópolis",
+"PostCode": "78700-000",
+"LatLong": "-16.4332,-54.6372"
+},
+{
+"Name": "Rosário Oeste",
+"PostCode": "78470-000",
+"LatLong": "-14.5798,-55.7148"
+},
+{
+"Name": "Salto do Céu",
+"PostCode": "78270-000",
+"LatLong": "-15.1344,-57.959"
+},
+{
 "Name": "Santa Carmem",
 "PostCode": "78545-000",
 "LatLong": "-11.906,-54.8077"
 },
 {
+"Name": "Santa Terezinha",
+"PostCode": "78650-000",
+"LatLong": "-10.3914,-50.8326"
+},
+{
 "Name": "Santo Afonso",
 "PostCode": "78425-000",
 "LatLong": "-14.4613,-57.3858"
+},
+{
+"Name": "Santo Antônio do Leverger",
+"PostCode": "78180-000",
+"LatLong": "-16.7858,-55.3133"
+},
+{
+"Name": "São Félix do Araguaia",
+"PostCode": "78670-000",
+"LatLong": "-11.4423,-52.1392"
 },
 {
 "Name": "São José do Povo",
@@ -6619,39 +6656,14 @@
 "LatLong": "-10.7279,-52.6211"
 },
 {
+"Name": "São José dos Quatro Marcos",
+"PostCode": "78285-000",
+"LatLong": "-15.5161,-58.3243"
+},
+{
 "Name": "São Pedro da Cipa",
 "PostCode": "78835-000",
 "LatLong": "-15.9516,-54.7796"
-},
-{
-"Name": "Rondonópolis",
-"PostCode": "78700-000",
-"LatLong": "-16.4332,-54.6372"
-},
-{
-"Name": "Rosário Oeste",
-"PostCode": "78470-000",
-"LatLong": "-14.5798,-55.7148"
-},
-{
-"Name": "Salto do Céu",
-"PostCode": "78270-000",
-"LatLong": "-15.1344,-57.959"
-},
-{
-"Name": "Santa Terezinha",
-"PostCode": "78650-000",
-"LatLong": "-10.3914,-50.8326"
-},
-{
-"Name": "Santo Antônio do Leverger",
-"PostCode": "78180-000",
-"LatLong": "-16.7858,-55.3133"
-},
-{
-"Name": "São Félix do Araguaia",
-"PostCode": "78670-000",
-"LatLong": "-11.4423,-52.1392"
 },
 {
 "Name": "Sapezal",
@@ -6714,29 +6726,14 @@
 "LatLong": "-12.4661,-55.3481"
 },
 {
+"Name": "Vila Bela da Santíssima Trindade",
+"PostCode": "78245-000",
+"LatLong": "-14.8915,-60.0578"
+},
+{
 "Name": "Vila Rica",
 "PostCode": "78645-000",
 "LatLong": "-10.1341,-51.4137"
-},
-{
-"Name": "Nova Guarita",
-"PostCode": "78508-000",
-"LatLong": "-10.2853,-55.3373"
-},
-{
-"Name": "Nova Marilândia",
-"PostCode": "78415-000",
-"LatLong": "-14.3126,-57.2609"
-},
-{
-"Name": "Nova Maringá",
-"PostCode": "78445-000",
-"LatLong": "-12.9838,-57.1917"
-},
-{
-"Name": "Nova Monte Verde",
-"PostCode": "78593-000",
-"LatLong": "-9.9974,-57.2977"
 }
 ]
 }
@@ -6864,6 +6861,11 @@
 "LatLong": "-20.5275,-41.9645"
 },
 {
+"Name": "Alto Jequitibá",
+"PostCode": "36976-000",
+"LatLong": "-20.437,-41.9511"
+},
+{
 "Name": "Alto Rio Doce",
 "PostCode": "36260-000",
 "LatLong": "-21.0193,-43.4054"
@@ -6892,11 +6894,6 @@
 "Name": "Andradas",
 "PostCode": "37795-000",
 "LatLong": "-22.0698,-46.5723"
-},
-{
-"Name": "Cachoeira de Pajeú",
-"PostCode": "39980-000",
-"LatLong": "-15.9716,-41.493"
 },
 {
 "Name": "Andrelândia",
@@ -7099,14 +7096,14 @@
 "LatLong": "-16.8634,-42.4889"
 },
 {
-"Name": "Bertópolis",
-"PostCode": "39875-000",
-"LatLong": "-16.9544,-40.5643"
-},
-{
 "Name": "Berizal",
 "PostCode": "39555-000",
 "LatLong": "-15.6776,-41.7714"
+},
+{
+"Name": "Bertópolis",
+"PostCode": "39875-000",
+"LatLong": "-16.9544,-40.5643"
 },
 {
 "Name": "Betim",
@@ -7209,6 +7206,11 @@
 "LatLong": "-16.9095,-43.0085"
 },
 {
+"Name": "Brás Pires",
+"PostCode": "36542-000",
+"LatLong": "-20.8784,-43.2244"
+},
+{
 "Name": "Brasilândia de Minas",
 "PostCode": "38779-000",
 "LatLong": "-16.9306,-45.9638"
@@ -7219,19 +7221,14 @@
 "LatLong": "-16.2525,-44.4571"
 },
 {
-"Name": "Brás Pires",
-"PostCode": "36542-000",
-"LatLong": "-20.8784,-43.2244"
+"Name": "Brasópolis",
+"PostCode": "37530-000",
+"LatLong": "-22.4817,-45.628"
 },
 {
 "Name": "Braúnas",
 "PostCode": "35169-000",
 "LatLong": "-19.0218,-42.714"
-},
-{
-"Name": "Brasópolis",
-"PostCode": "37530-000",
-"LatLong": "-22.4817,-45.628"
 },
 {
 "Name": "Brumadinho",
@@ -7282,6 +7279,11 @@
 "Name": "Cachoeira de Minas",
 "PostCode": "37545-000",
 "LatLong": "-22.3556,-45.7945"
+},
+{
+"Name": "Cachoeira de Pajeú",
+"PostCode": "39980-000",
+"LatLong": "-15.9716,-41.493"
 },
 {
 "Name": "Cachoeira Dourada",
@@ -7384,6 +7386,11 @@
 "LatLong": "-21.2471,-45.7139"
 },
 {
+"Name": "Cana Verde",
+"PostCode": "37267-000",
+"LatLong": "-21.0206,-45.1833"
+},
+{
 "Name": "Canaã",
 "PostCode": "36592-000",
 "LatLong": "-20.6613,-42.6379"
@@ -7392,11 +7399,6 @@
 "Name": "Canápolis",
 "PostCode": "38380-000",
 "LatLong": "-18.7778,-49.2758"
-},
-{
-"Name": "Cana Verde",
-"PostCode": "37267-000",
-"LatLong": "-21.0206,-45.1833"
 },
 {
 "Name": "Candeias",
@@ -7574,11 +7576,6 @@
 "LatLong": "-20.5929,-46.9176"
 },
 {
-"Name": "Conceição da Barra de Minas",
-"PostCode": "36360-000",
-"LatLong": "-21.1423,-44.4886"
-},
-{
 "Name": "Cataguases",
 "PostCode": "36770-000",
 "LatLong": "-21.3455,-42.6498"
@@ -7694,14 +7691,19 @@
 "LatLong": "-21.1012,-46.2263"
 },
 {
-"Name": "Conceição das Pedras",
-"PostCode": "37527-000",
-"LatLong": "-22.1387,-45.4269"
+"Name": "Conceição da Barra de Minas",
+"PostCode": "36360-000",
+"LatLong": "-21.1423,-44.4886"
 },
 {
 "Name": "Conceição das Alagoas",
 "PostCode": "38120-000",
 "LatLong": "-19.9563,-48.3051"
+},
+{
+"Name": "Conceição das Pedras",
+"PostCode": "37527-000",
+"LatLong": "-22.1387,-45.4269"
 },
 {
 "Name": "Conceição de Ipanema",
@@ -8167,11 +8169,6 @@
 "Name": "Felício dos Santos",
 "PostCode": "39180-000",
 "LatLong": "-18.1551,-43.2405"
-},
-{
-"Name": "São Gonçalo do Rio Preto",
-"PostCode": "39185-000",
-"LatLong": "-18.0763,-43.3553"
 },
 {
 "Name": "Felisburgo",
@@ -8839,11 +8836,6 @@
 "LatLong": "-16.5531,-42.517"
 },
 {
-"Name": "Nova União",
-"PostCode": "34990-000",
-"LatLong": "-19.6436,-43.578"
-},
-{
 "Name": "Juatuba",
 "PostCode": "35675-000",
 "LatLong": "-19.9598,-44.353"
@@ -9039,14 +9031,14 @@
 "LatLong": "-18.6855,-41.1075"
 },
 {
-"Name": "Maravilhas",
-"PostCode": "35666-000",
-"LatLong": "-19.5123,-44.6799"
-},
-{
 "Name": "Mar de Espanha",
 "PostCode": "36640-000",
 "LatLong": "-21.876,-43.0219"
+},
+{
+"Name": "Maravilhas",
+"PostCode": "35666-000",
+"LatLong": "-19.5123,-44.6799"
 },
 {
 "Name": "Maria da Fé",
@@ -9107,6 +9099,11 @@
 "Name": "Mateus Leme",
 "PostCode": "35670-000",
 "LatLong": "-20.0163,-44.4342"
+},
+{
+"Name": "Mathias Lobato",
+"PostCode": "35110-000",
+"LatLong": "-18.6048,-41.9619"
 },
 {
 "Name": "Matias Barbosa",
@@ -9249,14 +9246,14 @@
 "LatLong": "-21.2043,-46.954"
 },
 {
-"Name": "Montes Claros",
-"PostCode": "39400-000",
-"LatLong": "-16.5879,-43.9"
-},
-{
 "Name": "Monte Sião",
 "PostCode": "37580-000",
 "LatLong": "-22.414,-46.5438"
+},
+{
+"Name": "Montes Claros",
+"PostCode": "39400-000",
+"LatLong": "-16.5879,-43.9"
 },
 {
 "Name": "Montezuma",
@@ -9379,6 +9376,11 @@
 "LatLong": "-19.8453,-44.9767"
 },
 {
+"Name": "Nova União",
+"PostCode": "34990-000",
+"LatLong": "-19.6436,-43.578"
+},
+{
 "Name": "Novo Cruzeiro",
 "PostCode": "39820-000",
 "LatLong": "-17.3923,-41.9698"
@@ -9464,6 +9466,11 @@
 "LatLong": "-17.061,-41.5383"
 },
 {
+"Name": "Pai Pedro",
+"PostCode": "39517-000",
+"LatLong": "-15.3273,-43.195"
+},
+{
 "Name": "Paineiras",
 "PostCode": "35622-000",
 "LatLong": "-18.9182,-45.5374"
@@ -9472,11 +9479,6 @@
 "Name": "Pains",
 "PostCode": "35582-000",
 "LatLong": "-20.3737,-45.7314"
-},
-{
-"Name": "Pai Pedro",
-"PostCode": "39517-000",
-"LatLong": "-15.3273,-43.195"
 },
 {
 "Name": "Paiva",
@@ -9499,14 +9501,14 @@
 "LatLong": "-19.3969,-44.695"
 },
 {
-"Name": "Paracatu",
-"PostCode": "38600-000",
-"LatLong": "-17.1328,-46.8826"
-},
-{
 "Name": "Pará de Minas",
 "PostCode": "35660-000",
 "LatLong": "-19.8212,-44.6129"
+},
+{
+"Name": "Paracatu",
+"PostCode": "38600-000",
+"LatLong": "-17.1328,-46.8826"
 },
 {
 "Name": "Paraguaçu",
@@ -9524,11 +9526,6 @@
 "LatLong": "-19.3019,-44.4532"
 },
 {
-"Name": "Passabém",
-"PostCode": "35810-000",
-"LatLong": "-19.3565,-43.1873"
-},
-{
 "Name": "Passa Quatro",
 "PostCode": "37460-000",
 "LatLong": "-22.4087,-44.9599"
@@ -9537,6 +9534,11 @@
 "Name": "Passa Tempo",
 "PostCode": "35537-000",
 "LatLong": "-20.6435,-44.4986"
+},
+{
+"Name": "Passabém",
+"PostCode": "35810-000",
+"LatLong": "-19.3565,-43.1873"
 },
 {
 "Name": "Passa-Vinte",
@@ -9869,11 +9871,6 @@
 "LatLong": "-18.1619,-46.4063"
 },
 {
-"Name": "Alto Jequitibá",
-"PostCode": "36976-000",
-"LatLong": "-20.437,-41.9511"
-},
-{
 "Name": "Prudente de Morais",
 "PostCode": "35715-000",
 "LatLong": "-19.4681,-44.1136"
@@ -9954,14 +9951,14 @@
 "LatLong": "-20.1289,-42.6608"
 },
 {
-"Name": "Rio Doce",
-"PostCode": "35442-000",
-"LatLong": "-20.2061,-42.8925"
-},
-{
 "Name": "Rio do Prado",
 "PostCode": "39940-000",
 "LatLong": "-16.6834,-40.56"
+},
+{
+"Name": "Rio Doce",
+"PostCode": "35442-000",
+"LatLong": "-20.2061,-42.8925"
 },
 {
 "Name": "Rio Espera",
@@ -10149,6 +10146,46 @@
 "LatLong": "-18.2526,-42.3388"
 },
 {
+"Name": "Santa Rita de Caldas",
+"PostCode": "37775-000",
+"LatLong": "-22.0194,-46.2737"
+},
+{
+"Name": "Santa Rita de Ibitipoca",
+"PostCode": "36235-000",
+"LatLong": "-21.5615,-43.958"
+},
+{
+"Name": "Santa Rita de Jacutinga",
+"PostCode": "36135-000",
+"LatLong": "-22.109,-44.1032"
+},
+{
+"Name": "Santa Rita de Minas",
+"PostCode": "35326-000",
+"LatLong": "-19.8692,-42.127"
+},
+{
+"Name": "Santa Rita do Itueto",
+"PostCode": "35225-000",
+"LatLong": "-19.418,-41.4028"
+},
+{
+"Name": "Santa Rita do Sapucaí",
+"PostCode": "37540-000",
+"LatLong": "-22.2562,-45.6746"
+},
+{
+"Name": "Santa Rosa da Serra",
+"PostCode": "38805-000",
+"LatLong": "-19.5387,-45.98"
+},
+{
+"Name": "Santa Vitória",
+"PostCode": "38320-000",
+"LatLong": "-19.0919,-50.2991"
+},
+{
 "Name": "Santana da Vargem",
 "PostCode": "37195-000",
 "LatLong": "-21.2676,-45.4897"
@@ -10197,46 +10234,6 @@
 "Name": "Santana dos Montes",
 "PostCode": "36430-000",
 "LatLong": "-20.7986,-43.6458"
-},
-{
-"Name": "Santa Rita de Caldas",
-"PostCode": "37775-000",
-"LatLong": "-22.0194,-46.2737"
-},
-{
-"Name": "Santa Rita de Jacutinga",
-"PostCode": "36135-000",
-"LatLong": "-22.109,-44.1032"
-},
-{
-"Name": "Santa Rita de Minas",
-"PostCode": "35326-000",
-"LatLong": "-19.8692,-42.127"
-},
-{
-"Name": "Santa Rita de Ibitipoca",
-"PostCode": "36235-000",
-"LatLong": "-21.5615,-43.958"
-},
-{
-"Name": "Santa Rita do Itueto",
-"PostCode": "35225-000",
-"LatLong": "-19.418,-41.4028"
-},
-{
-"Name": "Santa Rita do Sapucaí",
-"PostCode": "37540-000",
-"LatLong": "-22.2562,-45.6746"
-},
-{
-"Name": "Santa Rosa da Serra",
-"PostCode": "38805-000",
-"LatLong": "-19.5387,-45.98"
-},
-{
-"Name": "Santa Vitória",
-"PostCode": "38320-000",
-"LatLong": "-19.0919,-50.2991"
 },
 {
 "Name": "Santo Antônio do Amparo",
@@ -10362,6 +10359,11 @@
 "Name": "São Gonçalo do Rio Abaixo",
 "PostCode": "35935-000",
 "LatLong": "-19.8118,-43.3284"
+},
+{
+"Name": "São Gonçalo do Rio Preto",
+"PostCode": "39185-000",
+"LatLong": "-18.0763,-43.3553"
 },
 {
 "Name": "São Gonçalo do Sapucaí",
@@ -10504,14 +10506,14 @@
 "LatLong": "-21.1129,-46.6476"
 },
 {
-"Name": "São Pedro dos Ferros",
-"PostCode": "35360-000",
-"LatLong": "-20.0652,-42.563"
-},
-{
 "Name": "São Pedro do Suaçuí",
 "PostCode": "39784-000",
 "LatLong": "-18.3545,-42.5957"
+},
+{
+"Name": "São Pedro dos Ferros",
+"PostCode": "35360-000",
+"LatLong": "-20.0652,-42.563"
 },
 {
 "Name": "São Romão",
@@ -10564,6 +10566,11 @@
 "LatLong": "-22.2128,-45.0205"
 },
 {
+"Name": "São Thomé das Letras",
+"PostCode": "37418-000",
+"LatLong": "-21.7394,-44.9681"
+},
+{
 "Name": "São Tiago",
 "PostCode": "36350-000",
 "LatLong": "-20.9361,-44.5596"
@@ -10572,11 +10579,6 @@
 "Name": "São Tomás de Aquino",
 "PostCode": "37960-000",
 "LatLong": "-20.8032,-47.1308"
-},
-{
-"Name": "São Thomé das Letras",
-"PostCode": "37418-000",
-"LatLong": "-21.7394,-44.9681"
 },
 {
 "Name": "São Vicente de Minas",
@@ -10597,11 +10599,6 @@
 "Name": "Sarzedo",
 "PostCode": "32450-000",
 "LatLong": "-20.0446,-44.1344"
-},
-{
-"Name": "Setubinha",
-"PostCode": "39688-000",
-"LatLong": "-17.698,-42.2968"
 },
 {
 "Name": "Sem-Peixe",
@@ -10669,14 +10666,14 @@
 "LatLong": "-19.3839,-45.8"
 },
 {
-"Name": "Serra dos Aimorés",
-"PostCode": "39868-000",
-"LatLong": "-17.7502,-40.2711"
-},
-{
 "Name": "Serra do Salitre",
 "PostCode": "38760-000",
 "LatLong": "-19.1499,-46.6531"
+},
+{
+"Name": "Serra dos Aimorés",
+"PostCode": "39868-000",
+"LatLong": "-17.7502,-40.2711"
 },
 {
 "Name": "Serrania",
@@ -10702,6 +10699,11 @@
 "Name": "Sete Lagoas",
 "PostCode": "35700-000",
 "LatLong": "-19.4363,-44.2795"
+},
+{
+"Name": "Setubinha",
+"PostCode": "39688-000",
+"LatLong": "-17.698,-42.2968"
 },
 {
 "Name": "Silveirânia",
@@ -10979,11 +10981,6 @@
 "LatLong": "-20.9089,-42.2801"
 },
 {
-"Name": "Mathias Lobato",
-"PostCode": "35110-000",
-"LatLong": "-18.6048,-41.9619"
-},
-{
 "Name": "Virgem da Lapa",
 "PostCode": "39630-000",
 "LatLong": "-16.7164,-42.3485"
@@ -11179,14 +11176,14 @@
 "LatLong": "-1.6532,-48.053"
 },
 {
-"Name": "Cachoeira do Piriá",
-"PostCode": "68617-000",
-"LatLong": "-1.9404,-46.4691"
-},
-{
 "Name": "Cachoeira do Arari",
 "PostCode": "68840-000",
 "LatLong": "-0.8461,-48.9312"
+},
+{
+"Name": "Cachoeira do Piriá",
+"PostCode": "68617-000",
+"LatLong": "-1.9404,-46.4691"
 },
 {
 "Name": "Cametá",
@@ -11759,7 +11756,6 @@
 "Code": "17",
 "Provinces": [
 {
-"Code": "2500106",
 "Communities": [
 {
 "Places": [
@@ -11802,11 +11798,6 @@
 "Name": "Alhandra",
 "PostCode": "58320-000",
 "LatLong": "-7.3504,-34.9283"
-},
-{
-"Name": "São João do Rio do Peixe",
-"PostCode": "58910-000",
-"LatLong": "-6.7185,-38.4294"
 },
 {
 "Name": "Amparo",
@@ -11854,6 +11845,11 @@
 "LatLong": "-7.5206,-35.6993"
 },
 {
+"Name": "Assis Chateaubriand",
+"PostCode": "58382-000",
+"LatLong": "-7.2893,-35.648"
+},
+{
 "Name": "Assunção",
 "PostCode": "58685-000",
 "LatLong": "-7.0737,-36.6989"
@@ -11874,14 +11870,14 @@
 "LatLong": "-6.6185,-36.2696"
 },
 {
-"Name": "Barra de Santana",
-"PostCode": "58458-000",
-"LatLong": "-7.5905,-35.9882"
-},
-{
 "Name": "Barra de Santa Rosa",
 "PostCode": "58170-000",
 "LatLong": "-6.7904,-36.0018"
+},
+{
+"Name": "Barra de Santana",
+"PostCode": "58458-000",
+"LatLong": "-7.5905,-35.9882"
 },
 {
 "Name": "Barra de São Miguel",
@@ -11937,11 +11933,6 @@
 "Name": "Boqueirão",
 "PostCode": "58450-000",
 "LatLong": "-7.5506,-36.1298"
-},
-{
-"Name": "Igaracy",
-"PostCode": "58775-000",
-"LatLong": "-7.1386,-38.1353"
 },
 {
 "Name": "Borborema",
@@ -12104,14 +12095,14 @@
 "LatLong": "-6.5139,-36.0676"
 },
 {
-"Name": "Cuitegi",
-"PostCode": "58208-000",
-"LatLong": "-6.9064,-35.5342"
-},
-{
 "Name": "Cuité de Mamanguape",
 "PostCode": "58289-000",
 "LatLong": "-6.8979,-35.2604"
+},
+{
+"Name": "Cuitegi",
+"PostCode": "58208-000",
+"LatLong": "-6.9064,-35.5342"
 },
 {
 "Name": "Curral de Cima",
@@ -12132,11 +12123,6 @@
 "Name": "Desterro",
 "PostCode": "58695-000",
 "LatLong": "-7.2936,-37.1136"
-},
-{
-"Name": "Vista Serrana",
-"PostCode": "58710-000",
-"LatLong": "-6.7417,-37.576"
 },
 {
 "Name": "Diamante",
@@ -12197,6 +12183,11 @@
 "Name": "Ibiara",
 "PostCode": "58980-000",
 "LatLong": "-7.4825,-38.3805"
+},
+{
+"Name": "Igaracy",
+"PostCode": "58775-000",
+"LatLong": "-7.1386,-38.1353"
 },
 {
 "Name": "Imaculada",
@@ -12464,6 +12455,11 @@
 "LatLong": "-7.3758,-35.0707"
 },
 {
+"Name": "Pedro Régis",
+"PostCode": "58273-000",
+"LatLong": "-6.6705,-35.3103"
+},
+{
 "Name": "Piancó",
 "PostCode": "58765-000",
 "LatLong": "-7.2263,-37.9463"
@@ -12549,11 +12545,6 @@
 "LatLong": "-6.956,-35.8597"
 },
 {
-"Name": "Pedro Régis",
-"PostCode": "58273-000",
-"LatLong": "-6.6705,-35.3103"
-},
-{
 "Name": "Riachão",
 "PostCode": "58235-000",
 "LatLong": "-6.5552,-35.6232"
@@ -12614,6 +12605,16 @@
 "LatLong": "-6.9256,-36.9066"
 },
 {
+"Name": "Santa Rita",
+"PostCode": "58300-000",
+"LatLong": "-7.1044,-34.9739"
+},
+{
+"Name": "Santa Teresinha",
+"PostCode": "58720-000",
+"LatLong": "-7.1209,-37.4965"
+},
+{
 "Name": "Santana de Mangueira",
 "PostCode": "58985-000",
 "LatLong": "-7.6659,-38.3585"
@@ -12629,16 +12630,6 @@
 "LatLong": "-6.4843,-38.4641"
 },
 {
-"Name": "Santa Rita",
-"PostCode": "58300-000",
-"LatLong": "-7.1044,-34.9739"
-},
-{
-"Name": "Santa Teresinha",
-"PostCode": "58720-000",
-"LatLong": "-7.1209,-37.4965"
-},
-{
 "Name": "Santo André",
 "PostCode": "58675-000",
 "LatLong": "-7.2418,-36.6146"
@@ -12649,14 +12640,19 @@
 "LatLong": "-6.4734,-37.4714"
 },
 {
-"Name": "São Domingos do Cariri",
-"PostCode": "58485-000",
-"LatLong": "-7.5675,-36.3639"
+"Name": "São Bento de Pombal",
+"PostCode": "58857-000",
+"LatLong": "-6.9011,-37.7292"
 },
 {
 "Name": "São Domingos de Pombal",
 "PostCode": "58853-000",
 "LatLong": "-6.8073,-37.9166"
+},
+{
+"Name": "São Domingos do Cariri",
+"PostCode": "58485-000",
+"LatLong": "-7.5675,-36.3639"
 },
 {
 "Name": "São Francisco",
@@ -12667,6 +12663,11 @@
 "Name": "São João do Cariri",
 "PostCode": "58590-000",
 "LatLong": "-7.4846,-36.486"
+},
+{
+"Name": "São João do Rio do Peixe",
+"PostCode": "58910-000",
+"LatLong": "-6.7185,-38.4294"
 },
 {
 "Name": "São João do Tigre",
@@ -12687,11 +12688,6 @@
 "Name": "São José de Espinharas",
 "PostCode": "58723-000",
 "LatLong": "-6.8024,-37.3822"
-},
-{
-"Name": "São José dos Ramos",
-"PostCode": "58339-000",
-"LatLong": "-7.251,-35.3741"
 },
 {
 "Name": "São José de Piranhas",
@@ -12724,6 +12720,11 @@
 "LatLong": "-7.4164,-36.8477"
 },
 {
+"Name": "São José dos Ramos",
+"PostCode": "58339-000",
+"LatLong": "-7.251,-35.3741"
+},
+{
 "Name": "São Mamede",
 "PostCode": "58625-000",
 "LatLong": "-6.9211,-37.0913"
@@ -12747,6 +12748,11 @@
 "Name": "Sapé",
 "PostCode": "58340-000",
 "LatLong": "-7.0794,-35.2173"
+},
+{
+"Name": "Seridó",
+"PostCode": "58158-000",
+"LatLong": "-6.9342,-36.4022"
 },
 {
 "Name": "Serra Branca",
@@ -12809,6 +12815,11 @@
 "LatLong": "-7.6171,-36.9104"
 },
 {
+"Name": "Tacima",
+"PostCode": "58240-000",
+"LatLong": "-6.4883,-35.6372"
+},
+{
 "Name": "Taperoá",
 "PostCode": "58680-000",
 "LatLong": "-7.1687,-36.792"
@@ -12854,29 +12865,14 @@
 "LatLong": "-6.5584,-38.2709"
 },
 {
+"Name": "Vista Serrana",
+"PostCode": "58710-000",
+"LatLong": "-6.7417,-37.576"
+},
+{
 "Name": "Zabelê",
 "PostCode": "58515-000",
 "LatLong": "-8.0763,-37.0564"
-},
-{
-"Name": "Seridó",
-"PostCode": "58158-000",
-"LatLong": "-6.9342,-36.4022"
-},
-{
-"Name": "Tacima",
-"PostCode": "58240-000",
-"LatLong": "-6.4883,-35.6372"
-},
-{
-"Name": "Assis Chateaubriand",
-"PostCode": "58382-000",
-"LatLong": "-7.2893,-35.648"
-},
-{
-"Name": "São Bento de Pombal",
-"PostCode": "58857-000",
-"LatLong": "-6.9011,-37.7292"
 }
 ]
 }
@@ -12919,11 +12915,6 @@
 "LatLong": "-24.8126,-52.7074"
 },
 {
-"Name": "Altônia",
-"PostCode": "87550-000",
-"LatLong": "-23.8865,-53.9685"
-},
-{
 "Name": "Alto Paraná",
 "PostCode": "87750-000",
 "LatLong": "-23.0678,-52.312"
@@ -12932,6 +12923,11 @@
 "Name": "Alto Piquiri",
 "PostCode": "87580-000",
 "LatLong": "-24.1297,-53.3466"
+},
+{
+"Name": "Altônia",
+"PostCode": "87550-000",
+"LatLong": "-23.8865,-53.9685"
 },
 {
 "Name": "Alvorada do Sul",
@@ -13044,14 +13040,14 @@
 "LatLong": "-24.0613,-52.0549"
 },
 {
-"Name": "Barracão",
-"PostCode": "85700-000",
-"LatLong": "-26.2401,-53.5259"
-},
-{
 "Name": "Barra do Jacaré",
 "PostCode": "86385-000",
 "LatLong": "-23.1107,-50.1572"
+},
+{
+"Name": "Barracão",
+"PostCode": "85700-000",
+"LatLong": "-26.2401,-53.5259"
 },
 {
 "Name": "Bela Vista da Caroba",
@@ -13334,6 +13330,11 @@
 "LatLong": "-24.1201,-52.1462"
 },
 {
+"Name": "Cruz Machado",
+"PostCode": "84620-000",
+"LatLong": "-25.9109,-51.2256"
+},
+{
 "Name": "Cruzeiro do Iguaçu",
 "PostCode": "85598-000",
 "LatLong": "-25.603,-53.1274"
@@ -13347,11 +13348,6 @@
 "Name": "Cruzeiro do Sul",
 "PostCode": "87650-000",
 "LatLong": "-22.9742,-52.1597"
-},
-{
-"Name": "Cruz Machado",
-"PostCode": "84620-000",
-"LatLong": "-25.9109,-51.2256"
 },
 {
 "Name": "Cruzmaltina",
@@ -13399,6 +13395,11 @@
 "LatLong": "-23.5616,-52.2234"
 },
 {
+"Name": "Doutor Ulysses",
+"PostCode": "83590-000",
+"LatLong": "-24.635,-49.4002"
+},
+{
 "Name": "Enéas Marques",
 "PostCode": "85630-000",
 "LatLong": "-25.8645,-53.159"
@@ -13409,14 +13410,14 @@
 "LatLong": "-23.7554,-52.2089"
 },
 {
-"Name": "Esperança Nova",
-"PostCode": "87545-000",
-"LatLong": "-23.7101,-53.7936"
-},
-{
 "Name": "Entre Rios do Oeste",
 "PostCode": "85988-000",
 "LatLong": "-24.7041,-54.2156"
+},
+{
+"Name": "Esperança Nova",
+"PostCode": "87545-000",
+"LatLong": "-23.7101,-53.7936"
 },
 {
 "Name": "Espigão Alto do Iguaçu",
@@ -13454,14 +13455,14 @@
 "LatLong": "-23.8613,-50.4208"
 },
 {
-"Name": "Floraí",
-"PostCode": "87185-000",
-"LatLong": "-23.3283,-52.3242"
-},
-{
 "Name": "Flor da Serra do Sul",
 "PostCode": "85618-000",
 "LatLong": "-26.2308,-53.3037"
+},
+{
+"Name": "Floraí",
+"PostCode": "87185-000",
+"LatLong": "-23.3283,-52.3242"
 },
 {
 "Name": "Floresta",
@@ -13489,6 +13490,11 @@
 "LatLong": "-25.4317,-54.4559"
 },
 {
+"Name": "Foz do Jordão",
+"PostCode": "85145-000",
+"LatLong": "-25.6952,-52.0608"
+},
+{
 "Name": "Francisco Alves",
 "PostCode": "87570-000",
 "LatLong": "-24.0651,-53.8844"
@@ -13497,11 +13503,6 @@
 "Name": "Francisco Beltrão",
 "PostCode": "85600-000",
 "LatLong": "-26.0644,-53.1254"
-},
-{
-"Name": "Foz do Jordão",
-"PostCode": "85145-000",
-"LatLong": "-25.6952,-52.0608"
 },
 {
 "Name": "General Carneiro",
@@ -14079,6 +14080,11 @@
 "LatLong": "-23.4321,-53.039"
 },
 {
+"Name": "Nova Prata do Iguaçu",
+"PostCode": "85685-000",
+"LatLong": "-25.6085,-53.3805"
+},
+{
 "Name": "Nova Santa Bárbara",
 "PostCode": "86250-000",
 "LatLong": "-23.6024,-50.7545"
@@ -14087,11 +14093,6 @@
 "Name": "Nova Santa Rosa",
 "PostCode": "85930-000",
 "LatLong": "-24.4469,-53.9955"
-},
-{
-"Name": "Nova Prata do Iguaçu",
-"PostCode": "85685-000",
-"LatLong": "-25.6085,-53.3805"
 },
 {
 "Name": "Nova Tebas",
@@ -14219,14 +14220,14 @@
 "LatLong": "-25.4315,-49.1573"
 },
 {
-"Name": "Pinhalão",
-"PostCode": "84925-000",
-"LatLong": "-23.9246,-50.0544"
-},
-{
 "Name": "Pinhal de São Bento",
 "PostCode": "85727-000",
 "LatLong": "-26.0068,-53.4891"
+},
+{
+"Name": "Pinhalão",
+"PostCode": "84925-000",
+"LatLong": "-23.9246,-50.0544"
 },
 {
 "Name": "Pinhão",
@@ -14544,11 +14545,6 @@
 "LatLong": "-23.1655,-53.1124"
 },
 {
-"Name": "Santana do Itararé",
-"PostCode": "84970-000",
-"LatLong": "-23.7344,-49.6194"
-},
-{
 "Name": "Santa Tereza do Oeste",
 "PostCode": "85825-000",
 "LatLong": "-25.0444,-53.6194"
@@ -14557,6 +14553,11 @@
 "Name": "Santa Terezinha de Itaipu",
 "PostCode": "85875-000",
 "LatLong": "-25.4135,-54.4225"
+},
+{
+"Name": "Santana do Itararé",
+"PostCode": "84970-000",
+"LatLong": "-23.7344,-49.6194"
 },
 {
 "Name": "Santo Antônio da Platina",
@@ -14614,11 +14615,6 @@
 "LatLong": "-25.7041,-50.2624"
 },
 {
-"Name": "São Jorge d'Oeste",
-"PostCode": "85575-000",
-"LatLong": "-25.6632,-52.9486"
-},
-{
 "Name": "São Jorge do Ivaí",
 "PostCode": "87190-000",
 "LatLong": "-23.4384,-52.3036"
@@ -14627,6 +14623,11 @@
 "Name": "São Jorge do Patrocínio",
 "PostCode": "87555-000",
 "LatLong": "-23.7495,-53.8855"
+},
+{
+"Name": "São Jorge d'Oeste",
+"PostCode": "85575-000",
+"LatLong": "-25.6632,-52.9486"
 },
 {
 "Name": "São José da Boa Vista",
@@ -14844,11 +14845,6 @@
 "LatLong": "-23.1929,-50.7942"
 },
 {
-"Name": "Wenceslau Braz",
-"PostCode": "84950-000",
-"LatLong": "-23.8881,-49.7915"
-},
-{
 "Name": "Ventania",
 "PostCode": "84345-000",
 "LatLong": "-24.142,-50.2237"
@@ -14869,11 +14865,6 @@
 "LatLong": "-23.555,-53.8077"
 },
 {
-"Name": "Doutor Ulysses",
-"PostCode": "83590-000",
-"LatLong": "-24.635,-49.4002"
-},
-{
 "Name": "Virmond",
 "PostCode": "85390-000",
 "LatLong": "-25.4301,-52.2367"
@@ -14882,6 +14873,11 @@
 "Name": "Vitorino",
 "PostCode": "85520-000",
 "LatLong": "-26.2405,-52.8198"
+},
+{
+"Name": "Wenceslau Braz",
+"PostCode": "84950-000",
+"LatLong": "-23.8881,-49.7915"
 },
 {
 "Name": "Xambrê",
@@ -15244,14 +15240,14 @@
 "LatLong": "-8.7399,-44.8647"
 },
 {
-"Name": "Curralinhos",
-"PostCode": "64453-000",
-"LatLong": "-5.5849,-42.8608"
-},
-{
 "Name": "Curral Novo do Piauí",
 "PostCode": "64595-000",
 "LatLong": "-7.898,-40.6789"
+},
+{
+"Name": "Curralinhos",
+"PostCode": "64453-000",
+"LatLong": "-5.5849,-42.8608"
 },
 {
 "Name": "Demerval Lobão",
@@ -15269,14 +15265,14 @@
 "LatLong": "-6.9581,-41.7163"
 },
 {
-"Name": "Domingos Mourão",
-"PostCode": "64250-000",
-"LatLong": "-4.1914,-41.3483"
-},
-{
 "Name": "Dom Inocêncio",
 "PostCode": "64790-000",
 "LatLong": "-8.8848,-41.72"
+},
+{
+"Name": "Domingos Mourão",
+"PostCode": "64250-000",
+"LatLong": "-4.1914,-41.3483"
 },
 {
 "Name": "Elesbão Veloso",
@@ -15454,24 +15450,19 @@
 "LatLong": "-9.2986,-43.153"
 },
 {
-"Name": "Lagoinha do Piauí",
-"PostCode": "64465-000",
-"LatLong": "-5.807,-42.628"
-},
-{
 "Name": "Lagoa Alegre",
 "PostCode": "64138-000",
 "LatLong": "-4.4951,-42.5655"
 },
 {
-"Name": "Lagoa do Barro do Piauí",
-"PostCode": "64768-000",
-"LatLong": "-8.7353,-41.5481"
-},
-{
 "Name": "Lagoa de São Francisco",
 "PostCode": "64258-000",
 "LatLong": "-4.3547,-41.5917"
+},
+{
+"Name": "Lagoa do Barro do Piauí",
+"PostCode": "64768-000",
+"LatLong": "-8.7353,-41.5481"
 },
 {
 "Name": "Lagoa do Piauí",
@@ -15482,6 +15473,11 @@
 "Name": "Lagoa do Sítio",
 "PostCode": "64308-000",
 "LatLong": "-6.5192,-41.4206"
+},
+{
+"Name": "Lagoinha do Piauí",
+"PostCode": "64465-000",
+"LatLong": "-5.807,-42.628"
 },
 {
 "Name": "Landri Sales",
@@ -15589,6 +15585,11 @@
 "LatLong": "-4.0576,-42.6065"
 },
 {
+"Name": "Nova Santa Rita",
+"PostCode": "64764-000",
+"LatLong": "-8.112,-42.0136"
+},
+{
 "Name": "Novo Oriente do Piauí",
 "PostCode": "64530-000",
 "LatLong": "-6.5503,-41.9855"
@@ -15677,11 +15678,6 @@
 "Name": "Pedro Laurentino",
 "PostCode": "64728-000",
 "LatLong": "-8.1177,-42.2354"
-},
-{
-"Name": "Nova Santa Rita",
-"PostCode": "64764-000",
-"LatLong": "-8.112,-42.0136"
 },
 {
 "Name": "Picos",
@@ -15779,14 +15775,14 @@
 "LatLong": "-8.9744,-44.2778"
 },
 {
-"Name": "Santana do Piauí",
-"PostCode": "64615-000",
-"LatLong": "-6.9525,-41.4618"
-},
-{
 "Name": "Santa Rosa do Piauí",
 "PostCode": "64518-000",
 "LatLong": "-6.8288,-42.2463"
+},
+{
+"Name": "Santana do Piauí",
+"PostCode": "64615-000",
+"LatLong": "-6.9525,-41.4618"
 },
 {
 "Name": "Santo Antônio de Lisboa",
@@ -16094,16 +16090,6 @@
 "LatLong": "-21.5081,-41.9489"
 },
 {
-"Name": "Carapebus",
-"PostCode": "27998-000",
-"LatLong": "-22.2243,-41.6131"
-},
-{
-"Name": "Comendador Levy Gasparian",
-"PostCode": "25870-000",
-"LatLong": "-22.0366,-43.2531"
-},
-{
 "Name": "Campos dos Goytacazes",
 "PostCode": "28000-000",
 "LatLong": "-21.6774,-41.4553"
@@ -16112,6 +16098,11 @@
 "Name": "Cantagalo",
 "PostCode": "28500-000",
 "LatLong": "-21.8843,-42.3222"
+},
+{
+"Name": "Carapebus",
+"PostCode": "27998-000",
+"LatLong": "-22.2243,-41.6131"
 },
 {
 "Name": "Cardoso Moreira",
@@ -16127,6 +16118,11 @@
 "Name": "Casimiro de Abreu",
 "PostCode": "28860-000",
 "LatLong": "-22.4825,-42.1443"
+},
+{
+"Name": "Comendador Levy Gasparian",
+"PostCode": "25870-000",
+"LatLong": "-22.0366,-43.2531"
 },
 {
 "Name": "Conceição de Macabu",
@@ -16369,14 +16365,14 @@
 "LatLong": "-21.5724,-42.2109"
 },
 {
-"Name": "São Francisco de Itabapoana",
-"PostCode": "28230-000",
-"LatLong": "-21.38,-41.149"
-},
-{
 "Name": "São Fidélis",
 "PostCode": "28400-000",
 "LatLong": "-21.7163,-41.7891"
+},
+{
+"Name": "São Francisco de Itabapoana",
+"PostCode": "28230-000",
+"LatLong": "-21.38,-41.149"
 },
 {
 "Name": "São Gonçalo",
@@ -16489,7 +16485,6 @@
 "Code": "22",
 "Provinces": [
 {
-"Code": "2400109",
 "Communities": [
 {
 "Places": [
@@ -16574,6 +16569,11 @@
 "LatLong": "-5.6343,-35.817"
 },
 {
+"Name": "Boa Saude",
+"PostCode": "59260-000",
+"LatLong": "-6.1561,-35.6039"
+},
+{
 "Name": "Bodó",
 "PostCode": "59528-000",
 "LatLong": "-5.9339,-36.3972"
@@ -16602,6 +16602,11 @@
 "Name": "Caicó",
 "PostCode": "59300-000",
 "LatLong": "-6.4471,-37.0478"
+},
+{
+"Name": "Campo Grande",
+"PostCode": "59680-000",
+"LatLong": "-5.9142,-37.3102"
 },
 {
 "Name": "Campo Redondo",
@@ -16662,11 +16667,6 @@
 "Name": "Doutor Severiano",
 "PostCode": "59910-000",
 "LatLong": "-6.1121,-38.3966"
-},
-{
-"Name": "Parnamirim",
-"PostCode": "59150-000",
-"LatLong": "-5.9245,-35.2057"
 },
 {
 "Name": "Encanto",
@@ -16964,9 +16964,9 @@
 "LatLong": "-6.729,-36.6083"
 },
 {
-"Name": "Rio do Fogo",
-"PostCode": "59578-000",
-"LatLong": "-5.3823,-35.3838"
+"Name": "Parnamirim",
+"PostCode": "59150-000",
+"LatLong": "-5.9245,-35.2057"
 },
 {
 "Name": "Passa e Fica",
@@ -16982,11 +16982,6 @@
 "Name": "Patu",
 "PostCode": "59770-000",
 "LatLong": "-6.123,-37.6257"
-},
-{
-"Name": "Santa Maria",
-"PostCode": "59464-000",
-"LatLong": "-5.8453,-35.7199"
 },
 {
 "Name": "Pau dos Ferros",
@@ -17069,14 +17064,14 @@
 "LatLong": "-5.836,-35.8813"
 },
 {
+"Name": "Rio do Fogo",
+"PostCode": "59578-000",
+"LatLong": "-5.3823,-35.3838"
+},
+{
 "Name": "Rodolfo Fernandes",
 "PostCode": "59830-000",
 "LatLong": "-5.8566,-38.0934"
-},
-{
-"Name": "Tibau",
-"PostCode": "59678-000",
-"LatLong": "-4.9115,-37.3135"
 },
 {
 "Name": "Ruy Barbosa",
@@ -17087,6 +17082,11 @@
 "Name": "Santa Cruz",
 "PostCode": "59200-000",
 "LatLong": "-6.1874,-35.9986"
+},
+{
+"Name": "Santa Maria",
+"PostCode": "59464-000",
+"LatLong": "-5.8453,-35.7199"
 },
 {
 "Name": "Santana do Matos",
@@ -17194,6 +17194,11 @@
 "LatLong": "-6.1484,-35.1335"
 },
 {
+"Name": "Serra Caiada",
+"PostCode": "59245-000",
+"LatLong": "-6.1,-35.7"
+},
+{
 "Name": "Serra de São Bento",
 "PostCode": "59214-000",
 "LatLong": "-6.437,-35.7119"
@@ -17254,6 +17259,11 @@
 "LatLong": "-6.1485,-36.7224"
 },
 {
+"Name": "Tibau",
+"PostCode": "59678-000",
+"LatLong": "-4.9115,-37.3135"
+},
+{
 "Name": "Tibau do Sul",
 "PostCode": "59178-000",
 "LatLong": "-6.244,-35.0956"
@@ -17307,21 +17317,6 @@
 "Name": "Vila Flor",
 "PostCode": "59192-000",
 "LatLong": "-6.2938,-35.0845"
-},
-{
-"Name": "Serra Caiada",
-"PostCode": "59245-000",
-"LatLong": "-6.1,-35.7"
-},
-{
-"Name": "Boa Saude",
-"PostCode": "59260-000",
-"LatLong": "-6.1561,-35.6039"
-},
-{
-"Name": "Campo Grande",
-"PostCode": "59680-000",
-"LatLong": "-5.9142,-37.3102"
 }
 ]
 }
@@ -17439,14 +17434,14 @@
 "LatLong": "-29.5293,-49.8915"
 },
 {
-"Name": "Arroio dos Ratos",
-"PostCode": "96740-000",
-"LatLong": "-30.2121,-51.7305"
-},
-{
 "Name": "Arroio do Tigre",
 "PostCode": "96950-000",
 "LatLong": "-29.2621,-53.0606"
+},
+{
+"Name": "Arroio dos Ratos",
+"PostCode": "96740-000",
+"LatLong": "-30.2121,-51.7305"
 },
 {
 "Name": "Arroio Grande",
@@ -17494,11 +17489,6 @@
 "LatLong": "-30.3926,-51.7949"
 },
 {
-"Name": "Barracão",
-"PostCode": "95370-000",
-"LatLong": "-27.7373,-51.4423"
-},
-{
 "Name": "Barra do Guarita",
 "PostCode": "98530-000",
 "LatLong": "-27.2174,-53.7646"
@@ -17522,6 +17512,11 @@
 "Name": "Barra Funda",
 "PostCode": "99585-000",
 "LatLong": "-27.9156,-53.0329"
+},
+{
+"Name": "Barracão",
+"PostCode": "95370-000",
+"LatLong": "-27.7373,-51.4423"
 },
 {
 "Name": "Barros Cassal",
@@ -17719,11 +17714,6 @@
 "LatLong": "-31.8432,-52.5532"
 },
 {
-"Name": "Capivari do Sul",
-"PostCode": "95552-000",
-"LatLong": "-30.1729,-50.487"
-},
-{
 "Name": "Capela de Santana",
 "PostCode": "95745-000",
 "LatLong": "-29.7124,-51.3808"
@@ -17734,14 +17724,19 @@
 "LatLong": "-29.2802,-51.9832"
 },
 {
-"Name": "Carazinho",
-"PostCode": "99500-000",
-"LatLong": "-28.2501,-52.8683"
+"Name": "Capivari do Sul",
+"PostCode": "95552-000",
+"LatLong": "-30.1729,-50.487"
 },
 {
 "Name": "Caraá",
 "PostCode": "95515-000",
 "LatLong": "-29.774,-50.3537"
+},
+{
+"Name": "Carazinho",
+"PostCode": "99500-000",
+"LatLong": "-28.2501,-52.8683"
 },
 {
 "Name": "Carlos Barbosa",
@@ -17954,14 +17949,14 @@
 "LatLong": "-30.6139,-52.1932"
 },
 {
-"Name": "Dom Pedro de Alcântara",
-"PostCode": "95568-000",
-"LatLong": "-29.3568,-49.8729"
-},
-{
 "Name": "Dom Pedrito",
 "PostCode": "96450-000",
 "LatLong": "-30.9962,-54.6062"
+},
+{
+"Name": "Dom Pedro de Alcântara",
+"PostCode": "95568-000",
+"LatLong": "-29.3568,-49.8729"
 },
 {
 "Name": "Dona Francisca",
@@ -17999,14 +17994,14 @@
 "LatLong": "-27.677,-52.9104"
 },
 {
-"Name": "Entre-Ijuís",
-"PostCode": "98855-000",
-"LatLong": "-28.4607,-54.3032"
-},
-{
 "Name": "Entre Rios do Sul",
 "PostCode": "99645-000",
 "LatLong": "-27.5082,-52.7285"
+},
+{
+"Name": "Entre-Ijuís",
+"PostCode": "98855-000",
+"LatLong": "-28.4607,-54.3032"
 },
 {
 "Name": "Erebango",
@@ -18022,11 +18017,6 @@
 "Name": "Ernestina",
 "PostCode": "99140-000",
 "LatLong": "-28.4232,-52.5737"
-},
-{
-"Name": "Herval",
-"PostCode": "96310-000",
-"LatLong": "-31.9933,-53.4503"
 },
 {
 "Name": "Erval Grande",
@@ -18229,6 +18219,11 @@
 "LatLong": "-29.5453,-51.4154"
 },
 {
+"Name": "Herval",
+"PostCode": "96310-000",
+"LatLong": "-31.9933,-53.4503"
+},
+{
 "Name": "Herveiras",
 "PostCode": "96888-000",
 "LatLong": "-29.4386,-52.6737"
@@ -18399,11 +18394,6 @@
 "LatLong": "-29.2645,-53.6246"
 },
 {
-"Name": "Lagoão",
-"PostCode": "99340-000",
-"LatLong": "-29.259,-52.7669"
-},
-{
 "Name": "Lagoa dos Três Cantos",
 "PostCode": "99495-000",
 "LatLong": "-28.5661,-52.8465"
@@ -18412,6 +18402,11 @@
 "Name": "Lagoa Vermelha",
 "PostCode": "95300-000",
 "LatLong": "-28.22,-51.4723"
+},
+{
+"Name": "Lagoão",
+"PostCode": "99340-000",
+"LatLong": "-29.259,-52.7669"
 },
 {
 "Name": "Lajeado",
@@ -18444,14 +18439,14 @@
 "LatLong": "-29.4554,-51.2188"
 },
 {
-"Name": "Machadinho",
-"PostCode": "99880-000",
-"LatLong": "-27.5918,-51.6876"
-},
-{
 "Name": "Maçambara",
 "PostCode": "97645-000",
 "LatLong": "-29.0582,-55.611"
+},
+{
+"Name": "Machadinho",
+"PostCode": "99880-000",
+"LatLong": "-27.5918,-51.6876"
 },
 {
 "Name": "Mampituba",
@@ -18679,6 +18674,11 @@
 "LatLong": "-29.8327,-51.2743"
 },
 {
+"Name": "Novo Barreiro",
+"PostCode": "98338-000",
+"LatLong": "-27.8915,-53.1122"
+},
+{
 "Name": "Novo Cabrais",
 "PostCode": "96545-000",
 "LatLong": "-29.7616,-52.984"
@@ -18697,11 +18697,6 @@
 "Name": "Novo Tiradentes",
 "PostCode": "98370-000",
 "LatLong": "-27.5595,-53.1557"
-},
-{
-"Name": "Novo Barreiro",
-"PostCode": "98338-000",
-"LatLong": "-27.8915,-53.1122"
 },
 {
 "Name": "Osório",
@@ -19044,16 +19039,6 @@
 "LatLong": "-29.4795,-50.9881"
 },
 {
-"Name": "Santana da Boa Vista",
-"PostCode": "96590-000",
-"LatLong": "-30.762,-53.183"
-},
-{
-"Name": "Santana do Livramento",
-"PostCode": "97570-000",
-"LatLong": "-30.7807,-55.4816"
-},
-{
 "Name": "Santa Rosa",
 "PostCode": "98900-000",
 "LatLong": "-27.8257,-54.4803"
@@ -19069,6 +19054,16 @@
 "LatLong": "-33.2435,-53.2235"
 },
 {
+"Name": "Santana da Boa Vista",
+"PostCode": "96590-000",
+"LatLong": "-30.762,-53.183"
+},
+{
+"Name": "Santana do Livramento",
+"PostCode": "97570-000",
+"LatLong": "-30.7807,-55.4816"
+},
+{
 "Name": "Santiago",
 "PostCode": "97700-000",
 "LatLong": "-29.1137,-54.7336"
@@ -19079,11 +19074,6 @@
 "LatLong": "-28.2649,-54.3021"
 },
 {
-"Name": "Santo Antônio do Palma",
-"PostCode": "99265-000",
-"LatLong": "-28.4863,-52.0193"
-},
-{
 "Name": "Santo Antônio da Patrulha",
 "PostCode": "95500-000",
 "LatLong": "-29.8221,-50.5602"
@@ -19092,6 +19082,11 @@
 "Name": "Santo Antônio das Missões",
 "PostCode": "97870-000",
 "LatLong": "-28.478,-55.4088"
+},
+{
+"Name": "Santo Antônio do Palma",
+"PostCode": "99265-000",
+"LatLong": "-28.4863,-52.0193"
 },
 {
 "Name": "Santo Antônio do Planalto",
@@ -19569,11 +19564,6 @@
 "LatLong": "-28.4122,-50.9443"
 },
 {
-"Name": "Vale Verde",
-"PostCode": "95833-000",
-"LatLong": "-29.8351,-52.1056"
-},
-{
 "Name": "Vale do Sol",
 "PostCode": "96878-000",
 "LatLong": "-29.5816,-52.6816"
@@ -19582,6 +19572,11 @@
 "Name": "Vale Real",
 "PostCode": "95778-000",
 "LatLong": "-29.3499,-51.2301"
+},
+{
+"Name": "Vale Verde",
+"PostCode": "95833-000",
+"LatLong": "-29.8351,-52.1056"
 },
 {
 "Name": "Vanini",
@@ -19684,7 +19679,6 @@
 "Code": "24",
 "Provinces": [
 {
-"Code": "1100015",
 "Communities": [
 {
 "Places": [
@@ -19692,126 +19686,6 @@
 "Name": "Alta Floresta d'Oeste",
 "PostCode": "78994-000",
 "LatLong": "-12.4575,-62.4263"
-},
-{
-"Name": "Ariquemes",
-"PostCode": "78930-000",
-"LatLong": "-9.9105,-62.9549"
-},
-{
-"Name": "Cabixi",
-"PostCode": "78999-000",
-"LatLong": "-13.5108,-60.6026"
-},
-{
-"Name": "Cacoal",
-"PostCode": "78975-000",
-"LatLong": "-11.4904,-61.4317"
-},
-{
-"Name": "Cerejeiras",
-"PostCode": "78997-000",
-"LatLong": "-13.1832,-61.4752"
-},
-{
-"Name": "Colorado do Oeste",
-"PostCode": "78996-000",
-"LatLong": "-13.0825,-60.4942"
-},
-{
-"Name": "Corumbiara",
-"PostCode": "78966-000",
-"LatLong": "-12.8759,-61.1199"
-},
-{
-"Name": "Costa Marques",
-"PostCode": "78971-000",
-"LatLong": "-12.0617,-64.0732"
-},
-{
-"Name": "Espigão d'Oeste",
-"PostCode": "78983-000",
-"LatLong": "-11.4662,-60.6992"
-},
-{
-"Name": "Guajará-Mirim",
-"PostCode": "78957-000",
-"LatLong": "-11.3311,-64.4409"
-},
-{
-"Name": "Jaru",
-"PostCode": "78940-000",
-"LatLong": "-10.627,-62.6664"
-},
-{
-"Name": "Ji-Paraná",
-"PostCode": "78960-000",
-"LatLong": "-10.4199,-61.7477"
-},
-{
-"Name": "Machadinho d'Oeste",
-"PostCode": "78948-000",
-"LatLong": "-9.2395,-62.1124"
-},
-{
-"Name": "Nova Brasilândia d'Oeste",
-"PostCode": "78974-000",
-"LatLong": "-11.4911,-62.1649"
-},
-{
-"Name": "Ouro Preto do Oeste",
-"PostCode": "78950-000",
-"LatLong": "-10.3666,-61.9224"
-},
-{
-"Name": "Pimenta Bueno",
-"PostCode": "78984-000",
-"LatLong": "-11.7878,-60.7498"
-},
-{
-"Name": "Porto Velho",
-"PostCode": "78900-000",
-"LatLong": "-9.2079,-64.3106"
-},
-{
-"Name": "Presidente Médici",
-"PostCode": "78968-000",
-"LatLong": "-11.1852,-61.9407"
-},
-{
-"Name": "Rio Crespo",
-"PostCode": "78945-000",
-"LatLong": "-9.7188,-62.7464"
-},
-{
-"Name": "Rolim de Moura",
-"PostCode": "78987-000",
-"LatLong": "-11.7526,-61.7897"
-},
-{
-"Name": "Santa Luzia d'Oeste",
-"PostCode": "78993-000",
-"LatLong": "-12.1047,-61.7944"
-},
-{
-"Name": "Vilhena",
-"PostCode": "78995-000",
-"LatLong": "-12.0206,-60.2753"
-},
-{
-"Name": "São Miguel do Guaporé",
-"PostCode": "78970-000",
-"LatLong": "-11.7078,-62.9353"
-},
-{
-"Name": "Nova Mamoré",
-"PostCode": "78939-000",
-"LatLong": "-10.5384,-64.4943"
-},
-{
-"Name": "Alvorada d'Oeste",
-"PostCode": "78969-000",
-"LatLong": "-11.2993,-62.5015"
 },
 {
 "Name": "Alto Alegre dos Parecis",
@@ -19824,19 +19698,34 @@
 "LatLong": "-9.66,-63.5872"
 },
 {
+"Name": "Alvorada d'Oeste",
+"PostCode": "78969-000",
+"LatLong": "-11.2993,-62.5015"
+},
+{
+"Name": "Ariquemes",
+"PostCode": "78930-000",
+"LatLong": "-9.9105,-62.9549"
+},
+{
 "Name": "Buritis",
 "PostCode": "78967-800",
 "LatLong": "-10.0921,-63.9696"
 },
 {
-"Name": "Novo Horizonte do Oeste",
-"PostCode": "78991-000",
-"LatLong": "-11.7077,-62.0799"
+"Name": "Cabixi",
+"PostCode": "78999-000",
+"LatLong": "-13.5108,-60.6026"
 },
 {
 "Name": "Cacaulândia",
 "PostCode": "78944-000",
 "LatLong": "-10.3258,-63.1495"
+},
+{
+"Name": "Cacoal",
+"PostCode": "78975-000",
+"LatLong": "-11.4904,-61.4317"
 },
 {
 "Name": "Campo Novo de Rondônia",
@@ -19854,9 +19743,29 @@
 "LatLong": "-11.4266,-61.8892"
 },
 {
+"Name": "Cerejeiras",
+"PostCode": "78997-000",
+"LatLong": "-13.1832,-61.4752"
+},
+{
 "Name": "Chupinguaia",
 "PostCode": "78995-800",
 "LatLong": "-12.6724,-60.9262"
+},
+{
+"Name": "Colorado do Oeste",
+"PostCode": "78996-000",
+"LatLong": "-13.0825,-60.4942"
+},
+{
+"Name": "Corumbiara",
+"PostCode": "78966-000",
+"LatLong": "-12.8759,-61.1199"
+},
+{
+"Name": "Costa Marques",
+"PostCode": "78971-000",
+"LatLong": "-12.0617,-64.0732"
 },
 {
 "Name": "Cujubim",
@@ -19864,9 +19773,39 @@
 "LatLong": "-8.9782,-62.4425"
 },
 {
+"Name": "Espigão d'Oeste",
+"PostCode": "78983-000",
+"LatLong": "-11.4662,-60.6992"
+},
+{
 "Name": "Governador Jorge Teixeira",
 "PostCode": "78946-000",
 "LatLong": "-10.7846,-63.0443"
+},
+{
+"Name": "Guajará-Mirim",
+"PostCode": "78957-000",
+"LatLong": "-11.3311,-64.4409"
+},
+{
+"Name": "Jamari",
+"PostCode": "78937-000",
+"LatLong": "-9.2047,-63.1797"
+},
+{
+"Name": "Jaru",
+"PostCode": "78940-000",
+"LatLong": "-10.627,-62.6664"
+},
+{
+"Name": "Ji-Paraná",
+"PostCode": "78960-000",
+"LatLong": "-10.4199,-61.7477"
+},
+{
+"Name": "Machadinho d'Oeste",
+"PostCode": "78948-000",
+"LatLong": "-9.2395,-62.1124"
 },
 {
 "Name": "Ministro Andreazza",
@@ -19884,9 +19823,29 @@
 "LatLong": "-10.3045,-63.354"
 },
 {
+"Name": "Nova Brasilândia d'Oeste",
+"PostCode": "78974-000",
+"LatLong": "-11.4911,-62.1649"
+},
+{
+"Name": "Nova Mamoré",
+"PostCode": "78939-000",
+"LatLong": "-10.5384,-64.4943"
+},
+{
 "Name": "Nova União",
 "PostCode": "78953-000",
 "LatLong": "-10.9494,-62.5109"
+},
+{
+"Name": "Novo Horizonte do Oeste",
+"PostCode": "78991-000",
+"LatLong": "-11.7077,-62.0799"
+},
+{
+"Name": "Ouro Preto do Oeste",
+"PostCode": "78950-000",
+"LatLong": "-10.3666,-61.9224"
 },
 {
 "Name": "Parecis",
@@ -19894,14 +19853,44 @@
 "LatLong": "-12.2866,-61.3166"
 },
 {
+"Name": "Pimenta Bueno",
+"PostCode": "78984-000",
+"LatLong": "-11.7878,-60.7498"
+},
+{
 "Name": "Pimenteiras do Oeste",
 "PostCode": "78998-000",
 "LatLong": "-13.1701,-61.5788"
 },
 {
+"Name": "Porto Velho",
+"PostCode": "78900-000",
+"LatLong": "-9.2079,-64.3106"
+},
+{
+"Name": "Presidente Médici",
+"PostCode": "78968-000",
+"LatLong": "-11.1852,-61.9407"
+},
+{
 "Name": "Primavera de Rondônia",
 "PostCode": "78988-000",
 "LatLong": "-11.9294,-61.3061"
+},
+{
+"Name": "Rio Crespo",
+"PostCode": "78945-000",
+"LatLong": "-9.7188,-62.7464"
+},
+{
+"Name": "Rolim de Moura",
+"PostCode": "78987-000",
+"LatLong": "-11.7526,-61.7897"
+},
+{
+"Name": "Santa Luzia d'Oeste",
+"PostCode": "78993-000",
+"LatLong": "-12.1047,-61.7944"
 },
 {
 "Name": "São Felipe d'Oeste",
@@ -19912,6 +19901,11 @@
 "Name": "São Francisco do Guaporé",
 "PostCode": "78973-000",
 "LatLong": "-12.3831,-63.1265"
+},
+{
+"Name": "São Miguel do Guaporé",
+"PostCode": "78970-000",
+"LatLong": "-11.7078,-62.9353"
 },
 {
 "Name": "Seringueiras",
@@ -19944,9 +19938,9 @@
 "LatLong": "-10.2065,-62.0699"
 },
 {
-"Name": "Jamari",
-"PostCode": "78937-000",
-"LatLong": "-9.2047,-63.1797"
+"Name": "Vilhena",
+"PostCode": "78995-000",
+"LatLong": "-12.0206,-60.2753"
 }
 ]
 }
@@ -19964,14 +19958,14 @@
 {
 "Places": [
 {
-"Name": "Amajari",
-"PostCode": "69343-000",
-"LatLong": "3.7809,-62.5276"
-},
-{
 "Name": "Alto Alegre",
 "PostCode": "69350-000",
 "LatLong": "3.0309,-62.768"
+},
+{
+"Name": "Amajari",
+"PostCode": "69343-000",
+"LatLong": "3.7809,-62.5276"
 },
 {
 "Name": "Boa Vista",
@@ -20184,14 +20178,14 @@
 "LatLong": "-29.007,-49.4785"
 },
 {
-"Name": "Balneário Camboriú",
-"PostCode": "88330-000",
-"LatLong": "-26.9981,-48.6187"
-},
-{
 "Name": "Balneário Barra do Sul",
 "PostCode": "89247-000",
 "LatLong": "-26.4189,-48.6515"
+},
+{
+"Name": "Balneário Camboriú",
+"PostCode": "88330-000",
+"LatLong": "-26.9981,-48.6187"
 },
 {
 "Name": "Balneário Gaivota",
@@ -20244,11 +20238,6 @@
 "LatLong": "-27.7389,-49.9171"
 },
 {
-"Name": "Bombinhas",
-"PostCode": "88215-000",
-"LatLong": "-27.1788,-48.5019"
-},
-{
 "Name": "Bom Jardim da Serra",
 "PostCode": "88640-000",
 "LatLong": "-28.3674,-49.6422"
@@ -20267,6 +20256,11 @@
 "Name": "Bom Retiro",
 "PostCode": "88680-000",
 "LatLong": "-27.7605,-49.6196"
+},
+{
+"Name": "Bombinhas",
+"PostCode": "88215-000",
+"LatLong": "-27.1788,-48.5019"
 },
 {
 "Name": "Botuverá",
@@ -20314,11 +20308,6 @@
 "LatLong": "-27.0756,-48.7153"
 },
 {
-"Name": "Capão Alto",
-"PostCode": "88548-000",
-"LatLong": "-28.0683,-50.6292"
-},
-{
 "Name": "Campo Alegre",
 "PostCode": "89294-000",
 "LatLong": "-26.0853,-49.1875"
@@ -20347,6 +20336,11 @@
 "Name": "Canoinhas",
 "PostCode": "89460-000",
 "LatLong": "-26.272,-50.5014"
+},
+{
+"Name": "Capão Alto",
+"PostCode": "88548-000",
+"LatLong": "-28.0683,-50.6292"
 },
 {
 "Name": "Capinzal",
@@ -20414,14 +20408,14 @@
 "LatLong": "-26.5477,-52.6739"
 },
 {
-"Name": "Corupá",
-"PostCode": "89280-000",
-"LatLong": "-26.4237,-49.3179"
-},
-{
 "Name": "Correia Pinto",
 "PostCode": "88535-000",
 "LatLong": "-27.5551,-50.3802"
+},
+{
+"Name": "Corupá",
+"PostCode": "89280-000",
+"LatLong": "-26.4237,-49.3179"
 },
 {
 "Name": "Criciúma",
@@ -21129,14 +21123,14 @@
 "LatLong": "-27.1487,-49.8455"
 },
 {
-"Name": "Rio dos Cedros",
-"PostCode": "89121-000",
-"LatLong": "-26.6109,-49.3723"
-},
-{
 "Name": "Rio do Sul",
 "PostCode": "89160-000",
 "LatLong": "-27.1959,-49.6353"
+},
+{
+"Name": "Rio dos Cedros",
+"PostCode": "89121-000",
+"LatLong": "-26.6109,-49.3723"
 },
 {
 "Name": "Rio Fortuna",
@@ -21229,14 +21223,14 @@
 "LatLong": "-27.7515,-48.8048"
 },
 {
-"Name": "São Bernardino",
-"PostCode": "89982-000",
-"LatLong": "-26.4626,-52.9692"
-},
-{
 "Name": "São Bento do Sul",
 "PostCode": "89290-000",
 "LatLong": "-26.3121,-49.3832"
+},
+{
+"Name": "São Bernardino",
+"PostCode": "89982-000",
+"LatLong": "-26.4626,-52.9692"
 },
 {
 "Name": "São Bonifácio",
@@ -21264,11 +21258,6 @@
 "LatLong": "-26.2655,-48.6325"
 },
 {
-"Name": "São João do Oeste",
-"PostCode": "89897-000",
-"LatLong": "-27.0831,-53.5922"
-},
-{
 "Name": "São João Batista",
 "PostCode": "88240-000",
 "LatLong": "-27.3414,-48.8723"
@@ -21277,6 +21266,11 @@
 "Name": "São João do Itaperiú",
 "PostCode": "88395-000",
 "LatLong": "-26.6027,-48.8005"
+},
+{
+"Name": "São João do Oeste",
+"PostCode": "89897-000",
+"LatLong": "-27.0831,-53.5922"
 },
 {
 "Name": "São João do Sul",
@@ -22199,6 +22193,11 @@
 "LatLong": "-22.5372,-47.7377"
 },
 {
+"Name": "Chavantes",
+"PostCode": "18970-000",
+"LatLong": "-23.0346,-49.7232"
+},
+{
 "Name": "Clementina",
 "PostCode": "16250-000",
 "LatLong": "-21.5763,-50.462"
@@ -22399,14 +22398,19 @@
 "LatLong": "-22.6681,-49.4218"
 },
 {
-"Name": "Estrela d'Oeste",
-"PostCode": "15650-000",
-"LatLong": "-20.2777,-50.4081"
+"Name": "Estiva Gerbi",
+"PostCode": "13857-000",
+"LatLong": "-22.2205,-46.9388"
 },
 {
 "Name": "Estrela do Norte",
 "PostCode": "19230-000",
 "LatLong": "-22.4784,-51.6795"
+},
+{
+"Name": "Estrela d'Oeste",
+"PostCode": "15650-000",
+"LatLong": "-20.2777,-50.4081"
 },
 {
 "Name": "Euclides da Cunha Paulista",
@@ -22419,14 +22423,14 @@
 "LatLong": "-23.3987,-49.5277"
 },
 {
-"Name": "Fernandópolis",
-"PostCode": "15600-000",
-"LatLong": "-20.2976,-50.292"
-},
-{
 "Name": "Fernando Prestes",
 "PostCode": "15940-000",
 "LatLong": "-21.3095,-48.6958"
+},
+{
+"Name": "Fernandópolis",
+"PostCode": "15600-000",
+"LatLong": "-20.2976,-50.292"
 },
 {
 "Name": "Fernão",
@@ -22694,11 +22698,6 @@
 "LatLong": "-24.5546,-47.5047"
 },
 {
-"Name": "Ilhabela",
-"PostCode": "11630-000",
-"LatLong": "-23.8431,-45.2651"
-},
-{
 "Name": "Ilha Comprida",
 "PostCode": "11925-000",
 "LatLong": "-24.8779,-47.7476"
@@ -22707,6 +22706,11 @@
 "Name": "Ilha Solteira",
 "PostCode": "15385-000",
 "LatLong": "-20.4872,-51.2763"
+},
+{
+"Name": "Ilhabela",
+"PostCode": "11630-000",
+"LatLong": "-23.8431,-45.2651"
 },
 {
 "Name": "Indaiatuba",
@@ -23214,14 +23218,14 @@
 "LatLong": "-22.4486,-48.4407"
 },
 {
-"Name": "Miracatu",
-"PostCode": "11850-000",
-"LatLong": "-24.1751,-47.3658"
-},
-{
 "Name": "Mira Estrela",
 "PostCode": "15580-000",
 "LatLong": "-19.9724,-50.1304"
+},
+{
+"Name": "Miracatu",
+"PostCode": "11850-000",
+"LatLong": "-24.1751,-47.3658"
 },
 {
 "Name": "Mirandópolis",
@@ -23249,14 +23253,14 @@
 "LatLong": "-21.4425,-47.0131"
 },
 {
-"Name": "Moji das Cruzes",
-"PostCode": "08700-000",
-"LatLong": "-23.5681,-46.1877"
-},
-{
 "Name": "Mogi Guaçu",
 "PostCode": "13840-000",
 "LatLong": "-22.25,-47.0098"
+},
+{
+"Name": "Moji das Cruzes",
+"PostCode": "08700-000",
+"LatLong": "-23.5681,-46.1877"
 },
 {
 "Name": "Moji-Mirim",
@@ -23304,14 +23308,14 @@
 "LatLong": "-21.2277,-51.5714"
 },
 {
-"Name": "Monteiro Lobato",
-"PostCode": "12250-000",
-"LatLong": "-22.933,-45.8052"
-},
-{
 "Name": "Monte Mor",
 "PostCode": "13190-000",
 "LatLong": "-22.9507,-47.3021"
+},
+{
+"Name": "Monteiro Lobato",
+"PostCode": "12250-000",
+"LatLong": "-22.933,-45.8052"
 },
 {
 "Name": "Morro Agudo",
@@ -23409,11 +23413,6 @@
 "LatLong": "-21.1548,-51.5276"
 },
 {
-"Name": "Novais",
-"PostCode": "15885-000",
-"LatLong": "-20.9766,-48.9098"
-},
-{
 "Name": "Nova Luzitânia",
 "PostCode": "15340-000",
 "LatLong": "-20.873,-50.243"
@@ -23422,6 +23421,11 @@
 "Name": "Nova Odessa",
 "PostCode": "13460-000",
 "LatLong": "-22.7816,-47.2713"
+},
+{
+"Name": "Novais",
+"PostCode": "15885-000",
+"LatLong": "-20.9766,-48.9098"
 },
 {
 "Name": "Novo Horizonte",
@@ -23489,14 +23493,14 @@
 "LatLong": "-22.9633,-49.8611"
 },
 {
-"Name": "Ouroeste",
-"PostCode": "15685-000",
-"LatLong": "-19.9376,-50.4146"
-},
-{
 "Name": "Ouro Verde",
 "PostCode": "17920-000",
 "LatLong": "-21.5277,-51.7512"
+},
+{
+"Name": "Ouroeste",
+"PostCode": "15685-000",
+"LatLong": "-19.9376,-50.4146"
 },
 {
 "Name": "Pacaembu",
@@ -23974,11 +23978,6 @@
 "LatLong": "-21.2225,-47.8238"
 },
 {
-"Name": "Riversul",
-"PostCode": "18470-000",
-"LatLong": "-23.8444,-49.4435"
-},
-{
 "Name": "Rifaina",
 "PostCode": "14490-000",
 "LatLong": "-20.0782,-47.4384"
@@ -24012,6 +24011,11 @@
 "Name": "Riolândia",
 "PostCode": "15495-000",
 "LatLong": "-20.0538,-49.7112"
+},
+{
+"Name": "Riversul",
+"PostCode": "18470-000",
+"LatLong": "-23.8444,-49.4435"
 },
 {
 "Name": "Rosana",
@@ -24169,24 +24173,14 @@
 "LatLong": "-21.3183,-51.7464"
 },
 {
-"Name": "Santana da Ponte Pensa",
-"PostCode": "15765-000",
-"LatLong": "-20.2565,-50.7985"
-},
-{
-"Name": "Santana de Parnaíba",
-"PostCode": "06500-000",
-"LatLong": "-23.4473,-46.9172"
+"Name": "Santa Rita do Passa Quatro",
+"PostCode": "13670-000",
+"LatLong": "-21.6924,-47.5035"
 },
 {
 "Name": "Santa Rita d'Oeste",
 "PostCode": "15780-000",
 "LatLong": "-20.0806,-50.8137"
-},
-{
-"Name": "Santa Rita do Passa Quatro",
-"PostCode": "13670-000",
-"LatLong": "-21.6924,-47.5035"
 },
 {
 "Name": "Santa Rosa de Viterbo",
@@ -24197,6 +24191,16 @@
 "Name": "Santa Salete",
 "PostCode": "15768-000",
 "LatLong": "-20.2736,-50.7283"
+},
+{
+"Name": "Santana da Ponte Pensa",
+"PostCode": "15765-000",
+"LatLong": "-20.2565,-50.7985"
+},
+{
+"Name": "Santana de Parnaíba",
+"PostCode": "06500-000",
+"LatLong": "-23.4473,-46.9172"
 },
 {
 "Name": "Santo Anastácio",
@@ -24404,14 +24408,14 @@
 "LatLong": "-21.2875,-47.5389"
 },
 {
-"Name": "Serrana",
-"PostCode": "14150-000",
-"LatLong": "-21.2125,-47.6119"
-},
-{
 "Name": "Serra Negra",
 "PostCode": "13930-000",
 "LatLong": "-22.581,-46.689"
+},
+{
+"Name": "Serrana",
+"PostCode": "14150-000",
+"LatLong": "-21.2125,-47.6119"
 },
 {
 "Name": "Sertãozinho",
@@ -24454,14 +24458,14 @@
 "LatLong": "-22.8374,-47.252"
 },
 {
-"Name": "Suzano",
-"PostCode": "08600-000",
-"LatLong": "-23.6071,-46.31"
-},
-{
 "Name": "Suzanápolis",
 "PostCode": "15380-000",
 "LatLong": "-20.5103,-51.0708"
+},
+{
+"Name": "Suzano",
+"PostCode": "08600-000",
+"LatLong": "-23.6071,-46.31"
 },
 {
 "Name": "Tabapuã",
@@ -24747,16 +24751,6 @@
 "Name": "Zacarias",
 "PostCode": "15265-000",
 "LatLong": "-21.1165,-50.0615"
-},
-{
-"Name": "Chavantes",
-"PostCode": "18970-000",
-"LatLong": "-23.0346,-49.7232"
-},
-{
-"Name": "Estiva Gerbi",
-"PostCode": "13857-000",
-"LatLong": "-22.2205,-46.9388"
 }
 ]
 }
@@ -25084,14 +25078,14 @@
 "LatLong": "-11.3615,-37.4785"
 },
 {
-"Name": "Santana do São Francisco",
-"PostCode": "49985-000",
-"LatLong": "-10.2765,-36.6331"
-},
-{
 "Name": "Santa Rosa de Lima",
 "PostCode": "49640-000",
 "LatLong": "-10.6314,-37.2287"
+},
+{
+"Name": "Santana do São Francisco",
+"PostCode": "49985-000",
+"LatLong": "-10.2765,-36.6331"
 },
 {
 "Name": "Santo Amaro das Brotas",
@@ -25554,6 +25548,11 @@
 "LatLong": "-16.1866,-51.3402"
 },
 {
+"Name": "Divinópolis de Goiás",
+"PostCode": "73865-000",
+"LatLong": "-13.2238,-46.527"
+},
+{
 "Name": "Doverlândia",
 "PostCode": "75855-000",
 "LatLong": "-16.8777,-52.4992"
@@ -25602,11 +25601,6 @@
 "Name": "Formoso",
 "PostCode": "76470-000",
 "LatLong": "-13.7034,-48.8754"
-},
-{
-"Name": "Divinópolis de Goiás",
-"PostCode": "73865-000",
-"LatLong": "-13.2238,-46.527"
 },
 {
 "Name": "Goianápolis",
@@ -26219,14 +26213,14 @@
 "LatLong": "-15.9522,-49.2489"
 },
 {
-"Name": "São João d'Aliança",
-"PostCode": "73760-000",
-"LatLong": "-14.4291,-47.4141"
-},
-{
 "Name": "São João da Paraúna",
 "PostCode": "75985-000",
 "LatLong": "-16.8239,-50.3532"
+},
+{
+"Name": "São João d'Aliança",
+"PostCode": "73760-000",
+"LatLong": "-14.4291,-47.4141"
 },
 {
 "Name": "São Luís de Montes Belos",
@@ -26769,6 +26763,11 @@
 "LatLong": "-7.8418,-37.4082"
 },
 {
+"Name": "Ilha de Itamaracá",
+"PostCode": "53900-000",
+"LatLong": "-7.7466,-34.8473"
+},
+{
 "Name": "Inajá",
 "PostCode": "56560-000",
 "LatLong": "-8.7878,-37.7885"
@@ -26797,11 +26796,6 @@
 "Name": "Itaíba",
 "PostCode": "56550-000",
 "LatLong": "-8.989,-37.2955"
-},
-{
-"Name": "Ilha de Itamaracá",
-"PostCode": "53900-000",
-"LatLong": "-7.7466,-34.8473"
 },
 {
 "Name": "Itambé",
@@ -26927,6 +26921,11 @@
 "Name": "Mirandiba",
 "PostCode": "56980-000",
 "LatLong": "-8.1345,-38.7409"
+},
+{
+"Name": "Moreilândia",
+"PostCode": "56150-000",
+"LatLong": "-7.6309,-39.5217"
 },
 {
 "Name": "Moreno",
@@ -27194,11 +27193,6 @@
 "LatLong": "-8.5998,-35.1391"
 },
 {
-"Name": "Moreilândia",
-"PostCode": "56150-000",
-"LatLong": "-7.6309,-39.5217"
-},
-{
 "Name": "Solidão",
 "PostCode": "56795-000",
 "LatLong": "-7.5912,-37.6595"
@@ -27324,7 +27318,6 @@
 "Code": "31",
 "Provinces": [
 {
-"Code": "1700251",
 "Communities": [
 {
 "Places": [
@@ -27504,19 +27497,24 @@
 "LatLong": "-9.1533,-47.4477"
 },
 {
-"Name": "Chapada de Areia",
-"PostCode": "77575-000",
-"LatLong": "-10.1484,-49.2"
-},
-{
 "Name": "Chapada da Natividade",
 "PostCode": "77378-000",
 "LatLong": "-11.5416,-47.8809"
 },
 {
+"Name": "Chapada de Areia",
+"PostCode": "77575-000",
+"LatLong": "-10.1484,-49.2"
+},
+{
 "Name": "Colinas do Tocantins",
 "PostCode": "77760-000",
 "LatLong": "-8.0945,-48.5214"
+},
+{
+"Name": "Colméia",
+"PostCode": "77725-000",
+"LatLong": "-8.8765,-48.7579"
 },
 {
 "Name": "Combinado",
@@ -27719,6 +27717,11 @@
 "LatLong": "-10.0097,-49.1275"
 },
 {
+"Name": "Mosquito",
+"PostCode": "77913-000",
+"LatLong": "-6.6125,-47.5458"
+},
+{
 "Name": "Muricilândia",
 "PostCode": "77850-000",
 "LatLong": "-6.986,-48.7917"
@@ -27764,6 +27767,11 @@
 "LatLong": "-10.6705,-48.9078"
 },
 {
+"Name": "Palmas",
+"PostCode": "77000-000",
+"LatLong": "-10.1159,-48.0777"
+},
+{
 "Name": "Palmeirante",
 "PostCode": "77798-000",
 "LatLong": "-7.8694,-48.1759"
@@ -27802,11 +27810,6 @@
 "Name": "Pequizeiro",
 "PostCode": "77730-000",
 "LatLong": "-8.4098,-48.9415"
-},
-{
-"Name": "Colméia",
-"PostCode": "77725-000",
-"LatLong": "-8.8765,-48.7579"
 },
 {
 "Name": "Pindorama do Tocantins",
@@ -27984,11 +27987,6 @@
 "LatLong": "-12.678,-49.0786"
 },
 {
-"Name": "Palmas",
-"PostCode": "77000-000",
-"LatLong": "-10.1159,-48.0777"
-},
-{
 "Name": "Tocantínia",
 "PostCode": "77640-000",
 "LatLong": "-9.5644,-48.1871"
@@ -28017,11 +28015,6 @@
 "Name": "Xambioá",
 "PostCode": "77880-000",
 "LatLong": "-6.5941,-48.4314"
-},
-{
-"Name": "Mosquito",
-"PostCode": "77913-000",
-"LatLong": "-6.6125,-47.5458"
 }
 ]
 }

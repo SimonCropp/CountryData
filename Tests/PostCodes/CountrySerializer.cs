@@ -8,7 +8,7 @@ static class CountrySerializer
     public static List<State> Serialize(string country, List<PostCodeRow> rows, string directory)
     {
         var states = new List<State>();
-        foreach (var stateGroup in rows.GroupBy(x => x.State))
+        foreach (var stateGroup in rows.OrderBy(x=>x.StateCode).GroupBy(x => x.State))
         {
             var provinceRows = stateGroup.ToList();
             var state = new State
@@ -19,7 +19,7 @@ static class CountrySerializer
             states.Add(state);
 
             var provinces = new List<Province>();
-            foreach (var provinceGroup in provinceRows.GroupBy(x => x.Province))
+            foreach (var provinceGroup in provinceRows.OrderBy(x => x.ProvinceCode).GroupBy(x => x.Province))
             {
                 var communityRows = provinceGroup.ToList();
                 var province = new Province
@@ -30,7 +30,7 @@ static class CountrySerializer
                 provinces.Add(province);
 
                 var communities = new List<Community>();
-                foreach (var communityGroup in communityRows.GroupBy(x => x.Community))
+                foreach (var communityGroup in communityRows.OrderBy(x => x.CommunityCode).GroupBy(x => x.Community))
                 {
                     var placeRows = communityGroup.ToList();
                     var community = new Community
@@ -41,7 +41,7 @@ static class CountrySerializer
                     communities.Add(community);
 
                     var places = new List<Place>();
-                    foreach (var place in placeRows)
+                    foreach (var place in placeRows.OrderBy(x => x.PlaceName))
                     {
                         var item = new Place
                         {

@@ -56,16 +56,6 @@
 "LatLong": "60.2394,19.848"
 },
 {
-"Name": "Pålsböle",
-"PostCode": "22310",
-"LatLong": "60.2756,19.9057"
-},
-{
-"Name": "Tjudö",
-"PostCode": "22330",
-"LatLong": "60.3398,19.9382"
-},
-{
 "Name": "Godby",
 "PostCode": "22410",
 "LatLong": "60.2294,19.982"
@@ -74,6 +64,16 @@
 "Name": "Godby",
 "PostCode": "22411",
 "LatLong": "60.2235,19.9794"
+},
+{
+"Name": "Pålsböle",
+"PostCode": "22310",
+"LatLong": "60.2756,19.9057"
+},
+{
+"Name": "Tjudö",
+"PostCode": "22330",
+"LatLong": "60.3398,19.9382"
 }
 ]
 }
@@ -116,19 +116,9 @@
 {
 "Places": [
 {
-"Name": "Mariehamn",
-"PostCode": "22120",
-"LatLong": "60.1141,19.913"
-},
-{
 "Name": "Gottby",
 "PostCode": "22130",
 "LatLong": "60.1253,19.8285"
-},
-{
-"Name": "Mariehamn",
-"PostCode": "22140",
-"LatLong": "60.1109,19.9898"
 },
 {
 "Name": "Jomala",
@@ -139,6 +129,16 @@
 "Name": "Jomala",
 "PostCode": "22151",
 "LatLong": "60.1497,19.9521"
+},
+{
+"Name": "Mariehamn",
+"PostCode": "22120",
+"LatLong": "60.1141,19.913"
+},
+{
+"Name": "Mariehamn",
+"PostCode": "22140",
+"LatLong": "60.1109,19.9898"
 }
 ]
 }
@@ -151,14 +151,14 @@
 {
 "Places": [
 {
-"Name": "Mariehamn",
-"PostCode": "22160",
-"LatLong": "60.0314,20.0036"
-},
-{
 "Name": "Lemland",
 "PostCode": "22610",
 "LatLong": "60.0491,20.1232"
+},
+{
+"Name": "Mariehamn",
+"PostCode": "22160",
+"LatLong": "60.0314,20.0036"
 }
 ]
 }
@@ -232,14 +232,9 @@
 {
 "Places": [
 {
-"Name": "Lappo",
-"PostCode": "22840",
-"LatLong": "60.3107,20.9895"
-},
-{
-"Name": "Torsholma",
-"PostCode": "22910",
-"LatLong": "60.3556,21.0648"
+"Name": "Åva",
+"PostCode": "22940",
+"LatLong": "60.4588,21.1607"
 },
 {
 "Name": "Brändö",
@@ -252,14 +247,19 @@
 "LatLong": "60.4525,21.0695"
 },
 {
-"Name": "Åva",
-"PostCode": "22940",
-"LatLong": "60.4588,21.1607"
-},
-{
 "Name": "Jurmo",
 "PostCode": "22950",
 "LatLong": "60.5196,21.0717"
+},
+{
+"Name": "Lappo",
+"PostCode": "22840",
+"LatLong": "60.3107,20.9895"
+},
+{
+"Name": "Torsholma",
+"PostCode": "22910",
+"LatLong": "60.3556,21.0648"
 }
 ]
 }
@@ -287,9 +287,9 @@
 {
 "Places": [
 {
-"Name": "Seglinge",
-"PostCode": "22810",
-"LatLong": "60.2018,20.7098"
+"Name": "Enklinge",
+"PostCode": "22830",
+"LatLong": "60.3349,20.758"
 },
 {
 "Name": "Kumlinge",
@@ -297,9 +297,9 @@
 "LatLong": "60.261,20.7934"
 },
 {
-"Name": "Enklinge",
-"PostCode": "22830",
-"LatLong": "60.3349,20.758"
+"Name": "Seglinge",
+"PostCode": "22810",
+"LatLong": "60.2018,20.7098"
 }
 ]
 }

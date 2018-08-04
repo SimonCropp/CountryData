@@ -243,11 +243,6 @@
 {
 "Places": [
 {
-"Name": "Fort Buchanan",
-"PostCode": "00934",
-"LatLong": "18.4122,-66.1221"
-},
-{
 "Name": "Bayamon",
 "PostCode": "00956",
 "LatLong": "18.3986,-66.1557"
@@ -276,6 +271,11 @@
 "Name": "Bayamon",
 "PostCode": "00961",
 "LatLong": "18.3986,-66.1557"
+},
+{
+"Name": "Fort Buchanan",
+"PostCode": "00934",
+"LatLong": "18.4122,-66.1221"
 }
 ]
 }
@@ -723,14 +723,14 @@
 {
 "Places": [
 {
-"Name": "Guayanilla",
-"PostCode": "00656",
-"LatLong": "18.0191,-66.7918"
-},
-{
 "Name": "Guayama",
 "PostCode": "00785",
 "LatLong": "17.9841,-66.1138"
+},
+{
+"Name": "Guayanilla",
+"PostCode": "00656",
+"LatLong": "18.0191,-66.7918"
 }
 ]
 }
@@ -843,11 +843,6 @@
 {
 "Places": [
 {
-"Name": "Punta Santiago",
-"PostCode": "00741",
-"LatLong": "18.1663,-65.7482"
-},
-{
 "Name": "Humacao",
 "PostCode": "00791",
 "LatLong": "18.1497,-65.8274"
@@ -856,6 +851,11 @@
 "Name": "Humacao",
 "PostCode": "00792",
 "LatLong": "18.1497,-65.8274"
+},
+{
+"Name": "Punta Santiago",
+"PostCode": "00741",
+"LatLong": "18.1663,-65.7482"
 }
 ]
 }
@@ -1291,6 +1291,11 @@
 {
 "Places": [
 {
+"Name": "Coto Laurel",
+"PostCode": "00780",
+"LatLong": "18.0497,-66.5513"
+},
+{
 "Name": "Mercedita",
 "PostCode": "00715",
 "LatLong": "18.011,-66.5632"
@@ -1334,11 +1339,6 @@
 "Name": "Ponce",
 "PostCode": "00734",
 "LatLong": "18.0111,-66.6141"
-},
-{
-"Name": "Coto Laurel",
-"PostCode": "00780",
-"LatLong": "18.0497,-66.5513"
 }
 ]
 }
@@ -1478,6 +1478,26 @@
 "Communities": [
 {
 "Places": [
+{
+"Name": "Carolina",
+"PostCode": "00979",
+"LatLong": "18.3808,-65.9574"
+},
+{
+"Name": "Carolina",
+"PostCode": "00981",
+"LatLong": "18.3808,-65.9574"
+},
+{
+"Name": "Carolina",
+"PostCode": "00982",
+"LatLong": "18.3808,-65.9574"
+},
+{
+"Name": "Guaynabo",
+"PostCode": "00968",
+"LatLong": "18.3575,-66.111"
+},
 {
 "Name": "San Juan",
 "PostCode": "00901",
@@ -1659,29 +1679,9 @@
 "LatLong": "18.4663,-66.1057"
 },
 {
-"Name": "Guaynabo",
-"PostCode": "00968",
-"LatLong": "18.3575,-66.111"
-},
-{
 "Name": "San Juan",
 "PostCode": "00975",
 "LatLong": "18.4663,-66.1057"
-},
-{
-"Name": "Carolina",
-"PostCode": "00979",
-"LatLong": "18.3808,-65.9574"
-},
-{
-"Name": "Carolina",
-"PostCode": "00981",
-"LatLong": "18.3808,-65.9574"
-},
-{
-"Name": "Carolina",
-"PostCode": "00982",
-"LatLong": "18.3808,-65.9574"
 }
 ]
 }
@@ -1779,6 +1779,11 @@
 {
 "Places": [
 {
+"Name": "Sabana Seca",
+"PostCode": "00952",
+"LatLong": "18.4269,-66.1846"
+},
+{
 "Name": "Toa Baja",
 "PostCode": "00949",
 "LatLong": "18.4438,-66.2596"
@@ -1792,11 +1797,6 @@
 "Name": "Toa Baja",
 "PostCode": "00951",
 "LatLong": "18.4438,-66.2596"
-},
-{
-"Name": "Sabana Seca",
-"PostCode": "00952",
-"LatLong": "18.4269,-66.1846"
 }
 ]
 }
@@ -1813,6 +1813,11 @@
 {
 "Places": [
 {
+"Name": "St Just",
+"PostCode": "00978",
+"LatLong": "18.3786,-66.05"
+},
+{
 "Name": "Trujillo Alto",
 "PostCode": "00976",
 "LatLong": "18.3547,-66.0074"
@@ -1821,11 +1826,6 @@
 "Name": "Trujillo Alto",
 "PostCode": "00977",
 "LatLong": "18.3547,-66.0074"
-},
-{
-"Name": "St Just",
-"PostCode": "00978",
-"LatLong": "18.3786,-66.05"
 }
 ]
 }

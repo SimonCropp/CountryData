@@ -111,16 +111,6 @@
 "LatLong": "-20.8823,55.4504"
 },
 {
-"Name": "Sainte-Marie",
-"PostCode": "97438",
-"LatLong": "-20.8968,55.5496"
-},
-{
-"Name": "Sainte-Suzanne",
-"PostCode": "97441",
-"LatLong": "-20.9061,55.6089"
-},
-{
 "Name": "Saint-Denis",
 "PostCode": "97461 CEDEX",
 "LatLong": "-20.8823,55.4504"
@@ -389,6 +379,16 @@
 "Name": "Saint-Denis",
 "PostCode": "97806 CEDEX 9",
 "LatLong": "-20.8823,55.4504"
+},
+{
+"Name": "Sainte-Marie",
+"PostCode": "97438",
+"LatLong": "-20.8968,55.5496"
+},
+{
+"Name": "Sainte-Suzanne",
+"PostCode": "97441",
+"LatLong": "-20.9061,55.6089"
 }
 ]
 },
@@ -397,24 +397,9 @@
 "Code": "9742",
 "Places": [
 {
-"Name": "Saint-Pierre",
-"PostCode": "97410",
-"LatLong": "-21.3393,55.4781"
-},
-{
 "Name": "Cilaos",
 "PostCode": "97413",
 "LatLong": "-21.1336,55.4719"
-},
-{
-"Name": "L'Entre-Deux",
-"PostCode": "97414",
-"LatLong": "-21.2333,55.4667"
-},
-{
-"Name": "Le Tampon",
-"PostCode": "97418",
-"LatLong": "-21.2831,55.518"
 },
 {
 "Name": "La Rivière",
@@ -422,124 +407,14 @@
 "LatLong": "-21.2595,55.4405"
 },
 {
-"Name": "Saint-Louis",
-"PostCode": "97421",
-"LatLong": "-21.2858,55.4112"
-},
-{
-"Name": "Les Avirons",
-"PostCode": "97425",
-"LatLong": "-21.2418,55.3394"
-},
-{
-"Name": "L'Étang-Salé",
-"PostCode": "97427",
-"LatLong": "-21.25,55.3833"
-},
-{
-"Name": "Petite-Île",
-"PostCode": "97429",
-"LatLong": "-21.35,55.5667"
+"Name": "Le Tampon",
+"PostCode": "97418",
+"LatLong": "-21.2831,55.518"
 },
 {
 "Name": "Le Tampon",
 "PostCode": "97430",
 "LatLong": "-21.2831,55.518"
-},
-{
-"Name": "Saint-Pierre",
-"PostCode": "97432",
-"LatLong": "-21.3393,55.4781"
-},
-{
-"Name": "Saint-Philippe",
-"PostCode": "97442",
-"LatLong": "-21.3585,55.768"
-},
-{
-"Name": "Saint-Pierre",
-"PostCode": "97445 CEDEX",
-"LatLong": "-21.3393,55.4781"
-},
-{
-"Name": "Saint-Pierre",
-"PostCode": "97446 CEDEX",
-"LatLong": "-21.3393,55.4781"
-},
-{
-"Name": "Saint-Pierre",
-"PostCode": "97447 CEDEX",
-"LatLong": "-21.3393,55.4781"
-},
-{
-"Name": "Saint-Pierre",
-"PostCode": "97448 CEDEX",
-"LatLong": "-21.3393,55.4781"
-},
-{
-"Name": "Saint-Pierre",
-"PostCode": "97449 CEDEX",
-"LatLong": "-21.3393,55.4781"
-},
-{
-"Name": "Saint-Louis",
-"PostCode": "97450",
-"LatLong": "-21.2858,55.4112"
-},
-{
-"Name": "Saint-Pierre",
-"PostCode": "97451 CEDEX",
-"LatLong": "-21.3393,55.4781"
-},
-{
-"Name": "Saint-Pierre",
-"PostCode": "97452 CEDEX",
-"LatLong": "-21.3393,55.4781"
-},
-{
-"Name": "Saint-Pierre",
-"PostCode": "97453 CEDEX",
-"LatLong": "-21.3393,55.4781"
-},
-{
-"Name": "Saint-Pierre",
-"PostCode": "97454 CEDEX",
-"LatLong": "-21.3393,55.4781"
-},
-{
-"Name": "Saint-Pierre",
-"PostCode": "97455 CEDEX",
-"LatLong": "-21.3393,55.4781"
-},
-{
-"Name": "Saint-Pierre",
-"PostCode": "97456 CEDEX",
-"LatLong": "-21.3393,55.4781"
-},
-{
-"Name": "Saint-Pierre",
-"PostCode": "97457 CEDEX",
-"LatLong": "-21.3393,55.4781"
-},
-{
-"Name": "Saint-Pierre",
-"PostCode": "97458 CEDEX",
-"LatLong": "-21.3393,55.4781"
-},
-{
-"Name": "Saint-Pierre",
-"PostCode": "97459 CEDEX",
-"LatLong": "-21.3393,55.4781"
-},
-{
-"Name": "Saint-Joseph",
-"PostCode": "97480",
-"LatLong": "-21.3784,55.6192"
-},
-{
-"Name": "Saint-Pierre",
-"PostCode": "97751 CEDEX",
-"LatLong": "-21.3393,55.4781"
 },
 {
 "Name": "Le Tampon",
@@ -587,6 +462,141 @@
 "LatLong": "-21.2831,55.518"
 },
 {
+"Name": "L'Entre-Deux",
+"PostCode": "97414",
+"LatLong": "-21.2333,55.4667"
+},
+{
+"Name": "Les Avirons",
+"PostCode": "97425",
+"LatLong": "-21.2418,55.3394"
+},
+{
+"Name": "L'Étang-Salé",
+"PostCode": "97427",
+"LatLong": "-21.25,55.3833"
+},
+{
+"Name": "Petite-Île",
+"PostCode": "97429",
+"LatLong": "-21.35,55.5667"
+},
+{
+"Name": "Saint-Joseph",
+"PostCode": "97480",
+"LatLong": "-21.3784,55.6192"
+},
+{
+"Name": "Saint-Louis",
+"PostCode": "97421",
+"LatLong": "-21.2858,55.4112"
+},
+{
+"Name": "Saint-Louis",
+"PostCode": "97450",
+"LatLong": "-21.2858,55.4112"
+},
+{
+"Name": "Saint-Louis",
+"PostCode": "97872 CEDEX",
+"LatLong": "-21.2858,55.4112"
+},
+{
+"Name": "Saint-Louis",
+"PostCode": "97899 CEDEX",
+"LatLong": "-21.2858,55.4112"
+},
+{
+"Name": "Saint-Philippe",
+"PostCode": "97442",
+"LatLong": "-21.3585,55.768"
+},
+{
+"Name": "Saint-Pierre",
+"PostCode": "97410",
+"LatLong": "-21.3393,55.4781"
+},
+{
+"Name": "Saint-Pierre",
+"PostCode": "97432",
+"LatLong": "-21.3393,55.4781"
+},
+{
+"Name": "Saint-Pierre",
+"PostCode": "97445 CEDEX",
+"LatLong": "-21.3393,55.4781"
+},
+{
+"Name": "Saint-Pierre",
+"PostCode": "97446 CEDEX",
+"LatLong": "-21.3393,55.4781"
+},
+{
+"Name": "Saint-Pierre",
+"PostCode": "97447 CEDEX",
+"LatLong": "-21.3393,55.4781"
+},
+{
+"Name": "Saint-Pierre",
+"PostCode": "97448 CEDEX",
+"LatLong": "-21.3393,55.4781"
+},
+{
+"Name": "Saint-Pierre",
+"PostCode": "97449 CEDEX",
+"LatLong": "-21.3393,55.4781"
+},
+{
+"Name": "Saint-Pierre",
+"PostCode": "97451 CEDEX",
+"LatLong": "-21.3393,55.4781"
+},
+{
+"Name": "Saint-Pierre",
+"PostCode": "97452 CEDEX",
+"LatLong": "-21.3393,55.4781"
+},
+{
+"Name": "Saint-Pierre",
+"PostCode": "97453 CEDEX",
+"LatLong": "-21.3393,55.4781"
+},
+{
+"Name": "Saint-Pierre",
+"PostCode": "97454 CEDEX",
+"LatLong": "-21.3393,55.4781"
+},
+{
+"Name": "Saint-Pierre",
+"PostCode": "97455 CEDEX",
+"LatLong": "-21.3393,55.4781"
+},
+{
+"Name": "Saint-Pierre",
+"PostCode": "97456 CEDEX",
+"LatLong": "-21.3393,55.4781"
+},
+{
+"Name": "Saint-Pierre",
+"PostCode": "97457 CEDEX",
+"LatLong": "-21.3393,55.4781"
+},
+{
+"Name": "Saint-Pierre",
+"PostCode": "97458 CEDEX",
+"LatLong": "-21.3393,55.4781"
+},
+{
+"Name": "Saint-Pierre",
+"PostCode": "97459 CEDEX",
+"LatLong": "-21.3393,55.4781"
+},
+{
+"Name": "Saint-Pierre",
+"PostCode": "97751 CEDEX",
+"LatLong": "-21.3393,55.4781"
+},
+{
 "Name": "Saint-Pierre",
 "PostCode": "97851 CEDEX",
 "LatLong": "-21.3393,55.4781"
@@ -600,16 +610,47 @@
 "Name": "Saint-Pierre",
 "PostCode": "97853 CEDEX",
 "LatLong": "-21.3393,55.4781"
+}
+]
 },
 {
-"Name": "Saint-Louis",
-"PostCode": "97872 CEDEX",
-"LatLong": "-21.2858,55.4112"
+"Name": "Arrondissement de Saint-Benoît",
+"Code": "9743",
+"Places": [
+{
+"Name": "Bras-Panon",
+"PostCode": "97412",
+"LatLong": "-20.9967,55.6782"
 },
 {
-"Name": "Saint-Louis",
-"PostCode": "97899 CEDEX",
-"LatLong": "-21.2858,55.4112"
+"Name": "La Plaine-des-Palmistes",
+"PostCode": "97431",
+"LatLong": "-21.1167,55.6333"
+},
+{
+"Name": "Saint-André",
+"PostCode": "97440",
+"LatLong": "-20.9633,55.6503"
+},
+{
+"Name": "Saint-Benoît",
+"PostCode": "97437",
+"LatLong": "-21.038,55.7194"
+},
+{
+"Name": "Saint-Benoît",
+"PostCode": "97470",
+"LatLong": "-21.038,55.7194"
+},
+{
+"Name": "Sainte-Rose",
+"PostCode": "97439",
+"LatLong": "-21.1298,55.7963"
+},
+{
+"Name": "Salazie",
+"PostCode": "97433",
+"LatLong": "-21.0273,55.539"
 }
 ]
 },
@@ -617,16 +658,6 @@
 "Name": "Arrondissement de Saint-Paul",
 "Code": "9744",
 "Places": [
-{
-"Name": "Saint-Paul",
-"PostCode": "97411",
-"LatLong": "-21.0096,55.2707"
-},
-{
-"Name": "Saint-Leu",
-"PostCode": "97416",
-"LatLong": "-21.1706,55.2882"
-},
 {
 "Name": "La Possession",
 "PostCode": "97419",
@@ -636,46 +667,6 @@
 "Name": "Le Port",
 "PostCode": "97420",
 "LatLong": "-20.9373,55.2919"
-},
-{
-"Name": "Saint-Paul",
-"PostCode": "97422",
-"LatLong": "-21.0096,55.2707"
-},
-{
-"Name": "Saint-Paul",
-"PostCode": "97423",
-"LatLong": "-21.0096,55.2707"
-},
-{
-"Name": "Saint-Leu",
-"PostCode": "97424",
-"LatLong": "-21.1706,55.2882"
-},
-{
-"Name": "Trois-Bassins",
-"PostCode": "97426",
-"LatLong": "-21.1,55.3"
-},
-{
-"Name": "Saint-Paul",
-"PostCode": "97434",
-"LatLong": "-21.0096,55.2707"
-},
-{
-"Name": "Saint-Paul",
-"PostCode": "97435",
-"LatLong": "-21.0096,55.2707"
-},
-{
-"Name": "Saint-Leu",
-"PostCode": "97436",
-"LatLong": "-21.1706,55.2882"
-},
-{
-"Name": "Saint-Paul",
-"PostCode": "97460",
-"LatLong": "-21.0096,55.2707"
 },
 {
 "Name": "Le Port",
@@ -723,6 +714,51 @@
 "LatLong": "-20.9373,55.2919"
 },
 {
+"Name": "Saint-Leu",
+"PostCode": "97416",
+"LatLong": "-21.1706,55.2882"
+},
+{
+"Name": "Saint-Leu",
+"PostCode": "97424",
+"LatLong": "-21.1706,55.2882"
+},
+{
+"Name": "Saint-Leu",
+"PostCode": "97436",
+"LatLong": "-21.1706,55.2882"
+},
+{
+"Name": "Saint-Paul",
+"PostCode": "97411",
+"LatLong": "-21.0096,55.2707"
+},
+{
+"Name": "Saint-Paul",
+"PostCode": "97422",
+"LatLong": "-21.0096,55.2707"
+},
+{
+"Name": "Saint-Paul",
+"PostCode": "97423",
+"LatLong": "-21.0096,55.2707"
+},
+{
+"Name": "Saint-Paul",
+"PostCode": "97434",
+"LatLong": "-21.0096,55.2707"
+},
+{
+"Name": "Saint-Paul",
+"PostCode": "97435",
+"LatLong": "-21.0096,55.2707"
+},
+{
+"Name": "Saint-Paul",
+"PostCode": "97460",
+"LatLong": "-21.0096,55.2707"
+},
+{
 "Name": "Saint-Paul",
 "PostCode": "97861 CEDEX",
 "LatLong": "-21.0096,55.2707"
@@ -761,47 +797,11 @@
 "Name": "Saint-Paul",
 "PostCode": "97868 CEDEX",
 "LatLong": "-21.0096,55.2707"
-}
-]
 },
 {
-"Name": "Arrondissement de Saint-Benoît",
-"Code": "9743",
-"Places": [
-{
-"Name": "Bras-Panon",
-"PostCode": "97412",
-"LatLong": "-20.9967,55.6782"
-},
-{
-"Name": "La Plaine-des-Palmistes",
-"PostCode": "97431",
-"LatLong": "-21.1167,55.6333"
-},
-{
-"Name": "Salazie",
-"PostCode": "97433",
-"LatLong": "-21.0273,55.539"
-},
-{
-"Name": "Saint-Benoît",
-"PostCode": "97437",
-"LatLong": "-21.038,55.7194"
-},
-{
-"Name": "Sainte-Rose",
-"PostCode": "97439",
-"LatLong": "-21.1298,55.7963"
-},
-{
-"Name": "Saint-André",
-"PostCode": "97440",
-"LatLong": "-20.9633,55.6503"
-},
-{
-"Name": "Saint-Benoît",
-"PostCode": "97470",
-"LatLong": "-21.038,55.7194"
+"Name": "Trois-Bassins",
+"PostCode": "97426",
+"LatLong": "-21.1,55.3"
 }
 ]
 }

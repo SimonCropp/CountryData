@@ -10,6 +10,11 @@
 {
 "Places": [
 {
+"Name": "Barentsburg",
+"PostCode": "9178",
+"LatLong": "78.0644,14.1859"
+},
+{
 "Name": "Longyearbyen",
 "PostCode": "9170",
 "LatLong": "78.2233,15.6469"
@@ -28,11 +33,6 @@
 "Name": "Sveagruva",
 "PostCode": "9175",
 "LatLong": "77.9003,16.7201"
-},
-{
-"Name": "Barentsburg",
-"PostCode": "9178",
-"LatLong": "78.0644,14.1859"
 }
 ]
 }
