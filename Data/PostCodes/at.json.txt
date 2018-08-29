@@ -53592,232 +53592,6 @@
 ]
 },
 {
-"Name": "Bruck-Waasen",
-"Code": "40803",
-"Places": [
-{
-"Name": "Adenbruck",
-"PostCode": "4722",
-"LatLong": "48.3167,13.7333"
-},
-{
-"Name": "Aichet",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Blindenau",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Brandstätten",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Breitau",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Bruck an der Aschach",
-"PostCode": "4722",
-"LatLong": "48.3271,13.7738"
-},
-{
-"Name": "Buch",
-"PostCode": "4722",
-"LatLong": "48.3362,13.8019"
-},
-{
-"Name": "Dunkenedt",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Eckartsroith",
-"PostCode": "4722",
-"LatLong": "48.3025,13.7579"
-},
-{
-"Name": "Erleinsdorf",
-"PostCode": "4722",
-"LatLong": "48.3265,13.8079"
-},
-{
-"Name": "Feichten",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Freiling",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Fuchshub",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Gschwendthäuser",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Höhenstein",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Holzleithen",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Hötzmannsberg",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Hub",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Itzling",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Kastlingeredt",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Mittereibach",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Mühlbrenning",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Niederaching",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Niederensfelden",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Niederweiding",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Nußbaum",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Oberaching",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Oberndorf",
-"PostCode": "4722",
-"LatLong": "48.3,13.75"
-},
-{
-"Name": "Oberngrub",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Oberweiding",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Parz bei Gattern",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Pfarrhofheuberg",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Prambeckenhof",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Ratzling",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Schieferhub",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Sölden an der Straß",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Staureth",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Stefansdorf",
-"PostCode": "4722",
-"LatLong": "48.3065,13.7919"
-},
-{
-"Name": "Untereibach",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Unterheuberg",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Usting",
-"PostCode": "4722",
-"LatLong": "48.3167,13.7167"
-},
-{
-"Name": "Waasen",
-"PostCode": "4722",
-"LatLong": "48.3258,13.7629"
-},
-{
-"Name": "Waasnerau",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Winkl",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-}
-]
-},
-{
 "Name": "Eschenau im Hausruckkreis",
 "Code": "40804",
 "Places": [
@@ -55963,82 +55737,6 @@
 ]
 },
 {
-"Name": "Peuerbach",
-"Code": "40819",
-"Places": [
-{
-"Name": "Achleiten",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Besenberg",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Greinsfurth",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Haargassen",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Köppensteegen",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Leithen",
-"PostCode": "4722",
-"LatLong": "48.3667,13.7833"
-},
-{
-"Name": "Peuerbach",
-"PostCode": "4722",
-"LatLong": "48.3453,13.772"
-},
-{
-"Name": "Pühret",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Ranna",
-"PostCode": "4722",
-"LatLong": "48.3541,13.7539"
-},
-{
-"Name": "Spielmannsberg",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Steingrüneredt",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Teucht",
-"PostCode": "4722",
-"LatLong": "48.3667,13.75"
-},
-{
-"Name": "Thomasberg",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-},
-{
-"Name": "Untertreßleinsbach",
-"PostCode": "4722",
-"LatLong": "48.373,13.7414"
-}
-]
-},
-{
 "Name": "Pötting",
 "Code": "40820",
 "Places": [
@@ -58135,6 +57833,302 @@
 "Name": "Zupfing",
 "PostCode": "4741",
 "LatLong": "48.2482,13.6709"
+}
+]
+},
+{
+"Name": "Peuerbach",
+"Code": "40835",
+"Places": [
+{
+"Name": "Achleiten",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Adenbruck",
+"PostCode": "4722",
+"LatLong": "48.3167,13.7333"
+},
+{
+"Name": "Aichet",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Besenberg",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Blindenau",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Brandstätten",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Breitau",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Bruck an der Aschach",
+"PostCode": "4722",
+"LatLong": "48.3271,13.7738"
+},
+{
+"Name": "Buch",
+"PostCode": "4722",
+"LatLong": "48.3362,13.8019"
+},
+{
+"Name": "Dunkenedt",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Eckartsroith",
+"PostCode": "4722",
+"LatLong": "48.3025,13.7579"
+},
+{
+"Name": "Erleinsdorf",
+"PostCode": "4722",
+"LatLong": "48.3265,13.8079"
+},
+{
+"Name": "Feichten",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Freiling",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Fuchshub",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Greinsfurth",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Gschwendthäuser",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Haargassen",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Höhenstein",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Holzleithen",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Hötzmannsberg",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Hub",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Itzling",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Kastlingeredt",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Köppensteegen",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Leithen",
+"PostCode": "4722",
+"LatLong": "48.3667,13.7833"
+},
+{
+"Name": "Mittereibach",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Mühlbrenning",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Niederaching",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Niederensfelden",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Niederweiding",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Nußbaum",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Oberaching",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Oberndorf",
+"PostCode": "4722",
+"LatLong": "48.3,13.75"
+},
+{
+"Name": "Oberngrub",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Oberweiding",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Parz bei Gattern",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Peuerbach",
+"PostCode": "4722",
+"LatLong": "48.3453,13.772"
+},
+{
+"Name": "Pfarrhofheuberg",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Prambeckenhof",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Pühret",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Ranna",
+"PostCode": "4722",
+"LatLong": "48.3541,13.7539"
+},
+{
+"Name": "Ratzling",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Schieferhub",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Sölden an der Straß",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Spielmannsberg",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Staureth",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Stefansdorf",
+"PostCode": "4722",
+"LatLong": "48.3065,13.7919"
+},
+{
+"Name": "Steingrüneredt",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Teucht",
+"PostCode": "4722",
+"LatLong": "48.3667,13.75"
+},
+{
+"Name": "Thomasberg",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Untereibach",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Unterheuberg",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Untertreßleinsbach",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Usting",
+"PostCode": "4722",
+"LatLong": "48.3167,13.7167"
+},
+{
+"Name": "Waasen",
+"PostCode": "4722",
+"LatLong": "48.3258,13.7629"
+},
+{
+"Name": "Waasnerau",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
+},
+{
+"Name": "Winkl",
+"PostCode": "4722",
+"LatLong": "48.373,13.7414"
 }
 ]
 }
@@ -67846,37 +67840,6 @@
 ]
 },
 {
-"Name": "Schönegg",
-"Code": "41340",
-"Places": [
-{
-"Name": "Guglwald",
-"PostCode": "4191",
-"LatLong": "48.5902,14.1743"
-},
-{
-"Name": "Köckendorf",
-"PostCode": "4184",
-"LatLong": "48.5027,14.1971"
-},
-{
-"Name": "Mühlholz",
-"PostCode": "4184",
-"LatLong": "48.5509,14.1658"
-},
-{
-"Name": "Piberschlag",
-"PostCode": "4184",
-"LatLong": "48.5634,14.1744"
-},
-{
-"Name": "Schönegg",
-"PostCode": "4191",
-"LatLong": "48.5821,14.1907"
-}
-]
-},
-{
 "Name": "Schwarzenberg am Böhmerwald",
 "Code": "41341",
 "Places": [
@@ -73863,122 +73826,6 @@
 ]
 },
 {
-"Name": "Vorderweißenbach",
-"Code": "41625",
-"Places": [
-{
-"Name": "Altenschlag",
-"PostCode": "4184",
-"LatLong": "48.5365,14.1657"
-},
-{
-"Name": "Am Hübl",
-"PostCode": "4191",
-"LatLong": "48.5355,14.3062"
-},
-{
-"Name": "Amesberg",
-"PostCode": "4190",
-"LatLong": "48.5355,14.3062"
-},
-{
-"Name": "Amesschlag",
-"PostCode": "4190",
-"LatLong": "48.55,14.25"
-},
-{
-"Name": "Amesschlag",
-"PostCode": "4191",
-"LatLong": "48.55,14.25"
-},
-{
-"Name": "Bernhardschlag",
-"PostCode": "4191",
-"LatLong": "48.5327,14.2464"
-},
-{
-"Name": "Brunnwald",
-"PostCode": "4190",
-"LatLong": "48.5355,14.3062"
-},
-{
-"Name": "Eberhardschlag",
-"PostCode": "4191",
-"LatLong": "48.55,14.25"
-},
-{
-"Name": "Gaisschlag",
-"PostCode": "4191",
-"LatLong": "48.5667,14.25"
-},
-{
-"Name": "Geierschlag",
-"PostCode": "4184",
-"LatLong": "48.541,14.1846"
-},
-{
-"Name": "Geierschlag",
-"PostCode": "4191",
-"LatLong": "48.541,14.1846"
-},
-{
-"Name": "Glasau",
-"PostCode": "4191",
-"LatLong": "48.5355,14.3062"
-},
-{
-"Name": "Hinterweißenbach",
-"PostCode": "4191",
-"LatLong": "48.5658,14.1964"
-},
-{
-"Name": "Leithen",
-"PostCode": "4191",
-"LatLong": "48.5355,14.3062"
-},
-{
-"Name": "Mitterbrunnwald",
-"PostCode": "4183",
-"LatLong": "48.5167,14.2167"
-},
-{
-"Name": "Oberbrunnwald",
-"PostCode": "4183",
-"LatLong": "48.5198,14.2077"
-},
-{
-"Name": "Ortschlag",
-"PostCode": "4190",
-"LatLong": "48.53,14.2546"
-},
-{
-"Name": "Sonnenhang",
-"PostCode": "4191",
-"LatLong": "48.5355,14.3062"
-},
-{
-"Name": "Sternwald",
-"PostCode": "4191",
-"LatLong": "48.5355,14.3062"
-},
-{
-"Name": "Stumpten",
-"PostCode": "4191",
-"LatLong": "48.5471,14.2098"
-},
-{
-"Name": "Unterbrunnwald",
-"PostCode": "4183",
-"LatLong": "48.5029,14.237"
-},
-{
-"Name": "Vorderweißenbach",
-"PostCode": "4191",
-"LatLong": "48.5521,14.2179"
-}
-]
-},
-{
 "Name": "Walding",
 "Code": "41626",
 "Places": [
@@ -74092,6 +73939,147 @@
 "Name": "Zwettl an der Rodl",
 "PostCode": "4180",
 "LatLong": "48.4655,14.2713"
+}
+]
+},
+{
+"Name": "Vorderweißenbach",
+"Code": "41628",
+"Places": [
+{
+"Name": "Altenschlag",
+"PostCode": "4184",
+"LatLong": "48.5365,14.1657"
+},
+{
+"Name": "Am Hübl",
+"PostCode": "4191",
+"LatLong": "48.5355,14.3062"
+},
+{
+"Name": "Amesberg",
+"PostCode": "4190",
+"LatLong": "48.5355,14.3062"
+},
+{
+"Name": "Amesschlag",
+"PostCode": "4190",
+"LatLong": "48.55,14.25"
+},
+{
+"Name": "Amesschlag",
+"PostCode": "4191",
+"LatLong": "48.55,14.25"
+},
+{
+"Name": "Bernhardschlag",
+"PostCode": "4191",
+"LatLong": "48.5327,14.2464"
+},
+{
+"Name": "Brunnwald",
+"PostCode": "4190",
+"LatLong": "48.5355,14.3062"
+},
+{
+"Name": "Eberhardschlag",
+"PostCode": "4191",
+"LatLong": "48.55,14.25"
+},
+{
+"Name": "Gaisschlag",
+"PostCode": "4191",
+"LatLong": "48.5667,14.25"
+},
+{
+"Name": "Geierschlag",
+"PostCode": "4184",
+"LatLong": "48.541,14.1846"
+},
+{
+"Name": "Geierschlag",
+"PostCode": "4191",
+"LatLong": "48.541,14.1846"
+},
+{
+"Name": "Glasau",
+"PostCode": "4191",
+"LatLong": "48.5355,14.3062"
+},
+{
+"Name": "Guglwald",
+"PostCode": "4191",
+"LatLong": "48.5902,14.1743"
+},
+{
+"Name": "Hinterweißenbach",
+"PostCode": "4191",
+"LatLong": "48.5658,14.1964"
+},
+{
+"Name": "Köckendorf",
+"PostCode": "4184",
+"LatLong": "48.5027,14.1971"
+},
+{
+"Name": "Leithen",
+"PostCode": "4191",
+"LatLong": "48.5355,14.3062"
+},
+{
+"Name": "Mitterbrunnwald",
+"PostCode": "4183",
+"LatLong": "48.5167,14.2167"
+},
+{
+"Name": "Mühlholz",
+"PostCode": "4184",
+"LatLong": "48.5509,14.1658"
+},
+{
+"Name": "Oberbrunnwald",
+"PostCode": "4183",
+"LatLong": "48.5198,14.2077"
+},
+{
+"Name": "Ortschlag",
+"PostCode": "4190",
+"LatLong": "48.53,14.2546"
+},
+{
+"Name": "Piberschlag",
+"PostCode": "4184",
+"LatLong": "48.5634,14.1744"
+},
+{
+"Name": "Schönegg",
+"PostCode": "4191",
+"LatLong": "48.5821,14.1907"
+},
+{
+"Name": "Sonnenhang",
+"PostCode": "4191",
+"LatLong": "48.5355,14.3062"
+},
+{
+"Name": "Sternwald",
+"PostCode": "4191",
+"LatLong": "48.5355,14.3062"
+},
+{
+"Name": "Stumpten",
+"PostCode": "4191",
+"LatLong": "48.5471,14.2098"
+},
+{
+"Name": "Unterbrunnwald",
+"PostCode": "4183",
+"LatLong": "48.5029,14.237"
+},
+{
+"Name": "Vorderweißenbach",
+"PostCode": "4191",
+"LatLong": "48.5521,14.2179"
 }
 ]
 }

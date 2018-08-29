@@ -8,26 +8,6 @@
 "Code": "01",
 "Communities": [
 {
-"Name": "Monte-Carlo",
-"Places": [
-{
-"Name": "Anse de la Grue",
-"PostCode": "98000",
-"LatLong": "43.7306,7.4217"
-},
-{
-"Name": "Monte-Carlo",
-"PostCode": "98000",
-"LatLong": "43.7333,7.4167"
-},
-{
-"Name": "Pointe Focinana",
-"PostCode": "98000",
-"LatLong": "43.7333,7.4333"
-}
-]
-},
-{
 "Name": "Fontvieille",
 "Places": [
 {
@@ -63,26 +43,6 @@
 ]
 },
 {
-"Name": "Monaco",
-"Places": [
-{
-"Name": "Commune de Monaco",
-"PostCode": "98000",
-"LatLong": "43.7333,7.4"
-},
-{
-"Name": "Monaco",
-"PostCode": "98000",
-"LatLong": "43.7333,7.4"
-},
-{
-"Name": "Réserve Sous-marine de Monaco",
-"PostCode": "98000",
-"LatLong": "43.7458,7.4394"
-}
-]
-},
-{
 "Name": "La Condamine",
 "Places": [
 {
@@ -104,6 +64,26 @@
 "Name": "Port de Monaco",
 "PostCode": "98000",
 "LatLong": "43.7361,7.425"
+}
+]
+},
+{
+"Name": "Monaco",
+"Places": [
+{
+"Name": "Commune de Monaco",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4"
+},
+{
+"Name": "Monaco",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4"
+},
+{
+"Name": "Réserve Sous-marine de Monaco",
+"PostCode": "98000",
+"LatLong": "43.7458,7.4394"
 }
 ]
 },
@@ -172,6 +152,26 @@
 },
 {
 "Name": "Rocher de Monaco",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4333"
+}
+]
+},
+{
+"Name": "Monte-Carlo",
+"Places": [
+{
+"Name": "Anse de la Grue",
+"PostCode": "98000",
+"LatLong": "43.7306,7.4217"
+},
+{
+"Name": "Monte-Carlo",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4167"
+},
+{
+"Name": "Pointe Focinana",
 "PostCode": "98000",
 "LatLong": "43.7333,7.4333"
 }
