@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net471;netstandard2.0</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
     <GeneratePackageOnBuild Condition="'$(Configuration)'=='Release'">true</GeneratePackageOnBuild>
     <GenerateDocumentationFile Condition="'$(Configuration)'=='Release'">true</GenerateDocumentationFile>
     <Description>Provides a .net wrapper around the [GeoNames Data](https://www.geonames.org/).</Description>
@@ -14,11 +14,6 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0-beta-63127-02" PrivateAssets="All" />
-    <PackageReference Include="System.IO.Compression.ZipFile" Version="4.3.0" Condition="$(TargetFramework) == 'netstandard2.0'" />
+    <PackageReference Include="System.IO.Compression.ZipFile" Version="4.3.0" />
   </ItemGroup>
-
-  <ItemGroup>
-    <Reference Include="System.IO.Compression" Condition="$(TargetFramework) == 'net471'" />
-  </ItemGroup>
-
 </Project>
