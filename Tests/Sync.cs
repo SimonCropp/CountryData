@@ -44,14 +44,14 @@ public class Sync
         File.Delete(namedCountryData);
 
         var keyToName = new Dictionary<string, string>();
-        var cultInfo = new CultureInfo("en-US", false).TextInfo;
+        var cultureInfo = new CultureInfo("en-US", false).TextInfo;
         foreach (var locationData in countryLocationData)
         {
             var name = countryInfos
                 .Single(x => x.Iso == locationData.Key)
                 .Name;
 
-            name = cultInfo.ToTitleCase(name);
+            name = cultureInfo.ToTitleCase(name);
             name = name
                 .Replace(" ", "")
                 .Replace(".", "");

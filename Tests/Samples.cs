@@ -14,6 +14,7 @@ public class Samples
             .RuleFor(u => u.AustralianCapital, (f, u) => f.Country().Australia().Capital)
             .RuleFor(u => u.RandomIrelandState, (f, u) => f.Country().Ireland().State().Name)
             .RuleFor(u => u.RandomIcelandPostCode, (f, u) => f.Country().Iceland().PostCode());
+        var targetInstance = faker.Generate();
     }
 
     public void Normal()
