@@ -17,7 +17,7 @@ https://nuget.org/packages/CountryData.Bogus/ [![NuGet Status](http://img.shield
 
 ## Usage
 
-```
+```csharp
 // All country info. This is only the country metadata
 // and not all locationData.
 var allCountryInfo = CountryLoader.CountryInfo;
@@ -38,7 +38,7 @@ var latLong = place.LatLong;
 
 ## Bogus Usage
 
-```
+```csharp
 var faker = new Faker<Target>()
     .RuleFor(u => u.RandomCountryName, (f, u) => f.Country().Name())
     .RuleFor(u => u.RandomCountryCurrency, (f, u) => f.Country().CurrencyCode())
