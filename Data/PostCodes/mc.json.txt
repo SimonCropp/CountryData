@@ -8,57 +8,92 @@
 "Code": "01",
 "Communities": [
 {
-"Name": "Les Moneghetti",
+"Name": "Fontvieille",
 "Places": [
 {
-"Name": "Les Moneghetti",
-"PostCode": "98000",
-"LatLong": "43.7375,7.4153"
-}
-]
-},
-{
-"Name": "Monaco",
-"Places": [
-{
-"Name": "Commune de Monaco",
-"PostCode": "98000",
-"LatLong": "43.7333,7.4"
-},
-{
-"Name": "Monaco",
-"PostCode": "98000",
-"LatLong": "43.7333,7.4"
-},
-{
-"Name": "Réserve Sous-marine de Monaco",
-"PostCode": "98000",
-"LatLong": "43.7458,7.4394"
-}
-]
-},
-{
-"Name": "La Condamine",
-"Places": [
-{
-"Name": "Condamine",
+"Name": "Anse de Canton",
 "PostCode": "98000",
 "LatLong": "43.7333,7.4167"
 },
 {
-"Name": "La Condamine",
+"Name": "Fontvieille",
 "PostCode": "98000",
 "LatLong": "43.7333,7.4167"
 },
 {
-"Name": "Port de La Condamine",
+"Name": "Pointe Sainte-Barbe",
+"PostCode": "98000",
+"LatLong": "43.7167,7.4167"
+},
+{
+"Name": "Port de Fontvieille",
+"PostCode": "98000",
+"LatLong": "43.7306,7.4208"
+},
+{
+"Name": "Port Hercule",
 "PostCode": "98000",
 "LatLong": "43.7361,7.425"
 },
 {
-"Name": "Port de Monaco",
+"Name": "Stade Louis Deux",
 "PostCode": "98000",
-"LatLong": "43.7361,7.425"
+"LatLong": "43.7167,7.4167"
+}
+]
+},
+{
+"Name": "Monaco-Ville",
+"Places": [
+{
+"Name": "Ciappaira",
+"PostCode": "98000",
+"LatLong": "43.7167,7.4167"
+},
+{
+"Name": "Jardin Exotique",
+"PostCode": "98000",
+"LatLong": "43.7167,7.4"
+},
+{
+"Name": "Monaco-Ville",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4167"
+},
+{
+"Name": "Pointe de la Poudrière",
+"PostCode": "98000",
+"LatLong": "43.7319,7.4278"
+},
+{
+"Name": "Pointe Saint-Martin",
+"PostCode": "98000",
+"LatLong": "43.7306,7.425"
+},
+{
+"Name": "Rocher de Monaco",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4333"
+}
+]
+},
+{
+"Name": "Monte-Carlo",
+"Places": [
+{
+"Name": "Anse de la Grue",
+"PostCode": "98000",
+"LatLong": "43.7306,7.4217"
+},
+{
+"Name": "Monte-Carlo",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4167"
+},
+{
+"Name": "Pointe Focinana",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4333"
 }
 ]
 },
@@ -98,92 +133,57 @@
 ]
 },
 {
-"Name": "Fontvieille",
+"Name": "La Condamine",
 "Places": [
 {
-"Name": "Anse de Canton",
+"Name": "Condamine",
 "PostCode": "98000",
 "LatLong": "43.7333,7.4167"
 },
 {
-"Name": "Fontvieille",
+"Name": "La Condamine",
 "PostCode": "98000",
 "LatLong": "43.7333,7.4167"
 },
 {
-"Name": "Pointe Sainte-Barbe",
-"PostCode": "98000",
-"LatLong": "43.7167,7.4167"
-},
-{
-"Name": "Port de Fontvieille",
-"PostCode": "98000",
-"LatLong": "43.7306,7.4208"
-},
-{
-"Name": "Port Hercule",
+"Name": "Port de La Condamine",
 "PostCode": "98000",
 "LatLong": "43.7361,7.425"
 },
 {
-"Name": "Stade Louis Deux",
+"Name": "Port de Monaco",
 "PostCode": "98000",
-"LatLong": "43.7167,7.4167"
+"LatLong": "43.7361,7.425"
 }
 ]
 },
 {
-"Name": "Monte-Carlo",
+"Name": "Monaco",
 "Places": [
 {
-"Name": "Anse de la Grue",
+"Name": "Commune de Monaco",
 "PostCode": "98000",
-"LatLong": "43.7306,7.4217"
+"LatLong": "43.7333,7.4"
 },
 {
-"Name": "Monte-Carlo",
+"Name": "Monaco",
 "PostCode": "98000",
-"LatLong": "43.7333,7.4167"
+"LatLong": "43.7333,7.4"
 },
 {
-"Name": "Pointe Focinana",
+"Name": "Réserve Sous-marine de Monaco",
 "PostCode": "98000",
-"LatLong": "43.7333,7.4333"
+"LatLong": "43.7458,7.4394"
 }
 ]
 },
 {
-"Name": "Monaco-Ville",
+"Name": "Les Moneghetti",
 "Places": [
 {
-"Name": "Ciappaira",
+"Name": "Les Moneghetti",
 "PostCode": "98000",
-"LatLong": "43.7167,7.4167"
-},
-{
-"Name": "Jardin Exotique",
-"PostCode": "98000",
-"LatLong": "43.7167,7.4"
-},
-{
-"Name": "Monaco-Ville",
-"PostCode": "98000",
-"LatLong": "43.7333,7.4167"
-},
-{
-"Name": "Pointe de la Poudrière",
-"PostCode": "98000",
-"LatLong": "43.7319,7.4278"
-},
-{
-"Name": "Pointe Saint-Martin",
-"PostCode": "98000",
-"LatLong": "43.7306,7.425"
-},
-{
-"Name": "Rocher de Monaco",
-"PostCode": "98000",
-"LatLong": "43.7333,7.4333"
+"LatLong": "43.7375,7.4153"
 }
 ]
 }
