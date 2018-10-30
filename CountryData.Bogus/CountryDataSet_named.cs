@@ -75,6 +75,11 @@ namespace CountryData.Bogus
             return CountryLoader.LoadSwitzerlandLocationData();
         }
 
+        public ICountry Chile()
+        {
+            return CountryLoader.LoadChileLocationData();
+        }
+
         public ICountry Colombia()
         {
             return CountryLoader.LoadColombiaLocationData();

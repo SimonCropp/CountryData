@@ -1,4 +1,5 @@
 ﻿{
+  "$type": "Country",
   "Name": "Palau",
   "Iso": "PW",
   "Iso3": "PLW",
@@ -13,32 +14,51 @@
   "PhonePrefix": "680",
   "PostCodeFormat": "96940",
   "PostCodeRegex": "^(96940)$",
-  "Languages": [
-    "pau",
-    "sov",
-    "en-PW",
-    "tox",
-    "ja",
-    "fil",
-    "zh"
-  ],
-  "States": [
-    {
-      "Provinces": [
-        {
-          "Communities": [
+  "Languages": {
+    "$type": "List<string>",
+    "$values": [
+      "pau",
+      "sov",
+      "en-PW",
+      "tox",
+      "ja",
+      "fil",
+      "zh"
+    ]
+  },
+  "States": {
+    "$type": "List<State>",
+    "$values": [
+      {
+        "$type": "State",
+        "Provinces": {
+          "$type": "List<Province>",
+          "$values": [
             {
-              "Places": [
-                {
-                  "Name": "Palau",
-                  "PostCode": "96940",
-                  "LatLong": "7.2257,134.3622"
-                }
-              ]
+              "$type": "Province",
+              "Communities": {
+                "$type": "List<Community>",
+                "$values": [
+                  {
+                    "$type": "Community",
+                    "Places": {
+                      "$type": "List<Place>",
+                      "$values": [
+                        {
+                          "$type": "Place",
+                          "Name": "Palau",
+                          "PostCode": "96940",
+                          "LatLong": "7.2257,134.3622"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
             }
           ]
         }
-      ]
-    }
-  ]
+      }
+    ]
+  }
 }

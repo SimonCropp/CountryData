@@ -73,6 +73,11 @@ namespace CountryData
             return LoadLocationData("CH");
         }
 
+        public static ICountry LoadChileLocationData()
+        {
+            return LoadLocationData("CL");
+        }
+
         public static ICountry LoadColombiaLocationData()
         {
             return LoadLocationData("CO");
