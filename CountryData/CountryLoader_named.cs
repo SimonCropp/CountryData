@@ -1,3 +1,6 @@
+
+// ReSharper disable IdentifierTypo
+
 namespace CountryData
 {
     public static partial class CountryLoader

@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
   <PropertyGroup>
-    <!--<TreatWarningsAsErrors>true</TreatWarningsAsErrors>-->
     <LangVersion>latest</LangVersion>
     <NoWarn>CS1591</NoWarn>
-    <Version>1.7.0</Version>
-    <AssemblyVersion>1.0</AssemblyVersion>
+    <Version>1.8.0</Version>
     <AssemblyInformationalVersion>$(Version)</AssemblyInformationalVersion>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>../key.snk</AssemblyOriginatorKeyFile>

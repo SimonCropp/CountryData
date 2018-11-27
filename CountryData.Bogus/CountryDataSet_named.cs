@@ -1,5 +1,7 @@
 using Bogus;
 
+// ReSharper disable IdentifierTypo
+
 namespace CountryData.Bogus
 {
     public partial class CountryDataSet : DataSet

@@ -60,7 +60,10 @@ public class Sync
 
         using (var writer = File.CreateText(namedCountryData))
         {
-            writer.WriteLine(@"namespace CountryData
+            writer.WriteLine(@"
+// ReSharper disable IdentifierTypo
+
+namespace CountryData
 {
     public static partial class CountryLoader
     {");
@@ -80,6 +83,8 @@ public class Sync
         using (var writer = File.CreateText(namedBogusData))
         {
             writer.WriteLine(@"using Bogus;
+
+// ReSharper disable IdentifierTypo
 
 namespace CountryData.Bogus
 {
