@@ -3,8 +3,7 @@
   <PropertyGroup>
     <LangVersion>latest</LangVersion>
     <NoWarn>CS1591</NoWarn>
-    <Version>1.8.0</Version>
-    <AssemblyInformationalVersion>$(Version)</AssemblyInformationalVersion>
+    <Version>1.9.0</Version>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>../key.snk</AssemblyOriginatorKeyFile>
     <PackageLicenseUrl>http://www.opensource.org/licenses/mit-license.php</PackageLicenseUrl>
