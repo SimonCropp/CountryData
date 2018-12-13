@@ -8,57 +8,37 @@
 "Code": "01",
 "Communities": [
 {
-"Name": "Monaco",
+"Name": "Larvotto",
 "Places": [
 {
-"Name": "Commune de Monaco",
+"Name": "Anse du Portier",
 "PostCode": "98000",
-"LatLong": "43.7333,7.4"
+"LatLong": "43.7417,7.4322"
 },
 {
-"Name": "Monaco",
-"PostCode": "98000",
-"LatLong": "43.7333,7.4"
-},
-{
-"Name": "Réserve Sous-marine de Monaco",
-"PostCode": "98000",
-"LatLong": "43.7458,7.4394"
-}
-]
-},
-{
-"Name": "Monaco-Ville",
-"Places": [
-{
-"Name": "Ciappaira",
-"PostCode": "98000",
-"LatLong": "43.7167,7.4167"
-},
-{
-"Name": "Jardin Exotique",
-"PostCode": "98000",
-"LatLong": "43.7167,7.4"
-},
-{
-"Name": "Monaco-Ville",
+"Name": "Jardin Japonais",
 "PostCode": "98000",
 "LatLong": "43.7333,7.4167"
 },
 {
-"Name": "Pointe de la Poudrière",
-"PostCode": "98000",
-"LatLong": "43.7319,7.4278"
-},
-{
-"Name": "Pointe Saint-Martin",
-"PostCode": "98000",
-"LatLong": "43.7306,7.425"
-},
-{
-"Name": "Rocher de Monaco",
+"Name": "Larvotto",
 "PostCode": "98000",
 "LatLong": "43.7333,7.4333"
+},
+{
+"Name": "Plage du Larvotto",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4333"
+},
+{
+"Name": "Pointe Saint-Antoine",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4278"
+},
+{
+"Name": "Réserve Sous-marine du Larvotto",
+"PostCode": "98000",
+"LatLong": "43.7458,7.4394"
 }
 ]
 },
@@ -83,27 +63,22 @@
 ]
 },
 {
-"Name": "La Condamine",
+"Name": "Monaco",
 "Places": [
 {
-"Name": "Condamine",
+"Name": "Commune de Monaco",
 "PostCode": "98000",
-"LatLong": "43.7333,7.4167"
+"LatLong": "43.7333,7.4"
 },
 {
-"Name": "La Condamine",
+"Name": "Monaco",
 "PostCode": "98000",
-"LatLong": "43.7333,7.4167"
+"LatLong": "43.7333,7.4"
 },
 {
-"Name": "Port de La Condamine",
+"Name": "Réserve Sous-marine de Monaco",
 "PostCode": "98000",
-"LatLong": "43.7361,7.425"
-},
-{
-"Name": "Port de Monaco",
-"PostCode": "98000",
-"LatLong": "43.7361,7.425"
+"LatLong": "43.7458,7.4394"
 }
 ]
 },
@@ -143,37 +118,37 @@
 ]
 },
 {
-"Name": "Larvotto",
+"Name": "Monaco-Ville",
 "Places": [
 {
-"Name": "Anse du Portier",
+"Name": "Ciappaira",
 "PostCode": "98000",
-"LatLong": "43.7417,7.4322"
+"LatLong": "43.7167,7.4167"
 },
 {
-"Name": "Jardin Japonais",
+"Name": "Jardin Exotique",
+"PostCode": "98000",
+"LatLong": "43.7167,7.4"
+},
+{
+"Name": "Monaco-Ville",
 "PostCode": "98000",
 "LatLong": "43.7333,7.4167"
 },
 {
-"Name": "Larvotto",
+"Name": "Pointe de la Poudrière",
+"PostCode": "98000",
+"LatLong": "43.7319,7.4278"
+},
+{
+"Name": "Pointe Saint-Martin",
+"PostCode": "98000",
+"LatLong": "43.7306,7.425"
+},
+{
+"Name": "Rocher de Monaco",
 "PostCode": "98000",
 "LatLong": "43.7333,7.4333"
-},
-{
-"Name": "Plage du Larvotto",
-"PostCode": "98000",
-"LatLong": "43.7333,7.4333"
-},
-{
-"Name": "Pointe Saint-Antoine",
-"PostCode": "98000",
-"LatLong": "43.7333,7.4278"
-},
-{
-"Name": "Réserve Sous-marine du Larvotto",
-"PostCode": "98000",
-"LatLong": "43.7458,7.4394"
 }
 ]
 },
@@ -184,6 +159,31 @@
 "Name": "Les Moneghetti",
 "PostCode": "98000",
 "LatLong": "43.7375,7.4153"
+}
+]
+},
+{
+"Name": "La Condamine",
+"Places": [
+{
+"Name": "Condamine",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4167"
+},
+{
+"Name": "La Condamine",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4167"
+},
+{
+"Name": "Port de La Condamine",
+"PostCode": "98000",
+"LatLong": "43.7361,7.425"
+},
+{
+"Name": "Port de Monaco",
+"PostCode": "98000",
+"LatLong": "43.7361,7.425"
 }
 ]
 }
