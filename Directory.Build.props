@@ -7,7 +7,7 @@
     <AssemblyInformationalVersion>$(Version)</AssemblyInformationalVersion>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>../key.snk</AssemblyOriginatorKeyFile>
-    <PackageLicenseUrl>http://www.opensource.org/licenses/mit-license.php</PackageLicenseUrl>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Copyright>Copyright $([System.DateTime]::UtcNow.ToString(yyyy)). All rights reserved</Copyright>
     <PackageTags>CountryLocationData, Bogus</PackageTags>
