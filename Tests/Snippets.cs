@@ -2,12 +2,15 @@
 using Bogus;
 using CountryData;
 using CountryData.Bogus;
+
 // ReSharper disable UnusedVariable
 
-public class Samples
+public class Snippets
 {
     public void Bogus()
     {
+        #region bogususage
+
         var faker = new Faker<Target>()
             .RuleFor(u => u.RandomCountryName, (f, u) => f.Country().Name())
             .RuleFor(u => u.RandomCountryCurrency, (f, u) => f.Country().CurrencyCode())
@@ -15,10 +18,14 @@ public class Samples
             .RuleFor(u => u.RandomIrelandState, (f, u) => f.Country().Ireland().State().Name)
             .RuleFor(u => u.RandomIcelandPostCode, (f, u) => f.Country().Iceland().PostCode());
         var targetInstance = faker.Generate();
+
+        #endregion
     }
 
     public void Normal()
     {
+        #region usage
+
         // All country info. This is only the country metadata
         // and not all locationData.
         var allCountryInfo = CountryLoader.CountryInfo;
@@ -34,6 +41,8 @@ public class Samples
         var postCode = place.PostCode;
         var placeName = place.Name;
         var latLong = place.LatLong;
+
+        #endregion
     }
 
     public class Target

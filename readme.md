@@ -19,12 +19,40 @@ https://nuget.org/packages/CountryData.Bogus/ [![NuGet Status](http://img.shield
 
 ## Usage
 
-snippet: usage
+<!-- snippet: usage -->
+```cs
+// All country info. This is only the country metadata
+// and not all locationData.
+var allCountryInfo = CountryLoader.CountryInfo;
+var costaRicaInfo = allCountryInfo.Single(x => x.Iso == "CR");
+
+// Loads all location data for a specific country
+var australiaData = CountryLoader.LoadAustraliaLocationData();
+var name = australiaData.Name;
+var state = australiaData.States.First();
+var province = state.Provinces.First();
+var community = province.Communities.First();
+var place = community.Places.First();
+var postCode = place.PostCode;
+var placeName = place.Name;
+var latLong = place.LatLong;
+```
+<!-- endsnippet -->
 
 
 ## Bogus Usage
 
-snippet: bogususage
+<!-- snippet: bogususage -->
+```cs
+var faker = new Faker<Target>()
+    .RuleFor(u => u.RandomCountryName, (f, u) => f.Country().Name())
+    .RuleFor(u => u.RandomCountryCurrency, (f, u) => f.Country().CurrencyCode())
+    .RuleFor(u => u.AustralianCapital, (f, u) => f.Country().Australia().Capital)
+    .RuleFor(u => u.RandomIrelandState, (f, u) => f.Country().Ireland().State().Name)
+    .RuleFor(u => u.RandomIcelandPostCode, (f, u) => f.Country().Iceland().PostCode());
+var targetInstance = faker.Generate();
+```
+<!-- endsnippet -->
 
 
 ## Json Files
