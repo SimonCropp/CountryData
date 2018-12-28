@@ -911,6 +911,17 @@
 ]
 },
 {
+"Name": "Scherz",
+"Code": "4104",
+"Places": [
+{
+"Name": "Scherz",
+"PostCode": "5246",
+"LatLong": "47.4469,8.1842"
+}
+]
+},
+{
 "Name": "Mandach",
 "Code": "4105",
 "Places": [
@@ -973,17 +984,6 @@
 "Name": "Rüfenach AG",
 "PostCode": "5235",
 "LatLong": "47.5071,8.209"
-}
-]
-},
-{
-"Name": "Scherz",
-"Code": "4113",
-"Places": [
-{
-"Name": "Scherz",
-"PostCode": "5246",
-"LatLong": "47.4469,8.1842"
 }
 ]
 },
@@ -6368,6 +6368,17 @@
 ]
 },
 {
+"Name": "Schlosswil",
+"Code": "608",
+"Places": [
+{
+"Name": "Schlosswil",
+"PostCode": "3082",
+"LatLong": "46.9087,7.6117"
+}
+]
+},
+{
 "Name": "Grosshöchstetten",
 "Code": "608",
 "Places": [
@@ -6548,17 +6559,6 @@
 "Name": "Rubigen",
 "PostCode": "3113",
 "LatLong": "46.8987,7.5446"
-}
-]
-},
-{
-"Name": "Schlosswil",
-"Code": "624",
-"Places": [
-{
-"Name": "Schlosswil",
-"PostCode": "3082",
-"LatLong": "46.9087,7.6117"
 }
 ]
 },
@@ -6889,17 +6889,6 @@
 ]
 },
 {
-"Name": "Gelterfingen",
-"Code": "865",
-"Places": [
-{
-"Name": "Gelterfingen",
-"PostCode": "3126",
-"LatLong": "46.8445,7.5156"
-}
-]
-},
-{
 "Name": "Gerzensee",
 "Code": "866",
 "Places": [
@@ -6955,6 +6944,39 @@
 ]
 },
 {
+"Name": "Noflen",
+"Code": "872",
+"Places": [
+{
+"Name": "Noflen BE",
+"PostCode": "3116",
+"LatLong": "46.8056,7.5433"
+}
+]
+},
+{
+"Name": "Mühledorf (BE)",
+"Code": "872",
+"Places": [
+{
+"Name": "Mühledorf BE",
+"PostCode": "3116",
+"LatLong": "46.828,7.5299"
+}
+]
+},
+{
+"Name": "Gelterfingen",
+"Code": "872",
+"Places": [
+{
+"Name": "Gelterfingen",
+"PostCode": "3126",
+"LatLong": "46.8445,7.5156"
+}
+]
+},
+{
 "Name": "Kirchenthurnen",
 "Code": "873",
 "Places": [
@@ -6977,17 +6999,6 @@
 ]
 },
 {
-"Name": "Mühledorf (BE)",
-"Code": "875",
-"Places": [
-{
-"Name": "Mühledorf BE",
-"PostCode": "3116",
-"LatLong": "46.828,7.5299"
-}
-]
-},
-{
 "Name": "Mühlethurnen",
 "Code": "876",
 "Places": [
@@ -7006,17 +7017,6 @@
 "Name": "Niedermuhlern",
 "PostCode": "3087",
 "LatLong": "46.8576,7.4618"
-}
-]
-},
-{
-"Name": "Noflen",
-"Code": "878",
-"Places": [
-{
-"Name": "Noflen BE",
-"PostCode": "3116",
-"LatLong": "46.8056,7.5433"
 }
 ]
 },
@@ -12771,43 +12771,6 @@
 ]
 },
 {
-"Name": "Bergün/Bravuogn",
-"Code": "3521",
-"Places": [
-{
-"Name": "Bergün/Bravuogn",
-"PostCode": "7482",
-"LatLong": "46.6293,9.7476"
-},
-{
-"Name": "Latsch",
-"PostCode": "7484",
-"LatLong": "46.6342,9.7521"
-},
-{
-"Name": "Preda",
-"PostCode": "7482",
-"LatLong": "46.5886,9.7765"
-},
-{
-"Name": "Stugl/Stuls",
-"PostCode": "7482",
-"LatLong": "46.6506,9.7317"
-}
-]
-},
-{
-"Name": "Filisur",
-"Code": "3522",
-"Places": [
-{
-"Name": "Filisur",
-"PostCode": "7477",
-"LatLong": "46.673,9.6859"
-}
-]
-},
-{
 "Name": "Albula/Alvra",
 "Code": "3542",
 "Places": [
@@ -12916,6 +12879,43 @@
 "Name": "Tinizong",
 "PostCode": "7453",
 "LatLong": "46.5824,9.6173"
+}
+]
+},
+{
+"Name": "Filisur",
+"Code": "3544",
+"Places": [
+{
+"Name": "Filisur",
+"PostCode": "7477",
+"LatLong": "46.673,9.6859"
+}
+]
+},
+{
+"Name": "Bergün/Bravuogn",
+"Code": "3544",
+"Places": [
+{
+"Name": "Bergün/Bravuogn",
+"PostCode": "7482",
+"LatLong": "46.6293,9.7476"
+},
+{
+"Name": "Latsch",
+"PostCode": "7484",
+"LatLong": "46.6342,9.7521"
+},
+{
+"Name": "Preda",
+"PostCode": "7482",
+"LatLong": "46.5886,9.7765"
+},
+{
+"Name": "Stugl/Stuls",
+"PostCode": "7482",
+"LatLong": "46.6506,9.7317"
 }
 ]
 }
@@ -14282,28 +14282,6 @@
 ]
 },
 {
-"Name": "Andiast",
-"Code": "3611",
-"Places": [
-{
-"Name": "Andiast",
-"PostCode": "7159",
-"LatLong": "46.7843,9.1137"
-}
-]
-},
-{
-"Name": "Waltensburg/Vuorz",
-"Code": "3616",
-"Places": [
-{
-"Name": "Waltensburg/Vuorz",
-"PostCode": "7158",
-"LatLong": "46.7737,9.1085"
-}
-]
-},
-{
 "Name": "Lumnezia",
 "Code": "3618",
 "Places": [
@@ -14502,6 +14480,28 @@
 ]
 },
 {
+"Name": "Waltensburg/Vuorz",
+"Code": "3981",
+"Places": [
+{
+"Name": "Waltensburg/Vuorz",
+"PostCode": "7158",
+"LatLong": "46.7737,9.1085"
+}
+]
+},
+{
+"Name": "Andiast",
+"Code": "3981",
+"Places": [
+{
+"Name": "Andiast",
+"PostCode": "7159",
+"LatLong": "46.7843,9.1137"
+}
+]
+},
+{
 "Name": "Breil/Brigels",
 "Code": "3981",
 "Places": [
@@ -14670,22 +14670,6 @@
 "Code": "1851",
 "Communities": [
 {
-"Name": "Mutten",
-"Code": "3503",
-"Places": [
-{
-"Name": "Mutten",
-"PostCode": "7431",
-"LatLong": "46.6781,9.5"
-},
-{
-"Name": "Obermutten",
-"PostCode": "7431",
-"LatLong": "46.6709,9.4863"
-}
-]
-},
-{
 "Name": "Fürstenau",
 "Code": "3633",
 "Places": [
@@ -14815,6 +14799,22 @@
 "Name": "Thusis",
 "PostCode": "7430",
 "LatLong": "46.6972,9.4394"
+}
+]
+},
+{
+"Name": "Mutten",
+"Code": "3668",
+"Places": [
+{
+"Name": "Mutten",
+"PostCode": "7431",
+"LatLong": "46.6781,9.5"
+},
+{
+"Name": "Obermutten",
+"PostCode": "7431",
+"LatLong": "46.6709,9.4863"
 }
 ]
 },
@@ -15130,17 +15130,6 @@
 ]
 },
 {
-"Name": "Corban",
-"Code": "6705",
-"Places": [
-{
-"Name": "Corban",
-"PostCode": "2826",
-"LatLong": "47.3462,7.4769"
-}
-]
-},
-{
 "Name": "Courchapoix",
 "Code": "6706",
 "Places": [
@@ -15375,6 +15364,17 @@
 "Name": "Vicques",
 "PostCode": "2824",
 "LatLong": "47.351,7.4027"
+}
+]
+},
+{
+"Name": "Corban",
+"Code": "6730",
+"Places": [
+{
+"Name": "Corban",
+"PostCode": "2826",
+"LatLong": "47.3462,7.4769"
 }
 ]
 }
@@ -15760,17 +15760,6 @@
 ]
 },
 {
-"Name": "Rocourt",
-"Code": "6803",
-"Places": [
-{
-"Name": "Rocourt",
-"PostCode": "2907",
-"LatLong": "47.3905,6.9566"
-}
-]
-},
-{
 "Name": "Vendlincourt",
 "Code": "6806",
 "Places": [
@@ -15866,6 +15855,17 @@
 "Name": "Roche-d'Or",
 "PostCode": "2912",
 "LatLong": "47.3665,6.9553"
+}
+]
+},
+{
+"Name": "Rocourt",
+"Code": "6809",
+"Places": [
+{
+"Name": "Rocourt",
+"PostCode": "2907",
+"LatLong": "47.3905,6.9566"
 }
 ]
 },
@@ -17263,17 +17263,6 @@
 "Code": "2401",
 "Communities": [
 {
-"Name": "Bevaix",
-"Code": "6402",
-"Places": [
-{
-"Name": "Bevaix",
-"PostCode": "2022",
-"LatLong": "46.9296,6.8147"
-}
-]
-},
-{
 "Name": "Boudry",
 "Code": "6404",
 "Places": [
@@ -17313,44 +17302,6 @@
 "Name": "Cortaillod",
 "PostCode": "2016",
 "LatLong": "46.9431,6.8444"
-}
-]
-},
-{
-"Name": "Fresens",
-"Code": "6409",
-"Places": [
-{
-"Name": "Fresens",
-"PostCode": "2027",
-"LatLong": "46.8886,6.7478"
-}
-]
-},
-{
-"Name": "Gorgier",
-"Code": "6410",
-"Places": [
-{
-"Name": "Chez-le-Bart",
-"PostCode": "2025",
-"LatLong": "46.9021,6.7857"
-},
-{
-"Name": "Gorgier",
-"PostCode": "2023",
-"LatLong": "46.9014,6.7799"
-}
-]
-},
-{
-"Name": "Montalchez",
-"Code": "6411",
-"Places": [
-{
-"Name": "Montalchez",
-"PostCode": "2027",
-"LatLong": "46.8982,6.7446"
 }
 ]
 },
@@ -17402,28 +17353,6 @@
 ]
 },
 {
-"Name": "Saint-Aubin-Sauges",
-"Code": "6414",
-"Places": [
-{
-"Name": "St-Aubin-Sauges",
-"PostCode": "2024",
-"LatLong": "46.8942,6.7725"
-}
-]
-},
-{
-"Name": "Vaumarcus",
-"Code": "6415",
-"Places": [
-{
-"Name": "Vaumarcus",
-"PostCode": "2028",
-"LatLong": "46.8791,6.7573"
-}
-]
-},
-{
 "Name": "Milvignes",
 "Code": "6416",
 "Places": [
@@ -17441,6 +17370,77 @@
 "Name": "Colombier NE",
 "PostCode": "2013",
 "LatLong": "46.9663,6.8648"
+}
+]
+},
+{
+"Name": "Bevaix",
+"Code": "6417",
+"Places": [
+{
+"Name": "Bevaix",
+"PostCode": "2022",
+"LatLong": "46.9296,6.8147"
+}
+]
+},
+{
+"Name": "Gorgier",
+"Code": "6417",
+"Places": [
+{
+"Name": "Chez-le-Bart",
+"PostCode": "2025",
+"LatLong": "46.9021,6.7857"
+},
+{
+"Name": "Gorgier",
+"PostCode": "2023",
+"LatLong": "46.9014,6.7799"
+}
+]
+},
+{
+"Name": "Saint-Aubin-Sauges",
+"Code": "6417",
+"Places": [
+{
+"Name": "St-Aubin-Sauges",
+"PostCode": "2024",
+"LatLong": "46.8942,6.7725"
+}
+]
+},
+{
+"Name": "Fresens",
+"Code": "6417",
+"Places": [
+{
+"Name": "Fresens",
+"PostCode": "2027",
+"LatLong": "46.8886,6.7478"
+}
+]
+},
+{
+"Name": "Montalchez",
+"Code": "6417",
+"Places": [
+{
+"Name": "Montalchez",
+"PostCode": "2027",
+"LatLong": "46.8982,6.7446"
+}
+]
+},
+{
+"Name": "Vaumarcus",
+"Code": "6417",
+"Places": [
+{
+"Name": "Vaumarcus",
+"PostCode": "2028",
+"LatLong": "46.8791,6.7573"
 }
 ]
 }
@@ -34774,17 +34774,6 @@
 ]
 },
 {
-"Name": "Hirzel",
-"Code": "132",
-"Places": [
-{
-"Name": "Hirzel",
-"PostCode": "8816",
-"LatLong": "47.2167,8.6"
-}
-]
-},
-{
 "Name": "Horgen",
 "Code": "133",
 "Places": [
@@ -34921,6 +34910,17 @@
 "Name": "Wädenswil",
 "PostCode": "8820",
 "LatLong": "47.2268,8.6687"
+}
+]
+},
+{
+"Name": "Hirzel",
+"Code": "295",
+"Places": [
+{
+"Name": "Hirzel",
+"PostCode": "8816",
+"LatLong": "47.2167,8.6"
 }
 ]
 }
@@ -35605,17 +35605,6 @@
 ]
 },
 {
-"Name": "Hofstetten (ZH)",
-"Code": "222",
-"Places": [
-{
-"Name": "Hofstetten ZH",
-"PostCode": "8354",
-"LatLong": "47.4724,8.854"
-}
-]
-},
-{
 "Name": "Neftenbach",
 "Code": "223",
 "Places": [
@@ -35795,6 +35784,17 @@
 "Name": "Zell ZH",
 "PostCode": "8487",
 "LatLong": "47.4461,8.8218"
+}
+]
+},
+{
+"Name": "Hofstetten (ZH)",
+"Code": "294",
+"Places": [
+{
+"Name": "Hofstetten ZH",
+"PostCode": "8354",
+"LatLong": "47.4724,8.854"
 }
 ]
 },

@@ -1,0 +1,44 @@
+﻿{
+  "Name": "Palau",
+  "Iso": "PW",
+  "Iso3": "PLW",
+  "IsoNumeric": 585,
+  "Fips": "PS",
+  "Capital": "Melekeok",
+  "Area": 458.0,
+  "Continent": "OC",
+  "TopLevelDomain": ".pw",
+  "CurrencyCode": "USD",
+  "CurrencyName": "Dollar",
+  "PhonePrefix": "680",
+  "PostCodeFormat": "96940",
+  "PostCodeRegex": "^(96940)$",
+  "Languages": [
+    "pau",
+    "sov",
+    "en-PW",
+    "tox",
+    "ja",
+    "fil",
+    "zh"
+  ],
+  "States": [
+    {
+      "Provinces": [
+        {
+          "Communities": [
+            {
+              "Places": [
+                {
+                  "Name": "Palau",
+                  "PostCode": "96940",
+                  "LatLong": "7.2257,134.3622"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
