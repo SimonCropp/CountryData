@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="..\Data\countryInfo.json.txt" Link="countryInfo.json.txt" />
-    <EmbeddedResource Condition="Exists('..\Data\postcodes.zip')" Include="..\Data\postcodes.zip" Link="postcodes.zip" />
+    <EmbeddedResource Include="..\..\Data\countryInfo.json.txt" Link="countryInfo.json.txt" />
+    <EmbeddedResource Condition="Exists('..\..\Data\postcodes.zip')" Include="..\..\Data\postcodes.zip" Link="postcodes.zip" />
   </ItemGroup>
 
   <ItemGroup>

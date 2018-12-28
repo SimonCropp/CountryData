@@ -1,17 +1,15 @@
-﻿using System;
-using System.IO;
+﻿using System.IO;
 
-public static class DataLocations
+static class DataLocations
 {
     static DataLocations()
     {
-        var currentDirectory = Environment.CurrentDirectory;
-        SlnPath = Path.GetFullPath(Path.Combine(currentDirectory, "../../../../"));
-        TempPath = Path.GetFullPath(Path.Combine(SlnPath, "temp"));
+        RootDir = GitRepoDirectoryFinder.Find();
+        TempPath = Path.GetFullPath(Path.Combine(RootDir, "temp"));
         Directory.CreateDirectory(TempPath);
-        DataPath = Path.GetFullPath(Path.Combine(SlnPath, "Data"));
-        CountryDataProjectPath = Path.GetFullPath(Path.Combine(SlnPath, "CountryData"));
-        BogusProjectPath = Path.GetFullPath(Path.Combine(SlnPath, "CountryData.Bogus"));
+        DataPath = Path.GetFullPath(Path.Combine(RootDir, "Data"));
+        CountryDataProjectPath = Path.GetFullPath(Path.Combine(RootDir, "src/CountryData"));
+        BogusProjectPath = Path.GetFullPath(Path.Combine(RootDir, "src/CountryData.Bogus"));
         PostCodesPath = Path.GetFullPath(Path.Combine(DataPath, "PostCodes"));
     }
 
@@ -19,7 +17,7 @@ public static class DataLocations
 
     public static string BogusProjectPath;
 
-    public static string SlnPath;
+    public static string RootDir;
 
     public static string PostCodesPath;
 
