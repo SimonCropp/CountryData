@@ -9,7 +9,7 @@ public class DirectorySourceMarkdownProcessorTests
     {
         var root = GitRepoDirectoryFinder.Find();
 
-        var files = Directory.EnumerateFiles(Path.Combine(root, "Tests"), "Snippets.cs");
+        var files = Directory.EnumerateFiles(Path.Combine(root, "src/Tests"), "Snippets.cs");
         DirectorySourceMarkdownProcessor.Run(root,files);
     }
 }
