@@ -2,11 +2,13 @@
 using Bogus;
 using CountryData;
 using CountryData.Bogus;
+using Xunit;
 
 // ReSharper disable UnusedVariable
 
 public class Snippets
 {
+    [Fact]
     public void Bogus()
     {
         #region bogususage
@@ -22,6 +24,7 @@ public class Snippets
         #endregion
     }
 
+    [Fact]
     public void Normal()
     {
         #region usage

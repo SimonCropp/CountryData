@@ -13,16 +13,16 @@ public class Sync
     public async Task SyncCountryData()
     {
         var countriesPath = Path.GetFullPath(Path.Combine(DataLocations.DataPath, "countrycodes.txt"));
-        var allCountriesZipPath = Path.Combine(DataLocations.TempPath, "allCountries.zip");
+        var allZipPath = Path.Combine(DataLocations.TempPath, "allCountries.zip");
 
         var countryInfos = await SyncCountryInfo();
 
-        await Downloader.DownloadFile(allCountriesZipPath, "http://download.geonames.org/export/zip/allCountries.zip");
+        await Downloader.DownloadFile(allZipPath, "http://download.geonames.org/export/zip/allCountries.zip");
 
 
         var allCountriesTxtPath = Path.Combine(DataLocations.TempPath, "allCountries.txt");
         File.Delete(allCountriesTxtPath);
-        ZipFile.ExtractToDirectory(allCountriesZipPath, DataLocations.TempPath);
+        ZipFile.ExtractToDirectory(allZipPath, DataLocations.TempPath);
 
         var list = PostCodeRowReader.ReadRows(allCountriesTxtPath).ToList();
         var groupByCountry = list.GroupBy(x => x.CountryCode).ToList();

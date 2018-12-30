@@ -2,7 +2,7 @@
 using CaptureSnippets;
 using Xunit;
 
-public class DirectorySourceMarkdownProcessorTests
+public class DocoUpdater
 {
     [Fact]
     public void Run()
