@@ -43,6 +43,7 @@ var postCode = place.PostCode;
 var placeName = place.Name;
 var latLong = place.LatLong;
 ```
+<sup>[snippet source](/src/Tests/Snippets.cs#L30-L48)</sup>
 <!-- endsnippet -->
 
 
@@ -58,6 +59,7 @@ var faker = new Faker<Target>()
     .RuleFor(u => u.RandomIcelandPostCode, (f, u) => f.Country().Iceland().PostCode());
 var targetInstance = faker.Generate();
 ```
+<sup>[snippet source](/src/Tests/Snippets.cs#L14-L24)</sup>
 <!-- endsnippet -->
 
 
