@@ -103,26 +103,6 @@
 ]
 },
 {
-"Name": "Monaco",
-"Places": [
-{
-"Name": "Commune de Monaco",
-"PostCode": "98000",
-"LatLong": "43.7333,7.4"
-},
-{
-"Name": "Monaco",
-"PostCode": "98000",
-"LatLong": "43.7333,7.4"
-},
-{
-"Name": "Réserve Sous-marine de Monaco",
-"PostCode": "98000",
-"LatLong": "43.7458,7.4394"
-}
-]
-},
-{
 "Name": "Monaco-Ville",
 "Places": [
 {
@@ -158,6 +138,36 @@
 ]
 },
 {
+"Name": "Les Moneghetti",
+"Places": [
+{
+"Name": "Les Moneghetti",
+"PostCode": "98000",
+"LatLong": "43.7375,7.4153"
+}
+]
+},
+{
+"Name": "Monaco",
+"Places": [
+{
+"Name": "Commune de Monaco",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4"
+},
+{
+"Name": "Monaco",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4"
+},
+{
+"Name": "Réserve Sous-marine de Monaco",
+"PostCode": "98000",
+"LatLong": "43.7458,7.4394"
+}
+]
+},
+{
 "Name": "Monte-Carlo",
 "Places": [
 {
@@ -174,16 +184,6 @@
 "Name": "Pointe Focinana",
 "PostCode": "98000",
 "LatLong": "43.7333,7.4333"
-}
-]
-},
-{
-"Name": "Les Moneghetti",
-"Places": [
-{
-"Name": "Les Moneghetti",
-"PostCode": "98000",
-"LatLong": "43.7375,7.4153"
 }
 ]
 }

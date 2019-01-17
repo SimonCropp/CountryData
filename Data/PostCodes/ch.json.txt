@@ -2185,17 +2185,6 @@
 ]
 },
 {
-"Name": "Attelwil",
-"Code": "4272",
-"Places": [
-{
-"Name": "Attelwil",
-"PostCode": "5056",
-"LatLong": "47.2634,8.0397"
-}
-]
-},
-{
 "Name": "Bottenwil",
 "Code": "4273",
 "Places": [
@@ -2284,6 +2273,17 @@
 "Name": "Oftringen",
 "PostCode": "4665",
 "LatLong": "47.3138,7.9253"
+}
+]
+},
+{
+"Name": "Attelwil",
+"Code": "4281",
+"Places": [
+{
+"Name": "Attelwil",
+"PostCode": "5056",
+"LatLong": "47.2634,8.0397"
 }
 ]
 },
@@ -5661,6 +5661,17 @@
 "Code": "246",
 "Communities": [
 {
+"Name": "Golaten",
+"Code": "304",
+"Places": [
+{
+"Name": "Golaten",
+"PostCode": "3207",
+"LatLong": "46.9844,7.2352"
+}
+]
+},
+{
 "Name": "Meikirch",
 "Code": "307",
 "Places": [
@@ -6686,17 +6697,6 @@
 "Name": "Frauenkappelen",
 "PostCode": "3202",
 "LatLong": "46.9542,7.3384"
-}
-]
-},
-{
-"Name": "Golaten",
-"Code": "664",
-"Places": [
-{
-"Name": "Golaten",
-"PostCode": "3207",
-"LatLong": "46.9844,7.2352"
 }
 ]
 },
@@ -14864,44 +14864,6 @@
 ]
 },
 {
-"Name": "Hinterrhein",
-"Code": "3691",
-"Places": [
-{
-"Name": "Hinterrhein",
-"PostCode": "7438",
-"LatLong": "46.5333,9.2"
-}
-]
-},
-{
-"Name": "Nufenen",
-"Code": "3693",
-"Places": [
-{
-"Name": "Nufenen",
-"PostCode": "7437",
-"LatLong": "46.5398,9.2451"
-}
-]
-},
-{
-"Name": "Splügen",
-"Code": "3694",
-"Places": [
-{
-"Name": "Medels im Rheinwald",
-"PostCode": "7436",
-"LatLong": "46.5469,9.2941"
-},
-{
-"Name": "Splügen",
-"PostCode": "7435",
-"LatLong": "46.5518,9.3222"
-}
-]
-},
-{
 "Name": "Sufers",
 "Code": "3695",
 "Places": [
@@ -15024,6 +14986,44 @@
 "LatLong": "46.5212,9.4431"
 }
 ]
+},
+{
+"Name": "Splügen",
+"Code": "3714",
+"Places": [
+{
+"Name": "Medels im Rheinwald",
+"PostCode": "7436",
+"LatLong": "46.5469,9.2941"
+},
+{
+"Name": "Splügen",
+"PostCode": "7435",
+"LatLong": "46.5518,9.3222"
+}
+]
+},
+{
+"Name": "Nufenen",
+"Code": "3714",
+"Places": [
+{
+"Name": "Nufenen",
+"PostCode": "7437",
+"LatLong": "46.5398,9.2451"
+}
+]
+},
+{
+"Name": "Hinterrhein",
+"Code": "3714",
+"Places": [
+{
+"Name": "Hinterrhein",
+"PostCode": "7438",
+"LatLong": "46.5333,9.2"
+}
+]
 }
 ]
 }
@@ -15087,6 +15087,17 @@
 ]
 },
 {
+"Name": "Vellerat",
+"Code": "6708",
+"Places": [
+{
+"Name": "Vellerat",
+"PostCode": "2830",
+"LatLong": "47.3203,7.37"
+}
+]
+},
+{
 "Name": "Courrendlin",
 "Code": "6708",
 "Places": [
@@ -15094,6 +15105,17 @@
 "Name": "Courrendlin",
 "PostCode": "2830",
 "LatLong": "47.3385,7.3724"
+}
+]
+},
+{
+"Name": "Rebeuvelier",
+"Code": "6708",
+"Places": [
+{
+"Name": "Rebeuvelier",
+"PostCode": "2832",
+"LatLong": "47.3248,7.4094"
 }
 ]
 },
@@ -15207,17 +15229,6 @@
 ]
 },
 {
-"Name": "Rebeuvelier",
-"Code": "6720",
-"Places": [
-{
-"Name": "Rebeuvelier",
-"PostCode": "2832",
-"LatLong": "47.3248,7.4094"
-}
-]
-},
-{
 "Name": "Rossemaison",
 "Code": "6721",
 "Places": [
@@ -15247,17 +15258,6 @@
 "Name": "Soyhières",
 "PostCode": "2805",
 "LatLong": "47.3911,7.3698"
-}
-]
-},
-{
-"Name": "Vellerat",
-"Code": "6728",
-"Places": [
-{
-"Name": "Vellerat",
-"PostCode": "2830",
-"LatLong": "47.3203,7.37"
 }
 ]
 },
@@ -33723,6 +33723,44 @@
 ]
 },
 {
+"Name": "Waltalingen",
+"Code": "292",
+"Places": [
+{
+"Name": "Guntalingen",
+"PostCode": "8468",
+"LatLong": "47.6324,8.7685"
+},
+{
+"Name": "Waltalingen",
+"PostCode": "8468",
+"LatLong": "47.622,8.7782"
+}
+]
+},
+{
+"Name": "Unterstammheim",
+"Code": "292",
+"Places": [
+{
+"Name": "Unterstammheim",
+"PostCode": "8476",
+"LatLong": "47.6392,8.7906"
+}
+]
+},
+{
+"Name": "Oberstammheim",
+"Code": "292",
+"Places": [
+{
+"Name": "Oberstammheim",
+"PostCode": "8477",
+"LatLong": "47.6324,8.7996"
+}
+]
+},
+{
 "Name": "Andelfingen",
 "Code": "30",
 "Places": [
@@ -33809,17 +33847,6 @@
 ]
 },
 {
-"Name": "Oberstammheim",
-"Code": "36",
-"Places": [
-{
-"Name": "Oberstammheim",
-"PostCode": "8477",
-"LatLong": "47.6324,8.7996"
-}
-]
-},
-{
 "Name": "Ossingen",
 "Code": "37",
 "Places": [
@@ -33885,17 +33912,6 @@
 ]
 },
 {
-"Name": "Unterstammheim",
-"Code": "42",
-"Places": [
-{
-"Name": "Unterstammheim",
-"PostCode": "8476",
-"LatLong": "47.6392,8.7906"
-}
-]
-},
-{
 "Name": "Volken",
 "Code": "43",
 "Places": [
@@ -33903,22 +33919,6 @@
 "Name": "Volken",
 "PostCode": "8459",
 "LatLong": "47.5748,8.6258"
-}
-]
-},
-{
-"Name": "Waltalingen",
-"Code": "44",
-"Places": [
-{
-"Name": "Guntalingen",
-"PostCode": "8468",
-"LatLong": "47.6324,8.7685"
-},
-{
-"Name": "Waltalingen",
-"PostCode": "8468",
-"LatLong": "47.622,8.7782"
 }
 ]
 }
@@ -34709,17 +34709,6 @@
 ]
 },
 {
-"Name": "Hütten",
-"Code": "134",
-"Places": [
-{
-"Name": "Hütten",
-"PostCode": "8825",
-"LatLong": "47.1757,8.6665"
-}
-]
-},
-{
 "Name": "Kilchberg (ZH)",
 "Code": "135",
 "Places": [
@@ -34780,17 +34769,6 @@
 ]
 },
 {
-"Name": "Schönenberg (ZH)",
-"Code": "140",
-"Places": [
-{
-"Name": "Schönenberg ZH",
-"PostCode": "8824",
-"LatLong": "47.1918,8.6449"
-}
-]
-},
-{
 "Name": "Thalwil",
 "Code": "141",
 "Places": [
@@ -34808,7 +34786,7 @@
 },
 {
 "Name": "Wädenswil",
-"Code": "142",
+"Code": "293",
 "Places": [
 {
 "Name": "Au ZH",
@@ -34819,6 +34797,28 @@
 "Name": "Wädenswil",
 "PostCode": "8820",
 "LatLong": "47.2268,8.6687"
+}
+]
+},
+{
+"Name": "Schönenberg (ZH)",
+"Code": "293",
+"Places": [
+{
+"Name": "Schönenberg ZH",
+"PostCode": "8824",
+"LatLong": "47.1918,8.6449"
+}
+]
+},
+{
+"Name": "Hütten",
+"Code": "293",
+"Places": [
+{
+"Name": "Hütten",
+"PostCode": "8825",
+"LatLong": "47.1757,8.6665"
 }
 ]
 }
