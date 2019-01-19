@@ -2,6 +2,35 @@
 {
 "Provinces": [
 {
+"Name": "Palangos m. sav.",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Palanga",
+"PostCode": "00001",
+"LatLong": "55.9175,21.0686"
+},
+{
+"Name": "Palanga",
+"PostCode": "00009",
+"LatLong": "55.9175,21.0686"
+},
+{
+"Name": "SB „Bočiai“",
+"PostCode": "00001",
+"LatLong": "55.9175,21.0686"
+},
+{
+"Name": "SB „Pavėsis“",
+"PostCode": "00001",
+"LatLong": "55.9175,21.0686"
+}
+]
+}
+]
+},
+{
 "Name": "Klaipėdos r. sav.",
 "Communities": [
 {
@@ -1700,35 +1729,6 @@
 "Name": "Žvirblių k.",
 "PostCode": "96001",
 "LatLong": "55.7128,21.4033"
-}
-]
-}
-]
-},
-{
-"Name": "Palangos m. sav.",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Palanga",
-"PostCode": "00001",
-"LatLong": "55.9175,21.0686"
-},
-{
-"Name": "Palanga",
-"PostCode": "00009",
-"LatLong": "55.9175,21.0686"
-},
-{
-"Name": "SB „Bočiai“",
-"PostCode": "00001",
-"LatLong": "55.9175,21.0686"
-},
-{
-"Name": "SB „Pavėsis“",
-"PostCode": "00001",
-"LatLong": "55.9175,21.0686"
 }
 ]
 }
@@ -45031,85 +45031,6 @@
 ]
 },
 {
-"Name": "Panevėžio m. sav.",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Panevėžys",
-"PostCode": "35001",
-"LatLong": "55.7333,24.35"
-},
-{
-"Name": "Panevėžys",
-"PostCode": "36001",
-"LatLong": "55.7333,24.35"
-},
-{
-"Name": "Panevėžys",
-"PostCode": "36010",
-"LatLong": "55.7333,24.35"
-},
-{
-"Name": "Panevėžys",
-"PostCode": "37001",
-"LatLong": "55.7333,24.35"
-},
-{
-"Name": "Panevėžys",
-"PostCode": "37005",
-"LatLong": "55.7333,24.35"
-},
-{
-"Name": "Panevėžys",
-"PostCode": "37010",
-"LatLong": "55.7333,24.35"
-},
-{
-"Name": "Panevėžys",
-"PostCode": "38007",
-"LatLong": "55.7333,24.35"
-},
-{
-"Name": "Panevėžys",
-"PostCode": "38052",
-"LatLong": "55.7333,24.35"
-},
-{
-"Name": "Panevėžys",
-"PostCode": "38082",
-"LatLong": "55.7333,24.35"
-},
-{
-"Name": "SB „Ąžuolas“",
-"PostCode": "36010",
-"LatLong": "55.7333,24.35"
-},
-{
-"Name": "SB „Ekranas-1“",
-"PostCode": "37010",
-"LatLong": "55.7333,24.35"
-},
-{
-"Name": "SB „Klevas“",
-"PostCode": "37001",
-"LatLong": "55.7333,24.35"
-},
-{
-"Name": "SB „Rūta“",
-"PostCode": "37010",
-"LatLong": "55.7333,24.35"
-},
-{
-"Name": "SB „Šermutas“",
-"PostCode": "37001",
-"LatLong": "55.7333,24.35"
-}
-]
-}
-]
-},
-{
 "Name": "Panevėžio r. sav.",
 "Communities": [
 {
@@ -48707,6 +48628,85 @@
 "Name": "Žydelių k.",
 "PostCode": "38043",
 "LatLong": "55.55,24.1"
+}
+]
+}
+]
+},
+{
+"Name": "Panevėžio m. sav.",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Panevėžys",
+"PostCode": "35001",
+"LatLong": "55.7333,24.35"
+},
+{
+"Name": "Panevėžys",
+"PostCode": "36001",
+"LatLong": "55.7333,24.35"
+},
+{
+"Name": "Panevėžys",
+"PostCode": "36010",
+"LatLong": "55.7333,24.35"
+},
+{
+"Name": "Panevėžys",
+"PostCode": "37001",
+"LatLong": "55.7333,24.35"
+},
+{
+"Name": "Panevėžys",
+"PostCode": "37005",
+"LatLong": "55.7333,24.35"
+},
+{
+"Name": "Panevėžys",
+"PostCode": "37010",
+"LatLong": "55.7333,24.35"
+},
+{
+"Name": "Panevėžys",
+"PostCode": "38007",
+"LatLong": "55.7333,24.35"
+},
+{
+"Name": "Panevėžys",
+"PostCode": "38052",
+"LatLong": "55.7333,24.35"
+},
+{
+"Name": "Panevėžys",
+"PostCode": "38082",
+"LatLong": "55.7333,24.35"
+},
+{
+"Name": "SB „Ąžuolas“",
+"PostCode": "36010",
+"LatLong": "55.7333,24.35"
+},
+{
+"Name": "SB „Ekranas-1“",
+"PostCode": "37010",
+"LatLong": "55.7333,24.35"
+},
+{
+"Name": "SB „Klevas“",
+"PostCode": "37001",
+"LatLong": "55.7333,24.35"
+},
+{
+"Name": "SB „Rūta“",
+"PostCode": "37010",
+"LatLong": "55.7333,24.35"
+},
+{
+"Name": "SB „Šermutas“",
+"PostCode": "37001",
+"LatLong": "55.7333,24.35"
 }
 ]
 }

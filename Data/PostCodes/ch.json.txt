@@ -2277,20 +2277,14 @@
 ]
 },
 {
-"Name": "Attelwil",
+"Name": "Reitnau",
 "Code": "4281",
 "Places": [
 {
 "Name": "Attelwil",
 "PostCode": "5056",
 "LatLong": "47.2634,8.0397"
-}
-]
 },
-{
-"Name": "Reitnau",
-"Code": "4281",
-"Places": [
 {
 "Name": "Reitnau",
 "PostCode": "5057",
@@ -5661,7 +5655,7 @@
 "Code": "246",
 "Communities": [
 {
-"Name": "Golaten",
+"Name": "Kallnach",
 "Code": "304",
 "Places": [
 {
@@ -14988,40 +14982,28 @@
 ]
 },
 {
-"Name": "Splügen",
-"Code": "3714",
-"Places": [
-{
-"Name": "Medels im Rheinwald",
-"PostCode": "7436",
-"LatLong": "46.5469,9.2941"
-},
-{
-"Name": "Splügen",
-"PostCode": "7435",
-"LatLong": "46.5518,9.3222"
-}
-]
-},
-{
-"Name": "Nufenen",
-"Code": "3714",
-"Places": [
-{
-"Name": "Nufenen",
-"PostCode": "7437",
-"LatLong": "46.5398,9.2451"
-}
-]
-},
-{
-"Name": "Hinterrhein",
+"Name": "Rheinwald",
 "Code": "3714",
 "Places": [
 {
 "Name": "Hinterrhein",
 "PostCode": "7438",
 "LatLong": "46.5333,9.2"
+},
+{
+"Name": "Medels im Rheinwald",
+"PostCode": "7436",
+"LatLong": "46.5469,9.2941"
+},
+{
+"Name": "Nufenen",
+"PostCode": "7437",
+"LatLong": "46.5398,9.2451"
+},
+{
+"Name": "Splügen",
+"PostCode": "7435",
+"LatLong": "46.5518,9.3222"
 }
 ]
 }
@@ -15087,17 +15069,6 @@
 ]
 },
 {
-"Name": "Vellerat",
-"Code": "6708",
-"Places": [
-{
-"Name": "Vellerat",
-"PostCode": "2830",
-"LatLong": "47.3203,7.37"
-}
-]
-},
-{
 "Name": "Courrendlin",
 "Code": "6708",
 "Places": [
@@ -15105,17 +15076,16 @@
 "Name": "Courrendlin",
 "PostCode": "2830",
 "LatLong": "47.3385,7.3724"
-}
-]
 },
-{
-"Name": "Rebeuvelier",
-"Code": "6708",
-"Places": [
 {
 "Name": "Rebeuvelier",
 "PostCode": "2832",
 "LatLong": "47.3248,7.4094"
+},
+{
+"Name": "Vellerat",
+"PostCode": "2830",
+"LatLong": "47.3203,7.37"
 }
 ]
 },
@@ -33723,7 +33693,7 @@
 ]
 },
 {
-"Name": "Waltalingen",
+"Name": "Stammheim",
 "Code": "292",
 "Places": [
 {
@@ -33732,31 +33702,19 @@
 "LatLong": "47.6324,8.7685"
 },
 {
-"Name": "Waltalingen",
-"PostCode": "8468",
-"LatLong": "47.622,8.7782"
-}
-]
+"Name": "Oberstammheim",
+"PostCode": "8477",
+"LatLong": "47.6324,8.7996"
 },
-{
-"Name": "Unterstammheim",
-"Code": "292",
-"Places": [
 {
 "Name": "Unterstammheim",
 "PostCode": "8476",
 "LatLong": "47.6392,8.7906"
-}
-]
 },
 {
-"Name": "Oberstammheim",
-"Code": "292",
-"Places": [
-{
-"Name": "Oberstammheim",
-"PostCode": "8477",
-"LatLong": "47.6324,8.7996"
+"Name": "Waltalingen",
+"PostCode": "8468",
+"LatLong": "47.622,8.7782"
 }
 ]
 },
@@ -34794,31 +34752,19 @@
 "LatLong": "47.2418,8.6441"
 },
 {
-"Name": "Wädenswil",
-"PostCode": "8820",
-"LatLong": "47.2268,8.6687"
-}
-]
+"Name": "Hütten",
+"PostCode": "8825",
+"LatLong": "47.1757,8.6665"
 },
-{
-"Name": "Schönenberg (ZH)",
-"Code": "293",
-"Places": [
 {
 "Name": "Schönenberg ZH",
 "PostCode": "8824",
 "LatLong": "47.1918,8.6449"
-}
-]
 },
 {
-"Name": "Hütten",
-"Code": "293",
-"Places": [
-{
-"Name": "Hütten",
-"PostCode": "8825",
-"LatLong": "47.1757,8.6665"
+"Name": "Wädenswil",
+"PostCode": "8820",
+"LatLong": "47.2268,8.6687"
 }
 ]
 }
