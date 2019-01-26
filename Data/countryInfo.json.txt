@@ -1,23 +1,14 @@
 [
 {
-"Name": "Andorra",
-"Iso": "AD",
-"Iso3": "AND",
-"IsoNumeric": 20,
-"Fips": "AN",
-"Capital": "Andorra la Vella",
-"Area": 468.0,
+"Name": "Antarctica",
+"Iso": "AQ",
+"Iso3": "ATA",
+"IsoNumeric": 10,
+"Fips": "AY",
+"Area": 14000000.0,
 "Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".ad",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "376",
-"PostCodeFormat": "AD###",
-"PostCodeRegex": "^(?:AD)*(\\d{3})$",
-"Languages": [
-"ca"
-]
+"Continent": "AN",
+"TopLevelDomain": ".aq"
 },
 {
 "Name": "United Arab Emirates",
@@ -63,42 +54,6 @@
 ]
 },
 {
-"Name": "Antigua and Barbuda",
-"Iso": "AG",
-"Iso3": "ATG",
-"IsoNumeric": 28,
-"Fips": "AC",
-"Capital": "St. John's",
-"Area": 443.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".ag",
-"CurrencyCode": "XCD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "+1-268",
-"Languages": [
-"en-AG"
-]
-},
-{
-"Name": "Anguilla",
-"Iso": "AI",
-"Iso3": "AIA",
-"IsoNumeric": 660,
-"Fips": "AV",
-"Capital": "The Valley",
-"Area": 102.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".ai",
-"CurrencyCode": "XCD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "+1-264",
-"Languages": [
-"en-AI"
-]
-},
-{
 "Name": "Albania",
 "Iso": "AL",
 "Iso3": "ALB",
@@ -140,6 +95,64 @@
 ]
 },
 {
+"Name": "Curacao",
+"Iso": "CW",
+"Iso3": "CUW",
+"IsoNumeric": 531,
+"Fips": "UC",
+"Capital": "Willemstad",
+"Area": 444.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".cw",
+"CurrencyCode": "ANG",
+"CurrencyName": "Guilder",
+"PhonePrefix": "599",
+"Languages": [
+"nl",
+"pap"
+]
+},
+{
+"Name": "Sint Maarten",
+"Iso": "SX",
+"Iso3": "SXM",
+"IsoNumeric": 534,
+"Fips": "NN",
+"Capital": "Philipsburg",
+"Area": 21.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".sx",
+"CurrencyCode": "ANG",
+"CurrencyName": "Guilder",
+"PhonePrefix": "599",
+"Languages": [
+"nl",
+"en"
+]
+},
+{
+"Name": "Netherlands Antilles",
+"Iso": "AN",
+"Iso3": "ANT",
+"IsoNumeric": 530,
+"Fips": "NT",
+"Capital": "Willemstad",
+"Area": 960.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".an",
+"CurrencyCode": "ANG",
+"CurrencyName": "Guilder",
+"PhonePrefix": "599",
+"Languages": [
+"nl-AN",
+"en",
+"es"
+]
+},
+{
 "Name": "Angola",
 "Iso": "AO",
 "Iso3": "AGO",
@@ -156,17 +169,6 @@
 "Languages": [
 "pt-AO"
 ]
-},
-{
-"Name": "Antarctica",
-"Iso": "AQ",
-"Iso3": "ATA",
-"IsoNumeric": 10,
-"Fips": "AY",
-"Area": 14000000.0,
-"Population": 0,
-"Continent": "AN",
-"TopLevelDomain": ".aq"
 },
 {
 "Name": "Argentina",
@@ -194,51 +196,6 @@
 ]
 },
 {
-"Name": "American Samoa",
-"Iso": "AS",
-"Iso3": "ASM",
-"IsoNumeric": 16,
-"Fips": "AQ",
-"Capital": "Pago Pago",
-"Area": 199.0,
-"Population": 0,
-"Continent": "OC",
-"TopLevelDomain": ".as",
-"CurrencyCode": "USD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "+1-684",
-"PostCodeFormat": "#####-####",
-"PostCodeRegex": "96799",
-"Languages": [
-"en-AS",
-"sm",
-"to"
-]
-},
-{
-"Name": "Austria",
-"Iso": "AT",
-"Iso3": "AUT",
-"IsoNumeric": 40,
-"Fips": "AU",
-"Capital": "Vienna",
-"Area": 83858.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".at",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "43",
-"PostCodeFormat": "####",
-"PostCodeRegex": "^(\\d{4})$",
-"Languages": [
-"de-AT",
-"hr",
-"hu",
-"sl"
-]
-},
-{
 "Name": "Australia",
 "Iso": "AU",
 "Iso3": "AUS",
@@ -256,6 +213,140 @@
 "PostCodeRegex": "^(\\d{4})$",
 "Languages": [
 "en-AU"
+]
+},
+{
+"Name": "Cocos Islands",
+"Iso": "CC",
+"Iso3": "CCK",
+"IsoNumeric": 166,
+"Fips": "CK",
+"Capital": "West Island",
+"Area": 14.0,
+"Population": 0,
+"Continent": "AS",
+"TopLevelDomain": ".cc",
+"CurrencyCode": "AUD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "61",
+"Languages": [
+"ms-CC",
+"en"
+]
+},
+{
+"Name": "Christmas Island",
+"Iso": "CX",
+"Iso3": "CXR",
+"IsoNumeric": 162,
+"Fips": "KT",
+"Capital": "Flying Fish Cove",
+"Area": 135.0,
+"Population": 0,
+"Continent": "OC",
+"TopLevelDomain": ".cx",
+"CurrencyCode": "AUD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "61",
+"PostCodeFormat": "####",
+"PostCodeRegex": "^(\\d{4})$",
+"Languages": [
+"en",
+"zh",
+"ms-CC"
+]
+},
+{
+"Name": "Heard Island and McDonald Islands",
+"Iso": "HM",
+"Iso3": "HMD",
+"IsoNumeric": 334,
+"Fips": "HM",
+"Area": 412.0,
+"Population": 0,
+"Continent": "AN",
+"TopLevelDomain": ".hm",
+"CurrencyCode": "AUD",
+"CurrencyName": "Dollar",
+"PhonePrefix": ""
+},
+{
+"Name": "Kiribati",
+"Iso": "KI",
+"Iso3": "KIR",
+"IsoNumeric": 296,
+"Fips": "KR",
+"Capital": "Tarawa",
+"Area": 811.0,
+"Population": 0,
+"Continent": "OC",
+"TopLevelDomain": ".ki",
+"CurrencyCode": "AUD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "686",
+"Languages": [
+"en-KI",
+"gil"
+]
+},
+{
+"Name": "Norfolk Island",
+"Iso": "NF",
+"Iso3": "NFK",
+"IsoNumeric": 574,
+"Fips": "NF",
+"Capital": "Kingston",
+"Area": 34.6,
+"Population": 0,
+"Continent": "OC",
+"TopLevelDomain": ".nf",
+"CurrencyCode": "AUD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "672",
+"PostCodeFormat": "####",
+"PostCodeRegex": "^(\\d{4})$",
+"Languages": [
+"en-NF"
+]
+},
+{
+"Name": "Nauru",
+"Iso": "NR",
+"Iso3": "NRU",
+"IsoNumeric": 520,
+"Fips": "NR",
+"Capital": "Yaren",
+"Area": 21.0,
+"Population": 0,
+"Continent": "OC",
+"TopLevelDomain": ".nr",
+"CurrencyCode": "AUD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "674",
+"Languages": [
+"na",
+"en-NR"
+]
+},
+{
+"Name": "Tuvalu",
+"Iso": "TV",
+"Iso3": "TUV",
+"IsoNumeric": 798,
+"Fips": "TV",
+"Capital": "Funafuti",
+"Area": 26.0,
+"Population": 0,
+"Continent": "OC",
+"TopLevelDomain": ".tv",
+"CurrencyCode": "AUD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "688",
+"Languages": [
+"tvl",
+"en",
+"sm",
+"gil"
 ]
 },
 {
@@ -277,25 +368,6 @@
 "pap",
 "es",
 "en"
-]
-},
-{
-"Name": "Aland Islands",
-"Iso": "AX",
-"Iso3": "ALA",
-"IsoNumeric": 248,
-"Capital": "Mariehamn",
-"Area": 1580.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".ax",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "+358-18",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(?:FI)*(\\d{5})$",
-"Languages": [
-"sv-AX"
 ]
 },
 {
@@ -384,47 +456,6 @@
 ]
 },
 {
-"Name": "Belgium",
-"Iso": "BE",
-"Iso3": "BEL",
-"IsoNumeric": 56,
-"Fips": "BE",
-"Capital": "Brussels",
-"Area": 30510.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".be",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "32",
-"PostCodeFormat": "####",
-"PostCodeRegex": "^(\\d{4})$",
-"Languages": [
-"nl-BE",
-"fr-BE",
-"de-BE"
-]
-},
-{
-"Name": "Burkina Faso",
-"Iso": "BF",
-"Iso3": "BFA",
-"IsoNumeric": 854,
-"Fips": "UV",
-"Capital": "Ouagadougou",
-"Area": 274200.0,
-"Population": 0,
-"Continent": "AF",
-"TopLevelDomain": ".bf",
-"CurrencyCode": "XOF",
-"CurrencyName": "Franc",
-"PhonePrefix": "226",
-"Languages": [
-"fr-BF",
-"mos"
-]
-},
-{
 "Name": "Bulgaria",
 "Iso": "BG",
 "Iso3": "BGR",
@@ -486,44 +517,6 @@
 "Languages": [
 "fr-BI",
 "rn"
-]
-},
-{
-"Name": "Benin",
-"Iso": "BJ",
-"Iso3": "BEN",
-"IsoNumeric": 204,
-"Fips": "BN",
-"Capital": "Porto-Novo",
-"Area": 112620.0,
-"Population": 0,
-"Continent": "AF",
-"TopLevelDomain": ".bj",
-"CurrencyCode": "XOF",
-"CurrencyName": "Franc",
-"PhonePrefix": "229",
-"Languages": [
-"fr-BJ"
-]
-},
-{
-"Name": "Saint Barthelemy",
-"Iso": "BL",
-"Iso3": "BLM",
-"IsoNumeric": 652,
-"Fips": "TB",
-"Capital": "Gustavia",
-"Area": 21.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".gp",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "590",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(\\d{5})$",
-"Languages": [
-"fr"
 ]
 },
 {
@@ -589,24 +582,6 @@
 ]
 },
 {
-"Name": "Bonaire, Saint Eustatius and Saba",
-"Iso": "BQ",
-"Iso3": "BES",
-"IsoNumeric": 535,
-"Area": 328.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".bq",
-"CurrencyCode": "USD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "599",
-"Languages": [
-"nl",
-"pap",
-"en"
-]
-},
-{
 "Name": "Brazil",
 "Iso": "BR",
 "Iso3": "BRA",
@@ -664,19 +639,6 @@
 "Languages": [
 "dz"
 ]
-},
-{
-"Name": "Bouvet Island",
-"Iso": "BV",
-"Iso3": "BVT",
-"IsoNumeric": 74,
-"Fips": "BV",
-"Area": 49.0,
-"Population": 0,
-"Continent": "AN",
-"TopLevelDomain": ".bv",
-"CurrencyCode": "NOK",
-"CurrencyName": "Krone"
 },
 {
 "Name": "Botswana",
@@ -760,25 +722,6 @@
 ]
 },
 {
-"Name": "Cocos Islands",
-"Iso": "CC",
-"Iso3": "CCK",
-"IsoNumeric": 166,
-"Fips": "CK",
-"Capital": "West Island",
-"Area": 14.0,
-"Population": 0,
-"Continent": "AS",
-"TopLevelDomain": ".cc",
-"CurrencyCode": "AUD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "61",
-"Languages": [
-"ms-CC",
-"en"
-]
-},
-{
 "Name": "Democratic Republic of the Congo",
 "Iso": "CD",
 "Iso3": "COD",
@@ -799,47 +742,6 @@
 "kg",
 "sw",
 "lua"
-]
-},
-{
-"Name": "Central African Republic",
-"Iso": "CF",
-"Iso3": "CAF",
-"IsoNumeric": 140,
-"Fips": "CT",
-"Capital": "Bangui",
-"Area": 622984.0,
-"Population": 0,
-"Continent": "AF",
-"TopLevelDomain": ".cf",
-"CurrencyCode": "XAF",
-"CurrencyName": "Franc",
-"PhonePrefix": "236",
-"Languages": [
-"fr-CF",
-"sg",
-"ln",
-"kg"
-]
-},
-{
-"Name": "Republic of the Congo",
-"Iso": "CG",
-"Iso3": "COG",
-"IsoNumeric": 178,
-"Fips": "CF",
-"Capital": "Brazzaville",
-"Area": 342000.0,
-"Population": 0,
-"Continent": "AF",
-"TopLevelDomain": ".cg",
-"CurrencyCode": "XAF",
-"CurrencyName": "Franc",
-"PhonePrefix": "242",
-"Languages": [
-"fr-CG",
-"kg",
-"ln-CG"
 ]
 },
 {
@@ -866,40 +768,23 @@
 ]
 },
 {
-"Name": "Ivory Coast",
-"Iso": "CI",
-"Iso3": "CIV",
-"IsoNumeric": 384,
-"Fips": "IV",
-"Capital": "Yamoussoukro",
-"Area": 322460.0,
+"Name": "Liechtenstein",
+"Iso": "LI",
+"Iso3": "LIE",
+"IsoNumeric": 438,
+"Fips": "LS",
+"Capital": "Vaduz",
+"Area": 160.0,
 "Population": 0,
-"Continent": "AF",
-"TopLevelDomain": ".ci",
-"CurrencyCode": "XOF",
+"Continent": "EU",
+"TopLevelDomain": ".li",
+"CurrencyCode": "CHF",
 "CurrencyName": "Franc",
-"PhonePrefix": "225",
+"PhonePrefix": "423",
+"PostCodeFormat": "####",
+"PostCodeRegex": "^(\\d{4})$",
 "Languages": [
-"fr-CI"
-]
-},
-{
-"Name": "Cook Islands",
-"Iso": "CK",
-"Iso3": "COK",
-"IsoNumeric": 184,
-"Fips": "CW",
-"Capital": "Avarua",
-"Area": 240.0,
-"Population": 0,
-"Continent": "OC",
-"TopLevelDomain": ".ck",
-"CurrencyCode": "NZD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "682",
-"Languages": [
-"en-CK",
-"mi"
+"de-LI"
 ]
 },
 {
@@ -920,25 +805,6 @@
 "PostCodeRegex": "^(\\d{7})$",
 "Languages": [
 "es-CL"
-]
-},
-{
-"Name": "Cameroon",
-"Iso": "CM",
-"Iso3": "CMR",
-"IsoNumeric": 120,
-"Fips": "CM",
-"Capital": "Yaounde",
-"Area": 475440.0,
-"Population": 0,
-"Continent": "AF",
-"TopLevelDomain": ".cm",
-"CurrencyCode": "XAF",
-"CurrencyName": "Franc",
-"PhonePrefix": "237",
-"Languages": [
-"en-CM",
-"fr-CM"
 ]
 },
 {
@@ -1049,69 +915,6 @@
 ]
 },
 {
-"Name": "Curacao",
-"Iso": "CW",
-"Iso3": "CUW",
-"IsoNumeric": 531,
-"Fips": "UC",
-"Capital": "Willemstad",
-"Area": 444.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".cw",
-"CurrencyCode": "ANG",
-"CurrencyName": "Guilder",
-"PhonePrefix": "599",
-"Languages": [
-"nl",
-"pap"
-]
-},
-{
-"Name": "Christmas Island",
-"Iso": "CX",
-"Iso3": "CXR",
-"IsoNumeric": 162,
-"Fips": "KT",
-"Capital": "Flying Fish Cove",
-"Area": 135.0,
-"Population": 0,
-"Continent": "OC",
-"TopLevelDomain": ".cx",
-"CurrencyCode": "AUD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "61",
-"PostCodeFormat": "####",
-"PostCodeRegex": "^(\\d{4})$",
-"Languages": [
-"en",
-"zh",
-"ms-CC"
-]
-},
-{
-"Name": "Cyprus",
-"Iso": "CY",
-"Iso3": "CYP",
-"IsoNumeric": 196,
-"Fips": "CY",
-"Capital": "Nicosia",
-"Area": 9250.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".cy",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "357",
-"PostCodeFormat": "####",
-"PostCodeRegex": "^(\\d{4})$",
-"Languages": [
-"el-CY",
-"tr-CY",
-"en"
-]
-},
-{
 "Name": "Czechia",
 "Iso": "CZ",
 "Iso3": "CZE",
@@ -1130,26 +933,6 @@
 "Languages": [
 "cs",
 "sk"
-]
-},
-{
-"Name": "Germany",
-"Iso": "DE",
-"Iso3": "DEU",
-"IsoNumeric": 276,
-"Fips": "GM",
-"Capital": "Berlin",
-"Area": 357021.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".de",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "49",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(\\d{5})$",
-"Languages": [
-"de"
 ]
 },
 {
@@ -1197,21 +980,46 @@
 ]
 },
 {
-"Name": "Dominica",
-"Iso": "DM",
-"Iso3": "DMA",
-"IsoNumeric": 212,
-"Fips": "DO",
-"Capital": "Roseau",
-"Area": 754.0,
+"Name": "Faroe Islands",
+"Iso": "FO",
+"Iso3": "FRO",
+"IsoNumeric": 234,
+"Fips": "FO",
+"Capital": "Torshavn",
+"Area": 1399.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".fo",
+"CurrencyCode": "DKK",
+"CurrencyName": "Krone",
+"PhonePrefix": "298",
+"PostCodeFormat": "###",
+"PostCodeRegex": "^(?:FO)*(\\d{3})$",
+"Languages": [
+"fo",
+"da-FO"
+]
+},
+{
+"Name": "Greenland",
+"Iso": "GL",
+"Iso3": "GRL",
+"IsoNumeric": 304,
+"Fips": "GL",
+"Capital": "Nuuk",
+"Area": 2166086.0,
 "Population": 0,
 "Continent": "NA",
-"TopLevelDomain": ".dm",
-"CurrencyCode": "XCD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "+1-767",
+"TopLevelDomain": ".gl",
+"CurrencyCode": "DKK",
+"CurrencyName": "Krone",
+"PhonePrefix": "299",
+"PostCodeFormat": "####",
+"PostCodeRegex": "^(\\d{4})$",
 "Languages": [
-"en-DM"
+"kl",
+"da-GL",
+"en"
 ]
 },
 {
@@ -1255,47 +1063,6 @@
 ]
 },
 {
-"Name": "Ecuador",
-"Iso": "EC",
-"Iso3": "ECU",
-"IsoNumeric": 218,
-"Fips": "EC",
-"Capital": "Quito",
-"Area": 283560.0,
-"Population": 0,
-"Continent": "SA",
-"TopLevelDomain": ".ec",
-"CurrencyCode": "USD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "593",
-"PostCodeFormat": "@####@",
-"PostCodeRegex": "^([a-zA-Z]\\d{4}[a-zA-Z])$",
-"Languages": [
-"es-EC"
-]
-},
-{
-"Name": "Estonia",
-"Iso": "EE",
-"Iso3": "EST",
-"IsoNumeric": 233,
-"Fips": "EN",
-"Capital": "Tallinn",
-"Area": 45226.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".ee",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "372",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(\\d{5})$",
-"Languages": [
-"et",
-"ru"
-]
-},
-{
 "Name": "Egypt",
 "Iso": "EG",
 "Iso3": "EGY",
@@ -1318,25 +1085,6 @@
 ]
 },
 {
-"Name": "Western Sahara",
-"Iso": "EH",
-"Iso3": "ESH",
-"IsoNumeric": 732,
-"Fips": "WI",
-"Capital": "El-Aaiun",
-"Area": 266000.0,
-"Population": 0,
-"Continent": "AF",
-"TopLevelDomain": ".eh",
-"CurrencyCode": "MAD",
-"CurrencyName": "Dirham",
-"PhonePrefix": "212",
-"Languages": [
-"ar",
-"mey"
-]
-},
-{
 "Name": "Eritrea",
 "Iso": "ER",
 "Iso3": "ERI",
@@ -1356,30 +1104,6 @@
 "tig",
 "kun",
 "ti-ER"
-]
-},
-{
-"Name": "Spain",
-"Iso": "ES",
-"Iso3": "ESP",
-"IsoNumeric": 724,
-"Fips": "SP",
-"Capital": "Madrid",
-"Area": 504782.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".es",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "34",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(\\d{5})$",
-"Languages": [
-"es-ES",
-"ca",
-"gl",
-"eu",
-"oc"
 ]
 },
 {
@@ -1408,6 +1132,197 @@
 ]
 },
 {
+"Name": "Andorra",
+"Iso": "AD",
+"Iso3": "AND",
+"IsoNumeric": 20,
+"Fips": "AN",
+"Capital": "Andorra la Vella",
+"Area": 468.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".ad",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "376",
+"PostCodeFormat": "AD###",
+"PostCodeRegex": "^(?:AD)*(\\d{3})$",
+"Languages": [
+"ca"
+]
+},
+{
+"Name": "Austria",
+"Iso": "AT",
+"Iso3": "AUT",
+"IsoNumeric": 40,
+"Fips": "AU",
+"Capital": "Vienna",
+"Area": 83858.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".at",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "43",
+"PostCodeFormat": "####",
+"PostCodeRegex": "^(\\d{4})$",
+"Languages": [
+"de-AT",
+"hr",
+"hu",
+"sl"
+]
+},
+{
+"Name": "Aland Islands",
+"Iso": "AX",
+"Iso3": "ALA",
+"IsoNumeric": 248,
+"Capital": "Mariehamn",
+"Area": 1580.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".ax",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "+358-18",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(?:FI)*(\\d{5})$",
+"Languages": [
+"sv-AX"
+]
+},
+{
+"Name": "Belgium",
+"Iso": "BE",
+"Iso3": "BEL",
+"IsoNumeric": 56,
+"Fips": "BE",
+"Capital": "Brussels",
+"Area": 30510.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".be",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "32",
+"PostCodeFormat": "####",
+"PostCodeRegex": "^(\\d{4})$",
+"Languages": [
+"nl-BE",
+"fr-BE",
+"de-BE"
+]
+},
+{
+"Name": "Saint Barthelemy",
+"Iso": "BL",
+"Iso3": "BLM",
+"IsoNumeric": 652,
+"Fips": "TB",
+"Capital": "Gustavia",
+"Area": 21.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".gp",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "590",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
+"Languages": [
+"fr"
+]
+},
+{
+"Name": "Cyprus",
+"Iso": "CY",
+"Iso3": "CYP",
+"IsoNumeric": 196,
+"Fips": "CY",
+"Capital": "Nicosia",
+"Area": 9250.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".cy",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "357",
+"PostCodeFormat": "####",
+"PostCodeRegex": "^(\\d{4})$",
+"Languages": [
+"el-CY",
+"tr-CY",
+"en"
+]
+},
+{
+"Name": "Germany",
+"Iso": "DE",
+"Iso3": "DEU",
+"IsoNumeric": 276,
+"Fips": "GM",
+"Capital": "Berlin",
+"Area": 357021.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".de",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "49",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
+"Languages": [
+"de"
+]
+},
+{
+"Name": "Estonia",
+"Iso": "EE",
+"Iso3": "EST",
+"IsoNumeric": 233,
+"Fips": "EN",
+"Capital": "Tallinn",
+"Area": 45226.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".ee",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "372",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
+"Languages": [
+"et",
+"ru"
+]
+},
+{
+"Name": "Spain",
+"Iso": "ES",
+"Iso3": "ESP",
+"IsoNumeric": 724,
+"Fips": "SP",
+"Capital": "Madrid",
+"Area": 504782.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".es",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "34",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
+"Languages": [
+"es-ES",
+"ca",
+"gl",
+"eu",
+"oc"
+]
+},
+{
 "Name": "Finland",
 "Iso": "FI",
 "Iso3": "FIN",
@@ -1427,6 +1342,535 @@
 "fi-FI",
 "sv-FI",
 "smn"
+]
+},
+{
+"Name": "France",
+"Iso": "FR",
+"Iso3": "FRA",
+"IsoNumeric": 250,
+"Fips": "FR",
+"Capital": "Paris",
+"Area": 547030.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".fr",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "33",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
+"Languages": [
+"fr-FR",
+"frp",
+"br",
+"co",
+"ca",
+"eu",
+"oc"
+]
+},
+{
+"Name": "French Guiana",
+"Iso": "GF",
+"Iso3": "GUF",
+"IsoNumeric": 254,
+"Fips": "FG",
+"Capital": "Cayenne",
+"Area": 91000.0,
+"Population": 0,
+"Continent": "SA",
+"TopLevelDomain": ".gf",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "594",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^((97|98)3\\d{2})$",
+"Languages": [
+"fr-GF"
+]
+},
+{
+"Name": "Guadeloupe",
+"Iso": "GP",
+"Iso3": "GLP",
+"IsoNumeric": 312,
+"Fips": "GP",
+"Capital": "Basse-Terre",
+"Area": 1780.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".gp",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "590",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^((97|98)\\d{3})$",
+"Languages": [
+"fr-GP"
+]
+},
+{
+"Name": "Greece",
+"Iso": "GR",
+"Iso3": "GRC",
+"IsoNumeric": 300,
+"Fips": "GR",
+"Capital": "Athens",
+"Area": 131940.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".gr",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "30",
+"PostCodeFormat": "### ##",
+"PostCodeRegex": "^(\\d{5})$",
+"Languages": [
+"el-GR",
+"en",
+"fr"
+]
+},
+{
+"Name": "Ireland",
+"Iso": "IE",
+"Iso3": "IRL",
+"IsoNumeric": 372,
+"Fips": "EI",
+"Capital": "Dublin",
+"Area": 70280.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".ie",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "353",
+"PostCodeFormat": "@@@ @@@@",
+"PostCodeRegex": "^[A-Z]\\d{2}$|^[A-Z]{3}[A-Z]{4}$",
+"Languages": [
+"en-IE",
+"ga-IE"
+]
+},
+{
+"Name": "Italy",
+"Iso": "IT",
+"Iso3": "ITA",
+"IsoNumeric": 380,
+"Fips": "IT",
+"Capital": "Rome",
+"Area": 301230.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".it",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "39",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
+"Languages": [
+"it-IT",
+"de-IT",
+"fr-IT",
+"sc",
+"ca",
+"co",
+"sl"
+]
+},
+{
+"Name": "Kosovo",
+"Iso": "XK",
+"Iso3": "XKX",
+"IsoNumeric": 0,
+"Fips": "KV",
+"Capital": "Pristina",
+"Area": 10908.0,
+"Population": 0,
+"Continent": "EU",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"Languages": [
+"sq",
+"sr"
+]
+},
+{
+"Name": "Lithuania",
+"Iso": "LT",
+"Iso3": "LTU",
+"IsoNumeric": 440,
+"Fips": "LH",
+"Capital": "Vilnius",
+"Area": 65200.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".lt",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "370",
+"PostCodeFormat": "LT-#####",
+"PostCodeRegex": "^(?:LT)*(\\d{5})$",
+"Languages": [
+"lt",
+"ru",
+"pl"
+]
+},
+{
+"Name": "Luxembourg",
+"Iso": "LU",
+"Iso3": "LUX",
+"IsoNumeric": 442,
+"Fips": "LU",
+"Capital": "Luxembourg",
+"Area": 2586.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".lu",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "352",
+"PostCodeFormat": "L-####",
+"PostCodeRegex": "^(?:L-)?\\d{4}$",
+"Languages": [
+"lb",
+"de-LU",
+"fr-LU"
+]
+},
+{
+"Name": "Latvia",
+"Iso": "LV",
+"Iso3": "LVA",
+"IsoNumeric": 428,
+"Fips": "LG",
+"Capital": "Riga",
+"Area": 64589.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".lv",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "371",
+"PostCodeFormat": "LV-####",
+"PostCodeRegex": "^(?:LV)*(\\d{4})$",
+"Languages": [
+"lv",
+"ru",
+"lt"
+]
+},
+{
+"Name": "Monaco",
+"Iso": "MC",
+"Iso3": "MCO",
+"IsoNumeric": 492,
+"Fips": "MN",
+"Capital": "Monaco",
+"Area": 1.95,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".mc",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "377",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
+"Languages": [
+"fr-MC",
+"en",
+"it"
+]
+},
+{
+"Name": "Montenegro",
+"Iso": "ME",
+"Iso3": "MNE",
+"IsoNumeric": 499,
+"Fips": "MJ",
+"Capital": "Podgorica",
+"Area": 14026.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".me",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "382",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
+"Languages": [
+"sr",
+"hu",
+"bs",
+"sq",
+"hr",
+"rom"
+]
+},
+{
+"Name": "Saint Martin",
+"Iso": "MF",
+"Iso3": "MAF",
+"IsoNumeric": 663,
+"Fips": "RN",
+"Capital": "Marigot",
+"Area": 53.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".gp",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "590",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
+"Languages": [
+"fr"
+]
+},
+{
+"Name": "Martinique",
+"Iso": "MQ",
+"Iso3": "MTQ",
+"IsoNumeric": 474,
+"Fips": "MB",
+"Capital": "Fort-de-France",
+"Area": 1100.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".mq",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "596",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
+"Languages": [
+"fr-MQ"
+]
+},
+{
+"Name": "Malta",
+"Iso": "MT",
+"Iso3": "MLT",
+"IsoNumeric": 470,
+"Fips": "MT",
+"Capital": "Valletta",
+"Area": 316.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".mt",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "356",
+"PostCodeFormat": "@@@ ####",
+"PostCodeRegex": "^[A-Z]{3}\\s?\\d{4}$",
+"Languages": [
+"mt",
+"en-MT"
+]
+},
+{
+"Name": "Netherlands",
+"Iso": "NL",
+"Iso3": "NLD",
+"IsoNumeric": 528,
+"Fips": "NL",
+"Capital": "Amsterdam",
+"Area": 41526.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".nl",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "31",
+"PostCodeFormat": "#### @@",
+"PostCodeRegex": "^(\\d{4}[A-Z]{2})$",
+"Languages": [
+"nl-NL",
+"fy-NL"
+]
+},
+{
+"Name": "Saint Pierre and Miquelon",
+"Iso": "PM",
+"Iso3": "SPM",
+"IsoNumeric": 666,
+"Fips": "SB",
+"Capital": "Saint-Pierre",
+"Area": 242.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".pm",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "508",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(97500)$",
+"Languages": [
+"fr-PM"
+]
+},
+{
+"Name": "Portugal",
+"Iso": "PT",
+"Iso3": "PRT",
+"IsoNumeric": 620,
+"Fips": "PO",
+"Capital": "Lisbon",
+"Area": 92391.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".pt",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "351",
+"PostCodeFormat": "####-###",
+"PostCodeRegex": "^\\d{4}-\\d{3}\\s?[a-zA-Z]{0,25}$",
+"Languages": [
+"pt-PT",
+"mwl"
+]
+},
+{
+"Name": "Reunion",
+"Iso": "RE",
+"Iso3": "REU",
+"IsoNumeric": 638,
+"Fips": "RE",
+"Capital": "Saint-Denis",
+"Area": 2517.0,
+"Population": 0,
+"Continent": "AF",
+"TopLevelDomain": ".re",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "262",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^((97|98)(4|7|8)\\d{2})$",
+"Languages": [
+"fr-RE"
+]
+},
+{
+"Name": "Slovenia",
+"Iso": "SI",
+"Iso3": "SVN",
+"IsoNumeric": 705,
+"Fips": "SI",
+"Capital": "Ljubljana",
+"Area": 20273.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".si",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "386",
+"PostCodeFormat": "####",
+"PostCodeRegex": "^(?:SI)*(\\d{4})$",
+"Languages": [
+"sl",
+"sh"
+]
+},
+{
+"Name": "Slovakia",
+"Iso": "SK",
+"Iso3": "SVK",
+"IsoNumeric": 703,
+"Fips": "LO",
+"Capital": "Bratislava",
+"Area": 48845.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".sk",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "421",
+"PostCodeFormat": "### ##",
+"PostCodeRegex": "^\\d{3}\\s?\\d{2}$",
+"Languages": [
+"sk",
+"hu"
+]
+},
+{
+"Name": "San Marino",
+"Iso": "SM",
+"Iso3": "SMR",
+"IsoNumeric": 674,
+"Fips": "SM",
+"Capital": "San Marino",
+"Area": 61.2,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".sm",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "378",
+"PostCodeFormat": "4789#",
+"PostCodeRegex": "^(4789\\d)$",
+"Languages": [
+"it-SM"
+]
+},
+{
+"Name": "French Southern Territories",
+"Iso": "TF",
+"Iso3": "ATF",
+"IsoNumeric": 260,
+"Fips": "FS",
+"Capital": "Port-aux-Francais",
+"Area": 7829.0,
+"Population": 0,
+"Continent": "AN",
+"TopLevelDomain": ".tf",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"Languages": [
+"fr"
+]
+},
+{
+"Name": "Vatican",
+"Iso": "VA",
+"Iso3": "VAT",
+"IsoNumeric": 336,
+"Fips": "VT",
+"Capital": "Vatican City",
+"Area": 0.44,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".va",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "379",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
+"Languages": [
+"la",
+"it",
+"fr"
+]
+},
+{
+"Name": "Mayotte",
+"Iso": "YT",
+"Iso3": "MYT",
+"IsoNumeric": 175,
+"Fips": "MF",
+"Capital": "Mamoudzou",
+"Area": 374.0,
+"Population": 0,
+"Continent": "AF",
+"TopLevelDomain": ".yt",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "262",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
+"Languages": [
+"fr-YT"
 ]
 },
 {
@@ -1467,99 +1911,6 @@
 ]
 },
 {
-"Name": "Micronesia",
-"Iso": "FM",
-"Iso3": "FSM",
-"IsoNumeric": 583,
-"Fips": "FM",
-"Capital": "Palikir",
-"Area": 702.0,
-"Population": 0,
-"Continent": "OC",
-"TopLevelDomain": ".fm",
-"CurrencyCode": "USD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "691",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(\\d{5})$",
-"Languages": [
-"en-FM",
-"chk",
-"pon",
-"yap",
-"kos",
-"uli",
-"woe",
-"nkr",
-"kpg"
-]
-},
-{
-"Name": "Faroe Islands",
-"Iso": "FO",
-"Iso3": "FRO",
-"IsoNumeric": 234,
-"Fips": "FO",
-"Capital": "Torshavn",
-"Area": 1399.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".fo",
-"CurrencyCode": "DKK",
-"CurrencyName": "Krone",
-"PhonePrefix": "298",
-"PostCodeFormat": "###",
-"PostCodeRegex": "^(?:FO)*(\\d{3})$",
-"Languages": [
-"fo",
-"da-FO"
-]
-},
-{
-"Name": "France",
-"Iso": "FR",
-"Iso3": "FRA",
-"IsoNumeric": 250,
-"Fips": "FR",
-"Capital": "Paris",
-"Area": 547030.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".fr",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "33",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(\\d{5})$",
-"Languages": [
-"fr-FR",
-"frp",
-"br",
-"co",
-"ca",
-"eu",
-"oc"
-]
-},
-{
-"Name": "Gabon",
-"Iso": "GA",
-"Iso3": "GAB",
-"IsoNumeric": 266,
-"Fips": "GB",
-"Capital": "Libreville",
-"Area": 267667.0,
-"Population": 0,
-"Continent": "AF",
-"TopLevelDomain": ".ga",
-"CurrencyCode": "XAF",
-"CurrencyName": "Franc",
-"PhonePrefix": "241",
-"Languages": [
-"fr-GA"
-]
-},
-{
 "Name": "United Kingdom",
 "Iso": "GB",
 "Iso3": "GBR",
@@ -1582,21 +1933,84 @@
 ]
 },
 {
-"Name": "Grenada",
-"Iso": "GD",
-"Iso3": "GRD",
-"IsoNumeric": 308,
-"Fips": "GJ",
-"Capital": "St. George's",
-"Area": 344.0,
+"Name": "Guernsey",
+"Iso": "GG",
+"Iso3": "GGY",
+"IsoNumeric": 831,
+"Fips": "GK",
+"Capital": "St Peter Port",
+"Area": 78.0,
 "Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".gd",
-"CurrencyCode": "XCD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "+1-473",
+"Continent": "EU",
+"TopLevelDomain": ".gg",
+"CurrencyCode": "GBP",
+"CurrencyName": "Pound",
+"PhonePrefix": "+44-1481",
+"PostCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+"PostCodeRegex": "^((?:(?:[A-PR-UWYZ][A-HK-Y]\\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\\d[A-HJKPS-UW0-9])\\s\\d[ABD-HJLNP-UW-Z]{2})|GIR\\s?0AA)$",
 "Languages": [
-"en-GD"
+"en",
+"nrf"
+]
+},
+{
+"Name": "South Georgia and the South Sandwich Islands",
+"Iso": "GS",
+"Iso3": "SGS",
+"IsoNumeric": 239,
+"Fips": "SX",
+"Capital": "Grytviken",
+"Area": 3903.0,
+"Population": 0,
+"Continent": "AN",
+"TopLevelDomain": ".gs",
+"CurrencyCode": "GBP",
+"CurrencyName": "Pound",
+"Languages": [
+"en"
+]
+},
+{
+"Name": "Isle of Man",
+"Iso": "IM",
+"Iso3": "IMN",
+"IsoNumeric": 833,
+"Fips": "IM",
+"Capital": "Douglas",
+"Area": 572.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".im",
+"CurrencyCode": "GBP",
+"CurrencyName": "Pound",
+"PhonePrefix": "+44-1624",
+"PostCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+"PostCodeRegex": "^((?:(?:[A-PR-UWYZ][A-HK-Y]\\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\\d[A-HJKPS-UW0-9])\\s\\d[ABD-HJLNP-UW-Z]{2})|GIR\\s?0AA)$",
+"Languages": [
+"en",
+"gv"
+]
+},
+{
+"Name": "Jersey",
+"Iso": "JE",
+"Iso3": "JEY",
+"IsoNumeric": 832,
+"Fips": "JE",
+"Capital": "Saint Helier",
+"Area": 116.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".je",
+"CurrencyCode": "GBP",
+"CurrencyName": "Pound",
+"PhonePrefix": "+44-1534",
+"PostCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+"PostCodeRegex": "^((?:(?:[A-PR-UWYZ][A-HK-Y]\\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\\d[A-HJKPS-UW0-9])\\s\\d[ABD-HJLNP-UW-Z]{2})|GIR\\s?0AA)$",
+"Languages": [
+"en",
+"fr",
+"nrf"
 ]
 },
 {
@@ -1620,47 +2034,6 @@
 "ru",
 "hy",
 "az"
-]
-},
-{
-"Name": "French Guiana",
-"Iso": "GF",
-"Iso3": "GUF",
-"IsoNumeric": 254,
-"Fips": "FG",
-"Capital": "Cayenne",
-"Area": 91000.0,
-"Population": 0,
-"Continent": "SA",
-"TopLevelDomain": ".gf",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "594",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^((97|98)3\\d{2})$",
-"Languages": [
-"fr-GF"
-]
-},
-{
-"Name": "Guernsey",
-"Iso": "GG",
-"Iso3": "GGY",
-"IsoNumeric": 831,
-"Fips": "GK",
-"Capital": "St Peter Port",
-"Area": 78.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".gg",
-"CurrencyCode": "GBP",
-"CurrencyName": "Pound",
-"PhonePrefix": "+44-1481",
-"PostCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
-"PostCodeRegex": "^((?:(?:[A-PR-UWYZ][A-HK-Y]\\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\\d[A-HJKPS-UW0-9])\\s\\d[ABD-HJLNP-UW-Z]{2})|GIR\\s?0AA)$",
-"Languages": [
-"en",
-"nrf"
 ]
 },
 {
@@ -1706,28 +2079,6 @@
 ]
 },
 {
-"Name": "Greenland",
-"Iso": "GL",
-"Iso3": "GRL",
-"IsoNumeric": 304,
-"Fips": "GL",
-"Capital": "Nuuk",
-"Area": 2166086.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".gl",
-"CurrencyCode": "DKK",
-"CurrencyName": "Krone",
-"PhonePrefix": "299",
-"PostCodeFormat": "####",
-"PostCodeRegex": "^(\\d{4})$",
-"Languages": [
-"kl",
-"da-GL",
-"en"
-]
-},
-{
 "Name": "Gambia",
 "Iso": "GM",
 "Iso3": "GMB",
@@ -1768,84 +2119,6 @@
 ]
 },
 {
-"Name": "Guadeloupe",
-"Iso": "GP",
-"Iso3": "GLP",
-"IsoNumeric": 312,
-"Fips": "GP",
-"Capital": "Basse-Terre",
-"Area": 1780.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".gp",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "590",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^((97|98)\\d{3})$",
-"Languages": [
-"fr-GP"
-]
-},
-{
-"Name": "Equatorial Guinea",
-"Iso": "GQ",
-"Iso3": "GNQ",
-"IsoNumeric": 226,
-"Fips": "EK",
-"Capital": "Malabo",
-"Area": 28051.0,
-"Population": 0,
-"Continent": "AF",
-"TopLevelDomain": ".gq",
-"CurrencyCode": "XAF",
-"CurrencyName": "Franc",
-"PhonePrefix": "240",
-"Languages": [
-"es-GQ",
-"fr"
-]
-},
-{
-"Name": "Greece",
-"Iso": "GR",
-"Iso3": "GRC",
-"IsoNumeric": 300,
-"Fips": "GR",
-"Capital": "Athens",
-"Area": 131940.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".gr",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "30",
-"PostCodeFormat": "### ##",
-"PostCodeRegex": "^(\\d{5})$",
-"Languages": [
-"el-GR",
-"en",
-"fr"
-]
-},
-{
-"Name": "South Georgia and the South Sandwich Islands",
-"Iso": "GS",
-"Iso3": "SGS",
-"IsoNumeric": 239,
-"Fips": "SX",
-"Capital": "Grytviken",
-"Area": 3903.0,
-"Population": 0,
-"Continent": "AN",
-"TopLevelDomain": ".gs",
-"CurrencyCode": "GBP",
-"CurrencyName": "Pound",
-"Languages": [
-"en"
-]
-},
-{
 "Name": "Guatemala",
 "Iso": "GT",
 "Iso3": "GTM",
@@ -1863,48 +2136,6 @@
 "PostCodeRegex": "^(\\d{5})$",
 "Languages": [
 "es-GT"
-]
-},
-{
-"Name": "Guam",
-"Iso": "GU",
-"Iso3": "GUM",
-"IsoNumeric": 316,
-"Fips": "GQ",
-"Capital": "Hagatna",
-"Area": 549.0,
-"Population": 0,
-"Continent": "OC",
-"TopLevelDomain": ".gu",
-"CurrencyCode": "USD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "+1-671",
-"PostCodeFormat": "969##",
-"PostCodeRegex": "^(969\\d{2})$",
-"Languages": [
-"en-GU",
-"ch-GU"
-]
-},
-{
-"Name": "Guinea-Bissau",
-"Iso": "GW",
-"Iso3": "GNB",
-"IsoNumeric": 624,
-"Fips": "PU",
-"Capital": "Bissau",
-"Area": 36120.0,
-"Population": 0,
-"Continent": "AF",
-"TopLevelDomain": ".gw",
-"CurrencyCode": "XOF",
-"CurrencyName": "Franc",
-"PhonePrefix": "245",
-"PostCodeFormat": "####",
-"PostCodeRegex": "^(\\d{4})$",
-"Languages": [
-"pt-GW",
-"pov"
 ]
 },
 {
@@ -1945,20 +2176,6 @@
 "zh",
 "en"
 ]
-},
-{
-"Name": "Heard Island and McDonald Islands",
-"Iso": "HM",
-"Iso3": "HMD",
-"IsoNumeric": 334,
-"Fips": "HM",
-"Area": 412.0,
-"Population": 0,
-"Continent": "AN",
-"TopLevelDomain": ".hm",
-"CurrencyCode": "AUD",
-"CurrencyName": "Dollar",
-"PhonePrefix": ""
 },
 {
 "Name": "Honduras",
@@ -2068,27 +2285,6 @@
 ]
 },
 {
-"Name": "Ireland",
-"Iso": "IE",
-"Iso3": "IRL",
-"IsoNumeric": 372,
-"Fips": "EI",
-"Capital": "Dublin",
-"Area": 70280.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".ie",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "353",
-"PostCodeFormat": "@@@ @@@@",
-"PostCodeRegex": "^[A-Z]\\d{2}$|^[A-Z]{3}[A-Z]{4}$",
-"Languages": [
-"en-IE",
-"ga-IE"
-]
-},
-{
 "Name": "Israel",
 "Iso": "IL",
 "Iso3": "ISR",
@@ -2112,24 +2308,21 @@
 ]
 },
 {
-"Name": "Isle of Man",
-"Iso": "IM",
-"Iso3": "IMN",
-"IsoNumeric": 833,
-"Fips": "IM",
-"Capital": "Douglas",
-"Area": 572.0,
+"Name": "Palestinian Territory",
+"Iso": "PS",
+"Iso3": "PSE",
+"IsoNumeric": 275,
+"Fips": "WE",
+"Capital": "East Jerusalem",
+"Area": 5970.0,
 "Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".im",
-"CurrencyCode": "GBP",
-"CurrencyName": "Pound",
-"PhonePrefix": "+44-1624",
-"PostCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
-"PostCodeRegex": "^((?:(?:[A-PR-UWYZ][A-HK-Y]\\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\\d[A-HJKPS-UW0-9])\\s\\d[ABD-HJLNP-UW-Z]{2})|GIR\\s?0AA)$",
+"Continent": "AS",
+"TopLevelDomain": ".ps",
+"CurrencyCode": "ILS",
+"CurrencyName": "Shekel",
+"PhonePrefix": "970",
 "Languages": [
-"en",
-"gv"
+"ar-PS"
 ]
 },
 {
@@ -2175,24 +2368,6 @@
 "fr",
 "lus",
 "inc"
-]
-},
-{
-"Name": "British Indian Ocean Territory",
-"Iso": "IO",
-"Iso3": "IOT",
-"IsoNumeric": 86,
-"Fips": "IO",
-"Capital": "Diego Garcia",
-"Area": 60.0,
-"Population": 0,
-"Continent": "AS",
-"TopLevelDomain": ".io",
-"CurrencyCode": "USD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "246",
-"Languages": [
-"en-IO"
 ]
 },
 {
@@ -2261,54 +2436,6 @@
 "da",
 "sv",
 "no"
-]
-},
-{
-"Name": "Italy",
-"Iso": "IT",
-"Iso3": "ITA",
-"IsoNumeric": 380,
-"Fips": "IT",
-"Capital": "Rome",
-"Area": 301230.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".it",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "39",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(\\d{5})$",
-"Languages": [
-"it-IT",
-"de-IT",
-"fr-IT",
-"sc",
-"ca",
-"co",
-"sl"
-]
-},
-{
-"Name": "Jersey",
-"Iso": "JE",
-"Iso3": "JEY",
-"IsoNumeric": 832,
-"Fips": "JE",
-"Capital": "Saint Helier",
-"Area": 116.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".je",
-"CurrencyCode": "GBP",
-"CurrencyName": "Pound",
-"PhonePrefix": "+44-1534",
-"PostCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
-"PostCodeRegex": "^((?:(?:[A-PR-UWYZ][A-HK-Y]\\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\\d[A-HJKPS-UW0-9])\\s\\d[ABD-HJLNP-UW-Z]{2})|GIR\\s?0AA)$",
-"Languages": [
-"en",
-"fr",
-"nrf"
 ]
 },
 {
@@ -2436,25 +2563,6 @@
 ]
 },
 {
-"Name": "Kiribati",
-"Iso": "KI",
-"Iso3": "KIR",
-"IsoNumeric": 296,
-"Fips": "KR",
-"Capital": "Tarawa",
-"Area": 811.0,
-"Population": 0,
-"Continent": "OC",
-"TopLevelDomain": ".ki",
-"CurrencyCode": "AUD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "686",
-"Languages": [
-"en-KI",
-"gil"
-]
-},
-{
 "Name": "Comoros",
 "Iso": "KM",
 "Iso3": "COM",
@@ -2471,24 +2579,6 @@
 "Languages": [
 "ar",
 "fr-KM"
-]
-},
-{
-"Name": "Saint Kitts and Nevis",
-"Iso": "KN",
-"Iso3": "KNA",
-"IsoNumeric": 659,
-"Fips": "SC",
-"Capital": "Basseterre",
-"Area": 261.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".kn",
-"CurrencyCode": "XCD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "+1-869",
-"Languages": [
-"en-KN"
 ]
 },
 {
@@ -2530,23 +2620,6 @@
 "Languages": [
 "ko-KR",
 "en"
-]
-},
-{
-"Name": "Kosovo",
-"Iso": "XK",
-"Iso3": "XKX",
-"IsoNumeric": 0,
-"Fips": "KV",
-"Capital": "Pristina",
-"Area": 10908.0,
-"Population": 0,
-"Continent": "EU",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"Languages": [
-"sq",
-"sr"
 ]
 },
 {
@@ -2655,44 +2728,6 @@
 ]
 },
 {
-"Name": "Saint Lucia",
-"Iso": "LC",
-"Iso3": "LCA",
-"IsoNumeric": 662,
-"Fips": "ST",
-"Capital": "Castries",
-"Area": 616.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".lc",
-"CurrencyCode": "XCD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "+1-758",
-"Languages": [
-"en-LC"
-]
-},
-{
-"Name": "Liechtenstein",
-"Iso": "LI",
-"Iso3": "LIE",
-"IsoNumeric": 438,
-"Fips": "LS",
-"Capital": "Vaduz",
-"Area": 160.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".li",
-"CurrencyCode": "CHF",
-"CurrencyName": "Franc",
-"PhonePrefix": "423",
-"PostCodeFormat": "####",
-"PostCodeRegex": "^(\\d{4})$",
-"Languages": [
-"de-LI"
-]
-},
-{
 "Name": "Sri Lanka",
 "Iso": "LK",
 "Iso3": "LKA",
@@ -2758,72 +2793,6 @@
 ]
 },
 {
-"Name": "Lithuania",
-"Iso": "LT",
-"Iso3": "LTU",
-"IsoNumeric": 440,
-"Fips": "LH",
-"Capital": "Vilnius",
-"Area": 65200.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".lt",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "370",
-"PostCodeFormat": "LT-#####",
-"PostCodeRegex": "^(?:LT)*(\\d{5})$",
-"Languages": [
-"lt",
-"ru",
-"pl"
-]
-},
-{
-"Name": "Luxembourg",
-"Iso": "LU",
-"Iso3": "LUX",
-"IsoNumeric": 442,
-"Fips": "LU",
-"Capital": "Luxembourg",
-"Area": 2586.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".lu",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "352",
-"PostCodeFormat": "L-####",
-"PostCodeRegex": "^(?:L-)?\\d{4}$",
-"Languages": [
-"lb",
-"de-LU",
-"fr-LU"
-]
-},
-{
-"Name": "Latvia",
-"Iso": "LV",
-"Iso3": "LVA",
-"IsoNumeric": 428,
-"Fips": "LG",
-"Capital": "Riga",
-"Area": 64589.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".lv",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "371",
-"PostCodeFormat": "LV-####",
-"PostCodeRegex": "^(?:LV)*(\\d{4})$",
-"Languages": [
-"lv",
-"ru",
-"lt"
-]
-},
-{
 "Name": "Libya",
 "Iso": "LY",
 "Iso3": "LBY",
@@ -2841,6 +2810,25 @@
 "ar-LY",
 "it",
 "en"
+]
+},
+{
+"Name": "Western Sahara",
+"Iso": "EH",
+"Iso3": "ESH",
+"IsoNumeric": 732,
+"Fips": "WI",
+"Capital": "El-Aaiun",
+"Area": 266000.0,
+"Population": 0,
+"Continent": "AF",
+"TopLevelDomain": ".eh",
+"CurrencyCode": "MAD",
+"CurrencyName": "Dirham",
+"PhonePrefix": "212",
+"Languages": [
+"ar",
+"mey"
 ]
 },
 {
@@ -2863,28 +2851,6 @@
 "ar-MA",
 "ber",
 "fr"
-]
-},
-{
-"Name": "Monaco",
-"Iso": "MC",
-"Iso3": "MCO",
-"IsoNumeric": 492,
-"Fips": "MN",
-"Capital": "Monaco",
-"Area": 1.95,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".mc",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "377",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(\\d{5})$",
-"Languages": [
-"fr-MC",
-"en",
-"it"
 ]
 },
 {
@@ -2911,51 +2877,6 @@
 ]
 },
 {
-"Name": "Montenegro",
-"Iso": "ME",
-"Iso3": "MNE",
-"IsoNumeric": 499,
-"Fips": "MJ",
-"Capital": "Podgorica",
-"Area": 14026.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".me",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "382",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(\\d{5})$",
-"Languages": [
-"sr",
-"hu",
-"bs",
-"sq",
-"hr",
-"rom"
-]
-},
-{
-"Name": "Saint Martin",
-"Iso": "MF",
-"Iso3": "MAF",
-"IsoNumeric": 663,
-"Fips": "RN",
-"Capital": "Marigot",
-"Area": 53.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".gp",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "590",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(\\d{5})$",
-"Languages": [
-"fr"
-]
-},
-{
 "Name": "Madagascar",
 "Iso": "MG",
 "Iso3": "MDG",
@@ -2974,27 +2895,6 @@
 "Languages": [
 "fr-MG",
 "mg"
-]
-},
-{
-"Name": "Marshall Islands",
-"Iso": "MH",
-"Iso3": "MHL",
-"IsoNumeric": 584,
-"Fips": "RM",
-"Capital": "Majuro",
-"Area": 181.3,
-"Population": 0,
-"Continent": "OC",
-"TopLevelDomain": ".mh",
-"CurrencyCode": "USD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "692",
-"PostCodeFormat": "#####-####",
-"PostCodeRegex": "^969\\d{2}(-\\d{4})$",
-"Languages": [
-"mh",
-"en-MH"
 ]
 },
 {
@@ -3019,25 +2919,6 @@
 "tr",
 "rmm",
 "sr"
-]
-},
-{
-"Name": "Mali",
-"Iso": "ML",
-"Iso3": "MLI",
-"IsoNumeric": 466,
-"Fips": "ML",
-"Capital": "Bamako",
-"Area": 1240000.0,
-"Population": 0,
-"Continent": "AF",
-"TopLevelDomain": ".ml",
-"CurrencyCode": "XOF",
-"CurrencyName": "Franc",
-"PhonePrefix": "223",
-"Languages": [
-"fr-ML",
-"bm"
 ]
 },
 {
@@ -3102,50 +2983,6 @@
 ]
 },
 {
-"Name": "Northern Mariana Islands",
-"Iso": "MP",
-"Iso3": "MNP",
-"IsoNumeric": 580,
-"Fips": "CQ",
-"Capital": "Saipan",
-"Area": 477.0,
-"Population": 0,
-"Continent": "OC",
-"TopLevelDomain": ".mp",
-"CurrencyCode": "USD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "+1-670",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^9695\\d{1}$",
-"Languages": [
-"fil",
-"tl",
-"zh",
-"ch-MP",
-"en-MP"
-]
-},
-{
-"Name": "Martinique",
-"Iso": "MQ",
-"Iso3": "MTQ",
-"IsoNumeric": 474,
-"Fips": "MB",
-"Capital": "Fort-de-France",
-"Area": 1100.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".mq",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "596",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(\\d{5})$",
-"Languages": [
-"fr-MQ"
-]
-},
-{
 "Name": "Mauritania",
 "Iso": "MR",
 "Iso3": "MRT",
@@ -3166,45 +3003,6 @@
 "fr",
 "mey",
 "wo"
-]
-},
-{
-"Name": "Montserrat",
-"Iso": "MS",
-"Iso3": "MSR",
-"IsoNumeric": 500,
-"Fips": "MH",
-"Capital": "Plymouth",
-"Area": 102.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".ms",
-"CurrencyCode": "XCD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "+1-664",
-"Languages": [
-"en-MS"
-]
-},
-{
-"Name": "Malta",
-"Iso": "MT",
-"Iso3": "MLT",
-"IsoNumeric": 470,
-"Fips": "MT",
-"Capital": "Valletta",
-"Area": 316.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".mt",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "356",
-"PostCodeFormat": "@@@ ####",
-"PostCodeRegex": "^[A-Z]{3}\\s?\\d{4}$",
-"Languages": [
-"mt",
-"en-MT"
 ]
 },
 {
@@ -3360,69 +3158,6 @@
 ]
 },
 {
-"Name": "New Caledonia",
-"Iso": "NC",
-"Iso3": "NCL",
-"IsoNumeric": 540,
-"Fips": "NC",
-"Capital": "Noumea",
-"Area": 19060.0,
-"Population": 0,
-"Continent": "OC",
-"TopLevelDomain": ".nc",
-"CurrencyCode": "XPF",
-"CurrencyName": "Franc",
-"PhonePrefix": "687",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(\\d{5})$",
-"Languages": [
-"fr-NC"
-]
-},
-{
-"Name": "Niger",
-"Iso": "NE",
-"Iso3": "NER",
-"IsoNumeric": 562,
-"Fips": "NG",
-"Capital": "Niamey",
-"Area": 1267000.0,
-"Population": 0,
-"Continent": "AF",
-"TopLevelDomain": ".ne",
-"CurrencyCode": "XOF",
-"CurrencyName": "Franc",
-"PhonePrefix": "227",
-"PostCodeFormat": "####",
-"PostCodeRegex": "^(\\d{4})$",
-"Languages": [
-"fr-NE",
-"ha",
-"kr",
-"dje"
-]
-},
-{
-"Name": "Norfolk Island",
-"Iso": "NF",
-"Iso3": "NFK",
-"IsoNumeric": 574,
-"Fips": "NF",
-"Capital": "Kingston",
-"Area": 34.6,
-"Population": 0,
-"Continent": "OC",
-"TopLevelDomain": ".nf",
-"CurrencyCode": "AUD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "672",
-"PostCodeFormat": "####",
-"PostCodeRegex": "^(\\d{4})$",
-"Languages": [
-"en-NF"
-]
-},
-{
 "Name": "Nigeria",
 "Iso": "NG",
 "Iso3": "NGA",
@@ -3468,25 +3203,17 @@
 ]
 },
 {
-"Name": "Netherlands",
-"Iso": "NL",
-"Iso3": "NLD",
-"IsoNumeric": 528,
-"Fips": "NL",
-"Capital": "Amsterdam",
-"Area": 41526.0,
+"Name": "Bouvet Island",
+"Iso": "BV",
+"Iso3": "BVT",
+"IsoNumeric": 74,
+"Fips": "BV",
+"Area": 49.0,
 "Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".nl",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "31",
-"PostCodeFormat": "#### @@",
-"PostCodeRegex": "^(\\d{4}[A-Z]{2})$",
-"Languages": [
-"nl-NL",
-"fy-NL"
-]
+"Continent": "AN",
+"TopLevelDomain": ".bv",
+"CurrencyCode": "NOK",
+"CurrencyName": "Krone"
 },
 {
 "Name": "Norway",
@@ -3513,6 +3240,27 @@
 ]
 },
 {
+"Name": "Svalbard and Jan Mayen",
+"Iso": "SJ",
+"Iso3": "SJM",
+"IsoNumeric": 744,
+"Fips": "SV",
+"Capital": "Longyearbyen",
+"Area": 62049.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".sj",
+"CurrencyCode": "NOK",
+"CurrencyName": "Krone",
+"PhonePrefix": "47",
+"PostCodeFormat": "####",
+"PostCodeRegex": "^(\\d{4})$",
+"Languages": [
+"no",
+"ru"
+]
+},
+{
 "Name": "Nepal",
 "Iso": "NP",
 "Iso3": "NPL",
@@ -3534,22 +3282,22 @@
 ]
 },
 {
-"Name": "Nauru",
-"Iso": "NR",
-"Iso3": "NRU",
-"IsoNumeric": 520,
-"Fips": "NR",
-"Capital": "Yaren",
-"Area": 21.0,
+"Name": "Cook Islands",
+"Iso": "CK",
+"Iso3": "COK",
+"IsoNumeric": 184,
+"Fips": "CW",
+"Capital": "Avarua",
+"Area": 240.0,
 "Population": 0,
 "Continent": "OC",
-"TopLevelDomain": ".nr",
-"CurrencyCode": "AUD",
+"TopLevelDomain": ".ck",
+"CurrencyCode": "NZD",
 "CurrencyName": "Dollar",
-"PhonePrefix": "674",
+"PhonePrefix": "682",
 "Languages": [
-"na",
-"en-NR"
+"en-CK",
+"mi"
 ]
 },
 {
@@ -3590,6 +3338,42 @@
 "Languages": [
 "en-NZ",
 "mi"
+]
+},
+{
+"Name": "Pitcairn",
+"Iso": "PN",
+"Iso3": "PCN",
+"IsoNumeric": 612,
+"Fips": "PC",
+"Capital": "Adamstown",
+"Area": 47.0,
+"Population": 0,
+"Continent": "OC",
+"TopLevelDomain": ".pn",
+"CurrencyCode": "NZD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "870",
+"Languages": [
+"en-PN"
+]
+},
+{
+"Name": "Tokelau",
+"Iso": "TK",
+"Iso3": "TKL",
+"IsoNumeric": 772,
+"Fips": "TL",
+"Area": 10.0,
+"Population": 0,
+"Continent": "OC",
+"TopLevelDomain": ".tk",
+"CurrencyCode": "NZD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "690",
+"Languages": [
+"tkl",
+"en-TK"
 ]
 },
 {
@@ -3652,27 +3436,6 @@
 "es-PE",
 "qu",
 "ay"
-]
-},
-{
-"Name": "French Polynesia",
-"Iso": "PF",
-"Iso3": "PYF",
-"IsoNumeric": 258,
-"Fips": "FP",
-"Capital": "Papeete",
-"Area": 4167.0,
-"Population": 0,
-"Continent": "OC",
-"TopLevelDomain": ".pf",
-"CurrencyCode": "XPF",
-"CurrencyName": "Franc",
-"PhonePrefix": "689",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^((97|98)7\\d{2})$",
-"Languages": [
-"fr-PF",
-"ty"
 ]
 },
 {
@@ -3787,130 +3550,6 @@
 ]
 },
 {
-"Name": "Saint Pierre and Miquelon",
-"Iso": "PM",
-"Iso3": "SPM",
-"IsoNumeric": 666,
-"Fips": "SB",
-"Capital": "Saint-Pierre",
-"Area": 242.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".pm",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "508",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(97500)$",
-"Languages": [
-"fr-PM"
-]
-},
-{
-"Name": "Pitcairn",
-"Iso": "PN",
-"Iso3": "PCN",
-"IsoNumeric": 612,
-"Fips": "PC",
-"Capital": "Adamstown",
-"Area": 47.0,
-"Population": 0,
-"Continent": "OC",
-"TopLevelDomain": ".pn",
-"CurrencyCode": "NZD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "870",
-"Languages": [
-"en-PN"
-]
-},
-{
-"Name": "Puerto Rico",
-"Iso": "PR",
-"Iso3": "PRI",
-"IsoNumeric": 630,
-"Fips": "RQ",
-"Capital": "San Juan",
-"Area": 9104.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".pr",
-"CurrencyCode": "USD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "+1-787 and 1-939",
-"PostCodeFormat": "#####-####",
-"PostCodeRegex": "^00[679]\\d{2}(?:-\\d{4})?$",
-"Languages": [
-"en-PR",
-"es-PR"
-]
-},
-{
-"Name": "Palestinian Territory",
-"Iso": "PS",
-"Iso3": "PSE",
-"IsoNumeric": 275,
-"Fips": "WE",
-"Capital": "East Jerusalem",
-"Area": 5970.0,
-"Population": 0,
-"Continent": "AS",
-"TopLevelDomain": ".ps",
-"CurrencyCode": "ILS",
-"CurrencyName": "Shekel",
-"PhonePrefix": "970",
-"Languages": [
-"ar-PS"
-]
-},
-{
-"Name": "Portugal",
-"Iso": "PT",
-"Iso3": "PRT",
-"IsoNumeric": 620,
-"Fips": "PO",
-"Capital": "Lisbon",
-"Area": 92391.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".pt",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "351",
-"PostCodeFormat": "####-###",
-"PostCodeRegex": "^\\d{4}-\\d{3}\\s?[a-zA-Z]{0,25}$",
-"Languages": [
-"pt-PT",
-"mwl"
-]
-},
-{
-"Name": "Palau",
-"Iso": "PW",
-"Iso3": "PLW",
-"IsoNumeric": 585,
-"Fips": "PS",
-"Capital": "Melekeok",
-"Area": 458.0,
-"Population": 0,
-"Continent": "OC",
-"TopLevelDomain": ".pw",
-"CurrencyCode": "USD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "680",
-"PostCodeFormat": "96940",
-"PostCodeRegex": "^(96940)$",
-"Languages": [
-"pau",
-"sov",
-"en-PW",
-"tox",
-"ja",
-"fil",
-"zh"
-]
-},
-{
 "Name": "Paraguay",
 "Iso": "PY",
 "Iso3": "PRY",
@@ -3948,26 +3587,6 @@
 "Languages": [
 "ar-QA",
 "es"
-]
-},
-{
-"Name": "Reunion",
-"Iso": "RE",
-"Iso3": "REU",
-"IsoNumeric": 638,
-"Fips": "RE",
-"Capital": "Saint-Denis",
-"Area": 2517.0,
-"Population": 0,
-"Continent": "AF",
-"TopLevelDomain": ".re",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "262",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^((97|98)(4|7|8)\\d{2})$",
-"Languages": [
-"fr-RE"
 ]
 },
 {
@@ -4013,6 +3632,29 @@
 "hu",
 "bs",
 "rom"
+]
+},
+{
+"Name": "Serbia and Montenegro",
+"Iso": "CS",
+"Iso3": "SCG",
+"IsoNumeric": 891,
+"Fips": "YI",
+"Capital": "Belgrade",
+"Area": 102350.0,
+"Population": 0,
+"Continent": "EU",
+"TopLevelDomain": ".cs",
+"CurrencyCode": "RSD",
+"CurrencyName": "Dinar",
+"PhonePrefix": "381",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
+"Languages": [
+"cu",
+"hu",
+"sq",
+"sr"
 ]
 },
 {
@@ -4160,23 +3802,6 @@
 ]
 },
 {
-"Name": "South Sudan",
-"Iso": "SS",
-"Iso3": "SSD",
-"IsoNumeric": 728,
-"Fips": "OD",
-"Capital": "Juba",
-"Area": 644329.0,
-"Population": 0,
-"Continent": "AF",
-"CurrencyCode": "SSP",
-"CurrencyName": "Pound",
-"PhonePrefix": "211",
-"Languages": [
-"en"
-]
-},
-{
 "Name": "Sweden",
 "Iso": "SE",
 "Iso3": "SWE",
@@ -4244,69 +3869,6 @@
 ]
 },
 {
-"Name": "Slovenia",
-"Iso": "SI",
-"Iso3": "SVN",
-"IsoNumeric": 705,
-"Fips": "SI",
-"Capital": "Ljubljana",
-"Area": 20273.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".si",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "386",
-"PostCodeFormat": "####",
-"PostCodeRegex": "^(?:SI)*(\\d{4})$",
-"Languages": [
-"sl",
-"sh"
-]
-},
-{
-"Name": "Svalbard and Jan Mayen",
-"Iso": "SJ",
-"Iso3": "SJM",
-"IsoNumeric": 744,
-"Fips": "SV",
-"Capital": "Longyearbyen",
-"Area": 62049.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".sj",
-"CurrencyCode": "NOK",
-"CurrencyName": "Krone",
-"PhonePrefix": "47",
-"PostCodeFormat": "####",
-"PostCodeRegex": "^(\\d{4})$",
-"Languages": [
-"no",
-"ru"
-]
-},
-{
-"Name": "Slovakia",
-"Iso": "SK",
-"Iso3": "SVK",
-"IsoNumeric": 703,
-"Fips": "LO",
-"Capital": "Bratislava",
-"Area": 48845.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".sk",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "421",
-"PostCodeFormat": "### ##",
-"PostCodeRegex": "^\\d{3}\\s?\\d{2}$",
-"Languages": [
-"sk",
-"hu"
-]
-},
-{
 "Name": "Sierra Leone",
 "Iso": "SL",
 "Iso3": "SLE",
@@ -4324,49 +3886,6 @@
 "en-SL",
 "men",
 "tem"
-]
-},
-{
-"Name": "San Marino",
-"Iso": "SM",
-"Iso3": "SMR",
-"IsoNumeric": 674,
-"Fips": "SM",
-"Capital": "San Marino",
-"Area": 61.2,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".sm",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "378",
-"PostCodeFormat": "4789#",
-"PostCodeRegex": "^(4789\\d)$",
-"Languages": [
-"it-SM"
-]
-},
-{
-"Name": "Senegal",
-"Iso": "SN",
-"Iso3": "SEN",
-"IsoNumeric": 686,
-"Fips": "SG",
-"Capital": "Dakar",
-"Area": 196190.0,
-"Population": 0,
-"Continent": "AF",
-"TopLevelDomain": ".sn",
-"CurrencyCode": "XOF",
-"CurrencyName": "Franc",
-"PhonePrefix": "221",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(\\d{5})$",
-"Languages": [
-"fr-SN",
-"wo",
-"fuc",
-"mnk"
 ]
 },
 {
@@ -4415,6 +3934,23 @@
 ]
 },
 {
+"Name": "South Sudan",
+"Iso": "SS",
+"Iso3": "SSD",
+"IsoNumeric": 728,
+"Fips": "OD",
+"Capital": "Juba",
+"Area": 644329.0,
+"Population": 0,
+"Continent": "AF",
+"CurrencyCode": "SSP",
+"CurrencyName": "Pound",
+"PhonePrefix": "211",
+"Languages": [
+"en"
+]
+},
+{
 "Name": "Sao Tome and Principe",
 "Iso": "ST",
 "Iso3": "STP",
@@ -4430,45 +3966,6 @@
 "PhonePrefix": "239",
 "Languages": [
 "pt-ST"
-]
-},
-{
-"Name": "El Salvador",
-"Iso": "SV",
-"Iso3": "SLV",
-"IsoNumeric": 222,
-"Fips": "ES",
-"Capital": "San Salvador",
-"Area": 21040.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".sv",
-"CurrencyCode": "USD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "503",
-"PostCodeFormat": "CP ####",
-"PostCodeRegex": "^(?:CP)*(\\d{4})$",
-"Languages": [
-"es-SV"
-]
-},
-{
-"Name": "Sint Maarten",
-"Iso": "SX",
-"Iso3": "SXM",
-"IsoNumeric": 534,
-"Fips": "NN",
-"Capital": "Philipsburg",
-"Area": 21.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".sx",
-"CurrencyCode": "ANG",
-"CurrencyName": "Guilder",
-"PhonePrefix": "599",
-"Languages": [
-"nl",
-"en"
 ]
 },
 {
@@ -4516,86 +4013,6 @@
 ]
 },
 {
-"Name": "Turks and Caicos Islands",
-"Iso": "TC",
-"Iso3": "TCA",
-"IsoNumeric": 796,
-"Fips": "TK",
-"Capital": "Cockburn Town",
-"Area": 430.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".tc",
-"CurrencyCode": "USD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "+1-649",
-"PostCodeFormat": "TKCA 1ZZ",
-"PostCodeRegex": "^(TKCA 1ZZ)$",
-"Languages": [
-"en-TC"
-]
-},
-{
-"Name": "Chad",
-"Iso": "TD",
-"Iso3": "TCD",
-"IsoNumeric": 148,
-"Fips": "CD",
-"Capital": "N'Djamena",
-"Area": 1284000.0,
-"Population": 0,
-"Continent": "AF",
-"TopLevelDomain": ".td",
-"CurrencyCode": "XAF",
-"CurrencyName": "Franc",
-"PhonePrefix": "235",
-"Languages": [
-"fr-TD",
-"ar-TD",
-"sre"
-]
-},
-{
-"Name": "French Southern Territories",
-"Iso": "TF",
-"Iso3": "ATF",
-"IsoNumeric": 260,
-"Fips": "FS",
-"Capital": "Port-aux-Francais",
-"Area": 7829.0,
-"Population": 0,
-"Continent": "AN",
-"TopLevelDomain": ".tf",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"Languages": [
-"fr"
-]
-},
-{
-"Name": "Togo",
-"Iso": "TG",
-"Iso3": "TGO",
-"IsoNumeric": 768,
-"Fips": "TO",
-"Capital": "Lome",
-"Area": 56785.0,
-"Population": 0,
-"Continent": "AF",
-"TopLevelDomain": ".tg",
-"CurrencyCode": "XOF",
-"CurrencyName": "Franc",
-"PhonePrefix": "228",
-"Languages": [
-"fr-TG",
-"ee",
-"hna",
-"kbp",
-"dag",
-"ha"
-]
-},
-{
 "Name": "Thailand",
 "Iso": "TH",
 "Iso3": "THA",
@@ -4635,45 +4052,6 @@
 "Languages": [
 "tg",
 "ru"
-]
-},
-{
-"Name": "Tokelau",
-"Iso": "TK",
-"Iso3": "TKL",
-"IsoNumeric": 772,
-"Fips": "TL",
-"Area": 10.0,
-"Population": 0,
-"Continent": "OC",
-"TopLevelDomain": ".tk",
-"CurrencyCode": "NZD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "690",
-"Languages": [
-"tkl",
-"en-TK"
-]
-},
-{
-"Name": "Timor Leste",
-"Iso": "TL",
-"Iso3": "TLS",
-"IsoNumeric": 626,
-"Fips": "TT",
-"Capital": "Dili",
-"Area": 15007.0,
-"Population": 0,
-"Continent": "OC",
-"TopLevelDomain": ".tl",
-"CurrencyCode": "USD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "670",
-"Languages": [
-"tet",
-"pt-TL",
-"id",
-"en"
 ]
 },
 {
@@ -4785,27 +4163,6 @@
 ]
 },
 {
-"Name": "Tuvalu",
-"Iso": "TV",
-"Iso3": "TUV",
-"IsoNumeric": 798,
-"Fips": "TV",
-"Capital": "Funafuti",
-"Area": 26.0,
-"Population": 0,
-"Continent": "OC",
-"TopLevelDomain": ".tv",
-"CurrencyCode": "AUD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "688",
-"Languages": [
-"tvl",
-"en",
-"sm",
-"gil"
-]
-},
-{
 "Name": "Taiwan",
 "Iso": "TW",
 "Iso3": "TWN",
@@ -4894,6 +4251,286 @@
 ]
 },
 {
+"Name": "American Samoa",
+"Iso": "AS",
+"Iso3": "ASM",
+"IsoNumeric": 16,
+"Fips": "AQ",
+"Capital": "Pago Pago",
+"Area": 199.0,
+"Population": 0,
+"Continent": "OC",
+"TopLevelDomain": ".as",
+"CurrencyCode": "USD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "+1-684",
+"PostCodeFormat": "#####-####",
+"PostCodeRegex": "96799",
+"Languages": [
+"en-AS",
+"sm",
+"to"
+]
+},
+{
+"Name": "Bonaire, Saint Eustatius and Saba",
+"Iso": "BQ",
+"Iso3": "BES",
+"IsoNumeric": 535,
+"Area": 328.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".bq",
+"CurrencyCode": "USD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "599",
+"Languages": [
+"nl",
+"pap",
+"en"
+]
+},
+{
+"Name": "Ecuador",
+"Iso": "EC",
+"Iso3": "ECU",
+"IsoNumeric": 218,
+"Fips": "EC",
+"Capital": "Quito",
+"Area": 283560.0,
+"Population": 0,
+"Continent": "SA",
+"TopLevelDomain": ".ec",
+"CurrencyCode": "USD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "593",
+"PostCodeFormat": "@####@",
+"PostCodeRegex": "^([a-zA-Z]\\d{4}[a-zA-Z])$",
+"Languages": [
+"es-EC"
+]
+},
+{
+"Name": "Micronesia",
+"Iso": "FM",
+"Iso3": "FSM",
+"IsoNumeric": 583,
+"Fips": "FM",
+"Capital": "Palikir",
+"Area": 702.0,
+"Population": 0,
+"Continent": "OC",
+"TopLevelDomain": ".fm",
+"CurrencyCode": "USD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "691",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
+"Languages": [
+"en-FM",
+"chk",
+"pon",
+"yap",
+"kos",
+"uli",
+"woe",
+"nkr",
+"kpg"
+]
+},
+{
+"Name": "Guam",
+"Iso": "GU",
+"Iso3": "GUM",
+"IsoNumeric": 316,
+"Fips": "GQ",
+"Capital": "Hagatna",
+"Area": 549.0,
+"Population": 0,
+"Continent": "OC",
+"TopLevelDomain": ".gu",
+"CurrencyCode": "USD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "+1-671",
+"PostCodeFormat": "969##",
+"PostCodeRegex": "^(969\\d{2})$",
+"Languages": [
+"en-GU",
+"ch-GU"
+]
+},
+{
+"Name": "British Indian Ocean Territory",
+"Iso": "IO",
+"Iso3": "IOT",
+"IsoNumeric": 86,
+"Fips": "IO",
+"Capital": "Diego Garcia",
+"Area": 60.0,
+"Population": 0,
+"Continent": "AS",
+"TopLevelDomain": ".io",
+"CurrencyCode": "USD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "246",
+"Languages": [
+"en-IO"
+]
+},
+{
+"Name": "Marshall Islands",
+"Iso": "MH",
+"Iso3": "MHL",
+"IsoNumeric": 584,
+"Fips": "RM",
+"Capital": "Majuro",
+"Area": 181.3,
+"Population": 0,
+"Continent": "OC",
+"TopLevelDomain": ".mh",
+"CurrencyCode": "USD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "692",
+"PostCodeFormat": "#####-####",
+"PostCodeRegex": "^969\\d{2}(-\\d{4})$",
+"Languages": [
+"mh",
+"en-MH"
+]
+},
+{
+"Name": "Northern Mariana Islands",
+"Iso": "MP",
+"Iso3": "MNP",
+"IsoNumeric": 580,
+"Fips": "CQ",
+"Capital": "Saipan",
+"Area": 477.0,
+"Population": 0,
+"Continent": "OC",
+"TopLevelDomain": ".mp",
+"CurrencyCode": "USD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "+1-670",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^9695\\d{1}$",
+"Languages": [
+"fil",
+"tl",
+"zh",
+"ch-MP",
+"en-MP"
+]
+},
+{
+"Name": "Puerto Rico",
+"Iso": "PR",
+"Iso3": "PRI",
+"IsoNumeric": 630,
+"Fips": "RQ",
+"Capital": "San Juan",
+"Area": 9104.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".pr",
+"CurrencyCode": "USD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "+1-787 and 1-939",
+"PostCodeFormat": "#####-####",
+"PostCodeRegex": "^00[679]\\d{2}(?:-\\d{4})?$",
+"Languages": [
+"en-PR",
+"es-PR"
+]
+},
+{
+"Name": "Palau",
+"Iso": "PW",
+"Iso3": "PLW",
+"IsoNumeric": 585,
+"Fips": "PS",
+"Capital": "Melekeok",
+"Area": 458.0,
+"Population": 0,
+"Continent": "OC",
+"TopLevelDomain": ".pw",
+"CurrencyCode": "USD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "680",
+"PostCodeFormat": "96940",
+"PostCodeRegex": "^(96940)$",
+"Languages": [
+"pau",
+"sov",
+"en-PW",
+"tox",
+"ja",
+"fil",
+"zh"
+]
+},
+{
+"Name": "El Salvador",
+"Iso": "SV",
+"Iso3": "SLV",
+"IsoNumeric": 222,
+"Fips": "ES",
+"Capital": "San Salvador",
+"Area": 21040.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".sv",
+"CurrencyCode": "USD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "503",
+"PostCodeFormat": "CP ####",
+"PostCodeRegex": "^(?:CP)*(\\d{4})$",
+"Languages": [
+"es-SV"
+]
+},
+{
+"Name": "Turks and Caicos Islands",
+"Iso": "TC",
+"Iso3": "TCA",
+"IsoNumeric": 796,
+"Fips": "TK",
+"Capital": "Cockburn Town",
+"Area": 430.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".tc",
+"CurrencyCode": "USD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "+1-649",
+"PostCodeFormat": "TKCA 1ZZ",
+"PostCodeRegex": "^(TKCA 1ZZ)$",
+"Languages": [
+"en-TC"
+]
+},
+{
+"Name": "Timor Leste",
+"Iso": "TL",
+"Iso3": "TLS",
+"IsoNumeric": 626,
+"Fips": "TT",
+"Capital": "Dili",
+"Area": 15007.0,
+"Population": 0,
+"Continent": "OC",
+"TopLevelDomain": ".tl",
+"CurrencyCode": "USD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "670",
+"Languages": [
+"tet",
+"pt-TL",
+"id",
+"en"
+]
+},
+{
 "Name": "United States Minor Outlying Islands",
 "Iso": "UM",
 "Iso3": "UMI",
@@ -4930,6 +4567,44 @@
 "es-US",
 "haw",
 "fr"
+]
+},
+{
+"Name": "British Virgin Islands",
+"Iso": "VG",
+"Iso3": "VGB",
+"IsoNumeric": 92,
+"Fips": "VI",
+"Capital": "Road Town",
+"Area": 153.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".vg",
+"CurrencyCode": "USD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "+1-284",
+"Languages": [
+"en-VG"
+]
+},
+{
+"Name": "U.S. Virgin Islands",
+"Iso": "VI",
+"Iso3": "VIR",
+"IsoNumeric": 850,
+"Fips": "VQ",
+"Capital": "Charlotte Amalie",
+"Area": 352.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".vi",
+"CurrencyCode": "USD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "+1-340",
+"PostCodeFormat": "#####-####",
+"PostCodeRegex": "^008\\d{2}(?:-\\d{4})?$",
+"Languages": [
+"en-VI"
 ]
 },
 {
@@ -4975,47 +4650,6 @@
 ]
 },
 {
-"Name": "Vatican",
-"Iso": "VA",
-"Iso3": "VAT",
-"IsoNumeric": 336,
-"Fips": "VT",
-"Capital": "Vatican City",
-"Area": 0.44,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".va",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "379",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(\\d{5})$",
-"Languages": [
-"la",
-"it",
-"fr"
-]
-},
-{
-"Name": "Saint Vincent and the Grenadines",
-"Iso": "VC",
-"Iso3": "VCT",
-"IsoNumeric": 670,
-"Fips": "VC",
-"Capital": "Kingstown",
-"Area": 389.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".vc",
-"CurrencyCode": "XCD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "+1-784",
-"Languages": [
-"en-VC",
-"fr"
-]
-},
-{
 "Name": "Venezuela",
 "Iso": "VE",
 "Iso3": "VEN",
@@ -5033,44 +4667,6 @@
 "PostCodeRegex": "^(\\d{4})$",
 "Languages": [
 "es-VE"
-]
-},
-{
-"Name": "British Virgin Islands",
-"Iso": "VG",
-"Iso3": "VGB",
-"IsoNumeric": 92,
-"Fips": "VI",
-"Capital": "Road Town",
-"Area": 153.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".vg",
-"CurrencyCode": "USD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "+1-284",
-"Languages": [
-"en-VG"
-]
-},
-{
-"Name": "U.S. Virgin Islands",
-"Iso": "VI",
-"Iso3": "VIR",
-"IsoNumeric": 850,
-"Fips": "VQ",
-"Capital": "Charlotte Amalie",
-"Area": 352.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".vi",
-"CurrencyCode": "USD",
-"CurrencyName": "Dollar",
-"PhonePrefix": "+1-340",
-"PostCodeFormat": "#####-####",
-"PostCodeRegex": "^008\\d{2}(?:-\\d{4})?$",
-"Languages": [
-"en-VI"
 ]
 },
 {
@@ -5118,6 +4714,492 @@
 ]
 },
 {
+"Name": "Samoa",
+"Iso": "WS",
+"Iso3": "WSM",
+"IsoNumeric": 882,
+"Fips": "WS",
+"Capital": "Apia",
+"Area": 2944.0,
+"Population": 0,
+"Continent": "OC",
+"TopLevelDomain": ".ws",
+"CurrencyCode": "WST",
+"CurrencyName": "Tala",
+"PhonePrefix": "685",
+"Languages": [
+"sm",
+"en-WS"
+]
+},
+{
+"Name": "Central African Republic",
+"Iso": "CF",
+"Iso3": "CAF",
+"IsoNumeric": 140,
+"Fips": "CT",
+"Capital": "Bangui",
+"Area": 622984.0,
+"Population": 0,
+"Continent": "AF",
+"TopLevelDomain": ".cf",
+"CurrencyCode": "XAF",
+"CurrencyName": "Franc",
+"PhonePrefix": "236",
+"Languages": [
+"fr-CF",
+"sg",
+"ln",
+"kg"
+]
+},
+{
+"Name": "Republic of the Congo",
+"Iso": "CG",
+"Iso3": "COG",
+"IsoNumeric": 178,
+"Fips": "CF",
+"Capital": "Brazzaville",
+"Area": 342000.0,
+"Population": 0,
+"Continent": "AF",
+"TopLevelDomain": ".cg",
+"CurrencyCode": "XAF",
+"CurrencyName": "Franc",
+"PhonePrefix": "242",
+"Languages": [
+"fr-CG",
+"kg",
+"ln-CG"
+]
+},
+{
+"Name": "Cameroon",
+"Iso": "CM",
+"Iso3": "CMR",
+"IsoNumeric": 120,
+"Fips": "CM",
+"Capital": "Yaounde",
+"Area": 475440.0,
+"Population": 0,
+"Continent": "AF",
+"TopLevelDomain": ".cm",
+"CurrencyCode": "XAF",
+"CurrencyName": "Franc",
+"PhonePrefix": "237",
+"Languages": [
+"en-CM",
+"fr-CM"
+]
+},
+{
+"Name": "Gabon",
+"Iso": "GA",
+"Iso3": "GAB",
+"IsoNumeric": 266,
+"Fips": "GB",
+"Capital": "Libreville",
+"Area": 267667.0,
+"Population": 0,
+"Continent": "AF",
+"TopLevelDomain": ".ga",
+"CurrencyCode": "XAF",
+"CurrencyName": "Franc",
+"PhonePrefix": "241",
+"Languages": [
+"fr-GA"
+]
+},
+{
+"Name": "Equatorial Guinea",
+"Iso": "GQ",
+"Iso3": "GNQ",
+"IsoNumeric": 226,
+"Fips": "EK",
+"Capital": "Malabo",
+"Area": 28051.0,
+"Population": 0,
+"Continent": "AF",
+"TopLevelDomain": ".gq",
+"CurrencyCode": "XAF",
+"CurrencyName": "Franc",
+"PhonePrefix": "240",
+"Languages": [
+"es-GQ",
+"fr"
+]
+},
+{
+"Name": "Chad",
+"Iso": "TD",
+"Iso3": "TCD",
+"IsoNumeric": 148,
+"Fips": "CD",
+"Capital": "N'Djamena",
+"Area": 1284000.0,
+"Population": 0,
+"Continent": "AF",
+"TopLevelDomain": ".td",
+"CurrencyCode": "XAF",
+"CurrencyName": "Franc",
+"PhonePrefix": "235",
+"Languages": [
+"fr-TD",
+"ar-TD",
+"sre"
+]
+},
+{
+"Name": "Antigua and Barbuda",
+"Iso": "AG",
+"Iso3": "ATG",
+"IsoNumeric": 28,
+"Fips": "AC",
+"Capital": "St. John's",
+"Area": 443.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".ag",
+"CurrencyCode": "XCD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "+1-268",
+"Languages": [
+"en-AG"
+]
+},
+{
+"Name": "Anguilla",
+"Iso": "AI",
+"Iso3": "AIA",
+"IsoNumeric": 660,
+"Fips": "AV",
+"Capital": "The Valley",
+"Area": 102.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".ai",
+"CurrencyCode": "XCD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "+1-264",
+"Languages": [
+"en-AI"
+]
+},
+{
+"Name": "Dominica",
+"Iso": "DM",
+"Iso3": "DMA",
+"IsoNumeric": 212,
+"Fips": "DO",
+"Capital": "Roseau",
+"Area": 754.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".dm",
+"CurrencyCode": "XCD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "+1-767",
+"Languages": [
+"en-DM"
+]
+},
+{
+"Name": "Grenada",
+"Iso": "GD",
+"Iso3": "GRD",
+"IsoNumeric": 308,
+"Fips": "GJ",
+"Capital": "St. George's",
+"Area": 344.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".gd",
+"CurrencyCode": "XCD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "+1-473",
+"Languages": [
+"en-GD"
+]
+},
+{
+"Name": "Saint Kitts and Nevis",
+"Iso": "KN",
+"Iso3": "KNA",
+"IsoNumeric": 659,
+"Fips": "SC",
+"Capital": "Basseterre",
+"Area": 261.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".kn",
+"CurrencyCode": "XCD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "+1-869",
+"Languages": [
+"en-KN"
+]
+},
+{
+"Name": "Saint Lucia",
+"Iso": "LC",
+"Iso3": "LCA",
+"IsoNumeric": 662,
+"Fips": "ST",
+"Capital": "Castries",
+"Area": 616.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".lc",
+"CurrencyCode": "XCD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "+1-758",
+"Languages": [
+"en-LC"
+]
+},
+{
+"Name": "Montserrat",
+"Iso": "MS",
+"Iso3": "MSR",
+"IsoNumeric": 500,
+"Fips": "MH",
+"Capital": "Plymouth",
+"Area": 102.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".ms",
+"CurrencyCode": "XCD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "+1-664",
+"Languages": [
+"en-MS"
+]
+},
+{
+"Name": "Saint Vincent and the Grenadines",
+"Iso": "VC",
+"Iso3": "VCT",
+"IsoNumeric": 670,
+"Fips": "VC",
+"Capital": "Kingstown",
+"Area": 389.0,
+"Population": 0,
+"Continent": "NA",
+"TopLevelDomain": ".vc",
+"CurrencyCode": "XCD",
+"CurrencyName": "Dollar",
+"PhonePrefix": "+1-784",
+"Languages": [
+"en-VC",
+"fr"
+]
+},
+{
+"Name": "Burkina Faso",
+"Iso": "BF",
+"Iso3": "BFA",
+"IsoNumeric": 854,
+"Fips": "UV",
+"Capital": "Ouagadougou",
+"Area": 274200.0,
+"Population": 0,
+"Continent": "AF",
+"TopLevelDomain": ".bf",
+"CurrencyCode": "XOF",
+"CurrencyName": "Franc",
+"PhonePrefix": "226",
+"Languages": [
+"fr-BF",
+"mos"
+]
+},
+{
+"Name": "Benin",
+"Iso": "BJ",
+"Iso3": "BEN",
+"IsoNumeric": 204,
+"Fips": "BN",
+"Capital": "Porto-Novo",
+"Area": 112620.0,
+"Population": 0,
+"Continent": "AF",
+"TopLevelDomain": ".bj",
+"CurrencyCode": "XOF",
+"CurrencyName": "Franc",
+"PhonePrefix": "229",
+"Languages": [
+"fr-BJ"
+]
+},
+{
+"Name": "Ivory Coast",
+"Iso": "CI",
+"Iso3": "CIV",
+"IsoNumeric": 384,
+"Fips": "IV",
+"Capital": "Yamoussoukro",
+"Area": 322460.0,
+"Population": 0,
+"Continent": "AF",
+"TopLevelDomain": ".ci",
+"CurrencyCode": "XOF",
+"CurrencyName": "Franc",
+"PhonePrefix": "225",
+"Languages": [
+"fr-CI"
+]
+},
+{
+"Name": "Guinea-Bissau",
+"Iso": "GW",
+"Iso3": "GNB",
+"IsoNumeric": 624,
+"Fips": "PU",
+"Capital": "Bissau",
+"Area": 36120.0,
+"Population": 0,
+"Continent": "AF",
+"TopLevelDomain": ".gw",
+"CurrencyCode": "XOF",
+"CurrencyName": "Franc",
+"PhonePrefix": "245",
+"PostCodeFormat": "####",
+"PostCodeRegex": "^(\\d{4})$",
+"Languages": [
+"pt-GW",
+"pov"
+]
+},
+{
+"Name": "Mali",
+"Iso": "ML",
+"Iso3": "MLI",
+"IsoNumeric": 466,
+"Fips": "ML",
+"Capital": "Bamako",
+"Area": 1240000.0,
+"Population": 0,
+"Continent": "AF",
+"TopLevelDomain": ".ml",
+"CurrencyCode": "XOF",
+"CurrencyName": "Franc",
+"PhonePrefix": "223",
+"Languages": [
+"fr-ML",
+"bm"
+]
+},
+{
+"Name": "Niger",
+"Iso": "NE",
+"Iso3": "NER",
+"IsoNumeric": 562,
+"Fips": "NG",
+"Capital": "Niamey",
+"Area": 1267000.0,
+"Population": 0,
+"Continent": "AF",
+"TopLevelDomain": ".ne",
+"CurrencyCode": "XOF",
+"CurrencyName": "Franc",
+"PhonePrefix": "227",
+"PostCodeFormat": "####",
+"PostCodeRegex": "^(\\d{4})$",
+"Languages": [
+"fr-NE",
+"ha",
+"kr",
+"dje"
+]
+},
+{
+"Name": "Senegal",
+"Iso": "SN",
+"Iso3": "SEN",
+"IsoNumeric": 686,
+"Fips": "SG",
+"Capital": "Dakar",
+"Area": 196190.0,
+"Population": 0,
+"Continent": "AF",
+"TopLevelDomain": ".sn",
+"CurrencyCode": "XOF",
+"CurrencyName": "Franc",
+"PhonePrefix": "221",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
+"Languages": [
+"fr-SN",
+"wo",
+"fuc",
+"mnk"
+]
+},
+{
+"Name": "Togo",
+"Iso": "TG",
+"Iso3": "TGO",
+"IsoNumeric": 768,
+"Fips": "TO",
+"Capital": "Lome",
+"Area": 56785.0,
+"Population": 0,
+"Continent": "AF",
+"TopLevelDomain": ".tg",
+"CurrencyCode": "XOF",
+"CurrencyName": "Franc",
+"PhonePrefix": "228",
+"Languages": [
+"fr-TG",
+"ee",
+"hna",
+"kbp",
+"dag",
+"ha"
+]
+},
+{
+"Name": "New Caledonia",
+"Iso": "NC",
+"Iso3": "NCL",
+"IsoNumeric": 540,
+"Fips": "NC",
+"Capital": "Noumea",
+"Area": 19060.0,
+"Population": 0,
+"Continent": "OC",
+"TopLevelDomain": ".nc",
+"CurrencyCode": "XPF",
+"CurrencyName": "Franc",
+"PhonePrefix": "687",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
+"Languages": [
+"fr-NC"
+]
+},
+{
+"Name": "French Polynesia",
+"Iso": "PF",
+"Iso3": "PYF",
+"IsoNumeric": 258,
+"Fips": "FP",
+"Capital": "Papeete",
+"Area": 4167.0,
+"Population": 0,
+"Continent": "OC",
+"TopLevelDomain": ".pf",
+"CurrencyCode": "XPF",
+"CurrencyName": "Franc",
+"PhonePrefix": "689",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^((97|98)7\\d{2})$",
+"Languages": [
+"fr-PF",
+"ty"
+]
+},
+{
 "Name": "Wallis and Futuna",
 "Iso": "WF",
 "Iso3": "WLF",
@@ -5140,25 +5222,6 @@
 ]
 },
 {
-"Name": "Samoa",
-"Iso": "WS",
-"Iso3": "WSM",
-"IsoNumeric": 882,
-"Fips": "WS",
-"Capital": "Apia",
-"Area": 2944.0,
-"Population": 0,
-"Continent": "OC",
-"TopLevelDomain": ".ws",
-"CurrencyCode": "WST",
-"CurrencyName": "Tala",
-"PhonePrefix": "685",
-"Languages": [
-"sm",
-"en-WS"
-]
-},
-{
 "Name": "Yemen",
 "Iso": "YE",
 "Iso3": "YEM",
@@ -5174,26 +5237,6 @@
 "PhonePrefix": "967",
 "Languages": [
 "ar-YE"
-]
-},
-{
-"Name": "Mayotte",
-"Iso": "YT",
-"Iso3": "MYT",
-"IsoNumeric": 175,
-"Fips": "MF",
-"Capital": "Mamoudzou",
-"Area": 374.0,
-"Population": 0,
-"Continent": "AF",
-"TopLevelDomain": ".yt",
-"CurrencyCode": "EUR",
-"CurrencyName": "Euro",
-"PhonePrefix": "262",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(\\d{5})$",
-"Languages": [
-"fr-YT"
 ]
 },
 {
@@ -5271,49 +5314,6 @@
 "sn",
 "nr",
 "nd"
-]
-},
-{
-"Name": "Serbia and Montenegro",
-"Iso": "CS",
-"Iso3": "SCG",
-"IsoNumeric": 891,
-"Fips": "YI",
-"Capital": "Belgrade",
-"Area": 102350.0,
-"Population": 0,
-"Continent": "EU",
-"TopLevelDomain": ".cs",
-"CurrencyCode": "RSD",
-"CurrencyName": "Dinar",
-"PhonePrefix": "381",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(\\d{5})$",
-"Languages": [
-"cu",
-"hu",
-"sq",
-"sr"
-]
-},
-{
-"Name": "Netherlands Antilles",
-"Iso": "AN",
-"Iso3": "ANT",
-"IsoNumeric": 530,
-"Fips": "NT",
-"Capital": "Willemstad",
-"Area": 960.0,
-"Population": 0,
-"Continent": "NA",
-"TopLevelDomain": ".an",
-"CurrencyCode": "ANG",
-"CurrencyName": "Guilder",
-"PhonePrefix": "599",
-"Languages": [
-"nl-AN",
-"en",
-"es"
 ]
 }
 ]

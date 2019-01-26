@@ -20419,11 +20419,6 @@
 "LatLong": "-32.35,151.9333"
 },
 {
-"Name": "Summer Hill",
-"PostCode": "2287",
-"LatLong": "-33.8915,151.1382"
-},
-{
 "Name": "Swan Bay",
 "PostCode": "2324",
 "LatLong": "-32.6918,151.9289"
@@ -45869,25 +45864,6 @@
 "Code": "SA",
 "Provinces": [
 {
-"Name": "ALICE SPRINGS",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Ernabella",
-"PostCode": "0872",
-"LatLong": "-23.7917,132.6818"
-},
-{
-"Name": "Fregon",
-"PostCode": "0872",
-"LatLong": "-26.7639,132.0277"
-}
-]
-}
-]
-},
-{
 "Communities": [
 {
 "Places": [
@@ -50645,6 +50621,25 @@
 "Name": "Zadows Landing",
 "PostCode": "5254",
 "LatLong": "-35.0406,139.1998"
+}
+]
+}
+]
+},
+{
+"Name": "ALICE SPRINGS",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Ernabella",
+"PostCode": "0872",
+"LatLong": "-23.7917,132.6818"
+},
+{
+"Name": "Fregon",
+"PostCode": "0872",
+"LatLong": "-26.7639,132.0277"
 }
 ]
 }

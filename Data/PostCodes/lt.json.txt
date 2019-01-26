@@ -2,35 +2,6 @@
 {
 "Provinces": [
 {
-"Name": "Palangos m. sav.",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Palanga",
-"PostCode": "00001",
-"LatLong": "55.9175,21.0686"
-},
-{
-"Name": "Palanga",
-"PostCode": "00009",
-"LatLong": "55.9175,21.0686"
-},
-{
-"Name": "SB „Bočiai“",
-"PostCode": "00001",
-"LatLong": "55.9175,21.0686"
-},
-{
-"Name": "SB „Pavėsis“",
-"PostCode": "00001",
-"LatLong": "55.9175,21.0686"
-}
-]
-}
-]
-},
-{
 "Name": "Klaipėdos r. sav.",
 "Communities": [
 {
@@ -1729,6 +1700,35 @@
 "Name": "Žvirblių k.",
 "PostCode": "96001",
 "LatLong": "55.7128,21.4033"
+}
+]
+}
+]
+},
+{
+"Name": "Palangos m. sav.",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Palanga",
+"PostCode": "00001",
+"LatLong": "55.9175,21.0686"
+},
+{
+"Name": "Palanga",
+"PostCode": "00009",
+"LatLong": "55.9175,21.0686"
+},
+{
+"Name": "SB „Bočiai“",
+"PostCode": "00001",
+"LatLong": "55.9175,21.0686"
+},
+{
+"Name": "SB „Pavėsis“",
+"PostCode": "00001",
+"LatLong": "55.9175,21.0686"
 }
 ]
 }
