@@ -3,7 +3,7 @@
   <PropertyGroup>
     <LangVersion>latest</LangVersion>
     <NoWarn>CS1591</NoWarn>
-    <Version>1.13.0</Version>
+    <Version>1.14.0</Version>
     <AssemblyInformationalVersion>$(Version)</AssemblyInformationalVersion>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>../key.snk</AssemblyOriginatorKeyFile>
