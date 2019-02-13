@@ -66,7 +66,7 @@ var targetInstance = faker.Generate();
 
 ### Country Codes
 
-List of country codes: https://raw.githubusercontent.com/SimonCropp/CountryData/master/data/countrycodes.txt
+List of country codes: https://raw.githubusercontent.com/SimonCropp/CountryData/master/Data/countrycodes.txt
 
 ```
 https://raw.githubusercontent.com/SimonCropp/CountryData/master/Data/PostCodes/[CountryCode].json.txt
