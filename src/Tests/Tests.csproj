@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MarkdownSnippets" Version="9.0.3" />
+    <PackageReference Include="MarkdownSnippets" Version="9.0.4" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
     <PackageReference Include="ObjectApproval" Version="6.0.0" />
     <PackageReference Include="System.IO.Compression" Version="4.3.0" />
