@@ -12,7 +12,7 @@
 {
 "Name": "Bettange-sur-Mess",
 "PostCode": "L-4970",
-"LatLong": "49.5765,5.9948"
+"LatLong": "49.5765,5.9949"
 },
 {
 "Name": "Bettange-sur-Mess",
@@ -22,17 +22,22 @@
 {
 "Name": "Bettange-sur-Mess",
 "PostCode": "L-4975",
-"LatLong": "49.5747,5.9872"
+"LatLong": "49.5746,5.987"
 },
 {
 "Name": "Bettange-sur-Mess",
 "PostCode": "L-4976",
-"LatLong": "49.5742,5.9812"
+"LatLong": "49.5743,5.9811"
 },
 {
 "Name": "Bettange-sur-Mess",
 "PostCode": "L-4977",
 "LatLong": "49.5762,5.9869"
+},
+{
+"Name": "Dippach",
+"PostCode": "L-4906",
+"LatLong": "49.5877,5.9782"
 },
 {
 "Name": "Dippach",
@@ -47,7 +52,7 @@
 {
 "Name": "Dippach",
 "PostCode": "L-4974",
-"LatLong": "49.5881,5.9867"
+"LatLong": "49.5881,5.9862"
 },
 {
 "Name": "Schouweiler",
@@ -57,22 +62,27 @@
 {
 "Name": "Schouweiler",
 "PostCode": "L-4994",
-"LatLong": "49.5819,5.9582"
+"LatLong": "49.5823,5.9589"
 },
 {
 "Name": "Schouweiler",
 "PostCode": "L-4995",
-"LatLong": "49.5793,5.9506"
+"LatLong": "49.5793,5.9505"
 },
 {
 "Name": "Schouweiler",
 "PostCode": "L-4996",
-"LatLong": "49.5812,5.9545"
+"LatLong": "49.5811,5.9546"
 },
 {
 "Name": "Schouweiler",
 "PostCode": "L-4997",
-"LatLong": "49.5857,5.9555"
+"LatLong": "49.5859,5.9553"
+},
+{
+"Name": "Schouweiler",
+"PostCode": "L-4998",
+"LatLong": "49.5814,5.9619"
 },
 {
 "Name": "Schouweiler",
@@ -82,7 +92,7 @@
 {
 "Name": "Sprinkange",
 "PostCode": "L-4970",
-"LatLong": "49.5863,5.9711"
+"LatLong": "49.5853,5.9728"
 },
 {
 "Name": "Sprinkange",
@@ -92,7 +102,7 @@
 {
 "Name": "Sprinkange",
 "PostCode": "L-4998",
-"LatLong": "49.5817,5.9654"
+"LatLong": "49.5816,5.9653"
 },
 {
 "Name": "Sprinkange",
@@ -127,17 +137,17 @@
 {
 "Name": "Garnich",
 "PostCode": "L-8353",
-"LatLong": "49.616,5.9519"
+"LatLong": "49.616,5.952"
 },
 {
 "Name": "Garnich",
 "PostCode": "L-8354",
-"LatLong": "49.6177,5.9508"
+"LatLong": "49.6176,5.9507"
 },
 {
 "Name": "Garnich",
 "PostCode": "L-8355",
-"LatLong": "49.6133,5.9528"
+"LatLong": "49.6132,5.9528"
 },
 {
 "Name": "Garnich",
@@ -147,12 +157,12 @@
 {
 "Name": "Hivange",
 "PostCode": "L-8369",
-"LatLong": "49.6051,5.9286"
+"LatLong": "49.6051,5.9285"
 },
 {
 "Name": "Kahler",
 "PostCode": "L-8376",
-"LatLong": "49.6327,5.9165"
+"LatLong": "49.6326,5.9166"
 }
 ]
 }
@@ -167,7 +177,7 @@
 {
 "Name": "Eischen",
 "PostCode": "L-8460",
-"LatLong": "49.6809,5.8777"
+"LatLong": "49.681,5.8778"
 },
 {
 "Name": "Eischen",
@@ -197,7 +207,7 @@
 {
 "Name": "Eischen",
 "PostCode": "L-8466",
-"LatLong": "49.6869,5.8792"
+"LatLong": "49.687,5.8792"
 },
 {
 "Name": "Eischen",
@@ -272,17 +282,17 @@
 {
 "Name": "Hobscheid",
 "PostCode": "L-8370",
-"LatLong": "49.6954,5.9166"
+"LatLong": "49.6952,5.9166"
 },
 {
 "Name": "Hobscheid",
 "PostCode": "L-8371",
-"LatLong": "49.6828,5.918"
+"LatLong": "49.6827,5.9181"
 },
 {
 "Name": "Hobscheid",
 "PostCode": "L-8372",
-"LatLong": "49.6872,5.9145"
+"LatLong": "49.6872,5.9146"
 },
 {
 "Name": "Hobscheid",
@@ -312,12 +322,17 @@
 {
 "Name": "Dondelange",
 "PostCode": "L-7423",
-"LatLong": "49.6891,6.0311"
+"LatLong": "49.689,6.0311"
 },
 {
 "Name": "Kehlen",
 "PostCode": "L-8185",
 "LatLong": "49.6573,6.0674"
+},
+{
+"Name": "Kehlen",
+"PostCode": "L-8205",
+"LatLong": "49.6647,6.0358"
 },
 {
 "Name": "Kehlen",
@@ -332,22 +347,22 @@
 {
 "Name": "Kehlen",
 "PostCode": "L-8281",
-"LatLong": "49.6669,6.0316"
+"LatLong": "49.667,6.0319"
 },
 {
 "Name": "Kehlen",
 "PostCode": "L-8282",
-"LatLong": "49.6696,6.0344"
+"LatLong": "49.6696,6.0343"
 },
 {
 "Name": "Kehlen",
 "PostCode": "L-8283",
-"LatLong": "49.6702,6.0371"
+"LatLong": "49.6703,6.0371"
 },
 {
 "Name": "Kehlen",
 "PostCode": "L-8284",
-"LatLong": "49.6677,6.0381"
+"LatLong": "49.6677,6.038"
 },
 {
 "Name": "Kehlen",
@@ -377,42 +392,42 @@
 {
 "Name": "Kehlen",
 "PostCode": "L-8290",
-"LatLong": "49.6566,6.0489"
+"LatLong": "49.6566,6.049"
 },
 {
 "Name": "Kehlen",
 "PostCode": "L-8295",
-"LatLong": "49.6785,6.0436"
+"LatLong": "49.6784,6.0437"
 },
 {
 "Name": "Keispelt",
 "PostCode": "L-8293",
-"LatLong": "49.6962,6.0681"
+"LatLong": "49.6962,6.0682"
 },
 {
 "Name": "Keispelt",
 "PostCode": "L-8294",
-"LatLong": "49.6914,6.0698"
+"LatLong": "49.6914,6.0699"
 },
 {
 "Name": "Keispelt",
 "PostCode": "L-8295",
-"LatLong": "49.6894,6.0627"
+"LatLong": "49.6894,6.0628"
 },
 {
 "Name": "Meispelt",
 "PostCode": "L-8291",
-"LatLong": "49.6903,6.0575"
+"LatLong": "49.6903,6.0577"
 },
 {
 "Name": "Meispelt",
 "PostCode": "L-8292",
-"LatLong": "49.6933,6.0604"
+"LatLong": "49.6933,6.0605"
 },
 {
 "Name": "Nospelt",
 "PostCode": "L-8390",
-"LatLong": "49.6733,6.0136"
+"LatLong": "49.6733,6.0135"
 },
 {
 "Name": "Nospelt",
@@ -442,12 +457,12 @@
 {
 "Name": "Olm",
 "PostCode": "L-8317",
-"LatLong": "49.6466,5.998"
+"LatLong": "49.6467,5.998"
 },
 {
 "Name": "Olm",
 "PostCode": "L-8319",
-"LatLong": "49.6485,5.99"
+"LatLong": "49.6484,5.9899"
 },
 {
 "Name": "Olm",
@@ -477,7 +492,7 @@
 {
 "Name": "Olm",
 "PostCode": "L-8332",
-"LatLong": "49.6489,5.994"
+"LatLong": "49.6481,5.9935"
 },
 {
 "Name": "Olm",
@@ -522,12 +537,12 @@
 {
 "Name": "Olm",
 "PostCode": "L-8393",
-"LatLong": "49.6528,5.9967"
+"LatLong": "49.6527,5.9967"
 },
 {
 "Name": "Olm",
 "PostCode": "L-8394",
-"LatLong": "49.6575,6.0008"
+"LatLong": "49.6576,6.0007"
 }
 ]
 }
@@ -547,12 +562,12 @@
 {
 "Name": "Goeblange",
 "PostCode": "L-8358",
-"LatLong": "49.6698,5.9665"
+"LatLong": "49.6698,5.9664"
 },
 {
 "Name": "Goeblange",
 "PostCode": "L-8359",
-"LatLong": "49.6682,5.9636"
+"LatLong": "49.6682,5.9637"
 },
 {
 "Name": "Goetzingen",
@@ -562,12 +577,17 @@
 {
 "Name": "Goetzingen",
 "PostCode": "L-8361",
-"LatLong": "49.6633,5.9786"
+"LatLong": "49.6633,5.9787"
+},
+{
+"Name": "Koerich",
+"PostCode": "L-8306",
+"LatLong": "49.6703,5.9394"
 },
 {
 "Name": "Koerich",
 "PostCode": "L-8383",
-"LatLong": "49.6703,5.9485"
+"LatLong": "49.6703,5.9484"
 },
 {
 "Name": "Koerich",
@@ -577,17 +597,17 @@
 {
 "Name": "Koerich",
 "PostCode": "L-8385",
-"LatLong": "49.668,5.9506"
+"LatLong": "49.6681,5.9507"
 },
 {
 "Name": "Koerich",
 "PostCode": "L-8386",
-"LatLong": "49.6674,5.9485"
+"LatLong": "49.6674,5.9484"
 },
 {
 "Name": "Koerich",
 "PostCode": "L-8387",
-"LatLong": "49.6721,5.9498"
+"LatLong": "49.6721,5.9497"
 },
 {
 "Name": "Koerich",
@@ -597,7 +617,7 @@
 {
 "Name": "Windhof (Koerich)",
 "PostCode": "L-8399",
-"LatLong": "49.6479,5.9583"
+"LatLong": "49.6479,5.9584"
 }
 ]
 }
@@ -627,7 +647,7 @@
 {
 "Name": "Bridel",
 "PostCode": "L-8120",
-"LatLong": "49.6479,6.0915"
+"LatLong": "49.6478,6.092"
 },
 {
 "Name": "Bridel",
@@ -647,7 +667,7 @@
 {
 "Name": "Bridel",
 "PostCode": "L-8125",
-"LatLong": "49.6506,6.0806"
+"LatLong": "49.6507,6.0805"
 },
 {
 "Name": "Bridel",
@@ -667,7 +687,7 @@
 {
 "Name": "Bridel",
 "PostCode": "L-8129",
-"LatLong": "49.6646,6.0782"
+"LatLong": "49.6647,6.0782"
 },
 {
 "Name": "Bridel",
@@ -677,7 +697,7 @@
 {
 "Name": "Bridel",
 "PostCode": "L-8132",
-"LatLong": "49.6575,6.0776"
+"LatLong": "49.6575,6.0778"
 },
 {
 "Name": "Bridel",
@@ -712,7 +732,7 @@
 {
 "Name": "Bridel",
 "PostCode": "L-8140",
-"LatLong": "49.6559,6.0821"
+"LatLong": "49.6558,6.0821"
 },
 {
 "Name": "Bridel",
@@ -732,7 +752,7 @@
 {
 "Name": "Bridel",
 "PostCode": "L-8145",
-"LatLong": "49.6577,6.0786"
+"LatLong": "49.6577,6.0785"
 },
 {
 "Name": "Bridel",
@@ -747,7 +767,7 @@
 {
 "Name": "Bridel",
 "PostCode": "L-8149",
-"LatLong": "49.6618,6.0851"
+"LatLong": "49.6617,6.0851"
 },
 {
 "Name": "Bridel",
@@ -777,7 +797,7 @@
 {
 "Name": "Bridel",
 "PostCode": "L-8156",
-"LatLong": "49.6519,6.0809"
+"LatLong": "49.652,6.0809"
 },
 {
 "Name": "Bridel",
@@ -787,7 +807,7 @@
 {
 "Name": "Bridel",
 "PostCode": "L-8158",
-"LatLong": "49.6617,6.0823"
+"LatLong": "49.6617,6.0824"
 },
 {
 "Name": "Bridel",
@@ -802,7 +822,7 @@
 {
 "Name": "Bridel",
 "PostCode": "L-8161",
-"LatLong": "49.6613,6.0838"
+"LatLong": "49.6611,6.0842"
 },
 {
 "Name": "Bridel",
@@ -818,6 +838,11 @@
 "Name": "Bridel",
 "PostCode": "L-8167",
 "LatLong": "49.6528,6.079"
+},
+{
+"Name": "Kopstal",
+"PostCode": "L-8179",
+"LatLong": "49.6632,6.0728"
 },
 {
 "Name": "Kopstal",
@@ -891,13 +916,28 @@
 "Places": [
 {
 "Name": "Capellen",
+"PostCode": "L-8301",
+"LatLong": "49.6411,6.0092"
+},
+{
+"Name": "Capellen",
+"PostCode": "L-8302",
+"LatLong": "49.6411,6.0092"
+},
+{
+"Name": "Capellen",
+"PostCode": "L-8303",
+"LatLong": "49.6411,6.0092"
+},
+{
+"Name": "Capellen",
 "PostCode": "L-8308",
-"LatLong": "49.6411,6.0089"
+"LatLong": "49.6411,6.0092"
 },
 {
 "Name": "Capellen",
 "PostCode": "L-8310",
-"LatLong": "49.644,5.9933"
+"LatLong": "49.644,5.9935"
 },
 {
 "Name": "Capellen",
@@ -932,7 +972,7 @@
 {
 "Name": "Capellen",
 "PostCode": "L-8323",
-"LatLong": "49.6442,5.9992"
+"LatLong": "49.6442,5.9991"
 },
 {
 "Name": "Capellen",
@@ -947,7 +987,7 @@
 {
 "Name": "Capellen",
 "PostCode": "L-8328",
-"LatLong": "49.6438,5.9873"
+"LatLong": "49.6438,5.9872"
 },
 {
 "Name": "Capellen",
@@ -977,7 +1017,7 @@
 {
 "Name": "Capellen",
 "PostCode": "L-8336",
-"LatLong": "49.6443,5.9891"
+"LatLong": "49.6443,5.9892"
 },
 {
 "Name": "Capellen",
@@ -997,17 +1037,27 @@
 {
 "Name": "Holzem",
 "PostCode": "L-8277",
-"LatLong": "49.6162,5.9945"
+"LatLong": "49.6164,5.9946"
 },
 {
 "Name": "Holzem",
 "PostCode": "L-8278",
-"LatLong": "49.6165,5.9894"
+"LatLong": "49.6168,5.9889"
 },
 {
 "Name": "Holzem",
 "PostCode": "L-8279",
-"LatLong": "49.6166,5.985"
+"LatLong": "49.6166,5.9851"
+},
+{
+"Name": "Holzem",
+"PostCode": "L-8309",
+"LatLong": "49.6357,5.9703"
+},
+{
+"Name": "Mamer",
+"PostCode": "L-8201",
+"LatLong": "49.6274,6.0233"
 },
 {
 "Name": "Mamer",
@@ -1017,17 +1067,17 @@
 {
 "Name": "Mamer",
 "PostCode": "L-8210",
-"LatLong": "49.6296,6.027"
+"LatLong": "49.6293,6.0279"
 },
 {
 "Name": "Mamer",
 "PostCode": "L-8211",
-"LatLong": "49.6305,6.024"
+"LatLong": "49.6307,6.0236"
 },
 {
 "Name": "Mamer",
 "PostCode": "L-8212",
-"LatLong": "49.6323,6.0279"
+"LatLong": "49.6325,6.0281"
 },
 {
 "Name": "Mamer",
@@ -1052,7 +1102,7 @@
 {
 "Name": "Mamer",
 "PostCode": "L-8217",
-"LatLong": "49.6233,6.0298"
+"LatLong": "49.6232,6.0298"
 },
 {
 "Name": "Mamer",
@@ -1067,7 +1117,7 @@
 {
 "Name": "Mamer",
 "PostCode": "L-8220",
-"LatLong": "49.6287,6.0213"
+"LatLong": "49.6288,6.0214"
 },
 {
 "Name": "Mamer",
@@ -1122,7 +1172,7 @@
 {
 "Name": "Mamer",
 "PostCode": "L-8231",
-"LatLong": "49.634,6.0179"
+"LatLong": "49.6341,6.0176"
 },
 {
 "Name": "Mamer",
@@ -1137,12 +1187,12 @@
 {
 "Name": "Mamer",
 "PostCode": "L-8234",
-"LatLong": "49.6274,6.0203"
+"LatLong": "49.6273,6.0203"
 },
 {
 "Name": "Mamer",
 "PostCode": "L-8235",
-"LatLong": "49.6348,6.0208"
+"LatLong": "49.6349,6.0208"
 },
 {
 "Name": "Mamer",
@@ -1152,7 +1202,7 @@
 {
 "Name": "Mamer",
 "PostCode": "L-8237",
-"LatLong": "49.6306,6.0208"
+"LatLong": "49.6307,6.0208"
 },
 {
 "Name": "Mamer",
@@ -1162,7 +1212,7 @@
 {
 "Name": "Mamer",
 "PostCode": "L-8239",
-"LatLong": "49.622,6.0263"
+"LatLong": "49.622,6.0264"
 },
 {
 "Name": "Mamer",
@@ -1181,13 +1231,18 @@
 },
 {
 "Name": "Mamer",
+"PostCode": "L-8243",
+"LatLong": "49.6273,6.0166"
+},
+{
+"Name": "Mamer",
 "PostCode": "L-8244",
 "LatLong": "49.6288,6.0366"
 },
 {
 "Name": "Mamer",
 "PostCode": "L-8245",
-"LatLong": "49.6279,6.0277"
+"LatLong": "49.6279,6.0276"
 },
 {
 "Name": "Mamer",
@@ -1212,7 +1267,7 @@
 {
 "Name": "Mamer",
 "PostCode": "L-8250",
-"LatLong": "49.6299,6.0386"
+"LatLong": "49.6299,6.0387"
 },
 {
 "Name": "Mamer",
@@ -1232,7 +1287,7 @@
 {
 "Name": "Mamer",
 "PostCode": "L-8254",
-"LatLong": "49.6276,6.0214"
+"LatLong": "49.6277,6.0214"
 },
 {
 "Name": "Mamer",
@@ -1252,7 +1307,7 @@
 {
 "Name": "Mamer",
 "PostCode": "L-8260",
-"LatLong": "49.6251,6.0326"
+"LatLong": "49.6251,6.0327"
 },
 {
 "Name": "Mamer",
@@ -1272,7 +1327,7 @@
 {
 "Name": "Mamer",
 "PostCode": "L-8264",
-"LatLong": "49.6345,6.0193"
+"LatLong": "49.6344,6.0193"
 },
 {
 "Name": "Mamer",
@@ -1352,12 +1407,12 @@
 {
 "Name": "Septfontaines",
 "PostCode": "L-8395",
-"LatLong": "49.7006,5.9643"
+"LatLong": "49.7005,5.9642"
 },
 {
 "Name": "Septfontaines",
 "PostCode": "L-8396",
-"LatLong": "49.6999,5.9665"
+"LatLong": "49.6999,5.9666"
 },
 {
 "Name": "Simmerfarm",
@@ -1382,7 +1437,7 @@
 {
 "Name": "Grass",
 "PostCode": "L-8346",
-"LatLong": "49.634,5.8936"
+"LatLong": "49.6339,5.8935"
 },
 {
 "Name": "Grass",
@@ -1412,7 +1467,7 @@
 {
 "Name": "Hagen",
 "PostCode": "L-8366",
-"LatLong": "49.6531,5.9235"
+"LatLong": "49.6531,5.9232"
 },
 {
 "Name": "Hagen",
@@ -1437,12 +1492,17 @@
 {
 "Name": "Kleinbettingen",
 "PostCode": "L-8380",
-"LatLong": "49.6447,5.915"
+"LatLong": "49.6447,5.9151"
 },
 {
 "Name": "Kleinbettingen",
 "PostCode": "L-8381",
 "LatLong": "49.6478,5.9175"
+},
+{
+"Name": "Steinfort",
+"PostCode": "L-8401",
+"LatLong": "49.6589,5.9084"
 },
 {
 "Name": "Steinfort",
@@ -1452,7 +1512,7 @@
 {
 "Name": "Steinfort",
 "PostCode": "L-8411",
-"LatLong": "49.6621,5.919"
+"LatLong": "49.6621,5.9188"
 },
 {
 "Name": "Steinfort",
@@ -1467,12 +1527,17 @@
 {
 "Name": "Steinfort",
 "PostCode": "L-8414",
-"LatLong": "49.6606,5.9121"
+"LatLong": "49.6607,5.9121"
 },
 {
 "Name": "Steinfort",
 "PostCode": "L-8415",
 "LatLong": "49.6637,5.9223"
+},
+{
+"Name": "Steinfort",
+"PostCode": "L-8416",
+"LatLong": "49.659,5.9186"
 },
 {
 "Name": "Steinfort",
@@ -1482,22 +1547,27 @@
 {
 "Name": "Steinfort",
 "PostCode": "L-8421",
-"LatLong": "49.6562,5.9172"
+"LatLong": "49.6561,5.9172"
 },
 {
 "Name": "Steinfort",
 "PostCode": "L-8422",
-"LatLong": "49.6642,5.9178"
+"LatLong": "49.6643,5.9177"
 },
 {
 "Name": "Steinfort",
 "PostCode": "L-8423",
-"LatLong": "49.6613,5.9132"
+"LatLong": "49.6614,5.9132"
 },
 {
 "Name": "Steinfort",
 "PostCode": "L-8424",
-"LatLong": "49.6652,5.917"
+"LatLong": "49.6652,5.9171"
+},
+{
+"Name": "Steinfort",
+"PostCode": "L-8425",
+"LatLong": "49.6548,5.916"
 },
 {
 "Name": "Steinfort",
@@ -1516,8 +1586,13 @@
 },
 {
 "Name": "Steinfort",
+"PostCode": "L-8438",
+"LatLong": "49.6594,5.9122"
+},
+{
+"Name": "Steinfort",
 "PostCode": "L-8440",
-"LatLong": "49.6597,5.9214"
+"LatLong": "49.6596,5.9214"
 },
 {
 "Name": "Steinfort",
@@ -1527,7 +1602,7 @@
 {
 "Name": "Steinfort",
 "PostCode": "L-8442",
-"LatLong": "49.6592,5.9169"
+"LatLong": "49.6592,5.9168"
 },
 {
 "Name": "Steinfort",
@@ -1591,6 +1666,16 @@
 "Places": [
 {
 "Name": "Bascharage",
+"PostCode": "L-4901",
+"LatLong": "49.56,5.8884"
+},
+{
+"Name": "Bascharage",
+"PostCode": "L-4902",
+"LatLong": "49.56,5.8884"
+},
+{
+"Name": "Bascharage",
 "PostCode": "L-4907",
 "LatLong": "49.56,5.8884"
 },
@@ -1627,7 +1712,7 @@
 {
 "Name": "Bascharage",
 "PostCode": "L-4917",
-"LatLong": "49.559,5.9249"
+"LatLong": "49.559,5.9248"
 },
 {
 "Name": "Bascharage",
@@ -1652,7 +1737,7 @@
 {
 "Name": "Bascharage",
 "PostCode": "L-4925",
-"LatLong": "49.5702,5.9069"
+"LatLong": "49.5703,5.9071"
 },
 {
 "Name": "Bascharage",
@@ -1692,7 +1777,7 @@
 {
 "Name": "Bascharage",
 "PostCode": "L-4940",
-"LatLong": "49.5685,5.9135"
+"LatLong": "49.5685,5.9136"
 },
 {
 "Name": "Bascharage",
@@ -1702,7 +1787,7 @@
 {
 "Name": "Bascharage",
 "PostCode": "L-4942",
-"LatLong": "49.5692,5.9048"
+"LatLong": "49.5692,5.9049"
 },
 {
 "Name": "Bascharage",
@@ -1722,12 +1807,12 @@
 {
 "Name": "Bascharage",
 "PostCode": "L-4947",
-"LatLong": "49.573,5.902"
+"LatLong": "49.5729,5.9019"
 },
 {
 "Name": "Bascharage",
 "PostCode": "L-4948",
-"LatLong": "49.5636,5.9064"
+"LatLong": "49.5636,5.9065"
 },
 {
 "Name": "Bascharage",
@@ -1792,37 +1877,37 @@
 {
 "Name": "Clemency",
 "PostCode": "L-4965",
-"LatLong": "49.5992,5.8714"
+"LatLong": "49.5991,5.8715"
 },
 {
 "Name": "Clemency",
 "PostCode": "L-4966",
-"LatLong": "49.5969,5.883"
+"LatLong": "49.5969,5.8831"
 },
 {
 "Name": "Clemency",
 "PostCode": "L-4967",
-"LatLong": "49.5952,5.8855"
+"LatLong": "49.5952,5.8856"
 },
 {
 "Name": "Fingig",
 "PostCode": "L-4978",
-"LatLong": "49.6034,5.8998"
+"LatLong": "49.6035,5.8998"
 },
 {
 "Name": "Fingig",
 "PostCode": "L-4979",
-"LatLong": "49.6018,5.904"
+"LatLong": "49.6018,5.9041"
 },
 {
 "Name": "Hautcharage",
 "PostCode": "L-4910",
-"LatLong": "49.574,5.909"
+"LatLong": "49.5741,5.909"
 },
 {
 "Name": "Hautcharage",
 "PostCode": "L-4913",
-"LatLong": "49.5783,5.9131"
+"LatLong": "49.5782,5.9134"
 },
 {
 "Name": "Hautcharage",
@@ -1857,7 +1942,7 @@
 {
 "Name": "Hautcharage",
 "PostCode": "L-4931",
-"LatLong": "49.5752,5.9104"
+"LatLong": "49.5752,5.9103"
 },
 {
 "Name": "Hautcharage",
@@ -1872,7 +1957,7 @@
 {
 "Name": "Hautcharage",
 "PostCode": "L-4935",
-"LatLong": "49.577,5.9055"
+"LatLong": "49.5769,5.9055"
 },
 {
 "Name": "Hautcharage",
@@ -1882,7 +1967,7 @@
 {
 "Name": "Hautcharage",
 "PostCode": "L-4940",
-"LatLong": "49.5716,5.9245"
+"LatLong": "49.5715,5.9245"
 },
 {
 "Name": "Hautcharage",
@@ -1902,7 +1987,7 @@
 {
 "Name": "Hautcharage",
 "PostCode": "L-4947",
-"LatLong": "49.5757,5.9064"
+"LatLong": "49.5757,5.9063"
 },
 {
 "Name": "Hautcharage",
@@ -1918,6 +2003,11 @@
 "Name": "Hautcharage",
 "PostCode": "L-4956",
 "LatLong": "49.5747,5.9198"
+},
+{
+"Name": "Hautcharage",
+"PostCode": "L-4957",
+"LatLong": "49.5745,5.9165"
 },
 {
 "Name": "Hautcharage",
@@ -1942,7 +2032,7 @@
 {
 "Name": "Linger",
 "PostCode": "L-4798",
-"LatLong": "49.5627,5.8797"
+"LatLong": "49.5627,5.8798"
 }
 ]
 }
@@ -1963,12 +2053,12 @@
 {
 "Name": "Allerborn",
 "PostCode": "L-9631",
-"LatLong": "50.0355,5.8744"
+"LatLong": "50.0355,5.8743"
 },
 {
 "Name": "Asselborn",
 "PostCode": "L-9940",
-"LatLong": "50.0967,5.9708"
+"LatLong": "50.0966,5.9709"
 },
 {
 "Name": "Boevange",
@@ -1978,7 +2068,7 @@
 {
 "Name": "Boxhorn",
 "PostCode": "L-9741",
-"LatLong": "50.0832,5.9896"
+"LatLong": "50.0832,5.9895"
 },
 {
 "Name": "Boxhorn",
@@ -1988,7 +2078,7 @@
 {
 "Name": "Brachtenbach",
 "PostCode": "L-9641",
-"LatLong": "50.0204,5.9097"
+"LatLong": "50.0204,5.9099"
 },
 {
 "Name": "Cinqfontaines",
@@ -1998,7 +2088,7 @@
 {
 "Name": "Crendal",
 "PostCode": "L-9743",
-"LatLong": "50.0567,5.8969"
+"LatLong": "50.0567,5.8968"
 },
 {
 "Name": "Deiffelt",
@@ -2016,19 +2106,14 @@
 "LatLong": "50.0611,5.9564"
 },
 {
-"Name": "Emeschbach Asselborn",
-"PostCode": "L-9940",
-"LatLong": "50.0925,5.9547"
-},
-{
 "Name": "Hachiville",
 "PostCode": "L-9956",
-"LatLong": "50.1073,5.9226"
+"LatLong": "50.1074,5.9225"
 },
 {
 "Name": "Hamiville",
 "PostCode": "L-9752",
-"LatLong": "50.0456,5.9003"
+"LatLong": "50.0456,5.9002"
 },
 {
 "Name": "Hinterhassel",
@@ -2038,7 +2123,7 @@
 {
 "Name": "Hoffelt",
 "PostCode": "L-9960",
-"LatLong": "50.099,5.9206"
+"LatLong": "50.099,5.9208"
 },
 {
 "Name": "Lentzweiler",
@@ -2053,17 +2138,12 @@
 {
 "Name": "Lullange",
 "PostCode": "L-9762",
-"LatLong": "50.0598,5.9399"
-},
-{
-"Name": "Lullange",
-"PostCode": "L-9780",
-"LatLong": "50.0675,5.9323"
+"LatLong": "50.0598,5.9397"
 },
 {
 "Name": "Maulusmühle",
 "PostCode": "L-9974",
-"LatLong": "50.0942,6.0247"
+"LatLong": "50.0939,6.0256"
 },
 {
 "Name": "Niederwampach",
@@ -2078,12 +2158,12 @@
 {
 "Name": "Rumlange",
 "PostCode": "L-9770",
-"LatLong": "50.0794,5.9738"
+"LatLong": "50.0793,5.9738"
 },
 {
 "Name": "Sassel",
 "PostCode": "L-9976",
-"LatLong": "50.0991,5.9955"
+"LatLong": "50.0991,5.9954"
 },
 {
 "Name": "Schimpach",
@@ -2093,7 +2173,7 @@
 {
 "Name": "Stockem",
 "PostCode": "L-9771",
-"LatLong": "50.0777,5.9573"
+"LatLong": "50.0777,5.9572"
 },
 {
 "Name": "Troine",
@@ -2103,17 +2183,17 @@
 {
 "Name": "Troine-Route",
 "PostCode": "L-9773",
-"LatLong": "50.0457,5.8788"
+"LatLong": "50.0457,5.8787"
 },
 {
 "Name": "Weiler",
 "PostCode": "L-9982",
-"LatLong": "50.1035,5.9443"
+"LatLong": "50.1036,5.9442"
 },
 {
 "Name": "Wincrange",
 "PostCode": "L-9780",
-"LatLong": "50.0533,5.9169"
+"LatLong": "50.0533,5.9168"
 }
 ]
 }
@@ -2127,18 +2207,23 @@
 "Places": [
 {
 "Name": "Clervaux",
+"PostCode": "L-9701",
+"LatLong": "50.0605,6.0243"
+},
+{
+"Name": "Clervaux",
 "PostCode": "L-9706",
-"LatLong": "50.0636,6.0223"
+"LatLong": "50.0637,6.0223"
 },
 {
 "Name": "Clervaux",
 "PostCode": "L-9707",
-"LatLong": "50.0606,6.0242"
+"LatLong": "50.0605,6.0243"
 },
 {
 "Name": "Clervaux",
 "PostCode": "L-9708",
-"LatLong": "50.0565,6.0294"
+"LatLong": "50.0564,6.0296"
 },
 {
 "Name": "Clervaux",
@@ -2153,7 +2238,7 @@
 {
 "Name": "Clervaux",
 "PostCode": "L-9711",
-"LatLong": "50.0562,6.0284"
+"LatLong": "50.0562,6.0285"
 },
 {
 "Name": "Clervaux",
@@ -2163,7 +2248,7 @@
 {
 "Name": "Clervaux",
 "PostCode": "L-9713",
-"LatLong": "50.0561,6.0253"
+"LatLong": "50.0561,6.0254"
 },
 {
 "Name": "Clervaux",
@@ -2188,7 +2273,7 @@
 {
 "Name": "Eselborn",
 "PostCode": "L-9738",
-"LatLong": "50.0601,6.0036"
+"LatLong": "50.06,6.0036"
 },
 {
 "Name": "Eselborn",
@@ -2198,12 +2283,12 @@
 {
 "Name": "Eselborn",
 "PostCode": "L-9779",
-"LatLong": "50.0644,5.9888"
+"LatLong": "50.0644,5.9889"
 },
 {
 "Name": "Fischbach",
 "PostCode": "L-9749",
-"LatLong": "50.075,6.0691"
+"LatLong": "50.0751,6.0693"
 },
 {
 "Name": "Fossenhof",
@@ -2213,17 +2298,17 @@
 {
 "Name": "Grindhausen",
 "PostCode": "L-9751",
-"LatLong": "50.0828,6.059"
+"LatLong": "50.0829,6.059"
 },
 {
 "Name": "Heinerscheid",
 "PostCode": "L-9753",
-"LatLong": "50.0945,6.087"
+"LatLong": "50.0945,6.0871"
 },
 {
 "Name": "Hupperdange",
 "PostCode": "L-9755",
-"LatLong": "50.0953,6.0578"
+"LatLong": "50.0953,6.0579"
 },
 {
 "Name": "Kaaspelterhof",
@@ -2238,7 +2323,7 @@
 {
 "Name": "Kalborn",
 "PostCode": "L-9757",
-"LatLong": "50.1019,6.1117"
+"LatLong": "50.1019,6.1116"
 },
 {
 "Name": "Kirelshof",
@@ -2253,17 +2338,17 @@
 {
 "Name": "Lieler",
 "PostCode": "L-9972",
-"LatLong": "50.1245,6.1091"
+"LatLong": "50.1245,6.109"
 },
 {
 "Name": "Marnach",
 "PostCode": "L-9763",
-"LatLong": "50.0489,6.0736"
+"LatLong": "50.049,6.0737"
 },
 {
 "Name": "Marnach",
 "PostCode": "L-9764",
-"LatLong": "50.0554,6.0649"
+"LatLong": "50.0557,6.0649"
 },
 {
 "Name": "Mecher",
@@ -2278,17 +2363,17 @@
 {
 "Name": "Reuler",
 "PostCode": "L-9768",
-"LatLong": "50.0566,6.0357"
+"LatLong": "50.0566,6.0358"
 },
 {
 "Name": "Roder",
 "PostCode": "L-9769",
-"LatLong": "50.0553,6.0824"
+"LatLong": "50.0553,6.0823"
 },
 {
 "Name": "Siebenaler",
 "PostCode": "L-9840",
-"LatLong": "50.0101,6.0254"
+"LatLong": "50.0101,6.0255"
 },
 {
 "Name": "Tintesmühle",
@@ -2303,12 +2388,12 @@
 {
 "Name": "Weicherdange",
 "PostCode": "L-9775",
-"LatLong": "50.0378,5.9873"
+"LatLong": "50.0379,5.9873"
 },
 {
 "Name": "Wirtgensmühle",
 "PostCode": "L-9765",
-"LatLong": "50.0336,6.0088"
+"LatLong": "50.0335,6.0086"
 }
 ]
 }
@@ -2323,12 +2408,12 @@
 {
 "Name": "Basbellain",
 "PostCode": "L-9942",
-"LatLong": "50.1441,5.9837"
+"LatLong": "50.1438,5.9834"
 },
 {
 "Name": "Biwisch",
 "PostCode": "L-9948",
-"LatLong": "50.1181,5.9816"
+"LatLong": "50.1182,5.9819"
 },
 {
 "Name": "Drinklange",
@@ -2338,17 +2423,22 @@
 {
 "Name": "Goedange",
 "PostCode": "L-9954",
-"LatLong": "50.1468,6.0131"
+"LatLong": "50.147,6.0135"
 },
 {
 "Name": "Hautbellain",
 "PostCode": "L-9943",
-"LatLong": "50.1551,5.9767"
+"LatLong": "50.155,5.9768"
 },
 {
 "Name": "Huldange",
 "PostCode": "L-9964",
-"LatLong": "50.1646,6.0148"
+"LatLong": "50.1646,6.0147"
+},
+{
+"Name": "Troisvierges",
+"PostCode": "L-9901",
+"LatLong": "50.1163,5.9915"
 },
 {
 "Name": "Troisvierges",
@@ -2368,12 +2458,12 @@
 {
 "Name": "Troisvierges",
 "PostCode": "L-9907",
-"LatLong": "50.1162,5.9915"
+"LatLong": "50.1163,5.9915"
 },
 {
 "Name": "Troisvierges",
 "PostCode": "L-9908",
-"LatLong": "50.1211,5.9975"
+"LatLong": "50.1212,5.9975"
 },
 {
 "Name": "Troisvierges",
@@ -2383,17 +2473,17 @@
 {
 "Name": "Troisvierges",
 "PostCode": "L-9910",
-"LatLong": "50.1244,6.0005"
+"LatLong": "50.1244,6.0006"
 },
 {
 "Name": "Troisvierges",
 "PostCode": "L-9911",
-"LatLong": "50.125,6.0039"
+"LatLong": "50.1251,6.0042"
 },
 {
 "Name": "Troisvierges",
 "PostCode": "L-9912",
-"LatLong": "50.1216,6.0033"
+"LatLong": "50.1215,6.0033"
 },
 {
 "Name": "Troisvierges",
@@ -2403,7 +2493,12 @@
 {
 "Name": "Wilwerdange",
 "PostCode": "L-9980",
-"LatLong": "50.1402,6.0229"
+"LatLong": "50.1404,6.0222"
+},
+{
+"Name": "Wilwerdange",
+"PostCode": "L-9981",
+"LatLong": "50.1404,6.0222"
 }
 ]
 }
@@ -2423,12 +2518,12 @@
 {
 "Name": "Binsfeld",
 "PostCode": "L-9946",
-"LatLong": "50.1189,6.0377"
+"LatLong": "50.119,6.0377"
 },
 {
 "Name": "Breidfeld",
 "PostCode": "L-9950",
-"LatLong": "50.1232,6.0621"
+"LatLong": "50.1232,6.0622"
 },
 {
 "Name": "Holler",
@@ -2443,12 +2538,17 @@
 {
 "Name": "Kaesfurt",
 "PostCode": "L-9966",
-"LatLong": "50.1549,6.0793"
+"LatLong": "50.1559,6.079"
+},
+{
+"Name": "Kleemühle",
+"PostCode": "L-9968",
+"LatLong": "50.1069,6.0427"
 },
 {
 "Name": "Leithum",
 "PostCode": "L-9970",
-"LatLong": "50.16,6.1076"
+"LatLong": "50.1601,6.1078"
 },
 {
 "Name": "Rossmühle",
@@ -2458,12 +2558,12 @@
 {
 "Name": "Weiswampach",
 "PostCode": "L-9990",
-"LatLong": "50.1363,6.0744"
+"LatLong": "50.1363,6.0743"
 },
 {
 "Name": "Weiswampach",
 "PostCode": "L-9991",
-"LatLong": "50.141,6.0771"
+"LatLong": "50.1408,6.0774"
 },
 {
 "Name": "Weiswampach",
@@ -2473,12 +2573,17 @@
 {
 "Name": "Weiswampach",
 "PostCode": "L-9993",
-"LatLong": "50.1373,6.0796"
+"LatLong": "50.1373,6.0797"
+},
+{
+"Name": "Weiswampach",
+"PostCode": "L-9994",
+"LatLong": "50.1356,6.0775"
 },
 {
 "Name": "Wemperhardt",
 "PostCode": "L-9999",
-"LatLong": "50.1544,6.0524"
+"LatLong": "50.1542,6.0526"
 }
 ]
 }
@@ -2493,7 +2598,7 @@
 {
 "Name": "Bockholtz",
 "PostCode": "L-9830",
-"LatLong": "50.0118,6.0515"
+"LatLong": "50.0117,6.0516"
 },
 {
 "Name": "Consthum",
@@ -2508,22 +2613,22 @@
 {
 "Name": "Eisenbach",
 "PostCode": "L-9838",
-"LatLong": "50.0043,6.1438"
+"LatLong": "50.0043,6.1439"
 },
 {
 "Name": "Holzthum",
 "PostCode": "L-9834",
-"LatLong": "49.9855,6.0742"
+"LatLong": "49.9856,6.0743"
 },
 {
 "Name": "Hoscheid",
 "PostCode": "L-9376",
-"LatLong": "49.9473,6.0816"
+"LatLong": "49.9471,6.0815"
 },
 {
 "Name": "Hoscheid",
 "PostCode": "L-9377",
-"LatLong": "49.945,6.0784"
+"LatLong": "49.9451,6.0785"
 },
 {
 "Name": "Hoscheid",
@@ -2533,7 +2638,12 @@
 {
 "Name": "Hoscheid-Dickt",
 "PostCode": "L-9835",
-"LatLong": "49.9729,6.0904"
+"LatLong": "49.9724,6.0904"
+},
+{
+"Name": "Hosingen",
+"PostCode": "L-9801",
+"LatLong": "50.015,6.089"
 },
 {
 "Name": "Hosingen",
@@ -2543,7 +2653,7 @@
 {
 "Name": "Hosingen",
 "PostCode": "L-9806",
-"LatLong": "50.0148,6.0907"
+"LatLong": "50.0149,6.0907"
 },
 {
 "Name": "Hosingen",
@@ -2558,7 +2668,12 @@
 {
 "Name": "Hosingen",
 "PostCode": "L-9809",
-"LatLong": "50.0106,6.0915"
+"LatLong": "50.0111,6.0919"
+},
+{
+"Name": "Hosingen",
+"PostCode": "L-9810",
+"LatLong": "50.0139,6.0949"
 },
 {
 "Name": "Hosingen",
@@ -2573,7 +2688,7 @@
 {
 "Name": "Oberschlinder",
 "PostCode": "L-9183",
-"LatLong": "49.9539,6.0639"
+"LatLong": "49.9539,6.064"
 },
 {
 "Name": "Rodershausen",
@@ -2583,12 +2698,12 @@
 {
 "Name": "Unterschlinder",
 "PostCode": "L-9183",
-"LatLong": "49.9348,6.0706"
+"LatLong": "49.9348,6.0705"
 },
 {
 "Name": "Wahlhausen",
 "PostCode": "L-9841",
-"LatLong": "49.9832,6.1183"
+"LatLong": "49.9834,6.1177"
 }
 ]
 }
@@ -2614,12 +2729,12 @@
 {
 "Name": "Bettendorf",
 "PostCode": "L-9353",
-"LatLong": "49.8737,6.219"
+"LatLong": "49.8736,6.2189"
 },
 {
 "Name": "Bettendorf",
 "PostCode": "L-9354",
-"LatLong": "49.8765,6.2087"
+"LatLong": "49.8766,6.2084"
 },
 {
 "Name": "Bettendorf",
@@ -2629,17 +2744,17 @@
 {
 "Name": "Bettendorf",
 "PostCode": "L-9356",
-"LatLong": "49.8794,6.2182"
+"LatLong": "49.8795,6.2182"
 },
 {
 "Name": "Bettendorf",
 "PostCode": "L-9357",
-"LatLong": "49.8786,6.2211"
+"LatLong": "49.8786,6.221"
 },
 {
 "Name": "Bettendorf",
 "PostCode": "L-9359",
-"LatLong": "49.8746,6.1897"
+"LatLong": "49.8747,6.1898"
 },
 {
 "Name": "Gilsdorf",
@@ -2654,12 +2769,12 @@
 {
 "Name": "Gilsdorf",
 "PostCode": "L-9370",
-"LatLong": "49.865,6.18"
+"LatLong": "49.8651,6.18"
 },
 {
 "Name": "Gilsdorf",
 "PostCode": "L-9371",
-"LatLong": "49.8672,6.1835"
+"LatLong": "49.8672,6.1833"
 },
 {
 "Name": "Gilsdorf",
@@ -2672,6 +2787,11 @@
 "LatLong": "49.8621,6.1805"
 },
 {
+"Name": "Gilsdorf",
+"PostCode": "L-9374",
+"LatLong": "49.8633,6.17"
+},
+{
 "Name": "Moestroff",
 "PostCode": "L-9364",
 "LatLong": "49.8497,6.2352"
@@ -2679,7 +2799,7 @@
 {
 "Name": "Moestroff",
 "PostCode": "L-9381",
-"LatLong": "49.8688,6.2404"
+"LatLong": "49.8688,6.2405"
 },
 {
 "Name": "Moestroff",
@@ -2699,77 +2819,87 @@
 {
 "Name": "Bourscheid",
 "PostCode": "L-9140",
-"LatLong": "49.9093,6.0649"
+"LatLong": "49.9097,6.0645"
 },
 {
 "Name": "Bourscheid-Moulin",
 "PostCode": "L-9164",
-"LatLong": "49.9128,6.0852"
+"LatLong": "49.9101,6.0861"
 },
 {
 "Name": "Bourscheid-Plage",
 "PostCode": "L-9164",
-"LatLong": "49.9101,6.0819"
+"LatLong": "49.909,6.0792"
 },
 {
 "Name": "Closdelt",
 "PostCode": "L-9378",
-"LatLong": "49.9018,6.1224"
+"LatLong": "49.9017,6.1225"
+},
+{
+"Name": "Dirbach",
+"PostCode": "L-9153",
+"LatLong": "49.9182,6.0352"
 },
 {
 "Name": "Enteschbach",
 "PostCode": "L-9378",
-"LatLong": "49.912,6.114"
+"LatLong": "49.912,6.1141"
+},
+{
+"Name": "Flebour",
+"PostCode": "L-9340",
+"LatLong": "49.9052,6.1158"
 },
 {
 "Name": "Flebour",
 "PostCode": "L-9378",
-"LatLong": "49.9105,6.1072"
+"LatLong": "49.9101,6.1077"
 },
 {
 "Name": "Friedbusch",
 "PostCode": "L-9183",
-"LatLong": "49.9504,6.0557"
+"LatLong": "49.9503,6.0558"
 },
 {
 "Name": "Goebelsmühle",
 "PostCode": "L-9153",
-"LatLong": "49.9214,6.0534"
+"LatLong": "49.921,6.0549"
 },
 {
 "Name": "Kehmen",
 "PostCode": "L-9163",
-"LatLong": "49.8996,6.0368"
+"LatLong": "49.8997,6.0367"
 },
 {
 "Name": "Lipperscheid",
 "PostCode": "L-9164",
-"LatLong": "49.9184,6.0866"
+"LatLong": "49.9182,6.0861"
 },
 {
 "Name": "Lipperscheid",
 "PostCode": "L-9378",
-"LatLong": "49.9223,6.0934"
+"LatLong": "49.926,6.0899"
 },
 {
 "Name": "Michelau",
 "PostCode": "L-9171",
-"LatLong": "49.8992,6.0909"
+"LatLong": "49.8992,6.0908"
 },
 {
 "Name": "Michelau",
 "PostCode": "L-9172",
-"LatLong": "49.8957,6.0916"
+"LatLong": "49.895,6.0965"
 },
 {
 "Name": "Scheidel",
 "PostCode": "L-9182",
-"LatLong": "49.893,6.0421"
+"LatLong": "49.893,6.0424"
 },
 {
 "Name": "Schlindermanderscheid",
 "PostCode": "L-9183",
-"LatLong": "49.9321,6.0607"
+"LatLong": "49.9321,6.0609"
 },
 {
 "Name": "Welscheid",
@@ -2788,6 +2918,21 @@
 "Places": [
 {
 "Name": "Diekirch",
+"PostCode": "L-9201",
+"LatLong": "49.8629,6.1571"
+},
+{
+"Name": "Diekirch",
+"PostCode": "L-9202",
+"LatLong": "49.8629,6.1571"
+},
+{
+"Name": "Diekirch",
+"PostCode": "L-9203",
+"LatLong": "49.8629,6.1571"
+},
+{
+"Name": "Diekirch",
 "PostCode": "L-9205",
 "LatLong": "49.8694,6.159"
 },
@@ -2804,12 +2949,12 @@
 {
 "Name": "Diekirch",
 "PostCode": "L-9208",
-"LatLong": "49.868,6.1576"
+"LatLong": "49.8681,6.1576"
 },
 {
 "Name": "Diekirch",
 "PostCode": "L-9209",
-"LatLong": "49.8731,6.1572"
+"LatLong": "49.873,6.1572"
 },
 {
 "Name": "Diekirch",
@@ -2854,7 +2999,7 @@
 {
 "Name": "Diekirch",
 "PostCode": "L-9218",
-"LatLong": "49.868,6.1607"
+"LatLong": "49.868,6.1608"
 },
 {
 "Name": "Diekirch",
@@ -2878,8 +3023,18 @@
 },
 {
 "Name": "Diekirch",
+"PostCode": "L-9226",
+"LatLong": "49.8703,6.156"
+},
+{
+"Name": "Diekirch",
 "PostCode": "L-9227",
 "LatLong": "49.8699,6.1607"
+},
+{
+"Name": "Diekirch",
+"PostCode": "L-9228",
+"LatLong": "49.8689,6.1751"
 },
 {
 "Name": "Diekirch",
@@ -2914,7 +3069,7 @@
 {
 "Name": "Diekirch",
 "PostCode": "L-9235",
-"LatLong": "49.8654,6.1456"
+"LatLong": "49.8655,6.1456"
 },
 {
 "Name": "Diekirch",
@@ -2949,7 +3104,7 @@
 {
 "Name": "Diekirch",
 "PostCode": "L-9242",
-"LatLong": "49.8679,6.162"
+"LatLong": "49.868,6.1621"
 },
 {
 "Name": "Diekirch",
@@ -2968,18 +3123,23 @@
 },
 {
 "Name": "Diekirch",
+"PostCode": "L-9249",
+"LatLong": "49.8681,6.16"
+},
+{
+"Name": "Diekirch",
 "PostCode": "L-9250",
 "LatLong": "49.8652,6.1523"
 },
 {
 "Name": "Diekirch",
 "PostCode": "L-9251",
-"LatLong": "49.8663,6.1516"
+"LatLong": "49.8664,6.1517"
 },
 {
 "Name": "Diekirch",
 "PostCode": "L-9252",
-"LatLong": "49.8691,6.1507"
+"LatLong": "49.869,6.1507"
 },
 {
 "Name": "Diekirch",
@@ -3098,6 +3258,11 @@
 },
 {
 "Name": "Diekirch",
+"PostCode": "L-9281",
+"LatLong": "49.8676,6.1537"
+},
+{
+"Name": "Diekirch",
 "PostCode": "L-9282",
 "LatLong": "49.8669,6.1525"
 },
@@ -3109,7 +3274,7 @@
 {
 "Name": "Diekirch",
 "PostCode": "L-9284",
-"LatLong": "49.8676,6.1606"
+"LatLong": "49.8675,6.1606"
 },
 {
 "Name": "Diekirch",
@@ -3149,7 +3314,7 @@
 {
 "Name": "Diekirch",
 "PostCode": "L-9292",
-"LatLong": "49.8695,6.1606"
+"LatLong": "49.8696,6.1606"
 },
 {
 "Name": "Diekirch",
@@ -3160,6 +3325,11 @@
 "Name": "Diekirch",
 "PostCode": "L-9294",
 "LatLong": "49.8657,6.1717"
+},
+{
+"Name": "Diekirch",
+"PostCode": "L-9330",
+"LatLong": "49.8641,6.1726"
 },
 {
 "Name": "Diekirch",
@@ -3179,17 +3349,17 @@
 {
 "Name": "Burden",
 "PostCode": "L-9142",
-"LatLong": "49.8823,6.0912"
+"LatLong": "49.8822,6.0913"
 },
 {
 "Name": "Burden",
 "PostCode": "L-9172",
-"LatLong": "49.8919,6.0946"
+"LatLong": "49.8922,6.0941"
 },
 {
 "Name": "Erpeldange-sur-Sûre",
 "PostCode": "L-9145",
-"LatLong": "49.8592,6.1132"
+"LatLong": "49.8591,6.1132"
 },
 {
 "Name": "Erpeldange-sur-Sûre",
@@ -3204,12 +3374,17 @@
 {
 "Name": "Erpeldange-sur-Sûre",
 "PostCode": "L-9172",
-"LatLong": "49.8816,6.112"
+"LatLong": "49.8836,6.1118"
+},
+{
+"Name": "Erpeldange-sur-Sûre",
+"PostCode": "L-9378",
+"LatLong": "49.8735,6.1276"
 },
 {
 "Name": "Ingeldorf",
 "PostCode": "L-9099",
-"LatLong": "49.8525,6.1282"
+"LatLong": "49.8541,6.1308"
 },
 {
 "Name": "Ingeldorf",
@@ -3219,12 +3394,12 @@
 {
 "Name": "Ingeldorf",
 "PostCode": "L-9160",
-"LatLong": "49.8564,6.1381"
+"LatLong": "49.8564,6.1382"
 },
 {
 "Name": "Ingeldorf",
 "PostCode": "L-9161",
-"LatLong": "49.8512,6.1324"
+"LatLong": "49.8513,6.1324"
 }
 ]
 }
@@ -3236,6 +3411,26 @@
 "Communities": [
 {
 "Places": [
+{
+"Name": "Ettelbruck",
+"PostCode": "L-9001",
+"LatLong": "49.8464,6.0991"
+},
+{
+"Name": "Ettelbruck",
+"PostCode": "L-9002",
+"LatLong": "49.8464,6.0991"
+},
+{
+"Name": "Ettelbruck",
+"PostCode": "L-9003",
+"LatLong": "49.8464,6.0991"
+},
+{
+"Name": "Ettelbruck",
+"PostCode": "L-9004",
+"LatLong": "49.8464,6.0991"
+},
 {
 "Name": "Ettelbruck",
 "PostCode": "L-9010",
@@ -3269,7 +3464,7 @@
 {
 "Name": "Ettelbruck",
 "PostCode": "L-9016",
-"LatLong": "49.85,6.1031"
+"LatLong": "49.8501,6.1032"
 },
 {
 "Name": "Ettelbruck",
@@ -3304,7 +3499,7 @@
 {
 "Name": "Ettelbruck",
 "PostCode": "L-9025",
-"LatLong": "49.8468,6.0964"
+"LatLong": "49.8467,6.0964"
 },
 {
 "Name": "Ettelbruck",
@@ -3334,7 +3529,7 @@
 {
 "Name": "Ettelbruck",
 "PostCode": "L-9043",
-"LatLong": "49.8472,6.0963"
+"LatLong": "49.8472,6.0962"
 },
 {
 "Name": "Ettelbruck",
@@ -3344,7 +3539,7 @@
 {
 "Name": "Ettelbruck",
 "PostCode": "L-9045",
-"LatLong": "49.8481,6.0853"
+"LatLong": "49.8478,6.0854"
 },
 {
 "Name": "Ettelbruck",
@@ -3354,7 +3549,7 @@
 {
 "Name": "Ettelbruck",
 "PostCode": "L-9047",
-"LatLong": "49.8474,6.1047"
+"LatLong": "49.8473,6.1048"
 },
 {
 "Name": "Ettelbruck",
@@ -3379,7 +3574,7 @@
 {
 "Name": "Ettelbruck",
 "PostCode": "L-9053",
-"LatLong": "49.849,6.1063"
+"LatLong": "49.8489,6.1062"
 },
 {
 "Name": "Ettelbruck",
@@ -3394,12 +3589,17 @@
 {
 "Name": "Ettelbruck",
 "PostCode": "L-9056",
-"LatLong": "49.8411,6.0822"
+"LatLong": "49.8413,6.0827"
+},
+{
+"Name": "Ettelbruck",
+"PostCode": "L-9057",
+"LatLong": "49.8489,6.1062"
 },
 {
 "Name": "Ettelbruck",
 "PostCode": "L-9060",
-"LatLong": "49.8471,6.0988"
+"LatLong": "49.8471,6.0987"
 },
 {
 "Name": "Ettelbruck",
@@ -3414,12 +3614,12 @@
 {
 "Name": "Ettelbruck",
 "PostCode": "L-9063",
-"LatLong": "49.8455,6.0978"
+"LatLong": "49.8455,6.0974"
 },
 {
 "Name": "Ettelbruck",
 "PostCode": "L-9064",
-"LatLong": "49.8456,6.0992"
+"LatLong": "49.8454,6.0991"
 },
 {
 "Name": "Ettelbruck",
@@ -3430,6 +3630,11 @@
 "Name": "Ettelbruck",
 "PostCode": "L-9066",
 "LatLong": "49.8467,6.098"
+},
+{
+"Name": "Ettelbruck",
+"PostCode": "L-9067",
+"LatLong": "49.8454,6.0991"
 },
 {
 "Name": "Ettelbruck",
@@ -3458,8 +3663,13 @@
 },
 {
 "Name": "Ettelbruck",
+"PostCode": "L-9079",
+"LatLong": "49.8468,6.0935"
+},
+{
+"Name": "Ettelbruck",
 "PostCode": "L-9080",
-"LatLong": "49.8509,6.0982"
+"LatLong": "49.8509,6.0983"
 },
 {
 "Name": "Ettelbruck",
@@ -3518,8 +3728,18 @@
 },
 {
 "Name": "Ettelbruck",
+"PostCode": "L-9093",
+"LatLong": "49.8482,6.0995"
+},
+{
+"Name": "Ettelbruck",
 "PostCode": "L-9094",
 "LatLong": "49.8461,6.0991"
+},
+{
+"Name": "Ettelbruck",
+"PostCode": "L-9098",
+"LatLong": "49.8482,6.0995"
 },
 {
 "Name": "Grentzingen",
@@ -3529,7 +3749,7 @@
 {
 "Name": "Warken",
 "PostCode": "L-9018",
-"LatLong": "49.8591,6.0902"
+"LatLong": "49.8592,6.0903"
 },
 {
 "Name": "Warken",
@@ -3564,7 +3784,7 @@
 {
 "Name": "Warken",
 "PostCode": "L-9033",
-"LatLong": "49.8584,6.091"
+"LatLong": "49.8583,6.091"
 },
 {
 "Name": "Warken",
@@ -3589,7 +3809,7 @@
 {
 "Name": "Niederfeulen",
 "PostCode": "L-9156",
-"LatLong": "49.8727,5.9973"
+"LatLong": "49.8726,5.9973"
 },
 {
 "Name": "Niederfeulen",
@@ -3599,7 +3819,7 @@
 {
 "Name": "Niederfeulen",
 "PostCode": "L-9176",
-"LatLong": "49.8553,6.04"
+"LatLong": "49.8553,6.0401"
 },
 {
 "Name": "Niederfeulen",
@@ -3629,7 +3849,7 @@
 {
 "Name": "Mertzig",
 "PostCode": "L-9166",
-"LatLong": "49.8367,6.013"
+"LatLong": "49.8368,6.0131"
 },
 {
 "Name": "Mertzig",
@@ -3639,7 +3859,7 @@
 {
 "Name": "Mertzig",
 "PostCode": "L-9168",
-"LatLong": "49.8321,6.0014"
+"LatLong": "49.8321,6.0015"
 },
 {
 "Name": "Mertzig",
@@ -3649,7 +3869,7 @@
 {
 "Name": "Mertzig",
 "PostCode": "L-9170",
-"LatLong": "49.8277,6.0062"
+"LatLong": "49.8277,6.0061"
 }
 ]
 }
@@ -3664,12 +3884,12 @@
 {
 "Name": "Bigelbach",
 "PostCode": "L-6340",
-"LatLong": "49.86,6.2871"
+"LatLong": "49.86,6.2872"
 },
 {
 "Name": "Hoesdorf",
 "PostCode": "L-9456",
-"LatLong": "49.8829,6.2566"
+"LatLong": "49.8829,6.2565"
 },
 {
 "Name": "Reisdorf",
@@ -3679,17 +3899,17 @@
 {
 "Name": "Reisdorf",
 "PostCode": "L-9390",
-"LatLong": "49.8695,6.2644"
+"LatLong": "49.8694,6.2641"
 },
 {
 "Name": "Reisdorf",
 "PostCode": "L-9391",
-"LatLong": "49.8672,6.2649"
+"LatLong": "49.8672,6.2648"
 },
 {
 "Name": "Wallendorf-Pont",
 "PostCode": "L-9392",
-"LatLong": "49.8721,6.2874"
+"LatLong": "49.8721,6.2873"
 }
 ]
 }
@@ -3734,7 +3954,7 @@
 {
 "Name": "Schieren",
 "PostCode": "L-9119",
-"LatLong": "49.8326,6.0963"
+"LatLong": "49.8325,6.0963"
 },
 {
 "Name": "Schieren",
@@ -3754,27 +3974,27 @@
 {
 "Name": "Schieren",
 "PostCode": "L-9123",
-"LatLong": "49.8316,6.0977"
+"LatLong": "49.8316,6.0978"
 },
 {
 "Name": "Schieren",
 "PostCode": "L-9124",
-"LatLong": "49.8328,6.1006"
+"LatLong": "49.8327,6.101"
 },
 {
 "Name": "Schieren",
 "PostCode": "L-9125",
-"LatLong": "49.8301,6.0967"
+"LatLong": "49.8302,6.0967"
 },
 {
 "Name": "Schieren",
 "PostCode": "L-9126",
-"LatLong": "49.8307,6.0942"
+"LatLong": "49.8306,6.0942"
 },
 {
 "Name": "Schieren",
 "PostCode": "L-9127",
-"LatLong": "49.8244,6.0973"
+"LatLong": "49.8244,6.0974"
 },
 {
 "Name": "Schieren",
@@ -3794,12 +4014,12 @@
 {
 "Name": "Schieren",
 "PostCode": "L-9131",
-"LatLong": "49.834,6.0987"
+"LatLong": "49.834,6.0988"
 },
 {
 "Name": "Schieren",
 "PostCode": "L-9132",
-"LatLong": "49.8278,6.1016"
+"LatLong": "49.8279,6.1016"
 },
 {
 "Name": "Schieren",
@@ -3836,7 +4056,7 @@
 ]
 },
 {
-"Name": "Commune de la Vallée de l’Ernz",
+"Name": "Vallée de l'Ernz",
 "Code": "8641526",
 "Communities": [
 {
@@ -3844,22 +4064,32 @@
 {
 "Name": "Eppeldorf",
 "PostCode": "L-9365",
-"LatLong": "49.8447,6.248"
+"LatLong": "49.8448,6.2479"
+},
+{
+"Name": "Ermsdorf",
+"PostCode": "L-6380",
+"LatLong": "49.8241,6.2446"
 },
 {
 "Name": "Ermsdorf",
 "PostCode": "L-9366",
-"LatLong": "49.8301,6.2208"
+"LatLong": "49.83,6.2208"
 },
 {
 "Name": "Folkendange",
 "PostCode": "L-9368",
-"LatLong": "49.8438,6.2035"
+"LatLong": "49.8421,6.2031"
 },
 {
 "Name": "Keiwelbach",
 "PostCode": "L-9364",
 "LatLong": "49.8491,6.232"
+},
+{
+"Name": "Medernach",
+"PostCode": "L-6380",
+"LatLong": "49.8183,6.2629"
 },
 {
 "Name": "Medernach",
@@ -3869,17 +4099,17 @@
 {
 "Name": "Medernach",
 "PostCode": "L-7633",
-"LatLong": "49.8001,6.1984"
+"LatLong": "49.8003,6.1983"
 },
 {
 "Name": "Medernach",
 "PostCode": "L-7634",
-"LatLong": "49.7981,6.2367"
+"LatLong": "49.805,6.2382"
 },
 {
 "Name": "Medernach",
 "PostCode": "L-7660",
-"LatLong": "49.8105,6.2178"
+"LatLong": "49.8105,6.2177"
 },
 {
 "Name": "Medernach",
@@ -3909,7 +4139,7 @@
 {
 "Name": "Stegen",
 "PostCode": "L-9186",
-"LatLong": "49.8283,6.1726"
+"LatLong": "49.8283,6.1725"
 }
 ]
 }
@@ -3918,7 +4148,7 @@
 ]
 },
 {
-"Name": "Canton d'Echternach",
+"Name": "Echternach",
 "Code": "EC",
 "Provinces": [
 {
@@ -3929,13 +4159,18 @@
 "Places": [
 {
 "Name": "Beaufort",
+"PostCode": "L-6301",
+"LatLong": "49.8368,6.2874"
+},
+{
+"Name": "Beaufort",
 "PostCode": "L-6310",
 "LatLong": "49.8372,6.2902"
 },
 {
 "Name": "Beaufort",
 "PostCode": "L-6311",
-"LatLong": "49.8461,6.2839"
+"LatLong": "49.8461,6.2837"
 },
 {
 "Name": "Beaufort",
@@ -3945,7 +4180,7 @@
 {
 "Name": "Beaufort",
 "PostCode": "L-6313",
-"LatLong": "49.8368,6.2875"
+"LatLong": "49.8368,6.2874"
 },
 {
 "Name": "Beaufort",
@@ -3955,7 +4190,7 @@
 {
 "Name": "Beaufort",
 "PostCode": "L-6315",
-"LatLong": "49.8333,6.295"
+"LatLong": "49.8333,6.2951"
 },
 {
 "Name": "Beaufort",
@@ -3970,7 +4205,7 @@
 {
 "Name": "Grundhof",
 "PostCode": "L-6360",
-"LatLong": "49.8348,6.3268"
+"LatLong": "49.8337,6.3272"
 }
 ]
 }
@@ -3985,37 +4220,32 @@
 {
 "Name": "Altrier",
 "PostCode": "L-6225",
-"LatLong": "49.75,6.3256"
+"LatLong": "49.75,6.3255"
 },
 {
 "Name": "Bech",
 "PostCode": "L-6230",
-"LatLong": "49.7523,6.36"
+"LatLong": "49.7523,6.3598"
 },
 {
 "Name": "Bech",
 "PostCode": "L-6231",
-"LatLong": "49.7525,6.3658"
+"LatLong": "49.7527,6.3659"
 },
 {
-"Name": "Blumenthal (Bech)",
+"Name": "Blumenthal",
 "PostCode": "L-7639",
-"LatLong": "49.7449,6.2659"
+"LatLong": "49.7448,6.2659"
 },
 {
-"Name": "Geyershof (Bech)",
+"Name": "Geyershof",
 "PostCode": "L-6251",
-"LatLong": "49.7662,6.3866"
-},
-{
-"Name": "Graulinster (Bech)",
-"PostCode": "L-6240",
-"LatLong": "49.7423,6.2889"
+"LatLong": "49.7662,6.3865"
 },
 {
 "Name": "Hemstal",
 "PostCode": "L-6243",
-"LatLong": "49.7408,6.3348"
+"LatLong": "49.7408,6.3349"
 },
 {
 "Name": "Hersberg",
@@ -4025,7 +4255,7 @@
 {
 "Name": "Kobenbour",
 "PostCode": "L-6225",
-"LatLong": "49.756,6.3054"
+"LatLong": "49.756,6.3055"
 },
 {
 "Name": "Rippig",
@@ -4050,17 +4280,17 @@
 {
 "Name": "Berdorf",
 "PostCode": "L-6550",
-"LatLong": "49.8222,6.348"
+"LatLong": "49.8222,6.3481"
 },
 {
 "Name": "Berdorf",
 "PostCode": "L-6551",
-"LatLong": "49.8173,6.3464"
+"LatLong": "49.8172,6.3464"
 },
 {
 "Name": "Berdorf",
 "PostCode": "L-6552",
-"LatLong": "49.8254,6.3535"
+"LatLong": "49.8256,6.3532"
 },
 {
 "Name": "Berdorf",
@@ -4075,22 +4305,22 @@
 {
 "Name": "Bollendorf-Pont",
 "PostCode": "L-6555",
-"LatLong": "49.849,6.3561"
+"LatLong": "49.8489,6.3566"
 },
 {
 "Name": "Grundhof (Berdorf)",
 "PostCode": "L-6360",
-"LatLong": "49.8313,6.3306"
+"LatLong": "49.8305,6.3305"
 },
 {
 "Name": "Kalkesbach (Berdorf)",
 "PostCode": "L-6214",
-"LatLong": "49.8013,6.3537"
+"LatLong": "49.8014,6.3541"
 },
 {
 "Name": "Weilerbach",
 "PostCode": "L-6590",
-"LatLong": "49.837,6.3786"
+"LatLong": "49.8372,6.3783"
 }
 ]
 }
@@ -4105,12 +4335,17 @@
 {
 "Name": "Breidweiler",
 "PostCode": "L-6238",
-"LatLong": "49.7777,6.3057"
+"LatLong": "49.7777,6.3059"
 },
 {
 "Name": "Colbette",
 "PostCode": "L-6239",
 "LatLong": "49.7686,6.3027"
+},
+{
+"Name": "Consdorf",
+"PostCode": "L-6201",
+"LatLong": "49.7835,6.3388"
 },
 {
 "Name": "Consdorf",
@@ -4125,7 +4360,7 @@
 {
 "Name": "Consdorf",
 "PostCode": "L-6212",
-"LatLong": "49.7798,6.3428"
+"LatLong": "49.7799,6.3429"
 },
 {
 "Name": "Consdorf",
@@ -4155,12 +4390,12 @@
 {
 "Name": "Marscherwald",
 "PostCode": "L-6239",
-"LatLong": "49.7631,6.2844"
+"LatLong": "49.7633,6.2844"
 },
 {
 "Name": "Scheidgen",
 "PostCode": "L-6250",
-"LatLong": "49.7855,6.3654"
+"LatLong": "49.7854,6.3653"
 },
 {
 "Name": "Scheidgen",
@@ -4184,6 +4419,21 @@
 "Places": [
 {
 "Name": "Echternach",
+"PostCode": "L-6401",
+"LatLong": "49.8198,6.3978"
+},
+{
+"Name": "Echternach",
+"PostCode": "L-6402",
+"LatLong": "49.8198,6.3978"
+},
+{
+"Name": "Echternach",
+"PostCode": "L-6408",
+"LatLong": "49.8198,6.3978"
+},
+{
+"Name": "Echternach",
 "PostCode": "L-6409",
 "LatLong": "49.8198,6.3978"
 },
@@ -4200,7 +4450,7 @@
 {
 "Name": "Echternach",
 "PostCode": "L-6412",
-"LatLong": "49.8048,6.4315"
+"LatLong": "49.8045,6.4315"
 },
 {
 "Name": "Echternach",
@@ -4215,12 +4465,12 @@
 {
 "Name": "Echternach",
 "PostCode": "L-6415",
-"LatLong": "49.8112,6.4198"
+"LatLong": "49.8113,6.4198"
 },
 {
 "Name": "Echternach",
 "PostCode": "L-6416",
-"LatLong": "49.8107,6.4194"
+"LatLong": "49.8107,6.4193"
 },
 {
 "Name": "Echternach",
@@ -4230,7 +4480,7 @@
 {
 "Name": "Echternach",
 "PostCode": "L-6418",
-"LatLong": "49.8103,6.4225"
+"LatLong": "49.8103,6.4223"
 },
 {
 "Name": "Echternach",
@@ -4240,27 +4490,32 @@
 {
 "Name": "Echternach",
 "PostCode": "L-6420",
-"LatLong": "49.8128,6.4155"
+"LatLong": "49.8126,6.4155"
 },
 {
 "Name": "Echternach",
 "PostCode": "L-6421",
-"LatLong": "49.8116,6.4229"
+"LatLong": "49.8116,6.4228"
 },
 {
 "Name": "Echternach",
 "PostCode": "L-6422",
-"LatLong": "49.812,6.4219"
+"LatLong": "49.812,6.4218"
+},
+{
+"Name": "Echternach",
+"PostCode": "L-6423",
+"LatLong": "49.812,6.4218"
 },
 {
 "Name": "Echternach",
 "PostCode": "L-6430",
-"LatLong": "49.8171,6.4102"
+"LatLong": "49.8176,6.4083"
 },
 {
 "Name": "Echternach",
 "PostCode": "L-6431",
-"LatLong": "49.8117,6.4225"
+"LatLong": "49.8118,6.4226"
 },
 {
 "Name": "Echternach",
@@ -4275,12 +4530,12 @@
 {
 "Name": "Echternach",
 "PostCode": "L-6434",
-"LatLong": "49.8119,6.4169"
+"LatLong": "49.812,6.417"
 },
 {
 "Name": "Echternach",
 "PostCode": "L-6435",
-"LatLong": "49.8091,6.4206"
+"LatLong": "49.8091,6.4205"
 },
 {
 "Name": "Echternach",
@@ -4319,13 +4574,18 @@
 },
 {
 "Name": "Echternach",
+"PostCode": "L-6443",
+"LatLong": "49.8083,6.4216"
+},
+{
+"Name": "Echternach",
 "PostCode": "L-6445",
 "LatLong": "49.8083,6.4216"
 },
 {
 "Name": "Echternach",
 "PostCode": "L-6446",
-"LatLong": "49.813,6.4199"
+"LatLong": "49.8131,6.4198"
 },
 {
 "Name": "Echternach",
@@ -4345,7 +4605,7 @@
 {
 "Name": "Echternach",
 "PostCode": "L-6450",
-"LatLong": "49.8098,6.4145"
+"LatLong": "49.8099,6.4146"
 },
 {
 "Name": "Echternach",
@@ -4355,12 +4615,12 @@
 {
 "Name": "Echternach",
 "PostCode": "L-6452",
-"LatLong": "49.8061,6.4292"
+"LatLong": "49.8058,6.4294"
 },
 {
 "Name": "Echternach",
 "PostCode": "L-6453",
-"LatLong": "49.8089,6.4098"
+"LatLong": "49.8089,6.4099"
 },
 {
 "Name": "Echternach",
@@ -4390,7 +4650,7 @@
 {
 "Name": "Echternach",
 "PostCode": "L-6463",
-"LatLong": "49.8133,6.417"
+"LatLong": "49.8134,6.417"
 },
 {
 "Name": "Echternach",
@@ -4410,12 +4670,12 @@
 {
 "Name": "Echternach",
 "PostCode": "L-6467",
-"LatLong": "49.8132,6.4181"
+"LatLong": "49.8132,6.418"
 },
 {
 "Name": "Echternach",
 "PostCode": "L-6468",
-"LatLong": "49.8046,6.4437"
+"LatLong": "49.8048,6.4439"
 },
 {
 "Name": "Echternach",
@@ -4425,7 +4685,7 @@
 {
 "Name": "Echternach",
 "PostCode": "L-6470",
-"LatLong": "49.8123,6.4221"
+"LatLong": "49.8123,6.422"
 },
 {
 "Name": "Echternach",
@@ -4435,7 +4695,7 @@
 {
 "Name": "Echternach",
 "PostCode": "L-6472",
-"LatLong": "49.8065,6.3945"
+"LatLong": "49.8063,6.3943"
 },
 {
 "Name": "Echternach",
@@ -4455,17 +4715,17 @@
 {
 "Name": "Echternach",
 "PostCode": "L-6476",
-"LatLong": "49.811,6.4252"
+"LatLong": "49.8109,6.4252"
 },
 {
 "Name": "Echternach",
 "PostCode": "L-6477",
-"LatLong": "49.8103,6.4209"
+"LatLong": "49.8103,6.4208"
 },
 {
 "Name": "Echternach",
 "PostCode": "L-6478",
-"LatLong": "49.8064,6.4114"
+"LatLong": "49.8064,6.4113"
 },
 {
 "Name": "Echternach",
@@ -4485,7 +4745,7 @@
 {
 "Name": "Echternach",
 "PostCode": "L-6482",
-"LatLong": "49.812,6.4181"
+"LatLong": "49.8121,6.4181"
 },
 {
 "Name": "Echternach",
@@ -4509,6 +4769,11 @@
 },
 {
 "Name": "Echternach",
+"PostCode": "L-6487",
+"LatLong": "49.8119,6.4243"
+},
+{
+"Name": "Echternach",
 "PostCode": "L-6488",
 "LatLong": "49.8066,6.4039"
 },
@@ -4525,7 +4790,7 @@
 {
 "Name": "Echternach",
 "PostCode": "L-6492",
-"LatLong": "49.8088,6.4232"
+"LatLong": "49.8087,6.4233"
 },
 {
 "Name": "Echternach",
@@ -4545,7 +4810,7 @@
 {
 "Name": "Echternach",
 "PostCode": "L-6496",
-"LatLong": "49.8116,6.4115"
+"LatLong": "49.8117,6.4115"
 },
 {
 "Name": "Echternach",
@@ -4560,12 +4825,12 @@
 {
 "Name": "Echternach",
 "PostCode": "L-6562",
-"LatLong": "49.8057,6.4056"
+"LatLong": "49.8049,6.404"
 },
 {
 "Name": "Echternach",
 "PostCode": "L-6572",
-"LatLong": "49.791,6.4242"
+"LatLong": "49.7911,6.4245"
 }
 ]
 }
@@ -4585,22 +4850,22 @@
 {
 "Name": "Born",
 "PostCode": "L-6661",
-"LatLong": "49.7588,6.5085"
+"LatLong": "49.7589,6.5084"
 },
 {
 "Name": "Boursdorf",
 "PostCode": "L-6663",
-"LatLong": "49.7649,6.4777"
+"LatLong": "49.7647,6.478"
 },
 {
 "Name": "Givenich",
 "PostCode": "L-6666",
-"LatLong": "49.7482,6.4798"
+"LatLong": "49.7482,6.4797"
 },
 {
 "Name": "Herborn",
 "PostCode": "L-6665",
-"LatLong": "49.7471,6.4272"
+"LatLong": "49.7472,6.4272"
 },
 {
 "Name": "Lilien",
@@ -4615,7 +4880,7 @@
 {
 "Name": "Moersdorf",
 "PostCode": "L-6691",
-"LatLong": "49.7439,6.4993"
+"LatLong": "49.7438,6.4992"
 },
 {
 "Name": "Moersdorf",
@@ -4625,7 +4890,7 @@
 {
 "Name": "Mompach",
 "PostCode": "L-6695",
-"LatLong": "49.7518,6.4637"
+"LatLong": "49.7518,6.4638"
 }
 ]
 }
@@ -4640,7 +4905,7 @@
 {
 "Name": "Dickweiler",
 "PostCode": "L-6557",
-"LatLong": "49.7842,6.4708"
+"LatLong": "49.7844,6.4706"
 },
 {
 "Name": "Girst",
@@ -4655,7 +4920,7 @@
 {
 "Name": "Hinkel",
 "PostCode": "L-6560",
-"LatLong": "49.7836,6.5138"
+"LatLong": "49.7836,6.5139"
 },
 {
 "Name": "Osweiler",
@@ -4665,7 +4930,7 @@
 {
 "Name": "Osweiler",
 "PostCode": "L-6571",
-"LatLong": "49.7857,6.4445"
+"LatLong": "49.7858,6.4445"
 },
 {
 "Name": "Osweiler",
@@ -4685,17 +4950,17 @@
 {
 "Name": "Rosport",
 "PostCode": "L-6580",
-"LatLong": "49.807,6.503"
+"LatLong": "49.8067,6.503"
 },
 {
 "Name": "Rosport",
 "PostCode": "L-6581",
-"LatLong": "49.8045,6.5059"
+"LatLong": "49.8045,6.5058"
 },
 {
 "Name": "Rosport",
 "PostCode": "L-6582",
-"LatLong": "49.8046,6.5012"
+"LatLong": "49.8046,6.5011"
 },
 {
 "Name": "Rosport",
@@ -4730,12 +4995,12 @@
 {
 "Name": "Christnach",
 "PostCode": "L-7640",
-"LatLong": "49.7869,6.2729"
+"LatLong": "49.7869,6.2728"
 },
 {
 "Name": "Christnach",
 "PostCode": "L-7641",
-"LatLong": "49.7894,6.2731"
+"LatLong": "49.7894,6.2732"
 },
 {
 "Name": "Freckeisen",
@@ -4745,7 +5010,7 @@
 {
 "Name": "Haller",
 "PostCode": "L-6370",
-"LatLong": "49.8191,6.2808"
+"LatLong": "49.8192,6.2806"
 },
 {
 "Name": "Haller",
@@ -4755,7 +5020,12 @@
 {
 "Name": "Mullerthal",
 "PostCode": "L-6245",
-"LatLong": "49.7905,6.3072"
+"LatLong": "49.7904,6.3071"
+},
+{
+"Name": "Savelborn (Waldbillig)",
+"PostCode": "L-6380",
+"LatLong": "49.8098,6.2542"
 },
 {
 "Name": "Waldbillig",
@@ -4765,7 +5035,7 @@
 {
 "Name": "Waldbillig",
 "PostCode": "L-7680",
-"LatLong": "49.7972,6.2826"
+"LatLong": "49.7972,6.2825"
 },
 {
 "Name": "Waldbillig",
@@ -4779,7 +5049,7 @@
 ]
 },
 {
-"Name": "Canton d'Esch-sur-Alzette",
+"Name": "Esch-sur-Alzette",
 "Code": "ES",
 "Provinces": [
 {
@@ -4791,7 +5061,17 @@
 {
 "Name": "Abweiler",
 "PostCode": "L-3311",
-"LatLong": "49.5335,6.0781"
+"LatLong": "49.5335,6.0784"
+},
+{
+"Name": "Bettembourg",
+"PostCode": "L-3201",
+"LatLong": "49.5133,6.1139"
+},
+{
+"Name": "Bettembourg",
+"PostCode": "L-3208",
+"LatLong": "49.5133,6.1139"
 },
 {
 "Name": "Bettembourg",
@@ -4851,7 +5131,7 @@
 {
 "Name": "Bettembourg",
 "PostCode": "L-3220",
-"LatLong": "49.5178,6.0994"
+"LatLong": "49.5177,6.0994"
 },
 {
 "Name": "Bettembourg",
@@ -4911,7 +5191,7 @@
 {
 "Name": "Bettembourg",
 "PostCode": "L-3235",
-"LatLong": "49.5106,6.1105"
+"LatLong": "49.5107,6.1104"
 },
 {
 "Name": "Bettembourg",
@@ -5066,7 +5346,7 @@
 {
 "Name": "Bettembourg",
 "PostCode": "L-3275",
-"LatLong": "49.5158,6.0987"
+"LatLong": "49.5162,6.0988"
 },
 {
 "Name": "Bettembourg",
@@ -5076,7 +5356,7 @@
 {
 "Name": "Bettembourg",
 "PostCode": "L-3277",
-"LatLong": "49.5194,6.0998"
+"LatLong": "49.5195,6.0999"
 },
 {
 "Name": "Bettembourg",
@@ -5096,7 +5376,7 @@
 {
 "Name": "Bettembourg",
 "PostCode": "L-3281",
-"LatLong": "49.5151,6.1133"
+"LatLong": "49.5152,6.1133"
 },
 {
 "Name": "Bettembourg",
@@ -5139,14 +5419,9 @@
 "LatLong": "49.5077,6.1056"
 },
 {
-"Name": "Bettembourg",
-"PostCode": "L-3378",
-"LatLong": "49.5266,6.1054"
-},
-{
 "Name": "Fennange",
 "PostCode": "L-3332",
-"LatLong": "49.5198,6.079"
+"LatLong": "49.5198,6.0789"
 },
 {
 "Name": "Fennange",
@@ -5181,7 +5456,7 @@
 {
 "Name": "Noertzange",
 "PostCode": "L-3384",
-"LatLong": "49.5092,6.0522"
+"LatLong": "49.5093,6.0522"
 },
 {
 "Name": "Noertzange",
@@ -5203,6 +5478,21 @@
 "Communities": [
 {
 "Places": [
+{
+"Name": "Differdange",
+"PostCode": "L-4501",
+"LatLong": "49.5205,5.8988"
+},
+{
+"Name": "Differdange",
+"PostCode": "L-4502",
+"LatLong": "49.5205,5.8988"
+},
+{
+"Name": "Differdange",
+"PostCode": "L-4503",
+"LatLong": "49.5205,5.8988"
+},
 {
 "Name": "Differdange",
 "PostCode": "L-4507",
@@ -5236,7 +5526,7 @@
 {
 "Name": "Differdange",
 "PostCode": "L-4518",
-"LatLong": "49.5195,5.9033"
+"LatLong": "49.5193,5.9032"
 },
 {
 "Name": "Differdange",
@@ -5251,12 +5541,12 @@
 {
 "Name": "Differdange",
 "PostCode": "L-4524",
-"LatLong": "49.5215,5.8894"
+"LatLong": "49.5214,5.8894"
 },
 {
 "Name": "Differdange",
 "PostCode": "L-4528",
-"LatLong": "49.521,5.9002"
+"LatLong": "49.5211,5.9001"
 },
 {
 "Name": "Differdange",
@@ -5271,12 +5561,12 @@
 {
 "Name": "Differdange",
 "PostCode": "L-4531",
-"LatLong": "49.5167,5.8922"
+"LatLong": "49.5167,5.8921"
 },
 {
 "Name": "Differdange",
 "PostCode": "L-4532",
-"LatLong": "49.5213,5.897"
+"LatLong": "49.5214,5.897"
 },
 {
 "Name": "Differdange",
@@ -5305,6 +5595,11 @@
 },
 {
 "Name": "Differdange",
+"PostCode": "L-4541",
+"LatLong": "49.5228,5.887"
+},
+{
+"Name": "Differdange",
 "PostCode": "L-4542",
 "LatLong": "49.5191,5.8917"
 },
@@ -5321,7 +5616,7 @@
 {
 "Name": "Differdange",
 "PostCode": "L-4545",
-"LatLong": "49.5181,5.9027"
+"LatLong": "49.5181,5.9026"
 },
 {
 "Name": "Differdange",
@@ -5331,7 +5626,7 @@
 {
 "Name": "Differdange",
 "PostCode": "L-4547",
-"LatLong": "49.5196,5.8929"
+"LatLong": "49.5196,5.8931"
 },
 {
 "Name": "Differdange",
@@ -5341,12 +5636,12 @@
 {
 "Name": "Differdange",
 "PostCode": "L-4549",
-"LatLong": "49.5205,5.8927"
+"LatLong": "49.5206,5.8927"
 },
 {
 "Name": "Differdange",
 "PostCode": "L-4556",
-"LatLong": "49.5247,5.8914"
+"LatLong": "49.5247,5.8915"
 },
 {
 "Name": "Differdange",
@@ -5386,7 +5681,7 @@
 {
 "Name": "Differdange",
 "PostCode": "L-4580",
-"LatLong": "49.5185,5.8809"
+"LatLong": "49.5184,5.8808"
 },
 {
 "Name": "Differdange",
@@ -5416,7 +5711,7 @@
 {
 "Name": "Differdange",
 "PostCode": "L-4594",
-"LatLong": "49.522,5.902"
+"LatLong": "49.522,5.9018"
 },
 {
 "Name": "Differdange",
@@ -5436,7 +5731,7 @@
 {
 "Name": "Differdange",
 "PostCode": "L-4599",
-"LatLong": "49.5226,5.8862"
+"LatLong": "49.5225,5.8861"
 },
 {
 "Name": "Differdange",
@@ -5476,12 +5771,12 @@
 {
 "Name": "Differdange",
 "PostCode": "L-4620",
-"LatLong": "49.5222,5.8961"
+"LatLong": "49.5222,5.896"
 },
 {
 "Name": "Differdange",
 "PostCode": "L-4621",
-"LatLong": "49.5232,5.8879"
+"LatLong": "49.5232,5.8878"
 },
 {
 "Name": "Differdange",
@@ -5511,7 +5806,7 @@
 {
 "Name": "Differdange",
 "PostCode": "L-4630",
-"LatLong": "49.5211,5.8848"
+"LatLong": "49.5211,5.8847"
 },
 {
 "Name": "Differdange",
@@ -5546,7 +5841,7 @@
 {
 "Name": "Differdange",
 "PostCode": "L-4639",
-"LatLong": "49.5195,5.9008"
+"LatLong": "49.5199,5.9014"
 },
 {
 "Name": "Differdange",
@@ -5572,6 +5867,16 @@
 "Name": "Differdange",
 "PostCode": "L-4651",
 "LatLong": "49.5213,5.8823"
+},
+{
+"Name": "Differdange",
+"PostCode": "L-4653",
+"LatLong": "49.5192,5.9019"
+},
+{
+"Name": "Differdange",
+"PostCode": "L-4654",
+"LatLong": "49.5163,5.9143"
 },
 {
 "Name": "Differdange",
@@ -5621,7 +5926,7 @@
 {
 "Name": "Differdange",
 "PostCode": "L-4683",
-"LatLong": "49.5256,5.8879"
+"LatLong": "49.5255,5.8879"
 },
 {
 "Name": "Differdange",
@@ -5661,7 +5966,7 @@
 {
 "Name": "Differdange",
 "PostCode": "L-4693",
-"LatLong": "49.5228,5.9127"
+"LatLong": "49.5227,5.9127"
 },
 {
 "Name": "Lasauvage",
@@ -5671,7 +5976,7 @@
 {
 "Name": "Lasauvage",
 "PostCode": "L-4697",
-"LatLong": "49.5263,5.8381"
+"LatLong": "49.5263,5.8382"
 },
 {
 "Name": "Lasauvage",
@@ -5721,7 +6026,7 @@
 {
 "Name": "Niederkorn",
 "PostCode": "L-4533",
-"LatLong": "49.5369,5.8878"
+"LatLong": "49.5369,5.8877"
 },
 {
 "Name": "Niederkorn",
@@ -5750,17 +6055,37 @@
 },
 {
 "Name": "Niederkorn",
+"PostCode": "L-4562",
+"LatLong": "49.546,5.8991"
+},
+{
+"Name": "Niederkorn",
 "PostCode": "L-4563",
 "LatLong": "49.546,5.8991"
 },
 {
 "Name": "Niederkorn",
 "PostCode": "L-4565",
-"LatLong": "49.5405,5.8943"
+"LatLong": "49.5404,5.894"
 },
 {
 "Name": "Niederkorn",
 "PostCode": "L-4570",
+"LatLong": "49.5379,5.901"
+},
+{
+"Name": "Niederkorn",
+"PostCode": "L-4572",
+"LatLong": "49.5379,5.901"
+},
+{
+"Name": "Niederkorn",
+"PostCode": "L-4576",
+"LatLong": "49.5379,5.901"
+},
+{
+"Name": "Niederkorn",
+"PostCode": "L-4578",
 "LatLong": "49.5379,5.901"
 },
 {
@@ -5771,7 +6096,7 @@
 {
 "Name": "Niederkorn",
 "PostCode": "L-4601",
-"LatLong": "49.5272,5.8906"
+"LatLong": "49.5276,5.8907"
 },
 {
 "Name": "Niederkorn",
@@ -5786,7 +6111,7 @@
 {
 "Name": "Niederkorn",
 "PostCode": "L-4610",
-"LatLong": "49.5342,5.8865"
+"LatLong": "49.5341,5.8865"
 },
 {
 "Name": "Niederkorn",
@@ -5796,7 +6121,7 @@
 {
 "Name": "Niederkorn",
 "PostCode": "L-4612",
-"LatLong": "49.5349,5.8874"
+"LatLong": "49.535,5.8874"
 },
 {
 "Name": "Niederkorn",
@@ -5806,7 +6131,7 @@
 {
 "Name": "Niederkorn",
 "PostCode": "L-4644",
-"LatLong": "49.5447,5.8916"
+"LatLong": "49.5447,5.8917"
 },
 {
 "Name": "Niederkorn",
@@ -5822,6 +6147,11 @@
 "Name": "Niederkorn",
 "PostCode": "L-4650",
 "LatLong": "49.5441,5.8872"
+},
+{
+"Name": "Niederkorn",
+"PostCode": "L-4656",
+"LatLong": "49.5284,5.8916"
 },
 {
 "Name": "Niederkorn",
@@ -5851,7 +6181,7 @@
 {
 "Name": "Niederkorn",
 "PostCode": "L-4680",
-"LatLong": "49.5377,5.8959"
+"LatLong": "49.5378,5.8959"
 },
 {
 "Name": "Niederkorn",
@@ -5870,18 +6200,28 @@
 },
 {
 "Name": "Oberkorn",
+"PostCode": "L-4504",
+"LatLong": "49.5108,5.8962"
+},
+{
+"Name": "Oberkorn",
 "PostCode": "L-4510",
 "LatLong": "49.5146,5.9"
 },
 {
 "Name": "Oberkorn",
 "PostCode": "L-4517",
-"LatLong": "49.5129,5.8967"
+"LatLong": "49.5128,5.8967"
 },
 {
 "Name": "Oberkorn",
 "PostCode": "L-4522",
 "LatLong": "49.5068,5.8937"
+},
+{
+"Name": "Oberkorn",
+"PostCode": "L-4523",
+"LatLong": "49.5089,5.9011"
 },
 {
 "Name": "Oberkorn",
@@ -5901,7 +6241,7 @@
 {
 "Name": "Oberkorn",
 "PostCode": "L-4539",
-"LatLong": "49.5149,5.9034"
+"LatLong": "49.515,5.9033"
 },
 {
 "Name": "Oberkorn",
@@ -5916,7 +6256,7 @@
 {
 "Name": "Oberkorn",
 "PostCode": "L-4554",
-"LatLong": "49.5153,5.8984"
+"LatLong": "49.5154,5.8984"
 },
 {
 "Name": "Oberkorn",
@@ -5941,12 +6281,12 @@
 {
 "Name": "Oberkorn",
 "PostCode": "L-4579",
-"LatLong": "49.5119,5.8924"
+"LatLong": "49.5119,5.8923"
 },
 {
 "Name": "Oberkorn",
 "PostCode": "L-4590",
-"LatLong": "49.5167,5.8962"
+"LatLong": "49.5166,5.8962"
 },
 {
 "Name": "Oberkorn",
@@ -5956,7 +6296,7 @@
 {
 "Name": "Oberkorn",
 "PostCode": "L-4606",
-"LatLong": "49.5081,5.8925"
+"LatLong": "49.508,5.8925"
 },
 {
 "Name": "Oberkorn",
@@ -5991,12 +6331,12 @@
 {
 "Name": "Oberkorn",
 "PostCode": "L-4649",
-"LatLong": "49.5136,5.8954"
+"LatLong": "49.5137,5.8954"
 },
 {
 "Name": "Oberkorn",
 "PostCode": "L-4658",
-"LatLong": "49.5141,5.8995"
+"LatLong": "49.514,5.8997"
 },
 {
 "Name": "Oberkorn",
@@ -6011,7 +6351,12 @@
 {
 "Name": "Oberkorn",
 "PostCode": "L-4671",
-"LatLong": "49.5138,5.8926"
+"LatLong": "49.5139,5.8926"
+},
+{
+"Name": "Oberkorn",
+"PostCode": "L-4672",
+"LatLong": "49.5176,5.8964"
 },
 {
 "Name": "Oberkorn",
@@ -6038,6 +6383,21 @@
 "Communities": [
 {
 "Places": [
+{
+"Name": "Dudelange",
+"PostCode": "L-3401",
+"LatLong": "49.49,6.0812"
+},
+{
+"Name": "Dudelange",
+"PostCode": "L-3402",
+"LatLong": "49.49,6.0812"
+},
+{
+"Name": "Dudelange",
+"PostCode": "L-3403",
+"LatLong": "49.49,6.0812"
+},
 {
 "Name": "Dudelange",
 "PostCode": "L-3409",
@@ -6091,7 +6451,7 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3419",
-"LatLong": "49.4777,6.0944"
+"LatLong": "49.4776,6.0944"
 },
 {
 "Name": "Dudelange",
@@ -6116,7 +6476,7 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3424",
-"LatLong": "49.4854,6.0826"
+"LatLong": "49.4853,6.0826"
 },
 {
 "Name": "Dudelange",
@@ -6146,7 +6506,7 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3430",
-"LatLong": "49.4807,6.0947"
+"LatLong": "49.4807,6.0946"
 },
 {
 "Name": "Dudelange",
@@ -6161,6 +6521,11 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3433",
+"LatLong": "49.4883,6.0782"
+},
+{
+"Name": "Dudelange",
+"PostCode": "L-3434",
 "LatLong": "49.4883,6.0782"
 },
 {
@@ -6216,7 +6581,7 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3447",
-"LatLong": "49.4921,6.0979"
+"LatLong": "49.492,6.0979"
 },
 {
 "Name": "Dudelange",
@@ -6231,6 +6596,16 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3450",
+"LatLong": "49.478,6.0857"
+},
+{
+"Name": "Dudelange",
+"PostCode": "L-3451",
+"LatLong": "49.478,6.0857"
+},
+{
+"Name": "Dudelange",
+"PostCode": "L-3452",
 "LatLong": "49.478,6.0857"
 },
 {
@@ -6251,7 +6626,7 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3461",
-"LatLong": "49.4778,6.0862"
+"LatLong": "49.4778,6.0861"
 },
 {
 "Name": "Dudelange",
@@ -6271,7 +6646,7 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3465",
-"LatLong": "49.48,6.0827"
+"LatLong": "49.4801,6.0827"
 },
 {
 "Name": "Dudelange",
@@ -6286,7 +6661,7 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3468",
-"LatLong": "49.4759,6.0861"
+"LatLong": "49.4759,6.0862"
 },
 {
 "Name": "Dudelange",
@@ -6301,12 +6676,12 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3471",
-"LatLong": "49.4847,6.1001"
+"LatLong": "49.4847,6.0999"
 },
 {
 "Name": "Dudelange",
 "PostCode": "L-3472",
-"LatLong": "49.4913,6.0658"
+"LatLong": "49.4914,6.0657"
 },
 {
 "Name": "Dudelange",
@@ -6326,7 +6701,7 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3476",
-"LatLong": "49.4714,6.0702"
+"LatLong": "49.4719,6.0724"
 },
 {
 "Name": "Dudelange",
@@ -6336,7 +6711,7 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3481",
-"LatLong": "49.4731,6.0781"
+"LatLong": "49.473,6.0781"
 },
 {
 "Name": "Dudelange",
@@ -6471,7 +6846,7 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3515",
-"LatLong": "49.49,6.0831"
+"LatLong": "49.49,6.0832"
 },
 {
 "Name": "Dudelange",
@@ -6526,7 +6901,7 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3530",
-"LatLong": "49.4939,6.0707"
+"LatLong": "49.4939,6.0706"
 },
 {
 "Name": "Dudelange",
@@ -6561,12 +6936,12 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3543",
-"LatLong": "49.4897,6.0928"
+"LatLong": "49.4898,6.0928"
 },
 {
 "Name": "Dudelange",
 "PostCode": "L-3544",
-"LatLong": "49.4815,6.0835"
+"LatLong": "49.4815,6.0834"
 },
 {
 "Name": "Dudelange",
@@ -6586,7 +6961,7 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3548",
-"LatLong": "49.4936,6.083"
+"LatLong": "49.4935,6.0827"
 },
 {
 "Name": "Dudelange",
@@ -6597,6 +6972,11 @@
 "Name": "Dudelange",
 "PostCode": "L-3550",
 "LatLong": "49.4853,6.091"
+},
+{
+"Name": "Dudelange",
+"PostCode": "L-3551",
+"LatLong": "49.4769,6.0977"
 },
 {
 "Name": "Dudelange",
@@ -6611,7 +6991,7 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3554",
-"LatLong": "49.4778,6.097"
+"LatLong": "49.4778,6.0969"
 },
 {
 "Name": "Dudelange",
@@ -6621,7 +7001,7 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3560",
-"LatLong": "49.4882,6.0801"
+"LatLong": "49.4882,6.08"
 },
 {
 "Name": "Dudelange",
@@ -6651,7 +7031,7 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3566",
-"LatLong": "49.4916,6.091"
+"LatLong": "49.4916,6.0911"
 },
 {
 "Name": "Dudelange",
@@ -6671,7 +7051,12 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3570",
-"LatLong": "49.4841,6.0857"
+"LatLong": "49.4842,6.0857"
+},
+{
+"Name": "Dudelange",
+"PostCode": "L-3571",
+"LatLong": "49.4842,6.0857"
 },
 {
 "Name": "Dudelange",
@@ -6701,17 +7086,22 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3582",
-"LatLong": "49.4646,6.0963"
+"LatLong": "49.4641,6.0958"
 },
 {
 "Name": "Dudelange",
 "PostCode": "L-3583",
-"LatLong": "49.4955,6.081"
+"LatLong": "49.4955,6.0811"
 },
 {
 "Name": "Dudelange",
 "PostCode": "L-3584",
 "LatLong": "49.4939,6.0802"
+},
+{
+"Name": "Dudelange",
+"PostCode": "L-3585",
+"LatLong": "49.4955,6.0811"
 },
 {
 "Name": "Dudelange",
@@ -6741,7 +7131,7 @@
 {
 "Name": "Dudelange",
 "PostCode": "L-3593",
-"LatLong": "49.4658,6.082"
+"LatLong": "49.4656,6.082"
 },
 {
 "Name": "Dudelange",
@@ -6778,6 +7168,51 @@
 "Communities": [
 {
 "Places": [
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4001",
+"LatLong": "49.493,5.981"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4002",
+"LatLong": "49.493,5.981"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4003",
+"LatLong": "49.493,5.981"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4004",
+"LatLong": "49.493,5.981"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4005",
+"LatLong": "49.493,5.981"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4006",
+"LatLong": "49.493,5.981"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4007",
+"LatLong": "49.493,5.981"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4008",
+"LatLong": "49.493,5.981"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4009",
+"LatLong": "49.493,5.981"
+},
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4010",
@@ -6821,7 +7256,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4018",
-"LatLong": "49.4897,5.9786"
+"LatLong": "49.4897,5.9783"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -6846,12 +7281,12 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4023",
-"LatLong": "49.4868,5.978"
+"LatLong": "49.4867,5.978"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4024",
-"LatLong": "49.4951,5.955"
+"LatLong": "49.4953,5.9547"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -6861,7 +7296,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4026",
-"LatLong": "49.504,5.9663"
+"LatLong": "49.504,5.9664"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -6876,7 +7311,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4029",
-"LatLong": "49.5119,5.9934"
+"LatLong": "49.512,5.9934"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -6926,7 +7361,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4039",
-"LatLong": "49.4889,5.995"
+"LatLong": "49.4888,5.9951"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -6936,12 +7371,17 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4041",
-"LatLong": "49.4912,5.979"
+"LatLong": "49.4913,5.9789"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4042",
 "LatLong": "49.4934,5.9763"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4043",
+"LatLong": "49.5063,5.9871"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -6956,12 +7396,17 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4046",
-"LatLong": "49.503,5.9656"
+"LatLong": "49.503,5.9655"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4047",
 "LatLong": "49.5063,5.9871"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4048",
+"LatLong": "49.4964,5.986"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -6971,7 +7416,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4050",
-"LatLong": "49.4951,5.9789"
+"LatLong": "49.495,5.9789"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -6996,12 +7441,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4055",
-"LatLong": "49.505,5.9821"
-},
-{
-"Name": "Esch-sur-Alzette",
-"PostCode": "L-4056",
-"LatLong": "49.5049,5.979"
+"LatLong": "49.505,5.9814"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7036,12 +7476,12 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4063",
-"LatLong": "49.4917,5.9762"
+"LatLong": "49.4917,5.9763"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4064",
-"LatLong": "49.5106,5.985"
+"LatLong": "49.5106,5.9847"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7076,12 +7516,22 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4071",
-"LatLong": "49.5083,5.975"
+"LatLong": "49.5081,5.9729"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4072",
 "LatLong": "49.5088,5.9744"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4073",
+"LatLong": "49.5074,5.972"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4074",
+"LatLong": "49.5074,5.972"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7091,7 +7541,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4081",
-"LatLong": "49.4935,5.9781"
+"LatLong": "49.4935,5.978"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7101,7 +7551,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4083",
-"LatLong": "49.5079,5.9563"
+"LatLong": "49.5074,5.9569"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7111,7 +7561,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4085",
-"LatLong": "49.5044,5.9808"
+"LatLong": "49.5044,5.9809"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7120,8 +7570,18 @@
 },
 {
 "Name": "Esch-sur-Alzette",
+"PostCode": "L-4088",
+"LatLong": "49.5044,5.9809"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4100",
+"LatLong": "49.4971,5.9829"
+},
+{
+"Name": "Esch-sur-Alzette",
 "PostCode": "L-4101",
-"LatLong": "49.4953,5.9814"
+"LatLong": "49.4953,5.9815"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7151,7 +7611,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4108",
-"LatLong": "49.5058,5.9695"
+"LatLong": "49.5059,5.9695"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7180,13 +7640,28 @@
 },
 {
 "Name": "Esch-sur-Alzette",
+"PostCode": "L-4114",
+"LatLong": "49.4754,5.9764"
+},
+{
+"Name": "Esch-sur-Alzette",
 "PostCode": "L-4115",
-"LatLong": "49.5005,5.9775"
+"LatLong": "49.5002,5.9775"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4116",
+"LatLong": "49.5052,5.9727"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4118",
 "LatLong": "49.5052,5.9727"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4119",
+"LatLong": "49.5076,5.9697"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7201,12 +7676,12 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4122",
-"LatLong": "49.4967,5.9881"
+"LatLong": "49.4968,5.9881"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4123",
-"LatLong": "49.4973,5.9813"
+"LatLong": "49.4974,5.9814"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7215,8 +7690,13 @@
 },
 {
 "Name": "Esch-sur-Alzette",
+"PostCode": "L-4126",
+"LatLong": "49.4979,5.9849"
+},
+{
+"Name": "Esch-sur-Alzette",
 "PostCode": "L-4130",
-"LatLong": "49.4956,5.982"
+"LatLong": "49.4957,5.9819"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7236,7 +7716,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4134",
-"LatLong": "49.504,5.977"
+"LatLong": "49.5039,5.977"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7251,12 +7731,12 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4137",
-"LatLong": "49.5002,5.9811"
+"LatLong": "49.5002,5.9812"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4138",
-"LatLong": "49.4961,5.9852"
+"LatLong": "49.4961,5.9854"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7275,13 +7755,18 @@
 },
 {
 "Name": "Esch-sur-Alzette",
+"PostCode": "L-4142",
+"LatLong": "49.4842,5.9855"
+},
+{
+"Name": "Esch-sur-Alzette",
 "PostCode": "L-4143",
-"LatLong": "49.5092,5.9736"
+"LatLong": "49.5092,5.9735"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4149",
-"LatLong": "49.5145,5.9965"
+"LatLong": "49.5144,5.9965"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7296,7 +7781,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4152",
-"LatLong": "49.4968,5.9732"
+"LatLong": "49.4968,5.9733"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7316,7 +7801,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4156",
-"LatLong": "49.4978,5.9833"
+"LatLong": "49.4977,5.9832"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7351,12 +7836,12 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4170",
-"LatLong": "49.4942,5.9845"
+"LatLong": "49.4942,5.9846"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4171",
-"LatLong": "49.4914,5.9811"
+"LatLong": "49.4913,5.981"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7381,7 +7866,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4176",
-"LatLong": "49.5104,5.9722"
+"LatLong": "49.5104,5.973"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7426,7 +7911,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4205",
-"LatLong": "49.5107,5.9707"
+"LatLong": "49.5109,5.9708"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7456,7 +7941,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4211",
-"LatLong": "49.5073,5.9771"
+"LatLong": "49.5073,5.977"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7486,7 +7971,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4221",
-"LatLong": "49.5023,5.9871"
+"LatLong": "49.5024,5.9872"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7556,7 +8041,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4242",
-"LatLong": "49.496,5.9831"
+"LatLong": "49.496,5.983"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7601,7 +8086,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4251",
-"LatLong": "49.4944,5.9802"
+"LatLong": "49.4944,5.9803"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7620,13 +8105,28 @@
 },
 {
 "Name": "Esch-sur-Alzette",
+"PostCode": "L-4255",
+"LatLong": "49.4944,5.9803"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4256",
+"LatLong": "49.4944,5.9803"
+},
+{
+"Name": "Esch-sur-Alzette",
 "PostCode": "L-4260",
-"LatLong": "49.4978,5.978"
+"LatLong": "49.4977,5.978"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4261",
-"LatLong": "49.4947,5.9916"
+"LatLong": "49.4948,5.9916"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4262",
+"LatLong": "49.4977,5.978"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7670,13 +8170,18 @@
 },
 {
 "Name": "Esch-sur-Alzette",
+"PostCode": "L-4272",
+"LatLong": "49.505,5.9836"
+},
+{
+"Name": "Esch-sur-Alzette",
 "PostCode": "L-4275",
 "LatLong": "49.505,5.9836"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4276",
-"LatLong": "49.493,5.9766"
+"LatLong": "49.4929,5.9765"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7696,7 +8201,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4280",
-"LatLong": "49.4921,5.9754"
+"LatLong": "49.4922,5.9753"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7731,7 +8236,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4303",
-"LatLong": "49.4973,5.9822"
+"LatLong": "49.4972,5.9822"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7746,12 +8251,12 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4306",
-"LatLong": "49.4986,5.9761"
+"LatLong": "49.4985,5.9761"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4307",
-"LatLong": "49.5093,5.9515"
+"LatLong": "49.5093,5.9516"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7826,7 +8331,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4325",
-"LatLong": "49.495,5.9894"
+"LatLong": "49.4948,5.9894"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7835,13 +8340,23 @@
 },
 {
 "Name": "Esch-sur-Alzette",
+"PostCode": "L-4327",
+"LatLong": "49.4933,5.9758"
+},
+{
+"Name": "Esch-sur-Alzette",
 "PostCode": "L-4328",
-"LatLong": "49.4962,5.9675"
+"LatLong": "49.4958,5.967"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4330",
 "LatLong": "49.4903,5.9756"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4331",
+"LatLong": "49.5068,5.9899"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7896,7 +8411,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4344",
-"LatLong": "49.4963,5.983"
+"LatLong": "49.4963,5.9829"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7906,7 +8421,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4346",
-"LatLong": "49.5028,5.9665"
+"LatLong": "49.5027,5.9665"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7926,12 +8441,12 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4350",
-"LatLong": "49.5012,5.9849"
+"LatLong": "49.5013,5.985"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4351",
-"LatLong": "49.5053,5.9727"
+"LatLong": "49.5053,5.9726"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7946,7 +8461,7 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4354",
-"LatLong": "49.5092,5.9632"
+"LatLong": "49.5092,5.9642"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7955,23 +8470,28 @@
 },
 {
 "Name": "Esch-sur-Alzette",
+"PostCode": "L-4359",
+"LatLong": "49.5094,5.9666"
+},
+{
+"Name": "Esch-sur-Alzette",
 "PostCode": "L-4360",
-"LatLong": "49.5022,5.9454"
+"LatLong": "49.5022,5.9457"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4361",
-"LatLong": "49.5007,5.946"
+"LatLong": "49.5007,5.9461"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4362",
-"LatLong": "49.502,5.9494"
+"LatLong": "49.5026,5.9498"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4363",
-"LatLong": "49.5047,5.9514"
+"LatLong": "49.5036,5.9509"
 },
 {
 "Name": "Esch-sur-Alzette",
@@ -7991,12 +8511,17 @@
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4369",
-"LatLong": "49.5044,5.9451"
+"LatLong": "49.5044,5.9454"
+},
+{
+"Name": "Esch-sur-Alzette",
+"PostCode": "L-4370",
+"LatLong": "49.5024,5.9442"
 },
 {
 "Name": "Esch-sur-Alzette",
 "PostCode": "L-4374",
-"LatLong": "49.5023,5.9441"
+"LatLong": "49.5023,5.9437"
 }
 ]
 }
@@ -8010,6 +8535,11 @@
 "Places": [
 {
 "Name": "Aspelt",
+"PostCode": "L-5701",
+"LatLong": "49.5242,6.2244"
+},
+{
+"Name": "Aspelt",
 "PostCode": "L-5710",
 "LatLong": "49.5242,6.2244"
 },
@@ -8021,7 +8551,7 @@
 {
 "Name": "Aspelt",
 "PostCode": "L-5712",
-"LatLong": "49.5222,6.2218"
+"LatLong": "49.5222,6.2217"
 },
 {
 "Name": "Aspelt",
@@ -8036,7 +8566,7 @@
 {
 "Name": "Aspelt",
 "PostCode": "L-5716",
-"LatLong": "49.523,6.2259"
+"LatLong": "49.523,6.226"
 },
 {
 "Name": "Aspelt",
@@ -8061,12 +8591,12 @@
 {
 "Name": "Aspelt",
 "PostCode": "L-5721",
-"LatLong": "49.5249,6.2251"
+"LatLong": "49.5248,6.2252"
 },
 {
 "Name": "Aspelt",
 "PostCode": "L-5722",
-"LatLong": "49.5229,6.216"
+"LatLong": "49.523,6.2163"
 },
 {
 "Name": "Aspelt",
@@ -8076,12 +8606,12 @@
 {
 "Name": "Aspelt",
 "PostCode": "L-5730",
-"LatLong": "49.5197,6.2289"
+"LatLong": "49.5196,6.2288"
 },
 {
 "Name": "Frisange",
 "PostCode": "L-5750",
-"LatLong": "49.5164,6.1939"
+"LatLong": "49.5164,6.194"
 },
 {
 "Name": "Frisange",
@@ -8091,7 +8621,7 @@
 {
 "Name": "Frisange",
 "PostCode": "L-5752",
-"LatLong": "49.5211,6.1867"
+"LatLong": "49.5211,6.1868"
 },
 {
 "Name": "Frisange",
@@ -8101,7 +8631,7 @@
 {
 "Name": "Frisange",
 "PostCode": "L-5754",
-"LatLong": "49.518,6.1909"
+"LatLong": "49.518,6.191"
 },
 {
 "Name": "Frisange",
@@ -8116,7 +8646,7 @@
 {
 "Name": "Hellange",
 "PostCode": "L-3333",
-"LatLong": "49.5065,6.144"
+"LatLong": "49.5065,6.1439"
 },
 {
 "Name": "Hellange",
@@ -8131,12 +8661,12 @@
 {
 "Name": "Hellange",
 "PostCode": "L-3336",
-"LatLong": "49.5117,6.1531"
+"LatLong": "49.5117,6.1532"
 },
 {
 "Name": "Hellange",
 "PostCode": "L-3337",
-"LatLong": "49.5087,6.1523"
+"LatLong": "49.5086,6.1523"
 }
 ]
 }
@@ -8150,6 +8680,11 @@
 "Places": [
 {
 "Name": "Kayl",
+"PostCode": "L-3601",
+"LatLong": "49.4865,6.0373"
+},
+{
+"Name": "Kayl",
 "PostCode": "L-3611",
 "LatLong": "49.4919,6.0399"
 },
@@ -8157,6 +8692,11 @@
 "Name": "Kayl",
 "PostCode": "L-3612",
 "LatLong": "49.4817,6.0418"
+},
+{
+"Name": "Kayl",
+"PostCode": "L-3613",
+"LatLong": "49.4871,6.0393"
 },
 {
 "Name": "Kayl",
@@ -8171,7 +8711,7 @@
 {
 "Name": "Kayl",
 "PostCode": "L-3616",
-"LatLong": "49.4872,6.0393"
+"LatLong": "49.4871,6.0393"
 },
 {
 "Name": "Kayl",
@@ -8181,7 +8721,7 @@
 {
 "Name": "Kayl",
 "PostCode": "L-3620",
-"LatLong": "49.4845,6.0288"
+"LatLong": "49.4844,6.0288"
 },
 {
 "Name": "Kayl",
@@ -8201,12 +8741,12 @@
 {
 "Name": "Kayl",
 "PostCode": "L-3631",
-"LatLong": "49.4858,6.0473"
+"LatLong": "49.4858,6.0472"
 },
 {
 "Name": "Kayl",
 "PostCode": "L-3635",
-"LatLong": "49.4865,6.0372"
+"LatLong": "49.4865,6.0373"
 },
 {
 "Name": "Kayl",
@@ -8221,17 +8761,17 @@
 {
 "Name": "Kayl",
 "PostCode": "L-3638",
-"LatLong": "49.4845,6.0243"
+"LatLong": "49.4844,6.0234"
 },
 {
 "Name": "Kayl",
 "PostCode": "L-3640",
-"LatLong": "49.4831,6.0378"
+"LatLong": "49.4831,6.0377"
 },
 {
 "Name": "Kayl",
 "PostCode": "L-3641",
-"LatLong": "49.4821,6.0379"
+"LatLong": "49.482,6.0378"
 },
 {
 "Name": "Kayl",
@@ -8246,7 +8786,7 @@
 {
 "Name": "Kayl",
 "PostCode": "L-3644",
-"LatLong": "49.4861,6.0408"
+"LatLong": "49.486,6.0408"
 },
 {
 "Name": "Kayl",
@@ -8296,12 +8836,12 @@
 {
 "Name": "Kayl",
 "PostCode": "L-3660",
-"LatLong": "49.4854,6.0407"
+"LatLong": "49.4854,6.0406"
 },
 {
 "Name": "Kayl",
 "PostCode": "L-3670",
-"LatLong": "49.491,6.0461"
+"LatLong": "49.491,6.0462"
 },
 {
 "Name": "Kayl",
@@ -8331,7 +8871,7 @@
 {
 "Name": "Kayl",
 "PostCode": "L-3676",
-"LatLong": "49.4941,6.0374"
+"LatLong": "49.4942,6.0374"
 },
 {
 "Name": "Kayl",
@@ -8431,12 +8971,12 @@
 {
 "Name": "Tétange",
 "PostCode": "L-3774",
-"LatLong": "49.4778,6.0343"
+"LatLong": "49.4777,6.0343"
 },
 {
 "Name": "Tétange",
 "PostCode": "L-3775",
-"LatLong": "49.4737,6.0402"
+"LatLong": "49.4736,6.0402"
 },
 {
 "Name": "Tétange",
@@ -8506,7 +9046,7 @@
 {
 "Name": "Leudelange",
 "PostCode": "L-3346",
-"LatLong": "49.5637,6.0656"
+"LatLong": "49.5636,6.0656"
 },
 {
 "Name": "Leudelange",
@@ -8517,6 +9057,11 @@
 "Name": "Leudelange",
 "PostCode": "L-3348",
 "LatLong": "49.5714,6.0666"
+},
+{
+"Name": "Leudelange",
+"PostCode": "L-3349",
+"LatLong": "49.5868,6.0581"
 },
 {
 "Name": "Leudelange",
@@ -8536,7 +9081,7 @@
 {
 "Name": "Leudelange",
 "PostCode": "L-3353",
-"LatLong": "49.5617,6.0635"
+"LatLong": "49.5617,6.0636"
 },
 {
 "Name": "Leudelange",
@@ -8565,8 +9110,13 @@
 },
 {
 "Name": "Leudelange",
+"PostCode": "L-3359",
+"LatLong": "49.5723,6.0677"
+},
+{
+"Name": "Leudelange",
 "PostCode": "L-3360",
-"LatLong": "49.5633,6.0698"
+"LatLong": "49.5633,6.0697"
 },
 {
 "Name": "Leudelange",
@@ -8586,7 +9136,7 @@
 {
 "Name": "Leudelange",
 "PostCode": "L-3364",
-"LatLong": "49.5636,6.0754"
+"LatLong": "49.5636,6.0753"
 },
 {
 "Name": "Leudelange",
@@ -8606,7 +9156,7 @@
 {
 "Name": "Leudelange",
 "PostCode": "L-3368",
-"LatLong": "49.5801,6.0597"
+"LatLong": "49.5801,6.0595"
 },
 {
 "Name": "Leudelange",
@@ -8616,7 +9166,7 @@
 {
 "Name": "Leudelange",
 "PostCode": "L-3370",
-"LatLong": "49.5759,6.0904"
+"LatLong": "49.5761,6.0913"
 },
 {
 "Name": "Leudelange",
@@ -8666,7 +9216,7 @@
 {
 "Name": "Bergem",
 "PostCode": "L-3313",
-"LatLong": "49.5253,6.0403"
+"LatLong": "49.5254,6.0401"
 },
 {
 "Name": "Bergem",
@@ -8676,7 +9226,7 @@
 {
 "Name": "Bergem",
 "PostCode": "L-3315",
-"LatLong": "49.5197,6.0443"
+"LatLong": "49.5198,6.0443"
 },
 {
 "Name": "Bergem",
@@ -8696,7 +9246,7 @@
 {
 "Name": "Foetz",
 "PostCode": "L-3895",
-"LatLong": "49.5239,6.0118"
+"LatLong": "49.5238,6.0126"
 },
 {
 "Name": "Foetz",
@@ -8711,12 +9261,17 @@
 {
 "Name": "Foetz",
 "PostCode": "L-3898",
-"LatLong": "49.522,6.0097"
+"LatLong": "49.5222,6.0091"
 },
 {
 "Name": "Foetz",
 "PostCode": "L-3899",
-"LatLong": "49.5302,6.0127"
+"LatLong": "49.5302,6.0128"
+},
+{
+"Name": "Mondercange",
+"PostCode": "L-3901",
+"LatLong": "49.5319,5.9874"
 },
 {
 "Name": "Mondercange",
@@ -8771,7 +9326,7 @@
 {
 "Name": "Mondercange",
 "PostCode": "L-3919",
-"LatLong": "49.5288,5.9866"
+"LatLong": "49.5289,5.9867"
 },
 {
 "Name": "Mondercange",
@@ -8781,11 +9336,16 @@
 {
 "Name": "Mondercange",
 "PostCode": "L-3921",
-"LatLong": "49.5253,5.9884"
+"LatLong": "49.5253,5.9885"
 },
 {
 "Name": "Mondercange",
 "PostCode": "L-3922",
+"LatLong": "49.5217,5.9867"
+},
+{
+"Name": "Mondercange",
+"PostCode": "L-3923",
 "LatLong": "49.5217,5.9867"
 },
 {
@@ -8801,12 +9361,12 @@
 {
 "Name": "Mondercange",
 "PostCode": "L-3926",
-"LatLong": "49.5317,5.9893"
+"LatLong": "49.5318,5.9894"
 },
 {
 "Name": "Mondercange",
 "PostCode": "L-3927",
-"LatLong": "49.5292,5.9953"
+"LatLong": "49.5292,5.9955"
 },
 {
 "Name": "Mondercange",
@@ -8831,7 +9391,7 @@
 {
 "Name": "Mondercange",
 "PostCode": "L-3932",
-"LatLong": "49.5371,5.9849"
+"LatLong": "49.537,5.9849"
 },
 {
 "Name": "Mondercange",
@@ -8871,12 +9431,12 @@
 {
 "Name": "Mondercange",
 "PostCode": "L-3940",
-"LatLong": "49.5332,5.9958"
+"LatLong": "49.5332,5.9959"
 },
 {
 "Name": "Mondercange",
 "PostCode": "L-3941",
-"LatLong": "49.5341,5.9817"
+"LatLong": "49.5342,5.9817"
 },
 {
 "Name": "Mondercange",
@@ -8896,7 +9456,7 @@
 {
 "Name": "Pontpierre",
 "PostCode": "L-4390",
-"LatLong": "49.5395,6.0312"
+"LatLong": "49.5395,6.0313"
 },
 {
 "Name": "Pontpierre",
@@ -8911,7 +9471,7 @@
 {
 "Name": "Pontpierre",
 "PostCode": "L-4393",
-"LatLong": "49.5327,6.0302"
+"LatLong": "49.5329,6.0301"
 },
 {
 "Name": "Pontpierre",
@@ -8921,7 +9481,7 @@
 {
 "Name": "Pontpierre",
 "PostCode": "L-4395",
-"LatLong": "49.535,6.0186"
+"LatLong": "49.535,6.0185"
 },
 {
 "Name": "Pontpierre",
@@ -8950,8 +9510,18 @@
 "Places": [
 {
 "Name": "Lamadelaine",
+"PostCode": "L-4706",
+"LatLong": "49.5544,5.862"
+},
+{
+"Name": "Lamadelaine",
 "PostCode": "L-4744",
 "LatLong": "49.5544,5.862"
+},
+{
+"Name": "Lamadelaine",
+"PostCode": "L-4802",
+"LatLong": "49.5501,5.8487"
 },
 {
 "Name": "Lamadelaine",
@@ -8971,7 +9541,7 @@
 {
 "Name": "Lamadelaine",
 "PostCode": "L-4873",
-"LatLong": "49.5486,5.8507"
+"LatLong": "49.5485,5.8507"
 },
 {
 "Name": "Lamadelaine",
@@ -8986,7 +9556,7 @@
 {
 "Name": "Lamadelaine",
 "PostCode": "L-4876",
-"LatLong": "49.5523,5.8551"
+"LatLong": "49.5523,5.8549"
 },
 {
 "Name": "Lamadelaine",
@@ -9036,7 +9606,7 @@
 {
 "Name": "Lamadelaine",
 "PostCode": "L-4886",
-"LatLong": "49.5521,5.8573"
+"LatLong": "49.552,5.8572"
 },
 {
 "Name": "Lamadelaine",
@@ -9046,7 +9616,7 @@
 {
 "Name": "Lamadelaine",
 "PostCode": "L-4888",
-"LatLong": "49.5478,5.8535"
+"LatLong": "49.5477,5.8535"
 },
 {
 "Name": "Lamadelaine",
@@ -9106,12 +9676,12 @@
 {
 "Name": "Pétange",
 "PostCode": "L-4710",
-"LatLong": "49.5594,5.8658"
+"LatLong": "49.5595,5.8659"
 },
 {
 "Name": "Pétange",
 "PostCode": "L-4711",
-"LatLong": "49.5596,5.8648"
+"LatLong": "49.5595,5.8647"
 },
 {
 "Name": "Pétange",
@@ -9126,7 +9696,7 @@
 {
 "Name": "Pétange",
 "PostCode": "L-4714",
-"LatLong": "49.5526,5.8747"
+"LatLong": "49.5525,5.8738"
 },
 {
 "Name": "Pétange",
@@ -9191,12 +9761,12 @@
 {
 "Name": "Pétange",
 "PostCode": "L-4734",
-"LatLong": "49.555,5.8772"
+"LatLong": "49.5551,5.8771"
 },
 {
 "Name": "Pétange",
 "PostCode": "L-4735",
-"LatLong": "49.5578,5.8743"
+"LatLong": "49.5577,5.8743"
 },
 {
 "Name": "Pétange",
@@ -9206,7 +9776,7 @@
 {
 "Name": "Pétange",
 "PostCode": "L-4737",
-"LatLong": "49.5583,5.8715"
+"LatLong": "49.5583,5.8716"
 },
 {
 "Name": "Pétange",
@@ -9306,7 +9876,7 @@
 {
 "Name": "Pétange",
 "PostCode": "L-4761",
-"LatLong": "49.5571,5.8811"
+"LatLong": "49.5572,5.8817"
 },
 {
 "Name": "Pétange",
@@ -9336,7 +9906,7 @@
 {
 "Name": "Pétange",
 "PostCode": "L-4773",
-"LatLong": "49.5519,5.8812"
+"LatLong": "49.5519,5.8813"
 },
 {
 "Name": "Pétange",
@@ -9391,7 +9961,7 @@
 {
 "Name": "Pétange",
 "PostCode": "L-4784",
-"LatLong": "49.5571,5.8727"
+"LatLong": "49.5571,5.8726"
 },
 {
 "Name": "Pétange",
@@ -9407,6 +9977,11 @@
 "Name": "Pétange",
 "PostCode": "L-4908",
 "LatLong": "49.5539,5.8861"
+},
+{
+"Name": "Rodange",
+"PostCode": "L-4801",
+"LatLong": "49.5472,5.8444"
 },
 {
 "Name": "Rodange",
@@ -9426,7 +10001,7 @@
 {
 "Name": "Rodange",
 "PostCode": "L-4807",
-"LatLong": "49.5474,5.8448"
+"LatLong": "49.5472,5.8444"
 },
 {
 "Name": "Rodange",
@@ -9441,7 +10016,7 @@
 {
 "Name": "Rodange",
 "PostCode": "L-4810",
-"LatLong": "49.5439,5.8311"
+"LatLong": "49.5439,5.831"
 },
 {
 "Name": "Rodange",
@@ -9476,7 +10051,7 @@
 {
 "Name": "Rodange",
 "PostCode": "L-4819",
-"LatLong": "49.5486,5.8389"
+"LatLong": "49.5485,5.8389"
 },
 {
 "Name": "Rodange",
@@ -9491,7 +10066,7 @@
 {
 "Name": "Rodange",
 "PostCode": "L-4823",
-"LatLong": "49.5542,5.8426"
+"LatLong": "49.5533,5.8427"
 },
 {
 "Name": "Rodange",
@@ -9526,12 +10101,17 @@
 {
 "Name": "Rodange",
 "PostCode": "L-4832",
-"LatLong": "49.5423,5.8169"
+"LatLong": "49.5424,5.8169"
 },
 {
 "Name": "Rodange",
 "PostCode": "L-4833",
-"LatLong": "49.5508,5.8448"
+"LatLong": "49.5508,5.8447"
+},
+{
+"Name": "Rodange",
+"PostCode": "L-4834",
+"LatLong": "49.5451,5.8327"
 },
 {
 "Name": "Rodange",
@@ -9566,7 +10146,7 @@
 {
 "Name": "Rodange",
 "PostCode": "L-4844",
-"LatLong": "49.5472,5.832"
+"LatLong": "49.5468,5.8315"
 },
 {
 "Name": "Rodange",
@@ -9582,6 +10162,11 @@
 "Name": "Rodange",
 "PostCode": "L-4847",
 "LatLong": "49.5493,5.8411"
+},
+{
+"Name": "Rodange",
+"PostCode": "L-4848",
+"LatLong": "49.5463,5.8294"
 },
 {
 "Name": "Rodange",
@@ -9636,7 +10221,7 @@
 {
 "Name": "Reckange-sur-Mess",
 "PostCode": "L-4981",
-"LatLong": "49.5624,6.0112"
+"LatLong": "49.5624,6.0113"
 },
 {
 "Name": "Reckange-sur-Mess",
@@ -9656,7 +10241,7 @@
 {
 "Name": "Wickrange",
 "PostCode": "L-3980",
-"LatLong": "49.5408,6.0215"
+"LatLong": "49.5408,6.0214"
 }
 ]
 }
@@ -9679,6 +10264,11 @@
 "LatLong": "49.5406,6.1286"
 },
 {
+"Name": "Berchem",
+"PostCode": "L-3325",
+"LatLong": "49.5406,6.1286"
+},
+{
 "Name": "Bivange",
 "PostCode": "L-3320",
 "LatLong": "49.5421,6.1369"
@@ -9686,12 +10276,12 @@
 {
 "Name": "Bivange",
 "PostCode": "L-3322",
-"LatLong": "49.5427,6.1357"
+"LatLong": "49.5427,6.1356"
 },
 {
 "Name": "Bivange",
 "PostCode": "L-3323",
-"LatLong": "49.5455,6.1329"
+"LatLong": "49.5455,6.1328"
 },
 {
 "Name": "Bivange",
@@ -9701,17 +10291,17 @@
 {
 "Name": "Crauthem",
 "PostCode": "L-3326",
-"LatLong": "49.5373,6.144"
+"LatLong": "49.5371,6.144"
 },
 {
 "Name": "Crauthem",
 "PostCode": "L-3327",
-"LatLong": "49.5332,6.1473"
+"LatLong": "49.5332,6.1472"
 },
 {
 "Name": "Crauthem",
 "PostCode": "L-3328",
-"LatLong": "49.5352,6.1495"
+"LatLong": "49.5351,6.1495"
 },
 {
 "Name": "Crauthem",
@@ -9725,18 +10315,33 @@
 },
 {
 "Name": "Kockelscheuer",
+"PostCode": "L-1896",
+"LatLong": "49.5569,6.096"
+},
+{
+"Name": "Kockelscheuer",
+"PostCode": "L-1897",
+"LatLong": "49.5569,6.096"
+},
+{
+"Name": "Kockelscheuer",
 "PostCode": "L-1898",
-"LatLong": "49.5599,6.1117"
+"LatLong": "49.5599,6.1116"
 },
 {
 "Name": "Kockelscheuer",
 "PostCode": "L-1899",
-"LatLong": "49.5564,6.1041"
+"LatLong": "49.5563,6.1042"
 },
 {
 "Name": "Livange",
 "PostCode": "L-3378",
-"LatLong": "49.5297,6.1196"
+"LatLong": "49.5298,6.1193"
+},
+{
+"Name": "Livange",
+"PostCode": "L-3381",
+"LatLong": "49.5313,6.1048"
 },
 {
 "Name": "Peppange",
@@ -9746,12 +10351,12 @@
 {
 "Name": "Peppange",
 "PostCode": "L-3390",
-"LatLong": "49.5259,6.1321"
+"LatLong": "49.5258,6.1319"
 },
 {
 "Name": "Peppange",
 "PostCode": "L-3391",
-"LatLong": "49.5242,6.1296"
+"LatLong": "49.5242,6.1295"
 },
 {
 "Name": "Roeser",
@@ -9788,6 +10393,11 @@
 "Communities": [
 {
 "Places": [
+{
+"Name": "Rumelange",
+"PostCode": "L-3701",
+"LatLong": "49.4655,6.0114"
+},
 {
 "Name": "Rumelange",
 "PostCode": "L-3710",
@@ -9841,7 +10451,7 @@
 {
 "Name": "Rumelange",
 "PostCode": "L-3720",
-"LatLong": "49.4626,6.02"
+"LatLong": "49.4626,6.0202"
 },
 {
 "Name": "Rumelange",
@@ -9895,6 +10505,11 @@
 },
 {
 "Name": "Rumelange",
+"PostCode": "L-3731",
+"LatLong": "49.4655,6.0114"
+},
+{
+"Name": "Rumelange",
 "PostCode": "L-3733",
 "LatLong": "49.4591,6.0257"
 },
@@ -9936,7 +10551,7 @@
 {
 "Name": "Rumelange",
 "PostCode": "L-3741",
-"LatLong": "49.4587,6.0324"
+"LatLong": "49.4585,6.0325"
 },
 {
 "Name": "Rumelange",
@@ -9956,7 +10571,7 @@
 {
 "Name": "Rumelange",
 "PostCode": "L-3750",
-"LatLong": "49.4607,6.0323"
+"LatLong": "49.4608,6.0324"
 },
 {
 "Name": "Rumelange",
@@ -9976,7 +10591,7 @@
 {
 "Name": "Rumelange",
 "PostCode": "L-3754",
-"LatLong": "49.4619,6.0348"
+"LatLong": "49.4618,6.0348"
 },
 {
 "Name": "Rumelange",
@@ -9996,22 +10611,42 @@
 {
 "Name": "Belvaux",
 "PostCode": "L-4367",
-"LatLong": "49.5023,5.942"
+"LatLong": "49.5022,5.9419"
 },
 {
 "Name": "Belvaux",
 "PostCode": "L-4368",
-"LatLong": "49.5029,5.9412"
+"LatLong": "49.5029,5.9399"
 },
 {
 "Name": "Belvaux",
 "PostCode": "L-4370",
-"LatLong": "49.503,5.9413"
+"LatLong": "49.5031,5.9412"
 },
 {
 "Name": "Belvaux",
 "PostCode": "L-4371",
 "LatLong": "49.5026,5.9423"
+},
+{
+"Name": "Belvaux",
+"PostCode": "L-4372",
+"LatLong": "49.5031,5.9412"
+},
+{
+"Name": "Belvaux",
+"PostCode": "L-4373",
+"LatLong": "49.5031,5.9412"
+},
+{
+"Name": "Belvaux",
+"PostCode": "L-4401",
+"LatLong": "49.5084,5.9379"
+},
+{
+"Name": "Belvaux",
+"PostCode": "L-4402",
+"LatLong": "49.5084,5.9379"
 },
 {
 "Name": "Belvaux",
@@ -10021,12 +10656,12 @@
 {
 "Name": "Belvaux",
 "PostCode": "L-4407",
-"LatLong": "49.5145,5.943"
+"LatLong": "49.5145,5.9429"
 },
 {
 "Name": "Belvaux",
 "PostCode": "L-4408",
-"LatLong": "49.5083,5.938"
+"LatLong": "49.5084,5.9379"
 },
 {
 "Name": "Belvaux",
@@ -10036,7 +10671,7 @@
 {
 "Name": "Belvaux",
 "PostCode": "L-4412",
-"LatLong": "49.5094,5.9234"
+"LatLong": "49.5094,5.9233"
 },
 {
 "Name": "Belvaux",
@@ -10055,13 +10690,38 @@
 },
 {
 "Name": "Belvaux",
+"PostCode": "L-4424",
+"LatLong": "49.5154,5.9376"
+},
+{
+"Name": "Belvaux",
+"PostCode": "L-4425",
+"LatLong": "49.5153,5.9389"
+},
+{
+"Name": "Belvaux",
+"PostCode": "L-4426",
+"LatLong": "49.5157,5.9388"
+},
+{
+"Name": "Belvaux",
+"PostCode": "L-4427",
+"LatLong": "49.5153,5.9389"
+},
+{
+"Name": "Belvaux",
+"PostCode": "L-4428",
+"LatLong": "49.5153,5.9389"
+},
+{
+"Name": "Belvaux",
 "PostCode": "L-4429",
 "LatLong": "49.5031,5.9225"
 },
 {
 "Name": "Belvaux",
 "PostCode": "L-4430",
-"LatLong": "49.5102,5.9248"
+"LatLong": "49.5102,5.9249"
 },
 {
 "Name": "Belvaux",
@@ -10071,12 +10731,12 @@
 {
 "Name": "Belvaux",
 "PostCode": "L-4436",
-"LatLong": "49.5089,5.9225"
+"LatLong": "49.509,5.9225"
 },
 {
 "Name": "Belvaux",
 "PostCode": "L-4443",
-"LatLong": "49.5101,5.9208"
+"LatLong": "49.51,5.9208"
 },
 {
 "Name": "Belvaux",
@@ -10091,7 +10751,7 @@
 {
 "Name": "Belvaux",
 "PostCode": "L-4446",
-"LatLong": "49.5042,5.9215"
+"LatLong": "49.5041,5.9215"
 },
 {
 "Name": "Belvaux",
@@ -10101,7 +10761,22 @@
 {
 "Name": "Belvaux",
 "PostCode": "L-4451",
-"LatLong": "49.5094,5.9419"
+"LatLong": "49.5095,5.9419"
+},
+{
+"Name": "Belvaux",
+"PostCode": "L-4452",
+"LatLong": "49.5095,5.9419"
+},
+{
+"Name": "Belvaux",
+"PostCode": "L-4453",
+"LatLong": "49.5095,5.9419"
+},
+{
+"Name": "Belvaux",
+"PostCode": "L-4454",
+"LatLong": "49.5095,5.9419"
 },
 {
 "Name": "Belvaux",
@@ -10111,7 +10786,7 @@
 {
 "Name": "Belvaux",
 "PostCode": "L-4461",
-"LatLong": "49.5083,5.9204"
+"LatLong": "49.5083,5.9202"
 },
 {
 "Name": "Belvaux",
@@ -10127,6 +10802,16 @@
 "Name": "Belvaux",
 "PostCode": "L-4471",
 "LatLong": "49.5061,5.921"
+},
+{
+"Name": "Belvaux",
+"PostCode": "L-4472",
+"LatLong": "49.5142,5.9225"
+},
+{
+"Name": "Belvaux",
+"PostCode": "L-4473",
+"LatLong": "49.5142,5.9225"
 },
 {
 "Name": "Belvaux",
@@ -10146,7 +10831,7 @@
 {
 "Name": "Belvaux",
 "PostCode": "L-4477",
-"LatLong": "49.5098,5.9273"
+"LatLong": "49.5096,5.9272"
 },
 {
 "Name": "Belvaux",
@@ -10191,7 +10876,7 @@
 {
 "Name": "Belvaux",
 "PostCode": "L-4491",
-"LatLong": "49.5046,5.9206"
+"LatLong": "49.5046,5.9205"
 },
 {
 "Name": "Ehlerange",
@@ -10201,7 +10886,7 @@
 {
 "Name": "Ehlerange",
 "PostCode": "L-4381",
-"LatLong": "49.5249,5.9722"
+"LatLong": "49.5249,5.9721"
 },
 {
 "Name": "Ehlerange",
@@ -10215,8 +10900,23 @@
 },
 {
 "Name": "Ehlerange",
+"PostCode": "L-4384",
+"LatLong": "49.5181,5.97"
+},
+{
+"Name": "Ehlerange",
 "PostCode": "L-4385",
 "LatLong": "49.5198,5.9737"
+},
+{
+"Name": "Sanem",
+"PostCode": "L-4498",
+"LatLong": "49.5424,5.9508"
+},
+{
+"Name": "Sanem",
+"PostCode": "L-4984",
+"LatLong": "49.5478,5.925"
 },
 {
 "Name": "Sanem",
@@ -10236,7 +10936,7 @@
 {
 "Name": "Sanem",
 "PostCode": "L-4988",
-"LatLong": "49.5479,5.925"
+"LatLong": "49.5478,5.925"
 },
 {
 "Name": "Sanem",
@@ -10246,17 +10946,17 @@
 {
 "Name": "Sanem",
 "PostCode": "L-4990",
-"LatLong": "49.5458,5.9238"
+"LatLong": "49.5459,5.9239"
 },
 {
 "Name": "Sanem",
 "PostCode": "L-4991",
-"LatLong": "49.5414,5.9143"
+"LatLong": "49.5414,5.9144"
 },
 {
 "Name": "Sanem",
 "PostCode": "L-4992",
-"LatLong": "49.545,5.9282"
+"LatLong": "49.5451,5.9282"
 },
 {
 "Name": "Sanem",
@@ -10280,8 +10980,18 @@
 },
 {
 "Name": "Soleuvre",
+"PostCode": "L-4413",
+"LatLong": "49.5179,5.9274"
+},
+{
+"Name": "Soleuvre",
+"PostCode": "L-4414",
+"LatLong": "49.5239,5.9393"
+},
+{
+"Name": "Soleuvre",
 "PostCode": "L-4415",
-"LatLong": "49.524,5.9394"
+"LatLong": "49.5239,5.9393"
 },
 {
 "Name": "Soleuvre",
@@ -10351,7 +11061,7 @@
 {
 "Name": "Soleuvre",
 "PostCode": "L-4441",
-"LatLong": "49.5155,5.9462"
+"LatLong": "49.5156,5.9462"
 },
 {
 "Name": "Soleuvre",
@@ -10381,12 +11091,12 @@
 {
 "Name": "Soleuvre",
 "PostCode": "L-4460",
-"LatLong": "49.5171,5.9308"
+"LatLong": "49.517,5.9309"
 },
 {
 "Name": "Soleuvre",
 "PostCode": "L-4463",
-"LatLong": "49.5243,5.9388"
+"LatLong": "49.5244,5.9388"
 },
 {
 "Name": "Soleuvre",
@@ -10396,7 +11106,7 @@
 {
 "Name": "Soleuvre",
 "PostCode": "L-4465",
-"LatLong": "49.5241,5.9369"
+"LatLong": "49.5241,5.9368"
 },
 {
 "Name": "Soleuvre",
@@ -10411,7 +11121,7 @@
 {
 "Name": "Soleuvre",
 "PostCode": "L-4469",
-"LatLong": "49.5273,5.939"
+"LatLong": "49.5273,5.9389"
 },
 {
 "Name": "Soleuvre",
@@ -10421,7 +11131,7 @@
 {
 "Name": "Soleuvre",
 "PostCode": "L-4475",
-"LatLong": "49.5146,5.9212"
+"LatLong": "49.5146,5.9211"
 },
 {
 "Name": "Soleuvre",
@@ -10451,7 +11161,7 @@
 {
 "Name": "Soleuvre",
 "PostCode": "L-4485",
-"LatLong": "49.5348,5.9402"
+"LatLong": "49.5349,5.9402"
 },
 {
 "Name": "Soleuvre",
@@ -10461,7 +11171,7 @@
 {
 "Name": "Soleuvre",
 "PostCode": "L-4492",
-"LatLong": "49.5194,5.929"
+"LatLong": "49.5194,5.9288"
 },
 {
 "Name": "Soleuvre",
@@ -10471,7 +11181,7 @@
 {
 "Name": "Soleuvre",
 "PostCode": "L-4494",
-"LatLong": "49.5218,5.9409"
+"LatLong": "49.5218,5.941"
 },
 {
 "Name": "Soleuvre",
@@ -10490,13 +11200,18 @@
 "Places": [
 {
 "Name": "Schifflange",
+"PostCode": "L-3801",
+"LatLong": "49.5055,6.0119"
+},
+{
+"Name": "Schifflange",
 "PostCode": "L-3810",
 "LatLong": "49.5017,6.009"
 },
 {
 "Name": "Schifflange",
 "PostCode": "L-3811",
-"LatLong": "49.4983,6.009"
+"LatLong": "49.4983,6.0089"
 },
 {
 "Name": "Schifflange",
@@ -10506,7 +11221,7 @@
 {
 "Name": "Schifflange",
 "PostCode": "L-3813",
-"LatLong": "49.5062,6.0158"
+"LatLong": "49.5062,6.0157"
 },
 {
 "Name": "Schifflange",
@@ -10576,7 +11291,7 @@
 {
 "Name": "Schifflange",
 "PostCode": "L-3830",
-"LatLong": "49.5032,6.0164"
+"LatLong": "49.5033,6.0164"
 },
 {
 "Name": "Schifflange",
@@ -10645,8 +11360,13 @@
 },
 {
 "Name": "Schifflange",
+"PostCode": "L-3844",
+"LatLong": "49.5127,6.011"
+},
+{
+"Name": "Schifflange",
 "PostCode": "L-3850",
-"LatLong": "49.5052,6.007"
+"LatLong": "49.5052,6.0071"
 },
 {
 "Name": "Schifflange",
@@ -10656,7 +11376,7 @@
 {
 "Name": "Schifflange",
 "PostCode": "L-3852",
-"LatLong": "49.5063,6.0107"
+"LatLong": "49.5062,6.0105"
 },
 {
 "Name": "Schifflange",
@@ -10681,12 +11401,12 @@
 {
 "Name": "Schifflange",
 "PostCode": "L-3857",
-"LatLong": "49.5073,6.0064"
+"LatLong": "49.5073,6.0065"
 },
 {
 "Name": "Schifflange",
 "PostCode": "L-3858",
-"LatLong": "49.5099,6.0142"
+"LatLong": "49.5098,6.0144"
 },
 {
 "Name": "Schifflange",
@@ -10701,7 +11421,7 @@
 {
 "Name": "Schifflange",
 "PostCode": "L-3861",
-"LatLong": "49.5078,6.0264"
+"LatLong": "49.5078,6.0265"
 },
 {
 "Name": "Schifflange",
@@ -10731,7 +11451,7 @@
 {
 "Name": "Schifflange",
 "PostCode": "L-3872",
-"LatLong": "49.5028,6.011"
+"LatLong": "49.5028,6.0111"
 },
 {
 "Name": "Schifflange",
@@ -10751,7 +11471,7 @@
 {
 "Name": "Schifflange",
 "PostCode": "L-3876",
-"LatLong": "49.5046,6.013"
+"LatLong": "49.5045,6.013"
 },
 {
 "Name": "Schifflange",
@@ -10776,7 +11496,7 @@
 {
 "Name": "Schifflange",
 "PostCode": "L-3881",
-"LatLong": "49.5077,6.0141"
+"LatLong": "49.5077,6.014"
 },
 {
 "Name": "Schifflange",
@@ -10826,13 +11546,18 @@
 },
 {
 "Name": "Betzdorf",
+"PostCode": "L-6815",
+"LatLong": "49.6881,6.3484"
+},
+{
+"Name": "Betzdorf",
 "PostCode": "L-6832",
-"LatLong": "49.6882,6.3483"
+"LatLong": "49.6881,6.3484"
 },
 {
 "Name": "Mensdorf",
 "PostCode": "L-6918",
-"LatLong": "49.6586,6.2934"
+"LatLong": "49.6579,6.3024"
 },
 {
 "Name": "Mensdorf",
@@ -10847,12 +11572,12 @@
 {
 "Name": "Mensdorf",
 "PostCode": "L-6933",
-"LatLong": "49.658,6.3026"
+"LatLong": "49.6579,6.3024"
 },
 {
 "Name": "Mensdorf",
 "PostCode": "L-6934",
-"LatLong": "49.656,6.3049"
+"LatLong": "49.656,6.3048"
 },
 {
 "Name": "Olingen",
@@ -10862,12 +11587,17 @@
 {
 "Name": "Olingen",
 "PostCode": "L-6951",
-"LatLong": "49.6805,6.318"
+"LatLong": "49.6806,6.3178"
+},
+{
+"Name": "Roodt-sur-Syre",
+"PostCode": "L-6901",
+"LatLong": "49.6686,6.3027"
 },
 {
 "Name": "Roodt-sur-Syre",
 "PostCode": "L-6910",
-"LatLong": "49.6635,6.3002"
+"LatLong": "49.6635,6.3001"
 },
 {
 "Name": "Roodt-sur-Syre",
@@ -10887,7 +11617,7 @@
 {
 "Name": "Roodt-sur-Syre",
 "PostCode": "L-6914",
-"LatLong": "49.6687,6.3028"
+"LatLong": "49.6686,6.3027"
 },
 {
 "Name": "Roodt-sur-Syre",
@@ -10912,7 +11642,7 @@
 {
 "Name": "Roodt-sur-Syre",
 "PostCode": "L-6921",
-"LatLong": "49.6727,6.3287"
+"LatLong": "49.6727,6.3286"
 }
 ]
 }
@@ -10937,12 +11667,12 @@
 {
 "Name": "Biwerbach",
 "PostCode": "L-6834",
-"LatLong": "49.7116,6.3656"
+"LatLong": "49.7117,6.3657"
 },
 {
 "Name": "Boudler",
 "PostCode": "L-6835",
-"LatLong": "49.7224,6.3533"
+"LatLong": "49.7225,6.3534"
 },
 {
 "Name": "Boudlerbach",
@@ -10952,32 +11682,27 @@
 {
 "Name": "Breinert",
 "PostCode": "L-6836",
-"LatLong": "49.7122,6.3385"
+"LatLong": "49.7122,6.3386"
 },
 {
 "Name": "Brouch (Wecker)",
 "PostCode": "L-6837",
-"LatLong": "49.7286,6.3404"
+"LatLong": "49.7286,6.3402"
 },
 {
 "Name": "Hagelsdorf",
 "PostCode": "L-6838",
-"LatLong": "49.6927,6.3639"
-},
-{
-"Name": "Wecker",
-"PostCode": "L-6852",
-"LatLong": "49.7025,6.3977"
+"LatLong": "49.6924,6.3634"
 },
 {
 "Name": "Wecker",
 "PostCode": "L-6868",
-"LatLong": "49.7006,6.3902"
+"LatLong": "49.6949,6.3888"
 },
 {
 "Name": "Wecker",
 "PostCode": "L-6869",
-"LatLong": "49.695,6.3879"
+"LatLong": "49.6951,6.3881"
 },
 {
 "Name": "Wecker",
@@ -10991,8 +11716,13 @@
 },
 {
 "Name": "Wecker-Gare",
+"PostCode": "L-6852",
+"LatLong": "49.7025,6.3977"
+},
+{
+"Name": "Wecker-Gare",
 "PostCode": "L-6868",
-"LatLong": "49.7003,6.3873"
+"LatLong": "49.7012,6.3898"
 },
 {
 "Name": "Weydig",
@@ -11012,7 +11742,7 @@
 {
 "Name": "Beyren",
 "PostCode": "L-5410",
-"LatLong": "49.6302,6.336"
+"LatLong": "49.6302,6.3359"
 },
 {
 "Name": "Flaxweiler",
@@ -11022,17 +11752,17 @@
 {
 "Name": "Flaxweiler",
 "PostCode": "L-6926",
-"LatLong": "49.6671,6.3417"
+"LatLong": "49.6672,6.3417"
 },
 {
 "Name": "Gostingen",
 "PostCode": "L-5424",
-"LatLong": "49.6194,6.3545"
+"LatLong": "49.6195,6.3545"
 },
 {
 "Name": "Gostingen",
 "PostCode": "L-5425",
-"LatLong": "49.6211,6.3528"
+"LatLong": "49.6212,6.3528"
 },
 {
 "Name": "Niederdonven",
@@ -11047,7 +11777,7 @@
 {
 "Name": "Oberdonven",
 "PostCode": "L-5435",
-"LatLong": "49.6496,6.3996"
+"LatLong": "49.6495,6.3996"
 }
 ]
 }
@@ -11059,6 +11789,11 @@
 "Communities": [
 {
 "Places": [
+{
+"Name": "Grevenmacher",
+"PostCode": "L-6701",
+"LatLong": "49.6778,6.442"
+},
 {
 "Name": "Grevenmacher",
 "PostCode": "L-6711",
@@ -11097,7 +11832,7 @@
 {
 "Name": "Grevenmacher",
 "PostCode": "L-6718",
-"LatLong": "49.6832,6.444"
+"LatLong": "49.6831,6.4441"
 },
 {
 "Name": "Grevenmacher",
@@ -11107,7 +11842,12 @@
 {
 "Name": "Grevenmacher",
 "PostCode": "L-6720",
-"LatLong": "49.6783,6.4407"
+"LatLong": "49.6784,6.441"
+},
+{
+"Name": "Grevenmacher",
+"PostCode": "L-6721",
+"LatLong": "49.6765,6.437"
 },
 {
 "Name": "Grevenmacher",
@@ -11117,7 +11857,7 @@
 {
 "Name": "Grevenmacher",
 "PostCode": "L-6723",
-"LatLong": "49.6768,6.4385"
+"LatLong": "49.6768,6.4386"
 },
 {
 "Name": "Grevenmacher",
@@ -11127,7 +11867,7 @@
 {
 "Name": "Grevenmacher",
 "PostCode": "L-6725",
-"LatLong": "49.6877,6.4481"
+"LatLong": "49.6877,6.448"
 },
 {
 "Name": "Grevenmacher",
@@ -11147,7 +11887,12 @@
 {
 "Name": "Grevenmacher",
 "PostCode": "L-6732",
-"LatLong": "49.6755,6.4369"
+"LatLong": "49.6756,6.4369"
+},
+{
+"Name": "Grevenmacher",
+"PostCode": "L-6733",
+"LatLong": "49.6794,6.4398"
 },
 {
 "Name": "Grevenmacher",
@@ -11197,7 +11942,7 @@
 {
 "Name": "Grevenmacher",
 "PostCode": "L-6743",
-"LatLong": "49.678,6.4395"
+"LatLong": "49.6781,6.4394"
 },
 {
 "Name": "Grevenmacher",
@@ -11207,12 +11952,12 @@
 {
 "Name": "Grevenmacher",
 "PostCode": "L-6745",
-"LatLong": "49.6805,6.4434"
+"LatLong": "49.6804,6.4434"
 },
 {
 "Name": "Grevenmacher",
 "PostCode": "L-6750",
-"LatLong": "49.6794,6.4395"
+"LatLong": "49.6794,6.4394"
 },
 {
 "Name": "Grevenmacher",
@@ -11227,7 +11972,7 @@
 {
 "Name": "Grevenmacher",
 "PostCode": "L-6753",
-"LatLong": "49.6716,6.4327"
+"LatLong": "49.6714,6.4323"
 },
 {
 "Name": "Grevenmacher",
@@ -11262,12 +12007,12 @@
 {
 "Name": "Grevenmacher",
 "PostCode": "L-6760",
-"LatLong": "49.6849,6.4429"
+"LatLong": "49.6848,6.4428"
 },
 {
 "Name": "Grevenmacher",
 "PostCode": "L-6761",
-"LatLong": "49.6795,6.4431"
+"LatLong": "49.6795,6.4432"
 },
 {
 "Name": "Grevenmacher",
@@ -11322,12 +12067,12 @@
 {
 "Name": "Grevenmacher",
 "PostCode": "L-6776",
-"LatLong": "49.6793,6.3992"
+"LatLong": "49.6791,6.3992"
 },
 {
 "Name": "Grevenmacher",
 "PostCode": "L-6777",
-"LatLong": "49.68,6.4421"
+"LatLong": "49.6801,6.4422"
 },
 {
 "Name": "Grevenmacher",
@@ -11352,7 +12097,7 @@
 {
 "Name": "Grevenmacher",
 "PostCode": "L-6782",
-"LatLong": "49.6784,6.44"
+"LatLong": "49.6785,6.44"
 },
 {
 "Name": "Grevenmacher",
@@ -11387,7 +12132,7 @@
 {
 "Name": "Grevenmacher",
 "PostCode": "L-6792",
-"LatLong": "49.6781,6.4432"
+"LatLong": "49.6781,6.4431"
 },
 {
 "Name": "Grevenmacher",
@@ -11407,7 +12152,7 @@
 {
 "Name": "Grevenmacher",
 "PostCode": "L-6796",
-"LatLong": "49.6854,6.441"
+"LatLong": "49.6854,6.4409"
 }
 ]
 }
@@ -11422,62 +12167,57 @@
 {
 "Name": "Altlinster",
 "PostCode": "L-6150",
-"LatLong": "49.7216,6.2172"
+"LatLong": "49.7217,6.2169"
 },
 {
 "Name": "Beidweiler",
 "PostCode": "L-6235",
-"LatLong": "49.7288,6.3006"
-},
-{
-"Name": "Blumenthal",
-"PostCode": "L-7639",
-"LatLong": "49.7424,6.2666"
+"LatLong": "49.7287,6.3006"
 },
 {
 "Name": "Bourglinster",
 "PostCode": "L-6160",
-"LatLong": "49.7069,6.2198"
+"LatLong": "49.707,6.2198"
 },
 {
 "Name": "Bourglinster",
 "PostCode": "L-6161",
-"LatLong": "49.7029,6.2201"
+"LatLong": "49.7029,6.22"
 },
 {
 "Name": "Bourglinster",
 "PostCode": "L-6162",
-"LatLong": "49.7043,6.214"
+"LatLong": "49.7042,6.2141"
 },
 {
 "Name": "Bourglinster",
 "PostCode": "L-6163",
-"LatLong": "49.7071,6.2173"
+"LatLong": "49.7071,6.2174"
 },
 {
 "Name": "Eisenborn",
 "PostCode": "L-6196",
-"LatLong": "49.6914,6.1835"
+"LatLong": "49.6913,6.1835"
 },
 {
 "Name": "Eisenborn",
 "PostCode": "L-6197",
-"LatLong": "49.6924,6.1826"
+"LatLong": "49.6925,6.1826"
 },
 {
 "Name": "Eschweiler",
 "PostCode": "L-6169",
-"LatLong": "49.7169,6.3105"
+"LatLong": "49.7168,6.3105"
 },
 {
 "Name": "Godbrange",
 "PostCode": "L-6170",
-"LatLong": "49.7337,6.2323"
+"LatLong": "49.7336,6.2324"
 },
 {
 "Name": "Godbrange",
 "PostCode": "L-6171",
-"LatLong": "49.7355,6.2285"
+"LatLong": "49.7356,6.2284"
 },
 {
 "Name": "Gonderange",
@@ -11492,12 +12232,12 @@
 {
 "Name": "Gonderange",
 "PostCode": "L-6182",
-"LatLong": "49.6955,6.2437"
+"LatLong": "49.6952,6.2436"
 },
 {
 "Name": "Gonderange",
 "PostCode": "L-6183",
-"LatLong": "49.693,6.2454"
+"LatLong": "49.693,6.2453"
 },
 {
 "Name": "Gonderange",
@@ -11537,12 +12277,17 @@
 {
 "Name": "Graulinster",
 "PostCode": "L-6240",
-"LatLong": "49.7386,6.2868"
+"LatLong": "49.7386,6.2867"
 },
 {
 "Name": "Imbringen",
 "PostCode": "L-6195",
-"LatLong": "49.7002,6.1938"
+"LatLong": "49.7,6.1939"
+},
+{
+"Name": "Junglinster",
+"PostCode": "L-6101",
+"LatLong": "49.7099,6.248"
 },
 {
 "Name": "Junglinster",
@@ -11557,7 +12302,7 @@
 {
 "Name": "Junglinster",
 "PostCode": "L-6113",
-"LatLong": "49.7085,6.246"
+"LatLong": "49.7084,6.246"
 },
 {
 "Name": "Junglinster",
@@ -11572,17 +12317,17 @@
 {
 "Name": "Junglinster",
 "PostCode": "L-6116",
-"LatLong": "49.7151,6.2444"
+"LatLong": "49.7151,6.2443"
 },
 {
 "Name": "Junglinster",
 "PostCode": "L-6117",
-"LatLong": "49.7092,6.2544"
+"LatLong": "49.7093,6.2543"
 },
 {
 "Name": "Junglinster",
 "PostCode": "L-6118",
-"LatLong": "49.7168,6.2475"
+"LatLong": "49.7179,6.2479"
 },
 {
 "Name": "Junglinster",
@@ -11616,6 +12361,16 @@
 },
 {
 "Name": "Junglinster",
+"PostCode": "L-6125",
+"LatLong": "49.7168,6.2479"
+},
+{
+"Name": "Junglinster",
+"PostCode": "L-6129",
+"LatLong": "49.7102,6.2535"
+},
+{
+"Name": "Junglinster",
 "PostCode": "L-6130",
 "LatLong": "49.7096,6.2506"
 },
@@ -11637,7 +12392,7 @@
 {
 "Name": "Junglinster",
 "PostCode": "L-6134",
-"LatLong": "49.711,6.2499"
+"LatLong": "49.711,6.2498"
 },
 {
 "Name": "Junglinster",
@@ -11667,7 +12422,7 @@
 {
 "Name": "Junglinster",
 "PostCode": "L-6140",
-"LatLong": "49.7148,6.2548"
+"LatLong": "49.7141,6.2537"
 },
 {
 "Name": "Junglinster",
@@ -11677,7 +12432,7 @@
 {
 "Name": "Junglinster",
 "PostCode": "L-6142",
-"LatLong": "49.7123,6.2488"
+"LatLong": "49.7122,6.2488"
 },
 {
 "Name": "Junglinster",
@@ -11687,7 +12442,7 @@
 {
 "Name": "Junglinster",
 "PostCode": "L-6144",
-"LatLong": "49.7176,6.2606"
+"LatLong": "49.7164,6.2587"
 },
 {
 "Name": "Junglinster",
@@ -11737,27 +12492,32 @@
 {
 "Name": "Berbourg",
 "PostCode": "L-6830",
-"LatLong": "49.7314,6.3934"
+"LatLong": "49.7314,6.3933"
 },
 {
 "Name": "Berbourg",
 "PostCode": "L-6831",
-"LatLong": "49.7358,6.3936"
+"LatLong": "49.7356,6.3939"
 },
 {
 "Name": "Lellig",
 "PostCode": "L-6839",
-"LatLong": "49.7214,6.4347"
+"LatLong": "49.7214,6.4346"
 },
 {
 "Name": "Manternach",
 "PostCode": "L-6850",
-"LatLong": "49.7074,6.4239"
+"LatLong": "49.7074,6.424"
+},
+{
+"Name": "Manternach",
+"PostCode": "L-6851",
+"LatLong": "49.7074,6.424"
 },
 {
 "Name": "Münschecker",
 "PostCode": "L-6858",
-"LatLong": "49.6994,6.4415"
+"LatLong": "49.6993,6.4415"
 }
 ]
 }
@@ -11782,7 +12542,7 @@
 {
 "Name": "Mertert",
 "PostCode": "L-6671",
-"LatLong": "49.7031,6.4824"
+"LatLong": "49.7032,6.4822"
 },
 {
 "Name": "Mertert",
@@ -11811,6 +12571,11 @@
 },
 {
 "Name": "Mertert",
+"PostCode": "L-6677",
+"LatLong": "49.7053,6.4791"
+},
+{
+"Name": "Mertert",
 "PostCode": "L-6678",
 "LatLong": "49.7053,6.4791"
 },
@@ -11827,17 +12592,17 @@
 {
 "Name": "Mertert",
 "PostCode": "L-6682",
-"LatLong": "49.7051,6.4805"
+"LatLong": "49.7081,6.4801"
 },
 {
 "Name": "Mertert",
 "PostCode": "L-6683",
-"LatLong": "49.7044,6.4878"
+"LatLong": "49.7043,6.4878"
 },
 {
 "Name": "Mertert",
 "PostCode": "L-6684",
-"LatLong": "49.7019,6.4788"
+"LatLong": "49.7019,6.4787"
 },
 {
 "Name": "Mertert",
@@ -11857,17 +12622,22 @@
 {
 "Name": "Mertert",
 "PostCode": "L-6688",
-"LatLong": "49.6939,6.4667"
+"LatLong": "49.6997,6.4711"
 },
 {
 "Name": "Mertert",
 "PostCode": "L-6689",
-"LatLong": "49.708,6.4596"
+"LatLong": "49.7075,6.4599"
 },
 {
 "Name": "Mertert",
 "PostCode": "L-6693",
-"LatLong": "49.7052,6.4829"
+"LatLong": "49.7053,6.4833"
+},
+{
+"Name": "Wasserbillig",
+"PostCode": "L-6601",
+"LatLong": "49.7149,6.5018"
 },
 {
 "Name": "Wasserbillig",
@@ -11892,7 +12662,7 @@
 {
 "Name": "Wasserbillig",
 "PostCode": "L-6614",
-"LatLong": "49.7156,6.4971"
+"LatLong": "49.7156,6.497"
 },
 {
 "Name": "Wasserbillig",
@@ -11912,7 +12682,7 @@
 {
 "Name": "Wasserbillig",
 "PostCode": "L-6618",
-"LatLong": "49.7131,6.4939"
+"LatLong": "49.7131,6.494"
 },
 {
 "Name": "Wasserbillig",
@@ -11952,7 +12722,7 @@
 {
 "Name": "Wasserbillig",
 "PostCode": "L-6632",
-"LatLong": "49.7147,6.502"
+"LatLong": "49.7147,6.5021"
 },
 {
 "Name": "Wasserbillig",
@@ -11967,12 +12737,12 @@
 {
 "Name": "Wasserbillig",
 "PostCode": "L-6635",
-"LatLong": "49.7147,6.5003"
+"LatLong": "49.7148,6.5004"
 },
 {
 "Name": "Wasserbillig",
 "PostCode": "L-6636",
-"LatLong": "49.7139,6.4926"
+"LatLong": "49.7139,6.4927"
 },
 {
 "Name": "Wasserbillig",
@@ -11982,7 +12752,7 @@
 {
 "Name": "Wasserbillig",
 "PostCode": "L-6638",
-"LatLong": "49.7142,6.5034"
+"LatLong": "49.7143,6.5034"
 },
 {
 "Name": "Wasserbillig",
@@ -11992,7 +12762,7 @@
 {
 "Name": "Wasserbillig",
 "PostCode": "L-6646",
-"LatLong": "49.7153,6.5036"
+"LatLong": "49.7153,6.5037"
 },
 {
 "Name": "Wasserbillig",
@@ -12007,7 +12777,7 @@
 {
 "Name": "Wasserbillig",
 "PostCode": "L-6649",
-"LatLong": "49.7149,6.5059"
+"LatLong": "49.7155,6.5052"
 },
 {
 "Name": "Wasserbillig",
@@ -12018,6 +12788,11 @@
 "Name": "Wasserbillig",
 "PostCode": "L-6651",
 "LatLong": "49.7146,6.4977"
+},
+{
+"Name": "Wasserbillig",
+"PostCode": "L-6655",
+"LatLong": "49.7174,6.4958"
 }
 ]
 }
@@ -12032,7 +12807,7 @@
 {
 "Name": "Ahn",
 "PostCode": "L-5401",
-"LatLong": "49.6278,6.4215"
+"LatLong": "49.6277,6.4214"
 },
 {
 "Name": "Ehnen",
@@ -12072,12 +12847,12 @@
 {
 "Name": "Machtum",
 "PostCode": "L-6840",
-"LatLong": "49.6587,6.4312"
+"LatLong": "49.6587,6.4313"
 },
 {
 "Name": "Machtum",
 "PostCode": "L-6841",
-"LatLong": "49.6593,6.4346"
+"LatLong": "49.6593,6.4344"
 },
 {
 "Name": "Machtum",
@@ -12087,12 +12862,12 @@
 {
 "Name": "Wormeldange",
 "PostCode": "L-5480",
-"LatLong": "49.6091,6.404"
+"LatLong": "49.6092,6.404"
 },
 {
 "Name": "Wormeldange",
 "PostCode": "L-5481",
-"LatLong": "49.6099,6.4053"
+"LatLong": "49.61,6.4054"
 },
 {
 "Name": "Wormeldange",
@@ -12107,7 +12882,7 @@
 {
 "Name": "Wormeldange-Haut",
 "PostCode": "L-5485",
-"LatLong": "49.6099,6.3993"
+"LatLong": "49.6104,6.399"
 }
 ]
 }
@@ -12127,13 +12902,28 @@
 "Places": [
 {
 "Name": "Bertrange",
+"PostCode": "L-8005",
+"LatLong": "49.6146,6.0454"
+},
+{
+"Name": "Bertrange",
+"PostCode": "L-8006",
+"LatLong": "49.6146,6.0454"
+},
+{
+"Name": "Bertrange",
+"PostCode": "L-8007",
+"LatLong": "49.6146,6.0454"
+},
+{
+"Name": "Bertrange",
 "PostCode": "L-8011",
 "LatLong": "49.6215,6.0506"
 },
 {
 "Name": "Bertrange",
 "PostCode": "L-8041",
-"LatLong": "49.6178,6.0558"
+"LatLong": "49.6178,6.0557"
 },
 {
 "Name": "Bertrange",
@@ -12143,7 +12933,7 @@
 {
 "Name": "Bertrange",
 "PostCode": "L-8051",
-"LatLong": "49.6092,6.0524"
+"LatLong": "49.6092,6.0526"
 },
 {
 "Name": "Bertrange",
@@ -12167,23 +12957,23 @@
 },
 {
 "Name": "Bertrange",
-"PostCode": "L-8056",
-"LatLong": "49.6109,6.0507"
-},
-{
-"Name": "Bertrange",
 "PostCode": "L-8057",
 "LatLong": "49.6149,6.0545"
 },
 {
 "Name": "Bertrange",
 "PostCode": "L-8058",
-"LatLong": "49.6115,6.0502"
+"LatLong": "49.6115,6.0503"
 },
 {
 "Name": "Bertrange",
 "PostCode": "L-8059",
-"LatLong": "49.5975,6.0492"
+"LatLong": "49.5973,6.05"
+},
+{
+"Name": "Bertrange",
+"PostCode": "L-8060",
+"LatLong": "49.6126,6.0589"
 },
 {
 "Name": "Bertrange",
@@ -12213,7 +13003,7 @@
 {
 "Name": "Bertrange",
 "PostCode": "L-8066",
-"LatLong": "49.6126,6.0588"
+"LatLong": "49.6126,6.0589"
 },
 {
 "Name": "Bertrange",
@@ -12283,7 +13073,7 @@
 {
 "Name": "Bertrange",
 "PostCode": "L-8081",
-"LatLong": "49.616,6.0482"
+"LatLong": "49.6159,6.0482"
 },
 {
 "Name": "Bertrange",
@@ -12298,7 +13088,7 @@
 {
 "Name": "Bertrange",
 "PostCode": "L-8084",
-"LatLong": "49.6092,6.0445"
+"LatLong": "49.6092,6.0446"
 },
 {
 "Name": "Bertrange",
@@ -12368,7 +13158,7 @@
 {
 "Name": "Bertrange",
 "PostCode": "L-8268",
-"LatLong": "49.6227,6.0389"
+"LatLong": "49.6226,6.0389"
 }
 ]
 }
@@ -12383,17 +13173,22 @@
 {
 "Name": "Contern",
 "PostCode": "L-5310",
-"LatLong": "49.5865,6.2301"
+"LatLong": "49.5864,6.2299"
 },
 {
 "Name": "Contern",
 "PostCode": "L-5312",
-"LatLong": "49.5879,6.2264"
+"LatLong": "49.5879,6.2261"
+},
+{
+"Name": "Contern",
+"PostCode": "L-5313",
+"LatLong": "49.5829,6.2192"
 },
 {
 "Name": "Contern",
 "PostCode": "L-5314",
-"LatLong": "49.5865,6.2231"
+"LatLong": "49.5858,6.2225"
 },
 {
 "Name": "Contern",
@@ -12413,22 +13208,22 @@
 {
 "Name": "Contern",
 "PostCode": "L-5318",
-"LatLong": "49.5804,6.2213"
+"LatLong": "49.5804,6.2212"
 },
 {
 "Name": "Contern",
 "PostCode": "L-5320",
-"LatLong": "49.5835,6.2305"
+"LatLong": "49.5836,6.2305"
 },
 {
 "Name": "Contern",
 "PostCode": "L-5322",
-"LatLong": "49.5825,6.2288"
+"LatLong": "49.5825,6.2289"
 },
 {
 "Name": "Contern",
 "PostCode": "L-5324",
-"LatLong": "49.6005,6.2221"
+"LatLong": "49.6008,6.2229"
 },
 {
 "Name": "Contern",
@@ -12443,7 +13238,7 @@
 {
 "Name": "Moutfort",
 "PostCode": "L-5330",
-"LatLong": "49.5869,6.26"
+"LatLong": "49.5868,6.2602"
 },
 {
 "Name": "Moutfort",
@@ -12458,7 +13253,7 @@
 {
 "Name": "Moutfort",
 "PostCode": "L-5333",
-"LatLong": "49.5889,6.259"
+"LatLong": "49.5888,6.2588"
 },
 {
 "Name": "Moutfort",
@@ -12468,7 +13263,7 @@
 {
 "Name": "Moutfort",
 "PostCode": "L-5335",
-"LatLong": "49.5863,6.2567"
+"LatLong": "49.5862,6.2567"
 },
 {
 "Name": "Moutfort",
@@ -12478,12 +13273,12 @@
 {
 "Name": "Moutfort",
 "PostCode": "L-5337",
-"LatLong": "49.5854,6.2614"
+"LatLong": "49.5853,6.2615"
 },
 {
 "Name": "Moutfort",
 "PostCode": "L-5339",
-"LatLong": "49.5877,6.2498"
+"LatLong": "49.5877,6.2499"
 },
 {
 "Name": "Moutfort",
@@ -12493,12 +13288,17 @@
 {
 "Name": "Moutfort",
 "PostCode": "L-5341",
-"LatLong": "49.5886,6.2477"
+"LatLong": "49.5886,6.2478"
+},
+{
+"Name": "Oetrange",
+"PostCode": "L-5324",
+"LatLong": "49.5975,6.2439"
 },
 {
 "Name": "Oetrange",
 "PostCode": "L-5331",
-"LatLong": "49.5963,6.2493"
+"LatLong": "49.5963,6.2494"
 },
 {
 "Name": "Oetrange",
@@ -12513,12 +13313,12 @@
 {
 "Name": "Oetrange",
 "PostCode": "L-5353",
-"LatLong": "49.6018,6.2644"
+"LatLong": "49.6018,6.2643"
 },
 {
 "Name": "Oetrange",
 "PostCode": "L-5355",
-"LatLong": "49.5981,6.2598"
+"LatLong": "49.5981,6.2595"
 }
 ]
 }
@@ -12538,7 +13338,7 @@
 {
 "Name": "Alzingen",
 "PostCode": "L-5818",
-"LatLong": "49.5673,6.1654"
+"LatLong": "49.5673,6.1655"
 },
 {
 "Name": "Alzingen",
@@ -12588,12 +13388,12 @@
 {
 "Name": "Alzingen",
 "PostCode": "L-5863",
-"LatLong": "49.574,6.1636"
+"LatLong": "49.5739,6.1635"
 },
 {
 "Name": "Alzingen",
 "PostCode": "L-5865",
-"LatLong": "49.5618,6.1626"
+"LatLong": "49.5619,6.1626"
 },
 {
 "Name": "Alzingen",
@@ -12608,7 +13408,7 @@
 {
 "Name": "Alzingen",
 "PostCode": "L-5870",
-"LatLong": "49.5678,6.1641"
+"LatLong": "49.5678,6.164"
 },
 {
 "Name": "Alzingen",
@@ -12638,7 +13438,7 @@
 {
 "Name": "Alzingen",
 "PostCode": "L-5887",
-"LatLong": "49.5665,6.1625"
+"LatLong": "49.5668,6.1623"
 },
 {
 "Name": "Alzingen",
@@ -12653,6 +13453,21 @@
 {
 "Name": "Alzingen",
 "PostCode": "L-5892",
+"LatLong": "49.5738,6.1652"
+},
+{
+"Name": "Alzingen",
+"PostCode": "L-5894",
+"LatLong": "49.5738,6.1652"
+},
+{
+"Name": "Alzingen",
+"PostCode": "L-5895",
+"LatLong": "49.5738,6.1652"
+},
+{
+"Name": "Alzingen",
+"PostCode": "L-5896",
 "LatLong": "49.5738,6.1652"
 },
 {
@@ -12708,7 +13523,7 @@
 {
 "Name": "Fentange",
 "PostCode": "L-5832",
-"LatLong": "49.5708,6.1404"
+"LatLong": "49.5709,6.1404"
 },
 {
 "Name": "Fentange",
@@ -12733,7 +13548,7 @@
 {
 "Name": "Fentange",
 "PostCode": "L-5846",
-"LatLong": "49.5619,6.1481"
+"LatLong": "49.5618,6.1483"
 },
 {
 "Name": "Fentange",
@@ -12769,6 +13584,11 @@
 "Name": "Fentange",
 "PostCode": "L-5891",
 "LatLong": "49.567,6.1543"
+},
+{
+"Name": "Hesperange",
+"PostCode": "L-5801",
+"LatLong": "49.5731,6.1449"
 },
 {
 "Name": "Hesperange",
@@ -12833,7 +13653,7 @@
 {
 "Name": "Hesperange",
 "PostCode": "L-5852",
-"LatLong": "49.5755,6.1615"
+"LatLong": "49.5755,6.1614"
 },
 {
 "Name": "Hesperange",
@@ -12848,7 +13668,7 @@
 {
 "Name": "Hesperange",
 "PostCode": "L-5859",
-"LatLong": "49.5777,6.1619"
+"LatLong": "49.5778,6.1619"
 },
 {
 "Name": "Hesperange",
@@ -12863,12 +13683,12 @@
 {
 "Name": "Hesperange",
 "PostCode": "L-5863",
-"LatLong": "49.5734,6.1615"
+"LatLong": "49.5733,6.1613"
 },
 {
 "Name": "Hesperange",
 "PostCode": "L-5866",
-"LatLong": "49.58,6.1512"
+"LatLong": "49.58,6.1511"
 },
 {
 "Name": "Hesperange",
@@ -12888,7 +13708,7 @@
 {
 "Name": "Hesperange",
 "PostCode": "L-5880",
-"LatLong": "49.573,6.1489"
+"LatLong": "49.573,6.1488"
 },
 {
 "Name": "Hesperange",
@@ -12903,7 +13723,7 @@
 {
 "Name": "Hesperange",
 "PostCode": "L-5886",
-"LatLong": "49.5729,6.1574"
+"LatLong": "49.5727,6.1578"
 },
 {
 "Name": "Hesperange",
@@ -12926,6 +13746,11 @@
 "LatLong": "49.5772,6.1599"
 },
 {
+"Name": "Hesperange",
+"PostCode": "L-5941",
+"LatLong": "49.5772,6.1599"
+},
+{
 "Name": "Howald",
 "PostCode": "L-1137",
 "LatLong": "49.5844,6.1384"
@@ -12933,7 +13758,7 @@
 {
 "Name": "Howald",
 "PostCode": "L-1216",
-"LatLong": "49.5804,6.1468"
+"LatLong": "49.5803,6.1468"
 },
 {
 "Name": "Howald",
@@ -12958,7 +13783,7 @@
 {
 "Name": "Howald",
 "PostCode": "L-1274",
-"LatLong": "49.5786,6.1372"
+"LatLong": "49.5786,6.1373"
 },
 {
 "Name": "Howald",
@@ -12973,7 +13798,7 @@
 {
 "Name": "Howald",
 "PostCode": "L-1363",
-"LatLong": "49.5882,6.1462"
+"LatLong": "49.5882,6.1463"
 },
 {
 "Name": "Howald",
@@ -12988,7 +13813,7 @@
 {
 "Name": "Howald",
 "PostCode": "L-1467",
-"LatLong": "49.5812,6.1448"
+"LatLong": "49.5811,6.1448"
 },
 {
 "Name": "Howald",
@@ -13053,7 +13878,7 @@
 {
 "Name": "Howald",
 "PostCode": "L-2319",
-"LatLong": "49.5813,6.1422"
+"LatLong": "49.5812,6.1422"
 },
 {
 "Name": "Howald",
@@ -13073,7 +13898,7 @@
 {
 "Name": "Howald",
 "PostCode": "L-2425",
-"LatLong": "49.582,6.1424"
+"LatLong": "49.5821,6.1425"
 },
 {
 "Name": "Howald",
@@ -13088,7 +13913,7 @@
 {
 "Name": "Howald",
 "PostCode": "L-2529",
-"LatLong": "49.581,6.1349"
+"LatLong": "49.5809,6.135"
 },
 {
 "Name": "Howald",
@@ -13123,7 +13948,7 @@
 {
 "Name": "Howald",
 "PostCode": "L-5850",
-"LatLong": "49.5852,6.1461"
+"LatLong": "49.5852,6.1462"
 },
 {
 "Name": "Howald",
@@ -13134,6 +13959,11 @@
 "Name": "Howald",
 "PostCode": "L-5885",
 "LatLong": "49.5852,6.1453"
+},
+{
+"Name": "Itzig",
+"PostCode": "L-1816",
+"LatLong": "49.5962,6.1583"
 },
 {
 "Name": "Itzig",
@@ -13153,7 +13983,7 @@
 {
 "Name": "Itzig",
 "PostCode": "L-5950",
-"LatLong": "49.5891,6.1723"
+"LatLong": "49.5891,6.1722"
 },
 {
 "Name": "Itzig",
@@ -13163,12 +13993,12 @@
 {
 "Name": "Itzig",
 "PostCode": "L-5952",
-"LatLong": "49.5856,6.1705"
+"LatLong": "49.5856,6.1706"
 },
 {
 "Name": "Itzig",
 "PostCode": "L-5953",
-"LatLong": "49.5871,6.1761"
+"LatLong": "49.5872,6.1762"
 },
 {
 "Name": "Itzig",
@@ -13198,12 +14028,17 @@
 {
 "Name": "Itzig",
 "PostCode": "L-5959",
-"LatLong": "49.5835,6.1688"
+"LatLong": "49.5834,6.1688"
 },
 {
 "Name": "Itzig",
 "PostCode": "L-5960",
 "LatLong": "49.5881,6.1678"
+},
+{
+"Name": "Itzig",
+"PostCode": "L-5961",
+"LatLong": "49.5874,6.1719"
 },
 {
 "Name": "Itzig",
@@ -13218,7 +14053,7 @@
 {
 "Name": "Itzig",
 "PostCode": "L-5964",
-"LatLong": "49.5864,6.1779"
+"LatLong": "49.5864,6.1776"
 },
 {
 "Name": "Itzig",
@@ -13263,7 +14098,7 @@
 {
 "Name": "Itzig",
 "PostCode": "L-5977",
-"LatLong": "49.5885,6.17"
+"LatLong": "49.5885,6.1701"
 },
 {
 "Name": "Itzig",
@@ -13283,7 +14118,7 @@
 {
 "Name": "Ernster",
 "PostCode": "L-6165",
-"LatLong": "49.6807,6.249"
+"LatLong": "49.6808,6.2491"
 },
 {
 "Name": "Ernster",
@@ -13293,7 +14128,7 @@
 {
 "Name": "Hostert",
 "PostCode": "L-6970",
-"LatLong": "49.6566,6.2333"
+"LatLong": "49.6566,6.2332"
 },
 {
 "Name": "Hostert",
@@ -13323,7 +14158,7 @@
 {
 "Name": "Hostert",
 "PostCode": "L-6990",
-"LatLong": "49.6596,6.2328"
+"LatLong": "49.6595,6.2328"
 },
 {
 "Name": "Hostert",
@@ -13333,7 +14168,17 @@
 {
 "Name": "Hostert",
 "PostCode": "L-6998",
-"LatLong": "49.6564,6.2305"
+"LatLong": "49.6564,6.2306"
+},
+{
+"Name": "Niederanven",
+"PostCode": "L-6905",
+"LatLong": "49.6575,6.251"
+},
+{
+"Name": "Niederanven",
+"PostCode": "L-6906",
+"LatLong": "49.6575,6.251"
 },
 {
 "Name": "Niederanven",
@@ -13353,7 +14198,7 @@
 {
 "Name": "Niederanven",
 "PostCode": "L-6942",
-"LatLong": "49.652,6.2639"
+"LatLong": "49.652,6.264"
 },
 {
 "Name": "Niederanven",
@@ -13368,7 +14213,7 @@
 {
 "Name": "Niederanven",
 "PostCode": "L-6945",
-"LatLong": "49.6546,6.2517"
+"LatLong": "49.6545,6.2518"
 },
 {
 "Name": "Niederanven",
@@ -13393,12 +14238,12 @@
 {
 "Name": "Oberanven",
 "PostCode": "L-6970",
-"LatLong": "49.6578,6.2414"
+"LatLong": "49.6578,6.2416"
 },
 {
 "Name": "Oberanven",
 "PostCode": "L-6976",
-"LatLong": "49.6571,6.2425"
+"LatLong": "49.6571,6.2426"
 },
 {
 "Name": "Oberanven",
@@ -13423,12 +14268,17 @@
 {
 "Name": "Oberanven",
 "PostCode": "L-6996",
-"LatLong": "49.6594,6.2376"
+"LatLong": "49.6593,6.2376"
 },
 {
 "Name": "Oberanven",
 "PostCode": "L-6997",
 "LatLong": "49.6591,6.2384"
+},
+{
+"Name": "Oberanven",
+"PostCode": "L-6999",
+"LatLong": "49.6583,6.2498"
 },
 {
 "Name": "Rameldange",
@@ -13448,7 +14298,7 @@
 {
 "Name": "Rameldange",
 "PostCode": "L-6975",
-"LatLong": "49.6646,6.235"
+"LatLong": "49.6646,6.2349"
 },
 {
 "Name": "Rameldange",
@@ -13468,7 +14318,7 @@
 {
 "Name": "Rameldange",
 "PostCode": "L-6987",
-"LatLong": "49.662,6.2305"
+"LatLong": "49.662,6.2306"
 },
 {
 "Name": "Rameldange",
@@ -13493,7 +14343,7 @@
 {
 "Name": "Senningen",
 "PostCode": "L-6960",
-"LatLong": "49.6491,6.243"
+"LatLong": "49.6492,6.2432"
 },
 {
 "Name": "Senningen",
@@ -13503,12 +14353,12 @@
 {
 "Name": "Senningen",
 "PostCode": "L-6962",
-"LatLong": "49.6465,6.242"
+"LatLong": "49.6465,6.2421"
 },
 {
 "Name": "Senningerberg",
 "PostCode": "L-1209",
-"LatLong": "49.6463,6.2256"
+"LatLong": "49.6464,6.2256"
 },
 {
 "Name": "Senningerberg",
@@ -13523,7 +14373,7 @@
 {
 "Name": "Senningerberg",
 "PostCode": "L-1259",
-"LatLong": "49.6549,6.2211"
+"LatLong": "49.6548,6.2209"
 },
 {
 "Name": "Senningerberg",
@@ -13567,6 +14417,11 @@
 },
 {
 "Name": "Senningerberg",
+"PostCode": "L-2315",
+"LatLong": "49.649,6.2387"
+},
+{
+"Name": "Senningerberg",
 "PostCode": "L-2357",
 "LatLong": "49.649,6.2387"
 },
@@ -13588,7 +14443,7 @@
 {
 "Name": "Senningerberg",
 "PostCode": "L-2633",
-"LatLong": "49.6437,6.2227"
+"LatLong": "49.6438,6.2228"
 }
 ]
 }
@@ -13602,6 +14457,11 @@
 "Places": [
 {
 "Name": "Findel",
+"PostCode": "L-1319",
+"LatLong": "49.6217,6.1874"
+},
+{
+"Name": "Findel",
 "PostCode": "L-1523",
 "LatLong": "49.6266,6.1978"
 },
@@ -13612,13 +14472,23 @@
 },
 {
 "Name": "Findel",
+"PostCode": "L-1751",
+"LatLong": "49.627,6.1948"
+},
+{
+"Name": "Findel",
 "PostCode": "L-2220",
 "LatLong": "49.6222,6.1891"
 },
 {
 "Name": "Findel",
 "PostCode": "L-2632",
-"LatLong": "49.6289,6.2033"
+"LatLong": "49.6287,6.2032"
+},
+{
+"Name": "Sandweiler",
+"PostCode": "L-5201",
+"LatLong": "49.6167,6.2257"
 },
 {
 "Name": "Sandweiler",
@@ -13628,7 +14498,7 @@
 {
 "Name": "Sandweiler",
 "PostCode": "L-5212",
-"LatLong": "49.6204,6.2096"
+"LatLong": "49.6204,6.2095"
 },
 {
 "Name": "Sandweiler",
@@ -13653,7 +14523,7 @@
 {
 "Name": "Sandweiler",
 "PostCode": "L-5217",
-"LatLong": "49.615,6.2259"
+"LatLong": "49.615,6.226"
 },
 {
 "Name": "Sandweiler",
@@ -13688,7 +14558,7 @@
 {
 "Name": "Sandweiler",
 "PostCode": "L-5231",
-"LatLong": "49.614,6.216"
+"LatLong": "49.614,6.2162"
 },
 {
 "Name": "Sandweiler",
@@ -13707,8 +14577,13 @@
 },
 {
 "Name": "Sandweiler",
+"PostCode": "L-5235",
+"LatLong": "49.6139,6.2136"
+},
+{
+"Name": "Sandweiler",
 "PostCode": "L-5236",
-"LatLong": "49.6125,6.2288"
+"LatLong": "49.6125,6.2289"
 },
 {
 "Name": "Sandweiler",
@@ -13718,7 +14593,7 @@
 {
 "Name": "Sandweiler",
 "PostCode": "L-5238",
-"LatLong": "49.6123,6.2124"
+"LatLong": "49.6122,6.2127"
 },
 {
 "Name": "Sandweiler",
@@ -13763,7 +14638,7 @@
 {
 "Name": "Sandweiler",
 "PostCode": "L-5253",
-"LatLong": "49.622,6.2172"
+"LatLong": "49.6219,6.217"
 },
 {
 "Name": "Sandweiler",
@@ -13798,12 +14673,12 @@
 {
 "Name": "Munsbach",
 "PostCode": "L-5365",
-"LatLong": "49.6411,6.272"
+"LatLong": "49.6411,6.2718"
 },
 {
 "Name": "Munsbach",
 "PostCode": "L-5366",
-"LatLong": "49.6305,6.2675"
+"LatLong": "49.6305,6.2679"
 },
 {
 "Name": "Munsbach",
@@ -13818,12 +14693,17 @@
 {
 "Name": "Neuhaeusgen",
 "PostCode": "L-5290",
-"LatLong": "49.6236,6.2382"
+"LatLong": "49.6236,6.2384"
 },
 {
 "Name": "Neuhaeusgen",
 "PostCode": "L-5291",
-"LatLong": "49.6246,6.233"
+"LatLong": "49.6246,6.2331"
+},
+{
+"Name": "Schrassig",
+"PostCode": "L-5299",
+"LatLong": "49.6107,6.2434"
 },
 {
 "Name": "Schrassig",
@@ -13838,17 +14718,17 @@
 {
 "Name": "Schrassig",
 "PostCode": "L-5362",
-"LatLong": "49.6107,6.2533"
+"LatLong": "49.6107,6.2534"
 },
 {
 "Name": "Schrassig",
 "PostCode": "L-5363",
-"LatLong": "49.6145,6.2545"
+"LatLong": "49.6146,6.2543"
 },
 {
 "Name": "Schrassig",
 "PostCode": "L-5364",
-"LatLong": "49.6156,6.2568"
+"LatLong": "49.6155,6.2568"
 },
 {
 "Name": "Schuttrange",
@@ -13858,12 +14738,12 @@
 {
 "Name": "Schuttrange",
 "PostCode": "L-5359",
-"LatLong": "49.6183,6.2592"
+"LatLong": "49.6183,6.2593"
 },
 {
 "Name": "Schuttrange",
 "PostCode": "L-5367",
-"LatLong": "49.6222,6.2665"
+"LatLong": "49.622,6.2663"
 },
 {
 "Name": "Schuttrange",
@@ -13893,12 +14773,17 @@
 {
 "Name": "Schuttrange",
 "PostCode": "L-5373",
-"LatLong": "49.6182,6.2633"
+"LatLong": "49.6182,6.2632"
 },
 {
 "Name": "Schuttrange",
 "PostCode": "L-5375",
 "LatLong": "49.6232,6.2662"
+},
+{
+"Name": "Schuttrange",
+"PostCode": "L-5381",
+"LatLong": "49.6182,6.2589"
 },
 {
 "Name": "Uebersyren",
@@ -13943,7 +14828,7 @@
 {
 "Name": "Heisdorf",
 "PostCode": "L-7310",
-"LatLong": "49.6684,6.1393"
+"LatLong": "49.668,6.1394"
 },
 {
 "Name": "Heisdorf",
@@ -13978,12 +14863,12 @@
 {
 "Name": "Heisdorf",
 "PostCode": "L-7329",
-"LatLong": "49.6763,6.1348"
+"LatLong": "49.6764,6.1348"
 },
 {
 "Name": "Heisdorf",
 "PostCode": "L-7330",
-"LatLong": "49.673,6.1369"
+"LatLong": "49.6731,6.1369"
 },
 {
 "Name": "Heisdorf",
@@ -14008,7 +14893,7 @@
 {
 "Name": "Heisdorf",
 "PostCode": "L-7340",
-"LatLong": "49.673,6.143"
+"LatLong": "49.673,6.1429"
 },
 {
 "Name": "Heisdorf",
@@ -14053,7 +14938,7 @@
 {
 "Name": "Mullendorf",
 "PostCode": "L-7312",
-"LatLong": "49.6818,6.125"
+"LatLong": "49.682,6.125"
 },
 {
 "Name": "Mullendorf",
@@ -14068,7 +14953,7 @@
 {
 "Name": "Mullendorf",
 "PostCode": "L-7324",
-"LatLong": "49.6823,6.1293"
+"LatLong": "49.6822,6.1292"
 },
 {
 "Name": "Mullendorf",
@@ -14093,7 +14978,7 @@
 {
 "Name": "Steinsel",
 "PostCode": "L-7303",
-"LatLong": "49.6704,6.1166"
+"LatLong": "49.6703,6.1166"
 },
 {
 "Name": "Steinsel",
@@ -14103,7 +14988,7 @@
 {
 "Name": "Steinsel",
 "PostCode": "L-7307",
-"LatLong": "49.6724,6.1212"
+"LatLong": "49.6724,6.1211"
 },
 {
 "Name": "Steinsel",
@@ -14138,7 +15023,7 @@
 {
 "Name": "Steinsel",
 "PostCode": "L-7322",
-"LatLong": "49.6761,6.1193"
+"LatLong": "49.6761,6.1192"
 },
 {
 "Name": "Steinsel",
@@ -14148,7 +15033,7 @@
 {
 "Name": "Steinsel",
 "PostCode": "L-7327",
-"LatLong": "49.6705,6.1221"
+"LatLong": "49.6705,6.1222"
 },
 {
 "Name": "Steinsel",
@@ -14158,7 +15043,7 @@
 {
 "Name": "Steinsel",
 "PostCode": "L-7333",
-"LatLong": "49.6732,6.1254"
+"LatLong": "49.6733,6.1254"
 },
 {
 "Name": "Steinsel",
@@ -14168,7 +15053,7 @@
 {
 "Name": "Steinsel",
 "PostCode": "L-7339",
-"LatLong": "49.6789,6.1225"
+"LatLong": "49.6789,6.1226"
 },
 {
 "Name": "Steinsel",
@@ -14178,12 +15063,12 @@
 {
 "Name": "Steinsel",
 "PostCode": "L-7344",
-"LatLong": "49.6677,6.1156"
+"LatLong": "49.6677,6.1155"
 },
 {
 "Name": "Steinsel",
 "PostCode": "L-7347",
-"LatLong": "49.6759,6.126"
+"LatLong": "49.6757,6.1259"
 }
 ]
 }
@@ -14208,17 +15093,17 @@
 {
 "Name": "Strassen",
 "PostCode": "L-1370",
-"LatLong": "49.6139,6.091"
+"LatLong": "49.6139,6.0911"
 },
 {
 "Name": "Strassen",
 "PostCode": "L-1445",
-"LatLong": "49.6205,6.0952"
+"LatLong": "49.6208,6.0952"
 },
 {
 "Name": "Strassen",
 "PostCode": "L-1483",
-"LatLong": "49.6215,6.0987"
+"LatLong": "49.6215,6.0985"
 },
 {
 "Name": "Strassen",
@@ -14252,23 +15137,33 @@
 },
 {
 "Name": "Strassen",
+"PostCode": "L-8001",
+"LatLong": "49.6189,6.0837"
+},
+{
+"Name": "Strassen",
+"PostCode": "L-8002",
+"LatLong": "49.6189,6.0837"
+},
+{
+"Name": "Strassen",
 "PostCode": "L-8008",
-"LatLong": "49.6188,6.0838"
+"LatLong": "49.6189,6.0837"
 },
 {
 "Name": "Strassen",
 "PostCode": "L-8009",
-"LatLong": "49.6182,6.0845"
+"LatLong": "49.6182,6.0844"
 },
 {
 "Name": "Strassen",
 "PostCode": "L-8010",
-"LatLong": "49.6216,6.064"
+"LatLong": "49.6218,6.0631"
 },
 {
 "Name": "Strassen",
 "PostCode": "L-8011",
-"LatLong": "49.621,6.0637"
+"LatLong": "49.6211,6.0636"
 },
 {
 "Name": "Strassen",
@@ -14278,7 +15173,7 @@
 {
 "Name": "Strassen",
 "PostCode": "L-8013",
-"LatLong": "49.6174,6.0801"
+"LatLong": "49.6174,6.08"
 },
 {
 "Name": "Strassen",
@@ -14303,7 +15198,7 @@
 {
 "Name": "Strassen",
 "PostCode": "L-8018",
-"LatLong": "49.6148,6.0721"
+"LatLong": "49.6144,6.0726"
 },
 {
 "Name": "Strassen",
@@ -14388,7 +15283,7 @@
 {
 "Name": "Strassen",
 "PostCode": "L-8035",
-"LatLong": "49.6218,6.0765"
+"LatLong": "49.6219,6.0765"
 },
 {
 "Name": "Strassen",
@@ -14428,7 +15323,7 @@
 {
 "Name": "Strassen",
 "PostCode": "L-8043",
-"LatLong": "49.6217,6.0733"
+"LatLong": "49.6219,6.0729"
 },
 {
 "Name": "Strassen",
@@ -14477,6 +15372,11 @@
 },
 {
 "Name": "Strassen",
+"PostCode": "L-8073",
+"LatLong": "49.609,6.0801"
+},
+{
+"Name": "Strassen",
 "PostCode": "L-8097",
 "LatLong": "49.6193,6.0591"
 },
@@ -14488,12 +15388,12 @@
 {
 "Name": "Strassen",
 "PostCode": "L-8099",
-"LatLong": "49.621,6.061"
+"LatLong": "49.621,6.0611"
 },
 {
 "Name": "Strassen",
 "PostCode": "L-8110",
-"LatLong": "49.6257,6.0629"
+"LatLong": "49.6257,6.063"
 },
 {
 "Name": "Strassen",
@@ -14507,13 +15407,18 @@
 },
 {
 "Name": "Strassen",
+"PostCode": "L-8115",
+"LatLong": "49.6285,6.066"
+},
+{
+"Name": "Strassen",
 "PostCode": "L-8130",
 "LatLong": "49.6225,6.0928"
 },
 {
 "Name": "Strassen",
 "PostCode": "L-8251",
-"LatLong": "49.6277,6.0469"
+"LatLong": "49.6276,6.047"
 }
 ]
 }
@@ -14527,13 +15432,23 @@
 "Places": [
 {
 "Name": "Bereldange",
+"PostCode": "L-7201",
+"LatLong": "49.6546,6.1176"
+},
+{
+"Name": "Bereldange",
+"PostCode": "L-7202",
+"LatLong": "49.6546,6.1176"
+},
+{
+"Name": "Bereldange",
 "PostCode": "L-7212",
 "LatLong": "49.6493,6.1239"
 },
 {
 "Name": "Bereldange",
 "PostCode": "L-7213",
-"LatLong": "49.6546,6.1257"
+"LatLong": "49.6547,6.1256"
 },
 {
 "Name": "Bereldange",
@@ -14563,7 +15478,7 @@
 {
 "Name": "Bereldange",
 "PostCode": "L-7223",
-"LatLong": "49.6561,6.1261"
+"LatLong": "49.6559,6.1258"
 },
 {
 "Name": "Bereldange",
@@ -14573,7 +15488,7 @@
 {
 "Name": "Bereldange",
 "PostCode": "L-7227",
-"LatLong": "49.6557,6.1192"
+"LatLong": "49.6556,6.119"
 },
 {
 "Name": "Bereldange",
@@ -14688,7 +15603,7 @@
 {
 "Name": "Helmsange",
 "PostCode": "L-7220",
-"LatLong": "49.664,6.1336"
+"LatLong": "49.6641,6.1336"
 },
 {
 "Name": "Helmsange",
@@ -14698,7 +15613,7 @@
 {
 "Name": "Helmsange",
 "PostCode": "L-7228",
-"LatLong": "49.6622,6.1351"
+"LatLong": "49.6623,6.135"
 },
 {
 "Name": "Helmsange",
@@ -14708,7 +15623,7 @@
 {
 "Name": "Helmsange",
 "PostCode": "L-7230",
-"LatLong": "49.6596,6.1399"
+"LatLong": "49.6596,6.14"
 },
 {
 "Name": "Helmsange",
@@ -14763,12 +15678,12 @@
 {
 "Name": "Helmsange",
 "PostCode": "L-7258",
-"LatLong": "49.6626,6.1375"
+"LatLong": "49.6627,6.1376"
 },
 {
 "Name": "Helmsange",
 "PostCode": "L-7261",
-"LatLong": "49.6621,6.1399"
+"LatLong": "49.6625,6.1396"
 },
 {
 "Name": "Helmsange",
@@ -14798,7 +15713,7 @@
 {
 "Name": "Walferdange",
 "PostCode": "L-7220",
-"LatLong": "49.659,6.1313"
+"LatLong": "49.659,6.1314"
 },
 {
 "Name": "Walferdange",
@@ -14828,7 +15743,7 @@
 {
 "Name": "Walferdange",
 "PostCode": "L-7256",
-"LatLong": "49.6581,6.1316"
+"LatLong": "49.658,6.1316"
 },
 {
 "Name": "Walferdange",
@@ -14853,7 +15768,7 @@
 {
 "Name": "Hassel",
 "PostCode": "L-5760",
-"LatLong": "49.5504,6.2041"
+"LatLong": "49.5504,6.2043"
 },
 {
 "Name": "Hassel",
@@ -14863,7 +15778,7 @@
 {
 "Name": "Hassel",
 "PostCode": "L-5762",
-"LatLong": "49.5532,6.2063"
+"LatLong": "49.5531,6.2064"
 },
 {
 "Name": "Syren",
@@ -14873,7 +15788,7 @@
 {
 "Name": "Syren",
 "PostCode": "L-5899",
-"LatLong": "49.563,6.2194"
+"LatLong": "49.563,6.2195"
 },
 {
 "Name": "Weiler-la-Tour",
@@ -14883,12 +15798,17 @@
 {
 "Name": "Weiler-la-Tour",
 "PostCode": "L-5771",
-"LatLong": "49.5402,6.1776"
+"LatLong": "49.543,6.1761"
 },
 {
 "Name": "Weiler-la-Tour",
 "PostCode": "L-5772",
-"LatLong": "49.544,6.2019"
+"LatLong": "49.544,6.2018"
+},
+{
+"Name": "Weiler-la-Tour",
+"PostCode": "L-5773",
+"LatLong": "49.5342,6.1807"
 },
 {
 "Name": "Weiler-la-Tour",
@@ -14938,7 +15858,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1115",
-"LatLong": "49.6248,6.1475"
+"LatLong": "49.6244,6.1468"
 },
 {
 "Name": "Luxembourg",
@@ -14973,7 +15893,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1122",
-"LatLong": "49.5968,6.1311"
+"LatLong": "49.5969,6.1311"
 },
 {
 "Name": "Luxembourg",
@@ -15063,7 +15983,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1141",
-"LatLong": "49.5955,6.1086"
+"LatLong": "49.5955,6.1085"
 },
 {
 "Name": "Luxembourg",
@@ -15122,6 +16042,11 @@
 },
 {
 "Name": "Luxembourg",
+"PostCode": "L-1153",
+"LatLong": "49.6209,6.176"
+},
+{
+"Name": "Luxembourg",
 "PostCode": "L-1159",
 "LatLong": "49.6317,6.1616"
 },
@@ -15143,12 +16068,12 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1210",
-"LatLong": "49.6189,6.0995"
+"LatLong": "49.6189,6.0996"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-1211",
-"LatLong": "49.599,6.1458"
+"LatLong": "49.599,6.146"
 },
 {
 "Name": "Luxembourg",
@@ -15168,7 +16093,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1215",
-"LatLong": "49.6027,6.0974"
+"LatLong": "49.6027,6.0973"
 },
 {
 "Name": "Luxembourg",
@@ -15193,7 +16118,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1221",
-"LatLong": "49.6412,6.1305"
+"LatLong": "49.6413,6.1305"
 },
 {
 "Name": "Luxembourg",
@@ -15223,7 +16148,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1229",
-"LatLong": "49.6036,6.135"
+"LatLong": "49.6036,6.1351"
 },
 {
 "Name": "Luxembourg",
@@ -15248,7 +16173,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1236",
-"LatLong": "49.5917,6.1195"
+"LatLong": "49.5915,6.1199"
 },
 {
 "Name": "Luxembourg",
@@ -15258,7 +16183,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1238",
-"LatLong": "49.6085,6.1366"
+"LatLong": "49.6086,6.1365"
 },
 {
 "Name": "Luxembourg",
@@ -15268,7 +16193,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1241",
-"LatLong": "49.5989,6.1408"
+"LatLong": "49.599,6.1409"
 },
 {
 "Name": "Luxembourg",
@@ -15283,7 +16208,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1244",
-"LatLong": "49.6171,6.1145"
+"LatLong": "49.6171,6.1146"
 },
 {
 "Name": "Luxembourg",
@@ -15333,7 +16258,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1255",
-"LatLong": "49.6059,6.1141"
+"LatLong": "49.6059,6.114"
 },
 {
 "Name": "Luxembourg",
@@ -15363,7 +16288,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1262",
-"LatLong": "49.6243,6.1628"
+"LatLong": "49.6243,6.1629"
 },
 {
 "Name": "Luxembourg",
@@ -15373,7 +16298,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1264",
-"LatLong": "49.6293,6.1127"
+"LatLong": "49.6294,6.1127"
 },
 {
 "Name": "Luxembourg",
@@ -15418,7 +16343,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1273",
-"LatLong": "49.6131,6.1691"
+"LatLong": "49.6132,6.1691"
 },
 {
 "Name": "Luxembourg",
@@ -15428,7 +16353,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1276",
-"LatLong": "49.636,6.1637"
+"LatLong": "49.635,6.1616"
 },
 {
 "Name": "Luxembourg",
@@ -15462,18 +16387,23 @@
 },
 {
 "Name": "Luxembourg",
+"PostCode": "L-1283",
+"LatLong": "49.6342,6.1608"
+},
+{
+"Name": "Luxembourg",
 "PostCode": "L-1309",
 "LatLong": "49.6107,6.1003"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-1310",
-"LatLong": "49.6138,6.1487"
+"LatLong": "49.6139,6.1487"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-1311",
-"LatLong": "49.6042,6.1038"
+"LatLong": "49.6043,6.1038"
 },
 {
 "Name": "Luxembourg",
@@ -15489,6 +16419,11 @@
 "Name": "Luxembourg",
 "PostCode": "L-1314",
 "LatLong": "49.6235,6.1144"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1315",
+"LatLong": "49.5985,6.1412"
 },
 {
 "Name": "Luxembourg",
@@ -15563,12 +16498,12 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1330",
-"LatLong": "49.6109,6.1182"
+"LatLong": "49.6108,6.1195"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-1331",
-"LatLong": "49.6092,6.1186"
+"LatLong": "49.6091,6.1191"
 },
 {
 "Name": "Luxembourg",
@@ -15579,6 +16514,11 @@
 "Name": "Luxembourg",
 "PostCode": "L-1333",
 "LatLong": "49.6105,6.1297"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1334",
+"LatLong": "49.5996,6.1268"
 },
 {
 "Name": "Luxembourg",
@@ -15593,12 +16533,17 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1337",
-"LatLong": "49.639,6.134"
+"LatLong": "49.639,6.1339"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-1338",
-"LatLong": "49.5944,6.1405"
+"LatLong": "49.5943,6.1405"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1339",
+"LatLong": "49.6105,6.1297"
 },
 {
 "Name": "Luxembourg",
@@ -15608,7 +16553,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1341",
-"LatLong": "49.61,6.1328"
+"LatLong": "49.61,6.1327"
 },
 {
 "Name": "Luxembourg",
@@ -15633,7 +16578,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1346",
-"LatLong": "49.5925,6.1407"
+"LatLong": "49.5924,6.1407"
 },
 {
 "Name": "Luxembourg",
@@ -15643,7 +16588,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1348",
-"LatLong": "49.6109,6.1677"
+"LatLong": "49.611,6.1675"
 },
 {
 "Name": "Luxembourg",
@@ -15688,7 +16633,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1359",
-"LatLong": "49.6266,6.1587"
+"LatLong": "49.6275,6.1588"
 },
 {
 "Name": "Luxembourg",
@@ -15733,17 +16678,22 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1370",
-"LatLong": "49.613,6.109"
+"LatLong": "49.613,6.1089"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-1371",
-"LatLong": "49.6125,6.1059"
+"LatLong": "49.6125,6.1058"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-1372",
 "LatLong": "49.6327,6.1624"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1373",
+"LatLong": "49.6125,6.1058"
 },
 {
 "Name": "Luxembourg",
@@ -15754,6 +16704,11 @@
 "Name": "Luxembourg",
 "PostCode": "L-1375",
 "LatLong": "49.5878,6.1025"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1376",
+"LatLong": "49.6125,6.1058"
 },
 {
 "Name": "Luxembourg",
@@ -15778,7 +16733,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1414",
-"LatLong": "49.6177,6.116"
+"LatLong": "49.6176,6.116"
 },
 {
 "Name": "Luxembourg",
@@ -15817,13 +16772,18 @@
 },
 {
 "Name": "Luxembourg",
+"PostCode": "L-1422",
+"LatLong": "49.5975,6.1471"
+},
+{
+"Name": "Luxembourg",
 "PostCode": "L-1424",
 "LatLong": "49.6028,6.1308"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-1425",
-"LatLong": "49.6094,6.1479"
+"LatLong": "49.6094,6.1478"
 },
 {
 "Name": "Luxembourg",
@@ -15893,12 +16853,12 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1453",
-"LatLong": "49.6352,6.1425"
+"LatLong": "49.6352,6.1424"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-1454",
-"LatLong": "49.6305,6.1196"
+"LatLong": "49.6304,6.1196"
 },
 {
 "Name": "Luxembourg",
@@ -15948,7 +16908,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1465",
-"LatLong": "49.6171,6.103"
+"LatLong": "49.6171,6.1031"
 },
 {
 "Name": "Luxembourg",
@@ -15973,7 +16933,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1471",
-"LatLong": "49.5934,6.1169"
+"LatLong": "49.5935,6.1169"
 },
 {
 "Name": "Luxembourg",
@@ -16058,7 +17018,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1511",
-"LatLong": "49.6218,6.1117"
+"LatLong": "49.6218,6.1116"
 },
 {
 "Name": "Luxembourg",
@@ -16073,12 +17033,17 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1514",
-"LatLong": "49.5962,6.1428"
+"LatLong": "49.5962,6.1429"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-1515",
 "LatLong": "49.6246,6.1241"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1516",
+"LatLong": "49.6218,6.1116"
 },
 {
 "Name": "Luxembourg",
@@ -16108,7 +17073,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1522",
-"LatLong": "49.592,6.1439"
+"LatLong": "49.592,6.144"
 },
 {
 "Name": "Luxembourg",
@@ -16143,7 +17108,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1530",
-"LatLong": "49.5991,6.1518"
+"LatLong": "49.5994,6.1524"
 },
 {
 "Name": "Luxembourg",
@@ -16182,6 +17147,11 @@
 },
 {
 "Name": "Luxembourg",
+"PostCode": "L-1538",
+"LatLong": "49.5884,6.1039"
+},
+{
+"Name": "Luxembourg",
 "PostCode": "L-1539",
 "LatLong": "49.6093,6.1137"
 },
@@ -16203,7 +17173,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1543",
-"LatLong": "49.6378,6.1637"
+"LatLong": "49.6348,6.1608"
 },
 {
 "Name": "Luxembourg",
@@ -16242,6 +17212,21 @@
 },
 {
 "Name": "Luxembourg",
+"PostCode": "L-1551",
+"LatLong": "49.5828,6.1252"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1552",
+"LatLong": "49.6032,6.1038"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1553",
+"LatLong": "49.6032,6.1038"
+},
+{
+"Name": "Luxembourg",
 "PostCode": "L-1610",
 "LatLong": "49.6033,6.1329"
 },
@@ -16268,7 +17253,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1617",
-"LatLong": "49.5926,6.1209"
+"LatLong": "49.5925,6.121"
 },
 {
 "Name": "Luxembourg",
@@ -16308,7 +17293,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1626",
-"LatLong": "49.6026,6.1195"
+"LatLong": "49.6026,6.1194"
 },
 {
 "Name": "Luxembourg",
@@ -16427,6 +17412,11 @@
 },
 {
 "Name": "Luxembourg",
+"PostCode": "L-1652",
+"LatLong": "49.6047,6.1364"
+},
+{
+"Name": "Luxembourg",
 "PostCode": "L-1653",
 "LatLong": "49.6047,6.1364"
 },
@@ -16439,6 +17429,11 @@
 "Name": "Luxembourg",
 "PostCode": "L-1655",
 "LatLong": "49.5932,6.1097"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1656",
+"LatLong": "49.6047,6.1364"
 },
 {
 "Name": "Luxembourg",
@@ -16468,11 +17463,16 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1713",
-"LatLong": "49.6074,6.1578"
+"LatLong": "49.6074,6.1579"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-1714",
+"LatLong": "49.6112,6.1551"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1715",
 "LatLong": "49.6112,6.1551"
 },
 {
@@ -16483,7 +17483,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1717",
-"LatLong": "49.6063,6.131"
+"LatLong": "49.6063,6.1309"
 },
 {
 "Name": "Luxembourg",
@@ -16508,7 +17508,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1722",
-"LatLong": "49.5977,6.1284"
+"LatLong": "49.5976,6.1282"
 },
 {
 "Name": "Luxembourg",
@@ -16518,7 +17518,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1724",
-"LatLong": "49.6114,6.1248"
+"LatLong": "49.6115,6.1249"
 },
 {
 "Name": "Luxembourg",
@@ -16593,7 +17593,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1740",
-"LatLong": "49.5989,6.1251"
+"LatLong": "49.5989,6.1253"
 },
 {
 "Name": "Luxembourg",
@@ -16603,7 +17603,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1742",
-"LatLong": "49.6313,6.1174"
+"LatLong": "49.6314,6.1174"
 },
 {
 "Name": "Luxembourg",
@@ -16618,12 +17618,12 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1745",
-"LatLong": "49.6239,6.1538"
+"LatLong": "49.6245,6.1532"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-1746",
-"LatLong": "49.6316,6.1746"
+"LatLong": "49.6317,6.174"
 },
 {
 "Name": "Luxembourg",
@@ -16633,6 +17633,21 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1750",
+"LatLong": "49.6209,6.122"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1752",
+"LatLong": "49.6209,6.122"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1753",
+"LatLong": "49.6209,6.122"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1754",
 "LatLong": "49.6209,6.122"
 },
 {
@@ -16668,7 +17683,12 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1821",
-"LatLong": "49.5839,6.1245"
+"LatLong": "49.5839,6.1243"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1822",
+"LatLong": "49.6283,6.1696"
 },
 {
 "Name": "Luxembourg",
@@ -16728,7 +17748,12 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1845",
-"LatLong": "49.611,6.1022"
+"LatLong": "49.6112,6.1017"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1846",
+"LatLong": "49.6115,6.1209"
 },
 {
 "Name": "Luxembourg",
@@ -16758,7 +17783,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1855",
-"LatLong": "49.6288,6.1645"
+"LatLong": "49.6279,6.162"
 },
 {
 "Name": "Luxembourg",
@@ -16768,7 +17793,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1857",
-"LatLong": "49.6256,6.1656"
+"LatLong": "49.6255,6.1656"
 },
 {
 "Name": "Luxembourg",
@@ -16837,6 +17862,16 @@
 },
 {
 "Name": "Luxembourg",
+"PostCode": "L-1873",
+"LatLong": "49.6206,6.1433"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1874",
+"LatLong": "49.6206,6.1433"
+},
+{
+"Name": "Luxembourg",
 "PostCode": "L-1880",
 "LatLong": "49.5979,6.1439"
 },
@@ -16863,7 +17898,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1911",
-"LatLong": "49.604,6.1371"
+"LatLong": "49.6041,6.1371"
 },
 {
 "Name": "Luxembourg",
@@ -16873,7 +17908,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1913",
-"LatLong": "49.6223,6.1147"
+"LatLong": "49.6223,6.1148"
 },
 {
 "Name": "Luxembourg",
@@ -16883,7 +17918,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1915",
-"LatLong": "49.6271,6.1337"
+"LatLong": "49.6271,6.1338"
 },
 {
 "Name": "Luxembourg",
@@ -16909,6 +17944,11 @@
 "Name": "Luxembourg",
 "PostCode": "L-1920",
 "LatLong": "49.6049,6.142"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1921",
+"LatLong": "49.6066,6.1565"
 },
 {
 "Name": "Luxembourg",
@@ -16982,6 +18022,11 @@
 },
 {
 "Name": "Luxembourg",
+"PostCode": "L-1936",
+"LatLong": "49.6013,6.0958"
+},
+{
+"Name": "Luxembourg",
 "PostCode": "L-1937",
 "LatLong": "49.6088,6.1017"
 },
@@ -17003,7 +18048,12 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1941",
-"LatLong": "49.6043,6.094"
+"LatLong": "49.6043,6.0941"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1942",
+"LatLong": "49.605,6.1022"
 },
 {
 "Name": "Luxembourg",
@@ -17038,7 +18088,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-1950",
-"LatLong": "49.605,6.139"
+"LatLong": "49.6049,6.139"
 },
 {
 "Name": "Luxembourg",
@@ -17059,6 +18109,11 @@
 "Name": "Luxembourg",
 "PostCode": "L-1954",
 "LatLong": "49.5931,6.1274"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-1955",
+"LatLong": "49.6049,6.139"
 },
 {
 "Name": "Luxembourg",
@@ -17168,7 +18223,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2135",
-"LatLong": "49.6284,6.1402"
+"LatLong": "49.6283,6.1401"
 },
 {
 "Name": "Luxembourg",
@@ -17208,7 +18263,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2144",
-"LatLong": "49.599,6.131"
+"LatLong": "49.5987,6.1317"
 },
 {
 "Name": "Luxembourg",
@@ -17218,6 +18273,11 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2146",
+"LatLong": "49.6022,6.0973"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-2147",
 "LatLong": "49.6022,6.0973"
 },
 {
@@ -17243,7 +18303,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2152",
-"LatLong": "49.639,6.1408"
+"LatLong": "49.6391,6.1407"
 },
 {
 "Name": "Luxembourg",
@@ -17263,7 +18323,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2156",
-"LatLong": "49.6284,6.1279"
+"LatLong": "49.6284,6.1281"
 },
 {
 "Name": "Luxembourg",
@@ -17293,7 +18353,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2162",
-"LatLong": "49.6088,6.1674"
+"LatLong": "49.6088,6.1675"
 },
 {
 "Name": "Luxembourg",
@@ -17313,7 +18373,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2166",
-"LatLong": "49.5893,6.1286"
+"LatLong": "49.5888,6.1288"
 },
 {
 "Name": "Luxembourg",
@@ -17323,7 +18383,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2168",
-"LatLong": "49.6282,6.1208"
+"LatLong": "49.6282,6.1206"
 },
 {
 "Name": "Luxembourg",
@@ -17383,7 +18443,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2181",
-"LatLong": "49.604,6.1382"
+"LatLong": "49.604,6.1383"
 },
 {
 "Name": "Luxembourg",
@@ -17392,13 +18452,18 @@
 },
 {
 "Name": "Luxembourg",
+"PostCode": "L-2183",
+"LatLong": "49.6282,6.1206"
+},
+{
+"Name": "Luxembourg",
 "PostCode": "L-2184",
-"LatLong": "49.628,6.1213"
+"LatLong": "49.6282,6.1206"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-2210",
-"LatLong": "49.617,6.1072"
+"LatLong": "49.617,6.1073"
 },
 {
 "Name": "Luxembourg",
@@ -17443,7 +18508,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2223",
-"LatLong": "49.5904,6.1393"
+"LatLong": "49.5902,6.1394"
 },
 {
 "Name": "Luxembourg",
@@ -17453,7 +18518,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2225",
-"LatLong": "49.6079,6.0997"
+"LatLong": "49.6079,6.0998"
 },
 {
 "Name": "Luxembourg",
@@ -17473,7 +18538,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2229",
-"LatLong": "49.6123,6.1323"
+"LatLong": "49.6124,6.1323"
 },
 {
 "Name": "Luxembourg",
@@ -17497,6 +18562,11 @@
 },
 {
 "Name": "Luxembourg",
+"PostCode": "L-2234",
+"LatLong": "49.6341,6.1637"
+},
+{
+"Name": "Luxembourg",
 "PostCode": "L-2240",
 "LatLong": "49.61,6.1289"
 },
@@ -17509,6 +18579,11 @@
 "Name": "Luxembourg",
 "PostCode": "L-2242",
 "LatLong": "49.5806,6.1218"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-2243",
+"LatLong": "49.6195,6.1187"
 },
 {
 "Name": "Luxembourg",
@@ -17573,7 +18648,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2309",
-"LatLong": "49.626,6.1136"
+"LatLong": "49.6261,6.1137"
 },
 {
 "Name": "Luxembourg",
@@ -17604,6 +18679,11 @@
 "Name": "Luxembourg",
 "PostCode": "L-2316",
 "LatLong": "49.6081,6.143"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-2318",
+"LatLong": "49.5979,6.1403"
 },
 {
 "Name": "Luxembourg",
@@ -17639,6 +18719,11 @@
 "Name": "Luxembourg",
 "PostCode": "L-2328",
 "LatLong": "49.6118,6.1651"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-2329",
+"LatLong": "49.5923,6.1194"
 },
 {
 "Name": "Luxembourg",
@@ -17688,7 +18773,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2339",
-"LatLong": "49.5886,6.1201"
+"LatLong": "49.5885,6.1202"
 },
 {
 "Name": "Luxembourg",
@@ -17708,7 +18793,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2343",
-"LatLong": "49.6126,6.1556"
+"LatLong": "49.6125,6.1556"
 },
 {
 "Name": "Luxembourg",
@@ -17758,7 +18843,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2353",
-"LatLong": "49.5892,6.1043"
+"LatLong": "49.5893,6.1043"
 },
 {
 "Name": "Luxembourg",
@@ -17808,7 +18893,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2411",
-"LatLong": "49.5851,6.1205"
+"LatLong": "49.5848,6.121"
 },
 {
 "Name": "Luxembourg",
@@ -17818,12 +18903,17 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2413",
-"LatLong": "49.588,6.1232"
+"LatLong": "49.588,6.1231"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-2414",
 "LatLong": "49.6305,6.1357"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-2415",
+"LatLong": "49.5848,6.121"
 },
 {
 "Name": "Luxembourg",
@@ -17853,7 +18943,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2423",
-"LatLong": "49.5948,6.1442"
+"LatLong": "49.5948,6.1443"
 },
 {
 "Name": "Luxembourg",
@@ -17868,7 +18958,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2427",
-"LatLong": "49.6101,6.1377"
+"LatLong": "49.6101,6.1378"
 },
 {
 "Name": "Luxembourg",
@@ -17907,13 +18997,18 @@
 },
 {
 "Name": "Luxembourg",
+"PostCode": "L-2436",
+"LatLong": "49.6414,6.1316"
+},
+{
+"Name": "Luxembourg",
 "PostCode": "L-2440",
 "LatLong": "49.6168,6.1138"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-2441",
-"LatLong": "49.6218,6.1061"
+"LatLong": "49.6217,6.1061"
 },
 {
 "Name": "Luxembourg",
@@ -17929,6 +19024,11 @@
 "Name": "Luxembourg",
 "PostCode": "L-2445",
 "LatLong": "49.6213,6.1249"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-2447",
+"LatLong": "49.6125,6.127"
 },
 {
 "Name": "Luxembourg",
@@ -17959,6 +19059,16 @@
 "Name": "Luxembourg",
 "PostCode": "L-2453",
 "LatLong": "49.5859,6.1143"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-2454",
+"LatLong": "49.5934,6.1241"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-2455",
+"LatLong": "49.5934,6.1241"
 },
 {
 "Name": "Luxembourg",
@@ -18052,6 +19162,11 @@
 },
 {
 "Name": "Luxembourg",
+"PostCode": "L-2532",
+"LatLong": "49.6113,6.1343"
+},
+{
+"Name": "Luxembourg",
 "PostCode": "L-2533",
 "LatLong": "49.6051,6.1231"
 },
@@ -18088,7 +19203,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2540",
-"LatLong": "49.6315,6.1733"
+"LatLong": "49.6314,6.1733"
 },
 {
 "Name": "Luxembourg",
@@ -18103,7 +19218,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2543",
-"LatLong": "49.5963,6.1351"
+"LatLong": "49.5963,6.1352"
 },
 {
 "Name": "Luxembourg",
@@ -18158,7 +19273,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2555",
-"LatLong": "49.6061,6.0925"
+"LatLong": "49.6061,6.0926"
 },
 {
 "Name": "Luxembourg",
@@ -18188,7 +19303,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2561",
-"LatLong": "49.6001,6.1276"
+"LatLong": "49.6001,6.1275"
 },
 {
 "Name": "Luxembourg",
@@ -18222,18 +19337,33 @@
 },
 {
 "Name": "Luxembourg",
+"PostCode": "L-2568",
+"LatLong": "49.5901,6.122"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-2607",
+"LatLong": "49.638,6.1642"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-2608",
+"LatLong": "49.638,6.1642"
+},
+{
+"Name": "Luxembourg",
 "PostCode": "L-2609",
-"LatLong": "49.6221,6.1331"
+"LatLong": "49.622,6.133"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-2610",
-"LatLong": "49.592,6.1394"
+"LatLong": "49.5921,6.1394"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-2611",
-"LatLong": "49.5922,6.1396"
+"LatLong": "49.5922,6.1397"
 },
 {
 "Name": "Luxembourg",
@@ -18323,7 +19453,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2630",
-"LatLong": "49.6146,6.1572"
+"LatLong": "49.6146,6.1573"
 },
 {
 "Name": "Luxembourg",
@@ -18358,12 +19488,22 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2652",
-"LatLong": "49.6271,6.1183"
+"LatLong": "49.627,6.1184"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-2653",
+"LatLong": "49.6077,6.1362"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-2654",
+"LatLong": "49.6077,6.1362"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-2661",
-"LatLong": "49.6009,6.122"
+"LatLong": "49.6007,6.1219"
 },
 {
 "Name": "Luxembourg",
@@ -18402,6 +19542,11 @@
 },
 {
 "Name": "Luxembourg",
+"PostCode": "L-2669",
+"LatLong": "49.5897,6.1097"
+},
+{
+"Name": "Luxembourg",
 "PostCode": "L-2670",
 "LatLong": "49.6084,6.108"
 },
@@ -18417,12 +19562,22 @@
 },
 {
 "Name": "Luxembourg",
+"PostCode": "L-2673",
+"LatLong": "49.6084,6.108"
+},
+{
+"Name": "Luxembourg",
 "PostCode": "L-2674",
 "LatLong": "49.628,6.1741"
 },
 {
 "Name": "Luxembourg",
 "PostCode": "L-2680",
+"LatLong": "49.6053,6.1151"
+},
+{
+"Name": "Luxembourg",
+"PostCode": "L-2681",
 "LatLong": "49.6053,6.1151"
 },
 {
@@ -18473,7 +19628,7 @@
 {
 "Name": "Luxembourg",
 "PostCode": "L-2721",
-"LatLong": "49.6327,6.169"
+"LatLong": "49.6322,6.1693"
 },
 {
 "Name": "Luxembourg",
@@ -18598,13 +19753,23 @@
 "Places": [
 {
 "Name": "Colmar-Berg",
+"PostCode": "L-7701",
+"LatLong": "49.8127,6.0975"
+},
+{
+"Name": "Colmar-Berg",
+"PostCode": "L-7710",
+"LatLong": "49.8127,6.0975"
+},
+{
+"Name": "Colmar-Berg",
 "PostCode": "L-7711",
 "LatLong": "49.8134,6.0986"
 },
 {
 "Name": "Colmar-Berg",
 "PostCode": "L-7712",
-"LatLong": "49.8034,6.0891"
+"LatLong": "49.8036,6.0891"
 },
 {
 "Name": "Colmar-Berg",
@@ -18654,7 +19819,7 @@
 {
 "Name": "Colmar-Berg",
 "PostCode": "L-7730",
-"LatLong": "49.8118,6.0928"
+"LatLong": "49.8131,6.0897"
 },
 {
 "Name": "Colmar-Berg",
@@ -18664,7 +19829,7 @@
 {
 "Name": "Colmar-Berg",
 "PostCode": "L-7732",
-"LatLong": "49.8099,6.0984"
+"LatLong": "49.8099,6.0983"
 },
 {
 "Name": "Colmar-Berg",
@@ -18684,7 +19849,7 @@
 {
 "Name": "Colmar-Berg",
 "PostCode": "L-7737",
-"LatLong": "49.7986,6.1034"
+"LatLong": "49.8026,6.103"
 },
 {
 "Name": "Colmar-Berg",
@@ -18694,12 +19859,17 @@
 {
 "Name": "Colmar-Berg",
 "PostCode": "L-7740",
-"LatLong": "49.8089,6.0947"
+"LatLong": "49.809,6.0947"
 },
 {
 "Name": "Colmar-Berg",
 "PostCode": "L-7741",
 "LatLong": "49.8163,6.0859"
+},
+{
+"Name": "Colmar-Berg",
+"PostCode": "L-7750",
+"LatLong": "49.8127,6.0975"
 },
 {
 "Name": "Welsdorf",
@@ -18723,6 +19893,11 @@
 "Places": [
 {
 "Name": "Bissen",
+"PostCode": "L-7703",
+"LatLong": "49.7888,6.065"
+},
+{
+"Name": "Bissen",
 "PostCode": "L-7760",
 "LatLong": "49.7883,6.0639"
 },
@@ -18739,12 +19914,12 @@
 {
 "Name": "Bissen",
 "PostCode": "L-7763",
-"LatLong": "49.7873,6.0761"
+"LatLong": "49.7873,6.076"
 },
 {
 "Name": "Bissen",
 "PostCode": "L-7764",
-"LatLong": "49.7853,6.0636"
+"LatLong": "49.7852,6.0635"
 },
 {
 "Name": "Bissen",
@@ -18754,7 +19929,7 @@
 {
 "Name": "Bissen",
 "PostCode": "L-7766",
-"LatLong": "49.7913,6.0687"
+"LatLong": "49.7912,6.0688"
 },
 {
 "Name": "Bissen",
@@ -18769,7 +19944,7 @@
 {
 "Name": "Bissen",
 "PostCode": "L-7769",
-"LatLong": "49.7865,6.0637"
+"LatLong": "49.7865,6.0635"
 },
 {
 "Name": "Bissen",
@@ -18779,12 +19954,12 @@
 {
 "Name": "Bissen",
 "PostCode": "L-7771",
-"LatLong": "49.787,6.0593"
+"LatLong": "49.7869,6.0591"
 },
 {
 "Name": "Bissen",
 "PostCode": "L-7772",
-"LatLong": "49.7887,6.0649"
+"LatLong": "49.7888,6.065"
 },
 {
 "Name": "Bissen",
@@ -18809,17 +19984,17 @@
 {
 "Name": "Bissen",
 "PostCode": "L-7779",
-"LatLong": "49.7853,6.0674"
+"LatLong": "49.7852,6.0673"
 },
 {
 "Name": "Bissen",
 "PostCode": "L-7780",
-"LatLong": "49.7855,6.0684"
+"LatLong": "49.7856,6.0683"
 },
 {
 "Name": "Bissen",
 "PostCode": "L-7781",
-"LatLong": "49.7835,6.0665"
+"LatLong": "49.7835,6.0663"
 },
 {
 "Name": "Bissen",
@@ -18829,7 +20004,7 @@
 {
 "Name": "Bissen",
 "PostCode": "L-7783",
-"LatLong": "49.7884,6.0634"
+"LatLong": "49.7885,6.0634"
 },
 {
 "Name": "Bissen",
@@ -18839,12 +20014,12 @@
 {
 "Name": "Bissen",
 "PostCode": "L-7785",
-"LatLong": "49.7912,6.061"
+"LatLong": "49.7911,6.0611"
 },
 {
 "Name": "Bissen",
 "PostCode": "L-7786",
-"LatLong": "49.7856,6.0699"
+"LatLong": "49.7857,6.0698"
 },
 {
 "Name": "Bissen",
@@ -18874,7 +20049,7 @@
 {
 "Name": "Bissen",
 "PostCode": "L-7792",
-"LatLong": "49.783,6.0707"
+"LatLong": "49.7831,6.0706"
 },
 {
 "Name": "Bissen",
@@ -18884,17 +20059,22 @@
 {
 "Name": "Bissen",
 "PostCode": "L-7794",
-"LatLong": "49.7882,6.0767"
+"LatLong": "49.7882,6.0766"
 },
 {
 "Name": "Bissen",
 "PostCode": "L-7795",
-"LatLong": "49.7897,6.085"
+"LatLong": "49.7889,6.086"
+},
+{
+"Name": "Bissen",
+"PostCode": "L-7796",
+"LatLong": "49.7831,6.0706"
 },
 {
 "Name": "Roost (Bissen)",
 "PostCode": "L-7759",
-"LatLong": "49.787,6.0953"
+"LatLong": "49.7863,6.0943"
 }
 ]
 }
@@ -18914,22 +20094,22 @@
 {
 "Name": "Boevange-sur-Attert",
 "PostCode": "L-8710",
-"LatLong": "49.7737,6.0132"
+"LatLong": "49.7737,6.0134"
 },
 {
 "Name": "Boevange-sur-Attert",
 "PostCode": "L-8711",
-"LatLong": "49.7714,6.0199"
+"LatLong": "49.7715,6.0199"
 },
 {
 "Name": "Brouch",
 "PostCode": "L-7415",
-"LatLong": "49.7374,6.0271"
+"LatLong": "49.7375,6.0271"
 },
 {
 "Name": "Brouch",
 "PostCode": "L-7416",
-"LatLong": "49.7372,6.0199"
+"LatLong": "49.7372,6.0198"
 },
 {
 "Name": "Brouch",
@@ -18939,7 +20119,7 @@
 {
 "Name": "Buschdorf",
 "PostCode": "L-7418",
-"LatLong": "49.75,6.0066"
+"LatLong": "49.7501,6.0066"
 },
 {
 "Name": "Finsterthal",
@@ -18989,7 +20169,7 @@
 {
 "Name": "Schoos",
 "PostCode": "L-7475",
-"LatLong": "49.7505,6.1686"
+"LatLong": "49.7506,6.1686"
 },
 {
 "Name": "Stuppicht",
@@ -18999,7 +20179,7 @@
 {
 "Name": "Weyer",
 "PostCode": "L-6155",
-"LatLong": "49.7251,6.1995"
+"LatLong": "49.725,6.1994"
 }
 ]
 }
@@ -19018,13 +20198,18 @@
 },
 {
 "Name": "Heffingen",
+"PostCode": "L-7634",
+"LatLong": "49.7823,6.2328"
+},
+{
+"Name": "Heffingen",
 "PostCode": "L-7650",
-"LatLong": "49.7689,6.2379"
+"LatLong": "49.769,6.2378"
 },
 {
 "Name": "Heffingen",
 "PostCode": "L-7651",
-"LatLong": "49.7708,6.2428"
+"LatLong": "49.7708,6.2427"
 },
 {
 "Name": "Heffingen",
@@ -19034,7 +20219,7 @@
 {
 "Name": "Heffingen",
 "PostCode": "L-7653",
-"LatLong": "49.767,6.2383"
+"LatLong": "49.7669,6.2381"
 },
 {
 "Name": "Heffingen",
@@ -19043,8 +20228,13 @@
 },
 {
 "Name": "Reuland",
+"PostCode": "L-7639",
+"LatLong": "49.7534,6.2653"
+},
+{
+"Name": "Reuland",
 "PostCode": "L-7670",
-"LatLong": "49.7526,6.257"
+"LatLong": "49.7526,6.2571"
 }
 ]
 }
@@ -19064,7 +20254,12 @@
 {
 "Name": "Ernzen",
 "PostCode": "L-7636",
-"LatLong": "49.7713,6.2145"
+"LatLong": "49.7713,6.2144"
+},
+{
+"Name": "Larochette",
+"PostCode": "L-7601",
+"LatLong": "49.7835,6.2199"
 },
 {
 "Name": "Larochette",
@@ -19084,7 +20279,7 @@
 {
 "Name": "Larochette",
 "PostCode": "L-7615",
-"LatLong": "49.7794,6.218"
+"LatLong": "49.7795,6.218"
 },
 {
 "Name": "Larochette",
@@ -19104,7 +20299,7 @@
 {
 "Name": "Larochette",
 "PostCode": "L-7621",
-"LatLong": "49.7816,6.2188"
+"LatLong": "49.7816,6.2189"
 },
 {
 "Name": "Larochette",
@@ -19129,12 +20324,17 @@
 {
 "Name": "Larochette",
 "PostCode": "L-7626",
-"LatLong": "49.7848,6.2187"
+"LatLong": "49.7847,6.2186"
 },
 {
 "Name": "Larochette",
 "PostCode": "L-7627",
 "LatLong": "49.7842,6.2187"
+},
+{
+"Name": "Larochette",
+"PostCode": "L-7633",
+"LatLong": "49.7845,6.2113"
 },
 {
 "Name": "Larochette",
@@ -19154,7 +20354,7 @@
 {
 "Name": "Gosseldange",
 "PostCode": "L-7432",
-"LatLong": "49.7243,6.1153"
+"LatLong": "49.7244,6.1153"
 },
 {
 "Name": "Lintgen",
@@ -19164,7 +20364,7 @@
 {
 "Name": "Lintgen",
 "PostCode": "L-7440",
-"LatLong": "49.7233,6.1245"
+"LatLong": "49.7234,6.1245"
 },
 {
 "Name": "Lintgen",
@@ -19189,22 +20389,22 @@
 {
 "Name": "Lintgen",
 "PostCode": "L-7445",
-"LatLong": "49.7219,6.1262"
+"LatLong": "49.7219,6.1264"
 },
 {
 "Name": "Lintgen",
 "PostCode": "L-7446",
-"LatLong": "49.7211,6.127"
+"LatLong": "49.7211,6.1271"
 },
 {
 "Name": "Lintgen",
 "PostCode": "L-7447",
-"LatLong": "49.7218,6.1336"
+"LatLong": "49.7218,6.1338"
 },
 {
 "Name": "Lintgen",
 "PostCode": "L-7448",
-"LatLong": "49.7209,6.1238"
+"LatLong": "49.7208,6.1239"
 },
 {
 "Name": "Lintgen",
@@ -19214,17 +20414,17 @@
 {
 "Name": "Lintgen",
 "PostCode": "L-7450",
-"LatLong": "49.7178,6.1263"
+"LatLong": "49.7179,6.1263"
 },
 {
 "Name": "Lintgen",
 "PostCode": "L-7451",
-"LatLong": "49.718,6.128"
+"LatLong": "49.7179,6.128"
 },
 {
 "Name": "Lintgen",
 "PostCode": "L-7452",
-"LatLong": "49.7198,6.138"
+"LatLong": "49.7197,6.1381"
 },
 {
 "Name": "Lintgen",
@@ -19234,7 +20434,7 @@
 {
 "Name": "Lintgen",
 "PostCode": "L-7454",
-"LatLong": "49.7214,6.1341"
+"LatLong": "49.7213,6.1341"
 },
 {
 "Name": "Lintgen",
@@ -19244,7 +20444,7 @@
 {
 "Name": "Lintgen",
 "PostCode": "L-7456",
-"LatLong": "49.7219,6.1358"
+"LatLong": "49.7219,6.1362"
 },
 {
 "Name": "Lintgen",
@@ -19254,12 +20454,12 @@
 {
 "Name": "Lintgen",
 "PostCode": "L-7458",
-"LatLong": "49.716,6.1288"
+"LatLong": "49.7159,6.1288"
 },
 {
 "Name": "Prettingen",
 "PostCode": "L-7460",
-"LatLong": "49.7171,6.1189"
+"LatLong": "49.7172,6.1189"
 }
 ]
 }
@@ -19284,17 +20484,17 @@
 {
 "Name": "Blaschette",
 "PostCode": "L-7391",
-"LatLong": "49.7038,6.1689"
+"LatLong": "49.704,6.1691"
 },
 {
 "Name": "Blaschette",
 "PostCode": "L-7392",
-"LatLong": "49.6976,6.1673"
+"LatLong": "49.6977,6.1673"
 },
 {
 "Name": "Bofferdange",
 "PostCode": "L-7362",
-"LatLong": "49.6901,6.1441"
+"LatLong": "49.6901,6.144"
 },
 {
 "Name": "Bofferdange",
@@ -19309,12 +20509,12 @@
 {
 "Name": "Bofferdange",
 "PostCode": "L-7376",
-"LatLong": "49.6878,6.1409"
+"LatLong": "49.6863,6.1433"
 },
 {
 "Name": "Bofferdange",
 "PostCode": "L-7378",
-"LatLong": "49.6886,6.1375"
+"LatLong": "49.6887,6.1376"
 },
 {
 "Name": "Bofferdange",
@@ -19324,7 +20524,7 @@
 {
 "Name": "Helmdange",
 "PostCode": "L-7351",
-"LatLong": "49.6936,6.1395"
+"LatLong": "49.6936,6.1396"
 },
 {
 "Name": "Helmdange",
@@ -19343,18 +20543,23 @@
 },
 {
 "Name": "Helmdange",
+"PostCode": "L-7356",
+"LatLong": "49.6971,6.1418"
+},
+{
+"Name": "Helmdange",
 "PostCode": "L-7357",
 "LatLong": "49.6906,6.1461"
 },
 {
 "Name": "Helmdange",
 "PostCode": "L-7360",
-"LatLong": "49.6917,6.1437"
+"LatLong": "49.6916,6.1439"
 },
 {
 "Name": "Helmdange",
 "PostCode": "L-7371",
-"LatLong": "49.6931,6.1444"
+"LatLong": "49.693,6.1444"
 },
 {
 "Name": "Helmdange",
@@ -19374,22 +20579,22 @@
 {
 "Name": "Hunsdorf",
 "PostCode": "L-7395",
-"LatLong": "49.6974,6.1311"
+"LatLong": "49.6974,6.1312"
 },
 {
 "Name": "Hunsdorf",
 "PostCode": "L-7396",
-"LatLong": "49.6973,6.1294"
+"LatLong": "49.6975,6.1286"
 },
 {
 "Name": "Hunsdorf",
 "PostCode": "L-7397",
-"LatLong": "49.6969,6.1313"
+"LatLong": "49.6969,6.1314"
 },
 {
 "Name": "Klingelscheuer",
 "PostCode": "L-7392",
-"LatLong": "49.693,6.1684"
+"LatLong": "49.693,6.1683"
 },
 {
 "Name": "Lorentzweiler",
@@ -19424,7 +20629,7 @@
 {
 "Name": "Lorentzweiler",
 "PostCode": "L-7363",
-"LatLong": "49.7041,6.1416"
+"LatLong": "49.7041,6.1415"
 },
 {
 "Name": "Lorentzweiler",
@@ -19434,7 +20639,7 @@
 {
 "Name": "Lorentzweiler",
 "PostCode": "L-7372",
-"LatLong": "49.7039,6.139"
+"LatLong": "49.704,6.139"
 },
 {
 "Name": "Lorentzweiler",
@@ -19449,7 +20654,7 @@
 {
 "Name": "Lorentzweiler",
 "PostCode": "L-7377",
-"LatLong": "49.7053,6.1413"
+"LatLong": "49.7053,6.1414"
 },
 {
 "Name": "Lorentzweiler",
@@ -19484,7 +20689,7 @@
 {
 "Name": "Beringen",
 "PostCode": "L-7409",
-"LatLong": "49.7703,6.1512"
+"LatLong": "49.7702,6.1513"
 },
 {
 "Name": "Beringen",
@@ -19504,7 +20709,7 @@
 {
 "Name": "Beringen",
 "PostCode": "L-7593",
-"LatLong": "49.7604,6.1174"
+"LatLong": "49.7607,6.1174"
 },
 {
 "Name": "Beringen",
@@ -19514,12 +20719,27 @@
 {
 "Name": "Essingen",
 "PostCode": "L-7424",
-"LatLong": "49.7789,6.1167"
+"LatLong": "49.779,6.1168"
+},
+{
+"Name": "Essingen",
+"PostCode": "L-7759",
+"LatLong": "49.7829,6.098"
 },
 {
 "Name": "Mersch",
 "PostCode": "L-7410",
 "LatLong": "49.7535,6.1394"
+},
+{
+"Name": "Mersch",
+"PostCode": "L-7501",
+"LatLong": "49.7453,6.1"
+},
+{
+"Name": "Mersch",
+"PostCode": "L-7502",
+"LatLong": "49.7453,6.1"
 },
 {
 "Name": "Mersch",
@@ -19529,7 +20749,7 @@
 {
 "Name": "Mersch",
 "PostCode": "L-7513",
-"LatLong": "49.7516,6.0993"
+"LatLong": "49.7516,6.0994"
 },
 {
 "Name": "Mersch",
@@ -19574,17 +20794,17 @@
 {
 "Name": "Mersch",
 "PostCode": "L-7524",
-"LatLong": "49.764,6.0897"
+"LatLong": "49.7645,6.0878"
 },
 {
 "Name": "Mersch",
 "PostCode": "L-7525",
-"LatLong": "49.7529,6.1038"
+"LatLong": "49.753,6.1037"
 },
 {
 "Name": "Mersch",
 "PostCode": "L-7526",
-"LatLong": "49.756,6.1031"
+"LatLong": "49.756,6.1032"
 },
 {
 "Name": "Mersch",
@@ -19599,12 +20819,12 @@
 {
 "Name": "Mersch",
 "PostCode": "L-7534",
-"LatLong": "49.7399,6.0941"
+"LatLong": "49.74,6.0936"
 },
 {
 "Name": "Mersch",
 "PostCode": "L-7535",
-"LatLong": "49.7521,6.1095"
+"LatLong": "49.7521,6.1096"
 },
 {
 "Name": "Mersch",
@@ -19639,7 +20859,7 @@
 {
 "Name": "Mersch",
 "PostCode": "L-7545",
-"LatLong": "49.7501,6.1162"
+"LatLong": "49.7501,6.1161"
 },
 {
 "Name": "Mersch",
@@ -19649,7 +20869,7 @@
 {
 "Name": "Mersch",
 "PostCode": "L-7554",
-"LatLong": "49.7554,6.1071"
+"LatLong": "49.7553,6.1071"
 },
 {
 "Name": "Mersch",
@@ -19659,7 +20879,7 @@
 {
 "Name": "Mersch",
 "PostCode": "L-7556",
-"LatLong": "49.7471,6.1036"
+"LatLong": "49.7472,6.1036"
 },
 {
 "Name": "Mersch",
@@ -19673,8 +20893,13 @@
 },
 {
 "Name": "Mersch",
+"PostCode": "L-7560",
+"LatLong": "49.7546,6.096"
+},
+{
+"Name": "Mersch",
 "PostCode": "L-7561",
-"LatLong": "49.7499,6.1039"
+"LatLong": "49.75,6.1036"
 },
 {
 "Name": "Mersch",
@@ -19699,7 +20924,7 @@
 {
 "Name": "Mersch",
 "PostCode": "L-7566",
-"LatLong": "49.7454,6.0988"
+"LatLong": "49.7454,6.0989"
 },
 {
 "Name": "Mersch",
@@ -19709,7 +20934,7 @@
 {
 "Name": "Mersch",
 "PostCode": "L-7569",
-"LatLong": "49.7534,6.0994"
+"LatLong": "49.7533,6.0995"
 },
 {
 "Name": "Mersch",
@@ -19724,12 +20949,17 @@
 {
 "Name": "Mersch",
 "PostCode": "L-7572",
-"LatLong": "49.7427,6.091"
+"LatLong": "49.7426,6.0912"
+},
+{
+"Name": "Mersch",
+"PostCode": "L-7573",
+"LatLong": "49.7441,6.0994"
 },
 {
 "Name": "Mersch",
 "PostCode": "L-7590",
-"LatLong": "49.7549,6.1113"
+"LatLong": "49.755,6.1116"
 },
 {
 "Name": "Mersch",
@@ -19744,12 +20974,12 @@
 {
 "Name": "Moesdorf",
 "PostCode": "L-7463",
-"LatLong": "49.7688,6.1131"
+"LatLong": "49.7689,6.1137"
 },
 {
 "Name": "Moesdorf",
 "PostCode": "L-7464",
-"LatLong": "49.7712,6.1326"
+"LatLong": "49.77,6.1307"
 },
 {
 "Name": "Pettingen",
@@ -19763,8 +20993,13 @@
 },
 {
 "Name": "Reckange",
+"PostCode": "L-7425",
+"LatLong": "49.759,6.0418"
+},
+{
+"Name": "Reckange",
 "PostCode": "L-7595",
-"LatLong": "49.7481,6.0831"
+"LatLong": "49.748,6.0831"
 },
 {
 "Name": "Reckange",
@@ -19784,17 +21019,22 @@
 {
 "Name": "Rollingen",
 "PostCode": "L-7511",
-"LatLong": "49.7445,6.1173"
+"LatLong": "49.7444,6.1175"
 },
 {
 "Name": "Rollingen",
 "PostCode": "L-7516",
-"LatLong": "49.7386,6.1167"
+"LatLong": "49.7386,6.1168"
 },
 {
 "Name": "Rollingen",
 "PostCode": "L-7518",
 "LatLong": "49.7418,6.115"
+},
+{
+"Name": "Rollingen",
+"PostCode": "L-7527",
+"LatLong": "49.743,6.1158"
 },
 {
 "Name": "Rollingen",
@@ -19814,7 +21054,7 @@
 {
 "Name": "Rollingen",
 "PostCode": "L-7540",
-"LatLong": "49.7403,6.1147"
+"LatLong": "49.7401,6.1148"
 },
 {
 "Name": "Rollingen",
@@ -19859,12 +21099,12 @@
 {
 "Name": "Cruchten",
 "PostCode": "L-7420",
-"LatLong": "49.7991,6.1283"
+"LatLong": "49.7992,6.1282"
 },
 {
 "Name": "Cruchten",
 "PostCode": "L-7421",
-"LatLong": "49.7989,6.1316"
+"LatLong": "49.7989,6.1317"
 },
 {
 "Name": "Niederglabach",
@@ -19874,12 +21114,12 @@
 {
 "Name": "Nommern",
 "PostCode": "L-7465",
-"LatLong": "49.7947,6.1749"
+"LatLong": "49.7946,6.1748"
 },
 {
 "Name": "Oberglabach",
 "PostCode": "L-7431",
-"LatLong": "49.785,6.1498"
+"LatLong": "49.785,6.1497"
 },
 {
 "Name": "Schrondweiler",
@@ -19899,12 +21139,12 @@
 {
 "Name": "Ansembourg",
 "PostCode": "L-7411",
-"LatLong": "49.7017,6.0405"
+"LatLong": "49.7017,6.0414"
 },
 {
 "Name": "Bour",
 "PostCode": "L-7412",
-"LatLong": "49.6999,6.0159"
+"LatLong": "49.6999,6.016"
 },
 {
 "Name": "Claushof",
@@ -19919,7 +21159,7 @@
 {
 "Name": "Marienthal",
 "PostCode": "L-7411",
-"LatLong": "49.7072,6.0679"
+"LatLong": "49.7077,6.0668"
 },
 {
 "Name": "Tuntange",
@@ -19970,7 +21210,7 @@
 {
 "Name": "Elvange",
 "PostCode": "L-8533",
-"LatLong": "49.7245,5.9177"
+"LatLong": "49.7246,5.9178"
 },
 {
 "Name": "Hovelange",
@@ -19980,7 +21220,7 @@
 {
 "Name": "Huttange",
 "PostCode": "L-8539",
-"LatLong": "49.7354,5.8969"
+"LatLong": "49.7354,5.897"
 },
 {
 "Name": "Levelange",
@@ -19995,17 +21235,17 @@
 {
 "Name": "Noerdange",
 "PostCode": "L-8551",
-"LatLong": "49.7417,5.922"
+"LatLong": "49.7417,5.9223"
 },
 {
 "Name": "Oberpallen",
 "PostCode": "L-8552",
-"LatLong": "49.7294,5.8413"
+"LatLong": "49.7294,5.8412"
 },
 {
 "Name": "Schweich",
 "PostCode": "L-8562",
-"LatLong": "49.7221,5.9246"
+"LatLong": "49.7222,5.9249"
 }
 ]
 }
@@ -20020,7 +21260,12 @@
 {
 "Name": "Colpach-Bas",
 "PostCode": "L-8526",
-"LatLong": "49.7574,5.8253"
+"LatLong": "49.7576,5.8253"
+},
+{
+"Name": "Colpach-Bas",
+"PostCode": "L-8527",
+"LatLong": "49.7576,5.8253"
 },
 {
 "Name": "Colpach-Haut",
@@ -20030,22 +21275,22 @@
 {
 "Name": "Ell",
 "PostCode": "L-8530",
-"LatLong": "49.7623,5.8572"
+"LatLong": "49.7624,5.8577"
 },
 {
 "Name": "Ell",
 "PostCode": "L-8531",
-"LatLong": "49.763,5.8531"
+"LatLong": "49.7631,5.8531"
 },
 {
 "Name": "Petit-Nobressart",
 "PostCode": "L-8557",
-"LatLong": "49.7792,5.8099"
+"LatLong": "49.7792,5.8098"
 },
 {
 "Name": "Roodt (Ell)",
 "PostCode": "L-8560",
-"LatLong": "49.7956,5.8211"
+"LatLong": "49.7955,5.8211"
 }
 ]
 }
@@ -20060,12 +21305,12 @@
 {
 "Name": "Arsdorf",
 "PostCode": "L-8808",
-"LatLong": "49.86,5.8452"
+"LatLong": "49.86,5.8451"
 },
 {
 "Name": "Arsdorf",
 "PostCode": "L-8809",
-"LatLong": "49.8601,5.8415"
+"LatLong": "49.86,5.8412"
 },
 {
 "Name": "Bigonville",
@@ -20080,7 +21325,7 @@
 {
 "Name": "Bigonville",
 "PostCode": "L-8814",
-"LatLong": "49.8505,5.7907"
+"LatLong": "49.8506,5.7905"
 },
 {
 "Name": "Bigonville-Poteau",
@@ -20100,32 +21345,32 @@
 {
 "Name": "Flatzbour",
 "PostCode": "L-8812",
-"LatLong": "49.8354,5.7874"
+"LatLong": "49.8355,5.7876"
 },
 {
 "Name": "Folschette",
 "PostCode": "L-8834",
-"LatLong": "49.8158,5.8705"
+"LatLong": "49.8159,5.8703"
 },
 {
 "Name": "Folschette",
 "PostCode": "L-8835",
-"LatLong": "49.813,5.8768"
+"LatLong": "49.813,5.8769"
 },
 {
 "Name": "Haut-Martelange",
 "PostCode": "L-8823",
-"LatLong": "49.8238,5.7489"
+"LatLong": "49.8237,5.7488"
 },
 {
 "Name": "Holtz",
 "PostCode": "L-8820",
-"LatLong": "49.8067,5.7929"
+"LatLong": "49.8066,5.7927"
 },
 {
 "Name": "Hostert",
 "PostCode": "L-8537",
-"LatLong": "49.8091,5.865"
+"LatLong": "49.809,5.865"
 },
 {
 "Name": "Hostert",
@@ -20140,7 +21385,7 @@
 {
 "Name": "Koetschette",
 "PostCode": "L-8821",
-"LatLong": "49.8382,5.8392"
+"LatLong": "49.8382,5.8391"
 },
 {
 "Name": "Perlé",
@@ -20159,6 +21404,11 @@
 },
 {
 "Name": "Rambrouch",
+"PostCode": "L-8801",
+"LatLong": "49.8289,5.8473"
+},
+{
+"Name": "Rambrouch",
 "PostCode": "L-8805",
 "LatLong": "49.8289,5.8473"
 },
@@ -20170,17 +21420,17 @@
 {
 "Name": "Riesenhof",
 "PostCode": "L-8821",
-"LatLong": "49.8398,5.8145"
+"LatLong": "49.8397,5.8147"
 },
 {
 "Name": "Rombach-Martelange",
 "PostCode": "L-8832",
-"LatLong": "49.8329,5.7434"
+"LatLong": "49.8334,5.7433"
 },
 {
 "Name": "Wolwelange",
 "PostCode": "L-8833",
-"LatLong": "49.829,5.7662"
+"LatLong": "49.8291,5.7664"
 }
 ]
 }
@@ -20195,7 +21445,7 @@
 {
 "Name": "Dellen",
 "PostCode": "L-9144",
-"LatLong": "49.8586,5.9587"
+"LatLong": "49.8587,5.9588"
 },
 {
 "Name": "Grevels (Grosbous)",
@@ -20205,12 +21455,12 @@
 {
 "Name": "Grosbous",
 "PostCode": "L-9154",
-"LatLong": "49.83,5.9646"
+"LatLong": "49.8299,5.9646"
 },
 {
 "Name": "Grosbous",
 "PostCode": "L-9155",
-"LatLong": "49.825,5.9662"
+"LatLong": "49.8251,5.9662"
 },
 {
 "Name": "Lehrhof",
@@ -20235,22 +21485,22 @@
 {
 "Name": "Lannen",
 "PostCode": "L-8542",
-"LatLong": "49.7898,5.8382"
+"LatLong": "49.79,5.8381"
 },
 {
 "Name": "Nagem",
 "PostCode": "L-8544",
-"LatLong": "49.788,5.8573"
+"LatLong": "49.788,5.8574"
 },
 {
 "Name": "Niederpallen",
 "PostCode": "L-8545",
-"LatLong": "49.7559,5.9096"
+"LatLong": "49.7559,5.9097"
 },
 {
 "Name": "Ospern",
 "PostCode": "L-8540",
-"LatLong": "49.7824,5.9033"
+"LatLong": "49.7825,5.9035"
 },
 {
 "Name": "Redange/Attert",
@@ -20260,7 +21510,7 @@
 {
 "Name": "Redange/Attert",
 "PostCode": "L-8507",
-"LatLong": "49.7668,5.8937"
+"LatLong": "49.7668,5.8938"
 },
 {
 "Name": "Redange/Attert",
@@ -20270,22 +21520,22 @@
 {
 "Name": "Redange/Attert",
 "PostCode": "L-8509",
-"LatLong": "49.7667,5.8799"
+"LatLong": "49.7668,5.88"
 },
 {
 "Name": "Redange/Attert",
 "PostCode": "L-8510",
-"LatLong": "49.7646,5.8877"
+"LatLong": "49.7646,5.8878"
 },
 {
 "Name": "Redange/Attert",
 "PostCode": "L-8511",
-"LatLong": "49.7661,5.8874"
+"LatLong": "49.766,5.8874"
 },
 {
 "Name": "Reichlange",
 "PostCode": "L-8558",
-"LatLong": "49.7736,5.9259"
+"LatLong": "49.7735,5.9259"
 }
 ]
 }
@@ -20300,12 +21550,12 @@
 {
 "Name": "Calmus",
 "PostCode": "L-8525",
-"LatLong": "49.7254,5.9634"
+"LatLong": "49.7252,5.9635"
 },
 {
 "Name": "Ehner",
 "PostCode": "L-8529",
-"LatLong": "49.7167,5.9489"
+"LatLong": "49.7172,5.9496"
 },
 {
 "Name": "Kapweiler",
@@ -20315,7 +21565,7 @@
 {
 "Name": "Saeul",
 "PostCode": "L-7470",
-"LatLong": "49.7288,5.9865"
+"LatLong": "49.7287,5.9865"
 },
 {
 "Name": "Saeul",
@@ -20325,7 +21575,7 @@
 {
 "Name": "Schwebach",
 "PostCode": "L-8561",
-"LatLong": "49.7459,5.971"
+"LatLong": "49.7457,5.9708"
 }
 ]
 }
@@ -20345,12 +21595,17 @@
 {
 "Name": "Rippweiler",
 "PostCode": "L-8720",
-"LatLong": "49.7508,5.955"
+"LatLong": "49.7508,5.9551"
 },
 {
 "Name": "Schandel",
 "PostCode": "L-8620",
-"LatLong": "49.7918,5.9752"
+"LatLong": "49.7918,5.9753"
+},
+{
+"Name": "Useldange",
+"PostCode": "L-8701",
+"LatLong": "49.7724,5.9821"
 },
 {
 "Name": "Useldange",
@@ -20360,7 +21615,7 @@
 {
 "Name": "Useldange",
 "PostCode": "L-8706",
-"LatLong": "49.7664,5.9785"
+"LatLong": "49.7664,5.9784"
 },
 {
 "Name": "Useldange",
@@ -20385,22 +21640,27 @@
 {
 "Name": "Michelbouch",
 "PostCode": "L-9173",
-"LatLong": "49.8194,6.0192"
+"LatLong": "49.8193,6.019"
+},
+{
+"Name": "Vichten",
+"PostCode": "L-9173",
+"LatLong": "49.8128,6.0041"
 },
 {
 "Name": "Vichten",
 "PostCode": "L-9188",
-"LatLong": "49.8016,5.999"
+"LatLong": "49.8015,5.9991"
 },
 {
 "Name": "Vichten",
 "PostCode": "L-9189",
-"LatLong": "49.8036,6.0011"
+"LatLong": "49.8035,6.0012"
 },
 {
 "Name": "Vichten",
 "PostCode": "L-9190",
-"LatLong": "49.8021,6.0023"
+"LatLong": "49.8022,6.0021"
 }
 ]
 }
@@ -20420,22 +21680,27 @@
 {
 "Name": "Buschrodt",
 "PostCode": "L-8610",
-"LatLong": "49.8263,5.9346"
+"LatLong": "49.8264,5.9346"
 },
 {
 "Name": "Grevels",
 "PostCode": "L-8818",
-"LatLong": "49.8523,5.9142"
+"LatLong": "49.8522,5.9141"
 },
 {
 "Name": "Heispelt",
 "PostCode": "L-8819",
-"LatLong": "49.8544,5.8821"
+"LatLong": "49.8541,5.8825"
 },
 {
 "Name": "Kuborn",
 "PostCode": "L-8822",
 "LatLong": "49.8689,5.9023"
+},
+{
+"Name": "Rindschleiden",
+"PostCode": "L-8831",
+"LatLong": "49.8496,5.9"
 },
 {
 "Name": "Wahl",
@@ -20452,7 +21717,7 @@
 ]
 },
 {
-"Name": "Commune de Préizerdaul",
+"Name": "Préizerdaul",
 "Code": "8641291",
 "Communities": [
 {
@@ -20485,12 +21750,12 @@
 {
 "Name": "Pratz",
 "PostCode": "L-8612",
-"LatLong": "49.8023,5.9387"
+"LatLong": "49.8022,5.9386"
 },
 {
 "Name": "Pratz",
 "PostCode": "L-8613",
-"LatLong": "49.8042,5.9327"
+"LatLong": "49.8043,5.9324"
 },
 {
 "Name": "Reimberg",
@@ -20526,15 +21791,15 @@
 {
 "Name": "Bous",
 "PostCode": "L-5408",
-"LatLong": "49.5553,6.3311"
+"LatLong": "49.5553,6.331"
 },
 {
-"Name": "Erpeldange (Bous)",
+"Name": "Erpeldange",
 "PostCode": "L-5421",
-"LatLong": "49.545,6.3253"
+"LatLong": "49.5451,6.3254"
 },
 {
-"Name": "Erpeldange (Bous)",
+"Name": "Erpeldange",
 "PostCode": "L-5422",
 "LatLong": "49.5409,6.3294"
 },
@@ -20555,8 +21820,13 @@
 "Places": [
 {
 "Name": "Dalheim",
+"PostCode": "L-5605",
+"LatLong": "49.5453,6.2557"
+},
+{
+"Name": "Dalheim",
 "PostCode": "L-5680",
-"LatLong": "49.5438,6.2581"
+"LatLong": "49.5439,6.2581"
 },
 {
 "Name": "Dalheim",
@@ -20571,17 +21841,17 @@
 {
 "Name": "Dalheim",
 "PostCode": "L-5683",
-"LatLong": "49.546,6.2582"
+"LatLong": "49.5461,6.2581"
 },
 {
 "Name": "Dalheim",
 "PostCode": "L-5684",
-"LatLong": "49.5477,6.2621"
+"LatLong": "49.5483,6.2616"
 },
 {
 "Name": "Dalheim",
 "PostCode": "L-5685",
-"LatLong": "49.5419,6.2627"
+"LatLong": "49.5419,6.2628"
 },
 {
 "Name": "Dalheim",
@@ -20591,20 +21861,30 @@
 {
 "Name": "Dalheim",
 "PostCode": "L-5687",
-"LatLong": "49.541,6.2599"
+"LatLong": "49.541,6.2598"
+},
+{
+"Name": "Dalheim",
+"PostCode": "L-5898",
+"LatLong": "49.5676,6.2355"
+},
+{
+"Name": "Filsdorf",
+"PostCode": "L-5730",
+"LatLong": "49.5176,6.2368"
 },
 {
 "Name": "Filsdorf",
 "PostCode": "L-5740",
-"LatLong": "49.5336,6.246"
+"LatLong": "49.5337,6.246"
 },
 {
 "Name": "Filsdorf",
 "PostCode": "L-5741",
-"LatLong": "49.5329,6.2469"
+"LatLong": "49.5331,6.2471"
 },
 {
-"Name": "Reckingerhof",
+"Name": "Welfrange",
 "PostCode": "L-5421",
 "LatLong": "49.5358,6.31"
 },
@@ -20623,6 +21903,11 @@
 "Communities": [
 {
 "Places": [
+{
+"Name": "Canach",
+"PostCode": "L-5353",
+"LatLong": "49.6024,6.2905"
+},
 {
 "Name": "Canach",
 "PostCode": "L-5411",
@@ -20646,7 +21931,7 @@
 {
 "Name": "Canach",
 "PostCode": "L-5415",
-"LatLong": "49.6077,6.3243"
+"LatLong": "49.6076,6.3243"
 },
 {
 "Name": "Lenningen",
@@ -20656,7 +21941,7 @@
 {
 "Name": "Lenningen",
 "PostCode": "L-5431",
-"LatLong": "49.6015,6.3662"
+"LatLong": "49.6016,6.3662"
 }
 ]
 }
@@ -20676,17 +21961,27 @@
 {
 "Name": "Altwies",
 "PostCode": "L-5671",
-"LatLong": "49.5122,6.2561"
+"LatLong": "49.5122,6.256"
 },
 {
 "Name": "Ellange",
 "PostCode": "L-5690",
-"LatLong": "49.5201,6.2986"
+"LatLong": "49.5202,6.2986"
 },
 {
 "Name": "Ellange",
 "PostCode": "L-5691",
 "LatLong": "49.5128,6.3019"
+},
+{
+"Name": "Mondorf-les-Bains",
+"PostCode": "L-5601",
+"LatLong": "49.5057,6.271"
+},
+{
+"Name": "Mondorf-les-Bains",
+"PostCode": "L-5602",
+"LatLong": "49.5057,6.271"
 },
 {
 "Name": "Mondorf-les-Bains",
@@ -20701,7 +21996,7 @@
 {
 "Name": "Mondorf-les-Bains",
 "PostCode": "L-5612",
-"LatLong": "49.5045,6.2748"
+"LatLong": "49.5046,6.2748"
 },
 {
 "Name": "Mondorf-les-Bains",
@@ -20746,7 +22041,7 @@
 {
 "Name": "Mondorf-les-Bains",
 "PostCode": "L-5626",
-"LatLong": "49.5065,6.2767"
+"LatLong": "49.5065,6.2765"
 },
 {
 "Name": "Mondorf-les-Bains",
@@ -20801,7 +22096,7 @@
 {
 "Name": "Mondorf-les-Bains",
 "PostCode": "L-5637",
-"LatLong": "49.5057,6.2711"
+"LatLong": "49.5057,6.271"
 },
 {
 "Name": "Mondorf-les-Bains",
@@ -20831,12 +22126,12 @@
 {
 "Name": "Mondorf-les-Bains",
 "PostCode": "L-5652",
-"LatLong": "49.5071,6.288"
+"LatLong": "49.507,6.2879"
 },
 {
 "Name": "Mondorf-les-Bains",
 "PostCode": "L-5653",
-"LatLong": "49.5129,6.2802"
+"LatLong": "49.5128,6.2802"
 },
 {
 "Name": "Mondorf-les-Bains",
@@ -20846,7 +22141,7 @@
 {
 "Name": "Mondorf-les-Bains",
 "PostCode": "L-5655",
-"LatLong": "49.5042,6.2701"
+"LatLong": "49.5043,6.2704"
 },
 {
 "Name": "Mondorf-les-Bains",
@@ -20862,6 +22157,11 @@
 "Name": "Mondorf-les-Bains",
 "PostCode": "L-5658",
 "LatLong": "49.5051,6.2705"
+},
+{
+"Name": "Mondorf-les-Bains",
+"PostCode": "L-5659",
+"LatLong": "49.5022,6.286"
 }
 ]
 }
@@ -20876,17 +22176,17 @@
 {
 "Name": "Bech-Kleinmacher",
 "PostCode": "L-5403",
-"LatLong": "49.5333,6.354"
+"LatLong": "49.5332,6.3537"
 },
 {
 "Name": "Bech-Kleinmacher",
 "PostCode": "L-5404",
-"LatLong": "49.5292,6.3528"
+"LatLong": "49.5292,6.3529"
 },
 {
 "Name": "Bech-Kleinmacher",
 "PostCode": "L-5405",
-"LatLong": "49.5305,6.3547"
+"LatLong": "49.5304,6.3547"
 },
 {
 "Name": "Bech-Kleinmacher",
@@ -20896,7 +22196,7 @@
 {
 "Name": "Burmerange",
 "PostCode": "L-5675",
-"LatLong": "49.4852,6.3218"
+"LatLong": "49.4852,6.3217"
 },
 {
 "Name": "Elvange",
@@ -20906,7 +22206,7 @@
 {
 "Name": "Elvange",
 "PostCode": "L-5693",
-"LatLong": "49.5034,6.3164"
+"LatLong": "49.5033,6.3165"
 },
 {
 "Name": "Emerange",
@@ -20916,7 +22216,7 @@
 {
 "Name": "Remerschen",
 "PostCode": "L-5439",
-"LatLong": "49.4806,6.3643"
+"LatLong": "49.4806,6.3646"
 },
 {
 "Name": "Remerschen",
@@ -20926,22 +22226,17 @@
 {
 "Name": "Remerschen",
 "PostCode": "L-5441",
-"LatLong": "49.4872,6.3501"
-},
-{
-"Name": "Remerschen",
-"PostCode": "L-5445",
-"LatLong": "49.4767,6.3653"
+"LatLong": "49.4872,6.3502"
 },
 {
 "Name": "Schengen",
 "PostCode": "L-5444",
-"LatLong": "49.469,6.359"
+"LatLong": "49.4691,6.3594"
 },
 {
 "Name": "Schengen",
 "PostCode": "L-5445",
-"LatLong": "49.472,6.3635"
+"LatLong": "49.472,6.3636"
 },
 {
 "Name": "Schengen",
@@ -20951,7 +22246,7 @@
 {
 "Name": "Schwebsingen",
 "PostCode": "L-5447",
-"LatLong": "49.5105,6.3568"
+"LatLong": "49.5106,6.3568"
 },
 {
 "Name": "Wellenstein",
@@ -20966,7 +22261,7 @@
 {
 "Name": "Wintrange",
 "PostCode": "L-5495",
-"LatLong": "49.5015,6.3512"
+"LatLong": "49.5014,6.3511"
 }
 ]
 }
@@ -20978,6 +22273,11 @@
 "Communities": [
 {
 "Places": [
+{
+"Name": "Remich",
+"PostCode": "L-5501",
+"LatLong": "49.5476,6.3688"
+},
 {
 "Name": "Remich",
 "PostCode": "L-5511",
@@ -21011,7 +22311,7 @@
 {
 "Name": "Remich",
 "PostCode": "L-5517",
-"LatLong": "49.5522,6.3756"
+"LatLong": "49.5524,6.3757"
 },
 {
 "Name": "Remich",
@@ -21051,7 +22351,7 @@
 {
 "Name": "Remich",
 "PostCode": "L-5531",
-"LatLong": "49.5474,6.3605"
+"LatLong": "49.5474,6.3603"
 },
 {
 "Name": "Remich",
@@ -21061,17 +22361,17 @@
 {
 "Name": "Remich",
 "PostCode": "L-5533",
-"LatLong": "49.545,6.3704"
+"LatLong": "49.545,6.3703"
 },
 {
 "Name": "Remich",
 "PostCode": "L-5534",
-"LatLong": "49.5448,6.3693"
+"LatLong": "49.5448,6.3694"
 },
 {
 "Name": "Remich",
 "PostCode": "L-5535",
-"LatLong": "49.5439,6.3666"
+"LatLong": "49.5439,6.3665"
 },
 {
 "Name": "Remich",
@@ -21091,7 +22391,7 @@
 {
 "Name": "Remich",
 "PostCode": "L-5539",
-"LatLong": "49.5468,6.3618"
+"LatLong": "49.5468,6.3619"
 },
 {
 "Name": "Remich",
@@ -21110,18 +22410,23 @@
 },
 {
 "Name": "Remich",
+"PostCode": "L-5549",
+"LatLong": "49.5482,6.3562"
+},
+{
+"Name": "Remich",
 "PostCode": "L-5550",
-"LatLong": "49.5427,6.3659"
+"LatLong": "49.5428,6.366"
 },
 {
 "Name": "Remich",
 "PostCode": "L-5551",
-"LatLong": "49.5461,6.3568"
+"LatLong": "49.5461,6.3567"
 },
 {
 "Name": "Remich",
 "PostCode": "L-5552",
-"LatLong": "49.5437,6.3578"
+"LatLong": "49.5438,6.3578"
 },
 {
 "Name": "Remich",
@@ -21131,7 +22436,7 @@
 {
 "Name": "Remich",
 "PostCode": "L-5554",
-"LatLong": "49.5453,6.3694"
+"LatLong": "49.5454,6.3694"
 },
 {
 "Name": "Remich",
@@ -21166,12 +22471,12 @@
 {
 "Name": "Remich",
 "PostCode": "L-5561",
-"LatLong": "49.5482,6.3657"
+"LatLong": "49.5481,6.3658"
 },
 {
 "Name": "Remich",
 "PostCode": "L-5570",
-"LatLong": "49.5516,6.3775"
+"LatLong": "49.552,6.3777"
 },
 {
 "Name": "Remich",
@@ -21186,12 +22491,12 @@
 {
 "Name": "Remich",
 "PostCode": "L-5573",
-"LatLong": "49.5453,6.3619"
+"LatLong": "49.5454,6.3619"
 },
 {
 "Name": "Remich",
 "PostCode": "L-5574",
-"LatLong": "49.5427,6.3599"
+"LatLong": "49.5426,6.3598"
 },
 {
 "Name": "Remich",
@@ -21220,23 +22525,28 @@
 "Places": [
 {
 "Name": "Greiveldange",
+"PostCode": "L-5412",
+"LatLong": "49.5894,6.3162"
+},
+{
+"Name": "Greiveldange",
 "PostCode": "L-5426",
 "LatLong": "49.586,6.3584"
 },
 {
 "Name": "Greiveldange",
 "PostCode": "L-5427",
-"LatLong": "49.5867,6.3659"
+"LatLong": "49.5867,6.3658"
 },
 {
 "Name": "Huettermuehle",
 "PostCode": "L-5429",
-"LatLong": "49.587,6.3736"
+"LatLong": "49.5868,6.3737"
 },
 {
 "Name": "Stadtbredimus",
 "PostCode": "L-5450",
-"LatLong": "49.565,6.3659"
+"LatLong": "49.5651,6.3659"
 },
 {
 "Name": "Stadtbredimus",
@@ -21256,12 +22566,12 @@
 {
 "Name": "Ersange",
 "PostCode": "L-5423",
-"LatLong": "49.5763,6.2759"
+"LatLong": "49.5763,6.2758"
 },
 {
 "Name": "Roedt",
 "PostCode": "L-5442",
-"LatLong": "49.5702,6.2842"
+"LatLong": "49.5702,6.2841"
 },
 {
 "Name": "Trintange",
@@ -21271,7 +22581,7 @@
 {
 "Name": "Waldbredimus",
 "PostCode": "L-5465",
-"LatLong": "49.5562,6.2864"
+"LatLong": "49.5563,6.2864"
 },
 {
 "Name": "Waldbredimus",
@@ -21297,7 +22607,7 @@
 {
 "Name": "Bastendorf",
 "PostCode": "L-9350",
-"LatLong": "49.8906,6.163"
+"LatLong": "49.8906,6.1629"
 },
 {
 "Name": "Bastendorf",
@@ -21307,7 +22617,7 @@
 {
 "Name": "Bastendorf",
 "PostCode": "L-9359",
-"LatLong": "49.875,6.187"
+"LatLong": "49.8751,6.1868"
 },
 {
 "Name": "Bettel",
@@ -21317,12 +22627,12 @@
 {
 "Name": "Bettel",
 "PostCode": "L-9452",
-"LatLong": "49.9143,6.2251"
+"LatLong": "49.9142,6.225"
 },
 {
 "Name": "Brandenbourg",
 "PostCode": "L-9360",
-"LatLong": "49.9104,6.139"
+"LatLong": "49.9104,6.1389"
 },
 {
 "Name": "Brandenbourg",
@@ -21337,12 +22647,12 @@
 {
 "Name": "Fouhren",
 "PostCode": "L-9454",
-"LatLong": "49.9125,6.1967"
+"LatLong": "49.9124,6.1967"
 },
 {
 "Name": "Fouhren",
 "PostCode": "L-9455",
-"LatLong": "49.9146,6.1926"
+"LatLong": "49.9147,6.1926"
 },
 {
 "Name": "Hoscheidterhof",
@@ -21357,17 +22667,17 @@
 {
 "Name": "Landscheid",
 "PostCode": "L-9457",
-"LatLong": "49.9243,6.128"
+"LatLong": "49.9243,6.1279"
 },
 {
 "Name": "Landscheid",
 "PostCode": "L-9458",
-"LatLong": "49.9426,6.1425"
+"LatLong": "49.9342,6.1463"
 },
 {
 "Name": "Longsdorf",
 "PostCode": "L-9459",
-"LatLong": "49.8985,6.2064"
+"LatLong": "49.8984,6.2064"
 },
 {
 "Name": "Seltz",
@@ -21377,12 +22687,12 @@
 {
 "Name": "Tandel",
 "PostCode": "L-9395",
-"LatLong": "49.8985,6.1829"
+"LatLong": "49.8985,6.1828"
 },
 {
 "Name": "Walsdorf",
 "PostCode": "L-9465",
-"LatLong": "49.925,6.1723"
+"LatLong": "49.9252,6.1721"
 }
 ]
 }
@@ -21412,12 +22722,12 @@
 {
 "Name": "Nachtmanderscheid",
 "PostCode": "L-9461",
-"LatLong": "49.947,6.1339"
+"LatLong": "49.947,6.134"
 },
 {
 "Name": "Putscheid",
 "PostCode": "L-9462",
-"LatLong": "49.9586,6.1386"
+"LatLong": "49.9582,6.1384"
 },
 {
 "Name": "Stolzembourg",
@@ -21427,12 +22737,12 @@
 {
 "Name": "Stolzembourg",
 "PostCode": "L-9464",
-"LatLong": "49.9663,6.1657"
+"LatLong": "49.9664,6.1657"
 },
 {
 "Name": "Weiler",
 "PostCode": "L-9466",
-"LatLong": "49.963,6.1242"
+"LatLong": "49.963,6.1241"
 }
 ]
 }
@@ -21444,6 +22754,11 @@
 "Communities": [
 {
 "Places": [
+{
+"Name": "Vianden",
+"PostCode": "L-9401",
+"LatLong": "49.9391,6.2072"
+},
 {
 "Name": "Vianden",
 "PostCode": "L-9405",
@@ -21462,7 +22777,7 @@
 {
 "Name": "Vianden",
 "PostCode": "L-9408",
-"LatLong": "49.9355,6.2006"
+"LatLong": "49.9354,6.2006"
 },
 {
 "Name": "Vianden",
@@ -21472,7 +22787,7 @@
 {
 "Name": "Vianden",
 "PostCode": "L-9410",
-"LatLong": "49.9333,6.2053"
+"LatLong": "49.9334,6.2052"
 },
 {
 "Name": "Vianden",
@@ -21482,12 +22797,12 @@
 {
 "Name": "Vianden",
 "PostCode": "L-9412",
-"LatLong": "49.9327,6.2186"
+"LatLong": "49.9327,6.2185"
 },
 {
 "Name": "Vianden",
 "PostCode": "L-9414",
-"LatLong": "49.9352,6.2065"
+"LatLong": "49.9351,6.2065"
 },
 {
 "Name": "Vianden",
@@ -21532,7 +22847,7 @@
 {
 "Name": "Vianden",
 "PostCode": "L-9423",
-"LatLong": "49.9466,6.1655"
+"LatLong": "49.9464,6.1659"
 },
 {
 "Name": "Vianden",
@@ -21573,12 +22888,12 @@
 {
 "Name": "Baschleiden",
 "PostCode": "L-9633",
-"LatLong": "49.8978,5.8179"
+"LatLong": "49.8979,5.818"
 },
 {
 "Name": "Boulaide",
 "PostCode": "L-9633",
-"LatLong": "49.8953,5.8131"
+"LatLong": "49.8954,5.813"
 },
 {
 "Name": "Boulaide",
@@ -21588,7 +22903,7 @@
 {
 "Name": "Boulaide",
 "PostCode": "L-9640",
-"LatLong": "49.8863,5.8115"
+"LatLong": "49.8863,5.8114"
 },
 {
 "Name": "Surré",
@@ -21608,42 +22923,37 @@
 {
 "Name": "Bonnal",
 "PostCode": "L-9660",
-"LatLong": "49.9024,5.8862"
-},
-{
-"Name": "Dirbach",
-"PostCode": "L-9153",
-"LatLong": "49.9201,6.0351"
+"LatLong": "49.9025,5.8862"
 },
 {
 "Name": "Eschdorf",
 "PostCode": "L-9150",
-"LatLong": "49.8831,5.9393"
+"LatLong": "49.8828,5.9395"
 },
 {
 "Name": "Eschdorf",
 "PostCode": "L-9151",
-"LatLong": "49.8855,5.9327"
+"LatLong": "49.8856,5.9326"
 },
 {
 "Name": "Esch-sur-Sûre",
 "PostCode": "L-9650",
-"LatLong": "49.9107,5.9347"
+"LatLong": "49.9108,5.9347"
 },
 {
 "Name": "Heiderscheid",
 "PostCode": "L-9156",
-"LatLong": "49.8791,5.9919"
+"LatLong": "49.8792,5.992"
 },
 {
 "Name": "Heiderscheid",
 "PostCode": "L-9157",
-"LatLong": "49.8883,5.9782"
+"LatLong": "49.8883,5.9781"
 },
 {
 "Name": "Heiderscheid",
 "PostCode": "L-9158",
-"LatLong": "49.886,5.9757"
+"LatLong": "49.886,5.9762"
 },
 {
 "Name": "Heiderscheidergrund",
@@ -21653,12 +22963,12 @@
 {
 "Name": "Hierheck",
 "PostCode": "L-9144",
-"LatLong": "49.8728,5.9299"
+"LatLong": "49.8728,5.9298"
 },
 {
 "Name": "Insenborn",
 "PostCode": "L-9660",
-"LatLong": "49.9004,5.8827"
+"LatLong": "49.9003,5.8816"
 },
 {
 "Name": "Lultzhausen",
@@ -21673,7 +22983,7 @@
 {
 "Name": "Neunhausen",
 "PostCode": "L-9671",
-"LatLong": "49.8763,5.8841"
+"LatLong": "49.8763,5.8842"
 },
 {
 "Name": "Ringel",
@@ -21690,7 +23000,7 @@
 ]
 },
 {
-"Name": "Gœsdorf",
+"Name": "Goesdorf",
 "Code": "04",
 "Communities": [
 {
@@ -21703,12 +23013,12 @@
 {
 "Name": "Buederscheid",
 "PostCode": "L-9643",
-"LatLong": "49.9332,5.9383"
+"LatLong": "49.9332,5.9382"
 },
 {
 "Name": "Dahl",
 "PostCode": "L-9644",
-"LatLong": "49.9349,5.9754"
+"LatLong": "49.9349,5.9753"
 },
 {
 "Name": "Dirbach (Goesdorf)",
@@ -21728,17 +23038,17 @@
 {
 "Name": "Masseler",
 "PostCode": "L-9668",
-"LatLong": "49.9318,6.0279"
+"LatLong": "49.9318,6.0285"
 },
 {
 "Name": "Nocher",
 "PostCode": "L-9674",
-"LatLong": "49.9464,5.9769"
+"LatLong": "49.9464,5.9768"
 },
 {
 "Name": "Nocher-Route",
 "PostCode": "L-9674",
-"LatLong": "49.9473,5.9634"
+"LatLong": "49.9472,5.9635"
 }
 ]
 }
@@ -21753,22 +23063,22 @@
 {
 "Name": "Bavigne",
 "PostCode": "L-9635",
-"LatLong": "49.9218,5.8472"
+"LatLong": "49.9218,5.8471"
 },
 {
 "Name": "Harlange",
 "PostCode": "L-9655",
-"LatLong": "49.9319,5.7892"
+"LatLong": "49.9318,5.7892"
 },
 {
 "Name": "Harlange",
 "PostCode": "L-9656",
-"LatLong": "49.9292,5.7926"
+"LatLong": "49.9292,5.7924"
 },
 {
 "Name": "Harlange",
 "PostCode": "L-9657",
-"LatLong": "49.9302,5.7835"
+"LatLong": "49.9302,5.7834"
 },
 {
 "Name": "Kaundorf",
@@ -21788,12 +23098,12 @@
 {
 "Name": "Nothum",
 "PostCode": "L-9678",
-"LatLong": "49.9403,5.8813"
+"LatLong": "49.9404,5.8812"
 },
 {
 "Name": "Tarchamps",
 "PostCode": "L-9689",
-"LatLong": "49.9508,5.7962"
+"LatLong": "49.9509,5.7962"
 },
 {
 "Name": "Watrange",
@@ -21818,22 +23128,22 @@
 {
 "Name": "Erpeldange",
 "PostCode": "L-9648",
-"LatLong": "49.9783,5.9463"
+"LatLong": "49.9783,5.9464"
 },
 {
 "Name": "Eschweiler",
 "PostCode": "L-9651",
-"LatLong": "49.9974,5.9479"
+"LatLong": "49.9974,5.948"
 },
 {
 "Name": "Knaphoscheid",
 "PostCode": "L-9759",
-"LatLong": "50.0163,5.9657"
+"LatLong": "50.0161,5.9655"
 },
 {
 "Name": "Roullingen",
 "PostCode": "L-9681",
-"LatLong": "49.9561,5.9216"
+"LatLong": "49.9562,5.9217"
 },
 {
 "Name": "Selscheid",
@@ -21868,22 +23178,32 @@
 {
 "Name": "Weidingen",
 "PostCode": "L-9576",
-"LatLong": "49.972,5.943"
+"LatLong": "49.9721,5.9431"
 },
 {
 "Name": "Weidingen",
 "PostCode": "L-9579",
-"LatLong": "49.9741,5.9435"
+"LatLong": "49.9741,5.9433"
+},
+{
+"Name": "Wiltz",
+"PostCode": "L-9501",
+"LatLong": "49.9687,5.9304"
+},
+{
+"Name": "Wiltz",
+"PostCode": "L-9502",
+"LatLong": "49.9687,5.9304"
 },
 {
 "Name": "Wiltz",
 "PostCode": "L-9510",
-"LatLong": "49.9717,5.9261"
+"LatLong": "49.9717,5.9262"
 },
 {
 "Name": "Wiltz",
 "PostCode": "L-9511",
-"LatLong": "49.967,5.9189"
+"LatLong": "49.967,5.919"
 },
 {
 "Name": "Wiltz",
@@ -21898,17 +23218,17 @@
 {
 "Name": "Wiltz",
 "PostCode": "L-9514",
-"LatLong": "49.9627,5.9317"
+"LatLong": "49.9628,5.9318"
 },
 {
 "Name": "Wiltz",
 "PostCode": "L-9515",
-"LatLong": "49.9639,5.9301"
+"LatLong": "49.964,5.9301"
 },
 {
 "Name": "Wiltz",
 "PostCode": "L-9516",
-"LatLong": "49.9663,5.9342"
+"LatLong": "49.9664,5.9346"
 },
 {
 "Name": "Wiltz",
@@ -21918,7 +23238,7 @@
 {
 "Name": "Wiltz",
 "PostCode": "L-9520",
-"LatLong": "49.9725,5.9277"
+"LatLong": "49.9725,5.9278"
 },
 {
 "Name": "Wiltz",
@@ -21928,22 +23248,22 @@
 {
 "Name": "Wiltz",
 "PostCode": "L-9522",
-"LatLong": "49.9656,5.9352"
+"LatLong": "49.965,5.935"
 },
 {
 "Name": "Wiltz",
 "PostCode": "L-9523",
-"LatLong": "49.967,5.9324"
+"LatLong": "49.9669,5.9325"
 },
 {
 "Name": "Wiltz",
 "PostCode": "L-9530",
-"LatLong": "49.9654,5.9363"
+"LatLong": "49.9654,5.936"
 },
 {
 "Name": "Wiltz",
 "PostCode": "L-9531",
-"LatLong": "49.9588,5.9346"
+"LatLong": "49.9591,5.9353"
 },
 {
 "Name": "Wiltz",
@@ -21963,17 +23283,17 @@
 {
 "Name": "Wiltz",
 "PostCode": "L-9536",
-"LatLong": "49.9674,5.9323"
+"LatLong": "49.9674,5.9319"
 },
 {
 "Name": "Wiltz",
 "PostCode": "L-9537",
-"LatLong": "49.9677,5.9289"
+"LatLong": "49.9676,5.9283"
 },
 {
 "Name": "Wiltz",
 "PostCode": "L-9538",
-"LatLong": "49.9615,5.9348"
+"LatLong": "49.9616,5.9349"
 },
 {
 "Name": "Wiltz",
@@ -21983,7 +23303,7 @@
 {
 "Name": "Wiltz",
 "PostCode": "L-9540",
-"LatLong": "49.9671,5.9294"
+"LatLong": "49.967,5.9294"
 },
 {
 "Name": "Wiltz",
@@ -21993,7 +23313,7 @@
 {
 "Name": "Wiltz",
 "PostCode": "L-9542",
-"LatLong": "49.967,5.9207"
+"LatLong": "49.967,5.9206"
 },
 {
 "Name": "Wiltz",
@@ -22012,28 +23332,33 @@
 },
 {
 "Name": "Wiltz",
+"PostCode": "L-9549",
+"LatLong": "49.9684,5.9211"
+},
+{
+"Name": "Wiltz",
 "PostCode": "L-9550",
-"LatLong": "49.9713,5.9317"
+"LatLong": "49.9713,5.9318"
 },
 {
 "Name": "Wiltz",
 "PostCode": "L-9551",
-"LatLong": "49.9638,5.9253"
+"LatLong": "49.9638,5.9254"
 },
 {
 "Name": "Wiltz",
 "PostCode": "L-9552",
-"LatLong": "49.9637,5.9371"
+"LatLong": "49.9637,5.937"
 },
 {
 "Name": "Wiltz",
 "PostCode": "L-9554",
-"LatLong": "49.9692,5.9289"
+"LatLong": "49.9693,5.9291"
 },
 {
 "Name": "Wiltz",
 "PostCode": "L-9555",
-"LatLong": "49.9651,5.9293"
+"LatLong": "49.9651,5.9291"
 },
 {
 "Name": "Wiltz",
@@ -22048,7 +23373,7 @@
 {
 "Name": "Wiltz",
 "PostCode": "L-9558",
-"LatLong": "49.9684,5.9281"
+"LatLong": "49.9684,5.928"
 },
 {
 "Name": "Wiltz",
@@ -22062,18 +23387,23 @@
 },
 {
 "Name": "Wiltz",
+"PostCode": "L-9565",
+"LatLong": "49.9694,5.9338"
+},
+{
+"Name": "Wiltz",
 "PostCode": "L-9570",
-"LatLong": "49.9657,5.9352"
+"LatLong": "49.9657,5.9351"
 },
 {
 "Name": "Wiltz",
 "PostCode": "L-9571",
-"LatLong": "49.9681,5.9263"
+"LatLong": "49.9681,5.9262"
 },
 {
 "Name": "Wiltz",
 "PostCode": "L-9573",
-"LatLong": "49.9643,5.9251"
+"LatLong": "49.9643,5.925"
 },
 {
 "Name": "Wiltz",
@@ -22083,7 +23413,7 @@
 {
 "Name": "Wiltz",
 "PostCode": "L-9575",
-"LatLong": "49.9687,5.9305"
+"LatLong": "49.9687,5.9304"
 },
 {
 "Name": "Wiltz",
@@ -22118,12 +23448,12 @@
 {
 "Name": "Berlé",
 "PostCode": "L-9636",
-"LatLong": "49.9523,5.8568"
+"LatLong": "49.9522,5.8567"
 },
 {
 "Name": "Doncols",
 "PostCode": "L-9647",
-"LatLong": "49.9722,5.8404"
+"LatLong": "49.9717,5.8397"
 },
 {
 "Name": "Gruemelscheid",
@@ -22138,12 +23468,12 @@
 {
 "Name": "Pommerloch",
 "PostCode": "L-9638",
-"LatLong": "49.9602,5.8597"
+"LatLong": "49.9603,5.8597"
 },
 {
 "Name": "Schleif",
 "PostCode": "L-9654",
-"LatLong": "49.9894,5.8569"
+"LatLong": "49.9893,5.8569"
 },
 {
 "Name": "Sonlez",
@@ -22153,7 +23483,7 @@
 {
 "Name": "Winseler",
 "PostCode": "L-9696",
-"LatLong": "49.9675,5.889"
+"LatLong": "49.9674,5.8889"
 }
 ]
 }
@@ -22168,22 +23498,22 @@
 {
 "Name": "Alscheid",
 "PostCode": "L-9632",
-"LatLong": "49.9695,6.0082"
+"LatLong": "49.9696,6.0079"
 },
 {
 "Name": "Enscherange",
 "PostCode": "L-9747",
-"LatLong": "49.9988,5.9907"
+"LatLong": "49.9991,5.9905"
 },
 {
 "Name": "Kautenbach",
 "PostCode": "L-9663",
-"LatLong": "49.9527,6.019"
+"LatLong": "49.9526,6.0191"
 },
 {
 "Name": "Lellingen",
 "PostCode": "L-9760",
-"LatLong": "49.9848,6.0114"
+"LatLong": "49.9848,6.0113"
 },
 {
 "Name": "Merkholtz",
@@ -22193,12 +23523,12 @@
 {
 "Name": "Pintsch",
 "PostCode": "L-9767",
-"LatLong": "49.9932,6.0092"
+"LatLong": "49.9932,6.0091"
 },
 {
 "Name": "Wilwerwiltz",
 "PostCode": "L-9776",
-"LatLong": "49.9892,5.999"
+"LatLong": "49.9892,5.9989"
 }
 ]
 }

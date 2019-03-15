@@ -8,26 +8,6 @@
 "Code": "01",
 "Communities": [
 {
-"Name": "Monte-Carlo",
-"Places": [
-{
-"Name": "Anse de la Grue",
-"PostCode": "98000",
-"LatLong": "43.7306,7.4217"
-},
-{
-"Name": "Monte-Carlo",
-"PostCode": "98000",
-"LatLong": "43.7333,7.4167"
-},
-{
-"Name": "Pointe Focinana",
-"PostCode": "98000",
-"LatLong": "43.7333,7.4333"
-}
-]
-},
-{
 "Name": "La Condamine",
 "Places": [
 {
@@ -53,22 +33,57 @@
 ]
 },
 {
-"Name": "Monaco",
+"Name": "Monaco-Ville",
 "Places": [
 {
-"Name": "Commune de Monaco",
+"Name": "Ciappaira",
 "PostCode": "98000",
-"LatLong": "43.7333,7.4"
+"LatLong": "43.7167,7.4167"
 },
 {
-"Name": "Monaco",
+"Name": "Jardin Exotique",
 "PostCode": "98000",
-"LatLong": "43.7333,7.4"
+"LatLong": "43.7167,7.4"
 },
 {
-"Name": "Réserve Sous-marine de Monaco",
+"Name": "Monaco-Ville",
 "PostCode": "98000",
-"LatLong": "43.7458,7.4394"
+"LatLong": "43.7333,7.4167"
+},
+{
+"Name": "Pointe de la Poudrière",
+"PostCode": "98000",
+"LatLong": "43.7319,7.4278"
+},
+{
+"Name": "Pointe Saint-Martin",
+"PostCode": "98000",
+"LatLong": "43.7306,7.425"
+},
+{
+"Name": "Rocher de Monaco",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4333"
+}
+]
+},
+{
+"Name": "Monte-Carlo",
+"Places": [
+{
+"Name": "Anse de la Grue",
+"PostCode": "98000",
+"LatLong": "43.7306,7.4217"
+},
+{
+"Name": "Monte-Carlo",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4167"
+},
+{
+"Name": "Pointe Focinana",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4333"
 }
 ]
 },
@@ -108,6 +123,26 @@
 ]
 },
 {
+"Name": "Monaco",
+"Places": [
+{
+"Name": "Commune de Monaco",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4"
+},
+{
+"Name": "Monaco",
+"PostCode": "98000",
+"LatLong": "43.7333,7.4"
+},
+{
+"Name": "Réserve Sous-marine de Monaco",
+"PostCode": "98000",
+"LatLong": "43.7458,7.4394"
+}
+]
+},
+{
 "Name": "Fontvieille",
 "Places": [
 {
@@ -139,41 +174,6 @@
 "Name": "Stade Louis Deux",
 "PostCode": "98000",
 "LatLong": "43.7167,7.4167"
-}
-]
-},
-{
-"Name": "Monaco-Ville",
-"Places": [
-{
-"Name": "Ciappaira",
-"PostCode": "98000",
-"LatLong": "43.7167,7.4167"
-},
-{
-"Name": "Jardin Exotique",
-"PostCode": "98000",
-"LatLong": "43.7167,7.4"
-},
-{
-"Name": "Monaco-Ville",
-"PostCode": "98000",
-"LatLong": "43.7333,7.4167"
-},
-{
-"Name": "Pointe de la Poudrière",
-"PostCode": "98000",
-"LatLong": "43.7319,7.4278"
-},
-{
-"Name": "Pointe Saint-Martin",
-"PostCode": "98000",
-"LatLong": "43.7306,7.425"
-},
-{
-"Name": "Rocher de Monaco",
-"PostCode": "98000",
-"LatLong": "43.7333,7.4333"
 }
 ]
 },
