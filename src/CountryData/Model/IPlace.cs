@@ -4,6 +4,7 @@
     {
         string Name { get; }
         string PostCode { get; }
-        string LatLong { get; }
+        double Latitude { get; }
+        double Longitude { get; }
     }
 }

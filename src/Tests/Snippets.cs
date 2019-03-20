@@ -43,7 +43,8 @@ public class Snippets
         var place = community.Places.First();
         var postCode = place.PostCode;
         var placeName = place.Name;
-        var latLong = place.LatLong;
+        var latitude = place.Latitude;
+        var longitude = place.Longitude;
 
         #endregion
     }

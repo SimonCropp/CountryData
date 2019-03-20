@@ -12,7 +12,8 @@
 {
 "Name": "Bélep",
 "PostCode": "98811",
-"LatLong": "-19.7333,163.6667"
+"Latitude": -19.7333,
+"Longitude": 163.6667
 }
 ]
 }
@@ -27,7 +28,8 @@
 {
 "Name": "Canala",
 "PostCode": "98813",
-"LatLong": "-21.517,165.9629"
+"Latitude": -21.517,
+"Longitude": 165.9629
 }
 ]
 }
@@ -42,7 +44,8 @@
 {
 "Name": "Hienghéne",
 "PostCode": "98815",
-"LatLong": "-20.6874,164.9377"
+"Latitude": -20.6874,
+"Longitude": 164.9377
 }
 ]
 }
@@ -57,12 +60,14 @@
 {
 "Name": "Houaïlou",
 "PostCode": "98816",
-"LatLong": "-21.2865,165.6343"
+"Latitude": -21.2865,
+"Longitude": 165.6343
 },
 {
 "Name": "Poro",
 "PostCode": "98838",
-"LatLong": "-21.3167,165.6333"
+"Latitude": -21.3167,
+"Longitude": 165.6333
 }
 ]
 }
@@ -77,7 +82,8 @@
 {
 "Name": "Kaala-Gomén",
 "PostCode": "98817",
-"LatLong": "-20.6694,164.3977"
+"Latitude": -20.6694,
+"Longitude": 164.3977
 }
 ]
 }
@@ -92,12 +98,14 @@
 {
 "Name": "Koné",
 "PostCode": "98859",
-"LatLong": "-21.0595,164.8658"
+"Latitude": -21.0595,
+"Longitude": 164.8658
 },
 {
 "Name": "Koné",
 "PostCode": "98860",
-"LatLong": "-21.0569,164.8663"
+"Latitude": -21.0569,
+"Longitude": 164.8663
 }
 ]
 }
@@ -112,7 +120,8 @@
 {
 "Name": "Koumac",
 "PostCode": "98850",
-"LatLong": "-20.555,164.2717"
+"Latitude": -20.555,
+"Longitude": 164.2717
 }
 ]
 }
@@ -127,7 +136,8 @@
 {
 "Name": "Ouégoa",
 "PostCode": "98821",
-"LatLong": "-20.3485,164.4262"
+"Latitude": -20.3485,
+"Longitude": 164.4262
 }
 ]
 }
@@ -142,7 +152,8 @@
 {
 "Name": "Poindimié",
 "PostCode": "98822",
-"LatLong": "-20.9505,165.3415"
+"Latitude": -20.9505,
+"Longitude": 165.3415
 }
 ]
 }
@@ -157,7 +168,8 @@
 {
 "Name": "Ponérihouen",
 "PostCode": "98823",
-"LatLong": "-21.0765,165.4005"
+"Latitude": -21.0765,
+"Longitude": 165.4005
 }
 ]
 }
@@ -172,7 +184,8 @@
 {
 "Name": "Pouébo",
 "PostCode": "98824",
-"LatLong": "-20.3929,164.5827"
+"Latitude": -20.3929,
+"Longitude": 164.5827
 }
 ]
 }
@@ -187,7 +200,8 @@
 {
 "Name": "Pouembout",
 "PostCode": "98825",
-"LatLong": "-21.1076,164.9834"
+"Latitude": -21.1076,
+"Longitude": 164.9834
 }
 ]
 }
@@ -202,7 +216,8 @@
 {
 "Name": "Poum",
 "PostCode": "98826",
-"LatLong": "-20.2368,164.0292"
+"Latitude": -20.2368,
+"Longitude": 164.0292
 }
 ]
 }
@@ -217,12 +232,14 @@
 {
 "Name": "Népoui",
 "PostCode": "98877",
-"LatLong": "-21.3283,164.9985"
+"Latitude": -21.3283,
+"Longitude": 164.9985
 },
 {
 "Name": "Poya",
 "PostCode": "98827",
-"LatLong": "-21.3449,165.164"
+"Latitude": -21.3449,
+"Longitude": 165.164
 }
 ]
 }
@@ -237,7 +254,8 @@
 {
 "Name": "Touho",
 "PostCode": "98831",
-"LatLong": "-20.786,165.2423"
+"Latitude": -20.786,
+"Longitude": 165.2423
 }
 ]
 }
@@ -252,12 +270,14 @@
 {
 "Name": "Ouåco",
 "PostCode": "98883",
-"LatLong": "-20.8353,164.4694"
+"Latitude": -20.8353,
+"Longitude": 164.4694
 },
 {
 "Name": "Voh",
 "PostCode": "98833",
-"LatLong": "-20.9467,164.6854"
+"Latitude": -20.9467,
+"Longitude": 164.6854
 }
 ]
 }
@@ -272,7 +292,8 @@
 {
 "Name": "Kouaoua",
 "PostCode": "98818",
-"LatLong": "-21.3957,165.8283"
+"Latitude": -21.3957,
+"Longitude": 165.8283
 }
 ]
 }
@@ -293,7 +314,8 @@
 {
 "Name": "Bouloupari",
 "PostCode": "98812",
-"LatLong": "-21.8607,166.0513"
+"Latitude": -21.8607,
+"Longitude": 166.0513
 }
 ]
 }
@@ -308,7 +330,8 @@
 {
 "Name": "Bourail",
 "PostCode": "98870",
-"LatLong": "-21.5667,165.4667"
+"Latitude": -21.5667,
+"Longitude": 165.4667
 }
 ]
 }
@@ -323,27 +346,32 @@
 {
 "Name": "Dumbéa",
 "PostCode": "98830",
-"LatLong": "-22.1496,166.4473"
+"Latitude": -22.1496,
+"Longitude": 166.4473
 },
 {
 "Name": "Dumbéa",
 "PostCode": "98835",
-"LatLong": "-22.1496,166.4473"
+"Latitude": -22.1496,
+"Longitude": 166.4473
 },
 {
 "Name": "Dumbéa",
 "PostCode": "98836",
-"LatLong": "-22.1496,166.4473"
+"Latitude": -22.1496,
+"Longitude": 166.4473
 },
 {
 "Name": "Dumbéa",
 "PostCode": "98837",
-"LatLong": "-22.1496,166.4473"
+"Latitude": -22.1496,
+"Longitude": 166.4473
 },
 {
 "Name": "Dumbéa",
 "PostCode": "98839",
-"LatLong": "-22.1496,166.4473"
+"Latitude": -22.1496,
+"Longitude": 166.4473
 }
 ]
 }
@@ -358,12 +386,14 @@
 {
 "Name": "Farino",
 "PostCode": "98880",
-"LatLong": "-21.6651,165.776"
+"Latitude": -21.6651,
+"Longitude": 165.776
 },
 {
 "Name": "Farino",
 "PostCode": "98881",
-"LatLong": "-21.6667,165.7667"
+"Latitude": -21.6667,
+"Longitude": 165.7667
 }
 ]
 }
@@ -378,7 +408,8 @@
 {
 "Name": "L’Île des Pins",
 "PostCode": "98832",
-"LatLong": "-22.6167,167.4833"
+"Latitude": -22.6167,
+"Longitude": 167.4833
 }
 ]
 }
@@ -393,7 +424,8 @@
 {
 "Name": "La Foa",
 "PostCode": "98880",
-"LatLong": "-21.7079,165.8252"
+"Latitude": -21.7079,
+"Longitude": 165.8252
 }
 ]
 }
@@ -408,7 +440,8 @@
 {
 "Name": "Moindou",
 "PostCode": "98819",
-"LatLong": "-21.6986,165.6804"
+"Latitude": -21.6986,
+"Longitude": 165.6804
 }
 ]
 }
@@ -423,27 +456,32 @@
 {
 "Name": "La Coulée",
 "PostCode": "98876",
-"LatLong": "-22.2313,166.5758"
+"Latitude": -22.2313,
+"Longitude": 166.5758
 },
 {
 "Name": "Le Mont-Dore",
 "PostCode": "98809",
-"LatLong": "-22.2799,166.5805"
+"Latitude": -22.2799,
+"Longitude": 166.5805
 },
 {
 "Name": "Mont-Dore",
 "PostCode": "98810",
-"LatLong": "-22.2626,166.5662"
+"Latitude": -22.2626,
+"Longitude": 166.5662
 },
 {
 "Name": "Plum",
 "PostCode": "98875",
-"LatLong": "-22.2723,166.6144"
+"Latitude": -22.2723,
+"Longitude": 166.6144
 },
 {
 "Name": "Pont des Français",
 "PostCode": "98874",
-"LatLong": "-22.2167,166.4833"
+"Latitude": -22.2167,
+"Longitude": 166.4833
 }
 ]
 }
@@ -458,7 +496,8 @@
 {
 "Name": "Nouméa",
 "PostCode": "98800",
-"LatLong": "-22.2667,166.4667"
+"Latitude": -22.2667,
+"Longitude": 166.4667
 }
 ]
 }
@@ -473,17 +512,20 @@
 {
 "Name": "La Tontouta",
 "PostCode": "98840",
-"LatLong": "-22.0128,166.2237"
+"Latitude": -22.0128,
+"Longitude": 166.2237
 },
 {
 "Name": "Païta",
 "PostCode": "98889",
-"LatLong": "-22.131,166.3572"
+"Latitude": -22.131,
+"Longitude": 166.3572
 },
 {
 "Name": "Païta",
 "PostCode": "98890",
-"LatLong": "-22.1299,166.3639"
+"Latitude": -22.1299,
+"Longitude": 166.3639
 }
 ]
 }
@@ -498,12 +540,14 @@
 {
 "Name": "Sarraméa",
 "PostCode": "98880",
-"LatLong": "-21.6421,165.8451"
+"Latitude": -21.6421,
+"Longitude": 165.8451
 },
 {
 "Name": "Sarraméa",
 "PostCode": "98882",
-"LatLong": "-21.65,165.85"
+"Latitude": -21.65,
+"Longitude": 165.85
 }
 ]
 }
@@ -518,7 +562,8 @@
 {
 "Name": "Thio",
 "PostCode": "98829",
-"LatLong": "-21.6057,166.2146"
+"Latitude": -21.6057,
+"Longitude": 166.2146
 }
 ]
 }
@@ -533,7 +578,8 @@
 {
 "Name": "Yaté",
 "PostCode": "98834",
-"LatLong": "-22.0833,166.75"
+"Latitude": -22.0833,
+"Longitude": 166.75
 }
 ]
 }
@@ -554,17 +600,20 @@
 {
 "Name": "Chépénéhé",
 "PostCode": "98884",
-"LatLong": "-20.7833,167.15"
+"Latitude": -20.7833,
+"Longitude": 167.15
 },
 {
 "Name": "Mou",
 "PostCode": "98885",
-"LatLong": "-21.0936,167.399"
+"Latitude": -21.0936,
+"Longitude": 167.399
 },
 {
 "Name": "Wé",
 "PostCode": "98820",
-"LatLong": "-20.9169,167.2646"
+"Latitude": -20.9169,
+"Longitude": 167.2646
 }
 ]
 }
@@ -579,12 +628,14 @@
 {
 "Name": "La Roche",
 "PostCode": "98878",
-"LatLong": "-21.478,168.0259"
+"Latitude": -21.478,
+"Longitude": 168.0259
 },
 {
 "Name": "Tadine",
 "PostCode": "98828",
-"LatLong": "-21.55,167.8833"
+"Latitude": -21.55,
+"Longitude": 167.8833
 }
 ]
 }
@@ -599,7 +650,8 @@
 {
 "Name": "Fayaoué",
 "PostCode": "98814",
-"LatLong": "-20.6528,166.5364"
+"Latitude": -20.6528,
+"Longitude": 166.5364
 }
 ]
 }

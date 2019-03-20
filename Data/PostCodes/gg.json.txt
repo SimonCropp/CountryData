@@ -9,32 +9,38 @@
 {
 "Name": "Castel",
 "PostCode": "GY5",
-"LatLong": "49.45,-2.6"
+"Latitude": 49.45,
+"Longitude": -2.6
 },
 {
 "Name": "Delancey",
 "PostCode": "GY2",
-"LatLong": "49.45,-2.6"
+"Latitude": 49.45,
+"Longitude": -2.6
 },
 {
 "Name": "St Martin",
 "PostCode": "GY4",
-"LatLong": "49.45,-2.6"
+"Latitude": 49.45,
+"Longitude": -2.6
 },
 {
 "Name": "St Peter Port",
 "PostCode": "GY1",
-"LatLong": "49.45,-2.6"
+"Latitude": 49.45,
+"Longitude": -2.6
 },
 {
 "Name": "St Sampsons",
 "PostCode": "GY2",
-"LatLong": "49.45,-2.6"
+"Latitude": 49.45,
+"Longitude": -2.6
 },
 {
 "Name": "Vale",
 "PostCode": "GY3",
-"LatLong": "49.45,-2.6"
+"Latitude": 49.45,
+"Longitude": -2.6
 }
 ]
 }
@@ -48,12 +54,14 @@
 {
 "Name": "Alderney",
 "PostCode": "GY9",
-"LatLong": "49.71,-2.2"
+"Latitude": 49.71,
+"Longitude": -2.2
 },
 {
 "Name": "Sark",
 "PostCode": "GY10",
-"LatLong": "49.71,-2.2"
+"Latitude": 49.71,
+"Longitude": -2.2
 }
 ]
 }

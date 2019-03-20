@@ -12,32 +12,38 @@
 {
 "Name": "Erslev",
 "PostCode": "7950",
-"LatLong": "56.8298,8.7501"
+"Latitude": 56.8298,
+"Longitude": 8.7501
 },
 {
 "Name": "Karby",
 "PostCode": "7960",
-"LatLong": "56.7536,8.5613"
+"Latitude": 56.7536,
+"Longitude": 8.5613
 },
 {
 "Name": "Nykøbing M",
 "PostCode": "7900",
-"LatLong": "56.7619,8.6836"
+"Latitude": 56.7619,
+"Longitude": 8.6836
 },
 {
 "Name": "Øster Assels",
 "PostCode": "7990",
-"LatLong": "56.7011,8.6946"
+"Latitude": 56.7011,
+"Longitude": 8.6946
 },
 {
 "Name": "Redsted M",
 "PostCode": "7970",
-"LatLong": "56.7619,8.6836"
+"Latitude": 56.7619,
+"Longitude": 8.6836
 },
 {
 "Name": "Vils",
 "PostCode": "7980",
-"LatLong": "56.7631,8.7286"
+"Latitude": 56.7631,
+"Longitude": 8.7286
 }
 ]
 }
@@ -52,42 +58,50 @@
 {
 "Name": "Bedsted Thy",
 "PostCode": "7755",
-"LatLong": "56.8924,8.5244"
+"Latitude": 56.8924,
+"Longitude": 8.5244
 },
 {
 "Name": "Frøstrup",
 "PostCode": "7741",
-"LatLong": "57.0867,8.9958"
+"Latitude": 57.0867,
+"Longitude": 8.9958
 },
 {
 "Name": "Hanstholm",
 "PostCode": "7730",
-"LatLong": "57.1167,8.6167"
+"Latitude": 57.1167,
+"Longitude": 8.6167
 },
 {
 "Name": "Hurup Thy",
 "PostCode": "7760",
-"LatLong": "56.7494,8.4195"
+"Latitude": 56.7494,
+"Longitude": 8.4195
 },
 {
 "Name": "Snedsted",
 "PostCode": "7752",
-"LatLong": "56.8924,8.5244"
+"Latitude": 56.8924,
+"Longitude": 8.5244
 },
 {
 "Name": "Thisted",
 "PostCode": "7700",
-"LatLong": "56.9552,8.6949"
+"Latitude": 56.9552,
+"Longitude": 8.6949
 },
 {
 "Name": "Vesløs",
 "PostCode": "7742",
-"LatLong": "57.0383,8.9746"
+"Latitude": 57.0383,
+"Longitude": 8.9746
 },
 {
 "Name": "Vestervig",
 "PostCode": "7770",
-"LatLong": "56.7628,8.3194"
+"Latitude": 56.7628,
+"Longitude": 8.3194
 }
 ]
 }
@@ -102,62 +116,74 @@
 {
 "Name": "Aabybro",
 "PostCode": "9440",
-"LatLong": "57.1584,9.7367"
+"Latitude": 57.1584,
+"Longitude": 9.7367
 },
 {
 "Name": "Asaa",
 "PostCode": "9340",
-"LatLong": "57.1487,10.4037"
+"Latitude": 57.1487,
+"Longitude": 10.4037
 },
 {
 "Name": "Brønderslev",
 "PostCode": "9700",
-"LatLong": "57.2702,9.941"
+"Latitude": 57.2702,
+"Longitude": 9.941
 },
 {
 "Name": "Dronninglund",
 "PostCode": "9330",
-"LatLong": "57.1604,10.2929"
+"Latitude": 57.1604,
+"Longitude": 10.2929
 },
 {
 "Name": "Dybvad",
 "PostCode": "9352",
-"LatLong": "57.272,10.3595"
+"Latitude": 57.272,
+"Longitude": 10.3595
 },
 {
 "Name": "Hals",
 "PostCode": "9370",
-"LatLong": "56.9961,10.3081"
+"Latitude": 56.9961,
+"Longitude": 10.3081
 },
 {
 "Name": "Hjallerup",
 "PostCode": "9320",
-"LatLong": "57.1647,10.1457"
+"Latitude": 57.1647,
+"Longitude": 10.1457
 },
 {
 "Name": "Jerslev J",
 "PostCode": "9740",
-"LatLong": "57.323,10.0722"
+"Latitude": 57.323,
+"Longitude": 10.0722
 },
 {
 "Name": "Løkken",
 "PostCode": "9480",
-"LatLong": "57.3705,9.7147"
+"Latitude": 57.3705,
+"Longitude": 9.7147
 },
 {
 "Name": "Østervrå",
 "PostCode": "9750",
-"LatLong": "57.3417,10.2401"
+"Latitude": 57.3417,
+"Longitude": 10.2401
 },
 {
 "Name": "Tylstrup",
 "PostCode": "9382",
-"LatLong": "57.1947,9.9531"
+"Latitude": 57.1947,
+"Longitude": 9.9531
 },
 {
 "Name": "Vrå",
 "PostCode": "9760",
-"LatLong": "57.3476,9.9515"
+"Latitude": 57.3476,
+"Longitude": 9.9515
 }
 ]
 }
@@ -172,67 +198,80 @@
 {
 "Name": "Ålbæk",
 "PostCode": "9982",
-"LatLong": "57.5925,10.4046"
+"Latitude": 57.5925,
+"Longitude": 10.4046
 },
 {
 "Name": "Asaa",
 "PostCode": "9340",
-"LatLong": "57.1487,10.4037"
+"Latitude": 57.1487,
+"Longitude": 10.4037
 },
 {
 "Name": "Bindslev",
 "PostCode": "9881",
-"LatLong": "57.5521,10.2036"
+"Latitude": 57.5521,
+"Longitude": 10.2036
 },
 {
 "Name": "Dronninglund",
 "PostCode": "9330",
-"LatLong": "57.1604,10.2929"
+"Latitude": 57.1604,
+"Longitude": 10.2929
 },
 {
 "Name": "Dybvad",
 "PostCode": "9352",
-"LatLong": "57.272,10.3595"
+"Latitude": 57.272,
+"Longitude": 10.3595
 },
 {
 "Name": "Frederikshavn",
 "PostCode": "9900",
-"LatLong": "57.4407,10.5366"
+"Latitude": 57.4407,
+"Longitude": 10.5366
 },
 {
 "Name": "Jerup",
 "PostCode": "9981",
-"LatLong": "57.5343,10.4166"
+"Latitude": 57.5343,
+"Longitude": 10.4166
 },
 {
 "Name": "Østervrå",
 "PostCode": "9750",
-"LatLong": "57.3417,10.2401"
+"Latitude": 57.3417,
+"Longitude": 10.2401
 },
 {
 "Name": "Sæby",
 "PostCode": "9300",
-"LatLong": "57.3319,10.5225"
+"Latitude": 57.3319,
+"Longitude": 10.5225
 },
 {
 "Name": "Sindal",
 "PostCode": "9870",
-"LatLong": "57.4712,10.2031"
+"Latitude": 57.4712,
+"Longitude": 10.2031
 },
 {
 "Name": "Skagen",
 "PostCode": "9990",
-"LatLong": "57.7209,10.5839"
+"Latitude": 57.7209,
+"Longitude": 10.5839
 },
 {
 "Name": "Strandby",
 "PostCode": "9970",
-"LatLong": "57.4915,10.4961"
+"Latitude": 57.4915,
+"Longitude": 10.4961
 },
 {
 "Name": "Tårs",
 "PostCode": "9830",
-"LatLong": "57.3833,10.1167"
+"Latitude": 57.3833,
+"Longitude": 10.1167
 }
 ]
 }
@@ -247,47 +286,56 @@
 {
 "Name": "Aalestrup",
 "PostCode": "9620",
-"LatLong": "56.6947,9.4934"
+"Latitude": 56.6947,
+"Longitude": 9.4934
 },
 {
 "Name": "Aars",
 "PostCode": "9600",
-"LatLong": "56.804,9.5144"
+"Latitude": 56.804,
+"Longitude": 9.5144
 },
 {
 "Name": "Farsø",
 "PostCode": "9640",
-"LatLong": "56.7728,9.3393"
+"Latitude": 56.7728,
+"Longitude": 9.3393
 },
 {
 "Name": "Gedsted",
 "PostCode": "9631",
-"LatLong": "56.6892,9.3367"
+"Latitude": 56.6892,
+"Longitude": 9.3367
 },
 {
 "Name": "Løgstør",
 "PostCode": "9670",
-"LatLong": "56.9625,9.2583"
+"Latitude": 56.9625,
+"Longitude": 9.2583
 },
 {
 "Name": "Nibe",
 "PostCode": "9240",
-"LatLong": "56.9815,9.6392"
+"Latitude": 56.9815,
+"Longitude": 9.6392
 },
 {
 "Name": "Nørager",
 "PostCode": "9610",
-"LatLong": "56.7262,9.5971"
+"Latitude": 56.7262,
+"Longitude": 9.5971
 },
 {
 "Name": "Ranum",
 "PostCode": "9681",
-"LatLong": "56.8973,9.2287"
+"Latitude": 56.8973,
+"Longitude": 9.2287
 },
 {
 "Name": "Suldrup",
 "PostCode": "9541",
-"LatLong": "56.8488,9.7006"
+"Latitude": 56.8488,
+"Longitude": 9.7006
 }
 ]
 }
@@ -302,7 +350,8 @@
 {
 "Name": "Læsø",
 "PostCode": "9940",
-"LatLong": "57.5448,10.4827"
+"Latitude": 57.5448,
+"Longitude": 10.4827
 }
 ]
 }
@@ -317,77 +366,92 @@
 {
 "Name": "Aalestrup",
 "PostCode": "9620",
-"LatLong": "56.6947,9.4934"
+"Latitude": 56.6947,
+"Longitude": 9.4934
 },
 {
 "Name": "Aars",
 "PostCode": "9600",
-"LatLong": "56.804,9.5144"
+"Latitude": 56.804,
+"Longitude": 9.5144
 },
 {
 "Name": "Arden",
 "PostCode": "9510",
-"LatLong": "56.769,9.8618"
+"Latitude": 56.769,
+"Longitude": 9.8618
 },
 {
 "Name": "Bælum",
 "PostCode": "9574",
-"LatLong": "56.83,10.1198"
+"Latitude": 56.83,
+"Longitude": 10.1198
 },
 {
 "Name": "Gistrup",
 "PostCode": "9260",
-"LatLong": "56.9943,9.9909"
+"Latitude": 56.9943,
+"Longitude": 9.9909
 },
 {
 "Name": "Hadsund",
 "PostCode": "9560",
-"LatLong": "56.7148,10.1168"
+"Latitude": 56.7148,
+"Longitude": 10.1168
 },
 {
 "Name": "Hobro",
 "PostCode": "9500",
-"LatLong": "56.6431,9.7903"
+"Latitude": 56.6431,
+"Longitude": 9.7903
 },
 {
 "Name": "Kongerslev",
 "PostCode": "9293",
-"LatLong": "56.9056,10.1267"
+"Latitude": 56.9056,
+"Longitude": 10.1267
 },
 {
 "Name": "Nibe",
 "PostCode": "9240",
-"LatLong": "56.9815,9.6392"
+"Latitude": 56.9815,
+"Longitude": 9.6392
 },
 {
 "Name": "Nørager",
 "PostCode": "9610",
-"LatLong": "56.7262,9.5971"
+"Latitude": 56.7262,
+"Longitude": 9.5971
 },
 {
 "Name": "Skørping",
 "PostCode": "9520",
-"LatLong": "56.8363,9.8925"
+"Latitude": 56.8363,
+"Longitude": 9.8925
 },
 {
 "Name": "Støvring",
 "PostCode": "9530",
-"LatLong": "56.8854,9.8384"
+"Latitude": 56.8854,
+"Longitude": 9.8384
 },
 {
 "Name": "Suldrup",
 "PostCode": "9541",
-"LatLong": "56.8488,9.7006"
+"Latitude": 56.8488,
+"Longitude": 9.7006
 },
 {
 "Name": "Svenstrup J",
 "PostCode": "9230",
-"LatLong": "56.9733,9.9233"
+"Latitude": 56.9733,
+"Longitude": 9.9233
 },
 {
 "Name": "Terndrup",
 "PostCode": "9575",
-"LatLong": "56.8139,10.0615"
+"Latitude": 56.8139,
+"Longitude": 10.0615
 }
 ]
 }
@@ -402,42 +466,50 @@
 {
 "Name": "Aalestrup",
 "PostCode": "9620",
-"LatLong": "56.6947,9.4934"
+"Latitude": 56.6947,
+"Longitude": 9.4934
 },
 {
 "Name": "Arden",
 "PostCode": "9510",
-"LatLong": "56.769,9.8618"
+"Latitude": 56.769,
+"Longitude": 9.8618
 },
 {
 "Name": "Fårup",
 "PostCode": "8990",
-"LatLong": "56.3667,10.2494"
+"Latitude": 56.3667,
+"Longitude": 10.2494
 },
 {
 "Name": "Hadsund",
 "PostCode": "9560",
-"LatLong": "56.7148,10.1168"
+"Latitude": 56.7148,
+"Longitude": 10.1168
 },
 {
 "Name": "Havndal",
 "PostCode": "8970",
-"LatLong": "56.6525,10.1967"
+"Latitude": 56.6525,
+"Longitude": 10.1967
 },
 {
 "Name": "Hobro",
 "PostCode": "9500",
-"LatLong": "56.6431,9.7903"
+"Latitude": 56.6431,
+"Longitude": 9.7903
 },
 {
 "Name": "Mariager",
 "PostCode": "9550",
-"LatLong": "56.6499,9.9751"
+"Latitude": 56.6499,
+"Longitude": 9.9751
 },
 {
 "Name": "Møldrup",
 "PostCode": "9632",
-"LatLong": "56.6167,9.5011"
+"Latitude": 56.6167,
+"Longitude": 9.5011
 }
 ]
 }
@@ -452,62 +524,74 @@
 {
 "Name": "Aabybro",
 "PostCode": "9440",
-"LatLong": "57.1584,9.7367"
+"Latitude": 57.1584,
+"Longitude": 9.7367
 },
 {
 "Name": "Blokhus",
 "PostCode": "9492",
-"LatLong": "57.248,9.5897"
+"Latitude": 57.248,
+"Longitude": 9.5897
 },
 {
 "Name": "Brønderslev",
 "PostCode": "9700",
-"LatLong": "57.2702,9.941"
+"Latitude": 57.2702,
+"Longitude": 9.941
 },
 {
 "Name": "Brovst",
 "PostCode": "9460",
-"LatLong": "57.0956,9.528"
+"Latitude": 57.0956,
+"Longitude": 9.528
 },
 {
 "Name": "Fjerritslev",
 "PostCode": "9690",
-"LatLong": "57.0813,9.2664"
+"Latitude": 57.0813,
+"Longitude": 9.2664
 },
 {
 "Name": "Løgstør",
 "PostCode": "9670",
-"LatLong": "56.9625,9.2583"
+"Latitude": 56.9625,
+"Longitude": 9.2583
 },
 {
 "Name": "Løkken",
 "PostCode": "9480",
-"LatLong": "57.3705,9.7147"
+"Latitude": 57.3705,
+"Longitude": 9.7147
 },
 {
 "Name": "Pandrup",
 "PostCode": "9490",
-"LatLong": "57.2215,9.6757"
+"Latitude": 57.2215,
+"Longitude": 9.6757
 },
 {
 "Name": "Saltum",
 "PostCode": "9493",
-"LatLong": "57.2719,9.698"
+"Latitude": 57.2719,
+"Longitude": 9.698
 },
 {
 "Name": "Sulsted",
 "PostCode": "9381",
-"LatLong": "57.1634,9.9567"
+"Latitude": 57.1634,
+"Longitude": 9.9567
 },
 {
 "Name": "Tylstrup",
 "PostCode": "9382",
-"LatLong": "57.1947,9.9531"
+"Latitude": 57.1947,
+"Longitude": 9.9531
 },
 {
 "Name": "Vadum",
 "PostCode": "9430",
-"LatLong": "57.1179,9.857"
+"Latitude": 57.1179,
+"Longitude": 9.857
 }
 ]
 }
@@ -522,107 +606,128 @@
 {
 "Name": "Aabybro",
 "PostCode": "9440",
-"LatLong": "57.1584,9.7367"
+"Latitude": 57.1584,
+"Longitude": 9.7367
 },
 {
 "Name": "Aalborg",
 "PostCode": "9000",
-"LatLong": "57.048,9.9187"
+"Latitude": 57.048,
+"Longitude": 9.9187
 },
 {
 "Name": "Aalborg Øst",
 "PostCode": "9220",
-"LatLong": "56.9733,9.9233"
+"Latitude": 56.9733,
+"Longitude": 9.9233
 },
 {
 "Name": "Aalborg SØ",
 "PostCode": "9210",
-"LatLong": "56.9733,9.9233"
+"Latitude": 56.9733,
+"Longitude": 9.9233
 },
 {
 "Name": "Aalborg SV",
 "PostCode": "9200",
-"LatLong": "56.9733,9.9233"
+"Latitude": 56.9733,
+"Longitude": 9.9233
 },
 {
 "Name": "Gandrup",
 "PostCode": "9362",
-"LatLong": "57.0574,10.1814"
+"Latitude": 57.0574,
+"Longitude": 10.1814
 },
 {
 "Name": "Gistrup",
 "PostCode": "9260",
-"LatLong": "56.9943,9.9909"
+"Latitude": 56.9943,
+"Longitude": 9.9909
 },
 {
 "Name": "Hals",
 "PostCode": "9370",
-"LatLong": "56.9961,10.3081"
+"Latitude": 56.9961,
+"Longitude": 10.3081
 },
 {
 "Name": "Hjallerup",
 "PostCode": "9320",
-"LatLong": "57.1647,10.1457"
+"Latitude": 57.1647,
+"Longitude": 10.1457
 },
 {
 "Name": "Klarup",
 "PostCode": "9270",
-"LatLong": "57.0119,10.0562"
+"Latitude": 57.0119,
+"Longitude": 10.0562
 },
 {
 "Name": "Kongerslev",
 "PostCode": "9293",
-"LatLong": "56.9056,10.1267"
+"Latitude": 56.9056,
+"Longitude": 10.1267
 },
 {
 "Name": "Nibe",
 "PostCode": "9240",
-"LatLong": "56.9815,9.6392"
+"Latitude": 56.9815,
+"Longitude": 9.6392
 },
 {
 "Name": "Nørresundby",
 "PostCode": "9400",
-"LatLong": "57.0483,9.9352"
+"Latitude": 57.0483,
+"Longitude": 9.9352
 },
 {
 "Name": "Storvorde",
 "PostCode": "9280",
-"LatLong": "57.0039,10.1013"
+"Latitude": 57.0039,
+"Longitude": 10.1013
 },
 {
 "Name": "Støvring",
 "PostCode": "9530",
-"LatLong": "56.8854,9.8384"
+"Latitude": 56.8854,
+"Longitude": 9.8384
 },
 {
 "Name": "Sulsted",
 "PostCode": "9381",
-"LatLong": "57.1634,9.9567"
+"Latitude": 57.1634,
+"Longitude": 9.9567
 },
 {
 "Name": "Svenstrup J",
 "PostCode": "9230",
-"LatLong": "56.9733,9.9233"
+"Latitude": 56.9733,
+"Longitude": 9.9233
 },
 {
 "Name": "Tylstrup",
 "PostCode": "9382",
-"LatLong": "57.1947,9.9531"
+"Latitude": 57.1947,
+"Longitude": 9.9531
 },
 {
 "Name": "Vadum",
 "PostCode": "9430",
-"LatLong": "57.1179,9.857"
+"Latitude": 57.1179,
+"Longitude": 9.857
 },
 {
 "Name": "Vestbjerg",
 "PostCode": "9380",
-"LatLong": "57.1317,9.9594"
+"Latitude": 57.1317,
+"Longitude": 9.9594
 },
 {
 "Name": "Vodskov",
 "PostCode": "9310",
-"LatLong": "57.1085,10.0222"
+"Latitude": 57.1085,
+"Longitude": 10.0222
 }
 ]
 }
@@ -637,57 +742,68 @@
 {
 "Name": "Ålbæk",
 "PostCode": "9982",
-"LatLong": "57.5925,10.4046"
+"Latitude": 57.5925,
+"Longitude": 10.4046
 },
 {
 "Name": "Bindslev",
 "PostCode": "9881",
-"LatLong": "57.5521,10.2036"
+"Latitude": 57.5521,
+"Longitude": 10.2036
 },
 {
 "Name": "Frederikshavn",
 "PostCode": "9900",
-"LatLong": "57.4407,10.5366"
+"Latitude": 57.4407,
+"Longitude": 10.5366
 },
 {
 "Name": "Hirtshals",
 "PostCode": "9850",
-"LatLong": "57.5881,9.9592"
+"Latitude": 57.5881,
+"Longitude": 9.9592
 },
 {
 "Name": "Hjørring",
 "PostCode": "9800",
-"LatLong": "57.4642,9.9823"
+"Latitude": 57.4642,
+"Longitude": 9.9823
 },
 {
 "Name": "Jerslev J",
 "PostCode": "9740",
-"LatLong": "57.323,10.0722"
+"Latitude": 57.323,
+"Longitude": 10.0722
 },
 {
 "Name": "Løkken",
 "PostCode": "9480",
-"LatLong": "57.3705,9.7147"
+"Latitude": 57.3705,
+"Longitude": 9.7147
 },
 {
 "Name": "Østervrå",
 "PostCode": "9750",
-"LatLong": "57.3417,10.2401"
+"Latitude": 57.3417,
+"Longitude": 10.2401
 },
 {
 "Name": "Sindal",
 "PostCode": "9870",
-"LatLong": "57.4712,10.2031"
+"Latitude": 57.4712,
+"Longitude": 10.2031
 },
 {
 "Name": "Tårs",
 "PostCode": "9830",
-"LatLong": "57.3833,10.1167"
+"Latitude": 57.3833,
+"Longitude": 10.1167
 },
 {
 "Name": "Vrå",
 "PostCode": "9760",
-"LatLong": "57.3476,9.9515"
+"Latitude": 57.3476,
+"Longitude": 9.9515
 }
 ]
 }
@@ -708,62 +824,74 @@
 {
 "Name": "Brædstrup",
 "PostCode": "8740",
-"LatLong": "55.9715,9.6113"
+"Latitude": 55.9715,
+"Longitude": 9.6113
 },
 {
 "Name": "Bryrup",
 "PostCode": "8654",
-"LatLong": "56.0228,9.5183"
+"Latitude": 56.0228,
+"Longitude": 9.5183
 },
 {
 "Name": "Flemming",
 "PostCode": "8762",
-"LatLong": "55.8687,9.6675"
+"Latitude": 55.8687,
+"Longitude": 9.6675
 },
 {
 "Name": "Gedved",
 "PostCode": "8751",
-"LatLong": "55.9308,9.846"
+"Latitude": 55.9308,
+"Longitude": 9.846
 },
 {
 "Name": "Hornsyld",
 "PostCode": "8783",
-"LatLong": "55.7526,9.8512"
+"Latitude": 55.7526,
+"Longitude": 9.8512
 },
 {
 "Name": "Horsens",
 "PostCode": "8700",
-"LatLong": "55.8607,9.8503"
+"Latitude": 55.8607,
+"Longitude": 9.8503
 },
 {
 "Name": "Hovedgård",
 "PostCode": "8732",
-"LatLong": "55.9417,9.955"
+"Latitude": 55.9417,
+"Longitude": 9.955
 },
 {
 "Name": "Klovborg",
 "PostCode": "8765",
-"LatLong": "55.9319,9.491"
+"Latitude": 55.9319,
+"Longitude": 9.491
 },
 {
 "Name": "Østbirk",
 "PostCode": "8752",
-"LatLong": "55.9648,9.7556"
+"Latitude": 55.9648,
+"Longitude": 9.7556
 },
 {
 "Name": "Ry",
 "PostCode": "8680",
-"LatLong": "56.0904,9.7651"
+"Latitude": 56.0904,
+"Longitude": 9.7651
 },
 {
 "Name": "Skanderborg",
 "PostCode": "8660",
-"LatLong": "56.0399,9.9272"
+"Latitude": 56.0399,
+"Longitude": 9.9272
 },
 {
 "Name": "Stenderup",
 "PostCode": "8781",
-"LatLong": "55.7921,9.8097"
+"Latitude": 55.7921,
+"Longitude": 9.8097
 }
 ]
 }
@@ -778,82 +906,98 @@
 {
 "Name": "Aulum",
 "PostCode": "7490",
-"LatLong": "56.2654,8.7926"
+"Latitude": 56.2654,
+"Longitude": 8.7926
 },
 {
 "Name": "Brande",
 "PostCode": "7330",
-"LatLong": "55.9381,9.1218"
+"Latitude": 55.9381,
+"Longitude": 9.1218
 },
 {
 "Name": "Haderup",
 "PostCode": "7540",
-"LatLong": "56.3896,8.9943"
+"Latitude": 56.3896,
+"Longitude": 8.9943
 },
 {
 "Name": "Herning",
 "PostCode": "7400",
-"LatLong": "56.1393,8.9738"
+"Latitude": 56.1393,
+"Longitude": 8.9738
 },
 {
 "Name": "Holstebro",
 "PostCode": "7500",
-"LatLong": "56.3601,8.6161"
+"Latitude": 56.3601,
+"Longitude": 8.6161
 },
 {
 "Name": "Karup J",
 "PostCode": "7470",
-"LatLong": "56.1757,9.0321"
+"Latitude": 56.1757,
+"Longitude": 9.0321
 },
 {
 "Name": "Kibæk",
 "PostCode": "6933",
-"LatLong": "56.0317,8.857"
+"Latitude": 56.0317,
+"Longitude": 8.857
 },
 {
 "Name": "Ørnhøj",
 "PostCode": "6973",
-"LatLong": "56.1987,8.5645"
+"Latitude": 56.1987,
+"Longitude": 8.5645
 },
 {
 "Name": "Sønder Felding",
 "PostCode": "7280",
-"LatLong": "55.9376,8.7794"
+"Latitude": 55.9376,
+"Longitude": 8.7794
 },
 {
 "Name": "Sønder Omme",
 "PostCode": "7260",
-"LatLong": "55.8398,8.8972"
+"Latitude": 55.8398,
+"Longitude": 8.8972
 },
 {
 "Name": "Sørvad",
 "PostCode": "7550",
-"LatLong": "56.2629,8.6563"
+"Latitude": 56.2629,
+"Longitude": 8.6563
 },
 {
 "Name": "Stakroge",
 "PostCode": "7270",
-"LatLong": "55.8901,8.8473"
+"Latitude": 55.8901,
+"Longitude": 8.8473
 },
 {
 "Name": "Sunds",
 "PostCode": "7451",
-"LatLong": "56.2042,9.0127"
+"Latitude": 56.2042,
+"Longitude": 9.0127
 },
 {
 "Name": "Ulfborg",
 "PostCode": "6990",
-"LatLong": "56.2673,8.3217"
+"Latitude": 56.2673,
+"Longitude": 8.3217
 },
 {
 "Name": "Vildbjerg",
 "PostCode": "7480",
-"LatLong": "56.2,8.7667"
+"Latitude": 56.2,
+"Longitude": 8.7667
 },
 {
 "Name": "Vinderup",
 "PostCode": "7830",
-"LatLong": "56.4751,8.7908"
+"Latitude": 56.4751,
+"Longitude": 8.7908
 }
 ]
 }
@@ -868,42 +1012,50 @@
 {
 "Name": "Haderup",
 "PostCode": "7540",
-"LatLong": "56.3896,8.9943"
+"Latitude": 56.3896,
+"Longitude": 8.9943
 },
 {
 "Name": "Hjerm",
 "PostCode": "7560",
-"LatLong": "56.4384,8.6345"
+"Latitude": 56.4384,
+"Longitude": 8.6345
 },
 {
 "Name": "Holstebro",
 "PostCode": "7500",
-"LatLong": "56.3601,8.6161"
+"Latitude": 56.3601,
+"Longitude": 8.6161
 },
 {
 "Name": "Skive",
 "PostCode": "7800",
-"LatLong": "56.5638,9.0402"
+"Latitude": 56.5638,
+"Longitude": 9.0402
 },
 {
 "Name": "Struer",
 "PostCode": "7600",
-"LatLong": "56.4912,8.5838"
+"Latitude": 56.4912,
+"Longitude": 8.5838
 },
 {
 "Name": "Ulfborg",
 "PostCode": "6990",
-"LatLong": "56.2673,8.3217"
+"Latitude": 56.2673,
+"Longitude": 8.3217
 },
 {
 "Name": "Vemb",
 "PostCode": "7570",
-"LatLong": "56.3423,8.3375"
+"Latitude": 56.3423,
+"Longitude": 8.3375
 },
 {
 "Name": "Vinderup",
 "PostCode": "7830",
-"LatLong": "56.4751,8.7908"
+"Latitude": 56.4751,
+"Longitude": 8.7908
 }
 ]
 }
@@ -918,42 +1070,50 @@
 {
 "Name": "Bækmarksbro",
 "PostCode": "7660",
-"LatLong": "56.4153,8.307"
+"Latitude": 56.4153,
+"Longitude": 8.307
 },
 {
 "Name": "Bøvlingbjerg",
 "PostCode": "7650",
-"LatLong": "56.4353,8.2029"
+"Latitude": 56.4353,
+"Longitude": 8.2029
 },
 {
 "Name": "Harboøre",
 "PostCode": "7673",
-"LatLong": "56.6175,8.1807"
+"Latitude": 56.6175,
+"Longitude": 8.1807
 },
 {
 "Name": "Lemvig",
 "PostCode": "7620",
-"LatLong": "56.5486,8.3102"
+"Latitude": 56.5486,
+"Longitude": 8.3102
 },
 {
 "Name": "Struer",
 "PostCode": "7600",
-"LatLong": "56.4912,8.5838"
+"Latitude": 56.4912,
+"Longitude": 8.5838
 },
 {
 "Name": "Thyborøn",
 "PostCode": "7680",
-"LatLong": "56.6985,8.2124"
+"Latitude": 56.6985,
+"Longitude": 8.2124
 },
 {
 "Name": "Ulfborg",
 "PostCode": "6990",
-"LatLong": "56.2673,8.3217"
+"Latitude": 56.2673,
+"Longitude": 8.3217
 },
 {
 "Name": "Vemb",
 "PostCode": "7570",
-"LatLong": "56.3423,8.3375"
+"Latitude": 56.3423,
+"Longitude": 8.3375
 }
 ]
 }
@@ -968,37 +1128,44 @@
 {
 "Name": "Bækmarksbro",
 "PostCode": "7660",
-"LatLong": "56.4153,8.307"
+"Latitude": 56.4153,
+"Longitude": 8.307
 },
 {
 "Name": "Hjerm",
 "PostCode": "7560",
-"LatLong": "56.4384,8.6345"
+"Latitude": 56.4384,
+"Longitude": 8.6345
 },
 {
 "Name": "Holstebro",
 "PostCode": "7500",
-"LatLong": "56.3601,8.6161"
+"Latitude": 56.3601,
+"Longitude": 8.6161
 },
 {
 "Name": "Hurup Thy",
 "PostCode": "7760",
-"LatLong": "56.7494,8.4195"
+"Latitude": 56.7494,
+"Longitude": 8.4195
 },
 {
 "Name": "Struer",
 "PostCode": "7600",
-"LatLong": "56.4912,8.5838"
+"Latitude": 56.4912,
+"Longitude": 8.5838
 },
 {
 "Name": "Thyholm",
 "PostCode": "7790",
-"LatLong": "56.9189,8.6206"
+"Latitude": 56.9189,
+"Longitude": 8.6206
 },
 {
 "Name": "Vinderup",
 "PostCode": "7830",
-"LatLong": "56.4751,8.7908"
+"Latitude": 56.4751,
+"Longitude": 8.7908
 }
 ]
 }
@@ -1013,57 +1180,68 @@
 {
 "Name": "Auning",
 "PostCode": "8963",
-"LatLong": "56.4308,10.3782"
+"Latitude": 56.4308,
+"Longitude": 10.3782
 },
 {
 "Name": "Balle",
 "PostCode": "8444",
-"LatLong": "56.2963,10.2589"
+"Latitude": 56.2963,
+"Longitude": 10.2589
 },
 {
 "Name": "Ebeltoft",
 "PostCode": "8400",
-"LatLong": "56.1944,10.6821"
+"Latitude": 56.1944,
+"Longitude": 10.6821
 },
 {
 "Name": "Hornslet",
 "PostCode": "8543",
-"LatLong": "56.3155,10.3204"
+"Latitude": 56.3155,
+"Longitude": 10.3204
 },
 {
 "Name": "Knebel",
 "PostCode": "8420",
-"LatLong": "56.2141,10.4886"
+"Latitude": 56.2141,
+"Longitude": 10.4886
 },
 {
 "Name": "Kolind",
 "PostCode": "8560",
-"LatLong": "56.3606,10.5836"
+"Latitude": 56.3606,
+"Longitude": 10.5836
 },
 {
 "Name": "Mørke",
 "PostCode": "8544",
-"LatLong": "56.3345,10.3819"
+"Latitude": 56.3345,
+"Longitude": 10.3819
 },
 {
 "Name": "Nimtofte",
 "PostCode": "8581",
-"LatLong": "56.408,10.5686"
+"Latitude": 56.408,
+"Longitude": 10.5686
 },
 {
 "Name": "Rønde",
 "PostCode": "8410",
-"LatLong": "56.3015,10.4751"
+"Latitude": 56.3015,
+"Longitude": 10.4751
 },
 {
 "Name": "Ryomgård",
 "PostCode": "8550",
-"LatLong": "56.3843,10.503"
+"Latitude": 56.3843,
+"Longitude": 10.503
 },
 {
 "Name": "Trustrup",
 "PostCode": "8570",
-"LatLong": "56.3493,10.7739"
+"Latitude": 56.3493,
+"Longitude": 10.7739
 }
 ]
 }
@@ -1078,62 +1256,74 @@
 {
 "Name": "Allingåbro",
 "PostCode": "8961",
-"LatLong": "56.4649,10.3341"
+"Latitude": 56.4649,
+"Longitude": 10.3341
 },
 {
 "Name": "Anholt",
 "PostCode": "8592",
-"LatLong": "56.3671,10.5325"
+"Latitude": 56.3671,
+"Longitude": 10.5325
 },
 {
 "Name": "Auning",
 "PostCode": "8963",
-"LatLong": "56.4308,10.3782"
+"Latitude": 56.4308,
+"Longitude": 10.3782
 },
 {
 "Name": "Balle",
 "PostCode": "8444",
-"LatLong": "56.2963,10.2589"
+"Latitude": 56.2963,
+"Longitude": 10.2589
 },
 {
 "Name": "Glesborg",
 "PostCode": "8585",
-"LatLong": "56.4775,10.7233"
+"Latitude": 56.4775,
+"Longitude": 10.7233
 },
 {
 "Name": "Grenaa",
 "PostCode": "8500",
-"LatLong": "56.4158,10.8782"
+"Latitude": 56.4158,
+"Longitude": 10.8782
 },
 {
 "Name": "Kolind",
 "PostCode": "8560",
-"LatLong": "56.3606,10.5836"
+"Latitude": 56.3606,
+"Longitude": 10.5836
 },
 {
 "Name": "Nimtofte",
 "PostCode": "8581",
-"LatLong": "56.408,10.5686"
+"Latitude": 56.408,
+"Longitude": 10.5686
 },
 {
 "Name": "Ørsted",
 "PostCode": "8950",
-"LatLong": "56.502,10.3372"
+"Latitude": 56.502,
+"Longitude": 10.3372
 },
 {
 "Name": "Ørum Djurs",
 "PostCode": "8586",
-"LatLong": "56.4312,10.6202"
+"Latitude": 56.4312,
+"Longitude": 10.6202
 },
 {
 "Name": "Ryomgård",
 "PostCode": "8550",
-"LatLong": "56.3843,10.503"
+"Latitude": 56.3843,
+"Longitude": 10.503
 },
 {
 "Name": "Trustrup",
 "PostCode": "8570",
-"LatLong": "56.3493,10.7739"
+"Latitude": 56.3493,
+"Longitude": 10.7739
 }
 ]
 }
@@ -1148,72 +1338,86 @@
 {
 "Name": "Bjerringbro",
 "PostCode": "8850",
-"LatLong": "56.378,9.6607"
+"Latitude": 56.378,
+"Longitude": 9.6607
 },
 {
 "Name": "Fårvang",
 "PostCode": "8882",
-"LatLong": "56.2675,9.7278"
+"Latitude": 56.2675,
+"Longitude": 9.7278
 },
 {
 "Name": "Hadsten",
 "PostCode": "8370",
-"LatLong": "56.3282,10.0493"
+"Latitude": 56.3282,
+"Longitude": 10.0493
 },
 {
 "Name": "Hammel",
 "PostCode": "8450",
-"LatLong": "56.2576,9.8632"
+"Latitude": 56.2576,
+"Longitude": 9.8632
 },
 {
 "Name": "Hinnerup",
 "PostCode": "8382",
-"LatLong": "56.2661,10.063"
+"Latitude": 56.2661,
+"Longitude": 10.063
 },
 {
 "Name": "Langå",
 "PostCode": "8870",
-"LatLong": "56.3903,9.8949"
+"Latitude": 56.3903,
+"Longitude": 9.8949
 },
 {
 "Name": "Randers SØ",
 "PostCode": "8960",
-"LatLong": "56.4422,10.3635"
+"Latitude": 56.4422,
+"Longitude": 10.3635
 },
 {
 "Name": "Randers SV",
 "PostCode": "8940",
-"LatLong": "56.4893,10.262"
+"Latitude": 56.4893,
+"Longitude": 10.262
 },
 {
 "Name": "Sabro",
 "PostCode": "8471",
-"LatLong": "56.2133,10.0344"
+"Latitude": 56.2133,
+"Longitude": 10.0344
 },
 {
 "Name": "Sorring",
 "PostCode": "8641",
-"LatLong": "56.1769,9.7758"
+"Latitude": 56.1769,
+"Longitude": 9.7758
 },
 {
 "Name": "Sporup",
 "PostCode": "8472",
-"LatLong": "56.2133,10.0344"
+"Latitude": 56.2133,
+"Longitude": 10.0344
 },
 {
 "Name": "Thorsø",
 "PostCode": "8881",
-"LatLong": "56.2995,9.7892"
+"Latitude": 56.2995,
+"Longitude": 9.7892
 },
 {
 "Name": "Trige",
 "PostCode": "8380",
-"LatLong": "56.2529,10.1484"
+"Latitude": 56.2529,
+"Longitude": 10.1484
 },
 {
 "Name": "Ulstrup",
 "PostCode": "8860",
-"LatLong": "56.3899,9.7935"
+"Latitude": 56.3899,
+"Longitude": 9.7935
 }
 ]
 }
@@ -1228,22 +1432,26 @@
 {
 "Name": "Hundslund",
 "PostCode": "8350",
-"LatLong": "55.916,10.0521"
+"Latitude": 55.916,
+"Longitude": 10.0521
 },
 {
 "Name": "Malling",
 "PostCode": "8340",
-"LatLong": "56.0363,10.1963"
+"Latitude": 56.0363,
+"Longitude": 10.1963
 },
 {
 "Name": "Odder",
 "PostCode": "8300",
-"LatLong": "55.9731,10.153"
+"Latitude": 55.9731,
+"Longitude": 10.153
 },
 {
 "Name": "Skanderborg",
 "PostCode": "8660",
-"LatLong": "56.0399,9.9272"
+"Latitude": 56.0399,
+"Longitude": 9.9272
 }
 ]
 }
@@ -1258,62 +1466,74 @@
 {
 "Name": "Fårup",
 "PostCode": "8990",
-"LatLong": "56.3667,10.2494"
+"Latitude": 56.3667,
+"Longitude": 10.2494
 },
 {
 "Name": "Gjerlev J",
 "PostCode": "8983",
-"LatLong": "56.537,10.0379"
+"Latitude": 56.537,
+"Longitude": 10.0379
 },
 {
 "Name": "Havndal",
 "PostCode": "8970",
-"LatLong": "56.6525,10.1967"
+"Latitude": 56.6525,
+"Longitude": 10.1967
 },
 {
 "Name": "Langå",
 "PostCode": "8870",
-"LatLong": "56.3903,9.8949"
+"Latitude": 56.3903,
+"Longitude": 9.8949
 },
 {
 "Name": "Mariager",
 "PostCode": "9550",
-"LatLong": "56.6499,9.9751"
+"Latitude": 56.6499,
+"Longitude": 9.9751
 },
 {
 "Name": "Randers C",
 "PostCode": "8900",
-"LatLong": "56.4893,10.262"
+"Latitude": 56.4893,
+"Longitude": 10.262
 },
 {
 "Name": "Randers NØ",
 "PostCode": "8930",
-"LatLong": "56.4893,10.262"
+"Latitude": 56.4893,
+"Longitude": 10.262
 },
 {
 "Name": "Randers NV",
 "PostCode": "8920",
-"LatLong": "56.4893,10.262"
+"Latitude": 56.4893,
+"Longitude": 10.262
 },
 {
 "Name": "Randers SØ",
 "PostCode": "8960",
-"LatLong": "56.4422,10.3635"
+"Latitude": 56.4422,
+"Longitude": 10.3635
 },
 {
 "Name": "Randers SV",
 "PostCode": "8940",
-"LatLong": "56.4893,10.262"
+"Latitude": 56.4893,
+"Longitude": 10.262
 },
 {
 "Name": "Spentrup",
 "PostCode": "8981",
-"LatLong": "56.537,10.0379"
+"Latitude": 56.537,
+"Longitude": 10.0379
 },
 {
 "Name": "Ulstrup",
 "PostCode": "8860",
-"LatLong": "56.3899,9.7935"
+"Latitude": 56.3899,
+"Longitude": 9.7935
 }
 ]
 }
@@ -1328,102 +1548,122 @@
 {
 "Name": "Ans By",
 "PostCode": "8643",
-"LatLong": "56.1769,9.7758"
+"Latitude": 56.1769,
+"Longitude": 9.7758
 },
 {
 "Name": "Bording",
 "PostCode": "7441",
-"LatLong": "56.1441,9.2765"
+"Latitude": 56.1441,
+"Longitude": 9.2765
 },
 {
 "Name": "Brædstrup",
 "PostCode": "8740",
-"LatLong": "55.9715,9.6113"
+"Latitude": 55.9715,
+"Longitude": 9.6113
 },
 {
 "Name": "Bryrup",
 "PostCode": "8654",
-"LatLong": "56.0228,9.5183"
+"Latitude": 56.0228,
+"Longitude": 9.5183
 },
 {
 "Name": "Engesvang",
 "PostCode": "7442",
-"LatLong": "56.1707,9.3495"
+"Latitude": 56.1707,
+"Longitude": 9.3495
 },
 {
 "Name": "Fårvang",
 "PostCode": "8882",
-"LatLong": "56.2675,9.7278"
+"Latitude": 56.2675,
+"Longitude": 9.7278
 },
 {
 "Name": "Gjern",
 "PostCode": "8883",
-"LatLong": "56.2302,9.7391"
+"Latitude": 56.2302,
+"Longitude": 9.7391
 },
 {
 "Name": "Hammel",
 "PostCode": "8450",
-"LatLong": "56.2576,9.8632"
+"Latitude": 56.2576,
+"Longitude": 9.8632
 },
 {
 "Name": "Hampen",
 "PostCode": "7362",
-"LatLong": "56.019,9.3551"
+"Latitude": 56.019,
+"Longitude": 9.3551
 },
 {
 "Name": "Karup J",
 "PostCode": "7470",
-"LatLong": "56.1757,9.0321"
+"Latitude": 56.1757,
+"Longitude": 9.0321
 },
 {
 "Name": "Kjellerup",
 "PostCode": "8620",
-"LatLong": "56.2858,9.4353"
+"Latitude": 56.2858,
+"Longitude": 9.4353
 },
 {
 "Name": "Lemming",
 "PostCode": "8632",
-"LatLong": "56.2405,9.5473"
+"Latitude": 56.2405,
+"Longitude": 9.5473
 },
 {
 "Name": "Rødkærsbro",
 "PostCode": "8840",
-"LatLong": "56.3531,9.5051"
+"Latitude": 56.3531,
+"Longitude": 9.5051
 },
 {
 "Name": "Ry",
 "PostCode": "8680",
-"LatLong": "56.0904,9.7651"
+"Latitude": 56.0904,
+"Longitude": 9.7651
 },
 {
 "Name": "Silkeborg",
 "PostCode": "8600",
-"LatLong": "56.1697,9.5451"
+"Latitude": 56.1697,
+"Longitude": 9.5451
 },
 {
 "Name": "Sorring",
 "PostCode": "8641",
-"LatLong": "56.1769,9.7758"
+"Latitude": 56.1769,
+"Longitude": 9.7758
 },
 {
 "Name": "Sporup",
 "PostCode": "8472",
-"LatLong": "56.2133,10.0344"
+"Latitude": 56.2133,
+"Longitude": 10.0344
 },
 {
 "Name": "Them",
 "PostCode": "8653",
-"LatLong": "56.0943,9.5487"
+"Latitude": 56.0943,
+"Longitude": 9.5487
 },
 {
 "Name": "Thorsø",
 "PostCode": "8881",
-"LatLong": "56.2995,9.7892"
+"Latitude": 56.2995,
+"Longitude": 9.7892
 },
 {
 "Name": "Viborg",
 "PostCode": "8800",
-"LatLong": "56.4532,9.402"
+"Latitude": 56.4532,
+"Longitude": 9.402
 }
 ]
 }
@@ -1438,7 +1678,8 @@
 {
 "Name": "Samsø",
 "PostCode": "8305",
-"LatLong": "55.8796,10.6076"
+"Latitude": 55.8796,
+"Longitude": 10.6076
 }
 ]
 }
@@ -1453,47 +1694,56 @@
 {
 "Name": "Galten",
 "PostCode": "8464",
-"LatLong": "56.35,10.05"
+"Latitude": 56.35,
+"Longitude": 10.05
 },
 {
 "Name": "Gedved",
 "PostCode": "8751",
-"LatLong": "55.9308,9.846"
+"Latitude": 55.9308,
+"Longitude": 9.846
 },
 {
 "Name": "Hørning",
 "PostCode": "8362",
-"LatLong": "56.087,10.0372"
+"Latitude": 56.087,
+"Longitude": 10.0372
 },
 {
 "Name": "Låsby",
 "PostCode": "8670",
-"LatLong": "56.1502,9.8068"
+"Latitude": 56.1502,
+"Longitude": 9.8068
 },
 {
 "Name": "Ry",
 "PostCode": "8680",
-"LatLong": "56.0904,9.7651"
+"Latitude": 56.0904,
+"Longitude": 9.7651
 },
 {
 "Name": "Sabro",
 "PostCode": "8471",
-"LatLong": "56.2133,10.0344"
+"Latitude": 56.2133,
+"Longitude": 10.0344
 },
 {
 "Name": "Silkeborg",
 "PostCode": "8600",
-"LatLong": "56.1697,9.5451"
+"Latitude": 56.1697,
+"Longitude": 9.5451
 },
 {
 "Name": "Skanderborg",
 "PostCode": "8660",
-"LatLong": "56.0399,9.9272"
+"Latitude": 56.0399,
+"Longitude": 9.9272
 },
 {
 "Name": "Sporup",
 "PostCode": "8472",
-"LatLong": "56.2133,10.0344"
+"Latitude": 56.2133,
+"Longitude": 10.0344
 }
 ]
 }
@@ -1508,147 +1758,176 @@
 {
 "Name": "Aarhus C",
 "PostCode": "8000",
-"LatLong": "56.1567,10.2108"
+"Latitude": 56.1567,
+"Longitude": 10.2108
 },
 {
 "Name": "Aarhus N",
 "PostCode": "8200",
-"LatLong": "56.1663,10.1987"
+"Latitude": 56.1663,
+"Longitude": 10.1987
 },
 {
 "Name": "Aarhus V",
 "PostCode": "8210",
-"LatLong": "56.1663,10.1987"
+"Latitude": 56.1663,
+"Longitude": 10.1987
 },
 {
 "Name": "Åbyhøj",
 "PostCode": "8230",
-"LatLong": "56.1563,10.1653"
+"Latitude": 56.1563,
+"Longitude": 10.1653
 },
 {
 "Name": "Beder",
 "PostCode": "8330",
-"LatLong": "56.0602,10.2118"
+"Latitude": 56.0602,
+"Longitude": 10.2118
 },
 {
 "Name": "Brabrand",
 "PostCode": "8220",
-"LatLong": "56.1531,10.1057"
+"Latitude": 56.1531,
+"Longitude": 10.1057
 },
 {
 "Name": "Egå",
 "PostCode": "8250",
-"LatLong": "56.2136,10.2644"
+"Latitude": 56.2136,
+"Longitude": 10.2644
 },
 {
 "Name": "Galten",
 "PostCode": "8464",
-"LatLong": "56.35,10.05"
+"Latitude": 56.35,
+"Longitude": 10.05
 },
 {
 "Name": "Harlev J",
 "PostCode": "8462",
-"LatLong": "56.35,10.05"
+"Latitude": 56.35,
+"Longitude": 10.05
 },
 {
 "Name": "Hasselager",
 "PostCode": "8361",
-"LatLong": "56.1007,10.1065"
+"Latitude": 56.1007,
+"Longitude": 10.1065
 },
 {
 "Name": "Hinnerup",
 "PostCode": "8382",
-"LatLong": "56.2661,10.063"
+"Latitude": 56.2661,
+"Longitude": 10.063
 },
 {
 "Name": "Hjortshøj",
 "PostCode": "8530",
-"LatLong": "56.2481,10.2653"
+"Latitude": 56.2481,
+"Longitude": 10.2653
 },
 {
 "Name": "Højbjerg",
 "PostCode": "8270",
-"LatLong": "56.1112,10.2099"
+"Latitude": 56.1112,
+"Longitude": 10.2099
 },
 {
 "Name": "Hørning",
 "PostCode": "8362",
-"LatLong": "56.087,10.0372"
+"Latitude": 56.087,
+"Longitude": 10.0372
 },
 {
 "Name": "Hornslet",
 "PostCode": "8543",
-"LatLong": "56.3155,10.3204"
+"Latitude": 56.3155,
+"Longitude": 10.3204
 },
 {
 "Name": "Lystrup",
 "PostCode": "8520",
-"LatLong": "56.4984,10.4689"
+"Latitude": 56.4984,
+"Longitude": 10.4689
 },
 {
 "Name": "Malling",
 "PostCode": "8340",
-"LatLong": "56.0363,10.1963"
+"Latitude": 56.0363,
+"Longitude": 10.1963
 },
 {
 "Name": "Mårslet",
 "PostCode": "8320",
-"LatLong": "56.0636,10.1623"
+"Latitude": 56.0636,
+"Longitude": 10.1623
 },
 {
 "Name": "Odder",
 "PostCode": "8300",
-"LatLong": "55.9731,10.153"
+"Latitude": 55.9731,
+"Longitude": 10.153
 },
 {
 "Name": "Risskov",
 "PostCode": "8240",
-"LatLong": "56.1972,10.248"
+"Latitude": 56.1972,
+"Longitude": 10.248
 },
 {
 "Name": "Risskov Ø",
 "PostCode": "8245",
-"LatLong": "56.1972,10.248"
+"Latitude": 56.1972,
+"Longitude": 10.248
 },
 {
 "Name": "Sabro",
 "PostCode": "8471",
-"LatLong": "56.2133,10.0344"
+"Latitude": 56.2133,
+"Longitude": 10.0344
 },
 {
 "Name": "Skanderborg",
 "PostCode": "8660",
-"LatLong": "56.0399,9.9272"
+"Latitude": 56.0399,
+"Longitude": 9.9272
 },
 {
 "Name": "Skødstrup",
 "PostCode": "8541",
-"LatLong": "56.2635,10.3041"
+"Latitude": 56.2635,
+"Longitude": 10.3041
 },
 {
 "Name": "Solbjerg",
 "PostCode": "8355",
-"LatLong": "56.0427,10.0863"
+"Latitude": 56.0427,
+"Longitude": 10.0863
 },
 {
 "Name": "Tilst",
 "PostCode": "8381",
-"LatLong": "56.1938,10.1128"
+"Latitude": 56.1938,
+"Longitude": 10.1128
 },
 {
 "Name": "Tranbjerg J",
 "PostCode": "8310",
-"LatLong": "56.0901,10.1194"
+"Latitude": 56.0901,
+"Longitude": 10.1194
 },
 {
 "Name": "Trige",
 "PostCode": "8380",
-"LatLong": "56.2529,10.1484"
+"Latitude": 56.2529,
+"Longitude": 10.1484
 },
 {
 "Name": "Viby J",
 "PostCode": "8260",
-"LatLong": "56.1663,10.1987"
+"Latitude": 56.1663,
+"Longitude": 10.1987
 }
 ]
 }
@@ -1663,67 +1942,80 @@
 {
 "Name": "Bording",
 "PostCode": "7441",
-"LatLong": "56.1441,9.2765"
+"Latitude": 56.1441,
+"Longitude": 9.2765
 },
 {
 "Name": "Brande",
 "PostCode": "7330",
-"LatLong": "55.9381,9.1218"
+"Latitude": 55.9381,
+"Longitude": 9.1218
 },
 {
 "Name": "Bryrup",
 "PostCode": "8654",
-"LatLong": "56.0228,9.5183"
+"Latitude": 56.0228,
+"Longitude": 9.5183
 },
 {
 "Name": "Ejstrupholm",
 "PostCode": "7361",
-"LatLong": "55.9841,9.2818"
+"Latitude": 55.9841,
+"Longitude": 9.2818
 },
 {
 "Name": "Engesvang",
 "PostCode": "7442",
-"LatLong": "56.1707,9.3495"
+"Latitude": 56.1707,
+"Longitude": 9.3495
 },
 {
 "Name": "Hampen",
 "PostCode": "7362",
-"LatLong": "56.019,9.3551"
+"Latitude": 56.019,
+"Longitude": 9.3551
 },
 {
 "Name": "Herning",
 "PostCode": "7400",
-"LatLong": "56.1393,8.9738"
+"Latitude": 56.1393,
+"Longitude": 8.9738
 },
 {
 "Name": "Ikast",
 "PostCode": "7430",
-"LatLong": "56.1388,9.1577"
+"Latitude": 56.1388,
+"Longitude": 9.1577
 },
 {
 "Name": "Klovborg",
 "PostCode": "8765",
-"LatLong": "55.9319,9.491"
+"Latitude": 55.9319,
+"Longitude": 9.491
 },
 {
 "Name": "Nørre Snede",
 "PostCode": "8766",
-"LatLong": "55.9644,9.3932"
+"Latitude": 55.9644,
+"Longitude": 9.3932
 },
 {
 "Name": "Silkeborg",
 "PostCode": "8600",
-"LatLong": "56.1697,9.5451"
+"Latitude": 56.1697,
+"Longitude": 9.5451
 },
 {
 "Name": "Sunds",
 "PostCode": "7451",
-"LatLong": "56.2042,9.0127"
+"Latitude": 56.2042,
+"Longitude": 9.0127
 },
 {
 "Name": "Tørring",
 "PostCode": "7160",
-"LatLong": "55.85,9.4833"
+"Latitude": 55.85,
+"Longitude": 9.4833
 }
 ]
 }
@@ -1738,92 +2030,110 @@
 {
 "Name": "Hemmet",
 "PostCode": "6893",
-"LatLong": "55.8502,8.3756"
+"Latitude": 55.8502,
+"Longitude": 8.3756
 },
 {
 "Name": "Herning",
 "PostCode": "7400",
-"LatLong": "56.1393,8.9738"
+"Latitude": 56.1393,
+"Longitude": 8.9738
 },
 {
 "Name": "Hvide Sande",
 "PostCode": "6960",
-"LatLong": "56.0045,8.1294"
+"Latitude": 56.0045,
+"Longitude": 8.1294
 },
 {
 "Name": "Kibæk",
 "PostCode": "6933",
-"LatLong": "56.0317,8.857"
+"Latitude": 56.0317,
+"Longitude": 8.857
 },
 {
 "Name": "Lem St",
 "PostCode": "6940",
-"LatLong": "56.1419,8.4606"
+"Latitude": 56.1419,
+"Longitude": 8.4606
 },
 {
 "Name": "Nørre Nebel",
 "PostCode": "6830",
-"LatLong": "55.7798,8.2952"
+"Latitude": 55.7798,
+"Longitude": 8.2952
 },
 {
 "Name": "Ølgod",
 "PostCode": "6870",
-"LatLong": "55.8068,8.6286"
+"Latitude": 55.8068,
+"Longitude": 8.6286
 },
 {
 "Name": "Ørnhøj",
 "PostCode": "6973",
-"LatLong": "56.1987,8.5645"
+"Latitude": 56.1987,
+"Longitude": 8.5645
 },
 {
 "Name": "Ringkøbing",
 "PostCode": "6950",
-"LatLong": "56.0901,8.244"
+"Latitude": 56.0901,
+"Longitude": 8.244
 },
 {
 "Name": "Skjern",
 "PostCode": "6900",
-"LatLong": "55.95,8.5"
+"Latitude": 55.95,
+"Longitude": 8.5
 },
 {
 "Name": "Sønder Felding",
 "PostCode": "7280",
-"LatLong": "55.9376,8.7794"
+"Latitude": 55.9376,
+"Longitude": 8.7794
 },
 {
 "Name": "Spjald",
 "PostCode": "6971",
-"LatLong": "56.1286,8.5084"
+"Latitude": 56.1286,
+"Longitude": 8.5084
 },
 {
 "Name": "Stakroge",
 "PostCode": "7270",
-"LatLong": "55.8901,8.8473"
+"Latitude": 55.8901,
+"Longitude": 8.8473
 },
 {
 "Name": "Tarm",
 "PostCode": "6880",
-"LatLong": "55.9086,8.5304"
+"Latitude": 55.9086,
+"Longitude": 8.5304
 },
 {
 "Name": "Tim",
 "PostCode": "6980",
-"LatLong": "56.1956,8.3079"
+"Latitude": 56.1956,
+"Longitude": 8.3079
 },
 {
 "Name": "Ulfborg",
 "PostCode": "6990",
-"LatLong": "56.2673,8.3217"
+"Latitude": 56.2673,
+"Longitude": 8.3217
 },
 {
 "Name": "Videbæk",
 "PostCode": "6920",
-"LatLong": "56.0876,8.6285"
+"Latitude": 56.0876,
+"Longitude": 8.6285
 },
 {
 "Name": "Vildbjerg",
 "PostCode": "7480",
-"LatLong": "56.2,8.7667"
+"Latitude": 56.2,
+"Longitude": 8.7667
 }
 ]
 }
@@ -1838,87 +2148,104 @@
 {
 "Name": "Barrit",
 "PostCode": "7150",
-"LatLong": "55.7118,9.8904"
+"Latitude": 55.7118,
+"Longitude": 9.8904
 },
 {
 "Name": "Daugård",
 "PostCode": "8721",
-"LatLong": "55.7351,9.703"
+"Latitude": 55.7351,
+"Longitude": 9.703
 },
 {
 "Name": "Flemming",
 "PostCode": "8762",
-"LatLong": "55.8687,9.6675"
+"Latitude": 55.8687,
+"Longitude": 9.6675
 },
 {
 "Name": "Give",
 "PostCode": "7323",
-"LatLong": "55.8398,9.25"
+"Latitude": 55.8398,
+"Longitude": 9.25
 },
 {
 "Name": "Hedensted",
 "PostCode": "8722",
-"LatLong": "55.7704,9.7011"
+"Latitude": 55.7704,
+"Longitude": 9.7011
 },
 {
 "Name": "Hornsyld",
 "PostCode": "8783",
-"LatLong": "55.7526,9.8512"
+"Latitude": 55.7526,
+"Longitude": 9.8512
 },
 {
 "Name": "Horsens",
 "PostCode": "8700",
-"LatLong": "55.8607,9.8503"
+"Latitude": 55.8607,
+"Longitude": 9.8503
 },
 {
 "Name": "Juelsminde",
 "PostCode": "7130",
-"LatLong": "55.7088,10.0167"
+"Latitude": 55.7088,
+"Longitude": 10.0167
 },
 {
 "Name": "Løsning",
 "PostCode": "8723",
-"LatLong": "55.8024,9.6954"
+"Latitude": 55.8024,
+"Longitude": 9.6954
 },
 {
 "Name": "Nørre Snede",
 "PostCode": "8766",
-"LatLong": "55.9644,9.3932"
+"Latitude": 55.9644,
+"Longitude": 9.3932
 },
 {
 "Name": "Rask Mølle",
 "PostCode": "8763",
-"LatLong": "55.8721,9.6135"
+"Latitude": 55.8721,
+"Longitude": 9.6135
 },
 {
 "Name": "Stenderup",
 "PostCode": "8781",
-"LatLong": "55.7921,9.8097"
+"Latitude": 55.7921,
+"Longitude": 9.8097
 },
 {
 "Name": "Stouby",
 "PostCode": "7140",
-"LatLong": "55.7025,9.7938"
+"Latitude": 55.7025,
+"Longitude": 9.7938
 },
 {
 "Name": "Tørring",
 "PostCode": "7160",
-"LatLong": "55.85,9.4833"
+"Latitude": 55.85,
+"Longitude": 9.4833
 },
 {
 "Name": "Uldum",
 "PostCode": "7171",
-"LatLong": "55.8471,9.5896"
+"Latitude": 55.8471,
+"Longitude": 9.5896
 },
 {
 "Name": "Vejle",
 "PostCode": "7100",
-"LatLong": "55.7093,9.5357"
+"Latitude": 55.7093,
+"Longitude": 9.5357
 },
 {
 "Name": "Vejle Øst",
 "PostCode": "7120",
-"LatLong": "55.758,9.4862"
+"Latitude": 55.758,
+"Longitude": 9.4862
 }
 ]
 }
@@ -1933,32 +2260,38 @@
 {
 "Name": "Fur",
 "PostCode": "7884",
-"LatLong": "56.5537,8.9353"
+"Latitude": 56.5537,
+"Longitude": 8.9353
 },
 {
 "Name": "Højslev",
 "PostCode": "7840",
-"LatLong": "56.5856,9.1364"
+"Latitude": 56.5856,
+"Longitude": 9.1364
 },
 {
 "Name": "Roslev",
 "PostCode": "7870",
-"LatLong": "56.7039,8.9864"
+"Latitude": 56.7039,
+"Longitude": 8.9864
 },
 {
 "Name": "Skive",
 "PostCode": "7800",
-"LatLong": "56.5638,9.0402"
+"Latitude": 56.5638,
+"Longitude": 9.0402
 },
 {
 "Name": "Spøttrup",
 "PostCode": "7860",
-"LatLong": "56.623,8.7447"
+"Latitude": 56.623,
+"Longitude": 8.7447
 },
 {
 "Name": "Vinderup",
 "PostCode": "7830",
-"LatLong": "56.4751,8.7908"
+"Latitude": 56.4751,
+"Longitude": 8.7908
 }
 ]
 }
@@ -1973,92 +2306,110 @@
 {
 "Name": "Aalestrup",
 "PostCode": "9620",
-"LatLong": "56.6947,9.4934"
+"Latitude": 56.6947,
+"Longitude": 9.4934
 },
 {
 "Name": "Ans By",
 "PostCode": "8643",
-"LatLong": "56.1769,9.7758"
+"Latitude": 56.1769,
+"Longitude": 9.7758
 },
 {
 "Name": "Bjerringbro",
 "PostCode": "8850",
-"LatLong": "56.378,9.6607"
+"Latitude": 56.378,
+"Longitude": 9.6607
 },
 {
 "Name": "Gedsted",
 "PostCode": "9631",
-"LatLong": "56.6892,9.3367"
+"Latitude": 56.6892,
+"Longitude": 9.3367
 },
 {
 "Name": "Haderup",
 "PostCode": "7540",
-"LatLong": "56.3896,8.9943"
+"Latitude": 56.3896,
+"Longitude": 8.9943
 },
 {
 "Name": "Hobro",
 "PostCode": "9500",
-"LatLong": "56.6431,9.7903"
+"Latitude": 56.6431,
+"Longitude": 9.7903
 },
 {
 "Name": "Højslev",
 "PostCode": "7840",
-"LatLong": "56.5856,9.1364"
+"Latitude": 56.5856,
+"Longitude": 9.1364
 },
 {
 "Name": "Karup J",
 "PostCode": "7470",
-"LatLong": "56.1757,9.0321"
+"Latitude": 56.1757,
+"Longitude": 9.0321
 },
 {
 "Name": "Kjellerup",
 "PostCode": "8620",
-"LatLong": "56.2858,9.4353"
+"Latitude": 56.2858,
+"Longitude": 9.4353
 },
 {
 "Name": "Løgstrup",
 "PostCode": "8831",
-"LatLong": "56.5103,9.3354"
+"Latitude": 56.5103,
+"Longitude": 9.3354
 },
 {
 "Name": "Møldrup",
 "PostCode": "9632",
-"LatLong": "56.6167,9.5011"
+"Latitude": 56.6167,
+"Longitude": 9.5011
 },
 {
 "Name": "Rødkærsbro",
 "PostCode": "8840",
-"LatLong": "56.3531,9.5051"
+"Latitude": 56.3531,
+"Longitude": 9.5051
 },
 {
 "Name": "Skals",
 "PostCode": "8832",
-"LatLong": "56.5568,9.4038"
+"Latitude": 56.5568,
+"Longitude": 9.4038
 },
 {
 "Name": "Skive",
 "PostCode": "7800",
-"LatLong": "56.5638,9.0402"
+"Latitude": 56.5638,
+"Longitude": 9.0402
 },
 {
 "Name": "Stoholm Jyll",
 "PostCode": "7850",
-"LatLong": "56.5537,8.9353"
+"Latitude": 56.5537,
+"Longitude": 8.9353
 },
 {
 "Name": "Tjele",
 "PostCode": "8830",
-"LatLong": "56.5118,9.6137"
+"Latitude": 56.5118,
+"Longitude": 9.6137
 },
 {
 "Name": "Ulstrup",
 "PostCode": "8860",
-"LatLong": "56.3899,9.7935"
+"Latitude": 56.3899,
+"Longitude": 9.7935
 },
 {
 "Name": "Viborg",
 "PostCode": "8800",
-"LatLong": "56.4532,9.402"
+"Latitude": 56.4532,
+"Longitude": 9.402
 }
 ]
 }
@@ -2079,42 +2430,50 @@
 {
 "Name": "Aarup",
 "PostCode": "5560",
-"LatLong": "55.3732,10.0413"
+"Latitude": 55.3732,
+"Longitude": 10.0413
 },
 {
 "Name": "Asperup",
 "PostCode": "5466",
-"LatLong": "55.4843,9.908"
+"Latitude": 55.4843,
+"Longitude": 9.908
 },
 {
 "Name": "Brenderup Fyn",
 "PostCode": "5464",
-"LatLong": "55.4663,10.0398"
+"Latitude": 55.4663,
+"Longitude": 10.0398
 },
 {
 "Name": "Ejby",
 "PostCode": "5592",
-"LatLong": "55.4301,9.9297"
+"Latitude": 55.4301,
+"Longitude": 9.9297
 },
 {
 "Name": "Gelsted",
 "PostCode": "5591",
-"LatLong": "55.3988,9.9731"
+"Latitude": 55.3988,
+"Longitude": 9.9731
 },
 {
 "Name": "Harndrup",
 "PostCode": "5463",
-"LatLong": "55.4666,10.0216"
+"Latitude": 55.4666,
+"Longitude": 10.0216
 },
 {
 "Name": "Middelfart",
 "PostCode": "5500",
-"LatLong": "55.382,10.2694"
+"Latitude": 55.382,
+"Longitude": 10.2694
 },
 {
 "Name": "Nørre Aaby",
 "PostCode": "5580",
-"LatLong": "55.4611,9.8794"
+"Latitude": 55.4611,
+"Longitude": 9.8794
 }
 ]
 }
@@ -2129,42 +2488,50 @@
 {
 "Name": "Aarup",
 "PostCode": "5560",
-"LatLong": "55.3732,10.0413"
+"Latitude": 55.3732,
+"Longitude": 10.0413
 },
 {
 "Name": "Assens",
 "PostCode": "5610",
-"LatLong": "55.2702,9.9008"
+"Latitude": 55.2702,
+"Longitude": 9.9008
 },
 {
 "Name": "Ebberup",
 "PostCode": "5631",
-"LatLong": "55.2433,9.9821"
+"Latitude": 55.2433,
+"Longitude": 9.9821
 },
 {
 "Name": "Glamsbjerg",
 "PostCode": "5620",
-"LatLong": "55.2724,10.1048"
+"Latitude": 55.2724,
+"Longitude": 10.1048
 },
 {
 "Name": "Haarby",
 "PostCode": "5683",
-"LatLong": "55.215,10.1226"
+"Latitude": 55.215,
+"Longitude": 10.1226
 },
 {
 "Name": "Millinge",
 "PostCode": "5642",
-"LatLong": "55.135,10.1994"
+"Latitude": 55.135,
+"Longitude": 10.1994
 },
 {
 "Name": "Tommerup",
 "PostCode": "5690",
-"LatLong": "55.3195,10.2066"
+"Latitude": 55.3195,
+"Longitude": 10.2066
 },
 {
 "Name": "Vissenbjerg",
 "PostCode": "5492",
-"LatLong": "55.3848,10.1378"
+"Latitude": 55.3848,
+"Longitude": 10.1378
 }
 ]
 }
@@ -2179,67 +2546,80 @@
 {
 "Name": "Årslev",
 "PostCode": "5792",
-"LatLong": "55.3035,10.4643"
+"Latitude": 55.3035,
+"Longitude": 10.4643
 },
 {
 "Name": "Broby",
 "PostCode": "5672",
-"LatLong": "55.2107,10.1198"
+"Latitude": 55.2107,
+"Longitude": 10.1198
 },
 {
 "Name": "Faaborg",
 "PostCode": "5600",
-"LatLong": "55.0951,10.2423"
+"Latitude": 55.0951,
+"Longitude": 10.2423
 },
 {
 "Name": "Ferritslev Fyn",
 "PostCode": "5863",
-"LatLong": "55.2064,10.6852"
+"Latitude": 55.2064,
+"Longitude": 10.6852
 },
 {
 "Name": "Gislev",
 "PostCode": "5854",
-"LatLong": "55.2181,10.6022"
+"Latitude": 55.2181,
+"Longitude": 10.6022
 },
 {
 "Name": "Kværndrup",
 "PostCode": "5772",
-"LatLong": "55.1775,10.5255"
+"Latitude": 55.1775,
+"Longitude": 10.5255
 },
 {
 "Name": "Langeskov",
 "PostCode": "5550",
-"LatLong": "55.3565,10.5845"
+"Latitude": 55.3565,
+"Longitude": 10.5845
 },
 {
 "Name": "Millinge",
 "PostCode": "5642",
-"LatLong": "55.135,10.1994"
+"Latitude": 55.135,
+"Longitude": 10.1994
 },
 {
 "Name": "Ørbæk",
 "PostCode": "5853",
-"LatLong": "55.2585,10.6708"
+"Latitude": 55.2585,
+"Longitude": 10.6708
 },
 {
 "Name": "Ringe",
 "PostCode": "5750",
-"LatLong": "55.2451,10.4706"
+"Latitude": 55.2451,
+"Longitude": 10.4706
 },
 {
 "Name": "Ryslinge",
 "PostCode": "5856",
-"LatLong": "55.2416,10.5367"
+"Latitude": 55.2416,
+"Longitude": 10.5367
 },
 {
 "Name": "Stenstrup",
 "PostCode": "5771",
-"LatLong": "55.1335,10.5047"
+"Latitude": 55.1335,
+"Longitude": 10.5047
 },
 {
 "Name": "Vester Skerninge",
 "PostCode": "5762",
-"LatLong": "55.0732,10.4554"
+"Latitude": 55.0732,
+"Longitude": 10.4554
 }
 ]
 }
@@ -2254,52 +2634,62 @@
 {
 "Name": "Dalby",
 "PostCode": "5380",
-"LatLong": "55.517,10.6592"
+"Latitude": 55.517,
+"Longitude": 10.6592
 },
 {
 "Name": "Ferritslev Fyn",
 "PostCode": "5863",
-"LatLong": "55.2064,10.6852"
+"Latitude": 55.2064,
+"Longitude": 10.6852
 },
 {
 "Name": "Kerteminde",
 "PostCode": "5300",
-"LatLong": "55.449,10.6577"
+"Latitude": 55.449,
+"Longitude": 10.6577
 },
 {
 "Name": "Langeskov",
 "PostCode": "5550",
-"LatLong": "55.3565,10.5845"
+"Latitude": 55.3565,
+"Longitude": 10.5845
 },
 {
 "Name": "Marslev",
 "PostCode": "5290",
-"LatLong": "55.3902,10.5201"
+"Latitude": 55.3902,
+"Longitude": 10.5201
 },
 {
 "Name": "Martofte",
 "PostCode": "5390",
-"LatLong": "55.5464,10.6578"
+"Latitude": 55.5464,
+"Longitude": 10.6578
 },
 {
 "Name": "Mesinge",
 "PostCode": "5370",
-"LatLong": "55.4986,10.647"
+"Latitude": 55.4986,
+"Longitude": 10.647
 },
 {
 "Name": "Munkebo",
 "PostCode": "5330",
-"LatLong": "55.4618,10.5558"
+"Latitude": 55.4618,
+"Longitude": 10.5558
 },
 {
 "Name": "Rynkeby",
 "PostCode": "5350",
-"LatLong": "55.4008,10.6137"
+"Latitude": 55.4008,
+"Longitude": 10.6137
 },
 {
 "Name": "Ullerslev",
 "PostCode": "5540",
-"LatLong": "55.3617,10.6519"
+"Latitude": 55.3617,
+"Longitude": 10.6519
 }
 ]
 }
@@ -2314,32 +2704,38 @@
 {
 "Name": "Frørup",
 "PostCode": "5871",
-"LatLong": "55.2424,10.7156"
+"Latitude": 55.2424,
+"Longitude": 10.7156
 },
 {
 "Name": "Hesselager",
 "PostCode": "5874",
-"LatLong": "55.1755,10.7452"
+"Latitude": 55.1755,
+"Longitude": 10.7452
 },
 {
 "Name": "Langeskov",
 "PostCode": "5550",
-"LatLong": "55.3565,10.5845"
+"Latitude": 55.3565,
+"Longitude": 10.5845
 },
 {
 "Name": "Nyborg",
 "PostCode": "5800",
-"LatLong": "55.3127,10.7896"
+"Latitude": 55.3127,
+"Longitude": 10.7896
 },
 {
 "Name": "Ørbæk",
 "PostCode": "5853",
-"LatLong": "55.2585,10.6708"
+"Latitude": 55.2585,
+"Longitude": 10.6708
 },
 {
 "Name": "Ullerslev",
 "PostCode": "5540",
-"LatLong": "55.3617,10.6519"
+"Latitude": 55.3617,
+"Longitude": 10.6519
 }
 ]
 }
@@ -2354,67 +2750,80 @@
 {
 "Name": "Agedrup",
 "PostCode": "5320",
-"LatLong": "55.4324,10.4888"
+"Latitude": 55.4324,
+"Longitude": 10.4888
 },
 {
 "Name": "Blommenslyst",
 "PostCode": "5491",
-"LatLong": "55.3895,10.2629"
+"Latitude": 55.3895,
+"Longitude": 10.2629
 },
 {
 "Name": "Munkebo",
 "PostCode": "5330",
-"LatLong": "55.4618,10.5558"
+"Latitude": 55.4618,
+"Longitude": 10.5558
 },
 {
 "Name": "Odense C",
 "PostCode": "5000",
-"LatLong": "55.3959,10.3883"
+"Latitude": 55.3959,
+"Longitude": 10.3883
 },
 {
 "Name": "Odense M",
 "PostCode": "5230",
-"LatLong": "55.3902,10.5201"
+"Latitude": 55.3902,
+"Longitude": 10.5201
 },
 {
 "Name": "Odense N",
 "PostCode": "5270",
-"LatLong": "55.3902,10.5201"
+"Latitude": 55.3902,
+"Longitude": 10.5201
 },
 {
 "Name": "Odense NØ",
 "PostCode": "5240",
-"LatLong": "55.3902,10.5201"
+"Latitude": 55.3902,
+"Longitude": 10.5201
 },
 {
 "Name": "Odense NV",
 "PostCode": "5210",
-"LatLong": "55.3902,10.5201"
+"Latitude": 55.3902,
+"Longitude": 10.5201
 },
 {
 "Name": "Odense S",
 "PostCode": "5260",
-"LatLong": "55.3902,10.5201"
+"Latitude": 55.3902,
+"Longitude": 10.5201
 },
 {
 "Name": "Odense SØ",
 "PostCode": "5220",
-"LatLong": "55.3902,10.5201"
+"Latitude": 55.3902,
+"Longitude": 10.5201
 },
 {
 "Name": "Odense SV",
 "PostCode": "5250",
-"LatLong": "55.3902,10.5201"
+"Latitude": 55.3902,
+"Longitude": 10.5201
 },
 {
 "Name": "Odense V",
 "PostCode": "5200",
-"LatLong": "55.3902,10.5201"
+"Latitude": 55.3902,
+"Longitude": 10.5201
 },
 {
 "Name": "Vissenbjerg",
 "PostCode": "5492",
-"LatLong": "55.3848,10.1378"
+"Latitude": 55.3848,
+"Longitude": 10.1378
 }
 ]
 }
@@ -2429,57 +2838,68 @@
 {
 "Name": "Gislev",
 "PostCode": "5854",
-"LatLong": "55.2181,10.6022"
+"Latitude": 55.2181,
+"Longitude": 10.6022
 },
 {
 "Name": "Gudbjerg Sydfyn",
 "PostCode": "5892",
-"LatLong": "55.2064,10.6852"
+"Latitude": 55.2064,
+"Longitude": 10.6852
 },
 {
 "Name": "Gudme",
 "PostCode": "5884",
-"LatLong": "55.1498,10.708"
+"Latitude": 55.1498,
+"Longitude": 10.708
 },
 {
 "Name": "Hesselager",
 "PostCode": "5874",
-"LatLong": "55.1755,10.7452"
+"Latitude": 55.1755,
+"Longitude": 10.7452
 },
 {
 "Name": "Kværndrup",
 "PostCode": "5772",
-"LatLong": "55.1775,10.5255"
+"Latitude": 55.1775,
+"Longitude": 10.5255
 },
 {
 "Name": "Oure",
 "PostCode": "5883",
-"LatLong": "55.1197,10.7234"
+"Latitude": 55.1197,
+"Longitude": 10.7234
 },
 {
 "Name": "Skårup Fyn",
 "PostCode": "5881",
-"LatLong": "55.1251,10.7146"
+"Latitude": 55.1251,
+"Longitude": 10.7146
 },
 {
 "Name": "Stenstrup",
 "PostCode": "5771",
-"LatLong": "55.1335,10.5047"
+"Latitude": 55.1335,
+"Longitude": 10.5047
 },
 {
 "Name": "Svendborg",
 "PostCode": "5700",
-"LatLong": "55.0598,10.6068"
+"Latitude": 55.0598,
+"Longitude": 10.6068
 },
 {
 "Name": "Vejstrup",
 "PostCode": "5882",
-"LatLong": "55.1059,10.7124"
+"Latitude": 55.1059,
+"Longitude": 10.7124
 },
 {
 "Name": "Vester Skerninge",
 "PostCode": "5762",
-"LatLong": "55.0732,10.4554"
+"Latitude": 55.0732,
+"Longitude": 10.4554
 }
 ]
 }
@@ -2494,52 +2914,62 @@
 {
 "Name": "Aarup",
 "PostCode": "5560",
-"LatLong": "55.3732,10.0413"
+"Latitude": 55.3732,
+"Longitude": 10.0413
 },
 {
 "Name": "Blommenslyst",
 "PostCode": "5491",
-"LatLong": "55.3895,10.2629"
+"Latitude": 55.3895,
+"Longitude": 10.2629
 },
 {
 "Name": "Bogense",
 "PostCode": "5400",
-"LatLong": "55.5669,10.0886"
+"Latitude": 55.5669,
+"Longitude": 10.0886
 },
 {
 "Name": "Morud",
 "PostCode": "5462",
-"LatLong": "55.4481,10.1896"
+"Latitude": 55.4481,
+"Longitude": 10.1896
 },
 {
 "Name": "Odense N",
 "PostCode": "5270",
-"LatLong": "55.3902,10.5201"
+"Latitude": 55.3902,
+"Longitude": 10.5201
 },
 {
 "Name": "Otterup",
 "PostCode": "5450",
-"LatLong": "55.5153,10.3976"
+"Latitude": 55.5153,
+"Longitude": 10.3976
 },
 {
 "Name": "Skamby",
 "PostCode": "5485",
-"LatLong": "55.5208,10.2749"
+"Latitude": 55.5208,
+"Longitude": 10.2749
 },
 {
 "Name": "Søndersø",
 "PostCode": "5471",
-"LatLong": "55.4853,10.2554"
+"Latitude": 55.4853,
+"Longitude": 10.2554
 },
 {
 "Name": "Veflinge",
 "PostCode": "5474",
-"LatLong": "55.4755,10.1602"
+"Latitude": 55.4755,
+"Longitude": 10.1602
 },
 {
 "Name": "Vissenbjerg",
 "PostCode": "5492",
-"LatLong": "55.3848,10.1378"
+"Latitude": 55.3848,
+"Longitude": 10.1378
 }
 ]
 }
@@ -2554,22 +2984,26 @@
 {
 "Name": "Bagenkop",
 "PostCode": "5935",
-"LatLong": "54.7498,10.676"
+"Latitude": 54.7498,
+"Longitude": 10.676
 },
 {
 "Name": "Humble",
 "PostCode": "5932",
-"LatLong": "54.8297,10.6996"
+"Latitude": 54.8297,
+"Longitude": 10.6996
 },
 {
 "Name": "Rudkøbing",
 "PostCode": "5900",
-"LatLong": "54.9364,10.7102"
+"Latitude": 54.9364,
+"Longitude": 10.7102
 },
 {
 "Name": "Tranekær",
 "PostCode": "5953",
-"LatLong": "54.9976,10.8438"
+"Latitude": 54.9976,
+"Longitude": 10.8438
 }
 ]
 }
@@ -2584,17 +3018,20 @@
 {
 "Name": "Ærøskøbing",
 "PostCode": "5970",
-"LatLong": "54.888,10.4112"
+"Latitude": 54.888,
+"Longitude": 10.4112
 },
 {
 "Name": "Marstal",
 "PostCode": "5960",
-"LatLong": "54.8562,10.5173"
+"Latitude": 54.8562,
+"Longitude": 10.5173
 },
 {
 "Name": "Søby Ærø",
 "PostCode": "5985",
-"LatLong": "54.8763,10.643"
+"Latitude": 54.8763,
+"Longitude": 10.643
 }
 ]
 }
@@ -2609,52 +3046,62 @@
 {
 "Name": "Agerskov",
 "PostCode": "6534",
-"LatLong": "55.1289,9.1355"
+"Latitude": 55.1289,
+"Longitude": 9.1355
 },
 {
 "Name": "Bevtoft",
 "PostCode": "6541",
-"LatLong": "55.2018,9.2147"
+"Latitude": 55.2018,
+"Longitude": 9.2147
 },
 {
 "Name": "Christiansfeld",
 "PostCode": "6070",
-"LatLong": "55.3582,9.487"
+"Latitude": 55.3582,
+"Longitude": 9.487
 },
 {
 "Name": "Gram",
 "PostCode": "6510",
-"LatLong": "55.2895,9.0491"
+"Latitude": 55.2895,
+"Longitude": 9.0491
 },
 {
 "Name": "Haderslev",
 "PostCode": "6100",
-"LatLong": "55.2538,9.4898"
+"Latitude": 55.2538,
+"Longitude": 9.4898
 },
 {
 "Name": "Hejls",
 "PostCode": "6094",
-"LatLong": "55.3831,9.5765"
+"Latitude": 55.3831,
+"Longitude": 9.5765
 },
 {
 "Name": "Rødding",
 "PostCode": "6630",
-"LatLong": "55.3657,9.0632"
+"Latitude": 55.3657,
+"Longitude": 9.0632
 },
 {
 "Name": "Sommersted",
 "PostCode": "6560",
-"LatLong": "55.3187,9.2956"
+"Latitude": 55.3187,
+"Longitude": 9.2956
 },
 {
 "Name": "Toftlund",
 "PostCode": "6520",
-"LatLong": "55.1886,9.0693"
+"Latitude": 55.1886,
+"Longitude": 9.0693
 },
 {
 "Name": "Vojens",
 "PostCode": "6500",
-"LatLong": "55.2464,9.306"
+"Latitude": 55.2464,
+"Longitude": 9.306
 }
 ]
 }
@@ -2669,42 +3116,50 @@
 {
 "Name": "Ansager",
 "PostCode": "6823",
-"LatLong": "55.7031,8.7586"
+"Latitude": 55.7031,
+"Longitude": 8.7586
 },
 {
 "Name": "Billund",
 "PostCode": "7190",
-"LatLong": "55.7335,9.1079"
+"Latitude": 55.7335,
+"Longitude": 9.1079
 },
 {
 "Name": "Grindsted",
 "PostCode": "7200",
-"LatLong": "55.754,8.9123"
+"Latitude": 55.754,
+"Longitude": 8.9123
 },
 {
 "Name": "Hejnsvig",
 "PostCode": "7250",
-"LatLong": "55.6953,8.9973"
+"Latitude": 55.6953,
+"Longitude": 8.9973
 },
 {
 "Name": "Hovborg",
 "PostCode": "6682",
-"LatLong": "55.6081,8.9396"
+"Latitude": 55.6081,
+"Longitude": 8.9396
 },
 {
 "Name": "Sønder Omme",
 "PostCode": "7260",
-"LatLong": "55.8398,8.8972"
+"Latitude": 55.8398,
+"Longitude": 8.8972
 },
 {
 "Name": "Stakroge",
 "PostCode": "7270",
-"LatLong": "55.8901,8.8473"
+"Latitude": 55.8901,
+"Longitude": 8.8473
 },
 {
 "Name": "Vorbasse",
 "PostCode": "6623",
-"LatLong": "55.6299,9.0824"
+"Latitude": 55.6299,
+"Longitude": 9.0824
 }
 ]
 }
@@ -2719,37 +3174,44 @@
 {
 "Name": "Augustenborg",
 "PostCode": "6440",
-"LatLong": "54.952,9.8722"
+"Latitude": 54.952,
+"Longitude": 9.8722
 },
 {
 "Name": "Broager",
 "PostCode": "6310",
-"LatLong": "54.8874,9.681"
+"Latitude": 54.8874,
+"Longitude": 9.681
 },
 {
 "Name": "Egernsund",
 "PostCode": "6320",
-"LatLong": "54.9054,9.6071"
+"Latitude": 54.9054,
+"Longitude": 9.6071
 },
 {
 "Name": "Gråsten",
 "PostCode": "6300",
-"LatLong": "54.9192,9.5952"
+"Latitude": 54.9192,
+"Longitude": 9.5952
 },
 {
 "Name": "Nordborg",
 "PostCode": "6430",
-"LatLong": "55.0573,9.7408"
+"Latitude": 55.0573,
+"Longitude": 9.7408
 },
 {
 "Name": "Sønderborg",
 "PostCode": "6400",
-"LatLong": "54.9093,9.8074"
+"Latitude": 54.9093,
+"Longitude": 9.8074
 },
 {
 "Name": "Sydals",
 "PostCode": "6470",
-"LatLong": "54.994,9.7903"
+"Latitude": 54.994,
+"Longitude": 9.7903
 }
 ]
 }
@@ -2764,52 +3226,62 @@
 {
 "Name": "Agerskov",
 "PostCode": "6534",
-"LatLong": "55.1289,9.1355"
+"Latitude": 55.1289,
+"Longitude": 9.1355
 },
 {
 "Name": "Bevtoft",
 "PostCode": "6541",
-"LatLong": "55.2018,9.2147"
+"Latitude": 55.2018,
+"Longitude": 9.2147
 },
 {
 "Name": "Branderup J",
 "PostCode": "6535",
-"LatLong": "55.1289,9.1355"
+"Latitude": 55.1289,
+"Longitude": 9.1355
 },
 {
 "Name": "Bredebro",
 "PostCode": "6261",
-"LatLong": "55.0548,8.8293"
+"Latitude": 55.0548,
+"Longitude": 8.8293
 },
 {
 "Name": "Højer",
 "PostCode": "6280",
-"LatLong": "54.9634,8.6985"
+"Latitude": 54.9634,
+"Longitude": 8.6985
 },
 {
 "Name": "Løgumkloster",
 "PostCode": "6240",
-"LatLong": "55.0594,8.9551"
+"Latitude": 55.0594,
+"Longitude": 8.9551
 },
 {
 "Name": "Rømø",
 "PostCode": "6792",
-"LatLong": "55.1132,8.5428"
+"Latitude": 55.1132,
+"Longitude": 8.5428
 },
 {
 "Name": "Skærbæk",
 "PostCode": "6780",
-"LatLong": "55.1574,8.769"
+"Latitude": 55.1574,
+"Longitude": 8.769
 },
 {
 "Name": "Toftlund",
 "PostCode": "6520",
-"LatLong": "55.1886,9.0693"
+"Latitude": 55.1886,
+"Longitude": 9.0693
 },
 {
 "Name": "Tønder",
 "PostCode": "6270",
-"LatLong": "54.9331,8.8667"
+"Latitude": 54.9331,
+"Longitude": 8.8667
 }
 ]
 }
@@ -2824,62 +3296,74 @@
 {
 "Name": "Årre",
 "PostCode": "6818",
-"LatLong": "55.5725,8.6675"
+"Latitude": 55.5725,
+"Longitude": 8.6675
 },
 {
 "Name": "Bramming",
 "PostCode": "6740",
-"LatLong": "55.4695,8.7001"
+"Latitude": 55.4695,
+"Longitude": 8.7001
 },
 {
 "Name": "Esbjerg",
 "PostCode": "6700",
-"LatLong": "55.4703,8.4519"
+"Latitude": 55.4703,
+"Longitude": 8.4519
 },
 {
 "Name": "Esbjerg N",
 "PostCode": "6715",
-"LatLong": "55.4187,8.6685"
+"Latitude": 55.4187,
+"Longitude": 8.6685
 },
 {
 "Name": "Esbjerg Ø",
 "PostCode": "6705",
-"LatLong": "55.4703,8.4519"
+"Latitude": 55.4703,
+"Longitude": 8.4519
 },
 {
 "Name": "Esbjerg V",
 "PostCode": "6710",
-"LatLong": "55.4187,8.6685"
+"Latitude": 55.4187,
+"Longitude": 8.6685
 },
 {
 "Name": "Føvling",
 "PostCode": "6683",
-"LatLong": "55.4521,8.9396"
+"Latitude": 55.4521,
+"Longitude": 8.9396
 },
 {
 "Name": "Gørding",
 "PostCode": "6690",
-"LatLong": "55.4746,8.7974"
+"Latitude": 55.4746,
+"Longitude": 8.7974
 },
 {
 "Name": "Gredstedbro",
 "PostCode": "6771",
-"LatLong": "55.3983,8.7391"
+"Latitude": 55.3983,
+"Longitude": 8.7391
 },
 {
 "Name": "Holsted",
 "PostCode": "6670",
-"LatLong": "55.5109,8.9187"
+"Latitude": 55.5109,
+"Longitude": 8.9187
 },
 {
 "Name": "Ribe",
 "PostCode": "6760",
-"LatLong": "55.3305,8.7697"
+"Latitude": 55.3305,
+"Longitude": 8.7697
 },
 {
 "Name": "Tjæreborg",
 "PostCode": "6731",
-"LatLong": "55.4646,8.5797"
+"Latitude": 55.4646,
+"Longitude": 8.5797
 }
 ]
 }
@@ -2894,7 +3378,8 @@
 {
 "Name": "Fanø",
 "PostCode": "6720",
-"LatLong": "55.435,8.3679"
+"Latitude": 55.435,
+"Longitude": 8.3679
 }
 ]
 }
@@ -2909,87 +3394,104 @@
 {
 "Name": "Agerbæk",
 "PostCode": "6753",
-"LatLong": "55.6,8.8"
+"Latitude": 55.6,
+"Longitude": 8.8
 },
 {
 "Name": "Ansager",
 "PostCode": "6823",
-"LatLong": "55.7031,8.7586"
+"Latitude": 55.7031,
+"Longitude": 8.7586
 },
 {
 "Name": "Årre",
 "PostCode": "6818",
-"LatLong": "55.5725,8.6675"
+"Latitude": 55.5725,
+"Longitude": 8.6675
 },
 {
 "Name": "Billum",
 "PostCode": "6852",
-"LatLong": "55.6167,8.3333"
+"Latitude": 55.6167,
+"Longitude": 8.3333
 },
 {
 "Name": "Blåvand",
 "PostCode": "6857",
-"LatLong": "55.5529,8.1198"
+"Latitude": 55.5529,
+"Longitude": 8.1198
 },
 {
 "Name": "Grindsted",
 "PostCode": "7200",
-"LatLong": "55.754,8.9123"
+"Latitude": 55.754,
+"Longitude": 8.9123
 },
 {
 "Name": "Henne",
 "PostCode": "6854",
-"LatLong": "55.7317,8.2209"
+"Latitude": 55.7317,
+"Longitude": 8.2209
 },
 {
 "Name": "Hovborg",
 "PostCode": "6682",
-"LatLong": "55.6081,8.9396"
+"Latitude": 55.6081,
+"Longitude": 8.9396
 },
 {
 "Name": "Janderup Vestj",
 "PostCode": "6851",
-"LatLong": "55.6336,8.2018"
+"Latitude": 55.6336,
+"Longitude": 8.2018
 },
 {
 "Name": "Nørre Nebel",
 "PostCode": "6830",
-"LatLong": "55.7798,8.2952"
+"Latitude": 55.7798,
+"Longitude": 8.2952
 },
 {
 "Name": "Oksbøl",
 "PostCode": "6840",
-"LatLong": "55.6268,8.2876"
+"Latitude": 55.6268,
+"Longitude": 8.2876
 },
 {
 "Name": "Ølgod",
 "PostCode": "6870",
-"LatLong": "55.8068,8.6286"
+"Latitude": 55.8068,
+"Longitude": 8.6286
 },
 {
 "Name": "Outrup",
 "PostCode": "6855",
-"LatLong": "55.6336,8.2018"
+"Latitude": 55.6336,
+"Longitude": 8.2018
 },
 {
 "Name": "Tarm",
 "PostCode": "6880",
-"LatLong": "55.9086,8.5304"
+"Latitude": 55.9086,
+"Longitude": 8.5304
 },
 {
 "Name": "Tistrup",
 "PostCode": "6862",
-"LatLong": "55.7172,8.6043"
+"Latitude": 55.7172,
+"Longitude": 8.6043
 },
 {
 "Name": "Varde",
 "PostCode": "6800",
-"LatLong": "55.6211,8.4807"
+"Latitude": 55.6211,
+"Longitude": 8.4807
 },
 {
 "Name": "Vejers Strand",
 "PostCode": "6853",
-"LatLong": "55.6333,8.1333"
+"Latitude": 55.6333,
+"Longitude": 8.1333
 }
 ]
 }
@@ -3004,67 +3506,80 @@
 {
 "Name": "Agerbæk",
 "PostCode": "6753",
-"LatLong": "55.6,8.8"
+"Latitude": 55.6,
+"Longitude": 8.8
 },
 {
 "Name": "Bække",
 "PostCode": "6622",
-"LatLong": "55.5703,9.1397"
+"Latitude": 55.5703,
+"Longitude": 9.1397
 },
 {
 "Name": "Brørup",
 "PostCode": "6650",
-"LatLong": "55.4819,9.0176"
+"Latitude": 55.4819,
+"Longitude": 9.0176
 },
 {
 "Name": "Føvling",
 "PostCode": "6683",
-"LatLong": "55.4521,8.9396"
+"Latitude": 55.4521,
+"Longitude": 8.9396
 },
 {
 "Name": "Gesten",
 "PostCode": "6621",
-"LatLong": "55.5253,9.2076"
+"Latitude": 55.5253,
+"Longitude": 9.2076
 },
 {
 "Name": "Glejbjerg",
 "PostCode": "6752",
-"LatLong": "55.5667,8.8333"
+"Latitude": 55.5667,
+"Longitude": 8.8333
 },
 {
 "Name": "Gørding",
 "PostCode": "6690",
-"LatLong": "55.4746,8.7974"
+"Latitude": 55.4746,
+"Longitude": 8.7974
 },
 {
 "Name": "Holsted",
 "PostCode": "6670",
-"LatLong": "55.5109,8.9187"
+"Latitude": 55.5109,
+"Longitude": 8.9187
 },
 {
 "Name": "Hovborg",
 "PostCode": "6682",
-"LatLong": "55.6081,8.9396"
+"Latitude": 55.6081,
+"Longitude": 8.9396
 },
 {
 "Name": "Lintrup",
 "PostCode": "6660",
-"LatLong": "55.5544,8.9278"
+"Latitude": 55.5544,
+"Longitude": 8.9278
 },
 {
 "Name": "Rødding",
 "PostCode": "6630",
-"LatLong": "55.3657,9.0632"
+"Latitude": 55.3657,
+"Longitude": 9.0632
 },
 {
 "Name": "Vejen",
 "PostCode": "6600",
-"LatLong": "55.4812,9.1379"
+"Latitude": 55.4812,
+"Longitude": 9.1379
 },
 {
 "Name": "Vorbasse",
 "PostCode": "6623",
-"LatLong": "55.6299,9.0824"
+"Latitude": 55.6299,
+"Longitude": 9.0824
 }
 ]
 }
@@ -3079,42 +3594,50 @@
 {
 "Name": "Aabenraa",
 "PostCode": "6200",
-"LatLong": "55.0443,9.4174"
+"Latitude": 55.0443,
+"Longitude": 9.4174
 },
 {
 "Name": "Agerskov",
 "PostCode": "6534",
-"LatLong": "55.1289,9.1355"
+"Latitude": 55.1289,
+"Longitude": 9.1355
 },
 {
 "Name": "Bolderslev",
 "PostCode": "6392",
-"LatLong": "54.9925,9.284"
+"Latitude": 54.9925,
+"Longitude": 9.284
 },
 {
 "Name": "Bylderup-Bov",
 "PostCode": "6372",
-"LatLong": "54.9387,9.0857"
+"Latitude": 54.9387,
+"Longitude": 9.0857
 },
 {
 "Name": "Kruså",
 "PostCode": "6340",
-"LatLong": "54.851,9.4013"
+"Latitude": 54.851,
+"Longitude": 9.4013
 },
 {
 "Name": "Padborg",
 "PostCode": "6330",
-"LatLong": "54.8266,9.3625"
+"Latitude": 54.8266,
+"Longitude": 9.3625
 },
 {
 "Name": "Rødekro",
 "PostCode": "6230",
-"LatLong": "55.0702,9.3164"
+"Latitude": 55.0702,
+"Longitude": 9.3164
 },
 {
 "Name": "Tinglev",
 "PostCode": "6360",
-"LatLong": "54.931,9.2524"
+"Latitude": 54.931,
+"Longitude": 9.2524
 }
 ]
 }
@@ -3129,12 +3652,14 @@
 {
 "Name": "Fredericia",
 "PostCode": "7000",
-"LatLong": "55.5657,9.7526"
+"Latitude": 55.5657,
+"Longitude": 9.7526
 },
 {
 "Name": "Fredericia",
 "PostCode": "7007",
-"LatLong": "55.5657,9.7526"
+"Latitude": 55.5657,
+"Longitude": 9.7526
 }
 ]
 }
@@ -3149,77 +3674,92 @@
 {
 "Name": "Almind",
 "PostCode": "6051",
-"LatLong": "55.5649,9.487"
+"Latitude": 55.5649,
+"Longitude": 9.487
 },
 {
 "Name": "Bjert",
 "PostCode": "6091",
-"LatLong": "55.4077,9.5738"
+"Latitude": 55.4077,
+"Longitude": 9.5738
 },
 {
 "Name": "Christiansfeld",
 "PostCode": "6070",
-"LatLong": "55.3582,9.487"
+"Latitude": 55.3582,
+"Longitude": 9.487
 },
 {
 "Name": "Egtved",
 "PostCode": "6040",
-"LatLong": "55.618,9.301"
+"Latitude": 55.618,
+"Longitude": 9.301
 },
 {
 "Name": "Haderslev",
 "PostCode": "6100",
-"LatLong": "55.2538,9.4898"
+"Latitude": 55.2538,
+"Longitude": 9.4898
 },
 {
 "Name": "Hejls",
 "PostCode": "6094",
-"LatLong": "55.3831,9.5765"
+"Latitude": 55.3831,
+"Longitude": 9.5765
 },
 {
 "Name": "Jordrup",
 "PostCode": "6064",
-"LatLong": "55.558,9.3122"
+"Latitude": 55.558,
+"Longitude": 9.3122
 },
 {
 "Name": "Kolding",
 "PostCode": "6000",
-"LatLong": "55.4904,9.4722"
+"Latitude": 55.4904,
+"Longitude": 9.4722
 },
 {
 "Name": "Lunderskov",
 "PostCode": "6640",
-"LatLong": "55.4838,9.2992"
+"Latitude": 55.4838,
+"Longitude": 9.2992
 },
 {
 "Name": "Nordborg",
 "PostCode": "6430",
-"LatLong": "55.0573,9.7408"
+"Latitude": 55.0573,
+"Longitude": 9.7408
 },
 {
 "Name": "Sjølund",
 "PostCode": "6093",
-"LatLong": "55.4024,9.5302"
+"Latitude": 55.4024,
+"Longitude": 9.5302
 },
 {
 "Name": "Sommersted",
 "PostCode": "6560",
-"LatLong": "55.3187,9.2956"
+"Latitude": 55.3187,
+"Longitude": 9.2956
 },
 {
 "Name": "Sønder Stenderup",
 "PostCode": "6092",
-"LatLong": "55.4623,9.6119"
+"Latitude": 55.4623,
+"Longitude": 9.6119
 },
 {
 "Name": "Vamdrup",
 "PostCode": "6580",
-"LatLong": "55.4276,9.2843"
+"Latitude": 55.4276,
+"Longitude": 9.2843
 },
 {
 "Name": "Viuf",
 "PostCode": "6052",
-"LatLong": "55.5853,9.4924"
+"Latitude": 55.5853,
+"Longitude": 9.4924
 }
 ]
 }
@@ -3234,97 +3774,116 @@
 {
 "Name": "Billund",
 "PostCode": "7190",
-"LatLong": "55.7335,9.1079"
+"Latitude": 55.7335,
+"Longitude": 9.1079
 },
 {
 "Name": "Børkop",
 "PostCode": "7080",
-"LatLong": "55.6379,9.6482"
+"Latitude": 55.6379,
+"Longitude": 9.6482
 },
 {
 "Name": "Brande",
 "PostCode": "7330",
-"LatLong": "55.9381,9.1218"
+"Latitude": 55.9381,
+"Longitude": 9.1218
 },
 {
 "Name": "Bredsten",
 "PostCode": "7182",
-"LatLong": "55.7013,9.385"
+"Latitude": 55.7013,
+"Longitude": 9.385
 },
 {
 "Name": "Egtved",
 "PostCode": "6040",
-"LatLong": "55.618,9.301"
+"Latitude": 55.618,
+"Longitude": 9.301
 },
 {
 "Name": "Ejstrupholm",
 "PostCode": "7361",
-"LatLong": "55.9841,9.2818"
+"Latitude": 55.9841,
+"Longitude": 9.2818
 },
 {
 "Name": "Fredericia",
 "PostCode": "7000",
-"LatLong": "55.5657,9.7526"
+"Latitude": 55.5657,
+"Longitude": 9.7526
 },
 {
 "Name": "Gadbjerg",
 "PostCode": "7321",
-"LatLong": "55.7715,9.3248"
+"Latitude": 55.7715,
+"Longitude": 9.3248
 },
 {
 "Name": "Give",
 "PostCode": "7323",
-"LatLong": "55.8398,9.25"
+"Latitude": 55.8398,
+"Longitude": 9.25
 },
 {
 "Name": "Grindsted",
 "PostCode": "7200",
-"LatLong": "55.754,8.9123"
+"Latitude": 55.754,
+"Longitude": 8.9123
 },
 {
 "Name": "Jelling",
 "PostCode": "7300",
-"LatLong": "55.7559,9.4258"
+"Latitude": 55.7559,
+"Longitude": 9.4258
 },
 {
 "Name": "Randbøl",
 "PostCode": "7183",
-"LatLong": "55.6943,9.2475"
+"Latitude": 55.6943,
+"Longitude": 9.2475
 },
 {
 "Name": "Tørring",
 "PostCode": "7160",
-"LatLong": "55.85,9.4833"
+"Latitude": 55.85,
+"Longitude": 9.4833
 },
 {
 "Name": "Vandel",
 "PostCode": "7184",
-"LatLong": "55.7085,9.2133"
+"Latitude": 55.7085,
+"Longitude": 9.2133
 },
 {
 "Name": "Vejle",
 "PostCode": "7100",
-"LatLong": "55.7093,9.5357"
+"Latitude": 55.7093,
+"Longitude": 9.5357
 },
 {
 "Name": "Vejle Øst",
 "PostCode": "7120",
-"LatLong": "55.758,9.4862"
+"Latitude": 55.758,
+"Longitude": 9.4862
 },
 {
 "Name": "Viuf",
 "PostCode": "6052",
-"LatLong": "55.5853,9.4924"
+"Latitude": 55.5853,
+"Longitude": 9.4924
 },
 {
 "Name": "Vonge",
 "PostCode": "7173",
-"LatLong": "55.8604,9.4194"
+"Latitude": 55.8604,
+"Longitude": 9.4194
 },
 {
 "Name": "Vorbasse",
 "PostCode": "6623",
-"LatLong": "55.6299,9.0824"
+"Latitude": 55.6299,
+"Longitude": 9.0824
 }
 ]
 }
@@ -3345,2097 +3904,2516 @@
 {
 "Name": "Brønshøj",
 "PostCode": "2700",
-"LatLong": "55.7057,12.4964"
+"Latitude": 55.7057,
+"Longitude": 12.4964
 },
 {
 "Name": "Centraltastning",
 "PostCode": "1513",
-"LatLong": "55.6711,12.5653"
+"Latitude": 55.6711,
+"Longitude": 12.5653
 },
 {
 "Name": "Frederiksberg",
 "PostCode": "2000",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1810",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Hellerup",
 "PostCode": "2900",
-"LatLong": "55.732,12.5709"
+"Latitude": 55.732,
+"Longitude": 12.5709
 },
 {
 "Name": "Kastrup",
 "PostCode": "2770",
-"LatLong": "55.6352,12.6489"
+"Latitude": 55.6352,
+"Longitude": 12.6489
 },
 {
 "Name": "København C",
 "PostCode": "0900",
-"LatLong": "57.048,9.9187"
+"Latitude": 57.048,
+"Longitude": 9.9187
 },
 {
 "Name": "København C",
 "PostCode": "0999",
-"LatLong": "57.7209,10.5839"
+"Latitude": 57.7209,
+"Longitude": 10.5839
 },
 {
 "Name": "København K",
 "PostCode": "1000",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1050",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1051",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1052",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1053",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1054",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1055",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1056",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1057",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1058",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1059",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1060",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1061",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1062",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1063",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1064",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1065",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1066",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1067",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1068",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1069",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1070",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1071",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1072",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1073",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1074",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1092",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1093",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1095",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1098",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1100",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1101",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1102",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1103",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1104",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1105",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1106",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1107",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1110",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1111",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1112",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1113",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1114",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1115",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1116",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1117",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1118",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1119",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1120",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1121",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1122",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1123",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1124",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1125",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1126",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1127",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1128",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1129",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1130",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1131",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1140",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1147",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1148",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1150",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1151",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1152",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1153",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1154",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1155",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1156",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1157",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1158",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1159",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1160",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1161",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1162",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1164",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1165",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1166",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1167",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1168",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1169",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1170",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1171",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1172",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1173",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1174",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1175",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1200",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1201",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1202",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1203",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1204",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1205",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1206",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1207",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1208",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1209",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1210",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1211",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1213",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1214",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1215",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1216",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1217",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1218",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1219",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1220",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1221",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1240",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1250",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1251",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1253",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1254",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1255",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1256",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1257",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1259",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1260",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1261",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1263",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1264",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1265",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1266",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1267",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1268",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1270",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1271",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1291",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1300",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1301",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1302",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1303",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1304",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1306",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1307",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1308",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1309",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1310",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1311",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1312",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1313",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1314",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1315",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1316",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1317",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1318",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1319",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1320",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1321",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1322",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1323",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1324",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1325",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1326",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1327",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1328",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1329",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1350",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1352",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1353",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1354",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1355",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1356",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1357",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1358",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1359",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1360",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1361",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1362",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1363",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1364",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1365",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1366",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1367",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1368",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1369",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1370",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1371",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1400",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1401",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1402",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1403",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1406",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1407",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1408",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1409",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1410",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1411",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1412",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1413",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1414",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1415",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1416",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1417",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1418",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1419",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1420",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1421",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1422",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1423",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1424",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1425",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1426",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1427",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1428",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1429",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1430",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1431",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1432",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1433",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1434",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1435",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1436",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1437",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1438",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1439",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1440",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1441",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1448",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1450",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1451",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1452",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1453",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1454",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1455",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1456",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1457",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1458",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1459",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1460",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1462",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1463",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1464",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1466",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1467",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1468",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1470",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1471",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København K",
 "PostCode": "1472",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København N",
 "PostCode": "2200",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København NV",
 "PostCode": "2400",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København Ø",
 "PostCode": "2100",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København S",
 "PostCode": "2300",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København SV",
 "PostCode": "2450",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1500",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1550",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1551",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1552",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1553",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1554",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1555",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1556",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1557",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1558",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1559",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1560",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1561",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1562",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1563",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1564",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1566",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1567",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1568",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1569",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1570",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1571",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1572",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1573",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1574",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1575",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1576",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1577",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1592",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1599",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1600",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1601",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1602",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1603",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1604",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1606",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1607",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1608",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1609",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1610",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1611",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1612",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1613",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1614",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1615",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1616",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1617",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1618",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1619",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1620",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1621",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1622",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1623",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1624",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1630",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1631",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1632",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1633",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1634",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1635",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1650",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1651",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1652",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1653",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1654",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1655",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1656",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1657",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1658",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1659",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1660",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1661",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1662",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1663",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1664",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1665",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1666",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1667",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1668",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1669",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1670",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1671",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1672",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1673",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1674",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1675",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1676",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1677",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1699",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1700",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1701",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1702",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1703",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1704",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1705",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1706",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1707",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1708",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1709",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1710",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1711",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1712",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1714",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1715",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1716",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1717",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1718",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1719",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1720",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1721",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1722",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1723",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1724",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1725",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1726",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1727",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1728",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1729",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1730",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1731",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1732",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1733",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1734",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1735",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1736",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1737",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1738",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1739",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1749",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1750",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1751",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1752",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1753",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1754",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1755",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1756",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1757",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1758",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1759",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1760",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1761",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1762",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1763",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1764",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1765",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1766",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1770",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1771",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1772",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1773",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1774",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1775",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1777",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1780",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1785",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1786",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1787",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1790",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1799",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "Nordhavn",
 "PostCode": "2150",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "Rødovre",
 "PostCode": "2610",
-"LatLong": "55.6806,12.4537"
+"Latitude": 55.6806,
+"Longitude": 12.4537
 },
 {
 "Name": "Søborg",
 "PostCode": "2860",
-"LatLong": "55.7302,12.5098"
+"Latitude": 55.7302,
+"Longitude": 12.5098
 },
 {
 "Name": "Udland",
 "PostCode": "0960",
-"LatLong": "56.804,9.5144"
+"Latitude": 56.804,
+"Longitude": 9.5144
 },
 {
 "Name": "Valby",
 "PostCode": "2500",
-"LatLong": "55.6581,12.5241"
+"Latitude": 55.6581,
+"Longitude": 12.5241
 },
 {
 "Name": "Vanløse",
 "PostCode": "2720",
-"LatLong": "55.6836,12.4871"
+"Latitude": 55.6836,
+"Longitude": 12.4871
 },
 {
 "Name": "Vildbjerg",
 "PostCode": "7480",
-"LatLong": "56.2,8.7667"
+"Latitude": 56.2,
+"Longitude": 8.7667
 }
 ]
 }
@@ -5450,547 +6428,656 @@
 {
 "Name": "Frederiksberg",
 "PostCode": "2000",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1800",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1801",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1802",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1803",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1804",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1805",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1806",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1807",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1808",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1809",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1810",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1811",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1812",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1813",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1814",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1815",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1816",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1817",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1818",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1819",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1820",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1822",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1823",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1824",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1825",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1826",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1827",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1828",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1829",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1850",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1851",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1852",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1853",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1854",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1855",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1856",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1857",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1860",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1861",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1862",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1863",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1864",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1865",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1866",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1867",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1868",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1870",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1871",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1872",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1873",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1874",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1875",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1876",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1877",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1878",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1879",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1900",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1901",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1902",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1903",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1904",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1905",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1906",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1908",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1909",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1910",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1911",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1912",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1913",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1914",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1915",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1916",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1917",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1920",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1921",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1922",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1923",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1924",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1925",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1926",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1927",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1928",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1950",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1951",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1952",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1953",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1954",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1955",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1956",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1957",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1958",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1959",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1960",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1961",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1962",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1963",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1964",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1965",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1966",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1967",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1970",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1971",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1972",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1973",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "Frederiksberg C",
 "PostCode": "1974",
-"LatLong": "55.6794,12.5346"
+"Latitude": 55.6794,
+"Longitude": 12.5346
 },
 {
 "Name": "København N",
 "PostCode": "2200",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "Valby",
 "PostCode": "2500",
-"LatLong": "55.6581,12.5241"
+"Latitude": 55.6581,
+"Longitude": 12.5241
 },
 {
 "Name": "Vanløse",
 "PostCode": "2720",
-"LatLong": "55.6836,12.4871"
+"Latitude": 55.6836,
+"Longitude": 12.4871
 }
 ]
 }
@@ -6005,27 +7092,32 @@
 {
 "Name": "Ballerup",
 "PostCode": "2750",
-"LatLong": "55.7316,12.3633"
+"Latitude": 55.7316,
+"Longitude": 12.3633
 },
 {
 "Name": "Herlev",
 "PostCode": "2730",
-"LatLong": "55.7237,12.44"
+"Latitude": 55.7237,
+"Longitude": 12.44
 },
 {
 "Name": "Måløv",
 "PostCode": "2760",
-"LatLong": "55.7553,12.3233"
+"Latitude": 55.7553,
+"Longitude": 12.3233
 },
 {
 "Name": "Skovlunde",
 "PostCode": "2740",
-"LatLong": "55.7157,12.398"
+"Latitude": 55.7157,
+"Longitude": 12.398
 },
 {
 "Name": "Værløse",
 "PostCode": "3500",
-"LatLong": "55.7825,12.3686"
+"Latitude": 55.7825,
+"Longitude": 12.3686
 }
 ]
 }
@@ -6040,32 +7132,38 @@
 {
 "Name": "Albertslund",
 "PostCode": "2620",
-"LatLong": "55.6569,12.3638"
+"Latitude": 55.6569,
+"Longitude": 12.3638
 },
 {
 "Name": "Brøndby",
 "PostCode": "2605",
-"LatLong": "55.6503,12.41"
+"Latitude": 55.6503,
+"Longitude": 12.41
 },
 {
 "Name": "Brøndby Strand",
 "PostCode": "2660",
-"LatLong": "55.6167,12.35"
+"Latitude": 55.6167,
+"Longitude": 12.35
 },
 {
 "Name": "Glostrup",
 "PostCode": "2600",
-"LatLong": "55.6666,12.4038"
+"Latitude": 55.6666,
+"Longitude": 12.4038
 },
 {
 "Name": "Hvidovre",
 "PostCode": "2650",
-"LatLong": "55.6572,12.4736"
+"Latitude": 55.6572,
+"Longitude": 12.4736
 },
 {
 "Name": "Københavns Pakkecent",
 "PostCode": "0917",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 }
 ]
 }
@@ -6080,7 +7178,8 @@
 {
 "Name": "Dragør",
 "PostCode": "2791",
-"LatLong": "55.5945,12.6664"
+"Latitude": 55.5945,
+"Longitude": 12.6664
 }
 ]
 }
@@ -6095,32 +7194,38 @@
 {
 "Name": "Charlottenlund",
 "PostCode": "2920",
-"LatLong": "55.7537,12.5918"
+"Latitude": 55.7537,
+"Longitude": 12.5918
 },
 {
 "Name": "Dyssegård",
 "PostCode": "2870",
-"LatLong": "55.7728,12.494"
+"Latitude": 55.7728,
+"Longitude": 12.494
 },
 {
 "Name": "Gentofte",
 "PostCode": "2820",
-"LatLong": "55.749,12.546"
+"Latitude": 55.749,
+"Longitude": 12.546
 },
 {
 "Name": "Hellerup",
 "PostCode": "2900",
-"LatLong": "55.732,12.5709"
+"Latitude": 55.732,
+"Longitude": 12.5709
 },
 {
 "Name": "Klampenborg",
 "PostCode": "2930",
-"LatLong": "55.7763,12.5901"
+"Latitude": 55.7763,
+"Longitude": 12.5901
 },
 {
 "Name": "Kongens Lyngby",
 "PostCode": "2800",
-"LatLong": "55.7704,12.5038"
+"Latitude": 55.7704,
+"Longitude": 12.5038
 }
 ]
 }
@@ -6135,32 +7240,38 @@
 {
 "Name": "Bagsværd",
 "PostCode": "2880",
-"LatLong": "55.7618,12.4679"
+"Latitude": 55.7618,
+"Longitude": 12.4679
 },
 {
 "Name": "Gentofte",
 "PostCode": "2820",
-"LatLong": "55.749,12.546"
+"Latitude": 55.749,
+"Longitude": 12.546
 },
 {
 "Name": "Herlev",
 "PostCode": "2730",
-"LatLong": "55.7237,12.44"
+"Latitude": 55.7237,
+"Longitude": 12.44
 },
 {
 "Name": "Kongens Lyngby",
 "PostCode": "2800",
-"LatLong": "55.7704,12.5038"
+"Latitude": 55.7704,
+"Longitude": 12.5038
 },
 {
 "Name": "Søborg",
 "PostCode": "2860",
-"LatLong": "55.7302,12.5098"
+"Latitude": 55.7302,
+"Longitude": 12.5098
 },
 {
 "Name": "Værløse",
 "PostCode": "3500",
-"LatLong": "55.7825,12.3686"
+"Latitude": 55.7825,
+"Longitude": 12.3686
 }
 ]
 }
@@ -6175,7 +7286,8 @@
 {
 "Name": "Glostrup",
 "PostCode": "2600",
-"LatLong": "55.6666,12.4038"
+"Latitude": 55.6666,
+"Longitude": 12.4038
 }
 ]
 }
@@ -6190,17 +7302,20 @@
 {
 "Name": "Bagsværd",
 "PostCode": "2880",
-"LatLong": "55.7618,12.4679"
+"Latitude": 55.7618,
+"Longitude": 12.4679
 },
 {
 "Name": "Herlev",
 "PostCode": "2730",
-"LatLong": "55.7237,12.44"
+"Latitude": 55.7237,
+"Longitude": 12.44
 },
 {
 "Name": "Skovlunde",
 "PostCode": "2740",
-"LatLong": "55.7157,12.398"
+"Latitude": 55.7157,
+"Longitude": 12.398
 }
 ]
 }
@@ -6215,17 +7330,20 @@
 {
 "Name": "Albertslund",
 "PostCode": "2620",
-"LatLong": "55.6569,12.3638"
+"Latitude": 55.6569,
+"Longitude": 12.3638
 },
 {
 "Name": "Ballerup",
 "PostCode": "2750",
-"LatLong": "55.7316,12.3633"
+"Latitude": 55.7316,
+"Longitude": 12.3633
 },
 {
 "Name": "Glostrup",
 "PostCode": "2600",
-"LatLong": "55.6666,12.4038"
+"Latitude": 55.6666,
+"Longitude": 12.4038
 }
 ]
 }
@@ -6240,17 +7358,20 @@
 {
 "Name": "Brøndby Strand",
 "PostCode": "2660",
-"LatLong": "55.6167,12.35"
+"Latitude": 55.6167,
+"Longitude": 12.35
 },
 {
 "Name": "Hvidovre",
 "PostCode": "2650",
-"LatLong": "55.6572,12.4736"
+"Latitude": 55.6572,
+"Longitude": 12.4736
 },
 {
 "Name": "Rødovre",
 "PostCode": "2610",
-"LatLong": "55.6806,12.4537"
+"Latitude": 55.6806,
+"Longitude": 12.4537
 }
 ]
 }
@@ -6265,22 +7386,26 @@
 {
 "Name": "Hedehusene",
 "PostCode": "2640",
-"LatLong": "55.647,12.1936"
+"Latitude": 55.647,
+"Longitude": 12.1936
 },
 {
 "Name": "Høje Taastrup",
 "PostCode": "0800",
-"LatLong": "55.6471,12.2742"
+"Latitude": 55.6471,
+"Longitude": 12.2742
 },
 {
 "Name": "Roskilde",
 "PostCode": "4000",
-"LatLong": "55.6415,12.0803"
+"Latitude": 55.6415,
+"Longitude": 12.0803
 },
 {
 "Name": "Taastrup",
 "PostCode": "2630",
-"LatLong": "55.6517,12.2922"
+"Latitude": 55.6517,
+"Longitude": 12.2922
 }
 ]
 }
@@ -6295,27 +7420,32 @@
 {
 "Name": "Holte",
 "PostCode": "2840",
-"LatLong": "55.8167,12.4667"
+"Latitude": 55.8167,
+"Longitude": 12.4667
 },
 {
 "Name": "Klampenborg",
 "PostCode": "2930",
-"LatLong": "55.7763,12.5901"
+"Latitude": 55.7763,
+"Longitude": 12.5901
 },
 {
 "Name": "Kongens Lyngby",
 "PostCode": "2800",
-"LatLong": "55.7704,12.5038"
+"Latitude": 55.7704,
+"Longitude": 12.5038
 },
 {
 "Name": "Værløse",
 "PostCode": "3500",
-"LatLong": "55.7825,12.3686"
+"Latitude": 55.7825,
+"Longitude": 12.3686
 },
 {
 "Name": "Virum",
 "PostCode": "2830",
-"LatLong": "55.7949,12.451"
+"Latitude": 55.7949,
+"Longitude": 12.451
 }
 ]
 }
@@ -6330,12 +7460,14 @@
 {
 "Name": "Herlev",
 "PostCode": "2730",
-"LatLong": "55.7237,12.44"
+"Latitude": 55.7237,
+"Longitude": 12.44
 },
 {
 "Name": "Rødovre",
 "PostCode": "2610",
-"LatLong": "55.6806,12.4537"
+"Latitude": 55.6806,
+"Longitude": 12.4537
 }
 ]
 }
@@ -6350,12 +7482,14 @@
 {
 "Name": "Hedehusene",
 "PostCode": "2640",
-"LatLong": "55.647,12.1936"
+"Latitude": 55.647,
+"Longitude": 12.1936
 },
 {
 "Name": "Ishøj",
 "PostCode": "2635",
-"LatLong": "55.6154,12.3518"
+"Latitude": 55.6154,
+"Longitude": 12.3518
 }
 ]
 }
@@ -6370,27 +7504,32 @@
 {
 "Name": "Dragør",
 "PostCode": "2791",
-"LatLong": "55.5945,12.6664"
+"Latitude": 55.5945,
+"Longitude": 12.6664
 },
 {
 "Name": "Kastrup",
 "PostCode": "2770",
-"LatLong": "55.6352,12.6489"
+"Latitude": 55.6352,
+"Longitude": 12.6489
 },
 {
 "Name": "København S",
 "PostCode": "2300",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1532",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 },
 {
 "Name": "København V",
 "PostCode": "1533",
-"LatLong": "55.6759,12.5655"
+"Latitude": 55.6759,
+"Longitude": 12.5655
 }
 ]
 }
@@ -6405,12 +7544,14 @@
 {
 "Name": "Vallensbæk",
 "PostCode": "2625",
-"LatLong": "55.6333,12.3667"
+"Latitude": 55.6333,
+"Longitude": 12.3667
 },
 {
 "Name": "Vallensbæk Strand",
 "PostCode": "2665",
-"LatLong": "55.6139,12.3895"
+"Latitude": 55.6139,
+"Longitude": 12.3895
 }
 ]
 }
@@ -6425,27 +7566,32 @@
 {
 "Name": "Bagsværd",
 "PostCode": "2880",
-"LatLong": "55.7618,12.4679"
+"Latitude": 55.7618,
+"Longitude": 12.4679
 },
 {
 "Name": "Birkerød",
 "PostCode": "3460",
-"LatLong": "55.8476,12.4279"
+"Latitude": 55.8476,
+"Longitude": 12.4279
 },
 {
 "Name": "Farum",
 "PostCode": "3520",
-"LatLong": "55.8086,12.3607"
+"Latitude": 55.8086,
+"Longitude": 12.3607
 },
 {
 "Name": "Lynge",
 "PostCode": "3540",
-"LatLong": "55.8394,12.2772"
+"Latitude": 55.8394,
+"Longitude": 12.2772
 },
 {
 "Name": "Værløse",
 "PostCode": "3500",
-"LatLong": "55.7825,12.3686"
+"Latitude": 55.7825,
+"Longitude": 12.3686
 }
 ]
 }
@@ -6460,32 +7606,38 @@
 {
 "Name": "Allerød",
 "PostCode": "3450",
-"LatLong": "55.8703,12.3574"
+"Latitude": 55.8703,
+"Longitude": 12.3574
 },
 {
 "Name": "Birkerød",
 "PostCode": "3460",
-"LatLong": "55.8476,12.4279"
+"Latitude": 55.8476,
+"Longitude": 12.4279
 },
 {
 "Name": "Farum",
 "PostCode": "3520",
-"LatLong": "55.8086,12.3607"
+"Latitude": 55.8086,
+"Longitude": 12.3607
 },
 {
 "Name": "Hillerød",
 "PostCode": "3400",
-"LatLong": "55.9279,12.3008"
+"Latitude": 55.9279,
+"Longitude": 12.3008
 },
 {
 "Name": "Lynge",
 "PostCode": "3540",
-"LatLong": "55.8394,12.2772"
+"Latitude": 55.8394,
+"Longitude": 12.2772
 },
 {
 "Name": "Slangerup",
 "PostCode": "3550",
-"LatLong": "55.85,12.1833"
+"Latitude": 55.85,
+"Longitude": 12.1833
 }
 ]
 }
@@ -6500,47 +7652,56 @@
 {
 "Name": "Allerød",
 "PostCode": "3450",
-"LatLong": "55.8703,12.3574"
+"Latitude": 55.8703,
+"Longitude": 12.3574
 },
 {
 "Name": "Espergærde",
 "PostCode": "3060",
-"LatLong": "56,12.5667"
+"Latitude": 56.0,
+"Longitude": 12.5667
 },
 {
 "Name": "Fredensborg",
 "PostCode": "3480",
-"LatLong": "55.9756,12.4031"
+"Latitude": 55.9756,
+"Longitude": 12.4031
 },
 {
 "Name": "Hillerød",
 "PostCode": "3400",
-"LatLong": "55.9279,12.3008"
+"Latitude": 55.9279,
+"Longitude": 12.3008
 },
 {
 "Name": "Hørsholm",
 "PostCode": "2970",
-"LatLong": "55.881,12.5011"
+"Latitude": 55.881,
+"Longitude": 12.5011
 },
 {
 "Name": "Humlebæk",
 "PostCode": "3050",
-"LatLong": "55.9618,12.5341"
+"Latitude": 55.9618,
+"Longitude": 12.5341
 },
 {
 "Name": "Kokkedal",
 "PostCode": "2980",
-"LatLong": "55.9118,12.4995"
+"Latitude": 55.9118,
+"Longitude": 12.4995
 },
 {
 "Name": "Kvistgård",
 "PostCode": "3490",
-"LatLong": "55.9935,12.5045"
+"Latitude": 55.9935,
+"Longitude": 12.5045
 },
 {
 "Name": "Nivå",
 "PostCode": "2990",
-"LatLong": "55.9341,12.5048"
+"Latitude": 55.9341,
+"Longitude": 12.5048
 }
 ]
 }
@@ -6555,57 +7716,68 @@
 {
 "Name": "Ålsgårde",
 "PostCode": "3140",
-"LatLong": "56.0756,12.5399"
+"Latitude": 56.0756,
+"Longitude": 12.5399
 },
 {
 "Name": "Espergærde",
 "PostCode": "3060",
-"LatLong": "56,12.5667"
+"Latitude": 56.0,
+"Longitude": 12.5667
 },
 {
 "Name": "Fredensborg",
 "PostCode": "3480",
-"LatLong": "55.9756,12.4031"
+"Latitude": 55.9756,
+"Longitude": 12.4031
 },
 {
 "Name": "Græsted",
 "PostCode": "3230",
-"LatLong": "56.0656,12.2851"
+"Latitude": 56.0656,
+"Longitude": 12.2851
 },
 {
 "Name": "Hellebæk",
 "PostCode": "3150",
-"LatLong": "56.0682,12.5578"
+"Latitude": 56.0682,
+"Longitude": 12.5578
 },
 {
 "Name": "Helsingør",
 "PostCode": "3000",
-"LatLong": "56.0361,12.6136"
+"Latitude": 56.0361,
+"Longitude": 12.6136
 },
 {
 "Name": "Hornbæk",
 "PostCode": "3100",
-"LatLong": "56.0854,12.4505"
+"Latitude": 56.0854,
+"Longitude": 12.4505
 },
 {
 "Name": "Humlebæk",
 "PostCode": "3050",
-"LatLong": "55.9618,12.5341"
+"Latitude": 55.9618,
+"Longitude": 12.5341
 },
 {
 "Name": "Kvistgård",
 "PostCode": "3490",
-"LatLong": "55.9935,12.5045"
+"Latitude": 55.9935,
+"Longitude": 12.5045
 },
 {
 "Name": "Snekkersten",
 "PostCode": "3070",
-"LatLong": "56.009,12.586"
+"Latitude": 56.009,
+"Longitude": 12.586
 },
 {
 "Name": "Tikøb",
 "PostCode": "3080",
-"LatLong": "56.0206,12.4531"
+"Latitude": 56.0206,
+"Longitude": 12.4531
 }
 ]
 }
@@ -6620,57 +7792,68 @@
 {
 "Name": "Allerød",
 "PostCode": "3450",
-"LatLong": "55.8703,12.3574"
+"Latitude": 55.8703,
+"Longitude": 12.3574
 },
 {
 "Name": "Fredensborg",
 "PostCode": "3480",
-"LatLong": "55.9756,12.4031"
+"Latitude": 55.9756,
+"Longitude": 12.4031
 },
 {
 "Name": "Frederikssund",
 "PostCode": "3600",
-"LatLong": "55.8396,12.069"
+"Latitude": 55.8396,
+"Longitude": 12.069
 },
 {
 "Name": "Gørløse",
 "PostCode": "3330",
-"LatLong": "55.8852,12.1982"
+"Latitude": 55.8852,
+"Longitude": 12.1982
 },
 {
 "Name": "Græsted",
 "PostCode": "3230",
-"LatLong": "56.0656,12.2851"
+"Latitude": 56.0656,
+"Longitude": 12.2851
 },
 {
 "Name": "Helsinge",
 "PostCode": "3200",
-"LatLong": "56.0228,12.1975"
+"Latitude": 56.0228,
+"Longitude": 12.1975
 },
 {
 "Name": "Hillerød",
 "PostCode": "3400",
-"LatLong": "55.9279,12.3008"
+"Latitude": 55.9279,
+"Longitude": 12.3008
 },
 {
 "Name": "Lynge",
 "PostCode": "3540",
-"LatLong": "55.8394,12.2772"
+"Latitude": 55.8394,
+"Longitude": 12.2772
 },
 {
 "Name": "Ølsted",
 "PostCode": "3310",
-"LatLong": "55.9232,12.0707"
+"Latitude": 55.9232,
+"Longitude": 12.0707
 },
 {
 "Name": "Skævinge",
 "PostCode": "3320",
-"LatLong": "55.9079,12.1504"
+"Latitude": 55.9079,
+"Longitude": 12.1504
 },
 {
 "Name": "Slangerup",
 "PostCode": "3550",
-"LatLong": "55.85,12.1833"
+"Latitude": 55.85,
+"Longitude": 12.1833
 }
 ]
 }
@@ -6685,22 +7868,26 @@
 {
 "Name": "Hørsholm",
 "PostCode": "2970",
-"LatLong": "55.881,12.5011"
+"Latitude": 55.881,
+"Longitude": 12.5011
 },
 {
 "Name": "Kokkedal",
 "PostCode": "2980",
-"LatLong": "55.9118,12.4995"
+"Latitude": 55.9118,
+"Longitude": 12.4995
 },
 {
 "Name": "Rungsted Kyst",
 "PostCode": "2960",
-"LatLong": "55.8349,12.5451"
+"Latitude": 55.8349,
+"Longitude": 12.5451
 },
 {
 "Name": "Vedbæk",
 "PostCode": "2950",
-"LatLong": "55.8473,12.5689"
+"Latitude": 55.8473,
+"Longitude": 12.5689
 }
 ]
 }
@@ -6715,42 +7902,50 @@
 {
 "Name": "Birkerød",
 "PostCode": "3460",
-"LatLong": "55.8476,12.4279"
+"Latitude": 55.8476,
+"Longitude": 12.4279
 },
 {
 "Name": "Holte",
 "PostCode": "2840",
-"LatLong": "55.8167,12.4667"
+"Latitude": 55.8167,
+"Longitude": 12.4667
 },
 {
 "Name": "Hørsholm",
 "PostCode": "2970",
-"LatLong": "55.881,12.5011"
+"Latitude": 55.881,
+"Longitude": 12.5011
 },
 {
 "Name": "Kongens Lyngby",
 "PostCode": "2800",
-"LatLong": "55.7704,12.5038"
+"Latitude": 55.7704,
+"Longitude": 12.5038
 },
 {
 "Name": "Nærum",
 "PostCode": "2850",
-"LatLong": "55.816,12.5385"
+"Latitude": 55.816,
+"Longitude": 12.5385
 },
 {
 "Name": "Skodsborg",
 "PostCode": "2942",
-"LatLong": "55.8225,12.5732"
+"Latitude": 55.8225,
+"Longitude": 12.5732
 },
 {
 "Name": "Vedbæk",
 "PostCode": "2950",
-"LatLong": "55.8473,12.5689"
+"Latitude": 55.8473,
+"Longitude": 12.5689
 },
 {
 "Name": "Virum",
 "PostCode": "2830",
-"LatLong": "55.7949,12.451"
+"Latitude": 55.7949,
+"Longitude": 12.451
 }
 ]
 }
@@ -6765,47 +7960,56 @@
 {
 "Name": "Ballerup",
 "PostCode": "2750",
-"LatLong": "55.7316,12.3633"
+"Latitude": 55.7316,
+"Longitude": 12.3633
 },
 {
 "Name": "Farum",
 "PostCode": "3520",
-"LatLong": "55.8086,12.3607"
+"Latitude": 55.8086,
+"Longitude": 12.3607
 },
 {
 "Name": "Lynge",
 "PostCode": "3540",
-"LatLong": "55.8394,12.2772"
+"Latitude": 55.8394,
+"Longitude": 12.2772
 },
 {
 "Name": "Ølstykke",
 "PostCode": "3650",
-"LatLong": "55.7916,12.145"
+"Latitude": 55.7916,
+"Longitude": 12.145
 },
 {
 "Name": "Slangerup",
 "PostCode": "3550",
-"LatLong": "55.85,12.1833"
+"Latitude": 55.85,
+"Longitude": 12.1833
 },
 {
 "Name": "Smørum",
 "PostCode": "2765",
-"LatLong": "55.7423,12.3028"
+"Latitude": 55.7423,
+"Longitude": 12.3028
 },
 {
 "Name": "Stenløse",
 "PostCode": "3660",
-"LatLong": "55.7683,12.1972"
+"Latitude": 55.7683,
+"Longitude": 12.1972
 },
 {
 "Name": "Værløse",
 "PostCode": "3500",
-"LatLong": "55.7825,12.3686"
+"Latitude": 55.7825,
+"Longitude": 12.3686
 },
 {
 "Name": "Veksø Sjælland",
 "PostCode": "3670",
-"LatLong": "55.8223,12.0862"
+"Latitude": 55.8223,
+"Longitude": 12.0862
 }
 ]
 }
@@ -6820,22 +8024,26 @@
 {
 "Name": "Frederikssund",
 "PostCode": "3600",
-"LatLong": "55.8396,12.069"
+"Latitude": 55.8396,
+"Longitude": 12.069
 },
 {
 "Name": "Jægerspris",
 "PostCode": "3630",
-"LatLong": "55.8554,11.9679"
+"Latitude": 55.8554,
+"Longitude": 11.9679
 },
 {
 "Name": "Skibby",
 "PostCode": "4050",
-"LatLong": "55.7512,11.9608"
+"Latitude": 55.7512,
+"Longitude": 11.9608
 },
 {
 "Name": "Slangerup",
 "PostCode": "3550",
-"LatLong": "55.85,12.1833"
+"Latitude": 55.85,
+"Longitude": 12.1833
 }
 ]
 }
@@ -6850,37 +8058,44 @@
 {
 "Name": "Frederikssund",
 "PostCode": "3600",
-"LatLong": "55.8396,12.069"
+"Latitude": 55.8396,
+"Longitude": 12.069
 },
 {
 "Name": "Frederiksværk",
 "PostCode": "3300",
-"LatLong": "55.9707,12.0225"
+"Latitude": 55.9707,
+"Longitude": 12.0225
 },
 {
 "Name": "Hundested",
 "PostCode": "3390",
-"LatLong": "55.9667,11.8667"
+"Latitude": 55.9667,
+"Longitude": 11.8667
 },
 {
 "Name": "Liseleje",
 "PostCode": "3360",
-"LatLong": "56.0053,11.9483"
+"Latitude": 56.0053,
+"Longitude": 11.9483
 },
 {
 "Name": "Melby",
 "PostCode": "3370",
-"LatLong": "55.9962,11.9676"
+"Latitude": 55.9962,
+"Longitude": 11.9676
 },
 {
 "Name": "Ølsted",
 "PostCode": "3310",
-"LatLong": "55.9232,12.0707"
+"Latitude": 55.9232,
+"Longitude": 12.0707
 },
 {
 "Name": "Skævinge",
 "PostCode": "3320",
-"LatLong": "55.9079,12.1504"
+"Latitude": 55.9079,
+"Longitude": 12.1504
 }
 ]
 }
@@ -6895,42 +8110,50 @@
 {
 "Name": "Dronningmølle",
 "PostCode": "3120",
-"LatLong": "56.0949,12.3852"
+"Latitude": 56.0949,
+"Longitude": 12.3852
 },
 {
 "Name": "Frederiksværk",
 "PostCode": "3300",
-"LatLong": "55.9707,12.0225"
+"Latitude": 55.9707,
+"Longitude": 12.0225
 },
 {
 "Name": "Gilleleje",
 "PostCode": "3250",
-"LatLong": "56.122,12.3106"
+"Latitude": 56.122,
+"Longitude": 12.3106
 },
 {
 "Name": "Græsted",
 "PostCode": "3230",
-"LatLong": "56.0656,12.2851"
+"Latitude": 56.0656,
+"Longitude": 12.2851
 },
 {
 "Name": "Helsinge",
 "PostCode": "3200",
-"LatLong": "56.0228,12.1975"
+"Latitude": 56.0228,
+"Longitude": 12.1975
 },
 {
 "Name": "Hornbæk",
 "PostCode": "3100",
-"LatLong": "56.0854,12.4505"
+"Latitude": 56.0854,
+"Longitude": 12.4505
 },
 {
 "Name": "Tisvildeleje",
 "PostCode": "3220",
-"LatLong": "56.0598,12.0741"
+"Latitude": 56.0598,
+"Longitude": 12.0741
 },
 {
 "Name": "Vejby",
 "PostCode": "3210",
-"LatLong": "56.0639,12.1419"
+"Latitude": 56.0639,
+"Longitude": 12.1419
 }
 ]
 }
@@ -6945,47 +8168,56 @@
 {
 "Name": "Aakirkeby",
 "PostCode": "3720",
-"LatLong": "55.0708,14.9198"
+"Latitude": 55.0708,
+"Longitude": 14.9198
 },
 {
 "Name": "Allinge",
 "PostCode": "3770",
-"LatLong": "55.2759,14.8024"
+"Latitude": 55.2759,
+"Longitude": 14.8024
 },
 {
 "Name": "Gudhjem",
 "PostCode": "3760",
-"LatLong": "55.2105,14.9713"
+"Latitude": 55.2105,
+"Longitude": 14.9713
 },
 {
 "Name": "Hasle",
 "PostCode": "3790",
-"LatLong": "55.1821,14.7112"
+"Latitude": 55.1821,
+"Longitude": 14.7112
 },
 {
 "Name": "Klemensker",
 "PostCode": "3782",
-"LatLong": "55.1727,14.8099"
+"Latitude": 55.1727,
+"Longitude": 14.8099
 },
 {
 "Name": "Nexø",
 "PostCode": "3730",
-"LatLong": "55.0607,15.1306"
+"Latitude": 55.0607,
+"Longitude": 15.1306
 },
 {
 "Name": "Østermarie",
 "PostCode": "3751",
-"LatLong": "55.1407,15.0125"
+"Latitude": 55.1407,
+"Longitude": 15.0125
 },
 {
 "Name": "Rønne",
 "PostCode": "3700",
-"LatLong": "55.1009,14.7066"
+"Latitude": 55.1009,
+"Longitude": 14.7066
 },
 {
 "Name": "Svaneke",
 "PostCode": "3740",
-"LatLong": "55.1357,15.1414"
+"Latitude": 55.1357,
+"Longitude": 15.1414
 }
 ]
 }
@@ -7000,7 +8232,8 @@
 {
 "Name": "Gudhjem",
 "PostCode": "3760",
-"LatLong": "55.2105,14.9713"
+"Latitude": 55.2105,
+"Longitude": 14.9713
 }
 ]
 }
@@ -7021,22 +8254,26 @@
 {
 "Name": "Greve",
 "PostCode": "2670",
-"LatLong": "55.5833,12.3"
+"Latitude": 55.5833,
+"Longitude": 12.3
 },
 {
 "Name": "Hedehusene",
 "PostCode": "2640",
-"LatLong": "55.647,12.1936"
+"Latitude": 55.647,
+"Longitude": 12.1936
 },
 {
 "Name": "Karlslunde",
 "PostCode": "2690",
-"LatLong": "55.5726,12.2258"
+"Latitude": 55.5726,
+"Longitude": 12.2258
 },
 {
 "Name": "Tune",
 "PostCode": "4030",
-"LatLong": "55.5953,12.1832"
+"Latitude": 55.5953,
+"Longitude": 12.1832
 }
 ]
 }
@@ -7051,52 +8288,62 @@
 {
 "Name": "Bjæverskov",
 "PostCode": "4632",
-"LatLong": "55.4576,12.0365"
+"Latitude": 55.4576,
+"Longitude": 12.0365
 },
 {
 "Name": "Borup",
 "PostCode": "4140",
-"LatLong": "55.4947,11.9758"
+"Latitude": 55.4947,
+"Longitude": 11.9758
 },
 {
 "Name": "Herfølge",
 "PostCode": "4681",
-"LatLong": "55.4137,12.1433"
+"Latitude": 55.4137,
+"Longitude": 12.1433
 },
 {
 "Name": "Jystrup Midtsj",
 "PostCode": "4174",
-"LatLong": "55.4082,11.6872"
+"Latitude": 55.4082,
+"Longitude": 11.6872
 },
 {
 "Name": "Køge",
 "PostCode": "4600",
-"LatLong": "55.458,12.1821"
+"Latitude": 55.458,
+"Longitude": 12.1821
 },
 {
 "Name": "Lejre",
 "PostCode": "4320",
-"LatLong": "55.6046,11.9748"
+"Latitude": 55.6046,
+"Longitude": 11.9748
 },
 {
 "Name": "Lille Skensved",
 "PostCode": "4623",
-"LatLong": "55.5098,12.1351"
+"Latitude": 55.5098,
+"Longitude": 12.1351
 },
 {
 "Name": "Ringsted",
 "PostCode": "4100",
-"LatLong": "55.4426,11.7901"
+"Latitude": 55.4426,
+"Longitude": 11.7901
 },
 {
 "Name": "Tureby",
 "PostCode": "4682",
-"LatLong": "55.373,12.0769"
+"Latitude": 55.373,
+"Longitude": 12.0769
 },
 {
 "Name": "Viby Sjælland",
 "PostCode": "4130",
-"LatLong": "55.5487,12.0239"
+"Latitude": 55.5487,
+"Longitude": 12.0239
 }
 ]
 }
@@ -7111,57 +8358,68 @@
 {
 "Name": "Borup",
 "PostCode": "4140",
-"LatLong": "55.4947,11.9758"
+"Latitude": 55.4947,
+"Longitude": 11.9758
 },
 {
 "Name": "Gadstrup",
 "PostCode": "4621",
-"LatLong": "55.5678,12.0891"
+"Latitude": 55.5678,
+"Longitude": 12.0891
 },
 {
 "Name": "Havdrup",
 "PostCode": "4622",
-"LatLong": "55.5448,12.1239"
+"Latitude": 55.5448,
+"Longitude": 12.1239
 },
 {
 "Name": "Hedehusene",
 "PostCode": "2640",
-"LatLong": "55.647,12.1936"
+"Latitude": 55.647,
+"Longitude": 12.1936
 },
 {
 "Name": "Jyllinge",
 "PostCode": "4040",
-"LatLong": "55.7584,12.1123"
+"Latitude": 55.7584,
+"Longitude": 12.1123
 },
 {
 "Name": "Lejre",
 "PostCode": "4320",
-"LatLong": "55.6046,11.9748"
+"Latitude": 55.6046,
+"Longitude": 11.9748
 },
 {
 "Name": "Lille Skensved",
 "PostCode": "4623",
-"LatLong": "55.5098,12.1351"
+"Latitude": 55.5098,
+"Longitude": 12.1351
 },
 {
 "Name": "Roskilde",
 "PostCode": "4000",
-"LatLong": "55.6415,12.0803"
+"Latitude": 55.6415,
+"Longitude": 12.0803
 },
 {
 "Name": "Tune",
 "PostCode": "4030",
-"LatLong": "55.5953,12.1832"
+"Latitude": 55.5953,
+"Longitude": 12.1832
 },
 {
 "Name": "Veksø Sjælland",
 "PostCode": "3670",
-"LatLong": "55.8223,12.0862"
+"Latitude": 55.8223,
+"Longitude": 12.0862
 },
 {
 "Name": "Viby Sjælland",
 "PostCode": "4130",
-"LatLong": "55.5487,12.0239"
+"Latitude": 55.5487,
+"Longitude": 12.0239
 }
 ]
 }
@@ -7176,22 +8434,26 @@
 {
 "Name": "Havdrup",
 "PostCode": "4622",
-"LatLong": "55.5448,12.1239"
+"Latitude": 55.5448,
+"Longitude": 12.1239
 },
 {
 "Name": "Karlslunde",
 "PostCode": "2690",
-"LatLong": "55.5726,12.2258"
+"Latitude": 55.5726,
+"Longitude": 12.2258
 },
 {
 "Name": "Lille Skensved",
 "PostCode": "4623",
-"LatLong": "55.5098,12.1351"
+"Latitude": 55.5098,
+"Longitude": 12.1351
 },
 {
 "Name": "Solrød Strand",
 "PostCode": "2680",
-"LatLong": "55.5329,12.2223"
+"Latitude": 55.5329,
+"Longitude": 12.2223
 }
 ]
 }
@@ -7206,57 +8468,68 @@
 {
 "Name": "Asnæs",
 "PostCode": "4550",
-"LatLong": "55.8123,11.5013"
+"Latitude": 55.8123,
+"Longitude": 11.5013
 },
 {
 "Name": "Fårevejle",
 "PostCode": "4540",
-"LatLong": "55.8,11.45"
+"Latitude": 55.8,
+"Longitude": 11.45
 },
 {
 "Name": "Føllenslev",
 "PostCode": "4591",
-"LatLong": "55.7255,11.3508"
+"Latitude": 55.7255,
+"Longitude": 11.3508
 },
 {
 "Name": "Grevinge",
 "PostCode": "4571",
-"LatLong": "55.8008,11.5516"
+"Latitude": 55.8008,
+"Longitude": 11.5516
 },
 {
 "Name": "Højby",
 "PostCode": "4573",
-"LatLong": "55.9115,11.5976"
+"Latitude": 55.9115,
+"Longitude": 11.5976
 },
 {
 "Name": "Hørve",
 "PostCode": "4534",
-"LatLong": "55.7529,11.453"
+"Latitude": 55.7529,
+"Longitude": 11.453
 },
 {
 "Name": "Nørre Asmindrup",
 "PostCode": "4572",
-"LatLong": "55.8872,11.623"
+"Latitude": 55.8872,
+"Longitude": 11.623
 },
 {
 "Name": "Nykøbing Sj",
 "PostCode": "4500",
-"LatLong": "55.7951,11.4991"
+"Latitude": 55.7951,
+"Longitude": 11.4991
 },
 {
 "Name": "Rørvig",
 "PostCode": "4581",
-"LatLong": "55.944,11.7527"
+"Latitude": 55.944,
+"Longitude": 11.7527
 },
 {
 "Name": "Sjællands Odde",
 "PostCode": "4583",
-"LatLong": "55.944,11.7527"
+"Latitude": 55.944,
+"Longitude": 11.7527
 },
 {
 "Name": "Vig",
 "PostCode": "4560",
-"LatLong": "55.8508,11.5856"
+"Latitude": 55.8508,
+"Longitude": 11.5856
 }
 ]
 }
@@ -7271,87 +8544,104 @@
 {
 "Name": "Gislinge",
 "PostCode": "4532",
-"LatLong": "55.7343,11.5484"
+"Latitude": 55.7343,
+"Longitude": 11.5484
 },
 {
 "Name": "Holbæk",
 "PostCode": "4300",
-"LatLong": "55.7135,11.7169"
+"Latitude": 55.7135,
+"Longitude": 11.7169
 },
 {
 "Name": "Hvalsø",
 "PostCode": "4330",
-"LatLong": "55.5917,11.8625"
+"Latitude": 55.5917,
+"Longitude": 11.8625
 },
 {
 "Name": "Jyderup",
 "PostCode": "4450",
-"LatLong": "55.664,11.4203"
+"Latitude": 55.664,
+"Longitude": 11.4203
 },
 {
 "Name": "Kirke Eskilstrup",
 "PostCode": "4360",
-"LatLong": "55.5746,11.7672"
+"Latitude": 55.5746,
+"Longitude": 11.7672
 },
 {
 "Name": "Mørkøv",
 "PostCode": "4440",
-"LatLong": "55.6517,11.5015"
+"Latitude": 55.6517,
+"Longitude": 11.5015
 },
 {
 "Name": "Nyrup",
 "PostCode": "4296",
-"LatLong": "55.4947,11.3623"
+"Latitude": 55.4947,
+"Longitude": 11.3623
 },
 {
 "Name": "Regstrup",
 "PostCode": "4420",
-"LatLong": "55.6756,11.6157"
+"Latitude": 55.6756,
+"Longitude": 11.6157
 },
 {
 "Name": "Ringsted",
 "PostCode": "4100",
-"LatLong": "55.4426,11.7901"
+"Latitude": 55.4426,
+"Longitude": 11.7901
 },
 {
 "Name": "Snertinge",
 "PostCode": "4460",
-"LatLong": "55.7149,11.3833"
+"Latitude": 55.7149,
+"Longitude": 11.3833
 },
 {
 "Name": "Stenlille",
 "PostCode": "4295",
-"LatLong": "55.5402,11.5915"
+"Latitude": 55.5402,
+"Longitude": 11.5915
 },
 {
 "Name": "Store Merløse",
 "PostCode": "4370",
-"LatLong": "55.5438,11.713"
+"Latitude": 55.5438,
+"Longitude": 11.713
 },
 {
 "Name": "Svebølle",
 "PostCode": "4470",
-"LatLong": "55.6368,11.3172"
+"Latitude": 55.6368,
+"Longitude": 11.3172
 },
 {
 "Name": "Svinninge",
 "PostCode": "4520",
-"LatLong": "55.7211,11.4655"
+"Latitude": 55.7211,
+"Longitude": 11.4655
 },
 {
 "Name": "Tølløse",
 "PostCode": "4340",
-"LatLong": "55.6125,11.7703"
+"Latitude": 55.6125,
+"Longitude": 11.7703
 },
 {
 "Name": "Ugerløse",
 "PostCode": "4350",
-"LatLong": "55.5871,11.6541"
+"Latitude": 55.5871,
+"Longitude": 11.6541
 },
 {
 "Name": "Vipperød",
 "PostCode": "4390",
-"LatLong": "55.6677,11.7397"
+"Latitude": 55.6677,
+"Longitude": 11.7397
 }
 ]
 }
@@ -7366,57 +8656,68 @@
 {
 "Name": "Faxe",
 "PostCode": "4640",
-"LatLong": "55.2469,12.1176"
+"Latitude": 55.2469,
+"Longitude": 12.1176
 },
 {
 "Name": "Faxe Ladeplads",
 "PostCode": "4654",
-"LatLong": "55.3261,12.2212"
+"Latitude": 55.3261,
+"Longitude": 12.2212
 },
 {
 "Name": "Hårlev",
 "PostCode": "4652",
-"LatLong": "55.3494,12.2338"
+"Latitude": 55.3494,
+"Longitude": 12.2338
 },
 {
 "Name": "Haslev",
 "PostCode": "4690",
-"LatLong": "55.3235,11.9639"
+"Latitude": 55.3235,
+"Longitude": 11.9639
 },
 {
 "Name": "Herlufmagle",
 "PostCode": "4160",
-"LatLong": "55.3132,11.7523"
+"Latitude": 55.3132,
+"Longitude": 11.7523
 },
 {
 "Name": "Holmegaard",
 "PostCode": "4684",
-"LatLong": "55.3411,12.0694"
+"Latitude": 55.3411,
+"Longitude": 12.0694
 },
 {
 "Name": "Karise",
 "PostCode": "4653",
-"LatLong": "55.3028,12.2086"
+"Latitude": 55.3028,
+"Longitude": 12.2086
 },
 {
 "Name": "Ringsted",
 "PostCode": "4100",
-"LatLong": "55.4426,11.7901"
+"Latitude": 55.4426,
+"Longitude": 11.7901
 },
 {
 "Name": "Rønnede",
 "PostCode": "4683",
-"LatLong": "55.2571,12.0212"
+"Latitude": 55.2571,
+"Longitude": 12.0212
 },
 {
 "Name": "Tappernøje",
 "PostCode": "4733",
-"LatLong": "55.165,11.9787"
+"Latitude": 55.165,
+"Longitude": 11.9787
 },
 {
 "Name": "Tureby",
 "PostCode": "4682",
-"LatLong": "55.373,12.0769"
+"Latitude": 55.373,
+"Longitude": 12.0769
 }
 ]
 }
@@ -7431,77 +8732,92 @@
 {
 "Name": "Dianalund",
 "PostCode": "4293",
-"LatLong": "55.5313,11.4925"
+"Latitude": 55.5313,
+"Longitude": 11.4925
 },
 {
 "Name": "Eskebjerg",
 "PostCode": "4593",
-"LatLong": "55.713,11.3045"
+"Latitude": 55.713,
+"Longitude": 11.3045
 },
 {
 "Name": "Føllenslev",
 "PostCode": "4591",
-"LatLong": "55.7255,11.3508"
+"Latitude": 55.7255,
+"Longitude": 11.3508
 },
 {
 "Name": "Gørlev",
 "PostCode": "4281",
-"LatLong": "55.5393,11.2271"
+"Latitude": 55.5393,
+"Longitude": 11.2271
 },
 {
 "Name": "Høng",
 "PostCode": "4270",
-"LatLong": "55.5116,11.2903"
+"Latitude": 55.5116,
+"Longitude": 11.2903
 },
 {
 "Name": "Hørve",
 "PostCode": "4534",
-"LatLong": "55.7529,11.453"
+"Latitude": 55.7529,
+"Longitude": 11.453
 },
 {
 "Name": "Jerslev Sjælland",
 "PostCode": "4490",
-"LatLong": "55.6105,11.2406"
+"Latitude": 55.6105,
+"Longitude": 11.2406
 },
 {
 "Name": "Jyderup",
 "PostCode": "4450",
-"LatLong": "55.664,11.4203"
+"Latitude": 55.664,
+"Longitude": 11.4203
 },
 {
 "Name": "Kalundborg",
 "PostCode": "4400",
-"LatLong": "55.6795,11.0886"
+"Latitude": 55.6795,
+"Longitude": 11.0886
 },
 {
 "Name": "Ruds Vedby",
 "PostCode": "4291",
-"LatLong": "55.5409,11.3796"
+"Latitude": 55.5409,
+"Longitude": 11.3796
 },
 {
 "Name": "Sejerø",
 "PostCode": "4592",
-"LatLong": "55.7213,11.3354"
+"Latitude": 55.7213,
+"Longitude": 11.3354
 },
 {
 "Name": "Slagelse",
 "PostCode": "4200",
-"LatLong": "55.4028,11.3546"
+"Latitude": 55.4028,
+"Longitude": 11.3546
 },
 {
 "Name": "Snertinge",
 "PostCode": "4460",
-"LatLong": "55.7149,11.3833"
+"Latitude": 55.7149,
+"Longitude": 11.3833
 },
 {
 "Name": "Store Fuglede",
 "PostCode": "4480",
-"LatLong": "55.5852,11.2454"
+"Latitude": 55.5852,
+"Longitude": 11.2454
 },
 {
 "Name": "Svebølle",
 "PostCode": "4470",
-"LatLong": "55.6368,11.3172"
+"Latitude": 55.6368,
+"Longitude": 11.3172
 }
 ]
 }
@@ -7516,47 +8832,56 @@
 {
 "Name": "Borup",
 "PostCode": "4140",
-"LatLong": "55.4947,11.9758"
+"Latitude": 55.4947,
+"Longitude": 11.9758
 },
 {
 "Name": "Fjenneslev",
 "PostCode": "4173",
-"LatLong": "55.4339,11.688"
+"Latitude": 55.4339,
+"Longitude": 11.688
 },
 {
 "Name": "Haslev",
 "PostCode": "4690",
-"LatLong": "55.3235,11.9639"
+"Latitude": 55.3235,
+"Longitude": 11.9639
 },
 {
 "Name": "Hvalsø",
 "PostCode": "4330",
-"LatLong": "55.5917,11.8625"
+"Latitude": 55.5917,
+"Longitude": 11.8625
 },
 {
 "Name": "Jystrup Midtsj",
 "PostCode": "4174",
-"LatLong": "55.4082,11.6872"
+"Latitude": 55.4082,
+"Longitude": 11.6872
 },
 {
 "Name": "Kirke Eskilstrup",
 "PostCode": "4360",
-"LatLong": "55.5746,11.7672"
+"Latitude": 55.5746,
+"Longitude": 11.7672
 },
 {
 "Name": "Ringsted",
 "PostCode": "4100",
-"LatLong": "55.4426,11.7901"
+"Latitude": 55.4426,
+"Longitude": 11.7901
 },
 {
 "Name": "Sorø",
 "PostCode": "4180",
-"LatLong": "55.4318,11.5555"
+"Latitude": 55.4318,
+"Longitude": 11.5555
 },
 {
 "Name": "Store Merløse",
 "PostCode": "4370",
-"LatLong": "55.5438,11.713"
+"Latitude": 55.5438,
+"Longitude": 11.713
 }
 ]
 }
@@ -7571,62 +8896,74 @@
 {
 "Name": "Boeslunde",
 "PostCode": "4242",
-"LatLong": "55.3008,11.2712"
+"Latitude": 55.3008,
+"Longitude": 11.2712
 },
 {
 "Name": "Dalmose",
 "PostCode": "4261",
-"LatLong": "55.2942,11.4184"
+"Latitude": 55.2942,
+"Longitude": 11.4184
 },
 {
 "Name": "Fuglebjerg",
 "PostCode": "4250",
-"LatLong": "55.306,11.5477"
+"Latitude": 55.306,
+"Longitude": 11.5477
 },
 {
 "Name": "Høng",
 "PostCode": "4270",
-"LatLong": "55.5116,11.2903"
+"Latitude": 55.5116,
+"Longitude": 11.2903
 },
 {
 "Name": "Korsør",
 "PostCode": "4220",
-"LatLong": "55.3299,11.1386"
+"Latitude": 55.3299,
+"Longitude": 11.1386
 },
 {
 "Name": "Munke Bjergby",
 "PostCode": "4190",
-"LatLong": "55.5037,11.5317"
+"Latitude": 55.5037,
+"Longitude": 11.5317
 },
 {
 "Name": "Rude",
 "PostCode": "4243",
-"LatLong": "55.2307,11.4692"
+"Latitude": 55.2307,
+"Longitude": 11.4692
 },
 {
 "Name": "Sandved",
 "PostCode": "4262",
-"LatLong": "55.263,11.5217"
+"Latitude": 55.263,
+"Longitude": 11.5217
 },
 {
 "Name": "Skælskør",
 "PostCode": "4230",
-"LatLong": "55.2506,11.2935"
+"Latitude": 55.2506,
+"Longitude": 11.2935
 },
 {
 "Name": "Slagelse",
 "PostCode": "4200",
-"LatLong": "55.4028,11.3546"
+"Latitude": 55.4028,
+"Longitude": 11.3546
 },
 {
 "Name": "Sorø",
 "PostCode": "4180",
-"LatLong": "55.4318,11.5555"
+"Latitude": 55.4318,
+"Longitude": 11.5555
 },
 {
 "Name": "Vemmelev",
 "PostCode": "4241",
-"LatLong": "55.3553,11.2471"
+"Latitude": 55.3553,
+"Longitude": 11.2471
 }
 ]
 }
@@ -7641,42 +8978,50 @@
 {
 "Name": "Hårlev",
 "PostCode": "4652",
-"LatLong": "55.3494,12.2338"
+"Latitude": 55.3494,
+"Longitude": 12.2338
 },
 {
 "Name": "Karise",
 "PostCode": "4653",
-"LatLong": "55.3028,12.2086"
+"Latitude": 55.3028,
+"Longitude": 12.2086
 },
 {
 "Name": "Klippinge",
 "PostCode": "4672",
-"LatLong": "55.3482,12.3258"
+"Latitude": 55.3482,
+"Longitude": 12.3258
 },
 {
 "Name": "Køge",
 "PostCode": "4600",
-"LatLong": "55.458,12.1821"
+"Latitude": 55.458,
+"Longitude": 12.1821
 },
 {
 "Name": "Rødvig Stevns",
 "PostCode": "4673",
-"LatLong": "55.2554,12.3794"
+"Latitude": 55.2554,
+"Longitude": 12.3794
 },
 {
 "Name": "Store Heddinge",
 "PostCode": "4660",
-"LatLong": "55.3096,12.3888"
+"Latitude": 55.3096,
+"Longitude": 12.3888
 },
 {
 "Name": "Strøby",
 "PostCode": "4671",
-"LatLong": "55.3834,12.2811"
+"Latitude": 55.3834,
+"Longitude": 12.2811
 },
 {
 "Name": "Tureby",
 "PostCode": "4682",
-"LatLong": "55.373,12.0769"
+"Latitude": 55.373,
+"Longitude": 12.0769
 }
 ]
 }
@@ -7691,52 +9036,62 @@
 {
 "Name": "Dianalund",
 "PostCode": "4293",
-"LatLong": "55.5313,11.4925"
+"Latitude": 55.5313,
+"Longitude": 11.4925
 },
 {
 "Name": "Fjenneslev",
 "PostCode": "4173",
-"LatLong": "55.4339,11.688"
+"Latitude": 55.4339,
+"Longitude": 11.688
 },
 {
 "Name": "Munke Bjergby",
 "PostCode": "4190",
-"LatLong": "55.5037,11.5317"
+"Latitude": 55.5037,
+"Longitude": 11.5317
 },
 {
 "Name": "Nyrup",
 "PostCode": "4296",
-"LatLong": "55.4947,11.3623"
+"Latitude": 55.4947,
+"Longitude": 11.3623
 },
 {
 "Name": "Ringsted",
 "PostCode": "4100",
-"LatLong": "55.4426,11.7901"
+"Latitude": 55.4426,
+"Longitude": 11.7901
 },
 {
 "Name": "Ruds Vedby",
 "PostCode": "4291",
-"LatLong": "55.5409,11.3796"
+"Latitude": 55.5409,
+"Longitude": 11.3796
 },
 {
 "Name": "Slagelse",
 "PostCode": "4200",
-"LatLong": "55.4028,11.3546"
+"Latitude": 55.4028,
+"Longitude": 11.3546
 },
 {
 "Name": "Sorø",
 "PostCode": "4180",
-"LatLong": "55.4318,11.5555"
+"Latitude": 55.4318,
+"Longitude": 11.5555
 },
 {
 "Name": "Stenlille",
 "PostCode": "4295",
-"LatLong": "55.5402,11.5915"
+"Latitude": 55.5402,
+"Longitude": 11.5915
 },
 {
 "Name": "Store Merløse",
 "PostCode": "4370",
-"LatLong": "55.5438,11.713"
+"Latitude": 55.5438,
+"Longitude": 11.713
 }
 ]
 }
@@ -7751,32 +9106,38 @@
 {
 "Name": "Hvalsø",
 "PostCode": "4330",
-"LatLong": "55.5917,11.8625"
+"Latitude": 55.5917,
+"Longitude": 11.8625
 },
 {
 "Name": "Kirke Hyllinge",
 "PostCode": "4070",
-"LatLong": "55.7067,11.9002"
+"Latitude": 55.7067,
+"Longitude": 11.9002
 },
 {
 "Name": "Kirke Såby",
 "PostCode": "4060",
-"LatLong": "55.6339,11.8712"
+"Latitude": 55.6339,
+"Longitude": 11.8712
 },
 {
 "Name": "Lejre",
 "PostCode": "4320",
-"LatLong": "55.6046,11.9748"
+"Latitude": 55.6046,
+"Longitude": 11.9748
 },
 {
 "Name": "Roskilde",
 "PostCode": "4000",
-"LatLong": "55.6415,12.0803"
+"Latitude": 55.6415,
+"Longitude": 12.0803
 },
 {
 "Name": "Tølløse",
 "PostCode": "4340",
-"LatLong": "55.6125,11.7703"
+"Latitude": 55.6125,
+"Longitude": 11.7703
 }
 ]
 }
@@ -7791,82 +9152,98 @@
 {
 "Name": "Bandholm",
 "PostCode": "4941",
-"LatLong": "54.8365,11.4831"
+"Latitude": 54.8365,
+"Longitude": 11.4831
 },
 {
 "Name": "Dannemare",
 "PostCode": "4983",
-"LatLong": "54.7624,11.1873"
+"Latitude": 54.7624,
+"Longitude": 11.1873
 },
 {
 "Name": "Errindlev",
 "PostCode": "4895",
-"LatLong": "54.669,11.4951"
+"Latitude": 54.669,
+"Longitude": 11.4951
 },
 {
 "Name": "Fejø",
 "PostCode": "4944",
-"LatLong": "54.8365,11.4831"
+"Latitude": 54.8365,
+"Longitude": 11.4831
 },
 {
 "Name": "Harpelunde",
 "PostCode": "4912",
-"LatLong": "54.8865,11.0911"
+"Latitude": 54.8865,
+"Longitude": 11.0911
 },
 {
 "Name": "Holeby",
 "PostCode": "4960",
-"LatLong": "54.7115,11.4642"
+"Latitude": 54.7115,
+"Longitude": 11.4642
 },
 {
 "Name": "Horslunde",
 "PostCode": "4913",
-"LatLong": "54.9118,11.2165"
+"Latitude": 54.9118,
+"Longitude": 11.2165
 },
 {
 "Name": "Maribo",
 "PostCode": "4930",
-"LatLong": "54.7766,11.5002"
+"Latitude": 54.7766,
+"Longitude": 11.5002
 },
 {
 "Name": "Nakskov",
 "PostCode": "4900",
-"LatLong": "54.8373,11.1284"
+"Latitude": 54.8373,
+"Longitude": 11.1284
 },
 {
 "Name": "Nørreballe",
 "PostCode": "4951",
-"LatLong": "54.8059,11.4304"
+"Latitude": 54.8059,
+"Longitude": 11.4304
 },
 {
 "Name": "Øster Ulslev",
 "PostCode": "4894",
-"LatLong": "54.6984,11.6267"
+"Latitude": 54.6984,
+"Longitude": 11.6267
 },
 {
 "Name": "Rødby",
 "PostCode": "4970",
-"LatLong": "54.695,11.3888"
+"Latitude": 54.695,
+"Longitude": 11.3888
 },
 {
 "Name": "Søllested",
 "PostCode": "4920",
-"LatLong": "54.8102,11.2712"
+"Latitude": 54.8102,
+"Longitude": 11.2712
 },
 {
 "Name": "Stokkemarke",
 "PostCode": "4952",
-"LatLong": "54.8381,11.3603"
+"Latitude": 54.8381,
+"Longitude": 11.3603
 },
 {
 "Name": "Torrig L",
 "PostCode": "4943",
-"LatLong": "54.8365,11.4831"
+"Latitude": 54.8365,
+"Longitude": 11.4831
 },
 {
 "Name": "Vesterborg",
 "PostCode": "4953",
-"LatLong": "54.8484,11.2796"
+"Latitude": 54.8484,
+"Longitude": 11.2796
 }
 ]
 }
@@ -7881,82 +9258,98 @@
 {
 "Name": "Dalmose",
 "PostCode": "4261",
-"LatLong": "55.2942,11.4184"
+"Latitude": 55.2942,
+"Longitude": 11.4184
 },
 {
 "Name": "Faxe",
 "PostCode": "4640",
-"LatLong": "55.2469,12.1176"
+"Latitude": 55.2469,
+"Longitude": 12.1176
 },
 {
 "Name": "Fuglebjerg",
 "PostCode": "4250",
-"LatLong": "55.306,11.5477"
+"Latitude": 55.306,
+"Longitude": 11.5477
 },
 {
 "Name": "Glumsø",
 "PostCode": "4171",
-"LatLong": "55.3568,11.6856"
+"Latitude": 55.3568,
+"Longitude": 11.6856
 },
 {
 "Name": "Haslev",
 "PostCode": "4690",
-"LatLong": "55.3235,11.9639"
+"Latitude": 55.3235,
+"Longitude": 11.9639
 },
 {
 "Name": "Herlufmagle",
 "PostCode": "4160",
-"LatLong": "55.3132,11.7523"
+"Latitude": 55.3132,
+"Longitude": 11.7523
 },
 {
 "Name": "Holmegaard",
 "PostCode": "4684",
-"LatLong": "55.3411,12.0694"
+"Latitude": 55.3411,
+"Longitude": 12.0694
 },
 {
 "Name": "Karrebæksminde",
 "PostCode": "4736",
-"LatLong": "55.1816,11.647"
+"Latitude": 55.1816,
+"Longitude": 11.647
 },
 {
 "Name": "Lundby",
 "PostCode": "4750",
-"LatLong": "55.1089,11.8747"
+"Latitude": 55.1089,
+"Longitude": 11.8747
 },
 {
 "Name": "Næstved",
 "PostCode": "4700",
-"LatLong": "55.2299,11.7609"
+"Latitude": 55.2299,
+"Longitude": 11.7609
 },
 {
 "Name": "Ringsted",
 "PostCode": "4100",
-"LatLong": "55.4426,11.7901"
+"Latitude": 55.4426,
+"Longitude": 11.7901
 },
 {
 "Name": "Rønnede",
 "PostCode": "4683",
-"LatLong": "55.2571,12.0212"
+"Latitude": 55.2571,
+"Longitude": 12.0212
 },
 {
 "Name": "Rude",
 "PostCode": "4243",
-"LatLong": "55.2307,11.4692"
+"Latitude": 55.2307,
+"Longitude": 11.4692
 },
 {
 "Name": "Sandved",
 "PostCode": "4262",
-"LatLong": "55.263,11.5217"
+"Latitude": 55.263,
+"Longitude": 11.5217
 },
 {
 "Name": "Slagelse",
 "PostCode": "4200",
-"LatLong": "55.4028,11.3546"
+"Latitude": 55.4028,
+"Longitude": 11.3546
 },
 {
 "Name": "Tappernøje",
 "PostCode": "4733",
-"LatLong": "55.165,11.9787"
+"Latitude": 55.165,
+"Longitude": 11.9787
 }
 ]
 }
@@ -7971,77 +9364,92 @@
 {
 "Name": "Eskilstrup",
 "PostCode": "4863",
-"LatLong": "54.8557,11.8867"
+"Latitude": 54.8557,
+"Longitude": 11.8867
 },
 {
 "Name": "Gedser",
 "PostCode": "4874",
-"LatLong": "54.5764,11.93"
+"Latitude": 54.5764,
+"Longitude": 11.93
 },
 {
 "Name": "Guldborg",
 "PostCode": "4862",
-"LatLong": "54.8679,11.7392"
+"Latitude": 54.8679,
+"Longitude": 11.7392
 },
 {
 "Name": "Horbelev",
 "PostCode": "4871",
-"LatLong": "54.823,12.0584"
+"Latitude": 54.823,
+"Longitude": 12.0584
 },
 {
 "Name": "Idestrup",
 "PostCode": "4872",
-"LatLong": "54.7431,11.9567"
+"Latitude": 54.7431,
+"Longitude": 11.9567
 },
 {
 "Name": "Kettinge",
 "PostCode": "4892",
-"LatLong": "54.6967,11.7283"
+"Latitude": 54.6967,
+"Longitude": 11.7283
 },
 {
 "Name": "Maribo",
 "PostCode": "4930",
-"LatLong": "54.7766,11.5002"
+"Latitude": 54.7766,
+"Longitude": 11.5002
 },
 {
 "Name": "Nørre Alslev",
 "PostCode": "4840",
-"LatLong": "54.8978,11.8841"
+"Latitude": 54.8978,
+"Longitude": 11.8841
 },
 {
 "Name": "Nykøbing F",
 "PostCode": "4800",
-"LatLong": "54.7533,11.8179"
+"Latitude": 54.7533,
+"Longitude": 11.8179
 },
 {
 "Name": "Nysted",
 "PostCode": "4880",
-"LatLong": "54.6651,11.7343"
+"Latitude": 54.6651,
+"Longitude": 11.7343
 },
 {
 "Name": "Øster Ulslev",
 "PostCode": "4894",
-"LatLong": "54.6984,11.6267"
+"Latitude": 54.6984,
+"Longitude": 11.6267
 },
 {
 "Name": "Sakskøbing",
 "PostCode": "4990",
-"LatLong": "54.7997,11.626"
+"Latitude": 54.7997,
+"Longitude": 11.626
 },
 {
 "Name": "Stubbekøbing",
 "PostCode": "4850",
-"LatLong": "54.8888,12.041"
+"Latitude": 54.8888,
+"Longitude": 12.041
 },
 {
 "Name": "Toreby L",
 "PostCode": "4891",
-"LatLong": "54.6906,11.6192"
+"Latitude": 54.6906,
+"Longitude": 11.6192
 },
 {
 "Name": "Væggerløse",
 "PostCode": "4873",
-"LatLong": "54.7124,11.9255"
+"Latitude": 54.7124,
+"Longitude": 11.9255
 }
 ]
 }
@@ -8056,62 +9464,74 @@
 {
 "Name": "Askeby",
 "PostCode": "4792",
-"LatLong": "54.9239,12.1771"
+"Latitude": 54.9239,
+"Longitude": 12.1771
 },
 {
 "Name": "Bogø By",
 "PostCode": "4793",
-"LatLong": "54.923,12.051"
+"Latitude": 54.923,
+"Longitude": 12.051
 },
 {
 "Name": "Borre",
 "PostCode": "4791",
-"LatLong": "54.9959,12.4463"
+"Latitude": 54.9959,
+"Longitude": 12.4463
 },
 {
 "Name": "Kalvehave",
 "PostCode": "4771",
-"LatLong": "54.9973,12.1685"
+"Latitude": 54.9973,
+"Longitude": 12.1685
 },
 {
 "Name": "Langebæk",
 "PostCode": "4772",
-"LatLong": "54.9965,12.0899"
+"Latitude": 54.9965,
+"Longitude": 12.0899
 },
 {
 "Name": "Lundby",
 "PostCode": "4750",
-"LatLong": "55.1089,11.8747"
+"Latitude": 55.1089,
+"Longitude": 11.8747
 },
 {
 "Name": "Mern",
 "PostCode": "4735",
-"LatLong": "55.0482,12.0556"
+"Latitude": 55.0482,
+"Longitude": 12.0556
 },
 {
 "Name": "Præstø",
 "PostCode": "4720",
-"LatLong": "55.1178,12.0573"
+"Latitude": 55.1178,
+"Longitude": 12.0573
 },
 {
 "Name": "Stege",
 "PostCode": "4780",
-"LatLong": "54.987,12.2846"
+"Latitude": 54.987,
+"Longitude": 12.2846
 },
 {
 "Name": "Stensved",
 "PostCode": "4773",
-"LatLong": "54.9971,12.0298"
+"Latitude": 54.9971,
+"Longitude": 12.0298
 },
 {
 "Name": "Tappernøje",
 "PostCode": "4733",
-"LatLong": "55.165,11.9787"
+"Latitude": 55.165,
+"Longitude": 11.9787
 },
 {
 "Name": "Vordingborg",
 "PostCode": "4760",
-"LatLong": "55.008,11.9106"
+"Latitude": 55.008,
+"Longitude": 11.9106
 }
 ]
 }

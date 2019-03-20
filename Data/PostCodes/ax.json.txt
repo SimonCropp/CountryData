@@ -12,12 +12,14 @@
 {
 "Name": "Mariehamn",
 "PostCode": "22100",
-"LatLong": "60.1007,19.9438"
+"Latitude": 60.1007,
+"Longitude": 19.9438
 },
 {
 "Name": "Mariehamn",
 "PostCode": "22101",
-"LatLong": "60.0628,19.9533"
+"Latitude": 60.0628,
+"Longitude": 19.9533
 }
 ]
 }
@@ -38,7 +40,8 @@
 {
 "Name": "Eckerö",
 "PostCode": "22270",
-"LatLong": "60.2203,19.6263"
+"Latitude": 60.2203,
+"Longitude": 19.6263
 }
 ]
 }
@@ -53,27 +56,32 @@
 {
 "Name": "Emkarby",
 "PostCode": "22220",
-"LatLong": "60.2394,19.848"
+"Latitude": 60.2394,
+"Longitude": 19.848
 },
 {
 "Name": "Godby",
 "PostCode": "22410",
-"LatLong": "60.2294,19.982"
+"Latitude": 60.2294,
+"Longitude": 19.982
 },
 {
 "Name": "Godby",
 "PostCode": "22411",
-"LatLong": "60.2235,19.9794"
+"Latitude": 60.2235,
+"Longitude": 19.9794
 },
 {
 "Name": "Pålsböle",
 "PostCode": "22310",
-"LatLong": "60.2756,19.9057"
+"Latitude": 60.2756,
+"Longitude": 19.9057
 },
 {
 "Name": "Tjudö",
 "PostCode": "22330",
-"LatLong": "60.3398,19.9382"
+"Latitude": 60.3398,
+"Longitude": 19.9382
 }
 ]
 }
@@ -88,7 +96,8 @@
 {
 "Name": "Geta",
 "PostCode": "22340",
-"LatLong": "60.3791,19.8878"
+"Latitude": 60.3791,
+"Longitude": 19.8878
 }
 ]
 }
@@ -103,7 +112,8 @@
 {
 "Name": "Hammarland",
 "PostCode": "22240",
-"LatLong": "60.2286,19.7396"
+"Latitude": 60.2286,
+"Longitude": 19.7396
 }
 ]
 }
@@ -118,27 +128,32 @@
 {
 "Name": "Gottby",
 "PostCode": "22130",
-"LatLong": "60.1253,19.8285"
+"Latitude": 60.1253,
+"Longitude": 19.8285
 },
 {
 "Name": "Jomala",
 "PostCode": "22150",
-"LatLong": "60.1617,19.9602"
+"Latitude": 60.1617,
+"Longitude": 19.9602
 },
 {
 "Name": "Jomala",
 "PostCode": "22151",
-"LatLong": "60.1497,19.9521"
+"Latitude": 60.1497,
+"Longitude": 19.9521
 },
 {
 "Name": "Mariehamn",
 "PostCode": "22120",
-"LatLong": "60.1141,19.913"
+"Latitude": 60.1141,
+"Longitude": 19.913
 },
 {
 "Name": "Mariehamn",
 "PostCode": "22140",
-"LatLong": "60.1109,19.9898"
+"Latitude": 60.1109,
+"Longitude": 19.9898
 }
 ]
 }
@@ -153,12 +168,14 @@
 {
 "Name": "Lemland",
 "PostCode": "22610",
-"LatLong": "60.0491,20.1232"
+"Latitude": 60.0491,
+"Longitude": 20.1232
 },
 {
 "Name": "Mariehamn",
 "PostCode": "22160",
-"LatLong": "60.0314,20.0036"
+"Latitude": 60.0314,
+"Longitude": 20.0036
 }
 ]
 }
@@ -173,7 +190,8 @@
 {
 "Name": "Lumparland",
 "PostCode": "22630",
-"LatLong": "60.1204,20.2616"
+"Latitude": 60.1204,
+"Longitude": 20.2616
 }
 ]
 }
@@ -188,12 +206,14 @@
 {
 "Name": "Ödkarby",
 "PostCode": "22320",
-"LatLong": "60.3162,20.0054"
+"Latitude": 60.3162,
+"Longitude": 20.0054
 },
 {
 "Name": "Saltvik",
 "PostCode": "22430",
-"LatLong": "60.3146,20.1073"
+"Latitude": 60.3146,
+"Longitude": 20.1073
 }
 ]
 }
@@ -208,12 +228,14 @@
 {
 "Name": "Kastelholm",
 "PostCode": "22520",
-"LatLong": "60.2383,20.1013"
+"Latitude": 60.2383,
+"Longitude": 20.1013
 },
 {
 "Name": "Sund",
 "PostCode": "22530",
-"LatLong": "60.2275,20.1999"
+"Latitude": 60.2275,
+"Longitude": 20.1999
 }
 ]
 }
@@ -234,32 +256,38 @@
 {
 "Name": "Åva",
 "PostCode": "22940",
-"LatLong": "60.4588,21.1607"
+"Latitude": 60.4588,
+"Longitude": 21.1607
 },
 {
 "Name": "Brändö",
 "PostCode": "22920",
-"LatLong": "60.4138,21.039"
+"Latitude": 60.4138,
+"Longitude": 21.039
 },
 {
 "Name": "Fiskö",
 "PostCode": "22930",
-"LatLong": "60.4525,21.0695"
+"Latitude": 60.4525,
+"Longitude": 21.0695
 },
 {
 "Name": "Jurmo",
 "PostCode": "22950",
-"LatLong": "60.5196,21.0717"
+"Latitude": 60.5196,
+"Longitude": 21.0717
 },
 {
 "Name": "Lappo",
 "PostCode": "22840",
-"LatLong": "60.3107,20.9895"
+"Latitude": 60.3107,
+"Longitude": 20.9895
 },
 {
 "Name": "Torsholma",
 "PostCode": "22910",
-"LatLong": "60.3556,21.0648"
+"Latitude": 60.3556,
+"Longitude": 21.0648
 }
 ]
 }
@@ -274,7 +302,8 @@
 {
 "Name": "Föglö",
 "PostCode": "22710",
-"LatLong": "60.0316,20.4605"
+"Latitude": 60.0316,
+"Longitude": 20.4605
 }
 ]
 }
@@ -289,17 +318,20 @@
 {
 "Name": "Enklinge",
 "PostCode": "22830",
-"LatLong": "60.3349,20.758"
+"Latitude": 60.3349,
+"Longitude": 20.758
 },
 {
 "Name": "Kumlinge",
 "PostCode": "22820",
-"LatLong": "60.261,20.7934"
+"Latitude": 60.261,
+"Longitude": 20.7934
 },
 {
 "Name": "Seglinge",
 "PostCode": "22810",
-"LatLong": "60.2018,20.7098"
+"Latitude": 60.2018,
+"Longitude": 20.7098
 }
 ]
 }
@@ -314,7 +346,8 @@
 {
 "Name": "Kökar",
 "PostCode": "22730",
-"LatLong": "59.9345,20.9298"
+"Latitude": 59.9345,
+"Longitude": 20.9298
 }
 ]
 }
@@ -329,7 +362,8 @@
 {
 "Name": "Sottunga",
 "PostCode": "22720",
-"LatLong": "60.1248,20.6751"
+"Latitude": 60.1248,
+"Longitude": 20.6751
 }
 ]
 }
@@ -344,7 +378,8 @@
 {
 "Name": "Vårdö",
 "PostCode": "22550",
-"LatLong": "60.2607,20.3725"
+"Latitude": 60.2607,
+"Longitude": 20.3725
 }
 ]
 }
