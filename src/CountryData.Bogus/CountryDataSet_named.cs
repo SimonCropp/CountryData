@@ -222,6 +222,11 @@ namespace CountryData.Bogus
             return CountryLoader.LoadJapanLocationData();
         }
 
+        public ICountry SouthKorea()
+        {
+            return CountryLoader.LoadSouthKoreaLocationData();
+        }
+
         public ICountry Liechtenstein()
         {
             return CountryLoader.LoadLiechtensteinLocationData();

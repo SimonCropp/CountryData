@@ -45864,25 +45864,6 @@
 "Code": "SA",
 "Provinces": [
 {
-"Name": "ALICE SPRINGS",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Ernabella",
-"PostCode": "0872",
-"LatLong": "-23.7917,132.6818"
-},
-{
-"Name": "Fregon",
-"PostCode": "0872",
-"LatLong": "-26.7639,132.0277"
-}
-]
-}
-]
-},
-{
 "Communities": [
 {
 "Places": [
@@ -50640,6 +50621,25 @@
 "Name": "Zadows Landing",
 "PostCode": "5254",
 "LatLong": "-35.0406,139.1998"
+}
+]
+}
+]
+},
+{
+"Name": "ALICE SPRINGS",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Ernabella",
+"PostCode": "0872",
+"LatLong": "-23.7917,132.6818"
+},
+{
+"Name": "Fregon",
+"PostCode": "0872",
+"LatLong": "-26.7639,132.0277"
 }
 ]
 }

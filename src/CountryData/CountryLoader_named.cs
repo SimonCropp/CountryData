@@ -221,6 +221,11 @@ namespace CountryData
             return LoadLocationData("JP");
         }
 
+        public static ICountry LoadSouthKoreaLocationData()
+        {
+            return LoadLocationData("KR");
+        }
+
         public static ICountry LoadLiechtensteinLocationData()
         {
             return LoadLocationData("LI");
