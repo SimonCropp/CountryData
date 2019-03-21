@@ -8,7 +8,7 @@ static class CountrySerializer
     public static List<State> Serialize(string country, List<PostCodeRow> rows, string directory)
     {
         var states = new List<State>();
-        foreach (var stateGroup in rows.OrderBy(x=>x.StateCode).GroupBy(x => x.State))
+        foreach (var stateGroup in rows.OrderBy(x => x.StateCode).GroupBy(x => x.State))
         {
             var provinceRows = stateGroup.ToList();
             var state = new State
@@ -53,30 +53,33 @@ static class CountrySerializer
 
                         places.Add(item);
                     }
+
                     community.Places = places;
-                    var placePostCode = places[0].PostCode;
-                    if (places.All(x => x.PostCode == placePostCode))
-                    {
-                        community.PostCode = placePostCode;
-                    }
+                    community.PostCode = RollupPostcodes(places.Select(x => x.PostCode));
                 }
+
                 province.Communities = communities;
-                var communityPostCode = communities[0].PostCode;
-                if (communities.All(x => x.PostCode == communityPostCode))
-                {
-                    province.PostCode = communityPostCode;
-                }
-                state.Provinces= provinces;
+                province.PostCode = RollupPostcodes(communities.Select(x => x.PostCode));
             }
-            var provincePostCode = provinces[0].PostCode;
-            if (provinces.All(x => x.PostCode == provincePostCode))
-            {
-                state.PostCode = provincePostCode;
-            }
+            state.Provinces = provinces;
+
+            state.PostCode = RollupPostcodes(provinces.Select(x => x.PostCode));
         }
 
         var path = Path.Combine(directory, country + ".json.txt");
         JsonSerializer.Serialize(states, path);
         return states;
+    }
+
+    static string RollupPostcodes(IEnumerable<string> postcodes)
+    {
+        // ReSharper disable PossibleMultipleEnumeration
+        var firstPostCode = postcodes.First();
+        if (postcodes.All(x => x == firstPostCode))
+        {
+            return firstPostCode;
+        }
+
+        return null;
     }
 }
