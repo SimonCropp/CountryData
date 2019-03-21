@@ -68,6 +68,11 @@ static class CountrySerializer
                 }
                 state.Provinces= provinces;
             }
+            var provincePostCode = provinces[0].PostCode;
+            if (provinces.All(x => x.PostCode == provincePostCode))
+            {
+                state.PostCode = provincePostCode;
+            }
         }
 
         var path = Path.Combine(directory, country + ".json.txt");

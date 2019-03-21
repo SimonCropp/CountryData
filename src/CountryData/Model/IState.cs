@@ -6,6 +6,7 @@ namespace CountryData
     {
         string Name { get; }
         string Code { get; }
+        string PostCode { get; }
         IReadOnlyList<IProvince> Provinces { get; }
     }
 }
