@@ -6,6 +6,7 @@
 {
 "Name": "Eisenstadt Stadt",
 "Code": "101",
+"PostCode": "7000",
 "Communities": [
 {
 "Name": "Eisenstadt",
@@ -29,13 +30,15 @@
 "Latitude": 47.85,
 "Longitude": 16.55
 }
-]
+],
+"PostCode": "7000"
 }
 ]
 },
 {
 "Name": "Rust Stadt",
 "Code": "102",
+"PostCode": "7071",
 "Communities": [
 {
 "Name": "Rust",
@@ -47,7 +50,8 @@
 "Latitude": 47.8012,
 "Longitude": 16.6716
 }
-]
+],
+"PostCode": "7071"
 }
 ]
 },
@@ -65,7 +69,8 @@
 "Latitude": 47.9445,
 "Longitude": 16.7315
 }
-]
+],
+"PostCode": "7091"
 },
 {
 "Name": "Donnerskirchen",
@@ -77,7 +82,8 @@
 "Latitude": 47.8942,
 "Longitude": 16.6463
 }
-]
+],
+"PostCode": "7082"
 },
 {
 "Name": "Großhöflein",
@@ -89,7 +95,8 @@
 "Latitude": 47.8359,
 "Longitude": 16.4804
 }
-]
+],
+"PostCode": "7051"
 },
 {
 "Name": "Hornstein",
@@ -119,7 +126,8 @@
 "Latitude": 47.7728,
 "Longitude": 16.5281
 }
-]
+],
+"PostCode": "7013"
 },
 {
 "Name": "Leithaprodersdorf",
@@ -131,7 +139,8 @@
 "Latitude": 47.9335,
 "Longitude": 16.4791
 }
-]
+],
+"PostCode": "2443"
 },
 {
 "Name": "Mörbisch am See",
@@ -143,7 +152,8 @@
 "Latitude": 47.75,
 "Longitude": 16.6667
 }
-]
+],
+"PostCode": "7072"
 },
 {
 "Name": "Müllendorf",
@@ -155,7 +165,8 @@
 "Latitude": 47.8394,
 "Longitude": 16.4626
 }
-]
+],
+"PostCode": "7052"
 },
 {
 "Name": "Neufeld an der Leitha",
@@ -167,7 +178,8 @@
 "Latitude": 47.8656,
 "Longitude": 16.3786
 }
-]
+],
+"PostCode": "2491"
 },
 {
 "Name": "Oggau am Neusiedler See",
@@ -179,7 +191,8 @@
 "Latitude": 47.8333,
 "Longitude": 16.6667
 }
-]
+],
+"PostCode": "7063"
 },
 {
 "Name": "Oslip",
@@ -191,7 +204,8 @@
 "Latitude": 47.8291,
 "Longitude": 16.6196
 }
-]
+],
+"PostCode": "7064"
 },
 {
 "Name": "Purbach am Neusiedler See",
@@ -203,7 +217,8 @@
 "Latitude": 47.9129,
 "Longitude": 16.6956
 }
-]
+],
+"PostCode": "7083"
 },
 {
 "Name": "Sankt Margarethen im Burgenland",
@@ -215,7 +230,8 @@
 "Latitude": 47.8034,
 "Longitude": 16.6088
 }
-]
+],
+"PostCode": "7062"
 },
 {
 "Name": "Schützen am Gebirge",
@@ -227,7 +243,8 @@
 "Latitude": 47.8523,
 "Longitude": 16.6233
 }
-]
+],
+"PostCode": "7081"
 },
 {
 "Name": "Siegendorf",
@@ -239,7 +256,8 @@
 "Latitude": 47.781,
 "Longitude": 16.5423
 }
-]
+],
+"PostCode": "7011"
 },
 {
 "Name": "Steinbrunn",
@@ -269,7 +287,8 @@
 "Latitude": 47.8219,
 "Longitude": 16.6317
 }
-]
+],
+"PostCode": "7061"
 },
 {
 "Name": "Wimpassing an der Leitha",
@@ -281,7 +300,8 @@
 "Latitude": 47.9167,
 "Longitude": 16.4333
 }
-]
+],
+"PostCode": "2485"
 },
 {
 "Name": "Wulkaprodersdorf",
@@ -293,7 +313,8 @@
 "Latitude": 47.7975,
 "Longitude": 16.5045
 }
-]
+],
+"PostCode": "7041"
 },
 {
 "Name": "Loretto",
@@ -305,7 +326,8 @@
 "Latitude": 47.9156,
 "Longitude": 16.5179
 }
-]
+],
+"PostCode": "2443"
 },
 {
 "Name": "Stotzing",
@@ -317,7 +339,8 @@
 "Latitude": 47.9,
 "Longitude": 16.55
 }
-]
+],
+"PostCode": "2443"
 },
 {
 "Name": "Zillingtal",
@@ -353,7 +376,8 @@
 "Latitude": 47.7647,
 "Longitude": 16.5138
 }
-]
+],
+"PostCode": "7012"
 }
 ]
 },
@@ -371,7 +395,8 @@
 "Latitude": 47.1333,
 "Longitude": 16.1667
 }
-]
+],
+"PostCode": "7551"
 },
 {
 "Name": "Burgauberg-Neudauberg",
@@ -509,7 +534,8 @@
 "Latitude": 47.1667,
 "Longitude": 16.3
 }
-]
+],
+"PostCode": "7536"
 },
 {
 "Name": "Heiligenbrunn",
@@ -545,7 +571,8 @@
 "Latitude": 47.0104,
 "Longitude": 16.3888
 }
-]
+],
+"PostCode": "7522"
 },
 {
 "Name": "Kukmirn",
@@ -575,7 +602,8 @@
 "Latitude": 47.1,
 "Longitude": 16.1833
 }
-]
+],
+"PostCode": "7543"
 },
 {
 "Name": "Neuberg im Burgenland",
@@ -587,7 +615,8 @@
 "Latitude": 47.1591,
 "Longitude": 16.2209
 }
-]
+],
+"PostCode": "7537"
 },
 {
 "Name": "Neustift bei Güssing",
@@ -599,7 +628,8 @@
 "Latitude": 47.0167,
 "Longitude": 16.2667
 }
-]
+],
+"PostCode": "7540"
 },
 {
 "Name": "Olbendorf",
@@ -611,7 +641,8 @@
 "Latitude": 47.1833,
 "Longitude": 16.2
 }
-]
+],
+"PostCode": "7534"
 },
 {
 "Name": "Ollersdorf im Burgenland",
@@ -623,7 +654,8 @@
 "Latitude": 47.1833,
 "Longitude": 16.1667
 }
-]
+],
+"PostCode": "7533"
 },
 {
 "Name": "Sankt Michael im Burgenland",
@@ -647,7 +679,8 @@
 "Latitude": 47.1167,
 "Longitude": 16.25
 }
-]
+],
+"PostCode": "7535"
 },
 {
 "Name": "Stegersbach",
@@ -659,7 +692,8 @@
 "Latitude": 47.1667,
 "Longitude": 16.1667
 }
-]
+],
+"PostCode": "7551"
 },
 {
 "Name": "Stinatz",
@@ -671,7 +705,8 @@
 "Latitude": 47.2,
 "Longitude": 16.1167
 }
-]
+],
+"PostCode": "7552"
 },
 {
 "Name": "Strem",
@@ -701,7 +736,8 @@
 "Latitude": 47.0445,
 "Longitude": 16.3935
 }
-]
+],
+"PostCode": "7522"
 },
 {
 "Name": "Tobaj",
@@ -743,7 +779,8 @@
 "Latitude": 47.1,
 "Longitude": 16.2833
 }
-]
+],
+"PostCode": "7544"
 },
 {
 "Name": "Hackerberg",
@@ -755,7 +792,8 @@
 "Latitude": 47.2,
 "Longitude": 16.1167
 }
-]
+],
+"PostCode": "8292"
 },
 {
 "Name": "Wörterberg",
@@ -767,7 +805,8 @@
 "Latitude": 47.2167,
 "Longitude": 16.1
 }
-]
+],
+"PostCode": "8293"
 },
 {
 "Name": "Großmürbisch",
@@ -779,7 +818,8 @@
 "Latitude": 47.0164,
 "Longitude": 16.362
 }
-]
+],
+"PostCode": "7540"
 },
 {
 "Name": "Inzenhof",
@@ -791,7 +831,8 @@
 "Latitude": 47.0167,
 "Longitude": 16.3167
 }
-]
+],
+"PostCode": "7540"
 },
 {
 "Name": "Kleinmürbisch",
@@ -803,7 +844,8 @@
 "Latitude": 47.033,
 "Longitude": 16.3245
 }
-]
+],
+"PostCode": "7540"
 },
 {
 "Name": "Tschanigraben",
@@ -815,7 +857,8 @@
 "Latitude": 47.0677,
 "Longitude": 16.2921
 }
-]
+],
+"PostCode": "7540"
 },
 {
 "Name": "Heugraben",
@@ -827,7 +870,8 @@
 "Latitude": 47.1167,
 "Longitude": 16.1833
 }
-]
+],
+"PostCode": "7551"
 },
 {
 "Name": "Rohr im Burgenland",
@@ -839,7 +883,8 @@
 "Latitude": 47.1167,
 "Longitude": 16.1667
 }
-]
+],
+"PostCode": "7551"
 },
 {
 "Name": "Bildein",
@@ -857,7 +902,8 @@
 "Latitude": 47.1284,
 "Longitude": 16.4679
 }
-]
+],
+"PostCode": "7521"
 },
 {
 "Name": "Rauchwart",
@@ -887,7 +933,8 @@
 "Latitude": 47.0584,
 "Longitude": 16.4773
 }
-]
+],
+"PostCode": "7540"
 }
 ]
 },
@@ -911,7 +958,8 @@
 "Latitude": 47.1244,
 "Longitude": 16.1151
 }
-]
+],
+"PostCode": "7572"
 },
 {
 "Name": "Eltendorf",
@@ -929,7 +977,8 @@
 "Latitude": 47.0333,
 "Longitude": 16.2
 }
-]
+],
+"PostCode": "7562"
 },
 {
 "Name": "Heiligenkreuz im Lafnitztal",
@@ -947,7 +996,8 @@
 "Latitude": 46.9969,
 "Longitude": 16.225
 }
-]
+],
+"PostCode": "7561"
 },
 {
 "Name": "Jennersdorf",
@@ -1007,7 +1057,8 @@
 "Latitude": 46.8908,
 "Longitude": 16.0954
 }
-]
+],
+"PostCode": "8384"
 },
 {
 "Name": "Mogersdorf",
@@ -1031,7 +1082,8 @@
 "Latitude": 46.9719,
 "Longitude": 16.2333
 }
-]
+],
+"PostCode": "8382"
 },
 {
 "Name": "Neuhaus am Klausenbach",
@@ -1187,7 +1239,8 @@
 "Latitude": 46.9425,
 "Longitude": 16.1875
 }
-]
+],
+"PostCode": "8382"
 },
 {
 "Name": "Königsdorf",
@@ -1199,7 +1252,8 @@
 "Latitude": 47.0,
 "Longitude": 16.1667
 }
-]
+],
+"PostCode": "7563"
 },
 {
 "Name": "Mühlgraben",
@@ -1211,7 +1265,8 @@
 "Latitude": 46.8897,
 "Longitude": 16.0408
 }
-]
+],
+"PostCode": "8385"
 }
 ]
 },
@@ -1229,7 +1284,8 @@
 "Latitude": 47.7465,
 "Longitude": 16.4868
 }
-]
+],
+"PostCode": "7021"
 },
 {
 "Name": "Forchtenstein",
@@ -1241,7 +1297,8 @@
 "Latitude": 47.7116,
 "Longitude": 16.3453
 }
-]
+],
+"PostCode": "7212"
 },
 {
 "Name": "Hirm",
@@ -1253,7 +1310,8 @@
 "Latitude": 47.7865,
 "Longitude": 16.4546
 }
-]
+],
+"PostCode": "7024"
 },
 {
 "Name": "Loipersbach im Burgenland",
@@ -1265,7 +1323,8 @@
 "Latitude": 47.6966,
 "Longitude": 16.4792
 }
-]
+],
+"PostCode": "7020"
 },
 {
 "Name": "Marz",
@@ -1277,7 +1336,8 @@
 "Latitude": 47.7167,
 "Longitude": 16.4167
 }
-]
+],
+"PostCode": "7221"
 },
 {
 "Name": "Mattersburg",
@@ -1295,7 +1355,8 @@
 "Latitude": 47.7333,
 "Longitude": 16.4
 }
-]
+],
+"PostCode": "7210"
 },
 {
 "Name": "Neudörfl",
@@ -1307,7 +1368,8 @@
 "Latitude": 47.7966,
 "Longitude": 16.2977
 }
-]
+],
+"PostCode": "7201"
 },
 {
 "Name": "Pöttelsdorf",
@@ -1319,7 +1381,8 @@
 "Latitude": 47.7537,
 "Longitude": 16.4386
 }
-]
+],
+"PostCode": "7023"
 },
 {
 "Name": "Pöttsching",
@@ -1349,7 +1412,8 @@
 "Latitude": 47.7052,
 "Longitude": 16.4301
 }
-]
+],
+"PostCode": "7222"
 },
 {
 "Name": "Bad Sauerbrunn",
@@ -1361,7 +1425,8 @@
 "Latitude": 47.7744,
 "Longitude": 16.3284
 }
-]
+],
+"PostCode": "7202"
 },
 {
 "Name": "Schattendorf",
@@ -1373,7 +1438,8 @@
 "Latitude": 47.7097,
 "Longitude": 16.5098
 }
-]
+],
+"PostCode": "7022"
 },
 {
 "Name": "Sieggraben",
@@ -1385,7 +1451,8 @@
 "Latitude": 47.6513,
 "Longitude": 16.3799
 }
-]
+],
+"PostCode": "7223"
 },
 {
 "Name": "Sigleß",
@@ -1397,7 +1464,8 @@
 "Latitude": 47.7753,
 "Longitude": 16.395
 }
-]
+],
+"PostCode": "7032"
 },
 {
 "Name": "Wiesen",
@@ -1427,7 +1495,8 @@
 "Latitude": 47.7738,
 "Longitude": 16.4798
 }
-]
+],
+"PostCode": "7042"
 },
 {
 "Name": "Baumgarten",
@@ -1439,7 +1508,8 @@
 "Latitude": 47.7389,
 "Longitude": 16.5006
 }
-]
+],
+"PostCode": "7021"
 },
 {
 "Name": "Zemendorf-Stöttera",
@@ -1457,7 +1527,8 @@
 "Latitude": 47.7628,
 "Longitude": 16.4511
 }
-]
+],
+"PostCode": "7023"
 },
 {
 "Name": "Krensdorf",
@@ -1469,7 +1540,8 @@
 "Latitude": 47.7855,
 "Longitude": 16.4149
 }
-]
+],
+"PostCode": "7031"
 }
 ]
 },
@@ -1487,7 +1559,8 @@
 "Latitude": 47.7744,
 "Longitude": 17.0329
 }
-]
+],
+"PostCode": "7163"
 },
 {
 "Name": "Apetlon",
@@ -1547,7 +1620,8 @@
 "Latitude": 48.0167,
 "Longitude": 17.1
 }
-]
+],
+"PostCode": "2423"
 },
 {
 "Name": "Frauenkirchen",
@@ -1559,7 +1633,8 @@
 "Latitude": 47.8368,
 "Longitude": 16.9258
 }
-]
+],
+"PostCode": "7132"
 },
 {
 "Name": "Gattendorf",
@@ -1571,7 +1646,8 @@
 "Latitude": 48.0167,
 "Longitude": 16.9833
 }
-]
+],
+"PostCode": "2474"
 },
 {
 "Name": "Gols",
@@ -1583,7 +1659,8 @@
 "Latitude": 47.8969,
 "Longitude": 16.9111
 }
-]
+],
+"PostCode": "7122"
 },
 {
 "Name": "Halbturn",
@@ -1595,7 +1672,8 @@
 "Latitude": 47.8702,
 "Longitude": 16.9754
 }
-]
+],
+"PostCode": "7131"
 },
 {
 "Name": "Illmitz",
@@ -1607,7 +1685,8 @@
 "Latitude": 47.7615,
 "Longitude": 16.8002
 }
-]
+],
+"PostCode": "7142"
 },
 {
 "Name": "Jois",
@@ -1619,7 +1698,8 @@
 "Latitude": 47.9617,
 "Longitude": 16.796
 }
-]
+],
+"PostCode": "7093"
 },
 {
 "Name": "Kittsee",
@@ -1631,7 +1711,8 @@
 "Latitude": 48.0925,
 "Longitude": 17.0639
 }
-]
+],
+"PostCode": "2421"
 },
 {
 "Name": "Mönchhof",
@@ -1643,7 +1724,8 @@
 "Latitude": 47.8802,
 "Longitude": 16.9413
 }
-]
+],
+"PostCode": "7123"
 },
 {
 "Name": "Neusiedl am See",
@@ -1655,7 +1737,8 @@
 "Latitude": 47.949,
 "Longitude": 16.8417
 }
-]
+],
+"PostCode": "7100"
 },
 {
 "Name": "Nickelsdorf",
@@ -1667,7 +1750,8 @@
 "Latitude": 47.9406,
 "Longitude": 17.0694
 }
-]
+],
+"PostCode": "2425"
 },
 {
 "Name": "Pama",
@@ -1679,7 +1763,8 @@
 "Latitude": 48.05,
 "Longitude": 17.0333
 }
-]
+],
+"PostCode": "2422"
 },
 {
 "Name": "Pamhagen",
@@ -1691,7 +1776,8 @@
 "Latitude": 47.7009,
 "Longitude": 16.9078
 }
-]
+],
+"PostCode": "7152"
 },
 {
 "Name": "Parndorf",
@@ -1721,7 +1807,8 @@
 "Latitude": 47.8541,
 "Longitude": 16.8371
 }
-]
+],
+"PostCode": "7141"
 },
 {
 "Name": "Sankt Andrä am Zicksee",
@@ -1733,7 +1820,8 @@
 "Latitude": 47.7841,
 "Longitude": 16.9419
 }
-]
+],
+"PostCode": "7161"
 },
 {
 "Name": "Tadten",
@@ -1745,7 +1833,8 @@
 "Latitude": 47.7667,
 "Longitude": 16.9833
 }
-]
+],
+"PostCode": "7162"
 },
 {
 "Name": "Wallern im Burgenland",
@@ -1793,7 +1882,8 @@
 "Latitude": 47.95,
 "Longitude": 16.75
 }
-]
+],
+"PostCode": "7092"
 },
 {
 "Name": "Zurndorf",
@@ -1805,7 +1895,8 @@
 "Latitude": 47.9831,
 "Longitude": 17.0031
 }
-]
+],
+"PostCode": "2424"
 },
 {
 "Name": "Neudorf",
@@ -1817,7 +1908,8 @@
 "Latitude": 48.0167,
 "Longitude": 16.9333
 }
-]
+],
+"PostCode": "2475"
 },
 {
 "Name": "Potzneusiedl",
@@ -1829,7 +1921,8 @@
 "Latitude": 48.045,
 "Longitude": 16.9477
 }
-]
+],
+"PostCode": "2473"
 },
 {
 "Name": "Edelstal",
@@ -1841,7 +1934,8 @@
 "Latitude": 48.1,
 "Longitude": 16.9833
 }
-]
+],
+"PostCode": "2413"
 }
 ]
 },
@@ -1865,7 +1959,8 @@
 "Latitude": 47.6,
 "Longitude": 16.6067
 }
-]
+],
+"PostCode": "7301"
 },
 {
 "Name": "Draßmarkt",
@@ -1949,7 +2044,8 @@
 "Latitude": 47.5129,
 "Longitude": 16.5705
 }
-]
+],
+"PostCode": "7304"
 },
 {
 "Name": "Horitschon",
@@ -1967,7 +2063,8 @@
 "Latitude": 47.5905,
 "Longitude": 16.582
 }
-]
+],
+"PostCode": "7312"
 },
 {
 "Name": "Kaisersdorf",
@@ -1979,7 +2076,8 @@
 "Latitude": 47.5374,
 "Longitude": 16.392
 }
-]
+],
+"PostCode": "7342"
 },
 {
 "Name": "Kobersdorf",
@@ -2015,7 +2113,8 @@
 "Latitude": 47.5904,
 "Longitude": 16.4653
 }
-]
+],
+"PostCode": "7322"
 },
 {
 "Name": "Lockenhaus",
@@ -2051,7 +2150,8 @@
 "Latitude": 47.4075,
 "Longitude": 16.4162
 }
-]
+],
+"PostCode": "7442"
 },
 {
 "Name": "Lutzmannsburg",
@@ -2069,7 +2169,8 @@
 "Latitude": 47.4578,
 "Longitude": 16.6191
 }
-]
+],
+"PostCode": "7361"
 },
 {
 "Name": "Mannersdorf an der Rabnitz",
@@ -2153,7 +2254,8 @@
 "Latitude": 47.5996,
 "Longitude": 16.5467
 }
-]
+],
+"PostCode": "7311"
 },
 {
 "Name": "Neutal",
@@ -2165,7 +2267,8 @@
 "Latitude": 47.5455,
 "Longitude": 16.4462
 }
-]
+],
+"PostCode": "7343"
 },
 {
 "Name": "Nikitsch",
@@ -2261,7 +2364,8 @@
 "Latitude": 47.475,
 "Longitude": 16.3166
 }
-]
+],
+"PostCode": "7441"
 },
 {
 "Name": "Piringsdorf",
@@ -2273,7 +2377,8 @@
 "Latitude": 47.4483,
 "Longitude": 16.4152
 }
-]
+],
+"PostCode": "7373"
 },
 {
 "Name": "Raiding",
@@ -2285,7 +2390,8 @@
 "Latitude": 47.5658,
 "Longitude": 16.5306
 }
-]
+],
+"PostCode": "7321"
 },
 {
 "Name": "Ritzing",
@@ -2297,7 +2403,8 @@
 "Latitude": 47.6132,
 "Longitude": 16.4955
 }
-]
+],
+"PostCode": "7323"
 },
 {
 "Name": "Steinberg-Dörfl",
@@ -2315,7 +2422,8 @@
 "Latitude": 47.4743,
 "Longitude": 16.4876
 }
-]
+],
+"PostCode": "7453"
 },
 {
 "Name": "Stoob",
@@ -2357,7 +2465,8 @@
 "Latitude": 47.5795,
 "Longitude": 16.4268
 }
-]
+],
+"PostCode": "7331"
 },
 {
 "Name": "Lackendorf",
@@ -2369,7 +2478,8 @@
 "Latitude": 47.59,
 "Longitude": 16.504
 }
-]
+],
+"PostCode": "7321"
 },
 {
 "Name": "Unterfrauenhaid",
@@ -2381,7 +2491,8 @@
 "Latitude": 47.5712,
 "Longitude": 16.4988
 }
-]
+],
+"PostCode": "7321"
 },
 {
 "Name": "Unterrabnitz-Schwendgraben",
@@ -2399,7 +2510,8 @@
 "Latitude": 47.4539,
 "Longitude": 16.3768
 }
-]
+],
+"PostCode": "7371"
 },
 {
 "Name": "Weingraben",
@@ -2411,7 +2523,8 @@
 "Latitude": 47.5139,
 "Longitude": 16.3637
 }
-]
+],
+"PostCode": "7374"
 },
 {
 "Name": "Oberloisdorf",
@@ -2423,7 +2536,8 @@
 "Latitude": 47.4474,
 "Longitude": 16.5076
 }
-]
+],
+"PostCode": "7451"
 }
 ]
 },
@@ -2453,7 +2567,8 @@
 "Latitude": 47.3333,
 "Longitude": 16.2333
 }
-]
+],
+"PostCode": "7431"
 },
 {
 "Name": "Bernstein",
@@ -2531,7 +2646,8 @@
 "Latitude": 47.139,
 "Longitude": 16.4154
 }
-]
+],
+"PostCode": "7474"
 },
 {
 "Name": "Grafenschachen",
@@ -2549,7 +2665,8 @@
 "Latitude": 47.3785,
 "Longitude": 16.0375
 }
-]
+],
+"PostCode": "7423"
 },
 {
 "Name": "Großpetersdorf",
@@ -2585,7 +2702,8 @@
 "Latitude": 47.2333,
 "Longitude": 16.35
 }
-]
+],
+"PostCode": "7503"
 },
 {
 "Name": "Hannersdorf",
@@ -2627,7 +2745,8 @@
 "Latitude": 47.2333,
 "Longitude": 16.15
 }
-]
+],
+"PostCode": "7531"
 },
 {
 "Name": "Kohfidisch",
@@ -2651,7 +2770,8 @@
 "Latitude": 47.1747,
 "Longitude": 16.357
 }
-]
+],
+"PostCode": "7512"
 },
 {
 "Name": "Litzelsdorf",
@@ -2663,7 +2783,8 @@
 "Latitude": 47.2,
 "Longitude": 16.15
 }
-]
+],
+"PostCode": "7532"
 },
 {
 "Name": "Loipersdorf-Kitzladen",
@@ -2681,7 +2802,8 @@
 "Latitude": 47.3333,
 "Longitude": 16.0833
 }
-]
+],
+"PostCode": "7410"
 },
 {
 "Name": "Mariasdorf",
@@ -2717,7 +2839,8 @@
 "Latitude": 47.4,
 "Longitude": 16.2167
 }
-]
+],
+"PostCode": "7433"
 },
 {
 "Name": "Markt Allhau",
@@ -2735,7 +2858,8 @@
 "Latitude": 47.2833,
 "Longitude": 16.0833
 }
-]
+],
+"PostCode": "7411"
 },
 {
 "Name": "Markt Neuhodis",
@@ -2753,7 +2877,8 @@
 "Latitude": 47.2956,
 "Longitude": 16.3956
 }
-]
+],
+"PostCode": "7464"
 },
 {
 "Name": "Mischendorf",
@@ -2795,7 +2920,8 @@
 "Latitude": 47.2,
 "Longitude": 16.2833
 }
-]
+],
+"PostCode": "7511"
 },
 {
 "Name": "Oberdorf im Burgenland",
@@ -2807,7 +2933,8 @@
 "Latitude": 47.2167,
 "Longitude": 16.2167
 }
-]
+],
+"PostCode": "7501"
 },
 {
 "Name": "Oberschützen",
@@ -2879,7 +3006,8 @@
 "Latitude": 47.2988,
 "Longitude": 16.2381
 }
-]
+],
+"PostCode": "7400"
 },
 {
 "Name": "Pinkafeld",
@@ -2915,7 +3043,8 @@
 "Latitude": 47.3047,
 "Longitude": 16.441
 }
-]
+],
+"PostCode": "7471"
 },
 {
 "Name": "Riedlingsdorf",
@@ -2927,7 +3056,8 @@
 "Latitude": 47.35,
 "Longitude": 16.1333
 }
-]
+],
+"PostCode": "7422"
 },
 {
 "Name": "Rotenturm an der Pinka",
@@ -2951,7 +3081,8 @@
 "Latitude": 47.281,
 "Longitude": 16.2808
 }
-]
+],
+"PostCode": "7501"
 },
 {
 "Name": "Schachendorf",
@@ -3071,7 +3202,8 @@
 "Latitude": 47.2485,
 "Longitude": 16.2906
 }
-]
+],
+"PostCode": "7501"
 },
 {
 "Name": "Weiden bei Rechnitz",
@@ -3173,7 +3305,8 @@
 "Latitude": 47.3833,
 "Longitude": 16.1333
 }
-]
+],
+"PostCode": "7423"
 },
 {
 "Name": "Wolfau",
@@ -3185,7 +3318,8 @@
 "Latitude": 47.25,
 "Longitude": 16.1
 }
-]
+],
+"PostCode": "7412"
 },
 {
 "Name": "Neustift an der Lafnitz",
@@ -3197,7 +3331,8 @@
 "Latitude": 47.3667,
 "Longitude": 16.0333
 }
-]
+],
+"PostCode": "7423"
 },
 {
 "Name": "Jabing",
@@ -3209,7 +3344,8 @@
 "Latitude": 47.25,
 "Longitude": 16.2833
 }
-]
+],
+"PostCode": "7503"
 },
 {
 "Name": "Badersdorf",
@@ -3221,7 +3357,8 @@
 "Latitude": 47.2,
 "Longitude": 16.3667
 }
-]
+],
+"PostCode": "7512"
 },
 {
 "Name": "Schandorf",
@@ -3233,7 +3370,8 @@
 "Latitude": 47.2418,
 "Longitude": 16.4227
 }
-]
+],
+"PostCode": "7472"
 }
 ]
 }
@@ -5675,7 +5813,8 @@
 "Latitude": 46.5782,
 "Longitude": 14.5256
 }
-]
+],
+"PostCode": "9131"
 },
 {
 "Name": "Keutschach am See",
@@ -5771,7 +5910,8 @@
 "Latitude": 46.5908,
 "Longitude": 14.2106
 }
-]
+],
+"PostCode": "9074"
 },
 {
 "Name": "Köttmannsdorf",
@@ -6185,7 +6325,8 @@
 "Latitude": 46.5408,
 "Longitude": 14.2827
 }
-]
+],
+"PostCode": "9161"
 },
 {
 "Name": "Maria Saal",
@@ -6953,7 +7094,8 @@
 "Latitude": 46.55,
 "Longitude": 14.4333
 }
-]
+],
+"PostCode": "9173"
 },
 {
 "Name": "Schiefling am Wörthersee",
@@ -10601,7 +10743,8 @@
 "Latitude": 46.9214,
 "Longitude": 14.2842
 }
-]
+],
+"PostCode": "9341"
 },
 {
 "Name": "Weitensfeld im Gurktal",
@@ -11273,7 +11416,8 @@
 "Latitude": 46.8128,
 "Longitude": 13.8133
 }
-]
+],
+"PostCode": "9546"
 },
 {
 "Name": "Baldramsdorf",
@@ -11471,7 +11615,8 @@
 "Latitude": 46.7503,
 "Longitude": 13.1013
 }
-]
+],
+"PostCode": "9772"
 },
 {
 "Name": "Großkirchheim",
@@ -11561,7 +11706,8 @@
 "Latitude": 46.9822,
 "Longitude": 12.9136
 }
-]
+],
+"PostCode": "9843"
 },
 {
 "Name": "Flattach",
@@ -11621,7 +11767,8 @@
 "Latitude": 46.95,
 "Longitude": 13.1167
 }
-]
+],
+"PostCode": "9831"
 },
 {
 "Name": "Gmünd in Kärnten",
@@ -11717,7 +11864,8 @@
 "Latitude": 46.9167,
 "Longitude": 13.5333
 }
-]
+],
+"PostCode": "9853"
 },
 {
 "Name": "Greifenburg",
@@ -11831,7 +11979,8 @@
 "Latitude": 46.7365,
 "Longitude": 13.2219
 }
-]
+],
+"PostCode": "9761"
 },
 {
 "Name": "Heiligenblut am Großglockner",
@@ -11903,7 +12052,8 @@
 "Latitude": 46.9443,
 "Longitude": 12.891
 }
-]
+],
+"PostCode": "9844"
 },
 {
 "Name": "Irschen",
@@ -12065,7 +12215,8 @@
 "Latitude": 46.7817,
 "Longitude": 13.3753
 }
-]
+],
+"PostCode": "9753"
 },
 {
 "Name": "Lendorf",
@@ -12155,7 +12306,8 @@
 "Latitude": 46.9499,
 "Longitude": 13.2027
 }
-]
+],
+"PostCode": "9822"
 },
 {
 "Name": "Malta",
@@ -12371,7 +12523,8 @@
 "Latitude": 46.8154,
 "Longitude": 13.5747
 }
-]
+],
+"PostCode": "9872"
 },
 {
 "Name": "Mörtschach",
@@ -12461,7 +12614,8 @@
 "Latitude": 46.8333,
 "Longitude": 13.35
 }
-]
+],
+"PostCode": "9814"
 },
 {
 "Name": "Oberdrauburg",
@@ -12521,7 +12675,8 @@
 "Latitude": 46.7664,
 "Longitude": 12.9653
 }
-]
+],
+"PostCode": "9781"
 },
 {
 "Name": "Obervellach",
@@ -12641,7 +12796,8 @@
 "Latitude": 46.9499,
 "Longitude": 13.2027
 }
-]
+],
+"PostCode": "9821"
 },
 {
 "Name": "Radenthein",
@@ -13019,7 +13175,8 @@
 "Latitude": 46.8292,
 "Longitude": 13.355
 }
-]
+],
+"PostCode": "9751"
 },
 {
 "Name": "Seeboden am Millstätter See",
@@ -13445,7 +13602,8 @@
 "Latitude": 46.9,
 "Longitude": 13.0667
 }
-]
+],
+"PostCode": "9832"
 },
 {
 "Name": "Steinfeld",
@@ -13655,7 +13813,8 @@
 "Latitude": 46.7333,
 "Longitude": 13.2333
 }
-]
+],
+"PostCode": "9762"
 },
 {
 "Name": "Winklern",
@@ -14177,7 +14336,8 @@
 "Latitude": 46.7392,
 "Longitude": 13.7775
 }
-]
+],
+"PostCode": "9542"
 },
 {
 "Name": "Arnoldstein",
@@ -14405,7 +14565,8 @@
 "Latitude": 46.7403,
 "Longitude": 13.8817
 }
-]
+],
+"PostCode": "9543"
 },
 {
 "Name": "Bad Bleiberg",
@@ -14459,7 +14620,8 @@
 "Latitude": 46.5775,
 "Longitude": 13.6067
 }
-]
+],
+"PostCode": "9613"
 },
 {
 "Name": "Feld am See",
@@ -14513,7 +14675,8 @@
 "Latitude": 46.7667,
 "Longitude": 13.7667
 }
-]
+],
+"PostCode": "9544"
 },
 {
 "Name": "Ferndorf",
@@ -16271,7 +16434,8 @@
 "Latitude": 46.5833,
 "Longitude": 14.8167
 }
-]
+],
+"PostCode": "9150"
 },
 {
 "Name": "Diex",
@@ -16583,7 +16747,8 @@
 "Latitude": 46.5782,
 "Longitude": 14.5256
 }
-]
+],
+"PostCode": "9135"
 },
 {
 "Name": "Feistritz ob Bleiburg",
@@ -17123,7 +17288,8 @@
 "Latitude": 46.7333,
 "Longitude": 14.7333
 }
-]
+],
+"PostCode": "9112"
 },
 {
 "Name": "Neuhaus",
@@ -17225,7 +17391,8 @@
 "Latitude": 46.6113,
 "Longitude": 14.8262
 }
-]
+],
+"PostCode": "9155"
 },
 {
 "Name": "Ruden",
@@ -17339,7 +17506,8 @@
 "Latitude": 46.7002,
 "Longitude": 14.7274
 }
-]
+],
+"PostCode": "9113"
 },
 {
 "Name": "St. Kanzian am Klopeiner See",
@@ -17741,7 +17909,8 @@
 "Latitude": 46.5782,
 "Longitude": 14.5256
 }
-]
+],
+"PostCode": "9133"
 },
 {
 "Name": "Völkermarkt",
@@ -18689,7 +18858,8 @@
 "Latitude": 46.9333,
 "Longitude": 14.9
 }
-]
+],
+"PostCode": "9451"
 },
 {
 "Name": "Reichenfels",
@@ -20939,7 +21109,8 @@
 "Latitude": 46.7992,
 "Longitude": 13.9222
 }
-]
+],
+"PostCode": "9563"
 },
 {
 "Name": "Himmelberg",
@@ -21839,7 +22010,8 @@
 "Latitude": 46.7413,
 "Longitude": 14.0634
 }
-]
+],
+"PostCode": "9560"
 }
 ]
 }
@@ -22385,7 +22557,8 @@
 "Latitude": 48.053,
 "Longitude": 14.8075
 }
-]
+],
+"PostCode": "3365"
 },
 {
 "Name": "Amstetten",
@@ -22517,7 +22690,8 @@
 "Latitude": 48.0833,
 "Longitude": 14.7167
 }
-]
+],
+"PostCode": "3361"
 },
 {
 "Name": "Behamberg",
@@ -22547,7 +22721,8 @@
 "Latitude": 47.9942,
 "Longitude": 14.5178
 }
-]
+],
+"PostCode": "4441"
 },
 {
 "Name": "Biberbach",
@@ -22595,7 +22770,8 @@
 "Latitude": 48.2118,
 "Longitude": 14.5029
 }
-]
+],
+"PostCode": "4482"
 },
 {
 "Name": "Ernsthofen",
@@ -22637,7 +22813,8 @@
 "Latitude": 47.977,
 "Longitude": 14.6313
 }
-]
+],
+"PostCode": "3355"
 },
 {
 "Name": "Euratsfeld",
@@ -22661,7 +22838,8 @@
 "Latitude": 48.1553,
 "Longitude": 14.8976
 }
-]
+],
+"PostCode": "3324"
 },
 {
 "Name": "Ferschnitz",
@@ -22757,7 +22935,8 @@
 "Latitude": 48.0585,
 "Longitude": 14.6054
 }
-]
+],
+"PostCode": "3350"
 },
 {
 "Name": "Haidershofen",
@@ -22799,7 +22978,8 @@
 "Latitude": 48.0767,
 "Longitude": 14.5133
 }
-]
+],
+"PostCode": "4431"
 },
 {
 "Name": "Hollenstein an der Ybbs",
@@ -22889,7 +23069,8 @@
 "Latitude": 47.7667,
 "Longitude": 14.7667
 }
-]
+],
+"PostCode": "3343"
 },
 {
 "Name": "Kematen an der Ybbs",
@@ -22955,7 +23136,8 @@
 "Latitude": 48.05,
 "Longitude": 14.85
 }
-]
+],
+"PostCode": "3364"
 },
 {
 "Name": "Neustadtl an der Donau",
@@ -23015,7 +23197,8 @@
 "Latitude": 48.1833,
 "Longitude": 14.9167
 }
-]
+],
+"PostCode": "3323"
 },
 {
 "Name": "Oed-Oehling",
@@ -23129,7 +23312,8 @@
 "Latitude": 47.8735,
 "Longitude": 14.849
 }
-]
+],
+"PostCode": "3344"
 },
 {
 "Name": "St. Georgen am Ybbsfelde",
@@ -23171,7 +23355,8 @@
 "Latitude": 48.1216,
 "Longitude": 14.8796
 }
-]
+],
+"PostCode": "3304"
 },
 {
 "Name": "St. Pantaleon-Erla",
@@ -23189,7 +23374,8 @@
 "Latitude": 48.1667,
 "Longitude": 14.5222
 }
-]
+],
+"PostCode": "4303"
 },
 {
 "Name": "St. Peter in der Au",
@@ -23285,7 +23471,8 @@
 "Latitude": 48.0333,
 "Longitude": 14.65
 }
-]
+],
+"PostCode": "3353"
 },
 {
 "Name": "Sonntagberg",
@@ -23435,7 +23622,8 @@
 "Latitude": 48.1507,
 "Longitude": 14.8926
 }
-]
+],
+"PostCode": "3322"
 },
 {
 "Name": "Wallsee-Sindelburg",
@@ -23465,7 +23653,8 @@
 "Latitude": 48.1667,
 "Longitude": 14.7167
 }
-]
+],
+"PostCode": "3313"
 },
 {
 "Name": "Weistrach",
@@ -23483,7 +23672,8 @@
 "Latitude": 48.05,
 "Longitude": 14.5833
 }
-]
+],
+"PostCode": "3351"
 },
 {
 "Name": "Winklarn",
@@ -23519,7 +23709,8 @@
 "Latitude": 48.0667,
 "Longitude": 14.6667
 }
-]
+],
+"PostCode": "3354"
 },
 {
 "Name": "Ybbsitz",
@@ -23843,7 +24034,8 @@
 "Latitude": 48.0054,
 "Longitude": 16.2326
 }
-]
+],
+"PostCode": "2500"
 },
 {
 "Name": "Berndorf",
@@ -23855,7 +24047,8 @@
 "Latitude": 47.9457,
 "Longitude": 16.1097
 }
-]
+],
+"PostCode": "2560"
 },
 {
 "Name": "Ebreichsdorf",
@@ -23981,7 +24174,8 @@
 "Latitude": 47.9659,
 "Longitude": 16.0772
 }
-]
+],
+"PostCode": "2564"
 },
 {
 "Name": "Günselsdorf",
@@ -23993,7 +24187,8 @@
 "Latitude": 47.9439,
 "Longitude": 16.2606
 }
-]
+],
+"PostCode": "2525"
 },
 {
 "Name": "Heiligenkreuz",
@@ -24083,7 +24278,8 @@
 "Latitude": 47.9333,
 "Longitude": 16.0667
 }
-]
+],
+"PostCode": "2560"
 },
 {
 "Name": "Hirtenberg",
@@ -24095,7 +24291,8 @@
 "Latitude": 47.931,
 "Longitude": 16.1791
 }
-]
+],
+"PostCode": "2552"
 },
 {
 "Name": "Klausen-Leopoldsdorf",
@@ -24209,7 +24406,8 @@
 "Latitude": 48.0174,
 "Longitude": 16.2635
 }
-]
+],
+"PostCode": "2511"
 },
 {
 "Name": "Pottendorf",
@@ -24341,7 +24539,8 @@
 "Latitude": 47.9846,
 "Longitude": 16.2174
 }
-]
+],
+"PostCode": "2504"
 },
 {
 "Name": "Tattendorf",
@@ -24353,7 +24552,8 @@
 "Latitude": 47.95,
 "Longitude": 16.3
 }
-]
+],
+"PostCode": "2523"
 },
 {
 "Name": "Teesdorf",
@@ -24365,7 +24565,8 @@
 "Latitude": 47.95,
 "Longitude": 16.2833
 }
-]
+],
+"PostCode": "2524"
 },
 {
 "Name": "Traiskirchen",
@@ -24413,7 +24614,8 @@
 "Latitude": 47.9935,
 "Longitude": 16.3427
 }
-]
+],
+"PostCode": "2521"
 },
 {
 "Name": "Weissenbach an der Triesting",
@@ -24461,7 +24663,8 @@
 "Latitude": 47.9163,
 "Longitude": 16.2886
 }
-]
+],
+"PostCode": "2602"
 }
 ]
 },
@@ -24479,7 +24682,8 @@
 "Latitude": 47.923,
 "Longitude": 16.5579
 }
-]
+],
+"PostCode": "2451"
 },
 {
 "Name": "Bad Deutsch-Altenburg",
@@ -24491,7 +24695,8 @@
 "Latitude": 48.1342,
 "Longitude": 16.9062
 }
-]
+],
+"PostCode": "2405"
 },
 {
 "Name": "Berg",
@@ -24503,7 +24708,8 @@
 "Latitude": 48.1,
 "Longitude": 17.0333
 }
-]
+],
+"PostCode": "2413"
 },
 {
 "Name": "Bruck an der Leitha",
@@ -24557,7 +24763,8 @@
 "Latitude": 48.05,
 "Longitude": 16.7333
 }
-]
+],
+"PostCode": "2464"
 },
 {
 "Name": "Götzendorf an der Leitha",
@@ -24599,7 +24806,8 @@
 "Latitude": 48.1463,
 "Longitude": 16.945
 }
-]
+],
+"PostCode": "2410"
 },
 {
 "Name": "Haslau-Maria Ellend",
@@ -24617,7 +24825,8 @@
 "Latitude": 48.1,
 "Longitude": 16.6833
 }
-]
+],
+"PostCode": "2402"
 },
 {
 "Name": "Höflein",
@@ -24629,7 +24838,8 @@
 "Latitude": 48.0667,
 "Longitude": 16.7833
 }
-]
+],
+"PostCode": "2465"
 },
 {
 "Name": "Hof am Leithaberge",
@@ -24641,7 +24851,8 @@
 "Latitude": 47.95,
 "Longitude": 16.5833
 }
-]
+],
+"PostCode": "2451"
 },
 {
 "Name": "Hundsheim",
@@ -24653,7 +24864,8 @@
 "Latitude": 48.1175,
 "Longitude": 16.9358
 }
-]
+],
+"PostCode": "2405"
 },
 {
 "Name": "Mannersdorf am Leithagebirge",
@@ -24689,7 +24901,8 @@
 "Latitude": 48.1167,
 "Longitude": 16.85
 }
-]
+],
+"PostCode": "2404"
 },
 {
 "Name": "Prellenkirchen",
@@ -24743,7 +24956,8 @@
 "Latitude": 48.0667,
 "Longitude": 16.85
 }
-]
+],
+"PostCode": "2471"
 },
 {
 "Name": "Scharndorf",
@@ -24767,7 +24981,8 @@
 "Latitude": 48.1,
 "Longitude": 16.8
 }
-]
+],
+"PostCode": "2403"
 },
 {
 "Name": "Sommerein",
@@ -24827,7 +25042,8 @@
 "Latitude": 48.1333,
 "Longitude": 17.0
 }
-]
+],
+"PostCode": "2412"
 },
 {
 "Name": "Ebergassing",
@@ -24845,7 +25061,8 @@
 "Latitude": 48.0326,
 "Longitude": 16.5933
 }
-]
+],
+"PostCode": "2435"
 },
 {
 "Name": "Fischamend",
@@ -24863,7 +25080,8 @@
 "Latitude": 48.1086,
 "Longitude": 16.8053
 }
-]
+],
+"PostCode": "2401"
 },
 {
 "Name": "Gramatneusiedl",
@@ -24911,7 +25129,8 @@
 "Latitude": 48.12,
 "Longitude": 16.3932
 }
-]
+],
+"PostCode": "2325"
 },
 {
 "Name": "Klein-Neusiedl",
@@ -24923,7 +25142,8 @@
 "Latitude": 48.0938,
 "Longitude": 16.6066
 }
-]
+],
+"PostCode": "2431"
 },
 {
 "Name": "Lanzendorf",
@@ -24935,7 +25155,8 @@
 "Latitude": 48.12,
 "Longitude": 16.3932
 }
-]
+],
+"PostCode": "2326"
 },
 {
 "Name": "Leopoldsdorf",
@@ -24947,7 +25168,8 @@
 "Latitude": 48.118,
 "Longitude": 16.3479
 }
-]
+],
+"PostCode": "2333"
 },
 {
 "Name": "Maria-Lanzendorf",
@@ -24959,7 +25181,8 @@
 "Latitude": 48.12,
 "Longitude": 16.3932
 }
-]
+],
+"PostCode": "2326"
 },
 {
 "Name": "Moosbrunn",
@@ -24989,7 +25212,8 @@
 "Latitude": 48.12,
 "Longitude": 16.3932
 }
-]
+],
+"PostCode": "2320"
 },
 {
 "Name": "Schwadorf",
@@ -25001,7 +25225,8 @@
 "Latitude": 48.0667,
 "Longitude": 16.5833
 }
-]
+],
+"PostCode": "2432"
 },
 {
 "Name": "Schwechat",
@@ -25049,7 +25274,8 @@
 "Latitude": 48.12,
 "Longitude": 16.3932
 }
-]
+],
+"PostCode": "2322"
 }
 ]
 },
@@ -25067,7 +25293,8 @@
 "Latitude": 48.2833,
 "Longitude": 16.5333
 }
-]
+],
+"PostCode": "2232"
 },
 {
 "Name": "Andlersdorf",
@@ -25079,7 +25306,8 @@
 "Latitude": 48.1833,
 "Longitude": 16.6667
 }
-]
+],
+"PostCode": "2301"
 },
 {
 "Name": "Angern an der March",
@@ -25127,7 +25355,8 @@
 "Latitude": 48.3667,
 "Longitude": 16.6333
 }
-]
+],
+"PostCode": "2214"
 },
 {
 "Name": "Bad Pirawarth",
@@ -25145,7 +25374,8 @@
 "Latitude": 48.45,
 "Longitude": 16.5833
 }
-]
+],
+"PostCode": "2222"
 },
 {
 "Name": "Deutsch-Wagram",
@@ -25157,7 +25387,8 @@
 "Latitude": 48.2997,
 "Longitude": 16.5667
 }
-]
+],
+"PostCode": "2232"
 },
 {
 "Name": "Drösing",
@@ -25175,7 +25406,8 @@
 "Latitude": 48.5275,
 "Longitude": 16.888
 }
-]
+],
+"PostCode": "2265"
 },
 {
 "Name": "Dürnkrut",
@@ -25193,7 +25425,8 @@
 "Latitude": 48.4651,
 "Longitude": 16.8237
 }
-]
+],
+"PostCode": "2263"
 },
 {
 "Name": "Ebenthal",
@@ -25205,7 +25438,8 @@
 "Latitude": 48.4333,
 "Longitude": 16.7833
 }
-]
+],
+"PostCode": "2251"
 },
 {
 "Name": "Eckartsau",
@@ -25295,7 +25529,8 @@
 "Latitude": 48.3392,
 "Longitude": 16.7202
 }
-]
+],
+"PostCode": "2230"
 },
 {
 "Name": "Glinzendorf",
@@ -25307,7 +25542,8 @@
 "Latitude": 48.2461,
 "Longitude": 16.6406
 }
-]
+],
+"PostCode": "2282"
 },
 {
 "Name": "Groß-Enzersdorf",
@@ -25367,7 +25603,8 @@
 "Latitude": 48.1817,
 "Longitude": 16.5971
 }
-]
+],
+"PostCode": "2301"
 },
 {
 "Name": "Großhofen",
@@ -25379,7 +25616,8 @@
 "Latitude": 48.2583,
 "Longitude": 16.6194
 }
-]
+],
+"PostCode": "2282"
 },
 {
 "Name": "Groß-Schweinbarth",
@@ -25391,7 +25629,8 @@
 "Latitude": 48.4147,
 "Longitude": 16.6319
 }
-]
+],
+"PostCode": "2221"
 },
 {
 "Name": "Haringsee",
@@ -25415,7 +25654,8 @@
 "Latitude": 48.1825,
 "Longitude": 16.7424
 }
-]
+],
+"PostCode": "2286"
 },
 {
 "Name": "Hauskirchen",
@@ -25451,7 +25691,8 @@
 "Latitude": 48.6042,
 "Longitude": 16.9047
 }
-]
+],
+"PostCode": "2273"
 },
 {
 "Name": "Hohenruppersdorf",
@@ -25463,7 +25704,8 @@
 "Latitude": 48.45,
 "Longitude": 16.65
 }
-]
+],
+"PostCode": "2223"
 },
 {
 "Name": "Jedenspeigen",
@@ -25481,7 +25723,8 @@
 "Latitude": 48.5107,
 "Longitude": 16.8858
 }
-]
+],
+"PostCode": "2264"
 },
 {
 "Name": "Lassee",
@@ -25499,7 +25742,8 @@
 "Latitude": 48.2656,
 "Longitude": 16.805
 }
-]
+],
+"PostCode": "2291"
 },
 {
 "Name": "Leopoldsdorf im Marchfelde",
@@ -25517,7 +25761,8 @@
 "Latitude": 48.2226,
 "Longitude": 16.6886
 }
-]
+],
+"PostCode": "2285"
 },
 {
 "Name": "Mannsdorf an der Donau",
@@ -25529,7 +25774,8 @@
 "Latitude": 48.152,
 "Longitude": 16.6651
 }
-]
+],
+"PostCode": "2304"
 },
 {
 "Name": "Marchegg",
@@ -25565,7 +25811,8 @@
 "Latitude": 48.2667,
 "Longitude": 16.6333
 }
-]
+],
+"PostCode": "2282"
 },
 {
 "Name": "Matzen-Raggendorf",
@@ -25607,7 +25854,8 @@
 "Latitude": 48.6,
 "Longitude": 16.7667
 }
-]
+],
+"PostCode": "2183"
 },
 {
 "Name": "Obersiebenbrunn",
@@ -25619,7 +25867,8 @@
 "Latitude": 48.2667,
 "Longitude": 16.7
 }
-]
+],
+"PostCode": "2283"
 },
 {
 "Name": "Orth an der Donau",
@@ -25631,7 +25880,8 @@
 "Latitude": 48.1452,
 "Longitude": 16.7009
 }
-]
+],
+"PostCode": "2304"
 },
 {
 "Name": "Palterndorf-Dobermannsdorf",
@@ -25661,7 +25911,8 @@
 "Latitude": 48.2833,
 "Longitude": 16.6
 }
-]
+],
+"PostCode": "2232"
 },
 {
 "Name": "Prottes",
@@ -25673,7 +25924,8 @@
 "Latitude": 48.3868,
 "Longitude": 16.7389
 }
-]
+],
+"PostCode": "2242"
 },
 {
 "Name": "Raasdorf",
@@ -25691,7 +25943,8 @@
 "Latitude": 48.2466,
 "Longitude": 16.5653
 }
-]
+],
+"PostCode": "2281"
 },
 {
 "Name": "Ringelsdorf-Niederabsdorf",
@@ -25709,7 +25962,8 @@
 "Latitude": 48.5667,
 "Longitude": 16.8667
 }
-]
+],
+"PostCode": "2272"
 },
 {
 "Name": "Schönkirchen-Reyersdorf",
@@ -25721,7 +25975,8 @@
 "Latitude": 48.3548,
 "Longitude": 16.6912
 }
-]
+],
+"PostCode": "2241"
 },
 {
 "Name": "Spannberg",
@@ -25733,7 +25988,8 @@
 "Latitude": 48.4639,
 "Longitude": 16.7365
 }
-]
+],
+"PostCode": "2244"
 },
 {
 "Name": "Strasshof an der Nordbahn",
@@ -25745,7 +26001,8 @@
 "Latitude": 48.3167,
 "Longitude": 16.6667
 }
-]
+],
+"PostCode": "2231"
 },
 {
 "Name": "Sulz im Weinviertel",
@@ -25775,7 +26032,8 @@
 "Latitude": 48.5,
 "Longitude": 16.6667
 }
-]
+],
+"PostCode": "2224"
 },
 {
 "Name": "Untersiebenbrunn",
@@ -25787,7 +26045,8 @@
 "Latitude": 48.25,
 "Longitude": 16.7333
 }
-]
+],
+"PostCode": "2284"
 },
 {
 "Name": "Velm-Götzendorf",
@@ -25805,7 +26064,8 @@
 "Latitude": 48.4669,
 "Longitude": 16.7806
 }
-]
+],
+"PostCode": "2245"
 },
 {
 "Name": "Weikendorf",
@@ -25835,7 +26095,8 @@
 "Latitude": 48.3444,
 "Longitude": 16.7665
 }
-]
+],
+"PostCode": "2253"
 },
 {
 "Name": "Zistersdorf",
@@ -25895,7 +26156,8 @@
 "Latitude": 48.5333,
 "Longitude": 16.75
 }
-]
+],
+"PostCode": "2225"
 },
 {
 "Name": "Weiden an der March",
@@ -25919,7 +26181,8 @@
 "Latitude": 48.3411,
 "Longitude": 16.8367
 }
-]
+],
+"PostCode": "2295"
 }
 ]
 },
@@ -26051,7 +26314,8 @@
 "Latitude": 48.9,
 "Longitude": 15.0667
 }
-]
+],
+"PostCode": "3862"
 },
 {
 "Name": "Gmünd",
@@ -26381,7 +26645,8 @@
 "Latitude": 48.9833,
 "Longitude": 15.0667
 }
-]
+],
+"PostCode": "3874"
 },
 {
 "Name": "Heidenreichstein",
@@ -26483,7 +26748,8 @@
 "Latitude": 48.75,
 "Longitude": 15.1167
 }
-]
+],
+"PostCode": "3942"
 },
 {
 "Name": "Hoheneich",
@@ -26501,7 +26767,8 @@
 "Latitude": 48.7731,
 "Longitude": 15.0769
 }
-]
+],
+"PostCode": "3945"
 },
 {
 "Name": "Kirchberg am Walde",
@@ -26543,7 +26810,8 @@
 "Latitude": 48.7167,
 "Longitude": 15.0667
 }
-]
+],
+"PostCode": "3932"
 },
 {
 "Name": "Litschau",
@@ -26927,7 +27195,8 @@
 "Latitude": 48.7,
 "Longitude": 15.0167
 }
-]
+],
+"PostCode": "3961"
 },
 {
 "Name": "Weitra",
@@ -27005,7 +27274,8 @@
 "Latitude": 48.7,
 "Longitude": 14.9333
 }
-]
+],
+"PostCode": "3970"
 }
 ]
 },
@@ -27023,7 +27293,8 @@
 "Latitude": 48.706,
 "Longitude": 16.0036
 }
-]
+],
+"PostCode": "2054"
 },
 {
 "Name": "Göllersdorf",
@@ -27101,7 +27372,8 @@
 "Latitude": 48.4833,
 "Longitude": 16.0833
 }
-]
+],
+"PostCode": "2013"
 },
 {
 "Name": "Grabern",
@@ -27155,7 +27427,8 @@
 "Latitude": 48.65,
 "Longitude": 16.05
 }
-]
+],
+"PostCode": "2042"
 },
 {
 "Name": "Hadres",
@@ -27179,7 +27452,8 @@
 "Latitude": 48.7076,
 "Longitude": 16.1921
 }
-]
+],
+"PostCode": "2061"
 },
 {
 "Name": "Hardegg",
@@ -27509,7 +27783,8 @@
 "Latitude": 48.6738,
 "Longitude": 16.1813
 }
-]
+],
+"PostCode": "2024"
 },
 {
 "Name": "Maissau",
@@ -27743,7 +28018,8 @@
 "Latitude": 48.55,
 "Longitude": 15.85
 }
-]
+],
+"PostCode": "3720"
 },
 {
 "Name": "Retz",
@@ -27845,7 +28121,8 @@
 "Latitude": 48.7381,
 "Longitude": 15.8749
 }
-]
+],
+"PostCode": "2073"
 },
 {
 "Name": "Seefeld-Kadolz",
@@ -27863,7 +28140,8 @@
 "Latitude": 48.7167,
 "Longitude": 16.1667
 }
-]
+],
+"PostCode": "2062"
 },
 {
 "Name": "Sitzendorf an der Schmida",
@@ -28139,7 +28417,8 @@
 "Latitude": 48.6333,
 "Longitude": 15.5667
 }
-]
+],
+"PostCode": "3591"
 },
 {
 "Name": "Brunn an der Wild",
@@ -28205,7 +28484,8 @@
 "Latitude": 48.6477,
 "Longitude": 15.484
 }
-]
+],
+"PostCode": "3595"
 },
 {
 "Name": "Burgschleinitz-Kühnring",
@@ -28379,7 +28659,8 @@
 "Latitude": 48.6401,
 "Longitude": 15.8292
 }
-]
+],
+"PostCode": "3730"
 },
 {
 "Name": "Gars am Kamp",
@@ -28715,7 +28996,8 @@
 "Latitude": 48.8167,
 "Longitude": 15.5667
 }
-]
+],
+"PostCode": "3763"
 },
 {
 "Name": "Langau",
@@ -28733,7 +29015,8 @@
 "Latitude": 48.8321,
 "Longitude": 15.7156
 }
-]
+],
+"PostCode": "2091"
 },
 {
 "Name": "Meiseldorf",
@@ -28817,7 +29100,8 @@
 "Latitude": 48.7238,
 "Longitude": 15.6102
 }
-]
+],
+"PostCode": "3753"
 },
 {
 "Name": "Röhrenbach",
@@ -29207,7 +29491,8 @@
 "Latitude": 48.3478,
 "Longitude": 16.4092
 }
-]
+],
+"PostCode": "2202"
 },
 {
 "Name": "Ernstbrunn",
@@ -29561,7 +29846,8 @@
 "Latitude": 48.35,
 "Longitude": 16.3333
 }
-]
+],
+"PostCode": "2100"
 },
 {
 "Name": "Langenzersdorf",
@@ -29693,7 +29979,8 @@
 "Latitude": 48.45,
 "Longitude": 16.0667
 }
-]
+],
+"PostCode": "3702"
 },
 {
 "Name": "Sierndorf",
@@ -29765,7 +30052,8 @@
 "Latitude": 48.3833,
 "Longitude": 16.25
 }
-]
+],
+"PostCode": "2104"
 },
 {
 "Name": "Stetteldorf am Wagram",
@@ -29825,7 +30113,8 @@
 "Latitude": 48.3667,
 "Longitude": 16.3833
 }
-]
+],
+"PostCode": "2100"
 },
 {
 "Name": "Stockerau",
@@ -29909,7 +30198,8 @@
 "Latitude": 48.3567,
 "Longitude": 16.436
 }
-]
+],
+"PostCode": "2201"
 }
 ]
 },
@@ -30017,7 +30307,8 @@
 "Latitude": 48.45,
 "Longitude": 15.3833
 }
-]
+],
+"PostCode": "3613"
 },
 {
 "Name": "Bergern im Dunkelsteinerwald",
@@ -30119,7 +30410,8 @@
 "Latitude": 48.388,
 "Longitude": 15.5436
 }
-]
+],
+"PostCode": "3601"
 },
 {
 "Name": "Grafenegg",
@@ -30227,7 +30519,8 @@
 "Latitude": 48.3676,
 "Longitude": 15.572
 }
-]
+],
+"PostCode": "3511"
 },
 {
 "Name": "Gedersdorf",
@@ -30419,7 +30712,8 @@
 "Latitude": 48.4667,
 "Longitude": 15.7167
 }
-]
+],
+"PostCode": "3493"
 },
 {
 "Name": "Jaidhof",
@@ -30605,7 +30899,8 @@
 "Latitude": 48.4875,
 "Longitude": 15.6093
 }
-]
+],
+"PostCode": "3552"
 },
 {
 "Name": "Lichtenau im Waldviertel",
@@ -30887,7 +31182,8 @@
 "Latitude": 48.3842,
 "Longitude": 15.5611
 }
-]
+],
+"PostCode": "3512"
 },
 {
 "Name": "Mühldorf",
@@ -30947,7 +31243,8 @@
 "Latitude": 48.35,
 "Longitude": 15.3
 }
-]
+],
+"PostCode": "3622"
 },
 {
 "Name": "Paudorf",
@@ -30995,7 +31292,8 @@
 "Latitude": 48.3679,
 "Longitude": 15.6474
 }
-]
+],
+"PostCode": "3508"
 },
 {
 "Name": "Rastenfeld",
@@ -31073,7 +31371,8 @@
 "Latitude": 48.4542,
 "Longitude": 15.7202
 }
-]
+],
+"PostCode": "3495"
 },
 {
 "Name": "Rossatz-Arnsdorf",
@@ -31169,7 +31468,8 @@
 "Latitude": 48.6,
 "Longitude": 15.5667
 }
-]
+],
+"PostCode": "3572"
 },
 {
 "Name": "Senftenberg",
@@ -31259,7 +31559,8 @@
 "Latitude": 48.3667,
 "Longitude": 15.3667
 }
-]
+],
+"PostCode": "3620"
 },
 {
 "Name": "Straß im Straßertale",
@@ -31295,7 +31596,8 @@
 "Latitude": 48.5,
 "Longitude": 15.7667
 }
-]
+],
+"PostCode": "3491"
 },
 {
 "Name": "Stratzing",
@@ -31541,7 +31843,8 @@
 "Latitude": 48.4833,
 "Longitude": 15.5333
 }
-]
+],
+"PostCode": "3552"
 }
 ]
 },
@@ -31631,7 +31934,8 @@
 "Latitude": 48.0367,
 "Longitude": 15.5415
 }
-]
+],
+"PostCode": "3153"
 },
 {
 "Name": "Hainfeld",
@@ -31805,7 +32109,8 @@
 "Latitude": 48.0345,
 "Longitude": 15.9219
 }
-]
+],
+"PostCode": "2572"
 },
 {
 "Name": "Kleinzell",
@@ -31913,7 +32218,8 @@
 "Latitude": 47.9931,
 "Longitude": 15.5474
 }
-]
+],
+"PostCode": "3180"
 },
 {
 "Name": "Mitterbach am Erlaufsee",
@@ -32039,7 +32345,8 @@
 "Latitude": 48.047,
 "Longitude": 15.7417
 }
-]
+],
+"PostCode": "3163"
 },
 {
 "Name": "St. Aegyd am Neuwalde",
@@ -32231,7 +32538,8 @@
 "Latitude": 48.0333,
 "Longitude": 15.6
 }
-]
+],
+"PostCode": "3160"
 },
 {
 "Name": "Türnitz",
@@ -32381,7 +32689,8 @@
 "Latitude": 48.1084,
 "Longitude": 15.1404
 }
-]
+],
+"PostCode": "3254"
 },
 {
 "Name": "Bischofstetten",
@@ -32549,7 +32858,8 @@
 "Latitude": 48.1333,
 "Longitude": 15.0
 }
-]
+],
+"PostCode": "3372"
 },
 {
 "Name": "Dorfstetten",
@@ -32567,7 +32877,8 @@
 "Latitude": 48.2707,
 "Longitude": 14.9452
 }
-]
+],
+"PostCode": "4392"
 },
 {
 "Name": "Dunkelsteinerwald",
@@ -32861,7 +33172,8 @@
 "Latitude": 48.1919,
 "Longitude": 15.4348
 }
-]
+],
+"PostCode": "3381"
 },
 {
 "Name": "Hofamt Priel",
@@ -33029,7 +33341,8 @@
 "Latitude": 48.2273,
 "Longitude": 15.0666
 }
-]
+],
+"PostCode": "3681"
 },
 {
 "Name": "Hürm",
@@ -33755,7 +34068,8 @@
 "Latitude": 48.2099,
 "Longitude": 15.4178
 }
-]
+],
+"PostCode": "3382"
 },
 {
 "Name": "Mank",
@@ -34157,7 +34471,8 @@
 "Latitude": 48.215,
 "Longitude": 15.3099
 }
-]
+],
+"PostCode": "3390"
 },
 {
 "Name": "Münichreith-Laimbach",
@@ -34319,7 +34634,8 @@
 "Latitude": 48.2243,
 "Longitude": 14.9812
 }
-]
+],
+"PostCode": "3691"
 },
 {
 "Name": "Persenbeug-Gottsdorf",
@@ -34355,7 +34671,8 @@
 "Latitude": 48.2273,
 "Longitude": 15.0666
 }
-]
+],
+"PostCode": "3680"
 },
 {
 "Name": "Petzenkirchen",
@@ -34367,7 +34684,8 @@
 "Latitude": 48.1333,
 "Longitude": 15.15
 }
-]
+],
+"PostCode": "3252"
 },
 {
 "Name": "Pöchlarn",
@@ -35453,7 +35771,8 @@
 "Latitude": 48.1667,
 "Longitude": 15.0333
 }
-]
+],
+"PostCode": "3376"
 },
 {
 "Name": "St. Oswald",
@@ -35693,7 +36012,8 @@
 "Latitude": 48.3,
 "Longitude": 15.2833
 }
-]
+],
+"PostCode": "3653"
 },
 {
 "Name": "Ybbs an der Donau",
@@ -35957,7 +36277,8 @@
 "Latitude": 48.0171,
 "Longitude": 15.2715
 }
-]
+],
+"PostCode": "3242"
 },
 {
 "Name": "Yspertal",
@@ -35993,7 +36314,8 @@
 "Latitude": 48.2273,
 "Longitude": 15.0666
 }
-]
+],
+"PostCode": "3683"
 },
 {
 "Name": "Emmersdorf an der Donau",
@@ -36107,7 +36429,8 @@
 "Latitude": 48.6333,
 "Longitude": 16.8
 }
-]
+],
+"PostCode": "2144"
 },
 {
 "Name": "Asparn an der Zaya",
@@ -36143,7 +36466,8 @@
 "Latitude": 48.5667,
 "Longitude": 16.4667
 }
-]
+],
+"PostCode": "2151"
 },
 {
 "Name": "Bernhardsthal",
@@ -36215,7 +36539,8 @@
 "Latitude": 48.7333,
 "Longitude": 16.6167
 }
-]
+],
+"PostCode": "2165"
 },
 {
 "Name": "Falkenstein",
@@ -36227,7 +36552,8 @@
 "Latitude": 48.7167,
 "Longitude": 16.5833
 }
-]
+],
+"PostCode": "2162"
 },
 {
 "Name": "Fallbach",
@@ -36263,7 +36589,8 @@
 "Latitude": 48.6333,
 "Longitude": 16.45
 }
-]
+],
+"PostCode": "2133"
 },
 {
 "Name": "Gaubitsch",
@@ -36287,7 +36614,8 @@
 "Latitude": 48.6667,
 "Longitude": 16.3833
 }
-]
+],
+"PostCode": "2154"
 },
 {
 "Name": "Gaweinstal",
@@ -36407,7 +36735,8 @@
 "Latitude": 48.3702,
 "Longitude": 16.4511
 }
-]
+],
+"PostCode": "2203"
 },
 {
 "Name": "Großengersdorf",
@@ -36419,7 +36748,8 @@
 "Latitude": 48.3677,
 "Longitude": 16.6072
 }
-]
+],
+"PostCode": "2212"
 },
 {
 "Name": "Großharras",
@@ -36473,7 +36803,8 @@
 "Latitude": 48.65,
 "Longitude": 16.7333
 }
-]
+],
+"PostCode": "2143"
 },
 {
 "Name": "Hausbrunn",
@@ -36485,7 +36816,8 @@
 "Latitude": 48.6167,
 "Longitude": 16.8167
 }
-]
+],
+"PostCode": "2145"
 },
 {
 "Name": "Herrnbaumgarten",
@@ -36497,7 +36829,8 @@
 "Latitude": 48.6833,
 "Longitude": 16.6833
 }
-]
+],
+"PostCode": "2171"
 },
 {
 "Name": "Hochleithen",
@@ -36821,7 +37154,8 @@
 "Latitude": 48.35,
 "Longitude": 16.5333
 }
-]
+],
+"PostCode": "2211"
 },
 {
 "Name": "Poysdorf",
@@ -36899,7 +37233,8 @@
 "Latitude": 48.65,
 "Longitude": 16.9
 }
-]
+],
+"PostCode": "2274"
 },
 {
 "Name": "Schrattenberg",
@@ -36911,7 +37246,8 @@
 "Latitude": 48.7167,
 "Longitude": 16.7167
 }
-]
+],
+"PostCode": "2172"
 },
 {
 "Name": "Staatz",
@@ -36995,7 +37331,8 @@
 "Latitude": 48.65,
 "Longitude": 16.3167
 }
-]
+],
+"PostCode": "2153"
 },
 {
 "Name": "Ulrichskirchen-Schleinbach",
@@ -37031,7 +37368,8 @@
 "Latitude": 48.6667,
 "Longitude": 16.3333
 }
-]
+],
+"PostCode": "2154"
 },
 {
 "Name": "Wildendürnbach",
@@ -37151,7 +37489,8 @@
 "Latitude": 48.75,
 "Longitude": 16.5667
 }
-]
+],
+"PostCode": "2163"
 }
 ]
 },
@@ -37169,7 +37508,8 @@
 "Latitude": 48.0803,
 "Longitude": 16.3861
 }
-]
+],
+"PostCode": "2481"
 },
 {
 "Name": "Biedermannsdorf",
@@ -37199,7 +37539,8 @@
 "Latitude": 48.1333,
 "Longitude": 16.15
 }
-]
+],
+"PostCode": "2384"
 },
 {
 "Name": "Brunn am Gebirge",
@@ -37211,7 +37552,8 @@
 "Latitude": 48.107,
 "Longitude": 16.2847
 }
-]
+],
+"PostCode": "2345"
 },
 {
 "Name": "Gaaden",
@@ -37223,7 +37565,8 @@
 "Latitude": 48.0536,
 "Longitude": 16.2
 }
-]
+],
+"PostCode": "2531"
 },
 {
 "Name": "Gießhübl",
@@ -37235,7 +37578,8 @@
 "Latitude": 48.0978,
 "Longitude": 16.2348
 }
-]
+],
+"PostCode": "2372"
 },
 {
 "Name": "Gumpoldskirchen",
@@ -37283,7 +37627,8 @@
 "Latitude": 48.1117,
 "Longitude": 16.3631
 }
-]
+],
+"PostCode": "2332"
 },
 {
 "Name": "Hinterbrühl",
@@ -37325,7 +37670,8 @@
 "Latitude": 48.1165,
 "Longitude": 16.1996
 }
-]
+],
+"PostCode": "2391"
 },
 {
 "Name": "Laab im Walde",
@@ -37337,7 +37683,8 @@
 "Latitude": 48.1549,
 "Longitude": 16.1736
 }
-]
+],
+"PostCode": "2381"
 },
 {
 "Name": "Laxenburg",
@@ -37385,7 +37732,8 @@
 "Latitude": 48.086,
 "Longitude": 16.2892
 }
-]
+],
+"PostCode": "2340"
 },
 {
 "Name": "Münchendorf",
@@ -37397,7 +37745,8 @@
 "Latitude": 48.0333,
 "Longitude": 16.3833
 }
-]
+],
+"PostCode": "2482"
 },
 {
 "Name": "Perchtoldsdorf",
@@ -37409,7 +37758,8 @@
 "Latitude": 48.1194,
 "Longitude": 16.2661
 }
-]
+],
+"PostCode": "2380"
 },
 {
 "Name": "Vösendorf",
@@ -37439,7 +37789,8 @@
 "Latitude": 48.0828,
 "Longitude": 16.3138
 }
-]
+],
+"PostCode": "2351"
 },
 {
 "Name": "Wienerwald",
@@ -37541,7 +37892,8 @@
 "Latitude": 47.55,
 "Longitude": 16.0833
 }
-]
+],
+"PostCode": "2870"
 },
 {
 "Name": "Aspangberg-St. Peter",
@@ -37637,7 +37989,8 @@
 "Latitude": 47.7336,
 "Longitude": 16.1434
 }
-]
+],
+"PostCode": "2624"
 },
 {
 "Name": "Breitenstein",
@@ -37949,7 +38302,8 @@
 "Latitude": 47.7986,
 "Longitude": 16.0016
 }
-]
+],
+"PostCode": "2733"
 },
 {
 "Name": "Kirchberg am Wechsel",
@@ -38045,7 +38399,8 @@
 "Latitude": 47.7,
 "Longitude": 16.1
 }
-]
+],
+"PostCode": "2620"
 },
 {
 "Name": "Neunkirchen",
@@ -38069,7 +38424,8 @@
 "Latitude": 47.7257,
 "Longitude": 16.113
 }
-]
+],
+"PostCode": "2620"
 },
 {
 "Name": "Otterthal",
@@ -38081,7 +38437,8 @@
 "Latitude": 47.6167,
 "Longitude": 15.9333
 }
-]
+],
+"PostCode": "2880"
 },
 {
 "Name": "Payerbach",
@@ -38297,7 +38654,8 @@
 "Latitude": 47.65,
 "Longitude": 15.9333
 }
-]
+],
+"PostCode": "2640"
 },
 {
 "Name": "Reichenau an der Rax",
@@ -38567,7 +38925,8 @@
 "Latitude": 47.779,
 "Longitude": 15.9906
 }
-]
+],
+"PostCode": "2733"
 },
 {
 "Name": "Schwarzau am Steinfeld",
@@ -38693,7 +39052,8 @@
 "Latitude": 47.6151,
 "Longitude": 15.7755
 }
-]
+],
+"PostCode": "2680"
 },
 {
 "Name": "Ternitz",
@@ -38873,7 +39233,8 @@
 "Latitude": 47.6,
 "Longitude": 15.8667
 }
-]
+],
+"PostCode": "2881"
 },
 {
 "Name": "Bürg-Vöstenhof",
@@ -38891,7 +39252,8 @@
 "Latitude": 47.7178,
 "Longitude": 15.9817
 }
-]
+],
+"PostCode": "2630"
 },
 {
 "Name": "Warth",
@@ -38999,7 +39361,8 @@
 "Latitude": 47.6667,
 "Longitude": 16.0667
 }
-]
+],
+"PostCode": "2620"
 },
 {
 "Name": "Willendorf",
@@ -39041,7 +39404,8 @@
 "Latitude": 47.7029,
 "Longitude": 16.0333
 }
-]
+],
+"PostCode": "2632"
 },
 {
 "Name": "Würflach",
@@ -39065,7 +39429,8 @@
 "Latitude": 47.7765,
 "Longitude": 16.0546
 }
-]
+],
+"PostCode": "2732"
 },
 {
 "Name": "Zöbern",
@@ -39815,7 +40180,8 @@
 "Latitude": 48.173,
 "Longitude": 15.9527
 }
-]
+],
+"PostCode": "3032"
 },
 {
 "Name": "Frankenfels",
@@ -40037,7 +40403,8 @@
 "Latitude": 48.2,
 "Longitude": 15.5333
 }
-]
+],
+"PostCode": "3385"
 },
 {
 "Name": "Hofstetten-Grünau",
@@ -40247,7 +40614,8 @@
 "Latitude": 48.2167,
 "Longitude": 15.55
 }
-]
+],
+"PostCode": "3386"
 },
 {
 "Name": "Haunoldstein",
@@ -40295,7 +40663,8 @@
 "Latitude": 48.2,
 "Longitude": 15.4667
 }
-]
+],
+"PostCode": "3384"
 },
 {
 "Name": "Herzogenburg",
@@ -40439,7 +40808,8 @@
 "Latitude": 48.3242,
 "Longitude": 15.7178
 }
-]
+],
+"PostCode": "3131"
 },
 {
 "Name": "Kapelln",
@@ -40535,7 +40905,8 @@
 "Latitude": 48.2444,
 "Longitude": 15.7962
 }
-]
+],
+"PostCode": "3141"
 },
 {
 "Name": "Karlstetten",
@@ -40607,7 +40978,8 @@
 "Latitude": 48.2889,
 "Longitude": 15.5607
 }
-]
+],
+"PostCode": "3121"
 },
 {
 "Name": "Kasten bei Böheimkirchen",
@@ -40769,7 +41141,8 @@
 "Latitude": 48.0981,
 "Longitude": 15.509
 }
-]
+],
+"PostCode": "3204"
 },
 {
 "Name": "Kirchstetten",
@@ -41249,7 +41622,8 @@
 "Latitude": 48.2333,
 "Longitude": 15.5833
 }
-]
+],
+"PostCode": "3110"
 },
 {
 "Name": "Neulengbach",
@@ -41657,7 +42031,8 @@
 "Latitude": 48.3399,
 "Longitude": 15.677
 }
-]
+],
+"PostCode": "3134"
 },
 {
 "Name": "Ober-Grafendorf",
@@ -41765,7 +42140,8 @@
 "Latitude": 48.1376,
 "Longitude": 15.5436
 }
-]
+],
+"PostCode": "3200"
 },
 {
 "Name": "Obritzberg-Rust",
@@ -41921,7 +42297,8 @@
 "Latitude": 48.2674,
 "Longitude": 15.6473
 }
-]
+],
+"PostCode": "3123"
 },
 {
 "Name": "Prinzersdorf",
@@ -41939,7 +42316,8 @@
 "Latitude": 48.2,
 "Longitude": 15.5167
 }
-]
+],
+"PostCode": "3385"
 },
 {
 "Name": "Pyhra",
@@ -42329,7 +42707,8 @@
 "Latitude": 48.1165,
 "Longitude": 15.4418
 }
-]
+],
+"PostCode": "3231"
 },
 {
 "Name": "Schwarzenbach an der Pielach",
@@ -42419,7 +42798,8 @@
 "Latitude": 47.9598,
 "Longitude": 15.3257
 }
-]
+],
+"PostCode": "3212"
 },
 {
 "Name": "Statzendorf",
@@ -42455,7 +42835,8 @@
 "Latitude": 48.2967,
 "Longitude": 15.6471
 }
-]
+],
+"PostCode": "3125"
 },
 {
 "Name": "Stössing",
@@ -42599,7 +42980,8 @@
 "Latitude": 48.35,
 "Longitude": 15.7333
 }
-]
+],
+"PostCode": "3133"
 },
 {
 "Name": "Weinburg",
@@ -42671,7 +43053,8 @@
 "Latitude": 48.1135,
 "Longitude": 15.533
 }
-]
+],
+"PostCode": "3205"
 },
 {
 "Name": "Perschling",
@@ -42737,7 +43120,8 @@
 "Latitude": 48.2264,
 "Longitude": 15.7999
 }
-]
+],
+"PostCode": "3142"
 },
 {
 "Name": "Wilhelmsburg",
@@ -42749,7 +43133,8 @@
 "Latitude": 48.1057,
 "Longitude": 15.6054
 }
-]
+],
+"PostCode": "3150"
 },
 {
 "Name": "Wölbling",
@@ -43217,7 +43602,8 @@
 "Latitude": 47.8735,
 "Longitude": 14.849
 }
-]
+],
+"PostCode": "3345"
 },
 {
 "Name": "Gresten",
@@ -43235,7 +43621,8 @@
 "Latitude": 47.9671,
 "Longitude": 15.0219
 }
-]
+],
+"PostCode": "3264"
 },
 {
 "Name": "Gresten-Land",
@@ -43289,7 +43676,8 @@
 "Latitude": 47.8612,
 "Longitude": 15.03
 }
-]
+],
+"PostCode": "3293"
 },
 {
 "Name": "Oberndorf an der Melk",
@@ -43859,7 +44247,8 @@
 "Latitude": 48.0476,
 "Longitude": 15.1354
 }
-]
+],
+"PostCode": "3251"
 },
 {
 "Name": "Randegg",
@@ -43985,7 +44374,8 @@
 "Latitude": 48.0498,
 "Longitude": 15.0248
 }
-]
+],
+"PostCode": "3264"
 },
 {
 "Name": "St. Anton an der Jeßnitz",
@@ -44651,7 +45041,8 @@
 "Latitude": 48.1333,
 "Longitude": 15.1333
 }
-]
+],
+"PostCode": "3250"
 },
 {
 "Name": "Wieselburg-Land",
@@ -45011,7 +45402,8 @@
 "Latitude": 48.3912,
 "Longitude": 16.0324
 }
-]
+],
+"PostCode": "3462"
 },
 {
 "Name": "Atzenbrugg",
@@ -45071,7 +45463,8 @@
 "Latitude": 48.2859,
 "Longitude": 15.883
 }
-]
+],
+"PostCode": "3452"
 },
 {
 "Name": "Fels am Wagram",
@@ -45215,7 +45608,8 @@
 "Latitude": 48.4333,
 "Longitude": 16.0
 }
-]
+],
+"PostCode": "3701"
 },
 {
 "Name": "Judenau-Baumgarten",
@@ -45245,7 +45639,8 @@
 "Latitude": 48.2806,
 "Longitude": 16.0217
 }
-]
+],
+"PostCode": "3441"
 },
 {
 "Name": "Kirchberg am Wagram",
@@ -45383,7 +45778,8 @@
 "Latitude": 48.302,
 "Longitude": 16.1449
 }
-]
+],
+"PostCode": "3433"
 },
 {
 "Name": "Langenrohr",
@@ -45683,7 +46079,8 @@
 "Latitude": 48.3235,
 "Longitude": 15.7947
 }
-]
+],
+"PostCode": "3454"
 },
 {
 "Name": "Tulbing",
@@ -46043,7 +46440,8 @@
 "Latitude": 48.3233,
 "Longitude": 16.143
 }
-]
+],
+"PostCode": "3426"
 },
 {
 "Name": "Klosterneuburg",
@@ -46121,7 +46519,8 @@
 "Latitude": 48.7907,
 "Longitude": 15.4343
 }
-]
+],
+"PostCode": "3813"
 },
 {
 "Name": "Dobersberg",
@@ -46313,7 +46712,8 @@
 "Latitude": 48.8167,
 "Longitude": 15.4
 }
-]
+],
+"PostCode": "3812"
 },
 {
 "Name": "Karlstein an der Thaya",
@@ -46391,7 +46791,8 @@
 "Latitude": 48.8577,
 "Longitude": 15.3749
 }
-]
+],
+"PostCode": "3822"
 },
 {
 "Name": "Kautzen",
@@ -46595,7 +46996,8 @@
 "Latitude": 48.85,
 "Longitude": 15.15
 }
-]
+],
+"PostCode": "3834"
 },
 {
 "Name": "Raabs an der Thaya",
@@ -47045,7 +47447,8 @@
 "Latitude": 48.8167,
 "Longitude": 15.2833
 }
-]
+],
+"PostCode": "3830"
 },
 {
 "Name": "Waidhofen an der Thaya-Land",
@@ -47165,7 +47568,8 @@
 "Latitude": 48.9333,
 "Longitude": 15.35
 }
-]
+],
+"PostCode": "3844"
 },
 {
 "Name": "Windigsteig",
@@ -47333,7 +47737,8 @@
 "Latitude": 47.4667,
 "Longitude": 16.2333
 }
-]
+],
+"PostCode": "2853"
 },
 {
 "Name": "Ebenfurth",
@@ -47441,7 +47846,8 @@
 "Latitude": 47.8816,
 "Longitude": 16.2421
 }
-]
+],
+"PostCode": "2603"
 },
 {
 "Name": "Gutenstein",
@@ -47579,7 +47985,8 @@
 "Latitude": 47.4333,
 "Longitude": 16.2167
 }
-]
+],
+"PostCode": "2852"
 },
 {
 "Name": "Hochwolkersdorf",
@@ -47609,7 +48016,8 @@
 "Latitude": 47.6777,
 "Longitude": 16.3041
 }
-]
+],
+"PostCode": "2802"
 },
 {
 "Name": "Hohe Wand",
@@ -48125,7 +48533,8 @@
 "Latitude": 47.8404,
 "Longitude": 15.9824
 }
-]
+],
+"PostCode": "2761"
 },
 {
 "Name": "Muggendorf",
@@ -48149,7 +48558,8 @@
 "Latitude": 47.8795,
 "Longitude": 15.965
 }
-]
+],
+"PostCode": "2763"
 },
 {
 "Name": "Pernitz",
@@ -48185,7 +48595,8 @@
 "Latitude": 47.8947,
 "Longitude": 15.736
 }
-]
+],
+"PostCode": "2663"
 },
 {
 "Name": "Bromberg",
@@ -48293,7 +48704,8 @@
 "Latitude": 47.85,
 "Longitude": 16.2333
 }
-]
+],
+"PostCode": "2604"
 },
 {
 "Name": "Waidmannsfeld",
@@ -48563,7 +48975,8 @@
 "Latitude": 48.7,
 "Longitude": 15.3
 }
-]
+],
+"PostCode": "3804"
 },
 {
 "Name": "Arbesbach",
@@ -48833,7 +49246,8 @@
 "Latitude": 48.5,
 "Longitude": 15.1333
 }
-]
+],
+"PostCode": "3912"
 },
 {
 "Name": "Groß Gerungs",
@@ -49169,7 +49583,8 @@
 "Latitude": 48.3333,
 "Longitude": 15.1167
 }
-]
+],
+"PostCode": "3665"
 },
 {
 "Name": "Kirchschlag",
@@ -49709,7 +50124,8 @@
 "Latitude": 48.4361,
 "Longitude": 15.1278
 }
-]
+],
+"PostCode": "3631"
 },
 {
 "Name": "Altmelon",
@@ -50225,7 +50641,8 @@
 "Latitude": 48.7401,
 "Longitude": 15.3109
 }
-]
+],
+"PostCode": "3900"
 },
 {
 "Name": "Schweiggers",
@@ -50429,7 +50846,8 @@
 "Latitude": 48.4167,
 "Longitude": 15.1
 }
-]
+],
+"PostCode": "3632"
 },
 {
 "Name": "Waldhausen",
@@ -51557,7 +51975,8 @@
 "Latitude": 48.0362,
 "Longitude": 13.1598
 }
-]
+],
+"PostCode": "5224"
 },
 {
 "Name": "Braunau am Inn",
@@ -52187,7 +52606,8 @@
 "Latitude": 48.1102,
 "Longitude": 13.0161
 }
-]
+],
+"PostCode": "5142"
 },
 {
 "Name": "Feldkirchen bei Mattighofen",
@@ -52487,7 +52907,8 @@
 "Latitude": 48.1428,
 "Longitude": 12.9462
 }
-]
+],
+"PostCode": "5131"
 },
 {
 "Name": "Geretsberg",
@@ -53279,7 +53700,8 @@
 "Latitude": 48.0872,
 "Longitude": 12.8396
 }
-]
+],
+"PostCode": "5122"
 },
 {
 "Name": "Höhnhart",
@@ -53495,7 +53917,8 @@
 "Latitude": 48.0362,
 "Longitude": 13.1598
 }
-]
+],
+"PostCode": "5225"
 },
 {
 "Name": "Kirchberg bei Mattighofen",
@@ -53657,7 +54080,8 @@
 "Latitude": 48.1023,
 "Longitude": 13.1078
 }
-]
+],
+"PostCode": "5232"
 },
 {
 "Name": "Lengau",
@@ -54221,7 +54645,8 @@
 "Latitude": 48.1073,
 "Longitude": 13.1508
 }
-]
+],
+"PostCode": "5230"
 },
 {
 "Name": "Mauerkirchen",
@@ -54251,7 +54676,8 @@
 "Latitude": 48.198,
 "Longitude": 13.1813
 }
-]
+],
+"PostCode": "5270"
 },
 {
 "Name": "Mining",
@@ -54329,7 +54755,8 @@
 "Latitude": 48.2852,
 "Longitude": 13.1931
 }
-]
+],
+"PostCode": "4962"
 },
 {
 "Name": "Moosbach",
@@ -54539,7 +54966,8 @@
 "Latitude": 48.0434,
 "Longitude": 12.9725
 }
-]
+],
+"PostCode": "5141"
 },
 {
 "Name": "Munderfing",
@@ -54683,7 +55111,8 @@
 "Latitude": 48.0362,
 "Longitude": 13.1598
 }
-]
+],
+"PostCode": "5222"
 },
 {
 "Name": "Neukirchen an der Enknach",
@@ -55169,7 +55598,8 @@
 "Latitude": 48.023,
 "Longitude": 13.1041
 }
-]
+],
+"PostCode": "5163"
 },
 {
 "Name": "Perwang am Grabensee",
@@ -55265,7 +55695,8 @@
 "Latitude": 47.9663,
 "Longitude": 13.0733
 }
-]
+],
+"PostCode": "5166"
 },
 {
 "Name": "Pfaffstätt",
@@ -55307,7 +55738,8 @@
 "Latitude": 48.0362,
 "Longitude": 13.1598
 }
-]
+],
+"PostCode": "5223"
 },
 {
 "Name": "Pischelsdorf am Engelbach",
@@ -55511,7 +55943,8 @@
 "Latitude": 48.1023,
 "Longitude": 13.1078
 }
-]
+],
+"PostCode": "5233"
 },
 {
 "Name": "Polling im Innkreis",
@@ -55781,7 +56214,8 @@
 "Latitude": 48.1102,
 "Longitude": 13.0161
 }
-]
+],
+"PostCode": "5144"
 },
 {
 "Name": "Sankt Johann am Walde",
@@ -56273,7 +56707,8 @@
 "Latitude": 48.198,
 "Longitude": 13.1813
 }
-]
+],
+"PostCode": "5273"
 },
 {
 "Name": "Schalchen",
@@ -56603,7 +57038,8 @@
 "Latitude": 48.1428,
 "Longitude": 12.9462
 }
-]
+],
+"PostCode": "5134"
 },
 {
 "Name": "Tarsdorf",
@@ -56747,7 +57183,8 @@
 "Latitude": 48.0872,
 "Longitude": 12.8396
 }
-]
+],
+"PostCode": "5121"
 },
 {
 "Name": "Treubach",
@@ -56843,7 +57280,8 @@
 "Latitude": 48.1875,
 "Longitude": 13.2022
 }
-]
+],
+"PostCode": "5272"
 },
 {
 "Name": "Überackern",
@@ -57131,7 +57569,8 @@
 "Latitude": 48.2736,
 "Longitude": 14.1144
 }
-]
+],
+"PostCode": "4072"
 },
 {
 "Name": "Aschach an der Donau",
@@ -57155,7 +57594,8 @@
 "Latitude": 48.402,
 "Longitude": 13.9106
 }
-]
+],
+"PostCode": "4082"
 },
 {
 "Name": "Eferding",
@@ -57167,7 +57607,8 @@
 "Latitude": 48.3087,
 "Longitude": 14.0223
 }
-]
+],
+"PostCode": "4070"
 },
 {
 "Name": "Fraham",
@@ -57479,7 +57920,8 @@
 "Latitude": 48.402,
 "Longitude": 13.9106
 }
-]
+],
+"PostCode": "4083"
 },
 {
 "Name": "Hartkirchen",
@@ -57815,7 +58257,8 @@
 "Latitude": 48.2969,
 "Longitude": 14.0506
 }
-]
+],
+"PostCode": "4070"
 },
 {
 "Name": "Prambachkirchen",
@@ -58343,7 +58786,8 @@
 "Latitude": 48.2581,
 "Longitude": 14.0298
 }
-]
+],
+"PostCode": "4612"
 },
 {
 "Name": "Stroheim",
@@ -58535,7 +58979,8 @@
 "Latitude": 48.496,
 "Longitude": 14.4765
 }
-]
+],
+"PostCode": "4240"
 },
 {
 "Name": "Grünbach",
@@ -58937,7 +59382,8 @@
 "Latitude": 48.4704,
 "Longitude": 14.7896
 }
-]
+],
+"PostCode": "4273"
 },
 {
 "Name": "Kefermarkt",
@@ -59429,7 +59875,8 @@
 "Latitude": 48.6362,
 "Longitude": 14.4575
 }
-]
+],
+"PostCode": "4262"
 },
 {
 "Name": "Liebenau",
@@ -60719,7 +61166,8 @@
 "Latitude": 48.4601,
 "Longitude": 14.7097
 }
-]
+],
+"PostCode": "4273"
 },
 {
 "Name": "Unterweitersdorf",
@@ -61019,7 +61467,8 @@
 "Latitude": 48.2979,
 "Longitude": 14.462
 }
-]
+],
+"PostCode": "4224"
 },
 {
 "Name": "Weitersfelden",
@@ -61121,7 +61570,8 @@
 "Latitude": 48.4978,
 "Longitude": 14.7073
 }
-]
+],
+"PostCode": "4272"
 },
 {
 "Name": "Windhaag bei Freistadt",
@@ -61205,7 +61655,8 @@
 "Latitude": 48.5877,
 "Longitude": 14.5619
 }
-]
+],
+"PostCode": "4263"
 },
 {
 "Name": "Bad Zell",
@@ -61595,7 +62046,8 @@
 "Latitude": 47.6491,
 "Longitude": 13.6336
 }
-]
+],
+"PostCode": "4822"
 },
 {
 "Name": "Bad Ischl",
@@ -61817,7 +62269,8 @@
 "Latitude": 47.8,
 "Longitude": 13.7667
 }
-]
+],
+"PostCode": "4802"
 },
 {
 "Name": "Gmunden",
@@ -61829,7 +62282,8 @@
 "Latitude": 47.9184,
 "Longitude": 13.7993
 }
-]
+],
+"PostCode": "4810"
 },
 {
 "Name": "Gosau",
@@ -62147,7 +62601,8 @@
 "Latitude": 47.55,
 "Longitude": 13.6833
 }
-]
+],
+"PostCode": "4831"
 },
 {
 "Name": "Ohlsdorf",
@@ -62711,7 +63166,8 @@
 "Latitude": 47.7259,
 "Longitude": 13.5364
 }
-]
+],
+"PostCode": "5360"
 },
 {
 "Name": "Traunkirchen",
@@ -62723,7 +63179,8 @@
 "Latitude": 47.8446,
 "Longitude": 13.7894
 }
-]
+],
+"PostCode": "4801"
 },
 {
 "Name": "Scharnstein",
@@ -63029,7 +63486,8 @@
 "Latitude": 48.1449,
 "Longitude": 13.7507
 }
-]
+],
+"PostCode": "4676"
 },
 {
 "Name": "Bad Schallerbach",
@@ -63305,7 +63763,8 @@
 "Latitude": 48.243899999999996,
 "Longitude": 13.7954
 }
-]
+],
+"PostCode": "4713"
 },
 {
 "Name": "Gaspoltshofen",
@@ -63833,7 +64292,8 @@
 "Latitude": 48.1827,
 "Longitude": 13.652
 }
-]
+],
+"PostCode": "4682"
 },
 {
 "Name": "Grieskirchen",
@@ -64079,7 +64539,8 @@
 "Latitude": 48.1827,
 "Longitude": 13.652
 }
-]
+],
+"PostCode": "4680"
 },
 {
 "Name": "Heiligenberg",
@@ -64187,7 +64648,8 @@
 "Latitude": 48.3187,
 "Longitude": 13.8812
 }
-]
+],
+"PostCode": "4733"
 },
 {
 "Name": "Hofkirchen an der Trattnach",
@@ -64601,7 +65063,8 @@
 "Latitude": 48.373,
 "Longitude": 13.7414
 }
-]
+],
+"PostCode": "4720"
 },
 {
 "Name": "Kematen am Innbach",
@@ -65615,7 +66078,8 @@
 "Latitude": 48.2728,
 "Longitude": 13.7284
 }
-]
+],
+"PostCode": "4720"
 },
 {
 "Name": "Pötting",
@@ -65693,7 +66157,8 @@
 "Latitude": 48.373,
 "Longitude": 13.7414
 }
-]
+],
+"PostCode": "4720"
 },
 {
 "Name": "Pollham",
@@ -66047,7 +66512,8 @@
 "Latitude": 48.2325,
 "Longitude": 13.6173
 }
-]
+],
+"PostCode": "4742"
 },
 {
 "Name": "Rottenbach",
@@ -66629,7 +67095,8 @@
 "Latitude": 48.3187,
 "Longitude": 13.8812
 }
-]
+],
+"PostCode": "4732"
 },
 {
 "Name": "Schlüßlberg",
@@ -67037,7 +67504,8 @@
 "Latitude": 48.373,
 "Longitude": 13.7414
 }
-]
+],
+"PostCode": "4722"
 },
 {
 "Name": "Taufkirchen an der Trattnach",
@@ -67265,7 +67733,8 @@
 "Latitude": 48.243899999999996,
 "Longitude": 13.7954
 }
-]
+],
+"PostCode": "4715"
 },
 {
 "Name": "Tollet",
@@ -68471,7 +68940,8 @@
 "Latitude": 48.373,
 "Longitude": 13.7414
 }
-]
+],
+"PostCode": "4722"
 }
 ]
 },
@@ -68645,7 +69115,8 @@
 "Latitude": 47.9333,
 "Longitude": 14.05
 }
-]
+],
+"PostCode": "4565"
 },
 {
 "Name": "Kirchdorf an der Krems",
@@ -68753,7 +69224,8 @@
 "Latitude": 47.897,
 "Longitude": 14.1031
 }
-]
+],
+"PostCode": "4563"
 },
 {
 "Name": "Molln",
@@ -68777,7 +69249,8 @@
 "Latitude": 47.8667,
 "Longitude": 14.2667
 }
-]
+],
+"PostCode": "4591"
 },
 {
 "Name": "Nußbach",
@@ -68849,7 +69322,8 @@
 "Latitude": 47.9259,
 "Longitude": 14.1662
 }
-]
+],
+"PostCode": "4554"
 },
 {
 "Name": "Pettenbach",
@@ -68915,7 +69389,8 @@
 "Latitude": 47.9164,
 "Longitude": 13.9895
 }
-]
+],
+"PostCode": "4643"
 },
 {
 "Name": "Ried im Traunkreis",
@@ -69065,7 +69540,8 @@
 "Latitude": 47.716,
 "Longitude": 14.282
 }
-]
+],
+"PostCode": "4575"
 },
 {
 "Name": "Sankt Pankraz",
@@ -69083,7 +69559,8 @@
 "Latitude": 47.7379,
 "Longitude": 14.217
 }
-]
+],
+"PostCode": "4572"
 },
 {
 "Name": "Schlierbach",
@@ -69113,7 +69590,8 @@
 "Latitude": 47.9364,
 "Longitude": 14.1202
 }
-]
+],
+"PostCode": "4553"
 },
 {
 "Name": "Spital am Pyhrn",
@@ -69149,7 +69627,8 @@
 "Latitude": 47.6649,
 "Longitude": 14.3401
 }
-]
+],
+"PostCode": "4582"
 },
 {
 "Name": "Steinbach am Ziehberg",
@@ -69299,7 +69778,8 @@
 "Latitude": 47.9891,
 "Longitude": 14.1186
 }
-]
+],
+"PostCode": "4552"
 },
 {
 "Name": "Windischgarsten",
@@ -69311,7 +69791,8 @@
 "Latitude": 47.7222,
 "Longitude": 14.3275
 }
-]
+],
+"PostCode": "4580"
 }
 ]
 },
@@ -69347,7 +69828,8 @@
 "Latitude": 48.1499,
 "Longitude": 14.1964
 }
-]
+],
+"PostCode": "4511"
 },
 {
 "Name": "Ansfelden",
@@ -69473,7 +69955,8 @@
 "Latitude": 48.2376,
 "Longitude": 14.4027
 }
-]
+],
+"PostCode": "4481"
 },
 {
 "Name": "Eggendorf im Traunkreis",
@@ -69749,7 +70232,8 @@
 "Latitude": 48.2051,
 "Longitude": 14.1852
 }
-]
+],
+"PostCode": "4063"
 },
 {
 "Name": "Hofkirchen im Traunkreis",
@@ -69929,7 +70413,8 @@
 "Latitude": 48.2756,
 "Longitude": 14.1683
 }
-]
+],
+"PostCode": "4062"
 },
 {
 "Name": "Kronstorf",
@@ -70295,7 +70780,8 @@
 "Latitude": 48.2045,
 "Longitude": 14.3981
 }
-]
+],
+"PostCode": "4490"
 },
 {
 "Name": "Neuhofen an der Krems",
@@ -70373,7 +70859,8 @@
 "Latitude": 48.164,
 "Longitude": 14.3221
 }
-]
+],
+"PostCode": "4491"
 },
 {
 "Name": "Oftering",
@@ -70451,7 +70938,8 @@
 "Latitude": 48.2386,
 "Longitude": 14.1123
 }
-]
+],
+"PostCode": "4064"
 },
 {
 "Name": "Pasching",
@@ -70487,7 +70975,8 @@
 "Latitude": 48.2383,
 "Longitude": 14.23
 }
-]
+],
+"PostCode": "4061"
 },
 {
 "Name": "Piberbach",
@@ -71129,7 +71618,8 @@
 "Latitude": 48.3087,
 "Longitude": 14.9075
 }
-]
+],
+"PostCode": "4371"
 },
 {
 "Name": "Grein",
@@ -71375,7 +71865,8 @@
 "Latitude": 48.2291,
 "Longitude": 14.8024
 }
-]
+],
+"PostCode": "4352"
 },
 {
 "Name": "Bad Kreuzen",
@@ -71843,7 +72334,8 @@
 "Latitude": 48.209,
 "Longitude": 14.7191
 }
-]
+],
+"PostCode": "4343"
 },
 {
 "Name": "Münzbach",
@@ -72281,7 +72773,8 @@
 "Latitude": 48.2521,
 "Longitude": 14.6183
 }
-]
+],
+"PostCode": "4320"
 },
 {
 "Name": "Rechberg",
@@ -73289,7 +73782,8 @@
 "Latitude": 48.3556,
 "Longitude": 13.3913
 }
-]
+],
+"PostCode": "4980"
 },
 {
 "Name": "Aurolzmünster",
@@ -73625,7 +74119,8 @@
 "Latitude": 48.1164,
 "Longitude": 13.6263
 }
-]
+],
+"PostCode": "4906"
 },
 {
 "Name": "Eitzing",
@@ -73691,7 +74186,8 @@
 "Latitude": 48.2952,
 "Longitude": 13.4387
 }
-]
+],
+"PostCode": "4970"
 },
 {
 "Name": "Geiersberg",
@@ -74093,7 +74589,8 @@
 "Latitude": 48.1555,
 "Longitude": 13.4802
 }
-]
+],
+"PostCode": "4921"
 },
 {
 "Name": "Kirchdorf am Inn",
@@ -74213,7 +74710,8 @@
 "Latitude": 48.1697,
 "Longitude": 13.3531
 }
-]
+],
+"PostCode": "4932"
 },
 {
 "Name": "Lambrechten",
@@ -74453,7 +74951,8 @@
 "Latitude": 48.1135,
 "Longitude": 13.3676
 }
-]
+],
+"PostCode": "4923"
 },
 {
 "Name": "Mehrnbach",
@@ -74807,7 +75306,8 @@
 "Latitude": 48.1697,
 "Longitude": 13.3531
 }
-]
+],
+"PostCode": "4931"
 },
 {
 "Name": "Mörschwang",
@@ -74903,7 +75403,8 @@
 "Latitude": 48.2695,
 "Longitude": 13.1465
 }
-]
+],
+"PostCode": "4961"
 },
 {
 "Name": "Neuhofen im Innkreis",
@@ -75023,7 +75524,8 @@
 "Latitude": 48.1907,
 "Longitude": 13.4866
 }
-]
+],
+"PostCode": "4912"
 },
 {
 "Name": "Obernberg am Inn",
@@ -75035,7 +75537,8 @@
 "Latitude": 48.3213,
 "Longitude": 13.3343
 }
-]
+],
+"PostCode": "4982"
 },
 {
 "Name": "Ort im Innkreis",
@@ -75089,7 +75592,8 @@
 "Latitude": 48.318,
 "Longitude": 13.4426
 }
-]
+],
+"PostCode": "4974"
 },
 {
 "Name": "Pattigham",
@@ -75389,7 +75893,8 @@
 "Latitude": 48.1555,
 "Longitude": 13.4802
 }
-]
+],
+"PostCode": "4925"
 },
 {
 "Name": "Reichersberg",
@@ -75677,7 +76182,8 @@
 "Latitude": 48.1555,
 "Longitude": 13.4802
 }
-]
+],
+"PostCode": "4926"
 },
 {
 "Name": "Sankt Martin im Innkreis",
@@ -75731,7 +76237,8 @@
 "Latitude": 48.303,
 "Longitude": 13.4059
 }
-]
+],
+"PostCode": "4973"
 },
 {
 "Name": "Schildorn",
@@ -75953,7 +76460,8 @@
 "Latitude": 48.2786,
 "Longitude": 13.4068
 }
-]
+],
+"PostCode": "4973"
 },
 {
 "Name": "Taiskirchen im Innkreis",
@@ -76271,7 +76779,8 @@
 "Latitude": 48.2427,
 "Longitude": 13.5093
 }
-]
+],
+"PostCode": "4911"
 },
 {
 "Name": "Utzenaich",
@@ -76631,7 +77140,8 @@
 "Latitude": 48.1555,
 "Longitude": 13.4802
 }
-]
+],
+"PostCode": "4924"
 },
 {
 "Name": "Weilbach",
@@ -76715,7 +77225,8 @@
 "Latitude": 48.2773,
 "Longitude": 13.3716
 }
-]
+],
+"PostCode": "4984"
 },
 {
 "Name": "Wippenham",
@@ -76775,7 +77286,8 @@
 "Latitude": 48.2225,
 "Longitude": 13.3792
 }
-]
+],
+"PostCode": "4942"
 }
 ]
 },
@@ -77303,7 +77815,8 @@
 "Latitude": 48.5513,
 "Longitude": 14.0592
 }
-]
+],
+"PostCode": "4170"
 },
 {
 "Name": "Helfenberg",
@@ -77381,7 +77894,8 @@
 "Latitude": 48.5578,
 "Longitude": 14.1475
 }
-]
+],
+"PostCode": "4184"
 },
 {
 "Name": "Hörbich",
@@ -77801,7 +78315,8 @@
 "Latitude": 48.7017,
 "Longitude": 13.8514
 }
-]
+],
+"PostCode": "4163"
 },
 {
 "Name": "Kleinzell im Mühlkreis",
@@ -78077,7 +78592,8 @@
 "Latitude": 48.499,
 "Longitude": 14.1021
 }
-]
+],
+"PostCode": "4170"
 },
 {
 "Name": "Nebelberg",
@@ -78107,7 +78623,8 @@
 "Latitude": 48.624,
 "Longitude": 13.8601
 }
-]
+],
+"PostCode": "4155"
 },
 {
 "Name": "Neufelden",
@@ -78569,7 +79086,8 @@
 "Latitude": 48.603,
 "Longitude": 13.9582
 }
-]
+],
+"PostCode": "4151"
 },
 {
 "Name": "Peilstein im Mühlviertel",
@@ -79259,7 +79777,8 @@
 "Latitude": 48.4813,
 "Longitude": 14.1034
 }
-]
+],
+"PostCode": "4172"
 },
 {
 "Name": "Sankt Martin im Mühlkreis",
@@ -79457,7 +79976,8 @@
 "Latitude": 48.6104,
 "Longitude": 14.024
 }
-]
+],
+"PostCode": "4170"
 },
 {
 "Name": "Sankt Peter am Wimberg",
@@ -79661,7 +80181,8 @@
 "Latitude": 48.4889,
 "Longitude": 14.0837
 }
-]
+],
+"PostCode": "4116"
 },
 {
 "Name": "Sankt Veit im Mühlkreis",
@@ -80921,7 +81442,8 @@
 "Latitude": 48.507,
 "Longitude": 13.4839
 }
-]
+],
+"PostCode": "4786"
 },
 {
 "Name": "Diersbach",
@@ -81125,7 +81647,8 @@
 "Latitude": 48.3799,
 "Longitude": 13.532
 }
-]
+],
+"PostCode": "4776"
 },
 {
 "Name": "Dorf an der Pram",
@@ -81269,7 +81792,8 @@
 "Latitude": 48.2831,
 "Longitude": 13.5935
 }
-]
+],
+"PostCode": "4751"
 },
 {
 "Name": "Eggerding",
@@ -81707,7 +82231,8 @@
 "Latitude": 48.5143,
 "Longitude": 13.5827
 }
-]
+],
+"PostCode": "4092"
 },
 {
 "Name": "Freinberg",
@@ -81761,7 +82286,8 @@
 "Latitude": 48.5573,
 "Longitude": 13.4881
 }
-]
+],
+"PostCode": "4785"
 },
 {
 "Name": "Kopfing im Innkreis",
@@ -81953,7 +82479,8 @@
 "Latitude": 48.3313,
 "Longitude": 13.5133
 }
-]
+],
+"PostCode": "4777"
 },
 {
 "Name": "Münzkirchen",
@@ -82049,7 +82576,8 @@
 "Latitude": 48.4652,
 "Longitude": 13.614
 }
-]
+],
+"PostCode": "4792"
 },
 {
 "Name": "Raab",
@@ -82151,7 +82679,8 @@
 "Latitude": 48.3714,
 "Longitude": 13.6392
 }
-]
+],
+"PostCode": "4760"
 },
 {
 "Name": "Rainbach im Innkreis",
@@ -82355,7 +82884,8 @@
 "Latitude": 48.2831,
 "Longitude": 13.5935
 }
-]
+],
+"PostCode": "4752"
 },
 {
 "Name": "Sankt Aegidi",
@@ -83123,7 +83653,8 @@
 "Latitude": 48.4519,
 "Longitude": 13.4395
 }
-]
+],
+"PostCode": "4780"
 },
 {
 "Name": "Schardenberg",
@@ -83285,7 +83816,8 @@
 "Latitude": 48.3799,
 "Longitude": 13.532
 }
-]
+],
+"PostCode": "4771"
 },
 {
 "Name": "Suben",
@@ -83321,7 +83853,8 @@
 "Latitude": 48.4118,
 "Longitude": 13.4304
 }
-]
+],
+"PostCode": "4975"
 },
 {
 "Name": "Taufkirchen an der Pram",
@@ -83573,7 +84106,8 @@
 "Latitude": 48.5294,
 "Longitude": 13.6096
 }
-]
+],
+"PostCode": "4091"
 },
 {
 "Name": "Waldkirchen am Wesen",
@@ -84029,7 +84563,8 @@
 "Latitude": 48.3163,
 "Longitude": 13.6292
 }
-]
+],
+"PostCode": "4755"
 }
 ]
 },
@@ -84077,7 +84612,8 @@
 "Latitude": 48.0085,
 "Longitude": 14.1794
 }
-]
+],
+"PostCode": "4541"
 },
 {
 "Name": "Aschach an der Steyr",
@@ -84137,7 +84673,8 @@
 "Latitude": 48.0383,
 "Longitude": 14.2077
 }
-]
+],
+"PostCode": "4540"
 },
 {
 "Name": "Dietach",
@@ -84491,7 +85028,8 @@
 "Latitude": 47.9243,
 "Longitude": 14.4367
 }
-]
+],
+"PostCode": "4460"
 },
 {
 "Name": "Maria Neustift",
@@ -84563,7 +85101,8 @@
 "Latitude": 47.8833,
 "Longitude": 14.45
 }
-]
+],
+"PostCode": "4462"
 },
 {
 "Name": "Rohr im Kremstal",
@@ -84863,7 +85402,8 @@
 "Latitude": 47.9985,
 "Longitude": 14.2588
 }
-]
+],
+"PostCode": "4595"
 },
 {
 "Name": "Wolfern",
@@ -84887,7 +85427,8 @@
 "Latitude": 48.1809,
 "Longitude": 14.3667
 }
-]
+],
+"PostCode": "4493"
 },
 {
 "Name": "Weyer",
@@ -85463,7 +86004,8 @@
 "Latitude": 48.5252,
 "Longitude": 14.3189
 }
-]
+],
+"PostCode": "4190"
 },
 {
 "Name": "Eidenberg",
@@ -85907,7 +86449,8 @@
 "Latitude": 48.3237,
 "Longitude": 14.1335
 }
-]
+],
+"PostCode": "4102"
 },
 {
 "Name": "Gramastetten",
@@ -86123,7 +86666,8 @@
 "Latitude": 48.439,
 "Longitude": 14.3378
 }
-]
+],
+"PostCode": "4204"
 },
 {
 "Name": "Hellmonsödt",
@@ -86177,7 +86721,8 @@
 "Latitude": 48.4158,
 "Longitude": 14.3324
 }
-]
+],
+"PostCode": "4202"
 },
 {
 "Name": "Herzogsdorf",
@@ -86651,7 +87196,8 @@
 "Latitude": 48.4368,
 "Longitude": 14.3962
 }
-]
+],
+"PostCode": "4204"
 },
 {
 "Name": "Ottensheim",
@@ -86687,7 +87233,8 @@
 "Latitude": 48.3394,
 "Longitude": 14.1756
 }
-]
+],
+"PostCode": "4100"
 },
 {
 "Name": "Puchenau",
@@ -86723,7 +87270,8 @@
 "Latitude": 48.3281,
 "Longitude": 14.2345
 }
-]
+],
+"PostCode": "4048"
 },
 {
 "Name": "Reichenau im Mühlkreis",
@@ -86891,7 +87439,8 @@
 "Latitude": 48.3802,
 "Longitude": 14.1319
 }
-]
+],
+"PostCode": "4112"
 },
 {
 "Name": "Schenkenfelden",
@@ -86939,7 +87488,8 @@
 "Latitude": 48.5169,
 "Longitude": 14.3572
 }
-]
+],
+"PostCode": "4192"
 },
 {
 "Name": "Sonnberg im Mühlkreis",
@@ -87101,7 +87651,8 @@
 "Latitude": 48.3521,
 "Longitude": 14.1576
 }
-]
+],
+"PostCode": "4111"
 },
 {
 "Name": "Zwettl an der Rodl",
@@ -87455,7 +88006,8 @@
 "Latitude": 48.0321,
 "Longitude": 13.6385
 }
-]
+],
+"PostCode": "4843"
 },
 {
 "Name": "Attersee am Attersee",
@@ -87515,7 +88067,8 @@
 "Latitude": 47.9214,
 "Longitude": 13.5145
 }
-]
+],
+"PostCode": "4864"
 },
 {
 "Name": "Attnang-Puchheim",
@@ -87581,7 +88134,8 @@
 "Latitude": 47.893,
 "Longitude": 13.7458
 }
-]
+],
+"PostCode": "4800"
 },
 {
 "Name": "Atzbach",
@@ -87713,7 +88267,8 @@
 "Latitude": 48.0803,
 "Longitude": 13.7179
 }
-]
+],
+"PostCode": "4904"
 },
 {
 "Name": "Aurach am Hongar",
@@ -88979,7 +89534,8 @@
 "Latitude": 47.9616,
 "Longitude": 13.6103
 }
-]
+],
+"PostCode": "4860"
 },
 {
 "Name": "Manning",
@@ -89081,7 +89637,8 @@
 "Latitude": 48.1164,
 "Longitude": 13.6263
 }
-]
+],
+"PostCode": "4903"
 },
 {
 "Name": "Mondsee",
@@ -89591,7 +90148,8 @@
 "Latitude": 47.8667,
 "Longitude": 13.5167
 }
-]
+],
+"PostCode": "4865"
 },
 {
 "Name": "Oberhofen am Irrsee",
@@ -89765,7 +90323,8 @@
 "Latitude": 48.0446,
 "Longitude": 13.7748
 }
-]
+],
+"PostCode": "4690"
 },
 {
 "Name": "Oberwang",
@@ -89807,7 +90366,8 @@
 "Latitude": 47.9152,
 "Longitude": 13.467
 }
-]
+],
+"PostCode": "4882"
 },
 {
 "Name": "Ottnang am Hausruck",
@@ -90047,7 +90607,8 @@
 "Latitude": 48.1164,
 "Longitude": 13.6263
 }
-]
+],
+"PostCode": "4901"
 },
 {
 "Name": "Pfaffing",
@@ -90353,7 +90914,8 @@
 "Latitude": 48.0446,
 "Longitude": 13.7748
 }
-]
+],
+"PostCode": "4690"
 },
 {
 "Name": "Pöndorf",
@@ -90539,7 +91101,8 @@
 "Latitude": 48.0333,
 "Longitude": 13.5667
 }
-]
+],
+"PostCode": "4849"
 },
 {
 "Name": "Pühret",
@@ -90641,7 +91204,8 @@
 "Latitude": 48.0497,
 "Longitude": 13.4929
 }
-]
+],
+"PostCode": "4873"
 },
 {
 "Name": "Redlham",
@@ -90731,7 +91295,8 @@
 "Latitude": 48.0321,
 "Longitude": 13.6385
 }
-]
+],
+"PostCode": "4846"
 },
 {
 "Name": "Regau",
@@ -91115,7 +91680,8 @@
 "Latitude": 48.0608,
 "Longitude": 13.7188
 }
-]
+],
+"PostCode": "4690"
 },
 {
 "Name": "Sankt Georgen im Attergau",
@@ -91187,7 +91753,8 @@
 "Latitude": 47.9152,
 "Longitude": 13.467
 }
-]
+],
+"PostCode": "4880"
 },
 {
 "Name": "Sankt Lorenz",
@@ -91211,7 +91778,8 @@
 "Latitude": 47.85,
 "Longitude": 13.3524
 }
-]
+],
+"PostCode": "5310"
 },
 {
 "Name": "Schlatt",
@@ -91355,7 +91923,8 @@
 "Latitude": 47.9127,
 "Longitude": 13.5602
 }
-]
+],
+"PostCode": "4861"
 },
 {
 "Name": "Schwanenstadt",
@@ -91367,7 +91936,8 @@
 "Latitude": 48.0554,
 "Longitude": 13.7751
 }
-]
+],
+"PostCode": "4690"
 },
 {
 "Name": "Seewalchen am Attersee",
@@ -91715,7 +92285,8 @@
 "Latitude": 47.9,
 "Longitude": 13.4833
 }
-]
+],
+"PostCode": "4881"
 },
 {
 "Name": "Tiefgraben",
@@ -92153,7 +92724,8 @@
 "Latitude": 47.8,
 "Longitude": 13.4833
 }
-]
+],
+"PostCode": "4866"
 },
 {
 "Name": "Vöcklabruck",
@@ -92795,7 +93367,8 @@
 "Latitude": 48.1067,
 "Longitude": 13.6727
 }
-]
+],
+"PostCode": "4902"
 },
 {
 "Name": "Zell am Moos",
@@ -92897,7 +93470,8 @@
 "Latitude": 47.9,
 "Longitude": 13.3167
 }
-]
+],
+"PostCode": "4893"
 },
 {
 "Name": "Zell am Pettenfirst",
@@ -93041,7 +93615,8 @@
 "Latitude": 48.0667,
 "Longitude": 13.5833
 }
-]
+],
+"PostCode": "4842"
 }
 ]
 },
@@ -93131,7 +93706,8 @@
 "Latitude": 48.1449,
 "Longitude": 13.7507
 }
-]
+],
+"PostCode": "4671"
 },
 {
 "Name": "Bachmanning",
@@ -93185,7 +93761,8 @@
 "Latitude": 48.1449,
 "Longitude": 13.7507
 }
-]
+],
+"PostCode": "4672"
 },
 {
 "Name": "Bad Wimsbach-Neydharting",
@@ -93269,7 +93846,8 @@
 "Latitude": 48.0667,
 "Longitude": 13.9
 }
-]
+],
+"PostCode": "4654"
 },
 {
 "Name": "Buchkirchen",
@@ -93719,7 +94297,8 @@
 "Latitude": 48.0489,
 "Longitude": 13.9247
 }
-]
+],
+"PostCode": "4650"
 },
 {
 "Name": "Fischlham",
@@ -94145,7 +94724,8 @@
 "Latitude": 48.2192,
 "Longitude": 14.0562
 }
-]
+],
+"PostCode": "4615"
 },
 {
 "Name": "Krenglbach",
@@ -94313,7 +94893,8 @@
 "Latitude": 48.0489,
 "Longitude": 13.9247
 }
-]
+],
+"PostCode": "4650"
 },
 {
 "Name": "Marchtrenk",
@@ -94391,7 +94972,8 @@
 "Latitude": 48.2192,
 "Longitude": 14.0562
 }
-]
+],
+"PostCode": "4614"
 },
 {
 "Name": "Neukirchen bei Lambach",
@@ -94487,7 +95069,8 @@
 "Latitude": 48.1137,
 "Longitude": 13.8096
 }
-]
+],
+"PostCode": "4671"
 },
 {
 "Name": "Offenhausen",
@@ -95273,7 +95856,8 @@
 "Latitude": 48.1,
 "Longitude": 14.05
 }
-]
+],
+"PostCode": "4642"
 },
 {
 "Name": "Schleißheim",
@@ -95297,7 +95881,8 @@
 "Latitude": 48.1352,
 "Longitude": 14.0799
 }
-]
+],
+"PostCode": "4600"
 },
 {
 "Name": "Sipbachzell",
@@ -95351,7 +95936,8 @@
 "Latitude": 48.0972,
 "Longitude": 14.1111
 }
-]
+],
+"PostCode": "4621"
 },
 {
 "Name": "Stadl-Paura",
@@ -95567,7 +96153,8 @@
 "Latitude": 48.1,
 "Longitude": 14.05
 }
-]
+],
+"PostCode": "4641"
 },
 {
 "Name": "Thalheim bei Wels",
@@ -95609,7 +96196,8 @@
 "Latitude": 48.1675,
 "Longitude": 14.0238
 }
-]
+],
+"PostCode": "4600"
 },
 {
 "Name": "Weißkirchen an der Traun",
@@ -95657,7 +96245,8 @@
 "Latitude": 48.1465,
 "Longitude": 14.1176
 }
-]
+],
+"PostCode": "4616"
 }
 ]
 }
@@ -96011,7 +96600,8 @@
 "Latitude": 47.6,
 "Longitude": 13.15
 }
-]
+],
+"PostCode": "5440"
 },
 {
 "Name": "Hallein",
@@ -96107,7 +96697,8 @@
 "Latitude": 47.7167,
 "Longitude": 13.1833
 }
-]
+],
+"PostCode": "5425"
 },
 {
 "Name": "Kuchl",
@@ -96251,7 +96842,8 @@
 "Latitude": 47.5945,
 "Longitude": 13.482
 }
-]
+],
+"PostCode": "5442"
 },
 {
 "Name": "Sankt Koloman",
@@ -96275,7 +96867,8 @@
 "Latitude": 47.6902,
 "Longitude": 13.1523
 }
-]
+],
+"PostCode": "5423"
 },
 {
 "Name": "Scheffau am Tennengebirge",
@@ -96335,7 +96928,8 @@
 "Latitude": 47.6667,
 "Longitude": 13.1333
 }
-]
+],
+"PostCode": "5424"
 }
 ]
 },
@@ -96365,7 +96959,8 @@
 "Latitude": 47.7333,
 "Longitude": 13.05
 }
-]
+],
+"PostCode": "5081"
 },
 {
 "Name": "Anthering",
@@ -96449,7 +97044,8 @@
 "Latitude": 47.9,
 "Longitude": 13.0167
 }
-]
+],
+"PostCode": "5102"
 },
 {
 "Name": "Bergheim",
@@ -96485,7 +97081,8 @@
 "Latitude": 47.8661,
 "Longitude": 13.0328
 }
-]
+],
+"PostCode": "5101"
 },
 {
 "Name": "Berndorf bei Salzburg",
@@ -96503,7 +97100,8 @@
 "Latitude": 47.9736,
 "Longitude": 13.0406
 }
-]
+],
+"PostCode": "5165"
 },
 {
 "Name": "Bürmoos",
@@ -96515,7 +97113,8 @@
 "Latitude": 47.9834,
 "Longitude": 12.9179
 }
-]
+],
+"PostCode": "5111"
 },
 {
 "Name": "Dorfbeuern",
@@ -96593,7 +97192,8 @@
 "Latitude": 47.96,
 "Longitude": 12.9991
 }
-]
+],
+"PostCode": "5152"
 },
 {
 "Name": "Ebenau",
@@ -96629,7 +97229,8 @@
 "Latitude": 47.7993,
 "Longitude": 13.1875
 }
-]
+],
+"PostCode": "5323"
 },
 {
 "Name": "Elixhausen",
@@ -96641,7 +97242,8 @@
 "Latitude": 47.8667,
 "Longitude": 13.0667
 }
-]
+],
+"PostCode": "5161"
 },
 {
 "Name": "Elsbethen",
@@ -96701,7 +97303,8 @@
 "Latitude": 47.7699,
 "Longitude": 13.0921
 }
-]
+],
+"PostCode": "5061"
 },
 {
 "Name": "Eugendorf",
@@ -96827,7 +97430,8 @@
 "Latitude": 47.7803,
 "Longitude": 13.2036
 }
-]
+],
+"PostCode": "5324"
 },
 {
 "Name": "Fuschl am See",
@@ -96839,7 +97443,8 @@
 "Latitude": 47.8,
 "Longitude": 13.3
 }
-]
+],
+"PostCode": "5330"
 },
 {
 "Name": "Göming",
@@ -96887,7 +97492,8 @@
 "Latitude": 47.9667,
 "Longitude": 12.9667
 }
-]
+],
+"PostCode": "5114"
 },
 {
 "Name": "Grödig",
@@ -96935,7 +97541,8 @@
 "Latitude": 47.7167,
 "Longitude": 12.9167
 }
-]
+],
+"PostCode": "5084"
 },
 {
 "Name": "Hallwang",
@@ -96965,7 +97572,8 @@
 "Latitude": 47.85,
 "Longitude": 13.1
 }
-]
+],
+"PostCode": "5300"
 },
 {
 "Name": "Henndorf am Wallersee",
@@ -96977,7 +97585,8 @@
 "Latitude": 47.9,
 "Longitude": 13.1833
 }
-]
+],
+"PostCode": "5302"
 },
 {
 "Name": "Hintersee",
@@ -96995,7 +97604,8 @@
 "Latitude": 47.7803,
 "Longitude": 13.2036
 }
-]
+],
+"PostCode": "5324"
 },
 {
 "Name": "Hof bei Salzburg",
@@ -97007,7 +97617,8 @@
 "Latitude": 47.8193,
 "Longitude": 13.2149
 }
-]
+],
+"PostCode": "5322"
 },
 {
 "Name": "Köstendorf",
@@ -97073,7 +97684,8 @@
 "Latitude": 47.9333,
 "Longitude": 13.1833
 }
-]
+],
+"PostCode": "5203"
 },
 {
 "Name": "Koppl",
@@ -97265,7 +97877,8 @@
 "Latitude": 47.9667,
 "Longitude": 13.1
 }
-]
+],
+"PostCode": "5163"
 },
 {
 "Name": "Neumarkt am Wallersee",
@@ -97343,7 +97956,8 @@
 "Latitude": 47.9382,
 "Longitude": 13.2039
 }
-]
+],
+"PostCode": "5202"
 },
 {
 "Name": "Nußdorf am Haunsberg",
@@ -97517,7 +98131,8 @@
 "Latitude": 47.95,
 "Longitude": 12.9333
 }
-]
+],
+"PostCode": "5110"
 },
 {
 "Name": "Obertrum am See",
@@ -97541,7 +98156,8 @@
 "Latitude": 47.9372,
 "Longitude": 13.0772
 }
-]
+],
+"PostCode": "5162"
 },
 {
 "Name": "Plainfeld",
@@ -97553,7 +98169,8 @@
 "Latitude": 47.8333,
 "Longitude": 13.1833
 }
-]
+],
+"PostCode": "5325"
 },
 {
 "Name": "Sankt Georgen bei Salzburg",
@@ -97655,7 +98272,8 @@
 "Latitude": 47.9606,
 "Longitude": 12.9103
 }
-]
+],
+"PostCode": "5113"
 },
 {
 "Name": "Sankt Gilgen",
@@ -97739,7 +98357,8 @@
 "Latitude": 47.95,
 "Longitude": 13.15
 }
-]
+],
+"PostCode": "5205"
 },
 {
 "Name": "Seeham",
@@ -97757,7 +98376,8 @@
 "Latitude": 47.9667,
 "Longitude": 13.0833
 }
-]
+],
+"PostCode": "5164"
 },
 {
 "Name": "Straßwalchen",
@@ -97931,7 +98551,8 @@
 "Latitude": 47.9667,
 "Longitude": 13.3333
 }
-]
+],
+"PostCode": "5204"
 },
 {
 "Name": "Strobl",
@@ -98033,7 +98654,8 @@
 "Latitude": 47.8333,
 "Longitude": 13.2833
 }
-]
+],
+"PostCode": "5303"
 },
 {
 "Name": "Wals-Siezenheim",
@@ -98105,7 +98727,8 @@
 "Latitude": 47.7922,
 "Longitude": 12.98
 }
-]
+],
+"PostCode": "5071"
 },
 {
 "Name": "Seekirchen am Wallersee",
@@ -98279,7 +98902,8 @@
 "Latitude": 47.3655,
 "Longitude": 13.395
 }
-]
+],
+"PostCode": "5541"
 },
 {
 "Name": "Bad Hofgastein",
@@ -98345,7 +98969,8 @@
 "Latitude": 47.2,
 "Longitude": 13.1
 }
-]
+],
+"PostCode": "5630"
 },
 {
 "Name": "Bad Gastein",
@@ -98417,7 +99042,8 @@
 "Latitude": 47.4333,
 "Longitude": 13.25
 }
-]
+],
+"PostCode": "5500"
 },
 {
 "Name": "Dorfgastein",
@@ -98459,7 +99085,8 @@
 "Latitude": 47.25,
 "Longitude": 13.0833
 }
-]
+],
+"PostCode": "5632"
 },
 {
 "Name": "Eben im Pongau",
@@ -98483,7 +99110,8 @@
 "Latitude": 47.4278,
 "Longitude": 13.4667
 }
-]
+],
+"PostCode": "5531"
 },
 {
 "Name": "Filzmoos",
@@ -98501,7 +99129,8 @@
 "Latitude": 47.45,
 "Longitude": 13.4833
 }
-]
+],
+"PostCode": "5532"
 },
 {
 "Name": "Flachau",
@@ -98531,7 +99160,8 @@
 "Latitude": 47.3667,
 "Longitude": 13.3833
 }
-]
+],
+"PostCode": "5542"
 },
 {
 "Name": "Forstau",
@@ -98543,7 +99173,8 @@
 "Latitude": 47.3667,
 "Longitude": 13.5333
 }
-]
+],
+"PostCode": "5552"
 },
 {
 "Name": "Goldegg",
@@ -98681,7 +99312,8 @@
 "Latitude": 47.25,
 "Longitude": 13.2
 }
-]
+],
+"PostCode": "5611"
 },
 {
 "Name": "Hüttau",
@@ -98753,7 +99385,8 @@
 "Latitude": 47.15,
 "Longitude": 13.3
 }
-]
+],
+"PostCode": "5612"
 },
 {
 "Name": "Kleinarl",
@@ -98765,7 +99398,8 @@
 "Latitude": 47.2772,
 "Longitude": 13.3195
 }
-]
+],
+"PostCode": "5603"
 },
 {
 "Name": "Mühlbach am Hochkönig",
@@ -98783,7 +99417,8 @@
 "Latitude": 47.3833,
 "Longitude": 13.1167
 }
-]
+],
+"PostCode": "5505"
 },
 {
 "Name": "Pfarrwerfen",
@@ -98993,7 +99628,8 @@
 "Latitude": 47.465,
 "Longitude": 13.3776
 }
-]
+],
+"PostCode": "5522"
 },
 {
 "Name": "Sankt Veit im Pongau",
@@ -99005,7 +99641,8 @@
 "Latitude": 47.3333,
 "Longitude": 13.15
 }
-]
+],
+"PostCode": "5621"
 },
 {
 "Name": "Schwarzach im Pongau",
@@ -99017,7 +99654,8 @@
 "Latitude": 47.3205,
 "Longitude": 13.1517
 }
-]
+],
+"PostCode": "5620"
 },
 {
 "Name": "Untertauern",
@@ -99071,7 +99709,8 @@
 "Latitude": 47.3466,
 "Longitude": 13.2545
 }
-]
+],
+"PostCode": "5602"
 },
 {
 "Name": "Werfen",
@@ -99149,7 +99788,8 @@
 "Latitude": 47.4667,
 "Longitude": 13.25
 }
-]
+],
+"PostCode": "5453"
 }
 ]
 },
@@ -99167,7 +99807,8 @@
 "Latitude": 47.1833,
 "Longitude": 13.75
 }
-]
+],
+"PostCode": "5574"
 },
 {
 "Name": "Lessach",
@@ -99185,7 +99826,8 @@
 "Latitude": 47.1667,
 "Longitude": 13.8167
 }
-]
+],
+"PostCode": "5575"
 },
 {
 "Name": "Mariapfarr",
@@ -99209,7 +99851,8 @@
 "Latitude": 47.1667,
 "Longitude": 13.75
 }
-]
+],
+"PostCode": "5571"
 },
 {
 "Name": "Mauterndorf",
@@ -99239,7 +99882,8 @@
 "Latitude": 47.15,
 "Longitude": 13.7
 }
-]
+],
+"PostCode": "5570"
 },
 {
 "Name": "Muhr",
@@ -99263,7 +99907,8 @@
 "Latitude": 47.1161,
 "Longitude": 13.7062
 }
-]
+],
+"PostCode": "5583"
 },
 {
 "Name": "Ramingstein",
@@ -99287,7 +99932,8 @@
 "Latitude": 47.0667,
 "Longitude": 13.8333
 }
-]
+],
+"PostCode": "5591"
 },
 {
 "Name": "Sankt Andrä im Lungau",
@@ -99299,7 +99945,8 @@
 "Latitude": 47.15,
 "Longitude": 13.7833
 }
-]
+],
+"PostCode": "5572"
 },
 {
 "Name": "Sankt Margarethen im Lungau",
@@ -99353,7 +100000,8 @@
 "Latitude": 47.1,
 "Longitude": 13.6
 }
-]
+],
+"PostCode": "5582"
 },
 {
 "Name": "Tamsweg",
@@ -99407,7 +100055,8 @@
 "Latitude": 47.1447,
 "Longitude": 13.8061
 }
-]
+],
+"PostCode": "5580"
 },
 {
 "Name": "Thomatal",
@@ -99425,7 +100074,8 @@
 "Latitude": 47.0667,
 "Longitude": 13.75
 }
-]
+],
+"PostCode": "5592"
 },
 {
 "Name": "Tweng",
@@ -99455,7 +100105,8 @@
 "Latitude": 47.1127,
 "Longitude": 13.7426
 }
-]
+],
+"PostCode": "5585"
 },
 {
 "Name": "Weißpriach",
@@ -99467,7 +100118,8 @@
 "Latitude": 47.1513,
 "Longitude": 13.7416
 }
-]
+],
+"PostCode": "5573"
 },
 {
 "Name": "Zederhaus",
@@ -99497,7 +100149,8 @@
 "Latitude": 47.15,
 "Longitude": 13.5
 }
-]
+],
+"PostCode": "5584"
 }
 ]
 },
@@ -99695,7 +100348,8 @@
 "Latitude": 47.3667,
 "Longitude": 13.0
 }
-]
+],
+"PostCode": "5652"
 },
 {
 "Name": "Fusch an der Großglocknerstraße",
@@ -99713,7 +100367,8 @@
 "Latitude": 47.2845,
 "Longitude": 12.8259
 }
-]
+],
+"PostCode": "5672"
 },
 {
 "Name": "Hollersbach im Pinzgau",
@@ -99785,7 +100440,8 @@
 "Latitude": 47.2724,
 "Longitude": 12.7598
 }
-]
+],
+"PostCode": "5710"
 },
 {
 "Name": "Krimml",
@@ -99809,7 +100465,8 @@
 "Latitude": 47.2333,
 "Longitude": 12.1833
 }
-]
+],
+"PostCode": "5743"
 },
 {
 "Name": "Lend",
@@ -99965,7 +100622,8 @@
 "Latitude": 47.45,
 "Longitude": 12.7833
 }
-]
+],
+"PostCode": "5771"
 },
 {
 "Name": "Lofer",
@@ -100007,7 +100665,8 @@
 "Latitude": 47.5888,
 "Longitude": 12.7097
 }
-]
+],
+"PostCode": "5090"
 },
 {
 "Name": "Maishofen",
@@ -100109,7 +100768,8 @@
 "Latitude": 47.4108,
 "Longitude": 12.8562
 }
-]
+],
+"PostCode": "5761"
 },
 {
 "Name": "Mittersill",
@@ -100271,7 +100931,8 @@
 "Latitude": 47.2333,
 "Longitude": 12.2667
 }
-]
+],
+"PostCode": "5741"
 },
 {
 "Name": "Niedernsill",
@@ -100319,7 +100980,8 @@
 "Latitude": 47.2833,
 "Longitude": 12.6333
 }
-]
+],
+"PostCode": "5722"
 },
 {
 "Name": "Piesendorf",
@@ -100349,7 +101011,8 @@
 "Latitude": 47.2833,
 "Longitude": 12.6833
 }
-]
+],
+"PostCode": "5721"
 },
 {
 "Name": "Rauris",
@@ -100427,7 +101090,8 @@
 "Latitude": 47.2466,
 "Longitude": 12.9573
 }
-]
+],
+"PostCode": "5661"
 },
 {
 "Name": "Saalbach-Hinterglemm",
@@ -100661,7 +101325,8 @@
 "Latitude": 47.4108,
 "Longitude": 12.8562
 }
-]
+],
+"PostCode": "5760"
 },
 {
 "Name": "Sankt Martin bei Lofer",
@@ -100733,7 +101398,8 @@
 "Latitude": 47.2833,
 "Longitude": 12.5167
 }
-]
+],
+"PostCode": "5724"
 },
 {
 "Name": "Taxenbach",
@@ -100883,7 +101549,8 @@
 "Latitude": 47.6333,
 "Longitude": 12.7
 }
-]
+],
+"PostCode": "5091"
 },
 {
 "Name": "Uttendorf",
@@ -100949,7 +101616,8 @@
 "Latitude": 47.2833,
 "Longitude": 12.5667
 }
-]
+],
+"PostCode": "5723"
 },
 {
 "Name": "Viehhofen",
@@ -100961,7 +101629,8 @@
 "Latitude": 47.3667,
 "Longitude": 12.7333
 }
-]
+],
+"PostCode": "5752"
 },
 {
 "Name": "Wald im Pinzgau",
@@ -101003,7 +101672,8 @@
 "Latitude": 47.25,
 "Longitude": 12.2333
 }
-]
+],
+"PostCode": "5742"
 },
 {
 "Name": "Weißbach bei Lofer",
@@ -101039,7 +101709,8 @@
 "Latitude": 47.5167,
 "Longitude": 12.75
 }
-]
+],
+"PostCode": "5093"
 },
 {
 "Name": "Zell am See",
@@ -101075,7 +101746,8 @@
 "Latitude": 47.3256,
 "Longitude": 12.7944
 }
-]
+],
+"PostCode": "5700"
 }
 ]
 }
@@ -101615,7 +102287,8 @@
 "Latitude": 46.85,
 "Longitude": 15.3667
 }
-]
+],
+"PostCode": "8504"
 },
 {
 "Name": "Sankt Josef (Weststeiermark)",
@@ -103031,7 +103704,8 @@
 "Latitude": 47.0167,
 "Longitude": 15.4667
 }
-]
+],
+"PostCode": "8077"
 },
 {
 "Name": "Gratkorn",
@@ -103163,7 +103837,8 @@
 "Latitude": 46.9911,
 "Longitude": 15.5114
 }
-]
+],
+"PostCode": "8071"
 },
 {
 "Name": "Kainbach bei Graz",
@@ -103523,7 +104198,8 @@
 "Latitude": 47.1513,
 "Longitude": 15.5333
 }
-]
+],
+"PostCode": "8061"
 },
 {
 "Name": "Semriach",
@@ -103685,7 +104361,8 @@
 "Latitude": 47.1,
 "Longitude": 15.2167
 }
-]
+],
+"PostCode": "8113"
 },
 {
 "Name": "Thal",
@@ -103841,7 +104518,8 @@
 "Latitude": 46.9242,
 "Longitude": 15.4908
 }
-]
+],
+"PostCode": "8402"
 },
 {
 "Name": "Wundschuh",
@@ -103877,7 +104555,8 @@
 "Latitude": 46.9264,
 "Longitude": 15.4511
 }
-]
+],
+"PostCode": "8142"
 },
 {
 "Name": "Deutschfeistritz",
@@ -104849,7 +105528,8 @@
 "Latitude": 47.0333,
 "Longitude": 15.5
 }
-]
+],
+"PostCode": "8074"
 },
 {
 "Name": "Sankt Marein bei Graz",
@@ -105167,7 +105847,8 @@
 "Latitude": 46.6667,
 "Longitude": 15.4167
 }
-]
+],
+"PostCode": "8454"
 },
 {
 "Name": "Empersdorf",
@@ -105221,7 +105902,8 @@
 "Latitude": 46.8156,
 "Longitude": 15.6039
 }
-]
+],
+"PostCode": "8424"
 },
 {
 "Name": "Gralla",
@@ -105233,7 +105915,8 @@
 "Latitude": 46.7855,
 "Longitude": 15.54
 }
-]
+],
+"PostCode": "8431"
 },
 {
 "Name": "Großklein",
@@ -105377,7 +106060,8 @@
 "Latitude": 46.7333,
 "Longitude": 15.4833
 }
-]
+],
+"PostCode": "8451"
 },
 {
 "Name": "Hengsberg",
@@ -105575,7 +106259,8 @@
 "Latitude": 46.8998,
 "Longitude": 15.483
 }
-]
+],
+"PostCode": "8403"
 },
 {
 "Name": "Lebring-Sankt Margarethen",
@@ -106175,7 +106860,8 @@
 "Latitude": 46.6966,
 "Longitude": 15.5259
 }
-]
+],
+"PostCode": "8461"
 },
 {
 "Name": "Gamlitz",
@@ -106943,7 +107629,8 @@
 "Latitude": 47.5333,
 "Longitude": 14.8833
 }
-]
+],
+"PostCode": "8790"
 },
 {
 "Name": "Kalwang",
@@ -106973,7 +107660,8 @@
 "Latitude": 47.4333,
 "Longitude": 14.7333
 }
-]
+],
+"PostCode": "8775"
 },
 {
 "Name": "Kammern im Liesingtal",
@@ -107087,7 +107775,8 @@
 "Latitude": 47.3,
 "Longitude": 14.9333
 }
-]
+],
+"PostCode": "8714"
 },
 {
 "Name": "Leoben",
@@ -107177,7 +107866,8 @@
 "Latitude": 47.4167,
 "Longitude": 14.85
 }
-]
+],
+"PostCode": "8774"
 },
 {
 "Name": "Niklasdorf",
@@ -107189,7 +107879,8 @@
 "Latitude": 47.3833,
 "Longitude": 15.15
 }
-]
+],
+"PostCode": "8712"
 },
 {
 "Name": "Proleb",
@@ -107219,7 +107910,8 @@
 "Latitude": 47.4,
 "Longitude": 15.1333
 }
-]
+],
+"PostCode": "8712"
 },
 {
 "Name": "Radmer",
@@ -107237,7 +107929,8 @@
 "Latitude": 47.5333,
 "Longitude": 14.75
 }
-]
+],
+"PostCode": "8795"
 },
 {
 "Name": "Sankt Michael in Obersteiermark",
@@ -107321,7 +108014,8 @@
 "Latitude": 47.4333,
 "Longitude": 14.9394
 }
-]
+],
+"PostCode": "8792"
 },
 {
 "Name": "Sankt Stefan ob Leoben",
@@ -107423,7 +108117,8 @@
 "Latitude": 47.4667,
 "Longitude": 15.0
 }
-]
+],
+"PostCode": "8794"
 },
 {
 "Name": "Wald am Schoberpaß",
@@ -107447,7 +108142,8 @@
 "Latitude": 47.45,
 "Longitude": 14.6667
 }
-]
+],
+"PostCode": "8781"
 },
 {
 "Name": "Trofaiach",
@@ -107681,7 +108377,8 @@
 "Latitude": 47.4931,
 "Longitude": 14.1797
 }
-]
+],
+"PostCode": "8943"
 },
 {
 "Name": "Altaussee",
@@ -107717,7 +108414,8 @@
 "Latitude": 47.6343,
 "Longitude": 13.7606
 }
-]
+],
+"PostCode": "8992"
 },
 {
 "Name": "Altenmarkt bei Sankt Gallen",
@@ -107735,7 +108433,8 @@
 "Latitude": 47.694,
 "Longitude": 14.6551
 }
-]
+],
+"PostCode": "8934"
 },
 {
 "Name": "Ardning",
@@ -107837,7 +108536,8 @@
 "Latitude": 47.6,
 "Longitude": 13.7833
 }
-]
+],
+"PostCode": "8990"
 },
 {
 "Name": "Gröbming",
@@ -107849,7 +108549,8 @@
 "Latitude": 47.4427,
 "Longitude": 13.9012
 }
-]
+],
+"PostCode": "8962"
 },
 {
 "Name": "Grundlsee",
@@ -107885,7 +108586,8 @@
 "Latitude": 47.6333,
 "Longitude": 13.8
 }
-]
+],
+"PostCode": "8993"
 },
 {
 "Name": "Haus",
@@ -108095,7 +108797,8 @@
 "Latitude": 47.4215,
 "Longitude": 13.6554
 }
-]
+],
+"PostCode": "8972"
 },
 {
 "Name": "Selzthal",
@@ -108155,7 +108858,8 @@
 "Latitude": 47.4833,
 "Longitude": 14.4833
 }
-]
+],
+"PostCode": "8784"
 },
 {
 "Name": "Wildalpen",
@@ -108167,7 +108871,8 @@
 "Latitude": 47.65,
 "Longitude": 14.9833
 }
-]
+],
+"PostCode": "8924"
 },
 {
 "Name": "Wörschach",
@@ -108185,7 +108890,8 @@
 "Latitude": 47.55,
 "Longitude": 14.15
 }
-]
+],
+"PostCode": "8942"
 },
 {
 "Name": "Admont",
@@ -108809,7 +109515,8 @@
 "Latitude": 47.4215,
 "Longitude": 13.8692
 }
-]
+],
+"PostCode": "8960"
 },
 {
 "Name": "Rottenmann",
@@ -109313,7 +110020,8 @@
 "Latitude": 47.1833,
 "Longitude": 13.9667
 }
-]
+],
+"PostCode": "8854"
 },
 {
 "Name": "Murau",
@@ -109667,7 +110375,8 @@
 "Latitude": 47.15,
 "Longitude": 14.4
 }
-]
+],
+"PostCode": "8811"
 },
 {
 "Name": "Stadl-Predlitz",
@@ -109943,7 +110652,8 @@
 "Latitude": 46.9833,
 "Longitude": 15.25
 }
-]
+],
+"PostCode": "8562"
 },
 {
 "Name": "Rosental an der Kainach",
@@ -110735,7 +111445,8 @@
 "Latitude": 47.4,
 "Longitude": 15.6
 }
-]
+],
+"PostCode": "8616"
 },
 {
 "Name": "Markt Hartmannsdorf",
@@ -110891,7 +111602,8 @@
 "Latitude": 47.375,
 "Longitude": 15.7612
 }
-]
+],
+"PostCode": "8190"
 },
 {
 "Name": "Mitterdorf an der Raab",
@@ -110999,7 +111711,8 @@
 "Latitude": 47.1957,
 "Longitude": 15.5934
 }
-]
+],
+"PostCode": "8160"
 },
 {
 "Name": "Naas",
@@ -111035,7 +111748,8 @@
 "Latitude": 47.2333,
 "Longitude": 15.6
 }
-]
+],
+"PostCode": "8160"
 },
 {
 "Name": "Puch bei Weiz",
@@ -111149,7 +111863,8 @@
 "Latitude": 47.5333,
 "Longitude": 15.7833
 }
-]
+],
+"PostCode": "8674"
 },
 {
 "Name": "St. Kathrein am Hauenstein",
@@ -111197,7 +111912,8 @@
 "Latitude": 47.3271,
 "Longitude": 15.5675
 }
-]
+],
+"PostCode": "8171"
 },
 {
 "Name": "St. Margarethen an der Raab",
@@ -111491,7 +112207,8 @@
 "Latitude": 47.25,
 "Longitude": 15.65
 }
-]
+],
+"PostCode": "8160"
 },
 {
 "Name": "Anger",
@@ -112451,7 +113168,8 @@
 "Latitude": 47.4167,
 "Longitude": 14.5333
 }
-]
+],
+"PostCode": "8785"
 },
 {
 "Name": "Kobenz",
@@ -112499,7 +113217,8 @@
 "Latitude": 47.2667,
 "Longitude": 14.8167
 }
-]
+],
+"PostCode": "8723"
 },
 {
 "Name": "Pusterwald",
@@ -112511,7 +113230,8 @@
 "Latitude": 47.3061,
 "Longitude": 14.3756
 }
-]
+],
+"PostCode": "8764"
 },
 {
 "Name": "Sankt Georgen ob Judenburg",
@@ -112601,7 +113321,8 @@
 "Latitude": 47.1842,
 "Longitude": 14.5864
 }
-]
+],
+"PostCode": "8755"
 },
 {
 "Name": "Seckau",
@@ -112667,7 +113388,8 @@
 "Latitude": 47.2,
 "Longitude": 14.45
 }
-]
+],
+"PostCode": "8800"
 },
 {
 "Name": "Zeltweg",
@@ -112703,7 +113425,8 @@
 "Latitude": 47.1833,
 "Longitude": 14.75
 }
-]
+],
+"PostCode": "8740"
 },
 {
 "Name": "Lobmingtal",
@@ -113687,7 +114410,8 @@
 "Latitude": 47.3833,
 "Longitude": 15.4167
 }
-]
+],
+"PostCode": "8614"
 },
 {
 "Name": "Krieglach",
@@ -114323,7 +115047,8 @@
 "Latitude": 47.4415,
 "Longitude": 15.2819
 }
-]
+],
+"PostCode": "8600"
 },
 {
 "Name": "Kapfenberg",
@@ -115193,7 +115918,8 @@
 "Latitude": 47.15,
 "Longitude": 16.05
 }
-]
+],
+"PostCode": "8283"
 },
 {
 "Name": "Buch-St. Magdalena",
@@ -115283,7 +116009,8 @@
 "Latitude": 47.1427,
 "Longitude": 16.0964
 }
-]
+],
+"PostCode": "8291"
 },
 {
 "Name": "Ebersdorf",
@@ -115463,7 +116190,8 @@
 "Latitude": 47.2667,
 "Longitude": 15.9833
 }
-]
+],
+"PostCode": "8230"
 },
 {
 "Name": "Hartberg Umgebung",
@@ -115685,7 +116413,8 @@
 "Latitude": 47.2186,
 "Longitude": 15.8435
 }
-]
+],
+"PostCode": "8225"
 },
 {
 "Name": "Sankt Jakob im Walde",
@@ -116189,7 +116918,8 @@
 "Latitude": 47.4333,
 "Longitude": 16.0333
 }
-]
+],
+"PostCode": "8241"
 },
 {
 "Name": "Feistritztal",
@@ -116777,7 +117507,8 @@
 "Latitude": 47.2189,
 "Longitude": 16.0656
 }
-]
+],
+"PostCode": "8292"
 },
 {
 "Name": "Pöllau",
@@ -117833,7 +118564,8 @@
 "Latitude": 46.735,
 "Longitude": 15.8689
 }
-]
+],
+"PostCode": "8483"
 },
 {
 "Name": "Fehring",
@@ -118619,7 +119351,8 @@
 "Latitude": 46.7468,
 "Longitude": 15.8639
 }
-]
+],
+"PostCode": "8480"
 },
 {
 "Name": "Paldau",
@@ -118769,7 +119502,8 @@
 "Latitude": 46.9833,
 "Longitude": 15.6167
 }
-]
+],
+"PostCode": "8081"
 },
 {
 "Name": "Riegersburg",
@@ -119423,7 +120157,8 @@
 "Latitude": 47.2,
 "Longitude": 10.7667
 }
-]
+],
+"PostCode": "6471"
 },
 {
 "Name": "Haiming",
@@ -119483,7 +120218,8 @@
 "Latitude": 47.245,
 "Longitude": 10.7397
 }
-]
+],
+"PostCode": "6460"
 },
 {
 "Name": "Imsterberg",
@@ -119495,7 +120231,8 @@
 "Latitude": 47.2052,
 "Longitude": 10.696
 }
-]
+],
+"PostCode": "6492"
 },
 {
 "Name": "Jerzens",
@@ -119525,7 +120262,8 @@
 "Latitude": 47.2167,
 "Longitude": 10.7833
 }
-]
+],
+"PostCode": "6462"
 },
 {
 "Name": "Karrösten",
@@ -119537,7 +120275,8 @@
 "Latitude": 47.2686,
 "Longitude": 10.7813
 }
-]
+],
+"PostCode": "6463"
 },
 {
 "Name": "Längenfeld",
@@ -119549,7 +120288,8 @@
 "Latitude": 47.074,
 "Longitude": 10.9695
 }
-]
+],
+"PostCode": "6444"
 },
 {
 "Name": "Mieming",
@@ -119579,7 +120319,8 @@
 "Latitude": 47.2833,
 "Longitude": 10.9833
 }
-]
+],
+"PostCode": "6414"
 },
 {
 "Name": "Mils bei Imst",
@@ -119591,7 +120332,8 @@
 "Latitude": 47.2062,
 "Longitude": 10.6748
 }
-]
+],
+"PostCode": "6493"
 },
 {
 "Name": "Mötz",
@@ -119603,7 +120345,8 @@
 "Latitude": 47.2833,
 "Longitude": 10.95
 }
-]
+],
+"PostCode": "6423"
 },
 {
 "Name": "Nassereith",
@@ -119615,7 +120358,8 @@
 "Latitude": 47.3167,
 "Longitude": 10.8333
 }
-]
+],
+"PostCode": "6465"
 },
 {
 "Name": "Obsteig",
@@ -119627,7 +120371,8 @@
 "Latitude": 47.3,
 "Longitude": 10.9333
 }
-]
+],
+"PostCode": "6416"
 },
 {
 "Name": "Oetz",
@@ -119639,7 +120384,8 @@
 "Latitude": 47.2,
 "Longitude": 10.9
 }
-]
+],
+"PostCode": "6433"
 },
 {
 "Name": "Rietz",
@@ -119651,7 +120397,8 @@
 "Latitude": 47.2833,
 "Longitude": 11.05
 }
-]
+],
+"PostCode": "6421"
 },
 {
 "Name": "Roppen",
@@ -119663,7 +120410,8 @@
 "Latitude": 47.2167,
 "Longitude": 10.8167
 }
-]
+],
+"PostCode": "6426"
 },
 {
 "Name": "St. Leonhard im Pitztal",
@@ -119687,7 +120435,8 @@
 "Latitude": 47.1167,
 "Longitude": 10.8
 }
-]
+],
+"PostCode": "6481"
 },
 {
 "Name": "Sautens",
@@ -119699,7 +120448,8 @@
 "Latitude": 47.2,
 "Longitude": 10.8667
 }
-]
+],
+"PostCode": "6432"
 },
 {
 "Name": "Silz",
@@ -119831,7 +120581,8 @@
 "Latitude": 47.2708,
 "Longitude": 10.7777
 }
-]
+],
+"PostCode": "6464"
 },
 {
 "Name": "Umhausen",
@@ -119873,7 +120624,8 @@
 "Latitude": 47.1333,
 "Longitude": 10.9333
 }
-]
+],
+"PostCode": "6441"
 },
 {
 "Name": "Wenns",
@@ -119885,7 +120637,8 @@
 "Latitude": 47.1667,
 "Longitude": 10.7333
 }
-]
+],
+"PostCode": "6473"
 }
 ]
 },
@@ -119903,7 +120656,8 @@
 "Latitude": 47.3,
 "Longitude": 11.5
 }
-]
+],
+"PostCode": "6067"
 },
 {
 "Name": "Aldrans",
@@ -119933,7 +120687,8 @@
 "Latitude": 47.2667,
 "Longitude": 11.45
 }
-]
+],
+"PostCode": "6070"
 },
 {
 "Name": "Axams",
@@ -119963,7 +120718,8 @@
 "Latitude": 47.2433,
 "Longitude": 11.2897
 }
-]
+],
+"PostCode": "6094"
 },
 {
 "Name": "Baumkirchen",
@@ -119975,7 +120731,8 @@
 "Latitude": 47.3,
 "Longitude": 11.5667
 }
-]
+],
+"PostCode": "6121"
 },
 {
 "Name": "Birgitz",
@@ -119987,7 +120744,8 @@
 "Latitude": 47.2354,
 "Longitude": 11.2992
 }
-]
+],
+"PostCode": "6092"
 },
 {
 "Name": "Ellbögen",
@@ -119999,7 +120757,8 @@
 "Latitude": 47.1667,
 "Longitude": 11.45
 }
-]
+],
+"PostCode": "6083"
 },
 {
 "Name": "Flaurling",
@@ -120011,7 +120770,8 @@
 "Latitude": 47.2833,
 "Longitude": 11.1167
 }
-]
+],
+"PostCode": "6403"
 },
 {
 "Name": "Fritzens",
@@ -120023,7 +120783,8 @@
 "Latitude": 47.3,
 "Longitude": 11.5833
 }
-]
+],
+"PostCode": "6122"
 },
 {
 "Name": "Fulpmes",
@@ -120059,7 +120820,8 @@
 "Latitude": 47.3167,
 "Longitude": 11.5667
 }
-]
+],
+"PostCode": "6069"
 },
 {
 "Name": "Götzens",
@@ -120071,7 +120833,8 @@
 "Latitude": 47.2361,
 "Longitude": 11.3115
 }
-]
+],
+"PostCode": "6091"
 },
 {
 "Name": "Gries am Brenner",
@@ -120083,7 +120846,8 @@
 "Latitude": 47.05,
 "Longitude": 11.4833
 }
-]
+],
+"PostCode": "6156"
 },
 {
 "Name": "Gries im Sellrain",
@@ -120095,7 +120859,8 @@
 "Latitude": 47.1955,
 "Longitude": 11.1562
 }
-]
+],
+"PostCode": "6182"
 },
 {
 "Name": "Grinzens",
@@ -120107,7 +120872,8 @@
 "Latitude": 47.2293,
 "Longitude": 11.2532
 }
-]
+],
+"PostCode": "6095"
 },
 {
 "Name": "Gschnitz",
@@ -120119,7 +120885,8 @@
 "Latitude": 47.05,
 "Longitude": 11.3667
 }
-]
+],
+"PostCode": "6150"
 },
 {
 "Name": "Hatting",
@@ -120137,7 +120904,8 @@
 "Latitude": 47.2685,
 "Longitude": 11.1535
 }
-]
+],
+"PostCode": "6402"
 },
 {
 "Name": "Inzing",
@@ -120179,7 +120947,8 @@
 "Latitude": 47.2722,
 "Longitude": 11.1794
 }
-]
+],
+"PostCode": "6401"
 },
 {
 "Name": "Kematen in Tirol",
@@ -120215,7 +120984,8 @@
 "Latitude": 47.3,
 "Longitude": 11.6333
 }
-]
+],
+"PostCode": "6114"
 },
 {
 "Name": "Kolsassberg",
@@ -120227,7 +120997,8 @@
 "Latitude": 47.2815,
 "Longitude": 11.6529
 }
-]
+],
+"PostCode": "6115"
 },
 {
 "Name": "Lans",
@@ -120239,7 +121010,8 @@
 "Latitude": 47.2383,
 "Longitude": 11.4314
 }
-]
+],
+"PostCode": "6072"
 },
 {
 "Name": "Leutasch",
@@ -120269,7 +121041,8 @@
 "Latitude": 47.1333,
 "Longitude": 11.45
 }
-]
+],
+"PostCode": "6143"
 },
 {
 "Name": "Mieders",
@@ -120281,7 +121054,8 @@
 "Latitude": 47.1667,
 "Longitude": 11.3833
 }
-]
+],
+"PostCode": "6142"
 },
 {
 "Name": "Mils",
@@ -120293,7 +121067,8 @@
 "Latitude": 47.2833,
 "Longitude": 11.5333
 }
-]
+],
+"PostCode": "6068"
 },
 {
 "Name": "Mühlbachl",
@@ -120431,7 +121206,8 @@
 "Latitude": 47.1333,
 "Longitude": 11.5167
 }
-]
+],
+"PostCode": "6145"
 },
 {
 "Name": "Neustift im Stubaital",
@@ -120443,7 +121219,8 @@
 "Latitude": 47.1167,
 "Longitude": 11.3167
 }
-]
+],
+"PostCode": "6167"
 },
 {
 "Name": "Oberhofen im Inntal",
@@ -120455,7 +121232,8 @@
 "Latitude": 47.3,
 "Longitude": 11.0833
 }
-]
+],
+"PostCode": "6406"
 },
 {
 "Name": "Obernberg am Brenner",
@@ -120467,7 +121245,8 @@
 "Latitude": 47.0167,
 "Longitude": 11.4167
 }
-]
+],
+"PostCode": "6157"
 },
 {
 "Name": "Oberperfuss",
@@ -120479,7 +121258,8 @@
 "Latitude": 47.2333,
 "Longitude": 11.25
 }
-]
+],
+"PostCode": "6173"
 },
 {
 "Name": "Patsch",
@@ -120491,7 +121271,8 @@
 "Latitude": 47.2,
 "Longitude": 11.4167
 }
-]
+],
+"PostCode": "6082"
 },
 {
 "Name": "Pettnau",
@@ -120521,7 +121302,8 @@
 "Latitude": 47.3,
 "Longitude": 11.0833
 }
-]
+],
+"PostCode": "6405"
 },
 {
 "Name": "Pfons",
@@ -120539,7 +121321,8 @@
 "Latitude": 47.1333,
 "Longitude": 11.4667
 }
-]
+],
+"PostCode": "6143"
 },
 {
 "Name": "Polling in Tirol",
@@ -120557,7 +121340,8 @@
 "Latitude": 47.2734,
 "Longitude": 11.14
 }
-]
+],
+"PostCode": "6404"
 },
 {
 "Name": "Ranggen",
@@ -120569,7 +121353,8 @@
 "Latitude": 47.2604,
 "Longitude": 11.2583
 }
-]
+],
+"PostCode": "6179"
 },
 {
 "Name": "Reith bei Seefeld",
@@ -120599,7 +121384,8 @@
 "Latitude": 47.25,
 "Longitude": 11.5
 }
-]
+],
+"PostCode": "6074"
 },
 {
 "Name": "Rum",
@@ -120611,7 +121397,8 @@
 "Latitude": 47.2833,
 "Longitude": 11.45
 }
-]
+],
+"PostCode": "6063"
 },
 {
 "Name": "St. Sigmund im Sellrain",
@@ -120623,7 +121410,8 @@
 "Latitude": 47.2254,
 "Longitude": 11.0948
 }
-]
+],
+"PostCode": "6184"
 },
 {
 "Name": "Scharnitz",
@@ -120635,7 +121423,8 @@
 "Latitude": 47.389,
 "Longitude": 11.2645
 }
-]
+],
+"PostCode": "6108"
 },
 {
 "Name": "Schmirn",
@@ -120653,7 +121442,8 @@
 "Latitude": 47.0833,
 "Longitude": 11.5833
 }
-]
+],
+"PostCode": "6154"
 },
 {
 "Name": "Schönberg im Stubaital",
@@ -120683,7 +121473,8 @@
 "Latitude": 47.3302,
 "Longitude": 11.1879
 }
-]
+],
+"PostCode": "6100"
 },
 {
 "Name": "Sellrain",
@@ -120695,7 +121486,8 @@
 "Latitude": 47.2167,
 "Longitude": 11.2167
 }
-]
+],
+"PostCode": "6181"
 },
 {
 "Name": "Sistrans",
@@ -120707,7 +121499,8 @@
 "Latitude": 47.2333,
 "Longitude": 11.45
 }
-]
+],
+"PostCode": "6073"
 },
 {
 "Name": "Hall in Tirol",
@@ -120725,7 +121518,8 @@
 "Latitude": 47.2859,
 "Longitude": 11.4934
 }
-]
+],
+"PostCode": "6060"
 },
 {
 "Name": "Steinach am Brenner",
@@ -120749,7 +121543,8 @@
 "Latitude": 47.0833,
 "Longitude": 11.4667
 }
-]
+],
+"PostCode": "6150"
 },
 {
 "Name": "Telfes im Stubai",
@@ -120779,7 +121574,8 @@
 "Latitude": 47.1667,
 "Longitude": 11.3667
 }
-]
+],
+"PostCode": "6165"
 },
 {
 "Name": "Telfs",
@@ -120923,7 +121719,8 @@
 "Latitude": 47.274,
 "Longitude": 11.5335
 }
-]
+],
+"PostCode": "6075"
 },
 {
 "Name": "Unterperfuss",
@@ -120935,7 +121732,8 @@
 "Latitude": 47.2667,
 "Longitude": 11.25
 }
-]
+],
+"PostCode": "6178"
 },
 {
 "Name": "Vals",
@@ -120947,7 +121745,8 @@
 "Latitude": 47.0742,
 "Longitude": 11.4621
 }
-]
+],
+"PostCode": "6154"
 },
 {
 "Name": "Völs",
@@ -120959,7 +121758,8 @@
 "Latitude": 47.25,
 "Longitude": 11.3333
 }
-]
+],
+"PostCode": "6176"
 },
 {
 "Name": "Volders",
@@ -120983,7 +121783,8 @@
 "Latitude": 47.2833,
 "Longitude": 11.5667
 }
-]
+],
+"PostCode": "6111"
 },
 {
 "Name": "Wattenberg",
@@ -120995,7 +121796,8 @@
 "Latitude": 47.2833,
 "Longitude": 11.6
 }
-]
+],
+"PostCode": "6113"
 },
 {
 "Name": "Wattens",
@@ -121007,7 +121809,8 @@
 "Latitude": 47.2833,
 "Longitude": 11.6
 }
-]
+],
+"PostCode": "6112"
 },
 {
 "Name": "Wildermieming",
@@ -121019,7 +121822,8 @@
 "Latitude": 47.3167,
 "Longitude": 11.0167
 }
-]
+],
+"PostCode": "6413"
 },
 {
 "Name": "Zirl",
@@ -121031,7 +121835,8 @@
 "Latitude": 47.2833,
 "Longitude": 11.2333
 }
-]
+],
+"PostCode": "6170"
 }
 ]
 },
@@ -121049,7 +121854,8 @@
 "Latitude": 47.4481,
 "Longitude": 12.3859
 }
-]
+],
+"PostCode": "6371"
 },
 {
 "Name": "Brixen im Thale",
@@ -121061,7 +121867,8 @@
 "Latitude": 47.45,
 "Longitude": 12.25
 }
-]
+],
+"PostCode": "6364"
 },
 {
 "Name": "Fieberbrunn",
@@ -121073,7 +121880,8 @@
 "Latitude": 47.4833,
 "Longitude": 12.55
 }
-]
+],
+"PostCode": "6391"
 },
 {
 "Name": "Going am Wilden Kaiser",
@@ -121103,7 +121911,8 @@
 "Latitude": 47.508,
 "Longitude": 12.3024
 }
-]
+],
+"PostCode": "6353"
 },
 {
 "Name": "Hochfilzen",
@@ -121115,7 +121924,8 @@
 "Latitude": 47.4667,
 "Longitude": 12.6167
 }
-]
+],
+"PostCode": "6395"
 },
 {
 "Name": "Hopfgarten im Brixental",
@@ -121181,7 +121991,8 @@
 "Latitude": 47.4667,
 "Longitude": 12.1333
 }
-]
+],
+"PostCode": "6305"
 },
 {
 "Name": "Jochberg",
@@ -121193,7 +122004,8 @@
 "Latitude": 47.3792,
 "Longitude": 12.4181
 }
-]
+],
+"PostCode": "6373"
 },
 {
 "Name": "Kirchberg in Tirol",
@@ -121205,7 +122017,8 @@
 "Latitude": 47.4454,
 "Longitude": 12.316
 }
-]
+],
+"PostCode": "6365"
 },
 {
 "Name": "Kirchdorf in Tirol",
@@ -121247,7 +122060,8 @@
 "Latitude": 47.4464,
 "Longitude": 12.3921
 }
-]
+],
+"PostCode": "6370"
 },
 {
 "Name": "Kössen",
@@ -121259,7 +122073,8 @@
 "Latitude": 47.6699,
 "Longitude": 12.4055
 }
-]
+],
+"PostCode": "6345"
 },
 {
 "Name": "Oberndorf in Tirol",
@@ -121271,7 +122086,8 @@
 "Latitude": 47.5,
 "Longitude": 12.3833
 }
-]
+],
+"PostCode": "6372"
 },
 {
 "Name": "Reith bei Kitzbühel",
@@ -121307,7 +122123,8 @@
 "Latitude": 47.475,
 "Longitude": 12.5833
 }
-]
+],
+"PostCode": "6392"
 },
 {
 "Name": "St. Johann in Tirol",
@@ -121319,7 +122136,8 @@
 "Latitude": 47.5233,
 "Longitude": 12.4232
 }
-]
+],
+"PostCode": "6380"
 },
 {
 "Name": "St. Ulrich am Pillersee",
@@ -121331,7 +122149,8 @@
 "Latitude": 47.475,
 "Longitude": 12.5833
 }
-]
+],
+"PostCode": "6393"
 },
 {
 "Name": "Schwendt",
@@ -121343,7 +122162,8 @@
 "Latitude": 47.6333,
 "Longitude": 12.3833
 }
-]
+],
+"PostCode": "6385"
 },
 {
 "Name": "Waidring",
@@ -121355,7 +122175,8 @@
 "Latitude": 47.5833,
 "Longitude": 12.5667
 }
-]
+],
+"PostCode": "6384"
 },
 {
 "Name": "Westendorf",
@@ -121367,7 +122188,8 @@
 "Latitude": 47.4321,
 "Longitude": 12.2141
 }
-]
+],
+"PostCode": "6363"
 }
 ]
 },
@@ -121385,7 +122207,8 @@
 "Latitude": 47.3988,
 "Longitude": 11.9437
 }
-]
+],
+"PostCode": "6236"
 },
 {
 "Name": "Angath",
@@ -121397,7 +122220,8 @@
 "Latitude": 47.5,
 "Longitude": 12.0667
 }
-]
+],
+"PostCode": "6321"
 },
 {
 "Name": "Bad Häring",
@@ -121409,7 +122233,8 @@
 "Latitude": 47.5107,
 "Longitude": 12.1191
 }
-]
+],
+"PostCode": "6323"
 },
 {
 "Name": "Brandenberg",
@@ -121427,7 +122252,8 @@
 "Latitude": 47.4905,
 "Longitude": 11.8946
 }
-]
+],
+"PostCode": "6234"
 },
 {
 "Name": "Breitenbach am Inn",
@@ -121457,7 +122283,8 @@
 "Latitude": 47.4706,
 "Longitude": 11.9833
 }
-]
+],
+"PostCode": "6252"
 },
 {
 "Name": "Brixlegg",
@@ -121481,7 +122308,8 @@
 "Latitude": 47.4167,
 "Longitude": 11.9333
 }
-]
+],
+"PostCode": "6230"
 },
 {
 "Name": "Ebbs",
@@ -121559,7 +122387,8 @@
 "Latitude": 47.5138,
 "Longitude": 12.2994
 }
-]
+],
+"PostCode": "6352"
 },
 {
 "Name": "Erl",
@@ -121583,7 +122412,8 @@
 "Latitude": 47.6667,
 "Longitude": 12.1833
 }
-]
+],
+"PostCode": "6343"
 },
 {
 "Name": "Kirchbichl",
@@ -121595,7 +122425,8 @@
 "Latitude": 47.5174,
 "Longitude": 12.0963
 }
-]
+],
+"PostCode": "6322"
 },
 {
 "Name": "Kramsach",
@@ -121613,7 +122444,8 @@
 "Latitude": 47.4447,
 "Longitude": 11.8834
 }
-]
+],
+"PostCode": "6233"
 },
 {
 "Name": "Kufstein",
@@ -121667,7 +122499,8 @@
 "Latitude": 47.5833,
 "Longitude": 12.15
 }
-]
+],
+"PostCode": "6330"
 },
 {
 "Name": "Kundl",
@@ -121691,7 +122524,8 @@
 "Latitude": 47.4471,
 "Longitude": 11.9704
 }
-]
+],
+"PostCode": "6250"
 },
 {
 "Name": "Langkampfen",
@@ -121721,7 +122555,8 @@
 "Latitude": 47.55,
 "Longitude": 12.1
 }
-]
+],
+"PostCode": "6336"
 },
 {
 "Name": "Mariastein",
@@ -121733,7 +122568,8 @@
 "Latitude": 47.5333,
 "Longitude": 12.05
 }
-]
+],
+"PostCode": "6324"
 },
 {
 "Name": "Münster",
@@ -121745,7 +122581,8 @@
 "Latitude": 47.4216,
 "Longitude": 11.8336
 }
-]
+],
+"PostCode": "6232"
 },
 {
 "Name": "Niederndorf",
@@ -121757,7 +122594,8 @@
 "Latitude": 47.65,
 "Longitude": 12.2167
 }
-]
+],
+"PostCode": "6342"
 },
 {
 "Name": "Niederndorferberg",
@@ -121793,7 +122631,8 @@
 "Latitude": 47.6731,
 "Longitude": 12.2274
 }
-]
+],
+"PostCode": "6346"
 },
 {
 "Name": "Radfeld",
@@ -121805,7 +122644,8 @@
 "Latitude": 47.4481,
 "Longitude": 11.9142
 }
-]
+],
+"PostCode": "6241"
 },
 {
 "Name": "Rattenberg",
@@ -121817,7 +122657,8 @@
 "Latitude": 47.4394,
 "Longitude": 11.8941
 }
-]
+],
+"PostCode": "6240"
 },
 {
 "Name": "Reith im Alpbachtal",
@@ -121865,7 +122706,8 @@
 "Latitude": 47.6572,
 "Longitude": 12.2687
 }
-]
+],
+"PostCode": "6347"
 },
 {
 "Name": "Scheffau am Wilden Kaiser",
@@ -121877,7 +122719,8 @@
 "Latitude": 47.5294,
 "Longitude": 12.2514
 }
-]
+],
+"PostCode": "6351"
 },
 {
 "Name": "Schwoich",
@@ -121889,7 +122732,8 @@
 "Latitude": 47.546,
 "Longitude": 12.1405
 }
-]
+],
+"PostCode": "6334"
 },
 {
 "Name": "Söll",
@@ -121955,7 +122799,8 @@
 "Latitude": 47.5833,
 "Longitude": 12.1
 }
-]
+],
+"PostCode": "6335"
 },
 {
 "Name": "Angerberg",
@@ -121979,7 +122824,8 @@
 "Latitude": 47.5206,
 "Longitude": 12.0257
 }
-]
+],
+"PostCode": "6320"
 },
 {
 "Name": "Walchsee",
@@ -122009,7 +122855,8 @@
 "Latitude": 47.6516,
 "Longitude": 12.3187
 }
-]
+],
+"PostCode": "6344"
 },
 {
 "Name": "Wildschönau",
@@ -122063,7 +122910,8 @@
 "Latitude": 47.4891,
 "Longitude": 12.0617
 }
-]
+],
+"PostCode": "6300"
 }
 ]
 },
@@ -122081,7 +122929,8 @@
 "Latitude": 47.1,
 "Longitude": 10.6667
 }
-]
+],
+"PostCode": "6525"
 },
 {
 "Name": "Fendels",
@@ -122093,7 +122942,8 @@
 "Latitude": 47.05,
 "Longitude": 10.6667
 }
-]
+],
+"PostCode": "6528"
 },
 {
 "Name": "Fiss",
@@ -122105,7 +122955,8 @@
 "Latitude": 47.05,
 "Longitude": 10.6167
 }
-]
+],
+"PostCode": "6533"
 },
 {
 "Name": "Fließ",
@@ -122141,7 +122992,8 @@
 "Latitude": 47.15,
 "Longitude": 10.4
 }
-]
+],
+"PostCode": "6572"
 },
 {
 "Name": "Galtür",
@@ -122153,7 +123005,8 @@
 "Latitude": 46.9667,
 "Longitude": 10.1833
 }
-]
+],
+"PostCode": "6563"
 },
 {
 "Name": "Grins",
@@ -122231,7 +123084,8 @@
 "Latitude": 47.0867,
 "Longitude": 10.66
 }
-]
+],
+"PostCode": "6527"
 },
 {
 "Name": "Kaunertal",
@@ -122243,7 +123097,8 @@
 "Latitude": 47.0867,
 "Longitude": 10.66
 }
-]
+],
+"PostCode": "6524"
 },
 {
 "Name": "Kauns",
@@ -122255,7 +123110,8 @@
 "Latitude": 47.0833,
 "Longitude": 10.6833
 }
-]
+],
+"PostCode": "6526"
 },
 {
 "Name": "Ladis",
@@ -122267,7 +123123,8 @@
 "Latitude": 47.0667,
 "Longitude": 10.6333
 }
-]
+],
+"PostCode": "6532"
 },
 {
 "Name": "Landeck",
@@ -122279,7 +123136,8 @@
 "Latitude": 47.1399,
 "Longitude": 10.5659
 }
-]
+],
+"PostCode": "6500"
 },
 {
 "Name": "Nauders",
@@ -122315,7 +123173,8 @@
 "Latitude": 47.15,
 "Longitude": 10.3833
 }
-]
+],
+"PostCode": "6574"
 },
 {
 "Name": "Pfunds",
@@ -122327,7 +123186,8 @@
 "Latitude": 46.9667,
 "Longitude": 10.55
 }
-]
+],
+"PostCode": "6542"
 },
 {
 "Name": "Pians",
@@ -122363,7 +123223,8 @@
 "Latitude": 47.0833,
 "Longitude": 10.6667
 }
-]
+],
+"PostCode": "6522"
 },
 {
 "Name": "Ried im Oberinntal",
@@ -122375,7 +123236,8 @@
 "Latitude": 47.05,
 "Longitude": 10.65
 }
-]
+],
+"PostCode": "6531"
 },
 {
 "Name": "St. Anton am Arlberg",
@@ -122393,7 +123255,8 @@
 "Latitude": 47.15,
 "Longitude": 10.2833
 }
-]
+],
+"PostCode": "6580"
 },
 {
 "Name": "Schönwies",
@@ -122405,7 +123268,8 @@
 "Latitude": 47.1967,
 "Longitude": 10.6574
 }
-]
+],
+"PostCode": "6491"
 },
 {
 "Name": "See",
@@ -122459,7 +123323,8 @@
 "Latitude": 46.9694,
 "Longitude": 10.5667
 }
-]
+],
+"PostCode": "6544"
 },
 {
 "Name": "Stanz bei Landeck",
@@ -122471,7 +123336,8 @@
 "Latitude": 47.1476,
 "Longitude": 10.5534
 }
-]
+],
+"PostCode": "6500"
 },
 {
 "Name": "Strengen",
@@ -122483,7 +123349,8 @@
 "Latitude": 47.1333,
 "Longitude": 10.45
 }
-]
+],
+"PostCode": "6571"
 },
 {
 "Name": "Tobadill",
@@ -122495,7 +123362,8 @@
 "Latitude": 47.1167,
 "Longitude": 10.5167
 }
-]
+],
+"PostCode": "6552"
 },
 {
 "Name": "Tösens",
@@ -122507,7 +123375,8 @@
 "Latitude": 47.0167,
 "Longitude": 10.6167
 }
-]
+],
+"PostCode": "6541"
 },
 {
 "Name": "Zams",
@@ -122525,7 +123394,8 @@
 "Latitude": 47.1584,
 "Longitude": 10.5897
 }
-]
+],
+"PostCode": "6511"
 }
 ]
 },
@@ -122543,7 +123413,8 @@
 "Latitude": 46.778,
 "Longitude": 12.5904
 }
-]
+],
+"PostCode": "9913"
 },
 {
 "Name": "Ainet",
@@ -122567,7 +123438,8 @@
 "Latitude": 46.8853,
 "Longitude": 12.6792
 }
-]
+],
+"PostCode": "9951"
 },
 {
 "Name": "Amlach",
@@ -122579,7 +123451,8 @@
 "Latitude": 46.8164,
 "Longitude": 12.7636
 }
-]
+],
+"PostCode": "9908"
 },
 {
 "Name": "Anras",
@@ -122705,7 +123578,8 @@
 "Latitude": 46.7714,
 "Longitude": 12.5361
 }
-]
+],
+"PostCode": "9912"
 },
 {
 "Name": "Assling",
@@ -122819,7 +123693,8 @@
 "Latitude": 46.7969,
 "Longitude": 12.5858
 }
-]
+],
+"PostCode": "9911"
 },
 {
 "Name": "Außervillgraten",
@@ -122831,7 +123706,8 @@
 "Latitude": 46.7875,
 "Longitude": 12.4314
 }
-]
+],
+"PostCode": "9931"
 },
 {
 "Name": "Dölsach",
@@ -122867,7 +123743,8 @@
 "Latitude": 46.8342,
 "Longitude": 12.8333
 }
-]
+],
+"PostCode": "9991"
 },
 {
 "Name": "Gaimberg",
@@ -122885,7 +123762,8 @@
 "Latitude": 46.85,
 "Longitude": 12.7833
 }
-]
+],
+"PostCode": "9905"
 },
 {
 "Name": "Hopfgarten in Defereggen",
@@ -122933,7 +123811,8 @@
 "Latitude": 46.9325,
 "Longitude": 12.5444
 }
-]
+],
+"PostCode": "9961"
 },
 {
 "Name": "Innervillgraten",
@@ -122945,7 +123824,8 @@
 "Latitude": 46.8119,
 "Longitude": 12.3747
 }
-]
+],
+"PostCode": "9932"
 },
 {
 "Name": "Iselsberg-Stronach",
@@ -122963,7 +123843,8 @@
 "Latitude": 46.8333,
 "Longitude": 12.85
 }
-]
+],
+"PostCode": "9992"
 },
 {
 "Name": "Kals am Großglockner",
@@ -123035,7 +123916,8 @@
 "Latitude": 46.9333,
 "Longitude": 12.5833
 }
-]
+],
+"PostCode": "9981"
 },
 {
 "Name": "Kartitsch",
@@ -123053,7 +123935,8 @@
 "Latitude": 46.7289,
 "Longitude": 12.5008
 }
-]
+],
+"PostCode": "9941"
 },
 {
 "Name": "Lavant",
@@ -123065,7 +123948,8 @@
 "Latitude": 46.7989,
 "Longitude": 12.8381
 }
-]
+],
+"PostCode": "9906"
 },
 {
 "Name": "Leisach",
@@ -123089,7 +123973,8 @@
 "Latitude": 46.8015,
 "Longitude": 12.7414
 }
-]
+],
+"PostCode": "9909"
 },
 {
 "Name": "Lienz",
@@ -123107,7 +123992,8 @@
 "Latitude": 46.8394,
 "Longitude": 12.7628
 }
-]
+],
+"PostCode": "9900"
 },
 {
 "Name": "Matrei in Osttirol",
@@ -123245,7 +124131,8 @@
 "Latitude": 47.0,
 "Longitude": 12.4833
 }
-]
+],
+"PostCode": "9971"
 },
 {
 "Name": "Nikolsdorf",
@@ -123293,7 +124180,8 @@
 "Latitude": 46.7878,
 "Longitude": 12.9235
 }
-]
+],
+"PostCode": "9782"
 },
 {
 "Name": "Nußdorf-Debant",
@@ -123323,7 +124211,8 @@
 "Latitude": 46.8438,
 "Longitude": 12.8108
 }
-]
+],
+"PostCode": "9990"
 },
 {
 "Name": "Oberlienz",
@@ -123347,7 +124236,8 @@
 "Latitude": 46.8472,
 "Longitude": 12.7314
 }
-]
+],
+"PostCode": "9903"
 },
 {
 "Name": "Obertilliach",
@@ -123377,7 +124267,8 @@
 "Latitude": 46.7167,
 "Longitude": 12.6
 }
-]
+],
+"PostCode": "9942"
 },
 {
 "Name": "Prägraten am Großvenediger",
@@ -123413,7 +124304,8 @@
 "Latitude": 47.0167,
 "Longitude": 12.3833
 }
-]
+],
+"PostCode": "9974"
 },
 {
 "Name": "St. Jakob in Defereggen",
@@ -123449,7 +124341,8 @@
 "Latitude": 46.9167,
 "Longitude": 12.3333
 }
-]
+],
+"PostCode": "9963"
 },
 {
 "Name": "St. Johann im Walde",
@@ -123461,7 +124354,8 @@
 "Latitude": 46.8769,
 "Longitude": 12.6824
 }
-]
+],
+"PostCode": "9952"
 },
 {
 "Name": "St. Veit in Defereggen",
@@ -123503,7 +124397,8 @@
 "Latitude": 46.9336,
 "Longitude": 12.4753
 }
-]
+],
+"PostCode": "9962"
 },
 {
 "Name": "Schlaiten",
@@ -123515,7 +124410,8 @@
 "Latitude": 46.8794,
 "Longitude": 12.6542
 }
-]
+],
+"PostCode": "9954"
 },
 {
 "Name": "Sillian",
@@ -123539,7 +124435,8 @@
 "Latitude": 46.7531,
 "Longitude": 12.4092
 }
-]
+],
+"PostCode": "9920"
 },
 {
 "Name": "Strassen",
@@ -123551,7 +124448,8 @@
 "Latitude": 46.7539,
 "Longitude": 12.4842
 }
-]
+],
+"PostCode": "9918"
 },
 {
 "Name": "Thurn",
@@ -123587,7 +124485,8 @@
 "Latitude": 46.8655,
 "Longitude": 12.7813
 }
-]
+],
+"PostCode": "9904"
 },
 {
 "Name": "Tristach",
@@ -123599,7 +124498,8 @@
 "Latitude": 46.8161,
 "Longitude": 12.7897
 }
-]
+],
+"PostCode": "9907"
 },
 {
 "Name": "Untertilliach",
@@ -123611,7 +124511,8 @@
 "Latitude": 46.7042,
 "Longitude": 12.7086
 }
-]
+],
+"PostCode": "9943"
 },
 {
 "Name": "Virgen",
@@ -123659,7 +124560,8 @@
 "Latitude": 47.0,
 "Longitude": 12.4167
 }
-]
+],
+"PostCode": "9972"
 },
 {
 "Name": "Heinfels",
@@ -123677,7 +124579,8 @@
 "Latitude": 46.778,
 "Longitude": 12.5904
 }
-]
+],
+"PostCode": "9919"
 }
 ]
 },
@@ -123779,7 +124682,8 @@
 "Latitude": 47.3833,
 "Longitude": 10.9
 }
-]
+],
+"PostCode": "6633"
 },
 {
 "Name": "Bichlbach",
@@ -123803,7 +124707,8 @@
 "Latitude": 47.4189,
 "Longitude": 10.8221
 }
-]
+],
+"PostCode": "6621"
 },
 {
 "Name": "Breitenwang",
@@ -123815,7 +124720,8 @@
 "Latitude": 47.4833,
 "Longitude": 10.7333
 }
-]
+],
+"PostCode": "6600"
 },
 {
 "Name": "Ehenbichl",
@@ -123845,7 +124751,8 @@
 "Latitude": 47.4,
 "Longitude": 10.9167
 }
-]
+],
+"PostCode": "6632"
 },
 {
 "Name": "Elbigenalp",
@@ -123911,7 +124818,8 @@
 "Latitude": 47.35,
 "Longitude": 10.5333
 }
-]
+],
+"PostCode": "6644"
 },
 {
 "Name": "Forchach",
@@ -123923,7 +124831,8 @@
 "Latitude": 47.4167,
 "Longitude": 10.5833
 }
-]
+],
+"PostCode": "6670"
 },
 {
 "Name": "Grän",
@@ -123953,7 +124862,8 @@
 "Latitude": 47.5167,
 "Longitude": 10.55
 }
-]
+],
+"PostCode": "6673"
 },
 {
 "Name": "Gramais",
@@ -123965,7 +124875,8 @@
 "Latitude": 47.2667,
 "Longitude": 10.5333
 }
-]
+],
+"PostCode": "6650"
 },
 {
 "Name": "Häselgehr",
@@ -123983,7 +124894,8 @@
 "Latitude": 47.3167,
 "Longitude": 10.5
 }
-]
+],
+"PostCode": "6651"
 },
 {
 "Name": "Heiterwang",
@@ -123995,7 +124907,8 @@
 "Latitude": 47.45,
 "Longitude": 10.75
 }
-]
+],
+"PostCode": "6611"
 },
 {
 "Name": "Hinterhornbach",
@@ -124007,7 +124920,8 @@
 "Latitude": 47.3381,
 "Longitude": 10.5548
 }
-]
+],
+"PostCode": "6646"
 },
 {
 "Name": "Höfen",
@@ -124019,7 +124933,8 @@
 "Latitude": 47.4667,
 "Longitude": 10.6833
 }
-]
+],
+"PostCode": "6604"
 },
 {
 "Name": "Holzgau",
@@ -124031,7 +124946,8 @@
 "Latitude": 47.2604,
 "Longitude": 10.3442
 }
-]
+],
+"PostCode": "6654"
 },
 {
 "Name": "Jungholz",
@@ -124043,7 +124959,8 @@
 "Latitude": 47.5741,
 "Longitude": 10.4472
 }
-]
+],
+"PostCode": "6691"
 },
 {
 "Name": "Kaisers",
@@ -124055,7 +124972,8 @@
 "Latitude": 47.2704,
 "Longitude": 10.3916
 }
-]
+],
+"PostCode": "6655"
 },
 {
 "Name": "Lechaschau",
@@ -124067,7 +124985,8 @@
 "Latitude": 47.488,
 "Longitude": 10.7065
 }
-]
+],
+"PostCode": "6600"
 },
 {
 "Name": "Lermoos",
@@ -124091,7 +125010,8 @@
 "Latitude": 47.4167,
 "Longitude": 10.85
 }
-]
+],
+"PostCode": "6631"
 },
 {
 "Name": "Musau",
@@ -124103,7 +125023,8 @@
 "Latitude": 47.5333,
 "Longitude": 10.6667
 }
-]
+],
+"PostCode": "6600"
 },
 {
 "Name": "Namlos",
@@ -124121,7 +125042,8 @@
 "Latitude": 47.35,
 "Longitude": 10.6667
 }
-]
+],
+"PostCode": "6623"
 },
 {
 "Name": "Nesselwängle",
@@ -124145,7 +125067,8 @@
 "Latitude": 47.4667,
 "Longitude": 10.6167
 }
-]
+],
+"PostCode": "6672"
 },
 {
 "Name": "Pfafflar",
@@ -124163,7 +125086,8 @@
 "Latitude": 47.3167,
 "Longitude": 10.5833
 }
-]
+],
+"PostCode": "6647"
 },
 {
 "Name": "Pflach",
@@ -124187,7 +125111,8 @@
 "Latitude": 47.5167,
 "Longitude": 10.7
 }
-]
+],
+"PostCode": "6600"
 },
 {
 "Name": "Pinswang",
@@ -124205,7 +125130,8 @@
 "Latitude": 47.5005,
 "Longitude": 10.7007
 }
-]
+],
+"PostCode": "6600"
 },
 {
 "Name": "Reutte",
@@ -124217,7 +125143,8 @@
 "Latitude": 47.4833,
 "Longitude": 10.7167
 }
-]
+],
+"PostCode": "6600"
 },
 {
 "Name": "Schattwald",
@@ -124259,7 +125186,8 @@
 "Latitude": 47.5169,
 "Longitude": 10.4625
 }
-]
+],
+"PostCode": "6677"
 },
 {
 "Name": "Stanzach",
@@ -124271,7 +125199,8 @@
 "Latitude": 47.3833,
 "Longitude": 10.5667
 }
-]
+],
+"PostCode": "6642"
 },
 {
 "Name": "Steeg",
@@ -124319,7 +125248,8 @@
 "Latitude": 47.4993,
 "Longitude": 10.5164
 }
-]
+],
+"PostCode": "6675"
 },
 {
 "Name": "Vils",
@@ -124331,7 +125261,8 @@
 "Latitude": 47.55,
 "Longitude": 10.6333
 }
-]
+],
+"PostCode": "6682"
 },
 {
 "Name": "Vorderhornbach",
@@ -124343,7 +125274,8 @@
 "Latitude": 47.3667,
 "Longitude": 10.5333
 }
-]
+],
+"PostCode": "6645"
 },
 {
 "Name": "Wängle",
@@ -124373,7 +125305,8 @@
 "Latitude": 47.4846,
 "Longitude": 10.6821
 }
-]
+],
+"PostCode": "6610"
 },
 {
 "Name": "Weißenbach am Lech",
@@ -124403,7 +125336,8 @@
 "Latitude": 47.5,
 "Longitude": 10.4833
 }
-]
+],
+"PostCode": "6677"
 }
 ]
 },
@@ -124421,7 +125355,8 @@
 "Latitude": 47.5266,
 "Longitude": 11.7056
 }
-]
+],
+"PostCode": "6215"
 },
 {
 "Name": "Aschau im Zillertal",
@@ -124439,7 +125374,8 @@
 "Latitude": 47.2645,
 "Longitude": 11.9136
 }
-]
+],
+"PostCode": "6274"
 },
 {
 "Name": "Brandberg",
@@ -124451,7 +125387,8 @@
 "Latitude": 47.1667,
 "Longitude": 11.9
 }
-]
+],
+"PostCode": "6290"
 },
 {
 "Name": "Bruck am Ziller",
@@ -124475,7 +125412,8 @@
 "Latitude": 47.3797,
 "Longitude": 11.8598
 }
-]
+],
+"PostCode": "6260"
 },
 {
 "Name": "Buch in Tirol",
@@ -124487,7 +125425,8 @@
 "Latitude": 47.3745,
 "Longitude": 11.754
 }
-]
+],
+"PostCode": "6220"
 },
 {
 "Name": "Eben am Achensee",
@@ -124577,7 +125516,8 @@
 "Latitude": 47.3333,
 "Longitude": 11.85
 }
-]
+],
+"PostCode": "6263"
 },
 {
 "Name": "Fügenberg",
@@ -124595,7 +125535,8 @@
 "Latitude": 47.3167,
 "Longitude": 11.8167
 }
-]
+],
+"PostCode": "6264"
 },
 {
 "Name": "Gallzein",
@@ -124607,7 +125548,8 @@
 "Latitude": 47.3681,
 "Longitude": 11.7716
 }
-]
+],
+"PostCode": "6222"
 },
 {
 "Name": "Gerlos",
@@ -124619,7 +125561,8 @@
 "Latitude": 47.2167,
 "Longitude": 12.0
 }
-]
+],
+"PostCode": "6281"
 },
 {
 "Name": "Gerlosberg",
@@ -124631,7 +125574,8 @@
 "Latitude": 47.2167,
 "Longitude": 11.9333
 }
-]
+],
+"PostCode": "6280"
 },
 {
 "Name": "Hainzenberg",
@@ -124643,7 +125587,8 @@
 "Latitude": 47.2179,
 "Longitude": 11.9003
 }
-]
+],
+"PostCode": "6278"
 },
 {
 "Name": "Hart im Zillertal",
@@ -124667,7 +125612,8 @@
 "Latitude": 47.3667,
 "Longitude": 11.8667
 }
-]
+],
+"PostCode": "6265"
 },
 {
 "Name": "Hippach",
@@ -124685,7 +125631,8 @@
 "Latitude": 47.2167,
 "Longitude": 11.8667
 }
-]
+],
+"PostCode": "6283"
 },
 {
 "Name": "Jenbach",
@@ -124703,7 +125650,8 @@
 "Latitude": 47.3917,
 "Longitude": 11.7725
 }
-]
+],
+"PostCode": "6200"
 },
 {
 "Name": "Kaltenbach",
@@ -124721,7 +125669,8 @@
 "Latitude": 47.2833,
 "Longitude": 11.8667
 }
-]
+],
+"PostCode": "6272"
 },
 {
 "Name": "Mayrhofen",
@@ -124751,7 +125700,8 @@
 "Latitude": 47.3167,
 "Longitude": 11.6833
 }
-]
+],
+"PostCode": "6136"
 },
 {
 "Name": "Ramsau im Zillertal",
@@ -124763,7 +125713,8 @@
 "Latitude": 47.2038,
 "Longitude": 11.8754
 }
-]
+],
+"PostCode": "6284"
 },
 {
 "Name": "Ried im Zillertal",
@@ -124775,7 +125726,8 @@
 "Latitude": 47.3,
 "Longitude": 11.8667
 }
-]
+],
+"PostCode": "6273"
 },
 {
 "Name": "Rohrberg",
@@ -124787,7 +125739,8 @@
 "Latitude": 47.2333,
 "Longitude": 11.9167
 }
-]
+],
+"PostCode": "6280"
 },
 {
 "Name": "Schlitters",
@@ -124823,7 +125776,8 @@
 "Latitude": 47.3517,
 "Longitude": 11.7101
 }
-]
+],
+"PostCode": "6130"
 },
 {
 "Name": "Schwendau",
@@ -124883,7 +125837,8 @@
 "Latitude": 47.5151,
 "Longitude": 11.7968
 }
-]
+],
+"PostCode": "6215"
 },
 {
 "Name": "Strass im Zillertal",
@@ -124913,7 +125868,8 @@
 "Latitude": 47.2833,
 "Longitude": 11.8833
 }
-]
+],
+"PostCode": "6275"
 },
 {
 "Name": "Stummerberg",
@@ -124931,7 +125887,8 @@
 "Latitude": 47.2833,
 "Longitude": 11.9167
 }
-]
+],
+"PostCode": "6276"
 },
 {
 "Name": "Terfens",
@@ -124979,7 +125936,8 @@
 "Latitude": 47.3333,
 "Longitude": 11.6667
 }
-]
+],
+"PostCode": "6123"
 },
 {
 "Name": "Tux",
@@ -125021,7 +125979,8 @@
 "Latitude": 47.3167,
 "Longitude": 11.8667
 }
-]
+],
+"PostCode": "6271"
 },
 {
 "Name": "Vomp",
@@ -125069,7 +126028,8 @@
 "Latitude": 47.2831,
 "Longitude": 11.5957
 }
-]
+],
+"PostCode": "6116"
 },
 {
 "Name": "Weerberg",
@@ -125081,7 +126041,8 @@
 "Latitude": 47.3455,
 "Longitude": 11.6922
 }
-]
+],
+"PostCode": "6133"
 },
 {
 "Name": "Wiesing",
@@ -125135,7 +126096,8 @@
 "Latitude": 47.4049,
 "Longitude": 11.7971
 }
-]
+],
+"PostCode": "6210"
 },
 {
 "Name": "Zell am Ziller",
@@ -125171,7 +126133,8 @@
 "Latitude": 47.2333,
 "Longitude": 11.8833
 }
-]
+],
+"PostCode": "6277"
 }
 ]
 }
@@ -125207,7 +126170,8 @@
 "Latitude": 47.1,
 "Longitude": 9.95
 }
-]
+],
+"PostCode": "6781"
 },
 {
 "Name": "Blons",
@@ -125219,7 +126183,8 @@
 "Latitude": 47.2233,
 "Longitude": 9.8341
 }
-]
+],
+"PostCode": "6723"
 },
 {
 "Name": "Bludenz",
@@ -125249,7 +126214,8 @@
 "Latitude": 47.2,
 "Longitude": 9.7331
 }
-]
+],
+"PostCode": "6719"
 },
 {
 "Name": "Brand",
@@ -125261,7 +126227,8 @@
 "Latitude": 47.1008,
 "Longitude": 9.7372
 }
-]
+],
+"PostCode": "6708"
 },
 {
 "Name": "Bürs",
@@ -125273,7 +126240,8 @@
 "Latitude": 47.1497,
 "Longitude": 9.8
 }
-]
+],
+"PostCode": "6706"
 },
 {
 "Name": "Bürserberg",
@@ -125285,7 +126253,8 @@
 "Latitude": 47.1464,
 "Longitude": 9.7774
 }
-]
+],
+"PostCode": "6707"
 },
 {
 "Name": "Dalaas",
@@ -125357,7 +126326,8 @@
 "Latitude": 47.2384,
 "Longitude": 9.885
 }
-]
+],
+"PostCode": "6733"
 },
 {
 "Name": "Gaschurn",
@@ -125387,7 +126357,8 @@
 "Latitude": 47.15,
 "Longitude": 9.9167
 }
-]
+],
+"PostCode": "6751"
 },
 {
 "Name": "Klösterle",
@@ -125435,7 +126406,8 @@
 "Latitude": 47.1331,
 "Longitude": 9.85
 }
-]
+],
+"PostCode": "6700"
 },
 {
 "Name": "Ludesch",
@@ -125453,7 +126425,8 @@
 "Latitude": 47.2006,
 "Longitude": 9.8063
 }
-]
+],
+"PostCode": "6713"
 },
 {
 "Name": "Nenzing",
@@ -125507,7 +126480,8 @@
 "Latitude": 47.1667,
 "Longitude": 9.8
 }
-]
+],
+"PostCode": "6714"
 },
 {
 "Name": "Raggal",
@@ -125537,7 +126511,8 @@
 "Latitude": 47.2108,
 "Longitude": 9.8369
 }
-]
+],
+"PostCode": "6741"
 },
 {
 "Name": "St. Anton im Montafon",
@@ -125549,7 +126524,8 @@
 "Latitude": 47.0895,
 "Longitude": 9.8826
 }
-]
+],
+"PostCode": "6771"
 },
 {
 "Name": "St. Gallenkirch",
@@ -125585,7 +126561,8 @@
 "Latitude": 47.22,
 "Longitude": 9.8086
 }
-]
+],
+"PostCode": "6722"
 },
 {
 "Name": "Schruns",
@@ -125597,7 +126574,8 @@
 "Latitude": 47.0611,
 "Longitude": 9.9378
 }
-]
+],
+"PostCode": "6780"
 },
 {
 "Name": "Silbertal",
@@ -125609,7 +126587,8 @@
 "Latitude": 47.0937,
 "Longitude": 9.9831
 }
-]
+],
+"PostCode": "6782"
 },
 {
 "Name": "Sonntag",
@@ -125759,7 +126738,8 @@
 "Latitude": 47.2384,
 "Longitude": 9.885
 }
-]
+],
+"PostCode": "6731"
 },
 {
 "Name": "Stallehr",
@@ -125771,7 +126751,8 @@
 "Latitude": 47.1331,
 "Longitude": 9.85
 }
-]
+],
+"PostCode": "6700"
 },
 {
 "Name": "Thüringen",
@@ -125783,7 +126764,8 @@
 "Latitude": 47.2,
 "Longitude": 9.7667
 }
-]
+],
+"PostCode": "6712"
 },
 {
 "Name": "Thüringerberg",
@@ -125795,7 +126777,8 @@
 "Latitude": 47.2167,
 "Longitude": 9.7831
 }
-]
+],
+"PostCode": "6721"
 },
 {
 "Name": "Tschagguns",
@@ -125807,7 +126790,8 @@
 "Latitude": 47.0833,
 "Longitude": 9.9
 }
-]
+],
+"PostCode": "6774"
 },
 {
 "Name": "Vandans",
@@ -125819,7 +126803,8 @@
 "Latitude": 47.0957,
 "Longitude": 9.8652
 }
-]
+],
+"PostCode": "6773"
 }
 ]
 },
@@ -125837,7 +126822,8 @@
 "Latitude": 47.4502,
 "Longitude": 9.8315
 }
-]
+],
+"PostCode": "6861"
 },
 {
 "Name": "Andelsbuch",
@@ -125849,7 +126835,8 @@
 "Latitude": 47.4117,
 "Longitude": 9.8933
 }
-]
+],
+"PostCode": "6866"
 },
 {
 "Name": "Au",
@@ -125867,7 +126854,8 @@
 "Latitude": 47.3222,
 "Longitude": 9.9975
 }
-]
+],
+"PostCode": "6883"
 },
 {
 "Name": "Bezau",
@@ -125897,7 +126885,8 @@
 "Latitude": 47.4258,
 "Longitude": 9.7852
 }
-]
+],
+"PostCode": "6858"
 },
 {
 "Name": "Bizau",
@@ -125909,7 +126898,8 @@
 "Latitude": 47.3691,
 "Longitude": 9.9284
 }
-]
+],
+"PostCode": "6874"
 },
 {
 "Name": "Bregenz",
@@ -125945,7 +126935,8 @@
 "Latitude": 47.4836,
 "Longitude": 9.8449
 }
-]
+],
+"PostCode": "6960"
 },
 {
 "Name": "Damüls",
@@ -125957,7 +126948,8 @@
 "Latitude": 47.2803,
 "Longitude": 9.8916
 }
-]
+],
+"PostCode": "6884"
 },
 {
 "Name": "Doren",
@@ -125969,7 +126961,8 @@
 "Latitude": 47.4928,
 "Longitude": 9.8797
 }
-]
+],
+"PostCode": "6933"
 },
 {
 "Name": "Egg",
@@ -125987,7 +126980,8 @@
 "Latitude": 47.4336,
 "Longitude": 9.9153
 }
-]
+],
+"PostCode": "6863"
 },
 {
 "Name": "Eichenberg",
@@ -125999,7 +126993,8 @@
 "Latitude": 47.5333,
 "Longitude": 9.7833
 }
-]
+],
+"PostCode": "6911"
 },
 {
 "Name": "Fußach",
@@ -126029,7 +127024,8 @@
 "Latitude": 47.4667,
 "Longitude": 9.6
 }
-]
+],
+"PostCode": "6974"
 },
 {
 "Name": "Hard",
@@ -126041,7 +127037,8 @@
 "Latitude": 47.4831,
 "Longitude": 9.6831
 }
-]
+],
+"PostCode": "6971"
 },
 {
 "Name": "Hittisau",
@@ -126077,7 +127074,8 @@
 "Latitude": 47.4593,
 "Longitude": 9.6405
 }
-]
+],
+"PostCode": "6973"
 },
 {
 "Name": "Hörbranz",
@@ -126089,7 +127087,8 @@
 "Latitude": 47.55,
 "Longitude": 9.75
 }
-]
+],
+"PostCode": "6912"
 },
 {
 "Name": "Hohenweiler",
@@ -126101,7 +127100,8 @@
 "Latitude": 47.5833,
 "Longitude": 9.7833
 }
-]
+],
+"PostCode": "6914"
 },
 {
 "Name": "Kennelbach",
@@ -126113,7 +127113,8 @@
 "Latitude": 47.4831,
 "Longitude": 9.7667
 }
-]
+],
+"PostCode": "6921"
 },
 {
 "Name": "Krumbach",
@@ -126125,7 +127126,8 @@
 "Latitude": 47.4831,
 "Longitude": 9.9358
 }
-]
+],
+"PostCode": "6942"
 },
 {
 "Name": "Langen bei Bregenz",
@@ -126137,7 +127139,8 @@
 "Latitude": 47.5143,
 "Longitude": 9.8877
 }
-]
+],
+"PostCode": "6932"
 },
 {
 "Name": "Langenegg",
@@ -126149,7 +127152,8 @@
 "Latitude": 47.4667,
 "Longitude": 9.8833
 }
-]
+],
+"PostCode": "6941"
 },
 {
 "Name": "Lauterach",
@@ -126161,7 +127165,8 @@
 "Latitude": 47.4831,
 "Longitude": 9.7331
 }
-]
+],
+"PostCode": "6923"
 },
 {
 "Name": "Lingenau",
@@ -126173,7 +127178,8 @@
 "Latitude": 47.45,
 "Longitude": 9.9
 }
-]
+],
+"PostCode": "6951"
 },
 {
 "Name": "Lochau",
@@ -126203,7 +127209,8 @@
 "Latitude": 47.3503,
 "Longitude": 9.8815
 }
-]
+],
+"PostCode": "6881"
 },
 {
 "Name": "Mittelberg",
@@ -126257,7 +127264,8 @@
 "Latitude": 47.3711,
 "Longitude": 9.8948
 }
-]
+],
+"PostCode": "6870"
 },
 {
 "Name": "Riefensberg",
@@ -126269,7 +127277,8 @@
 "Latitude": 47.5,
 "Longitude": 9.9667
 }
-]
+],
+"PostCode": "6943"
 },
 {
 "Name": "Schnepfau",
@@ -126305,7 +127314,8 @@
 "Latitude": 47.312,
 "Longitude": 10.0165
 }
-]
+],
+"PostCode": "6886"
 },
 {
 "Name": "Schröcken",
@@ -126317,7 +127327,8 @@
 "Latitude": 47.2576,
 "Longitude": 10.092
 }
-]
+],
+"PostCode": "6888"
 },
 {
 "Name": "Schwarzach",
@@ -126329,7 +127340,8 @@
 "Latitude": 47.449,
 "Longitude": 9.7621
 }
-]
+],
+"PostCode": "6858"
 },
 {
 "Name": "Schwarzenberg",
@@ -126359,7 +127371,8 @@
 "Latitude": 47.4267,
 "Longitude": 10.0381
 }
-]
+],
+"PostCode": "6952"
 },
 {
 "Name": "Sulzberg",
@@ -126377,7 +127390,8 @@
 "Latitude": 47.5333,
 "Longitude": 9.8833
 }
-]
+],
+"PostCode": "6934"
 },
 {
 "Name": "Warth",
@@ -126395,7 +127409,8 @@
 "Latitude": 47.25,
 "Longitude": 10.1833
 }
-]
+],
+"PostCode": "6767"
 },
 {
 "Name": "Wolfurt",
@@ -126407,7 +127422,8 @@
 "Latitude": 47.4667,
 "Longitude": 9.75
 }
-]
+],
+"PostCode": "6922"
 }
 ]
 },
@@ -126425,7 +127441,8 @@
 "Latitude": 47.4143,
 "Longitude": 9.742
 }
-]
+],
+"PostCode": "6850"
 },
 {
 "Name": "Hohenems",
@@ -126437,7 +127454,8 @@
 "Latitude": 47.3667,
 "Longitude": 9.6831
 }
-]
+],
+"PostCode": "6845"
 },
 {
 "Name": "Lustenau",
@@ -126449,7 +127467,8 @@
 "Latitude": 47.4264,
 "Longitude": 9.6585
 }
-]
+],
+"PostCode": "6890"
 }
 ]
 },
@@ -126467,7 +127486,8 @@
 "Latitude": 47.35,
 "Longitude": 9.65
 }
-]
+],
+"PostCode": "6844"
 },
 {
 "Name": "Düns",
@@ -126479,7 +127499,8 @@
 "Latitude": 47.2167,
 "Longitude": 9.7167
 }
-]
+],
+"PostCode": "6822"
 },
 {
 "Name": "Dünserberg",
@@ -126497,7 +127518,8 @@
 "Latitude": 47.2254,
 "Longitude": 9.7383
 }
-]
+],
+"PostCode": "6822"
 },
 {
 "Name": "Feldkirch",
@@ -126509,7 +127531,8 @@
 "Latitude": 47.2331,
 "Longitude": 9.6
 }
-]
+],
+"PostCode": "6800"
 },
 {
 "Name": "Frastanz",
@@ -126521,7 +127544,8 @@
 "Latitude": 47.2174,
 "Longitude": 9.6299
 }
-]
+],
+"PostCode": "6820"
 },
 {
 "Name": "Fraxern",
@@ -126533,7 +127557,8 @@
 "Latitude": 47.315,
 "Longitude": 9.6739
 }
-]
+],
+"PostCode": "6833"
 },
 {
 "Name": "Göfis",
@@ -126545,7 +127570,8 @@
 "Latitude": 47.2336,
 "Longitude": 9.6346
 }
-]
+],
+"PostCode": "6811"
 },
 {
 "Name": "Götzis",
@@ -126557,7 +127583,8 @@
 "Latitude": 47.3331,
 "Longitude": 9.6331
 }
-]
+],
+"PostCode": "6840"
 },
 {
 "Name": "Klaus",
@@ -126569,7 +127596,8 @@
 "Latitude": 47.3091,
 "Longitude": 9.6468
 }
-]
+],
+"PostCode": "6833"
 },
 {
 "Name": "Koblach",
@@ -126581,7 +127609,8 @@
 "Latitude": 47.3331,
 "Longitude": 9.6
 }
-]
+],
+"PostCode": "6842"
 },
 {
 "Name": "Laterns",
@@ -126593,7 +127622,8 @@
 "Latitude": 47.2667,
 "Longitude": 9.7
 }
-]
+],
+"PostCode": "6830"
 },
 {
 "Name": "Mäder",
@@ -126605,7 +127635,8 @@
 "Latitude": 47.35,
 "Longitude": 9.6167
 }
-]
+],
+"PostCode": "6841"
 },
 {
 "Name": "Meiningen",
@@ -126617,7 +127648,8 @@
 "Latitude": 47.2989,
 "Longitude": 9.5786
 }
-]
+],
+"PostCode": "6812"
 },
 {
 "Name": "Rankweil",
@@ -126629,7 +127661,8 @@
 "Latitude": 47.2711,
 "Longitude": 9.6431
 }
-]
+],
+"PostCode": "6830"
 },
 {
 "Name": "Röns",
@@ -126659,7 +127692,8 @@
 "Latitude": 47.2933,
 "Longitude": 9.6548
 }
-]
+],
+"PostCode": "6832"
 },
 {
 "Name": "Satteins",
@@ -126689,7 +127723,8 @@
 "Latitude": 47.2,
 "Longitude": 9.7
 }
-]
+],
+"PostCode": "6824"
 },
 {
 "Name": "Schnifis",
@@ -126701,7 +127736,8 @@
 "Latitude": 47.2167,
 "Longitude": 9.7331
 }
-]
+],
+"PostCode": "6822"
 },
 {
 "Name": "Sulz",
@@ -126713,7 +127749,8 @@
 "Latitude": 47.2872,
 "Longitude": 9.6518
 }
-]
+],
+"PostCode": "6832"
 },
 {
 "Name": "Übersaxen",
@@ -126725,7 +127762,8 @@
 "Latitude": 47.2528,
 "Longitude": 9.6708
 }
-]
+],
+"PostCode": "6834"
 },
 {
 "Name": "Viktorsberg",
@@ -126737,7 +127775,8 @@
 "Latitude": 47.2997,
 "Longitude": 9.6667
 }
-]
+],
+"PostCode": "6836"
 },
 {
 "Name": "Weiler",
@@ -126749,7 +127788,8 @@
 "Latitude": 47.2997,
 "Longitude": 9.65
 }
-]
+],
+"PostCode": "6837"
 },
 {
 "Name": "Zwischenwasser",
@@ -126779,7 +127819,8 @@
 "Latitude": 47.283,
 "Longitude": 9.6594
 }
-]
+],
+"PostCode": "6835"
 }
 ]
 }
@@ -126803,7 +127844,8 @@
 "Latitude": 48.2077,
 "Longitude": 16.3705
 }
-]
+],
+"PostCode": "1010"
 },
 {
 "Name": "Gemeindebezirk Leopoldstadt",
@@ -126815,7 +127857,8 @@
 "Latitude": 48.2167,
 "Longitude": 16.4
 }
-]
+],
+"PostCode": "1020"
 },
 {
 "Name": "Gemeindebezirk Landstrasse",
@@ -126827,7 +127870,8 @@
 "Latitude": 48.1981,
 "Longitude": 16.3948
 }
-]
+],
+"PostCode": "1030"
 },
 {
 "Name": "Gemeindebezirk Wieden",
@@ -126839,7 +127883,8 @@
 "Latitude": 48.192,
 "Longitude": 16.3671
 }
-]
+],
+"PostCode": "1040"
 },
 {
 "Name": "Gemeindebezirk Margareten",
@@ -126851,7 +127896,8 @@
 "Latitude": 48.1865,
 "Longitude": 16.3549
 }
-]
+],
+"PostCode": "1050"
 },
 {
 "Name": "Gemeindebezirk Mariahilf",
@@ -126863,7 +127909,8 @@
 "Latitude": 48.1952,
 "Longitude": 16.3503
 }
-]
+],
+"PostCode": "1060"
 },
 {
 "Name": "Gemeindebezirk Neubau",
@@ -126875,7 +127922,8 @@
 "Latitude": 48.2,
 "Longitude": 16.35
 }
-]
+],
+"PostCode": "1070"
 },
 {
 "Name": "Gemeindebezirk Josefstadt",
@@ -126887,7 +127935,8 @@
 "Latitude": 48.2167,
 "Longitude": 16.35
 }
-]
+],
+"PostCode": "1080"
 },
 {
 "Name": "Gemeindebezirk Alsergrund",
@@ -126899,7 +127948,8 @@
 "Latitude": 48.2333,
 "Longitude": 16.35
 }
-]
+],
+"PostCode": "1090"
 },
 {
 "Name": "Gemeindebezirk Favoriten",
@@ -126911,7 +127961,8 @@
 "Latitude": 48.1521,
 "Longitude": 16.3878
 }
-]
+],
+"PostCode": "1100"
 },
 {
 "Name": "Gemeindebezirk Simmering",
@@ -126923,7 +127974,8 @@
 "Latitude": 48.164,
 "Longitude": 16.4463
 }
-]
+],
+"PostCode": "1110"
 },
 {
 "Name": "Gemeindebezirk Meidling",
@@ -126935,7 +127987,8 @@
 "Latitude": 48.1705,
 "Longitude": 16.3223
 }
-]
+],
+"PostCode": "1120"
 },
 {
 "Name": "Gemeindebezirk Hietzing",
@@ -126947,7 +128000,8 @@
 "Latitude": 48.1773,
 "Longitude": 16.2456
 }
-]
+],
+"PostCode": "1130"
 },
 {
 "Name": "Gemeindebezirk Penzing",
@@ -126959,7 +128013,8 @@
 "Latitude": 48.221,
 "Longitude": 16.2415
 }
-]
+],
+"PostCode": "1140"
 },
 {
 "Name": "Gemeindebezirk Rudolfsheim-Fünfhaus",
@@ -126971,7 +128026,8 @@
 "Latitude": 48.196,
 "Longitude": 16.3183
 }
-]
+],
+"PostCode": "1150"
 },
 {
 "Name": "Gemeindebezirk Ottakring",
@@ -126983,7 +128039,8 @@
 "Latitude": 48.2167,
 "Longitude": 16.3
 }
-]
+],
+"PostCode": "1160"
 },
 {
 "Name": "Gemeindebezirk Hernals",
@@ -126995,7 +128052,8 @@
 "Latitude": 48.2338,
 "Longitude": 16.2901
 }
-]
+],
+"PostCode": "1170"
 },
 {
 "Name": "Gemeindebezirk Währing",
@@ -127007,7 +128065,8 @@
 "Latitude": 48.2356,
 "Longitude": 16.3193
 }
-]
+],
+"PostCode": "1180"
 },
 {
 "Name": "Gemeindebezirk Döbling",
@@ -127019,7 +128078,8 @@
 "Latitude": 48.2591,
 "Longitude": 16.3339
 }
-]
+],
+"PostCode": "1190"
 },
 {
 "Name": "Gemeindebezirk Brigittenau",
@@ -127031,7 +128091,8 @@
 "Latitude": 48.2402,
 "Longitude": 16.3773
 }
-]
+],
+"PostCode": "1200"
 },
 {
 "Name": "Gemeindebezirk Floridsdorf",
@@ -127043,7 +128104,8 @@
 "Latitude": 48.2811,
 "Longitude": 16.4113
 }
-]
+],
+"PostCode": "1210"
 },
 {
 "Name": "Gemeindebezirk Donaustadt",
@@ -127073,7 +128135,8 @@
 "Latitude": 48.1433,
 "Longitude": 16.2934
 }
-]
+],
+"PostCode": "1230"
 }
 ]
 }

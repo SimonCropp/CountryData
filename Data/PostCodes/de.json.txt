@@ -21519,7 +21519,8 @@
 "Latitude": 48.8813,
 "Longitude": 12.5739
 }
-]
+],
+"PostCode": "94315"
 },
 {
 "Name": "Landkreis Deggendorf",
@@ -23139,7 +23140,8 @@
 "Latitude": 49.4429,
 "Longitude": 11.8627
 }
-]
+],
+"PostCode": "92224"
 },
 {
 "Name": "Regensburg",
@@ -23199,7 +23201,8 @@
 "Latitude": 49.6768,
 "Longitude": 12.1561
 }
-]
+],
+"PostCode": "92637"
 },
 {
 "Name": "Amberg-Sulzbach",
@@ -24909,7 +24912,8 @@
 "Latitude": 50.2594,
 "Longitude": 10.9638
 }
-]
+],
+"PostCode": "96450"
 },
 {
 "Name": "Hof",
@@ -26043,7 +26047,8 @@
 "Latitude": 49.3048,
 "Longitude": 10.5931
 }
-]
+],
+"PostCode": "91522"
 },
 {
 "Name": "Kreisfreie Stadt Erlangen",
@@ -26301,7 +26306,8 @@
 "Latitude": 49.3305,
 "Longitude": 11.0235
 }
-]
+],
+"PostCode": "91126"
 },
 {
 "Name": "Landkreis Ansbach",
@@ -29685,7 +29691,8 @@
 "Latitude": 47.8824,
 "Longitude": 10.6219
 }
-]
+],
+"PostCode": "87600"
 },
 {
 "Name": "Kempten (Allgäu)",
@@ -29721,7 +29728,8 @@
 "Latitude": 47.9837,
 "Longitude": 10.1853
 }
-]
+],
+"PostCode": "87700"
 },
 {
 "Name": "Landkreis Aichach-Friedberg",
@@ -70936,7 +70944,8 @@
 "Latitude": 49.5386,
 "Longitude": 8.354
 }
-]
+],
+"PostCode": "67227"
 },
 {
 "Name": "Kaiserslautern, kreisfreie Stadt",
@@ -70984,7 +70993,8 @@
 "Latitude": 49.1984,
 "Longitude": 8.1169
 }
-]
+],
+"PostCode": "76829"
 },
 {
 "Name": "Ludwigshafen am Rhein, kreisfreie Stadt",
@@ -71164,7 +71174,8 @@
 "Latitude": 49.3208,
 "Longitude": 8.4311
 }
-]
+],
+"PostCode": "67346"
 },
 {
 "Name": "Worms, kreisfreie Stadt",
@@ -71206,7 +71217,8 @@
 "Latitude": 49.2469,
 "Longitude": 7.3698
 }
-]
+],
+"PostCode": "66482"
 },
 {
 "Name": "Landkreis Alzey-Worms",
@@ -95351,7 +95363,8 @@
 "Latitude": 50.9807,
 "Longitude": 10.3152
 }
-]
+],
+"PostCode": "99817"
 },
 {
 "Name": "Eichsfeld",
@@ -97170,6 +97183,12 @@
 "Longitude": 10.3912
 },
 {
+"Name": "Behrungen",
+"PostCode": "98631",
+"Latitude": 50.4109,
+"Longitude": 10.4147
+},
+{
 "Name": "Belrieth",
 "PostCode": "98617",
 "Latitude": 50.5333,
@@ -97182,10 +97201,22 @@
 "Longitude": 10.6
 },
 {
+"Name": "Berkach",
+"PostCode": "98631",
+"Latitude": 50.4369,
+"Longitude": 10.3983
+},
+{
 "Name": "Bermbach",
 "PostCode": "98587",
 "Latitude": 50.6778,
 "Longitude": 10.5963
+},
+{
+"Name": "Bibra",
+"PostCode": "98631",
+"Latitude": 50.4697,
+"Longitude": 10.4388
 },
 {
 "Name": "Birx",
@@ -97234,6 +97265,12 @@
 "PostCode": "98634",
 "Latitude": 50.5667,
 "Longitude": 10.15
+},
+{
+"Name": "Exdorf",
+"PostCode": "98631",
+"Latitude": 50.4572,
+"Longitude": 10.5424
 },
 {
 "Name": "Fambach",
@@ -97368,6 +97405,12 @@
 "Longitude": 10.4667
 },
 {
+"Name": "Nordheim",
+"PostCode": "98631",
+"Latitude": 50.4529,
+"Longitude": 10.4021
+},
+{
 "Name": "Oberhof",
 "PostCode": "98559",
 "Latitude": 50.7044,
@@ -97402,6 +97445,18 @@
 "PostCode": "98634",
 "Latitude": 50.6411,
 "Longitude": 10.2409
+},
+{
+"Name": "Queienfeld",
+"PostCode": "98631",
+"Latitude": 50.4503,
+"Longitude": 10.4555
+},
+{
+"Name": "Rentwertshausen",
+"PostCode": "98631",
+"Latitude": 50.4554,
+"Longitude": 10.439
 },
 {
 "Name": "Rhönblick",
@@ -97462,6 +97517,12 @@
 "PostCode": "98547",
 "Latitude": 50.6192,
 "Longitude": 10.5297
+},
+{
+"Name": "Schwickershausen",
+"PostCode": "98631",
+"Latitude": 50.4563,
+"Longitude": 10.3723
 },
 {
 "Name": "Springstille",
@@ -97572,322 +97633,16 @@
 "Longitude": 10.4333
 },
 {
-"Name": "Zella-Mehlis",
-"PostCode": "98544",
-"Latitude": 50.6564,
-"Longitude": 10.6605
-}
-]
-},
-{
-"Name": "Landkreis Hildburghausen",
-"Code": "16066",
-"Places": [
-{
-"Name": "Ahlstädt",
-"PostCode": "98553",
-"Latitude": 50.5333,
-"Longitude": 10.6833
-},
-{
-"Name": "Auengrund",
-"PostCode": "98673",
-"Latitude": 50.4667,
-"Longitude": 10.85
-},
-{
-"Name": "Bad Colberg-Heldburg",
-"PostCode": "98663",
-"Latitude": 50.275,
-"Longitude": 10.7667
-},
-{
-"Name": "Behrungen",
-"PostCode": "98631",
-"Latitude": 50.4109,
-"Longitude": 10.4147
-},
-{
-"Name": "Beinerstadt",
-"PostCode": "98660",
-"Latitude": 50.4667,
-"Longitude": 10.6
-},
-{
-"Name": "Berkach",
-"PostCode": "98631",
-"Latitude": 50.4369,
-"Longitude": 10.3983
-},
-{
-"Name": "Bibra",
-"PostCode": "98631",
-"Latitude": 50.4697,
-"Longitude": 10.4388
-},
-{
-"Name": "Bischofrod",
-"PostCode": "98553",
-"Latitude": 50.55,
-"Longitude": 10.65
-},
-{
-"Name": "Brünn",
-"PostCode": "98673",
-"Latitude": 50.4485,
-"Longitude": 10.8563
-},
-{
-"Name": "Dingsleben",
-"PostCode": "98646",
-"Latitude": 50.4333,
-"Longitude": 10.6
-},
-{
-"Name": "Ehrenberg",
-"PostCode": "98660",
-"Latitude": 50.4833,
-"Longitude": 10.65
-},
-{
-"Name": "Eichenberg",
-"PostCode": "98553",
-"Latitude": 50.55,
-"Longitude": 10.6667
-},
-{
-"Name": "Eisfeld",
-"PostCode": "98673",
-"Latitude": 50.4265,
-"Longitude": 10.907
-},
-{
-"Name": "Exdorf",
-"PostCode": "98631",
-"Latitude": 50.4572,
-"Longitude": 10.5424
-},
-{
-"Name": "Gleichamberg",
-"PostCode": "98646",
-"Latitude": 50.3707,
-"Longitude": 10.5982
-},
-{
-"Name": "Gompertshausen",
-"PostCode": "98663",
-"Latitude": 50.2985,
-"Longitude": 10.625
-},
-{
-"Name": "Grimmelshausen",
-"PostCode": "98660",
-"Latitude": 50.4833,
-"Longitude": 10.6333
-},
-{
-"Name": "Hellingen",
-"PostCode": "98663",
-"Latitude": 50.25,
-"Longitude": 10.6833
-},
-{
-"Name": "Henfstädt",
-"PostCode": "98660",
-"Latitude": 50.5163,
-"Longitude": 10.5874
-},
-{
-"Name": "Hildburghausen",
-"PostCode": "98646",
-"Latitude": 50.4255,
-"Longitude": 10.7318
-},
-{
-"Name": "Kloster Veßra",
-"PostCode": "98660",
-"Latitude": 50.5,
-"Longitude": 10.65
-},
-{
-"Name": "Lengfeld",
-"PostCode": "98660",
-"Latitude": 50.5333,
-"Longitude": 10.65
-},
-{
-"Name": "Marisfeld",
-"PostCode": "98530",
-"Latitude": 50.5559,
-"Longitude": 10.5727
-},
-{
-"Name": "Masserberg",
-"PostCode": "98666",
-"Latitude": 50.5198,
-"Longitude": 10.9709
-},
-{
-"Name": "Mendhausen",
-"PostCode": "98630",
-"Latitude": 50.3822,
-"Longitude": 10.4727
-},
-{
-"Name": "Milz",
-"PostCode": "98630",
-"Latitude": 50.3776,
-"Longitude": 10.5376
-},
-{
-"Name": "Nahetal-Waldau",
-"PostCode": "98553",
-"Latitude": 50.5167,
-"Longitude": 10.8133
-},
-{
-"Name": "Nordheim",
-"PostCode": "98631",
-"Latitude": 50.4529,
-"Longitude": 10.4021
-},
-{
-"Name": "Oberstadt",
-"PostCode": "98530",
-"Latitude": 50.5553,
-"Longitude": 10.5984
-},
-{
-"Name": "Queienfeld",
-"PostCode": "98631",
-"Latitude": 50.4503,
-"Longitude": 10.4555
-},
-{
-"Name": "Rentwertshausen",
-"PostCode": "98631",
-"Latitude": 50.4554,
-"Longitude": 10.439
-},
-{
-"Name": "Reurieth",
-"PostCode": "98646",
-"Latitude": 50.45,
-"Longitude": 10.65
-},
-{
-"Name": "Römhild",
-"PostCode": "98630",
-"Latitude": 50.3964,
-"Longitude": 10.5389
-},
-{
-"Name": "Sachsenbrunn",
-"PostCode": "98678",
-"Latitude": 50.4472,
-"Longitude": 10.9495
-},
-{
-"Name": "Sankt Bernhard",
-"PostCode": "98660",
-"Latitude": 50.4592,
-"Longitude": 10.5962
-},
-{
-"Name": "Sankt Kilian",
-"PostCode": "98553",
-"Latitude": 50.5275,
-"Longitude": 10.763
-},
-{
-"Name": "Schlechtsart",
-"PostCode": "98669",
-"Latitude": 50.3285,
-"Longitude": 10.6225
-},
-{
-"Name": "Schleusegrund",
-"PostCode": "98667",
-"Latitude": 50.5233,
-"Longitude": 10.8667
-},
-{
-"Name": "Schleusingen",
-"PostCode": "98553",
-"Latitude": 50.5108,
-"Longitude": 10.7566
-},
-{
-"Name": "Schmeheim",
-"PostCode": "98530",
-"Latitude": 50.5667,
-"Longitude": 10.5833
-},
-{
-"Name": "Schweickershausen",
-"PostCode": "98663",
-"Latitude": 50.2392,
-"Longitude": 10.6304
-},
-{
-"Name": "Schwickershausen",
-"PostCode": "98631",
-"Latitude": 50.4563,
-"Longitude": 10.3723
-},
-{
-"Name": "Siegritz",
-"PostCode": "98646",
-"Latitude": 50.4677,
-"Longitude": 10.6624
-},
-{
-"Name": "Straufhain",
-"PostCode": "98646",
-"Latitude": 50.3583,
-"Longitude": 10.7042
-},
-{
-"Name": "Themar",
-"PostCode": "98660",
-"Latitude": 50.5047,
-"Longitude": 10.6154
-},
-{
-"Name": "Trostadt",
-"PostCode": "98646",
-"Latitude": 50.4651,
-"Longitude": 10.6408
-},
-{
-"Name": "Ummerstadt",
-"PostCode": "98663",
-"Latitude": 50.2586,
-"Longitude": 10.8115
-},
-{
-"Name": "Veilsdorf",
-"PostCode": "98669",
-"Latitude": 50.4088,
-"Longitude": 10.8095
-},
-{
-"Name": "Westenfeld",
-"PostCode": "98630",
-"Latitude": 50.4311,
-"Longitude": 10.4963
-},
-{
-"Name": "Westhausen",
-"PostCode": "98663",
-"Latitude": 50.3157,
-"Longitude": 10.6624
-},
-{
 "Name": "Wolfmannshausen",
 "PostCode": "98631",
 "Latitude": 50.4287,
 "Longitude": 10.4583
+},
+{
+"Name": "Zella-Mehlis",
+"PostCode": "98544",
+"Latitude": 50.6564,
+"Longitude": 10.6605
 }
 ]
 },
@@ -98626,6 +98381,264 @@
 "PostCode": "99610",
 "Latitude": 51.1544,
 "Longitude": 11.0389
+}
+]
+},
+{
+"Name": "Landkreis Hildburghausen",
+"Code": "16069",
+"Places": [
+{
+"Name": "Ahlstädt",
+"PostCode": "98553",
+"Latitude": 50.5333,
+"Longitude": 10.6833
+},
+{
+"Name": "Auengrund",
+"PostCode": "98673",
+"Latitude": 50.4667,
+"Longitude": 10.85
+},
+{
+"Name": "Bad Colberg-Heldburg",
+"PostCode": "98663",
+"Latitude": 50.275,
+"Longitude": 10.7667
+},
+{
+"Name": "Beinerstadt",
+"PostCode": "98660",
+"Latitude": 50.4667,
+"Longitude": 10.6
+},
+{
+"Name": "Bischofrod",
+"PostCode": "98553",
+"Latitude": 50.55,
+"Longitude": 10.65
+},
+{
+"Name": "Brünn",
+"PostCode": "98673",
+"Latitude": 50.4485,
+"Longitude": 10.8563
+},
+{
+"Name": "Dingsleben",
+"PostCode": "98646",
+"Latitude": 50.4333,
+"Longitude": 10.6
+},
+{
+"Name": "Ehrenberg",
+"PostCode": "98660",
+"Latitude": 50.4833,
+"Longitude": 10.65
+},
+{
+"Name": "Eichenberg",
+"PostCode": "98553",
+"Latitude": 50.55,
+"Longitude": 10.6667
+},
+{
+"Name": "Eisfeld",
+"PostCode": "98673",
+"Latitude": 50.4265,
+"Longitude": 10.907
+},
+{
+"Name": "Gleichamberg",
+"PostCode": "98646",
+"Latitude": 50.3707,
+"Longitude": 10.5982
+},
+{
+"Name": "Gompertshausen",
+"PostCode": "98663",
+"Latitude": 50.2985,
+"Longitude": 10.625
+},
+{
+"Name": "Grimmelshausen",
+"PostCode": "98660",
+"Latitude": 50.4833,
+"Longitude": 10.6333
+},
+{
+"Name": "Hellingen",
+"PostCode": "98663",
+"Latitude": 50.25,
+"Longitude": 10.6833
+},
+{
+"Name": "Henfstädt",
+"PostCode": "98660",
+"Latitude": 50.5163,
+"Longitude": 10.5874
+},
+{
+"Name": "Hildburghausen",
+"PostCode": "98646",
+"Latitude": 50.4255,
+"Longitude": 10.7318
+},
+{
+"Name": "Kloster Veßra",
+"PostCode": "98660",
+"Latitude": 50.5,
+"Longitude": 10.65
+},
+{
+"Name": "Lengfeld",
+"PostCode": "98660",
+"Latitude": 50.5333,
+"Longitude": 10.65
+},
+{
+"Name": "Marisfeld",
+"PostCode": "98530",
+"Latitude": 50.5559,
+"Longitude": 10.5727
+},
+{
+"Name": "Masserberg",
+"PostCode": "98666",
+"Latitude": 50.5198,
+"Longitude": 10.9709
+},
+{
+"Name": "Mendhausen",
+"PostCode": "98630",
+"Latitude": 50.3822,
+"Longitude": 10.4727
+},
+{
+"Name": "Milz",
+"PostCode": "98630",
+"Latitude": 50.3776,
+"Longitude": 10.5376
+},
+{
+"Name": "Nahetal-Waldau",
+"PostCode": "98553",
+"Latitude": 50.5167,
+"Longitude": 10.8133
+},
+{
+"Name": "Oberstadt",
+"PostCode": "98530",
+"Latitude": 50.5553,
+"Longitude": 10.5984
+},
+{
+"Name": "Reurieth",
+"PostCode": "98646",
+"Latitude": 50.45,
+"Longitude": 10.65
+},
+{
+"Name": "Römhild",
+"PostCode": "98630",
+"Latitude": 50.3964,
+"Longitude": 10.5389
+},
+{
+"Name": "Sachsenbrunn",
+"PostCode": "98678",
+"Latitude": 50.4472,
+"Longitude": 10.9495
+},
+{
+"Name": "Sankt Bernhard",
+"PostCode": "98660",
+"Latitude": 50.4592,
+"Longitude": 10.5962
+},
+{
+"Name": "Sankt Kilian",
+"PostCode": "98553",
+"Latitude": 50.5275,
+"Longitude": 10.763
+},
+{
+"Name": "Schlechtsart",
+"PostCode": "98669",
+"Latitude": 50.3285,
+"Longitude": 10.6225
+},
+{
+"Name": "Schleusegrund",
+"PostCode": "98667",
+"Latitude": 50.5233,
+"Longitude": 10.8667
+},
+{
+"Name": "Schleusingen",
+"PostCode": "98553",
+"Latitude": 50.5108,
+"Longitude": 10.7566
+},
+{
+"Name": "Schmeheim",
+"PostCode": "98530",
+"Latitude": 50.5667,
+"Longitude": 10.5833
+},
+{
+"Name": "Schweickershausen",
+"PostCode": "98663",
+"Latitude": 50.2392,
+"Longitude": 10.6304
+},
+{
+"Name": "Siegritz",
+"PostCode": "98646",
+"Latitude": 50.4677,
+"Longitude": 10.6624
+},
+{
+"Name": "Straufhain",
+"PostCode": "98646",
+"Latitude": 50.3583,
+"Longitude": 10.7042
+},
+{
+"Name": "Themar",
+"PostCode": "98660",
+"Latitude": 50.5047,
+"Longitude": 10.6154
+},
+{
+"Name": "Trostadt",
+"PostCode": "98646",
+"Latitude": 50.4651,
+"Longitude": 10.6408
+},
+{
+"Name": "Ummerstadt",
+"PostCode": "98663",
+"Latitude": 50.2586,
+"Longitude": 10.8115
+},
+{
+"Name": "Veilsdorf",
+"PostCode": "98669",
+"Latitude": 50.4088,
+"Longitude": 10.8095
+},
+{
+"Name": "Westenfeld",
+"PostCode": "98630",
+"Latitude": 50.4311,
+"Longitude": 10.4963
+},
+{
+"Name": "Westhausen",
+"PostCode": "98663",
+"Latitude": 50.3157,
+"Longitude": 10.6624
 }
 ]
 },

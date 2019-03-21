@@ -34,6 +34,7 @@
 {
 "Name": "Eckerö",
 "Code": "043",
+"PostCode": "22270",
 "Communities": [
 {
 "Places": [
@@ -43,7 +44,8 @@
 "Latitude": 60.2203,
 "Longitude": 19.6263
 }
-]
+],
+"PostCode": "22270"
 }
 ]
 },
@@ -90,6 +92,7 @@
 {
 "Name": "Geta",
 "Code": "065",
+"PostCode": "22340",
 "Communities": [
 {
 "Places": [
@@ -99,13 +102,15 @@
 "Latitude": 60.3791,
 "Longitude": 19.8878
 }
-]
+],
+"PostCode": "22340"
 }
 ]
 },
 {
 "Name": "Hammarland",
 "Code": "076",
+"PostCode": "22240",
 "Communities": [
 {
 "Places": [
@@ -115,7 +120,8 @@
 "Latitude": 60.2286,
 "Longitude": 19.7396
 }
-]
+],
+"PostCode": "22240"
 }
 ]
 },
@@ -184,6 +190,7 @@
 {
 "Name": "Lumparland",
 "Code": "438",
+"PostCode": "22630",
 "Communities": [
 {
 "Places": [
@@ -193,7 +200,8 @@
 "Latitude": 60.1204,
 "Longitude": 20.2616
 }
-]
+],
+"PostCode": "22630"
 }
 ]
 },
@@ -296,6 +304,7 @@
 {
 "Name": "Föglö",
 "Code": "062",
+"PostCode": "22710",
 "Communities": [
 {
 "Places": [
@@ -305,7 +314,8 @@
 "Latitude": 60.0316,
 "Longitude": 20.4605
 }
-]
+],
+"PostCode": "22710"
 }
 ]
 },
@@ -340,6 +350,7 @@
 {
 "Name": "Kökar",
 "Code": "318",
+"PostCode": "22730",
 "Communities": [
 {
 "Places": [
@@ -349,13 +360,15 @@
 "Latitude": 59.9345,
 "Longitude": 20.9298
 }
-]
+],
+"PostCode": "22730"
 }
 ]
 },
 {
 "Name": "Sottunga",
 "Code": "766",
+"PostCode": "22720",
 "Communities": [
 {
 "Places": [
@@ -365,13 +378,15 @@
 "Latitude": 60.1248,
 "Longitude": 20.6751
 }
-]
+],
+"PostCode": "22720"
 }
 ]
 },
 {
 "Name": "Vårdö",
 "Code": "941",
+"PostCode": "22550",
 "Communities": [
 {
 "Places": [
@@ -381,7 +396,8 @@
 "Latitude": 60.2607,
 "Longitude": 20.3725
 }
-]
+],
+"PostCode": "22550"
 }
 ]
 }

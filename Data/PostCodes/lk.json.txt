@@ -4338,6 +4338,7 @@
 {
 "Name": "Jaffna",
 "Code": "JA",
+"PostCode": "40000",
 "Communities": [
 {
 "Places": [
@@ -4347,7 +4348,8 @@
 "Latitude": 9.6684,
 "Longitude": 80.0074
 }
-]
+],
+"PostCode": "40000"
 }
 ]
 },
@@ -7676,6 +7678,7 @@
 {
 "Name": "Mannar",
 "Code": "MB",
+"PostCode": "41000",
 "Communities": [
 {
 "Places": [
@@ -7685,7 +7688,8 @@
 "Latitude": 8.9833,
 "Longitude": 79.9
 }
-]
+],
+"PostCode": "41000"
 }
 ]
 },
@@ -8528,6 +8532,7 @@
 {
 "Name": "Mullaitivu",
 "Code": "MP",
+"PostCode": "42000",
 "Communities": [
 {
 "Places": [
@@ -8537,7 +8542,8 @@
 "Latitude": 9.1762,
 "Longitude": 80.5686
 }
-]
+],
+"PostCode": "42000"
 }
 ]
 },
@@ -11250,6 +11256,7 @@
 {
 "Name": "Vavuniya",
 "Code": "VA",
+"PostCode": "43000",
 "Communities": [
 {
 "Places": [
@@ -11259,7 +11266,8 @@
 "Latitude": 8.7514,
 "Longitude": 80.4971
 }
-]
+],
+"PostCode": "43000"
 }
 ]
 }

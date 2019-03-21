@@ -12,6 +12,9 @@ namespace CountryData
         public string Code { get; set; }
 
         [DataMember]
+        public string PostCode { get; set; }
+
+        [DataMember]
         public List<Community> Communities { get; set; } = new List<Community>();
 
         [IgnoreDataMember]

@@ -54,8 +54,18 @@ static class CountrySerializer
                         places.Add(item);
                     }
                     community.Places = places;
+                    var placePostCode = places[0].PostCode;
+                    if (places.All(x => x.PostCode == placePostCode))
+                    {
+                        community.PostCode = placePostCode;
+                    }
                 }
                 province.Communities = communities;
+                var communityPostCode = communities[0].PostCode;
+                if (communities.All(x => x.PostCode == communityPostCode))
+                {
+                    province.PostCode = communityPostCode;
+                }
                 state.Provinces= provinces;
             }
         }

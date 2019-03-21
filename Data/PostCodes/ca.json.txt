@@ -7585,6 +7585,7 @@
 {
 "Name": "Algoma",
 "Code": "5883638",
+"PostCode": "P0R",
 "Communities": [
 {
 "Places": [
@@ -7594,7 +7595,8 @@
 "Latitude": 46.5984,
 "Longitude": -83.0385
 }
-]
+],
+"PostCode": "P0R"
 }
 ]
 },
@@ -7641,6 +7643,7 @@
 {
 "Name": "Dufferin County",
 "Code": "5943542",
+"PostCode": "L0N",
 "Communities": [
 {
 "Places": [
@@ -7650,13 +7653,15 @@
 "Latitude": 44.0317,
 "Longitude": -80.2068
 }
-]
+],
+"PostCode": "L0N"
 }
 ]
 },
 {
 "Name": "Frontenac County",
 "Code": "5958506",
+"PostCode": "K0H",
 "Communities": [
 {
 "Places": [
@@ -7666,7 +7671,8 @@
 "Latitude": 44.7208,
 "Longitude": -76.8334
 }
-]
+],
+"PostCode": "K0H"
 }
 ]
 },
@@ -7807,6 +7813,7 @@
 {
 "Name": "Peterborough County",
 "Code": "6101646",
+"PostCode": "K0L",
 "Communities": [
 {
 "Places": [
@@ -7816,13 +7823,15 @@
 "Latitude": 44.7767,
 "Longitude": -77.9687
 }
-]
+],
+"PostCode": "K0L"
 }
 ]
 },
 {
 "Name": "Renfrew County",
 "Code": "6119449",
+"PostCode": "K0J",
 "Communities": [
 {
 "Places": [
@@ -7832,7 +7841,8 @@
 "Latitude": 45.6606,
 "Longitude": -77.5886
 }
-]
+],
+"PostCode": "K0J"
 }
 ]
 },
@@ -8272,6 +8282,7 @@
 {
 "Name": "Prince County",
 "Code": "1103",
+"PostCode": "C0B",
 "Communities": [
 {
 "Places": [
@@ -8281,7 +8292,8 @@
 "Latitude": 46.6023,
 "Longitude": -63.9583
 }
-]
+],
+"PostCode": "C0B"
 }
 ]
 }
@@ -10203,7 +10215,8 @@
 "Latitude": 48.4638,
 "Longitude": -67.4313
 }
-]
+],
+"PostCode": "G5J"
 },
 {
 "Name": "Matane",
@@ -10215,7 +10228,8 @@
 "Latitude": 48.8286,
 "Longitude": -67.522
 }
-]
+],
+"PostCode": "G4W"
 },
 {
 "Name": "Mont-Joli",
@@ -10227,7 +10241,8 @@
 "Latitude": 48.5839,
 "Longitude": -68.1921
 }
-]
+],
+"PostCode": "G5H"
 },
 {
 "Name": "Rimouski",
@@ -10263,7 +10278,8 @@
 "Latitude": 47.8304,
 "Longitude": -69.5342
 }
-]
+],
+"PostCode": "G5R"
 }
 ]
 },
@@ -10281,7 +10297,8 @@
 "Latitude": 48.5168,
 "Longitude": -72.2324
 }
-]
+],
+"PostCode": "G8H"
 },
 {
 "Name": "Saint-Prime",
@@ -10293,7 +10310,8 @@
 "Latitude": 48.5834,
 "Longitude": -72.3324
 }
-]
+],
+"PostCode": "G8J"
 },
 {
 "Name": "Saint-Félicien",
@@ -10305,7 +10323,8 @@
 "Latitude": 48.6501,
 "Longitude": -72.4491
 }
-]
+],
+"PostCode": "G8K"
 },
 {
 "Name": "Dolbeau-Mistassini",
@@ -10317,7 +10336,8 @@
 "Latitude": 48.8763,
 "Longitude": -72.212
 }
-]
+],
+"PostCode": "G8L"
 },
 {
 "Name": "Albanel",
@@ -10329,7 +10349,8 @@
 "Latitude": 48.8832,
 "Longitude": -72.4487
 }
-]
+],
+"PostCode": "G8M"
 },
 {
 "Name": "Hébertville",
@@ -10341,7 +10362,8 @@
 "Latitude": 48.3473,
 "Longitude": -71.6786
 }
-]
+],
+"PostCode": "G8N"
 },
 {
 "Name": "Alma",
@@ -10377,7 +10399,8 @@
 "Latitude": 48.5501,
 "Longitude": -71.3158
 }
-]
+],
+"PostCode": "G7P"
 }
 ]
 },
@@ -10393,7 +10416,8 @@
 "Latitude": 47.3507,
 "Longitude": -71.202
 }
-]
+],
+"PostCode": "G0A"
 },
 {
 "Name": "La Malbaie",
@@ -10405,7 +10429,8 @@
 "Latitude": 47.6575,
 "Longitude": -70.1559
 }
-]
+],
+"PostCode": "G5A"
 },
 {
 "Name": "Clermont",
@@ -10417,7 +10442,8 @@
 "Latitude": 47.7184,
 "Longitude": -70.2276
 }
-]
+],
+"PostCode": "G4A"
 },
 {
 "Name": "Baie-Saint-Paul",
@@ -10429,7 +10455,8 @@
 "Latitude": 47.4411,
 "Longitude": -70.4986
 }
-]
+],
+"PostCode": "G3Z"
 },
 {
 "Name": "Sainte-Catherine-de-la-Jacques-Cartier",
@@ -10441,7 +10468,8 @@
 "Latitude": 46.8524,
 "Longitude": -71.6206
 }
-]
+],
+"PostCode": "G3N"
 },
 {
 "Name": "Stoneham-et-Tewkesbury",
@@ -10453,7 +10481,8 @@
 "Latitude": 47.1691,
 "Longitude": -71.4332
 }
-]
+],
+"PostCode": "G3C"
 },
 {
 "Name": "Lac-Beauport",
@@ -10465,7 +10494,8 @@
 "Latitude": 46.9833,
 "Longitude": -71.2906
 }
-]
+],
+"PostCode": "G3B"
 },
 {
 "Name": "Quebec City",
@@ -10561,7 +10591,8 @@
 "Latitude": 46.8083,
 "Longitude": -71.3605
 }
-]
+],
+"PostCode": "G2E"
 },
 {
 "Name": "Pont-Rouge",
@@ -10573,7 +10604,8 @@
 "Latitude": 46.7547,
 "Longitude": -71.6957
 }
-]
+],
+"PostCode": "G3H"
 },
 {
 "Name": "Donnacona",
@@ -10585,7 +10617,8 @@
 "Latitude": 46.6804,
 "Longitude": -71.7239
 }
-]
+],
+"PostCode": "G3M"
 }
 ]
 },
@@ -10601,7 +10634,8 @@
 "Latitude": 47.9168,
 "Longitude": -74.6159
 }
-]
+],
+"PostCode": "G0X"
 },
 {
 "Name": "Louiseville",
@@ -10613,7 +10647,8 @@
 "Latitude": 46.2559,
 "Longitude": -72.9415
 }
-]
+],
+"PostCode": "J5V"
 },
 {
 "Name": "La Tuque",
@@ -10625,7 +10660,8 @@
 "Latitude": 47.4334,
 "Longitude": -72.7824
 }
-]
+],
+"PostCode": "G9X"
 }
 ]
 },
@@ -10641,7 +10677,8 @@
 "Latitude": 45.1001,
 "Longitude": -72.0491
 }
-]
+],
+"PostCode": "J0B"
 },
 {
 "Name": "Asbestos",
@@ -10653,7 +10690,8 @@
 "Latitude": 45.7668,
 "Longitude": -71.9324
 }
-]
+],
+"PostCode": "J1T"
 },
 {
 "Name": "Windsor",
@@ -10665,7 +10703,8 @@
 "Latitude": 45.5668,
 "Longitude": -71.9991
 }
-]
+],
+"PostCode": "J1S"
 },
 {
 "Name": "Magog",
@@ -10677,7 +10716,8 @@
 "Latitude": 45.2668,
 "Longitude": -72.1491
 }
-]
+],
+"PostCode": "J1X"
 }
 ]
 },
@@ -10783,7 +10823,8 @@
 "Latitude": 45.47,
 "Longitude": -73.6686
 }
-]
+],
+"PostCode": "H4W"
 },
 {
 "Name": "Hampstead",
@@ -10795,7 +10836,8 @@
 "Latitude": 45.4819,
 "Longitude": -73.6421
 }
-]
+],
+"PostCode": "H3X"
 },
 {
 "Name": "Dorval",
@@ -10807,7 +10849,8 @@
 "Latitude": 45.4679,
 "Longitude": -73.7748
 }
-]
+],
+"PostCode": "H9P"
 },
 {
 "Name": "Pointe-Claire",
@@ -10819,7 +10862,8 @@
 "Latitude": 45.4487,
 "Longitude": -73.8167
 }
-]
+],
+"PostCode": "H9R"
 },
 {
 "Name": "Kirkland",
@@ -10831,7 +10875,8 @@
 "Latitude": 45.4501,
 "Longitude": -73.8659
 }
-]
+],
+"PostCode": "H9J"
 },
 {
 "Name": "Beaconsfield",
@@ -10843,7 +10888,8 @@
 "Latitude": 45.4334,
 "Longitude": -73.8659
 }
-]
+],
+"PostCode": "H9W"
 }
 ]
 },
@@ -10859,7 +10905,8 @@
 "Latitude": 46.307,
 "Longitude": -76.7653
 }
-]
+],
+"PostCode": "J0X"
 },
 {
 "Name": "Val-des-Monts",
@@ -10871,7 +10918,8 @@
 "Latitude": 45.6501,
 "Longitude": -75.666
 }
-]
+],
+"PostCode": "J8N"
 },
 {
 "Name": "Chelsea",
@@ -10883,7 +10931,8 @@
 "Latitude": 45.5001,
 "Longitude": -75.7827
 }
-]
+],
+"PostCode": "J9B"
 },
 {
 "Name": "Maniwaki",
@@ -10895,7 +10944,8 @@
 "Latitude": 46.3834,
 "Longitude": -75.966
 }
-]
+],
+"PostCode": "J9E"
 }
 ]
 },
@@ -10911,7 +10961,8 @@
 "Latitude": 47.8626,
 "Longitude": -78.824
 }
-]
+],
+"PostCode": "J0Z"
 },
 {
 "Name": "Ville-Marie",
@@ -10923,7 +10974,8 @@
 "Latitude": 47.3334,
 "Longitude": -79.433
 }
-]
+],
+"PostCode": "J9V"
 },
 {
 "Name": "La Sarre",
@@ -10935,7 +10987,8 @@
 "Latitude": 48.8002,
 "Longitude": -79.1996
 }
-]
+],
+"PostCode": "J9Z"
 },
 {
 "Name": "Amos",
@@ -10947,7 +11000,8 @@
 "Latitude": 48.5669,
 "Longitude": -78.1162
 }
-]
+],
+"PostCode": "J9T"
 },
 {
 "Name": "Val-d'Or",
@@ -10959,7 +11013,8 @@
 "Latitude": 48.1002,
 "Longitude": -77.7828
 }
-]
+],
+"PostCode": "J9P"
 }
 ]
 },
@@ -10975,7 +11030,8 @@
 "Latitude": 53.0413,
 "Longitude": -68.6884
 }
-]
+],
+"PostCode": "G0G"
 },
 {
 "Name": "Sept-Îles",
@@ -10987,7 +11043,8 @@
 "Latitude": 50.2713,
 "Longitude": -66.3751
 }
-]
+],
+"PostCode": "G4S"
 },
 {
 "Name": "Port-Cartier",
@@ -10999,13 +11056,15 @@
 "Latitude": 50.0334,
 "Longitude": -66.8655
 }
-]
+],
+"PostCode": "G5B"
 }
 ]
 },
 {
 "Name": "Nord-du-Québec",
 "Code": "10",
+"PostCode": "G8P",
 "Communities": [
 {
 "Name": "Chibougamau",
@@ -11017,13 +11076,15 @@
 "Latitude": 49.9168,
 "Longitude": -74.3659
 }
-]
+],
+"PostCode": "G8P"
 }
 ]
 },
 {
 "Name": "Gaspésie-Îles-de-la-Madeleine",
 "Code": "11",
+"PostCode": "G4X",
 "Communities": [
 {
 "Name": "Gaspé",
@@ -11035,7 +11096,8 @@
 "Latitude": 48.8334,
 "Longitude": -64.4819
 }
-]
+],
+"PostCode": "G4X"
 }
 ]
 },
@@ -11051,7 +11113,8 @@
 "Latitude": 46.8033,
 "Longitude": -71.1779
 }
-]
+],
+"PostCode": "G6Y"
 },
 {
 "Name": "Montmagny",
@@ -11063,7 +11126,8 @@
 "Latitude": 46.9804,
 "Longitude": -70.5549
 }
-]
+],
+"PostCode": "G5V"
 },
 {
 "Name": "Lévis",
@@ -11093,7 +11157,8 @@
 "Latitude": 46.434,
 "Longitude": -71.0117
 }
-]
+],
+"PostCode": "G6E"
 },
 {
 "Name": "Beauceville",
@@ -11105,7 +11170,8 @@
 "Latitude": 46.2179,
 "Longitude": -70.7787
 }
-]
+],
+"PostCode": "G5X"
 },
 {
 "Name": "Saint-Georges",
@@ -11141,7 +11207,8 @@
 "Latitude": 46.0937,
 "Longitude": -71.3054
 }
-]
+],
+"PostCode": "G6G"
 }
 ]
 },
@@ -11179,7 +11246,8 @@
 "Latitude": 46.7966,
 "Longitude": -73.8705
 }
-]
+],
+"PostCode": "J0K"
 },
 {
 "Name": "Lavaltrie",
@@ -11191,7 +11259,8 @@
 "Latitude": 45.8834,
 "Longitude": -73.2825
 }
-]
+],
+"PostCode": "J5T"
 },
 {
 "Name": "Repentigny",
@@ -11227,7 +11296,8 @@
 "Latitude": 45.8501,
 "Longitude": -73.4825
 }
-]
+],
+"PostCode": "J5X"
 },
 {
 "Name": "Saint-Lin-Laurentides",
@@ -11239,7 +11309,8 @@
 "Latitude": 45.8501,
 "Longitude": -73.7659
 }
-]
+],
+"PostCode": "J5M"
 },
 {
 "Name": "Terrebonne",
@@ -11303,7 +11374,8 @@
 "Latitude": 46.3002,
 "Longitude": -74.5855
 }
-]
+],
+"PostCode": "J0T"
 },
 {
 "Name": "Saint-Eustache",
@@ -11333,7 +11405,8 @@
 "Latitude": 45.6442,
 "Longitude": -73.8448
 }
-]
+],
+"PostCode": "J7E"
 },
 {
 "Name": "Saint-Colomban",
@@ -11345,7 +11418,8 @@
 "Latitude": 45.7334,
 "Longitude": -74.1325
 }
-]
+],
+"PostCode": "J5K"
 },
 {
 "Name": "Saint-Jérôme",
@@ -11381,7 +11455,8 @@
 "Latitude": 45.9334,
 "Longitude": -74.0159
 }
-]
+],
+"PostCode": "J8A"
 },
 {
 "Name": "Lachute",
@@ -11393,7 +11468,8 @@
 "Latitude": 45.6501,
 "Longitude": -74.3325
 }
-]
+],
+"PostCode": "J8H"
 },
 {
 "Name": "Sainte-Adèle",
@@ -11405,7 +11481,8 @@
 "Latitude": 45.9501,
 "Longitude": -74.1325
 }
-]
+],
+"PostCode": "J8B"
 },
 {
 "Name": "Mont-Tremblant",
@@ -11417,7 +11494,8 @@
 "Latitude": 46.1949,
 "Longitude": -74.6264
 }
-]
+],
+"PostCode": "J8E"
 },
 {
 "Name": "Mont-Laurier",
@@ -11429,7 +11507,8 @@
 "Latitude": 46.5501,
 "Longitude": -75.4993
 }
-]
+],
+"PostCode": "J9L"
 }
 ]
 },
@@ -11469,7 +11548,8 @@
 "Latitude": 45.3168,
 "Longitude": -72.6491
 }
-]
+],
+"PostCode": "J2L"
 },
 {
 "Name": "Cowansville",
@@ -11481,7 +11561,8 @@
 "Latitude": 45.2001,
 "Longitude": -72.7491
 }
-]
+],
+"PostCode": "J2K"
 },
 {
 "Name": "Farnham",
@@ -11493,7 +11574,8 @@
 "Latitude": 45.2834,
 "Longitude": -72.9824
 }
-]
+],
+"PostCode": "J2N"
 },
 {
 "Name": "Granby",
@@ -11529,7 +11611,8 @@
 "Latitude": 45.3501,
 "Longitude": -72.5658
 }
-]
+],
+"PostCode": "J2M"
 },
 {
 "Name": "Saint-Hyacinthe",
@@ -11565,7 +11648,8 @@
 "Latitude": 45.4334,
 "Longitude": -73.1659
 }
-]
+],
+"PostCode": "J3M"
 },
 {
 "Name": "Saint-Jean-sur-Richelieu",
@@ -11607,7 +11691,8 @@
 "Latitude": 45.4501,
 "Longitude": -73.2825
 }
-]
+],
+"PostCode": "J3L"
 },
 {
 "Name": "Beloeil",
@@ -11619,7 +11704,8 @@
 "Latitude": 45.5946,
 "Longitude": -73.2283
 }
-]
+],
+"PostCode": "J3G"
 },
 {
 "Name": "Brossard",
@@ -11685,7 +11771,8 @@
 "Latitude": 45.591,
 "Longitude": -73.4361
 }
-]
+],
+"PostCode": "J4B"
 },
 {
 "Name": "Sainte-Julie",
@@ -11697,7 +11784,8 @@
 "Latitude": 45.5834,
 "Longitude": -73.3325
 }
-]
+],
+"PostCode": "J3E"
 },
 {
 "Name": "Varennes",
@@ -11709,7 +11797,8 @@
 "Latitude": 45.6834,
 "Longitude": -73.4325
 }
-]
+],
+"PostCode": "J3X"
 },
 {
 "Name": "La Prairie",
@@ -11721,7 +11810,8 @@
 "Latitude": 45.4168,
 "Longitude": -73.4992
 }
-]
+],
+"PostCode": "J5R"
 },
 {
 "Name": "Delson",
@@ -11733,7 +11823,8 @@
 "Latitude": 45.3668,
 "Longitude": -73.5492
 }
-]
+],
+"PostCode": "J5B"
 },
 {
 "Name": "Sainte-Catherine",
@@ -11745,7 +11836,8 @@
 "Latitude": 45.4001,
 "Longitude": -73.5825
 }
-]
+],
+"PostCode": "J5C"
 },
 {
 "Name": "Saint-Constant",
@@ -11757,7 +11849,8 @@
 "Latitude": 45.3668,
 "Longitude": -73.5659
 }
-]
+],
+"PostCode": "J5A"
 },
 {
 "Name": "Mercier",
@@ -11769,7 +11862,8 @@
 "Latitude": 45.3168,
 "Longitude": -73.7492
 }
-]
+],
+"PostCode": "J6R"
 },
 {
 "Name": "Châteauguay",
@@ -11799,7 +11893,8 @@
 "Latitude": 45.3168,
 "Longitude": -73.8659
 }
-]
+],
+"PostCode": "J6N"
 },
 {
 "Name": "Salaberry-de-Valleyfield",
@@ -11829,7 +11924,8 @@
 "Latitude": 45.4001,
 "Longitude": -74.0325
 }
-]
+],
+"PostCode": "J7V"
 }
 ]
 },
@@ -11875,7 +11971,8 @@
 "Latitude": 46.2186,
 "Longitude": -71.762
 }
-]
+],
+"PostCode": "G6L"
 },
 {
 "Name": "Victoriaville",
@@ -11929,7 +12026,8 @@
 "Latitude": 46.2168,
 "Longitude": -72.6158
 }
-]
+],
+"PostCode": "J3T"
 }
 ]
 }

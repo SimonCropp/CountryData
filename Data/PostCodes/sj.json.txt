@@ -46,6 +46,7 @@
 {
 "Name": "Bjørnøya",
 "Code": "2121",
+"PostCode": "9176",
 "Communities": [
 {
 "Places": [
@@ -55,13 +56,15 @@
 "Latitude": 74.4435,
 "Longitude": 19.0063
 }
-]
+],
+"PostCode": "9176"
 }
 ]
 },
 {
 "Name": "Hopen",
 "Code": "2131",
+"PostCode": "9174",
 "Communities": [
 {
 "Places": [
@@ -71,7 +74,8 @@
 "Latitude": 76.5756,
 "Longitude": 25.1971
 }
-]
+],
+"PostCode": "9174"
 }
 ]
 }
@@ -84,6 +88,7 @@
 {
 "Name": "Jan Mayen",
 "Code": "2211",
+"PostCode": "8099",
 "Communities": [
 {
 "Places": [
@@ -93,7 +98,8 @@
 "Latitude": 70.9498,
 "Longitude": -8.638
 }
-]
+],
+"PostCode": "8099"
 }
 ]
 }

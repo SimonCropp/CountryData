@@ -1114,6 +1114,7 @@
 {
 "Name": "Rømskog",
 "Code": "0121",
+"PostCode": "1950",
 "Communities": [
 {
 "Places": [
@@ -1123,7 +1124,8 @@
 "Latitude": 59.7497,
 "Longitude": 11.8112
 }
-]
+],
+"PostCode": "1950"
 }
 ]
 },
@@ -10290,6 +10292,7 @@
 {
 "Name": "Flå",
 "Code": "0615",
+"PostCode": "3539",
 "Communities": [
 {
 "Places": [
@@ -10299,7 +10302,8 @@
 "Latitude": 60.4302,
 "Longitude": 9.462
 }
-]
+],
+"PostCode": "3539"
 }
 ]
 },
@@ -17152,6 +17156,7 @@
 {
 "Name": "Kvitsøy",
 "Code": "1144",
+"PostCode": "4180",
 "Communities": [
 {
 "Places": [
@@ -17161,13 +17166,15 @@
 "Latitude": 59.0623,
 "Longitude": 5.4025
 }
-]
+],
+"PostCode": "4180"
 }
 ]
 },
 {
 "Name": "Bokn",
 "Code": "1145",
+"PostCode": "5561",
 "Communities": [
 {
 "Places": [
@@ -17177,7 +17184,8 @@
 "Latitude": 59.2306,
 "Longitude": 5.4352
 }
-]
+],
+"PostCode": "5561"
 }
 ]
 },
@@ -17402,6 +17410,7 @@
 {
 "Name": "Utsira",
 "Code": "1151",
+"PostCode": "5547",
 "Communities": [
 {
 "Places": [
@@ -17411,7 +17420,8 @@
 "Latitude": 59.3057,
 "Longitude": 4.8862
 }
-]
+],
+"PostCode": "5547"
 }
 ]
 },
@@ -20356,6 +20366,7 @@
 {
 "Name": "Modalen",
 "Code": "1252",
+"PostCode": "5729",
 "Communities": [
 {
 "Places": [
@@ -20365,7 +20376,8 @@
 "Latitude": 60.8147,
 "Longitude": 5.8024
 }
-]
+],
+"PostCode": "5729"
 }
 ]
 },
@@ -26466,6 +26478,7 @@
 {
 "Name": "Røst",
 "Code": "1856",
+"PostCode": "8064",
 "Communities": [
 {
 "Places": [
@@ -26475,13 +26488,15 @@
 "Latitude": 67.5175,
 "Longitude": 12.1176
 }
-]
+],
+"PostCode": "8064"
 }
 ]
 },
 {
 "Name": "Værøy",
 "Code": "1857",
+"PostCode": "8063",
 "Communities": [
 {
 "Places": [
@@ -26491,7 +26506,8 @@
 "Latitude": 67.6667,
 "Longitude": 12.65
 }
-]
+],
+"PostCode": "8063"
 }
 ]
 },
@@ -32324,6 +32340,7 @@
 {
 "Name": "Røyrvik",
 "Code": "5043",
+"PostCode": "7898",
 "Communities": [
 {
 "Places": [
@@ -32333,7 +32350,8 @@
 "Latitude": 64.7063,
 "Longitude": 13.7415
 }
-]
+],
+"PostCode": "7898"
 }
 ]
 },
