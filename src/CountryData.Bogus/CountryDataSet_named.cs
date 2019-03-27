@@ -37,6 +37,11 @@ namespace CountryData.Bogus
             return CountryLoader.LoadAlandIslandsLocationData();
         }
 
+        public ICountry Azerbaijan()
+        {
+            return CountryLoader.LoadAzerbaijanLocationData();
+        }
+
         public ICountry Bangladesh()
         {
             return CountryLoader.LoadBangladeshLocationData();

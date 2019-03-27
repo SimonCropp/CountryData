@@ -12,32 +12,42 @@
 {
 "Name": "Barentsburg",
 "PostCode": "9178",
+"Location": {
 "Latitude": 78.0644,
 "Longitude": 14.1859
+}
 },
 {
 "Name": "Longyearbyen",
 "PostCode": "9170",
+"Location": {
 "Latitude": 78.2233,
 "Longitude": 15.6469
+}
 },
 {
 "Name": "Longyearbyen",
 "PostCode": "9171",
+"Location": {
 "Latitude": 78.2233,
 "Longitude": 15.6469
+}
 },
 {
 "Name": "Ny-Ålesund",
 "PostCode": "9173",
+"Location": {
 "Latitude": 78.9237,
 "Longitude": 11.925
+}
 },
 {
 "Name": "Sveagruva",
 "PostCode": "9175",
+"Location": {
 "Latitude": 77.9003,
 "Longitude": 16.7201
+}
 }
 ]
 }
@@ -53,8 +63,10 @@
 {
 "Name": "Bjørnøya",
 "PostCode": "9176",
+"Location": {
 "Latitude": 74.4435,
 "Longitude": 19.0063
+}
 }
 ],
 "PostCode": "9176"
@@ -71,8 +83,10 @@
 {
 "Name": "Hopen",
 "PostCode": "9174",
+"Location": {
 "Latitude": 76.5756,
 "Longitude": 25.1971
+}
 }
 ],
 "PostCode": "9174"
@@ -96,8 +110,10 @@
 {
 "Name": "Jan Mayen",
 "PostCode": "8099",
+"Location": {
 "Latitude": 70.9498,
 "Longitude": -8.638
+}
 }
 ],
 "PostCode": "8099"

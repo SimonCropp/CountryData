@@ -12,8 +12,10 @@
 {
 "Name": "Adjuntas",
 "PostCode": "00601",
+"Location": {
 "Latitude": 18.1627,
 "Longitude": -66.7221
+}
 }
 ],
 "PostCode": "00601"
@@ -35,8 +37,10 @@
 {
 "Name": "Aguada",
 "PostCode": "00602",
+"Location": {
 "Latitude": 18.3794,
 "Longitude": -67.1882
+}
 }
 ],
 "PostCode": "00602"
@@ -56,26 +60,34 @@
 {
 "Name": "Aguadilla",
 "PostCode": "00603",
+"Location": {
 "Latitude": 18.4274,
 "Longitude": -67.1541
+}
 },
 {
 "Name": "Aguadilla",
 "PostCode": "00604",
+"Location": {
 "Latitude": 18.4274,
 "Longitude": -67.1541
+}
 },
 {
 "Name": "Aguadilla",
 "PostCode": "00605",
+"Location": {
 "Latitude": 18.4274,
 "Longitude": -67.1541
+}
 },
 {
 "Name": "San Antonio",
 "PostCode": "00690",
+"Location": {
 "Latitude": 18.4922,
 "Longitude": -67.0985
+}
 }
 ]
 }
@@ -96,8 +108,10 @@
 {
 "Name": "Aguas Buenas",
 "PostCode": "00703",
+"Location": {
 "Latitude": 18.2569,
 "Longitude": -66.1029
+}
 }
 ],
 "PostCode": "00703"
@@ -117,14 +131,18 @@
 {
 "Name": "Aibonito",
 "PostCode": "00705",
+"Location": {
 "Latitude": 18.14,
 "Longitude": -66.266
+}
 },
 {
 "Name": "La Plata",
 "PostCode": "00786",
+"Location": {
 "Latitude": 18.1544,
 "Longitude": -66.2329
+}
 }
 ]
 }
@@ -145,8 +163,10 @@
 {
 "Name": "Anasco",
 "PostCode": "00610",
+"Location": {
 "Latitude": 18.2827,
 "Longitude": -67.1396
+}
 }
 ],
 "PostCode": "00610"
@@ -166,38 +186,50 @@
 {
 "Name": "Arecibo",
 "PostCode": "00612",
+"Location": {
 "Latitude": 18.4724,
 "Longitude": -66.7157
+}
 },
 {
 "Name": "Arecibo",
 "PostCode": "00613",
+"Location": {
 "Latitude": 18.4724,
 "Longitude": -66.7157
+}
 },
 {
 "Name": "Arecibo",
 "PostCode": "00614",
+"Location": {
 "Latitude": 18.4724,
 "Longitude": -66.7157
+}
 },
 {
 "Name": "Bajadero",
 "PostCode": "00616",
+"Location": {
 "Latitude": 18.4266,
 "Longitude": -66.6832
+}
 },
 {
 "Name": "Garrochales",
 "PostCode": "00652",
+"Location": {
 "Latitude": 18.4577,
 "Longitude": -66.611
+}
 },
 {
 "Name": "Sabana Hoyos",
 "PostCode": "00688",
+"Location": {
 "Latitude": 18.4338,
 "Longitude": -66.6138
+}
 }
 ]
 }
@@ -218,8 +250,10 @@
 {
 "Name": "Arroyo",
 "PostCode": "00714",
+"Location": {
 "Latitude": 17.9658,
 "Longitude": -66.0613
+}
 }
 ],
 "PostCode": "00714"
@@ -241,8 +275,10 @@
 {
 "Name": "Barceloneta",
 "PostCode": "00617",
+"Location": {
 "Latitude": 18.4505,
 "Longitude": -66.5385
+}
 }
 ],
 "PostCode": "00617"
@@ -264,8 +300,10 @@
 {
 "Name": "Barranquitas",
 "PostCode": "00794",
+"Location": {
 "Latitude": 18.1866,
 "Longitude": -66.3063
+}
 }
 ],
 "PostCode": "00794"
@@ -285,44 +323,58 @@
 {
 "Name": "Bayamon",
 "PostCode": "00956",
+"Location": {
 "Latitude": 18.3986,
 "Longitude": -66.1557
+}
 },
 {
 "Name": "Bayamon",
 "PostCode": "00957",
+"Location": {
 "Latitude": 18.3986,
 "Longitude": -66.1557
+}
 },
 {
 "Name": "Bayamon",
 "PostCode": "00958",
+"Location": {
 "Latitude": 18.3986,
 "Longitude": -66.1557
+}
 },
 {
 "Name": "Bayamon",
 "PostCode": "00959",
+"Location": {
 "Latitude": 18.3986,
 "Longitude": -66.1557
+}
 },
 {
 "Name": "Bayamon",
 "PostCode": "00960",
+"Location": {
 "Latitude": 18.3986,
 "Longitude": -66.1557
+}
 },
 {
 "Name": "Bayamon",
 "PostCode": "00961",
+"Location": {
 "Latitude": 18.3986,
 "Longitude": -66.1557
+}
 },
 {
 "Name": "Fort Buchanan",
 "PostCode": "00934",
+"Location": {
 "Latitude": 18.4122,
 "Longitude": -66.1221
+}
 }
 ]
 }
@@ -341,14 +393,18 @@
 {
 "Name": "Boqueron",
 "PostCode": "00622",
+"Location": {
 "Latitude": 18.0269,
 "Longitude": -67.1691
+}
 },
 {
 "Name": "Cabo Rojo",
 "PostCode": "00623",
+"Location": {
 "Latitude": 18.0866,
 "Longitude": -67.1457
+}
 }
 ]
 }
@@ -367,20 +423,26 @@
 {
 "Name": "Caguas",
 "PostCode": "00725",
+"Location": {
 "Latitude": 18.2341,
 "Longitude": -66.0485
+}
 },
 {
 "Name": "Caguas",
 "PostCode": "00726",
+"Location": {
 "Latitude": 18.2341,
 "Longitude": -66.0485
+}
 },
 {
 "Name": "Caguas",
 "PostCode": "00727",
+"Location": {
 "Latitude": 18.2341,
 "Longitude": -66.0485
+}
 }
 ]
 }
@@ -401,8 +463,10 @@
 {
 "Name": "Camuy",
 "PostCode": "00627",
+"Location": {
 "Latitude": 18.4838,
 "Longitude": -66.8449
+}
 }
 ],
 "PostCode": "00627"
@@ -424,8 +488,10 @@
 {
 "Name": "Canovanas",
 "PostCode": "00729",
+"Location": {
 "Latitude": 18.3751,
 "Longitude": -65.8993
+}
 }
 ],
 "PostCode": "00729"
@@ -445,38 +511,50 @@
 {
 "Name": "Carolina",
 "PostCode": "00983",
+"Location": {
 "Latitude": 18.3808,
 "Longitude": -65.9574
+}
 },
 {
 "Name": "Carolina",
 "PostCode": "00984",
+"Location": {
 "Latitude": 18.3808,
 "Longitude": -65.9574
+}
 },
 {
 "Name": "Carolina",
 "PostCode": "00985",
+"Location": {
 "Latitude": 18.3808,
 "Longitude": -65.9574
+}
 },
 {
 "Name": "Carolina",
 "PostCode": "00986",
+"Location": {
 "Latitude": 18.3808,
 "Longitude": -65.9574
+}
 },
 {
 "Name": "Carolina",
 "PostCode": "00987",
+"Location": {
 "Latitude": 18.3808,
 "Longitude": -65.9574
+}
 },
 {
 "Name": "Carolina",
 "PostCode": "00988",
+"Location": {
 "Latitude": 18.3808,
 "Longitude": -65.9574
+}
 }
 ]
 }
@@ -495,14 +573,18 @@
 {
 "Name": "Catano",
 "PostCode": "00962",
+"Location": {
 "Latitude": 18.4413,
 "Longitude": -66.1182
+}
 },
 {
 "Name": "Catano",
 "PostCode": "00963",
+"Location": {
 "Latitude": 18.4413,
 "Longitude": -66.1182
+}
 }
 ]
 }
@@ -521,14 +603,18 @@
 {
 "Name": "Cayey",
 "PostCode": "00736",
+"Location": {
 "Latitude": 18.1119,
 "Longitude": -66.166
+}
 },
 {
 "Name": "Cayey",
 "PostCode": "00737",
+"Location": {
 "Latitude": 18.1119,
 "Longitude": -66.166
+}
 }
 ]
 }
@@ -547,14 +633,18 @@
 {
 "Name": "Ceiba",
 "PostCode": "00735",
+"Location": {
 "Latitude": 18.2641,
 "Longitude": -65.6485
+}
 },
 {
 "Name": "Roosevelt Roads",
 "PostCode": "00742",
+"Location": {
 "Latitude": 18.235,
 "Longitude": -65.6291
+}
 }
 ]
 }
@@ -575,8 +665,10 @@
 {
 "Name": "Ciales",
 "PostCode": "00638",
+"Location": {
 "Latitude": 18.3361,
 "Longitude": -66.4688
+}
 }
 ],
 "PostCode": "00638"
@@ -598,8 +690,10 @@
 {
 "Name": "Cidra",
 "PostCode": "00739",
+"Location": {
 "Latitude": 18.1758,
 "Longitude": -66.1613
+}
 }
 ],
 "PostCode": "00739"
@@ -621,8 +715,10 @@
 {
 "Name": "Coamo",
 "PostCode": "00769",
+"Location": {
 "Latitude": 18.08,
 "Longitude": -66.3579
+}
 }
 ],
 "PostCode": "00769"
@@ -644,8 +740,10 @@
 {
 "Name": "Comerio",
 "PostCode": "00782",
+"Location": {
 "Latitude": 18.218,
 "Longitude": -66.226
+}
 }
 ],
 "PostCode": "00782"
@@ -667,8 +765,10 @@
 {
 "Name": "Corozal",
 "PostCode": "00783",
+"Location": {
 "Latitude": 18.3411,
 "Longitude": -66.3168
+}
 }
 ],
 "PostCode": "00783"
@@ -690,8 +790,10 @@
 {
 "Name": "Culebra",
 "PostCode": "00775",
+"Location": {
 "Latitude": 18.303,
 "Longitude": -65.301
+}
 }
 ],
 "PostCode": "00775"
@@ -713,8 +815,10 @@
 {
 "Name": "Dorado",
 "PostCode": "00646",
+"Location": {
 "Latitude": 18.4588,
 "Longitude": -66.2677
+}
 }
 ],
 "PostCode": "00646"
@@ -734,14 +838,18 @@
 {
 "Name": "Fajardo",
 "PostCode": "00738",
+"Location": {
 "Latitude": 18.3258,
 "Longitude": -65.6524
+}
 },
 {
 "Name": "Puerto Real",
 "PostCode": "00740",
+"Location": {
 "Latitude": 18.25,
 "Longitude": -65.7493
+}
 }
 ]
 }
@@ -762,8 +870,10 @@
 {
 "Name": "Florida",
 "PostCode": "00650",
+"Location": {
 "Latitude": 18.3624,
 "Longitude": -66.5613
+}
 }
 ],
 "PostCode": "00650"
@@ -783,14 +893,18 @@
 {
 "Name": "Ensenada",
 "PostCode": "00647",
+"Location": {
 "Latitude": 17.9689,
 "Longitude": -66.9335
+}
 },
 {
 "Name": "Guanica",
 "PostCode": "00653",
+"Location": {
 "Latitude": 17.9716,
 "Longitude": -66.908
+}
 }
 ]
 }
@@ -809,14 +923,18 @@
 {
 "Name": "Aguirre",
 "PostCode": "00704",
+"Location": {
 "Latitude": 17.9529,
 "Longitude": -66.262
+}
 },
 {
 "Name": "Guayama",
 "PostCode": "00784",
+"Location": {
 "Latitude": 17.9841,
 "Longitude": -66.1138
+}
 }
 ]
 }
@@ -835,14 +953,18 @@
 {
 "Name": "Guayama",
 "PostCode": "00785",
+"Location": {
 "Latitude": 17.9841,
 "Longitude": -66.1138
+}
 },
 {
 "Name": "Guayanilla",
 "PostCode": "00656",
+"Location": {
 "Latitude": 18.0191,
 "Longitude": -66.7918
+}
 }
 ]
 }
@@ -861,32 +983,42 @@
 {
 "Name": "Guaynabo",
 "PostCode": "00965",
+"Location": {
 "Latitude": 18.3575,
 "Longitude": -66.111
+}
 },
 {
 "Name": "Guaynabo",
 "PostCode": "00966",
+"Location": {
 "Latitude": 18.3575,
 "Longitude": -66.111
+}
 },
 {
 "Name": "Guaynabo",
 "PostCode": "00969",
+"Location": {
 "Latitude": 18.3575,
 "Longitude": -66.111
+}
 },
 {
 "Name": "Guaynabo",
 "PostCode": "00970",
+"Location": {
 "Latitude": 18.3575,
 "Longitude": -66.111
+}
 },
 {
 "Name": "Guaynabo",
 "PostCode": "00971",
+"Location": {
 "Latitude": 18.3575,
 "Longitude": -66.111
+}
 }
 ]
 }
@@ -907,8 +1039,10 @@
 {
 "Name": "Gurabo",
 "PostCode": "00778",
+"Location": {
 "Latitude": 18.2544,
 "Longitude": -65.9729
+}
 }
 ],
 "PostCode": "00778"
@@ -930,8 +1064,10 @@
 {
 "Name": "Hatillo",
 "PostCode": "00659",
+"Location": {
 "Latitude": 18.4863,
 "Longitude": -66.8255
+}
 }
 ],
 "PostCode": "00659"
@@ -953,8 +1089,10 @@
 {
 "Name": "Hormigueros",
 "PostCode": "00660",
+"Location": {
 "Latitude": 18.1397,
 "Longitude": -67.1274
+}
 }
 ],
 "PostCode": "00660"
@@ -974,20 +1112,26 @@
 {
 "Name": "Humacao",
 "PostCode": "00791",
+"Location": {
 "Latitude": 18.1497,
 "Longitude": -65.8274
+}
 },
 {
 "Name": "Humacao",
 "PostCode": "00792",
+"Location": {
 "Latitude": 18.1497,
 "Longitude": -65.8274
+}
 },
 {
 "Name": "Punta Santiago",
 "PostCode": "00741",
+"Location": {
 "Latitude": 18.1663,
 "Longitude": -65.7482
+}
 }
 ]
 }
@@ -1008,8 +1152,10 @@
 {
 "Name": "Isabela",
 "PostCode": "00662",
+"Location": {
 "Latitude": 18.5008,
 "Longitude": -67.0243
+}
 }
 ],
 "PostCode": "00662"
@@ -1031,8 +1177,10 @@
 {
 "Name": "Jayuya",
 "PostCode": "00664",
+"Location": {
 "Latitude": 18.2186,
 "Longitude": -66.5916
+}
 }
 ],
 "PostCode": "00664"
@@ -1054,8 +1202,10 @@
 {
 "Name": "Juana Diaz",
 "PostCode": "00795",
+"Location": {
 "Latitude": 18.0525,
 "Longitude": -66.5066
+}
 }
 ],
 "PostCode": "00795"
@@ -1077,8 +1227,10 @@
 {
 "Name": "Juncos",
 "PostCode": "00777",
+"Location": {
 "Latitude": 18.2275,
 "Longitude": -65.921
+}
 }
 ],
 "PostCode": "00777"
@@ -1100,8 +1252,10 @@
 {
 "Name": "Lajas",
 "PostCode": "00667",
+"Location": {
 "Latitude": 18.05,
 "Longitude": -67.0593
+}
 }
 ],
 "PostCode": "00667"
@@ -1121,14 +1275,18 @@
 {
 "Name": "Castaner",
 "PostCode": "00631",
+"Location": {
 "Latitude": 18.1805,
 "Longitude": -66.8321
+}
 },
 {
 "Name": "Lares",
 "PostCode": "00669",
+"Location": {
 "Latitude": 18.2947,
 "Longitude": -66.8771
+}
 }
 ]
 }
@@ -1149,8 +1307,10 @@
 {
 "Name": "Las Marias",
 "PostCode": "00670",
+"Location": {
 "Latitude": 18.2519,
 "Longitude": -66.9921
+}
 }
 ],
 "PostCode": "00670"
@@ -1172,8 +1332,10 @@
 {
 "Name": "Las Piedras",
 "PostCode": "00771",
+"Location": {
 "Latitude": 18.183,
 "Longitude": -65.8663
+}
 }
 ],
 "PostCode": "00771"
@@ -1195,8 +1357,10 @@
 {
 "Name": "Loiza",
 "PostCode": "00772",
+"Location": {
 "Latitude": 18.4313,
 "Longitude": -65.8802
+}
 }
 ],
 "PostCode": "00772"
@@ -1218,8 +1382,10 @@
 {
 "Name": "Luquillo",
 "PostCode": "00773",
+"Location": {
 "Latitude": 18.3725,
 "Longitude": -65.7166
+}
 }
 ],
 "PostCode": "00773"
@@ -1241,8 +1407,10 @@
 {
 "Name": "Manati",
 "PostCode": "00674",
+"Location": {
 "Latitude": 18.4274,
 "Longitude": -66.4921
+}
 }
 ],
 "PostCode": "00674"
@@ -1264,8 +1432,10 @@
 {
 "Name": "Maricao",
 "PostCode": "00606",
+"Location": {
 "Latitude": 18.1808,
 "Longitude": -66.9799
+}
 }
 ],
 "PostCode": "00606"
@@ -1287,8 +1457,10 @@
 {
 "Name": "Maunabo",
 "PostCode": "00707",
+"Location": {
 "Latitude": 18.0072,
 "Longitude": -65.8993
+}
 }
 ],
 "PostCode": "00707"
@@ -1308,20 +1480,26 @@
 {
 "Name": "Mayaguez",
 "PostCode": "00680",
+"Location": {
 "Latitude": 18.2011,
 "Longitude": -67.1396
+}
 },
 {
 "Name": "Mayaguez",
 "PostCode": "00681",
+"Location": {
 "Latitude": 18.2011,
 "Longitude": -67.1396
+}
 },
 {
 "Name": "Mayaguez",
 "PostCode": "00682",
+"Location": {
 "Latitude": 18.2011,
 "Longitude": -67.1396
+}
 }
 ]
 }
@@ -1342,8 +1520,10 @@
 {
 "Name": "Moca",
 "PostCode": "00676",
+"Location": {
 "Latitude": 18.3947,
 "Longitude": -67.1132
+}
 }
 ],
 "PostCode": "00676"
@@ -1365,8 +1545,10 @@
 {
 "Name": "Morovis",
 "PostCode": "00687",
+"Location": {
 "Latitude": 18.3258,
 "Longitude": -66.4066
+}
 }
 ],
 "PostCode": "00687"
@@ -1386,14 +1568,18 @@
 {
 "Name": "Naguabo",
 "PostCode": "00718",
+"Location": {
 "Latitude": 18.2116,
 "Longitude": -65.7349
+}
 },
 {
 "Name": "Rio Blanco",
 "PostCode": "00744",
+"Location": {
 "Latitude": 18.2183,
 "Longitude": -65.7885
+}
 }
 ]
 }
@@ -1414,8 +1600,10 @@
 {
 "Name": "Naranjito",
 "PostCode": "00719",
+"Location": {
 "Latitude": 18.3008,
 "Longitude": -66.2449
+}
 }
 ],
 "PostCode": "00719"
@@ -1437,8 +1625,10 @@
 {
 "Name": "Orocovis",
 "PostCode": "00720",
+"Location": {
 "Latitude": 18.2269,
 "Longitude": -66.391
+}
 }
 ],
 "PostCode": "00720"
@@ -1460,8 +1650,10 @@
 {
 "Name": "Patillas",
 "PostCode": "00723",
+"Location": {
 "Latitude": 18.0064,
 "Longitude": -66.0157
+}
 }
 ],
 "PostCode": "00723"
@@ -1483,8 +1675,10 @@
 {
 "Name": "Penuelas",
 "PostCode": "00624",
+"Location": {
 "Latitude": 18.0564,
 "Longitude": -66.7216
+}
 }
 ],
 "PostCode": "00624"
@@ -1504,62 +1698,82 @@
 {
 "Name": "Coto Laurel",
 "PostCode": "00780",
+"Location": {
 "Latitude": 18.0497,
 "Longitude": -66.5513
+}
 },
 {
 "Name": "Mercedita",
 "PostCode": "00715",
+"Location": {
 "Latitude": 18.011,
 "Longitude": -66.5632
+}
 },
 {
 "Name": "Ponce",
 "PostCode": "00716",
+"Location": {
 "Latitude": 18.0111,
 "Longitude": -66.6141
+}
 },
 {
 "Name": "Ponce",
 "PostCode": "00717",
+"Location": {
 "Latitude": 18.0111,
 "Longitude": -66.6141
+}
 },
 {
 "Name": "Ponce",
 "PostCode": "00728",
+"Location": {
 "Latitude": 18.0111,
 "Longitude": -66.6141
+}
 },
 {
 "Name": "Ponce",
 "PostCode": "00730",
+"Location": {
 "Latitude": 18.0111,
 "Longitude": -66.6141
+}
 },
 {
 "Name": "Ponce",
 "PostCode": "00731",
+"Location": {
 "Latitude": 18.0111,
 "Longitude": -66.6141
+}
 },
 {
 "Name": "Ponce",
 "PostCode": "00732",
+"Location": {
 "Latitude": 18.0111,
 "Longitude": -66.6141
+}
 },
 {
 "Name": "Ponce",
 "PostCode": "00733",
+"Location": {
 "Latitude": 18.0111,
 "Longitude": -66.6141
+}
 },
 {
 "Name": "Ponce",
 "PostCode": "00734",
+"Location": {
 "Latitude": 18.0111,
 "Longitude": -66.6141
+}
 }
 ]
 }
@@ -1580,8 +1794,10 @@
 {
 "Name": "Quebradillas",
 "PostCode": "00678",
+"Location": {
 "Latitude": 18.4738,
 "Longitude": -66.9385
+}
 }
 ],
 "PostCode": "00678"
@@ -1603,8 +1819,10 @@
 {
 "Name": "Rincon",
 "PostCode": "00677",
+"Location": {
 "Latitude": 18.3402,
 "Longitude": -67.2499
+}
 }
 ],
 "PostCode": "00677"
@@ -1624,14 +1842,18 @@
 {
 "Name": "Palmer",
 "PostCode": "00721",
+"Location": {
 "Latitude": 18.3705,
 "Longitude": -65.7741
+}
 },
 {
 "Name": "Rio Grande",
 "PostCode": "00745",
+"Location": {
 "Latitude": 18.3802,
 "Longitude": -65.8313
+}
 }
 ]
 }
@@ -1652,8 +1874,10 @@
 {
 "Name": "Sabana Grande",
 "PostCode": "00637",
+"Location": {
 "Latitude": 18.0777,
 "Longitude": -66.9605
+}
 }
 ],
 "PostCode": "00637"
@@ -1675,8 +1899,10 @@
 {
 "Name": "Salinas",
 "PostCode": "00751",
+"Location": {
 "Latitude": 17.9775,
 "Longitude": -66.2979
+}
 }
 ],
 "PostCode": "00751"
@@ -1696,14 +1922,18 @@
 {
 "Name": "Rosario",
 "PostCode": "00636",
+"Location": {
 "Latitude": 18.1625,
 "Longitude": -67.0791
+}
 },
 {
 "Name": "San German",
 "PostCode": "00683",
+"Location": {
 "Latitude": 18.0816,
 "Longitude": -67.0449
+}
 }
 ]
 }
@@ -1722,248 +1952,330 @@
 {
 "Name": "Carolina",
 "PostCode": "00979",
+"Location": {
 "Latitude": 18.3808,
 "Longitude": -65.9574
+}
 },
 {
 "Name": "Carolina",
 "PostCode": "00981",
+"Location": {
 "Latitude": 18.3808,
 "Longitude": -65.9574
+}
 },
 {
 "Name": "Carolina",
 "PostCode": "00982",
+"Location": {
 "Latitude": 18.3808,
 "Longitude": -65.9574
+}
 },
 {
 "Name": "Guaynabo",
 "PostCode": "00968",
+"Location": {
 "Latitude": 18.3575,
 "Longitude": -66.111
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00901",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00902",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00906",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00907",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00908",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00909",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00910",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00911",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00912",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00913",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00914",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00915",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00916",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00917",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00918",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00919",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00920",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00921",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00922",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00923",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00924",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00925",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00926",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00927",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00928",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00929",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00930",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00931",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00933",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00935",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00936",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00937",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00938",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00939",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00940",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00955",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 },
 {
 "Name": "San Juan",
 "PostCode": "00975",
+"Location": {
 "Latitude": 18.4663,
 "Longitude": -66.1057
+}
 }
 ]
 }
@@ -1984,8 +2296,10 @@
 {
 "Name": "San Lorenzo",
 "PostCode": "00754",
+"Location": {
 "Latitude": 18.1894,
 "Longitude": -65.961
+}
 }
 ],
 "PostCode": "00754"
@@ -2007,8 +2321,10 @@
 {
 "Name": "San Sebastian",
 "PostCode": "00685",
+"Location": {
 "Latitude": 18.3366,
 "Longitude": -66.9902
+}
 }
 ],
 "PostCode": "00685"
@@ -2030,8 +2346,10 @@
 {
 "Name": "Santa Isabel",
 "PostCode": "00757",
+"Location": {
 "Latitude": 17.9661,
 "Longitude": -66.4049
+}
 }
 ],
 "PostCode": "00757"
@@ -2051,14 +2369,18 @@
 {
 "Name": "Toa Alta",
 "PostCode": "00953",
+"Location": {
 "Latitude": 18.3883,
 "Longitude": -66.2482
+}
 },
 {
 "Name": "Toa Alta",
 "PostCode": "00954",
+"Location": {
 "Latitude": 18.3883,
 "Longitude": -66.2482
+}
 }
 ]
 }
@@ -2077,26 +2399,34 @@
 {
 "Name": "Sabana Seca",
 "PostCode": "00952",
+"Location": {
 "Latitude": 18.4269,
 "Longitude": -66.1846
+}
 },
 {
 "Name": "Toa Baja",
 "PostCode": "00949",
+"Location": {
 "Latitude": 18.4438,
 "Longitude": -66.2596
+}
 },
 {
 "Name": "Toa Baja",
 "PostCode": "00950",
+"Location": {
 "Latitude": 18.4438,
 "Longitude": -66.2596
+}
 },
 {
 "Name": "Toa Baja",
 "PostCode": "00951",
+"Location": {
 "Latitude": 18.4438,
 "Longitude": -66.2596
+}
 }
 ]
 }
@@ -2115,20 +2445,26 @@
 {
 "Name": "St Just",
 "PostCode": "00978",
+"Location": {
 "Latitude": 18.3786,
 "Longitude": -66.05
+}
 },
 {
 "Name": "Trujillo Alto",
 "PostCode": "00976",
+"Location": {
 "Latitude": 18.3547,
 "Longitude": -66.0074
+}
 },
 {
 "Name": "Trujillo Alto",
 "PostCode": "00977",
+"Location": {
 "Latitude": 18.3547,
 "Longitude": -66.0074
+}
 }
 ]
 }
@@ -2147,14 +2483,18 @@
 {
 "Name": "Angeles",
 "PostCode": "00611",
+"Location": {
 "Latitude": 18.285,
 "Longitude": -66.7993
+}
 },
 {
 "Name": "Utuado",
 "PostCode": "00641",
+"Location": {
 "Latitude": 18.2655,
 "Longitude": -66.7005
+}
 }
 ]
 }
@@ -2175,8 +2515,10 @@
 {
 "Name": "Vega Alta",
 "PostCode": "00692",
+"Location": {
 "Latitude": 18.4122,
 "Longitude": -66.3313
+}
 }
 ],
 "PostCode": "00692"
@@ -2196,14 +2538,18 @@
 {
 "Name": "Vega Baja",
 "PostCode": "00693",
+"Location": {
 "Latitude": 18.4444,
 "Longitude": -66.3877
+}
 },
 {
 "Name": "Vega Baja",
 "PostCode": "00694",
+"Location": {
 "Latitude": 18.4444,
 "Longitude": -66.3877
+}
 }
 ]
 }
@@ -2224,8 +2570,10 @@
 {
 "Name": "Vieques",
 "PostCode": "00765",
+"Location": {
 "Latitude": 18.0859,
 "Longitude": -66.2431
+}
 }
 ],
 "PostCode": "00765"
@@ -2247,8 +2595,10 @@
 {
 "Name": "Villalba",
 "PostCode": "00766",
+"Location": {
 "Latitude": 18.1272,
 "Longitude": -66.4921
+}
 }
 ],
 "PostCode": "00766"
@@ -2270,8 +2620,10 @@
 {
 "Name": "Yabucoa",
 "PostCode": "00767",
+"Location": {
 "Latitude": 18.0505,
 "Longitude": -65.8793
+}
 }
 ],
 "PostCode": "00767"
@@ -2293,8 +2645,10 @@
 {
 "Name": "Yauco",
 "PostCode": "00698",
+"Location": {
 "Latitude": 18.035,
 "Longitude": -66.8499
+}
 }
 ],
 "PostCode": "00698"

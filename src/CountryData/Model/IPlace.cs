@@ -4,7 +4,6 @@
     {
         string Name { get; }
         string PostCode { get; }
-        double Latitude { get; }
-        double Longitude { get; }
+        ILocation Location { get; }
     }
 }

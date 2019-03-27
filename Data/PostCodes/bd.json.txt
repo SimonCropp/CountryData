@@ -13,8 +13,10 @@
 {
 "Name": "Dhaka GPO",
 "PostCode": "1000",
+"Location": {
 "Latitude": 23.729,
 "Longitude": 90.4112
+}
 }
 ],
 "PostCode": "1000"
@@ -25,20 +27,26 @@
 {
 "Name": "Dhaka Sadar HO",
 "PostCode": "1100",
+"Location": {
 "Latitude": 23.9996,
 "Longitude": 90.4222
+}
 },
 {
 "Name": "Gendaria TSO",
 "PostCode": "1204",
+"Location": {
 "Latitude": 23.7011,
 "Longitude": 90.4263
+}
 },
 {
 "Name": "Wari TSO",
 "PostCode": "1203",
+"Location": {
 "Latitude": 23.7415,
 "Longitude": 90.4276
+}
 }
 ]
 },
@@ -48,8 +56,10 @@
 {
 "Name": "New Market TSO",
 "PostCode": "1205",
+"Location": {
 "Latitude": 23.7433,
 "Longitude": 90.3841
+}
 }
 ],
 "PostCode": "1205"
@@ -60,8 +70,10 @@
 {
 "Name": "Dhaka CantonmentTSO",
 "PostCode": "1206",
+"Location": {
 "Latitude": 23.8179,
 "Longitude": 90.4103
+}
 }
 ],
 "PostCode": "1206"
@@ -72,14 +84,18 @@
 {
 "Name": "Mohammadpur Housing",
 "PostCode": "1207",
+"Location": {
 "Latitude": 23.7701,
 "Longitude": 90.362799999999993
+}
 },
 {
 "Name": "Sangsad BhabanTSO",
 "PostCode": "1225",
+"Location": {
 "Latitude": 23.7617,
 "Longitude": 90.3784
+}
 }
 ]
 },
@@ -89,8 +105,10 @@
 {
 "Name": "Dhaka Politechnic",
 "PostCode": "1208",
+"Location": {
 "Latitude": 23.7591,
 "Longitude": 90.4003
+}
 }
 ],
 "PostCode": "1208"
@@ -101,8 +119,10 @@
 {
 "Name": "Jigatala TSO",
 "PostCode": "1209",
+"Location": {
 "Latitude": 23.7552,
 "Longitude": 90.3731
+}
 }
 ],
 "PostCode": "1209"
@@ -113,8 +133,10 @@
 {
 "Name": "Posta TSO",
 "PostCode": "1211",
+"Location": {
 "Latitude": 23.8196,
 "Longitude": 90.364
+}
 }
 ],
 "PostCode": "1211"
@@ -125,14 +147,18 @@
 {
 "Name": "Banani TSO",
 "PostCode": "1213",
+"Location": {
 "Latitude": 23.7931,
 "Longitude": 90.4048
+}
 },
 {
 "Name": "Gulshan Model Town",
 "PostCode": "1212",
+"Location": {
 "Latitude": 23.7916,
 "Longitude": 90.4152
+}
 }
 ]
 },
@@ -142,8 +168,10 @@
 {
 "Name": "Basabo TSO",
 "PostCode": "1214",
+"Location": {
 "Latitude": 23.7418,
 "Longitude": 90.4277
+}
 }
 ],
 "PostCode": "1214"
@@ -154,8 +182,10 @@
 {
 "Name": "Tejgaon TSO",
 "PostCode": "1215",
+"Location": {
 "Latitude": 23.7687,
 "Longitude": 90.3901
+}
 }
 ],
 "PostCode": "1215"
@@ -166,8 +196,10 @@
 {
 "Name": "Mirpur TSO",
 "PostCode": "1216",
+"Location": {
 "Latitude": 23.8219,
 "Longitude": 90.3657
+}
 }
 ],
 "PostCode": "1216"
@@ -178,8 +210,10 @@
 {
 "Name": "Shantinagr TSO",
 "PostCode": "1217",
+"Location": {
 "Latitude": 23.726,
 "Longitude": 90.4251
+}
 }
 ],
 "PostCode": "1217"
@@ -190,8 +224,10 @@
 {
 "Name": "KhilgaonTSO",
 "PostCode": "1219",
+"Location": {
 "Latitude": 23.7518,
 "Longitude": 90.4254
+}
 }
 ],
 "PostCode": "1219"
@@ -202,14 +238,18 @@
 {
 "Name": "BangabhabanTSO",
 "PostCode": "1222",
+"Location": {
 "Latitude": 23.9072,
 "Longitude": 90.4599
+}
 },
 {
 "Name": "DilkushaTSO",
 "PostCode": "1223",
+"Location": {
 "Latitude": 23.8822,
 "Longitude": 90.4576
+}
 }
 ]
 },
@@ -219,8 +259,10 @@
 {
 "Name": "KhilkhetTSO",
 "PostCode": "1229",
+"Location": {
 "Latitude": 23.8515,
 "Longitude": 90.403
+}
 }
 ],
 "PostCode": "1229"
@@ -231,8 +273,10 @@
 {
 "Name": "Uttara Model TwonTSO",
 "PostCode": "1230",
+"Location": {
 "Latitude": 23.8667,
 "Longitude": 90.4
+}
 }
 ],
 "PostCode": "1230"
@@ -243,8 +287,10 @@
 {
 "Name": "Dhania TSO",
 "PostCode": "1232",
+"Location": {
 "Latitude": 23.7117,
 "Longitude": 90.4463
+}
 }
 ],
 "PostCode": "1232"
@@ -255,26 +301,34 @@
 {
 "Name": "Ati",
 "PostCode": "1312",
+"Location": {
 "Latitude": 23.7167,
 "Longitude": 90.35
+}
 },
 {
 "Name": "Dhaka Jute Mills",
 "PostCode": "1311",
+"Location": {
 "Latitude": 23.7223,
 "Longitude": 90.311
+}
 },
 {
 "Name": "Kalatia",
 "PostCode": "1313",
+"Location": {
 "Latitude": 23.7279,
 "Longitude": 90.2721
+}
 },
 {
 "Name": "Keraniganj",
 "PostCode": "1310",
+"Location": {
 "Latitude": 23.7223,
 "Longitude": 90.311
+}
 }
 ]
 },
@@ -284,38 +338,50 @@
 {
 "Name": "Agla",
 "PostCode": "1323",
+"Location": {
 "Latitude": 23.6503,
 "Longitude": 90.2185
+}
 },
 {
 "Name": "Churain",
 "PostCode": "1325",
+"Location": {
 "Latitude": 23.6189,
 "Longitude": 90.224
+}
 },
 {
 "Name": "Daudpur",
 "PostCode": "1322",
+"Location": {
 "Latitude": 23.8833,
 "Longitude": 90.5333
+}
 },
 {
 "Name": "Hasnabad",
 "PostCode": "1321",
+"Location": {
 "Latitude": 23.6551,
 "Longitude": 90.1055
+}
 },
 {
 "Name": "Khalpar",
 "PostCode": "1324",
+"Location": {
 "Latitude": 23.6298,
 "Longitude": 90.1313
+}
 },
 {
 "Name": "Nawabganj",
 "PostCode": "1320",
+"Location": {
 "Latitude": 23.663,
 "Longitude": 90.1593
+}
 }
 ]
 },
@@ -325,20 +391,26 @@
 {
 "Name": "Joypara",
 "PostCode": "1330",
+"Location": {
 "Latitude": 23.6215,
 "Longitude": 90.1241
+}
 },
 {
 "Name": "Narisha",
 "PostCode": "1332",
+"Location": {
 "Latitude": 23.5412,
 "Longitude": 90.2538
+}
 },
 {
 "Name": "Palamganj",
 "PostCode": "1331",
+"Location": {
 "Latitude": 23.5412,
 "Longitude": 90.2538
+}
 }
 ]
 },
@@ -348,62 +420,82 @@
 {
 "Name": "Amin Bazar",
 "PostCode": "1348",
+"Location": {
 "Latitude": 23.8486,
 "Longitude": 90.25
+}
 },
 {
 "Name": "Dairy Farm",
 "PostCode": "1341",
+"Location": {
 "Latitude": 23.8486,
 "Longitude": 90.25
+}
 },
 {
 "Name": "EPZ",
 "PostCode": "1349",
+"Location": {
 "Latitude": 23.8486,
 "Longitude": 90.25
+}
 },
 {
 "Name": "Jahangirnagar Univer",
 "PostCode": "1342",
+"Location": {
 "Latitude": 23.8486,
 "Longitude": 90.25
+}
 },
 {
 "Name": "Kashem Cotton Mills",
 "PostCode": "1346",
+"Location": {
 "Latitude": 23.8486,
 "Longitude": 90.25
+}
 },
 {
 "Name": "Rajphulbaria",
 "PostCode": "1347",
+"Location": {
 "Latitude": 23.8486,
 "Longitude": 90.25
+}
 },
 {
 "Name": "Savar",
 "PostCode": "1340",
+"Location": {
 "Latitude": 23.8486,
 "Longitude": 90.25
+}
 },
 {
 "Name": "Savar Canttonment",
 "PostCode": "1344",
+"Location": {
 "Latitude": 23.8486,
 "Longitude": 90.25
+}
 },
 {
 "Name": "Saver P.A.T.C",
 "PostCode": "1343",
+"Location": {
 "Latitude": 23.8486,
 "Longitude": 90.25
+}
 },
 {
 "Name": "Shimulia",
 "PostCode": "1345",
+"Location": {
 "Latitude": 23.8486,
 "Longitude": 90.25
+}
 }
 ]
 },
@@ -413,14 +505,18 @@
 {
 "Name": "Dhamrai",
 "PostCode": "1350",
+"Location": {
 "Latitude": 23.9122,
 "Longitude": 90.2683
+}
 },
 {
 "Name": "Kamalpur",
 "PostCode": "1351",
+"Location": {
 "Latitude": 23.9994,
 "Longitude": 90.8099
+}
 }
 ]
 },
@@ -430,20 +526,26 @@
 {
 "Name": "Demra",
 "PostCode": "1360",
+"Location": {
 "Latitude": 23.7099,
 "Longitude": 90.4546
+}
 },
 {
 "Name": "Matuail",
 "PostCode": "1362",
+"Location": {
 "Latitude": 23.7121,
 "Longitude": 90.4598
+}
 },
 {
 "Name": "Sarulia",
 "PostCode": "1361",
+"Location": {
 "Latitude": 23.8429,
 "Longitude": 90.3244
+}
 }
 ]
 }
@@ -459,26 +561,34 @@
 {
 "Name": "Ambikapur",
 "PostCode": "7802",
+"Location": {
 "Latitude": 23.55,
 "Longitude": 89.7833
+}
 },
 {
 "Name": "Baitulaman Politecni",
 "PostCode": "7803",
+"Location": {
 "Latitude": 23.55,
 "Longitude": 89.7833
+}
 },
 {
 "Name": "Faridpursadar",
 "PostCode": "7800",
+"Location": {
 "Latitude": 23.55,
 "Longitude": 89.7833
+}
 },
 {
 "Name": "Kanaipur",
 "PostCode": "7801",
+"Location": {
 "Latitude": 23.55,
 "Longitude": 89.7833
+}
 }
 ]
 },
@@ -488,8 +598,10 @@
 {
 "Name": "Shriangan",
 "PostCode": "7804",
+"Location": {
 "Latitude": 23.55,
 "Longitude": 89.7833
+}
 }
 ],
 "PostCode": "7804"
@@ -500,8 +612,10 @@
 {
 "Name": "Charbadrashan",
 "PostCode": "7810",
+"Location": {
 "Latitude": 23.4224,
 "Longitude": 89.8067
+}
 }
 ],
 "PostCode": "7810"
@@ -512,20 +626,26 @@
 {
 "Name": "Bishwa jaker Manjil",
 "PostCode": "7822",
+"Location": {
 "Latitude": 23.4224,
 "Longitude": 89.8067
+}
 },
 {
 "Name": "Hat Krishapur",
 "PostCode": "7821",
+"Location": {
 "Latitude": 23.4224,
 "Longitude": 89.8067
+}
 },
 {
 "Name": "Sadarpur",
 "PostCode": "7820",
+"Location": {
 "Latitude": 23.4224,
 "Longitude": 89.8067
+}
 }
 ]
 },
@@ -535,8 +655,10 @@
 {
 "Name": "Bhanga",
 "PostCode": "7830",
+"Location": {
 "Latitude": 23.3919,
 "Longitude": 89.9839
+}
 }
 ],
 "PostCode": "7830"
@@ -547,14 +669,18 @@
 {
 "Name": "Nagarkanda",
 "PostCode": "7840",
+"Location": {
 "Latitude": 23.4888,
 "Longitude": 89.8771
+}
 },
 {
 "Name": "Talma",
 "PostCode": "7841",
+"Location": {
 "Latitude": 23.4888,
 "Longitude": 89.8771
+}
 }
 ]
 },
@@ -564,14 +690,18 @@
 {
 "Name": "Kamarkali",
 "PostCode": "7851",
+"Location": {
 "Latitude": 23.4224,
 "Longitude": 89.8067
+}
 },
 {
 "Name": "Madukhali",
 "PostCode": "7850",
+"Location": {
 "Latitude": 23.4224,
 "Longitude": 89.8067
+}
 }
 ]
 },
@@ -581,14 +711,18 @@
 {
 "Name": "Boalmari",
 "PostCode": "7860",
+"Location": {
 "Latitude": 23.3921,
 "Longitude": 89.6831
+}
 },
 {
 "Name": "Rupatpat",
 "PostCode": "7861",
+"Location": {
 "Latitude": 23.3921,
 "Longitude": 89.6831
+}
 }
 ]
 },
@@ -598,8 +732,10 @@
 {
 "Name": "Alfadanga",
 "PostCode": "7870",
+"Location": {
 "Latitude": 23.289,
 "Longitude": 89.706
+}
 }
 ],
 "PostCode": "7870"
@@ -616,32 +752,42 @@
 {
 "Name": "B.O.F",
 "PostCode": "1703",
+"Location": {
 "Latitude": 23.9874,
 "Longitude": 90.4052
+}
 },
 {
 "Name": "B.R.R",
 "PostCode": "1701",
+"Location": {
 "Latitude": 23.9874,
 "Longitude": 90.4052
+}
 },
 {
 "Name": "Chandna",
 "PostCode": "1702",
+"Location": {
 "Latitude": 23.9874,
 "Longitude": 90.4052
+}
 },
 {
 "Name": "Gazipur Sadar",
 "PostCode": "1700",
+"Location": {
 "Latitude": 23.9874,
 "Longitude": 90.4052
+}
 },
 {
 "Name": "National University",
 "PostCode": "1704",
+"Location": {
 "Latitude": 23.9874,
 "Longitude": 90.4052
+}
 }
 ]
 },
@@ -651,20 +797,26 @@
 {
 "Name": "Ershad Nagar",
 "PostCode": "1712",
+"Location": {
 "Latitude": 24.0942,
 "Longitude": 90.4858
+}
 },
 {
 "Name": "Monnunagar",
 "PostCode": "1710",
+"Location": {
 "Latitude": 24.0942,
 "Longitude": 90.4858
+}
 },
 {
 "Name": "Nishat Nagar",
 "PostCode": "1711",
+"Location": {
 "Latitude": 24.0942,
 "Longitude": 90.4858
+}
 }
 ]
 },
@@ -674,26 +826,34 @@
 {
 "Name": "Kaliganj",
 "PostCode": "1720",
+"Location": {
 "Latitude": 23.923,
 "Longitude": 90.5655
+}
 },
 {
 "Name": "Pubail",
 "PostCode": "1721",
+"Location": {
 "Latitude": 23.9387,
 "Longitude": 90.4744
+}
 },
 {
 "Name": "Santanpara",
 "PostCode": "1722",
+"Location": {
 "Latitude": 23.9193,
 "Longitude": 90.6112
+}
 },
 {
 "Name": "Vaoal Jamalpur",
 "PostCode": "1723",
+"Location": {
 "Latitude": 23.927,
 "Longitude": 90.5504
+}
 }
 ]
 },
@@ -703,8 +863,10 @@
 {
 "Name": "kapashia",
 "PostCode": "1730",
+"Location": {
 "Latitude": 24.0942,
 "Longitude": 90.4858
+}
 }
 ],
 "PostCode": "1730"
@@ -715,38 +877,50 @@
 {
 "Name": "Barmi",
 "PostCode": "1743",
+"Location": {
 "Latitude": 24.43,
 "Longitude": 90.5342
+}
 },
 {
 "Name": "Bashamur",
 "PostCode": "1747",
+"Location": {
 "Latitude": 24.43,
 "Longitude": 90.5342
+}
 },
 {
 "Name": "Boubi",
 "PostCode": "1748",
+"Location": {
 "Latitude": 24.43,
 "Longitude": 90.5342
+}
 },
 {
 "Name": "Kawraid",
 "PostCode": "1745",
+"Location": {
 "Latitude": 24.43,
 "Longitude": 90.5342
+}
 },
 {
 "Name": "Satkhamair",
 "PostCode": "1744",
+"Location": {
 "Latitude": 24.2368,
 "Longitude": 90.4903
+}
 },
 {
 "Name": "Sreepur",
 "PostCode": "1740",
+"Location": {
 "Latitude": 24.43,
 "Longitude": 90.5342
+}
 }
 ]
 },
@@ -756,14 +930,18 @@
 {
 "Name": "Rajendrapur",
 "PostCode": "1741",
+"Location": {
 "Latitude": 24.6233,
 "Longitude": 90.5782
+}
 },
 {
 "Name": "Rajendrapur Canttome",
 "PostCode": "1742",
+"Location": {
 "Latitude": 24.43,
 "Longitude": 90.5342
+}
 }
 ]
 },
@@ -773,14 +951,18 @@
 {
 "Name": "Kaliakaar",
 "PostCode": "1750",
+"Location": {
 "Latitude": 24.0311,
 "Longitude": 90.276
+}
 },
 {
 "Name": "Safipur",
 "PostCode": "1751",
+"Location": {
 "Latitude": 24.0311,
 "Longitude": 90.276
+}
 }
 ]
 }
@@ -796,26 +978,34 @@
 {
 "Name": "Barfa",
 "PostCode": "8102",
+"Location": {
 "Latitude": 23.0713,
 "Longitude": 89.8345
+}
 },
 {
 "Name": "Chandradighalia",
 "PostCode": "8013",
+"Location": {
 "Latitude": 23.2328,
 "Longitude": 90.4242
+}
 },
 {
 "Name": "Gopalganj Sadar",
 "PostCode": "8100",
+"Location": {
 "Latitude": 23.0713,
 "Longitude": 89.8345
+}
 },
 {
 "Name": "Ulpur",
 "PostCode": "8101",
+"Location": {
 "Latitude": 23.0713,
 "Longitude": 89.8345
+}
 }
 ]
 },
@@ -825,8 +1015,10 @@
 {
 "Name": "Kotalipara",
 "PostCode": "8110",
+"Location": {
 "Latitude": 23.1528,
 "Longitude": 89.8974
+}
 }
 ],
 "PostCode": "8110"
@@ -837,14 +1029,18 @@
 {
 "Name": "Patgati",
 "PostCode": "8121",
+"Location": {
 "Latitude": 22.8927,
 "Longitude": 89.897
+}
 },
 {
 "Name": "Tungipara",
 "PostCode": "8120",
+"Location": {
 "Latitude": 22.8998,
 "Longitude": 89.9033
+}
 }
 ]
 },
@@ -854,26 +1050,34 @@
 {
 "Name": "Jonapur",
 "PostCode": "8133",
+"Location": {
 "Latitude": 23.2357,
 "Longitude": 89.7205
+}
 },
 {
 "Name": "Kashiani",
 "PostCode": "8130",
+"Location": {
 "Latitude": 23.2357,
 "Longitude": 89.7205
+}
 },
 {
 "Name": "Ramdia College",
 "PostCode": "8131",
+"Location": {
 "Latitude": 23.2357,
 "Longitude": 89.7205
+}
 },
 {
 "Name": "Ratoil",
 "PostCode": "8132",
+"Location": {
 "Latitude": 23.2357,
 "Longitude": 89.7205
+}
 }
 ]
 },
@@ -883,20 +1087,26 @@
 {
 "Name": "Batkiamari",
 "PostCode": "8141",
+"Location": {
 "Latitude": 23.4086,
 "Longitude": 90.0145
+}
 },
 {
 "Name": "Khandarpara",
 "PostCode": "8142",
+"Location": {
 "Latitude": 23.2667,
 "Longitude": 89.8667
+}
 },
 {
 "Name": "Maksudpur",
 "PostCode": "8140",
+"Location": {
 "Latitude": 23.5506,
 "Longitude": 90.1623
+}
 }
 ]
 }
@@ -912,20 +1122,26 @@
 {
 "Name": "Jamalpur",
 "PostCode": "2000",
+"Location": {
 "Latitude": 24.9197,
 "Longitude": 89.9481
+}
 },
 {
 "Name": "Nandina",
 "PostCode": "2001",
+"Location": {
 "Latitude": 24.8672,
 "Longitude": 90.0332
+}
 },
 {
 "Name": "Narundi",
 "PostCode": "2002",
+"Location": {
 "Latitude": 24.8529,
 "Longitude": 90.1331
+}
 }
 ]
 },
@@ -935,26 +1151,34 @@
 {
 "Name": "Jamalpur",
 "PostCode": "2011",
+"Location": {
 "Latitude": 24.9197,
 "Longitude": 89.9481
+}
 },
 {
 "Name": "Mahmoodpur",
 "PostCode": "2013",
+"Location": {
 "Latitude": 23.5812,
 "Longitude": 89.8392
+}
 },
 {
 "Name": "Malancha",
 "PostCode": "2012",
+"Location": {
 "Latitude": 23.9833,
 "Longitude": 90.2
+}
 },
 {
 "Name": "Malandah",
 "PostCode": "2010",
+"Location": {
 "Latitude": 24.1614,
 "Longitude": 89.9958
+}
 }
 ]
 },
@@ -964,20 +1188,26 @@
 {
 "Name": "Durmoot",
 "PostCode": "2021",
+"Location": {
 "Latitude": 24.7913,
 "Longitude": 89.9275
+}
 },
 {
 "Name": "Gilabari",
 "PostCode": "2022",
+"Location": {
 "Latitude": 24.5017,
 "Longitude": 90.0603
+}
 },
 {
 "Name": "Islampur",
 "PostCode": "2020",
+"Location": {
 "Latitude": 25.0808,
 "Longitude": 89.7947
+}
 }
 ]
 },
@@ -987,14 +1217,18 @@
 {
 "Name": "Dewangonj",
 "PostCode": "2030",
+"Location": {
 "Latitude": 25.1424,
 "Longitude": 89.7622
+}
 },
 {
 "Name": "Dewangonj S. Mills",
 "PostCode": "2031",
+"Location": {
 "Latitude": 25.1424,
 "Longitude": 89.7622
+}
 }
 ]
 },
@@ -1004,14 +1238,18 @@
 {
 "Name": "Balijhuri",
 "PostCode": "2041",
+"Location": {
 "Latitude": 24.6626,
 "Longitude": 89.9378
+}
 },
 {
 "Name": "Mathargonj",
 "PostCode": "2040",
+"Location": {
 "Latitude": 24.6626,
 "Longitude": 89.9378
+}
 }
 ]
 },
@@ -1021,38 +1259,50 @@
 {
 "Name": "Bausee",
 "PostCode": "2052",
+"Location": {
 "Latitude": 24.7199,
 "Longitude": 89.7987
+}
 },
 {
 "Name": "Gunerbari",
 "PostCode": "2051",
+"Location": {
 "Latitude": 24.8247,
 "Longitude": 89.7894
+}
 },
 {
 "Name": "Jagannath Ghat",
 "PostCode": "2053",
+"Location": {
 "Latitude": 24.7199,
 "Longitude": 89.7987
+}
 },
 {
 "Name": "Jamuna Sar Karkhana",
 "PostCode": "2055",
+"Location": {
 "Latitude": 24.7199,
 "Longitude": 89.7987
+}
 },
 {
 "Name": "Pingna",
 "PostCode": "2054",
+"Location": {
 "Latitude": 24.6151,
 "Longitude": 89.808
+}
 },
 {
 "Name": "Shorishabari",
 "PostCode": "2050",
+"Location": {
 "Latitude": 24.7199,
 "Longitude": 89.7987
+}
 }
 ]
 }
@@ -1068,26 +1318,34 @@
 {
 "Name": "Kishoreganj S.Mills",
 "PostCode": "2301",
+"Location": {
 "Latitude": 24.3394,
 "Longitude": 90.7603
+}
 },
 {
 "Name": "Kishoreganj Sadar",
 "PostCode": "2300",
+"Location": {
 "Latitude": 24.3394,
 "Longitude": 90.7603
+}
 },
 {
 "Name": "Maizhati",
 "PostCode": "2302",
+"Location": {
 "Latitude": 24.3394,
 "Longitude": 90.7603
+}
 },
 {
 "Name": "Nilganj",
 "PostCode": "2303",
+"Location": {
 "Latitude": 24.3394,
 "Longitude": 90.7603
+}
 }
 ]
 },
@@ -1097,8 +1355,10 @@
 {
 "Name": "Karimganj",
 "PostCode": "2310",
+"Location": {
 "Latitude": 24.4678,
 "Longitude": 90.8705
+}
 }
 ],
 "PostCode": "2310"
@@ -1109,8 +1369,10 @@
 {
 "Name": "Tarial",
 "PostCode": "2316",
+"Location": {
 "Latitude": 24.4678,
 "Longitude": 90.8705
+}
 }
 ],
 "PostCode": "2316"
@@ -1121,8 +1383,10 @@
 {
 "Name": "Hossenpur",
 "PostCode": "2320",
+"Location": {
 "Latitude": 24.3491,
 "Longitude": 90.9571
+}
 }
 ],
 "PostCode": "2320"
@@ -1133,8 +1397,10 @@
 {
 "Name": "Pakundia",
 "PostCode": "2326",
+"Location": {
 "Latitude": 24.3491,
 "Longitude": 90.9571
+}
 }
 ],
 "PostCode": "2326"
@@ -1145,14 +1411,18 @@
 {
 "Name": "Gochhihata",
 "PostCode": "2331",
+"Location": {
 "Latitude": 24.2162,
 "Longitude": 90.95
+}
 },
 {
 "Name": "Katiadi",
 "PostCode": "2330",
+"Location": {
 "Latitude": 24.2162,
 "Longitude": 90.95
+}
 }
 ]
 },
@@ -1162,20 +1432,26 @@
 {
 "Name": "Bajitpur",
 "PostCode": "2336",
+"Location": {
 "Latitude": 24.2162,
 "Longitude": 90.95
+}
 },
 {
 "Name": "Laksmipur",
 "PostCode": "2338",
+"Location": {
 "Latitude": 24.2162,
 "Longitude": 90.95
+}
 },
 {
 "Name": "Sararchar",
 "PostCode": "2337",
+"Location": {
 "Latitude": 24.2162,
 "Longitude": 90.95
+}
 }
 ]
 },
@@ -1185,14 +1461,18 @@
 {
 "Name": "Chhoysuti",
 "PostCode": "2341",
+"Location": {
 "Latitude": 24.155,
 "Longitude": 90.9
+}
 },
 {
 "Name": "Kuliarchar",
 "PostCode": "2340",
+"Location": {
 "Latitude": 24.155,
 "Longitude": 90.9
+}
 }
 ]
 },
@@ -1202,8 +1482,10 @@
 {
 "Name": "Bhairab",
 "PostCode": "2350",
+"Location": {
 "Latitude": 24.3491,
 "Longitude": 90.9571
+}
 }
 ],
 "PostCode": "2350"
@@ -1214,8 +1496,10 @@
 {
 "Name": "Nikli",
 "PostCode": "2360",
+"Location": {
 "Latitude": 24.3491,
 "Longitude": 90.9571
+}
 }
 ],
 "PostCode": "2360"
@@ -1226,14 +1510,18 @@
 {
 "Name": "Abdullahpur",
 "PostCode": "2371",
+"Location": {
 "Latitude": 24.3895,
 "Longitude": 91.1657
+}
 },
 {
 "Name": "MIthamoin",
 "PostCode": "2370",
+"Location": {
 "Latitude": 24.3895,
 "Longitude": 91.1657
+}
 }
 ]
 },
@@ -1243,8 +1531,10 @@
 {
 "Name": "Ostagram",
 "PostCode": "2380",
+"Location": {
 "Latitude": 24.3491,
 "Longitude": 90.9571
+}
 }
 ],
 "PostCode": "2380"
@@ -1255,8 +1545,10 @@
 {
 "Name": "Itna",
 "PostCode": "2390",
+"Location": {
 "Latitude": 24.5269,
 "Longitude": 91.096
+}
 }
 ],
 "PostCode": "2390"
@@ -1273,32 +1565,42 @@
 {
 "Name": "Charmugria",
 "PostCode": "7901",
+"Location": {
 "Latitude": 23.1691,
 "Longitude": 90.2258
+}
 },
 {
 "Name": "Habiganj",
 "PostCode": "7903",
+"Location": {
 "Latitude": 23.1691,
 "Longitude": 90.2258
+}
 },
 {
 "Name": "Kulpaddi",
 "PostCode": "7902",
+"Location": {
 "Latitude": 23.1691,
 "Longitude": 90.2258
+}
 },
 {
 "Name": "Madaripur Sadar",
 "PostCode": "7900",
+"Location": {
 "Latitude": 23.1691,
 "Longitude": 90.2258
+}
 },
 {
 "Name": "Mustafapur",
 "PostCode": "7904",
+"Location": {
 "Latitude": 23.1691,
 "Longitude": 90.2258
+}
 }
 ]
 },
@@ -1308,14 +1610,18 @@
 {
 "Name": "Khalia",
 "PostCode": "7911",
+"Location": {
 "Latitude": 23.2221,
 "Longitude": 90.0013
+}
 },
 {
 "Name": "Rajoir",
 "PostCode": "7910",
+"Location": {
 "Latitude": 23.2069,
 "Longitude": 90.0505
+}
 }
 ]
 },
@@ -1325,14 +1631,18 @@
 {
 "Name": "Kalkini",
 "PostCode": "7920",
+"Location": {
 "Latitude": 23.1,
 "Longitude": 90.2667
+}
 },
 {
 "Name": "Sahabrampur",
 "PostCode": "7921",
+"Location": {
 "Latitude": 23.1,
 "Longitude": 90.2667
+}
 }
 ]
 },
@@ -1342,26 +1652,34 @@
 {
 "Name": "Bahadurpur",
 "PostCode": "7932",
+"Location": {
 "Latitude": 23.2365,
 "Longitude": 90.1424
+}
 },
 {
 "Name": "Barhamganj",
 "PostCode": "7930",
+"Location": {
 "Latitude": 23.2786,
 "Longitude": 90.1741
+}
 },
 {
 "Name": "Nilaksmibandar",
 "PostCode": "7931",
+"Location": {
 "Latitude": 23.2786,
 "Longitude": 90.1741
+}
 },
 {
 "Name": "Umedpur",
 "PostCode": "7933",
+"Location": {
 "Latitude": 23.3208,
 "Longitude": 90.2057
+}
 }
 ]
 }
@@ -1377,32 +1695,42 @@
 {
 "Name": "Barangail",
 "PostCode": "1804",
+"Location": {
 "Latitude": 23.8447,
 "Longitude": 89.8631
+}
 },
 {
 "Name": "Gorpara",
 "PostCode": "1802",
+"Location": {
 "Latitude": 23.8473,
 "Longitude": 89.8707
+}
 },
 {
 "Name": "Mahadebpur",
 "PostCode": "1803",
+"Location": {
 "Latitude": 23.8499,
 "Longitude": 89.8783
+}
 },
 {
 "Name": "Manikganj Bazar",
 "PostCode": "1801",
+"Location": {
 "Latitude": 23.8473,
 "Longitude": 89.8707
+}
 },
 {
 "Name": "Manikganj Sadar",
 "PostCode": "1800",
+"Location": {
 "Latitude": 23.8473,
 "Longitude": 89.8707
+}
 }
 ]
 },
@@ -1412,14 +1740,18 @@
 {
 "Name": "Baliati",
 "PostCode": "1811",
+"Location": {
 "Latitude": 23.9939,
 "Longitude": 90.0404
+}
 },
 {
 "Name": "Saturia",
 "PostCode": "1810",
+"Location": {
 "Latitude": 23.8863,
 "Longitude": 89.7719
+}
 }
 ]
 },
@@ -1429,20 +1761,26 @@
 {
 "Name": "Baira",
 "PostCode": "1821",
+"Location": {
 "Latitude": 23.8206,
 "Longitude": 90.0727
+}
 },
 {
 "Name": "joymantop",
 "PostCode": "1822",
+"Location": {
 "Latitude": 23.8167,
 "Longitude": 90.1078
+}
 },
 {
 "Name": "Singair",
 "PostCode": "1820",
+"Location": {
 "Latitude": 23.8129,
 "Longitude": 90.1428
+}
 }
 ]
 },
@@ -1452,14 +1790,18 @@
 {
 "Name": "Jhitka",
 "PostCode": "1831",
+"Location": {
 "Latitude": 23.8609,
 "Longitude": 89.9366
+}
 },
 {
 "Name": "Lechhraganj",
 "PostCode": "1830",
+"Location": {
 "Latitude": 23.8609,
 "Longitude": 89.9366
+}
 }
 ]
 },
@@ -1469,8 +1811,10 @@
 {
 "Name": "Gheor",
 "PostCode": "1840",
+"Location": {
 "Latitude": 23.8609,
 "Longitude": 89.9366
+}
 }
 ],
 "PostCode": "1840"
@@ -1481,26 +1825,34 @@
 {
 "Name": "Aricha",
 "PostCode": "1851",
+"Location": {
 "Latitude": 23.8178,
 "Longitude": 89.7866
+}
 },
 {
 "Name": "Shibaloy",
 "PostCode": "1850",
+"Location": {
 "Latitude": 23.8178,
 "Longitude": 89.7866
+}
 },
 {
 "Name": "Tewta",
 "PostCode": "1852",
+"Location": {
 "Latitude": 23.8178,
 "Longitude": 89.7866
+}
 },
 {
 "Name": "Uthli",
 "PostCode": "1853",
+"Location": {
 "Latitude": 23.8178,
 "Longitude": 89.7866
+}
 }
 ]
 },
@@ -1510,8 +1862,10 @@
 {
 "Name": "Doulatpur",
 "PostCode": "1860",
+"Location": {
 "Latitude": 23.8609,
 "Longitude": 89.9366
+}
 }
 ],
 "PostCode": "1860"
@@ -1528,56 +1882,74 @@
 {
 "Name": "Gouragonj",
 "PostCode": "1334",
+"Location": {
 "Latitude": 23.5412,
 "Longitude": 90.2538
+}
 },
 {
 "Name": "Gouragonj",
 "PostCode": "1534",
+"Location": {
 "Latitude": 23.45,
 "Longitude": 90.325
+}
 },
 {
 "Name": "Haldia SO",
 "PostCode": "1532",
+"Location": {
 "Latitude": 23.45,
 "Longitude": 90.325
+}
 },
 {
 "Name": "Haridia",
 "PostCode": "1333",
+"Location": {
 "Latitude": 23.4608,
 "Longitude": 90.3835
+}
 },
 {
 "Name": "Haridia DESO",
 "PostCode": "1533",
+"Location": {
 "Latitude": 23.45,
 "Longitude": 90.325
+}
 },
 {
 "Name": "Korhati",
 "PostCode": "1531",
+"Location": {
 "Latitude": 23.45,
 "Longitude": 90.3
+}
 },
 {
 "Name": "Lohajang",
 "PostCode": "1530",
+"Location": {
 "Latitude": 23.45,
 "Longitude": 90.35
+}
 },
 {
 "Name": "Madini Mandal",
 "PostCode": "1335",
+"Location": {
 "Latitude": 23.5412,
 "Longitude": 90.2538
+}
 },
 {
 "Name": "Medini Mandal EDSO",
 "PostCode": "1535",
+"Location": {
 "Latitude": 23.45,
 "Longitude": 90.325
+}
 }
 ]
 },
@@ -1587,26 +1959,34 @@
 {
 "Name": "Kathakhali",
 "PostCode": "1503",
+"Location": {
 "Latitude": 23.55,
 "Longitude": 90.4167
+}
 },
 {
 "Name": "Mirkadim",
 "PostCode": "1502",
+"Location": {
 "Latitude": 23.55,
 "Longitude": 90.4167
+}
 },
 {
 "Name": "Munshiganj Sadar",
 "PostCode": "1500",
+"Location": {
 "Latitude": 23.55,
 "Longitude": 90.4167
+}
 },
 {
 "Name": "Rikabibazar",
 "PostCode": "1501",
+"Location": {
 "Latitude": 23.55,
 "Longitude": 90.4167
+}
 }
 ]
 },
@@ -1616,20 +1996,26 @@
 {
 "Name": "Gajaria",
 "PostCode": "1510",
+"Location": {
 "Latitude": 23.8167,
 "Longitude": 90.4833
+}
 },
 {
 "Name": "Hossendi",
 "PostCode": "1511",
+"Location": {
 "Latitude": 23.675,
 "Longitude": 90.5462
+}
 },
 {
 "Name": "Rasulpur",
 "PostCode": "1512",
+"Location": {
 "Latitude": 23.5333,
 "Longitude": 90.609
+}
 }
 ]
 },
@@ -1639,50 +2025,66 @@
 {
 "Name": "Bajrajugini",
 "PostCode": "1523",
+"Location": {
 "Latitude": 23.4576,
 "Longitude": 90.4677
+}
 },
 {
 "Name": "Baligao",
 "PostCode": "1522",
+"Location": {
 "Latitude": 23.4576,
 "Longitude": 90.4677
+}
 },
 {
 "Name": "Betkahat",
 "PostCode": "1521",
+"Location": {
 "Latitude": 23.4576,
 "Longitude": 90.4677
+}
 },
 {
 "Name": "Dighirpar",
 "PostCode": "1525",
+"Location": {
 "Latitude": 23.4249,
 "Longitude": 90.4848
+}
 },
 {
 "Name": "Hasail",
 "PostCode": "1524",
+"Location": {
 "Latitude": 23.4354,
 "Longitude": 90.452
+}
 },
 {
 "Name": "Pura",
 "PostCode": "1527",
+"Location": {
 "Latitude": 23.4576,
 "Longitude": 90.4677
+}
 },
 {
 "Name": "Pura EDSO",
 "PostCode": "1526",
+"Location": {
 "Latitude": 23.4576,
 "Longitude": 90.4677
+}
 },
 {
 "Name": "Tangibari",
 "PostCode": "1520",
+"Location": {
 "Latitude": 23.5126,
 "Longitude": 90.4664
+}
 }
 ]
 },
@@ -1692,32 +2094,42 @@
 {
 "Name": "Ichapur",
 "PostCode": "1542",
+"Location": {
 "Latitude": 23.5604,
 "Longitude": 90.3444
+}
 },
 {
 "Name": "Kola",
 "PostCode": "1541",
+"Location": {
 "Latitude": 23.5604,
 "Longitude": 90.3444
+}
 },
 {
 "Name": "Malkha Nagar",
 "PostCode": "1543",
+"Location": {
 "Latitude": 23.5604,
 "Longitude": 90.3444
+}
 },
 {
 "Name": "Shekher Nagar",
 "PostCode": "1544",
+"Location": {
 "Latitude": 23.5604,
 "Longitude": 90.3444
+}
 },
 {
 "Name": "Sirajdikhan",
 "PostCode": "1540",
+"Location": {
 "Latitude": 23.5604,
 "Longitude": 90.3444
+}
 }
 ]
 },
@@ -1727,56 +2139,74 @@
 {
 "Name": "Baghra",
 "PostCode": "1557",
+"Location": {
 "Latitude": 23.5364,
 "Longitude": 90.1919
+}
 },
 {
 "Name": "Barikhal",
 "PostCode": "1551",
+"Location": {
 "Latitude": 23.5284,
 "Longitude": 90.3663
+}
 },
 {
 "Name": "Bhaggyakul",
 "PostCode": "1558",
+"Location": {
 "Latitude": 23.5284,
 "Longitude": 90.3663
+}
 },
 {
 "Name": "Hashara",
 "PostCode": "1553",
+"Location": {
 "Latitude": 23.5284,
 "Longitude": 90.3663
+}
 },
 {
 "Name": "Kolapara",
 "PostCode": "1554",
+"Location": {
 "Latitude": 23.4988,
 "Longitude": 90.2571
+}
 },
 {
 "Name": "Kumarbhog",
 "PostCode": "1555",
+"Location": {
 "Latitude": 23.5284,
 "Longitude": 90.3663
+}
 },
 {
 "Name": "Mazpara",
 "PostCode": "1552",
+"Location": {
 "Latitude": 23.5284,
 "Longitude": 90.3663
+}
 },
 {
 "Name": "Srinagar",
 "PostCode": "1550",
+"Location": {
 "Latitude": 23.55,
 "Longitude": 90.65
+}
 },
 {
 "Name": "Vaggyakul SO",
 "PostCode": "1556",
+"Location": {
 "Latitude": 23.5284,
 "Longitude": 90.3663
+}
 }
 ]
 }
@@ -1792,38 +2222,50 @@
 {
 "Name": "Agriculture Universi",
 "PostCode": "2202",
+"Location": {
 "Latitude": 24.7192,
 "Longitude": 90.6501
+}
 },
 {
 "Name": "Biddyaganj",
 "PostCode": "2204",
+"Location": {
 "Latitude": 24.7192,
 "Longitude": 90.6501
+}
 },
 {
 "Name": "Kawatkhali",
 "PostCode": "2201",
+"Location": {
 "Latitude": 24.7192,
 "Longitude": 90.6501
+}
 },
 {
 "Name": "Mymensingh Sadar",
 "PostCode": "2200",
+"Location": {
 "Latitude": 24.7192,
 "Longitude": 90.6501
+}
 },
 {
 "Name": "Pearpur",
 "PostCode": "2205",
+"Location": {
 "Latitude": 24.7192,
 "Longitude": 90.6501
+}
 },
 {
 "Name": "Shombhuganj",
 "PostCode": "2203",
+"Location": {
 "Latitude": 24.7192,
 "Longitude": 90.6501
+}
 }
 ]
 },
@@ -1833,8 +2275,10 @@
 {
 "Name": "Muktagachha",
 "PostCode": "2210",
+"Location": {
 "Latitude": 24.7648,
 "Longitude": 90.257
+}
 }
 ],
 "PostCode": "2210"
@@ -1845,8 +2289,10 @@
 {
 "Name": "Fulbaria",
 "PostCode": "2216",
+"Location": {
 "Latitude": 24.6323,
 "Longitude": 90.269
+}
 }
 ],
 "PostCode": "2216"
@@ -1857,26 +2303,34 @@
 {
 "Name": "Ahmadbad",
 "PostCode": "2221",
+"Location": {
 "Latitude": 24.5571,
 "Longitude": 90.4455
+}
 },
 {
 "Name": "Dhala",
 "PostCode": "2223",
+"Location": {
 "Latitude": 24.5324,
 "Longitude": 90.4961
+}
 },
 {
 "Name": "Ram Amritaganj",
 "PostCode": "2222",
+"Location": {
 "Latitude": 24.5571,
 "Longitude": 90.4455
+}
 },
 {
 "Name": "Trishal",
 "PostCode": "2220",
+"Location": {
 "Latitude": 24.5817,
 "Longitude": 90.3948
+}
 }
 ]
 },
@@ -1886,32 +2340,42 @@
 {
 "Name": "Duttarbazar",
 "PostCode": "2234",
+"Location": {
 "Latitude": 24.3738,
 "Longitude": 90.5918
+}
 },
 {
 "Name": "Gaforgaon",
 "PostCode": "2230",
+"Location": {
 "Latitude": 24.3738,
 "Longitude": 90.5918
+}
 },
 {
 "Name": "Kandipara",
 "PostCode": "2233",
+"Location": {
 "Latitude": 24.3738,
 "Longitude": 90.5918
+}
 },
 {
 "Name": "Shibganj",
 "PostCode": "2231",
+"Location": {
 "Latitude": 24.3738,
 "Longitude": 90.5918
+}
 },
 {
 "Name": "Usti",
 "PostCode": "2232",
+"Location": {
 "Latitude": 24.3738,
 "Longitude": 90.5918
+}
 }
 ]
 },
@@ -1921,8 +2385,10 @@
 {
 "Name": "Bhaluka",
 "PostCode": "2240",
+"Location": {
 "Latitude": 24.4048,
 "Longitude": 90.3862
+}
 }
 ],
 "PostCode": "2240"
@@ -1933,20 +2399,26 @@
 {
 "Name": "Beltia",
 "PostCode": "2251",
+"Location": {
 "Latitude": 24.9778,
 "Longitude": 90.4448
+}
 },
 {
 "Name": "Phulpur",
 "PostCode": "2250",
+"Location": {
 "Latitude": 24.9608,
 "Longitude": 90.4552
+}
 },
 {
 "Name": "Tarakanda",
 "PostCode": "2252",
+"Location": {
 "Latitude": 24.9439,
 "Longitude": 90.4655
+}
 }
 ]
 },
@@ -1956,20 +2428,26 @@
 {
 "Name": "Dhara",
 "PostCode": "2261",
+"Location": {
 "Latitude": 25.0581,
 "Longitude": 90.3375
+}
 },
 {
 "Name": "Haluaghat",
 "PostCode": "2260",
+"Location": {
 "Latitude": 25.1171,
 "Longitude": 90.3365
+}
 },
 {
 "Name": "Munshirhat",
 "PostCode": "2262",
+"Location": {
 "Latitude": 25.0876,
 "Longitude": 90.337
+}
 }
 ]
 },
@@ -1979,14 +2457,18 @@
 {
 "Name": "Gouripur",
 "PostCode": "2270",
+"Location": {
 "Latitude": 24.7597,
 "Longitude": 90.5684
+}
 },
 {
 "Name": "Ramgopalpur",
 "PostCode": "2271",
+"Location": {
 "Latitude": 24.7203,
 "Longitude": 90.5539
+}
 }
 ]
 },
@@ -1996,20 +2478,26 @@
 {
 "Name": "Atharabari",
 "PostCode": "2282",
+"Location": {
 "Latitude": 24.6266,
 "Longitude": 90.7166
+}
 },
 {
 "Name": "Isshwargonj",
 "PostCode": "2280",
+"Location": {
 "Latitude": 24.6629,
 "Longitude": 90.6912
+}
 },
 {
 "Name": "Sohagi",
 "PostCode": "2281",
+"Location": {
 "Latitude": 24.6992,
 "Longitude": 90.6658
+}
 }
 ]
 },
@@ -2019,14 +2507,18 @@
 {
 "Name": "Gangail",
 "PostCode": "2291",
+"Location": {
 "Latitude": 24.5832,
 "Longitude": 90.7609
+}
 },
 {
 "Name": "Nandail",
 "PostCode": "2290",
+"Location": {
 "Latitude": 24.569,
 "Longitude": 90.6901
+}
 }
 ]
 }
@@ -2042,8 +2534,10 @@
 {
 "Name": "Narayanganj Sadar",
 "PostCode": "1400",
+"Location": {
 "Latitude": 23.7197,
 "Longitude": 90.5634
+}
 }
 ],
 "PostCode": "1400"
@@ -2054,32 +2548,42 @@
 {
 "Name": "Bandar",
 "PostCode": "1410",
+"Location": {
 "Latitude": 23.6173,
 "Longitude": 90.5283
+}
 },
 {
 "Name": "BIDS",
 "PostCode": "1413",
+"Location": {
 "Latitude": 23.6106,
 "Longitude": 90.5234
+}
 },
 {
 "Name": "D.C Mills",
 "PostCode": "1411",
+"Location": {
 "Latitude": 23.6106,
 "Longitude": 90.5234
+}
 },
 {
 "Name": "Madanganj",
 "PostCode": "1414",
+"Location": {
 "Latitude": 23.5858,
 "Longitude": 90.522
+}
 },
 {
 "Name": "Nabiganj",
 "PostCode": "1412",
+"Location": {
 "Latitude": 23.6286,
 "Longitude": 90.5197
+}
 }
 ]
 },
@@ -2089,14 +2593,18 @@
 {
 "Name": "Fatulla Bazar",
 "PostCode": "1421",
+"Location": {
 "Latitude": 23.65,
 "Longitude": 90.49
+}
 },
 {
 "Name": "Fatullah",
 "PostCode": "1420",
+"Location": {
 "Latitude": 23.65,
 "Longitude": 90.49
+}
 }
 ]
 },
@@ -2106,20 +2614,26 @@
 {
 "Name": "Adamjeenagar",
 "PostCode": "1431",
+"Location": {
 "Latitude": 23.7197,
 "Longitude": 90.5634
+}
 },
 {
 "Name": "LN Mills",
 "PostCode": "1432",
+"Location": {
 "Latitude": 23.7197,
 "Longitude": 90.5634
+}
 },
 {
 "Name": "Siddirganj",
 "PostCode": "1430",
+"Location": {
 "Latitude": 23.7197,
 "Longitude": 90.5634
+}
 }
 ]
 },
@@ -2129,20 +2643,26 @@
 {
 "Name": "Baidder Bazar",
 "PostCode": "1440",
+"Location": {
 "Latitude": 23.7197,
 "Longitude": 90.5634
+}
 },
 {
 "Name": "Bara Nagar",
 "PostCode": "1441",
+"Location": {
 "Latitude": 23.7197,
 "Longitude": 90.5634
+}
 },
 {
 "Name": "Barodi",
 "PostCode": "1442",
+"Location": {
 "Latitude": 23.7197,
 "Longitude": 90.5634
+}
 }
 ]
 },
@@ -2152,14 +2672,18 @@
 {
 "Name": "Araihazar",
 "PostCode": "1450",
+"Location": {
 "Latitude": 23.7941,
 "Longitude": 90.6575
+}
 },
 {
 "Name": "Gopaldi",
 "PostCode": "1451",
+"Location": {
 "Latitude": 23.8057,
 "Longitude": 90.7103
+}
 }
 ]
 },
@@ -2169,32 +2693,42 @@
 {
 "Name": "Bhulta",
 "PostCode": "1462",
+"Location": {
 "Latitude": 23.7775,
 "Longitude": 90.5593
+}
 },
 {
 "Name": "Kanchan",
 "PostCode": "1461",
+"Location": {
 "Latitude": 23.831,
 "Longitude": 90.558
+}
 },
 {
 "Name": "Murapara",
 "PostCode": "1464",
+"Location": {
 "Latitude": 23.7871,
 "Longitude": 90.5252
+}
 },
 {
 "Name": "Nagri",
 "PostCode": "1463",
+"Location": {
 "Latitude": 23.7986,
 "Longitude": 90.5475
+}
 },
 {
 "Name": "Rupganj",
 "PostCode": "1460",
+"Location": {
 "Latitude": 23.7986,
 "Longitude": 90.5475
+}
 }
 ]
 }
@@ -2210,38 +2744,50 @@
 {
 "Name": "Karimpur",
 "PostCode": "1605",
+"Location": {
 "Latitude": 23.8874,
 "Longitude": 90.7442
+}
 },
 {
 "Name": "Madhabdi",
 "PostCode": "1604",
+"Location": {
 "Latitude": 23.999,
 "Longitude": 90.6925
+}
 },
 {
 "Name": "Narshingdi College",
 "PostCode": "1602",
+"Location": {
 "Latitude": 23.9282,
 "Longitude": 90.6994
+}
 },
 {
 "Name": "Narshingdi Sadar",
 "PostCode": "1600",
+"Location": {
 "Latitude": 23.9282,
 "Longitude": 90.6994
+}
 },
 {
 "Name": "Panchdona",
 "PostCode": "1603",
+"Location": {
 "Latitude": 23.8983,
 "Longitude": 90.6615
+}
 },
 {
 "Name": "UMC Jute Mills",
 "PostCode": "1601",
+"Location": {
 "Latitude": 23.9282,
 "Longitude": 90.6994
+}
 }
 ]
 },
@@ -2251,26 +2797,34 @@
 {
 "Name": "Char Sindhur",
 "PostCode": "1612",
+"Location": {
 "Latitude": 23.9456,
 "Longitude": 90.6277
+}
 },
 {
 "Name": "Ghorashal",
 "PostCode": "1613",
+"Location": {
 "Latitude": 23.9413,
 "Longitude": 90.6304
+}
 },
 {
 "Name": "Ghorashal Urea Facto",
 "PostCode": "1611",
+"Location": {
 "Latitude": 23.9456,
 "Longitude": 90.6277
+}
 },
 {
 "Name": "Palash",
 "PostCode": "1610",
+"Location": {
 "Latitude": 23.95,
 "Longitude": 90.625
+}
 }
 ]
 },
@@ -2280,8 +2834,10 @@
 {
 "Name": "Shibpur",
 "PostCode": "1620",
+"Location": {
 "Latitude": 24.0394,
 "Longitude": 90.7392
+}
 }
 ],
 "PostCode": "1620"
@@ -2292,20 +2848,26 @@
 {
 "Name": "Bazar Hasnabad",
 "PostCode": "1631",
+"Location": {
 "Latitude": 24.0186,
 "Longitude": 90.7129
+}
 },
 {
 "Name": "Radhaganj bazar",
 "PostCode": "1632",
+"Location": {
 "Latitude": 24.0186,
 "Longitude": 90.7129
+}
 },
 {
 "Name": "Raypura",
 "PostCode": "1630",
+"Location": {
 "Latitude": 24.0186,
 "Longitude": 90.7129
+}
 }
 ]
 },
@@ -2315,8 +2877,10 @@
 {
 "Name": "Belabo",
 "PostCode": "1640",
+"Location": {
 "Latitude": 24.1035,
 "Longitude": 90.8458
+}
 }
 ],
 "PostCode": "1640"
@@ -2327,20 +2891,26 @@
 {
 "Name": "Hatirdia",
 "PostCode": "1651",
+"Location": {
 "Latitude": 24.1007,
 "Longitude": 90.703
+}
 },
 {
 "Name": "Katabaria",
 "PostCode": "1652",
+"Location": {
 "Latitude": 24.1508,
 "Longitude": 90.7608
+}
 },
 {
 "Name": "Monohordi",
 "PostCode": "1650",
+"Location": {
 "Latitude": 24.1155,
 "Longitude": 90.7271
+}
 }
 ]
 }
@@ -2356,14 +2926,18 @@
 {
 "Name": "Baikherhati",
 "PostCode": "2401",
+"Location": {
 "Latitude": 24.8644,
 "Longitude": 90.8339
+}
 },
 {
 "Name": "Netrakona Sadar",
 "PostCode": "2400",
+"Location": {
 "Latitude": 24.8644,
 "Longitude": 90.8339
+}
 }
 ]
 },
@@ -2373,20 +2947,26 @@
 {
 "Name": "Jaria Jhanjhail",
 "PostCode": "2412",
+"Location": {
 "Latitude": 25.0867,
 "Longitude": 90.5119
+}
 },
 {
 "Name": "Purbadhola",
 "PostCode": "2410",
+"Location": {
 "Latitude": 25.0867,
 "Longitude": 90.5119
+}
 },
 {
 "Name": "Shamgonj",
 "PostCode": "2411",
+"Location": {
 "Latitude": 25.0867,
 "Longitude": 90.5119
+}
 }
 ]
 },
@@ -2396,14 +2976,18 @@
 {
 "Name": "Dhobaura",
 "PostCode": "2416",
+"Location": {
 "Latitude": 25.0867,
 "Longitude": 90.5119
+}
 },
 {
 "Name": "Sakoai",
 "PostCode": "2417",
+"Location": {
 "Latitude": 25.0867,
 "Longitude": 90.5119
+}
 }
 ]
 },
@@ -2413,8 +2997,10 @@
 {
 "Name": "Susnng Durgapur",
 "PostCode": "2420",
+"Location": {
 "Latitude": 24.8644,
 "Longitude": 90.8339
+}
 }
 ],
 "PostCode": "2420"
@@ -2425,8 +3011,10 @@
 {
 "Name": "Kalmakanda",
 "PostCode": "2430",
+"Location": {
 "Latitude": 25.0011,
 "Longitude": 90.8077
+}
 }
 ],
 "PostCode": "2430"
@@ -2437,8 +3025,10 @@
 {
 "Name": "Barhatta",
 "PostCode": "2440",
+"Location": {
 "Latitude": 24.8984,
 "Longitude": 90.8865
+}
 }
 ],
 "PostCode": "2440"
@@ -2449,8 +3039,10 @@
 {
 "Name": "Mohanganj",
 "PostCode": "2446",
+"Location": {
 "Latitude": 24.8756,
 "Longitude": 90.9777
+}
 }
 ],
 "PostCode": "2446"
@@ -2461,8 +3053,10 @@
 {
 "Name": "Dharampasha",
 "PostCode": "2450",
+"Location": {
 "Latitude": 24.8644,
 "Longitude": 90.8339
+}
 }
 ],
 "PostCode": "2450"
@@ -2473,8 +3067,10 @@
 {
 "Name": "Moddoynagar",
 "PostCode": "2456",
+"Location": {
 "Latitude": 24.8644,
 "Longitude": 90.8339
+}
 }
 ],
 "PostCode": "2456"
@@ -2485,14 +3081,18 @@
 {
 "Name": "Khaliajhri",
 "PostCode": "2460",
+"Location": {
 "Latitude": 24.8644,
 "Longitude": 90.8339
+}
 },
 {
 "Name": "Shaldigha",
 "PostCode": "2462",
+"Location": {
 "Latitude": 24.8644,
 "Longitude": 90.8339
+}
 }
 ]
 },
@@ -2502,8 +3102,10 @@
 {
 "Name": "Atpara",
 "PostCode": "2470",
+"Location": {
 "Latitude": 24.8112,
 "Longitude": 90.8616
+}
 }
 ],
 "PostCode": "2470"
@@ -2514,8 +3116,10 @@
 {
 "Name": "Kendua",
 "PostCode": "2480",
+"Location": {
 "Latitude": 24.6621,
 "Longitude": 90.843
+}
 }
 ],
 "PostCode": "2480"
@@ -2526,8 +3130,10 @@
 {
 "Name": "Madan",
 "PostCode": "2490",
+"Location": {
 "Latitude": 24.7158,
 "Longitude": 90.9489
+}
 }
 ],
 "PostCode": "2490"
@@ -2544,20 +3150,26 @@
 {
 "Name": "Goalanda",
 "PostCode": "7710",
+"Location": {
 "Latitude": 23.7241,
 "Longitude": 89.765
+}
 },
 {
 "Name": "Khankhanapur",
 "PostCode": "7711",
+"Location": {
 "Latitude": 23.6924,
 "Longitude": 89.7064
+}
 },
 {
 "Name": "Rajbari Sadar",
 "PostCode": "7700",
+"Location": {
 "Latitude": 23.7187,
 "Longitude": 89.6105
+}
 }
 ]
 },
@@ -2567,26 +3179,34 @@
 {
 "Name": "Mrigibazar",
 "PostCode": "7723",
+"Location": {
 "Latitude": 23.7808,
 "Longitude": 89.4246
+}
 },
 {
 "Name": "Pangsha",
 "PostCode": "7720",
+"Location": {
 "Latitude": 23.7808,
 "Longitude": 89.4246
+}
 },
 {
 "Name": "Ramkol",
 "PostCode": "7721",
+"Location": {
 "Latitude": 23.7968,
 "Longitude": 89.3513
+}
 },
 {
 "Name": "Ratandia",
 "PostCode": "7722",
+"Location": {
 "Latitude": 23.7648,
 "Longitude": 89.4978
+}
 }
 ]
 },
@@ -2596,14 +3216,18 @@
 {
 "Name": "Baliakandi",
 "PostCode": "7730",
+"Location": {
 "Latitude": 23.7252,
 "Longitude": 89.7201
+}
 },
 {
 "Name": "Nalia",
 "PostCode": "7731",
+"Location": {
 "Latitude": 23.6091,
 "Longitude": 89.6226
+}
 }
 ]
 }
@@ -2619,20 +3243,26 @@
 {
 "Name": "Angaria",
 "PostCode": "8001",
+"Location": {
 "Latitude": 23.2578,
 "Longitude": 90.3152
+}
 },
 {
 "Name": "Chikandi",
 "PostCode": "8002",
+"Location": {
 "Latitude": 23.2578,
 "Longitude": 90.3152
+}
 },
 {
 "Name": "Shariatpur Sadar",
 "PostCode": "8000",
+"Location": {
 "Latitude": 23.2578,
 "Longitude": 90.3152
+}
 }
 ]
 },
@@ -2642,8 +3272,10 @@
 {
 "Name": "Jajira",
 "PostCode": "8010",
+"Location": {
 "Latitude": 23.2328,
 "Longitude": 90.4242
+}
 }
 ],
 "PostCode": "8010"
@@ -2654,32 +3286,42 @@
 {
 "Name": "Bhozeshwar",
 "PostCode": "8021",
+"Location": {
 "Latitude": 23.2709,
 "Longitude": 90.453
+}
 },
 {
 "Name": "Gharisar",
 "PostCode": "8022",
+"Location": {
 "Latitude": 23.2707,
 "Longitude": 90.4776
+}
 },
 {
 "Name": "Kartikpur",
 "PostCode": "8024",
+"Location": {
 "Latitude": 23.2391,
 "Longitude": 90.4729
+}
 },
 {
 "Name": "Naria",
 "PostCode": "8020",
+"Location": {
 "Latitude": 23.3029,
 "Longitude": 90.4087
+}
 },
 {
 "Name": "Upshi",
 "PostCode": "8023",
+"Location": {
 "Latitude": 23.2709,
 "Longitude": 90.453
+}
 }
 ]
 },
@@ -2689,8 +3331,10 @@
 {
 "Name": "Bhedorganj",
 "PostCode": "8030",
+"Location": {
 "Latitude": 23.2328,
 "Longitude": 90.4242
+}
 }
 ],
 "PostCode": "8030"
@@ -2701,8 +3345,10 @@
 {
 "Name": "Damudhya",
 "PostCode": "8040",
+"Location": {
 "Latitude": 23.2328,
 "Longitude": 90.4242
+}
 }
 ],
 "PostCode": "8040"
@@ -2713,8 +3359,10 @@
 {
 "Name": "Gosairhat",
 "PostCode": "8050",
+"Location": {
 "Latitude": 23.0934,
 "Longitude": 90.4468
+}
 }
 ],
 "PostCode": "8050"
@@ -2731,8 +3379,10 @@
 {
 "Name": "Sherpur Shadar",
 "PostCode": "2100",
+"Location": {
 "Latitude": 25.0929,
 "Longitude": 90.0827
+}
 }
 ],
 "PostCode": "2100"
@@ -2743,14 +3393,18 @@
 {
 "Name": "Hatibandha",
 "PostCode": "2111",
+"Location": {
 "Latitude": 25.1311,
 "Longitude": 90.0666
+}
 },
 {
 "Name": "Nalitabari",
 "PostCode": "2110",
+"Location": {
 "Latitude": 25.0833,
 "Longitude": 90.0195
+}
 }
 ]
 },
@@ -2760,8 +3414,10 @@
 {
 "Name": "Jhinaigati",
 "PostCode": "2120",
+"Location": {
 "Latitude": 25.1856,
 "Longitude": 90.0668
+}
 }
 ],
 "PostCode": "2120"
@@ -2772,8 +3428,10 @@
 {
 "Name": "Shribardi",
 "PostCode": "2130",
+"Location": {
 "Latitude": 25.0929,
 "Longitude": 90.0827
+}
 }
 ],
 "PostCode": "2130"
@@ -2784,8 +3442,10 @@
 {
 "Name": "Bakshigonj",
 "PostCode": "2140",
+"Location": {
 "Latitude": 25.0929,
 "Longitude": 90.0827
+}
 }
 ],
 "PostCode": "2140"
@@ -2796,14 +3456,18 @@
 {
 "Name": "Gonopaddi",
 "PostCode": "2151",
+"Location": {
 "Latitude": 24.9714,
 "Longitude": 90.1778
+}
 },
 {
 "Name": "Nakla",
 "PostCode": "2150",
+"Location": {
 "Latitude": 24.9714,
 "Longitude": 90.1778
+}
 }
 ]
 }
@@ -2819,32 +3483,42 @@
 {
 "Name": "Kagmari",
 "PostCode": "1901",
+"Location": {
 "Latitude": 24.3551,
 "Longitude": 90.0386
+}
 },
 {
 "Name": "Korotia",
 "PostCode": "1903",
+"Location": {
 "Latitude": 24.3551,
 "Longitude": 90.0386
+}
 },
 {
 "Name": "Purabari",
 "PostCode": "1904",
+"Location": {
 "Latitude": 24.3551,
 "Longitude": 90.0386
+}
 },
 {
 "Name": "Santosh",
 "PostCode": "1902",
+"Location": {
 "Latitude": 24.3551,
 "Longitude": 90.0386
+}
 },
 {
 "Name": "Tangail Sadar",
 "PostCode": "1900",
+"Location": {
 "Latitude": 24.3551,
 "Longitude": 90.0386
+}
 }
 ]
 },
@@ -2854,38 +3528,50 @@
 {
 "Name": "Delduar",
 "PostCode": "1910",
+"Location": {
 "Latitude": 24.1597,
 "Longitude": 89.9621
+}
 },
 {
 "Name": "Elasin",
 "PostCode": "1913",
+"Location": {
 "Latitude": 24.0039,
 "Longitude": 89.9928
+}
 },
 {
 "Name": "Hinga Nagar",
 "PostCode": "1914",
+"Location": {
 "Latitude": 24.0039,
 "Longitude": 89.9928
+}
 },
 {
 "Name": "Jangalia",
 "PostCode": "1911",
+"Location": {
 "Latitude": 23.9854,
 "Longitude": 90.0662
+}
 },
 {
 "Name": "Lowhati",
 "PostCode": "1915",
+"Location": {
 "Latitude": 24.0039,
 "Longitude": 89.9928
+}
 },
 {
 "Name": "Patharail",
 "PostCode": "1912",
+"Location": {
 "Latitude": 23.8667,
 "Longitude": 89.95
+}
 }
 ]
 },
@@ -2895,8 +3581,10 @@
 {
 "Name": "Basail",
 "PostCode": "1920",
+"Location": {
 "Latitude": 24.2857,
 "Longitude": 90.0003
+}
 }
 ],
 "PostCode": "1920"
@@ -2907,8 +3595,10 @@
 {
 "Name": "Kashkawlia",
 "PostCode": "1930",
+"Location": {
 "Latitude": 24.0578,
 "Longitude": 89.877
+}
 }
 ],
 "PostCode": "1930"
@@ -2919,20 +3609,26 @@
 {
 "Name": "Dhuburia",
 "PostCode": "1937",
+"Location": {
 "Latitude": 24.0578,
 "Longitude": 89.877
+}
 },
 {
 "Name": "Nagarpur",
 "PostCode": "1936",
+"Location": {
 "Latitude": 24.0578,
 "Longitude": 89.877
+}
 },
 {
 "Name": "Salimabad",
 "PostCode": "1938",
+"Location": {
 "Latitude": 24.0578,
 "Longitude": 89.877
+}
 }
 ]
 },
@@ -2942,38 +3638,50 @@
 {
 "Name": "Gorai",
 "PostCode": "1941",
+"Location": {
 "Latitude": 24.0926,
 "Longitude": 90.1623
+}
 },
 {
 "Name": "Jarmuki",
 "PostCode": "1944",
+"Location": {
 "Latitude": 24.0977,
 "Longitude": 90.1303
+}
 },
 {
 "Name": "M.C. College",
 "PostCode": "1942",
+"Location": {
 "Latitude": 24.0977,
 "Longitude": 90.1303
+}
 },
 {
 "Name": "Mirzapur",
 "PostCode": "1940",
+"Location": {
 "Latitude": 24.1029,
 "Longitude": 90.0984
+}
 },
 {
 "Name": "Mohera",
 "PostCode": "1945",
+"Location": {
 "Latitude": 24.0977,
 "Longitude": 90.1303
+}
 },
 {
 "Name": "Warri paikpara",
 "PostCode": "1943",
+"Location": {
 "Latitude": 24.0977,
 "Longitude": 90.1303
+}
 }
 ]
 },
@@ -2983,14 +3691,18 @@
 {
 "Name": "Kochua",
 "PostCode": "1951",
+"Location": {
 "Latitude": 24.3199,
 "Longitude": 90.1694
+}
 },
 {
 "Name": "Sakhipur",
 "PostCode": "1950",
+"Location": {
 "Latitude": 24.3199,
 "Longitude": 90.1694
+}
 }
 ]
 },
@@ -3000,8 +3712,10 @@
 {
 "Name": "Bhuapur",
 "PostCode": "1960",
+"Location": {
 "Latitude": 24.4604,
 "Longitude": 89.8727
+}
 }
 ],
 "PostCode": "1960"
@@ -3012,50 +3726,66 @@
 {
 "Name": "Ballabazar",
 "PostCode": "1973",
+"Location": {
 "Latitude": 24.3824,
 "Longitude": 90.0006
+}
 },
 {
 "Name": "Elinga",
 "PostCode": "1974",
+"Location": {
 "Latitude": 24.3824,
 "Longitude": 90.0006
+}
 },
 {
 "Name": "Kalihati",
 "PostCode": "1970",
+"Location": {
 "Latitude": 24.3824,
 "Longitude": 90.0006
+}
 },
 {
 "Name": "Nagarbari",
 "PostCode": "1977",
+"Location": {
 "Latitude": 24.4022,
 "Longitude": 89.919
+}
 },
 {
 "Name": "Nagarbari SO",
 "PostCode": "1976",
+"Location": {
 "Latitude": 24.3824,
 "Longitude": 90.0006
+}
 },
 {
 "Name": "Nagbari",
 "PostCode": "1972",
+"Location": {
 "Latitude": 24.3451,
 "Longitude": 90.0494
+}
 },
 {
 "Name": "Palisha",
 "PostCode": "1975",
+"Location": {
 "Latitude": 24.3824,
 "Longitude": 90.0006
+}
 },
 {
 "Name": "Rajafair",
 "PostCode": "1971",
+"Location": {
 "Latitude": 24.4,
 "Longitude": 90.0333
+}
 }
 ]
 },
@@ -3065,32 +3795,42 @@
 {
 "Name": "D. Pakutia",
 "PostCode": "1982",
+"Location": {
 "Latitude": 24.2857,
 "Longitude": 90.0003
+}
 },
 {
 "Name": "Dhalapara",
 "PostCode": "1983",
+"Location": {
 "Latitude": 24.2857,
 "Longitude": 90.0003
+}
 },
 {
 "Name": "Ghatial",
 "PostCode": "1980",
+"Location": {
 "Latitude": 24.2857,
 "Longitude": 90.0003
+}
 },
 {
 "Name": "Lohani",
 "PostCode": "1984",
+"Location": {
 "Latitude": 24.2857,
 "Longitude": 90.0003
+}
 },
 {
 "Name": "Zahidganj",
 "PostCode": "1981",
+"Location": {
 "Latitude": 24.2857,
 "Longitude": 90.0003
+}
 }
 ]
 },
@@ -3100,20 +3840,26 @@
 {
 "Name": "Gopalpur",
 "PostCode": "1990",
+"Location": {
 "Latitude": 24.5601,
 "Longitude": 89.9218
+}
 },
 {
 "Name": "Hemnagar",
 "PostCode": "1992",
+"Location": {
 "Latitude": 24.5658,
 "Longitude": 89.8525
+}
 },
 {
 "Name": "Jhowail",
 "PostCode": "1991",
+"Location": {
 "Latitude": 24.5793,
 "Longitude": 89.9353
+}
 }
 ]
 },
@@ -3123,14 +3869,18 @@
 {
 "Name": "Dhobari",
 "PostCode": "1997",
+"Location": {
 "Latitude": 24.5793,
 "Longitude": 89.9353
+}
 },
 {
 "Name": "Madhupur",
 "PostCode": "1996",
+"Location": {
 "Latitude": 24.6119,
 "Longitude": 90.0315
+}
 }
 ]
 }
@@ -3152,20 +3902,26 @@
 {
 "Name": "Bagerhat Sadar",
 "PostCode": "9300",
+"Location": {
 "Latitude": 22.6953,
 "Longitude": 89.7194
+}
 },
 {
 "Name": "P.C College",
 "PostCode": "9301",
+"Location": {
 "Latitude": 22.6953,
 "Longitude": 89.7194
+}
 },
 {
 "Name": "Rangdia",
 "PostCode": "9302",
+"Location": {
 "Latitude": 22.6953,
 "Longitude": 89.7194
+}
 }
 ]
 },
@@ -3175,14 +3931,18 @@
 {
 "Name": "Kachua",
 "PostCode": "9310",
+"Location": {
 "Latitude": 22.6526,
 "Longitude": 89.8856
+}
 },
 {
 "Name": "Sonarkola",
 "PostCode": "9311",
+"Location": {
 "Latitude": 22.6526,
 "Longitude": 89.8856
+}
 }
 ]
 },
@@ -3192,20 +3952,26 @@
 {
 "Name": "Morelganj",
 "PostCode": "9320",
+"Location": {
 "Latitude": 22.6953,
 "Longitude": 89.7194
+}
 },
 {
 "Name": "Sannasi Bazar",
 "PostCode": "9321",
+"Location": {
 "Latitude": 22.6953,
 "Longitude": 89.7194
+}
 },
 {
 "Name": "Telisatee",
 "PostCode": "9322",
+"Location": {
 "Latitude": 22.6953,
 "Longitude": 89.7194
+}
 }
 ]
 },
@@ -3215,8 +3981,10 @@
 {
 "Name": "Rayenda",
 "PostCode": "9330",
+"Location": {
 "Latitude": 22.3096,
 "Longitude": 89.8421
+}
 }
 ],
 "PostCode": "9330"
@@ -3227,26 +3995,34 @@
 {
 "Name": "Foylahat",
 "PostCode": "9341",
+"Location": {
 "Latitude": 22.6686,
 "Longitude": 89.6365
+}
 },
 {
 "Name": "Gourambha",
 "PostCode": "9343",
+"Location": {
 "Latitude": 22.6686,
 "Longitude": 89.6365
+}
 },
 {
 "Name": "Rampal",
 "PostCode": "9340",
+"Location": {
 "Latitude": 22.6686,
 "Longitude": 89.6365
+}
 },
 {
 "Name": "Sonatunia",
 "PostCode": "9342",
+"Location": {
 "Latitude": 22.6686,
 "Longitude": 89.6365
+}
 }
 ]
 },
@@ -3256,14 +4032,18 @@
 {
 "Name": "Chalna Ankorage",
 "PostCode": "9350",
+"Location": {
 "Latitude": 22.4889,
 "Longitude": 89.5958
+}
 },
 {
 "Name": "Mongla Port",
 "PostCode": "9351",
+"Location": {
 "Latitude": 22.4889,
 "Longitude": 89.5958
+}
 }
 ]
 },
@@ -3273,14 +4053,18 @@
 {
 "Name": "Barabaria",
 "PostCode": "9361",
+"Location": {
 "Latitude": 22.7571,
 "Longitude": 89.6683
+}
 },
 {
 "Name": "Chitalmari",
 "PostCode": "9360",
+"Location": {
 "Latitude": 22.7571,
 "Longitude": 89.6683
+}
 }
 ]
 },
@@ -3290,20 +4074,26 @@
 {
 "Name": "Bhanganpar Bazar",
 "PostCode": "9372",
+"Location": {
 "Latitude": 22.786,
 "Longitude": 89.689
+}
 },
 {
 "Name": "Fakirhat",
 "PostCode": "9370",
+"Location": {
 "Latitude": 22.7785,
 "Longitude": 89.7058
+}
 },
 {
 "Name": "Mansa",
 "PostCode": "9371",
+"Location": {
 "Latitude": 22.7935,
 "Longitude": 89.6723
+}
 }
 ]
 },
@@ -3313,38 +4103,50 @@
 {
 "Name": "Charkulia",
 "PostCode": "9383",
+"Location": {
 "Latitude": 22.9044,
 "Longitude": 89.7341
+}
 },
 {
 "Name": "Dariala",
 "PostCode": "9382",
+"Location": {
 "Latitude": 22.9141,
 "Longitude": 89.739
+}
 },
 {
 "Name": "Kahalpur",
 "PostCode": "9381",
+"Location": {
 "Latitude": 22.9044,
 "Longitude": 89.7341
+}
 },
 {
 "Name": "Mollahat",
 "PostCode": "9380",
+"Location": {
 "Latitude": 22.9044,
 "Longitude": 89.7341
+}
 },
 {
 "Name": "Nagarkandi",
 "PostCode": "9384",
+"Location": {
 "Latitude": 22.8946,
 "Longitude": 89.7292
+}
 },
 {
 "Name": "Pak Gangni",
 "PostCode": "9385",
+"Location": {
 "Latitude": 22.9044,
 "Longitude": 89.7341
+}
 }
 ]
 }
@@ -3360,14 +4162,18 @@
 {
 "Name": "Chuadanga Sadar",
 "PostCode": "7200",
+"Location": {
 "Latitude": 23.7144,
 "Longitude": 88.8957
+}
 },
 {
 "Name": "Munshiganj",
 "PostCode": "7201",
+"Location": {
 "Latitude": 23.7144,
 "Longitude": 88.8957
+}
 }
 ]
 },
@@ -3377,14 +4183,18 @@
 {
 "Name": "Alamdanga",
 "PostCode": "7210",
+"Location": {
 "Latitude": 23.7899,
 "Longitude": 88.9033
+}
 },
 {
 "Name": "Hardi",
 "PostCode": "7211",
+"Location": {
 "Latitude": 23.7899,
 "Longitude": 88.9033
+}
 }
 ]
 },
@@ -3394,20 +4204,26 @@
 {
 "Name": "Andulbaria",
 "PostCode": "7222",
+"Location": {
 "Latitude": 23.4804,
 "Longitude": 88.892
+}
 },
 {
 "Name": "Damurhuda",
 "PostCode": "7220",
+"Location": {
 "Latitude": 23.6101,
 "Longitude": 88.7798
+}
 },
 {
 "Name": "Darshana",
 "PostCode": "7221",
+"Location": {
 "Latitude": 23.5149,
 "Longitude": 88.8019
+}
 }
 ]
 },
@@ -3417,8 +4233,10 @@
 {
 "Name": "Doulatganj",
 "PostCode": "7230",
+"Location": {
 "Latitude": 23.6219,
 "Longitude": 88.8545
+}
 }
 ],
 "PostCode": "7230"
@@ -3435,50 +4253,66 @@
 {
 "Name": "Basundia",
 "PostCode": "7406",
+"Location": {
 "Latitude": 23.1245,
 "Longitude": 89.3709
+}
 },
 {
 "Name": "Chanchra",
 "PostCode": "7402",
+"Location": {
 "Latitude": 23.1484,
 "Longitude": 89.2138
+}
 },
 {
 "Name": "Churamankathi",
 "PostCode": "7407",
+"Location": {
 "Latitude": 23.23,
 "Longitude": 89.1558
+}
 },
 {
 "Name": "Jessore Airbach",
 "PostCode": "7404",
+"Location": {
 "Latitude": 23.1586,
 "Longitude": 89.2586
+}
 },
 {
 "Name": "Jessore canttonment",
 "PostCode": "7403",
+"Location": {
 "Latitude": 23.1586,
 "Longitude": 89.2586
+}
 },
 {
 "Name": "Jessore Sadar",
 "PostCode": "7400",
+"Location": {
 "Latitude": 23.1586,
 "Longitude": 89.2586
+}
 },
 {
 "Name": "Jessore Upa-Shahar",
 "PostCode": "7401",
+"Location": {
 "Latitude": 23.1586,
 "Longitude": 89.2586
+}
 },
 {
 "Name": "Rupdia",
 "PostCode": "7405",
+"Location": {
 "Latitude": 23.1315,
 "Longitude": 89.294
+}
 }
 ]
 },
@@ -3488,8 +4322,10 @@
 {
 "Name": "Chougachha",
 "PostCode": "7410",
+"Location": {
 "Latitude": 23.2576,
 "Longitude": 89.0201
+}
 }
 ],
 "PostCode": "7410"
@@ -3500,8 +4336,10 @@
 {
 "Name": "Jhikargachha",
 "PostCode": "7420",
+"Location": {
 "Latitude": 23.1113,
 "Longitude": 89.0906
+}
 }
 ],
 "PostCode": "7420"
@@ -3512,26 +4350,34 @@
 {
 "Name": "Bag Achra",
 "PostCode": "7433",
+"Location": {
 "Latitude": 22.9655,
 "Longitude": 88.9701
+}
 },
 {
 "Name": "Benapole",
 "PostCode": "7431",
+"Location": {
 "Latitude": 23.047,
 "Longitude": 88.9059
+}
 },
 {
 "Name": "Jadabpur",
 "PostCode": "7432",
+"Location": {
 "Latitude": 23.0487,
 "Longitude": 89.0122
+}
 },
 {
 "Name": "Sarsa",
 "PostCode": "7430",
+"Location": {
 "Latitude": 23.0572,
 "Longitude": 88.9525
+}
 }
 ]
 },
@@ -3541,8 +4387,10 @@
 {
 "Name": "Monirampur",
 "PostCode": "7440",
+"Location": {
 "Latitude": 23.0263,
 "Longitude": 89.234
+}
 }
 ],
 "PostCode": "7440"
@@ -3553,8 +4401,10 @@
 {
 "Name": "Keshobpur",
 "PostCode": "7450",
+"Location": {
 "Latitude": 23.6172,
 "Longitude": 88.7799
+}
 }
 ],
 "PostCode": "7450"
@@ -3565,20 +4415,26 @@
 {
 "Name": "Bhugilhat",
 "PostCode": "7462",
+"Location": {
 "Latitude": 23.0143,
 "Longitude": 89.4563
+}
 },
 {
 "Name": "Noapara",
 "PostCode": "7460",
+"Location": {
 "Latitude": 23.1783,
 "Longitude": 89.231
+}
 },
 {
 "Name": "Rajghat",
 "PostCode": "7461",
+"Location": {
 "Latitude": 23.0024,
 "Longitude": 89.4303
+}
 }
 ]
 },
@@ -3588,14 +4444,18 @@
 {
 "Name": "Bagharpara",
 "PostCode": "7470",
+"Location": {
 "Latitude": 23.227,
 "Longitude": 89.3375
+}
 },
 {
 "Name": "Gouranagar",
 "PostCode": "7471",
+"Location": {
 "Latitude": 23.227,
 "Longitude": 89.3375
+}
 }
 ]
 }
@@ -3611,14 +4471,18 @@
 {
 "Name": "Jinaidaha Cadet College",
 "PostCode": "7301",
+"Location": {
 "Latitude": 23.451,
 "Longitude": 89.1023
+}
 },
 {
 "Name": "Jinaidaha Sadar",
 "PostCode": "7300",
+"Location": {
 "Latitude": 23.451,
 "Longitude": 89.1023
+}
 }
 ]
 },
@@ -3628,8 +4492,10 @@
 {
 "Name": "Harinakundu",
 "PostCode": "7310",
+"Location": {
 "Latitude": 23.451,
 "Longitude": 89.1023
+}
 }
 ],
 "PostCode": "7310"
@@ -3640,14 +4506,18 @@
 {
 "Name": "Kumiradaha",
 "PostCode": "7321",
+"Location": {
 "Latitude": 23.6098,
 "Longitude": 89.3147
+}
 },
 {
 "Name": "Shailakupa",
 "PostCode": "7320",
+"Location": {
 "Latitude": 23.6098,
 "Longitude": 89.3147
+}
 }
 ]
 },
@@ -3657,8 +4527,10 @@
 {
 "Name": "Kotchandpur",
 "PostCode": "7330",
+"Location": {
 "Latitude": 23.4023,
 "Longitude": 89.0137
+}
 }
 ],
 "PostCode": "7330"
@@ -3669,8 +4541,10 @@
 {
 "Name": "Maheshpur",
 "PostCode": "7340",
+"Location": {
 "Latitude": 23.3529,
 "Longitude": 88.9122
+}
 }
 ],
 "PostCode": "7340"
@@ -3681,14 +4555,18 @@
 {
 "Name": "Hatbar Bazar",
 "PostCode": "7351",
+"Location": {
 "Latitude": 23.439,
 "Longitude": 89.1684
+}
 },
 {
 "Name": "Naldanga",
 "PostCode": "7350",
+"Location": {
 "Latitude": 23.439,
 "Longitude": 89.1684
+}
 }
 ]
 }
@@ -3704,62 +4582,82 @@
 {
 "Name": "Atra Shilpa Area",
 "PostCode": "9207",
+"Location": {
 "Latitude": 23.1149,
 "Longitude": 89.3222
+}
 },
 {
 "Name": "BIT Khulna",
 "PostCode": "9203",
+"Location": {
 "Latitude": 23.1149,
 "Longitude": 89.3222
+}
 },
 {
 "Name": "Doulatpur",
 "PostCode": "9202",
+"Location": {
 "Latitude": 23.3139,
 "Longitude": 89.1382
+}
 },
 {
 "Name": "Jahanabad Canttonmen",
 "PostCode": "9205",
+"Location": {
 "Latitude": 23.1149,
 "Longitude": 89.3222
+}
 },
 {
 "Name": "Khula Sadar",
 "PostCode": "9100",
+"Location": {
 "Latitude": 22.8174,
 "Longitude": 89.5648
+}
 },
 {
 "Name": "Khulna G.P.O",
 "PostCode": "9000",
+"Location": {
 "Latitude": 22.8404,
 "Longitude": 89.5392
+}
 },
 {
 "Name": "Khulna Shipyard",
 "PostCode": "9201",
+"Location": {
 "Latitude": 23.1149,
 "Longitude": 89.3222
+}
 },
 {
 "Name": "Khulna University",
 "PostCode": "9208",
+"Location": {
 "Latitude": 23.1149,
 "Longitude": 89.3222
+}
 },
 {
 "Name": "Siramani",
 "PostCode": "9204",
+"Location": {
 "Latitude": 22.916,
 "Longitude": 89.5062
+}
 },
 {
 "Name": "Sonali Jute Mills",
 "PostCode": "9206",
+"Location": {
 "Latitude": 23.1149,
 "Longitude": 89.3222
+}
 }
 ]
 },
@@ -3769,8 +4667,10 @@
 {
 "Name": "Phultala",
 "PostCode": "9210",
+"Location": {
 "Latitude": 22.7167,
 "Longitude": 89.5119
+}
 }
 ],
 "PostCode": "9210"
@@ -3781,32 +4681,42 @@
 {
 "Name": "Chandni Mahal",
 "PostCode": "9221",
+"Location": {
 "Latitude": 22.9325,
 "Longitude": 89.5598
+}
 },
 {
 "Name": "Digalia",
 "PostCode": "9220",
+"Location": {
 "Latitude": 22.9325,
 "Longitude": 89.5598
+}
 },
 {
 "Name": "Gazirhat",
 "PostCode": "9224",
+"Location": {
 "Latitude": 22.9899,
 "Longitude": 89.5696
+}
 },
 {
 "Name": "Ghoshghati",
 "PostCode": "9223",
+"Location": {
 "Latitude": 22.9325,
 "Longitude": 89.5598
+}
 },
 {
 "Name": "Senhati",
 "PostCode": "9222",
+"Location": {
 "Latitude": 22.8752,
 "Longitude": 89.55
+}
 }
 ]
 },
@@ -3816,14 +4726,18 @@
 {
 "Name": "Pak Barasat",
 "PostCode": "9231",
+"Location": {
 "Latitude": 22.9359,
 "Longitude": 89.6706
+}
 },
 {
 "Name": "Terakhada",
 "PostCode": "9230",
+"Location": {
 "Latitude": 22.9359,
 "Longitude": 89.6706
+}
 }
 ]
 },
@@ -3833,20 +4747,26 @@
 {
 "Name": "Alaipur",
 "PostCode": "9240",
+"Location": {
 "Latitude": 22.8116,
 "Longitude": 89.6364
+}
 },
 {
 "Name": "Belphulia",
 "PostCode": "9242",
+"Location": {
 "Latitude": 22.8116,
 "Longitude": 89.6364
+}
 },
 {
 "Name": "Rupsha",
 "PostCode": "9241",
+"Location": {
 "Latitude": 22.8116,
 "Longitude": 89.6364
+}
 }
 ]
 },
@@ -3856,26 +4776,34 @@
 {
 "Name": "Chuknagar",
 "PostCode": "9252",
+"Location": {
 "Latitude": 22.8395,
 "Longitude": 89.3086
+}
 },
 {
 "Name": "Ghonabanda",
 "PostCode": "9251",
+"Location": {
 "Latitude": 22.7486,
 "Longitude": 89.3095
+}
 },
 {
 "Name": "Sajiara",
 "PostCode": "9250",
+"Location": {
 "Latitude": 22.823,
 "Longitude": 89.42
+}
 },
 {
 "Name": "Shahapur",
 "PostCode": "9253",
+"Location": {
 "Latitude": 22.5833,
 "Longitude": 89.2
+}
 }
 ]
 },
@@ -3885,14 +4813,18 @@
 {
 "Name": "Batiaghat",
 "PostCode": "9260",
+"Location": {
 "Latitude": 22.7442,
 "Longitude": 89.4143
+}
 },
 {
 "Name": "Surkalee",
 "PostCode": "9261",
+"Location": {
 "Latitude": 22.7442,
 "Longitude": 89.4143
+}
 }
 ]
 },
@@ -3902,26 +4834,34 @@
 {
 "Name": "Bajua",
 "PostCode": "9272",
+"Location": {
 "Latitude": 22.5499,
 "Longitude": 89.5394
+}
 },
 {
 "Name": "Chalna Bazar",
 "PostCode": "9270",
+"Location": {
 "Latitude": 22.4981,
 "Longitude": 89.4937
+}
 },
 {
 "Name": "Dakup",
 "PostCode": "9271",
+"Location": {
 "Latitude": 22.4981,
 "Longitude": 89.4937
+}
 },
 {
 "Name": "Nalian",
 "PostCode": "9273",
+"Location": {
 "Latitude": 22.4462,
 "Longitude": 89.448
+}
 }
 ]
 },
@@ -3931,38 +4871,50 @@
 {
 "Name": "Chandkhali",
 "PostCode": "9284",
+"Location": {
 "Latitude": 22.5338,
 "Longitude": 89.2617
+}
 },
 {
 "Name": "Garaikhali",
 "PostCode": "9285",
+"Location": {
 "Latitude": 22.5829,
 "Longitude": 89.2827
+}
 },
 {
 "Name": "Godaipur",
 "PostCode": "9281",
+"Location": {
 "Latitude": 22.5829,
 "Longitude": 89.2827
+}
 },
 {
 "Name": "Kapilmoni",
 "PostCode": "9282",
+"Location": {
 "Latitude": 22.5829,
 "Longitude": 89.2827
+}
 },
 {
 "Name": "Katipara",
 "PostCode": "9283",
+"Location": {
 "Latitude": 22.6319,
 "Longitude": 89.2579
+}
 },
 {
 "Name": "Paikgachha",
 "PostCode": "9280",
+"Location": {
 "Latitude": 22.5831,
 "Longitude": 89.3285
+}
 }
 ]
 },
@@ -3972,14 +4924,18 @@
 {
 "Name": "Amadee",
 "PostCode": "9291",
+"Location": {
 "Latitude": 22.357,
 "Longitude": 89.281
+}
 },
 {
 "Name": "Madinabad",
 "PostCode": "9290",
+"Location": {
 "Latitude": 22.357,
 "Longitude": 89.281
+}
 }
 ]
 }
@@ -3995,26 +4951,34 @@
 {
 "Name": "Islami University",
 "PostCode": "7003",
+"Location": {
 "Latitude": 23.9086,
 "Longitude": 89.1097
+}
 },
 {
 "Name": "Jagati",
 "PostCode": "7002",
+"Location": {
 "Latitude": 23.8804,
 "Longitude": 89.0925
+}
 },
 {
 "Name": "Kushtia Mohini",
 "PostCode": "7001",
+"Location": {
 "Latitude": 23.9086,
 "Longitude": 89.1097
+}
 },
 {
 "Name": "Kustia Sadar",
 "PostCode": "7000",
+"Location": {
 "Latitude": 23.9368,
 "Longitude": 89.127
+}
 }
 ]
 },
@@ -4024,14 +4988,18 @@
 {
 "Name": "Kumarkhali",
 "PostCode": "7010",
+"Location": {
 "Latitude": 23.8613,
 "Longitude": 89.242
+}
 },
 {
 "Name": "Panti",
 "PostCode": "7011",
+"Location": {
 "Latitude": 23.7681,
 "Longitude": 89.2129
+}
 }
 ]
 },
@@ -4041,14 +5009,18 @@
 {
 "Name": "Janipur",
 "PostCode": "7020",
+"Location": {
 "Latitude": 23.8003,
 "Longitude": 89.2815
+}
 },
 {
 "Name": "Khoksa",
 "PostCode": "7021",
+"Location": {
 "Latitude": 23.8003,
 "Longitude": 89.2815
+}
 }
 ]
 },
@@ -4058,20 +5030,26 @@
 {
 "Name": "Amla Sadarpur",
 "PostCode": "7032",
+"Location": {
 "Latitude": 23.9017,
 "Longitude": 89.0148
+}
 },
 {
 "Name": "Mirpur",
 "PostCode": "7030",
+"Location": {
 "Latitude": 23.9372,
 "Longitude": 88.9979
+}
 },
 {
 "Name": "Poradaha",
 "PostCode": "7031",
+"Location": {
 "Latitude": 23.8662,
 "Longitude": 89.0316
+}
 }
 ]
 },
@@ -4081,20 +5059,26 @@
 {
 "Name": "Allardarga",
 "PostCode": "7042",
+"Location": {
 "Latitude": 24.0245,
 "Longitude": 88.9923
+}
 },
 {
 "Name": "Bheramara",
 "PostCode": "7040",
+"Location": {
 "Latitude": 24.0245,
 "Longitude": 88.9923
+}
 },
 {
 "Name": "Ganges Bheramara",
 "PostCode": "7041",
+"Location": {
 "Latitude": 24.0245,
 "Longitude": 88.9923
+}
 }
 ]
 },
@@ -4104,20 +5088,26 @@
 {
 "Name": "Khasmathurapur",
 "PostCode": "7052",
+"Location": {
 "Latitude": 23.8843,
 "Longitude": 89.1222
+}
 },
 {
 "Name": "Rafayetpur",
 "PostCode": "7050",
+"Location": {
 "Latitude": 23.8843,
 "Longitude": 89.1222
+}
 },
 {
 "Name": "Taragunia",
 "PostCode": "7051",
+"Location": {
 "Latitude": 23.8843,
 "Longitude": 89.1222
+}
 }
 ]
 }
@@ -4133,8 +5123,10 @@
 {
 "Name": "Magura Sadar",
 "PostCode": "7600",
+"Location": {
 "Latitude": 23.3824,
 "Longitude": 89.4612
+}
 }
 ],
 "PostCode": "7600"
@@ -4145,20 +5137,26 @@
 {
 "Name": "Langalbadh",
 "PostCode": "7611",
+"Location": {
 "Latitude": 23.3824,
 "Longitude": 89.4612
+}
 },
 {
 "Name": "Nachol",
 "PostCode": "7612",
+"Location": {
 "Latitude": 23.3824,
 "Longitude": 89.4612
+}
 },
 {
 "Name": "Shripur",
 "PostCode": "7610",
+"Location": {
 "Latitude": 23.3824,
 "Longitude": 89.4612
+}
 }
 ]
 },
@@ -4168,8 +5166,10 @@
 {
 "Name": "Arpara",
 "PostCode": "7620",
+"Location": {
 "Latitude": 23.3732,
 "Longitude": 89.3764
+}
 }
 ],
 "PostCode": "7620"
@@ -4180,20 +5180,26 @@
 {
 "Name": "Binodpur",
 "PostCode": "7631",
+"Location": {
 "Latitude": 23.4381,
 "Longitude": 89.504
+}
 },
 {
 "Name": "Mohammadpur",
 "PostCode": "7630",
+"Location": {
 "Latitude": 23.387,
 "Longitude": 89.5036
+}
 },
 {
 "Name": "Nahata",
 "PostCode": "7632",
+"Location": {
 "Latitude": 23.3359,
 "Longitude": 89.5032
+}
 }
 ]
 }
@@ -4209,26 +5215,34 @@
 {
 "Name": "Amjhupi",
 "PostCode": "7101",
+"Location": {
 "Latitude": 23.7431,
 "Longitude": 88.685
+}
 },
 {
 "Name": "Amjhupi",
 "PostCode": "7152",
+"Location": {
 "Latitude": 23.7431,
 "Longitude": 88.685
+}
 },
 {
 "Name": "Meherpur Sadar",
 "PostCode": "7100",
+"Location": {
 "Latitude": 23.7431,
 "Longitude": 88.685
+}
 },
 {
 "Name": "Mujib Nagar Complex",
 "PostCode": "7102",
+"Location": {
 "Latitude": 23.7431,
 "Longitude": 88.685
+}
 }
 ]
 },
@@ -4238,8 +5252,10 @@
 {
 "Name": "Gangni",
 "PostCode": "7110",
+"Location": {
 "Latitude": 23.7431,
 "Longitude": 88.685
+}
 }
 ],
 "PostCode": "7110"
@@ -4256,14 +5272,18 @@
 {
 "Name": "Narail Sadar",
 "PostCode": "7500",
+"Location": {
 "Latitude": 23.1404,
 "Longitude": 89.6383
+}
 },
 {
 "Name": "Ratanganj",
 "PostCode": "7501",
+"Location": {
 "Latitude": 23.1404,
 "Longitude": 89.6383
+}
 }
 ]
 },
@@ -4273,32 +5293,42 @@
 {
 "Name": "Baradia",
 "PostCode": "7514",
+"Location": {
 "Latitude": 23.0878,
 "Longitude": 89.6795
+}
 },
 {
 "Name": "Itna",
 "PostCode": "7512",
+"Location": {
 "Latitude": 23.1569,
 "Longitude": 89.6935
+}
 },
 {
 "Name": "Laxmipasha",
 "PostCode": "7510",
+"Location": {
 "Latitude": 23.1729,
 "Longitude": 89.6408
+}
 },
 {
 "Name": "Lohagora",
 "PostCode": "7511",
+"Location": {
 "Latitude": 23.1729,
 "Longitude": 89.6408
+}
 },
 {
 "Name": "Naldi",
 "PostCode": "7513",
+"Location": {
 "Latitude": 23.274,
 "Longitude": 89.5492
+}
 }
 ]
 },
@@ -4308,8 +5338,10 @@
 {
 "Name": "Kalia",
 "PostCode": "7520",
+"Location": {
 "Latitude": 23.043,
 "Longitude": 89.6309
+}
 }
 ],
 "PostCode": "7520"
@@ -4320,8 +5352,10 @@
 {
 "Name": "Mohajan",
 "PostCode": "7521",
+"Location": {
 "Latitude": 23.043,
 "Longitude": 89.6309
+}
 }
 ],
 "PostCode": "7521"
@@ -4338,26 +5372,34 @@
 {
 "Name": "Budhhat",
 "PostCode": "9403",
+"Location": {
 "Latitude": 22.6297,
 "Longitude": 89.1474
+}
 },
 {
 "Name": "Gunakar kati",
 "PostCode": "9402",
+"Location": {
 "Latitude": 22.6297,
 "Longitude": 89.1474
+}
 },
 {
 "Name": "Satkhira Islamia Acc",
 "PostCode": "9401",
+"Location": {
 "Latitude": 22.6297,
 "Longitude": 89.1474
+}
 },
 {
 "Name": "Satkhira Sadar",
 "PostCode": "9400",
+"Location": {
 "Latitude": 22.6297,
 "Longitude": 89.1474
+}
 }
 ]
 },
@@ -4367,38 +5409,50 @@
 {
 "Name": "Chandanpur",
 "PostCode": "9415",
+"Location": {
 "Latitude": 22.7814,
 "Longitude": 89.0952
+}
 },
 {
 "Name": "Hamidpur",
 "PostCode": "9413",
+"Location": {
 "Latitude": 23.1556,
 "Longitude": 89.2476
+}
 },
 {
 "Name": "Jhaudanga",
 "PostCode": "9412",
+"Location": {
 "Latitude": 22.8089,
 "Longitude": 89.0363
+}
 },
 {
 "Name": "kalaroa",
 "PostCode": "9410",
+"Location": {
 "Latitude": 22.8593,
 "Longitude": 89.043
+}
 },
 {
 "Name": "Khordo",
 "PostCode": "9414",
+"Location": {
 "Latitude": 22.7814,
 "Longitude": 89.0952
+}
 },
 {
 "Name": "Murarikati",
 "PostCode": "9411",
+"Location": {
 "Latitude": 22.3017,
 "Longitude": 89.0538
+}
 }
 ]
 },
@@ -4408,14 +5462,18 @@
 {
 "Name": "Patkelghata",
 "PostCode": "9421",
+"Location": {
 "Latitude": 22.7733,
 "Longitude": 89.1605
+}
 },
 {
 "Name": "Taala",
 "PostCode": "9420",
+"Location": {
 "Latitude": 22.7733,
 "Longitude": 89.1605
+}
 }
 ]
 },
@@ -4425,14 +5483,18 @@
 {
 "Name": "Debbhata",
 "PostCode": "9430",
+"Location": {
 "Latitude": 22.6297,
 "Longitude": 89.1474
+}
 },
 {
 "Name": "Gurugram",
 "PostCode": "9431",
+"Location": {
 "Latitude": 22.6297,
 "Longitude": 89.1474
+}
 }
 ]
 },
@@ -4442,20 +5504,26 @@
 {
 "Name": "Kaliganj UPO",
 "PostCode": "9440",
+"Location": {
 "Latitude": 22.6297,
 "Longitude": 89.1474
+}
 },
 {
 "Name": "Nalta Mubaroknagar",
 "PostCode": "9441",
+"Location": {
 "Latitude": 22.6297,
 "Longitude": 89.1474
+}
 },
 {
 "Name": "Ratanpur",
 "PostCode": "9442",
+"Location": {
 "Latitude": 22.6297,
 "Longitude": 89.1474
+}
 }
 ]
 },
@@ -4465,38 +5533,50 @@
 {
 "Name": "Buri Goalini",
 "PostCode": "9453",
+"Location": {
 "Latitude": 22.3081,
 "Longitude": 89.1964
+}
 },
 {
 "Name": "Gabura",
 "PostCode": "9454",
+"Location": {
 "Latitude": 22.2847,
 "Longitude": 89.2738
+}
 },
 {
 "Name": "Habinagar",
 "PostCode": "9455",
+"Location": {
 "Latitude": 22.3081,
 "Longitude": 89.1964
+}
 },
 {
 "Name": "Nakipur",
 "PostCode": "9450",
+"Location": {
 "Latitude": 22.3314,
 "Longitude": 89.1191
+}
 },
 {
 "Name": "Naobeki",
 "PostCode": "9452",
+"Location": {
 "Latitude": 22.3081,
 "Longitude": 89.1964
+}
 },
 {
 "Name": "Noornagar",
 "PostCode": "9451",
+"Location": {
 "Latitude": 22.3081,
 "Longitude": 89.1964
+}
 }
 ]
 },
@@ -4506,14 +5586,18 @@
 {
 "Name": "Ashashuni",
 "PostCode": "9460",
+"Location": {
 "Latitude": 22.5227,
 "Longitude": 89.2455
+}
 },
 {
 "Name": "Baradal",
 "PostCode": "9461",
+"Location": {
 "Latitude": 22.5227,
 "Longitude": 89.2455
+}
 }
 ]
 }
@@ -4535,14 +5619,18 @@
 {
 "Name": "Bogra Canttonment",
 "PostCode": "5801",
+"Location": {
 "Latitude": 24.806,
 "Longitude": 89.3138
+}
 },
 {
 "Name": "Bogra Sadar",
 "PostCode": "5800",
+"Location": {
 "Latitude": 24.806,
 "Longitude": 89.3138
+}
 }
 ]
 },
@@ -4552,8 +5640,10 @@
 {
 "Name": "Shibganj",
 "PostCode": "5810",
+"Location": {
 "Latitude": 25.0015,
 "Longitude": 89.3227
+}
 }
 ],
 "PostCode": "5810"
@@ -4564,14 +5654,18 @@
 {
 "Name": "Gabtoli",
 "PostCode": "5820",
+"Location": {
 "Latitude": 24.806,
 "Longitude": 89.3138
+}
 },
 {
 "Name": "Sukhanpukur",
 "PostCode": "5821",
+"Location": {
 "Latitude": 24.806,
 "Longitude": 89.3138
+}
 }
 ]
 },
@@ -4581,8 +5675,10 @@
 {
 "Name": "Sonatola",
 "PostCode": "5826",
+"Location": {
 "Latitude": 24.806,
 "Longitude": 89.3138
+}
 }
 ],
 "PostCode": "5826"
@@ -4593,14 +5689,18 @@
 {
 "Name": "Chandan Baisha",
 "PostCode": "5831",
+"Location": {
 "Latitude": 24.8,
 "Longitude": 89.5833
+}
 },
 {
 "Name": "Sariakandi",
 "PostCode": "5830",
+"Location": {
 "Latitude": 24.8846,
 "Longitude": 89.57
+}
 }
 ]
 },
@@ -4610,20 +5710,26 @@
 {
 "Name": "Chandaikona",
 "PostCode": "5841",
+"Location": {
 "Latitude": 24.5505,
 "Longitude": 89.5063
+}
 },
 {
 "Name": "Palli Unnyan Accadem",
 "PostCode": "5842",
+"Location": {
 "Latitude": 24.6135,
 "Longitude": 89.4611
+}
 },
 {
 "Name": "Sherpur",
 "PostCode": "5840",
+"Location": {
 "Latitude": 24.6765,
 "Longitude": 89.4159
+}
 }
 ]
 },
@@ -4633,14 +5739,18 @@
 {
 "Name": "Dhunat",
 "PostCode": "5850",
+"Location": {
 "Latitude": 24.6859,
 "Longitude": 89.5414
+}
 },
 {
 "Name": "Gosaibari",
 "PostCode": "5851",
+"Location": {
 "Latitude": 25.0021,
 "Longitude": 88.7189
+}
 }
 ]
 },
@@ -4650,8 +5760,10 @@
 {
 "Name": "Nandigram",
 "PostCode": "5860",
+"Location": {
 "Latitude": 24.806,
 "Longitude": 89.3138
+}
 }
 ],
 "PostCode": "5860"
@@ -4662,8 +5774,10 @@
 {
 "Name": "Kahalu",
 "PostCode": "5870",
+"Location": {
 "Latitude": 24.806,
 "Longitude": 89.3138
+}
 }
 ],
 "PostCode": "5870"
@@ -4674,14 +5788,18 @@
 {
 "Name": "Dupchachia",
 "PostCode": "5880",
+"Location": {
 "Latitude": 24.8441,
 "Longitude": 89.1789
+}
 },
 {
 "Name": "Talora",
 "PostCode": "5881",
+"Location": {
 "Latitude": 24.8441,
 "Longitude": 89.1789
+}
 }
 ]
 },
@@ -4691,20 +5809,26 @@
 {
 "Name": "Adamdighi",
 "PostCode": "5890",
+"Location": {
 "Latitude": 24.8089,
 "Longitude": 88.987
+}
 },
 {
 "Name": "Nasharatpur",
 "PostCode": "5892",
+"Location": {
 "Latitude": 24.8089,
 "Longitude": 88.987
+}
 },
 {
 "Name": "Santahar",
 "PostCode": "5891",
+"Location": {
 "Latitude": 24.8089,
 "Longitude": 88.987
+}
 }
 ]
 }
@@ -4720,8 +5844,10 @@
 {
 "Name": "Joypurhat Sadar",
 "PostCode": "5900",
+"Location": {
 "Latitude": 25.0971,
 "Longitude": 89.1033
+}
 }
 ],
 "PostCode": "5900"
@@ -4732,8 +5858,10 @@
 {
 "Name": "Panchbibi",
 "PostCode": "5910",
+"Location": {
 "Latitude": 25.1907,
 "Longitude": 89.0221
+}
 }
 ],
 "PostCode": "5910"
@@ -4744,8 +5872,10 @@
 {
 "Name": "Khetlal",
 "PostCode": "5920",
+"Location": {
 "Latitude": 25.0389,
 "Longitude": 89.1214
+}
 }
 ],
 "PostCode": "5920"
@@ -4756,8 +5886,10 @@
 {
 "Name": "kalai",
 "PostCode": "5930",
+"Location": {
 "Latitude": 25.0617,
 "Longitude": 89.1665
+}
 }
 ],
 "PostCode": "5930"
@@ -4768,20 +5900,26 @@
 {
 "Name": "Akklepur",
 "PostCode": "5940",
+"Location": {
 "Latitude": 25.0971,
 "Longitude": 89.1033
+}
 },
 {
 "Name": "jamalganj",
 "PostCode": "5941",
+"Location": {
 "Latitude": 25.0971,
 "Longitude": 89.1033
+}
 },
 {
 "Name": "Tilakpur",
 "PostCode": "5942",
+"Location": {
 "Latitude": 25.0971,
 "Longitude": 89.1033
+}
 }
 ]
 }
@@ -4797,8 +5935,10 @@
 {
 "Name": "Naogaon Sadar",
 "PostCode": "6500",
+"Location": {
 "Latitude": 24.9317,
 "Longitude": 88.6882
+}
 }
 ],
 "PostCode": "6500"
@@ -4809,20 +5949,26 @@
 {
 "Name": "Balihar",
 "PostCode": "6512",
+"Location": {
 "Latitude": 24.816,
 "Longitude": 88.7098
+}
 },
 {
 "Name": "Manda",
 "PostCode": "6511",
+"Location": {
 "Latitude": 24.7989,
 "Longitude": 88.7028
+}
 },
 {
 "Name": "Prasadpur",
 "PostCode": "6510",
+"Location": {
 "Latitude": 24.833,
 "Longitude": 88.7168
+}
 }
 ]
 },
@@ -4832,8 +5978,10 @@
 {
 "Name": "Niamatpur",
 "PostCode": "6520",
+"Location": {
 "Latitude": 24.8354,
 "Longitude": 88.5646
+}
 }
 ],
 "PostCode": "6520"
@@ -4844,8 +5992,10 @@
 {
 "Name": "Mahadebpur",
 "PostCode": "6530",
+"Location": {
 "Latitude": 24.9186,
 "Longitude": 88.7511
+}
 }
 ],
 "PostCode": "6530"
@@ -4856,8 +6006,10 @@
 {
 "Name": "Patnitala",
 "PostCode": "6540",
+"Location": {
 "Latitude": 25.0462,
 "Longitude": 88.7515
+}
 }
 ],
 "PostCode": "6540"
@@ -4868,20 +6020,26 @@
 {
 "Name": "Nitpur",
 "PostCode": "6550",
+"Location": {
 "Latitude": 25.0285,
 "Longitude": 88.4611
+}
 },
 {
 "Name": "Panguria",
 "PostCode": "6552",
+"Location": {
 "Latitude": 25.0285,
 "Longitude": 88.4611
+}
 },
 {
 "Name": "Porsa",
 "PostCode": "6551",
+"Location": {
 "Latitude": 25.0285,
 "Longitude": 88.4611
+}
 }
 ]
 },
@@ -4891,14 +6049,18 @@
 {
 "Name": "Moduhil",
 "PostCode": "6561",
+"Location": {
 "Latitude": 25.1198,
 "Longitude": 88.6013
+}
 },
 {
 "Name": "Sapahar",
 "PostCode": "6560",
+"Location": {
 "Latitude": 25.1198,
 "Longitude": 88.6013
+}
 }
 ]
 },
@@ -4908,8 +6070,10 @@
 {
 "Name": "Badalgachhi",
 "PostCode": "6570",
+"Location": {
 "Latitude": 24.9678,
 "Longitude": 88.9074
+}
 }
 ],
 "PostCode": "6570"
@@ -4920,8 +6084,10 @@
 {
 "Name": "Dhamuirhat",
 "PostCode": "6580",
+"Location": {
 "Latitude": 24.9317,
 "Longitude": 88.6882
+}
 }
 ],
 "PostCode": "6580"
@@ -4932,14 +6098,18 @@
 {
 "Name": "Kashimpur",
 "PostCode": "6591",
+"Location": {
 "Latitude": 24.7398,
 "Longitude": 88.9639
+}
 },
 {
 "Name": "Raninagar",
 "PostCode": "6590",
+"Location": {
 "Latitude": 24.7398,
 "Longitude": 88.9639
+}
 }
 ]
 },
@@ -4949,14 +6119,18 @@
 {
 "Name": "Ahsanganj",
 "PostCode": "6596",
+"Location": {
 "Latitude": 24.7398,
 "Longitude": 88.9639
+}
 },
 {
 "Name": "Bandai",
 "PostCode": "6597",
+"Location": {
 "Latitude": 24.7398,
 "Longitude": 88.9639
+}
 }
 ]
 }
@@ -4972,26 +6146,34 @@
 {
 "Name": "Baiddyabal Gharia",
 "PostCode": "6402",
+"Location": {
 "Latitude": 24.3519,
 "Longitude": 89.0462
+}
 },
 {
 "Name": "Digapatia",
 "PostCode": "6401",
+"Location": {
 "Latitude": 24.3519,
 "Longitude": 89.0462
+}
 },
 {
 "Name": "Madhnagar",
 "PostCode": "6403",
+"Location": {
 "Latitude": 24.3519,
 "Longitude": 89.0462
+}
 },
 {
 "Name": "Natore Sadar",
 "PostCode": "6400",
+"Location": {
 "Latitude": 24.3519,
 "Longitude": 89.0462
+}
 }
 ]
 },
@@ -5001,8 +6183,10 @@
 {
 "Name": "Laxman",
 "PostCode": "6410",
+"Location": {
 "Latitude": 24.3519,
 "Longitude": 89.0462
+}
 }
 ],
 "PostCode": "6410"
@@ -5013,20 +6197,26 @@
 {
 "Name": "Abdulpur",
 "PostCode": "6422",
+"Location": {
 "Latitude": 24.2581,
 "Longitude": 88.9859
+}
 },
 {
 "Name": "Gopalpur U.P.O",
 "PostCode": "6420",
+"Location": {
 "Latitude": 24.2581,
 "Longitude": 88.9859
+}
 },
 {
 "Name": "Lalpur S.O",
 "PostCode": "6421",
+"Location": {
 "Latitude": 24.2581,
 "Longitude": 88.9859
+}
 }
 ]
 },
@@ -5036,20 +6226,26 @@
 {
 "Name": "Baraigram",
 "PostCode": "6432",
+"Location": {
 "Latitude": 24.2952,
 "Longitude": 89.0063
+}
 },
 {
 "Name": "Dayarampur",
 "PostCode": "6431",
+"Location": {
 "Latitude": 24.2952,
 "Longitude": 89.0063
+}
 },
 {
 "Name": "Harua",
 "PostCode": "6430",
+"Location": {
 "Latitude": 24.2952,
 "Longitude": 89.0063
+}
 }
 ]
 },
@@ -5059,8 +6255,10 @@
 {
 "Name": "Hatgurudaspur",
 "PostCode": "6440",
+"Location": {
 "Latitude": 24.3519,
 "Longitude": 89.0462
+}
 }
 ],
 "PostCode": "6440"
@@ -5071,8 +6269,10 @@
 {
 "Name": "Singra",
 "PostCode": "6450",
+"Location": {
 "Latitude": 24.5026,
 "Longitude": 89.1462
+}
 }
 ],
 "PostCode": "6450"
@@ -5089,26 +6289,34 @@
 {
 "Name": "Amnura",
 "PostCode": "6303",
+"Location": {
 "Latitude": 24.6194,
 "Longitude": 88.403
+}
 },
 {
 "Name": "Chapinawbganj Sadar",
 "PostCode": "6300",
+"Location": {
 "Latitude": 24.5992,
 "Longitude": 88.2939
+}
 },
 {
 "Name": "Rajarampur",
 "PostCode": "6301",
+"Location": {
 "Latitude": 24.5797,
 "Longitude": 88.2741
+}
 },
 {
 "Name": "Ramchandrapur",
 "PostCode": "6302",
+"Location": {
 "Latitude": 24.5987,
 "Longitude": 88.2046
+}
 }
 ]
 },
@@ -5118,14 +6326,18 @@
 {
 "Name": "Mandumala",
 "PostCode": "6311",
+"Location": {
 "Latitude": 24.7303,
 "Longitude": 88.4203
+}
 },
 {
 "Name": "Nachol",
 "PostCode": "6310",
+"Location": {
 "Latitude": 24.7303,
 "Longitude": 88.4203
+}
 }
 ]
 },
@@ -5135,14 +6347,18 @@
 {
 "Name": "Gomashtapur",
 "PostCode": "6321",
+"Location": {
 "Latitude": 24.6962,
 "Longitude": 88.2995
+}
 },
 {
 "Name": "Rohanpur",
 "PostCode": "6320",
+"Location": {
 "Latitude": 24.6962,
 "Longitude": 88.2995
+}
 }
 ]
 },
@@ -5152,8 +6368,10 @@
 {
 "Name": "Bholahat",
 "PostCode": "6330",
+"Location": {
 "Latitude": 24.953,
 "Longitude": 88.1957
+}
 }
 ],
 "PostCode": "6330"
@@ -5164,20 +6382,26 @@
 {
 "Name": "Kansart",
 "PostCode": "6341",
+"Location": {
 "Latitude": 24.6962,
 "Longitude": 88.2995
+}
 },
 {
 "Name": "Manaksha",
 "PostCode": "6342",
+"Location": {
 "Latitude": 24.6962,
 "Longitude": 88.2995
+}
 },
 {
 "Name": "Shibganj U.P.O",
 "PostCode": "6340",
+"Location": {
 "Latitude": 24.6962,
 "Longitude": 88.2995
+}
 }
 ]
 }
@@ -5193,20 +6417,26 @@
 {
 "Name": "Hamayetpur",
 "PostCode": "6602",
+"Location": {
 "Latitude": 24.0034,
 "Longitude": 89.2493
+}
 },
 {
 "Name": "Kaliko Cotton Mills",
 "PostCode": "6601",
+"Location": {
 "Latitude": 24.0034,
 "Longitude": 89.2493
+}
 },
 {
 "Name": "Pabna Sadar",
 "PostCode": "6600",
+"Location": {
 "Latitude": 24.0034,
 "Longitude": 89.2493
+}
 }
 ]
 },
@@ -5216,8 +6446,10 @@
 {
 "Name": "Debottar",
 "PostCode": "6610",
+"Location": {
 "Latitude": 24.0793,
 "Longitude": 89.4358
+}
 }
 ],
 "PostCode": "6610"
@@ -5228,26 +6460,34 @@
 {
 "Name": "Dhapari",
 "PostCode": "6621",
+"Location": {
 "Latitude": 24.393,
 "Longitude": 89.0088
+}
 },
 {
 "Name": "Ishwardi",
 "PostCode": "6620",
+"Location": {
 "Latitude": 24.393,
 "Longitude": 89.0088
+}
 },
 {
 "Name": "Pakshi",
 "PostCode": "6622",
+"Location": {
 "Latitude": 24.393,
 "Longitude": 89.0088
+}
 },
 {
 "Name": "Rajapur",
 "PostCode": "6623",
+"Location": {
 "Latitude": 24.393,
 "Longitude": 89.0088
+}
 }
 ]
 },
@@ -5257,8 +6497,10 @@
 {
 "Name": "Chatmohar",
 "PostCode": "6630",
+"Location": {
 "Latitude": 24.2296,
 "Longitude": 89.2911
+}
 }
 ],
 "PostCode": "6630"
@@ -5269,8 +6511,10 @@
 {
 "Name": "Bhangura",
 "PostCode": "6640",
+"Location": {
 "Latitude": 24.0793,
 "Longitude": 89.4358
+}
 }
 ],
 "PostCode": "6640"
@@ -5281,8 +6525,10 @@
 {
 "Name": "Banwarinagar",
 "PostCode": "6650",
+"Location": {
 "Latitude": 24.0793,
 "Longitude": 89.4358
+}
 }
 ],
 "PostCode": "6650"
@@ -5293,14 +6539,18 @@
 {
 "Name": "Sagarkandi",
 "PostCode": "6661",
+"Location": {
 "Latitude": 23.8505,
 "Longitude": 89.5954
+}
 },
 {
 "Name": "Sujanagar",
 "PostCode": "6660",
+"Location": {
 "Latitude": 23.8505,
 "Longitude": 89.5954
+}
 }
 ]
 },
@@ -5310,8 +6560,10 @@
 {
 "Name": "Sathia",
 "PostCode": "6670",
+"Location": {
 "Latitude": 24.0793,
 "Longitude": 89.4358
+}
 }
 ],
 "PostCode": "6670"
@@ -5322,26 +6574,34 @@
 {
 "Name": "Bera",
 "PostCode": "6680",
+"Location": {
 "Latitude": 24.0782,
 "Longitude": 89.6326
+}
 },
 {
 "Name": "Kashinathpur",
 "PostCode": "6682",
+"Location": {
 "Latitude": 23.965699999999998,
 "Longitude": 89.6076
+}
 },
 {
 "Name": "Nakalia",
 "PostCode": "6681",
+"Location": {
 "Latitude": 24.0347,
 "Longitude": 89.6655
+}
 },
 {
 "Name": "Puran Bharenga",
 "PostCode": "6683",
+"Location": {
 "Latitude": 24.0262,
 "Longitude": 89.6352
+}
 }
 ]
 }
@@ -5357,50 +6617,66 @@
 {
 "Name": "Binodpur Bazar",
 "PostCode": "6206",
+"Location": {
 "Latitude": 24.7514,
 "Longitude": 88.3819
+}
 },
 {
 "Name": "Ghuramara",
 "PostCode": "6100",
+"Location": {
 "Latitude": 24.3663,
 "Longitude": 88.605
+}
 },
 {
 "Name": "Kazla",
 "PostCode": "6204",
+"Location": {
 "Latitude": 24.7514,
 "Longitude": 88.3819
+}
 },
 {
 "Name": "Rajshahi Canttonment",
 "PostCode": "6202",
+"Location": {
 "Latitude": 24.7514,
 "Longitude": 88.3819
+}
 },
 {
 "Name": "Rajshahi Court",
 "PostCode": "6201",
+"Location": {
 "Latitude": 24.7514,
 "Longitude": 88.3819
+}
 },
 {
 "Name": "Rajshahi Sadar",
 "PostCode": "6000",
+"Location": {
 "Latitude": 24.3644,
 "Longitude": 88.6049
+}
 },
 {
 "Name": "Rajshahi University",
 "PostCode": "6205",
+"Location": {
 "Latitude": 24.7514,
 "Longitude": 88.3819
+}
 },
 {
 "Name": "Sapura",
 "PostCode": "6203",
+"Location": {
 "Latitude": 24.7514,
 "Longitude": 88.3819
+}
 }
 ]
 },
@@ -5410,20 +6686,26 @@
 {
 "Name": "Lalitganj",
 "PostCode": "6210",
+"Location": {
 "Latitude": 24.4067,
 "Longitude": 89.1145
+}
 },
 {
 "Name": "Rajshahi Sugar Mills",
 "PostCode": "6211",
+"Location": {
 "Latitude": 24.4067,
 "Longitude": 89.1145
+}
 },
 {
 "Name": "Shyampur",
 "PostCode": "6212",
+"Location": {
 "Latitude": 24.4067,
 "Longitude": 89.1145
+}
 }
 ]
 },
@@ -5433,8 +6715,10 @@
 {
 "Name": "Khodmohanpur",
 "PostCode": "6220",
+"Location": {
 "Latitude": 24.4461,
 "Longitude": 88.7166
+}
 }
 ],
 "PostCode": "6220"
@@ -5445,8 +6729,10 @@
 {
 "Name": "Tanor",
 "PostCode": "6230",
+"Location": {
 "Latitude": 24.5909,
 "Longitude": 88.5778
+}
 }
 ],
 "PostCode": "6230"
@@ -5457,8 +6743,10 @@
 {
 "Name": "Durgapur",
 "PostCode": "6240",
+"Location": {
 "Latitude": 24.4466,
 "Longitude": 88.7636
+}
 }
 ],
 "PostCode": "6240"
@@ -5469,14 +6757,18 @@
 {
 "Name": "Bhabaniganj",
 "PostCode": "6250",
+"Location": {
 "Latitude": 24.5837,
 "Longitude": 88.8216
+}
 },
 {
 "Name": "Taharpur",
 "PostCode": "6251",
+"Location": {
 "Latitude": 24.5837,
 "Longitude": 88.8216
+}
 }
 ]
 },
@@ -5486,8 +6778,10 @@
 {
 "Name": "Putia",
 "PostCode": "6260",
+"Location": {
 "Latitude": 24.4461,
 "Longitude": 88.7166
+}
 }
 ],
 "PostCode": "6260"
@@ -5498,14 +6792,18 @@
 {
 "Name": "Charghat",
 "PostCode": "6270",
+"Location": {
 "Latitude": 24.2821,
 "Longitude": 88.7585
+}
 },
 {
 "Name": "Sarda",
 "PostCode": "6271",
+"Location": {
 "Latitude": 24.2821,
 "Longitude": 88.7585
+}
 }
 ]
 },
@@ -5515,14 +6813,18 @@
 {
 "Name": "Arani",
 "PostCode": "6281",
+"Location": {
 "Latitude": 24.2878,
 "Longitude": 88.8621
+}
 },
 {
 "Name": "Bagha",
 "PostCode": "6280",
+"Location": {
 "Latitude": 24.1978,
 "Longitude": 88.8464
+}
 }
 ]
 },
@@ -5532,14 +6834,18 @@
 {
 "Name": "Godagari",
 "PostCode": "6290",
+"Location": {
 "Latitude": 24.4683,
 "Longitude": 88.3236
+}
 },
 {
 "Name": "Premtoli",
 "PostCode": "6291",
+"Location": {
 "Latitude": 24.4683,
 "Longitude": 88.3236
+}
 }
 ]
 }
@@ -5555,20 +6861,26 @@
 {
 "Name": "Raipur",
 "PostCode": "6701",
+"Location": {
 "Latitude": 24.6494,
 "Longitude": 88.9346
+}
 },
 {
 "Name": "Rashidabad",
 "PostCode": "6702",
+"Location": {
 "Latitude": 24.6494,
 "Longitude": 88.9346
+}
 },
 {
 "Name": "Sirajganj Sadar",
 "PostCode": "6700",
+"Location": {
 "Latitude": 24.6494,
 "Longitude": 88.9346
+}
 }
 ]
 },
@@ -5578,20 +6890,26 @@
 {
 "Name": "Gandail",
 "PostCode": "6712",
+"Location": {
 "Latitude": 24.6115,
 "Longitude": 89.6328
+}
 },
 {
 "Name": "Kazipur",
 "PostCode": "6710",
+"Location": {
 "Latitude": 24.6115,
 "Longitude": 89.6328
+}
 },
 {
 "Name": "Shuvgachha",
 "PostCode": "6711",
+"Location": {
 "Latitude": 24.6115,
 "Longitude": 89.6328
+}
 }
 ]
 },
@@ -5601,14 +6919,18 @@
 {
 "Name": "Dhangora",
 "PostCode": "6720",
+"Location": {
 "Latitude": 24.4083,
 "Longitude": 89.5358
+}
 },
 {
 "Name": "Malonga",
 "PostCode": "6721",
+"Location": {
 "Latitude": 24.4083,
 "Longitude": 89.5358
+}
 }
 ]
 },
@@ -5618,8 +6940,10 @@
 {
 "Name": "Baiddya Jam Toil",
 "PostCode": "6730",
+"Location": {
 "Latitude": 24.4083,
 "Longitude": 89.5358
+}
 }
 ],
 "PostCode": "6730"
@@ -5630,32 +6954,42 @@
 {
 "Name": "Belkuchi",
 "PostCode": "6740",
+"Location": {
 "Latitude": 24.2981,
 "Longitude": 89.7041
+}
 },
 {
 "Name": "Enayetpur",
 "PostCode": "6751",
+"Location": {
 "Latitude": 25.0468,
 "Longitude": 89.33
+}
 },
 {
 "Name": "Rajapur",
 "PostCode": "6742",
+"Location": {
 "Latitude": 24.3496,
 "Longitude": 89.7059
+}
 },
 {
 "Name": "Sohagpur",
 "PostCode": "6741",
+"Location": {
 "Latitude": 24.3238,
 "Longitude": 89.705
+}
 },
 {
 "Name": "Sthal",
 "PostCode": "6752",
+"Location": {
 "Latitude": 24.1972,
 "Longitude": 89.7272
+}
 }
 ]
 },
@@ -5665,26 +6999,34 @@
 {
 "Name": "Lahiri Mohanpur",
 "PostCode": "6762",
+"Location": {
 "Latitude": 24.3016,
 "Longitude": 89.5942
+}
 },
 {
 "Name": "Salap",
 "PostCode": "6763",
+"Location": {
 "Latitude": 24.2905,
 "Longitude": 89.6183
+}
 },
 {
 "Name": "Ullapara",
 "PostCode": "6760",
+"Location": {
 "Latitude": 24.3128,
 "Longitude": 89.5701
+}
 },
 {
 "Name": "Ullapara R.S",
 "PostCode": "6761",
+"Location": {
 "Latitude": 24.3016,
 "Longitude": 89.5942
+}
 }
 ]
 },
@@ -5694,26 +7036,34 @@
 {
 "Name": "Jamirta",
 "PostCode": "6772",
+"Location": {
 "Latitude": 24.1484,
 "Longitude": 89.6499
+}
 },
 {
 "Name": "Kaijuri",
 "PostCode": "6773",
+"Location": {
 "Latitude": 24.1525,
 "Longitude": 89.649
+}
 },
 {
 "Name": "Porjana",
 "PostCode": "6771",
+"Location": {
 "Latitude": 24.1565,
 "Longitude": 89.6481
+}
 },
 {
 "Name": "Shahjadpur",
 "PostCode": "6770",
+"Location": {
 "Latitude": 24.1525,
 "Longitude": 89.649
+}
 }
 ]
 },
@@ -5723,8 +7073,10 @@
 {
 "Name": "Tarash",
 "PostCode": "6780",
+"Location": {
 "Latitude": 24.4303,
 "Longitude": 89.3722
+}
 }
 ],
 "PostCode": "6780"
@@ -5747,8 +7099,10 @@
 {
 "Name": "Bandarban Sadar",
 "PostCode": "4600",
+"Location": {
 "Latitude": 21.839,
 "Longitude": 92.3415
+}
 }
 ],
 "PostCode": "4600"
@@ -5759,8 +7113,10 @@
 {
 "Name": "Roanchhari",
 "PostCode": "4610",
+"Location": {
 "Latitude": 21.839,
 "Longitude": 92.3415
+}
 }
 ],
 "PostCode": "4610"
@@ -5771,8 +7127,10 @@
 {
 "Name": "Ruma",
 "PostCode": "4620",
+"Location": {
 "Latitude": 22.0492,
 "Longitude": 92.4093
+}
 }
 ],
 "PostCode": "4620"
@@ -5783,14 +7141,18 @@
 {
 "Name": "Lama",
 "PostCode": "4641",
+"Location": {
 "Latitude": 21.7744,
 "Longitude": 92.2191
+}
 },
 {
 "Name": "Thanchi",
 "PostCode": "4630",
+"Location": {
 "Latitude": 21.839,
 "Longitude": 92.3415
+}
 }
 ]
 },
@@ -5800,8 +7162,10 @@
 {
 "Name": "Alikadam",
 "PostCode": "4650",
+"Location": {
 "Latitude": 21.6934,
 "Longitude": 92.3963
+}
 }
 ],
 "PostCode": "4650"
@@ -5812,8 +7176,10 @@
 {
 "Name": "Naikhong",
 "PostCode": "4660",
+"Location": {
 "Latitude": 21.839,
 "Longitude": 92.3415
+}
 }
 ],
 "PostCode": "4660"
@@ -5830,32 +7196,42 @@
 {
 "Name": "Ashuganj",
 "PostCode": "3402",
+"Location": {
 "Latitude": 24.0402,
 "Longitude": 91.0117
+}
 },
 {
 "Name": "Ashuganj Share",
 "PostCode": "3403",
+"Location": {
 "Latitude": 24.0402,
 "Longitude": 91.0117
+}
 },
 {
 "Name": "Brahamanbaria Sadar",
 "PostCode": "3400",
+"Location": {
 "Latitude": 24.0402,
 "Longitude": 91.0117
+}
 },
 {
 "Name": "Poun",
 "PostCode": "3404",
+"Location": {
 "Latitude": 24.0402,
 "Longitude": 91.0117
+}
 },
 {
 "Name": "Talshahar",
 "PostCode": "3401",
+"Location": {
 "Latitude": 24.0402,
 "Longitude": 91.0117
+}
 }
 ]
 },
@@ -5865,56 +7241,74 @@
 {
 "Name": "Jibanganj",
 "PostCode": "3419",
+"Location": {
 "Latitude": 23.8455,
 "Longitude": 90.9851
+}
 },
 {
 "Name": "Kaitala",
 "PostCode": "3417",
+"Location": {
 "Latitude": 23.8709,
 "Longitude": 91.0719
+}
 },
 {
 "Name": "Laubfatehpur",
 "PostCode": "3411",
+"Location": {
 "Latitude": 23.8455,
 "Longitude": 90.9851
+}
 },
 {
 "Name": "Nabinagar",
 "PostCode": "3410",
+"Location": {
 "Latitude": 23.8879,
 "Longitude": 90.9679
+}
 },
 {
 "Name": "Rasullabad",
 "PostCode": "3412",
+"Location": {
 "Latitude": 23.8455,
 "Longitude": 90.9851
+}
 },
 {
 "Name": "Ratanpur",
 "PostCode": "3414",
+"Location": {
 "Latitude": 23.8455,
 "Longitude": 90.9851
+}
 },
 {
 "Name": "Salimganj",
 "PostCode": "3418",
+"Location": {
 "Latitude": 23.8455,
 "Longitude": 90.9851
+}
 },
 {
 "Name": "Shahapur",
 "PostCode": "3415",
+"Location": {
 "Latitude": 23.7777,
 "Longitude": 90.9153
+}
 },
 {
 "Name": "Shamgram",
 "PostCode": "3413",
+"Location": {
 "Latitude": 23.8455,
 "Longitude": 90.9851
+}
 }
 ]
 },
@@ -5924,8 +7318,10 @@
 {
 "Name": "Banchharampur",
 "PostCode": "3420",
+"Location": {
 "Latitude": 23.906,
 "Longitude": 91.1189
+}
 }
 ],
 "PostCode": "3420"
@@ -5936,20 +7332,26 @@
 {
 "Name": "Chandura",
 "PostCode": "3432",
+"Location": {
 "Latitude": 24.0512,
 "Longitude": 91.2331
+}
 },
 {
 "Name": "Sarial",
 "PostCode": "3430",
+"Location": {
 "Latitude": 24.0512,
 "Longitude": 91.2331
+}
 },
 {
 "Name": "Shahbajpur",
 "PostCode": "3431",
+"Location": {
 "Latitude": 24.0512,
 "Longitude": 91.2331
+}
 }
 ]
 },
@@ -5959,14 +7361,18 @@
 {
 "Name": "Fandauk",
 "PostCode": "3441",
+"Location": {
 "Latitude": 24.2283,
 "Longitude": 91.2428
+}
 },
 {
 "Name": "Nasirnagar",
 "PostCode": "3440",
+"Location": {
 "Latitude": 24.2283,
 "Longitude": 91.2428
+}
 }
 ]
 },
@@ -5976,20 +7382,26 @@
 {
 "Name": "Akhaura",
 "PostCode": "3450",
+"Location": {
 "Latitude": 23.8724,
 "Longitude": 91.2077
+}
 },
 {
 "Name": "Azampur",
 "PostCode": "3451",
+"Location": {
 "Latitude": 23.8529,
 "Longitude": 91.2122
+}
 },
 {
 "Name": "Gangasagar",
 "PostCode": "3452",
+"Location": {
 "Latitude": 23.8333,
 "Longitude": 91.2167
+}
 }
 ]
 },
@@ -5999,32 +7411,42 @@
 {
 "Name": "Chandidar",
 "PostCode": "3462",
+"Location": {
 "Latitude": 23.8014,
 "Longitude": 91.1468
+}
 },
 {
 "Name": "Chargachh",
 "PostCode": "3463",
+"Location": {
 "Latitude": 23.8014,
 "Longitude": 91.1468
+}
 },
 {
 "Name": "Gopinathpur",
 "PostCode": "3464",
+"Location": {
 "Latitude": 23.7943,
 "Longitude": 91.183
+}
 },
 {
 "Name": "Kasba",
 "PostCode": "3460",
+"Location": {
 "Latitude": 23.815,
 "Longitude": 91.1417
+}
 },
 {
 "Name": "Kuti",
 "PostCode": "3461",
+"Location": {
 "Latitude": 23.795,
 "Longitude": 91.1158
+}
 }
 ]
 }
@@ -6040,26 +7462,34 @@
 {
 "Name": "Baburhat",
 "PostCode": "3602",
+"Location": {
 "Latitude": 23.2453,
 "Longitude": 90.7281
+}
 },
 {
 "Name": "Chandpur Sadar",
 "PostCode": "3600",
+"Location": {
 "Latitude": 23.2453,
 "Longitude": 90.7281
+}
 },
 {
 "Name": "Puranbazar",
 "PostCode": "3601",
+"Location": {
 "Latitude": 23.2453,
 "Longitude": 90.7281
+}
 },
 {
 "Name": "Sahatali",
 "PostCode": "3603",
+"Location": {
 "Latitude": 23.2453,
 "Longitude": 90.7281
+}
 }
 ]
 },
@@ -6069,14 +7499,18 @@
 {
 "Name": "Bolakhal",
 "PostCode": "3611",
+"Location": {
 "Latitude": 23.2519,
 "Longitude": 90.8551
+}
 },
 {
 "Name": "Hajiganj",
 "PostCode": "3610",
+"Location": {
 "Latitude": 23.2519,
 "Longitude": 90.8551
+}
 }
 ]
 },
@@ -6086,32 +7520,42 @@
 {
 "Name": "Chotoshi",
 "PostCode": "3623",
+"Location": {
 "Latitude": 23.2748,
 "Longitude": 90.7355
+}
 },
 {
 "Name": "Islamia Madrasha",
 "PostCode": "3624",
+"Location": {
 "Latitude": 23.2748,
 "Longitude": 90.7355
+}
 },
 {
 "Name": "Khilabazar",
 "PostCode": "3621",
+"Location": {
 "Latitude": 23.2748,
 "Longitude": 90.7355
+}
 },
 {
 "Name": "Pashchim Kherihar Al",
 "PostCode": "3622",
+"Location": {
 "Latitude": 23.2748,
 "Longitude": 90.7355
+}
 },
 {
 "Name": "Shahrasti",
 "PostCode": "3620",
+"Location": {
 "Latitude": 23.2748,
 "Longitude": 90.7355
+}
 }
 ]
 },
@@ -6121,26 +7565,34 @@
 {
 "Name": "Kachua",
 "PostCode": "3630",
+"Location": {
 "Latitude": 23.3485,
 "Longitude": 90.9085
+}
 },
 {
 "Name": "Pak Shrirampur",
 "PostCode": "3631",
+"Location": {
 "Latitude": 23.3485,
 "Longitude": 90.9085
+}
 },
 {
 "Name": "Rahima Nagar",
 "PostCode": "3632",
+"Location": {
 "Latitude": 23.3485,
 "Longitude": 90.9085
+}
 },
 {
 "Name": "Shachar",
 "PostCode": "3633",
+"Location": {
 "Latitude": 23.3485,
 "Longitude": 90.9085
+}
 }
 ]
 },
@@ -6150,20 +7602,26 @@
 {
 "Name": "Kalipur",
 "PostCode": "3642",
+"Location": {
 "Latitude": 23.4667,
 "Longitude": 90.6333
+}
 },
 {
 "Name": "Matlobganj",
 "PostCode": "3640",
+"Location": {
 "Latitude": 23.4326,
 "Longitude": 90.6163
+}
 },
 {
 "Name": "Mohanpur",
 "PostCode": "3641",
+"Location": {
 "Latitude": 23.3986,
 "Longitude": 90.5992
+}
 }
 ]
 },
@@ -6173,38 +7631,50 @@
 {
 "Name": "Chandra",
 "PostCode": "3651",
+"Location": {
 "Latitude": 23.1356,
 "Longitude": 90.7434
+}
 },
 {
 "Name": "Faridganj",
 "PostCode": "3650",
+"Location": {
 "Latitude": 23.1356,
 "Longitude": 90.7434
+}
 },
 {
 "Name": "Gridkaliandia",
 "PostCode": "3653",
+"Location": {
 "Latitude": 23.1356,
 "Longitude": 90.7434
+}
 },
 {
 "Name": "Islampur Shah Isain",
 "PostCode": "3655",
+"Location": {
 "Latitude": 23.1356,
 "Longitude": 90.7434
+}
 },
 {
 "Name": "Rampurbazar",
 "PostCode": "3654",
+"Location": {
 "Latitude": 23.1356,
 "Longitude": 90.7434
+}
 },
 {
 "Name": "Rupsha",
 "PostCode": "3652",
+"Location": {
 "Latitude": 23.1356,
 "Longitude": 90.7434
+}
 }
 ]
 },
@@ -6214,14 +7684,18 @@
 {
 "Name": "Gandamara",
 "PostCode": "3661",
+"Location": {
 "Latitude": 23.0768,
 "Longitude": 90.681
+}
 },
 {
 "Name": "Hayemchar",
 "PostCode": "3660",
+"Location": {
 "Latitude": 23.0768,
 "Longitude": 90.681
+}
 }
 ]
 }
@@ -6237,164 +7711,218 @@
 {
 "Name": "Al- Amin Baria Madra",
 "PostCode": "4221",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Amin Jute Mills",
 "PostCode": "4211",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Anandabazar",
 "PostCode": "4215",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Bayezid Bostami",
 "PostCode": "4210",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Chandgaon",
 "PostCode": "4212",
+"Location": {
 "Latitude": 22.3991,
 "Longitude": 91.8604
+}
 },
 {
 "Name": "Chawkbazar",
 "PostCode": "4203",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Chitt. Cantonment",
 "PostCode": "4220",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Chitt. Customs Acca",
 "PostCode": "4219",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Chitt. Politechnic In",
 "PostCode": "4209",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Chitt. Sailers Colon",
 "PostCode": "4218",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Chittagong Airport",
 "PostCode": "4205",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Chittagong Bandar",
 "PostCode": "4100",
+"Location": {
 "Latitude": 22.2225,
 "Longitude": 91.8412
+}
 },
 {
 "Name": "Chittagong GPO",
 "PostCode": "4000",
+"Location": {
 "Latitude": 22.3455,
 "Longitude": 91.8342
+}
 },
 {
 "Name": "Export Processing",
 "PostCode": "4223",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Firozshah",
 "PostCode": "4207",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Halishahar",
 "PostCode": "4216",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Halishshar",
 "PostCode": "4225",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Jalalabad",
 "PostCode": "4214",
+"Location": {
 "Latitude": 22.3906,
 "Longitude": 91.8126
+}
 },
 {
 "Name": "Jaldia Merine Accade",
 "PostCode": "4206",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Middle Patenga",
 "PostCode": "4222",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Mohard",
 "PostCode": "4208",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "North Halishahar",
 "PostCode": "4226",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "North Katuli",
 "PostCode": "4217",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Pahartoli",
 "PostCode": "4202",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Patenga",
 "PostCode": "4204",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Rampura TSO",
 "PostCode": "4224",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 },
 {
 "Name": "Wazedia",
 "PostCode": "4213",
+"Location": {
 "Latitude": 22.3948,
 "Longitude": 91.8365
+}
 }
 ]
 },
@@ -6404,20 +7932,26 @@
 {
 "Name": "Sandwip",
 "PostCode": "4300",
+"Location": {
 "Latitude": 22.5141,
 "Longitude": 91.4549
+}
 },
 {
 "Name": "Shiberhat",
 "PostCode": "4301",
+"Location": {
 "Latitude": 22.5141,
 "Longitude": 91.4549
+}
 },
 {
 "Name": "Urirchar",
 "PostCode": "4302",
+"Location": {
 "Latitude": 22.5141,
 "Longitude": 91.4549
+}
 }
 ]
 },
@@ -6427,50 +7961,66 @@
 {
 "Name": "Barabkunda",
 "PostCode": "4312",
+"Location": {
 "Latitude": 22.5808,
 "Longitude": 91.6842
+}
 },
 {
 "Name": "Baroidhala",
 "PostCode": "4311",
+"Location": {
 "Latitude": 22.504,
 "Longitude": 91.7121
+}
 },
 {
 "Name": "Bawashbaria",
 "PostCode": "4313",
+"Location": {
 "Latitude": 22.504,
 "Longitude": 91.7121
+}
 },
 {
 "Name": "Bhatiari",
 "PostCode": "4315",
+"Location": {
 "Latitude": 22.4281,
 "Longitude": 91.7504
+}
 },
 {
 "Name": "Fouzdarhat",
 "PostCode": "4316",
+"Location": {
 "Latitude": 22.504,
 "Longitude": 91.7121
+}
 },
 {
 "Name": "Jafrabad",
 "PostCode": "4317",
+"Location": {
 "Latitude": 22.3873,
 "Longitude": 91.7574
+}
 },
 {
 "Name": "Kumira",
 "PostCode": "4314",
+"Location": {
 "Latitude": 22.5038,
 "Longitude": 91.7106
+}
 },
 {
 "Name": "Sitakunda",
 "PostCode": "4310",
+"Location": {
 "Latitude": 22.62,
 "Longitude": 91.6578
+}
 }
 ]
 },
@@ -6480,50 +8030,66 @@
 {
 "Name": "Abutorab",
 "PostCode": "4321",
+"Location": {
 "Latitude": 22.8574,
 "Longitude": 91.5332
+}
 },
 {
 "Name": "Azampur",
 "PostCode": "4325",
+"Location": {
 "Latitude": 22.85,
 "Longitude": 91.5
+}
 },
 {
 "Name": "Bharawazhat",
 "PostCode": "4323",
+"Location": {
 "Latitude": 22.8574,
 "Longitude": 91.5332
+}
 },
 {
 "Name": "Darrogahat",
 "PostCode": "4322",
+"Location": {
 "Latitude": 22.8574,
 "Longitude": 91.5332
+}
 },
 {
 "Name": "Joarganj",
 "PostCode": "4324",
+"Location": {
 "Latitude": 22.8574,
 "Longitude": 91.5332
+}
 },
 {
 "Name": "Korerhat",
 "PostCode": "4327",
+"Location": {
 "Latitude": 22.8574,
 "Longitude": 91.5332
+}
 },
 {
 "Name": "Mirsharai",
 "PostCode": "4320",
+"Location": {
 "Latitude": 22.8647,
 "Longitude": 91.5664
+}
 },
 {
 "Name": "Mohazanhat",
 "PostCode": "4328",
+"Location": {
 "Latitude": 22.8574,
 "Longitude": 91.5332
+}
 }
 ]
 },
@@ -6533,56 +8099,74 @@
 {
 "Name": "Chitt.University",
 "PostCode": "4331",
+"Location": {
 "Latitude": 22.5264,
 "Longitude": 91.8087
+}
 },
 {
 "Name": "Fatahabad",
 "PostCode": "4335",
+"Location": {
 "Latitude": 22.5264,
 "Longitude": 91.8087
+}
 },
 {
 "Name": "Gorduara",
 "PostCode": "4332",
+"Location": {
 "Latitude": 22.5264,
 "Longitude": 91.8087
+}
 },
 {
 "Name": "Hathazari",
 "PostCode": "4330",
+"Location": {
 "Latitude": 22.5052,
 "Longitude": 91.8134
+}
 },
 {
 "Name": "Katirhat",
 "PostCode": "4333",
+"Location": {
 "Latitude": 22.5264,
 "Longitude": 91.8087
+}
 },
 {
 "Name": "Madrasa",
 "PostCode": "4339",
+"Location": {
 "Latitude": 22.5264,
 "Longitude": 91.8087
+}
 },
 {
 "Name": "Mirzapur",
 "PostCode": "4334",
+"Location": {
 "Latitude": 22.5476,
 "Longitude": 91.804
+}
 },
 {
 "Name": "Nuralibari",
 "PostCode": "4337",
+"Location": {
 "Latitude": 22.5264,
 "Longitude": 91.8087
+}
 },
 {
 "Name": "Yunus Nagar",
 "PostCode": "4338",
+"Location": {
 "Latitude": 22.5264,
 "Longitude": 91.8087
+}
 }
 ]
 },
@@ -6592,62 +8176,82 @@
 {
 "Name": "B.I.T Post Office",
 "PostCode": "4349",
+"Location": {
 "Latitude": 22.5524,
 "Longitude": 91.8716
+}
 },
 {
 "Name": "Beenajuri",
 "PostCode": "4341",
+"Location": {
 "Latitude": 22.5524,
 "Longitude": 91.8716
+}
 },
 {
 "Name": "Dewanpur",
 "PostCode": "4347",
+"Location": {
 "Latitude": 22.5524,
 "Longitude": 91.8716
+}
 },
 {
 "Name": "Fatepur",
 "PostCode": "4345",
+"Location": {
 "Latitude": 22.5801,
 "Longitude": 91.8574
+}
 },
 {
 "Name": "Gahira",
 "PostCode": "4343",
+"Location": {
 "Latitude": 22.5247,
 "Longitude": 91.8858
+}
 },
 {
 "Name": "Guzra Noapara",
 "PostCode": "4346",
+"Location": {
 "Latitude": 22.5524,
 "Longitude": 91.8716
+}
 },
 {
 "Name": "jagannath Hat",
 "PostCode": "4344",
+"Location": {
 "Latitude": 22.5524,
 "Longitude": 91.8716
+}
 },
 {
 "Name": "Kundeshwari",
 "PostCode": "4342",
+"Location": {
 "Latitude": 22.5524,
 "Longitude": 91.8716
+}
 },
 {
 "Name": "Mohamuni",
 "PostCode": "4348",
+"Location": {
 "Latitude": 22.5524,
 "Longitude": 91.8716
+}
 },
 {
 "Name": "Rouzan",
 "PostCode": "4340",
+"Location": {
 "Latitude": 22.5524,
 "Longitude": 91.8716
+}
 }
 ]
 },
@@ -6657,38 +8261,50 @@
 {
 "Name": "Bhandar Sharif",
 "PostCode": "4352",
+"Location": {
 "Latitude": 22.6746,
 "Longitude": 91.8046
+}
 },
 {
 "Name": "Fatikchhari",
 "PostCode": "4350",
+"Location": {
 "Latitude": 22.725,
 "Longitude": 91.7675
+}
 },
 {
 "Name": "Harualchhari",
 "PostCode": "4354",
+"Location": {
 "Latitude": 22.6746,
 "Longitude": 91.8046
+}
 },
 {
 "Name": "Najirhat",
 "PostCode": "4353",
+"Location": {
 "Latitude": 22.6746,
 "Longitude": 91.8046
+}
 },
 {
 "Name": "Nanupur",
 "PostCode": "4351",
+"Location": {
 "Latitude": 22.6243,
 "Longitude": 91.8416
+}
 },
 {
 "Name": "Narayanhat",
 "PostCode": "4355",
+"Location": {
 "Latitude": 22.6746,
 "Longitude": 91.8046
+}
 }
 ]
 },
@@ -6698,14 +8314,18 @@
 {
 "Name": "Dhamair",
 "PostCode": "4361",
+"Location": {
 "Latitude": 22.4075,
 "Longitude": 91.9783
+}
 },
 {
 "Name": "Rangunia",
 "PostCode": "4360",
+"Location": {
 "Latitude": 22.4675,
 "Longitude": 92.0636
+}
 }
 ]
 },
@@ -6715,44 +8335,58 @@
 {
 "Name": "Boalkhali",
 "PostCode": "4366",
+"Location": {
 "Latitude": 22.3357,
 "Longitude": 91.9266
+}
 },
 {
 "Name": "Charandwip",
 "PostCode": "4369",
+"Location": {
 "Latitude": 22.4192,
 "Longitude": 91.9447
+}
 },
 {
 "Name": "Iqbal Park",
 "PostCode": "4365",
+"Location": {
 "Latitude": 22.4075,
 "Longitude": 91.9783
+}
 },
 {
 "Name": "Kadurkhal",
 "PostCode": "4368",
+"Location": {
 "Latitude": 22.4075,
 "Longitude": 91.9783
+}
 },
 {
 "Name": "Kanungopara",
 "PostCode": "4363",
+"Location": {
 "Latitude": 22.4075,
 "Longitude": 91.9783
+}
 },
 {
 "Name": "Sakpura",
 "PostCode": "4367",
+"Location": {
 "Latitude": 22.4075,
 "Longitude": 91.9783
+}
 },
 {
 "Name": "Saroatoli",
 "PostCode": "4364",
+"Location": {
 "Latitude": 22.4075,
 "Longitude": 91.9783
+}
 }
 ]
 },
@@ -6762,14 +8396,18 @@
 {
 "Name": "Budhpara",
 "PostCode": "4371",
+"Location": {
 "Latitude": 22.2737,
 "Longitude": 91.9145
+}
 },
 {
 "Name": "Patiya Head Office",
 "PostCode": "4370",
+"Location": {
 "Latitude": 22.2451,
 "Longitude": 91.8821
+}
 }
 ]
 },
@@ -6779,20 +8417,26 @@
 {
 "Name": "Anowara",
 "PostCode": "4376",
+"Location": {
 "Latitude": 22.2433,
 "Longitude": 91.88
+}
 },
 {
 "Name": "Battali",
 "PostCode": "4378",
+"Location": {
 "Latitude": 22.2183,
 "Longitude": 91.8517
+}
 },
 {
 "Name": "Paroikora",
 "PostCode": "4377",
+"Location": {
 "Latitude": 22.2451,
 "Longitude": 91.8821
+}
 }
 ]
 },
@@ -6802,26 +8446,34 @@
 {
 "Name": "Barma",
 "PostCode": "4383",
+"Location": {
 "Latitude": 22.1201,
 "Longitude": 92.0614
+}
 },
 {
 "Name": "Dohazari",
 "PostCode": "4382",
+"Location": {
 "Latitude": 22.1639,
 "Longitude": 92.0733
+}
 },
 {
 "Name": "East Joara",
 "PostCode": "4380",
+"Location": {
 "Latitude": 22.1201,
 "Longitude": 92.0614
+}
 },
 {
 "Name": "Gachbaria",
 "PostCode": "4381",
+"Location": {
 "Latitude": 22.1201,
 "Longitude": 92.0614
+}
 }
 ]
 },
@@ -6831,20 +8483,26 @@
 {
 "Name": "Baitul Ijjat",
 "PostCode": "4387",
+"Location": {
 "Latitude": 22.1201,
 "Longitude": 92.0614
+}
 },
 {
 "Name": "Bazalia",
 "PostCode": "4388",
+"Location": {
 "Latitude": 22.1201,
 "Longitude": 92.0614
+}
 },
 {
 "Name": "Satkania",
 "PostCode": "4386",
+"Location": {
 "Latitude": 22.0764,
 "Longitude": 92.0496
+}
 }
 ]
 },
@@ -6854,26 +8512,34 @@
 {
 "Name": "Banigram",
 "PostCode": "4393",
+"Location": {
 "Latitude": 22.1251,
 "Longitude": 91.9179
+}
 },
 {
 "Name": "Gunagari",
 "PostCode": "4392",
+"Location": {
 "Latitude": 22.0915,
 "Longitude": 91.9246
+}
 },
 {
 "Name": "Jaldi",
 "PostCode": "4390",
+"Location": {
 "Latitude": 22.0086,
 "Longitude": 91.9869
+}
 },
 {
 "Name": "Khan Bahadur",
 "PostCode": "4391",
+"Location": {
 "Latitude": 22.058,
 "Longitude": 92.0091
+}
 }
 ]
 },
@@ -6883,20 +8549,26 @@
 {
 "Name": "Chunti",
 "PostCode": "4398",
+"Location": {
 "Latitude": 22.058,
 "Longitude": 92.0091
+}
 },
 {
 "Name": "Lohagara",
 "PostCode": "4396",
+"Location": {
 "Latitude": 22.0112,
 "Longitude": 92.1009
+}
 },
 {
 "Name": "Padua",
 "PostCode": "4397",
+"Location": {
 "Latitude": 22.0538,
 "Longitude": 92.1151
+}
 }
 ]
 }
@@ -6912,32 +8584,42 @@
 {
 "Name": "Comilla Contoment",
 "PostCode": "3501",
+"Location": {
 "Latitude": 23.3484,
 "Longitude": 91.0583
+}
 },
 {
 "Name": "Comilla Sadar",
 "PostCode": "3500",
+"Location": {
 "Latitude": 23.3484,
 "Longitude": 91.0583
+}
 },
 {
 "Name": "Courtbari",
 "PostCode": "3503",
+"Location": {
 "Latitude": 23.3484,
 "Longitude": 91.0583
+}
 },
 {
 "Name": "Halimanagar",
 "PostCode": "3502",
+"Location": {
 "Latitude": 23.3484,
 "Longitude": 91.0583
+}
 },
 {
 "Name": "Suaganj",
 "PostCode": "3504",
+"Location": {
 "Latitude": 23.3484,
 "Longitude": 91.0583
+}
 }
 ]
 },
@@ -6947,14 +8629,18 @@
 {
 "Name": "Chandia",
 "PostCode": "3510",
+"Location": {
 "Latitude": 23.539,
 "Longitude": 90.7511
+}
 },
 {
 "Name": "Madhaiabazar",
 "PostCode": "3511",
+"Location": {
 "Latitude": 23.539,
 "Longitude": 90.7511
+}
 }
 ]
 },
@@ -6964,26 +8650,34 @@
 {
 "Name": "Dashpara",
 "PostCode": "3518",
+"Location": {
 "Latitude": 23.539,
 "Longitude": 90.7511
+}
 },
 {
 "Name": "Daudkandi",
 "PostCode": "3516",
+"Location": {
 "Latitude": 23.5355,
 "Longitude": 90.7126
+}
 },
 {
 "Name": "Eliotganj",
 "PostCode": "3519",
+"Location": {
 "Latitude": 23.539,
 "Longitude": 90.7511
+}
 },
 {
 "Name": "Gouripur",
 "PostCode": "3517",
+"Location": {
 "Latitude": 23.5425,
 "Longitude": 90.7897
+}
 }
 ]
 },
@@ -6993,14 +8687,18 @@
 {
 "Name": "Burichang",
 "PostCode": "3520",
+"Location": {
 "Latitude": 23.5534,
 "Longitude": 91.129
+}
 },
 {
 "Name": "Maynamoti bazar",
 "PostCode": "3521",
+"Location": {
 "Latitude": 23.585,
 "Longitude": 91.0985
+}
 }
 ]
 },
@@ -7010,8 +8708,10 @@
 {
 "Name": "Brahmanpara",
 "PostCode": "3526",
+"Location": {
 "Latitude": 23.6165,
 "Longitude": 91.0679
+}
 }
 ],
 "PostCode": "3526"
@@ -7022,26 +8722,34 @@
 {
 "Name": "Barashalghar",
 "PostCode": "3532",
+"Location": {
 "Latitude": 23.3484,
 "Longitude": 91.0583
+}
 },
 {
 "Name": "Davidhar",
 "PostCode": "3530",
+"Location": {
 "Latitude": 23.3484,
 "Longitude": 91.0583
+}
 },
 {
 "Name": "Dhamtee",
 "PostCode": "3533",
+"Location": {
 "Latitude": 23.3484,
 "Longitude": 91.0583
+}
 },
 {
 "Name": "Gangamandal",
 "PostCode": "3531",
+"Location": {
 "Latitude": 23.3484,
 "Longitude": 91.0583
+}
 }
 ]
 },
@@ -7051,38 +8759,50 @@
 {
 "Name": "Bangra",
 "PostCode": "3543",
+"Location": {
 "Latitude": 23.4787,
 "Longitude": 90.8045
+}
 },
 {
 "Name": "Companyganj",
 "PostCode": "3542",
+"Location": {
 "Latitude": 23.4787,
 "Longitude": 90.8045
+}
 },
 {
 "Name": "Muradnagar",
 "PostCode": "3540",
+"Location": {
 "Latitude": 23.486,
 "Longitude": 90.8741
+}
 },
 {
 "Name": "Pantibazar",
 "PostCode": "3545",
+"Location": {
 "Latitude": 23.4787,
 "Longitude": 90.8045
+}
 },
 {
 "Name": "Ramchandarpur",
 "PostCode": "3541",
+"Location": {
 "Latitude": 23.4787,
 "Longitude": 90.8045
+}
 },
 {
 "Name": "Sonakanda",
 "PostCode": "3544",
+"Location": {
 "Latitude": 23.4714,
 "Longitude": 90.7349
+}
 }
 ]
 },
@@ -7092,8 +8812,10 @@
 {
 "Name": "Homna",
 "PostCode": "3546",
+"Location": {
 "Latitude": 23.4787,
 "Longitude": 90.8045
+}
 }
 ],
 "PostCode": "3546"
@@ -7104,20 +8826,26 @@
 {
 "Name": "Batisa",
 "PostCode": "3551",
+"Location": {
 "Latitude": 23.1957,
 "Longitude": 91.3129
+}
 },
 {
 "Name": "Chiora",
 "PostCode": "3552",
+"Location": {
 "Latitude": 23.2121,
 "Longitude": 91.3214
+}
 },
 {
 "Name": "Chouddagram",
 "PostCode": "3550",
+"Location": {
 "Latitude": 23.2286,
 "Longitude": 91.3298
+}
 }
 ]
 },
@@ -7127,20 +8855,26 @@
 {
 "Name": "Barura",
 "PostCode": "3560",
+"Location": {
 "Latitude": 23.3683,
 "Longitude": 91.0484
+}
 },
 {
 "Name": "Murdafarganj",
 "PostCode": "3562",
+"Location": {
 "Latitude": 23.3683,
 "Longitude": 91.0484
+}
 },
 {
 "Name": "Poyalgachha",
 "PostCode": "3561",
+"Location": {
 "Latitude": 23.3683,
 "Longitude": 91.0484
+}
 }
 ]
 },
@@ -7150,20 +8884,26 @@
 {
 "Name": "Bipulasar",
 "PostCode": "3572",
+"Location": {
 "Latitude": 23.0746,
 "Longitude": 91.1009
+}
 },
 {
 "Name": "Laksam",
 "PostCode": "3570",
+"Location": {
 "Latitude": 23.2402,
 "Longitude": 91.1214
+}
 },
 {
 "Name": "Lakshamanpur",
 "PostCode": "3571",
+"Location": {
 "Latitude": 23.1574,
 "Longitude": 91.1112
+}
 }
 ]
 },
@@ -7173,26 +8913,34 @@
 {
 "Name": "Chhariabazar",
 "PostCode": "3582",
+"Location": {
 "Latitude": 23.1084,
 "Longitude": 91.2683
+}
 },
 {
 "Name": "Dhalua",
 "PostCode": "3581",
+"Location": {
 "Latitude": 23.1254,
 "Longitude": 91.2354
+}
 },
 {
 "Name": "Gunabati",
 "PostCode": "3583",
+"Location": {
 "Latitude": 23.0913,
 "Longitude": 91.3013
+}
 },
 {
 "Name": "Langalkot",
 "PostCode": "3580",
+"Location": {
 "Latitude": 23.1084,
 "Longitude": 91.2683
+}
 }
 ]
 }
@@ -7208,20 +8956,26 @@
 {
 "Name": "Coxs Bazar Sadar",
 "PostCode": "4700",
+"Location": {
 "Latitude": 21.4397,
 "Longitude": 92.0096
+}
 },
 {
 "Name": "Eidga",
 "PostCode": "4702",
+"Location": {
 "Latitude": 21.4397,
 "Longitude": 92.0096
+}
 },
 {
 "Name": "Zhilanja",
 "PostCode": "4701",
+"Location": {
 "Latitude": 21.4397,
 "Longitude": 92.0096
+}
 }
 ]
 },
@@ -7231,8 +8985,10 @@
 {
 "Name": "Gorakghat",
 "PostCode": "4710",
+"Location": {
 "Latitude": 21.3576,
 "Longitude": 92.0807
+}
 }
 ],
 "PostCode": "4710"
@@ -7243,8 +8999,10 @@
 {
 "Name": "Kutubdia",
 "PostCode": "4720",
+"Location": {
 "Latitude": 21.816,
 "Longitude": 91.8523
+}
 }
 ],
 "PostCode": "4720"
@@ -7255,8 +9013,10 @@
 {
 "Name": "Ramu",
 "PostCode": "4730",
+"Location": {
 "Latitude": 21.429,
 "Longitude": 92.1062
+}
 }
 ],
 "PostCode": "4730"
@@ -7267,26 +9027,34 @@
 {
 "Name": "Badarkali",
 "PostCode": "4742",
+"Location": {
 "Latitude": 21.3576,
 "Longitude": 92.0807
+}
 },
 {
 "Name": "Chiringga",
 "PostCode": "4740",
+"Location": {
 "Latitude": 21.3576,
 "Longitude": 92.0807
+}
 },
 {
 "Name": "Chiringga S.O",
 "PostCode": "4741",
+"Location": {
 "Latitude": 21.3576,
 "Longitude": 92.0807
+}
 },
 {
 "Name": "Malumghat",
 "PostCode": "4743",
+"Location": {
 "Latitude": 21.3576,
 "Longitude": 92.0807
+}
 }
 ]
 },
@@ -7296,8 +9064,10 @@
 {
 "Name": "Ukhia",
 "PostCode": "4750",
+"Location": {
 "Latitude": 21.245,
 "Longitude": 92.1375
+}
 }
 ],
 "PostCode": "4750"
@@ -7308,20 +9078,26 @@
 {
 "Name": "Hnila",
 "PostCode": "4761",
+"Location": {
 "Latitude": 20.8583,
 "Longitude": 92.2977
+}
 },
 {
 "Name": "St.Martin",
 "PostCode": "4762",
+"Location": {
 "Latitude": 20.8583,
 "Longitude": 92.2977
+}
 },
 {
 "Name": "Teknaf",
 "PostCode": "4760",
+"Location": {
 "Latitude": 20.8583,
 "Longitude": 92.2977
+}
 }
 ]
 }
@@ -7337,26 +9113,34 @@
 {
 "Name": "Fazilpur",
 "PostCode": "3901",
+"Location": {
 "Latitude": 22.9511,
 "Longitude": 91.4669
+}
 },
 {
 "Name": "Feni Sadar",
 "PostCode": "3900",
+"Location": {
 "Latitude": 22.9511,
 "Longitude": 91.4669
+}
 },
 {
 "Name": "Laskarhat",
 "PostCode": "3903",
+"Location": {
 "Latitude": 22.9511,
 "Longitude": 91.4669
+}
 },
 {
 "Name": "Sharshadie",
 "PostCode": "3902",
+"Location": {
 "Latitude": 22.9511,
 "Longitude": 91.4669
+}
 }
 ]
 },
@@ -7366,26 +9150,34 @@
 {
 "Name": "Chhagalnaia",
 "PostCode": "3910",
+"Location": {
 "Latitude": 23.0248,
 "Longitude": 91.5109
+}
 },
 {
 "Name": "Daraga Hat",
 "PostCode": "3912",
+"Location": {
 "Latitude": 23.0248,
 "Longitude": 91.5109
+}
 },
 {
 "Name": "Maharajganj",
 "PostCode": "3911",
+"Location": {
 "Latitude": 23.0248,
 "Longitude": 91.5109
+}
 },
 {
 "Name": "Puabashimulia",
 "PostCode": "3913",
+"Location": {
 "Latitude": 23.0248,
 "Longitude": 91.5109
+}
 }
 ]
 },
@@ -7395,26 +9187,34 @@
 {
 "Name": "Chhilonia",
 "PostCode": "3922",
+"Location": {
 "Latitude": 23.0119,
 "Longitude": 91.2826
+}
 },
 {
 "Name": "Dagondhuia",
 "PostCode": "3920",
+"Location": {
 "Latitude": 23.0119,
 "Longitude": 91.2826
+}
 },
 {
 "Name": "Dudmukha",
 "PostCode": "3921",
+"Location": {
 "Latitude": 23.0119,
 "Longitude": 91.2826
+}
 },
 {
 "Name": "Rajapur",
 "PostCode": "3923",
+"Location": {
 "Latitude": 23.0119,
 "Longitude": 91.2826
+}
 }
 ]
 },
@@ -7424,26 +9224,34 @@
 {
 "Name": "Ahmadpur",
 "PostCode": "3932",
+"Location": {
 "Latitude": 22.9,
 "Longitude": 91.4333
+}
 },
 {
 "Name": "Kazirhat",
 "PostCode": "3933",
+"Location": {
 "Latitude": 22.8759,
 "Longitude": 91.4125
+}
 },
 {
 "Name": "Motiganj",
 "PostCode": "3931",
+"Location": {
 "Latitude": 22.8759,
 "Longitude": 91.4125
+}
 },
 {
 "Name": "Sonagazi",
 "PostCode": "3930",
+"Location": {
 "Latitude": 22.8518,
 "Longitude": 91.3916
+}
 }
 ]
 },
@@ -7453,26 +9261,34 @@
 {
 "Name": "Fulgazi",
 "PostCode": "3942",
+"Location": {
 "Latitude": 23.1461,
 "Longitude": 91.4409
+}
 },
 {
 "Name": "Munshirhat",
 "PostCode": "3943",
+"Location": {
 "Latitude": 23.1167,
 "Longitude": 91.4333
+}
 },
 {
 "Name": "Pashurampur",
 "PostCode": "3940",
+"Location": {
 "Latitude": 23.1314,
 "Longitude": 91.4371
+}
 },
 {
 "Name": "Shuarbazar",
 "PostCode": "3941",
+"Location": {
 "Latitude": 23.1314,
 "Longitude": 91.4371
+}
 }
 ]
 }
@@ -7488,8 +9304,10 @@
 {
 "Name": "Khagrachari Sadar",
 "PostCode": "4400",
+"Location": {
 "Latitude": 23.0222,
 "Longitude": 91.9808
+}
 }
 ],
 "PostCode": "4400"
@@ -7500,8 +9318,10 @@
 {
 "Name": "Panchhari",
 "PostCode": "4410",
+"Location": {
 "Latitude": 23.0222,
 "Longitude": 91.9808
+}
 }
 ],
 "PostCode": "4410"
@@ -7512,8 +9332,10 @@
 {
 "Name": "Diginala",
 "PostCode": "4420",
+"Location": {
 "Latitude": 23.0222,
 "Longitude": 91.9808
+}
 }
 ],
 "PostCode": "4420"
@@ -7524,8 +9346,10 @@
 {
 "Name": "Mahalchhari",
 "PostCode": "4430",
+"Location": {
 "Latitude": 22.9352,
 "Longitude": 92.0486
+}
 }
 ],
 "PostCode": "4430"
@@ -7536,8 +9360,10 @@
 {
 "Name": "Ramghar Head Office",
 "PostCode": "4440",
+"Location": {
 "Latitude": 23.0222,
 "Longitude": 91.9808
+}
 }
 ],
 "PostCode": "4440"
@@ -7548,8 +9374,10 @@
 {
 "Name": "Matiranga",
 "PostCode": "4450",
+"Location": {
 "Latitude": 23.1219,
 "Longitude": 91.8767
+}
 }
 ],
 "PostCode": "4450"
@@ -7560,8 +9388,10 @@
 {
 "Name": "Manikchhari",
 "PostCode": "4460",
+"Location": {
 "Latitude": 23.0093,
 "Longitude": 92.0172
+}
 }
 ],
 "PostCode": "4460"
@@ -7572,8 +9402,10 @@
 {
 "Name": "Laxmichhari",
 "PostCode": "4470",
+"Location": {
 "Latitude": 23.0222,
 "Longitude": 91.9808
+}
 }
 ],
 "PostCode": "4470"
@@ -7590,62 +9422,82 @@
 {
 "Name": "Amani Lakshimpur",
 "PostCode": "3709",
+"Location": {
 "Latitude": 23.1765,
 "Longitude": 91.0109
+}
 },
 {
 "Name": "Bhabaniganj",
 "PostCode": "3702",
+"Location": {
 "Latitude": 23.1765,
 "Longitude": 91.0109
+}
 },
 {
 "Name": "Chandraganj",
 "PostCode": "3708",
+"Location": {
 "Latitude": 23.1765,
 "Longitude": 91.0109
+}
 },
 {
 "Name": "Choupalli",
 "PostCode": "3707",
+"Location": {
 "Latitude": 23.1765,
 "Longitude": 91.0109
+}
 },
 {
 "Name": "Dalal Bazar",
 "PostCode": "3701",
+"Location": {
 "Latitude": 23.1765,
 "Longitude": 91.0109
+}
 },
 {
 "Name": "Duttapara",
 "PostCode": "3706",
+"Location": {
 "Latitude": 23.1765,
 "Longitude": 91.0109
+}
 },
 {
 "Name": "Keramatganj",
 "PostCode": "3704",
+"Location": {
 "Latitude": 23.1765,
 "Longitude": 91.0109
+}
 },
 {
 "Name": "Lakshimpur Sadar",
 "PostCode": "3700",
+"Location": {
 "Latitude": 23.4167,
 "Longitude": 91.1167
+}
 },
 {
 "Name": "Mandari",
 "PostCode": "3703",
+"Location": {
 "Latitude": 22.9362,
 "Longitude": 90.905
+}
 },
 {
 "Name": "Rupchara",
 "PostCode": "3705",
+"Location": {
 "Latitude": 23.1765,
 "Longitude": 91.0109
+}
 }
 ]
 },
@@ -7655,32 +9507,42 @@
 {
 "Name": "Bhuabari",
 "PostCode": "3714",
+"Location": {
 "Latitude": 23.0391,
 "Longitude": 90.7681
+}
 },
 {
 "Name": "Haydarganj",
 "PostCode": "3713",
+"Location": {
 "Latitude": 23.0391,
 "Longitude": 90.7681
+}
 },
 {
 "Name": "Nagerdighirpar",
 "PostCode": "3712",
+"Location": {
 "Latitude": 23.0391,
 "Longitude": 90.7681
+}
 },
 {
 "Name": "Rakhallia",
 "PostCode": "3711",
+"Location": {
 "Latitude": 23.0391,
 "Longitude": 90.7681
+}
 },
 {
 "Name": "Raypur",
 "PostCode": "3710",
+"Location": {
 "Latitude": 23.0391,
 "Longitude": 90.7681
+}
 }
 ]
 },
@@ -7690,38 +9552,50 @@
 {
 "Name": "Alipur",
 "PostCode": "3721",
+"Location": {
 "Latitude": 23.0777,
 "Longitude": 90.8991
+}
 },
 {
 "Name": "Dolta",
 "PostCode": "3725",
+"Location": {
 "Latitude": 23.0633,
 "Longitude": 90.8418
+}
 },
 {
 "Name": "Kanchanpur",
 "PostCode": "3723",
+"Location": {
 "Latitude": 23.0263,
 "Longitude": 90.7808
+}
 },
 {
 "Name": "Naagmud",
 "PostCode": "3724",
+"Location": {
 "Latitude": 23.0633,
 "Longitude": 90.8418
+}
 },
 {
 "Name": "Panpara",
 "PostCode": "3722",
+"Location": {
 "Latitude": 23.0488,
 "Longitude": 90.8373
+}
 },
 {
 "Name": "Ramganj",
 "PostCode": "3720",
+"Location": {
 "Latitude": 23.1006,
 "Longitude": 90.8499
+}
 }
 ]
 },
@@ -7731,20 +9605,26 @@
 {
 "Name": "Char Alexgander",
 "PostCode": "3730",
+"Location": {
 "Latitude": 23.0922,
 "Longitude": 90.8795
+}
 },
 {
 "Name": "Hajirghat",
 "PostCode": "3731",
+"Location": {
 "Latitude": 23.0922,
 "Longitude": 90.8795
+}
 },
 {
 "Name": "Ramgatirhat",
 "PostCode": "3732",
+"Location": {
 "Latitude": 23.0922,
 "Longitude": 90.8795
+}
 }
 ]
 }
@@ -7760,68 +9640,90 @@
 {
 "Name": "Chaprashir Hat",
 "PostCode": "3811",
+"Location": {
 "Latitude": 22.9907,
 "Longitude": 91.1283
+}
 },
 {
 "Name": "Char Jabbar",
 "PostCode": "3812",
+"Location": {
 "Latitude": 22.9907,
 "Longitude": 91.1283
+}
 },
 {
 "Name": "Charam Tua",
 "PostCode": "3809",
+"Location": {
 "Latitude": 22.8062,
 "Longitude": 91.1495
+}
 },
 {
 "Name": "Din Monir Hat",
 "PostCode": "3803",
+"Location": {
 "Latitude": 22.8062,
 "Longitude": 91.1495
+}
 },
 {
 "Name": "Kabirhat",
 "PostCode": "3807",
+"Location": {
 "Latitude": 22.7956,
 "Longitude": 91.1989
+}
 },
 {
 "Name": "Khalifar Hat",
 "PostCode": "3808",
+"Location": {
 "Latitude": 22.8062,
 "Longitude": 91.1495
+}
 },
 {
 "Name": "Mriddarhat",
 "PostCode": "3806",
+"Location": {
 "Latitude": 22.8062,
 "Longitude": 91.1495
+}
 },
 {
 "Name": "Noakhali College",
 "PostCode": "3801",
+"Location": {
 "Latitude": 22.8062,
 "Longitude": 91.1495
+}
 },
 {
 "Name": "Noakhali Sadar",
 "PostCode": "3800",
+"Location": {
 "Latitude": 22.8062,
 "Longitude": 91.1495
+}
 },
 {
 "Name": "Pak Kishoreganj",
 "PostCode": "3804",
+"Location": {
 "Latitude": 22.8062,
 "Longitude": 91.1495
+}
 },
 {
 "Name": "Sonapur",
 "PostCode": "3802",
+"Location": {
 "Latitude": 22.8167,
 "Longitude": 91.1
+}
 }
 ]
 },
@@ -7831,146 +9733,194 @@
 {
 "Name": "Alaiarpur",
 "PostCode": "3831",
+"Location": {
 "Latitude": 22.95,
 "Longitude": 91.3
+}
 },
 {
 "Name": "Amisha Para",
 "PostCode": "3847",
+"Location": {
 "Latitude": 23.0114,
 "Longitude": 91.0878
+}
 },
 {
 "Name": "Banglabazar",
 "PostCode": "3822",
+"Location": {
 "Latitude": 22.9902,
 "Longitude": 91.0859
+}
 },
 {
 "Name": "Bazra",
 "PostCode": "3824",
+"Location": {
 "Latitude": 22.9833,
 "Longitude": 91.1
+}
 },
 {
 "Name": "Begumganj",
 "PostCode": "3820",
+"Location": {
 "Latitude": 23.0225,
 "Longitude": 91.0747
+}
 },
 {
 "Name": "Bhabani Jibanpur",
 "PostCode": "3837",
+"Location": {
 "Latitude": 23.0338,
 "Longitude": 91.0738
+}
 },
 {
 "Name": "Choumohani",
 "PostCode": "3821",
+"Location": {
 "Latitude": 22.9902,
 "Longitude": 91.0859
+}
 },
 {
 "Name": "Dauti",
 "PostCode": "3843",
+"Location": {
 "Latitude": 23.0114,
 "Longitude": 91.0878
+}
 },
 {
 "Name": "Durgapur",
 "PostCode": "3848",
+"Location": {
 "Latitude": 22.9425,
 "Longitude": 91.1706
+}
 },
 {
 "Name": "Gopalpur",
 "PostCode": "3828",
+"Location": {
 "Latitude": 22.9217,
 "Longitude": 91.0683
+}
 },
 {
 "Name": "Jamidar Hat",
 "PostCode": "3825",
+"Location": {
 "Latitude": 22.9902,
 "Longitude": 91.0859
+}
 },
 {
 "Name": "Joyag",
 "PostCode": "3844",
+"Location": {
 "Latitude": 23.0802,
 "Longitude": 91.005
+}
 },
 {
 "Name": "Joynarayanpur",
 "PostCode": "3829",
+"Location": {
 "Latitude": 22.9902,
 "Longitude": 91.0859
+}
 },
 {
 "Name": "Khalafat Bazar",
 "PostCode": "3833",
+"Location": {
 "Latitude": 23.0338,
 "Longitude": 91.0738
+}
 },
 {
 "Name": "Khalishpur",
 "PostCode": "3842",
+"Location": {
 "Latitude": 23.0114,
 "Longitude": 91.0878
+}
 },
 {
 "Name": "Maheshganj",
 "PostCode": "3838",
+"Location": {
 "Latitude": 23.0338,
 "Longitude": 91.0738
+}
 },
 {
 "Name": "Mir Owarishpur",
 "PostCode": "3823",
+"Location": {
 "Latitude": 22.9902,
 "Longitude": 91.0859
+}
 },
 {
 "Name": "Nadona",
 "PostCode": "3839",
+"Location": {
 "Latitude": 23.0338,
 "Longitude": 91.0738
+}
 },
 {
 "Name": "Nandiapara",
 "PostCode": "3841",
+"Location": {
 "Latitude": 23.0114,
 "Longitude": 91.0878
+}
 },
 {
 "Name": "Oachhekpur",
 "PostCode": "3835",
+"Location": {
 "Latitude": 23.0338,
 "Longitude": 91.0738
+}
 },
 {
 "Name": "Rajganj",
 "PostCode": "3834",
+"Location": {
 "Latitude": 22.8809,
 "Longitude": 91.0132
+}
 },
 {
 "Name": "Sonaimuri",
 "PostCode": "3827",
+"Location": {
 "Latitude": 23.0332,
 "Longitude": 91.1005
+}
 },
 {
 "Name": "Tangirpar",
 "PostCode": "3832",
+"Location": {
 "Latitude": 23.2707,
 "Longitude": 90.9083
+}
 },
 {
 "Name": "Thanar Hat",
 "PostCode": "3845",
+"Location": {
 "Latitude": 23.0114,
 "Longitude": 91.0878
+}
 }
 ]
 },
@@ -7980,14 +9930,18 @@
 {
 "Name": "Basur Hat",
 "PostCode": "3850",
+"Location": {
 "Latitude": 22.9907,
 "Longitude": 91.1283
+}
 },
 {
 "Name": "Charhajari",
 "PostCode": "3851",
+"Location": {
 "Latitude": 22.9907,
 "Longitude": 91.1283
+}
 }
 ]
 },
@@ -7997,38 +9951,50 @@
 {
 "Name": "Beezbag",
 "PostCode": "3862",
+"Location": {
 "Latitude": 22.991,
 "Longitude": 91.2334
+}
 },
 {
 "Name": "Chatarpaia",
 "PostCode": "3864",
+"Location": {
 "Latitude": 22.991,
 "Longitude": 91.2334
+}
 },
 {
 "Name": "Kallyandi",
 "PostCode": "3861",
+"Location": {
 "Latitude": 22.991,
 "Longitude": 91.2334
+}
 },
 {
 "Name": "Kankirhat",
 "PostCode": "3863",
+"Location": {
 "Latitude": 22.991,
 "Longitude": 91.2334
+}
 },
 {
 "Name": "Senbag",
 "PostCode": "3860",
+"Location": {
 "Latitude": 22.991,
 "Longitude": 91.2334
+}
 },
 {
 "Name": "T.P. Lamua",
 "PostCode": "3865",
+"Location": {
 "Latitude": 22.991,
 "Longitude": 91.2334
+}
 }
 ]
 },
@@ -8038,74 +10004,98 @@
 {
 "Name": "Bansa Bazar",
 "PostCode": "3879",
+"Location": {
 "Latitude": 23.0674,
 "Longitude": 90.9911
+}
 },
 {
 "Name": "Bodalcourt",
 "PostCode": "3873",
+"Location": {
 "Latitude": 23.0674,
 "Longitude": 90.9911
+}
 },
 {
 "Name": "Chatkhil",
 "PostCode": "3870",
+"Location": {
 "Latitude": 23.0524,
 "Longitude": 90.9768
+}
 },
 {
 "Name": "Dosh Gharia",
 "PostCode": "3878",
+"Location": {
 "Latitude": 23.0674,
 "Longitude": 90.9911
+}
 },
 {
 "Name": "Karihati",
 "PostCode": "3877",
+"Location": {
 "Latitude": 23.0255,
 "Longitude": 91.0113
+}
 },
 {
 "Name": "Khilpara",
 "PostCode": "3872",
+"Location": {
 "Latitude": 23.0674,
 "Longitude": 90.9911
+}
 },
 {
 "Name": "Palla",
 "PostCode": "3871",
+"Location": {
 "Latitude": 23.0915,
 "Longitude": 90.9819
+}
 },
 {
 "Name": "Rezzakpur",
 "PostCode": "3874",
+"Location": {
 "Latitude": 23.0674,
 "Longitude": 90.9911
+}
 },
 {
 "Name": "Sahapur",
 "PostCode": "3881",
+"Location": {
 "Latitude": 22.9667,
 "Longitude": 91.2333
+}
 },
 {
 "Name": "Sampara",
 "PostCode": "3882",
+"Location": {
 "Latitude": 22.9082,
 "Longitude": 91.8379
+}
 },
 {
 "Name": "Shingbahura",
 "PostCode": "3883",
+"Location": {
 "Latitude": 22.9374,
 "Longitude": 91.5356
+}
 },
 {
 "Name": "Solla",
 "PostCode": "3875",
+"Location": {
 "Latitude": 23.1,
 "Longitude": 90.9943
+}
 }
 ]
 },
@@ -8115,20 +10105,26 @@
 {
 "Name": "Afazia",
 "PostCode": "3891",
+"Location": {
 "Latitude": 22.9907,
 "Longitude": 91.1283
+}
 },
 {
 "Name": "Hatiya",
 "PostCode": "3890",
+"Location": {
 "Latitude": 22.9907,
 "Longitude": 91.1283
+}
 },
 {
 "Name": "Tamoraddi",
 "PostCode": "3892",
+"Location": {
 "Latitude": 22.9907,
 "Longitude": 91.1283
+}
 }
 ]
 }
@@ -8144,8 +10140,10 @@
 {
 "Name": "Rangamati Sadar",
 "PostCode": "4500",
+"Location": {
 "Latitude": 22.4934,
 "Longitude": 92.2359
+}
 }
 ],
 "PostCode": "4500"
@@ -8156,14 +10154,18 @@
 {
 "Name": "Betbunia",
 "PostCode": "4511",
+"Location": {
 "Latitude": 22.4934,
 "Longitude": 92.2359
+}
 },
 {
 "Name": "Kalampati",
 "PostCode": "4510",
+"Location": {
 "Latitude": 22.4934,
 "Longitude": 92.2359
+}
 }
 ]
 },
@@ -8173,8 +10175,10 @@
 {
 "Name": "Nanichhar",
 "PostCode": "4520",
+"Location": {
 "Latitude": 22.4934,
 "Longitude": 92.2359
+}
 }
 ],
 "PostCode": "4520"
@@ -8185,26 +10189,34 @@
 {
 "Name": "Chandraghona",
 "PostCode": "4531",
+"Location": {
 "Latitude": 22.4752,
 "Longitude": 92.1417
+}
 },
 {
 "Name": "Kaptai",
 "PostCode": "4530",
+"Location": {
 "Latitude": 22.4942,
 "Longitude": 92.2209
+}
 },
 {
 "Name": "Kaptai Nuton Bazar",
 "PostCode": "4533",
+"Location": {
 "Latitude": 22.4847,
 "Longitude": 92.1813
+}
 },
 {
 "Name": "Kaptai Project",
 "PostCode": "4532",
+"Location": {
 "Latitude": 22.4847,
 "Longitude": 92.1813
+}
 }
 ]
 },
@@ -8214,8 +10226,10 @@
 {
 "Name": "Rajsthali",
 "PostCode": "4540",
+"Location": {
 "Latitude": 22.4934,
 "Longitude": 92.2359
+}
 }
 ],
 "PostCode": "4540"
@@ -8226,8 +10240,10 @@
 {
 "Name": "Bilaichhari",
 "PostCode": "4550",
+"Location": {
 "Latitude": 22.5108,
 "Longitude": 92.3452
+}
 }
 ],
 "PostCode": "4550"
@@ -8238,8 +10254,10 @@
 {
 "Name": "Jarachhari",
 "PostCode": "4560",
+"Location": {
 "Latitude": 22.4934,
 "Longitude": 92.2359
+}
 }
 ],
 "PostCode": "4560"
@@ -8250,8 +10268,10 @@
 {
 "Name": "Barakal",
 "PostCode": "4570",
+"Location": {
 "Latitude": 22.4934,
 "Longitude": 92.2359
+}
 }
 ],
 "PostCode": "4570"
@@ -8262,8 +10282,10 @@
 {
 "Name": "Longachh",
 "PostCode": "4580",
+"Location": {
 "Latitude": 22.4934,
 "Longitude": 92.2359
+}
 }
 ],
 "PostCode": "4580"
@@ -8274,8 +10296,10 @@
 {
 "Name": "Marishya",
 "PostCode": "4590",
+"Location": {
 "Latitude": 22.4934,
 "Longitude": 92.2359
+}
 }
 ],
 "PostCode": "4590"
@@ -8298,14 +10322,18 @@
 {
 "Name": "Barguna Sadar",
 "PostCode": "8700",
+"Location": {
 "Latitude": 22.3114,
 "Longitude": 90.0993
+}
 },
 {
 "Name": "Nali Bandar",
 "PostCode": "8701",
+"Location": {
 "Latitude": 22.3114,
 "Longitude": 90.0993
+}
 }
 ]
 },
@@ -8315,8 +10343,10 @@
 {
 "Name": "Amtali",
 "PostCode": "8710",
+"Location": {
 "Latitude": 22.2962,
 "Longitude": 90.0888
+}
 }
 ],
 "PostCode": "8710"
@@ -8327,14 +10357,18 @@
 {
 "Name": "Kakchira",
 "PostCode": "8721",
+"Location": {
 "Latitude": 22.2249,
 "Longitude": 90.0508
+}
 },
 {
 "Name": "Patharghata",
 "PostCode": "8720",
+"Location": {
 "Latitude": 22.2249,
 "Longitude": 90.0508
+}
 }
 ]
 },
@@ -8344,8 +10378,10 @@
 {
 "Name": "Bamna",
 "PostCode": "8730",
+"Location": {
 "Latitude": 22.3092,
 "Longitude": 90.0943
+}
 }
 ],
 "PostCode": "8730"
@@ -8356,14 +10392,18 @@
 {
 "Name": "Betagi",
 "PostCode": "8740",
+"Location": {
 "Latitude": 22.4153,
 "Longitude": 90.1633
+}
 },
 {
 "Name": "Darul Ulam",
 "PostCode": "8741",
+"Location": {
 "Latitude": 22.4153,
 "Longitude": 90.1633
+}
 }
 ]
 }
@@ -8379,44 +10419,58 @@
 {
 "Name": "Barishal Sadar",
 "PostCode": "8200",
+"Location": {
 "Latitude": 22.7435,
 "Longitude": 90.4393
+}
 },
 {
 "Name": "Bukhainagar",
 "PostCode": "8201",
+"Location": {
 "Latitude": 22.745,
 "Longitude": 90.461
+}
 },
 {
 "Name": "Jaguarhat",
 "PostCode": "8206",
+"Location": {
 "Latitude": 22.7435,
 "Longitude": 90.4393
+}
 },
 {
 "Name": "Kashipur",
 "PostCode": "8205",
+"Location": {
 "Latitude": 22.8506,
 "Longitude": 90.567
+}
 },
 {
 "Name": "Patang",
 "PostCode": "8204",
+"Location": {
 "Latitude": 22.6671,
 "Longitude": 90.4673
+}
 },
 {
 "Name": "Saheberhat",
 "PostCode": "8202",
+"Location": {
 "Latitude": 22.7435,
 "Longitude": 90.4393
+}
 },
 {
 "Name": "Sugandia",
 "PostCode": "8203",
+"Location": {
 "Latitude": 22.7114,
 "Longitude": 90.2618
+}
 }
 ]
 },
@@ -8426,44 +10480,58 @@
 {
 "Name": "Babuganj",
 "PostCode": "8210",
+"Location": {
 "Latitude": 22.8202,
 "Longitude": 90.3221
+}
 },
 {
 "Name": "Barishal Cadet",
 "PostCode": "8216",
+"Location": {
 "Latitude": 22.8202,
 "Longitude": 90.3221
+}
 },
 {
 "Name": "Chandpasha",
 "PostCode": "8212",
+"Location": {
 "Latitude": 22.8202,
 "Longitude": 90.3221
+}
 },
 {
 "Name": "Madhabpasha",
 "PostCode": "8213",
+"Location": {
 "Latitude": 22.8202,
 "Longitude": 90.3221
+}
 },
 {
 "Name": "Nizamuddin College",
 "PostCode": "8215",
+"Location": {
 "Latitude": 22.8202,
 "Longitude": 90.3221
+}
 },
 {
 "Name": "Rahamatpur",
 "PostCode": "8211",
+"Location": {
 "Latitude": 22.8202,
 "Longitude": 90.3221
+}
 },
 {
 "Name": "Thakur Mallik",
 "PostCode": "8214",
+"Location": {
 "Latitude": 22.8202,
 "Longitude": 90.3221
+}
 }
 ]
 },
@@ -8473,32 +10541,42 @@
 {
 "Name": "Dakuarhat",
 "PostCode": "8223",
+"Location": {
 "Latitude": 22.8537,
 "Longitude": 90.2033
+}
 },
 {
 "Name": "Dhamura",
 "PostCode": "8221",
+"Location": {
 "Latitude": 22.8934,
 "Longitude": 90.193
+}
 },
 {
 "Name": "Jugirkanda",
 "PostCode": "8222",
+"Location": {
 "Latitude": 22.846,
 "Longitude": 90.1701
+}
 },
 {
 "Name": "Shikarpur",
 "PostCode": "8224",
+"Location": {
 "Latitude": 22.8537,
 "Longitude": 90.2033
+}
 },
 {
 "Name": "Uzirpur",
 "PostCode": "8220",
+"Location": {
 "Latitude": 22.8216,
 "Longitude": 90.2466
+}
 }
 ]
 },
@@ -8508,26 +10586,34 @@
 {
 "Name": "Batajor",
 "PostCode": "8233",
+"Location": {
 "Latitude": 22.8975,
 "Longitude": 90.2542
+}
 },
 {
 "Name": "Gouranadi",
 "PostCode": "8230",
+"Location": {
 "Latitude": 22.8975,
 "Longitude": 90.2542
+}
 },
 {
 "Name": "Kashemabad",
 "PostCode": "8232",
+"Location": {
 "Latitude": 22.8975,
 "Longitude": 90.2542
+}
 },
 {
 "Name": "Tarki Bandar",
 "PostCode": "8231",
+"Location": {
 "Latitude": 22.8975,
 "Longitude": 90.2542
+}
 }
 ]
 },
@@ -8537,20 +10623,26 @@
 {
 "Name": "Agailzhara",
 "PostCode": "8240",
+"Location": {
 "Latitude": 22.9551,
 "Longitude": 90.1842
+}
 },
 {
 "Name": "Gaila",
 "PostCode": "8241",
+"Location": {
 "Latitude": 22.9551,
 "Longitude": 90.1842
+}
 },
 {
 "Name": "Paisarhat",
 "PostCode": "8242",
+"Location": {
 "Latitude": 22.9551,
 "Longitude": 90.1842
+}
 }
 ]
 },
@@ -8560,20 +10652,26 @@
 {
 "Name": "Charkalekhan",
 "PostCode": "8252",
+"Location": {
 "Latitude": 22.8225,
 "Longitude": 90.3484
+}
 },
 {
 "Name": "Kazirchar",
 "PostCode": "8251",
+"Location": {
 "Latitude": 22.8225,
 "Longitude": 90.3484
+}
 },
 {
 "Name": "Muladi",
 "PostCode": "8250",
+"Location": {
 "Latitude": 22.8225,
 "Longitude": 90.3484
+}
 }
 ]
 },
@@ -8583,14 +10681,18 @@
 {
 "Name": "Barajalia",
 "PostCode": "8260",
+"Location": {
 "Latitude": 22.8225,
 "Longitude": 90.3484
+}
 },
 {
 "Name": "Osman Manjil",
 "PostCode": "8261",
+"Location": {
 "Latitude": 22.8225,
 "Longitude": 90.3484
+}
 }
 ]
 },
@@ -8600,32 +10702,42 @@
 {
 "Name": "Langutia",
 "PostCode": "8274",
+"Location": {
 "Latitude": 22.9264,
 "Longitude": 90.4643
+}
 },
 {
 "Name": "Laskarpur",
 "PostCode": "8271",
+"Location": {
 "Latitude": 23.0555,
 "Longitude": 90.1409
+}
 },
 {
 "Name": "Mahendiganj",
 "PostCode": "8270",
+"Location": {
 "Latitude": 22.9264,
 "Longitude": 90.4643
+}
 },
 {
 "Name": "Nalgora",
 "PostCode": "8273",
+"Location": {
 "Latitude": 22.8667,
 "Longitude": 90.65
+}
 },
 {
 "Name": "Ulania",
 "PostCode": "8272",
+"Location": {
 "Latitude": 22.857,
 "Longitude": 90.6019
+}
 }
 ]
 },
@@ -8635,32 +10747,42 @@
 {
 "Name": "Charamandi",
 "PostCode": "8281",
+"Location": {
 "Latitude": 22.5287,
 "Longitude": 90.3567
+}
 },
 {
 "Name": "kalaskati",
 "PostCode": "8284",
+"Location": {
 "Latitude": 22.5287,
 "Longitude": 90.3567
+}
 },
 {
 "Name": "Padri Shibpur",
 "PostCode": "8282",
+"Location": {
 "Latitude": 22.5287,
 "Longitude": 90.3567
+}
 },
 {
 "Name": "Sahebganj",
 "PostCode": "8280",
+"Location": {
 "Latitude": 22.5287,
 "Longitude": 90.3567
+}
 },
 {
 "Name": "Shialguni",
 "PostCode": "8283",
+"Location": {
 "Latitude": 22.5287,
 "Longitude": 90.3567
+}
 }
 ]
 }
@@ -8676,14 +10798,18 @@
 {
 "Name": "Bhola Sadar",
 "PostCode": "8300",
+"Location": {
 "Latitude": 22.5703,
 "Longitude": 90.6885
+}
 },
 {
 "Name": "Joynagar",
 "PostCode": "8301",
+"Location": {
 "Latitude": 22.5703,
 "Longitude": 90.6885
+}
 }
 ]
 },
@@ -8693,14 +10819,18 @@
 {
 "Name": "Doulatkhan",
 "PostCode": "8310",
+"Location": {
 "Latitude": 21.933,
 "Longitude": 90.646
+}
 },
 {
 "Name": "Hajipur",
 "PostCode": "8311",
+"Location": {
 "Latitude": 21.933,
 "Longitude": 90.646
+}
 }
 ]
 },
@@ -8710,14 +10840,18 @@
 {
 "Name": "Borhanuddin UPO",
 "PostCode": "8320",
+"Location": {
 "Latitude": 22.4833,
 "Longitude": 90.8
+}
 },
 {
 "Name": "Mirzakalu",
 "PostCode": "8321",
+"Location": {
 "Latitude": 22.4833,
 "Longitude": 90.8
+}
 }
 ]
 },
@@ -8727,20 +10861,26 @@
 {
 "Name": "Daurihat",
 "PostCode": "8331",
+"Location": {
 "Latitude": 22.2868,
 "Longitude": 90.7342
+}
 },
 {
 "Name": "Gazaria",
 "PostCode": "8332",
+"Location": {
 "Latitude": 22.2868,
 "Longitude": 90.7342
+}
 },
 {
 "Name": "Lalmohan UPO",
 "PostCode": "8330",
+"Location": {
 "Latitude": 22.2868,
 "Longitude": 90.7342
+}
 }
 ]
 },
@@ -8750,20 +10890,26 @@
 {
 "Name": "Charfashion",
 "PostCode": "8340",
+"Location": {
 "Latitude": 22.3183,
 "Longitude": 90.7172
+}
 },
 {
 "Name": "Dularhat",
 "PostCode": "8341",
+"Location": {
 "Latitude": 22.3183,
 "Longitude": 90.7172
+}
 },
 {
 "Name": "Keramatganj",
 "PostCode": "8342",
+"Location": {
 "Latitude": 22.3183,
 "Longitude": 90.7172
+}
 }
 ]
 },
@@ -8773,8 +10919,10 @@
 {
 "Name": "Hatshoshiganj",
 "PostCode": "8350",
+"Location": {
 "Latitude": 22.3183,
 "Longitude": 90.7172
+}
 }
 ],
 "PostCode": "8350"
@@ -8785,8 +10933,10 @@
 {
 "Name": "Hajirhat",
 "PostCode": "8360",
+"Location": {
 "Latitude": 22.3183,
 "Longitude": 90.7172
+}
 }
 ],
 "PostCode": "8360"
@@ -8803,32 +10953,42 @@
 {
 "Name": "Baukathi",
 "PostCode": "8402",
+"Location": {
 "Latitude": 22.72,
 "Longitude": 90.2048
+}
 },
 {
 "Name": "Gabha",
 "PostCode": "8403",
+"Location": {
 "Latitude": 22.72,
 "Longitude": 90.2048
+}
 },
 {
 "Name": "Jhalokathi Sadar",
 "PostCode": "8400",
+"Location": {
 "Latitude": 22.72,
 "Longitude": 90.2048
+}
 },
 {
 "Name": "Nabagram",
 "PostCode": "8401",
+"Location": {
 "Latitude": 22.72,
 "Longitude": 90.2048
+}
 },
 {
 "Name": "Shekherhat",
 "PostCode": "8404",
+"Location": {
 "Latitude": 22.72,
 "Longitude": 90.2048
+}
 }
 ]
 },
@@ -8838,8 +10998,10 @@
 {
 "Name": "Rajapur",
 "PostCode": "8410",
+"Location": {
 "Latitude": 22.6267,
 "Longitude": 90.2064
+}
 }
 ],
 "PostCode": "8410"
@@ -8850,14 +11012,18 @@
 {
 "Name": "Beerkathi",
 "PostCode": "8421",
+"Location": {
 "Latitude": 22.637,
 "Longitude": 90.2719
+}
 },
 {
 "Name": "Nalchhiti",
 "PostCode": "8420",
+"Location": {
 "Latitude": 22.637,
 "Longitude": 90.2719
+}
 }
 ]
 },
@@ -8867,26 +11033,34 @@
 {
 "Name": "Amua",
 "PostCode": "8431",
+"Location": {
 "Latitude": 22.3682,
 "Longitude": 90.0784
+}
 },
 {
 "Name": "Kathalia",
 "PostCode": "8430",
+"Location": {
 "Latitude": 22.4016,
 "Longitude": 90.1252
+}
 },
 {
 "Name": "Niamatee",
 "PostCode": "8432",
+"Location": {
 "Latitude": 22.3849,
 "Longitude": 90.1018
+}
 },
 {
 "Name": "Shoulajalia",
 "PostCode": "8433",
+"Location": {
 "Latitude": 22.3849,
 "Longitude": 90.1018
+}
 }
 ]
 }
@@ -8902,26 +11076,34 @@
 {
 "Name": "Dumkee",
 "PostCode": "8602",
+"Location": {
 "Latitude": 22.245,
 "Longitude": 90.3693
+}
 },
 {
 "Name": "Moukaran",
 "PostCode": "8601",
+"Location": {
 "Latitude": 22.245,
 "Longitude": 90.3693
+}
 },
 {
 "Name": "Patuakhali Sadar",
 "PostCode": "8600",
+"Location": {
 "Latitude": 22.245,
 "Longitude": 90.3693
+}
 },
 {
 "Name": "Rahimabad",
 "PostCode": "8603",
+"Location": {
 "Latitude": 22.245,
 "Longitude": 90.3693
+}
 }
 ]
 },
@@ -8931,8 +11113,10 @@
 {
 "Name": "Subidkhali",
 "PostCode": "8610",
+"Location": {
 "Latitude": 22.3615,
 "Longitude": 90.2089
+}
 }
 ],
 "PostCode": "8610"
@@ -8943,32 +11127,42 @@
 {
 "Name": "Bagabandar",
 "PostCode": "8621",
+"Location": {
 "Latitude": 22.4186,
 "Longitude": 90.5547
+}
 },
 {
 "Name": "Bauphal",
 "PostCode": "8620",
+"Location": {
 "Latitude": 22.4159,
 "Longitude": 90.5594
+}
 },
 {
 "Name": "Birpasha",
 "PostCode": "8622",
+"Location": {
 "Latitude": 22.451,
 "Longitude": 90.5035
+}
 },
 {
 "Name": "Kalaia",
 "PostCode": "8624",
+"Location": {
 "Latitude": 22.3888,
 "Longitude": 90.6012
+}
 },
 {
 "Name": "Kalishari",
 "PostCode": "8623",
+"Location": {
 "Latitude": 22.4186,
 "Longitude": 90.5547
+}
 }
 ]
 },
@@ -8978,8 +11172,10 @@
 {
 "Name": "Dashmina",
 "PostCode": "8630",
+"Location": {
 "Latitude": 22.245,
 "Longitude": 90.3693
+}
 }
 ],
 "PostCode": "8630"
@@ -8990,14 +11186,18 @@
 {
 "Name": "Galachipa",
 "PostCode": "8640",
+"Location": {
 "Latitude": 22.245,
 "Longitude": 90.3693
+}
 },
 {
 "Name": "Gazipur Bandar",
 "PostCode": "8641",
+"Location": {
 "Latitude": 22.245,
 "Longitude": 90.3693
+}
 }
 ]
 },
@@ -9007,14 +11207,18 @@
 {
 "Name": "Khepupara",
 "PostCode": "8650",
+"Location": {
 "Latitude": 21.9924,
 "Longitude": 90.2133
+}
 },
 {
 "Name": "Mahipur",
 "PostCode": "8651",
+"Location": {
 "Latitude": 21.8604,
 "Longitude": 90.1294
+}
 }
 ]
 }
@@ -9030,20 +11234,26 @@
 {
 "Name": "Hularhat",
 "PostCode": "8501",
+"Location": {
 "Latitude": 22.4686,
 "Longitude": 90.0342
+}
 },
 {
 "Name": "Parerhat",
 "PostCode": "8502",
+"Location": {
 "Latitude": 22.4686,
 "Longitude": 90.0342
+}
 },
 {
 "Name": "Pirojpur Sadar",
 "PostCode": "8500",
+"Location": {
 "Latitude": 22.4686,
 "Longitude": 90.0342
+}
 }
 ]
 },
@@ -9053,26 +11263,34 @@
 {
 "Name": "Jolagati",
 "PostCode": "8513",
+"Location": {
 "Latitude": 22.6256,
 "Longitude": 90.06
+}
 },
 {
 "Name": "Joykul",
 "PostCode": "8512",
+"Location": {
 "Latitude": 22.6256,
 "Longitude": 90.06
+}
 },
 {
 "Name": "Kaukhali",
 "PostCode": "8510",
+"Location": {
 "Latitude": 22.6256,
 "Longitude": 90.06
+}
 },
 {
 "Name": "Keundia",
 "PostCode": "8511",
+"Location": {
 "Latitude": 22.6256,
 "Longitude": 90.06
+}
 }
 ]
 },
@@ -9082,26 +11300,34 @@
 {
 "Name": "Darus Sunnat",
 "PostCode": "8521",
+"Location": {
 "Latitude": 22.7067,
 "Longitude": 90.1025
+}
 },
 {
 "Name": "Jalabari",
 "PostCode": "8523",
+"Location": {
 "Latitude": 22.7067,
 "Longitude": 90.1025
+}
 },
 {
 "Name": "Kaurikhara",
 "PostCode": "8522",
+"Location": {
 "Latitude": 22.7067,
 "Longitude": 90.1025
+}
 },
 {
 "Name": "Swarupkathi",
 "PostCode": "8520",
+"Location": {
 "Latitude": 22.7067,
 "Longitude": 90.1025
+}
 }
 ]
 },
@@ -9111,14 +11337,18 @@
 {
 "Name": "Banaripara",
 "PostCode": "8530",
+"Location": {
 "Latitude": 22.7894,
 "Longitude": 90.1722
+}
 },
 {
 "Name": "Chakhar",
 "PostCode": "8531",
+"Location": {
 "Latitude": 22.7894,
 "Longitude": 90.1722
+}
 }
 ]
 },
@@ -9128,14 +11358,18 @@
 {
 "Name": "Nazirpur",
 "PostCode": "8540",
+"Location": {
 "Latitude": 22.4686,
 "Longitude": 90.0342
+}
 },
 {
 "Name": "Sriramkathi",
 "PostCode": "8541",
+"Location": {
 "Latitude": 22.4686,
 "Longitude": 90.0342
+}
 }
 ]
 },
@@ -9145,20 +11379,26 @@
 {
 "Name": "Bhandaria",
 "PostCode": "8550",
+"Location": {
 "Latitude": 22.489,
 "Longitude": 90.0627
+}
 },
 {
 "Name": "Dhaoa",
 "PostCode": "8552",
+"Location": {
 "Latitude": 22.468,
 "Longitude": 90.0265
+}
 },
 {
 "Name": "Kanudashkathi",
 "PostCode": "8551",
+"Location": {
 "Latitude": 22.4785,
 "Longitude": 90.0446
+}
 }
 ]
 },
@@ -9168,44 +11408,58 @@
 {
 "Name": "Betmor Natun Hat",
 "PostCode": "8565",
+"Location": {
 "Latitude": 22.2848,
 "Longitude": 89.9709
+}
 },
 {
 "Name": "Gulishakhali",
 "PostCode": "8563",
+"Location": {
 "Latitude": 22.2508,
 "Longitude": 89.9772
+}
 },
 {
 "Name": "Halta",
 "PostCode": "8562",
+"Location": {
 "Latitude": 22.2391,
 "Longitude": 90.012
+}
 },
 {
 "Name": "Mathbaria",
 "PostCode": "8560",
+"Location": {
 "Latitude": 22.2862,
 "Longitude": 89.9588
+}
 },
 {
 "Name": "Shilarganj",
 "PostCode": "8566",
+"Location": {
 "Latitude": 22.2848,
 "Longitude": 89.9709
+}
 },
 {
 "Name": "Tiarkhali",
 "PostCode": "8564",
+"Location": {
 "Latitude": 22.2848,
 "Longitude": 89.9709
+}
 },
 {
 "Name": "Tushkhali",
 "PostCode": "8561",
+"Location": {
 "Latitude": 22.363,
 "Longitude": 89.9358
+}
 }
 ]
 }
@@ -9227,20 +11481,26 @@
 {
 "Name": "Gopaya",
 "PostCode": "3302",
+"Location": {
 "Latitude": 24.3331,
 "Longitude": 91.4339
+}
 },
 {
 "Name": "Hobiganj Sadar",
 "PostCode": "3300",
+"Location": {
 "Latitude": 24.3331,
 "Longitude": 91.4339
+}
 },
 {
 "Name": "Shaestaganj",
 "PostCode": "3301",
+"Location": {
 "Latitude": 24.3331,
 "Longitude": 91.4339
+}
 }
 ]
 },
@@ -9250,8 +11510,10 @@
 {
 "Name": "Bahubal",
 "PostCode": "3310",
+"Location": {
 "Latitude": 24.3613,
 "Longitude": 91.4365
+}
 }
 ],
 "PostCode": "3310"
@@ -9262,20 +11524,26 @@
 {
 "Name": "Chandpurbagan",
 "PostCode": "3321",
+"Location": {
 "Latitude": 24.1981,
 "Longitude": 91.5199
+}
 },
 {
 "Name": "Chunarughat",
 "PostCode": "3320",
+"Location": {
 "Latitude": 24.1981,
 "Longitude": 91.5199
+}
 },
 {
 "Name": "Narapati",
 "PostCode": "3322",
+"Location": {
 "Latitude": 24.1981,
 "Longitude": 91.5199
+}
 }
 ]
 },
@@ -9285,26 +11553,34 @@
 {
 "Name": "Itakhola",
 "PostCode": "3331",
+"Location": {
 "Latitude": 24.15,
 "Longitude": 91.3667
+}
 },
 {
 "Name": "Madhabpur",
 "PostCode": "3330",
+"Location": {
 "Latitude": 24.1004,
 "Longitude": 91.2951
+}
 },
 {
 "Name": "Saihamnagar",
 "PostCode": "3333",
+"Location": {
 "Latitude": 24.1252,
 "Longitude": 91.3309
+}
 },
 {
 "Name": "Shahajibazar",
 "PostCode": "3332",
+"Location": {
 "Latitude": 24.1252,
 "Longitude": 91.3309
+}
 }
 ]
 },
@@ -9314,14 +11590,18 @@
 {
 "Name": "Kalauk",
 "PostCode": "3340",
+"Location": {
 "Latitude": 24.3613,
 "Longitude": 91.4365
+}
 },
 {
 "Name": "Lakhai",
 "PostCode": "3341",
+"Location": {
 "Latitude": 24.3613,
 "Longitude": 91.4365
+}
 }
 ]
 },
@@ -9331,20 +11611,26 @@
 {
 "Name": "Baniachang",
 "PostCode": "3350",
+"Location": {
 "Latitude": 24.5186,
 "Longitude": 91.3579
+}
 },
 {
 "Name": "Jatrapasha",
 "PostCode": "3351",
+"Location": {
 "Latitude": 24.5186,
 "Longitude": 91.3579
+}
 },
 {
 "Name": "Kadirganj",
 "PostCode": "3352",
+"Location": {
 "Latitude": 24.5186,
 "Longitude": 91.3579
+}
 }
 ]
 },
@@ -9354,8 +11640,10 @@
 {
 "Name": "Azmireeganj",
 "PostCode": "3360",
+"Location": {
 "Latitude": 24.3613,
 "Longitude": 91.4365
+}
 }
 ],
 "PostCode": "3360"
@@ -9366,32 +11654,42 @@
 {
 "Name": "Digalbak",
 "PostCode": "3373",
+"Location": {
 "Latitude": 24.6146,
 "Longitude": 91.541
+}
 },
 {
 "Name": "Golduba",
 "PostCode": "3372",
+"Location": {
 "Latitude": 24.6146,
 "Longitude": 91.541
+}
 },
 {
 "Name": "Goplarbazar",
 "PostCode": "3371",
+"Location": {
 "Latitude": 24.6146,
 "Longitude": 91.541
+}
 },
 {
 "Name": "Inathganj",
 "PostCode": "3374",
+"Location": {
 "Latitude": 24.6625,
 "Longitude": 91.5652
+}
 },
 {
 "Name": "Nabiganj",
 "PostCode": "3370",
+"Location": {
 "Latitude": 24.5667,
 "Longitude": 91.5167
+}
 }
 ]
 }
@@ -9407,26 +11705,34 @@
 {
 "Name": "Afrozganj",
 "PostCode": "3203",
+"Location": {
 "Latitude": 24.5268,
 "Longitude": 91.8135
+}
 },
 {
 "Name": "Barakapan",
 "PostCode": "3201",
+"Location": {
 "Latitude": 24.5268,
 "Longitude": 91.8135
+}
 },
 {
 "Name": "Monumukh",
 "PostCode": "3202",
+"Location": {
 "Latitude": 24.5268,
 "Longitude": 91.8135
+}
 },
 {
 "Name": "Moulvibazar Sadar",
 "PostCode": "3200",
+"Location": {
 "Latitude": 24.5268,
 "Longitude": 91.8135
+}
 }
 ]
 },
@@ -9436,32 +11742,42 @@
 {
 "Name": "Kalighat",
 "PostCode": "3212",
+"Location": {
 "Latitude": 24.5956,
 "Longitude": 91.651
+}
 },
 {
 "Name": "Khejurichhara",
 "PostCode": "3213",
+"Location": {
 "Latitude": 24.5956,
 "Longitude": 91.651
+}
 },
 {
 "Name": "Narain Chora",
 "PostCode": "3211",
+"Location": {
 "Latitude": 24.5956,
 "Longitude": 91.651
+}
 },
 {
 "Name": "Satgaon",
 "PostCode": "3214",
+"Location": {
 "Latitude": 24.8847,
 "Longitude": 91.5725
+}
 },
 {
 "Name": "Srimangal",
 "PostCode": "3210",
+"Location": {
 "Latitude": 24.3065,
 "Longitude": 91.7296
+}
 }
 ]
 },
@@ -9471,32 +11787,42 @@
 {
 "Name": "Kamalganj",
 "PostCode": "3220",
+"Location": {
 "Latitude": 24.3826,
 "Longitude": 91.9019
+}
 },
 {
 "Name": "Keramatnaga",
 "PostCode": "3221",
+"Location": {
 "Latitude": 24.3826,
 "Longitude": 91.9019
+}
 },
 {
 "Name": "Munshibazar",
 "PostCode": "3224",
+"Location": {
 "Latitude": 24.3826,
 "Longitude": 91.9019
+}
 },
 {
 "Name": "Patrakhola",
 "PostCode": "3222",
+"Location": {
 "Latitude": 24.3826,
 "Longitude": 91.9019
+}
 },
 {
 "Name": "Shamsher Nagar",
 "PostCode": "3223",
+"Location": {
 "Latitude": 24.3826,
 "Longitude": 91.9019
+}
 }
 ]
 },
@@ -9506,44 +11832,58 @@
 {
 "Name": "Baramchal",
 "PostCode": "3237",
+"Location": {
 "Latitude": 24.5333,
 "Longitude": 92.05
+}
 },
 {
 "Name": "Kajaldhara",
 "PostCode": "3234",
+"Location": {
 "Latitude": 24.5333,
 "Longitude": 92.05
+}
 },
 {
 "Name": "Karimpur",
 "PostCode": "3235",
+"Location": {
 "Latitude": 24.5333,
 "Longitude": 92.05
+}
 },
 {
 "Name": "Kulaura",
 "PostCode": "3230",
+"Location": {
 "Latitude": 24.5333,
 "Longitude": 92.05
+}
 },
 {
 "Name": "Langla",
 "PostCode": "3232",
+"Location": {
 "Latitude": 24.5333,
 "Longitude": 92.05
+}
 },
 {
 "Name": "Prithimpasha",
 "PostCode": "3233",
+"Location": {
 "Latitude": 24.5333,
 "Longitude": 92.05
+}
 },
 {
 "Name": "Tillagaon",
 "PostCode": "3231",
+"Location": {
 "Latitude": 24.5333,
 "Longitude": 92.05
+}
 }
 ]
 },
@@ -9553,8 +11893,10 @@
 {
 "Name": "Rajnagar",
 "PostCode": "3240",
+"Location": {
 "Latitude": 24.5268,
 "Longitude": 91.8135
+}
 }
 ],
 "PostCode": "3240"
@@ -9565,26 +11907,34 @@
 {
 "Name": "Baralekha",
 "PostCode": "3250",
+"Location": {
 "Latitude": 24.5268,
 "Longitude": 91.8135
+}
 },
 {
 "Name": "Dhakkhinbag",
 "PostCode": "3252",
+"Location": {
 "Latitude": 24.5268,
 "Longitude": 91.8135
+}
 },
 {
 "Name": "Juri",
 "PostCode": "3251",
+"Location": {
 "Latitude": 24.5268,
 "Longitude": 91.8135
+}
 },
 {
 "Name": "Purbashahabajpur",
 "PostCode": "3253",
+"Location": {
 "Latitude": 24.5268,
 "Longitude": 91.8135
+}
 }
 ]
 }
@@ -9600,20 +11950,26 @@
 {
 "Name": "Pagla",
 "PostCode": "3001",
+"Location": {
 "Latitude": 24.9212,
 "Longitude": 91.4475
+}
 },
 {
 "Name": "Patharia",
 "PostCode": "3002",
+"Location": {
 "Latitude": 24.9212,
 "Longitude": 91.4475
+}
 },
 {
 "Name": "Sunamganj Sadar",
 "PostCode": "3000",
+"Location": {
 "Latitude": 24.9212,
 "Longitude": 91.4475
+}
 }
 ]
 },
@@ -9623,8 +11979,10 @@
 {
 "Name": "Bishamsapur",
 "PostCode": "3010",
+"Location": {
 "Latitude": 24.9086,
 "Longitude": 91.5303
+}
 }
 ],
 "PostCode": "3010"
@@ -9635,8 +11993,10 @@
 {
 "Name": "Sachna",
 "PostCode": "3020",
+"Location": {
 "Latitude": 25.0097,
 "Longitude": 91.2356
+}
 }
 ],
 "PostCode": "3020"
@@ -9647,8 +12007,10 @@
 {
 "Name": "Tahirpur",
 "PostCode": "3030",
+"Location": {
 "Latitude": 24.9086,
 "Longitude": 91.5303
+}
 }
 ],
 "PostCode": "3030"
@@ -9659,14 +12021,18 @@
 {
 "Name": "Dhirai Chandpur",
 "PostCode": "3040",
+"Location": {
 "Latitude": 24.9086,
 "Longitude": 91.5303
+}
 },
 {
 "Name": "Jagdal",
 "PostCode": "3041",
+"Location": {
 "Latitude": 24.9086,
 "Longitude": 91.5303
+}
 }
 ]
 },
@@ -9676,8 +12042,10 @@
 {
 "Name": "Ghungiar",
 "PostCode": "3050",
+"Location": {
 "Latitude": 24.9086,
 "Longitude": 91.5303
+}
 }
 ],
 "PostCode": "3050"
@@ -9688,38 +12056,50 @@
 {
 "Name": "Atuajan",
 "PostCode": "3062",
+"Location": {
 "Latitude": 24.9086,
 "Longitude": 91.5303
+}
 },
 {
 "Name": "Hasan Fatemapur",
 "PostCode": "3063",
+"Location": {
 "Latitude": 24.9086,
 "Longitude": 91.5303
+}
 },
 {
 "Name": "Jagnnathpur",
 "PostCode": "3060",
+"Location": {
 "Latitude": 24.9086,
 "Longitude": 91.5303
+}
 },
 {
 "Name": "Rasulganj",
 "PostCode": "3064",
+"Location": {
 "Latitude": 24.9086,
 "Longitude": 91.5303
+}
 },
 {
 "Name": "Shiramsi",
 "PostCode": "3065",
+"Location": {
 "Latitude": 24.9086,
 "Longitude": 91.5303
+}
 },
 {
 "Name": "Syedpur",
 "PostCode": "3061",
+"Location": {
 "Latitude": 24.9086,
 "Longitude": 91.5303
+}
 }
 ]
 },
@@ -9729,8 +12109,10 @@
 {
 "Name": "Duara bazar",
 "PostCode": "3070",
+"Location": {
 "Latitude": 24.9086,
 "Longitude": 91.5303
+}
 }
 ],
 "PostCode": "3070"
@@ -9741,62 +12123,82 @@
 {
 "Name": "Chhatak",
 "PostCode": "3080",
+"Location": {
 "Latitude": 24.8517,
 "Longitude": 91.7191
+}
 },
 {
 "Name": "Chhatak Cement Facto",
 "PostCode": "3081",
+"Location": {
 "Latitude": 24.8517,
 "Longitude": 91.7191
+}
 },
 {
 "Name": "Chhatak Paper Mills",
 "PostCode": "3082",
+"Location": {
 "Latitude": 24.8517,
 "Longitude": 91.7191
+}
 },
 {
 "Name": "Chourangi Bazar",
 "PostCode": "3893",
+"Location": {
 "Latitude": 22.9907,
 "Longitude": 91.1283
+}
 },
 {
 "Name": "Gabindaganj",
 "PostCode": "3083",
+"Location": {
 "Latitude": 24.8517,
 "Longitude": 91.7191
+}
 },
 {
 "Name": "Gabindaganj Natun Ba",
 "PostCode": "3084",
+"Location": {
 "Latitude": 24.8517,
 "Longitude": 91.7191
+}
 },
 {
 "Name": "Islamabad",
 "PostCode": "3088",
+"Location": {
 "Latitude": 24.8517,
 "Longitude": 91.7191
+}
 },
 {
 "Name": "jahidpur",
 "PostCode": "3087",
+"Location": {
 "Latitude": 24.8333,
 "Longitude": 91.65
+}
 },
 {
 "Name": "Khurma",
 "PostCode": "3085",
+"Location": {
 "Latitude": 24.8701,
 "Longitude": 91.7882
+}
 },
 {
 "Name": "Moinpur",
 "PostCode": "3086",
+"Location": {
 "Latitude": 24.8517,
 "Longitude": 91.7191
+}
 }
 ]
 }
@@ -9812,86 +12214,114 @@
 {
 "Name": "Birahimpur",
 "PostCode": "3106",
+"Location": {
 "Latitude": 24.9328,
 "Longitude": 91.8739
+}
 },
 {
 "Name": "Jalalabad",
 "PostCode": "3107",
+"Location": {
 "Latitude": 24.899,
 "Longitude": 91.872
+}
 },
 {
 "Name": "Jalalabad Cantoment",
 "PostCode": "3104",
+"Location": {
 "Latitude": 24.9328,
 "Longitude": 91.8739
+}
 },
 {
 "Name": "Kadamtali",
 "PostCode": "3111",
+"Location": {
 "Latitude": 24.6972,
 "Longitude": 91.9514
+}
 },
 {
 "Name": "Kamalbazer",
 "PostCode": "3112",
+"Location": {
 "Latitude": 24.6972,
 "Longitude": 91.9514
+}
 },
 {
 "Name": "Khadimnagar",
 "PostCode": "3103",
+"Location": {
 "Latitude": 24.9666,
 "Longitude": 91.8759
+}
 },
 {
 "Name": "Lalbazar",
 "PostCode": "3113",
+"Location": {
 "Latitude": 24.6972,
 "Longitude": 91.9514
+}
 },
 {
 "Name": "Mogla",
 "PostCode": "3108",
+"Location": {
 "Latitude": 24.9328,
 "Longitude": 91.8739
+}
 },
 {
 "Name": "Ranga Hajiganj",
 "PostCode": "3109",
+"Location": {
 "Latitude": 24.9328,
 "Longitude": 91.8739
+}
 },
 {
 "Name": "Shahajalal Science &",
 "PostCode": "3114",
+"Location": {
 "Latitude": 24.6972,
 "Longitude": 91.9514
+}
 },
 {
 "Name": "Silam",
 "PostCode": "3105",
+"Location": {
 "Latitude": 24.9328,
 "Longitude": 91.8739
+}
 },
 {
 "Name": "Sylhe Sadar",
 "PostCode": "3100",
+"Location": {
 "Latitude": 24.9328,
 "Longitude": 91.8739
+}
 },
 {
 "Name": "Sylhet Biman Bondar",
 "PostCode": "3102",
+"Location": {
 "Latitude": 24.9328,
 "Longitude": 91.8739
+}
 },
 {
 "Name": "Sylhet Cadet Col",
 "PostCode": "3101",
+"Location": {
 "Latitude": 24.9328,
 "Longitude": 91.8739
+}
 }
 ]
 },
@@ -9901,14 +12331,18 @@
 {
 "Name": "Fenchuganj",
 "PostCode": "3116",
+"Location": {
 "Latitude": 24.6972,
 "Longitude": 91.9514
+}
 },
 {
 "Name": "Fenchuganj SareKarkh",
 "PostCode": "3117",
+"Location": {
 "Latitude": 24.6972,
 "Longitude": 91.9514
+}
 }
 ]
 },
@@ -9918,62 +12352,82 @@
 {
 "Name": "Balaganj",
 "PostCode": "3120",
+"Location": {
 "Latitude": 24.6573,
 "Longitude": 91.826
+}
 },
 {
 "Name": "Begumpur",
 "PostCode": "3125",
+"Location": {
 "Latitude": 24.6996,
 "Longitude": 91.7447
+}
 },
 {
 "Name": "Brahman Shashon",
 "PostCode": "3122",
+"Location": {
 "Latitude": 24.6996,
 "Longitude": 91.7447
+}
 },
 {
 "Name": "Gaharpur",
 "PostCode": "3128",
+"Location": {
 "Latitude": 24.6996,
 "Longitude": 91.7447
+}
 },
 {
 "Name": "Goala Bazar",
 "PostCode": "3124",
+"Location": {
 "Latitude": 24.7061,
 "Longitude": 91.7327
+}
 },
 {
 "Name": "Karua",
 "PostCode": "3121",
+"Location": {
 "Latitude": 24.6996,
 "Longitude": 91.7447
+}
 },
 {
 "Name": "Kathal Khair",
 "PostCode": "3127",
+"Location": {
 "Latitude": 24.6996,
 "Longitude": 91.7447
+}
 },
 {
 "Name": "Natun Bazar",
 "PostCode": "3129",
+"Location": {
 "Latitude": 24.6996,
 "Longitude": 91.7447
+}
 },
 {
 "Name": "Omarpur",
 "PostCode": "3126",
+"Location": {
 "Latitude": 24.7234,
 "Longitude": 91.6749
+}
 },
 {
 "Name": "Tajpur",
 "PostCode": "3123",
+"Location": {
 "Latitude": 24.7117,
 "Longitude": 91.7451
+}
 }
 ]
 },
@@ -9983,32 +12437,42 @@
 {
 "Name": "Bishwanath",
 "PostCode": "3130",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 },
 {
 "Name": "Dashghar",
 "PostCode": "3131",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 },
 {
 "Name": "Deokalas",
 "PostCode": "3133",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 },
 {
 "Name": "Doulathpur",
 "PostCode": "3132",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 },
 {
 "Name": "Singer kanch",
 "PostCode": "3134",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 }
 ]
 },
@@ -10018,8 +12482,10 @@
 {
 "Name": "Kompanyganj",
 "PostCode": "3140",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 }
 ],
 "PostCode": "3140"
@@ -10030,20 +12496,26 @@
 {
 "Name": "Chiknagul",
 "PostCode": "3152",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 },
 {
 "Name": "Goainhat",
 "PostCode": "3150",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 },
 {
 "Name": "Jaflong",
 "PostCode": "3151",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 }
 ]
 },
@@ -10053,8 +12525,10 @@
 {
 "Name": "Jainthapur",
 "PostCode": "3156",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 }
 ],
 "PostCode": "3156"
@@ -10065,38 +12539,50 @@
 {
 "Name": "banigram",
 "PostCode": "3164",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 },
 {
 "Name": "Chandanpur",
 "PostCode": "3165",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 },
 {
 "Name": "Dakkhin Bhadashore",
 "PostCode": "3162",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 },
 {
 "Name": "Dhaka Dakkhin",
 "PostCode": "3161",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 },
 {
 "Name": "Gopalgannj",
 "PostCode": "3160",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 },
 {
 "Name": "Ranaping",
 "PostCode": "3163",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 }
 ]
 },
@@ -10106,38 +12592,50 @@
 {
 "Name": "Bianibazar",
 "PostCode": "3170",
+"Location": {
 "Latitude": 24.8333,
 "Longitude": 92.1083
+}
 },
 {
 "Name": "Churkai",
 "PostCode": "3175",
+"Location": {
 "Latitude": 24.8333,
 "Longitude": 92.1083
+}
 },
 {
 "Name": "jaldup",
 "PostCode": "3171",
+"Location": {
 "Latitude": 24.8333,
 "Longitude": 92.1083
+}
 },
 {
 "Name": "Kurar bazar",
 "PostCode": "3173",
+"Location": {
 "Latitude": 24.85,
 "Longitude": 92.1
+}
 },
 {
 "Name": "Mathiura",
 "PostCode": "3172",
+"Location": {
 "Latitude": 24.8167,
 "Longitude": 92.1167
+}
 },
 {
 "Name": "Salia bazar",
 "PostCode": "3174",
+"Location": {
 "Latitude": 24.8333,
 "Longitude": 92.1083
+}
 }
 ]
 },
@@ -10147,26 +12645,34 @@
 {
 "Name": "Chatulbazar",
 "PostCode": "3181",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 },
 {
 "Name": "Gachbari",
 "PostCode": "3183",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 },
 {
 "Name": "Kanaighat",
 "PostCode": "3180",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 },
 {
 "Name": "Manikganj",
 "PostCode": "3182",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 }
 ]
 },
@@ -10176,14 +12682,18 @@
 {
 "Name": "Ichhamati",
 "PostCode": "3191",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 },
 {
 "Name": "Jakiganj",
 "PostCode": "3190",
+"Location": {
 "Latitude": 24.7809,
 "Longitude": 91.8772
+}
 }
 ]
 }
@@ -10205,14 +12715,18 @@
 {
 "Name": "Dinajpur Rajbari",
 "PostCode": "5201",
+"Location": {
 "Latitude": 25.5223,
 "Longitude": 88.9504
+}
 },
 {
 "Name": "Dinajpur Sadar",
 "PostCode": "5200",
+"Location": {
 "Latitude": 25.5223,
 "Longitude": 88.9504
+}
 }
 ]
 },
@@ -10222,8 +12736,10 @@
 {
 "Name": "Biral",
 "PostCode": "5210",
+"Location": {
 "Latitude": 25.6252,
 "Longitude": 88.5595
+}
 }
 ],
 "PostCode": "5210"
@@ -10234,8 +12750,10 @@
 {
 "Name": "Setabganj",
 "PostCode": "5216",
+"Location": {
 "Latitude": 25.6252,
 "Longitude": 88.5595
+}
 }
 ],
 "PostCode": "5216"
@@ -10246,8 +12764,10 @@
 {
 "Name": "Birganj",
 "PostCode": "5220",
+"Location": {
 "Latitude": 25.8623,
 "Longitude": 88.654
+}
 }
 ],
 "PostCode": "5220"
@@ -10258,8 +12778,10 @@
 {
 "Name": "Maharajganj",
 "PostCode": "5226",
+"Location": {
 "Latitude": 25.8623,
 "Longitude": 88.654
+}
 }
 ],
 "PostCode": "5226"
@@ -10270,14 +12792,18 @@
 {
 "Name": "Khansama",
 "PostCode": "5230",
+"Location": {
 "Latitude": 25.9248,
 "Longitude": 88.7307
+}
 },
 {
 "Name": "Pakarhat",
 "PostCode": "5231",
+"Location": {
 "Latitude": 25.9248,
 "Longitude": 88.7307
+}
 }
 ]
 },
@@ -10287,14 +12813,18 @@
 {
 "Name": "Chrirbandar",
 "PostCode": "5240",
+"Location": {
 "Latitude": 25.5223,
 "Longitude": 88.9504
+}
 },
 {
 "Name": "Ranirbandar",
 "PostCode": "5241",
+"Location": {
 "Latitude": 25.5223,
 "Longitude": 88.9504
+}
 }
 ]
 },
@@ -10304,8 +12834,10 @@
 {
 "Name": "Parbatipur",
 "PostCode": "5250",
+"Location": {
 "Latitude": 25.6637,
 "Longitude": 88.9309
+}
 }
 ],
 "PostCode": "5250"
@@ -10316,8 +12848,10 @@
 {
 "Name": "Phulbari",
 "PostCode": "5260",
+"Location": {
 "Latitude": 25.4998,
 "Longitude": 88.9543
+}
 }
 ],
 "PostCode": "5260"
@@ -10328,8 +12862,10 @@
 {
 "Name": "Birampur",
 "PostCode": "5266",
+"Location": {
 "Latitude": 25.3891,
 "Longitude": 88.9933
+}
 }
 ],
 "PostCode": "5266"
@@ -10340,8 +12876,10 @@
 {
 "Name": "Bangla Hili",
 "PostCode": "5270",
+"Location": {
 "Latitude": 25.5223,
 "Longitude": 88.9504
+}
 }
 ],
 "PostCode": "5270"
@@ -10352,20 +12890,26 @@
 {
 "Name": "Daudpur",
 "PostCode": "5281",
+"Location": {
 "Latitude": 25.402,
 "Longitude": 89.1115
+}
 },
 {
 "Name": "Gopalpur",
 "PostCode": "5282",
+"Location": {
 "Latitude": 25.3627,
 "Longitude": 89.0479
+}
 },
 {
 "Name": "Nababganj",
 "PostCode": "5280",
+"Location": {
 "Latitude": 25.3824,
 "Longitude": 89.0797
+}
 }
 ]
 },
@@ -10375,14 +12919,18 @@
 {
 "Name": "Ghoraghat",
 "PostCode": "5291",
+"Location": {
 "Latitude": 25.236,
 "Longitude": 89.2801
+}
 },
 {
 "Name": "Osmanpur",
 "PostCode": "5290",
+"Location": {
 "Latitude": 25.257,
 "Longitude": 89.2414
+}
 }
 ]
 }
@@ -10398,8 +12946,10 @@
 {
 "Name": "Gaibandha Sadar",
 "PostCode": "5700",
+"Location": {
 "Latitude": 25.5496,
 "Longitude": 89.5502
+}
 }
 ],
 "PostCode": "5700"
@@ -10410,14 +12960,18 @@
 {
 "Name": "Naldanga",
 "PostCode": "5711",
+"Location": {
 "Latitude": 25.4869,
 "Longitude": 89.4661
+}
 },
 {
 "Name": "Saadullapur",
 "PostCode": "5710",
+"Location": {
 "Latitude": 25.4869,
 "Longitude": 89.4661
+}
 }
 ]
 },
@@ -10427,14 +12981,18 @@
 {
 "Name": "Bamandanga",
 "PostCode": "5721",
+"Location": {
 "Latitude": 25.535,
 "Longitude": 89.4466
+}
 },
 {
 "Name": "Sundarganj",
 "PostCode": "5720",
+"Location": {
 "Latitude": 25.568,
 "Longitude": 89.5222
+}
 }
 ]
 },
@@ -10444,8 +13002,10 @@
 {
 "Name": "Palashbari",
 "PostCode": "5730",
+"Location": {
 "Latitude": 25.2821,
 "Longitude": 89.353
+}
 }
 ],
 "PostCode": "5730"
@@ -10456,14 +13016,18 @@
 {
 "Name": "Gobindhaganj",
 "PostCode": "5740",
+"Location": {
 "Latitude": 25.4323,
 "Longitude": 89.4875
+}
 },
 {
 "Name": "Mahimaganj",
 "PostCode": "5741",
+"Location": {
 "Latitude": 25.4323,
 "Longitude": 89.4875
+}
 }
 ]
 },
@@ -10473,14 +13037,18 @@
 {
 "Name": "Bonarpara",
 "PostCode": "5750",
+"Location": {
 "Latitude": 25.4323,
 "Longitude": 89.4875
+}
 },
 {
 "Name": "saghata",
 "PostCode": "5751",
+"Location": {
 "Latitude": 25.4323,
 "Longitude": 89.4875
+}
 }
 ]
 },
@@ -10490,14 +13058,18 @@
 {
 "Name": "Bharatkhali",
 "PostCode": "5761",
+"Location": {
 "Latitude": 25.1721,
 "Longitude": 89.5866
+}
 },
 {
 "Name": "Phulchhari",
 "PostCode": "5760",
+"Location": {
 "Latitude": 25.1721,
 "Longitude": 89.5866
+}
 }
 ]
 }
@@ -10513,20 +13085,26 @@
 {
 "Name": "Kurigram Sadar",
 "PostCode": "5600",
+"Location": {
 "Latitude": 25.7244,
 "Longitude": 89.6004
+}
 },
 {
 "Name": "Pandul",
 "PostCode": "5601",
+"Location": {
 "Latitude": 25.7244,
 "Longitude": 89.6004
+}
 },
 {
 "Name": "Phulbari",
 "PostCode": "5680",
+"Location": {
 "Latitude": 25.949,
 "Longitude": 89.5559
+}
 }
 ]
 },
@@ -10536,14 +13114,18 @@
 {
 "Name": "Nazimkhan",
 "PostCode": "5611",
+"Location": {
 "Latitude": 25.7412,
 "Longitude": 89.6513
+}
 },
 {
 "Name": "Rajarhat",
 "PostCode": "5610",
+"Location": {
 "Latitude": 25.7412,
 "Longitude": 89.6513
+}
 }
 ]
 },
@@ -10553,14 +13135,18 @@
 {
 "Name": "Bazarhat",
 "PostCode": "5621",
+"Location": {
 "Latitude": 25.659,
 "Longitude": 89.6183
+}
 },
 {
 "Name": "Ulipur",
 "PostCode": "5620",
+"Location": {
 "Latitude": 25.659,
 "Longitude": 89.6183
+}
 }
 ]
 },
@@ -10570,14 +13156,18 @@
 {
 "Name": "Chilmari",
 "PostCode": "5630",
+"Location": {
 "Latitude": 25.5561,
 "Longitude": 89.671
+}
 },
 {
 "Name": "Jorgachh",
 "PostCode": "5631",
+"Location": {
 "Latitude": 25.5561,
 "Longitude": 89.671
+}
 }
 ]
 },
@@ -10587,8 +13177,10 @@
 {
 "Name": "Roumari",
 "PostCode": "5640",
+"Location": {
 "Latitude": 25.7412,
 "Longitude": 89.6513
+}
 }
 ],
 "PostCode": "5640"
@@ -10599,8 +13191,10 @@
 {
 "Name": "Rajibpur",
 "PostCode": "5650",
+"Location": {
 "Latitude": 25.4388,
 "Longitude": 89.7944
+}
 }
 ],
 "PostCode": "5650"
@@ -10611,8 +13205,10 @@
 {
 "Name": "Nageshwar",
 "PostCode": "5660",
+"Location": {
 "Latitude": 25.7412,
 "Longitude": 89.6513
+}
 }
 ],
 "PostCode": "5660"
@@ -10623,8 +13219,10 @@
 {
 "Name": "Bhurungamari",
 "PostCode": "5670",
+"Location": {
 "Latitude": 26.1198,
 "Longitude": 89.6677
+}
 }
 ],
 "PostCode": "5670"
@@ -10641,20 +13239,26 @@
 {
 "Name": "Kulaghat SO",
 "PostCode": "5502",
+"Location": {
 "Latitude": 26.1669,
 "Longitude": 89.1228
+}
 },
 {
 "Name": "Lalmonirhat Sadar",
 "PostCode": "5500",
+"Location": {
 "Latitude": 26.1669,
 "Longitude": 89.1228
+}
 },
 {
 "Name": "Moghalhat",
 "PostCode": "5501",
+"Location": {
 "Latitude": 26.1669,
 "Longitude": 89.1228
+}
 }
 ]
 },
@@ -10664,8 +13268,10 @@
 {
 "Name": "Aditmari",
 "PostCode": "5510",
+"Location": {
 "Latitude": 25.9254,
 "Longitude": 89.355
+}
 }
 ],
 "PostCode": "5510"
@@ -10676,8 +13282,10 @@
 {
 "Name": "Tushbhandar",
 "PostCode": "5520",
+"Location": {
 "Latitude": 25.9646,
 "Longitude": 89.197
+}
 }
 ],
 "PostCode": "5520"
@@ -10688,8 +13296,10 @@
 {
 "Name": "Hatibandha",
 "PostCode": "5530",
+"Location": {
 "Latitude": 26.1249,
 "Longitude": 89.1408
+}
 }
 ],
 "PostCode": "5530"
@@ -10700,20 +13310,26 @@
 {
 "Name": "Baura",
 "PostCode": "5541",
+"Location": {
 "Latitude": 26.25,
 "Longitude": 89.0833
+}
 },
 {
 "Name": "Burimari",
 "PostCode": "5542",
+"Location": {
 "Latitude": 26.3878,
 "Longitude": 88.9254
+}
 },
 {
 "Name": "Patgram",
 "PostCode": "5540",
+"Location": {
 "Latitude": 26.3488,
 "Longitude": 89.0352
+}
 }
 ]
 }
@@ -10729,14 +13345,18 @@
 {
 "Name": "Nilphamari Sadar",
 "PostCode": "5300",
+"Location": {
 "Latitude": 26.0297,
 "Longitude": 88.917
+}
 },
 {
 "Name": "Nilphamari Sugar Mil",
 "PostCode": "5301",
+"Location": {
 "Latitude": 26.0297,
 "Longitude": 88.917
+}
 }
 ]
 },
@@ -10746,14 +13366,18 @@
 {
 "Name": "Syedpur",
 "PostCode": "5310",
+"Location": {
 "Latitude": 25.7777,
 "Longitude": 88.8917
+}
 },
 {
 "Name": "Syedpur Upashahar",
 "PostCode": "5311",
+"Location": {
 "Latitude": 25.7777,
 "Longitude": 88.8917
+}
 }
 ]
 },
@@ -10763,8 +13387,10 @@
 {
 "Name": "Kishoriganj",
 "PostCode": "5320",
+"Location": {
 "Latitude": 25.9036,
 "Longitude": 89.0314
+}
 }
 ],
 "PostCode": "5320"
@@ -10775,8 +13401,10 @@
 {
 "Name": "Jaldhaka",
 "PostCode": "5330",
+"Location": {
 "Latitude": 26.0223,
 "Longitude": 89.0158
+}
 }
 ],
 "PostCode": "5330"
@@ -10787,14 +13415,18 @@
 {
 "Name": "Chilahati",
 "PostCode": "5341",
+"Location": {
 "Latitude": 26.2417,
 "Longitude": 88.8026
+}
 },
 {
 "Name": "Domar",
 "PostCode": "5340",
+"Location": {
 "Latitude": 26.106,
 "Longitude": 88.8206
+}
 }
 ]
 },
@@ -10804,14 +13436,18 @@
 {
 "Name": "Dimla",
 "PostCode": "5350",
+"Location": {
 "Latitude": 26.1269,
 "Longitude": 88.94
+}
 },
 {
 "Name": "Ghaga Kharibari",
 "PostCode": "5351",
+"Location": {
 "Latitude": 26.1269,
 "Longitude": 88.94
+}
 }
 ]
 }
@@ -10827,8 +13463,10 @@
 {
 "Name": "Panchagar Sadar",
 "PostCode": "5000",
+"Location": {
 "Latitude": 26.0631,
 "Longitude": 88.6224
+}
 }
 ],
 "PostCode": "5000"
@@ -10839,8 +13477,10 @@
 {
 "Name": "Boda",
 "PostCode": "5010",
+"Location": {
 "Latitude": 26.1998,
 "Longitude": 88.5552
+}
 }
 ],
 "PostCode": "5010"
@@ -10851,8 +13491,10 @@
 {
 "Name": "Dabiganj",
 "PostCode": "5020",
+"Location": {
 "Latitude": 26.0631,
 "Longitude": 88.6224
+}
 }
 ],
 "PostCode": "5020"
@@ -10863,8 +13505,10 @@
 {
 "Name": "Tetulia",
 "PostCode": "5030",
+"Location": {
 "Latitude": 26.4917,
 "Longitude": 88.3397
+}
 }
 ],
 "PostCode": "5030"
@@ -10875,14 +13519,18 @@
 {
 "Name": "Chotto Dab",
 "PostCode": "5040",
+"Location": {
 "Latitude": 25.4978,
 "Longitude": 88.9725
+}
 },
 {
 "Name": "Mirjapur",
 "PostCode": "5041",
+"Location": {
 "Latitude": 25.4978,
 "Longitude": 88.9725
+}
 }
 ]
 }
@@ -10898,38 +13546,50 @@
 {
 "Name": "Alamnagar",
 "PostCode": "5402",
+"Location": {
 "Latitude": 25.732,
 "Longitude": 89.2649
+}
 },
 {
 "Name": "Mahiganj",
 "PostCode": "5403",
+"Location": {
 "Latitude": 25.7313,
 "Longitude": 89.2875
+}
 },
 {
 "Name": "Rangpur Cadet Colleg",
 "PostCode": "5404",
+"Location": {
 "Latitude": 25.7317,
 "Longitude": 89.2762
+}
 },
 {
 "Name": "Rangpur Carmiecal Col",
 "PostCode": "5405",
+"Location": {
 "Latitude": 25.7317,
 "Longitude": 89.2762
+}
 },
 {
 "Name": "Rangpur Sadar",
 "PostCode": "5400",
+"Location": {
 "Latitude": 25.7317,
 "Longitude": 89.2762
+}
 },
 {
 "Name": "Rangpur Upa-Shahar",
 "PostCode": "5401",
+"Location": {
 "Latitude": 25.7317,
 "Longitude": 89.2762
+}
 }
 ]
 },
@@ -10939,8 +13599,10 @@
 {
 "Name": "Gangachara",
 "PostCode": "5410",
+"Location": {
 "Latitude": 25.6974,
 "Longitude": 89.301
+}
 }
 ],
 "PostCode": "5410"
@@ -10951,8 +13613,10 @@
 {
 "Name": "Taraganj",
 "PostCode": "5420",
+"Location": {
 "Latitude": 25.6974,
 "Longitude": 89.301
+}
 }
 ],
 "PostCode": "5420"
@@ -10963,14 +13627,18 @@
 {
 "Name": "Badarganj",
 "PostCode": "5430",
+"Location": {
 "Latitude": 25.6742,
 "Longitude": 89.0538
+}
 },
 {
 "Name": "Shyampur",
 "PostCode": "5431",
+"Location": {
 "Latitude": 25.6244,
 "Longitude": 89.3387
+}
 }
 ]
 },
@@ -10980,14 +13648,18 @@
 {
 "Name": "Haragachh",
 "PostCode": "5441",
+"Location": {
 "Latitude": 25.8139,
 "Longitude": 89.3364
+}
 },
 {
 "Name": "Kaunia",
 "PostCode": "5440",
+"Location": {
 "Latitude": 25.7742,
 "Longitude": 89.4204
+}
 }
 ]
 },
@@ -10997,8 +13669,10 @@
 {
 "Name": "Pirgachha",
 "PostCode": "5450",
+"Location": {
 "Latitude": 25.6569,
 "Longitude": 89.4309
+}
 }
 ],
 "PostCode": "5450"
@@ -11009,8 +13683,10 @@
 {
 "Name": "Mithapukur",
 "PostCode": "5460",
+"Location": {
 "Latitude": 25.5724,
 "Longitude": 89.2751
+}
 }
 ],
 "PostCode": "5460"
@@ -11027,26 +13703,34 @@
 {
 "Name": "Ruhia",
 "PostCode": "5103",
+"Location": {
 "Latitude": 25.9152,
 "Longitude": 88.1013
+}
 },
 {
 "Name": "Shibganj",
 "PostCode": "5102",
+"Location": {
 "Latitude": 25.9152,
 "Longitude": 88.1013
+}
 },
 {
 "Name": "Thakurgaon Road",
 "PostCode": "5101",
+"Location": {
 "Latitude": 25.9152,
 "Longitude": 88.1013
+}
 },
 {
 "Name": "Thakurgaon Sadar",
 "PostCode": "5100",
+"Location": {
 "Latitude": 25.9152,
 "Longitude": 88.1013
+}
 }
 ]
 },
@@ -11056,14 +13740,18 @@
 {
 "Name": "Pirganj",
 "PostCode": "5110",
+"Location": {
 "Latitude": 25.8559,
 "Longitude": 88.3594
+}
 },
 {
 "Name": "Pirganj",
 "PostCode": "5470",
+"Location": {
 "Latitude": 25.6974,
 "Longitude": 89.301
+}
 }
 ]
 },
@@ -11073,14 +13761,18 @@
 {
 "Name": "Nekmarad",
 "PostCode": "5121",
+"Location": {
 "Latitude": 25.9801,
 "Longitude": 88.2645
+}
 },
 {
 "Name": "Rani Sankail",
 "PostCode": "5120",
+"Location": {
 "Latitude": 25.9801,
 "Longitude": 88.2645
+}
 }
 ]
 },
@@ -11090,8 +13782,10 @@
 {
 "Name": "Jibanpur",
 "PostCode": "5130",
+"Location": {
 "Latitude": 25.8132,
 "Longitude": 88.1372
+}
 }
 ],
 "PostCode": "5130"
@@ -11102,14 +13796,18 @@
 {
 "Name": "Baliadangi",
 "PostCode": "5140",
+"Location": {
 "Latitude": 26.0866,
 "Longitude": 88.278
+}
 },
 {
 "Name": "Lahiri",
 "PostCode": "5141",
+"Location": {
 "Latitude": 26.1456,
 "Longitude": 88.2941
+}
 }
 ]
 }

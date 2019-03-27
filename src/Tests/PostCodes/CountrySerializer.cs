@@ -46,8 +46,7 @@ static class CountrySerializer
                         var item = new Place
                         {
                             PostCode = place.PostalCode,
-                            Latitude = place.Latitude,
-                            Longitude = place.Longitude,
+                            Location = place.Location,
                             Name = place.PlaceName
                         };
 

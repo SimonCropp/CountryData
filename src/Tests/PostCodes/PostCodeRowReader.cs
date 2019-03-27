@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using CountryData;
 using Xunit;
 
 static class PostCodeRowReader
@@ -18,9 +19,18 @@ static class PostCodeRowReader
                 ProvinceCode = split[6],
                 Community = split[7],
                 CommunityCode = split[8],
-                Latitude = double.Parse(split[9]),
-                Longitude = double.Parse(split[10]),
             };
+
+            var s = split[9];
+            if (s != null)
+            {
+                row.Location = new Location
+                {
+                    Latitude = double.Parse(s),
+                    Longitude = double.Parse(split[10])
+                };
+            }
+
             Assert.NotEmpty(row.PostalCode);
             var accuracy = split[11];
             if (accuracy != null)

@@ -20,6 +20,6 @@ namespace CountryData
         string PostCodeFormat { get; }
         string PostCodeRegex { get; }
         IReadOnlyList<string> Languages { get; }
-        IReadOnlyList<State> States { get; }
+        IReadOnlyList<IState> States { get; }
     }
 }

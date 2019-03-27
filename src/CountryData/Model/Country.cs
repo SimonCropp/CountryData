@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Runtime.Serialization;
 
 namespace CountryData
 {
@@ -21,5 +22,7 @@ namespace CountryData
         public string PostCodeRegex { get; set; }
         public IReadOnlyList<string> Languages { get; set; }
         public IReadOnlyList<State> States { get; set; }
+        [IgnoreDataMember]
+        IReadOnlyList<IState> ICountry.States => States;
     }
 }

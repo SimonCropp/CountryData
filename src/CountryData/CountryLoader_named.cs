@@ -36,6 +36,11 @@ namespace CountryData
             return LoadLocationData("AX");
         }
 
+        public static ICountry LoadAzerbaijanLocationData()
+        {
+            return LoadLocationData("AZ");
+        }
+
         public static ICountry LoadBangladeshLocationData()
         {
             return LoadLocationData("BD");

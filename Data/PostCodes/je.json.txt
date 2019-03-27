@@ -9,26 +9,34 @@
 {
 "Name": "St Brelades",
 "PostCode": "JE3",
+"Location": {
 "Latitude": 49.2,
 "Longitude": -2.1333
+}
 },
 {
 "Name": "St Helier",
 "PostCode": "JE1",
+"Location": {
 "Latitude": 49.2,
 "Longitude": -2.1333
+}
 },
 {
 "Name": "St Helier",
 "PostCode": "JE2",
+"Location": {
 "Latitude": 49.2,
 "Longitude": -2.1333
+}
 },
 {
 "Name": "St Lawrence",
 "PostCode": "JE3",
+"Location": {
 "Latitude": 49.2,
 "Longitude": -2.1333
+}
 }
 ]
 }

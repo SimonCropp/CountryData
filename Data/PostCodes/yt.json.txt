@@ -12,8 +12,10 @@
 {
 "Name": "Passamainty",
 "PostCode": "97605",
+"Location": {
 "Latitude": -12.802,
 "Longitude": 45.2082
+}
 }
 ],
 "PostCode": "97605"
@@ -35,8 +37,10 @@
 {
 "Name": "Acoua",
 "PostCode": "97630",
+"Location": {
 "Latitude": -12.7239,
 "Longitude": 45.0582
+}
 }
 ],
 "PostCode": "97630"
@@ -58,8 +62,10 @@
 {
 "Name": "Bandraboua",
 "PostCode": "97650",
+"Location": {
 "Latitude": -12.7044,
 "Longitude": 45.1223
+}
 }
 ],
 "PostCode": "97650"
@@ -81,8 +87,10 @@
 {
 "Name": "Bandrélé",
 "PostCode": "97660",
+"Location": {
 "Latitude": -12.9128,
 "Longitude": 45.1926
+}
 }
 ],
 "PostCode": "97660"
@@ -104,8 +112,10 @@
 {
 "Name": "Bouéni",
 "PostCode": "97620",
+"Location": {
 "Latitude": -12.9025,
 "Longitude": 45.0761
+}
 }
 ],
 "PostCode": "97620"
@@ -127,8 +137,10 @@
 {
 "Name": "Chiconi",
 "PostCode": "97670",
+"Location": {
 "Latitude": -12.8333,
 "Longitude": 45.1106
+}
 }
 ],
 "PostCode": "97670"
@@ -150,8 +162,10 @@
 {
 "Name": "Chirongui",
 "PostCode": "97620",
+"Location": {
 "Latitude": -12.9319,
 "Longitude": 45.1483
+}
 }
 ],
 "PostCode": "97620"
@@ -173,8 +187,10 @@
 {
 "Name": "Dembeni",
 "PostCode": "97660",
+"Location": {
 "Latitude": -12.8436,
 "Longitude": 45.1844
+}
 }
 ],
 "PostCode": "97660"
@@ -196,8 +212,10 @@
 {
 "Name": "Dzaoudzi",
 "PostCode": "97615",
+"Location": {
 "Latitude": -12.7783,
 "Longitude": 45.2837
+}
 }
 ],
 "PostCode": "97615"
@@ -219,8 +237,10 @@
 {
 "Name": "Kani Kéli",
 "PostCode": "97625",
+"Location": {
 "Latitude": -12.9536,
 "Longitude": 45.1033
+}
 }
 ],
 "PostCode": "97625"
@@ -242,8 +262,10 @@
 {
 "Name": "Koungou",
 "PostCode": "97600",
+"Location": {
 "Latitude": -12.7336,
 "Longitude": 45.2042
+}
 }
 ],
 "PostCode": "97600"
@@ -263,26 +285,34 @@
 {
 "Name": "Mamoudzou",
 "PostCode": "97600",
+"Location": {
 "Latitude": -12.7823,
 "Longitude": 45.2288
+}
 },
 {
 "Name": "Mamoudzou",
 "PostCode": "97605",
+"Location": {
 "Latitude": -12.7823,
 "Longitude": 45.2288
+}
 },
 {
 "Name": "Mamoudzou",
 "PostCode": "97650",
+"Location": {
 "Latitude": -12.7823,
 "Longitude": 45.2288
+}
 },
 {
 "Name": "Mamoudzou",
 "PostCode": "97680",
+"Location": {
 "Latitude": -12.7823,
 "Longitude": 45.2288
+}
 }
 ]
 }
@@ -303,8 +333,10 @@
 {
 "Name": "Mtsamboro",
 "PostCode": "97630",
+"Location": {
 "Latitude": -12.6998,
 "Longitude": 45.0689
+}
 }
 ],
 "PostCode": "97630"
@@ -326,8 +358,10 @@
 {
 "Name": "M'Tsangamouji",
 "PostCode": "97650",
+"Location": {
 "Latitude": -12.7594,
 "Longitude": 45.0836
+}
 }
 ],
 "PostCode": "97650"
@@ -349,8 +383,10 @@
 {
 "Name": "Ouangani",
 "PostCode": "97670",
+"Location": {
 "Latitude": -12.8464,
 "Longitude": 45.1361
+}
 }
 ],
 "PostCode": "97670"
@@ -372,8 +408,10 @@
 {
 "Name": "Pamandzi",
 "PostCode": "97615",
+"Location": {
 "Latitude": -12.7949,
 "Longitude": 45.282
+}
 }
 ],
 "PostCode": "97615"
@@ -395,8 +433,10 @@
 {
 "Name": "Sada",
 "PostCode": "97640",
+"Location": {
 "Latitude": -12.8505,
 "Longitude": 45.1021
+}
 }
 ],
 "PostCode": "97640"
@@ -418,8 +458,10 @@
 {
 "Name": "Tsingoni",
 "PostCode": "97680",
+"Location": {
 "Latitude": -12.7872,
 "Longitude": 45.1028
+}
 }
 ],
 "PostCode": "97680"

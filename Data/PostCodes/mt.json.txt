@@ -12,8 +12,10 @@
 {
 "Name": "Attard",
 "PostCode": "ATD",
+"Location": {
 "Latitude": 35.8917,
 "Longitude": 14.4319
+}
 }
 ],
 "PostCode": "ATD"
@@ -35,8 +37,10 @@
 {
 "Name": "Balzan",
 "PostCode": "BZN",
+"Location": {
 "Latitude": 35.8972,
 "Longitude": 14.4528
+}
 }
 ],
 "PostCode": "BZN"
@@ -58,8 +62,10 @@
 {
 "Name": "Birgu",
 "PostCode": "BRG",
+"Location": {
 "Latitude": 35.8861,
 "Longitude": 14.5242
+}
 }
 ],
 "PostCode": "BRG"
@@ -81,8 +87,10 @@
 {
 "Name": "Birkirkara",
 "PostCode": "BKR",
+"Location": {
 "Latitude": 35.8972,
 "Longitude": 14.4653
+}
 }
 ],
 "PostCode": "BKR"
@@ -104,8 +112,10 @@
 {
 "Name": "Birżebbuġa",
 "PostCode": "BBG",
+"Location": {
 "Latitude": 35.8222,
 "Longitude": 14.5228
+}
 }
 ],
 "PostCode": "BBG"
@@ -127,8 +137,10 @@
 {
 "Name": "Bormla",
 "PostCode": "BML",
+"Location": {
 "Latitude": 35.8806,
 "Longitude": 14.5217
+}
 }
 ],
 "PostCode": "BML"
@@ -150,8 +162,10 @@
 {
 "Name": "Dingli",
 "PostCode": "DGL",
+"Location": {
 "Latitude": 35.8597,
 "Longitude": 14.3833
+}
 }
 ],
 "PostCode": "DGL"
@@ -173,8 +187,10 @@
 {
 "Name": "Fgura",
 "PostCode": "FGR",
+"Location": {
 "Latitude": 35.8728,
 "Longitude": 14.5203
+}
 }
 ],
 "PostCode": "FGR"
@@ -196,8 +212,10 @@
 {
 "Name": "Floriana",
 "PostCode": "FRN",
+"Location": {
 "Latitude": 35.8917,
 "Longitude": 14.5042
+}
 }
 ],
 "PostCode": "FRN"
@@ -219,8 +237,10 @@
 {
 "Name": "Fontana",
 "PostCode": "FNT",
+"Location": {
 "Latitude": 36.0375,
 "Longitude": 14.2361
+}
 }
 ],
 "PostCode": "FNT"
@@ -240,14 +260,18 @@
 {
 "Name": "Għajnsielem",
 "PostCode": "GSM",
+"Location": {
 "Latitude": 36.0267,
 "Longitude": 14.2861
+}
 },
 {
 "Name": "Kemmuna",
 "PostCode": "KMN",
+"Location": {
 "Latitude": 36.0267,
 "Longitude": 14.2861
+}
 }
 ]
 }
@@ -268,8 +292,10 @@
 {
 "Name": "Għarb",
 "PostCode": "GRB",
+"Location": {
 "Latitude": 36.0681,
 "Longitude": 14.2014
+}
 }
 ],
 "PostCode": "GRB"
@@ -291,8 +317,10 @@
 {
 "Name": "Għargħur",
 "PostCode": "GHR",
+"Location": {
 "Latitude": 35.9236,
 "Longitude": 14.455
+}
 }
 ],
 "PostCode": "GHR"
@@ -314,8 +342,10 @@
 {
 "Name": "Għasri",
 "PostCode": "GSR",
+"Location": {
 "Latitude": 36.0653,
 "Longitude": 14.2217
+}
 }
 ],
 "PostCode": "GSR"
@@ -337,8 +367,10 @@
 {
 "Name": "Għaxaq",
 "PostCode": "GXQ",
+"Location": {
 "Latitude": 35.8458,
 "Longitude": 14.5167
+}
 }
 ],
 "PostCode": "GXQ"
@@ -360,8 +392,10 @@
 {
 "Name": "Gudja",
 "PostCode": "GDJ",
+"Location": {
 "Latitude": 35.8514,
 "Longitude": 14.5033
+}
 }
 ],
 "PostCode": "GDJ"
@@ -383,8 +417,10 @@
 {
 "Name": "Gżira",
 "PostCode": "GZR",
+"Location": {
 "Latitude": 35.9056,
 "Longitude": 14.4928
+}
 }
 ],
 "PostCode": "GZR"
@@ -406,8 +442,10 @@
 {
 "Name": "Ħamrun",
 "PostCode": "HMR",
+"Location": {
 "Latitude": 35.8869,
 "Longitude": 14.4883
+}
 }
 ],
 "PostCode": "HMR"
@@ -429,8 +467,10 @@
 {
 "Name": "Iklin",
 "PostCode": "IKL",
+"Location": {
 "Latitude": 35.9097,
 "Longitude": 14.4556
+}
 }
 ],
 "PostCode": "IKL"
@@ -452,8 +492,10 @@
 {
 "Name": "Mdina",
 "PostCode": "MDN",
+"Location": {
 "Latitude": 35.8872,
 "Longitude": 14.4053
+}
 }
 ],
 "PostCode": "MDN"
@@ -475,8 +517,10 @@
 {
 "Name": "Mġarr",
 "PostCode": "MGR",
+"Location": {
 "Latitude": 35.9194,
 "Longitude": 14.3639
+}
 }
 ],
 "PostCode": "MGR"
@@ -498,8 +542,10 @@
 {
 "Name": "Mqabba",
 "PostCode": "MQB",
+"Location": {
 "Latitude": 35.845,
 "Longitude": 14.4675
+}
 }
 ],
 "PostCode": "MQB"
@@ -521,8 +567,10 @@
 {
 "Name": "Msida",
 "PostCode": "MSD",
+"Location": {
 "Latitude": 35.8986,
 "Longitude": 14.4839
+}
 }
 ],
 "PostCode": "MSD"
@@ -544,8 +592,10 @@
 {
 "Name": "Mtarfa",
 "PostCode": "MTF",
+"Location": {
 "Latitude": 35.8906,
 "Longitude": 14.3972
+}
 }
 ],
 "PostCode": "MTF"
@@ -567,8 +617,10 @@
 {
 "Name": "Isla",
 "PostCode": "ISL",
+"Location": {
 "Latitude": 35.8878,
 "Longitude": 14.5169
+}
 }
 ],
 "PostCode": "ISL"
@@ -588,14 +640,18 @@
 {
 "Name": "Kalkara",
 "PostCode": "KKR",
+"Location": {
 "Latitude": 35.8911,
 "Longitude": 14.5328
+}
 },
 {
 "Name": "Smart City",
 "PostCode": "SCM",
+"Location": {
 "Latitude": 35.8911,
 "Longitude": 14.5328
+}
 }
 ]
 }
@@ -616,8 +672,10 @@
 {
 "Name": "Kerċem",
 "PostCode": "KCM",
+"Location": {
 "Latitude": 36.0439,
 "Longitude": 14.2161
+}
 }
 ],
 "PostCode": "KCM"
@@ -639,8 +697,10 @@
 {
 "Name": "Kirkop",
 "PostCode": "KKP",
+"Location": {
 "Latitude": 35.8442,
 "Longitude": 14.4842
+}
 }
 ],
 "PostCode": "KKP"
@@ -662,8 +722,10 @@
 {
 "Name": "Lija",
 "PostCode": "LJA",
+"Location": {
 "Latitude": 35.9014,
 "Longitude": 14.4422
+}
 }
 ],
 "PostCode": "LJA"
@@ -685,8 +747,10 @@
 {
 "Name": "Luqa",
 "PostCode": "LQA",
+"Location": {
 "Latitude": 35.8597,
 "Longitude": 14.4833
+}
 }
 ],
 "PostCode": "LQA"
@@ -706,14 +770,18 @@
 {
 "Name": "MaltaPost",
 "PostCode": "MTP",
+"Location": {
 "Latitude": 35.8764,
 "Longitude": 14.4922
+}
 },
 {
 "Name": "Marsa",
 "PostCode": "MRS",
+"Location": {
 "Latitude": 35.8764,
 "Longitude": 14.4922
+}
 }
 ]
 }
@@ -734,8 +802,10 @@
 {
 "Name": "Marsaskala",
 "PostCode": "MSK",
+"Location": {
 "Latitude": 35.8606,
 "Longitude": 14.5592
+}
 }
 ],
 "PostCode": "MSK"
@@ -757,8 +827,10 @@
 {
 "Name": "Marsaxlokk",
 "PostCode": "MXK",
+"Location": {
 "Latitude": 35.8417,
 "Longitude": 14.5514
+}
 }
 ],
 "PostCode": "MXK"
@@ -780,8 +852,10 @@
 {
 "Name": "Mellieħa",
 "PostCode": "MLH",
+"Location": {
 "Latitude": 35.9583,
 "Longitude": 14.3514
+}
 }
 ],
 "PostCode": "MLH"
@@ -803,8 +877,10 @@
 {
 "Name": "Mosta",
 "PostCode": "MST",
+"Location": {
 "Latitude": 35.9125,
 "Longitude": 14.4208
+}
 }
 ],
 "PostCode": "MST"
@@ -824,14 +900,18 @@
 {
 "Name": "Munxar",
 "PostCode": "MXR",
+"Location": {
 "Latitude": 36.0292,
 "Longitude": 14.2256
+}
 },
 {
 "Name": "Xlendi",
 "PostCode": "XLN",
+"Location": {
 "Latitude": 36.0292,
 "Longitude": 14.2256
+}
 }
 ]
 }
@@ -852,8 +932,10 @@
 {
 "Name": "Nadur",
 "PostCode": "NDR",
+"Location": {
 "Latitude": 36.0486,
 "Longitude": 14.2944
+}
 }
 ],
 "PostCode": "NDR"
@@ -875,8 +957,10 @@
 {
 "Name": "Naxxar",
 "PostCode": "NXR",
+"Location": {
 "Latitude": 35.9333,
 "Longitude": 14.4375
+}
 }
 ],
 "PostCode": "NXR"
@@ -898,8 +982,10 @@
 {
 "Name": "Paola",
 "PostCode": "PLA",
+"Location": {
 "Latitude": 35.8736,
 "Longitude": 14.5061
+}
 }
 ],
 "PostCode": "PLA"
@@ -921,8 +1007,10 @@
 {
 "Name": "Pembroke",
 "PostCode": "PBK",
+"Location": {
 "Latitude": 35.9306,
 "Longitude": 14.4764
+}
 }
 ],
 "PostCode": "PBK"
@@ -944,8 +1032,10 @@
 {
 "Name": "Pietà",
 "PostCode": "PTA",
+"Location": {
 "Latitude": 35.8925,
 "Longitude": 14.4939
+}
 }
 ],
 "PostCode": "PTA"
@@ -967,8 +1057,10 @@
 {
 "Name": "Qala",
 "PostCode": "QLA",
+"Location": {
 "Latitude": 36.0375,
 "Longitude": 14.3167
+}
 }
 ],
 "PostCode": "QLA"
@@ -990,8 +1082,10 @@
 {
 "Name": "Qormi",
 "PostCode": "QRM",
+"Location": {
 "Latitude": 35.8792,
 "Longitude": 14.4667
+}
 }
 ],
 "PostCode": "QRM"
@@ -1013,8 +1107,10 @@
 {
 "Name": "Qrendi",
 "PostCode": "QRD",
+"Location": {
 "Latitude": 35.8319,
 "Longitude": 14.4514
+}
 }
 ],
 "PostCode": "QRD"
@@ -1036,8 +1132,10 @@
 {
 "Name": "Rabat",
 "PostCode": "RBT",
+"Location": {
 "Latitude": 35.8826,
 "Longitude": 14.3978
+}
 }
 ],
 "PostCode": "RBT"
@@ -1059,8 +1157,10 @@
 {
 "Name": "Victoria",
 "PostCode": "VCT",
+"Location": {
 "Latitude": 36.0453,
 "Longitude": 14.2417
+}
 }
 ],
 "PostCode": "VCT"
@@ -1082,8 +1182,10 @@
 {
 "Name": "Safi",
 "PostCode": "SFI",
+"Location": {
 "Latitude": 35.8347,
 "Longitude": 14.4917
+}
 }
 ],
 "PostCode": "SFI"
@@ -1105,8 +1207,10 @@
 {
 "Name": "San Ġwann",
 "PostCode": "SGN",
+"Location": {
 "Latitude": 35.9089,
 "Longitude": 14.475
+}
 }
 ],
 "PostCode": "SGN"
@@ -1128,8 +1232,10 @@
 {
 "Name": "Saint Julians",
 "PostCode": "STJ",
+"Location": {
 "Latitude": 35.9172,
 "Longitude": 14.4894
+}
 }
 ],
 "PostCode": "STJ"
@@ -1151,8 +1257,10 @@
 {
 "Name": "San Lawrenz",
 "PostCode": "SLZ",
+"Location": {
 "Latitude": 36.0486,
 "Longitude": 14.1978
+}
 }
 ],
 "PostCode": "SLZ"
@@ -1174,8 +1282,10 @@
 {
 "Name": "Santa Luċija",
 "PostCode": "SLC",
+"Location": {
 "Latitude": 35.8617,
 "Longitude": 14.5064
+}
 }
 ],
 "PostCode": "SLC"
@@ -1197,8 +1307,10 @@
 {
 "Name": "Saint Paul's Bay",
 "PostCode": "SPB",
+"Location": {
 "Latitude": 35.9375,
 "Longitude": 14.3986
+}
 }
 ],
 "PostCode": "SPB"
@@ -1220,8 +1332,10 @@
 {
 "Name": "Santa Venera",
 "PostCode": "SVR",
+"Location": {
 "Latitude": 35.8903,
 "Longitude": 14.4778
+}
 }
 ],
 "PostCode": "SVR"
@@ -1243,8 +1357,10 @@
 {
 "Name": "Sannat",
 "PostCode": "SNT",
+"Location": {
 "Latitude": 36.0231,
 "Longitude": 14.2514
+}
 }
 ],
 "PostCode": "SNT"
@@ -1266,8 +1382,10 @@
 {
 "Name": "Siġġiewi",
 "PostCode": "SGW",
+"Location": {
 "Latitude": 35.8486,
 "Longitude": 14.4264
+}
 }
 ],
 "PostCode": "SGW"
@@ -1289,8 +1407,10 @@
 {
 "Name": "Sliema",
 "PostCode": "SLM",
+"Location": {
 "Latitude": 35.9125,
 "Longitude": 14.5022
+}
 }
 ],
 "PostCode": "SLM"
@@ -1312,8 +1432,10 @@
 {
 "Name": "Swieqi",
 "PostCode": "SWQ",
+"Location": {
 "Latitude": 35.9217,
 "Longitude": 14.4694
+}
 }
 ],
 "PostCode": "SWQ"
@@ -1335,8 +1457,10 @@
 {
 "Name": "Tarxien",
 "PostCode": "TXN",
+"Location": {
 "Latitude": 35.8667,
 "Longitude": 14.5131
+}
 }
 ],
 "PostCode": "TXN"
@@ -1358,8 +1482,10 @@
 {
 "Name": "Ta' Xbiex",
 "PostCode": "XBX",
+"Location": {
 "Latitude": 35.8994,
 "Longitude": 14.4961
+}
 }
 ],
 "PostCode": "XBX"
@@ -1381,8 +1507,10 @@
 {
 "Name": "Valletta",
 "PostCode": "VLT",
+"Location": {
 "Latitude": 35.8983,
 "Longitude": 14.5125
+}
 }
 ],
 "PostCode": "VLT"
@@ -1404,8 +1532,10 @@
 {
 "Name": "Xagħra",
 "PostCode": "XRA",
+"Location": {
 "Latitude": 36.0542,
 "Longitude": 14.2667
+}
 }
 ],
 "PostCode": "XRA"
@@ -1427,8 +1557,10 @@
 {
 "Name": "Xewkija",
 "PostCode": "XWK",
+"Location": {
 "Latitude": 36.0333,
 "Longitude": 14.2611
+}
 }
 ],
 "PostCode": "XWK"
@@ -1450,8 +1582,10 @@
 {
 "Name": "Xgħajra",
 "PostCode": "XJR",
+"Location": {
 "Latitude": 35.8847,
 "Longitude": 14.5486
+}
 }
 ],
 "PostCode": "XJR"
@@ -1473,8 +1607,10 @@
 {
 "Name": "Żabbar",
 "PostCode": "ZBR",
+"Location": {
 "Latitude": 35.875,
 "Longitude": 14.5417
+}
 }
 ],
 "PostCode": "ZBR"
@@ -1496,8 +1632,10 @@
 {
 "Name": "Żebbuġ",
 "PostCode": "ZBG",
+"Location": {
 "Latitude": 35.8736,
 "Longitude": 14.4361
+}
 }
 ],
 "PostCode": "ZBG"
@@ -1517,14 +1655,18 @@
 {
 "Name": "Marsalforn",
 "PostCode": "MFN",
+"Location": {
 "Latitude": 36.0667,
 "Longitude": 14.2444
+}
 },
 {
 "Name": "Żebbuġ",
 "PostCode": "ZBB",
+"Location": {
 "Latitude": 36.0667,
 "Longitude": 14.2444
+}
 }
 ]
 }
@@ -1545,8 +1687,10 @@
 {
 "Name": "Żejtun",
 "PostCode": "ZTN",
+"Location": {
 "Latitude": 35.8578,
 "Longitude": 14.5333
+}
 }
 ],
 "PostCode": "ZTN"
@@ -1568,8 +1712,10 @@
 {
 "Name": "Żurrieq",
 "PostCode": "ZRQ",
+"Location": {
 "Latitude": 35.8222,
 "Longitude": 14.4833
+}
 }
 ],
 "PostCode": "ZRQ"

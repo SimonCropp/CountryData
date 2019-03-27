@@ -10,8 +10,8 @@ namespace CountryData
         [DataMember]
         public string PostCode { get; set; }
         [DataMember]
-        public double Latitude { get; set; }
-        [DataMember]
-        public double Longitude { get; set; }
+        public Location Location { get; set; }
+        [IgnoreDataMember]
+        ILocation IPlace.Location => Location;
     }
 }

@@ -12,8 +12,10 @@
 {
 "Name": "Alo",
 "PostCode": "98610",
+"Location": {
 "Latitude": -14.3066,
 "Longitude": -178.1188
+}
 }
 ],
 "PostCode": "98610"
@@ -35,8 +37,10 @@
 {
 "Name": "Sigave",
 "PostCode": "98620",
+"Location": {
 "Latitude": -14.2667,
 "Longitude": -178.1667
+}
 }
 ],
 "PostCode": "98620"
@@ -58,8 +62,10 @@
 {
 "Name": "Uvéa",
 "PostCode": "98600",
+"Location": {
 "Latitude": -13.2988,
 "Longitude": -176.2205
+}
 }
 ],
 "PostCode": "98600"

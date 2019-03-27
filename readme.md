@@ -44,8 +44,8 @@ var community = province.Communities.First();
 var place = community.Places.First();
 var postCode = place.PostCode;
 var placeName = place.Name;
-var latitude = place.Latitude;
-var longitude = place.Longitude;
+var latitude = place.Location.Latitude;
+var longitude = place.Location.Longitude;
 ```
 <sup>[snippet source](/src/Tests/Snippets.cs#L30-L49)</sup>
 <!-- endsnippet -->

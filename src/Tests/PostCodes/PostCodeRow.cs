@@ -1,4 +1,6 @@
-﻿class PostCodeRow
+﻿using CountryData;
+
+class PostCodeRow
 {
     public string CountryCode;
     public string PostalCode;
@@ -13,7 +15,6 @@
     public string Community; //nullable
     public string CommunityCode; //nullable
 
-    public double Latitude;
-    public double Longitude;
+    public Location Location;
     public ushort? Accuracy;
 }

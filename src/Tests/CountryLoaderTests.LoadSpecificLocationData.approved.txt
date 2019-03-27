@@ -24,18 +24,23 @@
   ],
   States: [
     {
+      PostCode: '96940',
       Provinces: [
         {
+          PostCode: '96940',
           Communities: [
             {
               Places: [
                 {
                   Name: 'Palau',
                   PostCode: '96940',
-                  Latitude: 7.2257,
-                  Longitude: 134.3622
+                  Location: {
+                    Latitude: 7.2257,
+                    Longitude: 134.3622
+                  }
                 }
-              ]
+              ],
+              PostCode: '96940'
             }
           ]
         }

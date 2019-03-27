@@ -12,8 +12,10 @@
 {
 "Name": "Kosrae",
 "PostCode": "96944",
+"Location": {
 "Latitude": 7.1383,
 "Longitude": 151.5031
+}
 }
 ],
 "PostCode": "96944"
@@ -35,8 +37,10 @@
 {
 "Name": "Pohnpei",
 "PostCode": "96941",
+"Location": {
 "Latitude": 7.1383,
 "Longitude": 151.5031
+}
 }
 ],
 "PostCode": "96941"
@@ -58,8 +62,10 @@
 {
 "Name": "Chuuk",
 "PostCode": "96942",
+"Location": {
 "Latitude": 7.1383,
 "Longitude": 151.5031
+}
 }
 ],
 "PostCode": "96942"
@@ -81,8 +87,10 @@
 {
 "Name": "Yap",
 "PostCode": "96943",
+"Location": {
 "Latitude": 7.1383,
 "Longitude": 151.5031
+}
 }
 ],
 "PostCode": "96943"
