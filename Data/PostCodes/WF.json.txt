@@ -1,0 +1,77 @@
+[
+{
+"Name": "Circonscription d'Alo",
+"Code": "98611",
+"PostCode": "98610",
+"Provinces": [
+{
+"PostCode": "98610",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Alo",
+"PostCode": "98610",
+"Location": {
+"Latitude": -14.3066,
+"Longitude": -178.1188
+}
+}
+],
+"PostCode": "98610"
+}
+]
+}
+]
+},
+{
+"Name": "Circonscription de Sigave",
+"Code": "98612",
+"PostCode": "98620",
+"Provinces": [
+{
+"PostCode": "98620",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Sigave",
+"PostCode": "98620",
+"Location": {
+"Latitude": -14.2667,
+"Longitude": -178.1667
+}
+}
+],
+"PostCode": "98620"
+}
+]
+}
+]
+},
+{
+"Name": "Circonscription d'Uvéa",
+"Code": "98613",
+"PostCode": "98600",
+"Provinces": [
+{
+"PostCode": "98600",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Uvéa",
+"PostCode": "98600",
+"Location": {
+"Latitude": -13.2988,
+"Longitude": -176.2205
+}
+}
+],
+"PostCode": "98600"
+}
+]
+}
+]
+}
+]
