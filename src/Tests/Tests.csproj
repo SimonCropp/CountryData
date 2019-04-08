@@ -10,7 +10,7 @@
   <ItemGroup>
     <PackageReference Include="MarkdownSnippets" Version="9.1.1" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
-    <PackageReference Include="ObjectApproval" Version="7.0.0" />
+    <PackageReference Include="ObjectApproval" Version="8.0.3" />
     <PackageReference Include="System.IO.Compression" Version="4.3.0" />
     <PackageReference Include="Xunit" Version="2.4.1" />
     <PackageReference Include="xunit.runner.visualstudio" Version="2.4.1" />
