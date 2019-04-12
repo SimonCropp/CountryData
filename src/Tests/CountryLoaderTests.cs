@@ -1,8 +1,10 @@
 ﻿using CountryData;
 using ObjectApproval;
 using Xunit;
+using Xunit.Abstractions;
 
-public class CountryLoaderTests
+public class CountryLoaderTests :
+    XunitLoggingBase
 {
     [Fact]
     public void LoadLocationData()
@@ -23,5 +25,10 @@ public class CountryLoaderTests
     {
         CountryLoader.LoadAll();
         Assert.NotEmpty(CountryLoader.LoadedLocationData);
+    }
+
+    public CountryLoaderTests(ITestOutputHelper output) :
+        base(output)
+    {
     }
 }
