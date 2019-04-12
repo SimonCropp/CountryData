@@ -9744,21 +9744,6 @@
 "PostCode": "87041"
 },
 {
-"Name": "Corigliano Calabro",
-"Code": "078044",
-"Places": [
-{
-"Name": "Cantinella",
-"PostCode": "87064",
-"Location": {
-"Latitude": 39.6646,
-"Longitude": 16.4491
-}
-}
-],
-"PostCode": "87064"
-},
-{
 "Name": "Longobucco",
 "Code": "078068",
 "Places": [
@@ -9772,6 +9757,21 @@
 }
 ],
 "PostCode": "87066"
+},
+{
+"Name": "Corigliano-Rossano",
+"Code": "078157",
+"Places": [
+{
+"Name": "Cantinella",
+"PostCode": "87064",
+"Location": {
+"Latitude": 39.6646,
+"Longitude": 16.4491
+}
+}
+],
+"PostCode": "87064"
 }
 ]
 },
@@ -28592,29 +28592,6 @@
 "PostCode": "44011"
 },
 {
-"Name": "Berra",
-"Code": "038002",
-"Places": [
-{
-"Name": "Cologna",
-"PostCode": "44033",
-"Location": {
-"Latitude": 44.9689,
-"Longitude": 11.8955
-}
-},
-{
-"Name": "Serravalle",
-"PostCode": "44033",
-"Location": {
-"Latitude": 44.9653,
-"Longitude": 12.0466
-}
-}
-],
-"PostCode": "44033"
-},
-{
 "Name": "Comacchio",
 "Code": "038006",
 "Places": [
@@ -28667,6 +28644,29 @@
 }
 ],
 "PostCode": "44027"
+},
+{
+"Name": "Riva del Po",
+"Code": "038029",
+"Places": [
+{
+"Name": "Cologna",
+"PostCode": "44033",
+"Location": {
+"Latitude": 44.9689,
+"Longitude": 11.8955
+}
+},
+{
+"Name": "Serravalle",
+"PostCode": "44033",
+"Location": {
+"Latitude": 44.9653,
+"Longitude": 12.0466
+}
+}
+],
+"PostCode": "44033"
 }
 ]
 },
@@ -129190,11 +129190,11 @@
 "PostCode": "39036"
 },
 {
-"Name": "San Leonardo in Passiria - St. Leonhard in Passeier",
+"Name": "San Leonardo In Passiria",
 "Code": "021080",
 "Places": [
 {
-"Name": "Schweinsteg",
+"Name": "Sant'Orsola",
 "PostCode": "39015",
 "Location": {
 "Latitude": 46.7393,
@@ -129205,11 +129205,11 @@
 "PostCode": "39015"
 },
 {
-"Name": "San Leonardo In Passiria",
+"Name": "San Leonardo in Passiria - St. Leonhard in Passeier",
 "Code": "021080",
 "Places": [
 {
-"Name": "Sant'Orsola",
+"Name": "Schweinsteg",
 "PostCode": "39015",
 "Location": {
 "Latitude": 46.7393,
