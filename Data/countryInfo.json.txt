@@ -895,7 +895,7 @@
 ]
 },
 {
-"Name": "Cape Verde",
+"Name": "Cabo Verde",
 "Iso": "CV",
 "Iso3": "CPV",
 "IsoNumeric": 132,
@@ -2298,8 +2298,8 @@
 "CurrencyCode": "ILS",
 "CurrencyName": "Shekel",
 "PhonePrefix": "972",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(\\d{5})$",
+"PostCodeFormat": "#######",
+"PostCodeRegex": "^(\\d{7}|\\d{5})$",
 "Languages": [
 "he",
 "ar-IL",
@@ -2615,8 +2615,8 @@
 "CurrencyCode": "KRW",
 "CurrencyName": "Won",
 "PhonePrefix": "82",
-"PostCodeFormat": "SEOUL ###-###",
-"PostCodeRegex": "^(?:SEOUL)*(\\d{6})$",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
 "Languages": [
 "ko-KR",
 "en"
@@ -2667,7 +2667,7 @@
 "Iso3": "KAZ",
 "IsoNumeric": 398,
 "Fips": "KZ",
-"Capital": "Astana",
+"Capital": "Nur-Sultan",
 "Area": 2717300.0,
 "Population": 0,
 "Continent": "AS",
@@ -2898,7 +2898,7 @@
 ]
 },
 {
-"Name": "Macedonia",
+"Name": "North Macedonia",
 "Iso": "MK",
 "Iso3": "MKD",
 "IsoNumeric": 807,
@@ -2947,7 +2947,7 @@
 "Iso3": "MNG",
 "IsoNumeric": 496,
 "Fips": "MG",
-"Capital": "Ulan Bator",
+"Capital": "Ulaanbaatar",
 "Area": 1565000.0,
 "Population": 0,
 "Continent": "AS",
@@ -3992,7 +3992,7 @@
 ]
 },
 {
-"Name": "Swaziland",
+"Name": "Eswatini",
 "Iso": "SZ",
 "Iso3": "SWZ",
 "IsoNumeric": 748,

@@ -272,9 +272,9 @@ namespace CountryData.Bogus
             return CountryLoader.LoadMarshallIslandsLocationData();
         }
 
-        public ICountry Macedonia()
+        public ICountry NorthMacedonia()
         {
-            return CountryLoader.LoadMacedoniaLocationData();
+            return CountryLoader.LoadNorthMacedoniaLocationData();
         }
 
         public ICountry NorthernMarianaIslands()
