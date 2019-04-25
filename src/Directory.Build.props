@@ -11,7 +11,7 @@
     <Copyright>Copyright $([System.DateTime]::UtcNow.ToString(yyyy)). All rights reserved</Copyright>
     <PackageTags>CountryLocationData, Bogus</PackageTags>
     <PackageIconUrl>https://raw.githubusercontent.com/SimonCropp/CountryLocationData/master/icon.png</PackageIconUrl>
-    <PackageProjectUrl>http://github.com/SimonCropp/CountryLocationData</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/SimonCropp/CountryLocationData</PackageProjectUrl>
     <PackageOutputPath>..\..\nugets</PackageOutputPath>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <DebugType>embedded</DebugType>
