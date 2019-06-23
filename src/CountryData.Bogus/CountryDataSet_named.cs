@@ -377,6 +377,11 @@ namespace CountryData.Bogus
             return CountryLoader.LoadSwedenLocationData();
         }
 
+        public ICountry Singapore()
+        {
+            return CountryLoader.LoadSingaporeLocationData();
+        }
+
         public ICountry Slovenia()
         {
             return CountryLoader.LoadSloveniaLocationData();

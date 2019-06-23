@@ -376,6 +376,11 @@ namespace CountryData
             return LoadLocationData("SE");
         }
 
+        public static ICountry LoadSingaporeLocationData()
+        {
+            return LoadLocationData("SG");
+        }
+
         public static ICountry LoadSloveniaLocationData()
         {
             return LoadLocationData("SI");

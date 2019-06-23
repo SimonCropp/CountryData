@@ -1,1053 +1,7 @@
 [
 {
-"Name": "Region Nordjylland",
-"Code": "81",
-"Provinces": [
-{
-"Name": "Morsø Kommune",
-"Code": "773",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Erslev",
-"PostCode": "7950",
-"Location": {
-"Latitude": 56.8298,
-"Longitude": 8.7501
-}
-},
-{
-"Name": "Karby",
-"PostCode": "7960",
-"Location": {
-"Latitude": 56.7536,
-"Longitude": 8.5613
-}
-},
-{
-"Name": "Nykøbing M",
-"PostCode": "7900",
-"Location": {
-"Latitude": 56.7619,
-"Longitude": 8.6836
-}
-},
-{
-"Name": "Øster Assels",
-"PostCode": "7990",
-"Location": {
-"Latitude": 56.7011,
-"Longitude": 8.6946
-}
-},
-{
-"Name": "Redsted M",
-"PostCode": "7970",
-"Location": {
-"Latitude": 56.7619,
-"Longitude": 8.6836
-}
-},
-{
-"Name": "Vils",
-"PostCode": "7980",
-"Location": {
-"Latitude": 56.7631,
-"Longitude": 8.7286
-}
-}
-]
-}
-]
-},
-{
-"Name": "Thisted Kommune",
-"Code": "787",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Bedsted Thy",
-"PostCode": "7755",
-"Location": {
-"Latitude": 56.8924,
-"Longitude": 8.5244
-}
-},
-{
-"Name": "Frøstrup",
-"PostCode": "7741",
-"Location": {
-"Latitude": 57.0867,
-"Longitude": 8.9958
-}
-},
-{
-"Name": "Hanstholm",
-"PostCode": "7730",
-"Location": {
-"Latitude": 57.1167,
-"Longitude": 8.6167
-}
-},
-{
-"Name": "Hurup Thy",
-"PostCode": "7760",
-"Location": {
-"Latitude": 56.7494,
-"Longitude": 8.4195
-}
-},
-{
-"Name": "Snedsted",
-"PostCode": "7752",
-"Location": {
-"Latitude": 56.8924,
-"Longitude": 8.5244
-}
-},
-{
-"Name": "Thisted",
-"PostCode": "7700",
-"Location": {
-"Latitude": 56.9552,
-"Longitude": 8.6949
-}
-},
-{
-"Name": "Vesløs",
-"PostCode": "7742",
-"Location": {
-"Latitude": 57.0383,
-"Longitude": 8.9746
-}
-},
-{
-"Name": "Vestervig",
-"PostCode": "7770",
-"Location": {
-"Latitude": 56.7628,
-"Longitude": 8.3194
-}
-}
-]
-}
-]
-},
-{
-"Name": "Brønderslev Kommune",
-"Code": "810",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Aabybro",
-"PostCode": "9440",
-"Location": {
-"Latitude": 57.1584,
-"Longitude": 9.7367
-}
-},
-{
-"Name": "Asaa",
-"PostCode": "9340",
-"Location": {
-"Latitude": 57.1487,
-"Longitude": 10.4037
-}
-},
-{
-"Name": "Brønderslev",
-"PostCode": "9700",
-"Location": {
-"Latitude": 57.2702,
-"Longitude": 9.941
-}
-},
-{
-"Name": "Dronninglund",
-"PostCode": "9330",
-"Location": {
-"Latitude": 57.1604,
-"Longitude": 10.2929
-}
-},
-{
-"Name": "Dybvad",
-"PostCode": "9352",
-"Location": {
-"Latitude": 57.272,
-"Longitude": 10.3595
-}
-},
-{
-"Name": "Hals",
-"PostCode": "9370",
-"Location": {
-"Latitude": 56.9961,
-"Longitude": 10.3081
-}
-},
-{
-"Name": "Hjallerup",
-"PostCode": "9320",
-"Location": {
-"Latitude": 57.1647,
-"Longitude": 10.1457
-}
-},
-{
-"Name": "Jerslev J",
-"PostCode": "9740",
-"Location": {
-"Latitude": 57.323,
-"Longitude": 10.0722
-}
-},
-{
-"Name": "Løkken",
-"PostCode": "9480",
-"Location": {
-"Latitude": 57.3705,
-"Longitude": 9.7147
-}
-},
-{
-"Name": "Østervrå",
-"PostCode": "9750",
-"Location": {
-"Latitude": 57.3417,
-"Longitude": 10.2401
-}
-},
-{
-"Name": "Tylstrup",
-"PostCode": "9382",
-"Location": {
-"Latitude": 57.1947,
-"Longitude": 9.9531
-}
-},
-{
-"Name": "Vrå",
-"PostCode": "9760",
-"Location": {
-"Latitude": 57.3476,
-"Longitude": 9.9515
-}
-}
-]
-}
-]
-},
-{
-"Name": "Frederikshavn Kommune",
-"Code": "813",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Ålbæk",
-"PostCode": "9982",
-"Location": {
-"Latitude": 57.5925,
-"Longitude": 10.4046
-}
-},
-{
-"Name": "Asaa",
-"PostCode": "9340",
-"Location": {
-"Latitude": 57.1487,
-"Longitude": 10.4037
-}
-},
-{
-"Name": "Bindslev",
-"PostCode": "9881",
-"Location": {
-"Latitude": 57.5521,
-"Longitude": 10.2036
-}
-},
-{
-"Name": "Dronninglund",
-"PostCode": "9330",
-"Location": {
-"Latitude": 57.1604,
-"Longitude": 10.2929
-}
-},
-{
-"Name": "Dybvad",
-"PostCode": "9352",
-"Location": {
-"Latitude": 57.272,
-"Longitude": 10.3595
-}
-},
-{
-"Name": "Frederikshavn",
-"PostCode": "9900",
-"Location": {
-"Latitude": 57.4407,
-"Longitude": 10.5366
-}
-},
-{
-"Name": "Jerup",
-"PostCode": "9981",
-"Location": {
-"Latitude": 57.5343,
-"Longitude": 10.4166
-}
-},
-{
-"Name": "Østervrå",
-"PostCode": "9750",
-"Location": {
-"Latitude": 57.3417,
-"Longitude": 10.2401
-}
-},
-{
-"Name": "Sæby",
-"PostCode": "9300",
-"Location": {
-"Latitude": 57.3319,
-"Longitude": 10.5225
-}
-},
-{
-"Name": "Sindal",
-"PostCode": "9870",
-"Location": {
-"Latitude": 57.4712,
-"Longitude": 10.2031
-}
-},
-{
-"Name": "Skagen",
-"PostCode": "9990",
-"Location": {
-"Latitude": 57.7209,
-"Longitude": 10.5839
-}
-},
-{
-"Name": "Strandby",
-"PostCode": "9970",
-"Location": {
-"Latitude": 57.4915,
-"Longitude": 10.4961
-}
-},
-{
-"Name": "Tårs",
-"PostCode": "9830",
-"Location": {
-"Latitude": 57.3833,
-"Longitude": 10.1167
-}
-}
-]
-}
-]
-},
-{
-"Name": "Vesthimmerlands Kommune",
-"Code": "820",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Aalestrup",
-"PostCode": "9620",
-"Location": {
-"Latitude": 56.6947,
-"Longitude": 9.4934
-}
-},
-{
-"Name": "Aars",
-"PostCode": "9600",
-"Location": {
-"Latitude": 56.804,
-"Longitude": 9.5144
-}
-},
-{
-"Name": "Farsø",
-"PostCode": "9640",
-"Location": {
-"Latitude": 56.7728,
-"Longitude": 9.3393
-}
-},
-{
-"Name": "Gedsted",
-"PostCode": "9631",
-"Location": {
-"Latitude": 56.6892,
-"Longitude": 9.3367
-}
-},
-{
-"Name": "Løgstør",
-"PostCode": "9670",
-"Location": {
-"Latitude": 56.9625,
-"Longitude": 9.2583
-}
-},
-{
-"Name": "Nibe",
-"PostCode": "9240",
-"Location": {
-"Latitude": 56.9815,
-"Longitude": 9.6392
-}
-},
-{
-"Name": "Nørager",
-"PostCode": "9610",
-"Location": {
-"Latitude": 56.7262,
-"Longitude": 9.5971
-}
-},
-{
-"Name": "Ranum",
-"PostCode": "9681",
-"Location": {
-"Latitude": 56.8973,
-"Longitude": 9.2287
-}
-},
-{
-"Name": "Suldrup",
-"PostCode": "9541",
-"Location": {
-"Latitude": 56.8488,
-"Longitude": 9.7006
-}
-}
-]
-}
-]
-},
-{
-"Name": "Læsø Kommune",
-"Code": "825",
-"PostCode": "9940",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Læsø",
-"PostCode": "9940",
-"Location": {
-"Latitude": 57.5448,
-"Longitude": 10.4827
-}
-}
-],
-"PostCode": "9940"
-}
-]
-},
-{
-"Name": "Rebild Kommune",
-"Code": "840",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Aalestrup",
-"PostCode": "9620",
-"Location": {
-"Latitude": 56.6947,
-"Longitude": 9.4934
-}
-},
-{
-"Name": "Aars",
-"PostCode": "9600",
-"Location": {
-"Latitude": 56.804,
-"Longitude": 9.5144
-}
-},
-{
-"Name": "Arden",
-"PostCode": "9510",
-"Location": {
-"Latitude": 56.769,
-"Longitude": 9.8618
-}
-},
-{
-"Name": "Bælum",
-"PostCode": "9574",
-"Location": {
-"Latitude": 56.83,
-"Longitude": 10.1198
-}
-},
-{
-"Name": "Gistrup",
-"PostCode": "9260",
-"Location": {
-"Latitude": 56.9943,
-"Longitude": 9.9909
-}
-},
-{
-"Name": "Hadsund",
-"PostCode": "9560",
-"Location": {
-"Latitude": 56.7148,
-"Longitude": 10.1168
-}
-},
-{
-"Name": "Hobro",
-"PostCode": "9500",
-"Location": {
-"Latitude": 56.6431,
-"Longitude": 9.7903
-}
-},
-{
-"Name": "Kongerslev",
-"PostCode": "9293",
-"Location": {
-"Latitude": 56.9056,
-"Longitude": 10.1267
-}
-},
-{
-"Name": "Nibe",
-"PostCode": "9240",
-"Location": {
-"Latitude": 56.9815,
-"Longitude": 9.6392
-}
-},
-{
-"Name": "Nørager",
-"PostCode": "9610",
-"Location": {
-"Latitude": 56.7262,
-"Longitude": 9.5971
-}
-},
-{
-"Name": "Skørping",
-"PostCode": "9520",
-"Location": {
-"Latitude": 56.8363,
-"Longitude": 9.8925
-}
-},
-{
-"Name": "Støvring",
-"PostCode": "9530",
-"Location": {
-"Latitude": 56.8854,
-"Longitude": 9.8384
-}
-},
-{
-"Name": "Suldrup",
-"PostCode": "9541",
-"Location": {
-"Latitude": 56.8488,
-"Longitude": 9.7006
-}
-},
-{
-"Name": "Svenstrup J",
-"PostCode": "9230",
-"Location": {
-"Latitude": 56.9733,
-"Longitude": 9.9233
-}
-},
-{
-"Name": "Terndrup",
-"PostCode": "9575",
-"Location": {
-"Latitude": 56.8139,
-"Longitude": 10.0615
-}
-}
-]
-}
-]
-},
-{
-"Name": "Mariagerfjord Kommune",
-"Code": "846",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Aalestrup",
-"PostCode": "9620",
-"Location": {
-"Latitude": 56.6947,
-"Longitude": 9.4934
-}
-},
-{
-"Name": "Arden",
-"PostCode": "9510",
-"Location": {
-"Latitude": 56.769,
-"Longitude": 9.8618
-}
-},
-{
-"Name": "Fårup",
-"PostCode": "8990",
-"Location": {
-"Latitude": 56.3667,
-"Longitude": 10.2494
-}
-},
-{
-"Name": "Hadsund",
-"PostCode": "9560",
-"Location": {
-"Latitude": 56.7148,
-"Longitude": 10.1168
-}
-},
-{
-"Name": "Havndal",
-"PostCode": "8970",
-"Location": {
-"Latitude": 56.6525,
-"Longitude": 10.1967
-}
-},
-{
-"Name": "Hobro",
-"PostCode": "9500",
-"Location": {
-"Latitude": 56.6431,
-"Longitude": 9.7903
-}
-},
-{
-"Name": "Mariager",
-"PostCode": "9550",
-"Location": {
-"Latitude": 56.6499,
-"Longitude": 9.9751
-}
-},
-{
-"Name": "Møldrup",
-"PostCode": "9632",
-"Location": {
-"Latitude": 56.6167,
-"Longitude": 9.5011
-}
-}
-]
-}
-]
-},
-{
-"Name": "Jammerbugt Kommune",
-"Code": "849",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Aabybro",
-"PostCode": "9440",
-"Location": {
-"Latitude": 57.1584,
-"Longitude": 9.7367
-}
-},
-{
-"Name": "Blokhus",
-"PostCode": "9492",
-"Location": {
-"Latitude": 57.248,
-"Longitude": 9.5897
-}
-},
-{
-"Name": "Brønderslev",
-"PostCode": "9700",
-"Location": {
-"Latitude": 57.2702,
-"Longitude": 9.941
-}
-},
-{
-"Name": "Brovst",
-"PostCode": "9460",
-"Location": {
-"Latitude": 57.0956,
-"Longitude": 9.528
-}
-},
-{
-"Name": "Fjerritslev",
-"PostCode": "9690",
-"Location": {
-"Latitude": 57.0813,
-"Longitude": 9.2664
-}
-},
-{
-"Name": "Løgstør",
-"PostCode": "9670",
-"Location": {
-"Latitude": 56.9625,
-"Longitude": 9.2583
-}
-},
-{
-"Name": "Løkken",
-"PostCode": "9480",
-"Location": {
-"Latitude": 57.3705,
-"Longitude": 9.7147
-}
-},
-{
-"Name": "Pandrup",
-"PostCode": "9490",
-"Location": {
-"Latitude": 57.2215,
-"Longitude": 9.6757
-}
-},
-{
-"Name": "Saltum",
-"PostCode": "9493",
-"Location": {
-"Latitude": 57.2719,
-"Longitude": 9.698
-}
-},
-{
-"Name": "Sulsted",
-"PostCode": "9381",
-"Location": {
-"Latitude": 57.1634,
-"Longitude": 9.9567
-}
-},
-{
-"Name": "Tylstrup",
-"PostCode": "9382",
-"Location": {
-"Latitude": 57.1947,
-"Longitude": 9.9531
-}
-},
-{
-"Name": "Vadum",
-"PostCode": "9430",
-"Location": {
-"Latitude": 57.1179,
-"Longitude": 9.857
-}
-}
-]
-}
-]
-},
-{
-"Name": "Aalborg Kommune",
-"Code": "851",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Aabybro",
-"PostCode": "9440",
-"Location": {
-"Latitude": 57.1584,
-"Longitude": 9.7367
-}
-},
-{
-"Name": "Aalborg",
-"PostCode": "9000",
-"Location": {
-"Latitude": 57.048,
-"Longitude": 9.9187
-}
-},
-{
-"Name": "Aalborg Øst",
-"PostCode": "9220",
-"Location": {
-"Latitude": 56.9733,
-"Longitude": 9.9233
-}
-},
-{
-"Name": "Aalborg SØ",
-"PostCode": "9210",
-"Location": {
-"Latitude": 56.9733,
-"Longitude": 9.9233
-}
-},
-{
-"Name": "Aalborg SV",
-"PostCode": "9200",
-"Location": {
-"Latitude": 56.9733,
-"Longitude": 9.9233
-}
-},
-{
-"Name": "Gandrup",
-"PostCode": "9362",
-"Location": {
-"Latitude": 57.0574,
-"Longitude": 10.1814
-}
-},
-{
-"Name": "Gistrup",
-"PostCode": "9260",
-"Location": {
-"Latitude": 56.9943,
-"Longitude": 9.9909
-}
-},
-{
-"Name": "Hals",
-"PostCode": "9370",
-"Location": {
-"Latitude": 56.9961,
-"Longitude": 10.3081
-}
-},
-{
-"Name": "Hjallerup",
-"PostCode": "9320",
-"Location": {
-"Latitude": 57.1647,
-"Longitude": 10.1457
-}
-},
-{
-"Name": "Klarup",
-"PostCode": "9270",
-"Location": {
-"Latitude": 57.0119,
-"Longitude": 10.0562
-}
-},
-{
-"Name": "Kongerslev",
-"PostCode": "9293",
-"Location": {
-"Latitude": 56.9056,
-"Longitude": 10.1267
-}
-},
-{
-"Name": "Nibe",
-"PostCode": "9240",
-"Location": {
-"Latitude": 56.9815,
-"Longitude": 9.6392
-}
-},
-{
-"Name": "Nørresundby",
-"PostCode": "9400",
-"Location": {
-"Latitude": 57.0483,
-"Longitude": 9.9352
-}
-},
-{
-"Name": "Storvorde",
-"PostCode": "9280",
-"Location": {
-"Latitude": 57.0039,
-"Longitude": 10.1013
-}
-},
-{
-"Name": "Støvring",
-"PostCode": "9530",
-"Location": {
-"Latitude": 56.8854,
-"Longitude": 9.8384
-}
-},
-{
-"Name": "Sulsted",
-"PostCode": "9381",
-"Location": {
-"Latitude": 57.1634,
-"Longitude": 9.9567
-}
-},
-{
-"Name": "Svenstrup J",
-"PostCode": "9230",
-"Location": {
-"Latitude": 56.9733,
-"Longitude": 9.9233
-}
-},
-{
-"Name": "Tylstrup",
-"PostCode": "9382",
-"Location": {
-"Latitude": 57.1947,
-"Longitude": 9.9531
-}
-},
-{
-"Name": "Vadum",
-"PostCode": "9430",
-"Location": {
-"Latitude": 57.1179,
-"Longitude": 9.857
-}
-},
-{
-"Name": "Vestbjerg",
-"PostCode": "9380",
-"Location": {
-"Latitude": 57.1317,
-"Longitude": 9.9594
-}
-},
-{
-"Name": "Vodskov",
-"PostCode": "9310",
-"Location": {
-"Latitude": 57.1085,
-"Longitude": 10.0222
-}
-}
-]
-}
-]
-},
-{
-"Name": "Hjørring Kommune",
-"Code": "860",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Ålbæk",
-"PostCode": "9982",
-"Location": {
-"Latitude": 57.5925,
-"Longitude": 10.4046
-}
-},
-{
-"Name": "Bindslev",
-"PostCode": "9881",
-"Location": {
-"Latitude": 57.5521,
-"Longitude": 10.2036
-}
-},
-{
-"Name": "Frederikshavn",
-"PostCode": "9900",
-"Location": {
-"Latitude": 57.4407,
-"Longitude": 10.5366
-}
-},
-{
-"Name": "Hirtshals",
-"PostCode": "9850",
-"Location": {
-"Latitude": 57.5881,
-"Longitude": 9.9592
-}
-},
-{
-"Name": "Hjørring",
-"PostCode": "9800",
-"Location": {
-"Latitude": 57.4642,
-"Longitude": 9.9823
-}
-},
-{
-"Name": "Jerslev J",
-"PostCode": "9740",
-"Location": {
-"Latitude": 57.323,
-"Longitude": 10.0722
-}
-},
-{
-"Name": "Løkken",
-"PostCode": "9480",
-"Location": {
-"Latitude": 57.3705,
-"Longitude": 9.7147
-}
-},
-{
-"Name": "Østervrå",
-"PostCode": "9750",
-"Location": {
-"Latitude": 57.3417,
-"Longitude": 10.2401
-}
-},
-{
-"Name": "Sindal",
-"PostCode": "9870",
-"Location": {
-"Latitude": 57.4712,
-"Longitude": 10.2031
-}
-},
-{
-"Name": "Tårs",
-"PostCode": "9830",
-"Location": {
-"Latitude": 57.3833,
-"Longitude": 10.1167
-}
-},
-{
-"Name": "Vrå",
-"PostCode": "9760",
-"Location": {
-"Latitude": 57.3476,
-"Longitude": 9.9515
-}
-}
-]
-}
-]
-}
-]
-},
-{
 "Name": "Region Midtjylland",
-"Code": "82",
+"Code": "18",
 "Provinces": [
 {
 "Name": "Horsens Kommune",
@@ -1069,6 +23,14 @@
 "Location": {
 "Latitude": 56.0228,
 "Longitude": 9.5183
+}
+},
+{
+"Name": "Endelave",
+"PostCode": "8789",
+"Location": {
+"Latitude": 55.7573,
+"Longitude": 10.271
 }
 },
 {
@@ -1623,8 +585,8 @@
 "Name": "Anholt",
 "PostCode": "8592",
 "Location": {
-"Latitude": 56.3671,
-"Longitude": 10.5325
+"Latitude": 56.7036,
+"Longitude": 11.5455
 }
 },
 {
@@ -1869,6 +831,14 @@
 "Location": {
 "Latitude": 56.0399,
 "Longitude": 9.9272
+}
+},
+{
+"Name": "Tunø",
+"PostCode": "8799",
+"Location": {
+"Latitude": 55.9528,
+"Longitude": 10.432
 }
 }
 ]
@@ -2262,6 +1232,14 @@
 {
 "Name": "Aarhus C",
 "PostCode": "8000",
+"Location": {
+"Latitude": 56.1567,
+"Longitude": 10.2108
+}
+},
+{
+"Name": "Aarhus C",
+"PostCode": "8100",
 "Location": {
 "Latitude": 56.1567,
 "Longitude": 10.2108
@@ -3124,8 +2102,1720 @@
 ]
 },
 {
+"Name": "Region Sjælland",
+"Code": "20",
+"Provinces": [
+{
+"Name": "Greve Kommune",
+"Code": "253",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Greve",
+"PostCode": "2670",
+"Location": {
+"Latitude": 55.5833,
+"Longitude": 12.3
+}
+},
+{
+"Name": "Hedehusene",
+"PostCode": "2640",
+"Location": {
+"Latitude": 55.647,
+"Longitude": 12.1936
+}
+},
+{
+"Name": "Karlslunde",
+"PostCode": "2690",
+"Location": {
+"Latitude": 55.5726,
+"Longitude": 12.2258
+}
+},
+{
+"Name": "Tune",
+"PostCode": "4030",
+"Location": {
+"Latitude": 55.5953,
+"Longitude": 12.1832
+}
+}
+]
+}
+]
+},
+{
+"Name": "Køge Kommune",
+"Code": "259",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Bjæverskov",
+"PostCode": "4632",
+"Location": {
+"Latitude": 55.4576,
+"Longitude": 12.0365
+}
+},
+{
+"Name": "Borup",
+"PostCode": "4140",
+"Location": {
+"Latitude": 55.4947,
+"Longitude": 11.9758
+}
+},
+{
+"Name": "Herfølge",
+"PostCode": "4681",
+"Location": {
+"Latitude": 55.4137,
+"Longitude": 12.1433
+}
+},
+{
+"Name": "Jystrup Midtsj",
+"PostCode": "4174",
+"Location": {
+"Latitude": 55.4082,
+"Longitude": 11.6872
+}
+},
+{
+"Name": "Køge",
+"PostCode": "4600",
+"Location": {
+"Latitude": 55.458,
+"Longitude": 12.1821
+}
+},
+{
+"Name": "Lejre",
+"PostCode": "4320",
+"Location": {
+"Latitude": 55.6046,
+"Longitude": 11.9748
+}
+},
+{
+"Name": "Lille Skensved",
+"PostCode": "4623",
+"Location": {
+"Latitude": 55.5098,
+"Longitude": 12.1351
+}
+},
+{
+"Name": "Ringsted",
+"PostCode": "4100",
+"Location": {
+"Latitude": 55.4426,
+"Longitude": 11.7901
+}
+},
+{
+"Name": "Tureby",
+"PostCode": "4682",
+"Location": {
+"Latitude": 55.373,
+"Longitude": 12.0769
+}
+},
+{
+"Name": "Viby Sjælland",
+"PostCode": "4130",
+"Location": {
+"Latitude": 55.5487,
+"Longitude": 12.0239
+}
+}
+]
+}
+]
+},
+{
+"Name": "Roskilde Kommune",
+"Code": "265",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Borup",
+"PostCode": "4140",
+"Location": {
+"Latitude": 55.4947,
+"Longitude": 11.9758
+}
+},
+{
+"Name": "Gadstrup",
+"PostCode": "4621",
+"Location": {
+"Latitude": 55.5678,
+"Longitude": 12.0891
+}
+},
+{
+"Name": "Havdrup",
+"PostCode": "4622",
+"Location": {
+"Latitude": 55.5448,
+"Longitude": 12.1239
+}
+},
+{
+"Name": "Hedehusene",
+"PostCode": "2640",
+"Location": {
+"Latitude": 55.647,
+"Longitude": 12.1936
+}
+},
+{
+"Name": "Jyllinge",
+"PostCode": "4040",
+"Location": {
+"Latitude": 55.7584,
+"Longitude": 12.1123
+}
+},
+{
+"Name": "Lejre",
+"PostCode": "4320",
+"Location": {
+"Latitude": 55.6046,
+"Longitude": 11.9748
+}
+},
+{
+"Name": "Lille Skensved",
+"PostCode": "4623",
+"Location": {
+"Latitude": 55.5098,
+"Longitude": 12.1351
+}
+},
+{
+"Name": "Roskilde",
+"PostCode": "4000",
+"Location": {
+"Latitude": 55.6415,
+"Longitude": 12.0803
+}
+},
+{
+"Name": "Tune",
+"PostCode": "4030",
+"Location": {
+"Latitude": 55.5953,
+"Longitude": 12.1832
+}
+},
+{
+"Name": "Veksø Sjælland",
+"PostCode": "3670",
+"Location": {
+"Latitude": 55.8223,
+"Longitude": 12.0862
+}
+},
+{
+"Name": "Viby Sjælland",
+"PostCode": "4130",
+"Location": {
+"Latitude": 55.5487,
+"Longitude": 12.0239
+}
+}
+]
+}
+]
+},
+{
+"Name": "Solrød Kommune",
+"Code": "269",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Havdrup",
+"PostCode": "4622",
+"Location": {
+"Latitude": 55.5448,
+"Longitude": 12.1239
+}
+},
+{
+"Name": "Karlslunde",
+"PostCode": "2690",
+"Location": {
+"Latitude": 55.5726,
+"Longitude": 12.2258
+}
+},
+{
+"Name": "Lille Skensved",
+"PostCode": "4623",
+"Location": {
+"Latitude": 55.5098,
+"Longitude": 12.1351
+}
+},
+{
+"Name": "Solrød Strand",
+"PostCode": "2680",
+"Location": {
+"Latitude": 55.5329,
+"Longitude": 12.2223
+}
+}
+]
+}
+]
+},
+{
+"Name": "Odsherred Kommune",
+"Code": "306",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Asnæs",
+"PostCode": "4550",
+"Location": {
+"Latitude": 55.8123,
+"Longitude": 11.5013
+}
+},
+{
+"Name": "Fårevejle",
+"PostCode": "4540",
+"Location": {
+"Latitude": 55.8,
+"Longitude": 11.45
+}
+},
+{
+"Name": "Føllenslev",
+"PostCode": "4591",
+"Location": {
+"Latitude": 55.7255,
+"Longitude": 11.3508
+}
+},
+{
+"Name": "Grevinge",
+"PostCode": "4571",
+"Location": {
+"Latitude": 55.8008,
+"Longitude": 11.5516
+}
+},
+{
+"Name": "Højby",
+"PostCode": "4573",
+"Location": {
+"Latitude": 55.9115,
+"Longitude": 11.5976
+}
+},
+{
+"Name": "Hørve",
+"PostCode": "4534",
+"Location": {
+"Latitude": 55.7529,
+"Longitude": 11.453
+}
+},
+{
+"Name": "Nørre Asmindrup",
+"PostCode": "4572",
+"Location": {
+"Latitude": 55.8872,
+"Longitude": 11.623
+}
+},
+{
+"Name": "Nykøbing Sj",
+"PostCode": "4500",
+"Location": {
+"Latitude": 55.7951,
+"Longitude": 11.4991
+}
+},
+{
+"Name": "Rørvig",
+"PostCode": "4581",
+"Location": {
+"Latitude": 55.944,
+"Longitude": 11.7527
+}
+},
+{
+"Name": "Sjællands Odde",
+"PostCode": "4583",
+"Location": {
+"Latitude": 55.944,
+"Longitude": 11.7527
+}
+},
+{
+"Name": "Vig",
+"PostCode": "4560",
+"Location": {
+"Latitude": 55.8508,
+"Longitude": 11.5856
+}
+}
+]
+}
+]
+},
+{
+"Name": "Holbæk Kommune",
+"Code": "316",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Gislinge",
+"PostCode": "4532",
+"Location": {
+"Latitude": 55.7343,
+"Longitude": 11.5484
+}
+},
+{
+"Name": "Holbæk",
+"PostCode": "4300",
+"Location": {
+"Latitude": 55.7135,
+"Longitude": 11.7169
+}
+},
+{
+"Name": "Hvalsø",
+"PostCode": "4330",
+"Location": {
+"Latitude": 55.5917,
+"Longitude": 11.8625
+}
+},
+{
+"Name": "Jyderup",
+"PostCode": "4450",
+"Location": {
+"Latitude": 55.664,
+"Longitude": 11.4203
+}
+},
+{
+"Name": "Kirke Eskilstrup",
+"PostCode": "4360",
+"Location": {
+"Latitude": 55.5746,
+"Longitude": 11.7672
+}
+},
+{
+"Name": "Mørkøv",
+"PostCode": "4440",
+"Location": {
+"Latitude": 55.6517,
+"Longitude": 11.5015
+}
+},
+{
+"Name": "Nyrup",
+"PostCode": "4296",
+"Location": {
+"Latitude": 55.4947,
+"Longitude": 11.3623
+}
+},
+{
+"Name": "Orø",
+"PostCode": "4305",
+"Location": {
+"Latitude": 55.7718,
+"Longitude": 11.8163
+}
+},
+{
+"Name": "Regstrup",
+"PostCode": "4420",
+"Location": {
+"Latitude": 55.6756,
+"Longitude": 11.6157
+}
+},
+{
+"Name": "Ringsted",
+"PostCode": "4100",
+"Location": {
+"Latitude": 55.4426,
+"Longitude": 11.7901
+}
+},
+{
+"Name": "Snertinge",
+"PostCode": "4460",
+"Location": {
+"Latitude": 55.7149,
+"Longitude": 11.3833
+}
+},
+{
+"Name": "Stenlille",
+"PostCode": "4295",
+"Location": {
+"Latitude": 55.5402,
+"Longitude": 11.5915
+}
+},
+{
+"Name": "Store Merløse",
+"PostCode": "4370",
+"Location": {
+"Latitude": 55.5438,
+"Longitude": 11.713
+}
+},
+{
+"Name": "Svebølle",
+"PostCode": "4470",
+"Location": {
+"Latitude": 55.6368,
+"Longitude": 11.3172
+}
+},
+{
+"Name": "Svinninge",
+"PostCode": "4520",
+"Location": {
+"Latitude": 55.7211,
+"Longitude": 11.4655
+}
+},
+{
+"Name": "Tølløse",
+"PostCode": "4340",
+"Location": {
+"Latitude": 55.6125,
+"Longitude": 11.7703
+}
+},
+{
+"Name": "Ugerløse",
+"PostCode": "4350",
+"Location": {
+"Latitude": 55.5871,
+"Longitude": 11.6541
+}
+},
+{
+"Name": "Vipperød",
+"PostCode": "4390",
+"Location": {
+"Latitude": 55.6677,
+"Longitude": 11.7397
+}
+}
+]
+}
+]
+},
+{
+"Name": "Faxe Kommune",
+"Code": "320",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Faxe",
+"PostCode": "4640",
+"Location": {
+"Latitude": 55.2469,
+"Longitude": 12.1176
+}
+},
+{
+"Name": "Faxe Ladeplads",
+"PostCode": "4654",
+"Location": {
+"Latitude": 55.3261,
+"Longitude": 12.2212
+}
+},
+{
+"Name": "Hårlev",
+"PostCode": "4652",
+"Location": {
+"Latitude": 55.3494,
+"Longitude": 12.2338
+}
+},
+{
+"Name": "Haslev",
+"PostCode": "4690",
+"Location": {
+"Latitude": 55.3235,
+"Longitude": 11.9639
+}
+},
+{
+"Name": "Herlufmagle",
+"PostCode": "4160",
+"Location": {
+"Latitude": 55.3132,
+"Longitude": 11.7523
+}
+},
+{
+"Name": "Holmegaard",
+"PostCode": "4684",
+"Location": {
+"Latitude": 55.3411,
+"Longitude": 12.0694
+}
+},
+{
+"Name": "Karise",
+"PostCode": "4653",
+"Location": {
+"Latitude": 55.3028,
+"Longitude": 12.2086
+}
+},
+{
+"Name": "Ringsted",
+"PostCode": "4100",
+"Location": {
+"Latitude": 55.4426,
+"Longitude": 11.7901
+}
+},
+{
+"Name": "Rønnede",
+"PostCode": "4683",
+"Location": {
+"Latitude": 55.2571,
+"Longitude": 12.0212
+}
+},
+{
+"Name": "Tappernøje",
+"PostCode": "4733",
+"Location": {
+"Latitude": 55.165,
+"Longitude": 11.9787
+}
+},
+{
+"Name": "Tureby",
+"PostCode": "4682",
+"Location": {
+"Latitude": 55.373,
+"Longitude": 12.0769
+}
+}
+]
+}
+]
+},
+{
+"Name": "Kalundborg Kommune",
+"Code": "326",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Dianalund",
+"PostCode": "4293",
+"Location": {
+"Latitude": 55.5313,
+"Longitude": 11.4925
+}
+},
+{
+"Name": "Eskebjerg",
+"PostCode": "4593",
+"Location": {
+"Latitude": 55.713,
+"Longitude": 11.3045
+}
+},
+{
+"Name": "Føllenslev",
+"PostCode": "4591",
+"Location": {
+"Latitude": 55.7255,
+"Longitude": 11.3508
+}
+},
+{
+"Name": "Gørlev",
+"PostCode": "4281",
+"Location": {
+"Latitude": 55.5393,
+"Longitude": 11.2271
+}
+},
+{
+"Name": "Høng",
+"PostCode": "4270",
+"Location": {
+"Latitude": 55.5116,
+"Longitude": 11.2903
+}
+},
+{
+"Name": "Hørve",
+"PostCode": "4534",
+"Location": {
+"Latitude": 55.7529,
+"Longitude": 11.453
+}
+},
+{
+"Name": "Jerslev Sjælland",
+"PostCode": "4490",
+"Location": {
+"Latitude": 55.6105,
+"Longitude": 11.2406
+}
+},
+{
+"Name": "Jyderup",
+"PostCode": "4450",
+"Location": {
+"Latitude": 55.664,
+"Longitude": 11.4203
+}
+},
+{
+"Name": "Kalundborg",
+"PostCode": "4400",
+"Location": {
+"Latitude": 55.6795,
+"Longitude": 11.0886
+}
+},
+{
+"Name": "Ruds Vedby",
+"PostCode": "4291",
+"Location": {
+"Latitude": 55.5409,
+"Longitude": 11.3796
+}
+},
+{
+"Name": "Sejerø",
+"PostCode": "4592",
+"Location": {
+"Latitude": 55.7213,
+"Longitude": 11.3354
+}
+},
+{
+"Name": "Slagelse",
+"PostCode": "4200",
+"Location": {
+"Latitude": 55.4028,
+"Longitude": 11.3546
+}
+},
+{
+"Name": "Snertinge",
+"PostCode": "4460",
+"Location": {
+"Latitude": 55.7149,
+"Longitude": 11.3833
+}
+},
+{
+"Name": "Store Fuglede",
+"PostCode": "4480",
+"Location": {
+"Latitude": 55.5852,
+"Longitude": 11.2454
+}
+},
+{
+"Name": "Svebølle",
+"PostCode": "4470",
+"Location": {
+"Latitude": 55.6368,
+"Longitude": 11.3172
+}
+}
+]
+}
+]
+},
+{
+"Name": "Ringsted Kommune",
+"Code": "329",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Borup",
+"PostCode": "4140",
+"Location": {
+"Latitude": 55.4947,
+"Longitude": 11.9758
+}
+},
+{
+"Name": "Fjenneslev",
+"PostCode": "4173",
+"Location": {
+"Latitude": 55.4339,
+"Longitude": 11.688
+}
+},
+{
+"Name": "Haslev",
+"PostCode": "4690",
+"Location": {
+"Latitude": 55.3235,
+"Longitude": 11.9639
+}
+},
+{
+"Name": "Hvalsø",
+"PostCode": "4330",
+"Location": {
+"Latitude": 55.5917,
+"Longitude": 11.8625
+}
+},
+{
+"Name": "Jystrup Midtsj",
+"PostCode": "4174",
+"Location": {
+"Latitude": 55.4082,
+"Longitude": 11.6872
+}
+},
+{
+"Name": "Kirke Eskilstrup",
+"PostCode": "4360",
+"Location": {
+"Latitude": 55.5746,
+"Longitude": 11.7672
+}
+},
+{
+"Name": "Ringsted",
+"PostCode": "4100",
+"Location": {
+"Latitude": 55.4426,
+"Longitude": 11.7901
+}
+},
+{
+"Name": "Sorø",
+"PostCode": "4180",
+"Location": {
+"Latitude": 55.4318,
+"Longitude": 11.5555
+}
+},
+{
+"Name": "Store Merløse",
+"PostCode": "4370",
+"Location": {
+"Latitude": 55.5438,
+"Longitude": 11.713
+}
+}
+]
+}
+]
+},
+{
+"Name": "Slagelse Kommune",
+"Code": "330",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Agersø",
+"PostCode": "4244",
+"Location": {
+"Latitude": 55.2149,
+"Longitude": 11.1854
+}
+},
+{
+"Name": "Boeslunde",
+"PostCode": "4242",
+"Location": {
+"Latitude": 55.3008,
+"Longitude": 11.2712
+}
+},
+{
+"Name": "Dalmose",
+"PostCode": "4261",
+"Location": {
+"Latitude": 55.2942,
+"Longitude": 11.4184
+}
+},
+{
+"Name": "Fuglebjerg",
+"PostCode": "4250",
+"Location": {
+"Latitude": 55.306,
+"Longitude": 11.5477
+}
+},
+{
+"Name": "Høng",
+"PostCode": "4270",
+"Location": {
+"Latitude": 55.5116,
+"Longitude": 11.2903
+}
+},
+{
+"Name": "Korsør",
+"PostCode": "4220",
+"Location": {
+"Latitude": 55.3299,
+"Longitude": 11.1386
+}
+},
+{
+"Name": "Munke Bjergby",
+"PostCode": "4190",
+"Location": {
+"Latitude": 55.5037,
+"Longitude": 11.5317
+}
+},
+{
+"Name": "Omø",
+"PostCode": "4245",
+"Location": {
+"Latitude": 55.162,
+"Longitude": 11.159
+}
+},
+{
+"Name": "Rude",
+"PostCode": "4243",
+"Location": {
+"Latitude": 55.2307,
+"Longitude": 11.4692
+}
+},
+{
+"Name": "Sandved",
+"PostCode": "4262",
+"Location": {
+"Latitude": 55.263,
+"Longitude": 11.5217
+}
+},
+{
+"Name": "Skælskør",
+"PostCode": "4230",
+"Location": {
+"Latitude": 55.2506,
+"Longitude": 11.2935
+}
+},
+{
+"Name": "Slagelse",
+"PostCode": "4200",
+"Location": {
+"Latitude": 55.4028,
+"Longitude": 11.3546
+}
+},
+{
+"Name": "Sorø",
+"PostCode": "4180",
+"Location": {
+"Latitude": 55.4318,
+"Longitude": 11.5555
+}
+},
+{
+"Name": "Vemmelev",
+"PostCode": "4241",
+"Location": {
+"Latitude": 55.3553,
+"Longitude": 11.2471
+}
+}
+]
+}
+]
+},
+{
+"Name": "Stevns Kommune",
+"Code": "336",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Hårlev",
+"PostCode": "4652",
+"Location": {
+"Latitude": 55.3494,
+"Longitude": 12.2338
+}
+},
+{
+"Name": "Karise",
+"PostCode": "4653",
+"Location": {
+"Latitude": 55.3028,
+"Longitude": 12.2086
+}
+},
+{
+"Name": "Klippinge",
+"PostCode": "4672",
+"Location": {
+"Latitude": 55.3482,
+"Longitude": 12.3258
+}
+},
+{
+"Name": "Køge",
+"PostCode": "4600",
+"Location": {
+"Latitude": 55.458,
+"Longitude": 12.1821
+}
+},
+{
+"Name": "Rødvig Stevns",
+"PostCode": "4673",
+"Location": {
+"Latitude": 55.2554,
+"Longitude": 12.3794
+}
+},
+{
+"Name": "Store Heddinge",
+"PostCode": "4660",
+"Location": {
+"Latitude": 55.3096,
+"Longitude": 12.3888
+}
+},
+{
+"Name": "Strøby",
+"PostCode": "4671",
+"Location": {
+"Latitude": 55.3834,
+"Longitude": 12.2811
+}
+},
+{
+"Name": "Tureby",
+"PostCode": "4682",
+"Location": {
+"Latitude": 55.373,
+"Longitude": 12.0769
+}
+}
+]
+}
+]
+},
+{
+"Name": "Sorø Kommune",
+"Code": "340",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Dianalund",
+"PostCode": "4293",
+"Location": {
+"Latitude": 55.5313,
+"Longitude": 11.4925
+}
+},
+{
+"Name": "Fjenneslev",
+"PostCode": "4173",
+"Location": {
+"Latitude": 55.4339,
+"Longitude": 11.688
+}
+},
+{
+"Name": "Munke Bjergby",
+"PostCode": "4190",
+"Location": {
+"Latitude": 55.5037,
+"Longitude": 11.5317
+}
+},
+{
+"Name": "Nyrup",
+"PostCode": "4296",
+"Location": {
+"Latitude": 55.4947,
+"Longitude": 11.3623
+}
+},
+{
+"Name": "Ringsted",
+"PostCode": "4100",
+"Location": {
+"Latitude": 55.4426,
+"Longitude": 11.7901
+}
+},
+{
+"Name": "Ruds Vedby",
+"PostCode": "4291",
+"Location": {
+"Latitude": 55.5409,
+"Longitude": 11.3796
+}
+},
+{
+"Name": "Slagelse",
+"PostCode": "4200",
+"Location": {
+"Latitude": 55.4028,
+"Longitude": 11.3546
+}
+},
+{
+"Name": "Sorø",
+"PostCode": "4180",
+"Location": {
+"Latitude": 55.4318,
+"Longitude": 11.5555
+}
+},
+{
+"Name": "Stenlille",
+"PostCode": "4295",
+"Location": {
+"Latitude": 55.5402,
+"Longitude": 11.5915
+}
+},
+{
+"Name": "Store Merløse",
+"PostCode": "4370",
+"Location": {
+"Latitude": 55.5438,
+"Longitude": 11.713
+}
+}
+]
+}
+]
+},
+{
+"Name": "Lejre Kommune",
+"Code": "350",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Hvalsø",
+"PostCode": "4330",
+"Location": {
+"Latitude": 55.5917,
+"Longitude": 11.8625
+}
+},
+{
+"Name": "Kirke Hyllinge",
+"PostCode": "4070",
+"Location": {
+"Latitude": 55.7067,
+"Longitude": 11.9002
+}
+},
+{
+"Name": "Kirke Såby",
+"PostCode": "4060",
+"Location": {
+"Latitude": 55.6339,
+"Longitude": 11.8712
+}
+},
+{
+"Name": "Lejre",
+"PostCode": "4320",
+"Location": {
+"Latitude": 55.6046,
+"Longitude": 11.9748
+}
+},
+{
+"Name": "Roskilde",
+"PostCode": "4000",
+"Location": {
+"Latitude": 55.6415,
+"Longitude": 12.0803
+}
+},
+{
+"Name": "Tølløse",
+"PostCode": "4340",
+"Location": {
+"Latitude": 55.6125,
+"Longitude": 11.7703
+}
+}
+]
+}
+]
+},
+{
+"Name": "Lolland Kommune",
+"Code": "360",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Askø og Lilleø",
+"PostCode": "4942",
+"Location": {
+"Latitude": 54.8969,
+"Longitude": 11.495
+}
+},
+{
+"Name": "Bandholm",
+"PostCode": "4941",
+"Location": {
+"Latitude": 54.8365,
+"Longitude": 11.4831
+}
+},
+{
+"Name": "Dannemare",
+"PostCode": "4983",
+"Location": {
+"Latitude": 54.7624,
+"Longitude": 11.1873
+}
+},
+{
+"Name": "Errindlev",
+"PostCode": "4895",
+"Location": {
+"Latitude": 54.669,
+"Longitude": 11.4951
+}
+},
+{
+"Name": "Fejø",
+"PostCode": "4944",
+"Location": {
+"Latitude": 54.8365,
+"Longitude": 11.4831
+}
+},
+{
+"Name": "Femø",
+"PostCode": "4945",
+"Location": {
+"Latitude": 54.9758,
+"Longitude": 11.5352
+}
+},
+{
+"Name": "Harpelunde",
+"PostCode": "4912",
+"Location": {
+"Latitude": 54.8865,
+"Longitude": 11.0911
+}
+},
+{
+"Name": "Holeby",
+"PostCode": "4960",
+"Location": {
+"Latitude": 54.7115,
+"Longitude": 11.4642
+}
+},
+{
+"Name": "Horslunde",
+"PostCode": "4913",
+"Location": {
+"Latitude": 54.9118,
+"Longitude": 11.2165
+}
+},
+{
+"Name": "Maribo",
+"PostCode": "4930",
+"Location": {
+"Latitude": 54.7766,
+"Longitude": 11.5002
+}
+},
+{
+"Name": "Nakskov",
+"PostCode": "4900",
+"Location": {
+"Latitude": 54.8373,
+"Longitude": 11.1284
+}
+},
+{
+"Name": "Nørreballe",
+"PostCode": "4951",
+"Location": {
+"Latitude": 54.8059,
+"Longitude": 11.4304
+}
+},
+{
+"Name": "Øster Ulslev",
+"PostCode": "4894",
+"Location": {
+"Latitude": 54.6984,
+"Longitude": 11.6267
+}
+},
+{
+"Name": "Rødby",
+"PostCode": "4970",
+"Location": {
+"Latitude": 54.695,
+"Longitude": 11.3888
+}
+},
+{
+"Name": "Søllested",
+"PostCode": "4920",
+"Location": {
+"Latitude": 54.8102,
+"Longitude": 11.2712
+}
+},
+{
+"Name": "Stokkemarke",
+"PostCode": "4952",
+"Location": {
+"Latitude": 54.8381,
+"Longitude": 11.3603
+}
+},
+{
+"Name": "Torrig L",
+"PostCode": "4943",
+"Location": {
+"Latitude": 54.8365,
+"Longitude": 11.4831
+}
+},
+{
+"Name": "Vesterborg",
+"PostCode": "4953",
+"Location": {
+"Latitude": 54.8484,
+"Longitude": 11.2796
+}
+}
+]
+}
+]
+},
+{
+"Name": "Næstved Kommune",
+"Code": "370",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Dalmose",
+"PostCode": "4261",
+"Location": {
+"Latitude": 55.2942,
+"Longitude": 11.4184
+}
+},
+{
+"Name": "Faxe",
+"PostCode": "4640",
+"Location": {
+"Latitude": 55.2469,
+"Longitude": 12.1176
+}
+},
+{
+"Name": "Fuglebjerg",
+"PostCode": "4250",
+"Location": {
+"Latitude": 55.306,
+"Longitude": 11.5477
+}
+},
+{
+"Name": "Glumsø",
+"PostCode": "4171",
+"Location": {
+"Latitude": 55.3568,
+"Longitude": 11.6856
+}
+},
+{
+"Name": "Haslev",
+"PostCode": "4690",
+"Location": {
+"Latitude": 55.3235,
+"Longitude": 11.9639
+}
+},
+{
+"Name": "Herlufmagle",
+"PostCode": "4160",
+"Location": {
+"Latitude": 55.3132,
+"Longitude": 11.7523
+}
+},
+{
+"Name": "Holmegaard",
+"PostCode": "4684",
+"Location": {
+"Latitude": 55.3411,
+"Longitude": 12.0694
+}
+},
+{
+"Name": "Karrebæksminde",
+"PostCode": "4736",
+"Location": {
+"Latitude": 55.1816,
+"Longitude": 11.647
+}
+},
+{
+"Name": "Lundby",
+"PostCode": "4750",
+"Location": {
+"Latitude": 55.1089,
+"Longitude": 11.8747
+}
+},
+{
+"Name": "Næstved",
+"PostCode": "4700",
+"Location": {
+"Latitude": 55.2299,
+"Longitude": 11.7609
+}
+},
+{
+"Name": "Ringsted",
+"PostCode": "4100",
+"Location": {
+"Latitude": 55.4426,
+"Longitude": 11.7901
+}
+},
+{
+"Name": "Rønnede",
+"PostCode": "4683",
+"Location": {
+"Latitude": 55.2571,
+"Longitude": 12.0212
+}
+},
+{
+"Name": "Rude",
+"PostCode": "4243",
+"Location": {
+"Latitude": 55.2307,
+"Longitude": 11.4692
+}
+},
+{
+"Name": "Sandved",
+"PostCode": "4262",
+"Location": {
+"Latitude": 55.263,
+"Longitude": 11.5217
+}
+},
+{
+"Name": "Slagelse",
+"PostCode": "4200",
+"Location": {
+"Latitude": 55.4028,
+"Longitude": 11.3546
+}
+},
+{
+"Name": "Tappernøje",
+"PostCode": "4733",
+"Location": {
+"Latitude": 55.165,
+"Longitude": 11.9787
+}
+}
+]
+}
+]
+},
+{
+"Name": "Guldborgsund Kommune",
+"Code": "376",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Eskilstrup",
+"PostCode": "4863",
+"Location": {
+"Latitude": 54.8557,
+"Longitude": 11.8867
+}
+},
+{
+"Name": "Gedser",
+"PostCode": "4874",
+"Location": {
+"Latitude": 54.5764,
+"Longitude": 11.93
+}
+},
+{
+"Name": "Guldborg",
+"PostCode": "4862",
+"Location": {
+"Latitude": 54.8679,
+"Longitude": 11.7392
+}
+},
+{
+"Name": "Horbelev",
+"PostCode": "4871",
+"Location": {
+"Latitude": 54.823,
+"Longitude": 12.0584
+}
+},
+{
+"Name": "Idestrup",
+"PostCode": "4872",
+"Location": {
+"Latitude": 54.7431,
+"Longitude": 11.9567
+}
+},
+{
+"Name": "Kettinge",
+"PostCode": "4892",
+"Location": {
+"Latitude": 54.6967,
+"Longitude": 11.7283
+}
+},
+{
+"Name": "Maribo",
+"PostCode": "4930",
+"Location": {
+"Latitude": 54.7766,
+"Longitude": 11.5002
+}
+},
+{
+"Name": "Nørre Alslev",
+"PostCode": "4840",
+"Location": {
+"Latitude": 54.8978,
+"Longitude": 11.8841
+}
+},
+{
+"Name": "Nykøbing F",
+"PostCode": "4800",
+"Location": {
+"Latitude": 54.7533,
+"Longitude": 11.8179
+}
+},
+{
+"Name": "Nysted",
+"PostCode": "4880",
+"Location": {
+"Latitude": 54.6651,
+"Longitude": 11.7343
+}
+},
+{
+"Name": "Øster Ulslev",
+"PostCode": "4894",
+"Location": {
+"Latitude": 54.6984,
+"Longitude": 11.6267
+}
+},
+{
+"Name": "Sakskøbing",
+"PostCode": "4990",
+"Location": {
+"Latitude": 54.7997,
+"Longitude": 11.626
+}
+},
+{
+"Name": "Stubbekøbing",
+"PostCode": "4850",
+"Location": {
+"Latitude": 54.8888,
+"Longitude": 12.041
+}
+},
+{
+"Name": "Toreby L",
+"PostCode": "4891",
+"Location": {
+"Latitude": 54.6906,
+"Longitude": 11.6192
+}
+},
+{
+"Name": "Væggerløse",
+"PostCode": "4873",
+"Location": {
+"Latitude": 54.7124,
+"Longitude": 11.9255
+}
+}
+]
+}
+]
+},
+{
+"Name": "Vordingborg Kommune",
+"Code": "390",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Askeby",
+"PostCode": "4792",
+"Location": {
+"Latitude": 54.9239,
+"Longitude": 12.1771
+}
+},
+{
+"Name": "Bogø By",
+"PostCode": "4793",
+"Location": {
+"Latitude": 54.923,
+"Longitude": 12.051
+}
+},
+{
+"Name": "Borre",
+"PostCode": "4791",
+"Location": {
+"Latitude": 54.9959,
+"Longitude": 12.4463
+}
+},
+{
+"Name": "Kalvehave",
+"PostCode": "4771",
+"Location": {
+"Latitude": 54.9973,
+"Longitude": 12.1685
+}
+},
+{
+"Name": "Langebæk",
+"PostCode": "4772",
+"Location": {
+"Latitude": 54.9965,
+"Longitude": 12.0899
+}
+},
+{
+"Name": "Lundby",
+"PostCode": "4750",
+"Location": {
+"Latitude": 55.1089,
+"Longitude": 11.8747
+}
+},
+{
+"Name": "Mern",
+"PostCode": "4735",
+"Location": {
+"Latitude": 55.0482,
+"Longitude": 12.0556
+}
+},
+{
+"Name": "Præstø",
+"PostCode": "4720",
+"Location": {
+"Latitude": 55.1178,
+"Longitude": 12.0573
+}
+},
+{
+"Name": "Stege",
+"PostCode": "4780",
+"Location": {
+"Latitude": 54.987,
+"Longitude": 12.2846
+}
+},
+{
+"Name": "Stensved",
+"PostCode": "4773",
+"Location": {
+"Latitude": 54.9971,
+"Longitude": 12.0298
+}
+},
+{
+"Name": "Tappernøje",
+"PostCode": "4733",
+"Location": {
+"Latitude": 55.165,
+"Longitude": 11.9787
+}
+},
+{
+"Name": "Vordingborg",
+"PostCode": "4760",
+"Location": {
+"Latitude": 55.008,
+"Longitude": 11.9106
+}
+}
+]
+}
+]
+}
+]
+},
+{
 "Name": "Region Syddanmark",
-"Code": "83",
+"Code": "21",
 "Provinces": [
 {
 "Name": "Middelfart Kommune",
@@ -3290,6 +3980,22 @@
 }
 },
 {
+"Name": "Avernakø",
+"PostCode": "5602",
+"Location": {
+"Latitude": 55.0187,
+"Longitude": 10.2845
+}
+},
+{
+"Name": "Bjørnø",
+"PostCode": "5603",
+"Location": {
+"Latitude": 55.0633,
+"Longitude": 10.2482
+}
+},
+{
 "Name": "Broby",
 "PostCode": "5672",
 "Location": {
@@ -3335,6 +4041,14 @@
 "Location": {
 "Latitude": 55.3565,
 "Longitude": 10.5845
+}
+},
+{
+"Name": "Lyø",
+"PostCode": "5601",
+"Location": {
+"Latitude": 55.0439,
+"Longitude": 10.1473
 }
 },
 {
@@ -3570,6 +4284,14 @@
 {
 "Name": "Odense C",
 "PostCode": "5000",
+"Location": {
+"Latitude": 55.3959,
+"Longitude": 10.3883
+}
+},
+{
+"Name": "Odense C",
+"PostCode": "5100",
 "Location": {
 "Latitude": 55.3959,
 "Longitude": 10.3883
@@ -3870,6 +4592,14 @@
 }
 },
 {
+"Name": "Strynø",
+"PostCode": "5943",
+"Location": {
+"Latitude": 54.9008,
+"Longitude": 10.6118
+}
+},
+{
 "Name": "Tranekær",
 "PostCode": "5953",
 "Location": {
@@ -3893,6 +4623,14 @@
 "Location": {
 "Latitude": 54.888,
 "Longitude": 10.4112
+}
+},
+{
+"Name": "Birkholm",
+"PostCode": "5965",
+"Location": {
+"Latitude": 54.931,
+"Longitude": 10.503
 }
 },
 {
@@ -4260,6 +4998,14 @@
 {
 "Name": "Esbjerg",
 "PostCode": "6700",
+"Location": {
+"Latitude": 55.4703,
+"Longitude": 8.4519
+}
+},
+{
+"Name": "Esbjerg",
+"PostCode": "6701",
 "Location": {
 "Latitude": 55.4703,
 "Longitude": 8.4519
@@ -4644,6 +5390,14 @@
 }
 },
 {
+"Name": "Barsø",
+"PostCode": "6210",
+"Location": {
+"Latitude": 55.1216,
+"Longitude": 9.5578
+}
+},
+{
 "Name": "Bolderslev",
 "PostCode": "6392",
 "Location": {
@@ -5016,6 +5770,1060 @@
 ]
 },
 {
+"Name": "Region Nordjylland",
+"Code": "81",
+"Provinces": [
+{
+"Name": "Morsø Kommune",
+"Code": "773",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Erslev",
+"PostCode": "7950",
+"Location": {
+"Latitude": 56.8298,
+"Longitude": 8.7501
+}
+},
+{
+"Name": "Karby",
+"PostCode": "7960",
+"Location": {
+"Latitude": 56.7536,
+"Longitude": 8.5613
+}
+},
+{
+"Name": "Nykøbing M",
+"PostCode": "7900",
+"Location": {
+"Latitude": 56.7619,
+"Longitude": 8.6836
+}
+},
+{
+"Name": "Øster Assels",
+"PostCode": "7990",
+"Location": {
+"Latitude": 56.7011,
+"Longitude": 8.6946
+}
+},
+{
+"Name": "Redsted M",
+"PostCode": "7970",
+"Location": {
+"Latitude": 56.7619,
+"Longitude": 8.6836
+}
+},
+{
+"Name": "Vils",
+"PostCode": "7980",
+"Location": {
+"Latitude": 56.7631,
+"Longitude": 8.7286
+}
+}
+]
+}
+]
+},
+{
+"Name": "Thisted Kommune",
+"Code": "787",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Bedsted Thy",
+"PostCode": "7755",
+"Location": {
+"Latitude": 56.8924,
+"Longitude": 8.5244
+}
+},
+{
+"Name": "Frøstrup",
+"PostCode": "7741",
+"Location": {
+"Latitude": 57.0867,
+"Longitude": 8.9958
+}
+},
+{
+"Name": "Hanstholm",
+"PostCode": "7730",
+"Location": {
+"Latitude": 57.1167,
+"Longitude": 8.6167
+}
+},
+{
+"Name": "Hurup Thy",
+"PostCode": "7760",
+"Location": {
+"Latitude": 56.7494,
+"Longitude": 8.4195
+}
+},
+{
+"Name": "Snedsted",
+"PostCode": "7752",
+"Location": {
+"Latitude": 56.8924,
+"Longitude": 8.5244
+}
+},
+{
+"Name": "Thisted",
+"PostCode": "7700",
+"Location": {
+"Latitude": 56.9552,
+"Longitude": 8.6949
+}
+},
+{
+"Name": "Vesløs",
+"PostCode": "7742",
+"Location": {
+"Latitude": 57.0383,
+"Longitude": 8.9746
+}
+},
+{
+"Name": "Vestervig",
+"PostCode": "7770",
+"Location": {
+"Latitude": 56.7628,
+"Longitude": 8.3194
+}
+}
+]
+}
+]
+},
+{
+"Name": "Brønderslev Kommune",
+"Code": "810",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Aabybro",
+"PostCode": "9440",
+"Location": {
+"Latitude": 57.1584,
+"Longitude": 9.7367
+}
+},
+{
+"Name": "Asaa",
+"PostCode": "9340",
+"Location": {
+"Latitude": 57.1487,
+"Longitude": 10.4037
+}
+},
+{
+"Name": "Brønderslev",
+"PostCode": "9700",
+"Location": {
+"Latitude": 57.2702,
+"Longitude": 9.941
+}
+},
+{
+"Name": "Dronninglund",
+"PostCode": "9330",
+"Location": {
+"Latitude": 57.1604,
+"Longitude": 10.2929
+}
+},
+{
+"Name": "Dybvad",
+"PostCode": "9352",
+"Location": {
+"Latitude": 57.272,
+"Longitude": 10.3595
+}
+},
+{
+"Name": "Hals",
+"PostCode": "9370",
+"Location": {
+"Latitude": 56.9961,
+"Longitude": 10.3081
+}
+},
+{
+"Name": "Hjallerup",
+"PostCode": "9320",
+"Location": {
+"Latitude": 57.1647,
+"Longitude": 10.1457
+}
+},
+{
+"Name": "Jerslev J",
+"PostCode": "9740",
+"Location": {
+"Latitude": 57.323,
+"Longitude": 10.0722
+}
+},
+{
+"Name": "Løkken",
+"PostCode": "9480",
+"Location": {
+"Latitude": 57.3705,
+"Longitude": 9.7147
+}
+},
+{
+"Name": "Østervrå",
+"PostCode": "9750",
+"Location": {
+"Latitude": 57.3417,
+"Longitude": 10.2401
+}
+},
+{
+"Name": "Tylstrup",
+"PostCode": "9382",
+"Location": {
+"Latitude": 57.1947,
+"Longitude": 9.9531
+}
+},
+{
+"Name": "Vrå",
+"PostCode": "9760",
+"Location": {
+"Latitude": 57.3476,
+"Longitude": 9.9515
+}
+}
+]
+}
+]
+},
+{
+"Name": "Frederikshavn Kommune",
+"Code": "813",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Ålbæk",
+"PostCode": "9982",
+"Location": {
+"Latitude": 57.5925,
+"Longitude": 10.4046
+}
+},
+{
+"Name": "Asaa",
+"PostCode": "9340",
+"Location": {
+"Latitude": 57.1487,
+"Longitude": 10.4037
+}
+},
+{
+"Name": "Bindslev",
+"PostCode": "9881",
+"Location": {
+"Latitude": 57.5521,
+"Longitude": 10.2036
+}
+},
+{
+"Name": "Dronninglund",
+"PostCode": "9330",
+"Location": {
+"Latitude": 57.1604,
+"Longitude": 10.2929
+}
+},
+{
+"Name": "Dybvad",
+"PostCode": "9352",
+"Location": {
+"Latitude": 57.272,
+"Longitude": 10.3595
+}
+},
+{
+"Name": "Frederikshavn",
+"PostCode": "9900",
+"Location": {
+"Latitude": 57.4407,
+"Longitude": 10.5366
+}
+},
+{
+"Name": "Jerup",
+"PostCode": "9981",
+"Location": {
+"Latitude": 57.5343,
+"Longitude": 10.4166
+}
+},
+{
+"Name": "Østervrå",
+"PostCode": "9750",
+"Location": {
+"Latitude": 57.3417,
+"Longitude": 10.2401
+}
+},
+{
+"Name": "Sæby",
+"PostCode": "9300",
+"Location": {
+"Latitude": 57.3319,
+"Longitude": 10.5225
+}
+},
+{
+"Name": "Sindal",
+"PostCode": "9870",
+"Location": {
+"Latitude": 57.4712,
+"Longitude": 10.2031
+}
+},
+{
+"Name": "Skagen",
+"PostCode": "9990",
+"Location": {
+"Latitude": 57.7209,
+"Longitude": 10.5839
+}
+},
+{
+"Name": "Strandby",
+"PostCode": "9970",
+"Location": {
+"Latitude": 57.4915,
+"Longitude": 10.4961
+}
+},
+{
+"Name": "Tårs",
+"PostCode": "9830",
+"Location": {
+"Latitude": 57.3833,
+"Longitude": 10.1167
+}
+}
+]
+}
+]
+},
+{
+"Name": "Vesthimmerlands Kommune",
+"Code": "820",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Aalestrup",
+"PostCode": "9620",
+"Location": {
+"Latitude": 56.6947,
+"Longitude": 9.4934
+}
+},
+{
+"Name": "Aars",
+"PostCode": "9600",
+"Location": {
+"Latitude": 56.804,
+"Longitude": 9.5144
+}
+},
+{
+"Name": "Farsø",
+"PostCode": "9640",
+"Location": {
+"Latitude": 56.7728,
+"Longitude": 9.3393
+}
+},
+{
+"Name": "Gedsted",
+"PostCode": "9631",
+"Location": {
+"Latitude": 56.6892,
+"Longitude": 9.3367
+}
+},
+{
+"Name": "Løgstør",
+"PostCode": "9670",
+"Location": {
+"Latitude": 56.9625,
+"Longitude": 9.2583
+}
+},
+{
+"Name": "Nibe",
+"PostCode": "9240",
+"Location": {
+"Latitude": 56.9815,
+"Longitude": 9.6392
+}
+},
+{
+"Name": "Nørager",
+"PostCode": "9610",
+"Location": {
+"Latitude": 56.7262,
+"Longitude": 9.5971
+}
+},
+{
+"Name": "Ranum",
+"PostCode": "9681",
+"Location": {
+"Latitude": 56.8973,
+"Longitude": 9.2287
+}
+},
+{
+"Name": "Suldrup",
+"PostCode": "9541",
+"Location": {
+"Latitude": 56.8488,
+"Longitude": 9.7006
+}
+}
+]
+}
+]
+},
+{
+"Name": "Læsø Kommune",
+"Code": "825",
+"PostCode": "9940",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Læsø",
+"PostCode": "9940",
+"Location": {
+"Latitude": 57.5448,
+"Longitude": 10.4827
+}
+}
+],
+"PostCode": "9940"
+}
+]
+},
+{
+"Name": "Rebild Kommune",
+"Code": "840",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Aalestrup",
+"PostCode": "9620",
+"Location": {
+"Latitude": 56.6947,
+"Longitude": 9.4934
+}
+},
+{
+"Name": "Aars",
+"PostCode": "9600",
+"Location": {
+"Latitude": 56.804,
+"Longitude": 9.5144
+}
+},
+{
+"Name": "Arden",
+"PostCode": "9510",
+"Location": {
+"Latitude": 56.769,
+"Longitude": 9.8618
+}
+},
+{
+"Name": "Bælum",
+"PostCode": "9574",
+"Location": {
+"Latitude": 56.83,
+"Longitude": 10.1198
+}
+},
+{
+"Name": "Gistrup",
+"PostCode": "9260",
+"Location": {
+"Latitude": 56.9943,
+"Longitude": 9.9909
+}
+},
+{
+"Name": "Hadsund",
+"PostCode": "9560",
+"Location": {
+"Latitude": 56.7148,
+"Longitude": 10.1168
+}
+},
+{
+"Name": "Hobro",
+"PostCode": "9500",
+"Location": {
+"Latitude": 56.6431,
+"Longitude": 9.7903
+}
+},
+{
+"Name": "Kongerslev",
+"PostCode": "9293",
+"Location": {
+"Latitude": 56.9056,
+"Longitude": 10.1267
+}
+},
+{
+"Name": "Nibe",
+"PostCode": "9240",
+"Location": {
+"Latitude": 56.9815,
+"Longitude": 9.6392
+}
+},
+{
+"Name": "Nørager",
+"PostCode": "9610",
+"Location": {
+"Latitude": 56.7262,
+"Longitude": 9.5971
+}
+},
+{
+"Name": "Skørping",
+"PostCode": "9520",
+"Location": {
+"Latitude": 56.8363,
+"Longitude": 9.8925
+}
+},
+{
+"Name": "Støvring",
+"PostCode": "9530",
+"Location": {
+"Latitude": 56.8854,
+"Longitude": 9.8384
+}
+},
+{
+"Name": "Suldrup",
+"PostCode": "9541",
+"Location": {
+"Latitude": 56.8488,
+"Longitude": 9.7006
+}
+},
+{
+"Name": "Svenstrup J",
+"PostCode": "9230",
+"Location": {
+"Latitude": 56.9733,
+"Longitude": 9.9233
+}
+},
+{
+"Name": "Terndrup",
+"PostCode": "9575",
+"Location": {
+"Latitude": 56.8139,
+"Longitude": 10.0615
+}
+}
+]
+}
+]
+},
+{
+"Name": "Mariagerfjord Kommune",
+"Code": "846",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Aalestrup",
+"PostCode": "9620",
+"Location": {
+"Latitude": 56.6947,
+"Longitude": 9.4934
+}
+},
+{
+"Name": "Arden",
+"PostCode": "9510",
+"Location": {
+"Latitude": 56.769,
+"Longitude": 9.8618
+}
+},
+{
+"Name": "Fårup",
+"PostCode": "8990",
+"Location": {
+"Latitude": 56.3667,
+"Longitude": 10.2494
+}
+},
+{
+"Name": "Hadsund",
+"PostCode": "9560",
+"Location": {
+"Latitude": 56.7148,
+"Longitude": 10.1168
+}
+},
+{
+"Name": "Havndal",
+"PostCode": "8970",
+"Location": {
+"Latitude": 56.6525,
+"Longitude": 10.1967
+}
+},
+{
+"Name": "Hobro",
+"PostCode": "9500",
+"Location": {
+"Latitude": 56.6431,
+"Longitude": 9.7903
+}
+},
+{
+"Name": "Mariager",
+"PostCode": "9550",
+"Location": {
+"Latitude": 56.6499,
+"Longitude": 9.9751
+}
+},
+{
+"Name": "Møldrup",
+"PostCode": "9632",
+"Location": {
+"Latitude": 56.6167,
+"Longitude": 9.5011
+}
+}
+]
+}
+]
+},
+{
+"Name": "Jammerbugt Kommune",
+"Code": "849",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Aabybro",
+"PostCode": "9440",
+"Location": {
+"Latitude": 57.1584,
+"Longitude": 9.7367
+}
+},
+{
+"Name": "Blokhus",
+"PostCode": "9492",
+"Location": {
+"Latitude": 57.248,
+"Longitude": 9.5897
+}
+},
+{
+"Name": "Brønderslev",
+"PostCode": "9700",
+"Location": {
+"Latitude": 57.2702,
+"Longitude": 9.941
+}
+},
+{
+"Name": "Brovst",
+"PostCode": "9460",
+"Location": {
+"Latitude": 57.0956,
+"Longitude": 9.528
+}
+},
+{
+"Name": "Fjerritslev",
+"PostCode": "9690",
+"Location": {
+"Latitude": 57.0813,
+"Longitude": 9.2664
+}
+},
+{
+"Name": "Løgstør",
+"PostCode": "9670",
+"Location": {
+"Latitude": 56.9625,
+"Longitude": 9.2583
+}
+},
+{
+"Name": "Løkken",
+"PostCode": "9480",
+"Location": {
+"Latitude": 57.3705,
+"Longitude": 9.7147
+}
+},
+{
+"Name": "Pandrup",
+"PostCode": "9490",
+"Location": {
+"Latitude": 57.2215,
+"Longitude": 9.6757
+}
+},
+{
+"Name": "Saltum",
+"PostCode": "9493",
+"Location": {
+"Latitude": 57.2719,
+"Longitude": 9.698
+}
+},
+{
+"Name": "Sulsted",
+"PostCode": "9381",
+"Location": {
+"Latitude": 57.1634,
+"Longitude": 9.9567
+}
+},
+{
+"Name": "Tylstrup",
+"PostCode": "9382",
+"Location": {
+"Latitude": 57.1947,
+"Longitude": 9.9531
+}
+},
+{
+"Name": "Vadum",
+"PostCode": "9430",
+"Location": {
+"Latitude": 57.1179,
+"Longitude": 9.857
+}
+}
+]
+}
+]
+},
+{
+"Name": "Aalborg Kommune",
+"Code": "851",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Aabybro",
+"PostCode": "9440",
+"Location": {
+"Latitude": 57.1584,
+"Longitude": 9.7367
+}
+},
+{
+"Name": "Aalborg",
+"PostCode": "9000",
+"Location": {
+"Latitude": 57.048,
+"Longitude": 9.9187
+}
+},
+{
+"Name": "Aalborg",
+"PostCode": "9100",
+"Location": {
+"Latitude": 57.048,
+"Longitude": 9.9187
+}
+},
+{
+"Name": "Aalborg Øst",
+"PostCode": "9220",
+"Location": {
+"Latitude": 56.9733,
+"Longitude": 9.9233
+}
+},
+{
+"Name": "Aalborg SØ",
+"PostCode": "9210",
+"Location": {
+"Latitude": 56.9733,
+"Longitude": 9.9233
+}
+},
+{
+"Name": "Aalborg SV",
+"PostCode": "9200",
+"Location": {
+"Latitude": 56.9733,
+"Longitude": 9.9233
+}
+},
+{
+"Name": "Gandrup",
+"PostCode": "9362",
+"Location": {
+"Latitude": 57.0574,
+"Longitude": 10.1814
+}
+},
+{
+"Name": "Gistrup",
+"PostCode": "9260",
+"Location": {
+"Latitude": 56.9943,
+"Longitude": 9.9909
+}
+},
+{
+"Name": "Hals",
+"PostCode": "9370",
+"Location": {
+"Latitude": 56.9961,
+"Longitude": 10.3081
+}
+},
+{
+"Name": "Hjallerup",
+"PostCode": "9320",
+"Location": {
+"Latitude": 57.1647,
+"Longitude": 10.1457
+}
+},
+{
+"Name": "Klarup",
+"PostCode": "9270",
+"Location": {
+"Latitude": 57.0119,
+"Longitude": 10.0562
+}
+},
+{
+"Name": "Kongerslev",
+"PostCode": "9293",
+"Location": {
+"Latitude": 56.9056,
+"Longitude": 10.1267
+}
+},
+{
+"Name": "Nibe",
+"PostCode": "9240",
+"Location": {
+"Latitude": 56.9815,
+"Longitude": 9.6392
+}
+},
+{
+"Name": "Nørresundby",
+"PostCode": "9400",
+"Location": {
+"Latitude": 57.0483,
+"Longitude": 9.9352
+}
+},
+{
+"Name": "Storvorde",
+"PostCode": "9280",
+"Location": {
+"Latitude": 57.0039,
+"Longitude": 10.1013
+}
+},
+{
+"Name": "Støvring",
+"PostCode": "9530",
+"Location": {
+"Latitude": 56.8854,
+"Longitude": 9.8384
+}
+},
+{
+"Name": "Sulsted",
+"PostCode": "9381",
+"Location": {
+"Latitude": 57.1634,
+"Longitude": 9.9567
+}
+},
+{
+"Name": "Svenstrup J",
+"PostCode": "9230",
+"Location": {
+"Latitude": 56.9733,
+"Longitude": 9.9233
+}
+},
+{
+"Name": "Tylstrup",
+"PostCode": "9382",
+"Location": {
+"Latitude": 57.1947,
+"Longitude": 9.9531
+}
+},
+{
+"Name": "Vadum",
+"PostCode": "9430",
+"Location": {
+"Latitude": 57.1179,
+"Longitude": 9.857
+}
+},
+{
+"Name": "Vestbjerg",
+"PostCode": "9380",
+"Location": {
+"Latitude": 57.1317,
+"Longitude": 9.9594
+}
+},
+{
+"Name": "Vodskov",
+"PostCode": "9310",
+"Location": {
+"Latitude": 57.1085,
+"Longitude": 10.0222
+}
+}
+]
+}
+]
+},
+{
+"Name": "Hjørring Kommune",
+"Code": "860",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Ålbæk",
+"PostCode": "9982",
+"Location": {
+"Latitude": 57.5925,
+"Longitude": 10.4046
+}
+},
+{
+"Name": "Bindslev",
+"PostCode": "9881",
+"Location": {
+"Latitude": 57.5521,
+"Longitude": 10.2036
+}
+},
+{
+"Name": "Frederikshavn",
+"PostCode": "9900",
+"Location": {
+"Latitude": 57.4407,
+"Longitude": 10.5366
+}
+},
+{
+"Name": "Hirtshals",
+"PostCode": "9850",
+"Location": {
+"Latitude": 57.5881,
+"Longitude": 9.9592
+}
+},
+{
+"Name": "Hjørring",
+"PostCode": "9800",
+"Location": {
+"Latitude": 57.4642,
+"Longitude": 9.9823
+}
+},
+{
+"Name": "Jerslev J",
+"PostCode": "9740",
+"Location": {
+"Latitude": 57.323,
+"Longitude": 10.0722
+}
+},
+{
+"Name": "Løkken",
+"PostCode": "9480",
+"Location": {
+"Latitude": 57.3705,
+"Longitude": 9.7147
+}
+},
+{
+"Name": "Østervrå",
+"PostCode": "9750",
+"Location": {
+"Latitude": 57.3417,
+"Longitude": 10.2401
+}
+},
+{
+"Name": "Sindal",
+"PostCode": "9870",
+"Location": {
+"Latitude": 57.4712,
+"Longitude": 10.2031
+}
+},
+{
+"Name": "Tårs",
+"PostCode": "9830",
+"Location": {
+"Latitude": 57.3833,
+"Longitude": 10.1167
+}
+},
+{
+"Name": "Vrå",
+"PostCode": "9760",
+"Location": {
+"Latitude": 57.3476,
+"Longitude": 9.9515
+}
+}
+]
+}
+]
+}
+]
+},
+{
 "Name": "Region Hovedstaden",
 "Code": "84",
 "Provinces": [
@@ -5091,7 +6899,207 @@
 },
 {
 "Name": "København K",
-"PostCode": "1000",
+"PostCode": "1001",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1002",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1003",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1004",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1005",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1006",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1007",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1008",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1009",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1010",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1011",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1012",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1013",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1014",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1015",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1016",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1017",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1018",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1019",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1020",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1021",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1022",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1023",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1024",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1025",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København K",
+"PostCode": "1026",
 "Location": {
 "Latitude": 55.6759,
 "Longitude": 12.5655
@@ -6755,14 +8763,6 @@
 },
 {
 "Name": "København K",
-"PostCode": "1431",
-"Location": {
-"Latitude": 55.6759,
-"Longitude": 12.5655
-}
-},
-{
-"Name": "København K",
 "PostCode": "1432",
 "Location": {
 "Latitude": 55.6759,
@@ -7059,6 +9059,86 @@
 },
 {
 "Name": "København V",
+"PostCode": "1501",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København V",
+"PostCode": "1502",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København V",
+"PostCode": "1503",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København V",
+"PostCode": "1504",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København V",
+"PostCode": "1505",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København V",
+"PostCode": "1506",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København V",
+"PostCode": "1507",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København V",
+"PostCode": "1508",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København V",
+"PostCode": "1509",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København V",
+"PostCode": "1510",
+"Location": {
+"Latitude": 55.6759,
+"Longitude": 12.5655
+}
+},
+{
+"Name": "København V",
 "PostCode": "1550",
 "Location": {
 "Latitude": 55.6759,
@@ -7172,14 +9252,6 @@
 {
 "Name": "København V",
 "PostCode": "1564",
-"Location": {
-"Latitude": 55.6759,
-"Longitude": 12.5655
-}
-},
-{
-"Name": "København V",
-"PostCode": "1566",
 "Location": {
 "Latitude": 55.6759,
 "Longitude": 12.5655
@@ -8622,6 +10694,14 @@
 {
 "Name": "Frederiksberg C",
 "PostCode": "1829",
+"Location": {
+"Latitude": 55.6794,
+"Longitude": 12.5346
+}
+},
+{
+"Name": "Frederiksberg C",
+"PostCode": "1835",
 "Location": {
 "Latitude": 55.6794,
 "Longitude": 12.5346
@@ -10714,1678 +12794,6 @@
 }
 ],
 "PostCode": "3760"
-}
-]
-}
-]
-},
-{
-"Name": "Region Sjælland",
-"Code": "85",
-"Provinces": [
-{
-"Name": "Greve Kommune",
-"Code": "253",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Greve",
-"PostCode": "2670",
-"Location": {
-"Latitude": 55.5833,
-"Longitude": 12.3
-}
-},
-{
-"Name": "Hedehusene",
-"PostCode": "2640",
-"Location": {
-"Latitude": 55.647,
-"Longitude": 12.1936
-}
-},
-{
-"Name": "Karlslunde",
-"PostCode": "2690",
-"Location": {
-"Latitude": 55.5726,
-"Longitude": 12.2258
-}
-},
-{
-"Name": "Tune",
-"PostCode": "4030",
-"Location": {
-"Latitude": 55.5953,
-"Longitude": 12.1832
-}
-}
-]
-}
-]
-},
-{
-"Name": "Køge Kommune",
-"Code": "259",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Bjæverskov",
-"PostCode": "4632",
-"Location": {
-"Latitude": 55.4576,
-"Longitude": 12.0365
-}
-},
-{
-"Name": "Borup",
-"PostCode": "4140",
-"Location": {
-"Latitude": 55.4947,
-"Longitude": 11.9758
-}
-},
-{
-"Name": "Herfølge",
-"PostCode": "4681",
-"Location": {
-"Latitude": 55.4137,
-"Longitude": 12.1433
-}
-},
-{
-"Name": "Jystrup Midtsj",
-"PostCode": "4174",
-"Location": {
-"Latitude": 55.4082,
-"Longitude": 11.6872
-}
-},
-{
-"Name": "Køge",
-"PostCode": "4600",
-"Location": {
-"Latitude": 55.458,
-"Longitude": 12.1821
-}
-},
-{
-"Name": "Lejre",
-"PostCode": "4320",
-"Location": {
-"Latitude": 55.6046,
-"Longitude": 11.9748
-}
-},
-{
-"Name": "Lille Skensved",
-"PostCode": "4623",
-"Location": {
-"Latitude": 55.5098,
-"Longitude": 12.1351
-}
-},
-{
-"Name": "Ringsted",
-"PostCode": "4100",
-"Location": {
-"Latitude": 55.4426,
-"Longitude": 11.7901
-}
-},
-{
-"Name": "Tureby",
-"PostCode": "4682",
-"Location": {
-"Latitude": 55.373,
-"Longitude": 12.0769
-}
-},
-{
-"Name": "Viby Sjælland",
-"PostCode": "4130",
-"Location": {
-"Latitude": 55.5487,
-"Longitude": 12.0239
-}
-}
-]
-}
-]
-},
-{
-"Name": "Roskilde Kommune",
-"Code": "265",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Borup",
-"PostCode": "4140",
-"Location": {
-"Latitude": 55.4947,
-"Longitude": 11.9758
-}
-},
-{
-"Name": "Gadstrup",
-"PostCode": "4621",
-"Location": {
-"Latitude": 55.5678,
-"Longitude": 12.0891
-}
-},
-{
-"Name": "Havdrup",
-"PostCode": "4622",
-"Location": {
-"Latitude": 55.5448,
-"Longitude": 12.1239
-}
-},
-{
-"Name": "Hedehusene",
-"PostCode": "2640",
-"Location": {
-"Latitude": 55.647,
-"Longitude": 12.1936
-}
-},
-{
-"Name": "Jyllinge",
-"PostCode": "4040",
-"Location": {
-"Latitude": 55.7584,
-"Longitude": 12.1123
-}
-},
-{
-"Name": "Lejre",
-"PostCode": "4320",
-"Location": {
-"Latitude": 55.6046,
-"Longitude": 11.9748
-}
-},
-{
-"Name": "Lille Skensved",
-"PostCode": "4623",
-"Location": {
-"Latitude": 55.5098,
-"Longitude": 12.1351
-}
-},
-{
-"Name": "Roskilde",
-"PostCode": "4000",
-"Location": {
-"Latitude": 55.6415,
-"Longitude": 12.0803
-}
-},
-{
-"Name": "Tune",
-"PostCode": "4030",
-"Location": {
-"Latitude": 55.5953,
-"Longitude": 12.1832
-}
-},
-{
-"Name": "Veksø Sjælland",
-"PostCode": "3670",
-"Location": {
-"Latitude": 55.8223,
-"Longitude": 12.0862
-}
-},
-{
-"Name": "Viby Sjælland",
-"PostCode": "4130",
-"Location": {
-"Latitude": 55.5487,
-"Longitude": 12.0239
-}
-}
-]
-}
-]
-},
-{
-"Name": "Solrød Kommune",
-"Code": "269",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Havdrup",
-"PostCode": "4622",
-"Location": {
-"Latitude": 55.5448,
-"Longitude": 12.1239
-}
-},
-{
-"Name": "Karlslunde",
-"PostCode": "2690",
-"Location": {
-"Latitude": 55.5726,
-"Longitude": 12.2258
-}
-},
-{
-"Name": "Lille Skensved",
-"PostCode": "4623",
-"Location": {
-"Latitude": 55.5098,
-"Longitude": 12.1351
-}
-},
-{
-"Name": "Solrød Strand",
-"PostCode": "2680",
-"Location": {
-"Latitude": 55.5329,
-"Longitude": 12.2223
-}
-}
-]
-}
-]
-},
-{
-"Name": "Odsherred Kommune",
-"Code": "306",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Asnæs",
-"PostCode": "4550",
-"Location": {
-"Latitude": 55.8123,
-"Longitude": 11.5013
-}
-},
-{
-"Name": "Fårevejle",
-"PostCode": "4540",
-"Location": {
-"Latitude": 55.8,
-"Longitude": 11.45
-}
-},
-{
-"Name": "Føllenslev",
-"PostCode": "4591",
-"Location": {
-"Latitude": 55.7255,
-"Longitude": 11.3508
-}
-},
-{
-"Name": "Grevinge",
-"PostCode": "4571",
-"Location": {
-"Latitude": 55.8008,
-"Longitude": 11.5516
-}
-},
-{
-"Name": "Højby",
-"PostCode": "4573",
-"Location": {
-"Latitude": 55.9115,
-"Longitude": 11.5976
-}
-},
-{
-"Name": "Hørve",
-"PostCode": "4534",
-"Location": {
-"Latitude": 55.7529,
-"Longitude": 11.453
-}
-},
-{
-"Name": "Nørre Asmindrup",
-"PostCode": "4572",
-"Location": {
-"Latitude": 55.8872,
-"Longitude": 11.623
-}
-},
-{
-"Name": "Nykøbing Sj",
-"PostCode": "4500",
-"Location": {
-"Latitude": 55.7951,
-"Longitude": 11.4991
-}
-},
-{
-"Name": "Rørvig",
-"PostCode": "4581",
-"Location": {
-"Latitude": 55.944,
-"Longitude": 11.7527
-}
-},
-{
-"Name": "Sjællands Odde",
-"PostCode": "4583",
-"Location": {
-"Latitude": 55.944,
-"Longitude": 11.7527
-}
-},
-{
-"Name": "Vig",
-"PostCode": "4560",
-"Location": {
-"Latitude": 55.8508,
-"Longitude": 11.5856
-}
-}
-]
-}
-]
-},
-{
-"Name": "Holbæk Kommune",
-"Code": "316",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Gislinge",
-"PostCode": "4532",
-"Location": {
-"Latitude": 55.7343,
-"Longitude": 11.5484
-}
-},
-{
-"Name": "Holbæk",
-"PostCode": "4300",
-"Location": {
-"Latitude": 55.7135,
-"Longitude": 11.7169
-}
-},
-{
-"Name": "Hvalsø",
-"PostCode": "4330",
-"Location": {
-"Latitude": 55.5917,
-"Longitude": 11.8625
-}
-},
-{
-"Name": "Jyderup",
-"PostCode": "4450",
-"Location": {
-"Latitude": 55.664,
-"Longitude": 11.4203
-}
-},
-{
-"Name": "Kirke Eskilstrup",
-"PostCode": "4360",
-"Location": {
-"Latitude": 55.5746,
-"Longitude": 11.7672
-}
-},
-{
-"Name": "Mørkøv",
-"PostCode": "4440",
-"Location": {
-"Latitude": 55.6517,
-"Longitude": 11.5015
-}
-},
-{
-"Name": "Nyrup",
-"PostCode": "4296",
-"Location": {
-"Latitude": 55.4947,
-"Longitude": 11.3623
-}
-},
-{
-"Name": "Regstrup",
-"PostCode": "4420",
-"Location": {
-"Latitude": 55.6756,
-"Longitude": 11.6157
-}
-},
-{
-"Name": "Ringsted",
-"PostCode": "4100",
-"Location": {
-"Latitude": 55.4426,
-"Longitude": 11.7901
-}
-},
-{
-"Name": "Snertinge",
-"PostCode": "4460",
-"Location": {
-"Latitude": 55.7149,
-"Longitude": 11.3833
-}
-},
-{
-"Name": "Stenlille",
-"PostCode": "4295",
-"Location": {
-"Latitude": 55.5402,
-"Longitude": 11.5915
-}
-},
-{
-"Name": "Store Merløse",
-"PostCode": "4370",
-"Location": {
-"Latitude": 55.5438,
-"Longitude": 11.713
-}
-},
-{
-"Name": "Svebølle",
-"PostCode": "4470",
-"Location": {
-"Latitude": 55.6368,
-"Longitude": 11.3172
-}
-},
-{
-"Name": "Svinninge",
-"PostCode": "4520",
-"Location": {
-"Latitude": 55.7211,
-"Longitude": 11.4655
-}
-},
-{
-"Name": "Tølløse",
-"PostCode": "4340",
-"Location": {
-"Latitude": 55.6125,
-"Longitude": 11.7703
-}
-},
-{
-"Name": "Ugerløse",
-"PostCode": "4350",
-"Location": {
-"Latitude": 55.5871,
-"Longitude": 11.6541
-}
-},
-{
-"Name": "Vipperød",
-"PostCode": "4390",
-"Location": {
-"Latitude": 55.6677,
-"Longitude": 11.7397
-}
-}
-]
-}
-]
-},
-{
-"Name": "Faxe Kommune",
-"Code": "320",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Faxe",
-"PostCode": "4640",
-"Location": {
-"Latitude": 55.2469,
-"Longitude": 12.1176
-}
-},
-{
-"Name": "Faxe Ladeplads",
-"PostCode": "4654",
-"Location": {
-"Latitude": 55.3261,
-"Longitude": 12.2212
-}
-},
-{
-"Name": "Hårlev",
-"PostCode": "4652",
-"Location": {
-"Latitude": 55.3494,
-"Longitude": 12.2338
-}
-},
-{
-"Name": "Haslev",
-"PostCode": "4690",
-"Location": {
-"Latitude": 55.3235,
-"Longitude": 11.9639
-}
-},
-{
-"Name": "Herlufmagle",
-"PostCode": "4160",
-"Location": {
-"Latitude": 55.3132,
-"Longitude": 11.7523
-}
-},
-{
-"Name": "Holmegaard",
-"PostCode": "4684",
-"Location": {
-"Latitude": 55.3411,
-"Longitude": 12.0694
-}
-},
-{
-"Name": "Karise",
-"PostCode": "4653",
-"Location": {
-"Latitude": 55.3028,
-"Longitude": 12.2086
-}
-},
-{
-"Name": "Ringsted",
-"PostCode": "4100",
-"Location": {
-"Latitude": 55.4426,
-"Longitude": 11.7901
-}
-},
-{
-"Name": "Rønnede",
-"PostCode": "4683",
-"Location": {
-"Latitude": 55.2571,
-"Longitude": 12.0212
-}
-},
-{
-"Name": "Tappernøje",
-"PostCode": "4733",
-"Location": {
-"Latitude": 55.165,
-"Longitude": 11.9787
-}
-},
-{
-"Name": "Tureby",
-"PostCode": "4682",
-"Location": {
-"Latitude": 55.373,
-"Longitude": 12.0769
-}
-}
-]
-}
-]
-},
-{
-"Name": "Kalundborg Kommune",
-"Code": "326",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Dianalund",
-"PostCode": "4293",
-"Location": {
-"Latitude": 55.5313,
-"Longitude": 11.4925
-}
-},
-{
-"Name": "Eskebjerg",
-"PostCode": "4593",
-"Location": {
-"Latitude": 55.713,
-"Longitude": 11.3045
-}
-},
-{
-"Name": "Føllenslev",
-"PostCode": "4591",
-"Location": {
-"Latitude": 55.7255,
-"Longitude": 11.3508
-}
-},
-{
-"Name": "Gørlev",
-"PostCode": "4281",
-"Location": {
-"Latitude": 55.5393,
-"Longitude": 11.2271
-}
-},
-{
-"Name": "Høng",
-"PostCode": "4270",
-"Location": {
-"Latitude": 55.5116,
-"Longitude": 11.2903
-}
-},
-{
-"Name": "Hørve",
-"PostCode": "4534",
-"Location": {
-"Latitude": 55.7529,
-"Longitude": 11.453
-}
-},
-{
-"Name": "Jerslev Sjælland",
-"PostCode": "4490",
-"Location": {
-"Latitude": 55.6105,
-"Longitude": 11.2406
-}
-},
-{
-"Name": "Jyderup",
-"PostCode": "4450",
-"Location": {
-"Latitude": 55.664,
-"Longitude": 11.4203
-}
-},
-{
-"Name": "Kalundborg",
-"PostCode": "4400",
-"Location": {
-"Latitude": 55.6795,
-"Longitude": 11.0886
-}
-},
-{
-"Name": "Ruds Vedby",
-"PostCode": "4291",
-"Location": {
-"Latitude": 55.5409,
-"Longitude": 11.3796
-}
-},
-{
-"Name": "Sejerø",
-"PostCode": "4592",
-"Location": {
-"Latitude": 55.7213,
-"Longitude": 11.3354
-}
-},
-{
-"Name": "Slagelse",
-"PostCode": "4200",
-"Location": {
-"Latitude": 55.4028,
-"Longitude": 11.3546
-}
-},
-{
-"Name": "Snertinge",
-"PostCode": "4460",
-"Location": {
-"Latitude": 55.7149,
-"Longitude": 11.3833
-}
-},
-{
-"Name": "Store Fuglede",
-"PostCode": "4480",
-"Location": {
-"Latitude": 55.5852,
-"Longitude": 11.2454
-}
-},
-{
-"Name": "Svebølle",
-"PostCode": "4470",
-"Location": {
-"Latitude": 55.6368,
-"Longitude": 11.3172
-}
-}
-]
-}
-]
-},
-{
-"Name": "Ringsted Kommune",
-"Code": "329",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Borup",
-"PostCode": "4140",
-"Location": {
-"Latitude": 55.4947,
-"Longitude": 11.9758
-}
-},
-{
-"Name": "Fjenneslev",
-"PostCode": "4173",
-"Location": {
-"Latitude": 55.4339,
-"Longitude": 11.688
-}
-},
-{
-"Name": "Haslev",
-"PostCode": "4690",
-"Location": {
-"Latitude": 55.3235,
-"Longitude": 11.9639
-}
-},
-{
-"Name": "Hvalsø",
-"PostCode": "4330",
-"Location": {
-"Latitude": 55.5917,
-"Longitude": 11.8625
-}
-},
-{
-"Name": "Jystrup Midtsj",
-"PostCode": "4174",
-"Location": {
-"Latitude": 55.4082,
-"Longitude": 11.6872
-}
-},
-{
-"Name": "Kirke Eskilstrup",
-"PostCode": "4360",
-"Location": {
-"Latitude": 55.5746,
-"Longitude": 11.7672
-}
-},
-{
-"Name": "Ringsted",
-"PostCode": "4100",
-"Location": {
-"Latitude": 55.4426,
-"Longitude": 11.7901
-}
-},
-{
-"Name": "Sorø",
-"PostCode": "4180",
-"Location": {
-"Latitude": 55.4318,
-"Longitude": 11.5555
-}
-},
-{
-"Name": "Store Merløse",
-"PostCode": "4370",
-"Location": {
-"Latitude": 55.5438,
-"Longitude": 11.713
-}
-}
-]
-}
-]
-},
-{
-"Name": "Slagelse Kommune",
-"Code": "330",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Boeslunde",
-"PostCode": "4242",
-"Location": {
-"Latitude": 55.3008,
-"Longitude": 11.2712
-}
-},
-{
-"Name": "Dalmose",
-"PostCode": "4261",
-"Location": {
-"Latitude": 55.2942,
-"Longitude": 11.4184
-}
-},
-{
-"Name": "Fuglebjerg",
-"PostCode": "4250",
-"Location": {
-"Latitude": 55.306,
-"Longitude": 11.5477
-}
-},
-{
-"Name": "Høng",
-"PostCode": "4270",
-"Location": {
-"Latitude": 55.5116,
-"Longitude": 11.2903
-}
-},
-{
-"Name": "Korsør",
-"PostCode": "4220",
-"Location": {
-"Latitude": 55.3299,
-"Longitude": 11.1386
-}
-},
-{
-"Name": "Munke Bjergby",
-"PostCode": "4190",
-"Location": {
-"Latitude": 55.5037,
-"Longitude": 11.5317
-}
-},
-{
-"Name": "Rude",
-"PostCode": "4243",
-"Location": {
-"Latitude": 55.2307,
-"Longitude": 11.4692
-}
-},
-{
-"Name": "Sandved",
-"PostCode": "4262",
-"Location": {
-"Latitude": 55.263,
-"Longitude": 11.5217
-}
-},
-{
-"Name": "Skælskør",
-"PostCode": "4230",
-"Location": {
-"Latitude": 55.2506,
-"Longitude": 11.2935
-}
-},
-{
-"Name": "Slagelse",
-"PostCode": "4200",
-"Location": {
-"Latitude": 55.4028,
-"Longitude": 11.3546
-}
-},
-{
-"Name": "Sorø",
-"PostCode": "4180",
-"Location": {
-"Latitude": 55.4318,
-"Longitude": 11.5555
-}
-},
-{
-"Name": "Vemmelev",
-"PostCode": "4241",
-"Location": {
-"Latitude": 55.3553,
-"Longitude": 11.2471
-}
-}
-]
-}
-]
-},
-{
-"Name": "Stevns Kommune",
-"Code": "336",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Hårlev",
-"PostCode": "4652",
-"Location": {
-"Latitude": 55.3494,
-"Longitude": 12.2338
-}
-},
-{
-"Name": "Karise",
-"PostCode": "4653",
-"Location": {
-"Latitude": 55.3028,
-"Longitude": 12.2086
-}
-},
-{
-"Name": "Klippinge",
-"PostCode": "4672",
-"Location": {
-"Latitude": 55.3482,
-"Longitude": 12.3258
-}
-},
-{
-"Name": "Køge",
-"PostCode": "4600",
-"Location": {
-"Latitude": 55.458,
-"Longitude": 12.1821
-}
-},
-{
-"Name": "Rødvig Stevns",
-"PostCode": "4673",
-"Location": {
-"Latitude": 55.2554,
-"Longitude": 12.3794
-}
-},
-{
-"Name": "Store Heddinge",
-"PostCode": "4660",
-"Location": {
-"Latitude": 55.3096,
-"Longitude": 12.3888
-}
-},
-{
-"Name": "Strøby",
-"PostCode": "4671",
-"Location": {
-"Latitude": 55.3834,
-"Longitude": 12.2811
-}
-},
-{
-"Name": "Tureby",
-"PostCode": "4682",
-"Location": {
-"Latitude": 55.373,
-"Longitude": 12.0769
-}
-}
-]
-}
-]
-},
-{
-"Name": "Sorø Kommune",
-"Code": "340",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Dianalund",
-"PostCode": "4293",
-"Location": {
-"Latitude": 55.5313,
-"Longitude": 11.4925
-}
-},
-{
-"Name": "Fjenneslev",
-"PostCode": "4173",
-"Location": {
-"Latitude": 55.4339,
-"Longitude": 11.688
-}
-},
-{
-"Name": "Munke Bjergby",
-"PostCode": "4190",
-"Location": {
-"Latitude": 55.5037,
-"Longitude": 11.5317
-}
-},
-{
-"Name": "Nyrup",
-"PostCode": "4296",
-"Location": {
-"Latitude": 55.4947,
-"Longitude": 11.3623
-}
-},
-{
-"Name": "Ringsted",
-"PostCode": "4100",
-"Location": {
-"Latitude": 55.4426,
-"Longitude": 11.7901
-}
-},
-{
-"Name": "Ruds Vedby",
-"PostCode": "4291",
-"Location": {
-"Latitude": 55.5409,
-"Longitude": 11.3796
-}
-},
-{
-"Name": "Slagelse",
-"PostCode": "4200",
-"Location": {
-"Latitude": 55.4028,
-"Longitude": 11.3546
-}
-},
-{
-"Name": "Sorø",
-"PostCode": "4180",
-"Location": {
-"Latitude": 55.4318,
-"Longitude": 11.5555
-}
-},
-{
-"Name": "Stenlille",
-"PostCode": "4295",
-"Location": {
-"Latitude": 55.5402,
-"Longitude": 11.5915
-}
-},
-{
-"Name": "Store Merløse",
-"PostCode": "4370",
-"Location": {
-"Latitude": 55.5438,
-"Longitude": 11.713
-}
-}
-]
-}
-]
-},
-{
-"Name": "Lejre Kommune",
-"Code": "350",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Hvalsø",
-"PostCode": "4330",
-"Location": {
-"Latitude": 55.5917,
-"Longitude": 11.8625
-}
-},
-{
-"Name": "Kirke Hyllinge",
-"PostCode": "4070",
-"Location": {
-"Latitude": 55.7067,
-"Longitude": 11.9002
-}
-},
-{
-"Name": "Kirke Såby",
-"PostCode": "4060",
-"Location": {
-"Latitude": 55.6339,
-"Longitude": 11.8712
-}
-},
-{
-"Name": "Lejre",
-"PostCode": "4320",
-"Location": {
-"Latitude": 55.6046,
-"Longitude": 11.9748
-}
-},
-{
-"Name": "Roskilde",
-"PostCode": "4000",
-"Location": {
-"Latitude": 55.6415,
-"Longitude": 12.0803
-}
-},
-{
-"Name": "Tølløse",
-"PostCode": "4340",
-"Location": {
-"Latitude": 55.6125,
-"Longitude": 11.7703
-}
-}
-]
-}
-]
-},
-{
-"Name": "Lolland Kommune",
-"Code": "360",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Bandholm",
-"PostCode": "4941",
-"Location": {
-"Latitude": 54.8365,
-"Longitude": 11.4831
-}
-},
-{
-"Name": "Dannemare",
-"PostCode": "4983",
-"Location": {
-"Latitude": 54.7624,
-"Longitude": 11.1873
-}
-},
-{
-"Name": "Errindlev",
-"PostCode": "4895",
-"Location": {
-"Latitude": 54.669,
-"Longitude": 11.4951
-}
-},
-{
-"Name": "Fejø",
-"PostCode": "4944",
-"Location": {
-"Latitude": 54.8365,
-"Longitude": 11.4831
-}
-},
-{
-"Name": "Harpelunde",
-"PostCode": "4912",
-"Location": {
-"Latitude": 54.8865,
-"Longitude": 11.0911
-}
-},
-{
-"Name": "Holeby",
-"PostCode": "4960",
-"Location": {
-"Latitude": 54.7115,
-"Longitude": 11.4642
-}
-},
-{
-"Name": "Horslunde",
-"PostCode": "4913",
-"Location": {
-"Latitude": 54.9118,
-"Longitude": 11.2165
-}
-},
-{
-"Name": "Maribo",
-"PostCode": "4930",
-"Location": {
-"Latitude": 54.7766,
-"Longitude": 11.5002
-}
-},
-{
-"Name": "Nakskov",
-"PostCode": "4900",
-"Location": {
-"Latitude": 54.8373,
-"Longitude": 11.1284
-}
-},
-{
-"Name": "Nørreballe",
-"PostCode": "4951",
-"Location": {
-"Latitude": 54.8059,
-"Longitude": 11.4304
-}
-},
-{
-"Name": "Øster Ulslev",
-"PostCode": "4894",
-"Location": {
-"Latitude": 54.6984,
-"Longitude": 11.6267
-}
-},
-{
-"Name": "Rødby",
-"PostCode": "4970",
-"Location": {
-"Latitude": 54.695,
-"Longitude": 11.3888
-}
-},
-{
-"Name": "Søllested",
-"PostCode": "4920",
-"Location": {
-"Latitude": 54.8102,
-"Longitude": 11.2712
-}
-},
-{
-"Name": "Stokkemarke",
-"PostCode": "4952",
-"Location": {
-"Latitude": 54.8381,
-"Longitude": 11.3603
-}
-},
-{
-"Name": "Torrig L",
-"PostCode": "4943",
-"Location": {
-"Latitude": 54.8365,
-"Longitude": 11.4831
-}
-},
-{
-"Name": "Vesterborg",
-"PostCode": "4953",
-"Location": {
-"Latitude": 54.8484,
-"Longitude": 11.2796
-}
-}
-]
-}
-]
-},
-{
-"Name": "Næstved Kommune",
-"Code": "370",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Dalmose",
-"PostCode": "4261",
-"Location": {
-"Latitude": 55.2942,
-"Longitude": 11.4184
-}
-},
-{
-"Name": "Faxe",
-"PostCode": "4640",
-"Location": {
-"Latitude": 55.2469,
-"Longitude": 12.1176
-}
-},
-{
-"Name": "Fuglebjerg",
-"PostCode": "4250",
-"Location": {
-"Latitude": 55.306,
-"Longitude": 11.5477
-}
-},
-{
-"Name": "Glumsø",
-"PostCode": "4171",
-"Location": {
-"Latitude": 55.3568,
-"Longitude": 11.6856
-}
-},
-{
-"Name": "Haslev",
-"PostCode": "4690",
-"Location": {
-"Latitude": 55.3235,
-"Longitude": 11.9639
-}
-},
-{
-"Name": "Herlufmagle",
-"PostCode": "4160",
-"Location": {
-"Latitude": 55.3132,
-"Longitude": 11.7523
-}
-},
-{
-"Name": "Holmegaard",
-"PostCode": "4684",
-"Location": {
-"Latitude": 55.3411,
-"Longitude": 12.0694
-}
-},
-{
-"Name": "Karrebæksminde",
-"PostCode": "4736",
-"Location": {
-"Latitude": 55.1816,
-"Longitude": 11.647
-}
-},
-{
-"Name": "Lundby",
-"PostCode": "4750",
-"Location": {
-"Latitude": 55.1089,
-"Longitude": 11.8747
-}
-},
-{
-"Name": "Næstved",
-"PostCode": "4700",
-"Location": {
-"Latitude": 55.2299,
-"Longitude": 11.7609
-}
-},
-{
-"Name": "Ringsted",
-"PostCode": "4100",
-"Location": {
-"Latitude": 55.4426,
-"Longitude": 11.7901
-}
-},
-{
-"Name": "Rønnede",
-"PostCode": "4683",
-"Location": {
-"Latitude": 55.2571,
-"Longitude": 12.0212
-}
-},
-{
-"Name": "Rude",
-"PostCode": "4243",
-"Location": {
-"Latitude": 55.2307,
-"Longitude": 11.4692
-}
-},
-{
-"Name": "Sandved",
-"PostCode": "4262",
-"Location": {
-"Latitude": 55.263,
-"Longitude": 11.5217
-}
-},
-{
-"Name": "Slagelse",
-"PostCode": "4200",
-"Location": {
-"Latitude": 55.4028,
-"Longitude": 11.3546
-}
-},
-{
-"Name": "Tappernøje",
-"PostCode": "4733",
-"Location": {
-"Latitude": 55.165,
-"Longitude": 11.9787
-}
-}
-]
-}
-]
-},
-{
-"Name": "Guldborgsund Kommune",
-"Code": "376",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Eskilstrup",
-"PostCode": "4863",
-"Location": {
-"Latitude": 54.8557,
-"Longitude": 11.8867
-}
-},
-{
-"Name": "Gedser",
-"PostCode": "4874",
-"Location": {
-"Latitude": 54.5764,
-"Longitude": 11.93
-}
-},
-{
-"Name": "Guldborg",
-"PostCode": "4862",
-"Location": {
-"Latitude": 54.8679,
-"Longitude": 11.7392
-}
-},
-{
-"Name": "Horbelev",
-"PostCode": "4871",
-"Location": {
-"Latitude": 54.823,
-"Longitude": 12.0584
-}
-},
-{
-"Name": "Idestrup",
-"PostCode": "4872",
-"Location": {
-"Latitude": 54.7431,
-"Longitude": 11.9567
-}
-},
-{
-"Name": "Kettinge",
-"PostCode": "4892",
-"Location": {
-"Latitude": 54.6967,
-"Longitude": 11.7283
-}
-},
-{
-"Name": "Maribo",
-"PostCode": "4930",
-"Location": {
-"Latitude": 54.7766,
-"Longitude": 11.5002
-}
-},
-{
-"Name": "Nørre Alslev",
-"PostCode": "4840",
-"Location": {
-"Latitude": 54.8978,
-"Longitude": 11.8841
-}
-},
-{
-"Name": "Nykøbing F",
-"PostCode": "4800",
-"Location": {
-"Latitude": 54.7533,
-"Longitude": 11.8179
-}
-},
-{
-"Name": "Nysted",
-"PostCode": "4880",
-"Location": {
-"Latitude": 54.6651,
-"Longitude": 11.7343
-}
-},
-{
-"Name": "Øster Ulslev",
-"PostCode": "4894",
-"Location": {
-"Latitude": 54.6984,
-"Longitude": 11.6267
-}
-},
-{
-"Name": "Sakskøbing",
-"PostCode": "4990",
-"Location": {
-"Latitude": 54.7997,
-"Longitude": 11.626
-}
-},
-{
-"Name": "Stubbekøbing",
-"PostCode": "4850",
-"Location": {
-"Latitude": 54.8888,
-"Longitude": 12.041
-}
-},
-{
-"Name": "Toreby L",
-"PostCode": "4891",
-"Location": {
-"Latitude": 54.6906,
-"Longitude": 11.6192
-}
-},
-{
-"Name": "Væggerløse",
-"PostCode": "4873",
-"Location": {
-"Latitude": 54.7124,
-"Longitude": 11.9255
-}
-}
-]
-}
-]
-},
-{
-"Name": "Vordingborg Kommune",
-"Code": "390",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Askeby",
-"PostCode": "4792",
-"Location": {
-"Latitude": 54.9239,
-"Longitude": 12.1771
-}
-},
-{
-"Name": "Bogø By",
-"PostCode": "4793",
-"Location": {
-"Latitude": 54.923,
-"Longitude": 12.051
-}
-},
-{
-"Name": "Borre",
-"PostCode": "4791",
-"Location": {
-"Latitude": 54.9959,
-"Longitude": 12.4463
-}
-},
-{
-"Name": "Kalvehave",
-"PostCode": "4771",
-"Location": {
-"Latitude": 54.9973,
-"Longitude": 12.1685
-}
-},
-{
-"Name": "Langebæk",
-"PostCode": "4772",
-"Location": {
-"Latitude": 54.9965,
-"Longitude": 12.0899
-}
-},
-{
-"Name": "Lundby",
-"PostCode": "4750",
-"Location": {
-"Latitude": 55.1089,
-"Longitude": 11.8747
-}
-},
-{
-"Name": "Mern",
-"PostCode": "4735",
-"Location": {
-"Latitude": 55.0482,
-"Longitude": 12.0556
-}
-},
-{
-"Name": "Præstø",
-"PostCode": "4720",
-"Location": {
-"Latitude": 55.1178,
-"Longitude": 12.0573
-}
-},
-{
-"Name": "Stege",
-"PostCode": "4780",
-"Location": {
-"Latitude": 54.987,
-"Longitude": 12.2846
-}
-},
-{
-"Name": "Stensved",
-"PostCode": "4773",
-"Location": {
-"Latitude": 54.9971,
-"Longitude": 12.0298
-}
-},
-{
-"Name": "Tappernøje",
-"PostCode": "4733",
-"Location": {
-"Latitude": 55.165,
-"Longitude": 11.9787
-}
-},
-{
-"Name": "Vordingborg",
-"PostCode": "4760",
-"Location": {
-"Latitude": 55.008,
-"Longitude": 11.9106
-}
-}
-]
 }
 ]
 }
