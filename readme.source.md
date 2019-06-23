@@ -1,4 +1,4 @@
-# CountryLocationData
+# CountryData
 
 Provides a .net wrapper around the [GeoNames Data](https://www.geonames.org/). Also exposes the data as per country json files.s
 
