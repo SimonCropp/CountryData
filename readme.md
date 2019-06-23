@@ -89,7 +89,7 @@ https://github.com/SimonCropp/CountryData/blob/master/Data/countryInfo.json.txt
 
 For example the url for Australia (AU) is:
 
-https://raw.githubusercontent.com/SimonCropp/CountryData/master/Data/PostCodes/au.json.txt
+https://raw.githubusercontent.com/SimonCropp/CountryData/master/Data/PostCodes/AU.json.txt
 
 
 ### Structure
