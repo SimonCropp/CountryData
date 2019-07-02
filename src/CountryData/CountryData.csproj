@@ -10,7 +10,7 @@
     <EmbeddedResource Condition="Exists('..\..\Data\postcodes.zip')" Include="..\..\Data\postcodes.zip" Link="postcodes.zip" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Condition="$(Configuration)=='Release'" Include="Microsoft.SourceLink.GitHub" Version="1.0.0-beta2-19324-01" PrivateAssets="All" />
+    <PackageReference Condition="$(Configuration)=='Release'" Include="Microsoft.SourceLink.GitHub" Version="1.0.0-beta2-19351-01" PrivateAssets="All" />
     <PackageReference Include="System.IO.Compression.ZipFile" Version="4.3.0" />
   </ItemGroup>
 </Project>
