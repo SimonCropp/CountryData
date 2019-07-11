@@ -13,12 +13,8 @@ The NuGets contain a static copy of all data. This data is embedded as resources
 
 https://nuget.org/packages/CountryData/ [![NuGet Status](http://img.shields.io/nuget/v/CountryData.svg?longCache=true&style=flat)](https://www.nuget.org/packages/CountryData/)
 
-    PM> Install-Package CountryData
-
 
 https://nuget.org/packages/CountryData.Bogus/ [![NuGet Status](http://img.shields.io/nuget/v/CountryData.Bogus.svg?longCache=true&style=flat)](https://www.nuget.org/packages/CountryData.Bogus/)
-
-    PM> Install-Package CountryData.Bogus
 
 
 ## Usage
@@ -66,4 +62,4 @@ However many countries do not have data for every level.
 
 ## Icon
 
-<a href="https://thenounproject.com/term/world/956116/" target="_blank">World</a> designed by <a href="https://thenounproject.com/pedrosantospt3" target="_blank">Pedro Santos</a> from The Noun Project
+[World](https://thenounproject.com/term/world/956116/) designed by [Pedro Santos](https://thenounproject.com/pedrosantospt3) from [The Noun Project](https://thenounproject.com/pedrosantospt3).
