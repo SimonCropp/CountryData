@@ -15,6 +15,38 @@
 }
 },
 {
+"Name": "Forest",
+"PostCode": "GY8",
+"Location": {
+"Latitude": 49.4258,
+"Longitude": -2.5919
+}
+},
+{
+"Name": "Saint Andrew",
+"PostCode": "GY6",
+"Location": {
+"Latitude": 49.4519,
+"Longitude": -2.5729
+}
+},
+{
+"Name": "Saint Pierre du Bois",
+"PostCode": "GY7",
+"Location": {
+"Latitude": 49.4456,
+"Longitude": -2.6436
+}
+},
+{
+"Name": "Saint Saviour",
+"PostCode": "GY7",
+"Location": {
+"Latitude": 49.4569,
+"Longitude": -2.6358
+}
+},
+{
 "Name": "St Martin",
 "PostCode": "GY4",
 "Location": {
@@ -31,11 +63,27 @@
 }
 },
 {
+"Name": "Torteval",
+"PostCode": "GY8",
+"Location": {
+"Latitude": 49.4333,
+"Longitude": -2.65
+}
+},
+{
 "Name": "Vale",
 "PostCode": "GY3",
 "Location": {
 "Latitude": 49.4819,
 "Longitude": -2.5377
+}
+},
+{
+"Name": "Vale",
+"PostCode": "GY6",
+"Location": {
+"Latitude": 49.4858,
+"Longitude": -2.5196
 }
 }
 ]

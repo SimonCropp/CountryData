@@ -121,6 +121,11 @@ namespace CountryData
             return LoadLocationData("DZ");
         }
 
+        public static ICountry LoadEstoniaLocationData()
+        {
+            return LoadLocationData("EE");
+        }
+
         public static ICountry LoadSpainLocationData()
         {
             return LoadLocationData("ES");

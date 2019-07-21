@@ -122,6 +122,11 @@ namespace CountryData.Bogus
             return CountryLoader.LoadAlgeriaLocationData();
         }
 
+        public ICountry Estonia()
+        {
+            return CountryLoader.LoadEstoniaLocationData();
+        }
+
         public ICountry Spain()
         {
             return CountryLoader.LoadSpainLocationData();
