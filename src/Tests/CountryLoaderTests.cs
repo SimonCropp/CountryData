@@ -10,14 +10,14 @@ public class CountryLoaderTests :
     public void LoadLocationData()
     {
         var country = CountryLoader.LoadLocationData("PW");
-        ObjectApprover.VerifyWithJson(country);
+        ObjectApprover.Verify(country);
     }
 
     [Fact]
     public void LoadSpecificLocationData()
     {
         var country = CountryLoader.LoadPalauLocationData();
-        ObjectApprover.VerifyWithJson(country);
+        ObjectApprover.Verify(country);
     }
 
     [Fact]
