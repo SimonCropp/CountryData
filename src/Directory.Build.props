@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
   <PropertyGroup>
-    <LangVersion>latest</LangVersion>
     <NoWarn>CS1591</NoWarn>
     <Version>3.4.0</Version>
-    <AssemblyInformationalVersion>$(Version)</AssemblyInformationalVersion>
-    <SignAssembly>true</SignAssembly>
-    <AssemblyOriginatorKeyFile>../key.snk</AssemblyOriginatorKeyFile>
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Copyright>Copyright $([System.DateTime]::UtcNow.ToString(yyyy)). All rights reserved</Copyright>
     <PackageTags>CountryLocationData, Bogus</PackageTags>
     <PackageIconUrl>https://raw.githubusercontent.com/SimonCropp/CountryLocationData/master/icon.png</PackageIconUrl>
     <PackageProjectUrl>https://github.com/SimonCropp/CountryLocationData</PackageProjectUrl>
-    <PackageOutputPath>..\..\nugets</PackageOutputPath>
-    <PublishRepositoryUrl>true</PublishRepositoryUrl>
-    <DebugType>embedded</DebugType>
-    <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="ProjectDefaults" Version="1.0.3" PrivateAssets="All" />
+  </ItemGroup>
 </Project>
