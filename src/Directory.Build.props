@@ -4,10 +4,5 @@
     <NoWarn>CS1591</NoWarn>
     <Version>3.4.0</Version>
     <PackageTags>CountryLocationData, Bogus</PackageTags>
-    <PackageIconUrl>https://raw.githubusercontent.com/SimonCropp/CountryLocationData/master/icon.png</PackageIconUrl>
-    <PackageProjectUrl>https://github.com/SimonCropp/CountryLocationData</PackageProjectUrl>
   </PropertyGroup>
-  <ItemGroup>
-    <PackageReference Include="ProjectDefaults" Version="1.0.3" PrivateAssets="All" />
-  </ItemGroup>
 </Project>
