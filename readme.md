@@ -9,6 +9,20 @@ To change this file edit the source file and then run MarkdownSnippets.
 
 Provides a .net wrapper around the [GeoNames Data](https://www.geonames.org/). Also exposes the data as per country json files.s
 
+<!-- toc -->
+## Contents
+
+  * [NuGets](#nugets)
+  * [Usage](#usage)
+  * [Bogus Usage](#bogus-usage)
+  * [Json Files](#json-files)
+    * [Country Codes](#country-codes)
+    * [Country Information](#country-information)
+    * [Country Location Data](#country-location-data)
+    * [Structure](#structure)
+<!-- endtoc -->
+
+
 
 ## NuGets
 
