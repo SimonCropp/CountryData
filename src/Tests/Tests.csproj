@@ -3,9 +3,9 @@
     <TargetFramework>net472</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="MarkdownSnippets.MsBuild" Version="16.1.1" />
+    <PackageReference Include="MarkdownSnippets.MsBuild" Version="16.2.0" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
-    <PackageReference Include="ObjectApproval" Version="10.0.0" />
+    <PackageReference Include="ObjectApproval" Version="11.0.0" />
     <PackageReference Include="System.IO.Compression" Version="4.3.0" />
     <PackageReference Include="Xunit" Version="2.4.1" />
     <PackageReference Include="XunitLogger" Version="2.4.0" />
@@ -13,7 +13,7 @@
     <PackageReference Include="xunit.runner.visualstudio" Version="2.4.1" />
     <ProjectReference Include="..\CountryData.Bogus\CountryData.Bogus.csproj" />
     <ProjectReference Include="..\CountryData\CountryData.csproj" />
-    <PackageReference Include="ProjectDefaults" Version="1.0.9" PrivateAssets="All" />
+    <PackageReference Include="ProjectDefaults" Version="1.0.10" PrivateAssets="All" />
     <Reference Include="System.Net.Http" />
   </ItemGroup>
 </Project>

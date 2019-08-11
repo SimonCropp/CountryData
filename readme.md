@@ -41,6 +41,7 @@ https://nuget.org/packages/CountryData.Bogus/ [![NuGet Status](http://img.shield
 ## Usage
 
 <!-- snippet: usage -->
+<a id='snippet-usage'/></a>
 ```cs
 // All country info. This is only the country metadata
 // and not all locationData.
@@ -59,13 +60,14 @@ var placeName = place.Name;
 var latitude = place.Location.Latitude;
 var longitude = place.Location.Longitude;
 ```
-<sup>[snippet source](/src/Tests/Snippets.cs#L30-L49)</sup>
+<sup>[snippet source](/src/Tests/Snippets.cs#L30-L49) / [anchor](#snippet-usage)</sup>
 <!-- endsnippet -->
 
 
 ## Bogus Usage
 
 <!-- snippet: bogususage -->
+<a id='snippet-bogususage'/></a>
 ```cs
 var faker = new Faker<Target>()
     .RuleFor(u => u.RandomCountryName, (f, u) => f.Country().Name())
@@ -75,7 +77,7 @@ var faker = new Faker<Target>()
     .RuleFor(u => u.RandomIcelandPostCode, (f, u) => f.Country().Iceland().PostCode());
 var targetInstance = faker.Generate();
 ```
-<sup>[snippet source](/src/Tests/Snippets.cs#L14-L24)</sup>
+<sup>[snippet source](/src/Tests/Snippets.cs#L14-L24) / [anchor](#snippet-bogususage)</sup>
 <!-- endsnippet -->
 
 
