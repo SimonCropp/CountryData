@@ -22,5 +22,13 @@ namespace CountryData
             Guard.AgainstNull(country, nameof(country));
             return country.Communities().SelectMany(x => x.Places);
         }
+
+        public static IReadOnlyDictionary<string, IEnumerator<IPlace>> Postcodes(this ICountry country)
+        {
+            Guard.AgainstNull(country, nameof(country));
+            return country.Places()
+                .GroupBy(x => x.PostCode)
+                .ToDictionary(x => x.Key, x => x.GetEnumerator());
+        }
     }
 }
