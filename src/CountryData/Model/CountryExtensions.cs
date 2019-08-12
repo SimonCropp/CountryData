@@ -23,7 +23,7 @@ namespace CountryData
             return country.Communities().SelectMany(x => x.Places);
         }
 
-        public static IReadOnlyDictionary<string, IEnumerator<IPlace>> Postcodes(this ICountry country)
+        public static IReadOnlyDictionary<string, IEnumerator<IPlace>> PostCodes(this ICountry country)
         {
             Guard.AgainstNull(country, nameof(country));
             return country.Places()
