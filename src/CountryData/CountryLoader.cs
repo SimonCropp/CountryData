@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
+using System.IO;
 using System.IO.Compression;
 using System.Linq;
 using System.Reflection;
@@ -42,17 +43,16 @@ namespace CountryData
                 {
                     throw new Exception($"Could not find data for '{countryCode}'.");
                 }
-                return ConstructCountry(entry,countryCode);
+
+                return ConstructCountry(entry, countryCode);
             }
         }
 
         static Country ConstructCountry(ZipArchiveEntry entry, string countryCode)
         {
-            var countryInfo = CountryInfo.Single(x=>x.Iso == countryCode);
-            var readOnlyList = DeserializeEntry(entry);
-            return new Country
+            var countryInfo = CountryInfo.Single(x => x.Iso == countryCode);
+            var country = new Country
             {
-                States = readOnlyList,
                 Name = countryInfo.Name,
                 Iso = countryInfo.Iso,
                 PostCodeFormat = countryInfo.PostCodeFormat,
@@ -70,6 +70,9 @@ namespace CountryData
                 TopLevelDomain = countryInfo.TopLevelDomain,
                 Languages = countryInfo.Languages
             };
+            var readOnlyList = DeserializeEntry(entry,country);
+            country.States = readOnlyList;
+            return country;
         }
 
         public static void LoadAll()
@@ -85,11 +88,32 @@ namespace CountryData
             }
         }
 
-        static List<State> DeserializeEntry(ZipArchiveEntry entry)
+        static List<State> DeserializeEntry(ZipArchiveEntry entry, Country country)
         {
             using (var entryStream = entry.Open())
             {
-                return Serializer.Deserialize<List<State>>(entryStream);
+                return DeserializeStates(country, entryStream).ToList();
+            }
+        }
+
+        static IEnumerable<State> DeserializeStates(Country country, Stream entryStream)
+        {
+            foreach (var state in Serializer.Deserialize<List<State>>(entryStream))
+            {
+                state.Country = country;
+                foreach (var province in state.Provinces)
+                {
+                    province.State = state;
+                    foreach (var community in province.Communities)
+                    {
+                        community.Province = province;
+                        foreach (var place in community.Places)
+                        {
+                            place.Community = community;
+                        }
+                    }
+                }
+                yield return state;
             }
         }
     }

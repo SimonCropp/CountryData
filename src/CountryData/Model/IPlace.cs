@@ -5,5 +5,6 @@
         string Name { get; }
         string PostCode { get; }
         ILocation Location { get; }
+        ICommunity Community{ get; }
     }
 }

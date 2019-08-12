@@ -22,7 +22,7 @@ public class CountryDataSetTests:
         Assert.NotNull(state);
     }
 
-    public CountryDataSetTests(ITestOutputHelper output) : 
+    public CountryDataSetTests(ITestOutputHelper output) :
         base(output)
     {
     }

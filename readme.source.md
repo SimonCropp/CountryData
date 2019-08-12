@@ -57,7 +57,7 @@ https://raw.githubusercontent.com/SimonCropp/CountryData/master/Data/PostCodes/A
 
 The GeoNames data is structured as:
 
-State > Province > Community > Place
+Country > State > Province > Community > Place
 
 However many countries do not have data for every level.
 

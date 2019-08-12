@@ -17,6 +17,9 @@ namespace CountryData
         public List<Province> Provinces { get; set; } = new List<Province>();
 
         [IgnoreDataMember]
+        public ICountry Country { get; set; }
+
+        [IgnoreDataMember]
         IReadOnlyList<IProvince> IState.Provinces => Provinces;
     }
 }

@@ -18,6 +18,9 @@ namespace CountryData
         public List<Community> Communities { get; set; } = new List<Community>();
 
         [IgnoreDataMember]
+        public IState State { get; set; }
+
+        [IgnoreDataMember]
         IReadOnlyList<ICommunity> IProvince.Communities => Communities;
     }
 }

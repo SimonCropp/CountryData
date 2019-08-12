@@ -13,6 +13,28 @@ public class CountryLoaderTests :
     }
 
     [Fact]
+    public void ReversePropsNotNull()
+    {
+        var country = CountryLoader.LoadAustraliaLocationData();
+        foreach (var state in country.States)
+        {
+            Assert.NotNull(state.Country);
+            foreach (var province in state.Provinces)
+            {
+                Assert.NotNull(province.State);
+                foreach (var community in province.Communities)
+                {
+                    Assert.NotNull(community.Province);
+                    foreach (var place in community.Places)
+                    {
+                        Assert.NotNull(place.Community);
+                    }
+                }
+            }
+        }
+    }
+
+    [Fact]
     public void LoadSpecificLocationData()
     {
         var country = CountryLoader.LoadPalauLocationData();

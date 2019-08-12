@@ -12,6 +12,10 @@ namespace CountryData
         public string Code { get; set; }
         [DataMember]
         public List<Place> Places { get; set; } = new List<Place>();
+
+        [IgnoreDataMember]
+        public IProvince Province { get; set; }
+
         [DataMember]
         public string PostCode { get; set; }
 
