@@ -32,7 +32,7 @@ namespace CountryData
                 .OrderBy(x => x.Name);
         }
 
-        public static IReadOnlyDictionary<string, IEnumerator<IPlace>> PostCodes(this ICountry country)
+        public static IReadOnlyDictionary<string, IReadOnlyList<IPlace>> PostCodes(this ICountry country)
         {
             Guard.AgainstNull(country, nameof(country));
             return country.States
@@ -41,7 +41,7 @@ namespace CountryData
                 .SelectMany(x => x.Places)
                 .GroupBy(x => x.PostCode)
                 .OrderBy(x => x)
-                .ToDictionary(x => x.Key, x => x.GetEnumerator());
+                .ToDictionary(x => x.Key, x => (IReadOnlyList<IPlace>)x.ToList());
         }
     }
 }
