@@ -39,7 +39,7 @@ public class CountryLoaderTests :
     public void PostCodes()
     {
         var country = CountryLoader.LoadAustraliaLocationData();
-        ObjectApprover.Verify( country.PostCodes().First());
+        ObjectApprover.Verify(country.PostCodes().First());
     }
 
     [Fact]
