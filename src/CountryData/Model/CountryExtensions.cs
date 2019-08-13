@@ -8,19 +8,25 @@ namespace CountryData
         public static IEnumerable<IProvince> Provinces(this ICountry country)
         {
             Guard.AgainstNull(country, nameof(country));
-            return country.States.SelectMany(x => x.Provinces);
+            return country.States
+                .SelectMany(x => x.Provinces)
+                .OrderBy(x => x.Name);
         }
 
         public static IEnumerable<ICommunity> Communities(this ICountry country)
         {
             Guard.AgainstNull(country, nameof(country));
-            return country.Provinces().SelectMany(x => x.Communities);
+            return country.Provinces()
+                .SelectMany(x => x.Communities)
+                .OrderBy(x => x.Name);
         }
 
         public static IEnumerable<IPlace> Places(this ICountry country)
         {
             Guard.AgainstNull(country, nameof(country));
-            return country.Communities().SelectMany(x => x.Places);
+            return country.Communities()
+                .SelectMany(x => x.Places)
+                .OrderBy(x => x.Name);
         }
 
         public static IReadOnlyDictionary<string, IEnumerator<IPlace>> PostCodes(this ICountry country)
@@ -28,6 +34,7 @@ namespace CountryData
             Guard.AgainstNull(country, nameof(country));
             return country.Places()
                 .GroupBy(x => x.PostCode)
+                .OrderBy(x => x)
                 .ToDictionary(x => x.Key, x => x.GetEnumerator());
         }
     }
