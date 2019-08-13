@@ -40,7 +40,6 @@ namespace CountryData
                 .SelectMany(x => x.Communities)
                 .SelectMany(x => x.Places)
                 .GroupBy(x => x.PostCode)
-                .OrderBy(x => x)
                 .ToDictionary(x => x.Key, x => (IReadOnlyList<IPlace>)x.ToList());
         }
     }

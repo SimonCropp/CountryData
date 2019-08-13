@@ -1,0 +1,37 @@
+﻿{
+  Key: '2601',
+  Value: [
+    {
+      Name: 'Acton',
+      PostCode: '2601',
+      Location: {
+        Latitude: -35.2816,
+        Longitude: 149.1189
+      }
+    },
+    {
+      Name: 'Black Mountain',
+      PostCode: '2601',
+      Location: {
+        Latitude: -35.2772,
+        Longitude: 149.1054
+      }
+    },
+    {
+      Name: 'Canberra',
+      PostCode: '2601',
+      Location: {
+        Latitude: -35.2835,
+        Longitude: 149.1281
+      }
+    },
+    {
+      Name: 'City',
+      PostCode: '2601',
+      Location: {
+        Latitude: -35.2812,
+        Longitude: 149.1292
+      }
+    }
+  ]
+}

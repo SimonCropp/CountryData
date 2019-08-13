@@ -1,4 +1,5 @@
-﻿using CountryData;
+﻿using System.Linq;
+using CountryData;
 using Xunit;
 using Xunit.Abstractions;
 
@@ -32,6 +33,13 @@ public class CountryLoaderTests :
                 }
             }
         }
+    }
+
+    [Fact]
+    public void PostCodes()
+    {
+        var country = CountryLoader.LoadAustraliaLocationData();
+        ObjectApprover.Verify( country.PostCodes().First());
     }
 
     [Fact]
