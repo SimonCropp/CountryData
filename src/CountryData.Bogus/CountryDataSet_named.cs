@@ -297,6 +297,11 @@ namespace CountryData.Bogus
             return CountryLoader.LoadMaltaLocationData();
         }
 
+        public ICountry Malawi()
+        {
+            return CountryLoader.LoadMalawiLocationData();
+        }
+
         public ICountry Mexico()
         {
             return CountryLoader.LoadMexicoLocationData();

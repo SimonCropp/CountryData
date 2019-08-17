@@ -296,6 +296,11 @@ namespace CountryData
             return LoadLocationData("MT");
         }
 
+        public static ICountry LoadMalawiLocationData()
+        {
+            return LoadLocationData("MW");
+        }
+
         public static ICountry LoadMexicoLocationData()
         {
             return LoadLocationData("MX");

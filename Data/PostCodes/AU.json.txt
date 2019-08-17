@@ -73156,6 +73156,33 @@
 "Code": "SA",
 "Provinces": [
 {
+"Name": "ALICE SPRINGS",
+"PostCode": "0872",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Ernabella",
+"PostCode": "0872",
+"Location": {
+"Latitude": -23.7917,
+"Longitude": 132.6818
+}
+},
+{
+"Name": "Fregon",
+"PostCode": "0872",
+"Location": {
+"Latitude": -26.7639,
+"Longitude": 132.0277
+}
+}
+],
+"PostCode": "0872"
+}
+]
+},
+{
 "Communities": [
 {
 "Places": [
@@ -80768,33 +80795,6 @@
 }
 }
 ]
-}
-]
-},
-{
-"Name": "ALICE SPRINGS",
-"PostCode": "0872",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Ernabella",
-"PostCode": "0872",
-"Location": {
-"Latitude": -23.7917,
-"Longitude": 132.6818
-}
-},
-{
-"Name": "Fregon",
-"PostCode": "0872",
-"Location": {
-"Latitude": -26.7639,
-"Longitude": 132.0277
-}
-}
-],
-"PostCode": "0872"
 }
 ]
 },

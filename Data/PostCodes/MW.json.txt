@@ -1,0 +1,4300 @@
+[
+{
+"Name": "Central Region",
+"Code": "C",
+"Provinces": [
+{
+"Name": "Dedza",
+"Code": "06",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chauma",
+"PostCode": "209102",
+"Location": {
+"Latitude": -14.2627,
+"Longitude": 34.1856
+}
+},
+{
+"Name": "Chilikumwendo",
+"PostCode": "209107",
+"Location": {
+"Latitude": -14.2167,
+"Longitude": 33.95
+}
+},
+{
+"Name": "Dedza Township",
+"PostCode": "209100",
+"Location": {
+"Latitude": -14.2627,
+"Longitude": 34.1856
+}
+},
+{
+"Name": "Kachere",
+"PostCode": "209108",
+"Location": {
+"Latitude": -14.4167,
+"Longitude": 34.1167
+}
+},
+{
+"Name": "Kachindamoto",
+"PostCode": "209104",
+"Location": {
+"Latitude": -14.3606,
+"Longitude": 34.2637
+}
+},
+{
+"Name": "Kamenya Gwaza",
+"PostCode": "209105",
+"Location": {
+"Latitude": -14.3667,
+"Longitude": 34.45
+}
+},
+{
+"Name": "Kaphuka",
+"PostCode": "209106",
+"Location": {
+"Latitude": -14.15,
+"Longitude": 34.1667
+}
+},
+{
+"Name": "Kasumbu",
+"PostCode": "209103",
+"Location": {
+"Latitude": -14.3,
+"Longitude": 34.35
+}
+},
+{
+"Name": "Tambala",
+"PostCode": "209101",
+"Location": {
+"Latitude": -14.0333,
+"Longitude": 34.2333
+}
+}
+]
+}
+]
+},
+{
+"Name": "Dowa",
+"Code": "07",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chakhaza",
+"PostCode": "204101",
+"Location": {
+"Latitude": -13.65,
+"Longitude": 33.7333
+}
+},
+{
+"Name": "Chiwere",
+"PostCode": "204109",
+"Location": {
+"Latitude": -13.7667,
+"Longitude": 34.1333
+}
+},
+{
+"Name": "Dowa BOMA",
+"PostCode": "204100",
+"Location": {
+"Latitude": -13.601,
+"Longitude": 33.8238
+}
+},
+{
+"Name": "Dzoole",
+"PostCode": "204102",
+"Location": {
+"Latitude": -13.5791,
+"Longitude": 33.6588
+}
+},
+{
+"Name": "Kayembe",
+"PostCode": "204103",
+"Location": {
+"Latitude": -13.6331,
+"Longitude": 33.6001
+}
+},
+{
+"Name": "Lumbadzi Township",
+"PostCode": "204108",
+"Location": {
+"Latitude": -13.601,
+"Longitude": 33.8238
+}
+},
+{
+"Name": "Mkukula",
+"PostCode": "204107",
+"Location": {
+"Latitude": -13.7545,
+"Longitude": 33.8265
+}
+},
+{
+"Name": "Mponela",
+"PostCode": "204104",
+"Location": {
+"Latitude": -13.5319,
+"Longitude": 33.7401
+}
+},
+{
+"Name": "Mponela Township",
+"PostCode": "204105",
+"Location": {
+"Latitude": -13.601,
+"Longitude": 33.8238
+}
+},
+{
+"Name": "Msakambewa",
+"PostCode": "204106",
+"Location": {
+"Latitude": -13.5357,
+"Longitude": 33.9178
+}
+}
+]
+}
+]
+},
+{
+"Name": "Kasungu Rural",
+"Code": "09",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chaima",
+"PostCode": "201123",
+"Location": {
+"Latitude": -13.3167,
+"Longitude": 33.4833
+}
+},
+{
+"Name": "Chambwe",
+"PostCode": "201116",
+"Location": {
+"Latitude": -13.2,
+"Longitude": 33.65
+}
+},
+{
+"Name": "Chidzuma",
+"PostCode": "201124",
+"Location": {
+"Latitude": -13.0,
+"Longitude": 33.4167
+}
+},
+{
+"Name": "Chilowamatambe",
+"PostCode": "201115",
+"Location": {
+"Latitude": -13.0,
+"Longitude": 33.4167
+}
+},
+{
+"Name": "Chisemphere",
+"PostCode": "201103",
+"Location": {
+"Latitude": -13.2333,
+"Longitude": 33.4667
+}
+},
+{
+"Name": "Chisikwa",
+"PostCode": "201100",
+"Location": {
+"Latitude": -14.0,
+"Longitude": 33.4833
+}
+},
+{
+"Name": "Chisinga",
+"PostCode": "201102",
+"Location": {
+"Latitude": -13.0,
+"Longitude": 33.4167
+}
+},
+{
+"Name": "Chulu",
+"PostCode": "201104",
+"Location": {
+"Latitude": -12.82,
+"Longitude": 33.3086
+}
+},
+{
+"Name": "Kaluluma",
+"PostCode": "201101",
+"Location": {
+"Latitude": -12.5783,
+"Longitude": 33.5196
+}
+},
+{
+"Name": "Kaomba",
+"PostCode": "201110",
+"Location": {
+"Latitude": -13.1,
+"Longitude": 33.5
+}
+},
+{
+"Name": "Kapelula",
+"PostCode": "201112",
+"Location": {
+"Latitude": -12.9062,
+"Longitude": 33.8019
+}
+},
+{
+"Name": "Kaphaizi",
+"PostCode": "201108",
+"Location": {
+"Latitude": -13.0,
+"Longitude": 33.4167
+}
+},
+{
+"Name": "Kapichira",
+"PostCode": "201113",
+"Location": {
+"Latitude": -12.8833,
+"Longitude": 33.9333
+}
+},
+{
+"Name": "Kasungu National Park",
+"PostCode": "201126",
+"Location": {
+"Latitude": -13.0,
+"Longitude": 33.4167
+}
+},
+{
+"Name": "Kawamba",
+"PostCode": "201121",
+"Location": {
+"Latitude": -13.2969,
+"Longitude": 33.341
+}
+},
+{
+"Name": "Lukwa",
+"PostCode": "201119",
+"Location": {
+"Latitude": -13.1,
+"Longitude": 33.45
+}
+},
+{
+"Name": "M’nyanja",
+"PostCode": "201105",
+"Location": {
+"Latitude": -13.0,
+"Longitude": 33.4167
+}
+},
+{
+"Name": "Mangwazu",
+"PostCode": "201117",
+"Location": {
+"Latitude": -13.0,
+"Longitude": 33.4167
+}
+},
+{
+"Name": "Mawawa",
+"PostCode": "201118",
+"Location": {
+"Latitude": -13.1,
+"Longitude": 33.3833
+}
+},
+{
+"Name": "Mdunga",
+"PostCode": "201114",
+"Location": {
+"Latitude": -12.9863,
+"Longitude": 33.8332
+}
+},
+{
+"Name": "Mphomwa",
+"PostCode": "201107",
+"Location": {
+"Latitude": -12.8075,
+"Longitude": 33.4334
+}
+},
+{
+"Name": "Mwase",
+"PostCode": "201109",
+"Location": {
+"Latitude": -13.0667,
+"Longitude": 33.4333
+}
+},
+{
+"Name": "Njombwa",
+"PostCode": "201120",
+"Location": {
+"Latitude": -13.3,
+"Longitude": 33.5167
+}
+},
+{
+"Name": "Nthunduwala",
+"PostCode": "201122",
+"Location": {
+"Latitude": -13.0,
+"Longitude": 33.4167
+}
+},
+{
+"Name": "Santhe",
+"PostCode": "201125",
+"Location": {
+"Latitude": -13.467,
+"Longitude": 33.3838
+}
+},
+{
+"Name": "Simlemba",
+"PostCode": "201106",
+"Location": {
+"Latitude": -12.7444,
+"Longitude": 33.6745
+}
+},
+{
+"Name": "Wimbe",
+"PostCode": "201111",
+"Location": {
+"Latitude": -12.9765,
+"Longitude": 33.6837
+}
+}
+]
+}
+]
+},
+{
+"Name": "Kasungu Municipality",
+"Code": "09",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Belele",
+"PostCode": "201304",
+"Location": {
+"Latitude": -13.0,
+"Longitude": 33.4167
+}
+},
+{
+"Name": "Bunda",
+"PostCode": "201303",
+"Location": {
+"Latitude": -13.0,
+"Longitude": 33.4167
+}
+},
+{
+"Name": "Chankhanga",
+"PostCode": "201305",
+"Location": {
+"Latitude": -13.0,
+"Longitude": 33.4167
+}
+},
+{
+"Name": "Chimbuna",
+"PostCode": "201310",
+"Location": {
+"Latitude": -13.0,
+"Longitude": 33.4167
+}
+},
+{
+"Name": "Chipala",
+"PostCode": "201301",
+"Location": {
+"Latitude": -13.0,
+"Longitude": 33.4167
+}
+},
+{
+"Name": "Chitete",
+"PostCode": "201308",
+"Location": {
+"Latitude": -13.4167,
+"Longitude": 33.8333
+}
+},
+{
+"Name": "Gundani",
+"PostCode": "201311",
+"Location": {
+"Latitude": -13.05,
+"Longitude": 33.5
+}
+},
+{
+"Name": "Kamvunguti",
+"PostCode": "201309",
+"Location": {
+"Latitude": -13.0,
+"Longitude": 33.4167
+}
+},
+{
+"Name": "Kapalankhwazi",
+"PostCode": "201307",
+"Location": {
+"Latitude": -13.0,
+"Longitude": 33.4167
+}
+},
+{
+"Name": "Kasalika",
+"PostCode": "201306",
+"Location": {
+"Latitude": -13.0333,
+"Longitude": 33.5
+}
+},
+{
+"Name": "Kasungu Central Township",
+"PostCode": "201300",
+"Location": {
+"Latitude": -13.0,
+"Longitude": 33.4167
+}
+},
+{
+"Name": "Mponda",
+"PostCode": "201302",
+"Location": {
+"Latitude": -13.6333,
+"Longitude": 33.45
+}
+}
+]
+}
+]
+},
+{
+"Name": "Lilongwe Rural",
+"Code": "11",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chadza",
+"PostCode": "206110",
+"Location": {
+"Latitude": -14.157,
+"Longitude": 33.8429
+}
+},
+{
+"Name": "Chimutu",
+"PostCode": "206106",
+"Location": {
+"Latitude": -14.0667,
+"Longitude": 33.8167
+}
+},
+{
+"Name": "Chiseka",
+"PostCode": "206117",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Chitekwele",
+"PostCode": "206107",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Chitukula",
+"PostCode": "206105",
+"Location": {
+"Latitude": -13.7819,
+"Longitude": 33.7493
+}
+},
+{
+"Name": "Kabudula",
+"PostCode": "206102",
+"Location": {
+"Latitude": -13.6667,
+"Longitude": 33.4167
+}
+},
+{
+"Name": "Kalolo",
+"PostCode": "206115",
+"Location": {
+"Latitude": -14.0,
+"Longitude": 33.3833
+}
+},
+{
+"Name": "Kalumba",
+"PostCode": "206111",
+"Location": {
+"Latitude": -14.0833,
+"Longitude": 33.8167
+}
+},
+{
+"Name": "Kalumbu",
+"PostCode": "206109",
+"Location": {
+"Latitude": -14.1351,
+"Longitude": 33.9471
+}
+},
+{
+"Name": "Khongoni",
+"PostCode": "206101",
+"Location": {
+"Latitude": -13.8528,
+"Longitude": 33.3737
+}
+},
+{
+"Name": "Malili",
+"PostCode": "206114",
+"Location": {
+"Latitude": -14.0784,
+"Longitude": 33.6959
+}
+},
+{
+"Name": "Masula",
+"PostCode": "206118",
+"Location": {
+"Latitude": -14.1597,
+"Longitude": 33.6943
+}
+},
+{
+"Name": "Masumbankhunda",
+"PostCode": "206116",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Mazengera",
+"PostCode": "206108",
+"Location": {
+"Latitude": -14.0667,
+"Longitude": 33.9667
+}
+},
+{
+"Name": "Mbang’ombe",
+"PostCode": "206104",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Mtema",
+"PostCode": "206103",
+"Location": {
+"Latitude": -13.8167,
+"Longitude": 33.6667
+}
+},
+{
+"Name": "Njewa",
+"PostCode": "206113",
+"Location": {
+"Latitude": -13.9833,
+"Longitude": 33.7167
+}
+},
+{
+"Name": "Tsabango",
+"PostCode": "206112",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+}
+]
+}
+]
+},
+{
+"Name": "Lilongwe Urban",
+"Code": "11",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Area 1",
+"PostCode": "207201",
+"Location": {
+"Latitude": -14.0012,
+"Longitude": 33.7727
+}
+},
+{
+"Name": "Area 10",
+"PostCode": "207210",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 11",
+"PostCode": "207211",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 12",
+"PostCode": "207212",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 13",
+"PostCode": "207213",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 14",
+"PostCode": "207214",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 15",
+"PostCode": "207215",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 16",
+"PostCode": "207216",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 17",
+"PostCode": "207217",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 18",
+"PostCode": "207218",
+"Location": {
+"Latitude": -13.9417,
+"Longitude": 33.766
+}
+},
+{
+"Name": "Area 19",
+"PostCode": "207219",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 2",
+"PostCode": "207202",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 20",
+"PostCode": "207220",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 21",
+"PostCode": "207221",
+"Location": {
+"Latitude": -13.9937,
+"Longitude": 33.8112
+}
+},
+{
+"Name": "Area 22",
+"PostCode": "207222",
+"Location": {
+"Latitude": -14.0116,
+"Longitude": 33.7991
+}
+},
+{
+"Name": "Area 23",
+"PostCode": "207223",
+"Location": {
+"Latitude": -14.0168,
+"Longitude": 33.7941
+}
+},
+{
+"Name": "Area 24",
+"PostCode": "207224",
+"Location": {
+"Latitude": -14.026,
+"Longitude": 33.7956
+}
+},
+{
+"Name": "Area 25",
+"PostCode": "207225",
+"Location": {
+"Latitude": -13.8795,
+"Longitude": 33.7242
+}
+},
+{
+"Name": "Area 26",
+"PostCode": "207226",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 27",
+"PostCode": "207227",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 28",
+"PostCode": "207228",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 29",
+"PostCode": "207229",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 3",
+"PostCode": "207203",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 30",
+"PostCode": "207230",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 31",
+"PostCode": "207231",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 32",
+"PostCode": "207232",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 33",
+"PostCode": "207233",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 34",
+"PostCode": "207234",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 35",
+"PostCode": "207235",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 36",
+"PostCode": "207236",
+"Location": {
+"Latitude": -14.0226,
+"Longitude": 33.7847
+}
+},
+{
+"Name": "Area 37",
+"PostCode": "207237",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 38",
+"PostCode": "207238",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 39",
+"PostCode": "207239",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 4",
+"PostCode": "207204",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 40",
+"PostCode": "207240",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 41",
+"PostCode": "207241",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 42",
+"PostCode": "207242",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 43",
+"PostCode": "207243",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 44",
+"PostCode": "207244",
+"Location": {
+"Latitude": -13.9607,
+"Longitude": 33.8526
+}
+},
+{
+"Name": "Area 45",
+"PostCode": "207245",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 46",
+"PostCode": "207246",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 47",
+"PostCode": "207247",
+"Location": {
+"Latitude": -13.9581,
+"Longitude": 33.7548
+}
+},
+{
+"Name": "Area 48",
+"PostCode": "207248",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 49",
+"PostCode": "207249",
+"Location": {
+"Latitude": -13.9209,
+"Longitude": 33.7467
+}
+},
+{
+"Name": "Area 5",
+"PostCode": "207205",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 50",
+"PostCode": "207250",
+"Location": {
+"Latitude": -13.9096,
+"Longitude": 33.7701
+}
+},
+{
+"Name": "Area 51",
+"PostCode": "207251",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 52",
+"PostCode": "207252",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 53",
+"PostCode": "207253",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 54",
+"PostCode": "207254",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 55",
+"PostCode": "207255",
+"Location": {
+"Latitude": -13.8343,
+"Longitude": 33.7631
+}
+},
+{
+"Name": "Area 56",
+"PostCode": "207256",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 57",
+"PostCode": "207257",
+"Location": {
+"Latitude": -14.0106,
+"Longitude": 33.7022
+}
+},
+{
+"Name": "Area 58",
+"PostCode": "207258",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 6",
+"PostCode": "207206",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 7",
+"PostCode": "207207",
+"Location": {
+"Latitude": -13.987,
+"Longitude": 33.798
+}
+},
+{
+"Name": "Area 8",
+"PostCode": "207208",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+},
+{
+"Name": "Area 9",
+"PostCode": "207209",
+"Location": {
+"Latitude": -14.0196,
+"Longitude": 33.6841
+}
+}
+]
+}
+]
+},
+{
+"Name": "Mchinji",
+"Code": "13",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Dambe",
+"PostCode": "205103",
+"Location": {
+"Latitude": -13.7623,
+"Longitude": 33.08
+}
+},
+{
+"Name": "Gumba",
+"PostCode": "205101",
+"Location": {
+"Latitude": -13.424,
+"Longitude": 33.1102
+}
+},
+{
+"Name": "Kapondo",
+"PostCode": "205107",
+"Location": {
+"Latitude": -13.7623,
+"Longitude": 33.08
+}
+},
+{
+"Name": "Kapunula",
+"PostCode": "205106",
+"Location": {
+"Latitude": -13.5874,
+"Longitude": 32.7819
+}
+},
+{
+"Name": "Kazyozyo",
+"PostCode": "205105",
+"Location": {
+"Latitude": -13.5676,
+"Longitude": 32.8613
+}
+},
+{
+"Name": "Mavwere",
+"PostCode": "205113",
+"Location": {
+"Latitude": -13.7623,
+"Longitude": 33.08
+}
+},
+{
+"Name": "Mchinji BOMA",
+"PostCode": "205100",
+"Location": {
+"Latitude": -13.7623,
+"Longitude": 33.08
+}
+},
+{
+"Name": "Mduwa",
+"PostCode": "205108",
+"Location": {
+"Latitude": -13.7211,
+"Longitude": 33.0853
+}
+},
+{
+"Name": "Mkanda",
+"PostCode": "205102",
+"Location": {
+"Latitude": -13.5147,
+"Longitude": 32.9597
+}
+},
+{
+"Name": "Mlonyeni",
+"PostCode": "205110",
+"Location": {
+"Latitude": -13.8582,
+"Longitude": 33.026
+}
+},
+{
+"Name": "Nyoka",
+"PostCode": "205109",
+"Location": {
+"Latitude": -13.7004,
+"Longitude": 32.9056
+}
+},
+{
+"Name": "Pitala",
+"PostCode": "205104",
+"Location": {
+"Latitude": -13.7623,
+"Longitude": 33.08
+}
+},
+{
+"Name": "Simphasi",
+"PostCode": "205112",
+"Location": {
+"Latitude": -13.7623,
+"Longitude": 33.08
+}
+},
+{
+"Name": "Zulu",
+"PostCode": "205111",
+"Location": {
+"Latitude": -13.8147,
+"Longitude": 32.9688
+}
+}
+]
+}
+]
+},
+{
+"Name": "Ntcheu",
+"Code": "16",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chakhumbira",
+"PostCode": "210102",
+"Location": {
+"Latitude": -14.5667,
+"Longitude": 34.7
+}
+},
+{
+"Name": "Champiti",
+"PostCode": "210108",
+"Location": {
+"Latitude": -14.75,
+"Longitude": 34.75
+}
+},
+{
+"Name": "Goodson Ganya",
+"PostCode": "210103",
+"Location": {
+"Latitude": -14.75,
+"Longitude": 34.75
+}
+},
+{
+"Name": "Kwataine",
+"PostCode": "210105",
+"Location": {
+"Latitude": -14.8333,
+"Longitude": 34.6833
+}
+},
+{
+"Name": "Makwangwala",
+"PostCode": "210106",
+"Location": {
+"Latitude": -14.8,
+"Longitude": 34.7667
+}
+},
+{
+"Name": "Masasa",
+"PostCode": "210101",
+"Location": {
+"Latitude": -14.4359,
+"Longitude": 34.4332
+}
+},
+{
+"Name": "Mkutumula",
+"PostCode": "210107",
+"Location": {
+"Latitude": -14.846,
+"Longitude": 34.8927
+}
+},
+{
+"Name": "Mpando",
+"PostCode": "210109",
+"Location": {
+"Latitude": -13.4333,
+"Longitude": 33.85
+}
+},
+{
+"Name": "Njolomole",
+"PostCode": "210104",
+"Location": {
+"Latitude": -14.6493,
+"Longitude": 34.5579
+}
+},
+{
+"Name": "Ntcheu BOMA",
+"PostCode": "210100",
+"Location": {
+"Latitude": -14.75,
+"Longitude": 34.75
+}
+},
+{
+"Name": "Phambala",
+"PostCode": "210110",
+"Location": {
+"Latitude": -14.1167,
+"Longitude": 33.9667
+}
+},
+{
+"Name": "Tsikulamowa",
+"PostCode": "210111",
+"Location": {
+"Latitude": -14.75,
+"Longitude": 34.75
+}
+}
+]
+}
+]
+},
+{
+"Name": "Nkhota Kota",
+"Code": "18",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Dwangwa Township",
+"PostCode": "202103",
+"Location": {
+"Latitude": -12.8042,
+"Longitude": 34.083
+}
+},
+{
+"Name": "Kafuzila",
+"PostCode": "202101",
+"Location": {
+"Latitude": -12.3,
+"Longitude": 34.0333
+}
+},
+{
+"Name": "Kalimanjira",
+"PostCode": "202106",
+"Location": {
+"Latitude": -12.8042,
+"Longitude": 34.083
+}
+},
+{
+"Name": "Kanyenda",
+"PostCode": "202102",
+"Location": {
+"Latitude": -12.4676,
+"Longitude": 34.0893
+}
+},
+{
+"Name": "Malenga Chanzi",
+"PostCode": "202105",
+"Location": {
+"Latitude": -12.8042,
+"Longitude": 34.083
+}
+},
+{
+"Name": "Mphonde",
+"PostCode": "202104",
+"Location": {
+"Latitude": -12.8011,
+"Longitude": 34.2245
+}
+},
+{
+"Name": "Mwadzama",
+"PostCode": "202107",
+"Location": {
+"Latitude": -13.4116,
+"Longitude": 34.2848
+}
+},
+{
+"Name": "Mwansambo",
+"PostCode": "202108",
+"Location": {
+"Latitude": -13.3093,
+"Longitude": 34.1178
+}
+},
+{
+"Name": "Nkhotakota BOMA",
+"PostCode": "202100",
+"Location": {
+"Latitude": -12.8042,
+"Longitude": 34.083
+}
+},
+{
+"Name": "Nkhotakota Game Reserve",
+"PostCode": "202109",
+"Location": {
+"Latitude": -12.8042,
+"Longitude": 34.083
+}
+}
+]
+}
+]
+},
+{
+"Name": "Ntchisi",
+"Code": "20",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chikho",
+"PostCode": "203107",
+"Location": {
+"Latitude": -13.3839,
+"Longitude": 34.0834
+}
+},
+{
+"Name": "Chilooko",
+"PostCode": "203101",
+"Location": {
+"Latitude": -13.2957,
+"Longitude": 33.908
+}
+},
+{
+"Name": "Kalumo",
+"PostCode": "203105",
+"Location": {
+"Latitude": -13.2957,
+"Longitude": 33.908
+}
+},
+{
+"Name": "Kasakula",
+"PostCode": "203104",
+"Location": {
+"Latitude": -13.35,
+"Longitude": 34.0833
+}
+},
+{
+"Name": "Malenga",
+"PostCode": "203103",
+"Location": {
+"Latitude": -13.3337,
+"Longitude": 33.8904
+}
+},
+{
+"Name": "Ntchisi BOMA",
+"PostCode": "203100",
+"Location": {
+"Latitude": -13.5277,
+"Longitude": 33.9149
+}
+},
+{
+"Name": "Nthondo",
+"PostCode": "203102",
+"Location": {
+"Latitude": -13.25,
+"Longitude": 34.0167
+}
+},
+{
+"Name": "Vuso Jere",
+"PostCode": "203106",
+"Location": {
+"Latitude": -13.2957,
+"Longitude": 33.908
+}
+}
+]
+}
+]
+},
+{
+"Name": "Salima",
+"Code": "22",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chipoka Township",
+"PostCode": "208110",
+"Location": {
+"Latitude": -13.7196,
+"Longitude": 34.4018
+}
+},
+{
+"Name": "Kambalame",
+"PostCode": "208111",
+"Location": {
+"Latitude": -13.7196,
+"Longitude": 34.4018
+}
+},
+{
+"Name": "Kambwiri",
+"PostCode": "208107",
+"Location": {
+"Latitude": -13.7955,
+"Longitude": 34.4081
+}
+},
+{
+"Name": "Karonga",
+"PostCode": "208105",
+"Location": {
+"Latitude": -13.7707,
+"Longitude": 34.4405
+}
+},
+{
+"Name": "Khombedza",
+"PostCode": "208102",
+"Location": {
+"Latitude": -13.7196,
+"Longitude": 34.4018
+}
+},
+{
+"Name": "Kuluunda",
+"PostCode": "208104",
+"Location": {
+"Latitude": -13.7196,
+"Longitude": 34.4018
+}
+},
+{
+"Name": "Maganga",
+"PostCode": "208106",
+"Location": {
+"Latitude": -13.875,
+"Longitude": 34.5778
+}
+},
+{
+"Name": "Msosa",
+"PostCode": "208101",
+"Location": {
+"Latitude": -13.7196,
+"Longitude": 34.4018
+}
+},
+{
+"Name": "Mwanza",
+"PostCode": "208103",
+"Location": {
+"Latitude": -13.6,
+"Longitude": 33.4667
+}
+},
+{
+"Name": "Ndindi",
+"PostCode": "208109",
+"Location": {
+"Latitude": -13.9725,
+"Longitude": 34.5132
+}
+},
+{
+"Name": "Pemba",
+"PostCode": "208108",
+"Location": {
+"Latitude": -13.8199,
+"Longitude": 34.5126
+}
+},
+{
+"Name": "Salima Township",
+"PostCode": "208100",
+"Location": {
+"Latitude": -13.7196,
+"Longitude": 34.4018
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Northern Region",
+"Code": "N",
+"Provinces": [
+{
+"Name": "Chitipa",
+"Code": "04",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Bulambya Songwe",
+"PostCode": "101102",
+"Location": {
+"Latitude": -9.9273,
+"Longitude": 33.4254
+}
+},
+{
+"Name": "Chitipa BOMA",
+"PostCode": "101100",
+"Location": {
+"Latitude": -9.9273,
+"Longitude": 33.4254
+}
+},
+{
+"Name": "Kameme",
+"PostCode": "101101",
+"Location": {
+"Latitude": -9.5667,
+"Longitude": 33.0833
+}
+},
+{
+"Name": "Lwangwa",
+"PostCode": "101105",
+"Location": {
+"Latitude": -9.9273,
+"Longitude": 33.4254
+}
+},
+{
+"Name": "Mwabulambya",
+"PostCode": "101103",
+"Location": {
+"Latitude": -9.9273,
+"Longitude": 33.4254
+}
+},
+{
+"Name": "Mwenemisuku",
+"PostCode": "101104",
+"Location": {
+"Latitude": -9.9273,
+"Longitude": 33.4254
+}
+},
+{
+"Name": "Mwenewenya",
+"PostCode": "101106",
+"Location": {
+"Latitude": -10.1121,
+"Longitude": 33.5742
+}
+},
+{
+"Name": "Nthalire",
+"PostCode": "101108",
+"Location": {
+"Latitude": -10.3349,
+"Longitude": 33.6257
+}
+},
+{
+"Name": "Nthengatenga",
+"PostCode": "101107",
+"Location": {
+"Latitude": -9.9273,
+"Longitude": 33.4254
+}
+},
+{
+"Name": "Wavikaza",
+"PostCode": "101109",
+"Location": {
+"Latitude": -9.9273,
+"Longitude": 33.4254
+}
+}
+]
+}
+]
+},
+{
+"Name": "Karonga",
+"Code": "08",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Karonga",
+"PostCode": "102100",
+"Location": {
+"Latitude": -9.9333,
+"Longitude": 33.9333
+}
+},
+{
+"Name": "Kilupula",
+"PostCode": "102103",
+"Location": {
+"Latitude": -10.1115,
+"Longitude": 33.8815
+}
+},
+{
+"Name": "Kyungu",
+"PostCode": "102104",
+"Location": {
+"Latitude": -10.1115,
+"Longitude": 33.8815
+}
+},
+{
+"Name": "Mwakaboko",
+"PostCode": "102102",
+"Location": {
+"Latitude": -10.1115,
+"Longitude": 33.8815
+}
+},
+{
+"Name": "Mwirang’ombe",
+"PostCode": "102105",
+"Location": {
+"Latitude": -10.1115,
+"Longitude": 33.8815
+}
+},
+{
+"Name": "Songwe",
+"PostCode": "102101",
+"Location": {
+"Latitude": -10.1115,
+"Longitude": 33.8815
+}
+},
+{
+"Name": "Wasambo",
+"PostCode": "102106",
+"Location": {
+"Latitude": -10.1115,
+"Longitude": 33.8815
+}
+}
+]
+}
+]
+},
+{
+"Name": "Mzimba",
+"Code": "15",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chindi",
+"PostCode": "104105",
+"Location": {
+"Latitude": -11.45,
+"Longitude": 33.4167
+}
+},
+{
+"Name": "Ekwendeni Township",
+"PostCode": "104103",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+},
+{
+"Name": "Jaravikuba Munthali",
+"PostCode": "104101",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+},
+{
+"Name": "Jenda Township",
+"PostCode": "104111",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+},
+{
+"Name": "Kampingo Sibande",
+"PostCode": "104106",
+"Location": {
+"Latitude": -11.4833,
+"Longitude": 33.8
+}
+},
+{
+"Name": "Khosolo Gwaza Jere",
+"PostCode": "104113",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+},
+{
+"Name": "Levi Jere",
+"PostCode": "104110",
+"Location": {
+"Latitude": -12.351,
+"Longitude": 33.5664
+}
+},
+{
+"Name": "M’mbelwa",
+"PostCode": "104107",
+"Location": {
+"Latitude": -11.6264,
+"Longitude": 33.6159
+}
+},
+{
+"Name": "Mabulabo",
+"PostCode": "104112",
+"Location": {
+"Latitude": -12.5954,
+"Longitude": 33.6011
+}
+},
+{
+"Name": "Mpherembe",
+"PostCode": "104104",
+"Location": {
+"Latitude": -11.2833,
+"Longitude": 33.6
+}
+},
+{
+"Name": "Mtwalo",
+"PostCode": "104102",
+"Location": {
+"Latitude": -11.3833,
+"Longitude": 33.75
+}
+},
+{
+"Name": "Mzikubola",
+"PostCode": "104109",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+},
+{
+"Name": "Mzimba BOMA",
+"PostCode": "104100",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+},
+{
+"Name": "Mzukuzuku",
+"PostCode": "104108",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+},
+{
+"Name": "Vwaza Marsh Reserve",
+"PostCode": "104114",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+}
+]
+}
+]
+},
+{
+"Name": "Mzuzu",
+"Code": "15",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chasefu",
+"PostCode": "105212",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+},
+{
+"Name": "Chibanja",
+"PostCode": "105205",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+},
+{
+"Name": "Chiputula",
+"PostCode": "105209",
+"Location": {
+"Latitude": -11.4415,
+"Longitude": 34.0165
+}
+},
+{
+"Name": "Hilltop",
+"PostCode": "105208",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+},
+{
+"Name": "Kaningína",
+"PostCode": "105214",
+"Location": {
+"Latitude": -11.4656,
+"Longitude": 34.0207
+}
+},
+{
+"Name": "Katawa",
+"PostCode": "105211",
+"Location": {
+"Latitude": -10.9333,
+"Longitude": 34.0167
+}
+},
+{
+"Name": "Katoto",
+"PostCode": "105206",
+"Location": {
+"Latitude": -11.4592,
+"Longitude": 34.0096
+}
+},
+{
+"Name": "Khorongo",
+"PostCode": "105201",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+},
+{
+"Name": "Lunyangwa",
+"PostCode": "105213",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+},
+{
+"Name": "Lupaso",
+"PostCode": "105202",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+},
+{
+"Name": "Luwinga",
+"PostCode": "105203",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+},
+{
+"Name": "Masasa",
+"PostCode": "105215",
+"Location": {
+"Latitude": -12.0167,
+"Longitude": 34.6167
+}
+},
+{
+"Name": "Mchengautuwa",
+"PostCode": "105204",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+},
+{
+"Name": "Msongwe",
+"PostCode": "105216",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+},
+{
+"Name": "Mzilawaingwe",
+"PostCode": "105210",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+},
+{
+"Name": "Mzuzu CBD",
+"PostCode": "105200",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+},
+{
+"Name": "Zolozolo",
+"PostCode": "105207",
+"Location": {
+"Latitude": -11.8543,
+"Longitude": 33.6078
+}
+}
+]
+}
+]
+},
+{
+"Name": "Nkhata Bay",
+"Code": "17",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Boghoyo",
+"PostCode": "106102",
+"Location": {
+"Latitude": -11.1023,
+"Longitude": 34.2252
+}
+},
+{
+"Name": "Fukamalaza",
+"PostCode": "106108",
+"Location": {
+"Latitude": -11.75,
+"Longitude": 34.2333
+}
+},
+{
+"Name": "Fukamapiri",
+"PostCode": "106112",
+"Location": {
+"Latitude": -11.952,
+"Longitude": 34.1163
+}
+},
+{
+"Name": "Kabunduli",
+"PostCode": "106110",
+"Location": {
+"Latitude": -11.7333,
+"Longitude": 34.0667
+}
+},
+{
+"Name": "M’bwana",
+"PostCode": "106103",
+"Location": {
+"Latitude": -11.653,
+"Longitude": 34.0532
+}
+},
+{
+"Name": "Malanda",
+"PostCode": "106109",
+"Location": {
+"Latitude": -11.8667,
+"Longitude": 34.1667
+}
+},
+{
+"Name": "Malenga Mzoma",
+"PostCode": "106111",
+"Location": {
+"Latitude": -11.9323,
+"Longitude": 34.1334
+}
+},
+{
+"Name": "Mankhambira",
+"PostCode": "106107",
+"Location": {
+"Latitude": -11.7206,
+"Longitude": 34.2958
+}
+},
+{
+"Name": "Mkondowe",
+"PostCode": "106101",
+"Location": {
+"Latitude": -11.0417,
+"Longitude": 34.2127
+}
+},
+{
+"Name": "Mkumbira",
+"PostCode": "106106",
+"Location": {
+"Latitude": -11.653,
+"Longitude": 34.0532
+}
+},
+{
+"Name": "Nkhata Bay BOMA",
+"PostCode": "106100",
+"Location": {
+"Latitude": -11.653,
+"Longitude": 34.0532
+}
+},
+{
+"Name": "Nyaluwanga",
+"PostCode": "106104",
+"Location": {
+"Latitude": -11.653,
+"Longitude": 34.0532
+}
+},
+{
+"Name": "Timbiri",
+"PostCode": "106105",
+"Location": {
+"Latitude": -11.5428,
+"Longitude": 34.192
+}
+},
+{
+"Name": "Zilakoma",
+"PostCode": "106113",
+"Location": {
+"Latitude": -12.0905,
+"Longitude": 34.0557
+}
+}
+]
+}
+]
+},
+{
+"Name": "Rumphi",
+"Code": "21",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chapinduka",
+"PostCode": "103105",
+"Location": {
+"Latitude": -10.8029,
+"Longitude": 33.8052
+}
+},
+{
+"Name": "Chikulamayembe",
+"PostCode": "103109",
+"Location": {
+"Latitude": -10.8029,
+"Longitude": 33.8052
+}
+},
+{
+"Name": "Chisovya",
+"PostCode": "103108",
+"Location": {
+"Latitude": -10.8029,
+"Longitude": 33.8052
+}
+},
+{
+"Name": "Kachulu",
+"PostCode": "103102",
+"Location": {
+"Latitude": -10.8029,
+"Longitude": 33.8052
+}
+},
+{
+"Name": "Katumbi",
+"PostCode": "103110",
+"Location": {
+"Latitude": -10.8125,
+"Longitude": 33.5227
+}
+},
+{
+"Name": "Mwahenga",
+"PostCode": "103107",
+"Location": {
+"Latitude": -10.9167,
+"Longitude": 33.9833
+}
+},
+{
+"Name": "Mwalweni",
+"PostCode": "103101",
+"Location": {
+"Latitude": -10.8029,
+"Longitude": 33.8052
+}
+},
+{
+"Name": "Mwamlowe",
+"PostCode": "103104",
+"Location": {
+"Latitude": -10.8029,
+"Longitude": 33.8052
+}
+},
+{
+"Name": "Mwankhunikira",
+"PostCode": "103106",
+"Location": {
+"Latitude": -10.8029,
+"Longitude": 33.8052
+}
+},
+{
+"Name": "Njikula",
+"PostCode": "103103",
+"Location": {
+"Latitude": -10.8029,
+"Longitude": 33.8052
+}
+},
+{
+"Name": "Nyika National Park",
+"PostCode": "103112",
+"Location": {
+"Latitude": -10.8029,
+"Longitude": 33.8052
+}
+},
+{
+"Name": "Rumphi BOMA",
+"PostCode": "103100",
+"Location": {
+"Latitude": -11.0186,
+"Longitude": 33.8575
+}
+},
+{
+"Name": "Zolekere",
+"PostCode": "103111",
+"Location": {
+"Latitude": -10.8029,
+"Longitude": 33.8052
+}
+}
+]
+}
+]
+},
+{
+"Name": "Likoma",
+"Code": "27",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Likoma BOMA",
+"PostCode": "107100",
+"Location": {
+"Latitude": -12.0607,
+"Longitude": 34.7361
+}
+},
+{
+"Name": "Mkumpha",
+"PostCode": "107101",
+"Location": {
+"Latitude": -12.0607,
+"Longitude": 34.7361
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Southern Region",
+"Code": "S",
+"Provinces": [
+{
+"Name": "Chikwawa",
+"Code": "02",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chapananga",
+"PostCode": "315101",
+"Location": {
+"Latitude": -16.0528,
+"Longitude": 34.7777
+}
+},
+{
+"Name": "Chikwawa BOMA",
+"PostCode": "315100",
+"Location": {
+"Latitude": -16.1667,
+"Longitude": 34.75
+}
+},
+{
+"Name": "Kasisi",
+"PostCode": "315102",
+"Location": {
+"Latitude": -15.9577,
+"Longitude": 34.7718
+}
+},
+{
+"Name": "Katunga",
+"PostCode": "315104",
+"Location": {
+"Latitude": -16.073,
+"Longitude": 34.8196
+}
+},
+{
+"Name": "Lengwe National Park",
+"PostCode": "315114",
+"Location": {
+"Latitude": -16.1667,
+"Longitude": 34.75
+}
+},
+{
+"Name": "Lundu",
+"PostCode": "315107",
+"Location": {
+"Latitude": -15.9841,
+"Longitude": 34.4487
+}
+},
+{
+"Name": "Majete Game Reserve",
+"PostCode": "315115",
+"Location": {
+"Latitude": -16.1667,
+"Longitude": 34.75
+}
+},
+{
+"Name": "Makhwira",
+"PostCode": "315109",
+"Location": {
+"Latitude": -16.1667,
+"Longitude": 34.75
+}
+},
+{
+"Name": "Masache",
+"PostCode": "315113",
+"Location": {
+"Latitude": -16.5667,
+"Longitude": 34.95
+}
+},
+{
+"Name": "Maseya",
+"PostCode": "315105",
+"Location": {
+"Latitude": -16.1667,
+"Longitude": 34.75
+}
+},
+{
+"Name": "Mlilima",
+"PostCode": "315103",
+"Location": {
+"Latitude": -16.1667,
+"Longitude": 34.75
+}
+},
+{
+"Name": "Nchalo Township",
+"PostCode": "315108",
+"Location": {
+"Latitude": -16.1667,
+"Longitude": 34.75
+}
+},
+{
+"Name": "Ndakwela",
+"PostCode": "315106",
+"Location": {
+"Latitude": -16.1667,
+"Longitude": 34.75
+}
+},
+{
+"Name": "Ngabu",
+"PostCode": "315110",
+"Location": {
+"Latitude": -16.4943,
+"Longitude": 34.9115
+}
+},
+{
+"Name": "Ngabu Township",
+"PostCode": "315111",
+"Location": {
+"Latitude": -16.1667,
+"Longitude": 34.75
+}
+},
+{
+"Name": "Ngowe",
+"PostCode": "315112",
+"Location": {
+"Latitude": -16.1667,
+"Longitude": 34.75
+}
+}
+]
+}
+]
+},
+{
+"Name": "Chiradzulu",
+"Code": "03",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chiradzulu BOMA",
+"PostCode": "306100",
+"Location": {
+"Latitude": -15.6746,
+"Longitude": 35.1407
+}
+},
+{
+"Name": "Chitera",
+"PostCode": "306101",
+"Location": {
+"Latitude": -15.7527,
+"Longitude": 35.2158
+}
+},
+{
+"Name": "Kadewere",
+"PostCode": "306105",
+"Location": {
+"Latitude": -15.5,
+"Longitude": 35.3833
+}
+},
+{
+"Name": "Likoswe",
+"PostCode": "306107",
+"Location": {
+"Latitude": -15.7527,
+"Longitude": 35.2158
+}
+},
+{
+"Name": "Mpama",
+"PostCode": "306102",
+"Location": {
+"Latitude": -14.6077,
+"Longitude": 35.469
+}
+},
+{
+"Name": "Mpunga",
+"PostCode": "306108",
+"Location": {
+"Latitude": -14.8,
+"Longitude": 35.5833
+}
+},
+{
+"Name": "Nchema",
+"PostCode": "306103",
+"Location": {
+"Latitude": -15.7527,
+"Longitude": 35.2158
+}
+},
+{
+"Name": "Nkalo",
+"PostCode": "306109",
+"Location": {
+"Latitude": -15.7527,
+"Longitude": 35.2158
+}
+},
+{
+"Name": "Onga",
+"PostCode": "306106",
+"Location": {
+"Latitude": -15.35,
+"Longitude": 35.3833
+}
+},
+{
+"Name": "Sandaraki",
+"PostCode": "306104",
+"Location": {
+"Latitude": -15.7527,
+"Longitude": 35.2158
+}
+}
+]
+}
+]
+},
+{
+"Name": "Luchenza Municipality",
+"Code": "05",
+"PostCode": "309300",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Luchenza Township",
+"PostCode": "309300",
+"Location": {
+"Latitude": -16.1058,
+"Longitude": 35.1506
+}
+}
+],
+"PostCode": "309300"
+}
+]
+},
+{
+"Name": "Thyolo",
+"Code": "05",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Boyidi",
+"PostCode": "310104",
+"Location": {
+"Latitude": -16.1058,
+"Longitude": 35.1506
+}
+},
+{
+"Name": "Bvumbwe",
+"PostCode": "310101",
+"Location": {
+"Latitude": -15.9167,
+"Longitude": 35.0667
+}
+},
+{
+"Name": "Changata",
+"PostCode": "310112",
+"Location": {
+"Latitude": -16.1058,
+"Longitude": 35.1506
+}
+},
+{
+"Name": "Chimaliro",
+"PostCode": "310105",
+"Location": {
+"Latitude": -16.1058,
+"Longitude": 35.1506
+}
+},
+{
+"Name": "Kapichi",
+"PostCode": "310110",
+"Location": {
+"Latitude": -16.1058,
+"Longitude": 35.1506
+}
+},
+{
+"Name": "Kwethemule",
+"PostCode": "310111",
+"Location": {
+"Latitude": -16.1058,
+"Longitude": 35.1506
+}
+},
+{
+"Name": "Mbawela",
+"PostCode": "310113",
+"Location": {
+"Latitude": -16.1058,
+"Longitude": 35.1506
+}
+},
+{
+"Name": "Mphuka",
+"PostCode": "310103",
+"Location": {
+"Latitude": -16.2333,
+"Longitude": 34.6833
+}
+},
+{
+"Name": "Nanseta",
+"PostCode": "310107",
+"Location": {
+"Latitude": -16.1058,
+"Longitude": 35.1506
+}
+},
+{
+"Name": "Nchilamwela",
+"PostCode": "310109",
+"Location": {
+"Latitude": -16.1058,
+"Longitude": 35.1506
+}
+},
+{
+"Name": "Ndalama",
+"PostCode": "310108",
+"Location": {
+"Latitude": -16.1058,
+"Longitude": 35.1506
+}
+},
+{
+"Name": "Ngolongoliwa",
+"PostCode": "310106",
+"Location": {
+"Latitude": -16.1058,
+"Longitude": 35.1506
+}
+},
+{
+"Name": "Nsabwe",
+"PostCode": "310114",
+"Location": {
+"Latitude": -16.3333,
+"Longitude": 35.2167
+}
+},
+{
+"Name": "Thomas",
+"PostCode": "310102",
+"Location": {
+"Latitude": -16.0833,
+"Longitude": 34.55
+}
+},
+{
+"Name": "Thukuta",
+"PostCode": "310115",
+"Location": {
+"Latitude": -16.1058,
+"Longitude": 35.1506
+}
+},
+{
+"Name": "Thyolo BOMA",
+"PostCode": "310100",
+"Location": {
+"Latitude": -16.1058,
+"Longitude": 35.1506
+}
+}
+]
+}
+]
+},
+{
+"Name": "Mangochi Rural",
+"Code": "12",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chilipa",
+"PostCode": "301112",
+"Location": {
+"Latitude": -14.698,
+"Longitude": 34.9779
+}
+},
+{
+"Name": "Chimwala",
+"PostCode": "301113",
+"Location": {
+"Latitude": -14.6386,
+"Longitude": 35.1833
+}
+},
+{
+"Name": "Chiunda",
+"PostCode": "301107",
+"Location": {
+"Latitude": -14.7595,
+"Longitude": 35.3817
+}
+},
+{
+"Name": "Chowe",
+"PostCode": "301104",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+},
+{
+"Name": "Jalasi",
+"PostCode": "301105",
+"Location": {
+"Latitude": -14.3635,
+"Longitude": 35.4454
+}
+},
+{
+"Name": "Katuli",
+"PostCode": "301103",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+},
+{
+"Name": "Lake Malawi National Park",
+"PostCode": "301114",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+},
+{
+"Name": "Lulanga",
+"PostCode": "301100",
+"Location": {
+"Latitude": -14.7833,
+"Longitude": 35.6833
+}
+},
+{
+"Name": "Makanjila",
+"PostCode": "301101",
+"Location": {
+"Latitude": -13.7088,
+"Longitude": 35.0448
+}
+},
+{
+"Name": "Mbwana Nyambi",
+"PostCode": "301106",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+},
+{
+"Name": "Monkey Bay Township",
+"PostCode": "301109",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+},
+{
+"Name": "Mponda",
+"PostCode": "301110",
+"Location": {
+"Latitude": -14.4781,
+"Longitude": 35.2645
+}
+},
+{
+"Name": "Namabvi",
+"PostCode": "301102",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+},
+{
+"Name": "Nankumba",
+"PostCode": "301108",
+"Location": {
+"Latitude": -14.3645,
+"Longitude": 34.8227
+}
+},
+{
+"Name": "Ntonda",
+"PostCode": "301111",
+"Location": {
+"Latitude": -14.5239,
+"Longitude": 35.3744
+}
+}
+]
+}
+]
+},
+{
+"Name": "Mangochi Town",
+"Code": "12",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chigawe",
+"PostCode": "301403",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+},
+{
+"Name": "Chikole",
+"PostCode": "301411",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+},
+{
+"Name": "Kalungu",
+"PostCode": "301406",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+},
+{
+"Name": "Koche",
+"PostCode": "301401",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+},
+{
+"Name": "Mangochi Central Township",
+"PostCode": "301400",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+},
+{
+"Name": "Mikomwa",
+"PostCode": "301404",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+},
+{
+"Name": "Msikisi",
+"PostCode": "301412",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+},
+{
+"Name": "Msukamwere",
+"PostCode": "301407",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+},
+{
+"Name": "Mtumbwasi",
+"PostCode": "301408",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+},
+{
+"Name": "Mwasa",
+"PostCode": "301409",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+},
+{
+"Name": "Ndege",
+"PostCode": "301410",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+},
+{
+"Name": "Nkanamwano",
+"PostCode": "301405",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+},
+{
+"Name": "Thundu",
+"PostCode": "301402",
+"Location": {
+"Latitude": -14.393,
+"Longitude": 35.3466
+}
+}
+]
+}
+]
+},
+{
+"Name": "Nsanje",
+"Code": "19",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Bangula Township",
+"PostCode": "316103",
+"Location": {
+"Latitude": -16.75,
+"Longitude": 35.1667
+}
+},
+{
+"Name": "Chimombo",
+"PostCode": "316108",
+"Location": {
+"Latitude": -17.0167,
+"Longitude": 35.2333
+}
+},
+{
+"Name": "Makoko",
+"PostCode": "316107",
+"Location": {
+"Latitude": -17.0022,
+"Longitude": 35.1912
+}
+},
+{
+"Name": "Malemia",
+"PostCode": "316105",
+"Location": {
+"Latitude": -16.45,
+"Longitude": 34.8833
+}
+},
+{
+"Name": "Mbenje",
+"PostCode": "316102",
+"Location": {
+"Latitude": -16.9804,
+"Longitude": 35.2135
+}
+},
+{
+"Name": "Mlolo",
+"PostCode": "316101",
+"Location": {
+"Latitude": -16.75,
+"Longitude": 35.1667
+}
+},
+{
+"Name": "Mwabvi Game Reserve",
+"PostCode": "316111",
+"Location": {
+"Latitude": -16.75,
+"Longitude": 35.1667
+}
+},
+{
+"Name": "Ndamera",
+"PostCode": "316110",
+"Location": {
+"Latitude": -17.0958,
+"Longitude": 35.219
+}
+},
+{
+"Name": "Ngabu",
+"PostCode": "316106",
+"Location": {
+"Latitude": -16.9654,
+"Longitude": 35.2166
+}
+},
+{
+"Name": "Nsanje BOMA",
+"PostCode": "316100",
+"Location": {
+"Latitude": -16.75,
+"Longitude": 35.1667
+}
+},
+{
+"Name": "Nyachikadza",
+"PostCode": "316109",
+"Location": {
+"Latitude": -17.1167,
+"Longitude": 35.3
+}
+},
+{
+"Name": "Tengani",
+"PostCode": "316104",
+"Location": {
+"Latitude": -16.7333,
+"Longitude": 35.2667
+}
+}
+]
+}
+]
+},
+{
+"Name": "Zomba Rural",
+"Code": "23",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chikowi",
+"PostCode": "304108",
+"Location": {
+"Latitude": -15.4167,
+"Longitude": 35.3
+}
+},
+{
+"Name": "Kuntumanji",
+"PostCode": "304103",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Malemia",
+"PostCode": "304102",
+"Location": {
+"Latitude": -15.2667,
+"Longitude": 35.3667
+}
+},
+{
+"Name": "Mbiza",
+"PostCode": "304111",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Mkumbira",
+"PostCode": "304104",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Mlumbe",
+"PostCode": "304106",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Mwambo",
+"PostCode": "304109",
+"Location": {
+"Latitude": -15.4356,
+"Longitude": 35.5144
+}
+},
+{
+"Name": "Ngwelero",
+"PostCode": "304110",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Nkagula",
+"PostCode": "304105",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Nkapita",
+"PostCode": "304101",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Ntholowa",
+"PostCode": "304107",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Zomba Mountain Reserve",
+"PostCode": "304112",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+}
+]
+}
+]
+},
+{
+"Name": "Zomba Urban",
+"Code": "23",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chinamwali",
+"PostCode": "305211",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Chirunga",
+"PostCode": "305205",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Cobbe",
+"PostCode": "305219",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Malonje",
+"PostCode": "305210",
+"Location": {
+"Latitude": -15.3667,
+"Longitude": 35.35
+}
+},
+{
+"Name": "Mangasanja",
+"PostCode": "305207",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Masongola",
+"PostCode": "305206",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Matawale",
+"PostCode": "305212",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Mponda Bwino",
+"PostCode": "305216",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Mpunga",
+"PostCode": "305214",
+"Location": {
+"Latitude": -14.8,
+"Longitude": 35.5833
+}
+},
+{
+"Name": "Mtiya",
+"PostCode": "305218",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Mulunguzi",
+"PostCode": "305208",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Nandolo",
+"PostCode": "305204",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Ndola",
+"PostCode": "305201",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Old Naisi",
+"PostCode": "305209",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Sadzi",
+"PostCode": "305215",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "St Mary",
+"PostCode": "305203",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Thom Allan",
+"PostCode": "305213",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Three Miles",
+"PostCode": "305217",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Zakazaka",
+"PostCode": "305202",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+},
+{
+"Name": "Zomba CBD",
+"PostCode": "305200",
+"Location": {
+"Latitude": -15.4301,
+"Longitude": 35.4183
+}
+}
+]
+}
+]
+},
+{
+"Name": "Blantyre Rural",
+"Code": "24",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chigaru",
+"PostCode": "311101",
+"Location": {
+"Latitude": -15.3626,
+"Longitude": 34.9397
+}
+},
+{
+"Name": "Chileka",
+"PostCode": "311105",
+"Location": {
+"Latitude": -15.6679,
+"Longitude": 34.9376
+}
+},
+{
+"Name": "Kapeni",
+"PostCode": "311106",
+"Location": {
+"Latitude": -15.785,
+"Longitude": 35.0085
+}
+},
+{
+"Name": "Kuntaja",
+"PostCode": "311104",
+"Location": {
+"Latitude": -15.513,
+"Longitude": 34.4933
+}
+},
+{
+"Name": "Kunthembwe",
+"PostCode": "311103",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Lundu",
+"PostCode": "311102",
+"Location": {
+"Latitude": -15.3833,
+"Longitude": 34.9833
+}
+},
+{
+"Name": "Lunzu Township",
+"PostCode": "311107",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Machinjiri",
+"PostCode": "311109",
+"Location": {
+"Latitude": -15.2325,
+"Longitude": 35.4146
+}
+},
+{
+"Name": "Makata",
+"PostCode": "311108",
+"Location": {
+"Latitude": -15.7872,
+"Longitude": 35.0305
+}
+},
+{
+"Name": "Mpemba",
+"PostCode": "311111",
+"Location": {
+"Latitude": -15.8833,
+"Longitude": 34.95
+}
+},
+{
+"Name": "Somba",
+"PostCode": "311110",
+"Location": {
+"Latitude": -15.8667,
+"Longitude": 34.9667
+}
+}
+]
+}
+]
+},
+{
+"Name": "Blantyre Urban",
+"Code": "24",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Angelogothere",
+"PostCode": "312236",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Bangwe",
+"PostCode": "312231",
+"Location": {
+"Latitude": -15.8226,
+"Longitude": 35.1006
+}
+},
+{
+"Name": "BCA",
+"PostCode": "312233",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Blantyre CBD",
+"PostCode": "312200",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Che Somba",
+"PostCode": "312237",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Chemusa",
+"PostCode": "312209",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Chichiri",
+"PostCode": "312225",
+"Location": {
+"Latitude": -15.8025,
+"Longitude": 35.0475
+}
+},
+{
+"Name": "Chigumula",
+"PostCode": "312238",
+"Location": {
+"Latitude": -15.916,
+"Longitude": 35.0554
+}
+},
+{
+"Name": "Chilobwe",
+"PostCode": "312217",
+"Location": {
+"Latitude": -15.8301,
+"Longitude": 35.0069
+}
+},
+{
+"Name": "Chilomoni",
+"PostCode": "312212",
+"Location": {
+"Latitude": -15.7793,
+"Longitude": 34.9824
+}
+},
+{
+"Name": "Chimwankhunda",
+"PostCode": "312218",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Chinyonga",
+"PostCode": "312226",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Chirimba",
+"PostCode": "312208",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Chitawira",
+"PostCode": "312221",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Chiwembe",
+"PostCode": "312235",
+"Location": {
+"Latitude": -15.8344,
+"Longitude": 35.0509
+}
+},
+{
+"Name": "Kachere",
+"PostCode": "312202",
+"Location": {
+"Latitude": -15.8074,
+"Longitude": 35.0233
+}
+},
+{
+"Name": "Kameza",
+"PostCode": "312207",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Kanjedza",
+"PostCode": "312227",
+"Location": {
+"Latitude": -15.8175,
+"Longitude": 35.0474
+}
+},
+{
+"Name": "Limbe",
+"PostCode": "312229",
+"Location": {
+"Latitude": -15.809,
+"Longitude": 35.0602
+}
+},
+{
+"Name": "Mandala",
+"PostCode": "312224",
+"Location": {
+"Latitude": -15.7937,
+"Longitude": 35.0059
+}
+},
+{
+"Name": "Manja",
+"PostCode": "312219",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Maone",
+"PostCode": "312203",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Mapanga",
+"PostCode": "312201",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Mbayani",
+"PostCode": "312210",
+"Location": {
+"Latitude": -15.7717,
+"Longitude": 35.003
+}
+},
+{
+"Name": "Misesa",
+"PostCode": "312234",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Mount Pleasant",
+"PostCode": "312223",
+"Location": {
+"Latitude": -15.7984,
+"Longitude": 35.0149
+}
+},
+{
+"Name": "Mpingwe",
+"PostCode": "312230",
+"Location": {
+"Latitude": -15.8106,
+"Longitude": 35.0713
+}
+},
+{
+"Name": "Mudi",
+"PostCode": "312228",
+"Location": {
+"Latitude": -15.8012,
+"Longitude": 35.0727
+}
+},
+{
+"Name": "Namiwawa",
+"PostCode": "312213",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Namiyango",
+"PostCode": "312232",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Nancholi",
+"PostCode": "312215",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Naperi",
+"PostCode": "312222",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Ndirande",
+"PostCode": "312205",
+"Location": {
+"Latitude": -15.7697,
+"Longitude": 35.0416
+}
+},
+{
+"Name": "Nkolokosa",
+"PostCode": "312220",
+"Location": {
+"Latitude": -15.8143,
+"Longitude": 35.0031
+}
+},
+{
+"Name": "Nkolokoti",
+"PostCode": "312204",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Nyambadwe",
+"PostCode": "312211",
+"Location": {
+"Latitude": -15.7737,
+"Longitude": 35.022
+}
+},
+{
+"Name": "South Lunzu",
+"PostCode": "312206",
+"Location": {
+"Latitude": -15.6473,
+"Longitude": 34.9396
+}
+},
+{
+"Name": "Sunnyside",
+"PostCode": "312214",
+"Location": {
+"Latitude": -15.7973,
+"Longitude": 34.9955
+}
+},
+{
+"Name": "Zingwangwa",
+"PostCode": "312216",
+"Location": {
+"Latitude": -15.8186,
+"Longitude": 35.0154
+}
+}
+]
+}
+]
+},
+{
+"Name": "Mwanza",
+"Code": "25",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Govati",
+"PostCode": "314103",
+"Location": {
+"Latitude": -15.6334,
+"Longitude": 34.5168
+}
+},
+{
+"Name": "Kanduku",
+"PostCode": "314101",
+"Location": {
+"Latitude": -15.5617,
+"Longitude": 34.5026
+}
+},
+{
+"Name": "Mwanza BOMA",
+"PostCode": "314100",
+"Location": {
+"Latitude": -15.6334,
+"Longitude": 34.5168
+}
+},
+{
+"Name": "Nthache",
+"PostCode": "314102",
+"Location": {
+"Latitude": -15.6334,
+"Longitude": 34.5168
+}
+}
+]
+}
+]
+},
+{
+"Name": "Balaka",
+"Code": "26",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Amidu",
+"PostCode": "302103",
+"Location": {
+"Latitude": -15.0484,
+"Longitude": 35.0591
+}
+},
+{
+"Name": "Balaka",
+"PostCode": "302100",
+"Location": {
+"Latitude": -14.9793,
+"Longitude": 34.9557
+}
+},
+{
+"Name": "Chanthunya",
+"PostCode": "302108",
+"Location": {
+"Latitude": -15.0484,
+"Longitude": 35.0591
+}
+},
+{
+"Name": "Kachenga",
+"PostCode": "302101",
+"Location": {
+"Latitude": -15.0484,
+"Longitude": 35.0591
+}
+},
+{
+"Name": "Kalembo",
+"PostCode": "302102",
+"Location": {
+"Latitude": -14.8446,
+"Longitude": 35.1692
+}
+},
+{
+"Name": "Matola",
+"PostCode": "302105",
+"Location": {
+"Latitude": -14.9473,
+"Longitude": 34.965
+}
+},
+{
+"Name": "Msamala",
+"PostCode": "302107",
+"Location": {
+"Latitude": -15.0484,
+"Longitude": 35.0591
+}
+},
+{
+"Name": "Nkaya",
+"PostCode": "302110",
+"Location": {
+"Latitude": -15.1282,
+"Longitude": 35.0298
+}
+},
+{
+"Name": "Phalula",
+"PostCode": "302109",
+"Location": {
+"Latitude": -15.2244,
+"Longitude": 34.8903
+}
+},
+{
+"Name": "Sawali",
+"PostCode": "302106",
+"Location": {
+"Latitude": -15.0484,
+"Longitude": 35.0591
+}
+},
+{
+"Name": "Toleza",
+"PostCode": "302104",
+"Location": {
+"Latitude": -14.9319,
+"Longitude": 35.0084
+}
+}
+]
+}
+]
+},
+{
+"Name": "Machinga",
+"Code": "28",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chamba",
+"PostCode": "303115",
+"Location": {
+"Latitude": -14.7775,
+"Longitude": 35.3963
+}
+},
+{
+"Name": "Chesale",
+"PostCode": "303103",
+"Location": {
+"Latitude": -14.9458,
+"Longitude": 35.5737
+}
+},
+{
+"Name": "Chikweo",
+"PostCode": "303105",
+"Location": {
+"Latitude": -14.7648,
+"Longitude": 35.6691
+}
+},
+{
+"Name": "Chiwalo",
+"PostCode": "303109",
+"Location": {
+"Latitude": -14.7333,
+"Longitude": 35.5333
+}
+},
+{
+"Name": "Kapoloma",
+"PostCode": "303107",
+"Location": {
+"Latitude": -14.7333,
+"Longitude": 35.5667
+}
+},
+{
+"Name": "Kawinga",
+"PostCode": "303111",
+"Location": {
+"Latitude": -14.85,
+"Longitude": 35.55
+}
+},
+{
+"Name": "Liwonde",
+"PostCode": "303110",
+"Location": {
+"Latitude": -15.0667,
+"Longitude": 35.2254
+}
+},
+{
+"Name": "Liwonde National Park",
+"PostCode": "303118",
+"Location": {
+"Latitude": -14.9458,
+"Longitude": 35.5737
+}
+},
+{
+"Name": "Liwonde Township",
+"PostCode": "303101",
+"Location": {
+"Latitude": -14.9458,
+"Longitude": 35.5737
+}
+},
+{
+"Name": "Machinja BOMA",
+"PostCode": "303100",
+"Location": {
+"Latitude": -14.9458,
+"Longitude": 35.5737
+}
+},
+{
+"Name": "Mkula",
+"PostCode": "303117",
+"Location": {
+"Latitude": -15.1723,
+"Longitude": 35.3115
+}
+},
+{
+"Name": "Mlomba",
+"PostCode": "303112",
+"Location": {
+"Latitude": -15.0379,
+"Longitude": 35.4639
+}
+},
+{
+"Name": "Mposa",
+"PostCode": "303114",
+"Location": {
+"Latitude": -15.1667,
+"Longitude": 35.5167
+}
+},
+{
+"Name": "Nchinguza",
+"PostCode": "303106",
+"Location": {
+"Latitude": -14.9458,
+"Longitude": 35.5737
+}
+},
+{
+"Name": "Ngokwe",
+"PostCode": "303104",
+"Location": {
+"Latitude": -14.75,
+"Longitude": 35.6167
+}
+},
+{
+"Name": "Nkoola",
+"PostCode": "303108",
+"Location": {
+"Latitude": -14.9458,
+"Longitude": 35.5737
+}
+},
+{
+"Name": "Nsanama",
+"PostCode": "303113",
+"Location": {
+"Latitude": -14.9667,
+"Longitude": 35.5167
+}
+},
+{
+"Name": "Nyambi",
+"PostCode": "303102",
+"Location": {
+"Latitude": -14.6597,
+"Longitude": 35.6276
+}
+},
+{
+"Name": "Sitola",
+"PostCode": "303116",
+"Location": {
+"Latitude": -14.9458,
+"Longitude": 35.5737
+}
+}
+]
+}
+]
+},
+{
+"Name": "Mulanje",
+"Code": "29",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chikumbu",
+"PostCode": "308104",
+"Location": {
+"Latitude": -15.4667,
+"Longitude": 35.35
+}
+},
+{
+"Name": "Juma",
+"PostCode": "308101",
+"Location": {
+"Latitude": -14.6167,
+"Longitude": 35.6
+}
+},
+{
+"Name": "Laston Njema",
+"PostCode": "308108",
+"Location": {
+"Latitude": -15.9344,
+"Longitude": 35.4999
+}
+},
+{
+"Name": "Mabuka",
+"PostCode": "308106",
+"Location": {
+"Latitude": -15.9344,
+"Longitude": 35.4999
+}
+},
+{
+"Name": "Mulanje BOMA",
+"PostCode": "308100",
+"Location": {
+"Latitude": -16.0316,
+"Longitude": 35.5
+}
+},
+{
+"Name": "Mulanje Mountain Reserve",
+"PostCode": "308109",
+"Location": {
+"Latitude": -15.9344,
+"Longitude": 35.4999
+}
+},
+{
+"Name": "Nkanda",
+"PostCode": "308102",
+"Location": {
+"Latitude": -15.9344,
+"Longitude": 35.4999
+}
+},
+{
+"Name": "Nthiramanja",
+"PostCode": "308103",
+"Location": {
+"Latitude": -15.9344,
+"Longitude": 35.4999
+}
+},
+{
+"Name": "Sunganinzeru",
+"PostCode": "308107",
+"Location": {
+"Latitude": -15.9344,
+"Longitude": 35.4999
+}
+},
+{
+"Name": "Tombondiya",
+"PostCode": "308105",
+"Location": {
+"Latitude": -15.9344,
+"Longitude": 35.4999
+}
+}
+]
+}
+]
+},
+{
+"Name": "Phalombe",
+"Code": "30",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chiwalo",
+"PostCode": "307102",
+"Location": {
+"Latitude": -14.7333,
+"Longitude": 35.5333
+}
+},
+{
+"Name": "Jenala",
+"PostCode": "307103",
+"Location": {
+"Latitude": -15.6667,
+"Longitude": 35.6667
+}
+},
+{
+"Name": "Kaduya",
+"PostCode": "307105",
+"Location": {
+"Latitude": -15.6667,
+"Longitude": 35.6667
+}
+},
+{
+"Name": "Migowi Township",
+"PostCode": "307101",
+"Location": {
+"Latitude": -15.6667,
+"Longitude": 35.6667
+}
+},
+{
+"Name": "Mkhumba",
+"PostCode": "307104",
+"Location": {
+"Latitude": -15.6667,
+"Longitude": 35.6667
+}
+},
+{
+"Name": "Nazombe",
+"PostCode": "307106",
+"Location": {
+"Latitude": -15.6667,
+"Longitude": 35.6667
+}
+},
+{
+"Name": "Nkhulambe",
+"PostCode": "307107",
+"Location": {
+"Latitude": -15.6667,
+"Longitude": 35.6667
+}
+},
+{
+"Name": "Phalombe BOMA",
+"PostCode": "307100",
+"Location": {
+"Latitude": -15.6667,
+"Longitude": 35.6667
+}
+}
+]
+}
+]
+},
+{
+"Name": "Neno",
+"Code": "31",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chekucheku",
+"PostCode": "313102",
+"Location": {
+"Latitude": -15.4505,
+"Longitude": 34.7003
+}
+},
+{
+"Name": "Dambe",
+"PostCode": "313101",
+"Location": {
+"Latitude": -15.3819,
+"Longitude": 34.5709
+}
+},
+{
+"Name": "Mlauli",
+"PostCode": "313105",
+"Location": {
+"Latitude": -15.4761,
+"Longitude": 34.6363
+}
+},
+{
+"Name": "Neno BOMA",
+"PostCode": "313100",
+"Location": {
+"Latitude": -15.4505,
+"Longitude": 34.7003
+}
+},
+{
+"Name": "Symon Likongwe",
+"PostCode": "313103",
+"Location": {
+"Latitude": -15.4505,
+"Longitude": 34.7003
+}
+},
+{
+"Name": "Zalewa Township",
+"PostCode": "313104",
+"Location": {
+"Latitude": -15.4505,
+"Longitude": 34.7003
+}
+}
+]
+}
+]
+}
+]
+}
+]
