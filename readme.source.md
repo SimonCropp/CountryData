@@ -1,4 +1,4 @@
-# <img src="/src/icon.png" height="40px"> CountryData
+# <img src="/src/icon.png" height="30px"> CountryData
 
 [![Build status](https://ci.appveyor.com/api/projects/status/bb8461c5js69pn4x/branch/master?svg=true)](https://ci.appveyor.com/project/SimonCropp/australianelectorates/branch/master) [![NuGet Status](http://img.shields.io/nuget/v/CountryData.svg?cacheSeconds=86400)](https://www.nuget.org/packages/CountryData/)
 
