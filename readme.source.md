@@ -1,6 +1,6 @@
 # <img src="/src/icon.png" height="30px"> CountryData
 
-[![Build status](https://ci.appveyor.com/api/projects/status/bb8461c5js69pn4x/branch/master?svg=true)](https://ci.appveyor.com/project/SimonCropp/australianelectorates/branch/master) [![NuGet Status](https://img.shields.io/nuget/v/CountryData.svg?cacheSeconds=86400)](https://www.nuget.org/packages/CountryData/)
+[![Build status](https://ci.appveyor.com/api/projects/status/bb8461c5js69pn4x/branch/master?svg=true)](https://ci.appveyor.com/project/SimonCropp/australianelectorates) [![NuGet Status](https://img.shields.io/nuget/v/CountryData.svg?cacheSeconds=86400)](https://www.nuget.org/packages/CountryData/)
 
 Provides a .net wrapper around the [GeoNames Data](https://www.geonames.org/). Also exposes the data as per country json files.
 
