@@ -5,9 +5,11 @@ Source File: /readme.source.md
 To change this file edit the source file and then run MarkdownSnippets.
 -->
 
-# CountryData
+# <img src="/src/icon.png" height="40px"> CountryData
 
-Provides a .net wrapper around the [GeoNames Data](https://www.geonames.org/). Also exposes the data as per country json files.s
+[![Build status](https://ci.appveyor.com/api/projects/status/bb8461c5js69pn4x/branch/master?svg=true)](https://ci.appveyor.com/project/SimonCropp/australianelectorates/branch/master) [![NuGet Status](http://img.shields.io/nuget/v/CountryData.svg?cacheSeconds=86400)](https://www.nuget.org/packages/CountryData/)
+
+Provides a .net wrapper around the [GeoNames Data](https://www.geonames.org/). Also exposes the data as per country json files.
 
 <!-- toc -->
 ## Contents
@@ -32,10 +34,9 @@ The NuGets contain a static copy of all data. This data is embedded as resources
  * [Using NuGet wildcards](https://docs.microsoft.com/en-us/nuget/reference/package-versioning#version-ranges-and-wildcards).
  * [Libraries.io](https://libraries.io/) supports subscribing to NuGet package updates.
 
-https://nuget.org/packages/CountryData/ [![NuGet Status](http://img.shields.io/nuget/v/CountryData.svg?longCache=true&style=flat)](https://www.nuget.org/packages/CountryData/)
+https://nuget.org/packages/CountryData/
 
-
-https://nuget.org/packages/CountryData.Bogus/ [![NuGet Status](http://img.shields.io/nuget/v/CountryData.Bogus.svg?longCache=true&style=flat)](https://www.nuget.org/packages/CountryData.Bogus/)
+https://nuget.org/packages/CountryData.Bogus/
 
 
 ## Usage
@@ -112,6 +113,11 @@ The GeoNames data is structured as:
 Country > State > Province > Community > Place
 
 However many countries do not have data for every level.
+
+
+## Release Notes
+
+See [closed milestones](../../milestones?state=closed).
 
 
 ## Icon
