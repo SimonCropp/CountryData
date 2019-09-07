@@ -3,7 +3,7 @@ using Xunit;
 using Xunit.Abstractions;
 
 public class CountryDataSetTests:
-    XunitLoggingBase
+    XunitApprovalBase
 {
     [Fact]
     public void Simple()
