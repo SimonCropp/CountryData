@@ -6,8 +6,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="..\CountryData\Guard.cs" Link="Guard.cs" />
-  </ItemGroup>
-  <ItemGroup>
+
     <PackageReference Include="Bogus" Version="28.2.1" />
     <ProjectReference Include="..\CountryData\CountryData.csproj" />
     <PackageReference Include="ProjectDefaults" Version="1.0.24" PrivateAssets="All" />
