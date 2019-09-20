@@ -1856,6 +1856,14 @@
 }
 },
 {
+"Name": "Whistler",
+"PostCode": "V8E",
+"Location": {
+"Latitude": 50.1182,
+"Longitude": -122.954
+}
+},
+{
 "Name": "White Rock",
 "PostCode": "V4B",
 "Location": {
@@ -3649,6 +3657,26 @@
 }
 }
 ]
+}
+]
+},
+{
+"Name": "Taché",
+"Code": "6160992",
+"PostCode": "R5K",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Lorette",
+"PostCode": "R5K",
+"Location": {
+"Latitude": 49.7392,
+"Longitude": -96.8723
+}
+}
+],
+"PostCode": "R5K"
 }
 ]
 }
@@ -13376,6 +13404,21 @@
 }
 ],
 "PostCode": "G3N"
+},
+{
+"Name": "Shannon",
+"Code": "22020",
+"Places": [
+{
+"Name": "Shannon",
+"PostCode": "G3S",
+"Location": {
+"Latitude": 46.8803,
+"Longitude": -71.5146
+}
+}
+],
+"PostCode": "G3S"
 },
 {
 "Name": "Stoneham-et-Tewkesbury",
