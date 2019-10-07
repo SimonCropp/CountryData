@@ -1,26 +1,26 @@
 ﻿using System.Collections.Generic;
 using System.Runtime.Serialization;
+using System.Text.Json.Serialization;
 
 namespace CountryData
 {
-    [DataContract]
-    public class Province : IProvince
+    public interface IProvince
     {
-        [DataMember]
+        string Name { get; }
+        string? Code { get; }
+        string? PostCode { get; }
+        IReadOnlyList<ICommunity> Communities { get; }
+        IState State { get; }
+    }
+
+    class Province :
+        IProvince
+    {
         public string Name { get; set; } = null!;
-        [DataMember]
         public string? Code { get; set; }
-
-        [DataMember]
         public string? PostCode { get; set; }
-
-        [DataMember]
-        public List<Community> Communities { get; set; } = new List<Community>();
-
-        [IgnoreDataMember]
+        public IReadOnlyList<ICommunity> Communities { get; set; } = null!;
+        [JsonIgnore][IgnoreDataMember]
         public IState State { get; set; } = null!;
-
-        [IgnoreDataMember]
-        IReadOnlyList<ICommunity> IProvince.Communities => Communities;
     }
 }

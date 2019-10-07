@@ -1,9 +1,30 @@
 ﻿using System.Collections.Generic;
-using System.Runtime.Serialization;
 
 namespace CountryData
 {
-    public class Country : ICountry
+    public interface ICountry
+    {
+        string Name { get; }
+        string Iso { get; }
+        string Iso3 { get; }
+        ushort IsoNumeric { get; }
+        string Fips { get; }
+        string Capital { get; }
+        double Area { get; }
+        uint Population { get; }
+        string Continent { get; }
+        string TopLevelDomain { get; }
+        string CurrencyCode { get; }
+        string CurrencyName { get; }
+        string PhonePrefix { get; }
+        string PostCodeFormat { get; }
+        string PostCodeRegex { get; }
+        IReadOnlyList<string> Languages { get; }
+        IReadOnlyList<IState> States { get; }
+    }
+
+    class Country :
+        ICountry
     {
         public string Name { get; set; } = null!;
         public string Iso { get; set; } = null!;
@@ -21,8 +42,6 @@ namespace CountryData
         public string PostCodeFormat { get; set; } = null!;
         public string PostCodeRegex { get; set; } = null!;
         public IReadOnlyList<string> Languages { get; set; } = null!;
-        public IReadOnlyList<State> States { get; set; } = null!;
-        [IgnoreDataMember]
-        IReadOnlyList<IState> ICountry.States => States;
+        public IReadOnlyList<IState> States { get; set; } = null!;
     }
 }

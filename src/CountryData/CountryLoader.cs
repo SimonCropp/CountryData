@@ -16,10 +16,8 @@ namespace CountryData
         static CountryLoader()
         {
             assembly = typeof(CountryLoader).Assembly;
-            using (var stream = assembly.GetManifestResourceStream("CountryData.countryInfo.json.txt"))
-            {
-                CountryInfo = Serializer.Deserialize<List<CountryInfo>>(stream);
-            }
+            using var stream = assembly.GetManifestResourceStream("CountryData.countryInfo.json.txt");
+            CountryInfo = Serializer.Deserialize<List<CountryInfo>>(stream);
         }
 
         public static IReadOnlyList<ICountryInfo> CountryInfo { get; }
@@ -35,17 +33,15 @@ namespace CountryData
 
         static Country Inner(string countryCode)
         {
-            using (var stream = assembly.GetManifestResourceStream("CountryData.postcodes.zip"))
-            using (var archive = new ZipArchive(stream))
+            using var stream = assembly.GetManifestResourceStream("CountryData.postcodes.zip");
+            using var archive = new ZipArchive(stream);
+            var entry = archive.Entries.SingleOrDefault(x => x.Name == $"{countryCode}.json.txt");
+            if (entry == null)
             {
-                var entry = archive.Entries.SingleOrDefault(x => x.Name == $"{countryCode}.json.txt");
-                if (entry == null)
-                {
-                    throw new Exception($"Could not find data for '{countryCode}'.");
-                }
-
-                return ConstructCountry(entry, countryCode);
+                throw new Exception($"Could not find data for '{countryCode}'.");
             }
+
+            return ConstructCountry(entry, countryCode);
         }
 
         static Country ConstructCountry(ZipArchiveEntry entry, string countryCode)
@@ -77,23 +73,19 @@ namespace CountryData
 
         public static void LoadAll()
         {
-            using (var stream = assembly.GetManifestResourceStream("CountryData.postcodes.zip"))
-            using (var archive = new ZipArchive(stream))
+            using var stream = assembly.GetManifestResourceStream("CountryData.postcodes.zip");
+            using var archive = new ZipArchive(stream);
+            foreach (var entry in archive.Entries)
             {
-                foreach (var entry in archive.Entries)
-                {
-                    var countryCode = entry.Name.Split('.').First();
-                    cache[countryCode] = ConstructCountry(entry, countryCode);
-                }
+                var countryCode = entry.Name.Split('.').First();
+                cache[countryCode] = ConstructCountry(entry, countryCode);
             }
         }
 
         static List<State> DeserializeEntry(ZipArchiveEntry entry, Country country)
         {
-            using (var entryStream = entry.Open())
-            {
-                return DeserializeStates(country, entryStream).ToList();
-            }
+            using var entryStream = entry.Open();
+            return DeserializeStates(country, entryStream).ToList();
         }
 
         static IEnumerable<State> DeserializeStates(Country country, Stream entryStream)
@@ -103,13 +95,13 @@ namespace CountryData
                 state.Country = country;
                 foreach (var province in state.Provinces)
                 {
-                    province.State = state;
+                    ((Province)province).State = state;
                     foreach (var community in province.Communities)
                     {
-                        community.Province = province;
+                        ((Community)community).Province = province;
                         foreach (var place in community.Places)
                         {
-                            place.Community = community;
+                            ((Place)place).Community = community;
                         }
                     }
                 }

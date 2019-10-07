@@ -1,21 +1,23 @@
 ﻿using System.Runtime.Serialization;
+using System.Text.Json.Serialization;
 
 namespace CountryData
 {
-    [DataContract]
-    public class Place : IPlace
+    public interface IPlace
     {
-        [DataMember]
+        string? Name { get; }
+        string PostCode { get; }
+        ILocation Location { get; }
+        ICommunity Community { get; }
+    }
+
+    class Place :
+        IPlace
+    {
         public string? Name { get; set; }
-        [DataMember]
         public string PostCode { get; set; } = null!;
-        [DataMember]
-        public Location Location { get; set; } = null!;
-
-        [IgnoreDataMember]
+        public ILocation Location { get; set; } = null!;
+        [JsonIgnore][IgnoreDataMember]
         public ICommunity Community { get; set; } = null!;
-
-        [IgnoreDataMember]
-        ILocation IPlace.Location => Location;
     }
 }

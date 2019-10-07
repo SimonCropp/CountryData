@@ -1,13 +1,15 @@
-﻿using System.Runtime.Serialization;
-
-namespace CountryData
+﻿namespace CountryData
 {
-    [DataContract]
-    public class Location : ILocation
+    public interface ILocation
     {
-        [DataMember]
+        double Latitude { get; }
+        double Longitude { get; }
+    }
+
+    class Location :
+        ILocation
+    {
         public double Latitude { get; set; }
-        [DataMember]
         public double Longitude { get; set; }
     }
 }

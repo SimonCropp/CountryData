@@ -1,46 +1,45 @@
 ﻿using System.Collections.Generic;
-using System.Runtime.Serialization;
 
 namespace CountryData
 {
-    [DataContract]
-    public class CountryInfo : ICountryInfo
+    public interface ICountryInfo
     {
-        [DataMember]
+        string Name { get; }
+        string Iso { get; }
+        string Iso3 { get; }
+        ushort IsoNumeric { get; }
+        string Fips { get; }
+        string Capital { get; }
+        double Area { get; }
+        uint Population { get; }
+        string Continent { get; }
+        string TopLevelDomain { get; }
+        string CurrencyCode { get; }
+        string CurrencyName { get; }
+        string PhonePrefix { get; }
+        string PostCodeFormat { get; }
+        string PostCodeRegex { get; }
+        IReadOnlyList<string> Languages { get; }
+    }
+
+    class CountryInfo :
+        ICountryInfo
+    {
         public string Name { get; set; } = null!;
-        [DataMember]
         public string Iso { get; set; } = null!;
-        [DataMember]
         public string Iso3 { get; set; } = null!;
-        [DataMember]
         public ushort IsoNumeric { get; set; }
-        [DataMember]
         public string Fips { get; set; } = null!;
-        [DataMember]
         public string Capital { get; set; } = null!;
-        [DataMember]
         public double Area { get; set; }
-        [DataMember]
         public uint Population { get; set; }
-        [DataMember]
         public string Continent { get; set; } = null!;
-        [DataMember]
         public string TopLevelDomain { get; set; } = null!;
-        [DataMember]
         public string CurrencyCode { get; set; } = null!;
-        [DataMember]
         public string CurrencyName { get; set; } = null!;
-        [DataMember]
         public string PhonePrefix { get; set; } = null!;
-        [DataMember]
         public string PostCodeFormat { get; set; } = null!;
-        [DataMember]
         public string PostCodeRegex { get; set; } = null!;
-
-        [DataMember]
-        public List<string> Languages { get; set; } = null!;
-
-        [IgnoreDataMember]
-        IReadOnlyList<string> ICountryInfo.Languages => Languages;
+        public IReadOnlyList<string> Languages { get; set; } = null!;
     }
 }
