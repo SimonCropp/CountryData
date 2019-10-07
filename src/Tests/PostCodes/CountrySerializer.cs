@@ -70,7 +70,7 @@ static class CountrySerializer
         return states;
     }
 
-    static string RollupPostcodes(IEnumerable<string> postcodes)
+    static string? RollupPostcodes(IEnumerable<string?> postcodes)
     {
         // ReSharper disable PossibleMultipleEnumeration
         var firstPostCode = postcodes.First();

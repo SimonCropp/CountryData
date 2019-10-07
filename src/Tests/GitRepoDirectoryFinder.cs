@@ -27,7 +27,7 @@ static class GitRepoDirectoryFinder
             var parent = Directory.GetParent(currentDirectory);
             if (parent == null)
             {
-                path = null;
+                path = string.Empty;
                 return false;
             }
 

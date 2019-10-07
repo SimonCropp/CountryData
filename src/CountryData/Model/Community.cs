@@ -7,17 +7,17 @@ namespace CountryData
     public class Community : ICommunity
     {
         [DataMember]
-        public string Name { get; set; }
+        public string Name { get; set; } = null!;
         [DataMember]
-        public string Code { get; set; }
+        public string? Code { get; set; }
         [DataMember]
         public List<Place> Places { get; set; } = new List<Place>();
 
         [IgnoreDataMember]
-        public IProvince Province { get; set; }
+        public IProvince Province { get; set; } = null!;
 
         [DataMember]
-        public string PostCode { get; set; }
+        public string? PostCode { get; set; }
 
         [IgnoreDataMember]
         IReadOnlyList<IPlace> ICommunity.Places => Places;

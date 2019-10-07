@@ -51,10 +51,10 @@ public class Snippets
 
     public class Target
     {
-        public string AustralianCapital;
-        public string RandomCountryCurrency;
-        public string RandomCountryName;
-        public string RandomIrelandState;
-        public string RandomIcelandPostCode;
+        public string? AustralianCapital;
+        public string? RandomCountryCurrency;
+        public string? RandomCountryName;
+        public string? RandomIrelandState;
+        public string? RandomIcelandPostCode;
     }
 }

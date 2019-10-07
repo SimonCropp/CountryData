@@ -17,7 +17,7 @@ static class Downloader
         DateTime remoteLastModified;
         using (var headResponse = await httpClient.SendAsync(requestMessage))
         {
-            remoteLastModified = headResponse.Content.Headers.LastModified.Value.UtcDateTime;
+            remoteLastModified = headResponse.Content.Headers.LastModified!.Value.UtcDateTime;
         }
 
         if (File.Exists(allCountriesPath))

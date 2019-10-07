@@ -6,14 +6,14 @@ namespace CountryData
     public class Place : IPlace
     {
         [DataMember]
-        public string Name { get; set; }
+        public string? Name { get; set; }
         [DataMember]
-        public string PostCode { get; set; }
+        public string PostCode { get; set; } = null!;
         [DataMember]
-        public Location Location { get; set; }
+        public Location Location { get; set; } = null!;
 
         [IgnoreDataMember]
-        public ICommunity Community { get; set; }
+        public ICommunity Community { get; set; } = null!;
 
         [IgnoreDataMember]
         ILocation IPlace.Location => Location;
