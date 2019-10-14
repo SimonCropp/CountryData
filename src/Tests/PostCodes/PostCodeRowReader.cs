@@ -10,8 +10,8 @@ static class PostCodeRowReader
         {
             var row = new PostCodeRow
             {
-                CountryCode = split[0],
-                PostalCode = split[1],
+                CountryCode = split[0]!,
+                PostalCode = split[1]!,
                 PlaceName = split[2],
                 State = split[3],
                 StateCode = split[4],
@@ -27,7 +27,7 @@ static class PostCodeRowReader
                 row.Location = new Location
                 {
                     Latitude = double.Parse(s),
-                    Longitude = double.Parse(split[10])
+                    Longitude = double.Parse(split[10]!)
                 };
             }
 

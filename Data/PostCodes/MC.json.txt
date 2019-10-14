@@ -10,114 +10,6 @@
 "PostCode": "98000",
 "Communities": [
 {
-"Name": "Monaco-Ville",
-"Places": [
-{
-"Name": "Ciappaira",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7167,
-"Longitude": 7.4167
-}
-},
-{
-"Name": "Jardin Exotique",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7167,
-"Longitude": 7.4
-}
-},
-{
-"Name": "Monaco-Ville",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4167
-}
-},
-{
-"Name": "Pointe de la Poudrière",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7319,
-"Longitude": 7.4278
-}
-},
-{
-"Name": "Pointe Saint-Martin",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7306,
-"Longitude": 7.425
-}
-},
-{
-"Name": "Rocher de Monaco",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4333
-}
-}
-],
-"PostCode": "98000"
-},
-{
-"Name": "Larvotto",
-"Places": [
-{
-"Name": "Anse du Portier",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7417,
-"Longitude": 7.4322
-}
-},
-{
-"Name": "Jardin Japonais",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4167
-}
-},
-{
-"Name": "Larvotto",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4333
-}
-},
-{
-"Name": "Plage du Larvotto",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4333
-}
-},
-{
-"Name": "Pointe Saint-Antoine",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4278
-}
-},
-{
-"Name": "Réserve Sous-marine du Larvotto",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7458,
-"Longitude": 7.4394
-}
-}
-],
-"PostCode": "98000"
-},
-{
 "Name": "Fontvieille",
 "Places": [
 {
@@ -166,6 +58,60 @@
 "Location": {
 "Latitude": 43.7167,
 "Longitude": 7.4167
+}
+}
+],
+"PostCode": "98000"
+},
+{
+"Name": "Monaco-Ville",
+"Places": [
+{
+"Name": "Ciappaira",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7167,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "Jardin Exotique",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7167,
+"Longitude": 7.4
+}
+},
+{
+"Name": "Monaco-Ville",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "Pointe de la Poudrière",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7319,
+"Longitude": 7.4278
+}
+},
+{
+"Name": "Pointe Saint-Martin",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7306,
+"Longitude": 7.425
+}
+},
+{
+"Name": "Rocher de Monaco",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4333
 }
 }
 ],
@@ -234,6 +180,60 @@
 "Location": {
 "Latitude": 43.7333,
 "Longitude": 7.4333
+}
+}
+],
+"PostCode": "98000"
+},
+{
+"Name": "Larvotto",
+"Places": [
+{
+"Name": "Anse du Portier",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7417,
+"Longitude": 7.4322
+}
+},
+{
+"Name": "Jardin Japonais",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "Larvotto",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4333
+}
+},
+{
+"Name": "Plage du Larvotto",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4333
+}
+},
+{
+"Name": "Pointe Saint-Antoine",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4278
+}
+},
+{
+"Name": "Réserve Sous-marine du Larvotto",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7458,
+"Longitude": 7.4394
 }
 }
 ],

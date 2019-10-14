@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 
 static class RowReader
 {
-    public static IEnumerable<string[]> ReadRows(string path)
+    public static IEnumerable<string?[]> ReadRows(string path)
     {
         var tab = Convert.ToChar(9);
         using var csv = File.OpenText(path);
@@ -20,20 +21,31 @@ static class RowReader
             {
                 continue;
             }
-            var split = line.Split(tab);
-            for (var index = 0; index < split.Length; index++)
+
+            yield return SplitLine(line, tab).ToArray();
+        }
+    }
+
+    static IEnumerable<string?> SplitLine(string line, char tab)
+    {
+        var split = line.Split(tab);
+        foreach (var s in split)
+        {
+            if (s == null)
             {
-                var s = split[index];
+                yield return null;
+            }
+            else
+            {
                 if (s.Length == 0)
                 {
-                    split[index] = null;
-                    continue;
+                    yield return null;
                 }
-
-                split[index] = s.Trim().Trim('_').Replace('_',' ');
+                else
+                {
+                    yield return s.Trim().Trim('_').Replace('_', ' ');
+                }
             }
-
-            yield return split;
         }
     }
 }

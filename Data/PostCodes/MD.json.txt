@@ -399,7 +399,7 @@
 "Name": "Curesnita Noua",
 "PostCode": "MD-3043",
 "Location": {
-"Latitude": 48.181399999999996,
+"Latitude": 48.1814,
 "Longitude": 28.1225
 }
 },
@@ -1664,7 +1664,7 @@
 "Name": "Ciocilteni",
 "PostCode": "MD-3519",
 "Location": {
-"Latitude": 47.493899999999996,
+"Latitude": 47.4939,
 "Longitude": 28.6089
 }
 },
@@ -2032,7 +2032,7 @@
 "Name": "Pohrebeni",
 "PostCode": "MD-3544",
 "Location": {
-"Latitude": 47.556399999999996,
+"Latitude": 47.5564,
 "Longitude": 28.9092
 }
 },
@@ -2938,7 +2938,7 @@
 "Name": "Duma",
 "PostCode": "MD-4418",
 "Location": {
-"Latitude": 47.368899999999996,
+"Latitude": 47.3689,
 "Longitude": 28.2324
 }
 },
@@ -5688,59 +5688,6 @@
 ]
 },
 {
-"Name": "Dubasari Cr.",
-"Provinces": [
-{
-"Communities": [
-{
-"Places": [
-{
-"Name": "Cocieri",
-"PostCode": "MD-4571",
-"Location": {
-"Latitude": 47.3075,
-"Longitude": 29.1103
-}
-},
-{
-"Name": "Corjova",
-"PostCode": "MD-4501",
-"Location": {
-"Latitude": 47.2878,
-"Longitude": 29.1297
-}
-},
-{
-"Name": "Cosnita",
-"PostCode": "MD-4572",
-"Location": {
-"Latitude": 47.1475,
-"Longitude": 29.1333
-}
-},
-{
-"Name": "Dorotcaia",
-"PostCode": "MD-4573",
-"Location": {
-"Latitude": 47.1722,
-"Longitude": 29.2028
-}
-},
-{
-"Name": "Holercani",
-"PostCode": "MD-4574",
-"Location": {
-"Latitude": 47.3119,
-"Longitude": 29.0689
-}
-}
-]
-}
-]
-}
-]
-},
-{
 "Name": "Dubasari Tr.",
 "Provinces": [
 {
@@ -5943,8 +5890,61 @@
 "Name": "Vasilievca",
 "PostCode": "MD-4512",
 "Location": {
-"Latitude": 47.368899999999996,
+"Latitude": 47.3689,
 "Longitude": 29.305
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Dubasari Cr.",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cocieri",
+"PostCode": "MD-4571",
+"Location": {
+"Latitude": 47.3075,
+"Longitude": 29.1103
+}
+},
+{
+"Name": "Corjova",
+"PostCode": "MD-4501",
+"Location": {
+"Latitude": 47.2878,
+"Longitude": 29.1297
+}
+},
+{
+"Name": "Cosnita",
+"PostCode": "MD-4572",
+"Location": {
+"Latitude": 47.1475,
+"Longitude": 29.1333
+}
+},
+{
+"Name": "Dorotcaia",
+"PostCode": "MD-4573",
+"Location": {
+"Latitude": 47.1722,
+"Longitude": 29.2028
+}
+},
+{
+"Name": "Holercani",
+"PostCode": "MD-4574",
+"Location": {
+"Latitude": 47.3119,
+"Longitude": 29.0689
 }
 }
 ]
@@ -6475,7 +6475,7 @@
 "Name": "Balasinesti",
 "PostCode": "MD-4711",
 "Location": {
-"Latitude": 48.243899999999996,
+"Latitude": 48.2439,
 "Longitude": 26.9606
 }
 },
@@ -9430,7 +9430,7 @@
 "Name": "Galaseni",
 "PostCode": "MD-5620",
 "Location": {
-"Latitude": 47.868899999999996,
+"Latitude": 47.8689,
 "Longitude": 27.3425
 }
 },
@@ -9859,7 +9859,7 @@
 "Name": "Lipceni",
 "PostCode": "MD-5422",
 "Location": {
-"Latitude": 47.806399999999996,
+"Latitude": 47.8064,
 "Longitude": 28.8703
 }
 },
@@ -11271,7 +11271,7 @@
 "Name": "Albinetul Vechi",
 "PostCode": "MD-5911",
 "Location": {
-"Latitude": 47.556399999999996,
+"Latitude": 47.5564,
 "Longitude": 27.6375
 }
 },
@@ -11615,7 +11615,7 @@
 "Name": "Moldoveanca",
 "PostCode": "MD-5934",
 "Location": {
-"Latitude": 47.618899999999996,
+"Latitude": 47.6189,
 "Longitude": 27.6114
 }
 },
@@ -12353,7 +12353,7 @@
 "Name": "Cristesti",
 "PostCode": "MD-6424",
 "Location": {
-"Latitude": 47.056399999999996,
+"Latitude": 47.0564,
 "Longitude": 28.2819
 }
 },
@@ -12678,7 +12678,7 @@
 "Name": "Cobusca Noua",
 "PostCode": "MD-6517",
 "Location": {
-"Latitude": 46.931399999999996,
+"Latitude": 46.9314,
 "Longitude": 29.2069
 }
 },
@@ -13493,7 +13493,7 @@
 "Name": "Clocusna",
 "PostCode": "MD-7116",
 "Location": {
-"Latitude": 48.431399999999996,
+"Latitude": 48.4314,
 "Longitude": 27.3417
 }
 },
