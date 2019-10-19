@@ -19,7 +19,6 @@ public class Sync
 
         await Downloader.DownloadFile(allZipPath, "http://download.geonames.org/export/zip/allCountries.zip");
 
-
         var allCountriesTxtPath = Path.Combine(DataLocations.TempPath, "allCountries.txt");
         File.Delete(allCountriesTxtPath);
         ZipFile.ExtractToDirectory(allZipPath, DataLocations.TempPath);
