@@ -18391,231 +18391,6 @@
 ]
 },
 {
-"Name": "Dzerjinsk",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Боровики",
-"PostCode": "222725",
-"Location": {
-"Latitude": 53.6838,
-"Longitude": 27.4389
-}
-},
-{
-"Name": "Боровое",
-"PostCode": "222735",
-"Location": {
-"Latitude": 53.6724,
-"Longitude": 27.0095
-}
-},
-{
-"Name": "Волма",
-"PostCode": "222374",
-"Location": {
-"Latitude": 53.8711,
-"Longitude": 26.9535
-}
-},
-{
-"Name": "Гарбузы",
-"PostCode": "222727",
-"Location": {
-"Latitude": 53.569,
-"Longitude": 27.0744
-}
-},
-{
-"Name": "Гричино",
-"PostCode": "222724",
-"Location": {
-"Latitude": 53.7336,
-"Longitude": 27.3843
-}
-},
-{
-"Name": "Даниловичи",
-"PostCode": "222733",
-"Location": {
-"Latitude": 53.6025,
-"Longitude": 27.353
-}
-},
-{
-"Name": "Дворище",
-"PostCode": "222721",
-"Location": {
-"Latitude": 54.1737,
-"Longitude": 26.6574
-}
-},
-{
-"Name": "Дзержинск",
-"PostCode": "222720",
-"Location": {
-"Latitude": 53.6832,
-"Longitude": 27.138
-}
-},
-{
-"Name": "Журавинка",
-"PostCode": "222736",
-"Location": {
-"Latitude": 53.6663,
-"Longitude": 26.9301
-}
-},
-{
-"Name": "Заболотье",
-"PostCode": "222746",
-"Location": {
-"Latitude": 53.6756,
-"Longitude": 27.2663
-}
-},
-{
-"Name": "Касиловичи",
-"PostCode": "222739",
-"Location": {
-"Latitude": 53.6585,
-"Longitude": 27.0454
-}
-},
-{
-"Name": "Логовище",
-"PostCode": "222730",
-"Location": {
-"Latitude": 53.5336,
-"Longitude": 27.0661
-}
-},
-{
-"Name": "Ляховичи",
-"PostCode": "222732",
-"Location": {
-"Latitude": 53.0388,
-"Longitude": 26.2656
-}
-},
-{
-"Name": "Негорелое",
-"PostCode": "222710",
-"Location": {
-"Latitude": 53.6104,
-"Longitude": 27.0733
-}
-},
-{
-"Name": "Новоселки",
-"PostCode": "222740",
-"Location": {
-"Latitude": 53.7303,
-"Longitude": 27.1335
-}
-},
-{
-"Name": "Петревичи",
-"PostCode": "222728",
-"Location": {
-"Latitude": 53.7538,
-"Longitude": 27.1953
-}
-},
-{
-"Name": "Поселок Энергетиков",
-"PostCode": "222738",
-"Location": {
-"Latitude": 53.5663,
-"Longitude": 26.9867
-}
-},
-{
-"Name": "Путчино",
-"PostCode": "222741",
-"Location": {
-"Latitude": 53.7964,
-"Longitude": 27.0287
-}
-},
-{
-"Name": "Путчино 1",
-"PostCode": "222742",
-"Location": {
-"Latitude": 53.7464,
-"Longitude": 27.1442
-}
-},
-{
-"Name": "Скирмонтово",
-"PostCode": "222743",
-"Location": {
-"Latitude": 53.7464,
-"Longitude": 27.1442
-}
-},
-{
-"Name": "Станьково",
-"PostCode": "222731",
-"Location": {
-"Latitude": 53.6292,
-"Longitude": 27.229
-}
-},
-{
-"Name": "Старинки",
-"PostCode": "222737",
-"Location": {
-"Latitude": 53.7295,
-"Longitude": 26.995
-}
-},
-{
-"Name": "Томковичи",
-"PostCode": "222726",
-"Location": {
-"Latitude": 53.6818,
-"Longitude": 27.3498
-}
-},
-{
-"Name": "Фаниполь",
-"PostCode": "222750",
-"Location": {
-"Latitude": 53.75,
-"Longitude": 27.3334
-}
-},
-{
-"Name": "Черкассы",
-"PostCode": "222729",
-"Location": {
-"Latitude": 53.7662,
-"Longitude": 27.3347
-}
-},
-{
-"Name": "Черниковщина",
-"PostCode": "222722",
-"Location": {
-"Latitude": 53.7394,
-"Longitude": 27.1847
-}
-},
-{
-"Name": "Юцки",
-"PostCode": "222744",
-"Location": {
-"Latitude": 53.7833,
-"Longitude": 27.1485
-}
-}
-]
-}
-]
-},
-{
 "Name": "Miadel",
 "Communities": [
 {
@@ -18834,6 +18609,231 @@
 "Location": {
 "Latitude": 54.8944,
 "Longitude": 26.7672
+}
+}
+]
+}
+]
+},
+{
+"Name": "Dzerjinsk",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Боровики",
+"PostCode": "222725",
+"Location": {
+"Latitude": 53.6838,
+"Longitude": 27.4389
+}
+},
+{
+"Name": "Боровое",
+"PostCode": "222735",
+"Location": {
+"Latitude": 53.6724,
+"Longitude": 27.0095
+}
+},
+{
+"Name": "Волма",
+"PostCode": "222374",
+"Location": {
+"Latitude": 53.8711,
+"Longitude": 26.9535
+}
+},
+{
+"Name": "Гарбузы",
+"PostCode": "222727",
+"Location": {
+"Latitude": 53.569,
+"Longitude": 27.0744
+}
+},
+{
+"Name": "Гричино",
+"PostCode": "222724",
+"Location": {
+"Latitude": 53.7336,
+"Longitude": 27.3843
+}
+},
+{
+"Name": "Даниловичи",
+"PostCode": "222733",
+"Location": {
+"Latitude": 53.6025,
+"Longitude": 27.353
+}
+},
+{
+"Name": "Дворище",
+"PostCode": "222721",
+"Location": {
+"Latitude": 54.1737,
+"Longitude": 26.6574
+}
+},
+{
+"Name": "Дзержинск",
+"PostCode": "222720",
+"Location": {
+"Latitude": 53.6832,
+"Longitude": 27.138
+}
+},
+{
+"Name": "Журавинка",
+"PostCode": "222736",
+"Location": {
+"Latitude": 53.6663,
+"Longitude": 26.9301
+}
+},
+{
+"Name": "Заболотье",
+"PostCode": "222746",
+"Location": {
+"Latitude": 53.6756,
+"Longitude": 27.2663
+}
+},
+{
+"Name": "Касиловичи",
+"PostCode": "222739",
+"Location": {
+"Latitude": 53.6585,
+"Longitude": 27.0454
+}
+},
+{
+"Name": "Логовище",
+"PostCode": "222730",
+"Location": {
+"Latitude": 53.5336,
+"Longitude": 27.0661
+}
+},
+{
+"Name": "Ляховичи",
+"PostCode": "222732",
+"Location": {
+"Latitude": 53.0388,
+"Longitude": 26.2656
+}
+},
+{
+"Name": "Негорелое",
+"PostCode": "222710",
+"Location": {
+"Latitude": 53.6104,
+"Longitude": 27.0733
+}
+},
+{
+"Name": "Новоселки",
+"PostCode": "222740",
+"Location": {
+"Latitude": 53.7303,
+"Longitude": 27.1335
+}
+},
+{
+"Name": "Петревичи",
+"PostCode": "222728",
+"Location": {
+"Latitude": 53.7538,
+"Longitude": 27.1953
+}
+},
+{
+"Name": "Поселок Энергетиков",
+"PostCode": "222738",
+"Location": {
+"Latitude": 53.5663,
+"Longitude": 26.9867
+}
+},
+{
+"Name": "Путчино",
+"PostCode": "222741",
+"Location": {
+"Latitude": 53.7964,
+"Longitude": 27.0287
+}
+},
+{
+"Name": "Путчино 1",
+"PostCode": "222742",
+"Location": {
+"Latitude": 53.7464,
+"Longitude": 27.1442
+}
+},
+{
+"Name": "Скирмонтово",
+"PostCode": "222743",
+"Location": {
+"Latitude": 53.7464,
+"Longitude": 27.1442
+}
+},
+{
+"Name": "Станьково",
+"PostCode": "222731",
+"Location": {
+"Latitude": 53.6292,
+"Longitude": 27.229
+}
+},
+{
+"Name": "Старинки",
+"PostCode": "222737",
+"Location": {
+"Latitude": 53.7295,
+"Longitude": 26.995
+}
+},
+{
+"Name": "Томковичи",
+"PostCode": "222726",
+"Location": {
+"Latitude": 53.6818,
+"Longitude": 27.3498
+}
+},
+{
+"Name": "Фаниполь",
+"PostCode": "222750",
+"Location": {
+"Latitude": 53.75,
+"Longitude": 27.3334
+}
+},
+{
+"Name": "Черкассы",
+"PostCode": "222729",
+"Location": {
+"Latitude": 53.7662,
+"Longitude": 27.3347
+}
+},
+{
+"Name": "Черниковщина",
+"PostCode": "222722",
+"Location": {
+"Latitude": 53.7394,
+"Longitude": 27.1847
+}
+},
+{
+"Name": "Юцки",
+"PostCode": "222744",
+"Location": {
+"Latitude": 53.7833,
+"Longitude": 27.1485
 }
 }
 ]
