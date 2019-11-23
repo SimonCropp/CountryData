@@ -1,9 +1,10 @@
 ﻿using CountryData.Bogus;
+using VerifyXunit;
 using Xunit;
 using Xunit.Abstractions;
 
 public class CountryDataSetTests:
-    XunitApprovalBase
+    VerifyBase
 {
     [Fact]
     public void Simple()

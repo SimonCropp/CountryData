@@ -1,16 +1,18 @@
 ﻿using System.Linq;
+using System.Threading.Tasks;
 using CountryData;
+using VerifyXunit;
 using Xunit;
 using Xunit.Abstractions;
 
 public class CountryLoaderTests :
-    XunitApprovalBase
+    VerifyBase
 {
     [Fact]
-    public void LoadLocationData()
+    public Task LoadLocationData()
     {
         var country = CountryLoader.LoadLocationData("PW");
-        ObjectApprover.Verify(country);
+        return Verify(country);
     }
 
     [Fact]
@@ -36,17 +38,17 @@ public class CountryLoaderTests :
     }
 
     [Fact]
-    public void PostCodes()
+    public Task PostCodes()
     {
         var country = CountryLoader.LoadAustraliaLocationData();
-        ObjectApprover.Verify(country.PostCodes().First());
+        return Verify(country.PostCodes().First());
     }
 
     [Fact]
-    public void LoadSpecificLocationData()
+    public Task LoadSpecificLocationData()
     {
         var country = CountryLoader.LoadPalauLocationData();
-        ObjectApprover.Verify(country);
+        return Verify(country);
     }
 
     [Fact]
