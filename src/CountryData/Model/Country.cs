@@ -24,7 +24,7 @@ namespace CountryData
         IReadOnlyList<IState> States { get; }
     }
 
-    [DebuggerDisplay("Name='{Iso}', Code='{Iso}'")]
+    [DebuggerDisplay("Name={Iso}, Iso={Iso}")]
     class Country :
         ICountry
     {

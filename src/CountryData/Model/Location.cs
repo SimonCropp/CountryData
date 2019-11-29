@@ -8,7 +8,7 @@ namespace CountryData
         double Longitude { get; }
     }
 
-    [DebuggerDisplay("Lat='{Latitude}', Long='{Longitude}'")]
+    [DebuggerDisplay("Lat={Latitude}, Long={Longitude}")]
     class Location :
         ILocation
     {

@@ -14,7 +14,7 @@ namespace CountryData
         ICountry Country { get; }
     }
 
-    [DebuggerDisplay("Name='{Name}', Code='{Code}', PostCode='{PostCode}'")]
+    [DebuggerDisplay("Name={Name}, Code={Code}, PostCode={PostCode}")]
     class State :
         IState
     {

@@ -14,7 +14,7 @@ namespace CountryData
         IProvince Province { get; }
     }
 
-    [DebuggerDisplay("Name='{Name}', Code='{Code}'")]
+    [DebuggerDisplay("Name={Name}, Code={Code}")]
     class Community :
         ICommunity
     {

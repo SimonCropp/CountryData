@@ -12,7 +12,7 @@ namespace CountryData
         ICommunity Community { get; }
     }
 
-    [DebuggerDisplay("Name='{Name}', PostCode='{PostCode}'")]
+    [DebuggerDisplay("Name={Name}, PostCode={PostCode}")]
     class Place :
         IPlace
     {

@@ -23,7 +23,7 @@ namespace CountryData
         IReadOnlyList<string> Languages { get; }
     }
 
-    [DebuggerDisplay("Name='{Iso}', Code='{Iso}'")]
+    [DebuggerDisplay("Name={Iso}, Code={Iso}")]
     class CountryInfo :
         ICountryInfo
     {
