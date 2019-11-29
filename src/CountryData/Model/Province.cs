@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Diagnostics;
 using System.Runtime.Serialization;
 using System.Text.Json.Serialization;
 
@@ -13,6 +14,7 @@ namespace CountryData
         IState State { get; }
     }
 
+    [DebuggerDisplay("Name='{Name}', Code='{Code}', PostCode='{PostCode}'")]
     class Province :
         IProvince
     {

@@ -1,4 +1,5 @@
-﻿using System.Runtime.Serialization;
+﻿using System.Diagnostics;
+using System.Runtime.Serialization;
 using System.Text.Json.Serialization;
 
 namespace CountryData
@@ -11,6 +12,7 @@ namespace CountryData
         ICommunity Community { get; }
     }
 
+    [DebuggerDisplay("Name='{Name}', PostCode='{PostCode}'")]
     class Place :
         IPlace
     {

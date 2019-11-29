@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Diagnostics;
 
 namespace CountryData
 {
@@ -22,6 +23,7 @@ namespace CountryData
         IReadOnlyList<string> Languages { get; }
     }
 
+    [DebuggerDisplay("Name='{Iso}', Code='{Iso}'")]
     class CountryInfo :
         ICountryInfo
     {

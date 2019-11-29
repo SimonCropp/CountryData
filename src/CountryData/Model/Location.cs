@@ -1,4 +1,6 @@
-﻿namespace CountryData
+﻿using System.Diagnostics;
+
+namespace CountryData
 {
     public interface ILocation
     {
@@ -6,6 +8,7 @@
         double Longitude { get; }
     }
 
+    [DebuggerDisplay("Lat='{Latitude}', Long='{Longitude}'")]
     class Location :
         ILocation
     {
