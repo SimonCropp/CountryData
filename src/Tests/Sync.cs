@@ -9,7 +9,8 @@ using Xunit;
 
 public class Sync
 {
-    [Fact(Skip = "Explicit")]
+    [Fact]
+    [Trait("Category", "Integration")]
     public async Task SyncCountryData()
     {
         var countriesPath = Path.GetFullPath(Path.Combine(DataLocations.DataPath, "countrycodes.txt"));
