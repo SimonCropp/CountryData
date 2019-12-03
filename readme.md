@@ -22,9 +22,7 @@ Provides a .net wrapper around the [GeoNames Data](https://www.geonames.org/). A
     * [Country Codes](#country-codes)
     * [Country Information](#country-information)
     * [Country Location Data](#country-location-data)
-    * [Structure](#structure)
-<!-- endtoc -->
-
+    * [Structure](#structure)<!-- endtoc -->
 
 
 ## NuGets

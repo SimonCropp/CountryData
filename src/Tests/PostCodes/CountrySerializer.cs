@@ -13,7 +13,7 @@ static class CountrySerializer
             var provinceRows = stateGroup.ToList();
             var state = new State
             {
-                Name = stateGroup.Key,
+                Name = stateGroup.Key!,
                 Code = provinceRows.First().StateCode
             };
             states.Add(state);
@@ -24,7 +24,7 @@ static class CountrySerializer
                 var communityRows = provinceGroup.ToList();
                 var province = new Province
                 {
-                    Name = provinceGroup.Key,
+                    Name = provinceGroup.Key!,
                     Code = communityRows.First().ProvinceCode
                 };
                 provinces.Add(province);
@@ -35,7 +35,7 @@ static class CountrySerializer
                     var placeRows = communityGroup.ToList();
                     var community = new Community
                     {
-                        Name = communityGroup.Key,
+                        Name = communityGroup.Key!,
                         Code = placeRows.First().CommunityCode
                     };
                     communities.Add(community);

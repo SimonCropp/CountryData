@@ -4,16 +4,16 @@ class PostCodeRow
 {
     public string CountryCode = null!;
     public string PostalCode = null!;
-    public string? PlaceName; //nullable
+    public string? PlaceName;
 
-    public string? State; //nullable
-    public string? StateCode; //nullable
+    public string? State;
+    public string? StateCode;
 
-    public string? Province; //nullable
-    public string? ProvinceCode; //nullable
+    public string? Province;
+    public string? ProvinceCode;
 
-    public string? Community; //nullable
-    public string? CommunityCode; //nullable
+    public string? Community;
+    public string? CommunityCode;
 
     public Location Location = null!;
     public ushort? Accuracy;
