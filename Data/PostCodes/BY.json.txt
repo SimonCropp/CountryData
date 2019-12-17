@@ -4786,6 +4786,14 @@
 }
 },
 {
+"Name": "Тетерки",
+"PostCode": "211974",
+"Location": {
+"Latitude": 55.5454,
+"Longitude": 27.2552
+}
+},
+{
 "Name": "Урбаны",
 "PostCode": "211980",
 "Location": {
@@ -7568,6 +7576,14 @@
 "Location": {
 "Latitude": 52.9593,
 "Longitude": 25.2701
+}
+},
+{
+"Name": "Озерница",
+"PostCode": "231807",
+"Location": {
+"Latitude": 53.074,
+"Longitude": 25.0044
 }
 },
 {
@@ -12614,31 +12630,6 @@
 ]
 },
 {
-"Name": "Vitebk",
-"PostCode": "211974",
-"Provinces": [
-{
-"Name": "Braslav",
-"PostCode": "211974",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Тетерки",
-"PostCode": "211974",
-"Location": {
-"Latitude": 55.5454,
-"Longitude": 27.2552
-}
-}
-],
-"PostCode": "211974"
-}
-]
-}
-]
-},
-{
 "Name": "Moghilev",
 "Provinces": [
 {
@@ -14662,6 +14653,14 @@
 }
 },
 {
+"Name": "Борисовичи",
+"PostCode": "213602",
+"Location": {
+"Latitude": 53.6005,
+"Longitude": 31.6794
+}
+},
+{
 "Name": "Великий Мох",
 "PostCode": "213614",
 "Location": {
@@ -16108,31 +16107,6 @@
 }
 }
 ]
-}
-]
-}
-]
-},
-{
-"Name": "Mogholev",
-"PostCode": "213602",
-"Provinces": [
-{
-"Name": "Klimovitchi",
-"PostCode": "213602",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Борисовичи",
-"PostCode": "213602",
-"Location": {
-"Latitude": 53.6005,
-"Longitude": 31.6794
-}
-}
-],
-"PostCode": "213602"
 }
 ]
 }
@@ -26425,31 +26399,6 @@
 }
 ],
 "PostCode": "231778"
-}
-]
-}
-]
-},
-{
-"Name": "Grosno",
-"PostCode": "231807",
-"Provinces": [
-{
-"Name": "Slonim",
-"PostCode": "231807",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Озерница",
-"PostCode": "231807",
-"Location": {
-"Latitude": 53.074,
-"Longitude": 25.0044
-}
-}
-],
-"PostCode": "231807"
 }
 ]
 }
