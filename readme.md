@@ -60,7 +60,7 @@ var placeName = place.Name;
 var latitude = place.Location.Latitude;
 var longitude = place.Location.Longitude;
 ```
-<sup><a href='/src/Tests/Snippets.cs#L30-L49' title='File snippet `usage` was extracted from'>snippet source</a> | <a href='#snippet-usage' title='Navigate to start of snippet `usage`'>anchor</a></sup>
+<sup><a href='/src/Tests/Snippets.cs#L40-L59' title='File snippet `usage` was extracted from'>snippet source</a> | <a href='#snippet-usage' title='Navigate to start of snippet `usage`'>anchor</a></sup>
 <!-- endsnippet -->
 
 
@@ -70,14 +70,24 @@ var longitude = place.Location.Longitude;
 <a id='snippet-bogususage'/></a>
 ```cs
 var faker = new Faker<Target>()
-    .RuleFor(u => u.RandomCountryName, (f, u) => f.Country().Name())
-    .RuleFor(u => u.RandomCountryCurrency, (f, u) => f.Country().CurrencyCode())
-    .RuleFor(u => u.AustralianCapital, (f, u) => f.Country().Australia().Capital)
-    .RuleFor(u => u.RandomIrelandState, (f, u) => f.Country().Ireland().State().Name)
-    .RuleFor(u => u.RandomIcelandPostCode, (f, u) => f.Country().Iceland().PostCode());
+    .RuleFor(
+        property: u => u.RandomCountryName,
+        setter: (f, u) => f.Country().Name())
+    .RuleFor(
+        property: u => u.RandomCountryCurrency,
+        setter: (f, u) => f.Country().CurrencyCode())
+    .RuleFor(
+        property: u => u.AustralianCapital,
+        setter: (f, u) => f.Country().Australia().Capital)
+    .RuleFor(
+        property: u => u.RandomIrelandState,
+        setter: (f, u) => f.Country().Ireland().State().Name)
+    .RuleFor(
+        property: u => u.RandomIcelandPostCode,
+        setter: (f, u) => f.Country().Iceland().PostCode());
 var targetInstance = faker.Generate();
 ```
-<sup><a href='/src/Tests/Snippets.cs#L14-L24' title='File snippet `bogususage` was extracted from'>snippet source</a> | <a href='#snippet-bogususage' title='Navigate to start of snippet `bogususage`'>anchor</a></sup>
+<sup><a href='/src/Tests/Snippets.cs#L14-L34' title='File snippet `bogususage` was extracted from'>snippet source</a> | <a href='#snippet-bogususage' title='Navigate to start of snippet `bogususage`'>anchor</a></sup>
 <!-- endsnippet -->
 
 

@@ -151,6 +151,14 @@
 },
 {
 "Name": "Handen",
+"PostCode": "136 36",
+"Location": {
+"Latitude": 59.1681,
+"Longitude": 18.138
+}
+},
+{
+"Name": "Handen",
 "PostCode": "136 37",
 "Location": {
 "Latitude": 59.1681,
@@ -1230,6 +1238,14 @@
 {
 "Name": "Märsta",
 "PostCode": "195 58",
+"Location": {
+"Latitude": 59.6167,
+"Longitude": 17.85
+}
+},
+{
+"Name": "Märsta",
+"PostCode": "195 59",
 "Location": {
 "Latitude": 59.6167,
 "Longitude": 17.85
@@ -6572,6 +6588,22 @@
 {
 "Name": "Gustavsberg",
 "PostCode": "134 44",
+"Location": {
+"Latitude": 59.3268,
+"Longitude": 18.3898
+}
+},
+{
+"Name": "Gustavsberg",
+"PostCode": "134 52",
+"Location": {
+"Latitude": 59.3268,
+"Longitude": 18.3898
+}
+},
+{
+"Name": "Gustavsberg",
+"PostCode": "134 53",
 "Location": {
 "Latitude": 59.3268,
 "Longitude": 18.3898
@@ -13298,6 +13330,14 @@
 {
 "Name": "Bromma",
 "PostCode": "168 60",
+"Location": {
+"Latitude": 59.35,
+"Longitude": 17.9167
+}
+},
+{
+"Name": "Bromma",
+"PostCode": "168 61",
 "Location": {
 "Latitude": 59.35,
 "Longitude": 17.9167
@@ -24013,6 +24053,22 @@
 },
 {
 "Name": "Nacka",
+"PostCode": "131 51",
+"Location": {
+"Latitude": 59.3105,
+"Longitude": 18.1637
+}
+},
+{
+"Name": "Nacka",
+"PostCode": "131 57",
+"Location": {
+"Latitude": 59.3105,
+"Longitude": 18.1637
+}
+},
+{
+"Name": "Nacka",
 "PostCode": "131 60",
 "Location": {
 "Latitude": 59.3105,
@@ -24038,6 +24094,14 @@
 {
 "Name": "Nacka",
 "PostCode": "131 71",
+"Location": {
+"Latitude": 59.3105,
+"Longitude": 18.1637
+}
+},
+{
+"Name": "Nacka",
+"PostCode": "131 74",
 "Location": {
 "Latitude": 59.3105,
 "Longitude": 18.1637
@@ -40167,6 +40231,38 @@
 },
 {
 "Name": "Uppsala",
+"PostCode": "756 56",
+"Location": {
+"Latitude": 59.8585,
+"Longitude": 17.6454
+}
+},
+{
+"Name": "Uppsala",
+"PostCode": "756 57",
+"Location": {
+"Latitude": 59.8585,
+"Longitude": 17.6454
+}
+},
+{
+"Name": "Uppsala",
+"PostCode": "756 58",
+"Location": {
+"Latitude": 59.8585,
+"Longitude": 17.6454
+}
+},
+{
+"Name": "Uppsala",
+"PostCode": "756 59",
+"Location": {
+"Latitude": 59.8585,
+"Longitude": 17.6454
+}
+},
+{
+"Name": "Uppsala",
 "PostCode": "757 00",
 "Location": {
 "Latitude": 59.8585,
@@ -41791,6 +41887,14 @@
 },
 {
 "Name": "Nyköping",
+"PostCode": "611 68",
+"Location": {
+"Latitude": 58.753,
+"Longitude": 17.0079
+}
+},
+{
+"Name": "Nyköping",
 "PostCode": "611 79",
 "Location": {
 "Latitude": 58.753,
@@ -42290,6 +42394,14 @@
 }
 },
 {
+"Name": "Mellösa",
+"PostCode": "642 63",
+"Location": {
+"Latitude": 59.1,
+"Longitude": 16.55
+}
+},
+{
 "Name": "Sparreholm",
 "PostCode": "640 34",
 "Location": {
@@ -42324,8 +42436,48 @@
 }
 },
 {
+"Name": "Bettna",
+"PostCode": "642 62",
+"Location": {
+"Latitude": 58.9,
+"Longitude": 16.6333
+}
+},
+{
+"Name": "Bettna",
+"PostCode": "642 97",
+"Location": {
+"Latitude": 58.9,
+"Longitude": 16.6333
+}
+},
+{
+"Name": "Bettna",
+"PostCode": "642 98",
+"Location": {
+"Latitude": 58.9,
+"Longitude": 16.6333
+}
+},
+{
 "Name": "Björkvik",
 "PostCode": "640 20",
+"Location": {
+"Latitude": 58.8333,
+"Longitude": 16.5167
+}
+},
+{
+"Name": "Björkvik",
+"PostCode": "641 63",
+"Location": {
+"Latitude": 58.8333,
+"Longitude": 16.5167
+}
+},
+{
+"Name": "Björkvik",
+"PostCode": "641 98",
 "Location": {
 "Latitude": 58.8333,
 "Longitude": 16.5167
@@ -42636,6 +42788,22 @@
 }
 },
 {
+"Name": "Sköldinge",
+"PostCode": "641 64",
+"Location": {
+"Latitude": 59.0333,
+"Longitude": 16.4333
+}
+},
+{
+"Name": "Sköldinge",
+"PostCode": "641 99",
+"Location": {
+"Latitude": 59.0333,
+"Longitude": 16.4333
+}
+},
+{
 "Name": "Stavsjö",
 "PostCode": "618 95",
 "Location": {
@@ -42661,6 +42829,30 @@
 "Communities": [
 {
 "Places": [
+{
+"Name": "Ärla",
+"PostCode": "635 36",
+"Location": {
+"Latitude": 59.2833,
+"Longitude": 16.6667
+}
+},
+{
+"Name": "Ärla",
+"PostCode": "635 37",
+"Location": {
+"Latitude": 59.2833,
+"Longitude": 16.6667
+}
+},
+{
+"Name": "Ärla",
+"PostCode": "635 38",
+"Location": {
+"Latitude": 59.2833,
+"Longitude": 16.6667
+}
+},
 {
 "Name": "Ärla",
 "PostCode": "640 43",
@@ -42880,6 +43072,30 @@
 {
 "Name": "Eskilstuna",
 "PostCode": "632 01",
+"Location": {
+"Latitude": 59.3666,
+"Longitude": 16.5077
+}
+},
+{
+"Name": "Eskilstuna",
+"PostCode": "632 17",
+"Location": {
+"Latitude": 59.3666,
+"Longitude": 16.5077
+}
+},
+{
+"Name": "Eskilstuna",
+"PostCode": "632 18",
+"Location": {
+"Latitude": 59.3666,
+"Longitude": 16.5077
+}
+},
+{
+"Name": "Eskilstuna",
+"PostCode": "632 19",
 "Location": {
 "Latitude": 59.3666,
 "Longitude": 16.5077
@@ -43215,6 +43431,14 @@
 },
 {
 "Name": "Eskilstuna",
+"PostCode": "633 63",
+"Location": {
+"Latitude": 59.3666,
+"Longitude": 16.5077
+}
+},
+{
+"Name": "Eskilstuna",
 "PostCode": "634 01",
 "Location": {
 "Latitude": 59.3666,
@@ -43395,6 +43619,30 @@
 "Location": {
 "Latitude": 59.3333,
 "Longitude": 16.4667
+}
+},
+{
+"Name": "Stora Sundby",
+"PostCode": "635 33",
+"Location": {
+"Latitude": 59.3667,
+"Longitude": 16.4917
+}
+},
+{
+"Name": "Stora Sundby",
+"PostCode": "635 34",
+"Location": {
+"Latitude": 59.3667,
+"Longitude": 16.4917
+}
+},
+{
+"Name": "Stora Sundby",
+"PostCode": "635 35",
+"Location": {
+"Latitude": 59.3667,
+"Longitude": 16.4917
 }
 },
 {
@@ -44034,8 +44282,56 @@
 }
 },
 {
+"Name": "Vagnhärad",
+"PostCode": "619 02",
+"Location": {
+"Latitude": 58.95,
+"Longitude": 17.5167
+}
+},
+{
+"Name": "Vagnhärad",
+"PostCode": "619 71",
+"Location": {
+"Latitude": 58.95,
+"Longitude": 17.5167
+}
+},
+{
+"Name": "Vagnhärad",
+"PostCode": "619 72",
+"Location": {
+"Latitude": 58.95,
+"Longitude": 17.5167
+}
+},
+{
+"Name": "Vagnhärad",
+"PostCode": "619 73",
+"Location": {
+"Latitude": 58.95,
+"Longitude": 17.5167
+}
+},
+{
+"Name": "Vagnhärad",
+"PostCode": "619 94",
+"Location": {
+"Latitude": 58.95,
+"Longitude": 17.5167
+}
+},
+{
 "Name": "Västerljung",
 "PostCode": "610 75",
+"Location": {
+"Latitude": 58.9167,
+"Longitude": 17.4333
+}
+},
+{
+"Name": "Västerljung",
+"PostCode": "619 95",
 "Location": {
 "Latitude": 58.9167,
 "Longitude": 17.4333
@@ -44612,6 +44908,62 @@
 }
 },
 {
+"Name": "Boxholm",
+"PostCode": "595 03",
+"Location": {
+"Latitude": 58.1972,
+"Longitude": 15.0538
+}
+},
+{
+"Name": "Boxholm",
+"PostCode": "595 70",
+"Location": {
+"Latitude": 58.1972,
+"Longitude": 15.0538
+}
+},
+{
+"Name": "Boxholm",
+"PostCode": "595 71",
+"Location": {
+"Latitude": 58.1972,
+"Longitude": 15.0538
+}
+},
+{
+"Name": "Boxholm",
+"PostCode": "595 72",
+"Location": {
+"Latitude": 58.1972,
+"Longitude": 15.0538
+}
+},
+{
+"Name": "Boxholm",
+"PostCode": "595 73",
+"Location": {
+"Latitude": 58.1972,
+"Longitude": 15.0538
+}
+},
+{
+"Name": "Boxholm",
+"PostCode": "595 75",
+"Location": {
+"Latitude": 58.1972,
+"Longitude": 15.0538
+}
+},
+{
+"Name": "Boxholm",
+"PostCode": "595 76",
+"Location": {
+"Latitude": 58.1972,
+"Longitude": 15.0538
+}
+},
+{
 "Name": "Österbymo",
 "PostCode": "570 60",
 "Location": {
@@ -45120,8 +45472,24 @@
 }
 },
 {
+"Name": "Grytgöl",
+"PostCode": "612 74",
+"Location": {
+"Latitude": 58.8,
+"Longitude": 15.55
+}
+},
+{
 "Name": "Hällestad",
 "PostCode": "610 12",
+"Location": {
+"Latitude": 58.7333,
+"Longitude": 15.5667
+}
+},
+{
+"Name": "Hällestad",
+"PostCode": "612 75",
 "Location": {
 "Latitude": 58.7333,
 "Longitude": 15.5667
@@ -45136,8 +45504,40 @@
 }
 },
 {
+"Name": "Lotorp",
+"PostCode": "612 76",
+"Location": {
+"Latitude": 58.7333,
+"Longitude": 15.8333
+}
+},
+{
 "Name": "Rejmyre",
 "PostCode": "610 14",
+"Location": {
+"Latitude": 58.8333,
+"Longitude": 15.9167
+}
+},
+{
+"Name": "Rejmyre",
+"PostCode": "612 03",
+"Location": {
+"Latitude": 58.8333,
+"Longitude": 15.9167
+}
+},
+{
+"Name": "Rejmyre",
+"PostCode": "612 71",
+"Location": {
+"Latitude": 58.8333,
+"Longitude": 15.9167
+}
+},
+{
+"Name": "Rejmyre",
+"PostCode": "612 72",
 "Location": {
 "Latitude": 58.8333,
 "Longitude": 15.9167
@@ -45156,6 +45556,14 @@
 {
 "Name": "Gryt",
 "PostCode": "610 42",
+"Location": {
+"Latitude": 58.1833,
+"Longitude": 16.8
+}
+},
+{
+"Name": "Gryt",
+"PostCode": "615 96",
 "Location": {
 "Latitude": 58.1833,
 "Longitude": 16.8
@@ -46581,6 +46989,62 @@
 },
 {
 "Name": "Ljungsbro",
+"PostCode": "585 07",
+"Location": {
+"Latitude": 58.5167,
+"Longitude": 15.5
+}
+},
+{
+"Name": "Ljungsbro",
+"PostCode": "585 71",
+"Location": {
+"Latitude": 58.5167,
+"Longitude": 15.5
+}
+},
+{
+"Name": "Ljungsbro",
+"PostCode": "585 72",
+"Location": {
+"Latitude": 58.5167,
+"Longitude": 15.5
+}
+},
+{
+"Name": "Ljungsbro",
+"PostCode": "585 73",
+"Location": {
+"Latitude": 58.5167,
+"Longitude": 15.5
+}
+},
+{
+"Name": "Ljungsbro",
+"PostCode": "585 74",
+"Location": {
+"Latitude": 58.5167,
+"Longitude": 15.5
+}
+},
+{
+"Name": "Ljungsbro",
+"PostCode": "585 75",
+"Location": {
+"Latitude": 58.5167,
+"Longitude": 15.5
+}
+},
+{
+"Name": "Ljungsbro",
+"PostCode": "585 80",
+"Location": {
+"Latitude": 58.5167,
+"Longitude": 15.5
+}
+},
+{
+"Name": "Ljungsbro",
 "PostCode": "590 69",
 "Location": {
 "Latitude": 58.5167,
@@ -46625,6 +47089,14 @@
 "Location": {
 "Latitude": 58.5167,
 "Longitude": 15.5
+}
+},
+{
+"Name": "Nykil",
+"PostCode": "583 94",
+"Location": {
+"Latitude": 58.2833,
+"Longitude": 15.45
 }
 },
 {
@@ -46792,6 +47264,22 @@
 {
 "Name": "Kimstad",
 "PostCode": "610 20",
+"Location": {
+"Latitude": 58.5333,
+"Longitude": 15.9667
+}
+},
+{
+"Name": "Kimstad",
+"PostCode": "617 71",
+"Location": {
+"Latitude": 58.5333,
+"Longitude": 15.9667
+}
+},
+{
+"Name": "Kimstad",
+"PostCode": "617 91",
 "Location": {
 "Latitude": 58.5333,
 "Longitude": 15.9667
@@ -48104,8 +48592,48 @@
 }
 },
 {
+"Name": "Gusum",
+"PostCode": "615 02",
+"Location": {
+"Latitude": 58.2667,
+"Longitude": 16.4833
+}
+},
+{
+"Name": "Gusum",
+"PostCode": "615 71",
+"Location": {
+"Latitude": 58.2667,
+"Longitude": 16.4833
+}
+},
+{
+"Name": "Gusum",
+"PostCode": "615 72",
+"Location": {
+"Latitude": 58.2667,
+"Longitude": 16.4833
+}
+},
+{
+"Name": "Gusum",
+"PostCode": "615 73",
+"Location": {
+"Latitude": 58.2667,
+"Longitude": 16.4833
+}
+},
+{
 "Name": "Norsholm",
 "PostCode": "610 21",
+"Location": {
+"Latitude": 58.5167,
+"Longitude": 15.9667
+}
+},
+{
+"Name": "Norsholm",
+"PostCode": "617 92",
 "Location": {
 "Latitude": 58.5167,
 "Longitude": 15.9667
@@ -48122,6 +48650,22 @@
 {
 "Name": "Ringarum",
 "PostCode": "610 41",
+"Location": {
+"Latitude": 58.3333,
+"Longitude": 16.45
+}
+},
+{
+"Name": "Ringarum",
+"PostCode": "615 74",
+"Location": {
+"Latitude": 58.3333,
+"Longitude": 16.45
+}
+},
+{
+"Name": "Ringarum",
+"PostCode": "615 75",
 "Location": {
 "Latitude": 58.3333,
 "Longitude": 16.45
@@ -48698,6 +49242,38 @@
 }
 },
 {
+"Name": "Tjällmo",
+"PostCode": "591 90",
+"Location": {
+"Latitude": 58.7167,
+"Longitude": 15.35
+}
+},
+{
+"Name": "Vreta Kloster",
+"PostCode": "585 76",
+"Location": {
+"Latitude": 58.4833,
+"Longitude": 15.5167
+}
+},
+{
+"Name": "Vreta Kloster",
+"PostCode": "585 77",
+"Location": {
+"Latitude": 58.4833,
+"Longitude": 15.5167
+}
+},
+{
+"Name": "Vreta Kloster",
+"PostCode": "585 78",
+"Location": {
+"Latitude": 58.4833,
+"Longitude": 15.5167
+}
+},
+{
 "Name": "Vreta Kloster",
 "PostCode": "590 76",
 "Location": {
@@ -48878,6 +49454,46 @@
 }
 },
 {
+"Name": "Borensberg",
+"PostCode": "591 06",
+"Location": {
+"Latitude": 58.5667,
+"Longitude": 15.2833
+}
+},
+{
+"Name": "Borensberg",
+"PostCode": "591 74",
+"Location": {
+"Latitude": 58.5667,
+"Longitude": 15.2833
+}
+},
+{
+"Name": "Borensberg",
+"PostCode": "591 75",
+"Location": {
+"Latitude": 58.5667,
+"Longitude": 15.2833
+}
+},
+{
+"Name": "Borensberg",
+"PostCode": "591 76",
+"Location": {
+"Latitude": 58.5667,
+"Longitude": 15.2833
+}
+},
+{
+"Name": "Borensberg",
+"PostCode": "591 77",
+"Location": {
+"Latitude": 58.5667,
+"Longitude": 15.2833
+}
+},
+{
 "Name": "Mantorp",
 "PostCode": "590 17",
 "Location": {
@@ -48904,6 +49520,46 @@
 {
 "Name": "Mantorp",
 "PostCode": "590 20",
+"Location": {
+"Latitude": 58.35,
+"Longitude": 15.2833
+}
+},
+{
+"Name": "Mantorp",
+"PostCode": "595 04",
+"Location": {
+"Latitude": 58.35,
+"Longitude": 15.2833
+}
+},
+{
+"Name": "Mantorp",
+"PostCode": "595 57",
+"Location": {
+"Latitude": 58.35,
+"Longitude": 15.2833
+}
+},
+{
+"Name": "Mantorp",
+"PostCode": "595 58",
+"Location": {
+"Latitude": 58.35,
+"Longitude": 15.2833
+}
+},
+{
+"Name": "Mantorp",
+"PostCode": "595 59",
+"Location": {
+"Latitude": 58.35,
+"Longitude": 15.2833
+}
+},
+{
+"Name": "Mantorp",
+"PostCode": "595 97",
 "Location": {
 "Latitude": 58.35,
 "Longitude": 15.2833
@@ -49259,6 +49915,70 @@
 "Location": {
 "Latitude": 58.3167,
 "Longitude": 14.9167
+}
+},
+{
+"Name": "Väderstad",
+"PostCode": "596 36",
+"Location": {
+"Latitude": 58.3167,
+"Longitude": 14.9167
+}
+},
+{
+"Name": "Väderstad",
+"PostCode": "596 95",
+"Location": {
+"Latitude": 58.3167,
+"Longitude": 14.9167
+}
+},
+{
+"Name": "Vikingstad",
+"PostCode": "583 02",
+"Location": {
+"Latitude": 58.383,
+"Longitude": 15.432
+}
+},
+{
+"Name": "Vikingstad",
+"PostCode": "583 71",
+"Location": {
+"Latitude": 58.383,
+"Longitude": 15.432
+}
+},
+{
+"Name": "Vikingstad",
+"PostCode": "583 72",
+"Location": {
+"Latitude": 58.383,
+"Longitude": 15.432
+}
+},
+{
+"Name": "Vikingstad",
+"PostCode": "583 91",
+"Location": {
+"Latitude": 58.383,
+"Longitude": 15.432
+}
+},
+{
+"Name": "Vikingstad",
+"PostCode": "583 92",
+"Location": {
+"Latitude": 58.383,
+"Longitude": 15.432
+}
+},
+{
+"Name": "Vikingstad",
+"PostCode": "583 93",
+"Location": {
+"Latitude": 58.383,
+"Longitude": 15.432
 }
 },
 {
@@ -50135,6 +50855,14 @@
 },
 {
 "Name": "Anderstorp",
+"PostCode": "334 35",
+"Location": {
+"Latitude": 57.2833,
+"Longitude": 13.6333
+}
+},
+{
+"Name": "Anderstorp",
 "PostCode": "334 80",
 "Location": {
 "Latitude": 57.2833,
@@ -50280,6 +51008,14 @@
 {
 "Name": "Gislaved",
 "PostCode": "332 37",
+"Location": {
+"Latitude": 57.3044,
+"Longitude": 13.5408
+}
+},
+{
+"Name": "Gislaved",
+"PostCode": "332 38",
 "Location": {
 "Latitude": 57.3044,
 "Longitude": 13.5408
@@ -51739,6 +52475,14 @@
 },
 {
 "Name": "Jönköping",
+"PostCode": "554 75",
+"Location": {
+"Latitude": 57.7815,
+"Longitude": 14.1562
+}
+},
+{
+"Name": "Jönköping",
 "PostCode": "555 92",
 "Location": {
 "Latitude": 57.7815,
@@ -52510,8 +53254,24 @@
 }
 },
 {
+"Name": "Horda",
+"PostCode": "331 79",
+"Location": {
+"Latitude": 57.0333,
+"Longitude": 14.25
+}
+},
+{
 "Name": "Kulltorp",
 "PostCode": "330 31",
+"Location": {
+"Latitude": 57.2667,
+"Longitude": 13.7833
+}
+},
+{
+"Name": "Kulltorp",
+"PostCode": "335 96",
 "Location": {
 "Latitude": 57.2667,
 "Longitude": 13.7833
@@ -52655,6 +53415,22 @@
 },
 {
 "Name": "Värnamo",
+"PostCode": "331 36",
+"Location": {
+"Latitude": 57.186,
+"Longitude": 14.04
+}
+},
+{
+"Name": "Värnamo",
+"PostCode": "331 37",
+"Location": {
+"Latitude": 57.186,
+"Longitude": 14.04
+}
+},
+{
+"Name": "Värnamo",
 "PostCode": "331 40",
 "Location": {
 "Latitude": 57.186,
@@ -52720,6 +53496,14 @@
 {
 "Name": "Värnamo",
 "PostCode": "331 54",
+"Location": {
+"Latitude": 57.186,
+"Longitude": 14.04
+}
+},
+{
+"Name": "Värnamo",
+"PostCode": "331 56",
 "Location": {
 "Latitude": 57.186,
 "Longitude": 14.04
@@ -53050,6 +53834,14 @@
 }
 },
 {
+"Name": "Pauliström",
+"PostCode": "577 99",
+"Location": {
+"Latitude": 57.4667,
+"Longitude": 15.5167
+}
+},
+{
 "Name": "Ramkvilla",
 "PostCode": "574 74",
 "Location": {
@@ -53276,6 +54068,14 @@
 }
 },
 {
+"Name": "Bruzaholm",
+"PostCode": "575 99",
+"Location": {
+"Latitude": 57.6333,
+"Longitude": 15.2667
+}
+},
+{
 "Name": "Eksjö",
 "PostCode": "575 01",
 "Location": {
@@ -53460,6 +54260,14 @@
 }
 },
 {
+"Name": "Hjältevad",
+"PostCode": "575 98",
+"Location": {
+"Latitude": 57.6333,
+"Longitude": 15.3333
+}
+},
+{
 "Name": "Hult",
 "PostCode": "575 92",
 "Location": {
@@ -53470,6 +54278,14 @@
 {
 "Name": "Ingatorp",
 "PostCode": "570 31",
+"Location": {
+"Latitude": 57.6333,
+"Longitude": 15.4
+}
+},
+{
+"Name": "Ingatorp",
+"PostCode": "575 97",
 "Location": {
 "Latitude": 57.6333,
 "Longitude": 15.4
@@ -55518,8 +56334,24 @@
 }
 },
 {
+"Name": "Annerstad",
+"PostCode": "341 74",
+"Location": {
+"Latitude": 56.7667,
+"Longitude": 13.7167
+}
+},
+{
 "Name": "Hamneda",
 "PostCode": "340 13",
+"Location": {
+"Latitude": 56.7,
+"Longitude": 13.85
+}
+},
+{
+"Name": "Hamneda",
+"PostCode": "341 75",
 "Location": {
 "Latitude": 56.7,
 "Longitude": 13.85
@@ -56046,8 +56878,32 @@
 }
 },
 {
+"Name": "Fågelfors",
+"PostCode": "579 72",
+"Location": {
+"Latitude": 57.2,
+"Longitude": 15.8333
+}
+},
+{
+"Name": "Fågelfors",
+"PostCode": "579 96",
+"Location": {
+"Latitude": 57.2,
+"Longitude": 15.8333
+}
+},
+{
 "Name": "Fagerhult",
 "PostCode": "570 72",
+"Location": {
+"Latitude": 57.35,
+"Longitude": 15.9333
+}
+},
+{
+"Name": "Fagerhult",
+"PostCode": "579 94",
 "Location": {
 "Latitude": 57.35,
 "Longitude": 15.9333
@@ -56660,6 +57516,30 @@
 }
 },
 {
+"Name": "Järnforsen",
+"PostCode": "577 05",
+"Location": {
+"Latitude": 57.4167,
+"Longitude": 15.6167
+}
+},
+{
+"Name": "Järnforsen",
+"PostCode": "577 76",
+"Location": {
+"Latitude": 57.4167,
+"Longitude": 15.6167
+}
+},
+{
+"Name": "Järnforsen",
+"PostCode": "577 77",
+"Location": {
+"Latitude": 57.4167,
+"Longitude": 15.6167
+}
+},
+{
 "Name": "Kvillsfors",
 "PostCode": "570 16",
 "Location": {
@@ -56676,6 +57556,38 @@
 }
 },
 {
+"Name": "Målilla",
+"PostCode": "577 04",
+"Location": {
+"Latitude": 57.3877,
+"Longitude": 15.8068
+}
+},
+{
+"Name": "Målilla",
+"PostCode": "577 73",
+"Location": {
+"Latitude": 57.3877,
+"Longitude": 15.8068
+}
+},
+{
+"Name": "Målilla",
+"PostCode": "577 74",
+"Location": {
+"Latitude": 57.3877,
+"Longitude": 15.8068
+}
+},
+{
+"Name": "Målilla",
+"PostCode": "577 96",
+"Location": {
+"Latitude": 57.3877,
+"Longitude": 15.8068
+}
+},
+{
 "Name": "Mörlunda",
 "PostCode": "570 84",
 "Location": {
@@ -56684,8 +57596,32 @@
 }
 },
 {
+"Name": "Mörlunda",
+"PostCode": "577 75",
+"Location": {
+"Latitude": 57.3167,
+"Longitude": 15.85
+}
+},
+{
+"Name": "Mörlunda",
+"PostCode": "577 98",
+"Location": {
+"Latitude": 57.3167,
+"Longitude": 15.85
+}
+},
+{
 "Name": "Rosenfors",
 "PostCode": "570 83",
+"Location": {
+"Latitude": 57.3667,
+"Longitude": 15.8333
+}
+},
+{
+"Name": "Rosenfors",
+"PostCode": "577 97",
 "Location": {
 "Latitude": 57.3667,
 "Longitude": 15.8333
@@ -56710,6 +57646,38 @@
 {
 "Name": "Virserum",
 "PostCode": "570 80",
+"Location": {
+"Latitude": 57.3167,
+"Longitude": 15.5833
+}
+},
+{
+"Name": "Virserum",
+"PostCode": "577 03",
+"Location": {
+"Latitude": 57.3167,
+"Longitude": 15.5833
+}
+},
+{
+"Name": "Virserum",
+"PostCode": "577 71",
+"Location": {
+"Latitude": 57.3167,
+"Longitude": 15.5833
+}
+},
+{
+"Name": "Virserum",
+"PostCode": "577 72",
+"Location": {
+"Latitude": 57.3167,
+"Longitude": 15.5833
+}
+},
+{
+"Name": "Virserum",
+"PostCode": "577 95",
 "Location": {
 "Latitude": 57.3167,
 "Longitude": 15.5833
@@ -56944,6 +57912,22 @@
 {
 "Name": "Ruda",
 "PostCode": "570 76",
+"Location": {
+"Latitude": 57.3,
+"Longitude": 15.8333
+}
+},
+{
+"Name": "Ruda",
+"PostCode": "579 71",
+"Location": {
+"Latitude": 57.3,
+"Longitude": 15.8333
+}
+},
+{
+"Name": "Ruda",
+"PostCode": "579 95",
 "Location": {
 "Latitude": 57.3,
 "Longitude": 15.8333
@@ -57475,6 +58459,22 @@
 },
 {
 "Name": "Kalmar",
+"PostCode": "392 48",
+"Location": {
+"Latitude": 56.6616,
+"Longitude": 16.3616
+}
+},
+{
+"Name": "Kalmar",
+"PostCode": "392 49",
+"Location": {
+"Latitude": 56.6616,
+"Longitude": 16.3616
+}
+},
+{
+"Name": "Kalmar",
 "PostCode": "393 00",
 "Location": {
 "Latitude": 56.6616,
@@ -57579,6 +58579,14 @@
 },
 {
 "Name": "Kalmar",
+"PostCode": "393 66",
+"Location": {
+"Latitude": 56.6616,
+"Longitude": 16.3616
+}
+},
+{
+"Name": "Kalmar",
 "PostCode": "394 70",
 "Location": {
 "Latitude": 56.6616,
@@ -57588,6 +58596,14 @@
 {
 "Name": "Kalmar",
 "PostCode": "394 71",
+"Location": {
+"Latitude": 56.6616,
+"Longitude": 16.3616
+}
+},
+{
+"Name": "Kalmar",
+"PostCode": "394 74",
 "Location": {
 "Latitude": 56.6616,
 "Longitude": 16.3616
@@ -57796,6 +58812,14 @@
 }
 },
 {
+"Name": "Gullaskruv",
+"PostCode": "382 75",
+"Location": {
+"Latitude": 56.8833,
+"Longitude": 15.6667
+}
+},
+{
 "Name": "Läckeby",
 "PostCode": "380 31",
 "Location": {
@@ -57806,6 +58830,14 @@
 {
 "Name": "Målerås",
 "PostCode": "380 42",
+"Location": {
+"Latitude": 56.9167,
+"Longitude": 15.5667
+}
+},
+{
+"Name": "Målerås",
+"PostCode": "382 76",
 "Location": {
 "Latitude": 56.9167,
 "Longitude": 15.5667
@@ -58158,6 +59190,30 @@
 }
 },
 {
+"Name": "Kristdala",
+"PostCode": "572 07",
+"Location": {
+"Latitude": 57.4,
+"Longitude": 16.1833
+}
+},
+{
+"Name": "Kristdala",
+"PostCode": "572 73",
+"Location": {
+"Latitude": 57.4,
+"Longitude": 16.1833
+}
+},
+{
+"Name": "Kristdala",
+"PostCode": "572 97",
+"Location": {
+"Latitude": 57.4,
+"Longitude": 16.1833
+}
+},
+{
 "Name": "Oskarshamn",
 "PostCode": "572 00",
 "Location": {
@@ -58420,6 +59476,14 @@
 "Latitude": 57.1667,
 "Longitude": 16.45
 }
+},
+{
+"Name": "Påskallavik",
+"PostCode": "572 74",
+"Location": {
+"Latitude": 57.1667,
+"Longitude": 16.45
+}
 }
 ]
 }
@@ -58434,6 +59498,22 @@
 {
 "Name": "Edsbruk",
 "PostCode": "590 98",
+"Location": {
+"Latitude": 58.0333,
+"Longitude": 16.4667
+}
+},
+{
+"Name": "Edsbruk",
+"PostCode": "594 74",
+"Location": {
+"Latitude": 58.0333,
+"Longitude": 16.4667
+}
+},
+{
+"Name": "Edsbruk",
+"PostCode": "594 75",
 "Location": {
 "Latitude": 58.0333,
 "Longitude": 16.4667
@@ -58544,8 +59624,40 @@
 }
 },
 {
+"Name": "Loftahammar",
+"PostCode": "594 70",
+"Location": {
+"Latitude": 57.8997,
+"Longitude": 16.7
+}
+},
+{
+"Name": "Loftahammar",
+"PostCode": "594 71",
+"Location": {
+"Latitude": 57.8997,
+"Longitude": 16.7
+}
+},
+{
 "Name": "Överum",
 "PostCode": "590 96",
+"Location": {
+"Latitude": 57.9833,
+"Longitude": 16.3167
+}
+},
+{
+"Name": "Överum",
+"PostCode": "594 72",
+"Location": {
+"Latitude": 57.9833,
+"Longitude": 16.3167
+}
+},
+{
+"Name": "Överum",
+"PostCode": "594 73",
 "Location": {
 "Latitude": 57.9833,
 "Longitude": 16.3167
@@ -58996,6 +60108,14 @@
 {
 "Name": "Totebo",
 "PostCode": "590 92",
+"Location": {
+"Latitude": 57.6333,
+"Longitude": 16.2
+}
+},
+{
+"Name": "Totebo",
+"PostCode": "593 72",
 "Location": {
 "Latitude": 57.6333,
 "Longitude": 16.2
@@ -61286,6 +62406,14 @@
 }
 },
 {
+"Name": "Drottningskär",
+"PostCode": "373 64",
+"Location": {
+"Latitude": 56.1167,
+"Longitude": 15.5667
+}
+},
+{
 "Name": "Fågelmara",
 "PostCode": "370 45",
 "Location": {
@@ -61824,6 +62952,22 @@
 }
 },
 {
+"Name": "Backaryd",
+"PostCode": "372 77",
+"Location": {
+"Latitude": 56.3333,
+"Longitude": 15.1833
+}
+},
+{
+"Name": "Backaryd",
+"PostCode": "372 96",
+"Location": {
+"Latitude": 56.3333,
+"Longitude": 15.1833
+}
+},
+{
 "Name": "Bräkne-Hoby",
 "PostCode": "370 10",
 "Location": {
@@ -61834,6 +62978,22 @@
 {
 "Name": "Eringsboda",
 "PostCode": "370 17",
+"Location": {
+"Latitude": 56.4333,
+"Longitude": 15.35
+}
+},
+{
+"Name": "Eringsboda",
+"PostCode": "372 78",
+"Location": {
+"Latitude": 56.4333,
+"Longitude": 15.35
+}
+},
+{
+"Name": "Eringsboda",
+"PostCode": "372 98",
 "Location": {
 "Latitude": 56.4333,
 "Longitude": 15.35
@@ -62180,6 +63340,22 @@
 {
 "Name": "Hallabro",
 "PostCode": "370 12",
+"Location": {
+"Latitude": 56.3833,
+"Longitude": 15.1
+}
+},
+{
+"Name": "Hallabro",
+"PostCode": "372 76",
+"Location": {
+"Latitude": 56.3833,
+"Longitude": 15.1
+}
+},
+{
+"Name": "Hallabro",
+"PostCode": "372 93",
 "Location": {
 "Latitude": 56.3833,
 "Longitude": 15.1
@@ -64044,6 +65220,30 @@
 {
 "Name": "Limhamn",
 "PostCode": "216 42",
+"Location": {
+"Latitude": 55.5833,
+"Longitude": 12.95
+}
+},
+{
+"Name": "Limhamn",
+"PostCode": "216 44",
+"Location": {
+"Latitude": 55.5833,
+"Longitude": 12.95
+}
+},
+{
+"Name": "Limhamn",
+"PostCode": "216 48",
+"Location": {
+"Latitude": 55.5833,
+"Longitude": 12.95
+}
+},
+{
+"Name": "Limhamn",
+"PostCode": "216 49",
 "Location": {
 "Latitude": 55.5833,
 "Longitude": 12.95
@@ -73813,6 +75013,14 @@
 },
 {
 "Name": "Båstad",
+"PostCode": "269 44",
+"Location": {
+"Latitude": 56.4269,
+"Longitude": 12.8534
+}
+},
+{
+"Name": "Båstad",
 "PostCode": "269 80",
 "Location": {
 "Latitude": 56.4269,
@@ -74997,6 +76205,22 @@
 },
 {
 "Name": "Helsingborg",
+"PostCode": "252 18",
+"Location": {
+"Latitude": 56.0467,
+"Longitude": 12.6944
+}
+},
+{
+"Name": "Helsingborg",
+"PostCode": "252 19",
+"Location": {
+"Latitude": 56.0467,
+"Longitude": 12.6944
+}
+},
+{
+"Name": "Helsingborg",
 "PostCode": "252 20",
 "Location": {
 "Latitude": 56.0467,
@@ -75101,7 +76325,47 @@
 },
 {
 "Name": "Helsingborg",
+"PostCode": "252 33",
+"Location": {
+"Latitude": 56.0467,
+"Longitude": 12.6944
+}
+},
+{
+"Name": "Helsingborg",
 "PostCode": "252 34",
+"Location": {
+"Latitude": 56.0467,
+"Longitude": 12.6944
+}
+},
+{
+"Name": "Helsingborg",
+"PostCode": "252 37",
+"Location": {
+"Latitude": 56.0467,
+"Longitude": 12.6944
+}
+},
+{
+"Name": "Helsingborg",
+"PostCode": "252 38",
+"Location": {
+"Latitude": 56.0467,
+"Longitude": 12.6944
+}
+},
+{
+"Name": "Helsingborg",
+"PostCode": "252 40",
+"Location": {
+"Latitude": 56.0467,
+"Longitude": 12.6944
+}
+},
+{
+"Name": "Helsingborg",
+"PostCode": "252 41",
 "Location": {
 "Latitude": 56.0467,
 "Longitude": 12.6944
@@ -77359,6 +78623,14 @@
 },
 {
 "Name": "Åhus",
+"PostCode": "296 41",
+"Location": {
+"Latitude": 55.9167,
+"Longitude": 14.2833
+}
+},
+{
+"Name": "Åhus",
 "PostCode": "296 80",
 "Location": {
 "Latitude": 55.9167,
@@ -78603,6 +79875,14 @@
 },
 {
 "Name": "Ängelholm",
+"PostCode": "262 37",
+"Location": {
+"Latitude": 56.2428,
+"Longitude": 12.8622
+}
+},
+{
+"Name": "Ängelholm",
 "PostCode": "262 41",
 "Location": {
 "Latitude": 56.2428,
@@ -78628,6 +79908,14 @@
 {
 "Name": "Ängelholm",
 "PostCode": "262 44",
+"Location": {
+"Latitude": 56.2428,
+"Longitude": 12.8622
+}
+},
+{
+"Name": "Ängelholm",
+"PostCode": "262 50",
 "Location": {
 "Latitude": 56.2428,
 "Longitude": 12.8622
@@ -78675,6 +79963,14 @@
 },
 {
 "Name": "Ängelholm",
+"PostCode": "262 60",
+"Location": {
+"Latitude": 56.2428,
+"Longitude": 12.8622
+}
+},
+{
+"Name": "Ängelholm",
 "PostCode": "262 61",
 "Location": {
 "Latitude": 56.2428,
@@ -78715,6 +80011,14 @@
 },
 {
 "Name": "Ängelholm",
+"PostCode": "262 66",
+"Location": {
+"Latitude": 56.2428,
+"Longitude": 12.8622
+}
+},
+{
+"Name": "Ängelholm",
 "PostCode": "262 71",
 "Location": {
 "Latitude": 56.2428,
@@ -78732,6 +80036,14 @@
 {
 "Name": "Ängelholm",
 "PostCode": "262 73",
+"Location": {
+"Latitude": 56.2428,
+"Longitude": 12.8622
+}
+},
+{
+"Name": "Ängelholm",
+"PostCode": "262 78",
 "Location": {
 "Latitude": 56.2428,
 "Longitude": 12.8622
@@ -79086,6 +80398,14 @@
 {
 "Name": "Hässleholm",
 "PostCode": "281 33",
+"Location": {
+"Latitude": 56.1591,
+"Longitude": 13.7664
+}
+},
+{
+"Name": "Hässleholm",
+"PostCode": "281 34",
 "Location": {
 "Latitude": 56.1591,
 "Longitude": 13.7664
@@ -80471,6 +81791,14 @@
 },
 {
 "Name": "Halmstad",
+"PostCode": "302 83",
+"Location": {
+"Latitude": 56.6745,
+"Longitude": 12.8568
+}
+},
+{
+"Name": "Halmstad",
 "PostCode": "305 91",
 "Location": {
 "Latitude": 56.6745,
@@ -80856,6 +82184,14 @@
 }
 },
 {
+"Name": "Skottorp",
+"PostCode": "312 77",
+"Location": {
+"Latitude": 56.45,
+"Longitude": 12.95
+}
+},
+{
 "Name": "Skummeslövsstrand",
 "PostCode": "312 71",
 "Location": {
@@ -80866,6 +82202,14 @@
 {
 "Name": "Skummeslövsstrand",
 "PostCode": "312 72",
+"Location": {
+"Latitude": 56.4667,
+"Longitude": 12.9167
+}
+},
+{
+"Name": "Skummeslövsstrand",
+"PostCode": "312 73",
 "Location": {
 "Latitude": 56.4667,
 "Longitude": 12.9167
@@ -81396,6 +82740,14 @@
 }
 },
 {
+"Name": "Ullared",
+"PostCode": "311 60",
+"Location": {
+"Latitude": 57.1333,
+"Longitude": 12.7167
+}
+},
+{
 "Name": "Varberg",
 "PostCode": "432 01",
 "Location": {
@@ -81621,6 +82973,14 @@
 },
 {
 "Name": "Varberg",
+"PostCode": "432 47",
+"Location": {
+"Latitude": 57.1056,
+"Longitude": 12.2508
+}
+},
+{
+"Name": "Varberg",
 "PostCode": "432 50",
 "Location": {
 "Latitude": 57.1056,
@@ -81654,6 +83014,14 @@
 {
 "Name": "Varberg",
 "PostCode": "432 54",
+"Location": {
+"Latitude": 57.1056,
+"Longitude": 12.2508
+}
+},
+{
+"Name": "Varberg",
+"PostCode": "432 57",
 "Location": {
 "Latitude": 57.1056,
 "Longitude": 12.2508
@@ -85252,6 +86620,14 @@
 }
 },
 {
+"Name": "Herrljunga",
+"PostCode": "524 33",
+"Location": {
+"Latitude": 58.0774,
+"Longitude": 13.0266
+}
+},
+{
 "Name": "Hisings Backa",
 "PostCode": "422 20",
 "Location": {
@@ -85326,6 +86702,14 @@
 {
 "Name": "Kinna",
 "PostCode": "511 24",
+"Location": {
+"Latitude": 57.5073,
+"Longitude": 12.6946
+}
+},
+{
+"Name": "Kinna",
+"PostCode": "511 53",
 "Location": {
 "Latitude": 57.5073,
 "Longitude": 12.6946
@@ -85788,6 +87172,30 @@
 }
 },
 {
+"Name": "Ulricehamn",
+"PostCode": "523 43",
+"Location": {
+"Latitude": 57.7916,
+"Longitude": 13.4142
+}
+},
+{
+"Name": "Ulricehamn",
+"PostCode": "523 44",
+"Location": {
+"Latitude": 57.7916,
+"Longitude": 13.4142
+}
+},
+{
+"Name": "Ulricehamn",
+"PostCode": "523 45",
+"Location": {
+"Latitude": 57.7916,
+"Longitude": 13.4142
+}
+},
+{
 "Name": "Vänersborg",
 "PostCode": "462 03",
 "Location": {
@@ -86000,6 +87408,14 @@
 {
 "Name": "Landvetter",
 "PostCode": "438 38",
+"Location": {
+"Latitude": 57.6866,
+"Longitude": 12.2117
+}
+},
+{
+"Name": "Landvetter",
+"PostCode": "438 39",
 "Location": {
 "Latitude": 57.6866,
 "Longitude": 12.2117
@@ -89031,6 +90447,14 @@
 },
 {
 "Name": "Gråbo",
+"PostCode": "443 44",
+"Location": {
+"Latitude": 57.8333,
+"Longitude": 12.3
+}
+},
+{
+"Name": "Gråbo",
 "PostCode": "443 70",
 "Location": {
 "Latitude": 57.8333,
@@ -91542,6 +92966,14 @@
 {
 "Name": "Skene",
 "PostCode": "511 63",
+"Location": {
+"Latitude": 57.4833,
+"Longitude": 12.6333
+}
+},
+{
+"Name": "Skene",
+"PostCode": "511 64",
 "Location": {
 "Latitude": 57.4833,
 "Longitude": 12.6333
@@ -96091,7 +97523,295 @@
 },
 {
 "Name": "Göteborg",
+"PostCode": "415 28",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 31",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 32",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 33",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 34",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 35",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 36",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 37",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 38",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 41",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 42",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 43",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 44",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 45",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 46",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 47",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 48",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
 "PostCode": "415 50",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 51",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 52",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 53",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 54",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 55",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 56",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 57",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 61",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 62",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 63",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 64",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 65",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 66",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 67",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 68",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 71",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 72",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 73",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "415 74",
 "Location": {
 "Latitude": 57.7072,
 "Longitude": 11.9668
@@ -96467,6 +98187,46 @@
 },
 {
 "Name": "Göteborg",
+"PostCode": "417 08",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "417 09",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "417 10",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "417 11",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "417 12",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
 "PostCode": "417 13",
 "Location": {
 "Latitude": 57.7072,
@@ -96539,6 +98299,38 @@
 },
 {
 "Name": "Göteborg",
+"PostCode": "417 22",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "417 23",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "417 24",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "417 25",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
 "PostCode": "417 26",
 "Location": {
 "Latitude": 57.7072,
@@ -96564,6 +98356,38 @@
 {
 "Name": "Göteborg",
 "PostCode": "417 29",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "417 30",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "417 39",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "417 40",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "417 41",
 "Location": {
 "Latitude": 57.7072,
 "Longitude": 11.9668
@@ -96628,6 +98452,30 @@
 {
 "Name": "Göteborg",
 "PostCode": "417 49",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "417 50",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "417 52",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "417 53",
 "Location": {
 "Latitude": 57.7072,
 "Longitude": 11.9668
@@ -96708,6 +98556,30 @@
 {
 "Name": "Göteborg",
 "PostCode": "417 64",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "417 68",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "417 69",
+"Location": {
+"Latitude": 57.7072,
+"Longitude": 11.9668
+}
+},
+{
+"Name": "Göteborg",
+"PostCode": "417 70",
 "Location": {
 "Latitude": 57.7072,
 "Longitude": 11.9668
@@ -105232,6 +107104,14 @@
 }
 },
 {
+"Name": "Lerdala",
+"PostCode": "541 97",
+"Location": {
+"Latitude": 58.4833,
+"Longitude": 13.7167
+}
+},
+{
 "Name": "Moholm",
 "PostCode": "549 92",
 "Location": {
@@ -105720,6 +107600,22 @@
 }
 },
 {
+"Name": "Timmersdala",
+"PostCode": "541 71",
+"Location": {
+"Latitude": 58.5333,
+"Longitude": 13.75
+}
+},
+{
+"Name": "Timmersdala",
+"PostCode": "541 95",
+"Location": {
+"Latitude": 58.5333,
+"Longitude": 13.75
+}
+},
+{
 "Name": "Väring",
 "PostCode": "540 15",
 "Location": {
@@ -105796,6 +107692,30 @@
 {
 "Name": "Hjo",
 "PostCode": "544 33",
+"Location": {
+"Latitude": 58.3013,
+"Longitude": 14.2878
+}
+},
+{
+"Name": "Hjo",
+"PostCode": "544 34",
+"Location": {
+"Latitude": 58.3013,
+"Longitude": 14.2878
+}
+},
+{
+"Name": "Hjo",
+"PostCode": "544 35",
+"Location": {
+"Latitude": 58.3013,
+"Longitude": 14.2878
+}
+},
+{
+"Name": "Hjo",
+"PostCode": "544 36",
 "Location": {
 "Latitude": 58.3013,
 "Longitude": 14.2878
@@ -105966,6 +107886,14 @@
 {
 "Name": "Tidaholm",
 "PostCode": "522 35",
+"Location": {
+"Latitude": 58.1804,
+"Longitude": 13.9582
+}
+},
+{
+"Name": "Tidaholm",
+"PostCode": "522 37",
 "Location": {
 "Latitude": 58.1804,
 "Longitude": 13.9582
@@ -110824,6 +112752,14 @@
 }
 },
 {
+"Name": "Ljusfallshammar",
+"PostCode": "612 73",
+"Location": {
+"Latitude": 58.7833,
+"Longitude": 15.4833
+}
+},
+{
 "Name": "Östansjö",
 "PostCode": "694 72",
 "Location": {
@@ -111482,6 +113418,22 @@
 {
 "Name": "Högsjö",
 "PostCode": "640 10",
+"Location": {
+"Latitude": 59.0333,
+"Longitude": 15.6833
+}
+},
+{
+"Name": "Högsjö",
+"PostCode": "643 62",
+"Location": {
+"Latitude": 59.0333,
+"Longitude": 15.6833
+}
+},
+{
+"Name": "Högsjö",
+"PostCode": "643 99",
 "Location": {
 "Latitude": 59.0333,
 "Longitude": 15.6833
@@ -112266,6 +114218,14 @@
 {
 "Name": "Örebro",
 "PostCode": "702 35",
+"Location": {
+"Latitude": 59.2741,
+"Longitude": 15.2066
+}
+},
+{
+"Name": "Örebro",
+"PostCode": "702 36",
 "Location": {
 "Latitude": 59.2741,
 "Longitude": 15.2066
@@ -116079,6 +118039,14 @@
 },
 {
 "Name": "Västerås",
+"PostCode": "723 58",
+"Location": {
+"Latitude": 59.6162,
+"Longitude": 16.5528
+}
+},
+{
+"Name": "Västerås",
 "PostCode": "724 01",
 "Location": {
 "Latitude": 59.6162,
@@ -117598,6 +119566,38 @@
 }
 },
 {
+"Name": "Dala-Järna",
+"PostCode": "786 02",
+"Location": {
+"Latitude": 60.55,
+"Longitude": 14.35
+}
+},
+{
+"Name": "Dala-Järna",
+"PostCode": "786 71",
+"Location": {
+"Latitude": 60.55,
+"Longitude": 14.35
+}
+},
+{
+"Name": "Dala-Järna",
+"PostCode": "786 72",
+"Location": {
+"Latitude": 60.55,
+"Longitude": 14.35
+}
+},
+{
+"Name": "Dala-Järna",
+"PostCode": "786 92",
+"Location": {
+"Latitude": 60.55,
+"Longitude": 14.35
+}
+},
+{
 "Name": "Nås",
 "PostCode": "780 53",
 "Location": {
@@ -117606,8 +119606,56 @@
 }
 },
 {
+"Name": "Nås",
+"PostCode": "786 93",
+"Location": {
+"Latitude": 60.45,
+"Longitude": 14.4833
+}
+},
+{
 "Name": "Vansbro",
 "PostCode": "780 50",
+"Location": {
+"Latitude": 60.5089,
+"Longitude": 14.2246
+}
+},
+{
+"Name": "Vansbro",
+"PostCode": "786 21",
+"Location": {
+"Latitude": 60.5089,
+"Longitude": 14.2246
+}
+},
+{
+"Name": "Vansbro",
+"PostCode": "786 31",
+"Location": {
+"Latitude": 60.5089,
+"Longitude": 14.2246
+}
+},
+{
+"Name": "Vansbro",
+"PostCode": "786 32",
+"Location": {
+"Latitude": 60.5089,
+"Longitude": 14.2246
+}
+},
+{
+"Name": "Vansbro",
+"PostCode": "786 33",
+"Location": {
+"Latitude": 60.5089,
+"Longitude": 14.2246
+}
+},
+{
+"Name": "Vansbro",
+"PostCode": "786 91",
 "Location": {
 "Latitude": 60.5089,
 "Longitude": 14.2246
@@ -117626,6 +119674,14 @@
 {
 "Name": "Äppelbo",
 "PostCode": "780 54",
+"Location": {
+"Latitude": 60.4833,
+"Longitude": 14.0
+}
+},
+{
+"Name": "Äppelbo",
+"PostCode": "786 94",
 "Location": {
 "Latitude": 60.4833,
 "Longitude": 14.0
@@ -117794,8 +119850,24 @@
 }
 },
 {
+"Name": "Björbo",
+"PostCode": "786 97",
+"Location": {
+"Latitude": 60.45,
+"Longitude": 14.7
+}
+},
+{
 "Name": "Dala-Floda",
 "PostCode": "780 44",
+"Location": {
+"Latitude": 60.4833,
+"Longitude": 14.7833
+}
+},
+{
+"Name": "Dala-Floda",
+"PostCode": "786 95",
 "Location": {
 "Latitude": 60.4833,
 "Longitude": 14.7833
@@ -117830,6 +119902,14 @@
 {
 "Name": "Djura",
 "PostCode": "790 31",
+"Location": {
+"Latitude": 60.6167,
+"Longitude": 15.0
+}
+},
+{
+"Name": "Djura",
+"PostCode": "793 93",
 "Location": {
 "Latitude": 60.6167,
 "Longitude": 15.0
@@ -120109,6 +122189,30 @@
 "Places": [
 {
 "Name": "Gustafs",
+"PostCode": "781 60",
+"Location": {
+"Latitude": 60.4,
+"Longitude": 15.6
+}
+},
+{
+"Name": "Gustafs",
+"PostCode": "781 61",
+"Location": {
+"Latitude": 60.4,
+"Longitude": 15.6
+}
+},
+{
+"Name": "Gustafs",
+"PostCode": "781 62",
+"Location": {
+"Latitude": 60.4,
+"Longitude": 15.6
+}
+},
+{
+"Name": "Gustafs",
 "PostCode": "783 50",
 "Location": {
 "Latitude": 60.4,
@@ -120570,6 +122674,14 @@
 {
 "Name": "Avesta",
 "PostCode": "774 62",
+"Location": {
+"Latitude": 60.1454,
+"Longitude": 16.1679
+}
+},
+{
+"Name": "Avesta",
+"PostCode": "774 63",
 "Location": {
 "Latitude": 60.1454,
 "Longitude": 16.1679
@@ -123405,6 +125517,14 @@
 },
 {
 "Name": "Gävle",
+"PostCode": "806 47",
+"Location": {
+"Latitude": 60.6745,
+"Longitude": 17.1417
+}
+},
+{
+"Name": "Gävle",
 "PostCode": "806 48",
 "Location": {
 "Latitude": 60.6745,
@@ -123533,6 +125653,14 @@
 },
 {
 "Name": "Valbo",
+"PostCode": "818 35",
+"Location": {
+"Latitude": 60.65,
+"Longitude": 17.0333
+}
+},
+{
+"Name": "Valbo",
 "PostCode": "818 91",
 "Location": {
 "Latitude": 60.65,
@@ -123560,6 +125688,30 @@
 {
 "Name": "Årsunda",
 "PostCode": "810 22",
+"Location": {
+"Latitude": 60.5333,
+"Longitude": 16.7333
+}
+},
+{
+"Name": "Årsunda",
+"PostCode": "811 73",
+"Location": {
+"Latitude": 60.5333,
+"Longitude": 16.7333
+}
+},
+{
+"Name": "Årsunda",
+"PostCode": "811 96",
+"Location": {
+"Latitude": 60.5333,
+"Longitude": 16.7333
+}
+},
+{
+"Name": "Årsunda",
+"PostCode": "811 99",
 "Location": {
 "Latitude": 60.5333,
 "Longitude": 16.7333
@@ -123608,6 +125760,14 @@
 {
 "Name": "Gysinge",
 "PostCode": "810 21",
+"Location": {
+"Latitude": 60.2833,
+"Longitude": 16.8833
+}
+},
+{
+"Name": "Gysinge",
+"PostCode": "811 97",
 "Location": {
 "Latitude": 60.2833,
 "Longitude": 16.8833
@@ -123680,6 +125840,22 @@
 {
 "Name": "Österfärnebo",
 "PostCode": "810 20",
+"Location": {
+"Latitude": 60.3,
+"Longitude": 16.8
+}
+},
+{
+"Name": "Österfärnebo",
+"PostCode": "811 74",
+"Location": {
+"Latitude": 60.3,
+"Longitude": 16.8
+}
+},
+{
+"Name": "Österfärnebo",
+"PostCode": "811 98",
 "Location": {
 "Latitude": 60.3,
 "Longitude": 16.8
@@ -124957,6 +127133,22 @@
 },
 {
 "Name": "Hudiksvall",
+"PostCode": "824 31",
+"Location": {
+"Latitude": 61.729,
+"Longitude": 17.1036
+}
+},
+{
+"Name": "Hudiksvall",
+"PostCode": "824 32",
+"Location": {
+"Latitude": 61.729,
+"Longitude": 17.1036
+}
+},
+{
+"Name": "Hudiksvall",
 "PostCode": "824 33",
 "Location": {
 "Latitude": 61.729,
@@ -124966,6 +127158,22 @@
 {
 "Name": "Hudiksvall",
 "PostCode": "824 34",
+"Location": {
+"Latitude": 61.729,
+"Longitude": 17.1036
+}
+},
+{
+"Name": "Hudiksvall",
+"PostCode": "824 35",
+"Location": {
+"Latitude": 61.729,
+"Longitude": 17.1036
+}
+},
+{
+"Name": "Hudiksvall",
+"PostCode": "824 39",
 "Location": {
 "Latitude": 61.729,
 "Longitude": 17.1036
@@ -125005,6 +127213,22 @@
 },
 {
 "Name": "Hudiksvall",
+"PostCode": "824 44",
+"Location": {
+"Latitude": 61.729,
+"Longitude": 17.1036
+}
+},
+{
+"Name": "Hudiksvall",
+"PostCode": "824 45",
+"Location": {
+"Latitude": 61.729,
+"Longitude": 17.1036
+}
+},
+{
+"Name": "Hudiksvall",
 "PostCode": "824 50",
 "Location": {
 "Latitude": 61.729,
@@ -125022,6 +127246,38 @@
 {
 "Name": "Hudiksvall",
 "PostCode": "824 52",
+"Location": {
+"Latitude": 61.729,
+"Longitude": 17.1036
+}
+},
+{
+"Name": "Hudiksvall",
+"PostCode": "824 53",
+"Location": {
+"Latitude": 61.729,
+"Longitude": 17.1036
+}
+},
+{
+"Name": "Hudiksvall",
+"PostCode": "824 54",
+"Location": {
+"Latitude": 61.729,
+"Longitude": 17.1036
+}
+},
+{
+"Name": "Hudiksvall",
+"PostCode": "824 55",
+"Location": {
+"Latitude": 61.729,
+"Longitude": 17.1036
+}
+},
+{
+"Name": "Hudiksvall",
+"PostCode": "824 56",
 "Location": {
 "Latitude": 61.729,
 "Longitude": 17.1036
@@ -126188,6 +128444,14 @@
 {
 "Name": "Sundsvall",
 "PostCode": "859 98",
+"Location": {
+"Latitude": 62.3913,
+"Longitude": 17.3063
+}
+},
+{
+"Name": "Sundsvall",
+"PostCode": "863 37",
 "Location": {
 "Latitude": 62.3913,
 "Longitude": 17.3063

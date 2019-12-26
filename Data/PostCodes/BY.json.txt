@@ -3262,6 +3262,14 @@
 }
 },
 {
+"Name": "Ильюшино",
+"PostCode": "211483",
+"Location": {
+"Latitude": 55.1307,
+"Longitude": 28.4734
+}
+},
+{
 "Name": "Косари",
 "PostCode": "211486",
 "Location": {
@@ -3366,25 +3374,6 @@
 }
 }
 ]
-}
-]
-},
-{
-"Name": "Ouchatci",
-"PostCode": "211483",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Ильюшино",
-"PostCode": "211483",
-"Location": {
-"Latitude": 55.1307,
-"Longitude": 28.4734
-}
-}
-],
-"PostCode": "211483"
 }
 ]
 },
@@ -4594,6 +4583,14 @@
 }
 },
 {
+"Name": "Браслав",
+"PostCode": "211970",
+"Location": {
+"Latitude": 55.6413,
+"Longitude": 27.0418
+}
+},
+{
 "Name": "Быстромовцы",
 "PostCode": "211986",
 "Location": {
@@ -4706,6 +4703,14 @@
 }
 },
 {
+"Name": "Литовщина",
+"PostCode": "211979",
+"Location": {
+"Latitude": 55.6411,
+"Longitude": 27.1622
+}
+},
+{
 "Name": "Межаны",
 "PostCode": "211982",
 "Location": {
@@ -4799,31 +4804,6 @@
 "Location": {
 "Latitude": 55.695,
 "Longitude": 26.8985
-}
-}
-]
-}
-]
-},
-{
-"Name": "Braslov",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Браслав",
-"PostCode": "211970",
-"Location": {
-"Latitude": 55.6413,
-"Longitude": 27.0418
-}
-},
-{
-"Name": "Литовщина",
-"PostCode": "211979",
-"Location": {
-"Latitude": 55.6411,
-"Longitude": 27.1622
 }
 }
 ]
@@ -5050,6 +5030,14 @@
 }
 },
 {
+"Name": "Изабелин",
+"PostCode": "231922",
+"Location": {
+"Latitude": 53.0922,
+"Longitude": 24.5547
+}
+},
+{
 "Name": "Конюхи",
 "PostCode": "231928",
 "Location": {
@@ -5098,6 +5086,14 @@
 }
 },
 {
+"Name": "Мотвеевцы",
+"PostCode": "231924",
+"Location": {
+"Latitude": 53.1825,
+"Longitude": 24.5168
+}
+},
+{
 "Name": "Мстибово",
 "PostCode": "231902",
 "Location": {
@@ -5114,11 +5110,51 @@
 }
 },
 {
+"Name": "Репля",
+"PostCode": "231915",
+"Location": {
+"Latitude": 53.253,
+"Longitude": 24.4019
+}
+},
+{
+"Name": "Родники",
+"PostCode": "231909",
+"Location": {
+"Latitude": 53.1356,
+"Longitude": 24.2026
+}
+},
+{
+"Name": "Россь",
+"PostCode": "231912",
+"Location": {
+"Latitude": 53.2858,
+"Longitude": 24.4128
+}
+},
+{
 "Name": "Рупейки",
 "PostCode": "231927",
 "Location": {
 "Latitude": 53.0949,
 "Longitude": 24.4908
+}
+},
+{
+"Name": "Субочи",
+"PostCode": "231907",
+"Location": {
+"Latitude": 53.171,
+"Longitude": 24.3507
+}
+},
+{
+"Name": "Теолин",
+"PostCode": "231910",
+"Location": {
+"Latitude": 53.2201,
+"Longitude": 24.4306
 }
 },
 {
@@ -5436,6 +5472,14 @@
 }
 },
 {
+"Name": "Валейковичи",
+"PostCode": "231037",
+"Location": {
+"Latitude": 54.2667,
+"Longitude": 26.3129
+}
+},
+{
 "Name": "Вишнево",
 "PostCode": "231005",
 "Location": {
@@ -5612,25 +5656,6 @@
 }
 }
 ]
-}
-]
-},
-{
-"Name": "Smorghon",
-"PostCode": "231037",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Валейковичи",
-"PostCode": "231037",
-"Location": {
-"Latitude": 54.2667,
-"Longitude": 26.3129
-}
-}
-],
-"PostCode": "231037"
 }
 ]
 },
@@ -6919,6 +6944,14 @@
 }
 },
 {
+"Name": "Василишки",
+"PostCode": "231522",
+"Location": {
+"Latitude": 53.7807,
+"Longitude": 24.8489
+}
+},
+{
 "Name": "Головичполье",
 "PostCode": "231524",
 "Location": {
@@ -7047,6 +7080,22 @@
 }
 },
 {
+"Name": "Прудяны",
+"PostCode": "231542",
+"Location": {
+"Latitude": 53.834,
+"Longitude": 24.6375
+}
+},
+{
+"Name": "Раковичи",
+"PostCode": "231550",
+"Location": {
+"Latitude": 53.5134,
+"Longitude": 24.8372
+}
+},
+{
 "Name": "Рожанка",
 "PostCode": "231552",
 "Location": {
@@ -7103,63 +7152,6 @@
 }
 }
 ]
-}
-]
-},
-{
-"Name": "Chtcoutchin",
-"PostCode": "231522",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Василишки",
-"PostCode": "231522",
-"Location": {
-"Latitude": 53.7807,
-"Longitude": 24.8489
-}
-}
-],
-"PostCode": "231522"
-}
-]
-},
-{
-"Name": "Ctchoutchin",
-"PostCode": "231542",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Прудяны",
-"PostCode": "231542",
-"Location": {
-"Latitude": 53.834,
-"Longitude": 24.6375
-}
-}
-],
-"PostCode": "231542"
-}
-]
-},
-{
-"Name": "Htchoutchin",
-"PostCode": "231550",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Раковичи",
-"PostCode": "231550",
-"Location": {
-"Latitude": 53.5134,
-"Longitude": 24.8372
-}
-}
-],
-"PostCode": "231550"
 }
 ]
 },
@@ -7672,71 +7664,6 @@
 "Location": {
 "Latitude": 53.0354,
 "Longitude": 25.3606
-}
-}
-]
-}
-]
-},
-{
-"Name": "Volkovysk",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Изабелин",
-"PostCode": "231922",
-"Location": {
-"Latitude": 53.0922,
-"Longitude": 24.5547
-}
-},
-{
-"Name": "Мотвеевцы",
-"PostCode": "231924",
-"Location": {
-"Latitude": 53.1825,
-"Longitude": 24.5168
-}
-},
-{
-"Name": "Репля",
-"PostCode": "231915",
-"Location": {
-"Latitude": 53.253,
-"Longitude": 24.4019
-}
-},
-{
-"Name": "Родники",
-"PostCode": "231909",
-"Location": {
-"Latitude": 53.1356,
-"Longitude": 24.2026
-}
-},
-{
-"Name": "Россь",
-"PostCode": "231912",
-"Location": {
-"Latitude": 53.2858,
-"Longitude": 24.4128
-}
-},
-{
-"Name": "Субочи",
-"PostCode": "231907",
-"Location": {
-"Latitude": 53.171,
-"Longitude": 24.3507
-}
-},
-{
-"Name": "Теолин",
-"PostCode": "231910",
-"Location": {
-"Latitude": 53.2201,
-"Longitude": 24.4306
 }
 }
 ]
@@ -8386,17 +8313,7 @@
 "Latitude": 52.5648,
 "Longitude": 30.9141
 }
-}
-]
-}
-]
 },
-{
-"Name": "Omel",
-"PostCode": "247037",
-"Communities": [
-{
-"Places": [
 {
 "Name": "Шарпиловка",
 "PostCode": "247037",
@@ -8405,8 +8322,7 @@
 "Longitude": 30.9313
 }
 }
-],
-"PostCode": "247037"
+]
 }
 ]
 },
@@ -9199,6 +9115,14 @@
 }
 },
 {
+"Name": "Ровковичи",
+"PostCode": "247154",
+"Location": {
+"Latitude": 52.8466,
+"Longitude": 30.7736
+}
+},
+{
 "Name": "Сидоровичи",
 "PostCode": "247168",
 "Location": {
@@ -9215,25 +9139,6 @@
 }
 }
 ]
-}
-]
-},
-{
-"Name": "Tchechersk",
-"PostCode": "247154",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Ровковичи",
-"PostCode": "247154",
-"Location": {
-"Latitude": 52.8466,
-"Longitude": 30.7736
-}
-}
-],
-"PostCode": "247154"
 }
 ]
 },
@@ -10156,16 +10061,7 @@
 "Latitude": 52.3818,
 "Longitude": 29.1622
 }
-}
-]
-}
-]
 },
-{
-"Name": "Oktiabrsk",
-"Communities": [
-{
-"Places": [
 {
 "Name": "Хороицы",
 "PostCode": "247314",
@@ -12317,25 +12213,6 @@
 ]
 },
 {
-"Name": "Jitkovichi",
-"PostCode": "247960",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Житковичи",
-"PostCode": "247960",
-"Location": {
-"Latitude": 52.2168,
-"Longitude": 27.8561
-}
-}
-],
-"PostCode": "247960"
-}
-]
-},
-{
 "Name": "Jitkovitchi",
 "Communities": [
 {
@@ -12418,6 +12295,14 @@
 "Location": {
 "Latitude": 52.449,
 "Longitude": 28.0274
+}
+},
+{
+"Name": "Житковичи",
+"PostCode": "247960",
+"Location": {
+"Latitude": 52.2168,
+"Longitude": 27.8561
 }
 },
 {
@@ -12549,6 +12434,14 @@
 }
 },
 {
+"Name": "Семенча",
+"PostCode": "247969",
+"Location": {
+"Latitude": 52.3459,
+"Longitude": 27.8768
+}
+},
+{
 "Name": "Семурадцы",
 "PostCode": "247990",
 "Location": {
@@ -12605,25 +12498,6 @@
 }
 }
 ]
-}
-]
-},
-{
-"Name": "Jidkovitchi",
-"PostCode": "247969",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Семенча",
-"PostCode": "247969",
-"Location": {
-"Latitude": 52.3459,
-"Longitude": 27.8768
-}
-}
-],
-"PostCode": "247969"
 }
 ]
 }
@@ -13289,6 +13163,14 @@
 {
 "Places": [
 {
+"Name": "Гробино",
+"PostCode": "213190",
+"Location": {
+"Latitude": 54.23,
+"Longitude": 29.6569
+}
+},
+{
 "Name": "Дудаковичи",
 "PostCode": "213182",
 "Location": {
@@ -13377,25 +13259,6 @@
 }
 }
 ]
-}
-]
-},
-{
-"Name": "Krougliany",
-"PostCode": "213190",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Гробино",
-"PostCode": "213190",
-"Location": {
-"Latitude": 54.23,
-"Longitude": 29.6569
-}
-}
-],
-"PostCode": "213190"
 }
 ]
 },
@@ -14934,6 +14797,14 @@
 }
 },
 {
+"Name": "Новые Самотевичи",
+"PostCode": "213684",
+"Location": {
+"Latitude": 53.2947,
+"Longitude": 32.0777
+}
+},
+{
 "Name": "Пролетарское",
 "PostCode": "213644",
 "Location": {
@@ -15095,25 +14966,6 @@
 }
 }
 ]
-}
-]
-},
-{
-"Name": "Kostioukovitchi",
-"PostCode": "213684",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Новые Самотевичи",
-"PostCode": "213684",
-"Location": {
-"Latitude": 53.2947,
-"Longitude": 32.0777
-}
-}
-],
-"PostCode": "213684"
 }
 ]
 },
@@ -15685,6 +15537,14 @@
 }
 },
 {
+"Name": "Старое Село",
+"PostCode": "213877",
+"Location": {
+"Latitude": 52.9653,
+"Longitude": 28.8948
+}
+},
+{
 "Name": "Турино",
 "PostCode": "213864",
 "Location": {
@@ -15709,25 +15569,6 @@
 }
 }
 ]
-}
-]
-},
-{
-"Name": "Gloussk",
-"PostCode": "213877",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Старое Село",
-"PostCode": "213877",
-"Location": {
-"Latitude": 52.9653,
-"Longitude": 28.8948
-}
-}
-],
-"PostCode": "213877"
 }
 ]
 },
@@ -17448,17 +17289,7 @@
 "Latitude": 54.4881,
 "Longitude": 28.9219
 }
-}
-]
-}
-]
 },
-{
-"Name": "Kpoupki",
-"PostCode": "222017",
-"Communities": [
-{
-"Places": [
 {
 "Name": "Яновщина",
 "PostCode": "222017",
@@ -17467,8 +17298,7 @@
 "Longitude": 29.2829
 }
 }
-],
-"PostCode": "222017"
+]
 }
 ]
 },
@@ -22007,6 +21837,46 @@
 }
 },
 {
+"Name": "Белоозерск",
+"PostCode": "225215",
+"Location": {
+"Latitude": 52.4731,
+"Longitude": 25.1784
+}
+},
+{
+"Name": "Белоозерск 1",
+"PostCode": "225205",
+"Location": {
+"Latitude": 52.6315,
+"Longitude": 25.3031
+}
+},
+{
+"Name": "Береза",
+"PostCode": "225210",
+"Location": {
+"Latitude": 52.5314,
+"Longitude": 24.9786
+}
+},
+{
+"Name": "Береза Рупс",
+"PostCode": "225209",
+"Location": {
+"Latitude": 52.6315,
+"Longitude": 25.3031
+}
+},
+{
+"Name": "Большие Лесковичи",
+"PostCode": "225228",
+"Location": {
+"Latitude": 52.326,
+"Longitude": 24.92
+}
+},
+{
 "Name": "Большие Мотыкалы",
 "PostCode": "225033",
 "Location": {
@@ -22023,11 +21893,27 @@
 }
 },
 {
+"Name": "Борки",
+"PostCode": "225225",
+"Location": {
+"Latitude": 52.7835,
+"Longitude": 25.3952
+}
+},
+{
 "Name": "Брест",
 "PostCode": "224000",
 "Location": {
 "Latitude": 52.0975,
 "Longitude": 23.6878
+}
+},
+{
+"Name": "Бронная Гора",
+"PostCode": "225213",
+"Location": {
+"Latitude": 52.6115,
+"Longitude": 25.0983
 }
 },
 {
@@ -22055,11 +21941,35 @@
 }
 },
 {
+"Name": "Здитово",
+"PostCode": "225216",
+"Location": {
+"Latitude": 52.4804,
+"Longitude": 25.0037
+}
+},
+{
+"Name": "Земледелец",
+"PostCode": "225226",
+"Location": {
+"Latitude": 52.4547,
+"Longitude": 25.0035
+}
+},
+{
 "Name": "Знаменка",
 "PostCode": "225013",
 "Location": {
 "Latitude": 51.8817,
 "Longitude": 23.6555
+}
+},
+{
+"Name": "Кабаки",
+"PostCode": "225246",
+"Location": {
+"Latitude": 52.5026,
+"Longitude": 24.7706
 }
 },
 {
@@ -22103,6 +22013,14 @@
 }
 },
 {
+"Name": "Малеч",
+"PostCode": "225245",
+"Location": {
+"Latitude": 52.4837,
+"Longitude": 24.704
+}
+},
+{
 "Name": "Малые Зводы",
 "PostCode": "225043",
 "Location": {
@@ -22119,6 +22037,14 @@
 }
 },
 {
+"Name": "Междулесье",
+"PostCode": "225221",
+"Location": {
+"Latitude": 52.4547,
+"Longitude": 25.0035
+}
+},
+{
 "Name": "Мухавец",
 "PostCode": "225006",
 "Location": {
@@ -22127,11 +22053,43 @@
 }
 },
 {
+"Name": "Нарутовичи",
+"PostCode": "225243",
+"Location": {
+"Latitude": 52.5535,
+"Longitude": 24.7732
+}
+},
+{
 "Name": "Остромечево",
 "PostCode": "225034",
 "Location": {
 "Latitude": 52.2685,
 "Longitude": 23.5858
+}
+},
+{
+"Name": "Первомайская",
+"PostCode": "225230",
+"Location": {
+"Latitude": 52.5274,
+"Longitude": 24.8857
+}
+},
+{
+"Name": "Пески",
+"PostCode": "225214",
+"Location": {
+"Latitude": 52.522,
+"Longitude": 25.1974
+}
+},
+{
+"Name": "Подкраичи",
+"PostCode": "225247",
+"Location": {
+"Latitude": 52.4343,
+"Longitude": 24.7158
 }
 },
 {
@@ -22151,11 +22109,59 @@
 }
 },
 {
+"Name": "Ревятичи",
+"PostCode": "225224",
+"Location": {
+"Latitude": 52.4373,
+"Longitude": 24.8408
+}
+},
+{
+"Name": "Самойловичи",
+"PostCode": "225240",
+"Location": {
+"Latitude": 52.5567,
+"Longitude": 24.9549
+}
+},
+{
 "Name": "Санаторий Берестье",
 "PostCode": "225027",
 "Location": {
 "Latitude": 51.6809,
 "Longitude": 23.6284
+}
+},
+{
+"Name": "Селец",
+"PostCode": "225242",
+"Location": {
+"Latitude": 52.5872,
+"Longitude": 24.868
+}
+},
+{
+"Name": "Сигневичи",
+"PostCode": "225223",
+"Location": {
+"Latitude": 52.4347,
+"Longitude": 24.8942
+}
+},
+{
+"Name": "Соколово",
+"PostCode": "225212",
+"Location": {
+"Latitude": 52.5408,
+"Longitude": 25.0748
+}
+},
+{
+"Name": "Спорово",
+"PostCode": "225218",
+"Location": {
+"Latitude": 52.4236,
+"Longitude": 25.3186
 }
 },
 {
@@ -22172,6 +22178,22 @@
 "Location": {
 "Latitude": 51.9352,
 "Longitude": 23.6618
+}
+},
+{
+"Name": "Стригинь",
+"PostCode": "225211",
+"Location": {
+"Latitude": 52.505,
+"Longitude": 25.031
+}
+},
+{
+"Name": "Судиловичи",
+"PostCode": "225222",
+"Location": {
+"Latitude": 52.3529,
+"Longitude": 25.0462
 }
 },
 {
@@ -22228,6 +22250,14 @@
 "Location": {
 "Latitude": 51.7091,
 "Longitude": 23.6962
+}
+},
+{
+"Name": "Ястребель",
+"PostCode": "225227",
+"Location": {
+"Latitude": 52.3936,
+"Longitude": 24.9244
 }
 },
 {
@@ -22966,234 +22996,6 @@
 ]
 },
 {
-"Name": "Bereza",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Белоозерск",
-"PostCode": "225215",
-"Location": {
-"Latitude": 52.4731,
-"Longitude": 25.1784
-}
-},
-{
-"Name": "Белоозерск 1",
-"PostCode": "225205",
-"Location": {
-"Latitude": 52.6315,
-"Longitude": 25.3031
-}
-},
-{
-"Name": "Береза",
-"PostCode": "225210",
-"Location": {
-"Latitude": 52.5314,
-"Longitude": 24.9786
-}
-},
-{
-"Name": "Береза Рупс",
-"PostCode": "225209",
-"Location": {
-"Latitude": 52.6315,
-"Longitude": 25.3031
-}
-},
-{
-"Name": "Большие Лесковичи",
-"PostCode": "225228",
-"Location": {
-"Latitude": 52.326,
-"Longitude": 24.92
-}
-},
-{
-"Name": "Борки",
-"PostCode": "225225",
-"Location": {
-"Latitude": 52.7835,
-"Longitude": 25.3952
-}
-},
-{
-"Name": "Бронная Гора",
-"PostCode": "225213",
-"Location": {
-"Latitude": 52.6115,
-"Longitude": 25.0983
-}
-},
-{
-"Name": "Здитово",
-"PostCode": "225216",
-"Location": {
-"Latitude": 52.4804,
-"Longitude": 25.0037
-}
-},
-{
-"Name": "Земледелец",
-"PostCode": "225226",
-"Location": {
-"Latitude": 52.4547,
-"Longitude": 25.0035
-}
-},
-{
-"Name": "Кабаки",
-"PostCode": "225246",
-"Location": {
-"Latitude": 52.5026,
-"Longitude": 24.7706
-}
-},
-{
-"Name": "Малеч",
-"PostCode": "225245",
-"Location": {
-"Latitude": 52.4837,
-"Longitude": 24.704
-}
-},
-{
-"Name": "Междулесье",
-"PostCode": "225221",
-"Location": {
-"Latitude": 52.4547,
-"Longitude": 25.0035
-}
-},
-{
-"Name": "Нарутовичи",
-"PostCode": "225243",
-"Location": {
-"Latitude": 52.5535,
-"Longitude": 24.7732
-}
-},
-{
-"Name": "Первомайская",
-"PostCode": "225230",
-"Location": {
-"Latitude": 52.5274,
-"Longitude": 24.8857
-}
-},
-{
-"Name": "Пески",
-"PostCode": "225214",
-"Location": {
-"Latitude": 52.522,
-"Longitude": 25.1974
-}
-},
-{
-"Name": "Подкраичи",
-"PostCode": "225247",
-"Location": {
-"Latitude": 52.4343,
-"Longitude": 24.7158
-}
-},
-{
-"Name": "Ревятичи",
-"PostCode": "225224",
-"Location": {
-"Latitude": 52.4373,
-"Longitude": 24.8408
-}
-},
-{
-"Name": "Самойловичи",
-"PostCode": "225240",
-"Location": {
-"Latitude": 52.5567,
-"Longitude": 24.9549
-}
-},
-{
-"Name": "Селец",
-"PostCode": "225242",
-"Location": {
-"Latitude": 52.5872,
-"Longitude": 24.868
-}
-},
-{
-"Name": "Сигневичи",
-"PostCode": "225223",
-"Location": {
-"Latitude": 52.4347,
-"Longitude": 24.8942
-}
-},
-{
-"Name": "Соколово",
-"PostCode": "225212",
-"Location": {
-"Latitude": 52.5408,
-"Longitude": 25.0748
-}
-},
-{
-"Name": "Спорово",
-"PostCode": "225218",
-"Location": {
-"Latitude": 52.4236,
-"Longitude": 25.3186
-}
-},
-{
-"Name": "Стригинь",
-"PostCode": "225211",
-"Location": {
-"Latitude": 52.505,
-"Longitude": 25.031
-}
-},
-{
-"Name": "Судиловичи",
-"PostCode": "225222",
-"Location": {
-"Latitude": 52.3529,
-"Longitude": 25.0462
-}
-},
-{
-"Name": "Ястребель",
-"PostCode": "225227",
-"Location": {
-"Latitude": 52.3936,
-"Longitude": 24.9244
-}
-}
-]
-}
-]
-},
-{
-"Name": "Ivatsevichi",
-"PostCode": "225250",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Ивацевичи",
-"PostCode": "225250",
-"Location": {
-"Latitude": 52.709,
-"Longitude": 25.3401
-}
-}
-],
-"PostCode": "225250"
-}
-]
-},
-{
 "Name": "Ivatsevitchi",
 "Communities": [
 {
@@ -23340,6 +23142,14 @@
 "Location": {
 "Latitude": 52.7593,
 "Longitude": 25.3039
+}
+},
+{
+"Name": "Ивацевичи",
+"PostCode": "225250",
+"Location": {
+"Latitude": 52.709,
+"Longitude": 25.3401
 }
 },
 {
@@ -24057,6 +23867,14 @@
 }
 },
 {
+"Name": "Русиновичи",
+"PostCode": "225396",
+"Location": {
+"Latitude": 52.9816,
+"Longitude": 26.3116
+}
+},
+{
 "Name": "Своятичи",
 "PostCode": "225375",
 "Location": {
@@ -24105,25 +23923,6 @@
 }
 }
 ]
-}
-]
-},
-{
-"Name": "Liakhovichi",
-"PostCode": "225396",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Русиновичи",
-"PostCode": "225396",
-"Location": {
-"Latitude": 52.9816,
-"Longitude": 26.3116
-}
-}
-],
-"PostCode": "225396"
 }
 ]
 },
@@ -24202,6 +24001,14 @@
 "Location": {
 "Latitude": 52.8345,
 "Longitude": 26.0935
+}
+},
+{
+"Name": "Локтыши",
+"PostCode": "225442",
+"Location": {
+"Latitude": 52.8306,
+"Longitude": 26.7222
 }
 },
 {
@@ -24285,25 +24092,6 @@
 }
 }
 ]
-}
-]
-},
-{
-"Name": "Gantsevichi",
-"PostCode": "225442",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Локтыши",
-"PostCode": "225442",
-"Location": {
-"Latitude": 52.8306,
-"Longitude": 26.7222
-}
-}
-],
-"PostCode": "225442"
 }
 ]
 },

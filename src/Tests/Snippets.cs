@@ -14,11 +14,21 @@ public class Snippets
         #region bogususage
 
         var faker = new Faker<Target>()
-            .RuleFor(u => u.RandomCountryName, (f, u) => f.Country().Name())
-            .RuleFor(u => u.RandomCountryCurrency, (f, u) => f.Country().CurrencyCode())
-            .RuleFor(u => u.AustralianCapital, (f, u) => f.Country().Australia().Capital)
-            .RuleFor(u => u.RandomIrelandState, (f, u) => f.Country().Ireland().State().Name)
-            .RuleFor(u => u.RandomIcelandPostCode, (f, u) => f.Country().Iceland().PostCode());
+            .RuleFor(
+                property: u => u.RandomCountryName,
+                setter: (f, u) => f.Country().Name())
+            .RuleFor(
+                property: u => u.RandomCountryCurrency,
+                setter: (f, u) => f.Country().CurrencyCode())
+            .RuleFor(
+                property: u => u.AustralianCapital,
+                setter: (f, u) => f.Country().Australia().Capital)
+            .RuleFor(
+                property: u => u.RandomIrelandState,
+                setter: (f, u) => f.Country().Ireland().State().Name)
+            .RuleFor(
+                property: u => u.RandomIcelandPostCode,
+                setter: (f, u) => f.Country().Iceland().PostCode());
         var targetInstance = faker.Generate();
 
         #endregion
