@@ -1163,6 +1163,14 @@
 }
 },
 {
+"Name": "Schinznach Bad",
+"PostCode": "5116",
+"Location": {
+"Latitude": 47.4499,
+"Longitude": 8.1683
+}
+},
+{
 "Name": "Umiken",
 "PostCode": "5222",
 "Location": {
@@ -1343,21 +1351,6 @@
 }
 ],
 "PostCode": "5235"
-},
-{
-"Name": "Schinznach-Bad",
-"Code": "4114",
-"Places": [
-{
-"Name": "Schinznach Bad",
-"PostCode": "5116",
-"Location": {
-"Latitude": 47.4499,
-"Longitude": 8.1683
-}
-}
-],
-"PostCode": "5116"
 },
 {
 "Name": "Thalheim (AG)",
@@ -6722,6 +6715,14 @@
 "Latitude": 47.2661,
 "Longitude": 7.6946
 }
+},
+{
+"Name": "Wolfisberg",
+"PostCode": "4704",
+"Location": {
+"Latitude": 47.2748,
+"Longitude": 7.6599
+}
 }
 ],
 "PostCode": "4704"
@@ -6920,21 +6921,6 @@
 }
 ],
 "PostCode": "4537"
-},
-{
-"Name": "Wolfisberg",
-"Code": "996",
-"Places": [
-{
-"Name": "Wolfisberg",
-"PostCode": "4704",
-"Location": {
-"Latitude": 47.2748,
-"Longitude": 7.6599
-}
-}
-],
-"PostCode": "4704"
 }
 ]
 },
@@ -9627,51 +9613,6 @@
 ]
 },
 {
-"Name": "Kirchenthurnen",
-"Code": "873",
-"Places": [
-{
-"Name": "Kirchenthurnen",
-"PostCode": "3128",
-"Location": {
-"Latitude": 46.8238,
-"Longitude": 7.5005
-}
-}
-],
-"PostCode": "3128"
-},
-{
-"Name": "Lohnstorf",
-"Code": "874",
-"Places": [
-{
-"Name": "Lohnstorf",
-"PostCode": "3127",
-"Location": {
-"Latitude": 46.8077,
-"Longitude": 7.5099
-}
-}
-],
-"PostCode": "3127"
-},
-{
-"Name": "Mühlethurnen",
-"Code": "876",
-"Places": [
-{
-"Name": "Mühlethurnen",
-"PostCode": "3127",
-"Location": {
-"Latitude": 46.8135,
-"Longitude": 7.5088
-}
-}
-],
-"PostCode": "3127"
-},
-{
 "Name": "Niedermuhlern",
 "Code": "877",
 "Places": [
@@ -9798,6 +9739,36 @@
 }
 ],
 "PostCode": "3086"
+},
+{
+"Name": "Thurnen",
+"Code": "889",
+"Places": [
+{
+"Name": "Kirchenthurnen",
+"PostCode": "3128",
+"Location": {
+"Latitude": 46.8238,
+"Longitude": 7.5005
+}
+},
+{
+"Name": "Lohnstorf",
+"PostCode": "3127",
+"Location": {
+"Latitude": 46.8077,
+"Longitude": 7.5099
+}
+},
+{
+"Name": "Mühlethurnen",
+"PostCode": "3127",
+"Location": {
+"Latitude": 46.8135,
+"Longitude": 7.5088
+}
+}
+]
 }
 ]
 },
@@ -10129,21 +10100,6 @@
 "PostCode": "3638"
 },
 {
-"Name": "Schwendibach",
-"Code": "937",
-"Places": [
-{
-"Name": "Schwendibach",
-"PostCode": "3624",
-"Location": {
-"Latitude": 46.7699,
-"Longitude": 7.6619
-}
-}
-],
-"PostCode": "3624"
-},
-{
 "Name": "Sigriswil",
 "Code": "938",
 "Places": [
@@ -10209,6 +10165,14 @@
 "Name": "Steffisburg",
 "Code": "939",
 "Places": [
+{
+"Name": "Schwendibach",
+"PostCode": "3624",
+"Location": {
+"Latitude": 46.7699,
+"Longitude": 7.6619
+}
+},
 {
 "Name": "Steffisburg",
 "PostCode": "3612",
@@ -14014,21 +13978,6 @@
 ]
 },
 {
-"Name": "Villaz-Saint-Pierre",
-"Code": "2111",
-"Places": [
-{
-"Name": "Villaz-St-Pierre",
-"PostCode": "1690",
-"Location": {
-"Latitude": 46.7207,
-"Longitude": 6.9564
-}
-}
-],
-"PostCode": "1690"
-},
-{
 "Name": "Vuisternens-devant-Romont",
 "Code": "2113",
 "Places": [
@@ -14168,8 +14117,8 @@
 ]
 },
 {
-"Name": "La Folliaz",
-"Code": "2116",
+"Name": "Villaz",
+"Code": "2117",
 "Places": [
 {
 "Name": "Lussy FR",
@@ -14185,6 +14134,14 @@
 "Location": {
 "Latitude": 46.7417,
 "Longitude": 6.9652
+}
+},
+{
+"Name": "Villaz-St-Pierre",
+"PostCode": "1690",
+"Location": {
+"Latitude": 46.7207,
+"Longitude": 6.9564
 }
 }
 ]
@@ -14861,21 +14818,6 @@
 "PostCode": "1720"
 },
 {
-"Name": "Corserey",
-"Code": "2185",
-"Places": [
-{
-"Name": "Corserey",
-"PostCode": "1747",
-"Location": {
-"Latitude": 46.7731,
-"Longitude": 6.9887
-}
-}
-],
-"PostCode": "1747"
-},
-{
 "Name": "Cottens (FR)",
 "Code": "2186",
 "Places": [
@@ -15033,21 +14975,6 @@
 "PostCode": "1740"
 },
 {
-"Name": "Noréaz",
-"Code": "2213",
-"Places": [
-{
-"Name": "Noréaz",
-"PostCode": "1757",
-"Location": {
-"Latitude": 46.8015,
-"Longitude": 7.0278
-}
-}
-],
-"PostCode": "1757"
-},
-{
 "Name": "Pierrafortscha",
 "Code": "2216",
 "Places": [
@@ -15139,21 +15066,6 @@
 }
 ],
 "PostCode": "1724"
-},
-{
-"Name": "Prez-vers-Noréaz",
-"Code": "2221",
-"Places": [
-{
-"Name": "Prez-vers-Noréaz",
-"PostCode": "1746",
-"Location": {
-"Latitude": 46.7854,
-"Longitude": 7.0158
-}
-}
-],
-"PostCode": "1746"
 },
 {
 "Name": "Senèdes",
@@ -15404,6 +15316,36 @@
 "Location": {
 "Latitude": 46.7081,
 "Longitude": 7.054
+}
+}
+]
+},
+{
+"Name": "Prez",
+"Code": "2237",
+"Places": [
+{
+"Name": "Corserey",
+"PostCode": "1747",
+"Location": {
+"Latitude": 46.7731,
+"Longitude": 6.9887
+}
+},
+{
+"Name": "Noréaz",
+"PostCode": "1757",
+"Location": {
+"Latitude": 46.8015,
+"Longitude": 7.0278
+}
+},
+{
+"Name": "Prez-vers-Noréaz",
+"PostCode": "1746",
+"Location": {
+"Latitude": 46.7854,
+"Longitude": 7.0158
 }
 }
 ]
@@ -19270,6 +19212,14 @@
 "Latitude": 46.8521,
 "Longitude": 9.5296
 }
+},
+{
+"Name": "Maladers",
+"PostCode": "7026",
+"Location": {
+"Latitude": 46.8358,
+"Longitude": 9.56
+}
 }
 ]
 },
@@ -19396,21 +19346,6 @@
 }
 }
 ]
-},
-{
-"Name": "Maladers",
-"Code": "3926",
-"Places": [
-{
-"Name": "Maladers",
-"PostCode": "7026",
-"Location": {
-"Latitude": 46.8358,
-"Longitude": 9.56
-}
-}
-],
-"PostCode": "7026"
 },
 {
 "Name": "Tschiertschen-Praden",
@@ -23398,9 +23333,16 @@
 "Latitude": 47.1992,
 "Longitude": 7.9696
 }
+},
+{
+"Name": "Ebersecken",
+"PostCode": "6245",
+"Location": {
+"Latitude": 47.1803,
+"Longitude": 7.9389
 }
-],
-"PostCode": "6246"
+}
+]
 },
 {
 "Name": "Dagmersellen",
@@ -23431,21 +23373,6 @@
 }
 }
 ]
-},
-{
-"Name": "Ebersecken",
-"Code": "1126",
-"Places": [
-{
-"Name": "Ebersecken",
-"PostCode": "6245",
-"Location": {
-"Latitude": 47.1803,
-"Longitude": 7.9389
-}
-}
-],
-"PostCode": "6245"
 },
 {
 "Name": "Egolzwil",
