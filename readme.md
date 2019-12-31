@@ -15,7 +15,7 @@ Provides a .net wrapper around the [GeoNames Data](https://www.geonames.org/). A
 <!-- toc -->
 ## Contents
 
-  * [NuGets](#nugets)
+  * [NuGet Packages](#nuget-packages)
   * [Usage](#usage)
   * [Bogus Usage](#bogus-usage)
   * [Json Files](#json-files)
@@ -25,7 +25,7 @@ Provides a .net wrapper around the [GeoNames Data](https://www.geonames.org/). A
     * [Structure](#structure)<!-- endtoc -->
 
 
-## NuGets
+## NuGet Packages
 
 The NuGets contain a static copy of all data. This data is embedded as resources inside the assembly. No network calls are done by the assembly. To get the latests version of the data do a NuGet update. There are several options to help keep a NuGet update:
 
