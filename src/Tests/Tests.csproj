@@ -6,7 +6,7 @@
     <PackageReference Include="MarkdownSnippets.MsBuild" Version="17.6.0" PrivateAssets="all" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
     <PackageReference Include="XunitContext" Version="1.6.0" />
-    <PackageReference Include="Verify.Xunit" Version="1.7.1" />
+    <PackageReference Include="Verify.Xunit" Version="1.8.0" />
     <PackageReference Include="System.IO.Compression" Version="4.3.0" />
     <PackageReference Include="System.Net.Http" Version="4.3.4" />
     <PackageReference Include="Xunit" Version="2.4.1" />
@@ -14,6 +14,6 @@
     <PackageReference Include="xunit.runner.visualstudio" Version="2.4.1" />
     <ProjectReference Include="..\CountryData.Bogus\CountryData.Bogus.csproj" />
     <ProjectReference Include="..\CountryData\CountryData.csproj" />
-    <PackageReference Include="ProjectDefaults" Version="1.0.39" PrivateAssets="All" />
+    <PackageReference Include="ProjectDefaults" Version="1.0.40" PrivateAssets="All" />
   </ItemGroup>
 </Project>
