@@ -10,50 +10,6 @@
 "PostCode": "98000",
 "Communities": [
 {
-"Name": "Monaco",
-"Places": [
-{
-"Name": "Commune de Monaco",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4
-}
-},
-{
-"Name": "Monaco",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4
-}
-},
-{
-"Name": "Réserve Sous-marine de Monaco",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7458,
-"Longitude": 7.4394
-}
-}
-],
-"PostCode": "98000"
-},
-{
-"Name": "Les Moneghetti",
-"Places": [
-{
-"Name": "Les Moneghetti",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7375,
-"Longitude": 7.4153
-}
-}
-],
-"PostCode": "98000"
-},
-{
 "Name": "Fontvieille",
 "Places": [
 {
@@ -192,6 +148,36 @@
 "PostCode": "98000"
 },
 {
+"Name": "Monaco",
+"Places": [
+{
+"Name": "Commune de Monaco",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4
+}
+},
+{
+"Name": "Monaco",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4
+}
+},
+{
+"Name": "Réserve Sous-marine de Monaco",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7458,
+"Longitude": 7.4394
+}
+}
+],
+"PostCode": "98000"
+},
+{
 "Name": "Monaco-Ville",
 "Places": [
 {
@@ -240,6 +226,20 @@
 "Location": {
 "Latitude": 43.7333,
 "Longitude": 7.4333
+}
+}
+],
+"PostCode": "98000"
+},
+{
+"Name": "Les Moneghetti",
+"Places": [
+{
+"Name": "Les Moneghetti",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7375,
+"Longitude": 7.4153
 }
 }
 ],
