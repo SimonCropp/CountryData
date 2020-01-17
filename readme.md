@@ -22,7 +22,8 @@ Provides a .net wrapper around the [GeoNames Data](https://www.geonames.org/). A
     * [Country Codes](#country-codes)
     * [Country Information](#country-information)
     * [Country Location Data](#country-location-data)
-    * [Structure](#structure)<!-- endtoc -->
+    * [Structure](#structure)
+  * [Security contact information](#security-contact-information)<!-- endtoc -->
 
 
 ## NuGet packages
@@ -122,6 +123,11 @@ The GeoNames data is structured as:
 Country > State > Province > Community > Place
 
 However many countries do not have data for every level.
+
+
+## Security contact information
+
+To report a security vulnerability, please use the [Tidelift security contact](https://tidelift.com/security). Tidelift will coordinate the fix and disclosure.
 
 
 ## Release Notes
