@@ -506,7 +506,7 @@
 "Iso3": "BDI",
 "IsoNumeric": 108,
 "Fips": "BY",
-"Capital": "Bujumbura",
+"Capital": "Gitega",
 "Area": 27830.0,
 "Population": 0,
 "Continent": "AF",
@@ -1447,7 +1447,7 @@
 "CurrencyName": "Euro",
 "PhonePrefix": "353",
 "PostCodeFormat": "@@@ @@@@",
-"PostCodeRegex": "^[A-Z]\\d{2}$|^[A-Z]{3}[A-Z]{4}$",
+"PostCodeRegex": "^(D6W|[AC-FHKNPRTV-Y][0-9]{2})\\s?([AC-FHKNPRTV-Y0-9]{4})",
 "Languages": [
 "en-IE",
 "ga-IE"
@@ -1685,7 +1685,7 @@
 "CurrencyName": "Euro",
 "PhonePrefix": "31",
 "PostCodeFormat": "#### @@",
-"PostCodeRegex": "^(\\d{4}[A-Z]{2})$",
+"PostCodeRegex": "^(\\d{4}\\s?[a-zA-Z]{2})$",
 "Languages": [
 "nl-NL",
 "fy-NL"
@@ -1925,7 +1925,7 @@
 "CurrencyName": "Pound",
 "PhonePrefix": "44",
 "PostCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
-"PostCodeRegex": "^([Gg][Ii][Rr] 0[Aa]{2})|((([A-Za-z][0-9]{1,2})|(([A-Za-z][A-Ha-hJ-Yj-y][0-9]{1,2})|(([A-Za-z][0-9][A-Za-z])|([A-Za-z][A-Ha-hJ-Yj-y][0-9]?[A-Za-z])))) [0-9][A-Za-z]{2})$",
+"PostCodeRegex": "^([Gg][Ii][Rr]\\s?0[Aa]{2})|((([A-Za-z][0-9]{1,2})|(([A-Za-z][A-Ha-hJ-Yj-y][0-9]{1,2})|(([A-Za-z][0-9][A-Za-z])|([A-Za-z][A-Ha-hJ-Yj-y][0-9]?[A-Za-z]))))\\s?[0-9][A-Za-z]{2})$",
 "Languages": [
 "en-GB",
 "cy-GB",
@@ -3060,6 +3060,8 @@
 "CurrencyCode": "MWK",
 "CurrencyName": "Kwacha",
 "PhonePrefix": "265",
+"PostCodeFormat": "######",
+"PostCodeRegex": "^(\\d{6})$",
 "Languages": [
 "ny",
 "yao",
