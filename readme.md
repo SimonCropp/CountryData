@@ -28,15 +28,15 @@ Provides a .net wrapper around the [GeoNames Data](https://www.geonames.org/). A
 
 ## NuGet packages
 
+ * https://nuget.org/packages/CountryData/
+ * https://nuget.org/packages/CountryData.Bogus/
+
 The NuGets contain a static copy of all data. This data is embedded as resources inside the assembly. No network calls are done by the assembly. To get the latests version of the data do a NuGet update. There are several options to help keep a NuGet update:
 
  * [Dependabot](https://dependabot.com/): creates pull requests to keep your dependencies secure and up-to-date.
  * [Using NuGet wildcards](https://docs.microsoft.com/en-us/nuget/reference/package-versioning#version-ranges-and-wildcards).
  * [Libraries.io](https://libraries.io/) supports subscribing to NuGet package updates.
 
-https://nuget.org/packages/CountryData/
-
-https://nuget.org/packages/CountryData.Bogus/
 
 
 ## Usage
