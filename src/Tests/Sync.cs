@@ -25,9 +25,12 @@ public class Sync
         ZipFile.ExtractToDirectory(allZipPath, DataLocations.TempPath);
 
         var list = PostCodeRowReader.ReadRows(allCountriesTxtPath).ToList();
-        var groupByCountry = list.GroupBy(x => x.CountryCode).OrderBy(x=>x.Key).ToList();
+        var groupByCountry = list
+            .GroupBy(x => x.CountryCode)
+            .OrderBy(x => x.Key)
+            .ToList();
         File.Delete(countriesPath);
-        File.WriteAllLines(countriesPath, groupByCountry.Select(x => x.Key.ToLower()));
+        await File.WriteAllLinesAsync(countriesPath, groupByCountry.Select(x => x.Key.ToLower()));
         var countryLocationData = WriteRows(DataLocations.PostCodesPath, groupByCountry);
 
         var postcodeZip = Path.Combine(DataLocations.DataPath, "postcodes.zip");
@@ -75,9 +78,11 @@ namespace CountryData
             return LoadLocationData(""{locationData.Key}"");
         }}");
             }
+
             writer.WriteLine("    }");
             writer.WriteLine("}");
         }
+
         var namedBogusData = Path.Combine(DataLocations.BogusProjectPath, "CountryDataSet_named.cs");
         File.Delete(namedBogusData);
         using (var writer = File.CreateText(namedBogusData))
@@ -98,6 +103,7 @@ namespace CountryData.Bogus
             return CountryLoader.Load{locationData.Value}LocationData();
         }}");
             }
+
             writer.WriteLine("    }");
             writer.WriteLine("}");
         }
@@ -109,7 +115,7 @@ namespace CountryData.Bogus
         await Downloader.DownloadFile(countryInfoPath, "http://download.geonames.org/export/dump/countryInfo.txt");
 
         var path = Path.Combine(DataLocations.DataPath, "countryInfo.json.txt");
-        var value = CountryInfoRowReader.ReadRows(countryInfoPath).OrderBy(x=>x.CurrencyCode).ToList();
+        var value = CountryInfoRowReader.ReadRows(countryInfoPath).OrderBy(x => x.CurrencyCode).ToList();
         JsonSerializer.Serialize(value, path);
         return value;
     }
@@ -117,10 +123,10 @@ namespace CountryData.Bogus
     IDictionary<string, List<State>> WriteRows(string jsonPath, List<IGrouping<string, PostCodeRow>> groupByCountry)
     {
         IoHelpers.PurgeDirectory(jsonPath);
-        var dictionary = new SortedDictionary<string,List<State>>();
+        var dictionary = new SortedDictionary<string, List<State>>();
         foreach (var group in groupByCountry)
         {
-            dictionary.Add(group.Key, ProcessCountry(@group.Key, @group.OrderBy(x=>x.CountryCode).ToList(), jsonPath));
+            dictionary.Add(group.Key, ProcessCountry(@group.Key, @group.OrderBy(x => x.CountryCode).ToList(), jsonPath));
         }
 
         return dictionary;
@@ -128,6 +134,6 @@ namespace CountryData.Bogus
 
     List<State> ProcessCountry(string country, List<PostCodeRow> rows, string directory)
     {
-       return CountrySerializer.Serialize(country, rows, directory);
+        return CountrySerializer.Serialize(country, rows, directory);
     }
 }
