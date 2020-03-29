@@ -64,66 +64,6 @@
 "PostCode": "98000"
 },
 {
-"Name": "Monaco",
-"Places": [
-{
-"Name": "Commune de Monaco",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4
-}
-},
-{
-"Name": "Monaco",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4
-}
-},
-{
-"Name": "Réserve Sous-marine de Monaco",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7458,
-"Longitude": 7.4394
-}
-}
-],
-"PostCode": "98000"
-},
-{
-"Name": "Monte-Carlo",
-"Places": [
-{
-"Name": "Anse de la Grue",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7306,
-"Longitude": 7.4217
-}
-},
-{
-"Name": "Monte-Carlo",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4167
-}
-},
-{
-"Name": "Pointe Focinana",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4333
-}
-}
-],
-"PostCode": "98000"
-},
-{
 "Name": "La Condamine",
 "Places": [
 {
@@ -156,6 +96,90 @@
 "Location": {
 "Latitude": 43.7361,
 "Longitude": 7.425
+}
+}
+],
+"PostCode": "98000"
+},
+{
+"Name": "Monaco-Ville",
+"Places": [
+{
+"Name": "Ciappaira",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7167,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "Jardin Exotique",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7167,
+"Longitude": 7.4
+}
+},
+{
+"Name": "Monaco-Ville",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "Pointe de la Poudrière",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7319,
+"Longitude": 7.4278
+}
+},
+{
+"Name": "Pointe Saint-Martin",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7306,
+"Longitude": 7.425
+}
+},
+{
+"Name": "Rocher de Monaco",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4333
+}
+}
+],
+"PostCode": "98000"
+},
+{
+"Name": "Monaco",
+"Places": [
+{
+"Name": "Commune de Monaco",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4
+}
+},
+{
+"Name": "Monaco",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4
+}
+},
+{
+"Name": "Réserve Sous-marine de Monaco",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7458,
+"Longitude": 7.4394
 }
 }
 ],
@@ -230,26 +254,18 @@
 "PostCode": "98000"
 },
 {
-"Name": "Monaco-Ville",
+"Name": "Monte-Carlo",
 "Places": [
 {
-"Name": "Ciappaira",
+"Name": "Anse de la Grue",
 "PostCode": "98000",
 "Location": {
-"Latitude": 43.7167,
-"Longitude": 7.4167
+"Latitude": 43.7306,
+"Longitude": 7.4217
 }
 },
 {
-"Name": "Jardin Exotique",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7167,
-"Longitude": 7.4
-}
-},
-{
-"Name": "Monaco-Ville",
+"Name": "Monte-Carlo",
 "PostCode": "98000",
 "Location": {
 "Latitude": 43.7333,
@@ -257,23 +273,7 @@
 }
 },
 {
-"Name": "Pointe de la Poudrière",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7319,
-"Longitude": 7.4278
-}
-},
-{
-"Name": "Pointe Saint-Martin",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7306,
-"Longitude": 7.425
-}
-},
-{
-"Name": "Rocher de Monaco",
+"Name": "Pointe Focinana",
 "PostCode": "98000",
 "Location": {
 "Latitude": 43.7333,
