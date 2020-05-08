@@ -332,6 +332,11 @@ namespace CountryData.Bogus
             return CountryLoader.LoadNewZealandLocationData();
         }
 
+        public ICountry Peru()
+        {
+            return CountryLoader.LoadPeruLocationData();
+        }
+
         public ICountry Philippines()
         {
             return CountryLoader.LoadPhilippinesLocationData();

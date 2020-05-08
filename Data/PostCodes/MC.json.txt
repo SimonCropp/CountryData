@@ -10,52 +10,30 @@
 "PostCode": "98000",
 "Communities": [
 {
-"Name": "La Condamine",
+"Name": "Monaco",
 "Places": [
 {
-"Name": "Condamine",
+"Name": "Commune de Monaco",
 "PostCode": "98000",
 "Location": {
 "Latitude": 43.7333,
-"Longitude": 7.4167
+"Longitude": 7.4
 }
 },
 {
-"Name": "La Condamine",
+"Name": "Monaco",
 "PostCode": "98000",
 "Location": {
 "Latitude": 43.7333,
-"Longitude": 7.4167
+"Longitude": 7.4
 }
 },
 {
-"Name": "Port de La Condamine",
+"Name": "Réserve Sous-marine de Monaco",
 "PostCode": "98000",
 "Location": {
-"Latitude": 43.7361,
-"Longitude": 7.425
-}
-},
-{
-"Name": "Port de Monaco",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7361,
-"Longitude": 7.425
-}
-}
-],
-"PostCode": "98000"
-},
-{
-"Name": "Les Moneghetti",
-"Places": [
-{
-"Name": "Les Moneghetti",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7375,
-"Longitude": 7.4153
+"Latitude": 43.7458,
+"Longitude": 7.4394
 }
 }
 ],
@@ -146,30 +124,92 @@
 "PostCode": "98000"
 },
 {
-"Name": "Monaco",
+"Name": "La Condamine",
 "Places": [
 {
-"Name": "Commune de Monaco",
+"Name": "Condamine",
 "PostCode": "98000",
 "Location": {
 "Latitude": 43.7333,
-"Longitude": 7.4
+"Longitude": 7.4167
 }
 },
 {
-"Name": "Monaco",
+"Name": "La Condamine",
 "PostCode": "98000",
 "Location": {
 "Latitude": 43.7333,
-"Longitude": 7.4
+"Longitude": 7.4167
 }
 },
 {
-"Name": "Réserve Sous-marine de Monaco",
+"Name": "Port de La Condamine",
 "PostCode": "98000",
 "Location": {
-"Latitude": 43.7458,
-"Longitude": 7.4394
+"Latitude": 43.7361,
+"Longitude": 7.425
+}
+},
+{
+"Name": "Port de Monaco",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7361,
+"Longitude": 7.425
+}
+}
+],
+"PostCode": "98000"
+},
+{
+"Name": "Fontvieille",
+"Places": [
+{
+"Name": "Anse de Canton",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "Fontvieille",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "Pointe Sainte-Barbe",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7167,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "Port de Fontvieille",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7306,
+"Longitude": 7.4208
+}
+},
+{
+"Name": "Port Hercule",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7361,
+"Longitude": 7.425
+}
+},
+{
+"Name": "Stade Louis Deux",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7167,
+"Longitude": 7.4167
 }
 }
 ],
@@ -230,54 +270,14 @@
 "PostCode": "98000"
 },
 {
-"Name": "Fontvieille",
+"Name": "Les Moneghetti",
 "Places": [
 {
-"Name": "Anse de Canton",
+"Name": "Les Moneghetti",
 "PostCode": "98000",
 "Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4167
-}
-},
-{
-"Name": "Fontvieille",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4167
-}
-},
-{
-"Name": "Pointe Sainte-Barbe",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7167,
-"Longitude": 7.4167
-}
-},
-{
-"Name": "Port de Fontvieille",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7306,
-"Longitude": 7.4208
-}
-},
-{
-"Name": "Port Hercule",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7361,
-"Longitude": 7.425
-}
-},
-{
-"Name": "Stade Louis Deux",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7167,
-"Longitude": 7.4167
+"Latitude": 43.7375,
+"Longitude": 7.4153
 }
 }
 ],

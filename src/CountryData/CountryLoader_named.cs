@@ -331,6 +331,11 @@ namespace CountryData
             return LoadLocationData("NZ");
         }
 
+        public static ICountry LoadPeruLocationData()
+        {
+            return LoadLocationData("PE");
+        }
+
         public static ICountry LoadPhilippinesLocationData()
         {
             return LoadLocationData("PH");
