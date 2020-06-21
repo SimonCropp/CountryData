@@ -3,8 +3,8 @@ using System.Threading.Tasks;
 using CountryData;
 using VerifyXunit;
 using Xunit;
-using Xunit.Abstractions;
 
+[UsesVerify]
 public class CountryLoaderTests
 {
     [Fact]
@@ -55,10 +55,5 @@ public class CountryLoaderTests
     {
         CountryLoader.LoadAll();
         Assert.NotEmpty(CountryLoader.LoadedLocationData);
-    }
-
-    public CountryLoaderTests(ITestOutputHelper output) :
-        base(output)
-    {
     }
 }

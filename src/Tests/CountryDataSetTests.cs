@@ -1,10 +1,7 @@
 ﻿using CountryData.Bogus;
-using VerifyXunit;
 using Xunit;
-using Xunit.Abstractions;
 
-public class CountryDataSetTests:
-    VerifyBase
+public class CountryDataSetTests
 {
     [Fact]
     public void Simple()
@@ -21,10 +18,5 @@ public class CountryDataSetTests:
         var dataSet = new CountryDataSet();
         var state = dataSet.Australia().State();
         Assert.NotNull(state);
-    }
-
-    public CountryDataSetTests(ITestOutputHelper output) :
-        base(output)
-    {
     }
 }
