@@ -5,14 +5,13 @@ using VerifyXunit;
 using Xunit;
 using Xunit.Abstractions;
 
-public class CountryLoaderTests :
-    VerifyBase
+public class CountryLoaderTests
 {
     [Fact]
     public Task LoadLocationData()
     {
         var country = CountryLoader.LoadLocationData("PW");
-        return Verify(country);
+        return Verifier.Verify(country);
     }
 
     [Fact]
@@ -41,14 +40,14 @@ public class CountryLoaderTests :
     public Task PostCodes()
     {
         var country = CountryLoader.LoadAustraliaLocationData();
-        return Verify(country.PostCodes().First());
+        return Verifier.Verify(country.PostCodes().First());
     }
 
     [Fact]
     public Task LoadSpecificLocationData()
     {
         var country = CountryLoader.LoadPalauLocationData();
-        return Verify(country);
+        return Verifier.Verify(country);
     }
 
     [Fact]
