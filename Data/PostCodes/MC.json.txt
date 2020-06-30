@@ -10,114 +10,6 @@
 "PostCode": "98000",
 "Communities": [
 {
-"Name": "Fontvieille",
-"Places": [
-{
-"Name": "Anse de Canton",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4167
-}
-},
-{
-"Name": "Fontvieille",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4167
-}
-},
-{
-"Name": "Pointe Sainte-Barbe",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7167,
-"Longitude": 7.4167
-}
-},
-{
-"Name": "Port de Fontvieille",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7306,
-"Longitude": 7.4208
-}
-},
-{
-"Name": "Port Hercule",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7361,
-"Longitude": 7.425
-}
-},
-{
-"Name": "Stade Louis Deux",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7167,
-"Longitude": 7.4167
-}
-}
-],
-"PostCode": "98000"
-},
-{
-"Name": "Larvotto",
-"Places": [
-{
-"Name": "Anse du Portier",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7417,
-"Longitude": 7.4322
-}
-},
-{
-"Name": "Jardin Japonais",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4167
-}
-},
-{
-"Name": "Larvotto",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4333
-}
-},
-{
-"Name": "Plage du Larvotto",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4333
-}
-},
-{
-"Name": "Pointe Saint-Antoine",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4278
-}
-},
-{
-"Name": "Réserve Sous-marine du Larvotto",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7458,
-"Longitude": 7.4394
-}
-}
-],
-"PostCode": "98000"
-},
-{
 "Name": "Monaco-Ville",
 "Places": [
 {
@@ -172,10 +64,10 @@
 "PostCode": "98000"
 },
 {
-"Name": "La Condamine",
+"Name": "Fontvieille",
 "Places": [
 {
-"Name": "Condamine",
+"Name": "Anse de Canton",
 "PostCode": "98000",
 "Location": {
 "Latitude": 43.7333,
@@ -183,7 +75,7 @@
 }
 },
 {
-"Name": "La Condamine",
+"Name": "Fontvieille",
 "PostCode": "98000",
 "Location": {
 "Latitude": 43.7333,
@@ -191,7 +83,23 @@
 }
 },
 {
-"Name": "Port de La Condamine",
+"Name": "Pointe Sainte-Barbe",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7167,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "Port de Fontvieille",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7306,
+"Longitude": 7.4208
+}
+},
+{
+"Name": "Port Hercule",
 "PostCode": "98000",
 "Location": {
 "Latitude": 43.7361,
@@ -199,25 +107,11 @@
 }
 },
 {
-"Name": "Port de Monaco",
+"Name": "Stade Louis Deux",
 "PostCode": "98000",
 "Location": {
-"Latitude": 43.7361,
-"Longitude": 7.425
-}
-}
-],
-"PostCode": "98000"
-},
-{
-"Name": "Les Moneghetti",
-"Places": [
-{
-"Name": "Les Moneghetti",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7375,
-"Longitude": 7.4153
+"Latitude": 43.7167,
+"Longitude": 7.4167
 }
 }
 ],
@@ -274,6 +168,112 @@
 },
 {
 "Name": "Réserve Sous-marine de Monaco",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7458,
+"Longitude": 7.4394
+}
+}
+],
+"PostCode": "98000"
+},
+{
+"Name": "Les Moneghetti",
+"Places": [
+{
+"Name": "Les Moneghetti",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7375,
+"Longitude": 7.4153
+}
+}
+],
+"PostCode": "98000"
+},
+{
+"Name": "La Condamine",
+"Places": [
+{
+"Name": "Condamine",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "La Condamine",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "Port de La Condamine",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7361,
+"Longitude": 7.425
+}
+},
+{
+"Name": "Port de Monaco",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7361,
+"Longitude": 7.425
+}
+}
+],
+"PostCode": "98000"
+},
+{
+"Name": "Larvotto",
+"Places": [
+{
+"Name": "Anse du Portier",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7417,
+"Longitude": 7.4322
+}
+},
+{
+"Name": "Jardin Japonais",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "Larvotto",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4333
+}
+},
+{
+"Name": "Plage du Larvotto",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4333
+}
+},
+{
+"Name": "Pointe Saint-Antoine",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4278
+}
+},
+{
+"Name": "Réserve Sous-marine du Larvotto",
 "PostCode": "98000",
 "Location": {
 "Latitude": 43.7458,
