@@ -44,7 +44,7 @@ The NuGets contain a static copy of all data. This data is embedded as resources
 ## Usage
 
 <!-- snippet: usage -->
-<a id='snippet-usage'/></a>
+<a id='snippet-usage'></a>
 ```cs
 // All country info. This is only the country metadata
 // and not all locationData.
@@ -70,7 +70,7 @@ var longitude = place.Location.Longitude;
 ## Bogus Usage
 
 <!-- snippet: bogususage -->
-<a id='snippet-bogususage'/></a>
+<a id='snippet-bogususage'></a>
 ```cs
 var faker = new Faker<Target>()
     .RuleFor(
