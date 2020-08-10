@@ -31,20 +31,13 @@ static class RowReader
         var split = line.Split(tab);
         foreach (var s in split)
         {
-            if (s == null)
+            if (s.Length == 0)
             {
                 yield return null;
             }
             else
             {
-                if (s.Length == 0)
-                {
-                    yield return null;
-                }
-                else
-                {
-                    yield return s.Trim().Trim('_').Replace('_', ' ');
-                }
+                yield return s.Trim().Trim('_').Replace('_', ' ');
             }
         }
     }
