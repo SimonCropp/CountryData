@@ -3,7 +3,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="MarkdownSnippets.MsBuild" Version="21.0.0" />
+    <PackageReference Include="MarkdownSnippets.MsBuild" Version="21.0.1" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
     <PackageReference Include="Verify.Xunit" Version="6.10.6" />
     <PackageReference Include="System.IO.Compression" Version="4.3.0" />
