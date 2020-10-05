@@ -56,7 +56,7 @@ var placeName = place.Name;
 var latitude = place.Location.Latitude;
 var longitude = place.Location.Longitude;
 ```
-<sup><a href='/src/Tests/Snippets.cs#L40-L59' title='File snippet `usage` was extracted from'>snippet source</a> | <a href='#snippet-usage' title='Navigate to start of snippet `usage`'>anchor</a></sup>
+<sup><a href='/src/Tests/Snippets.cs#L40-L59' title='Snippet source file'>snippet source</a> | <a href='#snippet-usage' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
 
 
@@ -83,7 +83,7 @@ var faker = new Faker<Target>()
         setter: (f, u) => f.Country().Iceland().PostCode());
 var targetInstance = faker.Generate();
 ```
-<sup><a href='/src/Tests/Snippets.cs#L14-L34' title='File snippet `bogususage` was extracted from'>snippet source</a> | <a href='#snippet-bogususage' title='Navigate to start of snippet `bogususage`'>anchor</a></sup>
+<sup><a href='/src/Tests/Snippets.cs#L14-L34' title='Snippet source file'>snippet source</a> | <a href='#snippet-bogususage' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
 
 
