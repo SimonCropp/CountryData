@@ -132,7 +132,7 @@ namespace CountryData.Bogus
         return dictionary;
     }
 
-    List<State> ProcessCountry(string country, List<PostCodeRow> rows, string directory)
+    static List<State> ProcessCountry(string country, List<PostCodeRow> rows, string directory)
     {
         return CountrySerializer.Serialize(country, rows, directory);
     }
