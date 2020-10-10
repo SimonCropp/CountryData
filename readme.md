@@ -37,7 +37,7 @@ The NuGets contain a static copy of all data. This data is embedded as resources
 ## Usage
 
 <!-- snippet: usage -->
-<a id='c629ba0e'></a>
+<a id='usage'></a>
 ```cs
 // All country info. This is only the country metadata
 // and not all locationData.
@@ -56,14 +56,14 @@ var placeName = place.Name;
 var latitude = place.Location.Latitude;
 var longitude = place.Location.Longitude;
 ```
-<sup><a href='/src/Tests/Snippets.cs#L40-L59' title='Snippet source file'>snippet source</a> | <a href='#c629ba0e' title='Start of snippet'>anchor</a></sup>
+<sup><a href='/src/Tests/Snippets.cs#L40-L59' title='Snippet source file'>snippet source</a> | <a href='#usage' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
 
 
 ## Bogus Usage
 
 <!-- snippet: bogususage -->
-<a id='2b412073'></a>
+<a id='bogususage'></a>
 ```cs
 var faker = new Faker<Target>()
     .RuleFor(
@@ -83,7 +83,7 @@ var faker = new Faker<Target>()
         setter: (f, u) => f.Country().Iceland().PostCode());
 var targetInstance = faker.Generate();
 ```
-<sup><a href='/src/Tests/Snippets.cs#L14-L34' title='Snippet source file'>snippet source</a> | <a href='#2b412073' title='Start of snippet'>anchor</a></sup>
+<sup><a href='/src/Tests/Snippets.cs#L14-L34' title='Snippet source file'>snippet source</a> | <a href='#bogususage' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
 
 
