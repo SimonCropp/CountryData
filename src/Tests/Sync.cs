@@ -120,13 +120,13 @@ namespace CountryData.Bogus
         return value;
     }
 
-    IDictionary<string, List<State>> WriteRows(string jsonPath, List<IGrouping<string, PostCodeRow>> groupByCountry)
+    static IDictionary<string, List<State>> WriteRows(string jsonPath, List<IGrouping<string, PostCodeRow>> groupByCountry)
     {
         IoHelpers.PurgeDirectory(jsonPath);
         var dictionary = new SortedDictionary<string, List<State>>();
         foreach (var group in groupByCountry)
         {
-            dictionary.Add(group.Key, ProcessCountry(@group.Key, @group.OrderBy(x => x.CountryCode).ToList(), jsonPath));
+            dictionary.Add(group.Key, ProcessCountry(group.Key, group.OrderBy(x => x.CountryCode).ToList(), jsonPath));
         }
 
         return dictionary;
