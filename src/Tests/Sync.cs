@@ -115,7 +115,9 @@ namespace CountryData.Bogus
         await Downloader.DownloadFile(countryInfoPath, "http://download.geonames.org/export/dump/countryInfo.txt");
 
         var path = Path.Combine(DataLocations.DataPath, "countryInfo.json.txt");
-        var value = CountryInfoRowReader.ReadRows(countryInfoPath).OrderBy(x => x.CurrencyCode).ToList();
+        var value = CountryInfoRowReader.ReadRows(countryInfoPath)
+            .OrderBy(x => x.CurrencyCode)
+            .ToList();
         JsonSerializer.Serialize(value, path);
         return value;
     }
