@@ -14,7 +14,7 @@ static class Serializer
         options.Converters.Add(new InterfaceConverter<Place, IPlace>());
         options.Converters.Add(new InterfaceConverter<Province, IProvince>());
         options.Converters.Add(new InterfaceConverter<State, IState>());
-        return JsonSerializer.Deserialize<T>(ReadToEnd(stream), options);
+        return JsonSerializer.Deserialize<T>(ReadToEnd(stream), options)!;
     }
 
     static string ReadToEnd(Stream stream)

@@ -584,19 +584,19 @@
 }
 },
 {
-"Name": "Bang Pahan",
-"PostCode": "13220",
-"Location": {
-"Latitude": 14.45,
-"Longitude": 100.55
-}
-},
-{
 "Name": "Bang Pa-In",
 "PostCode": "13160",
 "Location": {
 "Latitude": 14.2333,
 "Longitude": 100.5833
+}
+},
+{
+"Name": "Bang Pahan",
+"PostCode": "13220",
+"Location": {
+"Latitude": 14.45,
+"Longitude": 100.55
 }
 },
 {
@@ -6873,6 +6873,14 @@
 }
 },
 {
+"Name": "Cha-uat",
+"PostCode": "80180",
+"Location": {
+"Latitude": 7.9667,
+"Longitude": 100.0
+}
+},
+{
 "Name": "Chaloem Phrakiat",
 "PostCode": "80190",
 "Location": {
@@ -6886,14 +6894,6 @@
 "Location": {
 "Latitude": 8.54,
 "Longitude": 99.65
-}
-},
-{
-"Name": "Cha-uat",
-"PostCode": "80180",
-"Location": {
-"Latitude": 7.9667,
-"Longitude": 100.0
 }
 },
 {

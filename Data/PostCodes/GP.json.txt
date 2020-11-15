@@ -834,14 +834,6 @@
 }
 },
 {
-"Name": "Sainte-Anne",
-"PostCode": "97180",
-"Location": {
-"Latitude": 16.2264,
-"Longitude": -61.3792
-}
-},
-{
 "Name": "Saint-François",
 "PostCode": "97118",
 "Location": {
@@ -855,6 +847,14 @@
 "Location": {
 "Latitude": 15.9549,
 "Longitude": -61.3178
+}
+},
+{
+"Name": "Sainte-Anne",
+"PostCode": "97180",
+"Location": {
+"Latitude": 16.2264,
+"Longitude": -61.3792
 }
 }
 ]
