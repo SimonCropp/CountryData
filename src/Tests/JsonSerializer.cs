@@ -7,7 +7,7 @@ static class JsonSerializer
 
     static JsonSerializer()
     {
-        jsonSerializer = new Newtonsoft.Json.JsonSerializer
+        jsonSerializer = new()
         {
             NullValueHandling = NullValueHandling.Ignore,
             Formatting = Formatting.Indented,
@@ -17,8 +17,11 @@ static class JsonSerializer
     public static void Serialize(object value, string path)
     {
         using var fileStream = File.OpenWrite(path);
-        using var textWriter = new StreamWriter(fileStream);
-        using var jsonTextWriter = new JsonTextWriter(textWriter) {Indentation = 0};
+        using StreamWriter textWriter = new(fileStream);
+        using JsonTextWriter jsonTextWriter = new(textWriter)
+        {
+            Indentation = 0
+        };
         jsonSerializer.Serialize(jsonTextWriter, value);
     }
 }

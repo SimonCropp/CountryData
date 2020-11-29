@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using CountryData;
 using Xunit;
 
 static class PostCodeRowReader
@@ -8,7 +7,7 @@ static class PostCodeRowReader
     {
         foreach (var split in RowReader.ReadRows(allCountriesTxtPath))
         {
-            var row = new PostCodeRow
+            PostCodeRow row = new()
             {
                 CountryCode = split[0]!,
                 PostalCode = split[1]!,
@@ -24,7 +23,7 @@ static class PostCodeRowReader
             var s = split[9];
             if (s != null)
             {
-                row.Location = new Location
+                row.Location = new()
                 {
                     Latitude = double.Parse(s),
                     Longitude = double.Parse(split[10]!)

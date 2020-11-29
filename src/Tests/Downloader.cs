@@ -5,14 +5,14 @@ using System.Threading.Tasks;
 
 static class Downloader
 {
-    static HttpClient httpClient = new HttpClient
+    static HttpClient httpClient = new()
     {
         Timeout = TimeSpan.FromMinutes(30)
     };
 
     public static async Task DownloadFile(string allCountriesPath, string requestUri)
     {
-        var requestMessage = new HttpRequestMessage(HttpMethod.Head, requestUri);
+        HttpRequestMessage requestMessage = new(HttpMethod.Head, requestUri);
 
         DateTime remoteLastModified;
         using (var headResponse = await httpClient.SendAsync(requestMessage))
@@ -33,7 +33,7 @@ static class Downloader
 
         using var response = await httpClient.GetAsync(requestUri);
         await using var httpStream = await response.Content.ReadAsStreamAsync();
-        await using (var fileStream = new FileStream(allCountriesPath, FileMode.Create, FileAccess.Write, FileShare.None))
+        await using (FileStream fileStream = new(allCountriesPath, FileMode.Create, FileAccess.Write, FileShare.None))
         {
             await httpStream.CopyToAsync(fileStream);
         }

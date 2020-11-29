@@ -1,5 +1,4 @@
 ﻿using System.IO;
-using System;
 
 static class GitRepoDirectoryFinder
 {
@@ -7,7 +6,7 @@ static class GitRepoDirectoryFinder
     {
         if (!TryFind(out var rootDirectory))
         {
-            throw new Exception("Could not find root git directory");
+            throw new("Could not find root git directory");
         }
 
         return rootDirectory;

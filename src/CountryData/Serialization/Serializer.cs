@@ -6,7 +6,7 @@ static class Serializer
 {
     public static T Deserialize<T>(Stream stream)
     {
-        var options = new JsonSerializerOptions();
+        JsonSerializerOptions options = new();
         options.Converters.Add(new InterfaceConverter<Location, ILocation>());
         options.Converters.Add(new InterfaceConverter<Community, ICommunity>());
         options.Converters.Add(new InterfaceConverter<Country, ICountry>());
@@ -19,7 +19,7 @@ static class Serializer
 
     static string ReadToEnd(Stream stream)
     {
-        using var reader = new StreamReader(stream);
+        using StreamReader reader = new(stream);
         return reader.ReadToEnd();
     }
 }

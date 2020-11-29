@@ -7,43 +7,43 @@ static class CountrySerializer
 {
     public static List<State> Serialize(string country, List<PostCodeRow> rows, string directory)
     {
-        var states = new List<State>();
+        List<State> states = new();
         foreach (var stateGroup in rows.OrderBy(x => x.StateCode).GroupBy(x => x.State))
         {
             var provinceRows = stateGroup.ToList();
-            var state = new State
+            State state = new()
             {
                 Name = stateGroup.Key!,
                 Code = provinceRows.First().StateCode
             };
             states.Add(state);
 
-            var provinces = new List<Province>();
+            List<Province> provinces = new();
             foreach (var provinceGroup in provinceRows.OrderBy(x => x.ProvinceCode).GroupBy(x => x.Province))
             {
                 var communityRows = provinceGroup.ToList();
-                var province = new Province
+                Province province = new()
                 {
                     Name = provinceGroup.Key!,
                     Code = communityRows.First().ProvinceCode
                 };
                 provinces.Add(province);
 
-                var communities = new List<Community>();
+                List<Community> communities = new();
                 foreach (var communityGroup in communityRows.OrderBy(x => x.CommunityCode).GroupBy(x => x.Community))
                 {
                     var placeRows = communityGroup.ToList();
-                    var community = new Community
+                    Community community = new()
                     {
                         Name = communityGroup.Key!,
                         Code = placeRows.First().CommunityCode
                     };
                     communities.Add(community);
 
-                    var places = new List<Place>();
+                    List<Place> places = new();
                     foreach (var place in placeRows.OrderBy(x => x.PlaceName))
                     {
-                        var item = new Place
+                        Place item = new()
                         {
                             PostCode = place.PostalCode,
                             Location = place.Location,

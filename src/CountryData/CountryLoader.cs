@@ -10,7 +10,7 @@ namespace CountryData
 {
     public static partial class CountryLoader
     {
-        static ConcurrentDictionary<string, ICountry> cache = new ConcurrentDictionary<string, ICountry>();
+        static ConcurrentDictionary<string, ICountry> cache = new();
         static Assembly assembly;
 
         static CountryLoader()
@@ -33,8 +33,8 @@ namespace CountryData
 
         static Country Inner(string countryCode)
         {
-            using var stream = assembly.GetManifestResourceStream("CountryData.postcodes.zip");
-            using var archive = new ZipArchive(stream);
+            using var stream = assembly.GetManifestResourceStream("CountryData.postcodes.zip")!;
+            using ZipArchive archive = new(stream);
             var entry = archive.Entries.SingleOrDefault(x => x.Name == $"{countryCode}.json.txt");
             if (entry == null)
             {
@@ -47,7 +47,7 @@ namespace CountryData
         static Country ConstructCountry(ZipArchiveEntry entry, string countryCode)
         {
             var countryInfo = CountryInfo.Single(x => x.Iso == countryCode);
-            var country = new Country
+            Country country = new()
             {
                 Name = countryInfo.Name,
                 Iso = countryInfo.Iso,
@@ -73,8 +73,8 @@ namespace CountryData
 
         public static void LoadAll()
         {
-            using var stream = assembly.GetManifestResourceStream("CountryData.postcodes.zip");
-            using var archive = new ZipArchive(stream);
+            using var stream = assembly.GetManifestResourceStream("CountryData.postcodes.zip")!;
+            using ZipArchive archive = new(stream);
             foreach (var entry in archive.Entries)
             {
                 var countryCode = entry.Name.Split('.').First();

@@ -9,7 +9,7 @@ static class IoHelpers
             Directory.CreateDirectory(directory);
             return;
         }
-        var root = new DirectoryInfo(directory);
+        DirectoryInfo root = new(directory);
 
         foreach (var file in root.GetFiles())
         {

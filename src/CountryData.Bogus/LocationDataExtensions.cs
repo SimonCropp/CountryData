@@ -13,7 +13,7 @@ namespace CountryData.Bogus
             return ContextHelper.GetOrSet(faker, () => new CountryDataSet());
         }
 
-        static Random random = new Random();
+        static Random random = new();
 
         public static IState State(this ICountry country)
         {

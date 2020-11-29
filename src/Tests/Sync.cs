@@ -46,7 +46,7 @@ public class Sync
         var namedCountryData = Path.Combine(DataLocations.CountryDataProjectPath, "CountryLoader_named.cs");
         File.Delete(namedCountryData);
 
-        var keyToName = new Dictionary<string, string>();
+        Dictionary<string, string> keyToName = new();
         var cultureInfo = new CultureInfo("en-US", false).TextInfo;
         foreach (var locationData in countryLocationData)
         {
@@ -125,7 +125,7 @@ namespace CountryData.Bogus
     static IDictionary<string, List<State>> WriteRows(string jsonPath, List<IGrouping<string, PostCodeRow>> groupByCountry)
     {
         IoHelpers.PurgeDirectory(jsonPath);
-        var dictionary = new SortedDictionary<string, List<State>>();
+        SortedDictionary<string, List<State>> dictionary = new();
         foreach (var group in groupByCountry)
         {
             dictionary.Add(group.Key, ProcessCountry(group.Key, group.OrderBy(x => x.CountryCode).ToList(), jsonPath));
