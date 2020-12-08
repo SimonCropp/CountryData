@@ -38,7 +38,7 @@ namespace CountryData
             var entry = archive.Entries.SingleOrDefault(x => x.Name == $"{countryCode}.json.txt");
             if (entry == null)
             {
-                throw new Exception($"Could not find data for '{countryCode}'.");
+                throw new($"Could not find data for '{countryCode}'.");
             }
 
             return ConstructCountry(entry, countryCode);
