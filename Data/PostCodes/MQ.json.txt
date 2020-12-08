@@ -594,19 +594,19 @@
 }
 },
 {
-"Name": "L'Ajoupa-Bouillon",
-"PostCode": "97216",
-"Location": {
-"Latitude": 14.8167,
-"Longitude": -61.1167
-}
-},
-{
 "Name": "La Trinité",
 "PostCode": "97220",
 "Location": {
 "Latitude": 14.7376,
 "Longitude": -60.9629
+}
+},
+{
+"Name": "L'Ajoupa-Bouillon",
+"PostCode": "97216",
+"Location": {
+"Latitude": 14.8167,
+"Longitude": -61.1167
 }
 },
 {
@@ -736,14 +736,6 @@
 }
 },
 {
-"Name": "Saint-Esprit",
-"PostCode": "97270",
-"Location": {
-"Latitude": 14.55,
-"Longitude": -60.9333
-}
-},
-{
 "Name": "Sainte-Anne",
 "PostCode": "97227",
 "Location": {
@@ -757,6 +749,14 @@
 "Location": {
 "Latitude": 14.4673,
 "Longitude": -60.9271
+}
+},
+{
+"Name": "Saint-Esprit",
+"PostCode": "97270",
+"Location": {
+"Latitude": 14.55,
+"Longitude": -60.9333
 }
 }
 ]

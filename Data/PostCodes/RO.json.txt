@@ -8208,14 +8208,6 @@
 }
 },
 {
-"Name": "Vârşi-Rontu",
-"PostCode": "517154",
-"Location": {
-"Latitude": 46.3333,
-"Longitude": 23.1167
-}
-},
-{
 "Name": "Vârşii Mari",
 "PostCode": "517156",
 "Location": {
@@ -8229,6 +8221,14 @@
 "Location": {
 "Latitude": 46.3479,
 "Longitude": 23.1151
+}
+},
+{
+"Name": "Vârşi-Rontu",
+"PostCode": "517154",
+"Location": {
+"Latitude": 46.3333,
+"Longitude": 23.1167
 }
 },
 {
@@ -29624,14 +29624,6 @@
 }
 },
 {
-"Name": "Câmp-Moţi",
-"PostCode": "415802",
-"Location": {
-"Latitude": 46.4612,
-"Longitude": 22.4114
-}
-},
-{
 "Name": "Câmpani",
 "PostCode": "417140",
 "Location": {
@@ -29645,6 +29637,14 @@
 "Location": {
 "Latitude": 46.8,
 "Longitude": 22.3167
+}
+},
+{
+"Name": "Câmp-Moţi",
+"PostCode": "415802",
+"Location": {
+"Latitude": 46.4612,
+"Longitude": 22.4114
 }
 },
 {
@@ -176884,19 +176884,19 @@
 }
 },
 {
-"Name": "Frasin-Vale",
-"PostCode": "137103",
-"Location": {
-"Latitude": 44.831,
-"Longitude": 25.3355
-}
-},
-{
 "Name": "Frasinu",
 "PostCode": "137156",
 "Location": {
 "Latitude": 44.7912,
 "Longitude": 25.8629
+}
+},
+{
+"Name": "Frasin-Vale",
+"PostCode": "137103",
+"Location": {
+"Latitude": 44.831,
+"Longitude": 25.3355
 }
 },
 {
@@ -177404,19 +177404,19 @@
 }
 },
 {
-"Name": "Mănăstirea",
-"PostCode": "137106",
-"Location": {
-"Latitude": 44.7667,
-"Longitude": 25.3167
-}
-},
-{
 "Name": "Mânăstirea",
 "PostCode": "137183",
 "Location": {
 "Latitude": 44.5819,
 "Longitude": 25.9311
+}
+},
+{
+"Name": "Mănăstirea",
+"PostCode": "137106",
+"Location": {
+"Latitude": 44.7667,
+"Longitude": 25.3167
 }
 },
 {
@@ -193822,19 +193822,19 @@
 }
 },
 {
-"Name": "Cerna-Sat",
-"PostCode": "217328",
-"Location": {
-"Latitude": 45.128,
-"Longitude": 22.6833
-}
-},
-{
 "Name": "Cernădia",
 "PostCode": "217031",
 "Location": {
 "Latitude": 45.1019,
 "Longitude": 23.2681
+}
+},
+{
+"Name": "Cerna-Sat",
+"PostCode": "217328",
+"Location": {
+"Latitude": 45.128,
+"Longitude": 22.6833
 }
 },
 {
@@ -198540,22 +198540,6 @@
 }
 },
 {
-"Name": "Laz-Firtănuş",
-"PostCode": "537016",
-"Location": {
-"Latitude": 46.3941,
-"Longitude": 25.0422
-}
-},
-{
-"Name": "Laz-Şoimuş",
-"PostCode": "537017",
-"Location": {
-"Latitude": 46.3607,
-"Longitude": 24.9822
-}
-},
-{
 "Name": "Lăzarea",
 "PostCode": "537135",
 "Location": {
@@ -198569,6 +198553,22 @@
 "Location": {
 "Latitude": 46.75,
 "Longitude": 25.5333
+}
+},
+{
+"Name": "Laz-Firtănuş",
+"PostCode": "537016",
+"Location": {
+"Latitude": 46.3941,
+"Longitude": 25.0422
+}
+},
+{
+"Name": "Laz-Şoimuş",
+"PostCode": "537017",
+"Location": {
+"Latitude": 46.3607,
+"Longitude": 24.9822
 }
 },
 {
@@ -200298,19 +200298,19 @@
 }
 },
 {
-"Name": "Almaş-Sălişte",
-"PostCode": "337551",
-"Location": {
-"Latitude": 46.0602,
-"Longitude": 22.5222
-}
-},
-{
 "Name": "Almăşel",
 "PostCode": "337552",
 "Location": {
 "Latitude": 46.0833,
 "Longitude": 22.4333
+}
+},
+{
+"Name": "Almaş-Sălişte",
+"PostCode": "337551",
+"Location": {
+"Latitude": 46.0602,
+"Longitude": 22.5222
 }
 },
 {
@@ -207224,14 +207224,6 @@
 }
 },
 {
-"Name": "Fierbinţi-Târg",
-"PostCode": "927115",
-"Location": {
-"Latitude": 44.7,
-"Longitude": 26.35
-}
-},
-{
 "Name": "Fierbinţii de Jos",
 "PostCode": "927116",
 "Location": {
@@ -207245,6 +207237,14 @@
 "Location": {
 "Latitude": 44.6819,
 "Longitude": 26.402
+}
+},
+{
+"Name": "Fierbinţi-Târg",
+"PostCode": "927115",
+"Location": {
+"Latitude": 44.7,
+"Longitude": 26.35
 }
 },
 {
@@ -220746,19 +220746,19 @@
 }
 },
 {
-"Name": "Cerna-Vârf",
-"PostCode": "227287",
-"Location": {
-"Latitude": 44.9245,
-"Longitude": 22.681
-}
-},
-{
 "Name": "Cernaia",
 "PostCode": "227127",
 "Location": {
 "Latitude": 44.6572,
 "Longitude": 23.127
+}
+},
+{
+"Name": "Cerna-Vârf",
+"PostCode": "227287",
+"Location": {
+"Latitude": 44.9245,
+"Longitude": 22.681
 }
 },
 {
@@ -252942,19 +252942,19 @@
 }
 },
 {
-"Name": "Medieş-Vii",
-"PostCode": "447189",
-"Location": {
-"Latitude": 47.8226,
-"Longitude": 23.2399
-}
-},
-{
 "Name": "Medieşu Aurit",
 "PostCode": "447185",
 "Location": {
 "Latitude": 47.7833,
 "Longitude": 23.15
+}
+},
+{
+"Name": "Medieş-Vii",
+"PostCode": "447189",
+"Location": {
+"Latitude": 47.8226,
+"Longitude": 23.2399
 }
 },
 {
@@ -303560,19 +303560,19 @@
 }
 },
 {
-"Name": "Micşuneşti-Moară",
-"PostCode": "077143",
-"Location": {
-"Latitude": 44.7008,
-"Longitude": 26.3288
-}
-},
-{
 "Name": "Micşuneştii Mari",
 "PostCode": "077144",
 "Location": {
 "Latitude": 44.691,
 "Longitude": 26.3554
+}
+},
+{
+"Name": "Micşuneşti-Moară",
+"PostCode": "077143",
+"Location": {
+"Latitude": 44.7008,
+"Longitude": 26.3288
 }
 },
 {
