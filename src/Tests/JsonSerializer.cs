@@ -1,5 +1,6 @@
 ﻿using System.IO;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
 
 static class JsonSerializer
 {
@@ -12,7 +13,7 @@ static class JsonSerializer
             NullValueHandling = NullValueHandling.Ignore,
             Formatting = Formatting.Indented,
         };
-        jsonSerializer.Converters.Add(new Newtonsoft.Json.Converters.StringEnumConverter());
+        jsonSerializer.Converters.Add(new StringEnumConverter());
     }
 
     public static void Serialize(object value, string path)
