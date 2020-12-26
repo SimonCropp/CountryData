@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using CountryData;
 
@@ -28,13 +29,15 @@ static class CountryInfoRowReader
 
             if (!string.IsNullOrWhiteSpace(fips))
             {
-                row.Fips = fips;
+                row.Fips = Enum.Parse<Fips>(fips);
             }
+
             var languages = split[15];
             if (languages != null)
             {
                 row.Languages = languages.Split(',').ToList();
             }
+
             var s = split[6]!;
             row.Area = double.Parse(s);
 

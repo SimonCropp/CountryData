@@ -16,6 +16,7 @@ namespace CountryData
         {
             assembly = typeof(CountryLoader).Assembly;
             using var stream = assembly.GetManifestResourceStream("CountryData.countryInfo.json.txt");
+
             CountryInfo = Serializer.Deserialize<List<CountryInfo>>(stream);
         }
 

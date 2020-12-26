@@ -9,7 +9,7 @@ namespace CountryData
         string Iso { get; }
         string Iso3 { get; }
         ushort IsoNumeric { get; }
-        string? Fips { get; }
+        Fips? Fips { get; }
         string Capital { get; }
         double Area { get; }
         uint Population { get; }
@@ -32,7 +32,7 @@ namespace CountryData
         public string Iso { get; set; } = null!;
         public string Iso3 { get; set; } = null!;
         public ushort IsoNumeric { get; set; }
-        public string? Fips { get; set; }
+        public Fips? Fips { get; set; }
         public string Capital { get; set; } = null!;
         public double Area { get; set; }
         public uint Population { get; set; }

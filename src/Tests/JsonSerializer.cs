@@ -12,6 +12,7 @@ static class JsonSerializer
             NullValueHandling = NullValueHandling.Ignore,
             Formatting = Formatting.Indented,
         };
+        jsonSerializer.Converters.Add(new Newtonsoft.Json.Converters.StringEnumConverter());
     }
 
     public static void Serialize(object value, string path)

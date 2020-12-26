@@ -1,5 +1,6 @@
 ﻿using System.IO;
 using System.Text.Json;
+using System.Text.Json.Serialization;
 using CountryData;
 
 static class Serializer
@@ -14,6 +15,7 @@ static class Serializer
         options.Converters.Add(new InterfaceConverter<Place, IPlace>());
         options.Converters.Add(new InterfaceConverter<Province, IProvince>());
         options.Converters.Add(new InterfaceConverter<State, IState>());
+        options.Converters.Add(new JsonStringEnumConverter());
         return JsonSerializer.Deserialize<T>(ReadToEnd(stream), options)!;
     }
 
