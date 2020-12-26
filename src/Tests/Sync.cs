@@ -123,12 +123,12 @@ namespace CountryData.Bogus
         File.Delete(iso3);
         var fips = Path.Combine(DataLocations.CountryDataProjectPath, "Fips.cs");
         File.Delete(fips);
-        var currency = Path.Combine(DataLocations.CountryDataProjectPath, "Currency.cs");
-        File.Delete(currency);
+        var currencyCode = Path.Combine(DataLocations.CountryDataProjectPath, "CurrencyCode.cs");
+        File.Delete(currencyCode);
         using var isoWriter = File.CreateText(iso);
         using var iso3Writer = File.CreateText(iso3);
         using var fipsWriter = File.CreateText(fips);
-        using var currencyWriter = File.CreateText(currency);
+        using var currencyCodeWriter = File.CreateText(currencyCode);
 
         isoWriter.WriteLine(@"
 namespace CountryData
@@ -145,18 +145,18 @@ namespace CountryData
 {
     public enum Fips
     {");
-        currencyWriter.WriteLine(@"
+        currencyCodeWriter.WriteLine(@"
 namespace CountryData
 {
-    public enum Currency
+    public enum CurrencyCode
     {");
 
-        foreach (var currencyCode in countryInfos
+        foreach (var code in countryInfos
             .Select(x => x.CurrencyCode)
             .Where(x => x != null)
             .Distinct())
         {
-            currencyWriter.WriteLine($"        {currencyCode},");
+            currencyCodeWriter.WriteLine($"        {code},");
         }
 
         foreach (var countryInfo in countryInfos)
@@ -176,8 +176,8 @@ namespace CountryData
         iso3Writer.WriteLine("}");
         fipsWriter.WriteLine("    }");
         fipsWriter.WriteLine("}");
-        currencyWriter.WriteLine("    }");
-        currencyWriter.WriteLine("}");
+        currencyCodeWriter.WriteLine("    }");
+        currencyCodeWriter.WriteLine("}");
     }
 
     static async Task<List<CountryInfo>> SyncCountryInfo()

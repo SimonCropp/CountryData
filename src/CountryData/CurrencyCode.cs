@@ -1,7 +1,7 @@
 
 namespace CountryData
 {
-    public enum Currency
+    public enum CurrencyCode
     {
         AED,
         AFN,
