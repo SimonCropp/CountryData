@@ -43,9 +43,6 @@ public class Sync
 
     static void WriteNamedCountryCs(List<CountryInfo> countryInfos, IDictionary<string, List<State>> countryLocationData)
     {
-        var namedCountryData = Path.Combine(DataLocations.CountryDataProjectPath, "CountryLoader_named.cs");
-        File.Delete(namedCountryData);
-
         Dictionary<string, string> keyToName = new();
         var cultureInfo = new CultureInfo("en-US", false).TextInfo;
         foreach (var locationData in countryLocationData)
@@ -60,6 +57,14 @@ public class Sync
                 .Replace(".", "");
             keyToName.Add(locationData.Key, name);
         }
+
+        WriteCountryLoader(keyToName);
+    }
+
+    static void WriteCountryLoader(Dictionary<string, string> keyToName)
+    {
+        var namedCountryData = Path.Combine(DataLocations.CountryDataProjectPath, "CountryLoader_named.cs");
+        File.Delete(namedCountryData);
 
         using (var writer = File.CreateText(namedCountryData))
         {
