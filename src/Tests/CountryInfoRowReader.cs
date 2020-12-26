@@ -13,7 +13,6 @@ static class CountryInfoRowReader
                 Iso = split[0]!,
                 Iso3 = split[1]!,
                 IsoNumeric = ushort.Parse(split[2]!),
-                Fips = split[3]!,
                 Name = split[4]!,
                 Capital = split[5]!,
                 //Population = uint.Parse(split[7]),
@@ -25,6 +24,12 @@ static class CountryInfoRowReader
                 PostCodeFormat = split[13]!,
                 PostCodeRegex = split[14]!,
             };
+            var fips = split[3];
+
+            if (!string.IsNullOrWhiteSpace(fips))
+            {
+                row.Fips = fips;
+            }
             var languages = split[15];
             if (languages != null)
             {

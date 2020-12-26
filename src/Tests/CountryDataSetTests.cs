@@ -6,8 +6,6 @@ public class CountryDataSetTests
     [Fact]
     public void Simple()
     {
-        var postCodeFormat = new CountryDataSet().Iso();
-        Assert.NotNull(postCodeFormat);
         var name = new CountryDataSet().Name();
         Assert.NotNull(name);
     }

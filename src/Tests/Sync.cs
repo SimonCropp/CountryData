@@ -58,6 +58,7 @@ public class Sync
             keyToName.Add(locationData.Key, name);
         }
 
+        WriteCountryCode(countryInfos);
         WriteCountryLoader(keyToName);
     }
 
@@ -114,25 +115,69 @@ namespace CountryData.Bogus
         }
     }
 
-    static void WriteCountryCode(Dictionary<string, string> keyToName)
+    static void WriteCountryCode(List<CountryInfo> countryInfos)
     {
-        var countryCode = Path.Combine(DataLocations.CountryDataProjectPath, "CountryCode.cs");
-        File.Delete(countryCode);
-        using var writer = File.CreateText(countryCode);
-        writer.WriteLine(@"
-// ReSharper disable IdentifierTypo
+        var iso = Path.Combine(DataLocations.CountryDataProjectPath, "Iso.cs");
+        File.Delete(iso);
+        var iso3 = Path.Combine(DataLocations.CountryDataProjectPath, "Iso3.cs");
+        File.Delete(iso3);
+        var fips = Path.Combine(DataLocations.CountryDataProjectPath, "Fips.cs");
+        File.Delete(fips);
+        var currency = Path.Combine(DataLocations.CountryDataProjectPath, "Currency.cs");
+        File.Delete(currency);
+        using var isoWriter = File.CreateText(iso);
+        using var iso3Writer = File.CreateText(iso3);
+        using var fipsWriter = File.CreateText(fips);
+        using var currencyWriter = File.CreateText(currency);
 
+        isoWriter.WriteLine(@"
 namespace CountryData
 {
-    public enum CountryCode
+    public enum Iso
     {");
-        foreach (var locationData in keyToName)
+        iso3Writer.WriteLine(@"
+namespace CountryData
+{
+    public enum Iso3
+    {");
+        fipsWriter.WriteLine(@"
+namespace CountryData
+{
+    public enum Fips
+    {");
+        currencyWriter.WriteLine(@"
+namespace CountryData
+{
+    public enum Currency
+    {");
+
+        foreach (var currencyCode in countryInfos
+            .Select(x => x.CurrencyCode)
+            .Where(x => x != null)
+            .Distinct())
         {
-            writer.WriteLine($"        {locationData.Key},");
+            currencyWriter.WriteLine($"        {currencyCode},");
         }
 
-        writer.WriteLine("    }");
-        writer.WriteLine("}");
+        foreach (var countryInfo in countryInfos)
+        {
+            isoWriter.WriteLine($"        {countryInfo.Iso},");
+            iso3Writer.WriteLine($"        {countryInfo.Iso3},");
+
+            if (countryInfo.Fips != null)
+            {
+                fipsWriter.WriteLine($"        {countryInfo.Fips},");
+            }
+        }
+
+        isoWriter.WriteLine("    }");
+        isoWriter.WriteLine("}");
+        iso3Writer.WriteLine("    }");
+        iso3Writer.WriteLine("}");
+        fipsWriter.WriteLine("    }");
+        fipsWriter.WriteLine("}");
+        currencyWriter.WriteLine("    }");
+        currencyWriter.WriteLine("}");
     }
 
     static async Task<List<CountryInfo>> SyncCountryInfo()

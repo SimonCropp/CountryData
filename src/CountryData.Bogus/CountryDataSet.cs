@@ -20,20 +20,6 @@ namespace CountryData.Bogus
             return CountryInfo().Name;
         }
 
-        public IEnumerable<string> CurrencyNames(int num = 1)
-        {
-            Guard.AgainstNegative(num, nameof(num));
-            for (var i = 0; i < num; i++)
-            {
-                yield return CurrencyName();
-            }
-        }
-
-        public string CurrencyName()
-        {
-            return CountryInfo().CurrencyName;
-        }
-
         public IEnumerable<string> Capitals(int num = 1)
         {
             Guard.AgainstNegative(num, nameof(num));
@@ -61,63 +47,7 @@ namespace CountryData.Bogus
         {
             return CountryInfo().Continent;
         }
-
-        public IEnumerable<string> CurrencyCodes(int num = 1)
-        {
-            Guard.AgainstNegative(num, nameof(num));
-            for (var i = 0; i < num; i++)
-            {
-                yield return CurrencyCode();
-            }
-        }
-
-        public string CurrencyCode()
-        {
-            return CountryInfo().CurrencyCode;
-        }
-
-        public IEnumerable<string> Fips(int num = 1)
-        {
-            Guard.AgainstNegative(num, nameof(num));
-            for (var i = 0; i < num; i++)
-            {
-                yield return Fips();
-            }
-        }
-
-        public string Fips()
-        {
-            return CountryInfo().Fips;
-        }
-
-        public IEnumerable<string> Isos(int num = 1)
-        {
-            Guard.AgainstNegative(num, nameof(num));
-            for (var i = 0; i < num; i++)
-            {
-                yield return Iso();
-            }
-        }
-
-        public string Iso()
-        {
-            return CountryInfo().Iso;
-        }
-
-        public IEnumerable<string> Iso3s(int num = 1)
-        {
-            Guard.AgainstNegative(num, nameof(num));
-            for (var i = 0; i < num; i++)
-            {
-                yield return Iso3();
-            }
-        }
-
-        public string Iso3()
-        {
-            return CountryInfo().Iso3;
-        }
-
+        
         public IEnumerable<string> PhonePrefixs(int num = 1)
         {
             Guard.AgainstNegative(num, nameof(num));
