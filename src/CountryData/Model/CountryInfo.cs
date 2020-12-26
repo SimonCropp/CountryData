@@ -15,7 +15,7 @@ namespace CountryData
         uint Population { get; }
         string Continent { get; }
         string TopLevelDomain { get; }
-        string? CurrencyCode { get; }
+        CurrencyCode? CurrencyCode { get; }
         string? CurrencyName { get; }
         string PhonePrefix { get; }
         string PostCodeFormat { get; }
@@ -37,7 +37,7 @@ namespace CountryData
         public uint Population { get; set; }
         public string Continent { get; set; } = null!;
         public string TopLevelDomain { get; set; } = null!;
-        public string? CurrencyCode { get; set; }
+        public CurrencyCode? CurrencyCode { get; set; }
         public string? CurrencyName { get; set; }
         public string PhonePrefix { get; set; } = null!;
         public string PostCodeFormat { get; set; } = null!;

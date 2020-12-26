@@ -19,14 +19,19 @@ static class CountryInfoRowReader
                 //Population = uint.Parse(split[7]),
                 Continent = split[8]!,
                 TopLevelDomain = split[9]!,
-                CurrencyCode = split[10]!,
                 CurrencyName = split[11]!,
                 PhonePrefix = split[12]!,
                 PostCodeFormat = split[13]!,
                 PostCodeRegex = split[14]!,
             };
-            var fips = split[3];
 
+            var currencyCode = split[10];
+            if (!string.IsNullOrWhiteSpace(currencyCode))
+            {
+                row.CurrencyCode = Enum.Parse<CurrencyCode>(currencyCode);
+            }
+
+            var fips = split[3];
             if (!string.IsNullOrWhiteSpace(fips))
             {
                 row.Fips = Enum.Parse<Fips>(fips);
