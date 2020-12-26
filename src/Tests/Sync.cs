@@ -109,6 +109,27 @@ namespace CountryData.Bogus
         }
     }
 
+    static void WriteCountryCode(Dictionary<string, string> keyToName)
+    {
+        var countryCode = Path.Combine(DataLocations.CountryDataProjectPath, "CountryCode.cs");
+        File.Delete(countryCode);
+        using var writer = File.CreateText(countryCode);
+        writer.WriteLine(@"
+// ReSharper disable IdentifierTypo
+
+namespace CountryData
+{
+    public enum CountryCode
+    {");
+        foreach (var locationData in keyToName)
+        {
+            writer.WriteLine($"        {locationData.Key},");
+        }
+
+        writer.WriteLine("    }");
+        writer.WriteLine("}");
+    }
+
     static async Task<List<CountryInfo>> SyncCountryInfo()
     {
         var countryInfoPath = Path.Combine(DataLocations.TempPath, "countryInfo.txt");
