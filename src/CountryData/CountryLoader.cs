@@ -1,4 +1,5 @@
-﻿using System.Collections.Concurrent;
+﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.IO;
 using System.IO.Compression;
@@ -38,7 +39,7 @@ namespace CountryData
             var entry = archive.Entries.SingleOrDefault(x => x.Name == $"{countryCode}.json.txt");
             if (entry == null)
             {
-                throw new($"Could not find data for '{countryCode}'.");
+                throw new ArgumentException($"Could not find data for '{countryCode}'.");
             }
 
             return ConstructCountry(entry, countryCode);

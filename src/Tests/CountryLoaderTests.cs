@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System;
+using System.Linq;
 using System.Threading.Tasks;
 using CountryData;
 using VerifyXunit;
@@ -11,6 +12,8 @@ public class CountryLoaderTests
     public Task LoadLocationData()
     {
         var country = CountryLoader.LoadLocationData("PW");
+        Assert.Throws<ArgumentException>(() => CountryLoader.LoadLocationData("QQ"));
+
         return Verifier.Verify(country);
     }
 
