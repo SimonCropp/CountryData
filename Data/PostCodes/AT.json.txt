@@ -35418,19 +35418,19 @@
 }
 },
 {
-"Name": "Ober-Steinabrunn",
-"PostCode": "2042",
-"Location": {
-"Latitude": 48.6272,
-"Longitude": 16.0208
-}
-},
-{
 "Name": "Obergrabern",
 "PostCode": "2020",
 "Location": {
 "Latitude": 48.6086,
 "Longitude": 15.995
+}
+},
+{
+"Name": "Ober-Steinabrunn",
+"PostCode": "2042",
+"Location": {
+"Latitude": 48.6272,
+"Longitude": 16.0208
 }
 },
 {
@@ -43235,22 +43235,6 @@
 }
 },
 {
-"Name": "Ober-Siegendorf",
-"PostCode": "3383",
-"Location": {
-"Latitude": 48.1919,
-"Longitude": 15.4348
-}
-},
-{
-"Name": "Ober-Thurnhofen",
-"PostCode": "3383",
-"Location": {
-"Latitude": 48.1919,
-"Longitude": 15.4348
-}
-},
-{
 "Name": "Oberhaag",
 "PostCode": "3383",
 "Location": {
@@ -43264,6 +43248,22 @@
 "Location": {
 "Latitude": 48.1569,
 "Longitude": 15.4454
+}
+},
+{
+"Name": "Ober-Siegendorf",
+"PostCode": "3383",
+"Location": {
+"Latitude": 48.1919,
+"Longitude": 15.4348
+}
+},
+{
+"Name": "Ober-Thurnhofen",
+"PostCode": "3383",
+"Location": {
+"Latitude": 48.1919,
+"Longitude": 15.4348
 }
 },
 {
@@ -43307,6 +43307,14 @@
 }
 },
 {
+"Name": "Unterhaag",
+"PostCode": "3383",
+"Location": {
+"Latitude": 48.1333,
+"Longitude": 15.4167
+}
+},
+{
 "Name": "Unter-Siegendorf",
 "PostCode": "3383",
 "Location": {
@@ -43320,14 +43328,6 @@
 "Location": {
 "Latitude": 48.1919,
 "Longitude": 15.4348
-}
-},
-{
-"Name": "Unterhaag",
-"PostCode": "3383",
-"Location": {
-"Latitude": 48.1333,
-"Longitude": 15.4167
 }
 }
 ]
@@ -146233,19 +146233,19 @@
 }
 },
 {
-"Name": "Fladnitz-Tober",
-"PostCode": "8163",
-"Location": {
-"Latitude": 47.29,
-"Longitude": 15.4927
-}
-},
-{
 "Name": "Fladnitzberg",
 "PostCode": "8163",
 "Location": {
 "Latitude": 47.2947,
 "Longitude": 15.477
+}
+},
+{
+"Name": "Fladnitz-Tober",
+"PostCode": "8163",
+"Location": {
+"Latitude": 47.29,
+"Longitude": 15.4927
 }
 },
 {

@@ -132,14 +132,6 @@
 {
 "Places": [
 {
-"Name": "'t Haantje",
-"PostCode": "7847",
-"Location": {
-"Latitude": 52.8143,
-"Longitude": 6.8254
-}
-},
-{
 "Name": "Aalden",
 "PostCode": "7854",
 "Location": {
@@ -297,6 +289,14 @@
 "Location": {
 "Latitude": 52.6747,
 "Longitude": 6.8123
+}
+},
+{
+"Name": "'t Haantje",
+"PostCode": "7847",
+"Location": {
+"Latitude": 52.8143,
+"Longitude": 6.8254
 }
 },
 {
@@ -5402,19 +5402,19 @@
 }
 },
 {
-"Name": "Ouwster-Nijega",
-"PostCode": "8514",
-"Location": {
-"Latitude": 52.9298,
-"Longitude": 5.8086
-}
-},
-{
 "Name": "Ouwsterhaule",
 "PostCode": "8513",
 "Location": {
 "Latitude": 52.9376,
 "Longitude": 5.8146
+}
+},
+{
+"Name": "Ouwster-Nijega",
+"PostCode": "8514",
+"Location": {
+"Latitude": 52.9298,
+"Longitude": 5.8086
 }
 },
 {
@@ -7760,14 +7760,6 @@
 {
 "Places": [
 {
-"Name": "'t Harde",
-"PostCode": "8084",
-"Location": {
-"Latitude": 52.4143,
-"Longitude": 5.8788
-}
-},
-{
 "Name": "Doornspijk",
 "PostCode": "8085",
 "Location": {
@@ -7789,6 +7781,14 @@
 "Location": {
 "Latitude": 52.4478,
 "Longitude": 5.8652
+}
+},
+{
+"Name": "'t Harde",
+"PostCode": "8084",
+"Location": {
+"Latitude": 52.4143,
+"Longitude": 5.8788
 }
 }
 ]
@@ -8534,14 +8534,6 @@
 {
 "Places": [
 {
-"Name": "'t Loo Oldebroek",
-"PostCode": "8095",
-"Location": {
-"Latitude": 52.4427,
-"Longitude": 5.9514
-}
-},
-{
 "Name": "Hattemerbroek",
 "PostCode": "8094",
 "Location": {
@@ -8571,6 +8563,14 @@
 "Location": {
 "Latitude": 52.4664,
 "Longitude": 5.8951
+}
+},
+{
+"Name": "'t Loo Oldebroek",
+"PostCode": "8095",
+"Location": {
+"Latitude": 52.4427,
+"Longitude": 5.9514
 }
 },
 {
@@ -10626,14 +10626,6 @@
 {
 "Places": [
 {
-"Name": "'s-Heerenberg",
-"PostCode": "7041",
-"Location": {
-"Latitude": 51.8774,
-"Longitude": 6.2529
-}
-},
-{
 "Name": "Azewijn",
 "PostCode": "7045",
 "Location": {
@@ -10695,6 +10687,14 @@
 "Location": {
 "Latitude": 51.9275,
 "Longitude": 6.1998
+}
+},
+{
+"Name": "'s-Heerenberg",
+"PostCode": "7041",
+"Location": {
+"Latitude": 51.8774,
+"Longitude": 6.2529
 }
 },
 {
@@ -11562,14 +11562,6 @@
 {
 "Places": [
 {
-"Name": "'t Zandt",
-"PostCode": "9915",
-"Location": {
-"Latitude": 53.3679,
-"Longitude": 6.775
-}
-},
-{
 "Name": "Eenum",
 "PostCode": "9913",
 "Location": {
@@ -11647,6 +11639,14 @@
 "Location": {
 "Latitude": 53.3223,
 "Longitude": 6.6946
+}
+},
+{
+"Name": "'t Zandt",
+"PostCode": "9915",
+"Location": {
+"Latitude": 53.3679,
+"Longitude": 6.775
 }
 },
 {
@@ -11874,14 +11874,6 @@
 {
 "Places": [
 {
-"Name": "'t Waar",
-"PostCode": "9942",
-"Location": {
-"Latitude": 53.2236,
-"Longitude": 6.9483
-}
-},
-{
 "Name": "Bad Nieuweschans",
 "PostCode": "9693",
 "Location": {
@@ -11983,6 +11975,14 @@
 "Location": {
 "Latitude": 53.1736,
 "Longitude": 6.9739
+}
+},
+{
+"Name": "'t Waar",
+"PostCode": "9942",
+"Location": {
+"Latitude": 53.2236,
+"Longitude": 6.9483
 }
 },
 {
@@ -16424,14 +16424,6 @@
 {
 "Places": [
 {
-"Name": "'s Gravenmoer",
-"PostCode": "5109",
-"Location": {
-"Latitude": 51.6582,
-"Longitude": 4.9438
-}
-},
-{
 "Name": "Dongen",
 "PostCode": "5101",
 "Location": {
@@ -16485,6 +16477,14 @@
 "Location": {
 "Latitude": 51.6167,
 "Longitude": 4.929
+}
+},
+{
+"Name": "'s Gravenmoer",
+"PostCode": "5109",
+"Location": {
+"Latitude": 51.6582,
+"Longitude": 4.9438
 }
 }
 ]
@@ -17236,6 +17236,94 @@
 {
 "Places": [
 {
+"Name": "Nuland",
+"PostCode": "5391",
+"Location": {
+"Latitude": 51.726,
+"Longitude": 5.4369
+}
+},
+{
+"Name": "Nuland",
+"PostCode": "5392",
+"Location": {
+"Latitude": 51.7311,
+"Longitude": 5.4267
+}
+},
+{
+"Name": "Rosmalen",
+"PostCode": "5241",
+"Location": {
+"Latitude": 51.7178,
+"Longitude": 5.3582
+}
+},
+{
+"Name": "Rosmalen",
+"PostCode": "5242",
+"Location": {
+"Latitude": 51.7105,
+"Longitude": 5.3686
+}
+},
+{
+"Name": "Rosmalen",
+"PostCode": "5243",
+"Location": {
+"Latitude": 51.7208,
+"Longitude": 5.371
+}
+},
+{
+"Name": "Rosmalen",
+"PostCode": "5244",
+"Location": {
+"Latitude": 51.7158,
+"Longitude": 5.3854
+}
+},
+{
+"Name": "Rosmalen",
+"PostCode": "5245",
+"Location": {
+"Latitude": 51.7314,
+"Longitude": 5.3512
+}
+},
+{
+"Name": "Rosmalen",
+"PostCode": "5246",
+"Location": {
+"Latitude": 51.6995,
+"Longitude": 5.3434
+}
+},
+{
+"Name": "Rosmalen",
+"PostCode": "5247",
+"Location": {
+"Latitude": 51.731,
+"Longitude": 5.3666
+}
+},
+{
+"Name": "Rosmalen",
+"PostCode": "5248",
+"Location": {
+"Latitude": 51.7058,
+"Longitude": 5.3842
+}
+},
+{
+"Name": "Rosmalen",
+"PostCode": "5249",
+"Location": {
+"Latitude": 51.7288,
+"Longitude": 5.4001
+}
+},
+{
 "Name": "'s-Hertogenbosch",
 "PostCode": "5211",
 "Location": {
@@ -17361,94 +17449,6 @@
 "Location": {
 "Latitude": 51.7302,
 "Longitude": 5.2909
-}
-},
-{
-"Name": "Nuland",
-"PostCode": "5391",
-"Location": {
-"Latitude": 51.726,
-"Longitude": 5.4369
-}
-},
-{
-"Name": "Nuland",
-"PostCode": "5392",
-"Location": {
-"Latitude": 51.7311,
-"Longitude": 5.4267
-}
-},
-{
-"Name": "Rosmalen",
-"PostCode": "5241",
-"Location": {
-"Latitude": 51.7178,
-"Longitude": 5.3582
-}
-},
-{
-"Name": "Rosmalen",
-"PostCode": "5242",
-"Location": {
-"Latitude": 51.7105,
-"Longitude": 5.3686
-}
-},
-{
-"Name": "Rosmalen",
-"PostCode": "5243",
-"Location": {
-"Latitude": 51.7208,
-"Longitude": 5.371
-}
-},
-{
-"Name": "Rosmalen",
-"PostCode": "5244",
-"Location": {
-"Latitude": 51.7158,
-"Longitude": 5.3854
-}
-},
-{
-"Name": "Rosmalen",
-"PostCode": "5245",
-"Location": {
-"Latitude": 51.7314,
-"Longitude": 5.3512
-}
-},
-{
-"Name": "Rosmalen",
-"PostCode": "5246",
-"Location": {
-"Latitude": 51.6995,
-"Longitude": 5.3434
-}
-},
-{
-"Name": "Rosmalen",
-"PostCode": "5247",
-"Location": {
-"Latitude": 51.731,
-"Longitude": 5.3666
-}
-},
-{
-"Name": "Rosmalen",
-"PostCode": "5248",
-"Location": {
-"Latitude": 51.7058,
-"Longitude": 5.3842
-}
-},
-{
-"Name": "Rosmalen",
-"PostCode": "5249",
-"Location": {
-"Latitude": 51.7288,
-"Longitude": 5.4001
 }
 },
 {
@@ -23672,14 +23672,6 @@
 {
 "Places": [
 {
-"Name": "'t Zand",
-"PostCode": "1756",
-"Location": {
-"Latitude": 52.8361,
-"Longitude": 4.7566
-}
-},
-{
 "Name": "Burgerbrug",
 "PostCode": "1754",
 "Location": {
@@ -23773,6 +23765,14 @@
 "Location": {
 "Latitude": 52.7892,
 "Longitude": 4.697
+}
+},
+{
+"Name": "'t Zand",
+"PostCode": "1756",
+"Location": {
+"Latitude": 52.8361,
+"Longitude": 4.7566
 }
 },
 {
@@ -24676,14 +24676,6 @@
 {
 "Places": [
 {
-"Name": "'s-Graveland",
-"PostCode": "1243",
-"Location": {
-"Latitude": 52.2402,
-"Longitude": 5.1232
-}
-},
-{
 "Name": "Ankeveen",
 "PostCode": "1244",
 "Location": {
@@ -24722,6 +24714,14 @@
 "Latitude": 52.2585,
 "Longitude": 5.0502
 }
+},
+{
+"Name": "'s-Graveland",
+"PostCode": "1243",
+"Location": {
+"Latitude": 52.2402,
+"Longitude": 5.1232
+}
 }
 ]
 }
@@ -24733,14 +24733,6 @@
 "Communities": [
 {
 "Places": [
-{
-"Name": "'t Veld",
-"PostCode": "1735",
-"Location": {
-"Latitude": 52.7405,
-"Longitude": 4.8561
-}
-},
 {
 "Name": "Anna Paulowna",
 "PostCode": "1761",
@@ -24851,6 +24843,14 @@
 "Location": {
 "Latitude": 52.8472,
 "Longitude": 4.9702
+}
+},
+{
+"Name": "'t Veld",
+"PostCode": "1735",
+"Location": {
+"Latitude": 52.7405,
+"Longitude": 4.8561
 }
 },
 {
@@ -25382,14 +25382,6 @@
 {
 "Places": [
 {
-"Name": "'t Goy",
-"PostCode": "3997",
-"Location": {
-"Latitude": 52.0029,
-"Longitude": 5.2181
-}
-},
-{
 "Name": "Houten",
 "PostCode": "3991",
 "Location": {
@@ -25435,6 +25427,14 @@
 "Location": {
 "Latitude": 51.9913,
 "Longitude": 5.1909
+}
+},
+{
+"Name": "'t Goy",
+"PostCode": "3997",
+"Location": {
+"Latitude": 52.0029,
+"Longitude": 5.2181
 }
 },
 {
@@ -27184,30 +27184,6 @@
 {
 "Places": [
 {
-"Name": "'s-Gravenpolder",
-"PostCode": "4431",
-"Location": {
-"Latitude": 51.4594,
-"Longitude": 3.9036
-}
-},
-{
-"Name": "'s-Heer Abtskerke",
-"PostCode": "4444",
-"Location": {
-"Latitude": 51.4714,
-"Longitude": 3.8748
-}
-},
-{
-"Name": "'s-Heerenhoek",
-"PostCode": "4453",
-"Location": {
-"Latitude": 51.454,
-"Longitude": 3.7709
-}
-},
-{
 "Name": "Baarland",
 "PostCode": "4435",
 "Location": {
@@ -27302,6 +27278,30 @@
 "Latitude": 51.4305,
 "Longitude": 3.818
 }
+},
+{
+"Name": "'s-Gravenpolder",
+"PostCode": "4431",
+"Location": {
+"Latitude": 51.4594,
+"Longitude": 3.9036
+}
+},
+{
+"Name": "'s-Heer Abtskerke",
+"PostCode": "4444",
+"Location": {
+"Latitude": 51.4714,
+"Longitude": 3.8748
+}
+},
+{
+"Name": "'s-Heerenhoek",
+"PostCode": "4453",
+"Location": {
+"Latitude": 51.454,
+"Longitude": 3.7709
+}
 }
 ]
 }
@@ -27313,30 +27313,6 @@
 "Communities": [
 {
 "Places": [
-{
-"Name": "'s-Heer Arendskerke",
-"PostCode": "4458",
-"Location": {
-"Latitude": 51.4943,
-"Longitude": 3.8182
-}
-},
-{
-"Name": "'s-Heer Hendrikskinderen",
-"PostCode": "4471",
-"Location": {
-"Latitude": 51.5047,
-"Longitude": 3.8458
-}
-},
-{
-"Name": "'s-Heer Hendrikskinderen",
-"PostCode": "4472",
-"Location": {
-"Latitude": 51.502,
-"Longitude": 3.8609
-}
-},
 {
 "Name": "Goes",
 "PostCode": "4461",
@@ -27415,6 +27391,30 @@
 "Location": {
 "Latitude": 51.496,
 "Longitude": 3.9123
+}
+},
+{
+"Name": "'s-Heer Arendskerke",
+"PostCode": "4458",
+"Location": {
+"Latitude": 51.4943,
+"Longitude": 3.8182
+}
+},
+{
+"Name": "'s-Heer Hendrikskinderen",
+"PostCode": "4471",
+"Location": {
+"Latitude": 51.5047,
+"Longitude": 3.8458
+}
+},
+{
+"Name": "'s-Heer Hendrikskinderen",
+"PostCode": "4472",
+"Location": {
+"Latitude": 51.502,
+"Longitude": 3.8609
 }
 },
 {
@@ -32352,38 +32352,6 @@
 {
 "Places": [
 {
-"Name": "'s-Gravenzande",
-"PostCode": "2691",
-"Location": {
-"Latitude": 51.9979,
-"Longitude": 4.1666
-}
-},
-{
-"Name": "'s-Gravenzande",
-"PostCode": "2692",
-"Location": {
-"Latitude": 51.9981,
-"Longitude": 4.1639
-}
-},
-{
-"Name": "'s-Gravenzande",
-"PostCode": "2693",
-"Location": {
-"Latitude": 52.0002,
-"Longitude": 4.179
-}
-},
-{
-"Name": "'s-Gravenzande",
-"PostCode": "2694",
-"Location": {
-"Latitude": 52.0071,
-"Longitude": 4.1662
-}
-},
-{
 "Name": "De Lier",
 "PostCode": "2678",
 "Location": {
@@ -32453,6 +32421,38 @@
 "Location": {
 "Latitude": 52.0246,
 "Longitude": 4.2207
+}
+},
+{
+"Name": "'s-Gravenzande",
+"PostCode": "2691",
+"Location": {
+"Latitude": 51.9979,
+"Longitude": 4.1666
+}
+},
+{
+"Name": "'s-Gravenzande",
+"PostCode": "2692",
+"Location": {
+"Latitude": 51.9981,
+"Longitude": 4.1639
+}
+},
+{
+"Name": "'s-Gravenzande",
+"PostCode": "2693",
+"Location": {
+"Latitude": 52.0002,
+"Longitude": 4.179
+}
+},
+{
+"Name": "'s-Gravenzande",
+"PostCode": "2694",
+"Location": {
+"Latitude": 52.0071,
+"Longitude": 4.1662
 }
 },
 {
@@ -33292,14 +33292,6 @@
 {
 "Places": [
 {
-"Name": "'s-Gravendeel",
-"PostCode": "3295",
-"Location": {
-"Latitude": 51.7771,
-"Longitude": 4.6135
-}
-},
-{
 "Name": "Goudswaard",
 "PostCode": "3267",
 "Location": {
@@ -33401,6 +33393,14 @@
 "Location": {
 "Latitude": 51.8037,
 "Longitude": 4.565
+}
+},
+{
+"Name": "'s-Gravendeel",
+"PostCode": "3295",
+"Location": {
+"Latitude": 51.7771,
+"Longitude": 4.6135
 }
 },
 {
@@ -34688,14 +34688,6 @@
 {
 "Places": [
 {
-"Name": "'s-Heerenbroek",
-"PostCode": "8275",
-"Location": {
-"Latitude": 52.5362,
-"Longitude": 6.0128
-}
-},
-{
 "Name": "Grafhorst",
 "PostCode": "8277",
 "Location": {
@@ -34781,6 +34773,14 @@
 "Location": {
 "Latitude": 52.5673,
 "Longitude": 6.0056
+}
+},
+{
+"Name": "'s-Heerenbroek",
+"PostCode": "8275",
+"Location": {
+"Latitude": 52.5362,
+"Longitude": 6.0128
 }
 },
 {
