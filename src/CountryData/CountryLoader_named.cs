@@ -96,6 +96,11 @@ namespace CountryData
             return LoadLocationData("CR");
         }
 
+        public static ICountry LoadCyprusLocationData()
+        {
+            return LoadLocationData("CY");
+        }
+
         public static ICountry LoadCzechiaLocationData()
         {
             return LoadLocationData("CZ");
