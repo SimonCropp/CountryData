@@ -54,6 +54,7 @@ namespace CountryData.Bogus
         {
             return AllPlaces(country).ToList().Random(count);
         }
+
         public static string PostCode(this ICountry country)
         {
             return Place(country).PostCode;
