@@ -45,17 +45,17 @@ public class Sync
     {
         Dictionary<string, string> keyToName = new();
         var cultureInfo = new CultureInfo("en-US", false).TextInfo;
-        foreach (var locationData in countryLocationData)
+        foreach (var locationKey in countryLocationData.Keys)
         {
             var name = countryInfos
-                .Single(x => x.Iso == locationData.Key)
+                .Single(x => x.Iso == locationKey)
                 .Name;
 
             name = cultureInfo.ToTitleCase(name);
             name = name
                 .Replace(" ", "")
                 .Replace(".", "");
-            keyToName.Add(locationData.Key, name);
+            keyToName.Add(locationKey, name);
         }
 
         WriteCountryCode(countryInfos);
