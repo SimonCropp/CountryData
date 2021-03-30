@@ -624,22 +624,6 @@
 }
 },
 {
-"Name": "L'Entre-Deux",
-"PostCode": "97414",
-"Location": {
-"Latitude": -21.2333,
-"Longitude": 55.4667
-}
-},
-{
-"Name": "L'Étang-Salé",
-"PostCode": "97427",
-"Location": {
-"Latitude": -21.25,
-"Longitude": 55.3833
-}
-},
-{
 "Name": "La Rivière",
 "PostCode": "97421",
 "Location": {
@@ -736,11 +720,27 @@
 }
 },
 {
+"Name": "L'Entre-Deux",
+"PostCode": "97414",
+"Location": {
+"Latitude": -21.2333,
+"Longitude": 55.4667
+}
+},
+{
 "Name": "Les Avirons",
 "PostCode": "97425",
 "Location": {
 "Latitude": -21.2418,
 "Longitude": 55.3394
+}
+},
+{
+"Name": "L'Étang-Salé",
+"PostCode": "97427",
+"Location": {
+"Latitude": -21.25,
+"Longitude": 55.3833
 }
 },
 {

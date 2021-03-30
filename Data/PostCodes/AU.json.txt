@@ -14346,14 +14346,6 @@
 }
 },
 {
-"Name": "O'Connell",
-"PostCode": "2795",
-"Location": {
-"Latitude": -33.5595,
-"Longitude": 149.7327
-}
-},
-{
 "Name": "Oakhampton",
 "PostCode": "2320",
 "Location": {
@@ -14423,6 +14415,14 @@
 "Location": {
 "Latitude": -32.6899,
 "Longitude": 148.5069
+}
+},
+{
+"Name": "O'Connell",
+"PostCode": "2795",
+"Location": {
+"Latitude": -33.5595,
+"Longitude": 149.7327
 }
 },
 {
@@ -50952,14 +50952,6 @@
 }
 },
 {
-"Name": "O'Bil Bil",
-"PostCode": "4626",
-"Location": {
-"Latitude": -25.5284,
-"Longitude": 151.2515
-}
-},
-{
 "Name": "Oak Beach",
 "PostCode": "4877",
 "Location": {
@@ -51005,6 +50997,14 @@
 "Location": {
 "Latitude": -26.6328,
 "Longitude": 152.816
+}
+},
+{
+"Name": "O'Bil Bil",
+"PostCode": "4626",
+"Location": {
+"Latitude": -25.5284,
+"Longitude": 151.2515
 }
 },
 {
@@ -69033,19 +69033,19 @@
 }
 },
 {
-"Name": "O'Connell",
-"PostCode": "4680",
-"Location": {
-"Latitude": -23.923,
-"Longitude": 151.2689
-}
-},
-{
 "Name": "Oakey Creek",
 "PostCode": "4714",
 "Location": {
 "Latitude": -23.7386,
 "Longitude": 150.3394
+}
+},
+{
+"Name": "O'Connell",
+"PostCode": "4680",
+"Location": {
+"Latitude": -23.923,
+"Longitude": 151.2689
 }
 },
 {
@@ -72250,19 +72250,19 @@
 }
 },
 {
-"Name": "O'Briens Hill",
-"PostCode": "4860",
-"Location": {
-"Latitude": -17.5176,
-"Longitude": 145.9869
-}
-},
-{
 "Name": "Oak Valley",
 "PostCode": "4811",
 "Location": {
 "Latitude": -19.412,
 "Longitude": 146.8214
+}
+},
+{
+"Name": "O'Briens Hill",
+"PostCode": "4860",
+"Location": {
+"Latitude": -17.5176,
+"Longitude": 145.9869
 }
 },
 {
@@ -73155,33 +73155,6 @@
 "Name": "South Australia",
 "Code": "SA",
 "Provinces": [
-{
-"Name": "ALICE SPRINGS",
-"PostCode": "0872",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Ernabella",
-"PostCode": "0872",
-"Location": {
-"Latitude": -23.7917,
-"Longitude": 132.6818
-}
-},
-{
-"Name": "Fregon",
-"PostCode": "0872",
-"Location": {
-"Latitude": -26.7639,
-"Longitude": 132.0277
-}
-}
-],
-"PostCode": "0872"
-}
-]
-},
 {
 "Communities": [
 {
@@ -75091,14 +75064,6 @@
 }
 },
 {
-"Name": "D'Estrees Bay",
-"PostCode": "5223",
-"Location": {
-"Latitude": -35.9299,
-"Longitude": 137.5958
-}
-},
-{
 "Name": "Dalkey",
 "PostCode": "5461",
 "Location": {
@@ -75168,6 +75133,14 @@
 "Location": {
 "Latitude": -32.0952,
 "Longitude": 133.5796
+}
+},
+{
+"Name": "D'Estrees Bay",
+"PostCode": "5223",
+"Location": {
+"Latitude": -35.9299,
+"Longitude": 137.5958
 }
 },
 {
@@ -78043,19 +78016,19 @@
 }
 },
 {
-"Name": "O'Halloran Hill DC",
-"PostCode": "5158",
-"Location": {
-"Latitude": -35.073,
-"Longitude": 138.5387
-}
-},
-{
 "Name": "Ob Flat",
 "PostCode": "5291",
 "Location": {
 "Latitude": -37.8834,
 "Longitude": 140.7803
+}
+},
+{
+"Name": "O'Halloran Hill DC",
+"PostCode": "5158",
+"Location": {
+"Latitude": -35.073,
+"Longitude": 138.5387
 }
 },
 {
@@ -80799,6 +80772,33 @@
 ]
 },
 {
+"Name": "ALICE SPRINGS",
+"PostCode": "0872",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Ernabella",
+"PostCode": "0872",
+"Location": {
+"Latitude": -23.7917,
+"Longitude": 132.6818
+}
+},
+{
+"Name": "Fregon",
+"PostCode": "0872",
+"Location": {
+"Latitude": -26.7639,
+"Longitude": 132.0277
+}
+}
+],
+"PostCode": "0872"
+}
+]
+},
+{
 "Name": "SA CITY SUBS",
 "Communities": [
 {
@@ -81332,14 +81332,6 @@
 }
 },
 {
-"Name": "O'Sullivan Beach",
-"PostCode": "5166",
-"Location": {
-"Latitude": -35.1193,
-"Longitude": 138.477
-}
-},
-{
 "Name": "Old Noarlunga",
 "PostCode": "5168",
 "Location": {
@@ -81361,6 +81353,14 @@
 "Location": {
 "Latitude": -34.7849,
 "Longitude": 138.5135
+}
+},
+{
+"Name": "O'Sullivan Beach",
+"PostCode": "5166",
+"Location": {
+"Latitude": -35.1193,
+"Longitude": 138.477
 }
 },
 {
@@ -85206,14 +85206,6 @@
 }
 },
 {
-"Name": "O'Halloran Hill",
-"PostCode": "5158",
-"Location": {
-"Latitude": -35.0727,
-"Longitude": 138.5481
-}
-},
-{
 "Name": "Oakbank",
 "PostCode": "5243",
 "Location": {
@@ -85227,6 +85219,14 @@
 "Location": {
 "Latitude": -34.8554,
 "Longitude": 138.6446
+}
+},
+{
+"Name": "O'Halloran Hill",
+"PostCode": "5158",
+"Location": {
+"Latitude": -35.0727,
+"Longitude": 138.5481
 }
 },
 {
@@ -102005,19 +102005,19 @@
 }
 },
 {
-"Name": "Murray-Sunset",
-"PostCode": "3490",
-"Location": {
-"Latitude": -34.9286,
-"Longitude": 141.2335
-}
-},
-{
 "Name": "Murraydale",
 "PostCode": "3586",
 "Location": {
 "Latitude": -35.283,
 "Longitude": 143.5633
+}
+},
+{
+"Name": "Murray-Sunset",
+"PostCode": "3490",
+"Location": {
+"Latitude": -34.9286,
+"Longitude": 141.2335
 }
 },
 {
@@ -124346,19 +124346,19 @@
 }
 },
 {
-"Name": "O'Connor",
-"PostCode": "6163",
-"Location": {
-"Latitude": -32.0599,
-"Longitude": 115.7923
-}
-},
-{
 "Name": "Oakley",
 "PostCode": "6208",
 "Location": {
 "Latitude": -32.652,
 "Longitude": 115.9479
+}
+},
+{
+"Name": "O'Connor",
+"PostCode": "6163",
+"Location": {
+"Latitude": -32.0599,
+"Longitude": 115.7923
 }
 },
 {

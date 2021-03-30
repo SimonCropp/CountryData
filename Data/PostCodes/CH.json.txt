@@ -38990,14 +38990,6 @@
 "Code": "5568",
 "Places": [
 {
-"Name": "L'Auberson",
-"PostCode": "1454",
-"Location": {
-"Latitude": 46.8192,
-"Longitude": 6.4597
-}
-},
-{
 "Name": "La Sagne (Ste-Croix)",
 "PostCode": "1450",
 "Location": {
@@ -39011,6 +39003,14 @@
 "Location": {
 "Latitude": 46.8426,
 "Longitude": 6.4837
+}
+},
+{
+"Name": "L'Auberson",
+"PostCode": "1454",
+"Location": {
+"Latitude": 46.8192,
+"Longitude": 6.4597
 }
 },
 {
@@ -41103,19 +41103,19 @@
 "Code": "5486",
 "Places": [
 {
-"Name": "L'Isle",
-"PostCode": "1148",
-"Location": {
-"Latitude": 46.6184,
-"Longitude": 6.4133
-}
-},
-{
 "Name": "La Coudre",
 "PostCode": "1148",
 "Location": {
 "Latitude": 46.6404,
 "Longitude": 6.4036
+}
+},
+{
+"Name": "L'Isle",
+"PostCode": "1148",
+"Location": {
+"Latitude": 46.6184,
+"Longitude": 6.4133
 }
 },
 {
@@ -42570,14 +42570,6 @@
 }
 },
 {
-"Name": "L'Etivaz",
-"PostCode": "1660",
-"Location": {
-"Latitude": 46.4248,
-"Longitude": 7.1462
-}
-},
-{
 "Name": "La Lécherette",
 "PostCode": "1660",
 "Location": {
@@ -42591,6 +42583,14 @@
 "Location": {
 "Latitude": 46.4619,
 "Longitude": 7.1051
+}
+},
+{
+"Name": "L'Etivaz",
+"PostCode": "1660",
+"Location": {
+"Latitude": 46.4248,
+"Longitude": 7.1462
 }
 }
 ],
@@ -44967,19 +44967,19 @@
 }
 },
 {
-"Name": "Ried-Mörel",
-"PostCode": "3986",
-"Location": {
-"Latitude": 46.3571,
-"Longitude": 8.0314
-}
-},
-{
 "Name": "Riederalp",
 "PostCode": "3987",
 "Location": {
 "Latitude": 46.3764,
 "Longitude": 8.0261
+}
+},
+{
+"Name": "Ried-Mörel",
+"PostCode": "3986",
+"Location": {
+"Latitude": 46.3571,
+"Longitude": 8.0314
 }
 }
 ]

@@ -7406,54 +7406,6 @@
 }
 },
 {
-"Name": "Ga-Maraba",
-"PostCode": "0705",
-"Location": {
-"Latitude": -23.7167,
-"Longitude": 29.3167
-}
-},
-{
-"Name": "Ga-Rankuwa",
-"PostCode": "0208",
-"Location": {
-"Latitude": -25.5883,
-"Longitude": 28.0078
-}
-},
-{
-"Name": "Ga-Rapulana",
-"PostCode": "9775",
-"Location": {
-"Latitude": -29.3154,
-"Longitude": 27.4386
-}
-},
-{
-"Name": "Ga-Rapulana",
-"PostCode": "9780",
-"Location": {
-"Latitude": -29.6583,
-"Longitude": 26.9854
-}
-},
-{
-"Name": "Ga-Rapulana",
-"PostCode": "9783",
-"Location": {
-"Latitude": -29.2083,
-"Longitude": 26.825
-}
-},
-{
-"Name": "Ga-Sehunelo",
-"PostCode": "9323",
-"Location": {
-"Latitude": -27.0333,
-"Longitude": 23.5833
-}
-},
-{
 "Name": "Gakgapane",
 "PostCode": "0838",
 "Location": {
@@ -7491,6 +7443,14 @@
 "Location": {
 "Latitude": -27.9796,
 "Longitude": 25.1093
+}
+},
+{
+"Name": "Ga-Maraba",
+"PostCode": "0705",
+"Location": {
+"Latitude": -23.7167,
+"Longitude": 29.3167
 }
 },
 {
@@ -7558,11 +7518,43 @@
 }
 },
 {
+"Name": "Ga-Rankuwa",
+"PostCode": "0208",
+"Location": {
+"Latitude": -25.5883,
+"Longitude": 28.0078
+}
+},
+{
 "Name": "Garapulana",
 "PostCode": "9775",
 "Location": {
 "Latitude": -29.3154,
 "Longitude": 27.4386
+}
+},
+{
+"Name": "Ga-Rapulana",
+"PostCode": "9775",
+"Location": {
+"Latitude": -29.3154,
+"Longitude": 27.4386
+}
+},
+{
+"Name": "Ga-Rapulana",
+"PostCode": "9780",
+"Location": {
+"Latitude": -29.6583,
+"Longitude": 26.9854
+}
+},
+{
+"Name": "Ga-Rapulana",
+"PostCode": "9783",
+"Location": {
+"Latitude": -29.2083,
+"Longitude": 26.825
 }
 },
 {
@@ -7603,6 +7595,14 @@
 "Location": {
 "Latitude": -28.0833,
 "Longitude": 24.8917
+}
+},
+{
+"Name": "Ga-Sehunelo",
+"PostCode": "9323",
+"Location": {
+"Latitude": -27.0333,
+"Longitude": 23.5833
 }
 },
 {
@@ -12494,6 +12494,30 @@
 }
 },
 {
+"Name": "King Williams Town",
+"PostCode": "5601",
+"Location": {
+"Latitude": -32.8833,
+"Longitude": 27.4
+}
+},
+{
+"Name": "King Williams Town",
+"PostCode": "5611",
+"Location": {
+"Latitude": -32.8833,
+"Longitude": 27.4
+}
+},
+{
+"Name": "King Williams Town",
+"PostCode": "5614",
+"Location": {
+"Latitude": -32.8833,
+"Longitude": 27.4
+}
+},
+{
 "Name": "King William'S Town",
 "PostCode": "4931",
 "Location": {
@@ -12536,30 +12560,6 @@
 {
 "Name": "King William'S Town",
 "PostCode": "5610",
-"Location": {
-"Latitude": -32.8833,
-"Longitude": 27.4
-}
-},
-{
-"Name": "King Williams Town",
-"PostCode": "5601",
-"Location": {
-"Latitude": -32.8833,
-"Longitude": 27.4
-}
-},
-{
-"Name": "King Williams Town",
-"PostCode": "5611",
-"Location": {
-"Latitude": -32.8833,
-"Longitude": 27.4
-}
-},
-{
-"Name": "King Williams Town",
-"PostCode": "5614",
 "Location": {
 "Latitude": -32.8833,
 "Longitude": 27.4
@@ -13406,46 +13406,6 @@
 }
 },
 {
-"Name": "Kwa-Mashu",
-"PostCode": "4032",
-"Location": {
-"Latitude": -29.85,
-"Longitude": 31.0167
-}
-},
-{
-"Name": "Kwa-Mashu",
-"PostCode": "4359",
-"Location": {
-"Latitude": -29.75,
-"Longitude": 30.9833
-}
-},
-{
-"Name": "Kwa-Mashu",
-"PostCode": "4360",
-"Location": {
-"Latitude": -29.8,
-"Longitude": 31.0
-}
-},
-{
-"Name": "Kwa-Mashu",
-"PostCode": "4361",
-"Location": {
-"Latitude": -29.8167,
-"Longitude": 31.0056
-}
-},
-{
-"Name": "Kwa-Mashu",
-"PostCode": "4364",
-"Location": {
-"Latitude": -29.8167,
-"Longitude": 31.0056
-}
-},
-{
 "Name": "Kwadlangezwa",
 "PostCode": "3886",
 "Location": {
@@ -13507,6 +13467,46 @@
 "Location": {
 "Latitude": -29.75,
 "Longitude": 30.9833
+}
+},
+{
+"Name": "Kwa-Mashu",
+"PostCode": "4032",
+"Location": {
+"Latitude": -29.85,
+"Longitude": 31.0167
+}
+},
+{
+"Name": "Kwa-Mashu",
+"PostCode": "4359",
+"Location": {
+"Latitude": -29.75,
+"Longitude": 30.9833
+}
+},
+{
+"Name": "Kwa-Mashu",
+"PostCode": "4360",
+"Location": {
+"Latitude": -29.8,
+"Longitude": 31.0
+}
+},
+{
+"Name": "Kwa-Mashu",
+"PostCode": "4361",
+"Location": {
+"Latitude": -29.8167,
+"Longitude": 31.0056
+}
+},
+{
+"Name": "Kwa-Mashu",
+"PostCode": "4364",
+"Location": {
+"Latitude": -29.8167,
+"Longitude": 31.0056
 }
 },
 {
@@ -23822,6 +23822,14 @@
 }
 },
 {
+"Name": "Queens Mercy",
+"PostCode": "4743",
+"Location": {
+"Latitude": -30.25,
+"Longitude": 28.5333
+}
+},
+{
 "Name": "Queen'S Mercy",
 "PostCode": "4743",
 "Location": {
@@ -23832,14 +23840,6 @@
 {
 "Name": "Queen'S Mercy",
 "PostCode": "4788",
-"Location": {
-"Latitude": -30.25,
-"Longitude": 28.5333
-}
-},
-{
-"Name": "Queens Mercy",
-"PostCode": "4743",
 "Location": {
 "Latitude": -30.25,
 "Longitude": 28.5333

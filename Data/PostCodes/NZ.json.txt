@@ -5436,14 +5436,6 @@
 }
 },
 {
-"Name": "Puk-kura",
-"PostCode": "4112",
-"Location": {
-"Latitude": -39.5233,
-"Longitude": 176.8442
-}
-},
-{
 "Name": "Pukehou",
 "PostCode": "4276",
 "Location": {
@@ -5465,6 +5457,14 @@
 "Location": {
 "Latitude": -39.2833,
 "Longitude": 176.55
+}
+},
+{
+"Name": "Puk-kura",
+"PostCode": "4112",
+"Location": {
+"Latitude": -39.5233,
+"Longitude": 176.8442
 }
 },
 {
@@ -6842,19 +6842,19 @@
 }
 },
 {
-"Name": "Ti-tree Point",
-"PostCode": "4970",
-"Location": {
-"Latitude": -40.437,
-"Longitude": 176.4054
-}
-},
-{
 "Name": "Tiraumea",
 "PostCode": "4996",
 "Location": {
 "Latitude": -40.6333,
 "Longitude": 176.0456
+}
+},
+{
+"Name": "Ti-tree Point",
+"PostCode": "4970",
+"Location": {
+"Latitude": -40.437,
+"Longitude": 176.4054
 }
 },
 {

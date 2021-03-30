@@ -4990,19 +4990,19 @@
 }
 },
 {
-"Name": "Groß-Mehßow",
-"PostCode": "03205",
-"Location": {
-"Latitude": 51.7333,
-"Longitude": 13.8167
-}
-},
-{
 "Name": "Großkmehlen",
 "PostCode": "01990",
 "Location": {
 "Latitude": 51.379,
 "Longitude": 13.725
+}
+},
+{
+"Name": "Groß-Mehßow",
+"PostCode": "03205",
+"Location": {
+"Latitude": 51.7333,
+"Longitude": 13.8167
 }
 },
 {
@@ -5190,6 +5190,14 @@
 }
 },
 {
+"Name": "Neupetershain",
+"PostCode": "03103",
+"Location": {
+"Latitude": 51.608,
+"Longitude": 14.1651
+}
+},
+{
 "Name": "Neu-Seeland",
 "PostCode": "01983",
 "Location": {
@@ -5203,14 +5211,6 @@
 "Location": {
 "Latitude": 51.6214,
 "Longitude": 14.1309
-}
-},
-{
-"Name": "Neupetershain",
-"PostCode": "03103",
-"Location": {
-"Latitude": 51.608,
-"Longitude": 14.1651
 }
 },
 {
@@ -48831,6 +48831,22 @@
 }
 },
 {
+"Name": "Hamburg Hammerbrook",
+"PostCode": "20097",
+"Location": {
+"Latitude": 53.5467,
+"Longitude": 10.0314
+}
+},
+{
+"Name": "Hamburg Hammerbrook",
+"PostCode": "20537",
+"Location": {
+"Latitude": 53.5467,
+"Longitude": 10.0314
+}
+},
+{
 "Name": "Hamburg Hamm-Mitte",
 "PostCode": "20537",
 "Location": {
@@ -48868,22 +48884,6 @@
 "Location": {
 "Latitude": 53.5486,
 "Longitude": 10.0511
-}
-},
-{
-"Name": "Hamburg Hammerbrook",
-"PostCode": "20097",
-"Location": {
-"Latitude": 53.5467,
-"Longitude": 10.0314
-}
-},
-{
-"Name": "Hamburg Hammerbrook",
-"PostCode": "20537",
-"Location": {
-"Latitude": 53.5467,
-"Longitude": 10.0314
 }
 },
 {
@@ -81058,19 +81058,19 @@
 }
 },
 {
-"Name": "Birken-Honigsessen",
-"PostCode": "57587",
-"Location": {
-"Latitude": 50.8167,
-"Longitude": 7.7333
-}
-},
-{
 "Name": "Birkenbeul",
 "PostCode": "57589",
 "Location": {
 "Latitude": 50.7333,
 "Longitude": 7.6167
+}
+},
+{
+"Name": "Birken-Honigsessen",
+"PostCode": "57587",
+"Location": {
+"Latitude": 50.8167,
+"Longitude": 7.7333
 }
 },
 {
@@ -88826,19 +88826,19 @@
 }
 },
 {
-"Name": "Nister-Möhrendorf",
-"PostCode": "56477",
-"Location": {
-"Latitude": 50.6667,
-"Longitude": 8.0833
-}
-},
-{
 "Name": "Nisterau",
 "PostCode": "56472",
 "Location": {
 "Latitude": 50.6667,
 "Longitude": 7.9833
+}
+},
+{
+"Name": "Nister-Möhrendorf",
+"PostCode": "56477",
+"Location": {
+"Latitude": 50.6667,
+"Longitude": 8.0833
 }
 },
 {
@@ -89106,22 +89106,6 @@
 }
 },
 {
-"Name": "Stein-Neukirch",
-"PostCode": "56479",
-"Location": {
-"Latitude": 50.6761,
-"Longitude": 8.0547
-}
-},
-{
-"Name": "Stein-Wingert",
-"PostCode": "57629",
-"Location": {
-"Latitude": 50.7225,
-"Longitude": 7.7408
-}
-},
-{
 "Name": "Steinebach an der Wied",
 "PostCode": "57629",
 "Location": {
@@ -89143,6 +89127,22 @@
 "Location": {
 "Latitude": 50.5833,
 "Longitude": 7.8
+}
+},
+{
+"Name": "Stein-Neukirch",
+"PostCode": "56479",
+"Location": {
+"Latitude": 50.6761,
+"Longitude": 8.0547
+}
+},
+{
+"Name": "Stein-Wingert",
+"PostCode": "57629",
+"Location": {
+"Latitude": 50.7225,
+"Longitude": 7.7408
 }
 },
 {
@@ -96804,19 +96804,19 @@
 }
 },
 {
-"Name": "Glan-Münchweiler",
-"PostCode": "66907",
-"Location": {
-"Latitude": 49.4722,
-"Longitude": 7.442
-}
-},
-{
 "Name": "Glanbrücken",
 "PostCode": "66887",
 "Location": {
 "Latitude": 49.6167,
 "Longitude": 7.5333
+}
+},
+{
+"Name": "Glan-Münchweiler",
+"PostCode": "66907",
+"Location": {
+"Latitude": 49.4722,
+"Longitude": 7.442
 }
 },
 {
@@ -98502,6 +98502,14 @@
 }
 },
 {
+"Name": "Niederheimbach",
+"PostCode": "55413",
+"Location": {
+"Latitude": 50.0333,
+"Longitude": 7.8167
+}
+},
+{
 "Name": "Nieder-Hilbersheim",
 "PostCode": "55437",
 "Location": {
@@ -98518,35 +98526,11 @@
 }
 },
 {
-"Name": "Niederheimbach",
-"PostCode": "55413",
-"Location": {
-"Latitude": 50.0333,
-"Longitude": 7.8167
-}
-},
-{
 "Name": "Nierstein",
 "PostCode": "55283",
 "Location": {
 "Latitude": 49.87,
 "Longitude": 8.3365
-}
-},
-{
-"Name": "Ober-Hilbersheim",
-"PostCode": "55437",
-"Location": {
-"Latitude": 49.9,
-"Longitude": 8.0289
-}
-},
-{
-"Name": "Ober-Olm",
-"PostCode": "55270",
-"Location": {
-"Latitude": 49.9372,
-"Longitude": 8.1889
 }
 },
 {
@@ -98563,6 +98547,22 @@
 "Location": {
 "Latitude": 50.0167,
 "Longitude": 7.7833
+}
+},
+{
+"Name": "Ober-Hilbersheim",
+"PostCode": "55437",
+"Location": {
+"Latitude": 49.9,
+"Longitude": 8.0289
+}
+},
+{
+"Name": "Ober-Olm",
+"PostCode": "55270",
+"Location": {
+"Latitude": 49.9372,
+"Longitude": 8.1889
 }
 },
 {
@@ -102001,19 +102001,19 @@
 }
 },
 {
-"Name": "Friedrich-Wilhelm-Lübke-Koog",
-"PostCode": "25924",
-"Location": {
-"Latitude": 54.8667,
-"Longitude": 8.6333
-}
-},
-{
 "Name": "Friedrichstadt",
 "PostCode": "25840",
 "Location": {
 "Latitude": 54.3757,
 "Longitude": 9.0867
+}
+},
+{
+"Name": "Friedrich-Wilhelm-Lübke-Koog",
+"PostCode": "25924",
+"Location": {
+"Latitude": 54.8667,
+"Longitude": 8.6333
 }
 },
 {
@@ -102441,19 +102441,19 @@
 }
 },
 {
-"Name": "Oster-Ohrstedt",
-"PostCode": "25885",
-"Location": {
-"Latitude": 54.5151,
-"Longitude": 9.2219
-}
-},
-{
 "Name": "Osterhever",
 "PostCode": "25836",
 "Location": {
 "Latitude": 54.3855,
 "Longitude": 8.766
+}
+},
+{
+"Name": "Oster-Ohrstedt",
+"PostCode": "25885",
+"Location": {
+"Latitude": 54.5151,
+"Longitude": 9.2219
 }
 },
 {
@@ -102761,14 +102761,6 @@
 }
 },
 {
-"Name": "Wester-Ohrstedt",
-"PostCode": "25885",
-"Location": {
-"Latitude": 54.508,
-"Longitude": 9.1857
-}
-},
-{
 "Name": "Westerhever",
 "PostCode": "25881",
 "Location": {
@@ -102782,6 +102774,14 @@
 "Location": {
 "Latitude": 54.9079,
 "Longitude": 8.3033
+}
+},
+{
+"Name": "Wester-Ohrstedt",
+"PostCode": "25885",
+"Location": {
+"Latitude": 54.508,
+"Longitude": 9.1857
 }
 },
 {
