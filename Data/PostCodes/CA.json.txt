@@ -4171,19 +4171,19 @@
 }
 },
 {
-"Name": "Petitcodiac",
-"PostCode": "E4Z",
-"Location": {
-"Latitude": 45.9394,
-"Longitude": -65.1802
-}
-},
-{
 "Name": "Petit-Rocher",
 "PostCode": "E8J",
 "Location": {
 "Latitude": 47.7941,
 "Longitude": -65.8219
+}
+},
+{
+"Name": "Petitcodiac",
+"PostCode": "E4Z",
+"Location": {
+"Latitude": 45.9394,
+"Longitude": -65.1802
 }
 },
 {
@@ -4331,6 +4331,14 @@
 }
 },
 {
+"Name": "St-Louis-de-Kent",
+"PostCode": "E4X",
+"Location": {
+"Latitude": 46.7401,
+"Longitude": -64.9698
+}
+},
+{
 "Name": "St. Andrews",
 "PostCode": "E5B",
 "Location": {
@@ -4368,14 +4376,6 @@
 "Location": {
 "Latitude": 46.3381,
 "Longitude": -66.9058
-}
-},
-{
-"Name": "St-Louis-de-Kent",
-"PostCode": "E4X",
-"Location": {
-"Latitude": 46.7401,
-"Longitude": -64.9698
 }
 },
 {
@@ -11070,6 +11070,62 @@
 }
 },
 {
+"Name": "L'Ancienne-Lorette Southwest",
+"PostCode": "G2G",
+"Location": {
+"Latitude": 46.7903,
+"Longitude": -71.4157
+}
+},
+{
+"Name": "L'Assomption",
+"PostCode": "J5W",
+"Location": {
+"Latitude": 45.8232,
+"Longitude": -73.4294
+}
+},
+{
+"Name": "L'Erable (Nantes)",
+"PostCode": "G0Y",
+"Location": {
+"Latitude": 45.6242,
+"Longitude": -71.0191
+}
+},
+{
+"Name": "L'Île Bizard Northeast",
+"PostCode": "H9C",
+"Location": {
+"Latitude": 45.5055,
+"Longitude": -73.8789
+}
+},
+{
+"Name": "L'Île-Bizard Southwest",
+"PostCode": "H9E",
+"Location": {
+"Latitude": 45.4865,
+"Longitude": -73.9092
+}
+},
+{
+"Name": "L'Île-Des-Soeurs",
+"PostCode": "H3E",
+"Location": {
+"Latitude": 45.4594,
+"Longitude": -73.5501
+}
+},
+{
+"Name": "L'Île-Dorval",
+"PostCode": "H9S",
+"Location": {
+"Latitude": 45.4414,
+"Longitude": -73.7749
+}
+},
+{
 "Name": "La Baie",
 "PostCode": "G7B",
 "Location": {
@@ -11110,22 +11166,6 @@
 }
 },
 {
-"Name": "L'Ancienne-Lorette Southwest",
-"PostCode": "G2G",
-"Location": {
-"Latitude": 46.7903,
-"Longitude": -71.4157
-}
-},
-{
-"Name": "L'Assomption",
-"PostCode": "J5W",
-"Location": {
-"Latitude": 45.8232,
-"Longitude": -73.4294
-}
-},
-{
 "Name": "Laterrière",
 "PostCode": "G7N",
 "Location": {
@@ -11150,51 +11190,11 @@
 }
 },
 {
-"Name": "L'Erable (Nantes)",
-"PostCode": "G0Y",
-"Location": {
-"Latitude": 45.6242,
-"Longitude": -71.0191
-}
-},
-{
 "Name": "Les Îles-De-La-Madeleine",
 "PostCode": "G4T",
 "Location": {
 "Latitude": 47.3999,
 "Longitude": -61.7996
-}
-},
-{
-"Name": "L'Île Bizard Northeast",
-"PostCode": "H9C",
-"Location": {
-"Latitude": 45.5055,
-"Longitude": -73.8789
-}
-},
-{
-"Name": "L'Île-Bizard Southwest",
-"PostCode": "H9E",
-"Location": {
-"Latitude": 45.4865,
-"Longitude": -73.9092
-}
-},
-{
-"Name": "L'Île-Des-Soeurs",
-"PostCode": "H3E",
-"Location": {
-"Latitude": 45.4594,
-"Longitude": -73.5501
-}
-},
-{
-"Name": "L'Île-Dorval",
-"PostCode": "H9S",
-"Location": {
-"Latitude": 45.4414,
-"Longitude": -73.7749
 }
 },
 {
@@ -11406,46 +11406,6 @@
 }
 },
 {
-"Name": "Sainte-Agathe-Des-Monts",
-"PostCode": "J8C",
-"Location": {
-"Latitude": 46.0501,
-"Longitude": -74.2825
-}
-},
-{
-"Name": "Sainte-Anne-De-Bellevue",
-"PostCode": "H9X",
-"Location": {
-"Latitude": 45.4062,
-"Longitude": -73.9456
-}
-},
-{
-"Name": "Sainte-Anne-Des-Monts",
-"PostCode": "G4V",
-"Location": {
-"Latitude": 48.9711,
-"Longitude": -66.3082
-}
-},
-{
-"Name": "Sainte-Dorothée",
-"PostCode": "H7X",
-"Location": {
-"Latitude": 45.5334,
-"Longitude": -73.8159
-}
-},
-{
-"Name": "Sainte-Geneviève",
-"PostCode": "H9H",
-"Location": {
-"Latitude": 45.4683,
-"Longitude": -73.8565
-}
-},
-{
 "Name": "Saint-Élie-d'Orford",
 "PostCode": "J1R",
 "Location": {
@@ -11459,22 +11419,6 @@
 "Location": {
 "Latitude": 46.8779,
 "Longitude": -71.3408
-}
-},
-{
-"Name": "Sainte-Rose",
-"PostCode": "H7L",
-"Location": {
-"Latitude": 45.6168,
-"Longitude": -73.7825
-}
-},
-{
-"Name": "Sainte-Thérèse-de-Blainville Northeast",
-"PostCode": "J6Z",
-"Location": {
-"Latitude": 45.6694,
-"Longitude": -73.7752
 }
 },
 {
@@ -11587,6 +11531,62 @@
 "Location": {
 "Latitude": 45.6168,
 "Longitude": -73.6492
+}
+},
+{
+"Name": "Sainte-Agathe-Des-Monts",
+"PostCode": "J8C",
+"Location": {
+"Latitude": 46.0501,
+"Longitude": -74.2825
+}
+},
+{
+"Name": "Sainte-Anne-De-Bellevue",
+"PostCode": "H9X",
+"Location": {
+"Latitude": 45.4062,
+"Longitude": -73.9456
+}
+},
+{
+"Name": "Sainte-Anne-Des-Monts",
+"PostCode": "G4V",
+"Location": {
+"Latitude": 48.9711,
+"Longitude": -66.3082
+}
+},
+{
+"Name": "Sainte-Dorothée",
+"PostCode": "H7X",
+"Location": {
+"Latitude": 45.5334,
+"Longitude": -73.8159
+}
+},
+{
+"Name": "Sainte-Geneviève",
+"PostCode": "H9H",
+"Location": {
+"Latitude": 45.4683,
+"Longitude": -73.8565
+}
+},
+{
+"Name": "Sainte-Rose",
+"PostCode": "H7L",
+"Location": {
+"Latitude": 45.6168,
+"Longitude": -73.7825
+}
+},
+{
+"Name": "Sainte-Thérèse-de-Blainville Northeast",
+"PostCode": "J6Z",
+"Location": {
+"Latitude": 45.6694,
+"Longitude": -73.7752
 }
 },
 {
