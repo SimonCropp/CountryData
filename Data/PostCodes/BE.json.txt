@@ -206,14 +206,6 @@
 "Code": "11",
 "Places": [
 {
-"Name": "'S Gravenwezel",
-"PostCode": "2970",
-"Location": {
-"Latitude": 51.2627,
-"Longitude": 4.5611
-}
-},
-{
 "Name": "Aartselaar",
 "PostCode": "2630",
 "Location": {
@@ -579,6 +571,14 @@
 "Location": {
 "Latitude": 51.0815,
 "Longitude": 4.4222
+}
+},
+{
+"Name": "'S Gravenwezel",
+"PostCode": "2970",
+"Location": {
+"Latitude": 51.2627,
+"Longitude": 4.5611
 }
 },
 {
@@ -4364,14 +4364,6 @@
 "Code": "73",
 "Places": [
 {
-"Name": "'S Herenelderen",
-"PostCode": "3700",
-"Location": {
-"Latitude": 50.8088,
-"Longitude": 5.5007
-}
-},
-{
 "Name": "Alken",
 "PostCode": "3570",
 "Location": {
@@ -4492,6 +4484,14 @@
 }
 },
 {
+"Name": "Fourons",
+"PostCode": "3790",
+"Location": {
+"Latitude": 50.7505,
+"Longitude": 5.7832
+}
+},
+{
 "Name": "Fouron-Saint-Martin",
 "PostCode": "3790",
 "Location": {
@@ -4505,14 +4505,6 @@
 "Location": {
 "Latitude": 50.7386,
 "Longitude": 5.8222
-}
-},
-{
-"Name": "Fourons",
-"PostCode": "3790",
-"Location": {
-"Latitude": 50.7505,
-"Longitude": 5.7832
 }
 },
 {
@@ -4716,19 +4708,19 @@
 }
 },
 {
-"Name": "Klein-Gelmen",
-"PostCode": "3870",
-"Location": {
-"Latitude": 50.7711,
-"Longitude": 5.2759
-}
-},
-{
 "Name": "Kleine-Spouwen",
 "PostCode": "3740",
 "Location": {
 "Latitude": 50.8384,
 "Longitude": 5.5501
+}
+},
+{
+"Name": "Klein-Gelmen",
+"PostCode": "3870",
+"Location": {
+"Latitude": 50.7711,
+"Longitude": 5.2759
 }
 },
 {
@@ -5025,6 +5017,14 @@
 "Location": {
 "Latitude": 50.7476,
 "Longitude": 5.4435
+}
+},
+{
+"Name": "'S Herenelderen",
+"PostCode": "3700",
+"Location": {
+"Latitude": 50.8088,
+"Longitude": 5.5007
 }
 },
 {
@@ -7144,19 +7144,19 @@
 }
 },
 {
-"Name": "Maarke-Kerkem",
-"PostCode": "9680",
-"Location": {
-"Latitude": 50.8204,
-"Longitude": 3.6653
-}
-},
-{
 "Name": "Maarkedal",
 "PostCode": "9680",
 "Location": {
 "Latitude": 50.816,
 "Longitude": 3.6451
+}
+},
+{
+"Name": "Maarke-Kerkem",
+"PostCode": "9680",
+"Location": {
+"Latitude": 50.8204,
+"Longitude": 3.6653
 }
 },
 {
@@ -10238,14 +10238,6 @@
 }
 },
 {
-"Name": "L'Ecluse",
-"PostCode": "1320",
-"Location": {
-"Latitude": 50.773,
-"Longitude": 4.8314
-}
-},
-{
 "Name": "La Hulpe",
 "PostCode": "1310",
 "Location": {
@@ -10275,6 +10267,14 @@
 "Location": {
 "Latitude": 50.7246,
 "Longitude": 4.8262
+}
+},
+{
+"Name": "L'Ecluse",
+"PostCode": "1320",
+"Location": {
+"Latitude": 50.773,
+"Longitude": 4.8314
 }
 },
 {
@@ -10622,6 +10622,14 @@
 }
 },
 {
+"Name": "Saintes",
+"PostCode": "1480",
+"Location": {
+"Latitude": 50.705,
+"Longitude": 4.1601
+}
+},
+{
 "Name": "Saint-Géry",
 "PostCode": "1450",
 "Location": {
@@ -10643,14 +10651,6 @@
 "Location": {
 "Latitude": 50.7469,
 "Longitude": 4.8585
-}
-},
-{
-"Name": "Saintes",
-"PostCode": "1480",
-"Location": {
-"Latitude": 50.705,
-"Longitude": 4.1601
 }
 },
 {
@@ -11728,14 +11728,6 @@
 }
 },
 {
-"Name": "Mont-Sur-Marchienne",
-"PostCode": "6032",
-"Location": {
-"Latitude": 50.39,
-"Longitude": 4.4073
-}
-},
-{
 "Name": "Montignies-Sur-Sambre",
 "PostCode": "6061",
 "Location": {
@@ -11749,6 +11741,14 @@
 "Location": {
 "Latitude": 50.3806,
 "Longitude": 4.3758
+}
+},
+{
+"Name": "Mont-Sur-Marchienne",
+"PostCode": "6032",
+"Location": {
+"Latitude": 50.39,
+"Longitude": 4.4073
 }
 },
 {
@@ -13440,14 +13440,6 @@
 }
 },
 {
-"Name": "L'Escaillère",
-"PostCode": "6464",
-"Location": {
-"Latitude": 49.945,
-"Longitude": 4.4307
-}
-},
-{
 "Name": "Labuissière",
 "PostCode": "6567",
 "Location": {
@@ -13461,6 +13453,14 @@
 "Location": {
 "Latitude": 50.304,
 "Longitude": 4.2458
+}
+},
+{
+"Name": "L'Escaillère",
+"PostCode": "6464",
+"Location": {
+"Latitude": 49.945,
+"Longitude": 4.4307
 }
 },
 {
@@ -13560,22 +13560,6 @@
 }
 },
 {
-"Name": "Mont-Sainte-Aldegonde",
-"PostCode": "7141",
-"Location": {
-"Latitude": 50.4301,
-"Longitude": 4.2326
-}
-},
-{
-"Name": "Mont-Sainte-Geneviève",
-"PostCode": "6540",
-"Location": {
-"Latitude": 50.3746,
-"Longitude": 4.2366
-}
-},
-{
 "Name": "Montbliart",
 "PostCode": "6470",
 "Location": {
@@ -13589,6 +13573,22 @@
 "Location": {
 "Latitude": 50.2816,
 "Longitude": 4.1901
+}
+},
+{
+"Name": "Mont-Sainte-Aldegonde",
+"PostCode": "7141",
+"Location": {
+"Latitude": 50.4301,
+"Longitude": 4.2326
+}
+},
+{
+"Name": "Mont-Sainte-Geneviève",
+"PostCode": "6540",
+"Location": {
+"Latitude": 50.3746,
+"Longitude": 4.2366
 }
 },
 {
@@ -13800,19 +13800,19 @@
 }
 },
 {
-"Name": "Vellereille-Le-Sec",
-"PostCode": "7120",
-"Location": {
-"Latitude": 50.4009,
-"Longitude": 4.0579
-}
-},
-{
 "Name": "Vellereille-Les-Brayeux",
 "PostCode": "7120",
 "Location": {
 "Latitude": 50.3795,
 "Longitude": 4.1511
+}
+},
+{
+"Name": "Vellereille-Le-Sec",
+"PostCode": "7120",
+"Location": {
+"Latitude": 50.4009,
+"Longitude": 4.0579
 }
 },
 {
@@ -15082,19 +15082,19 @@
 }
 },
 {
-"Name": "Vieux-Waleffe",
-"PostCode": "4530",
-"Location": {
-"Latitude": 50.6159,
-"Longitude": 5.1982
-}
-},
-{
 "Name": "Vieuxville",
 "PostCode": "4190",
 "Location": {
 "Latitude": 50.3948,
 "Longitude": 5.5494
+}
+},
+{
+"Name": "Vieux-Waleffe",
+"PostCode": "4530",
+"Location": {
+"Latitude": 50.6159,
+"Longitude": 5.1982
 }
 },
 {
@@ -19002,6 +19002,14 @@
 }
 },
 {
+"Name": "Sainte-Marie-Chevigny",
+"PostCode": "6800",
+"Location": {
+"Latitude": 49.9227,
+"Longitude": 5.4573
+}
+},
+{
 "Name": "Saint-Hubert",
 "PostCode": "6870",
 "Location": {
@@ -19023,14 +19031,6 @@
 "Location": {
 "Latitude": 49.9038,
 "Longitude": 5.3875
-}
-},
-{
-"Name": "Sainte-Marie-Chevigny",
-"PostCode": "6800",
-"Location": {
-"Latitude": 49.9227,
-"Longitude": 5.4573
 }
 },
 {
@@ -19432,6 +19432,22 @@
 }
 },
 {
+"Name": "Sainte-Cécile",
+"PostCode": "6820",
+"Location": {
+"Latitude": 49.7286,
+"Longitude": 5.2424
+}
+},
+{
+"Name": "Sainte-Marie-Sur-Semois",
+"PostCode": "6740",
+"Location": {
+"Latitude": 49.6712,
+"Longitude": 5.5638
+}
+},
+{
 "Name": "Saint-Léger",
 "PostCode": "6747",
 "Location": {
@@ -19453,22 +19469,6 @@
 "Location": {
 "Latitude": 49.677,
 "Longitude": 5.4752
-}
-},
-{
-"Name": "Sainte-Cécile",
-"PostCode": "6820",
-"Location": {
-"Latitude": 49.7286,
-"Longitude": 5.2424
-}
-},
-{
-"Name": "Sainte-Marie-Sur-Semois",
-"PostCode": "6740",
-"Location": {
-"Latitude": 49.6712,
-"Longitude": 5.5638
 }
 },
 {

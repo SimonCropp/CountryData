@@ -5245,19 +5245,19 @@
 }
 },
 {
-"Name": "Stefan-Voda",
-"PostCode": "MD-4201",
-"Location": {
-"Latitude": 46.5153,
-"Longitude": 29.6631
-}
-},
-{
 "Name": "Stefanesti",
 "PostCode": "MD-4236",
 "Location": {
 "Latitude": 46.4458,
 "Longitude": 29.6878
+}
+},
+{
+"Name": "Stefan-Voda",
+"PostCode": "MD-4201",
+"Location": {
+"Latitude": 46.5153,
+"Longitude": 29.6631
 }
 },
 {
@@ -5688,59 +5688,6 @@
 ]
 },
 {
-"Name": "Dubasari Cr.",
-"Provinces": [
-{
-"Communities": [
-{
-"Places": [
-{
-"Name": "Cocieri",
-"PostCode": "MD-4571",
-"Location": {
-"Latitude": 47.3075,
-"Longitude": 29.1103
-}
-},
-{
-"Name": "Corjova",
-"PostCode": "MD-4501",
-"Location": {
-"Latitude": 47.2878,
-"Longitude": 29.1297
-}
-},
-{
-"Name": "Cosnita",
-"PostCode": "MD-4572",
-"Location": {
-"Latitude": 47.1475,
-"Longitude": 29.1333
-}
-},
-{
-"Name": "Dorotcaia",
-"PostCode": "MD-4573",
-"Location": {
-"Latitude": 47.1722,
-"Longitude": 29.2028
-}
-},
-{
-"Name": "Holercani",
-"PostCode": "MD-4574",
-"Location": {
-"Latitude": 47.3119,
-"Longitude": 29.0689
-}
-}
-]
-}
-]
-}
-]
-},
-{
 "Name": "Dubasari Tr.",
 "Provinces": [
 {
@@ -5945,6 +5892,59 @@
 "Location": {
 "Latitude": 47.3689,
 "Longitude": 29.305
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Dubasari Cr.",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cocieri",
+"PostCode": "MD-4571",
+"Location": {
+"Latitude": 47.3075,
+"Longitude": 29.1103
+}
+},
+{
+"Name": "Corjova",
+"PostCode": "MD-4501",
+"Location": {
+"Latitude": 47.2878,
+"Longitude": 29.1297
+}
+},
+{
+"Name": "Cosnita",
+"PostCode": "MD-4572",
+"Location": {
+"Latitude": 47.1475,
+"Longitude": 29.1333
+}
+},
+{
+"Name": "Dorotcaia",
+"PostCode": "MD-4573",
+"Location": {
+"Latitude": 47.1722,
+"Longitude": 29.2028
+}
+},
+{
+"Name": "Holercani",
+"PostCode": "MD-4574",
+"Location": {
+"Latitude": 47.3119,
+"Longitude": 29.0689
 }
 }
 ]

@@ -64,14 +64,54 @@
 "PostCode": "98000"
 },
 {
-"Name": "Les Moneghetti",
+"Name": "Fontvieille",
 "Places": [
 {
-"Name": "Les Moneghetti",
+"Name": "Anse de Canton",
 "PostCode": "98000",
 "Location": {
-"Latitude": 43.7375,
-"Longitude": 7.4153
+"Latitude": 43.7333,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "Fontvieille",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "Pointe Sainte-Barbe",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7167,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "Port de Fontvieille",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7306,
+"Longitude": 7.4208
+}
+},
+{
+"Name": "Port Hercule",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7361,
+"Longitude": 7.425
+}
+},
+{
+"Name": "Stade Louis Deux",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7167,
+"Longitude": 7.4167
 }
 }
 ],
@@ -132,10 +172,10 @@
 "PostCode": "98000"
 },
 {
-"Name": "Fontvieille",
+"Name": "La Condamine",
 "Places": [
 {
-"Name": "Anse de Canton",
+"Name": "Condamine",
 "PostCode": "98000",
 "Location": {
 "Latitude": 43.7333,
@@ -143,7 +183,7 @@
 }
 },
 {
-"Name": "Fontvieille",
+"Name": "La Condamine",
 "PostCode": "98000",
 "Location": {
 "Latitude": 43.7333,
@@ -151,23 +191,7 @@
 }
 },
 {
-"Name": "Pointe Sainte-Barbe",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7167,
-"Longitude": 7.4167
-}
-},
-{
-"Name": "Port de Fontvieille",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7306,
-"Longitude": 7.4208
-}
-},
-{
-"Name": "Port Hercule",
+"Name": "Port de La Condamine",
 "PostCode": "98000",
 "Location": {
 "Latitude": 43.7361,
@@ -175,11 +199,11 @@
 }
 },
 {
-"Name": "Stade Louis Deux",
+"Name": "Port de Monaco",
 "PostCode": "98000",
 "Location": {
-"Latitude": 43.7167,
-"Longitude": 7.4167
+"Latitude": 43.7361,
+"Longitude": 7.425
 }
 }
 ],
@@ -216,38 +240,14 @@
 "PostCode": "98000"
 },
 {
-"Name": "La Condamine",
+"Name": "Les Moneghetti",
 "Places": [
 {
-"Name": "Condamine",
+"Name": "Les Moneghetti",
 "PostCode": "98000",
 "Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4167
-}
-},
-{
-"Name": "La Condamine",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4167
-}
-},
-{
-"Name": "Port de La Condamine",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7361,
-"Longitude": 7.425
-}
-},
-{
-"Name": "Port de Monaco",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7361,
-"Longitude": 7.425
+"Latitude": 43.7375,
+"Longitude": 7.4153
 }
 }
 ],

@@ -826,70 +826,6 @@
 }
 },
 {
-"Name": "Praha 1-Holešovice",
-"PostCode": "118 00",
-"Location": {
-"Latitude": 50.3667,
-"Longitude": 16.0417
-}
-},
-{
-"Name": "Praha 1-Hradčany",
-"PostCode": "118 00",
-"Location": {
-"Latitude": 50.3667,
-"Longitude": 16.0417
-}
-},
-{
-"Name": "Praha 1-Hradčany",
-"PostCode": "119 00",
-"Location": {
-"Latitude": 50.3667,
-"Longitude": 16.0417
-}
-},
-{
-"Name": "Praha 1-Josefov",
-"PostCode": "110 00",
-"Location": {
-"Latitude": 50.3667,
-"Longitude": 16.0417
-}
-},
-{
-"Name": "Praha 1-Malá Strana",
-"PostCode": "118 00",
-"Location": {
-"Latitude": 50.3667,
-"Longitude": 16.0417
-}
-},
-{
-"Name": "Praha 1-Nové Město",
-"PostCode": "110 00",
-"Location": {
-"Latitude": 50.3667,
-"Longitude": 16.0417
-}
-},
-{
-"Name": "Praha 1-Staré Město",
-"PostCode": "110 00",
-"Location": {
-"Latitude": 50.3667,
-"Longitude": 16.0417
-}
-},
-{
-"Name": "Praha 1-Vinohrady",
-"PostCode": "110 00",
-"Location": {
-"Latitude": 50.3667,
-"Longitude": 16.0417
-}
-},
-{
 "Name": "Praha 10-Benice",
 "PostCode": "103 00",
 "Location": {
@@ -1127,6 +1063,70 @@
 "Location": {
 "Latitude": 50.0036,
 "Longitude": 14.4619
+}
+},
+{
+"Name": "Praha 1-Holešovice",
+"PostCode": "118 00",
+"Location": {
+"Latitude": 50.3667,
+"Longitude": 16.0417
+}
+},
+{
+"Name": "Praha 1-Hradčany",
+"PostCode": "118 00",
+"Location": {
+"Latitude": 50.3667,
+"Longitude": 16.0417
+}
+},
+{
+"Name": "Praha 1-Hradčany",
+"PostCode": "119 00",
+"Location": {
+"Latitude": 50.3667,
+"Longitude": 16.0417
+}
+},
+{
+"Name": "Praha 1-Josefov",
+"PostCode": "110 00",
+"Location": {
+"Latitude": 50.3667,
+"Longitude": 16.0417
+}
+},
+{
+"Name": "Praha 1-Malá Strana",
+"PostCode": "118 00",
+"Location": {
+"Latitude": 50.3667,
+"Longitude": 16.0417
+}
+},
+{
+"Name": "Praha 1-Nové Město",
+"PostCode": "110 00",
+"Location": {
+"Latitude": 50.3667,
+"Longitude": 16.0417
+}
+},
+{
+"Name": "Praha 1-Staré Město",
+"PostCode": "110 00",
+"Location": {
+"Latitude": 50.3667,
+"Longitude": 16.0417
+}
+},
+{
+"Name": "Praha 1-Vinohrady",
+"PostCode": "110 00",
+"Location": {
+"Latitude": 50.3667,
+"Longitude": 16.0417
 }
 },
 {
@@ -34858,14 +34858,6 @@
 }
 },
 {
-"Name": "Chlum-Korouhvice",
-"PostCode": "592 65",
-"Location": {
-"Latitude": 49.5821,
-"Longitude": 16.359
-}
-},
-{
 "Name": "Chlumek",
 "PostCode": "594 42",
 "Location": {
@@ -34879,6 +34871,14 @@
 "Location": {
 "Latitude": 49.7333,
 "Longitude": 16.0
+}
+},
+{
+"Name": "Chlum-Korouhvice",
+"PostCode": "592 65",
+"Location": {
+"Latitude": 49.5821,
+"Longitude": 16.359
 }
 },
 {
@@ -44032,6 +44032,14 @@
 }
 },
 {
+"Name": "Jičíněves",
+"PostCode": "507 31",
+"Location": {
+"Latitude": 50.3667,
+"Longitude": 15.3333
+}
+},
+{
 "Name": "Jičín-Holínské Předměstí",
 "PostCode": "506 01",
 "Location": {
@@ -44109,14 +44117,6 @@
 "Location": {
 "Latitude": 50.438,
 "Longitude": 15.3389
-}
-},
-{
-"Name": "Jičíněves",
-"PostCode": "507 31",
-"Location": {
-"Latitude": 50.3667,
-"Longitude": 15.3333
 }
 },
 {
@@ -83056,6 +83056,14 @@
 }
 },
 {
+"Name": "Plzeň 26",
+"PostCode": "326 00",
+"Location": {
+"Latitude": 49.72,
+"Longitude": 13.4267
+}
+},
+{
 "Name": "Plzeň 2-Božkov",
 "PostCode": "315 00",
 "Location": {
@@ -83117,14 +83125,6 @@
 "Location": {
 "Latitude": 49.7548,
 "Longitude": 13.3286
-}
-},
-{
-"Name": "Plzeň 26",
-"PostCode": "326 00",
-"Location": {
-"Latitude": 49.72,
-"Longitude": 13.4267
 }
 },
 {
@@ -109716,14 +109716,6 @@
 }
 },
 {
-"Name": "Příbram V-Zdaboř",
-"PostCode": "261 01",
-"Location": {
-"Latitude": 49.6913,
-"Longitude": 14.022
-}
-},
-{
 "Name": "Příbram VI-Březové Hory",
 "PostCode": "261 01",
 "Location": {
@@ -109741,6 +109733,14 @@
 },
 {
 "Name": "Příbram VIII",
+"PostCode": "261 01",
+"Location": {
+"Latitude": 49.6913,
+"Longitude": 14.022
+}
+},
+{
+"Name": "Příbram V-Zdaboř",
 "PostCode": "261 01",
 "Location": {
 "Latitude": 49.6913,
@@ -112070,7 +112070,7 @@
 }
 },
 {
-"Name": "Děčín II-Nové Město",
+"Name": "Děčín III-Staré Město",
 "PostCode": "405 02",
 "Location": {
 "Latitude": 50.7278,
@@ -112078,7 +112078,7 @@
 }
 },
 {
-"Name": "Děčín III-Staré Město",
+"Name": "Děčín II-Nové Město",
 "PostCode": "405 02",
 "Location": {
 "Latitude": 50.7278,
@@ -112102,7 +112102,15 @@
 }
 },
 {
-"Name": "Děčín V-Rozbělesy",
+"Name": "Děčín VII-Chrochvice",
+"PostCode": "405 02",
+"Location": {
+"Latitude": 50.7278,
+"Longitude": 14.1528
+}
+},
+{
+"Name": "Děčín VIII-Dolní Oldřichov",
 "PostCode": "405 02",
 "Location": {
 "Latitude": 50.7278,
@@ -112118,15 +112126,7 @@
 }
 },
 {
-"Name": "Děčín VII-Chrochvice",
-"PostCode": "405 02",
-"Location": {
-"Latitude": 50.7278,
-"Longitude": 14.1528
-}
-},
-{
-"Name": "Děčín VIII-Dolní Oldřichov",
+"Name": "Děčín V-Rozbělesy",
 "PostCode": "405 02",
 "Location": {
 "Latitude": 50.7278,
@@ -112150,7 +112150,7 @@
 }
 },
 {
-"Name": "Děčín XII-Vilsnice",
+"Name": "Děčín XIII-Loubí",
 "PostCode": "405 02",
 "Location": {
 "Latitude": 50.7278,
@@ -112158,7 +112158,7 @@
 }
 },
 {
-"Name": "Děčín XIII-Loubí",
+"Name": "Děčín XII-Vilsnice",
 "PostCode": "405 02",
 "Location": {
 "Latitude": 50.7278,
@@ -112182,15 +112182,7 @@
 }
 },
 {
-"Name": "Děčín XV-Prostřední Žleb",
-"PostCode": "405 02",
-"Location": {
-"Latitude": 50.7278,
-"Longitude": 14.1528
-}
-},
-{
-"Name": "Děčín XVI-Přípeř",
+"Name": "Děčín XVIII-Maxičky",
 "PostCode": "405 02",
 "Location": {
 "Latitude": 50.7278,
@@ -112206,7 +112198,7 @@
 }
 },
 {
-"Name": "Děčín XVIII-Maxičky",
+"Name": "Děčín XVI-Přípeř",
 "PostCode": "405 02",
 "Location": {
 "Latitude": 50.7278,
@@ -112214,8 +112206,8 @@
 }
 },
 {
-"Name": "Děčín XX-Nová Ves",
-"PostCode": "405 05",
+"Name": "Děčín XV-Prostřední Žleb",
+"PostCode": "405 02",
 "Location": {
 "Latitude": 50.7278,
 "Longitude": 14.1528
@@ -112223,14 +112215,6 @@
 },
 {
 "Name": "Děčín XXI-Horní Oldřichov",
-"PostCode": "405 02",
-"Location": {
-"Latitude": 50.7278,
-"Longitude": 14.1528
-}
-},
-{
-"Name": "Děčín XXII-Václavov",
 "PostCode": "405 02",
 "Location": {
 "Latitude": 50.7278,
@@ -112246,8 +112230,24 @@
 }
 },
 {
+"Name": "Děčín XXII-Václavov",
+"PostCode": "405 02",
+"Location": {
+"Latitude": 50.7278,
+"Longitude": 14.1528
+}
+},
+{
 "Name": "Děčín XXIV-Krásný Studenec",
 "PostCode": "405 02",
+"Location": {
+"Latitude": 50.7278,
+"Longitude": 14.1528
+}
+},
+{
+"Name": "Děčín XX-Nová Ves",
+"PostCode": "405 05",
 "Location": {
 "Latitude": 50.7278,
 "Longitude": 14.1528
@@ -112286,14 +112286,6 @@
 }
 },
 {
-"Name": "Děčín XXXI-Křešice",
-"PostCode": "407 11",
-"Location": {
-"Latitude": 50.6833,
-"Longitude": 14.2
-}
-},
-{
 "Name": "Děčín XXXII-Boletice nad Labem",
 "PostCode": "407 11",
 "Location": {
@@ -112303,6 +112295,14 @@
 },
 {
 "Name": "Děčín XXXIII-Nebočady",
+"PostCode": "407 11",
+"Location": {
+"Latitude": 50.6833,
+"Longitude": 14.2
+}
+},
+{
+"Name": "Děčín XXXI-Křešice",
 "PostCode": "407 11",
 "Location": {
 "Latitude": 50.6833,
