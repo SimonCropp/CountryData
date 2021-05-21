@@ -6230,14 +6230,6 @@
 }
 },
 {
-"Name": "Obersteckholz",
-"PostCode": "4924",
-"Location": {
-"Latitude": 47.1993,
-"Longitude": 7.8171
-}
-},
-{
 "Name": "Untersteckholz",
 "PostCode": "4916",
 "Location": {
@@ -6314,6 +6306,21 @@
 }
 ],
 "PostCode": "4917"
+},
+{
+"Name": "Obersteckholz",
+"Code": "334",
+"Places": [
+{
+"Name": "Obersteckholz",
+"PostCode": "4924",
+"Location": {
+"Latitude": 47.1993,
+"Longitude": 7.8171
+}
+}
+],
+"PostCode": "4924"
 },
 {
 "Name": "Oeschenbach",
@@ -7081,14 +7088,6 @@
 "Latitude": 47.0427,
 "Longitude": 7.5414
 }
-},
-{
-"Name": "Mötschwil",
-"PostCode": "3324",
-"Location": {
-"Latitude": 47.0411,
-"Longitude": 7.5756
-}
 }
 ],
 "PostCode": "3324"
@@ -7189,6 +7188,21 @@
 }
 ],
 "PostCode": "3421"
+},
+{
+"Name": "Mötschwil",
+"Code": "416",
+"Places": [
+{
+"Name": "Mötschwil",
+"PostCode": "3324",
+"Location": {
+"Latitude": 47.0411,
+"Longitude": 7.5756
+}
+}
+],
+"PostCode": "3324"
 },
 {
 "Name": "Oberburg",
@@ -9626,14 +9640,6 @@
 }
 },
 {
-"Name": "Rümligen",
-"PostCode": "3128",
-"Location": {
-"Latitude": 46.8217,
-"Longitude": 7.4772
-}
-},
-{
 "Name": "Rüti b. Riggisberg",
 "PostCode": "3099",
 "Location": {
@@ -9680,6 +9686,21 @@
 }
 }
 ]
+},
+{
+"Name": "Rümligen",
+"Code": "881",
+"Places": [
+{
+"Name": "Rümligen",
+"PostCode": "3128",
+"Location": {
+"Latitude": 46.8217,
+"Longitude": 7.4772
+}
+}
+],
+"PostCode": "3128"
 },
 {
 "Name": "Toffen",
@@ -13132,6 +13153,28 @@
 "PostCode": "1473"
 },
 {
+"Name": "Cheiry",
+"Code": "2009",
+"Places": [
+{
+"Name": "Chapelle (Broye)",
+"PostCode": "1534",
+"Location": {
+"Latitude": 46.7714,
+"Longitude": 6.8524
+}
+},
+{
+"Name": "Cheiry",
+"PostCode": "1529",
+"Location": {
+"Latitude": 46.7504,
+"Longitude": 6.8355
+}
+}
+]
+},
+{
 "Name": "Cugy (FR)",
 "Code": "2011",
 "Places": [
@@ -13355,22 +13398,6 @@
 "Name": "Surpierre",
 "Code": "2044",
 "Places": [
-{
-"Name": "Chapelle (Broye)",
-"PostCode": "1534",
-"Location": {
-"Latitude": 46.7714,
-"Longitude": 6.8524
-}
-},
-{
-"Name": "Cheiry",
-"PostCode": "1529",
-"Location": {
-"Latitude": 46.7504,
-"Longitude": 6.8355
-}
-},
 {
 "Name": "Praratoud",
 "PostCode": "1528",
@@ -14669,6 +14696,21 @@
 "Code": "1004",
 "Communities": [
 {
+"Name": "Arconciel",
+"Code": "2171",
+"Places": [
+{
+"Name": "Arconciel",
+"PostCode": "1732",
+"Location": {
+"Latitude": 46.7473,
+"Longitude": 7.1215
+}
+}
+],
+"PostCode": "1732"
+},
+{
 "Name": "Autigny",
 "Code": "2173",
 "Places": [
@@ -14789,6 +14831,21 @@
 }
 ],
 "PostCode": "1741"
+},
+{
+"Name": "Ependes (FR)",
+"Code": "2189",
+"Places": [
+{
+"Name": "Ependes FR",
+"PostCode": "1731",
+"Location": {
+"Latitude": 46.7537,
+"Longitude": 7.1461
+}
+}
+],
+"PostCode": "1731"
 },
 {
 "Name": "Ferpicloz",
@@ -15005,6 +15062,21 @@
 "Location": {
 "Latitude": 46.735,
 "Longitude": 7.182
+}
+}
+],
+"PostCode": "1724"
+},
+{
+"Name": "Senèdes",
+"Code": "2225",
+"Places": [
+{
+"Name": "Senèdes",
+"PostCode": "1724",
+"Location": {
+"Latitude": 46.7418,
+"Longitude": 7.1419
 }
 }
 ],
@@ -15274,36 +15346,6 @@
 "Location": {
 "Latitude": 46.7854,
 "Longitude": 7.0158
-}
-}
-]
-},
-{
-"Name": "Bois d'Amont",
-"Code": "2238",
-"Places": [
-{
-"Name": "Arconciel",
-"PostCode": "1732",
-"Location": {
-"Latitude": 46.7473,
-"Longitude": 7.1215
-}
-},
-{
-"Name": "Ependes FR",
-"PostCode": "1731",
-"Location": {
-"Latitude": 46.7537,
-"Longitude": 7.1461
-}
-},
-{
-"Name": "Senèdes",
-"PostCode": "1724",
-"Location": {
-"Latitude": 46.7418,
-"Longitude": 7.1419
 }
 }
 ]
@@ -15756,6 +15798,21 @@
 "Code": "1006",
 "Communities": [
 {
+"Name": "Alterswil",
+"Code": "2291",
+"Places": [
+{
+"Name": "Alterswil FR",
+"PostCode": "1715",
+"Location": {
+"Latitude": 46.7959,
+"Longitude": 7.2588
+}
+}
+],
+"PostCode": "1715"
+},
+{
 "Name": "Brünisried",
 "Code": "2292",
 "Places": [
@@ -15899,6 +15956,21 @@
 "PostCode": "1718"
 },
 {
+"Name": "St. Antoni",
+"Code": "2302",
+"Places": [
+{
+"Name": "St. Antoni",
+"PostCode": "1713",
+"Location": {
+"Latitude": 46.8221,
+"Longitude": 7.2609
+}
+}
+],
+"PostCode": "1713"
+},
+{
 "Name": "St. Silvester",
 "Code": "2303",
 "Places": [
@@ -15948,22 +16020,6 @@
 "Code": "2306",
 "Places": [
 {
-"Name": "Alterswil FR",
-"PostCode": "1715",
-"Location": {
-"Latitude": 46.7959,
-"Longitude": 7.2588
-}
-},
-{
-"Name": "St. Antoni",
-"PostCode": "1713",
-"Location": {
-"Latitude": 46.8221,
-"Longitude": 7.2609
-}
-},
-{
 "Name": "Tafers",
 "PostCode": "1712",
 "Location": {
@@ -15971,7 +16027,8 @@
 "Longitude": 7.2185
 }
 }
-]
+],
+"PostCode": "1712"
 },
 {
 "Name": "Tentlingen",
@@ -19157,14 +19214,6 @@
 }
 },
 {
-"Name": "Haldenstein",
-"PostCode": "7023",
-"Location": {
-"Latitude": 46.8787,
-"Longitude": 9.5262
-}
-},
-{
 "Name": "Maladers",
 "PostCode": "7026",
 "Location": {
@@ -19319,6 +19368,21 @@
 }
 }
 ]
+},
+{
+"Name": "Haldenstein",
+"Code": "3941",
+"Places": [
+{
+"Name": "Haldenstein",
+"PostCode": "7023",
+"Location": {
+"Latitude": 46.8787,
+"Longitude": 9.5262
+}
+}
+],
+"PostCode": "7023"
 }
 ]
 },
@@ -20763,6 +20827,74 @@
 ]
 },
 {
+"Name": "Casti-Wergenstein",
+"Code": "3703",
+"Places": [
+{
+"Name": "Wergenstein",
+"PostCode": "7433",
+"Location": {
+"Latitude": 46.6265,
+"Longitude": 9.4069
+}
+}
+],
+"PostCode": "7433"
+},
+{
+"Name": "Donat",
+"Code": "3705",
+"Places": [
+{
+"Name": "Donat",
+"PostCode": "7433",
+"Location": {
+"Latitude": 46.6322,
+"Longitude": 9.4257
+}
+},
+{
+"Name": "Farden",
+"PostCode": "7433",
+"Location": {
+"Latitude": 46.6327,
+"Longitude": 9.4241
+}
+}
+],
+"PostCode": "7433"
+},
+{
+"Name": "Lohn (GR)",
+"Code": "3707",
+"Places": [
+{
+"Name": "Lohn GR",
+"PostCode": "7433",
+"Location": {
+"Latitude": 46.6574,
+"Longitude": 9.4232
+}
+}
+],
+"PostCode": "7433"
+},
+{
+"Name": "Mathon",
+"Code": "3708",
+"Places": [
+{
+"Name": "Mathon",
+"PostCode": "7433",
+"Location": {
+"Latitude": 46.636,
+"Longitude": 9.4138
+}
+}
+],
+"PostCode": "7433"
+},
+{
 "Name": "Rongellen",
 "Code": "3711",
 "Places": [
@@ -20859,53 +20991,6 @@
 }
 }
 ]
-},
-{
-"Name": "Muntogna da Schons",
-"Code": "3715",
-"Places": [
-{
-"Name": "Donat",
-"PostCode": "7433",
-"Location": {
-"Latitude": 46.6322,
-"Longitude": 9.4257
-}
-},
-{
-"Name": "Farden",
-"PostCode": "7433",
-"Location": {
-"Latitude": 46.6327,
-"Longitude": 9.4241
-}
-},
-{
-"Name": "Lohn GR",
-"PostCode": "7433",
-"Location": {
-"Latitude": 46.6574,
-"Longitude": 9.4232
-}
-},
-{
-"Name": "Mathon",
-"PostCode": "7433",
-"Location": {
-"Latitude": 46.636,
-"Longitude": 9.4138
-}
-},
-{
-"Name": "Wergenstein",
-"PostCode": "7433",
-"Location": {
-"Latitude": 46.6265,
-"Longitude": 9.4069
-}
-}
-],
-"PostCode": "7433"
 }
 ]
 }
@@ -22512,6 +22597,21 @@
 "PostCode": "6287"
 },
 {
+"Name": "Altwis",
+"Code": "1022",
+"Places": [
+{
+"Name": "Altwis",
+"PostCode": "6286",
+"Location": {
+"Latitude": 47.2385,
+"Longitude": 8.2478
+}
+}
+],
+"PostCode": "6286"
+},
+{
 "Name": "Ballwil",
 "Code": "1023",
 "Places": [
@@ -22590,14 +22690,6 @@
 "Name": "Hitzkirch",
 "Code": "1030",
 "Places": [
-{
-"Name": "Altwis",
-"PostCode": "6286",
-"Location": {
-"Latitude": 47.2385,
-"Longitude": 8.2478
-}
-},
 {
 "Name": "Gelfingen",
 "PostCode": "6284",
@@ -23335,6 +23427,21 @@
 "PostCode": "6145"
 },
 {
+"Name": "Gettnau",
+"Code": "1130",
+"Places": [
+{
+"Name": "Gettnau",
+"PostCode": "6142",
+"Location": {
+"Latitude": 47.1406,
+"Longitude": 7.9701
+}
+}
+],
+"PostCode": "6142"
+},
+{
 "Name": "Grossdietwil",
 "Code": "1131",
 "Places": [
@@ -23631,14 +23738,6 @@
 }
 },
 {
-"Name": "Gettnau",
-"PostCode": "6142",
-"Location": {
-"Latitude": 47.1406,
-"Longitude": 7.9701
-}
-},
-{
 "Name": "Rohrmatt",
 "PostCode": "6132",
 "Location": {
@@ -23914,6 +24013,28 @@
 ]
 },
 {
+"Name": "Corcelles-Cormondrèche",
+"Code": "6407",
+"Places": [
+{
+"Name": "Corcelles NE",
+"PostCode": "2035",
+"Location": {
+"Latitude": 46.9864,
+"Longitude": 6.8775
+}
+},
+{
+"Name": "Cormondrèche",
+"PostCode": "2036",
+"Location": {
+"Latitude": 46.9864,
+"Longitude": 6.8775
+}
+}
+]
+},
+{
 "Name": "Cortaillod",
 "Code": "6408",
 "Places": [
@@ -23927,6 +24048,21 @@
 }
 ],
 "PostCode": "2016"
+},
+{
+"Name": "Peseux",
+"Code": "6412",
+"Places": [
+{
+"Name": "Peseux",
+"PostCode": "2034",
+"Location": {
+"Latitude": 46.987,
+"Longitude": 6.889
+}
+}
+],
+"PostCode": "2034"
 },
 {
 "Name": "Rochefort",
@@ -24073,36 +24209,6 @@
 }
 }
 ]
-},
-{
-"Name": "Neuchâtel",
-"Code": "6458",
-"Places": [
-{
-"Name": "Corcelles NE",
-"PostCode": "2035",
-"Location": {
-"Latitude": 46.9864,
-"Longitude": 6.8775
-}
-},
-{
-"Name": "Cormondrèche",
-"PostCode": "2036",
-"Location": {
-"Latitude": 46.9864,
-"Longitude": 6.8775
-}
-},
-{
-"Name": "Peseux",
-"PostCode": "2034",
-"Location": {
-"Latitude": 46.987,
-"Longitude": 6.889
-}
-}
-]
 }
 ]
 },
@@ -24217,6 +24323,21 @@
 "Code": "2403",
 "Communities": [
 {
+"Name": "Les Brenets",
+"Code": "6431",
+"Places": [
+{
+"Name": "Les Brenets",
+"PostCode": "2416",
+"Location": {
+"Latitude": 47.0677,
+"Longitude": 6.7048
+}
+}
+],
+"PostCode": "2416"
+},
+{
 "Name": "La Brévine",
 "Code": "6432",
 "Places": [
@@ -24327,16 +24448,9 @@
 "Latitude": 47.0383,
 "Longitude": 6.7033
 }
-},
-{
-"Name": "Les Brenets",
-"PostCode": "2416",
-"Location": {
-"Latitude": 47.0677,
-"Longitude": 6.7048
 }
-}
-]
+],
+"PostCode": "2400"
 },
 {
 "Name": "Les Ponts-de-Martel",
@@ -24555,8 +24669,8 @@
 "Code": "2405",
 "Communities": [
 {
-"Name": "Neuchâtel",
-"Code": "6458",
+"Name": "Valangin",
+"Code": "6485",
 "Places": [
 {
 "Name": "Valangin",
@@ -28357,6 +28471,21 @@
 "PostCode": "4710"
 },
 {
+"Name": "Gänsbrunnen",
+"Code": "2423",
+"Places": [
+{
+"Name": "Gänsbrunnen",
+"PostCode": "4716",
+"Location": {
+"Latitude": 47.2612,
+"Longitude": 7.4686
+}
+}
+],
+"PostCode": "4716"
+},
+{
 "Name": "Herbetswil",
 "Code": "2424",
 "Places": [
@@ -28439,17 +28568,9 @@
 ]
 },
 {
-"Name": "Welschenrohr-Gänsbrunnen",
-"Code": "2430",
+"Name": "Welschenrohr",
+"Code": "2429",
 "Places": [
-{
-"Name": "Gänsbrunnen",
-"PostCode": "4716",
-"Location": {
-"Latitude": 47.2612,
-"Longitude": 7.4686
-}
-},
 {
 "Name": "Welschenrohr",
 "PostCode": "4716",
@@ -28987,8 +29108,8 @@
 "PostCode": "4653"
 },
 {
-"Name": "Stüsslingen",
-"Code": "2499",
+"Name": "Rohr (SO)",
+"Code": "2498",
 "Places": [
 {
 "Name": "Rohr b. Olten",
@@ -28997,7 +29118,14 @@
 "Latitude": 47.4116,
 "Longitude": 7.9529
 }
+}
+],
+"PostCode": "4655"
 },
+{
+"Name": "Stüsslingen",
+"Code": "2499",
+"Places": [
 {
 "Name": "Stüsslingen",
 "PostCode": "4655",
@@ -33915,6 +34043,21 @@
 "PostCode": "6612"
 },
 {
+"Name": "Brione (Verzasca)",
+"Code": "5095",
+"Places": [
+{
+"Name": "Brione (Verzasca)",
+"PostCode": "6634",
+"Location": {
+"Latitude": 46.2953,
+"Longitude": 8.7917
+}
+}
+],
+"PostCode": "6634"
+},
+{
 "Name": "Brione sopra Minusio",
 "Code": "5096",
 "Places": [
@@ -33951,6 +34094,36 @@
 }
 ],
 "PostCode": "6614"
+},
+{
+"Name": "Corippo",
+"Code": "5102",
+"Places": [
+{
+"Name": "Corippo",
+"PostCode": "6631",
+"Location": {
+"Latitude": 46.2359,
+"Longitude": 8.8407
+}
+}
+],
+"PostCode": "6631"
+},
+{
+"Name": "Frasco",
+"Code": "5105",
+"Places": [
+{
+"Name": "Frasco",
+"PostCode": "6636",
+"Location": {
+"Latitude": 46.344,
+"Longitude": 8.7984
+}
+}
+],
+"PostCode": "6636"
 },
 {
 "Name": "Gordola",
@@ -34155,6 +34328,21 @@
 ]
 },
 {
+"Name": "Sonogno",
+"Code": "5129",
+"Places": [
+{
+"Name": "Sonogno",
+"PostCode": "6637",
+"Location": {
+"Latitude": 46.3504,
+"Longitude": 8.7851
+}
+}
+],
+"PostCode": "6637"
+},
+{
 "Name": "Tenero-Contra",
 "Code": "5131",
 "Places": [
@@ -34175,6 +34363,21 @@
 }
 }
 ]
+},
+{
+"Name": "Vogorno",
+"Code": "5135",
+"Places": [
+{
+"Name": "Vogorno",
+"PostCode": "6632",
+"Location": {
+"Latitude": 46.2228,
+"Longitude": 8.8583
+}
+}
+],
+"PostCode": "6632"
 },
 {
 "Name": "Onsernone",
@@ -34482,52 +34685,6 @@
 "Location": {
 "Latitude": 46.1433,
 "Longitude": 8.842
-}
-}
-]
-},
-{
-"Name": "Verzasca",
-"Code": "5399",
-"Places": [
-{
-"Name": "Brione (Verzasca)",
-"PostCode": "6634",
-"Location": {
-"Latitude": 46.2953,
-"Longitude": 8.7917
-}
-},
-{
-"Name": "Corippo",
-"PostCode": "6631",
-"Location": {
-"Latitude": 46.2359,
-"Longitude": 8.8407
-}
-},
-{
-"Name": "Frasco",
-"PostCode": "6636",
-"Location": {
-"Latitude": 46.344,
-"Longitude": 8.7984
-}
-},
-{
-"Name": "Sonogno",
-"PostCode": "6637",
-"Location": {
-"Latitude": 46.3504,
-"Longitude": 8.7851
-}
-},
-{
-"Name": "Vogorno",
-"PostCode": "6632",
-"Location": {
-"Latitude": 46.2228,
-"Longitude": 8.8583
 }
 }
 ]
@@ -36713,6 +36870,21 @@
 "PostCode": "6468"
 },
 {
+"Name": "Bauen",
+"Code": "1204",
+"Places": [
+{
+"Name": "Bauen",
+"PostCode": "6466",
+"Location": {
+"Latitude": 46.9356,
+"Longitude": 8.5784
+}
+}
+],
+"PostCode": "6466"
+},
+{
 "Name": "Bürglen (UR)",
 "Code": "1205",
 "Places": [
@@ -36866,14 +37038,6 @@
 "Code": "1214",
 "Places": [
 {
-"Name": "Bauen",
-"PostCode": "6466",
-"Location": {
-"Latitude": 46.9356,
-"Longitude": 8.5784
-}
-},
-{
 "Name": "Seedorf UR",
 "PostCode": "6462",
 "Location": {
@@ -36881,7 +37045,8 @@
 "Longitude": 8.6161
 }
 }
-]
+],
+"PostCode": "6462"
 },
 {
 "Name": "Seelisberg",
@@ -38990,6 +39155,14 @@
 "Code": "5568",
 "Places": [
 {
+"Name": "L'Auberson",
+"PostCode": "1454",
+"Location": {
+"Latitude": 46.8192,
+"Longitude": 6.4597
+}
+},
+{
 "Name": "La Sagne (Ste-Croix)",
 "PostCode": "1450",
 "Location": {
@@ -39003,14 +39176,6 @@
 "Location": {
 "Latitude": 46.8426,
 "Longitude": 6.4837
-}
-},
-{
-"Name": "L'Auberson",
-"PostCode": "1454",
-"Location": {
-"Latitude": 46.8192,
-"Longitude": 6.4597
 }
 },
 {
@@ -40758,14 +40923,6 @@
 }
 },
 {
-"Name": "Montherod",
-"PostCode": "1174",
-"Location": {
-"Latitude": 46.5017,
-"Longitude": 6.3615
-}
-},
-{
 "Name": "Pizy",
 "PostCode": "1174",
 "Location": {
@@ -40879,6 +41036,21 @@
 }
 ],
 "PostCode": "1146"
+},
+{
+"Name": "Montherod",
+"Code": "5432",
+"Places": [
+{
+"Name": "Montherod",
+"PostCode": "1174",
+"Location": {
+"Latitude": 46.5017,
+"Longitude": 6.3615
+}
+}
+],
+"PostCode": "1174"
 },
 {
 "Name": "Saint-Livres",
@@ -41103,19 +41275,19 @@
 "Code": "5486",
 "Places": [
 {
-"Name": "La Coudre",
-"PostCode": "1148",
-"Location": {
-"Latitude": 46.6404,
-"Longitude": 6.4036
-}
-},
-{
 "Name": "L'Isle",
 "PostCode": "1148",
 "Location": {
 "Latitude": 46.6184,
 "Longitude": 6.4133
+}
+},
+{
+"Name": "La Coudre",
+"PostCode": "1148",
+"Location": {
+"Latitude": 46.6404,
+"Longitude": 6.4036
 }
 },
 {
@@ -42570,6 +42742,14 @@
 }
 },
 {
+"Name": "L'Etivaz",
+"PostCode": "1660",
+"Location": {
+"Latitude": 46.4248,
+"Longitude": 7.1462
+}
+},
+{
 "Name": "La Lécherette",
 "PostCode": "1660",
 "Location": {
@@ -42583,14 +42763,6 @@
 "Location": {
 "Latitude": 46.4619,
 "Longitude": 7.1051
-}
-},
-{
-"Name": "L'Etivaz",
-"PostCode": "1660",
-"Location": {
-"Latitude": 46.4248,
-"Longitude": 7.1462
 }
 }
 ],
@@ -43354,6 +43526,76 @@
 "Code": "2303",
 "Communities": [
 {
+"Name": "Bagnes",
+"Code": "6031",
+"Places": [
+{
+"Name": "Bruson",
+"PostCode": "1934",
+"Location": {
+"Latitude": 46.066,
+"Longitude": 7.2183
+}
+},
+{
+"Name": "Champsec",
+"PostCode": "1947",
+"Location": {
+"Latitude": 46.0581,
+"Longitude": 7.243
+}
+},
+{
+"Name": "Fionnay",
+"PostCode": "1948",
+"Location": {
+"Latitude": 46.032,
+"Longitude": 7.3089
+}
+},
+{
+"Name": "Le Châble VS",
+"PostCode": "1934",
+"Location": {
+"Latitude": 46.066,
+"Longitude": 7.2183
+}
+},
+{
+"Name": "Lourtier",
+"PostCode": "1948",
+"Location": {
+"Latitude": 46.0488,
+"Longitude": 7.2668
+}
+},
+{
+"Name": "Sarreyer",
+"PostCode": "1948",
+"Location": {
+"Latitude": 46.064,
+"Longitude": 7.2519
+}
+},
+{
+"Name": "Verbier",
+"PostCode": "1936",
+"Location": {
+"Latitude": 46.1002,
+"Longitude": 7.2265
+}
+},
+{
+"Name": "Versegères",
+"PostCode": "1947",
+"Location": {
+"Latitude": 46.0671,
+"Longitude": 7.2348
+}
+}
+]
+},
+{
 "Name": "Bourg-Saint-Pierre",
 "Code": "6032",
 "Places": [
@@ -43541,25 +43783,9 @@
 "PostCode": "1933"
 },
 {
-"Name": "Val de Bagnes",
-"Code": "6037",
+"Name": "Vollèges",
+"Code": "6036",
 "Places": [
-{
-"Name": "Bruson",
-"PostCode": "1934",
-"Location": {
-"Latitude": 46.066,
-"Longitude": 7.2183
-}
-},
-{
-"Name": "Champsec",
-"PostCode": "1947",
-"Location": {
-"Latitude": 46.0581,
-"Longitude": 7.243
-}
-},
 {
 "Name": "Chemin",
 "PostCode": "1927",
@@ -43577,22 +43803,6 @@
 }
 },
 {
-"Name": "Fionnay",
-"PostCode": "1948",
-"Location": {
-"Latitude": 46.032,
-"Longitude": 7.3089
-}
-},
-{
-"Name": "Le Châble VS",
-"PostCode": "1934",
-"Location": {
-"Latitude": 46.066,
-"Longitude": 7.2183
-}
-},
-{
 "Name": "Levron",
 "PostCode": "1942",
 "Location": {
@@ -43601,43 +43811,11 @@
 }
 },
 {
-"Name": "Lourtier",
-"PostCode": "1948",
-"Location": {
-"Latitude": 46.0488,
-"Longitude": 7.2668
-}
-},
-{
-"Name": "Sarreyer",
-"PostCode": "1948",
-"Location": {
-"Latitude": 46.064,
-"Longitude": 7.2519
-}
-},
-{
 "Name": "Vens (Sembrancher)",
 "PostCode": "1933",
 "Location": {
 "Latitude": 46.0959,
 "Longitude": 7.1535
-}
-},
-{
-"Name": "Verbier",
-"PostCode": "1936",
-"Location": {
-"Latitude": 46.1002,
-"Longitude": 7.2265
-}
-},
-{
-"Name": "Versegères",
-"PostCode": "1947",
-"Location": {
-"Latitude": 46.0671,
-"Longitude": 7.2348
 }
 },
 {
@@ -44468,6 +44646,21 @@
 "PostCode": "1932"
 },
 {
+"Name": "Charrat",
+"Code": "6132",
+"Places": [
+{
+"Name": "Charrat",
+"PostCode": "1906",
+"Location": {
+"Latitude": 46.1249,
+"Longitude": 7.1314
+}
+}
+],
+"PostCode": "1906"
+},
+{
 "Name": "Fully",
 "Code": "6133",
 "Places": [
@@ -44547,14 +44740,6 @@
 "Name": "Martigny",
 "Code": "6136",
 "Places": [
-{
-"Name": "Charrat",
-"PostCode": "1906",
-"Location": {
-"Latitude": 46.1249,
-"Longitude": 7.1314
-}
-},
 {
 "Name": "Martigny",
 "PostCode": "1920",
@@ -44967,19 +45152,19 @@
 }
 },
 {
-"Name": "Riederalp",
-"PostCode": "3987",
-"Location": {
-"Latitude": 46.3764,
-"Longitude": 8.0261
-}
-},
-{
 "Name": "Ried-Mörel",
 "PostCode": "3986",
 "Location": {
 "Latitude": 46.3571,
 "Longitude": 8.0314
+}
+},
+{
+"Name": "Riederalp",
+"PostCode": "3987",
+"Location": {
+"Latitude": 46.3764,
+"Longitude": 8.0261
 }
 }
 ]
@@ -45508,6 +45693,21 @@
 ]
 },
 {
+"Name": "Miège",
+"Code": "6241",
+"Places": [
+{
+"Name": "Miège",
+"PostCode": "3972",
+"Location": {
+"Latitude": 46.3112,
+"Longitude": 7.547
+}
+}
+],
+"PostCode": "3972"
+},
+{
 "Name": "Saint-Léonard",
 "Code": "6246",
 "Places": [
@@ -45559,6 +45759,36 @@
 }
 }
 ]
+},
+{
+"Name": "Venthône",
+"Code": "6249",
+"Places": [
+{
+"Name": "Venthône",
+"PostCode": "3973",
+"Location": {
+"Latitude": 46.3067,
+"Longitude": 7.5292
+}
+}
+],
+"PostCode": "3973"
+},
+{
+"Name": "Veyras",
+"Code": "6250",
+"Places": [
+{
+"Name": "Veyras",
+"PostCode": "3968",
+"Location": {
+"Latitude": 46.3021,
+"Longitude": 7.5362
+}
+}
+],
+"PostCode": "3968"
 },
 {
 "Name": "Anniviers",
@@ -45728,36 +45958,6 @@
 "Location": {
 "Latitude": 46.3095,
 "Longitude": 7.5006
-}
-}
-]
-},
-{
-"Name": "Noble-Contrée",
-"Code": "6254",
-"Places": [
-{
-"Name": "Miège",
-"PostCode": "3972",
-"Location": {
-"Latitude": 46.3112,
-"Longitude": 7.547
-}
-},
-{
-"Name": "Venthône",
-"PostCode": "3973",
-"Location": {
-"Latitude": 46.3067,
-"Longitude": 7.5292
-}
-},
-{
-"Name": "Veyras",
-"PostCode": "3968",
-"Location": {
-"Latitude": 46.3021,
-"Longitude": 7.5362
 }
 }
 ]

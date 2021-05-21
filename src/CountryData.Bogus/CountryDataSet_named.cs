@@ -97,11 +97,6 @@ namespace CountryData.Bogus
             return CountryLoader.LoadCostaRicaLocationData();
         }
 
-        public ICountry Cyprus()
-        {
-            return CountryLoader.LoadCyprusLocationData();
-        }
-
         public ICountry Czechia()
         {
             return CountryLoader.LoadCzechiaLocationData();

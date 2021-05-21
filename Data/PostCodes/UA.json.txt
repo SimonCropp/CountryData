@@ -2143,6 +2143,14 @@
 }
 },
 {
+"Name": "В'язівок",
+"PostCode": "19534",
+"Location": {
+"Latitude": 48.7222,
+"Longitude": 34.6383
+}
+},
+{
 "Name": "Валява",
 "PostCode": "19520",
 "Location": {
@@ -2172,14 +2180,6 @@
 "Location": {
 "Latitude": 48.2611,
 "Longitude": 35.2169
-}
-},
-{
-"Name": "В'язівок",
-"PostCode": "19534",
-"Location": {
-"Latitude": 48.7222,
-"Longitude": 34.6383
 }
 },
 {
@@ -11562,19 +11562,19 @@
 }
 },
 {
-"Name": "Лубня",
-"PostCode": "15478",
-"Location": {
-"Latitude": 51.9502,
-"Longitude": 32.6743
-}
-},
-{
 "Name": "Луб'яне",
 "PostCode": "15408",
 "Location": {
 "Latitude": 52.2024,
 "Longitude": 32.6077
+}
+},
+{
+"Name": "Лубня",
+"PostCode": "15478",
+"Location": {
+"Latitude": 51.9502,
+"Longitude": 32.6743
 }
 },
 {
@@ -12492,19 +12492,19 @@
 }
 },
 {
-"Name": "Камінь",
-"PostCode": "16027",
-"Location": {
-"Latitude": 52.2824,
-"Longitude": 33.3473
-}
-},
-{
 "Name": "Кам'янська Слобода",
 "PostCode": "16021",
 "Location": {
 "Latitude": 52.1731,
 "Longitude": 33.2309
+}
+},
+{
+"Name": "Камінь",
+"PostCode": "16027",
+"Location": {
+"Latitude": 52.2824,
+"Longitude": 33.3473
 }
 },
 {
@@ -12684,19 +12684,19 @@
 }
 },
 {
-"Name": "Муравейник",
-"PostCode": "16046",
-"Location": {
-"Latitude": 52.0548,
-"Longitude": 32.8565
-}
-},
-{
 "Name": "Мурав'ї",
 "PostCode": "16009",
 "Location": {
 "Latitude": 52.3437,
 "Longitude": 33.3813
+}
+},
+{
+"Name": "Муравейник",
+"PostCode": "16046",
+"Location": {
+"Latitude": 52.0548,
+"Longitude": 32.8565
 }
 },
 {
@@ -19033,19 +19033,19 @@
 }
 },
 {
-"Name": "Заудайка",
-"PostCode": "17514",
-"Location": {
-"Latitude": 50.7063,
-"Longitude": 32.2221
-}
-},
-{
 "Name": "Заудаївське",
 "PostCode": "17547",
 "Location": {
 "Latitude": 50.6517,
 "Longitude": 32.475
+}
+},
+{
+"Name": "Заудайка",
+"PostCode": "17514",
+"Location": {
+"Latitude": 50.7063,
+"Longitude": 32.2221
 }
 },
 {
@@ -20234,7 +20234,7 @@
 }
 },
 {
-"Name": "Глибочок (Кам янська сільська рада)",
+"Name": "Глибочок (Кам\"янська сільська рада)",
 "PostCode": "59047",
 "Location": {
 "Latitude": 49.1325,
@@ -25974,7 +25974,7 @@
 }
 },
 {
-"Name": "Семенівка (Юр ївська сільська рада)",
+"Name": "Семенівка (Юр\"ївська сільська рада)",
 "PostCode": "51037",
 "Location": {
 "Latitude": 48.8551,
@@ -26215,16 +26215,16 @@
 }
 },
 {
-"Name": "Йосипівка (Бузівська с-р)",
-"PostCode": "51123",
+"Name": "Іванівка (Приютська с-р)",
+"PostCode": "51126",
 "Location": {
 "Latitude": 49.1331,
 "Longitude": 35.055
 }
 },
 {
-"Name": "Іванівка (Приютська с-р)",
-"PostCode": "51126",
+"Name": "Йосипівка (Бузівська с-р)",
+"PostCode": "51123",
 "Location": {
 "Latitude": 49.1331,
 "Longitude": 35.055
@@ -27337,6 +27337,14 @@
 }
 },
 {
+"Name": "П'ятихатки",
+"PostCode": "51343",
+"Location": {
+"Latitude": 48.4377,
+"Longitude": 35.3295
+}
+},
+{
 "Name": "Первомайське",
 "PostCode": "51339",
 "Location": {
@@ -27366,14 +27374,6 @@
 "Location": {
 "Latitude": 48.0852,
 "Longitude": 34.6661
-}
-},
-{
-"Name": "П'ятихатки",
-"PostCode": "51343",
-"Location": {
-"Latitude": 48.4377,
-"Longitude": 35.3295
 }
 },
 {
@@ -27538,6 +27538,14 @@
 }
 },
 {
+"Name": "В'язівок",
+"PostCode": "51452",
+"Location": {
+"Latitude": 48.5948,
+"Longitude": 35.8397
+}
+},
+{
 "Name": "Вербки",
 "PostCode": "51453",
 "Location": {
@@ -27559,14 +27567,6 @@
 "Location": {
 "Latitude": 48.5907,
 "Longitude": 35.7874
-}
-},
-{
-"Name": "В'язівок",
-"PostCode": "51452",
-"Location": {
-"Latitude": 48.5948,
-"Longitude": 35.8397
 }
 },
 {
@@ -29082,19 +29082,19 @@
 }
 },
 {
-"Name": "Майорка",
-"PostCode": "52025",
-"Location": {
-"Latitude": 48.2767,
-"Longitude": 35.1616
-}
-},
-{
 "Name": "Маївка (Степнянська сільська рада)",
 "PostCode": "52022",
 "Location": {
 "Latitude": 48.2149,
 "Longitude": 34.5452
+}
+},
+{
+"Name": "Майорка",
+"PostCode": "52025",
+"Location": {
+"Latitude": 48.2767,
+"Longitude": 35.1616
 }
 },
 {
@@ -29827,6 +29827,22 @@
 }
 },
 {
+"Name": "П'ятихатки",
+"PostCode": "52100",
+"Location": {
+"Latitude": 48.4708,
+"Longitude": 33.7725
+}
+},
+{
+"Name": "П'ятихатки",
+"PostCode": "52103",
+"Location": {
+"Latitude": 48.4708,
+"Longitude": 33.7725
+}
+},
+{
 "Name": "Пальмирівка",
 "PostCode": "52131",
 "Location": {
@@ -29864,22 +29880,6 @@
 "Location": {
 "Latitude": 48.3962,
 "Longitude": 33.554
-}
-},
-{
-"Name": "П'ятихатки",
-"PostCode": "52100",
-"Location": {
-"Latitude": 48.4708,
-"Longitude": 33.7725
-}
-},
-{
-"Name": "П'ятихатки",
-"PostCode": "52103",
-"Location": {
-"Latitude": 48.4708,
-"Longitude": 33.7725
 }
 },
 {
@@ -32655,6 +32655,14 @@
 }
 },
 {
+"Name": "Шев'якине",
+"PostCode": "52685",
+"Location": {
+"Latitude": 48.1886,
+"Longitude": 35.9525
+}
+},
+{
 "Name": "Шевченківське",
 "PostCode": "52684",
 "Location": {
@@ -32676,14 +32684,6 @@
 "Location": {
 "Latitude": 48.1796,
 "Longitude": 36.2131
-}
-},
-{
-"Name": "Шев'якине",
-"PostCode": "52685",
-"Location": {
-"Latitude": 48.1886,
-"Longitude": 35.9525
 }
 },
 {
@@ -35173,19 +35173,19 @@
 }
 },
 {
-"Name": "Маринопіль (Шевченківська сільська рада)",
-"PostCode": "53286",
-"Location": {
-"Latitude": 47.6676,
-"Longitude": 34.3488
-}
-},
-{
 "Name": "Мар'ївка (Кирівська  сільська рада)",
 "PostCode": "53290",
 "Location": {
 "Latitude": 47.942,
 "Longitude": 34.259
+}
+},
+{
+"Name": "Маринопіль (Шевченківська сільська рада)",
+"PostCode": "53286",
+"Location": {
+"Latitude": 47.6676,
+"Longitude": 34.3488
 }
 },
 {
@@ -35671,6 +35671,14 @@
 }
 },
 {
+"Name": "Мар'ївка",
+"PostCode": "53492",
+"Location": {
+"Latitude": 47.6444,
+"Longitude": 34.6287
+}
+},
+{
 "Name": "Марганець",
 "PostCode": "53400",
 "Location": {
@@ -35716,14 +35724,6 @@
 "Location": {
 "Latitude": 47.6354,
 "Longitude": 34.6277
-}
-},
-{
-"Name": "Мар'ївка",
-"PostCode": "53492",
-"Location": {
-"Latitude": 47.6444,
-"Longitude": 34.6287
 }
 }
 ]
@@ -38451,19 +38451,19 @@
 }
 },
 {
-"Name": "Райгородок",
-"PostCode": "84150",
-"Location": {
-"Latitude": 48.8985,
-"Longitude": 37.7269
-}
-},
-{
 "Name": "Рай-Олександрівка",
 "PostCode": "84186",
 "Location": {
 "Latitude": 48.8106,
 "Longitude": 37.8518
+}
+},
+{
+"Name": "Райгородок",
+"PostCode": "84150",
+"Location": {
+"Latitude": 48.8985,
+"Longitude": 37.7269
 }
 },
 {
@@ -41121,19 +41121,19 @@
 }
 },
 {
-"Name": "Миколайпілля",
-"PostCode": "85189",
-"Location": {
-"Latitude": 48.5266,
-"Longitude": 37.5569
-}
-},
-{
 "Name": "Миколаївка (Миколаївська сільська рада)",
 "PostCode": "85134",
 "Location": {
 "Latitude": 48.5923,
 "Longitude": 37.573
+}
+},
+{
+"Name": "Миколайпілля",
+"PostCode": "85189",
+"Location": {
+"Latitude": 48.5266,
+"Longitude": 37.5569
 }
 },
 {
@@ -41201,19 +41201,19 @@
 }
 },
 {
-"Name": "Олександропіль (Тарасівська сільська рада)",
-"PostCode": "85182",
-"Location": {
-"Latitude": 48.333,
-"Longitude": 37.4991
-}
-},
-{
 "Name": "Олександро-Шультине (Іванопільська сільська рада)",
 "PostCode": "85136",
 "Location": {
 "Latitude": 48.5923,
 "Longitude": 37.573
+}
+},
+{
+"Name": "Олександропіль (Тарасівська сільська рада)",
+"PostCode": "85182",
+"Location": {
+"Latitude": 48.333,
+"Longitude": 37.4991
 }
 },
 {
@@ -46515,16 +46515,16 @@
 }
 },
 {
-"Name": "Демешківці",
-"PostCode": "77134",
+"Name": "Дем'янів",
+"PostCode": "77131",
 "Location": {
 "Latitude": 49.494,
 "Longitude": 24.9368
 }
 },
 {
-"Name": "Дем'янів",
-"PostCode": "77131",
+"Name": "Демешківці",
+"PostCode": "77134",
 "Location": {
 "Latitude": 49.494,
 "Longitude": 24.9368
@@ -50517,6 +50517,14 @@
 }
 },
 {
+"Name": "П'ядики",
+"PostCode": "78254",
+"Location": {
+"Latitude": 48.7993,
+"Longitude": 24.8338
+}
+},
+{
 "Name": "Перерив",
 "PostCode": "78268",
 "Location": {
@@ -50551,14 +50559,6 @@
 {
 "Name": "Підгайчики",
 "PostCode": "78256",
-"Location": {
-"Latitude": 48.7993,
-"Longitude": 24.8338
-}
-},
-{
-"Name": "П'ядики",
-"PostCode": "78254",
 "Location": {
 "Latitude": 48.7993,
 "Longitude": 24.8338
@@ -53202,6 +53202,14 @@
 }
 },
 {
+"Name": "В'язова",
+"PostCode": "62040",
+"Location": {
+"Latitude": 49.8839,
+"Longitude": 35.1166
+}
+},
+{
 "Name": "Водяне",
 "PostCode": "62053",
 "Location": {
@@ -53215,14 +53223,6 @@
 "Location": {
 "Latitude": 50.0752,
 "Longitude": 35.2859
-}
-},
-{
-"Name": "В'язова",
-"PostCode": "62040",
-"Location": {
-"Latitude": 49.8839,
-"Longitude": 35.1166
 }
 },
 {
@@ -54460,14 +54460,6 @@
 }
 },
 {
-"Name": "Гуринівка",
-"PostCode": "62242",
-"Location": {
-"Latitude": 50.1481,
-"Longitude": 35.8408
-}
-},
-{
 "Name": "Гур'їв (Писарівська)",
 "PostCode": "62235",
 "Location": {
@@ -54481,6 +54473,14 @@
 "Location": {
 "Latitude": 50.4198,
 "Longitude": 35.9662
+}
+},
+{
+"Name": "Гуринівка",
+"PostCode": "62242",
+"Location": {
+"Latitude": 50.1481,
+"Longitude": 35.8408
 }
 },
 {
@@ -57808,6 +57808,14 @@
 }
 },
 {
+"Name": "Шев'яківка",
+"PostCode": "62681",
+"Location": {
+"Latitude": 50.2164,
+"Longitude": 37.5904
+}
+},
+{
 "Name": "Шевченкове (Малобурлуцька сільрада)",
 "PostCode": "62627",
 "Location": {
@@ -57821,14 +57829,6 @@
 "Location": {
 "Latitude": 50.0885,
 "Longitude": 37.4453
-}
-},
-{
-"Name": "Шев'яківка",
-"PostCode": "62681",
-"Location": {
-"Latitude": 50.2164,
-"Longitude": 37.5904
 }
 },
 {
@@ -58394,6 +58394,14 @@
 }
 },
 {
+"Name": "П'ятницьке",
+"PostCode": "62809",
+"Location": {
+"Latitude": 49.8717,
+"Longitude": 36.9347
+}
+},
+{
 "Name": "Першотравневе",
 "PostCode": "62814",
 "Location": {
@@ -58415,14 +58423,6 @@
 "Location": {
 "Latitude": 49.9862,
 "Longitude": 37.0201
-}
-},
-{
-"Name": "П'ятницьке",
-"PostCode": "62809",
-"Location": {
-"Latitude": 49.8717,
-"Longitude": 36.9347
 }
 }
 ]
@@ -58715,19 +58715,19 @@
 }
 },
 {
-"Name": "Коверівка",
-"PostCode": "63018",
-"Location": {
-"Latitude": 49.8972,
-"Longitude": 35.6614
-}
-},
-{
 "Name": "Ков'яги",
 "PostCode": "63021",
 "Location": {
 "Latitude": 49.9024,
 "Longitude": 35.5567
+}
+},
+{
+"Name": "Коверівка",
+"PostCode": "63018",
+"Location": {
+"Latitude": 49.8972,
+"Longitude": 35.6614
 }
 },
 {
@@ -64174,6 +64174,14 @@
 }
 },
 {
+"Name": "П'ятигірське (П’ятигірська сільська рада)",
+"PostCode": "64252",
+"Location": {
+"Latitude": 49.4627,
+"Longitude": 36.8595
+}
+},
+{
 "Name": "Пазіївка (Веселівська сільська рада)",
 "PostCode": "64236",
 "Location": {
@@ -64240,14 +64248,6 @@
 {
 "Name": "Протопопівка (Протопопівська сільська рада)",
 "PostCode": "64281",
-"Location": {
-"Latitude": 49.4627,
-"Longitude": 36.8595
-}
-},
-{
-"Name": "П'ятигірське (П’ятигірська сільська рада)",
-"PostCode": "64252",
 "Location": {
 "Latitude": 49.4627,
 "Longitude": 36.8595
@@ -68878,19 +68878,19 @@
 }
 },
 {
-"Name": "Первомайське",
-"PostCode": "74138",
-"Location": {
-"Latitude": 47.2176,
-"Longitude": 33.0369
-}
-},
-{
 "Name": "П'ятихатки",
 "PostCode": "74159",
 "Location": {
 "Latitude": 47.1381,
 "Longitude": 33.3664
+}
+},
+{
+"Name": "Первомайське",
+"PostCode": "74138",
+"Location": {
+"Latitude": 47.2176,
+"Longitude": 33.0369
 }
 },
 {
@@ -74835,6 +74835,14 @@
 }
 },
 {
+"Name": "В'язовець",
+"PostCode": "30236",
+"Location": {
+"Latitude": 50.5065,
+"Longitude": 28.2646
+}
+},
+{
 "Name": "Варивідки",
 "PostCode": "30240",
 "Location": {
@@ -74904,14 +74912,6 @@
 "Location": {
 "Latitude": 49.9047,
 "Longitude": 27.4943
-}
-},
-{
-"Name": "В'язовець",
-"PostCode": "30236",
-"Location": {
-"Latitude": 50.5065,
-"Longitude": 28.2646
 }
 },
 {
@@ -75043,19 +75043,19 @@
 }
 },
 {
-"Name": "Йосипівці",
-"PostCode": "30213",
-"Location": {
-"Latitude": 50.3706,
-"Longitude": 27.1592
-}
-},
-{
 "Name": "Іванівка",
 "PostCode": "30210",
 "Location": {
 "Latitude": 50.3829,
 "Longitude": 26.9237
+}
+},
+{
+"Name": "Йосипівці",
+"PostCode": "30213",
+"Location": {
+"Latitude": 50.3706,
+"Longitude": 27.1592
 }
 },
 {
@@ -75756,6 +75756,14 @@
 }
 },
 {
+"Name": "М'якоти",
+"PostCode": "30314",
+"Location": {
+"Latitude": 50.0039,
+"Longitude": 26.7715
+}
+},
+{
 "Name": "Мала Медведівка",
 "PostCode": "30301",
 "Location": {
@@ -75817,14 +75825,6 @@
 "Location": {
 "Latitude": 50.3619,
 "Longitude": 26.5187
-}
-},
-{
-"Name": "М'якоти",
-"PostCode": "30314",
-"Location": {
-"Latitude": 50.0039,
-"Longitude": 26.7715
 }
 },
 {
@@ -78593,14 +78593,6 @@
 }
 },
 {
-"Name": "Йосипівка (Остропіль)",
-"PostCode": "31146",
-"Location": {
-"Latitude": 49.8082,
-"Longitude": 27.5591
-}
-},
-{
 "Name": "Ілляшівка",
 "PostCode": "31174",
 "Location": {
@@ -78614,6 +78606,14 @@
 "Location": {
 "Latitude": 49.8372,
 "Longitude": 27.3972
+}
+},
+{
+"Name": "Йосипівка (Остропіль)",
+"PostCode": "31146",
+"Location": {
+"Latitude": 49.8082,
+"Longitude": 27.5591
 }
 },
 {
@@ -80235,19 +80235,19 @@
 }
 },
 {
-"Name": "Мартинівка",
-"PostCode": "31338",
-"Location": {
-"Latitude": 49.8706,
-"Longitude": 27.5099
-}
-},
-{
 "Name": "Мар'янівка",
 "PostCode": "31313",
 "Location": {
 "Latitude": 49.5408,
 "Longitude": 26.7202
+}
+},
+{
+"Name": "Мартинівка",
+"PostCode": "31338",
+"Location": {
+"Latitude": 49.8706,
+"Longitude": 27.5099
 }
 },
 {
@@ -80652,14 +80652,6 @@
 }
 },
 {
-"Name": "Йосипівка",
-"PostCode": "31418",
-"Location": {
-"Latitude": 49.7686,
-"Longitude": 27.6037
-}
-},
-{
 "Name": "Іванківці",
 "PostCode": "31408",
 "Location": {
@@ -80681,6 +80673,14 @@
 "Location": {
 "Latitude": 49.6399,
 "Longitude": 27.5645
+}
+},
+{
+"Name": "Йосипівка",
+"PostCode": "31418",
+"Location": {
+"Latitude": 49.7686,
+"Longitude": 27.6037
 }
 },
 {
@@ -81646,19 +81646,19 @@
 }
 },
 {
-"Name": "Йосипівка",
-"PostCode": "31617",
-"Location": {
-"Latitude": 49.7686,
-"Longitude": 27.6037
-}
-},
-{
 "Name": "Івахнівці (Івахновецька сільська рада)",
 "PostCode": "31618",
 "Location": {
 "Latitude": 49.5995,
 "Longitude": 27.6608
+}
+},
+{
+"Name": "Йосипівка",
+"PostCode": "31617",
+"Location": {
+"Latitude": 49.7686,
+"Longitude": 27.6037
 }
 },
 {
@@ -81798,6 +81798,14 @@
 }
 },
 {
+"Name": "П'ятничани (П’ятничанська сільська рада)",
+"PostCode": "31662",
+"Location": {
+"Latitude": 49.5293,
+"Longitude": 26.9894
+}
+},
+{
 "Name": "Почапинці (Почапинецька сільська рада)",
 "PostCode": "31654",
 "Location": {
@@ -81808,14 +81816,6 @@
 {
 "Name": "Пукляки (Пуклякська сільська рада)",
 "PostCode": "31663",
-"Location": {
-"Latitude": 49.5293,
-"Longitude": 26.9894
-}
-},
-{
-"Name": "П'ятничани (П’ятничанська сільська рада)",
-"PostCode": "31662",
 "Location": {
 "Latitude": 49.5293,
 "Longitude": 26.9894
@@ -86854,19 +86854,19 @@
 }
 },
 {
-"Name": "Йосипівка",
-"PostCode": "26030",
-"Location": {
-"Latitude": 48.5407,
-"Longitude": 31.348
-}
-},
-{
 "Name": "Іванівка",
 "PostCode": "26040",
 "Location": {
 "Latitude": 48.8681,
 "Longitude": 32.9011
+}
+},
+{
+"Name": "Йосипівка",
+"PostCode": "26030",
+"Location": {
+"Latitude": 48.5407,
+"Longitude": 31.348
 }
 },
 {
@@ -86958,19 +86958,19 @@
 }
 },
 {
-"Name": "Мартоноша",
-"PostCode": "26033",
-"Location": {
-"Latitude": 48.7616,
-"Longitude": 31.7818
-}
-},
-{
 "Name": "Мар'янопіль",
 "PostCode": "26040",
 "Location": {
 "Latitude": 48.8681,
 "Longitude": 32.9011
+}
+},
+{
+"Name": "Мартоноша",
+"PostCode": "26033",
+"Location": {
+"Latitude": 48.7616,
+"Longitude": 31.7818
 }
 },
 {
@@ -87463,6 +87463,14 @@
 }
 },
 {
+"Name": "П'ятихатки",
+"PostCode": "26209",
+"Location": {
+"Latitude": 48.8879,
+"Longitude": 29.9035
+}
+},
+{
 "Name": "Павлівка",
 "PostCode": "26247",
 "Location": {
@@ -87516,14 +87524,6 @@
 "Location": {
 "Latitude": 50.0967,
 "Longitude": 35.447
-}
-},
-{
-"Name": "П'ятихатки",
-"PostCode": "26209",
-"Location": {
-"Latitude": 48.8879,
-"Longitude": 29.9035
 }
 },
 {
@@ -87744,19 +87744,19 @@
 }
 },
 {
-"Name": "Мартинівка",
-"PostCode": "26143",
-"Location": {
-"Latitude": 50.9985,
-"Longitude": 32.6174
-}
-},
-{
 "Name": "Мар'янівка",
 "PostCode": "26141",
 "Location": {
 "Latitude": 49.9648,
 "Longitude": 32.7651
+}
+},
+{
+"Name": "Мартинівка",
+"PostCode": "26143",
+"Location": {
+"Latitude": 50.9985,
+"Longitude": 32.6174
 }
 },
 {
@@ -88635,19 +88635,19 @@
 }
 },
 {
-"Name": "Маринопіль",
-"PostCode": "26519",
-"Location": {
-"Latitude": 50.0488,
-"Longitude": 31.9383
-}
-},
-{
 "Name": "Мар'янівка",
 "PostCode": "26527",
 "Location": {
 "Latitude": 48.9634,
 "Longitude": 32.2349
+}
+},
+{
+"Name": "Маринопіль",
+"PostCode": "26519",
+"Location": {
+"Latitude": 50.0488,
+"Longitude": 31.9383
 }
 },
 {
@@ -89550,6 +89550,14 @@
 }
 },
 {
+"Name": "В'юнки",
+"PostCode": "27176",
+"Location": {
+"Latitude": 47.9617,
+"Longitude": 32.0301
+}
+},
+{
 "Name": "Варварівка",
 "PostCode": "27143",
 "Location": {
@@ -89635,14 +89643,6 @@
 "Location": {
 "Latitude": 48.2611,
 "Longitude": 35.2169
-}
-},
-{
-"Name": "В'юнки",
-"PostCode": "27176",
-"Location": {
-"Latitude": 47.9617,
-"Longitude": 32.0301
 }
 },
 {
@@ -90431,19 +90431,19 @@
 }
 },
 {
-"Name": "Маріуполь",
-"PostCode": "27275",
-"Location": {
-"Latitude": 47.0951,
-"Longitude": 37.5413
-}
-},
-{
 "Name": "Мар'янівка",
 "PostCode": "27220",
 "Location": {
 "Latitude": 48.5016,
 "Longitude": 36.223
+}
+},
+{
+"Name": "Маріуполь",
+"PostCode": "27275",
+"Location": {
+"Latitude": 47.0951,
+"Longitude": 37.5413
 }
 },
 {
@@ -92708,6 +92708,14 @@
 }
 },
 {
+"Name": "П'ятомиколаївка",
+"PostCode": "28124",
+"Location": {
+"Latitude": 48.8233,
+"Longitude": 33.6427
+}
+},
+{
 "Name": "Павлиш",
 "PostCode": "28110",
 "Location": {
@@ -92737,14 +92745,6 @@
 "Location": {
 "Latitude": 48.9129,
 "Longitude": 33.514
-}
-},
-{
-"Name": "П'ятомиколаївка",
-"PostCode": "28124",
-"Location": {
-"Latitude": 48.8233,
-"Longitude": 33.6427
 }
 },
 {
@@ -93094,14 +93094,6 @@
 }
 },
 {
-"Name": "Йосипівка",
-"PostCode": "28323",
-"Location": {
-"Latitude": 48.6492,
-"Longitude": 32.5917
-}
-},
-{
 "Name": "Іванівка",
 "PostCode": "28321",
 "Location": {
@@ -93115,6 +93107,14 @@
 "Location": {
 "Latitude": 48.8864,
 "Longitude": 28.3383
+}
+},
+{
+"Name": "Йосипівка",
+"PostCode": "28323",
+"Location": {
+"Latitude": 48.6492,
+"Longitude": 32.5917
 }
 },
 {
@@ -93222,19 +93222,19 @@
 }
 },
 {
-"Name": "Олександродар",
-"PostCode": "28302",
-"Location": {
-"Latitude": 48.709,
-"Longitude": 34.5012
-}
-},
-{
 "Name": "Олександро-Мар'ївка",
 "PostCode": "28324",
 "Location": {
 "Latitude": 48.6492,
 "Longitude": 32.5917
+}
+},
+{
+"Name": "Олександродар",
+"PostCode": "28302",
+"Location": {
+"Latitude": 48.709,
+"Longitude": 34.5012
 }
 },
 {
@@ -96854,19 +96854,19 @@
 }
 },
 {
-"Name": "Лукаші",
-"PostCode": "07513",
-"Location": {
-"Latitude": 50.461,
-"Longitude": 31.4399
-}
-},
-{
 "Name": "Лук'янівка",
 "PostCode": "07511",
 "Location": {
 "Latitude": 50.4798,
 "Longitude": 31.3466
+}
+},
+{
+"Name": "Лукаші",
+"PostCode": "07513",
+"Location": {
+"Latitude": 50.461,
+"Longitude": 31.4399
 }
 },
 {
@@ -99503,14 +99503,6 @@
 }
 },
 {
-"Name": "Переяславське",
-"PostCode": "08420",
-"Location": {
-"Latitude": 50.2579,
-"Longitude": 31.6595
-}
-},
-{
 "Name": "Переяслав-Хмельницький",
 "PostCode": "08400",
 "Location": {
@@ -99548,6 +99540,14 @@
 "Location": {
 "Latitude": 50.0674,
 "Longitude": 31.4497
+}
+},
+{
+"Name": "Переяславське",
+"PostCode": "08420",
+"Location": {
+"Latitude": 50.2579,
+"Longitude": 31.6595
 }
 },
 {
@@ -100593,19 +100593,19 @@
 }
 },
 {
-"Name": "Мархалівка",
-"PostCode": "08633",
-"Location": {
-"Latitude": 50.2718,
-"Longitude": 30.371
-}
-},
-{
 "Name": "Мар'янівка",
 "PostCode": "08650",
 "Location": {
 "Latitude": 49.7089,
 "Longitude": 33.5987
+}
+},
+{
+"Name": "Мархалівка",
+"PostCode": "08633",
+"Location": {
+"Latitude": 50.2718,
+"Longitude": 30.371
 }
 },
 {
@@ -101475,6 +101475,14 @@
 }
 },
 {
+"Name": "П'ятихатки",
+"PostCode": "08827",
+"Location": {
+"Latitude": 50.0395,
+"Longitude": 30.5228
+}
+},
+{
 "Name": "Пії",
 "PostCode": "08811",
 "Location": {
@@ -101504,14 +101512,6 @@
 "Location": {
 "Latitude": 49.2289,
 "Longitude": 33.4599
-}
-},
-{
-"Name": "П'ятихатки",
-"PostCode": "08827",
-"Location": {
-"Latitude": 50.0395,
-"Longitude": 30.5228
 }
 },
 {
@@ -102245,16 +102245,16 @@
 }
 },
 {
-"Name": "Йосипівка",
-"PostCode": "09142",
+"Name": "Іванівка",
+"PostCode": "09145",
 "Location": {
 "Latitude": 49.3543,
 "Longitude": 31.9085
 }
 },
 {
-"Name": "Іванівка",
-"PostCode": "09145",
+"Name": "Йосипівка",
+"PostCode": "09142",
 "Location": {
 "Latitude": 49.3543,
 "Longitude": 31.9085
@@ -103770,16 +103770,16 @@
 }
 },
 {
-"Name": "Лука",
-"PostCode": "09544",
+"Name": "Лук'янівка",
+"PostCode": "09540",
 "Location": {
 "Latitude": 50.0302,
 "Longitude": 30.6269
 }
 },
 {
-"Name": "Лук'янівка",
-"PostCode": "09540",
+"Name": "Лука",
+"PostCode": "09544",
 "Location": {
 "Latitude": 50.0302,
 "Longitude": 30.6269
@@ -104621,19 +104621,19 @@
 }
 },
 {
-"Name": "Погреби",
-"PostCode": "09817",
-"Location": {
-"Latitude": 50.6194,
-"Longitude": 31.9662
-}
-},
-{
 "Name": "П'ятигори",
 "PostCode": "09841",
 "Location": {
 "Latitude": 50.5279,
 "Longitude": 26.1651
+}
+},
+{
+"Name": "Погреби",
+"PostCode": "09817",
+"Location": {
+"Latitude": 50.6194,
+"Longitude": 31.9662
 }
 },
 {
@@ -108457,6 +108457,14 @@
 }
 },
 {
+"Name": "М'ясожарівка",
+"PostCode": "92668",
+"Location": {
+"Latitude": 48.6487,
+"Longitude": 37.3485
+}
+},
+{
 "Name": "Маньківка",
 "PostCode": "92640",
 "Location": {
@@ -108478,14 +108486,6 @@
 "Location": {
 "Latitude": 52.0092,
 "Longitude": 32.0482
-}
-},
-{
-"Name": "М'ясожарівка",
-"PostCode": "92668",
-"Location": {
-"Latitude": 48.6487,
-"Longitude": 37.3485
 }
 },
 {
@@ -113270,6 +113270,14 @@
 }
 },
 {
+"Name": "В'язова",
+"PostCode": "80344",
+"Location": {
+"Latitude": 49.1471,
+"Longitude": 24.6063
+}
+},
+{
 "Name": "Велике Передмістя",
 "PostCode": "80327",
 "Location": {
@@ -113371,14 +113379,6 @@
 "Location": {
 "Latitude": 49.9718,
 "Longitude": 25.4907
-}
-},
-{
-"Name": "В'язова",
-"PostCode": "80344",
-"Location": {
-"Latitude": 49.1471,
-"Longitude": 24.6063
 }
 },
 {
@@ -116417,19 +116417,19 @@
 }
 },
 {
-"Name": "Підгірці",
-"PostCode": "80660",
-"Location": {
-"Latitude": 49.9461,
-"Longitude": 24.9795
-}
-},
-{
 "Name": "Підгір'я",
 "PostCode": "80676",
 "Location": {
 "Latitude": 49.9632,
 "Longitude": 24.8508
+}
+},
+{
+"Name": "Підгірці",
+"PostCode": "80660",
+"Location": {
+"Latitude": 49.9461,
+"Longitude": 24.9795
 }
 },
 {
@@ -119997,6 +119997,14 @@
 }
 },
 {
+"Name": "Під'ярків",
+"PostCode": "81268",
+"Location": {
+"Latitude": 49.6007,
+"Longitude": 24.7646
+}
+},
+{
 "Name": "Підвисоке",
 "PostCode": "81265",
 "Location": {
@@ -120023,14 +120031,6 @@
 {
 "Name": "Підсмереки",
 "PostCode": "81267",
-"Location": {
-"Latitude": 49.6007,
-"Longitude": 24.7646
-}
-},
-{
-"Name": "Під'ярків",
-"PostCode": "81268",
 "Location": {
 "Latitude": 49.6007,
 "Longitude": 24.7646
@@ -120518,6 +120518,14 @@
 }
 },
 {
+"Name": "Зав'язанці",
+"PostCode": "81384",
+"Location": {
+"Latitude": 49.3164,
+"Longitude": 23.0225
+}
+},
+{
 "Name": "Завада",
 "PostCode": "81333",
 "Location": {
@@ -120539,14 +120547,6 @@
 "Location": {
 "Latitude": 49.551,
 "Longitude": 24.7826
-}
-},
-{
-"Name": "Зав'язанці",
-"PostCode": "81384",
-"Location": {
-"Latitude": 49.3164,
-"Longitude": 23.0225
 }
 },
 {
@@ -121863,6 +121863,14 @@
 }
 },
 {
+"Name": "П'яновичі",
+"PostCode": "81450",
+"Location": {
+"Latitude": 49.5746,
+"Longitude": 23.202
+}
+},
+{
 "Name": "Пиняни",
 "PostCode": "81456",
 "Location": {
@@ -121892,14 +121900,6 @@
 "Location": {
 "Latitude": 49.5765,
 "Longitude": 23.5808
-}
-},
-{
-"Name": "П'яновичі",
-"PostCode": "81450",
-"Location": {
-"Latitude": 49.5746,
-"Longitude": 23.202
 }
 },
 {
@@ -123426,22 +123426,6 @@
 }
 },
 {
-"Name": "Демидів",
-"PostCode": "81767",
-"Location": {
-"Latitude": 49.3711,
-"Longitude": 24.2555
-}
-},
-{
-"Name": "Демівка",
-"PostCode": "81796",
-"Location": {
-"Latitude": 49.1833,
-"Longitude": 24.1333
-}
-},
-{
 "Name": "Дем'янка-Лісна",
 "PostCode": "81731",
 "Location": {
@@ -123455,6 +123439,22 @@
 "Location": {
 "Latitude": 49.4306,
 "Longitude": 24.0814
+}
+},
+{
+"Name": "Демидів",
+"PostCode": "81767",
+"Location": {
+"Latitude": 49.3711,
+"Longitude": 24.2555
+}
+},
+{
+"Name": "Демівка",
+"PostCode": "81796",
+"Location": {
+"Latitude": 49.1833,
+"Longitude": 24.1333
 }
 },
 {
@@ -123890,6 +123890,14 @@
 }
 },
 {
+"Name": "П'ятничани (Соколівка)",
+"PostCode": "81789",
+"Location": {
+"Latitude": 49.3193,
+"Longitude": 24.2629
+}
+},
+{
 "Name": "Піддністряни",
 "PostCode": "81722",
 "Location": {
@@ -123943,14 +123951,6 @@
 "Location": {
 "Latitude": 49.3532,
 "Longitude": 24.0305
-}
-},
-{
-"Name": "П'ятничани (Соколівка)",
-"PostCode": "81789",
-"Location": {
-"Latitude": 49.3193,
-"Longitude": 24.2629
 }
 },
 {
@@ -124667,6 +124667,14 @@
 }
 },
 {
+"Name": "П'ятниця",
+"PostCode": "82047",
+"Location": {
+"Latitude": 49.5625,
+"Longitude": 22.8216
+}
+},
+{
 "Name": "Павлівка",
 "PostCode": "82056",
 "Location": {
@@ -124736,14 +124744,6 @@
 "Location": {
 "Latitude": 49.3743,
 "Longitude": 22.8365
-}
-},
-{
-"Name": "П'ятниця",
-"PostCode": "82047",
-"Location": {
-"Latitude": 49.5625,
-"Longitude": 22.8216
 }
 },
 {
@@ -125260,7 +125260,7 @@
 }
 },
 {
-"Name": "Довге (Довжанська)",
+"Name": "Довге (Довжанська-Гірська)",
 "PostCode": "82196",
 "Location": {
 "Latitude": 49.2482,
@@ -125268,7 +125268,7 @@
 }
 },
 {
-"Name": "Довге (Довжанська-Гірська)",
+"Name": "Довге (Довжанська)",
 "PostCode": "82196",
 "Location": {
 "Latitude": 49.2482,
@@ -126199,6 +126199,14 @@
 }
 },
 {
+"Name": "П'ятничани",
+"PostCode": "82423",
+"Location": {
+"Latitude": 49.3678,
+"Longitude": 23.9397
+}
+},
+{
 "Name": "Пила",
 "PostCode": "82475",
 "Location": {
@@ -126236,14 +126244,6 @@
 "Location": {
 "Latitude": 49.3251,
 "Longitude": 23.9286
-}
-},
-{
-"Name": "П'ятничани",
-"PostCode": "82423",
-"Location": {
-"Latitude": 49.3678,
-"Longitude": 23.9397
 }
 },
 {
@@ -128981,6 +128981,14 @@
 }
 },
 {
+"Name": "П'ятихатки (Кам'яно-Костуватська)",
+"PostCode": "55446",
+"Location": {
+"Latitude": 47.8621,
+"Longitude": 31.4887
+}
+},
+{
 "Name": "Павлодарівка (Миколаївська)",
 "PostCode": "55447",
 "Location": {
@@ -129015,14 +129023,6 @@
 {
 "Name": "Прищепівка (Кам'яно-Костуватська)",
 "PostCode": "55451",
-"Location": {
-"Latitude": 47.8621,
-"Longitude": 31.4887
-}
-},
-{
-"Name": "П'ятихатки (Кам'яно-Костуватська)",
-"PostCode": "55446",
 "Location": {
 "Latitude": 47.8621,
 "Longitude": 31.4887
@@ -129447,7 +129447,7 @@
 }
 },
 {
-"Name": "Білоцерківка (Новоюр ївська)",
+"Name": "Білоцерківка (Новоюр\"ївська)",
 "PostCode": "55663",
 "Location": {
 "Latitude": 47.4381,
@@ -129591,7 +129591,7 @@
 }
 },
 {
-"Name": "Максимівка (Новоюр ївська)",
+"Name": "Максимівка (Новоюр\"ївська)",
 "PostCode": "55641",
 "Location": {
 "Latitude": 47.3862,
@@ -129671,7 +129671,7 @@
 }
 },
 {
-"Name": "Новокостянтинівка (Новоюр ївська)",
+"Name": "Новокостянтинівка (Новоюр\"ївська)",
 "PostCode": "55646",
 "Location": {
 "Latitude": 47.3862,
@@ -130288,7 +130288,7 @@
 }
 },
 {
-"Name": "Новочудневе (Червонознам янська)",
+"Name": "Новочудневе (Червонознам\"янська)",
 "PostCode": "56053",
 "Location": {
 "Latitude": 47.2695,
@@ -130312,7 +130312,7 @@
 }
 },
 {
-"Name": "Панасівка (Червонознам янська)",
+"Name": "Панасівка (Червонознам\"янська)",
 "PostCode": "56056",
 "Location": {
 "Latitude": 47.2695,
@@ -130673,7 +130673,7 @@
 }
 },
 {
-"Name": "Мар'ївка (Мар ївська)",
+"Name": "Мар'ївка (Мар\"ївська)",
 "PostCode": "56174",
 "Location": {
 "Latitude": 47.4072,
@@ -130697,7 +130697,7 @@
 }
 },
 {
-"Name": "Нове Життя (Мар ївська)",
+"Name": "Нове Життя (Мар\"ївська)",
 "PostCode": "56128",
 "Location": {
 "Latitude": 47.4072,
@@ -130745,7 +130745,7 @@
 }
 },
 {
-"Name": "Новомар'ївка (Мар ївська)",
+"Name": "Новомар'ївка (Мар\"ївська)",
 "PostCode": "56133",
 "Location": {
 "Latitude": 47.4072,
@@ -131395,16 +131395,16 @@
 }
 },
 {
-"Name": "Йосипівка (Гуляницька)",
-"PostCode": "56325",
+"Name": "Іванівка (Іванівська)",
+"PostCode": "56330",
 "Location": {
 "Latitude": 47.6225,
 "Longitude": 32.2193
 }
 },
 {
-"Name": "Іванівка (Іванівська)",
-"PostCode": "56330",
+"Name": "Йосипівка (Гуляницька)",
+"PostCode": "56325",
 "Location": {
 "Latitude": 47.6225,
 "Longitude": 32.2193
@@ -131876,16 +131876,16 @@
 }
 },
 {
-"Name": "Маринівка (Маринівська)",
-"PostCode": "56425",
+"Name": "Мар'ївка (Богданівська)",
+"PostCode": "56442",
 "Location": {
 "Latitude": 47.6225,
 "Longitude": 32.2193
 }
 },
 {
-"Name": "Мар'ївка (Богданівська)",
-"PostCode": "56442",
+"Name": "Маринівка (Маринівська)",
+"PostCode": "56425",
 "Location": {
 "Latitude": 47.6225,
 "Longitude": 32.2193
@@ -132830,7 +132830,7 @@
 }
 },
 {
-"Name": "Піски (Гур ївська)",
+"Name": "Піски (Гур\"ївська)",
 "PostCode": "56662",
 "Location": {
 "Latitude": 46.988,
@@ -132927,7 +132927,7 @@
 }
 },
 {
-"Name": "Бузоварове (Луб янська)",
+"Name": "Бузоварове (Луб\"янська)",
 "PostCode": "57010",
 "Location": {
 "Latitude": 47.0593,
@@ -133031,7 +133031,7 @@
 }
 },
 {
-"Name": "Іванівка (Луб янська)",
+"Name": "Іванівка (Луб\"янська)",
 "PostCode": "57018",
 "Location": {
 "Latitude": 47.0593,
@@ -133039,7 +133039,7 @@
 }
 },
 {
-"Name": "Калинівка (Луб янська)",
+"Name": "Калинівка (Луб\"янська)",
 "PostCode": "57021",
 "Location": {
 "Latitude": 47.0593,
@@ -133199,7 +133199,7 @@
 }
 },
 {
-"Name": "Петрівка (Луб янська)",
+"Name": "Петрівка (Луб\"янська)",
 "PostCode": "57044",
 "Location": {
 "Latitude": 47.0593,
@@ -133247,7 +133247,7 @@
 }
 },
 {
-"Name": "Райдолина (Луб янська)",
+"Name": "Райдолина (Луб\"янська)",
 "PostCode": "57048",
 "Location": {
 "Latitude": 47.0593,
@@ -133592,6 +133592,14 @@
 }
 },
 {
+"Name": "П'ятихатки (Нечаянська)",
+"PostCode": "57133",
+"Location": {
+"Latitude": 46.9695,
+"Longitude": 30.9591
+}
+},
+{
 "Name": "Петрівка",
 "PostCode": "57135",
 "Location": {
@@ -133618,14 +133626,6 @@
 {
 "Name": "Половинки (Кривобалківська)",
 "PostCode": "57139",
-"Location": {
-"Latitude": 46.9695,
-"Longitude": 30.9591
-}
-},
-{
-"Name": "П'ятихатки (Нечаянська)",
-"PostCode": "57133",
 "Location": {
 "Latitude": 46.9695,
 "Longitude": 30.9591
@@ -138310,16 +138310,16 @@
 }
 },
 {
-"Name": "Йосипівка (Йосипівська сільська рада)",
-"PostCode": "66731",
+"Name": "Іванівка (Торосівська сільська рада)",
+"PostCode": "66752",
 "Location": {
 "Latitude": 47.8314,
 "Longitude": 29.8914
 }
 },
 {
-"Name": "Іванівка (Торосівська сільська рада)",
-"PostCode": "66752",
+"Name": "Йосипівка (Йосипівська сільська рада)",
+"PostCode": "66731",
 "Location": {
 "Latitude": 47.8314,
 "Longitude": 29.8914
@@ -138823,16 +138823,16 @@
 }
 },
 {
-"Name": "Маркевичеве (Катерино - Платонівська сільська рада)",
-"PostCode": "66862",
+"Name": "Мар'янівка (Мар'янівська сільська рада)",
+"PostCode": "66814",
 "Location": {
 "Latitude": 47.1652,
 "Longitude": 30.9564
 }
 },
 {
-"Name": "Мар'янівка (Мар'янівська сільська рада)",
-"PostCode": "66814",
+"Name": "Маркевичеве (Катерино - Платонівська сільська рада)",
+"PostCode": "66862",
 "Location": {
 "Latitude": 47.1652,
 "Longitude": 30.9564
@@ -139320,16 +139320,16 @@
 }
 },
 {
-"Name": "Мартинівка (Стрюківська сільська рада)",
-"PostCode": "67046",
+"Name": "Мар'янівка",
+"PostCode": "67034",
 "Location": {
 "Latitude": 46.6178,
 "Longitude": 30.6172
 }
 },
 {
-"Name": "Мар'янівка",
-"PostCode": "67034",
+"Name": "Мартинівка (Стрюківська сільська рада)",
+"PostCode": "67046",
 "Location": {
 "Latitude": 46.6178,
 "Longitude": 30.6172
@@ -139641,16 +139641,16 @@
 }
 },
 {
-"Name": "Воробйове (Вородіївська сільська рада)",
-"PostCode": "67138",
+"Name": "Воробіївка (Вородіївська сільська рада)",
+"PostCode": "67133",
 "Location": {
 "Latitude": 47.0509,
 "Longitude": 29.8177
 }
 },
 {
-"Name": "Воробіївка (Вородіївська сільська рада)",
-"PostCode": "67133",
+"Name": "Воробйове (Вородіївська сільська рада)",
+"PostCode": "67138",
 "Location": {
 "Latitude": 47.0509,
 "Longitude": 29.8177
@@ -140819,16 +140819,16 @@
 }
 },
 {
-"Name": "Маринове (Маринівська сільська рада)",
-"PostCode": "67333",
+"Name": "Мар'янівка (Гуляївська сільська рада)",
+"PostCode": "67345",
 "Location": {
 "Latitude": 47.2043,
 "Longitude": 30.9078
 }
 },
 {
-"Name": "Мар'янівка (Гуляївська сільська рада)",
-"PostCode": "67345",
+"Name": "Маринове (Маринівська сільська рада)",
+"PostCode": "67333",
 "Location": {
 "Latitude": 47.2043,
 "Longitude": 30.9078
@@ -144307,19 +144307,19 @@
 }
 },
 {
-"Name": "Надежда (Надеждинська сільська рада)",
-"PostCode": "68220",
-"Location": {
-"Latitude": 46.1166,
-"Longitude": 29.6529
-}
-},
-{
 "Name": "Над'ярне (Кривобалківська сільська рада)",
 "PostCode": "68246",
 "Location": {
 "Latitude": 46.0681,
 "Longitude": 29.6593
+}
+},
+{
+"Name": "Надежда (Надеждинська сільська рада)",
+"PostCode": "68220",
+"Location": {
+"Latitude": 46.1166,
+"Longitude": 29.6529
 }
 },
 {
@@ -148622,6 +148622,14 @@
 }
 },
 {
+"Name": "В'язівок",
+"PostCode": "37571",
+"Location": {
+"Latitude": 50.0031,
+"Longitude": 33.0149
+}
+},
+{
 "Name": "Величківка",
 "PostCode": "37518",
 "Location": {
@@ -148683,14 +148691,6 @@
 "Location": {
 "Latitude": 49.9619,
 "Longitude": 33.0679
-}
-},
-{
-"Name": "В'язівок",
-"PostCode": "37571",
-"Location": {
-"Latitude": 50.0031,
-"Longitude": 33.0149
 }
 },
 {
@@ -149030,6 +149030,14 @@
 }
 },
 {
+"Name": "П'ятигірці",
+"PostCode": "37567",
+"Location": {
+"Latitude": 49.9349,
+"Longitude": 32.8421
+}
+},
+{
 "Name": "Пишне",
 "PostCode": "37565",
 "Location": {
@@ -149059,14 +149067,6 @@
 "Location": {
 "Latitude": 49.961,
 "Longitude": 32.8191
-}
-},
-{
-"Name": "П'ятигірці",
-"PostCode": "37567",
-"Location": {
-"Latitude": 49.9349,
-"Longitude": 32.8421
 }
 },
 {
@@ -150609,6 +150609,14 @@
 }
 },
 {
+"Name": "В'язівок",
+"PostCode": "37816",
+"Location": {
+"Latitude": 49.7166,
+"Longitude": 33.0726
+}
+},
+{
 "Name": "Ванжина Долина",
 "PostCode": "37813",
 "Location": {
@@ -150654,14 +150662,6 @@
 "Location": {
 "Latitude": 49.7609,
 "Longitude": 33.3098
-}
-},
-{
-"Name": "В'язівок",
-"PostCode": "37816",
-"Location": {
-"Latitude": 49.7166,
-"Longitude": 33.0726
 }
 },
 {
@@ -152179,14 +152179,6 @@
 }
 },
 {
-"Name": "Дубівка",
-"PostCode": "38146",
-"Location": {
-"Latitude": 50.2069,
-"Longitude": 34.4742
-}
-},
-{
 "Name": "Дуб'яги",
 "PostCode": "38147",
 "Location": {
@@ -152203,19 +152195,19 @@
 }
 },
 {
+"Name": "Дубівка",
+"PostCode": "38146",
+"Location": {
+"Latitude": 50.2069,
+"Longitude": 34.4742
+}
+},
+{
 "Name": "Загрунівка",
 "PostCode": "38133",
 "Location": {
 "Latitude": 50.0988,
 "Longitude": 34.1331
-}
-},
-{
-"Name": "Зайці",
-"PostCode": "38149",
-"Location": {
-"Latitude": 50.3012,
-"Longitude": 34.3215
 }
 },
 {
@@ -152232,6 +152224,14 @@
 "Location": {
 "Latitude": 49.9881,
 "Longitude": 34.5549
+}
+},
+{
+"Name": "Зайці",
+"PostCode": "38149",
+"Location": {
+"Latitude": 50.3012,
+"Longitude": 34.3215
 }
 },
 {
@@ -154078,19 +154078,19 @@
 }
 },
 {
-"Name": "Демидівка",
-"PostCode": "38440",
-"Location": {
-"Latitude": 49.5651,
-"Longitude": 34.1794
-}
-},
-{
 "Name": "Дем'янці",
 "PostCode": "38418",
 "Location": {
 "Latitude": 49.6908,
 "Longitude": 34.0344
+}
+},
+{
+"Name": "Демидівка",
+"PostCode": "38440",
+"Location": {
+"Latitude": 49.5651,
+"Longitude": 34.1794
 }
 },
 {
@@ -154254,6 +154254,14 @@
 }
 },
 {
+"Name": "М'якеньківка",
+"PostCode": "38433",
+"Location": {
+"Latitude": 49.5689,
+"Longitude": 33.9801
+}
+},
+{
 "Name": "Малий Бакай",
 "PostCode": "38423",
 "Location": {
@@ -154299,14 +154307,6 @@
 "Location": {
 "Latitude": 49.6168,
 "Longitude": 33.8748
-}
-},
-{
-"Name": "М'якеньківка",
-"PostCode": "38433",
-"Location": {
-"Latitude": 49.5689,
-"Longitude": 33.9801
 }
 },
 {
@@ -157868,6 +157868,14 @@
 }
 },
 {
+"Name": "В'язівка",
+"PostCode": "39118",
+"Location": {
+"Latitude": 49.3114,
+"Longitude": 33.8071
+}
+},
+{
 "Name": "Василівка",
 "PostCode": "39123",
 "Location": {
@@ -157929,14 +157937,6 @@
 "Location": {
 "Latitude": 49.3512,
 "Longitude": 33.782
-}
-},
-{
-"Name": "В'язівка",
-"PostCode": "39118",
-"Location": {
-"Latitude": 49.3114,
-"Longitude": 33.8071
 }
 },
 {
@@ -160416,19 +160416,19 @@
 }
 },
 {
-"Name": "Мартинівка",
-"PostCode": "39520",
-"Location": {
-"Latitude": 48.989,
-"Longitude": 34.3028
-}
-},
-{
 "Name": "Мар'янівка",
 "PostCode": "39522",
 "Location": {
 "Latitude": 49.4077,
 "Longitude": 35.0448
+}
+},
+{
+"Name": "Мартинівка",
+"PostCode": "39520",
+"Location": {
+"Latitude": 48.989,
+"Longitude": 34.3028
 }
 },
 {
@@ -161041,6 +161041,14 @@
 }
 },
 {
+"Name": "П'ятихатки",
+"PostCode": "39749",
+"Location": {
+"Latitude": 49.2146,
+"Longitude": 33.6671
+}
+},
+{
 "Name": "Панівка",
 "PostCode": "39742",
 "Location": {
@@ -161126,14 +161134,6 @@
 "Location": {
 "Latitude": 49.1371,
 "Longitude": 33.3299
-}
-},
-{
-"Name": "П'ятихатки",
-"PostCode": "39749",
-"Location": {
-"Latitude": 49.2146,
-"Longitude": 33.6671
 }
 },
 {
@@ -165787,6 +165787,14 @@
 }
 },
 {
+"Name": "П'яннє",
+"PostCode": "35186",
+"Location": {
+"Latitude": 50.5778,
+"Longitude": 25.6174
+}
+},
+{
 "Name": "Певжа",
 "PostCode": "35111",
 "Location": {
@@ -165888,14 +165896,6 @@
 "Location": {
 "Latitude": 50.5666,
 "Longitude": 25.6218
-}
-},
-{
-"Name": "П'яннє",
-"PostCode": "35186",
-"Location": {
-"Latitude": 50.5778,
-"Longitude": 25.6174
 }
 },
 {
@@ -167374,6 +167374,14 @@
 }
 },
 {
+"Name": "М'ятин",
+"PostCode": "35419",
+"Location": {
+"Latitude": 50.7041,
+"Longitude": 26.6617
+}
+},
+{
 "Name": "Майків",
 "PostCode": "35453",
 "Location": {
@@ -167435,14 +167443,6 @@
 "Location": {
 "Latitude": 50.6999,
 "Longitude": 26.7326
-}
-},
-{
-"Name": "М'ятин",
-"PostCode": "35419",
-"Location": {
-"Latitude": 50.7041,
-"Longitude": 26.6617
 }
 },
 {
@@ -167751,6 +167751,14 @@
 }
 },
 {
+"Name": "Гаї-Лев'ятинські",
+"PostCode": "35574",
+"Location": {
+"Latitude": 50.5145,
+"Longitude": 25.7744
+}
+},
+{
 "Name": "Гай",
 "PostCode": "35556",
 "Location": {
@@ -167772,14 +167780,6 @@
 "Location": {
 "Latitude": 50.4139,
 "Longitude": 25.996
-}
-},
-{
-"Name": "Гаї-Лев'ятинські",
-"PostCode": "35574",
-"Location": {
-"Latitude": 50.5145,
-"Longitude": 25.7744
 }
 },
 {
@@ -169080,19 +169080,19 @@
 }
 },
 {
-"Name": "Турковичі",
-"PostCode": "35656",
-"Location": {
-"Latitude": 50.3307,
-"Longitude": 25.648
-}
-},
-{
 "Name": "Тур'я",
 "PostCode": "35683",
 "Location": {
 "Latitude": 50.412,
 "Longitude": 26.4103
+}
+},
+{
+"Name": "Турковичі",
+"PostCode": "35656",
+"Location": {
+"Latitude": 50.3307,
+"Longitude": 25.648
 }
 },
 {
@@ -169305,14 +169305,6 @@
 }
 },
 {
-"Name": "Йосипівка",
-"PostCode": "35748",
-"Location": {
-"Latitude": 50.4177,
-"Longitude": 26.2395
-}
-},
-{
 "Name": "Івачків",
 "PostCode": "35722",
 "Location": {
@@ -169326,6 +169318,14 @@
 "Location": {
 "Latitude": 50.5333,
 "Longitude": 26.2167
+}
+},
+{
+"Name": "Йосипівка",
+"PostCode": "35748",
+"Location": {
+"Latitude": 50.4177,
+"Longitude": 26.2395
 }
 },
 {
@@ -169473,6 +169473,14 @@
 }
 },
 {
+"Name": "П'ятигори",
+"PostCode": "35764",
+"Location": {
+"Latitude": 50.5279,
+"Longitude": 26.1651
+}
+},
+{
 "Name": "Півче",
 "PostCode": "35743",
 "Location": {
@@ -169494,14 +169502,6 @@
 "Location": {
 "Latitude": 50.4844,
 "Longitude": 26.1092
-}
-},
-{
-"Name": "П'ятигори",
-"PostCode": "35764",
-"Location": {
-"Latitude": 50.5279,
-"Longitude": 26.1651
 }
 },
 {
@@ -173016,6 +173016,22 @@
 }
 },
 {
+"Name": "В'язенка",
+"PostCode": "41512",
+"Location": {
+"Latitude": 51.4309,
+"Longitude": 33.9111
+}
+},
+{
+"Name": "В'ятка",
+"PostCode": "41512",
+"Location": {
+"Latitude": 51.4588,
+"Longitude": 33.9692
+}
+},
+{
 "Name": "Вегерівка",
 "PostCode": "41512",
 "Location": {
@@ -173069,22 +173085,6 @@
 "Location": {
 "Latitude": 51.4286,
 "Longitude": 34.0614
-}
-},
-{
-"Name": "В'язенка",
-"PostCode": "41512",
-"Location": {
-"Latitude": 51.4309,
-"Longitude": 33.9111
-}
-},
-{
-"Name": "В'ятка",
-"PostCode": "41512",
-"Location": {
-"Latitude": 51.4588,
-"Longitude": 33.9692
 }
 },
 {
@@ -173793,6 +173793,14 @@
 }
 },
 {
+"Name": "В'язове",
+"PostCode": "41650",
+"Location": {
+"Latitude": 51.2204,
+"Longitude": 33.3802
+}
+},
+{
 "Name": "Великий Самбір",
 "PostCode": "41664",
 "Location": {
@@ -173830,14 +173838,6 @@
 "Location": {
 "Latitude": 51.353,
 "Longitude": 33.4656
-}
-},
-{
-"Name": "В'язове",
-"PostCode": "41650",
-"Location": {
-"Latitude": 51.2204,
-"Longitude": 33.3802
 }
 },
 {
@@ -175347,19 +175347,19 @@
 }
 },
 {
-"Name": "Йосипове",
-"PostCode": "41860",
-"Location": {
-"Latitude": 51.0311,
-"Longitude": 34.1369
-}
-},
-{
 "Name": "Іскрисківщина",
 "PostCode": "41821",
 "Location": {
 "Latitude": 51.2388,
 "Longitude": 34.3839
+}
+},
+{
+"Name": "Йосипове",
+"PostCode": "41860",
+"Location": {
+"Latitude": 51.0311,
+"Longitude": 34.1369
 }
 },
 {
@@ -175507,19 +175507,19 @@
 }
 },
 {
-"Name": "Марківка",
-"PostCode": "41875",
-"Location": {
-"Latitude": 50.869,
-"Longitude": 34.4039
-}
-},
-{
 "Name": "Мар'янівка",
 "PostCode": "41830",
 "Location": {
 "Latitude": 51.1658,
 "Longitude": 34.4303
+}
+},
+{
+"Name": "Марківка",
+"PostCode": "41875",
+"Location": {
+"Latitude": 50.869,
+"Longitude": 34.4039
 }
 },
 {
@@ -176140,6 +176140,14 @@
 }
 },
 {
+"Name": "В'юнне",
+"PostCode": "42050",
+"Location": {
+"Latitude": 50.8275,
+"Longitude": 33.3683
+}
+},
+{
 "Name": "Василівка",
 "PostCode": "42077",
 "Location": {
@@ -176225,14 +176233,6 @@
 "Location": {
 "Latitude": 50.8217,
 "Longitude": 33.6357
-}
-},
-{
-"Name": "В'юнне",
-"PostCode": "42050",
-"Location": {
-"Latitude": 50.8275,
-"Longitude": 33.3683
 }
 },
 {
@@ -177629,6 +177629,14 @@
 }
 },
 {
+"Name": "П'ятидуб",
+"PostCode": "42126",
+"Location": {
+"Latitude": 50.8179,
+"Longitude": 34.1214
+}
+},
+{
 "Name": "Перекір",
 "PostCode": "42140",
 "Location": {
@@ -177658,14 +177666,6 @@
 "Location": {
 "Latitude": 50.7899,
 "Longitude": 33.9762
-}
-},
-{
-"Name": "П'ятидуб",
-"PostCode": "42126",
-"Location": {
-"Latitude": 50.8179,
-"Longitude": 34.1214
 }
 },
 {
@@ -179519,19 +179519,19 @@
 }
 },
 {
-"Name": "Надточієве",
-"PostCode": "42342",
-"Location": {
-"Latitude": 50.9047,
-"Longitude": 34.6657
-}
-},
-{
 "Name": "Над'ярне",
 "PostCode": "42302",
 "Location": {
 "Latitude": 51.0356,
 "Longitude": 34.5971
+}
+},
+{
+"Name": "Надточієве",
+"PostCode": "42342",
+"Location": {
+"Latitude": 50.9047,
+"Longitude": 34.6657
 }
 },
 {
@@ -181539,6 +181539,14 @@
 }
 },
 {
+"Name": "В'язове",
+"PostCode": "42736",
+"Location": {
+"Latitude": 50.2745,
+"Longitude": 34.6356
+}
+},
+{
 "Name": "Велике Озеро",
 "PostCode": "42700",
 "Location": {
@@ -181584,14 +181592,6 @@
 "Location": {
 "Latitude": 50.4193,
 "Longitude": 34.6342
-}
-},
-{
-"Name": "В'язове",
-"PostCode": "42736",
-"Location": {
-"Latitude": 50.2745,
-"Longitude": 34.6356
 }
 },
 {
@@ -182011,6 +182011,14 @@
 }
 },
 {
+"Name": "П'яткине (Грінченкове)",
+"PostCode": "42725",
+"Location": {
+"Latitude": 50.4193,
+"Longitude": 34.6342
+}
+},
+{
 "Name": "Пасіки (Олешня)",
 "PostCode": "42726",
 "Location": {
@@ -182096,14 +182104,6 @@
 "Location": {
 "Latitude": 50.3393,
 "Longitude": 34.8427
-}
-},
-{
-"Name": "П'яткине (Грінченкове)",
-"PostCode": "42725",
-"Location": {
-"Latitude": 50.4193,
-"Longitude": 34.6342
 }
 },
 {
@@ -184134,14 +184134,6 @@
 }
 },
 {
-"Name": "Йосипівка (Годівська сільська рада)",
-"PostCode": "47272",
-"Location": {
-"Latitude": 49.2504,
-"Longitude": 25.1432
-}
-},
-{
 "Name": "Іванківці (Малашовецька сільська рада)",
 "PostCode": "47251",
 "Location": {
@@ -184152,6 +184144,14 @@
 {
 "Name": "Івачів (Вовчківська сільська рада)",
 "PostCode": "47224",
+"Location": {
+"Latitude": 49.2504,
+"Longitude": 25.1432
+}
+},
+{
+"Name": "Йосипівка (Годівська сільська рада)",
+"PostCode": "47272",
 "Location": {
 "Latitude": 49.2504,
 "Longitude": 25.1432
@@ -185047,7 +185047,7 @@
 }
 },
 {
-"Name": "Новий Роговець (Вищелуб янська сільська рада)",
+"Name": "Новий Роговець (Вищелуб\"янська сільська рада)",
 "PostCode": "47362",
 "Location": {
 "Latitude": 49.2504,
@@ -186378,16 +186378,16 @@
 }
 },
 {
-"Name": "Йосипівка (Кривенська сільська рада)",
-"PostCode": "47690",
+"Name": "Ішків (Ішківська сільська рада)",
+"PostCode": "47663",
 "Location": {
 "Latitude": 49.2504,
 "Longitude": 25.1432
 }
 },
 {
-"Name": "Ішків (Ішківська сільська рада)",
-"PostCode": "47663",
+"Name": "Йосипівка (Кривенська сільська рада)",
+"PostCode": "47690",
 "Location": {
 "Latitude": 49.2504,
 "Longitude": 25.1432
@@ -186819,14 +186819,6 @@
 }
 },
 {
-"Name": "Йосипівка (Йосипівська сільська рада)",
-"PostCode": "47735",
-"Location": {
-"Latitude": 49.2504,
-"Longitude": 25.1432
-}
-},
-{
 "Name": "Івачів Горішній (Івачеводолішнівська сільська рада)",
 "PostCode": "47753",
 "Location": {
@@ -186845,6 +186837,14 @@
 {
 "Name": "Ігровиця (Ігровицька сільська рада)",
 "PostCode": "47701",
+"Location": {
+"Latitude": 49.2504,
+"Longitude": 25.1432
+}
+},
+{
+"Name": "Йосипівка (Йосипівська сільська рада)",
+"PostCode": "47735",
 "Location": {
 "Latitude": 49.2504,
 "Longitude": 25.1432
@@ -187340,7 +187340,7 @@
 }
 },
 {
-"Name": "Мовчанівка (Кам янківська сільська рада)",
+"Name": "Мовчанівка (Кам\"янківська сільська рада)",
 "PostCode": "47840",
 "Location": {
 "Latitude": 49.2504,
@@ -191476,7 +191476,7 @@
 }
 },
 {
-"Name": "Шишківці (Сков ятинська сільська рада)",
+"Name": "Шишківці (Сков\"ятинська сільська рада)",
 "PostCode": "48737",
 "Location": {
 "Latitude": 49.6419,
@@ -192101,19 +192101,19 @@
 }
 },
 {
-"Name": "Маркуші",
-"PostCode": "22030",
-"Location": {
-"Latitude": 49.6738,
-"Longitude": 28.0234
-}
-},
-{
 "Name": "Мар'янівка",
 "PostCode": "22010",
 "Location": {
 "Latitude": 49.702,
 "Longitude": 27.8732
+}
+},
+{
+"Name": "Маркуші",
+"PostCode": "22030",
+"Location": {
+"Latitude": 49.6738,
+"Longitude": 28.0234
 }
 },
 {
@@ -192639,19 +192639,19 @@
 }
 },
 {
-"Name": "Йосипівка",
-"PostCode": "22154",
-"Location": {
-"Latitude": 48.5194,
-"Longitude": 28.0693
-}
-},
-{
 "Name": "Іванківці",
 "PostCode": "22177",
 "Location": {
 "Latitude": 49.75,
 "Longitude": 28.85
+}
+},
+{
+"Name": "Йосипівка",
+"PostCode": "22154",
+"Location": {
+"Latitude": 48.5194,
+"Longitude": 28.0693
 }
 },
 {
@@ -195477,6 +195477,14 @@
 }
 },
 {
+"Name": "В'язовиця",
+"PostCode": "22728",
+"Location": {
+"Latitude": 49.6251,
+"Longitude": 28.2444
+}
+},
+{
 "Name": "Василівка",
 "PostCode": "22727",
 "Location": {
@@ -195506,14 +195514,6 @@
 "Location": {
 "Latitude": 49.3586,
 "Longitude": 29.0823
-}
-},
-{
-"Name": "В'язовиця",
-"PostCode": "22728",
-"Location": {
-"Latitude": 49.6251,
-"Longitude": 28.2444
 }
 },
 {
@@ -196911,14 +196911,6 @@
 }
 },
 {
-"Name": "Йосипівці",
-"PostCode": "23080",
-"Location": {
-"Latitude": 48.398,
-"Longitude": 30.5479
-}
-},
-{
 "Name": "Іванівці",
 "PostCode": "23013",
 "Location": {
@@ -196932,6 +196924,14 @@
 "Location": {
 "Latitude": 49.8036,
 "Longitude": 30.0021
+}
+},
+{
+"Name": "Йосипівці",
+"PostCode": "23080",
+"Location": {
+"Latitude": 48.398,
+"Longitude": 30.5479
 }
 },
 {
@@ -197079,19 +197079,19 @@
 }
 },
 {
-"Name": "Мартинівка",
-"PostCode": "23039",
-"Location": {
-"Latitude": 50.9985,
-"Longitude": 32.6174
-}
-},
-{
 "Name": "Мар'янівка",
 "PostCode": "23060",
 "Location": {
 "Latitude": 50.1537,
 "Longitude": 28.1253
+}
+},
+{
+"Name": "Мартинівка",
+"PostCode": "23039",
+"Location": {
+"Latitude": 50.9985,
+"Longitude": 32.6174
 }
 },
 {
@@ -202878,6 +202878,14 @@
 }
 },
 {
+"Name": "М'якохід",
+"PostCode": "24420",
+"Location": {
+"Latitude": 48.9481,
+"Longitude": 33.6449
+}
+},
+{
 "Name": "Мала Киріївка",
 "PostCode": "24457",
 "Location": {
@@ -202902,19 +202910,19 @@
 }
 },
 {
-"Name": "М'якохід",
-"PostCode": "24420",
-"Location": {
-"Latitude": 48.9481,
-"Longitude": 33.6449
-}
-},
-{
 "Name": "Осіївка",
 "PostCode": "24456",
 "Location": {
 "Latitude": 49.15,
 "Longitude": 27.4859
+}
+},
+{
+"Name": "П'ятківка",
+"PostCode": "24415",
+"Location": {
+"Latitude": 49.5253,
+"Longitude": 32.4767
 }
 },
 {
@@ -202931,14 +202939,6 @@
 "Location": {
 "Latitude": 50.3837,
 "Longitude": 29.3047
-}
-},
-{
-"Name": "П'ятківка",
-"PostCode": "24415",
-"Location": {
-"Latitude": 49.5253,
-"Longitude": 32.4767
 }
 },
 {
@@ -203897,6 +203897,14 @@
 }
 },
 {
+"Name": "П'ятихатка",
+"PostCode": "24705",
+"Location": {
+"Latitude": 48.1625,
+"Longitude": 28.8319
+}
+},
+{
 "Name": "Палійове",
 "PostCode": "24707",
 "Location": {
@@ -203918,14 +203926,6 @@
 "Location": {
 "Latitude": 48.6178,
 "Longitude": 29.3956
-}
-},
-{
-"Name": "П'ятихатка",
-"PostCode": "24705",
-"Location": {
-"Latitude": 48.1625,
-"Longitude": 28.8319
 }
 },
 {
@@ -204995,19 +204995,19 @@
 }
 },
 {
-"Name": "Підгір'я",
-"PostCode": "44123",
-"Location": {
-"Latitude": 51.8384,
-"Longitude": 24.8108
-}
-},
-{
 "Name": "Під'язівні",
 "PostCode": "44173",
 "Location": {
 "Latitude": 51.7152,
 "Longitude": 24.5775
+}
+},
+{
+"Name": "Підгір'я",
+"PostCode": "44123",
+"Location": {
+"Latitude": 51.8384,
+"Longitude": 24.8108
 }
 },
 {
@@ -205212,6 +205212,14 @@
 }
 },
 {
+"Name": "В'язівне",
+"PostCode": "44211",
+"Location": {
+"Latitude": 51.7694,
+"Longitude": 25.4379
+}
+},
+{
 "Name": "Велика Глуша",
 "PostCode": "44221",
 "Location": {
@@ -205249,14 +205257,6 @@
 "Location": {
 "Latitude": 51.6866,
 "Longitude": 25.492
-}
-},
-{
-"Name": "В'язівне",
-"PostCode": "44211",
-"Location": {
-"Latitude": 51.7694,
-"Longitude": 25.4379
 }
 },
 {
@@ -205356,6 +205356,14 @@
 }
 },
 {
+"Name": "Люб'язь",
+"PostCode": "44235",
+"Location": {
+"Latitude": 51.8425,
+"Longitude": 25.4723
+}
+},
+{
 "Name": "Любешів",
 "PostCode": "44201",
 "Location": {
@@ -205377,14 +205385,6 @@
 "Location": {
 "Latitude": 51.8687,
 "Longitude": 25.2893
-}
-},
-{
-"Name": "Люб'язь",
-"PostCode": "44235",
-"Location": {
-"Latitude": 51.8425,
-"Longitude": 25.4723
 }
 },
 {
@@ -208017,6 +208017,14 @@
 }
 },
 {
+"Name": "П'ятидні",
+"PostCode": "44730",
+"Location": {
+"Latitude": 50.8609,
+"Longitude": 24.2168
+}
+},
+{
 "Name": "Пархоменкове",
 "PostCode": "44769",
 "Location": {
@@ -208054,14 +208062,6 @@
 "Location": {
 "Latitude": 50.8528,
 "Longitude": 24.3787
-}
-},
-{
-"Name": "П'ятидні",
-"PostCode": "44730",
-"Location": {
-"Latitude": 50.8609,
-"Longitude": 24.2168
 }
 },
 {
@@ -211744,6 +211744,14 @@
 }
 },
 {
+"Name": "П'ятикори",
+"PostCode": "45537",
+"Location": {
+"Latitude": 50.7267,
+"Longitude": 24.6402
+}
+},
+{
 "Name": "Павловичі",
 "PostCode": "45511",
 "Location": {
@@ -211757,14 +211765,6 @@
 "Location": {
 "Latitude": 50.64,
 "Longitude": 24.7464
-}
-},
-{
-"Name": "П'ятикори",
-"PostCode": "45537",
-"Location": {
-"Latitude": 50.7267,
-"Longitude": 24.6402
 }
 },
 {
@@ -212946,6 +212946,14 @@
 }
 },
 {
+"Name": "Мар'янівка",
+"PostCode": "45744",
+"Location": {
+"Latitude": 50.4526,
+"Longitude": 24.8123
+}
+},
+{
 "Name": "Марковичі",
 "PostCode": "45787",
 "Location": {
@@ -212959,14 +212967,6 @@
 "Location": {
 "Latitude": 50.6158,
 "Longitude": 25.0188
-}
-},
-{
-"Name": "Мар'янівка",
-"PostCode": "45744",
-"Location": {
-"Latitude": 50.4526,
-"Longitude": 24.8123
 }
 },
 {
@@ -213988,7 +213988,7 @@
 }
 },
 {
-"Name": "Завбуч (Тур я Пасіка)",
+"Name": "Завбуч (Тур\"я Пасіка)",
 "PostCode": "89223",
 "Location": {
 "Latitude": 48.7273,
@@ -214068,7 +214068,7 @@
 }
 },
 {
-"Name": "Полянська Гута (Тур я Поляна)",
+"Name": "Полянська Гута (Тур\"я Поляна)",
 "PostCode": "89232",
 "Location": {
 "Latitude": 48.701,
@@ -214084,7 +214084,7 @@
 }
 },
 {
-"Name": "Раково (Тур я Пасіка)",
+"Name": "Раково (Тур\"я Пасіка)",
 "PostCode": "89223",
 "Location": {
 "Latitude": 48.7273,
@@ -214092,7 +214092,7 @@
 }
 },
 {
-"Name": "Свалявка (Тур я Бистра)",
+"Name": "Свалявка (Тур\"я Бистра)",
 "PostCode": "89231",
 "Location": {
 "Latitude": 48.6574,
@@ -214113,22 +214113,6 @@
 "Location": {
 "Latitude": 48.7585,
 "Longitude": 22.5775
-}
-},
-{
-"Name": "Туриця (Туриця)",
-"PostCode": "89222",
-"Location": {
-"Latitude": 48.7273,
-"Longitude": 22.6388
-}
-},
-{
-"Name": "Турички (Турички)",
-"PostCode": "89215",
-"Location": {
-"Latitude": 48.7583,
-"Longitude": 22.6885
 }
 },
 {
@@ -214161,6 +214145,22 @@
 "Location": {
 "Latitude": 48.6574,
 "Longitude": 22.8115
+}
+},
+{
+"Name": "Туриця (Туриця)",
+"PostCode": "89222",
+"Location": {
+"Latitude": 48.7273,
+"Longitude": 22.6388
+}
+},
+{
+"Name": "Турички (Турички)",
+"PostCode": "89215",
+"Location": {
+"Latitude": 48.7583,
+"Longitude": 22.6885
 }
 }
 ]
@@ -216116,7 +216116,7 @@
 }
 },
 {
-"Name": "Богаревиця (Кам янська сільська рада)",
+"Name": "Богаревиця (Кам\"янська сільська рада)",
 "PostCode": "90125",
 "Location": {
 "Latitude": 48.1924,
@@ -220178,19 +220178,19 @@
 }
 },
 {
-"Name": "Миколай-Поле",
-"PostCode": "70181",
-"Location": {
-"Latitude": 48.0683,
-"Longitude": 35.9685
-}
-},
-{
 "Name": "Миколаївка Друга",
 "PostCode": "70180",
 "Location": {
 "Latitude": 47.8758,
 "Longitude": 35.72
+}
+},
+{
+"Name": "Миколай-Поле",
+"PostCode": "70181",
+"Location": {
+"Latitude": 48.0683,
+"Longitude": 35.9685
 }
 },
 {
@@ -224390,6 +224390,14 @@
 }
 },
 {
+"Name": "П'ятихатки",
+"PostCode": "71621",
+"Location": {
+"Latitude": 47.4918,
+"Longitude": 35.3308
+}
+},
+{
 "Name": "Павлівка",
 "PostCode": "71694",
 "Location": {
@@ -224443,14 +224451,6 @@
 "Location": {
 "Latitude": 47.8018,
 "Longitude": 35.2112
-}
-},
-{
-"Name": "П'ятихатки",
-"PostCode": "71621",
-"Location": {
-"Latitude": 47.4918,
-"Longitude": 35.3308
 }
 },
 {
@@ -227149,6 +227149,14 @@
 }
 },
 {
+"Name": "В'язівка",
+"PostCode": "72572",
+"Location": {
+"Latitude": 46.6004,
+"Longitude": 35.1004
+}
+},
+{
 "Name": "Велика Тернівка",
 "PostCode": "72522",
 "Location": {
@@ -227186,14 +227194,6 @@
 "Location": {
 "Latitude": 46.6625,
 "Longitude": 35.1576
-}
-},
-{
-"Name": "В'язівка",
-"PostCode": "72572",
-"Location": {
-"Latitude": 46.6004,
-"Longitude": 35.1004
 }
 },
 {
@@ -228934,19 +228934,19 @@
 }
 },
 {
-"Name": "Йосипівка",
-"PostCode": "11639",
-"Location": {
-"Latitude": 50.388,
-"Longitude": 29.5023
-}
-},
-{
 "Name": "Іванівка",
 "PostCode": "11656",
 "Location": {
 "Latitude": 50.6953,
 "Longitude": 29.0606
+}
+},
+{
+"Name": "Йосипівка",
+"PostCode": "11639",
+"Location": {
+"Latitude": 50.388,
+"Longitude": 29.5023
 }
 },
 {
@@ -229230,6 +229230,14 @@
 }
 },
 {
+"Name": "П'ятидуб",
+"PostCode": "10418",
+"Location": {
+"Latitude": 50.8719,
+"Longitude": 29.4195
+}
+},
+{
 "Name": "Першотравневе",
 "PostCode": "11689",
 "Location": {
@@ -229267,14 +229275,6 @@
 "Location": {
 "Latitude": 50.8678,
 "Longitude": 28.9392
-}
-},
-{
-"Name": "П'ятидуб",
-"PostCode": "10418",
-"Location": {
-"Latitude": 50.8719,
-"Longitude": 29.4195
 }
 },
 {
@@ -230376,19 +230376,19 @@
 }
 },
 {
-"Name": "Камінь",
-"PostCode": "11173",
-"Location": {
-"Latitude": 51.2766,
-"Longitude": 28.8894
-}
-},
-{
 "Name": "Кам'янівка",
 "PostCode": "11174",
 "Location": {
 "Latitude": 51.408,
 "Longitude": 28.9241
+}
+},
+{
+"Name": "Камінь",
+"PostCode": "11173",
+"Location": {
+"Latitude": 51.2766,
+"Longitude": 28.8894
 }
 },
 {
@@ -232346,19 +232346,19 @@
 }
 },
 {
-"Name": "Гута- Бобрицька",
-"PostCode": "11271",
-"Location": {
-"Latitude": 50.6504,
-"Longitude": 28.1591
-}
-},
-{
 "Name": "Гута Зеленицька",
 "PostCode": "11251",
 "Location": {
 "Latitude": 50.7581,
 "Longitude": 28.2118
+}
+},
+{
+"Name": "Гута- Бобрицька",
+"PostCode": "11271",
+"Location": {
+"Latitude": 50.6504,
+"Longitude": 28.1591
 }
 },
 {
@@ -232634,19 +232634,19 @@
 }
 },
 {
-"Name": "Маринівка",
-"PostCode": "11287",
-"Location": {
-"Latitude": 50.7117,
-"Longitude": 27.8803
-}
-},
-{
 "Name": "Мар'янівка",
 "PostCode": "11288",
 "Location": {
 "Latitude": 50.8355,
 "Longitude": 27.965
+}
+},
+{
+"Name": "Маринівка",
+"PostCode": "11287",
+"Location": {
+"Latitude": 50.7117,
+"Longitude": 27.8803
 }
 },
 {
@@ -234197,19 +234197,19 @@
 }
 },
 {
-"Name": "Йосипівка",
-"PostCode": "12737",
-"Location": {
-"Latitude": 50.3151,
-"Longitude": 27.5812
-}
-},
-{
 "Name": "Іванівка",
 "PostCode": "12769",
 "Location": {
 "Latitude": 50.4405,
 "Longitude": 27.6265
+}
+},
+{
+"Name": "Йосипівка",
+"PostCode": "12737",
+"Location": {
+"Latitude": 50.3151,
+"Longitude": 27.5812
 }
 },
 {
@@ -234269,19 +234269,19 @@
 }
 },
 {
-"Name": "Марківка",
-"PostCode": "12743",
-"Location": {
-"Latitude": 50.2366,
-"Longitude": 27.6342
-}
-},
-{
 "Name": "Мар'янівка",
 "PostCode": "12725",
 "Location": {
 "Latitude": 50.3615,
 "Longitude": 27.8477
+}
+},
+{
+"Name": "Марківка",
+"PostCode": "12743",
+"Location": {
+"Latitude": 50.2366,
+"Longitude": 27.6342
 }
 },
 {
@@ -236272,19 +236272,19 @@
 }
 },
 {
-"Name": "Ставки",
-"PostCode": "12255",
-"Location": {
-"Latitude": 50.3996,
-"Longitude": 29.2202
-}
-},
-{
 "Name": "Став-Слобода",
 "PostCode": "12270",
 "Location": {
 "Latitude": 50.4012,
 "Longitude": 29.2708
+}
+},
+{
+"Name": "Ставки",
+"PostCode": "12255",
+"Location": {
+"Latitude": 50.3996,
+"Longitude": 29.2202
 }
 },
 {
@@ -239495,19 +239495,19 @@
 }
 },
 {
-"Name": "Йосипівка",
-"PostCode": "13236",
-"Location": {
-"Latitude": 50.0282,
-"Longitude": 28.0392
-}
-},
-{
 "Name": "Іванопіль",
 "PostCode": "13253",
 "Location": {
 "Latitude": 49.8625,
 "Longitude": 28.2145
+}
+},
+{
+"Name": "Йосипівка",
+"PostCode": "13236",
+"Location": {
+"Latitude": 50.0282,
+"Longitude": 28.0392
 }
 },
 {
@@ -239655,6 +239655,14 @@
 }
 },
 {
+"Name": "П'ятка",
+"PostCode": "13222",
+"Location": {
+"Latitude": 50.0196,
+"Longitude": 28.3668
+}
+},
+{
 "Name": "Певна",
 "PostCode": "13253",
 "Location": {
@@ -239692,14 +239700,6 @@
 "Location": {
 "Latitude": 49.7942,
 "Longitude": 28.1035
-}
-},
-{
-"Name": "П'ятка",
-"PostCode": "13222",
-"Location": {
-"Latitude": 50.0196,
-"Longitude": 28.3668
 }
 },
 {
