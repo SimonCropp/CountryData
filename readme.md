@@ -6,20 +6,6 @@
 
 Provides a .net wrapper around the [GeoNames Data](https://www.geonames.org/). Also exposes the data as per country json files.
 
-Support is available via a [Tidelift Subscription](https://tidelift.com/subscription/pkg/nuget-countrydata?utm_source=nuget-countrydata&utm_medium=referral&utm_campaign=enterprise).
-
-<!-- toc -->
-## Contents
-
-  * [Usage](#usage)
-  * [Bogus Usage](#bogus-usage)
-  * [Json Files](#json-files)
-    * [Country Codes](#country-codes)
-    * [Country Information](#country-information)
-    * [Country Location Data](#country-location-data)
-    * [Structure](#structure)
-  * [Security contact information](#security-contact-information)<!-- endToc -->
-
 
 ## NuGet packages
 
