@@ -5796,7 +5796,7 @@
 }
 },
 {
-"Name": "Gosen Gosen",
+"Name": "Gosen",
 "PostCode": "15537",
 "Location": {
 "Latitude": 52.4,
@@ -11993,14 +11993,6 @@
 }
 },
 {
-"Name": "Gosen",
-"PostCode": "15537",
-"Location": {
-"Latitude": 52.4,
-"Longitude": 13.7167
-}
-},
-{
 "Name": "Reinickendorf",
 "PostCode": "13047",
 "Location": {
@@ -12286,8 +12278,8 @@
 "Name": "Stuttgart",
 "PostCode": "70599",
 "Location": {
-"Latitude": 48.7667,
-"Longitude": 9.1833
+"Latitude": 48.7158,
+"Longitude": 9.2046
 }
 },
 {
@@ -50836,6 +50828,14 @@
 }
 },
 {
+"Name": "Eldetal",
+"PostCode": "17209",
+"Location": {
+"Latitude": 53.275,
+"Longitude": 12.4583
+}
+},
+{
 "Name": "Faulenrost",
 "PostCode": "17139",
 "Location": {
@@ -50945,14 +50945,6 @@
 "Location": {
 "Latitude": 53.4164,
 "Longitude": 12.5908
-}
-},
-{
-"Name": "Grabow-Below",
-"PostCode": "17209",
-"Location": {
-"Latitude": 53.275,
-"Longitude": 12.4583
 }
 },
 {
@@ -123717,6 +123709,14 @@
 },
 {
 "Name": "Schönebeck (Elbe)",
+"PostCode": "39217",
+"Location": {
+"Latitude": 52.0183,
+"Longitude": 11.724
+}
+},
+{
+"Name": "Schönebeck (Elbe)",
 "PostCode": "39218",
 "Location": {
 "Latitude": 52.0183,
@@ -124985,7 +124985,7 @@
 },
 {
 "Name": "Bräsen",
-"PostCode": "06862",
+"PostCode": "06868",
 "Location": {
 "Latitude": 51.9646,
 "Longitude": 12.3764
@@ -125161,7 +125161,7 @@
 },
 {
 "Name": "Hundeluft",
-"PostCode": "06862",
+"PostCode": "06868",
 "Location": {
 "Latitude": 51.9683,
 "Longitude": 12.3411
@@ -125169,7 +125169,7 @@
 },
 {
 "Name": "Jeber-Bergfrieden",
-"PostCode": "06862",
+"PostCode": "06868",
 "Location": {
 "Latitude": 51.9837,
 "Longitude": 12.3502
@@ -125785,7 +125785,7 @@
 },
 {
 "Name": "Ragösen",
-"PostCode": "06862",
+"PostCode": "06868",
 "Location": {
 "Latitude": 51.9806,
 "Longitude": 12.2961
@@ -125889,7 +125889,7 @@
 },
 {
 "Name": "Serno",
-"PostCode": "06862",
+"PostCode": "06868",
 "Location": {
 "Latitude": 52.0026,
 "Longitude": 12.4219
@@ -125905,7 +125905,7 @@
 },
 {
 "Name": "Stackelitz",
-"PostCode": "06862",
+"PostCode": "06868",
 "Location": {
 "Latitude": 52.0083,
 "Longitude": 12.3771
@@ -125921,7 +125921,7 @@
 },
 {
 "Name": "Thießen",
-"PostCode": "06862",
+"PostCode": "06868",
 "Location": {
 "Latitude": 51.9559,
 "Longitude": 12.2992
