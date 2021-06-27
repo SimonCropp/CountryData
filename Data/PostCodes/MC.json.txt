@@ -48,20 +48,6 @@
 "PostCode": "98000"
 },
 {
-"Name": "Les Moneghetti",
-"Places": [
-{
-"Name": "Les Moneghetti",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7375,
-"Longitude": 7.4153
-}
-}
-],
-"PostCode": "98000"
-},
-{
 "Name": "Monaco-Ville",
 "Places": [
 {
@@ -170,36 +156,6 @@
 "PostCode": "98000"
 },
 {
-"Name": "Monte-Carlo",
-"Places": [
-{
-"Name": "Anse de la Grue",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7306,
-"Longitude": 7.4217
-}
-},
-{
-"Name": "Monte-Carlo",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4167
-}
-},
-{
-"Name": "Pointe Focinana",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4333
-}
-}
-],
-"PostCode": "98000"
-},
-{
 "Name": "Monaco",
 "Places": [
 {
@@ -278,6 +234,50 @@
 "Location": {
 "Latitude": 43.7167,
 "Longitude": 7.4167
+}
+}
+],
+"PostCode": "98000"
+},
+{
+"Name": "Monte-Carlo",
+"Places": [
+{
+"Name": "Anse de la Grue",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7306,
+"Longitude": 7.4217
+}
+},
+{
+"Name": "Monte-Carlo",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "Pointe Focinana",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4333
+}
+}
+],
+"PostCode": "98000"
+},
+{
+"Name": "Les Moneghetti",
+"Places": [
+{
+"Name": "Les Moneghetti",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7375,
+"Longitude": 7.4153
 }
 }
 ],
