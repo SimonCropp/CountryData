@@ -153,7 +153,7 @@ namespace CountryData
 
         foreach (var code in countryInfos
             .Select(x => x.CurrencyCode)
-            .Where(x => x != null)
+            .Where(x => x is not null)
             .Distinct())
         {
             currencyCodeWriter.WriteLine($"        {code},");
@@ -164,7 +164,7 @@ namespace CountryData
             isoWriter.WriteLine($"        {countryInfo.Iso},");
             iso3Writer.WriteLine($"        {countryInfo.Iso3},");
 
-            if (countryInfo.Fips != null)
+            if (countryInfo.Fips is not null)
             {
                 fipsWriter.WriteLine($"        {countryInfo.Fips},");
             }

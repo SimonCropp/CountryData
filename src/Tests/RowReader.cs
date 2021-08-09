@@ -12,7 +12,7 @@ static class RowReader
         while (true)
         {
             var line = csv.ReadLine();
-            if (line == null)
+            if (line is null)
             {
                 break;
             }

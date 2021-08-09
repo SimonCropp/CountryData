@@ -4,7 +4,7 @@ static class Guard
 {
     public static void AgainstNull(object value, string argumentName)
     {
-        if (value == null)
+        if (value is null)
         {
             throw new ArgumentNullException(argumentName);
         }

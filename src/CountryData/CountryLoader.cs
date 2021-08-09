@@ -37,7 +37,7 @@ namespace CountryData
             using var stream = assembly.GetManifestResourceStream("CountryData.postcodes.zip")!;
             using ZipArchive archive = new(stream);
             var entry = archive.Entries.SingleOrDefault(x => x.Name == $"{countryCode}.json.txt");
-            if (entry == null)
+            if (entry is null)
             {
                 throw new ArgumentException($"Could not find data for '{countryCode}'.");
             }

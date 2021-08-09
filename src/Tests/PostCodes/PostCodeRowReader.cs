@@ -21,7 +21,7 @@ static class PostCodeRowReader
             };
 
             var s = split[9];
-            if (s != null)
+            if (s is not null)
             {
                 row.Location = new()
                 {
@@ -32,7 +32,7 @@ static class PostCodeRowReader
 
             Assert.NotEmpty(row.PostalCode);
             var accuracy = split[11];
-            if (accuracy != null)
+            if (accuracy is not null)
             {
                 row.Accuracy = ushort.Parse(accuracy);
             }

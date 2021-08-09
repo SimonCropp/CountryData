@@ -38,7 +38,7 @@ static class CountryInfoRowReader
             }
 
             var languages = split[15];
-            if (languages != null)
+            if (languages is not null)
             {
                 row.Languages = languages.Split(',').ToList();
             }
