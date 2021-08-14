@@ -64,36 +64,6 @@
 "PostCode": "98000"
 },
 {
-"Name": "Monte-Carlo",
-"Places": [
-{
-"Name": "Anse de la Grue",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7306,
-"Longitude": 7.4217
-}
-},
-{
-"Name": "Monte-Carlo",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4167
-}
-},
-{
-"Name": "Pointe Focinana",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4333
-}
-}
-],
-"PostCode": "98000"
-},
-{
 "Name": "Monaco-Ville",
 "Places": [
 {
@@ -142,50 +112,6 @@
 "Location": {
 "Latitude": 43.7333,
 "Longitude": 7.4333
-}
-}
-],
-"PostCode": "98000"
-},
-{
-"Name": "Monaco",
-"Places": [
-{
-"Name": "Commune de Monaco",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4
-}
-},
-{
-"Name": "Monaco",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4
-}
-},
-{
-"Name": "Réserve Sous-marine de Monaco",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7458,
-"Longitude": 7.4394
-}
-}
-],
-"PostCode": "98000"
-},
-{
-"Name": "Les Moneghetti",
-"Places": [
-{
-"Name": "Les Moneghetti",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7375,
-"Longitude": 7.4153
 }
 }
 ],
@@ -278,6 +204,80 @@
 "Location": {
 "Latitude": 43.7361,
 "Longitude": 7.425
+}
+}
+],
+"PostCode": "98000"
+},
+{
+"Name": "Monte-Carlo",
+"Places": [
+{
+"Name": "Anse de la Grue",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7306,
+"Longitude": 7.4217
+}
+},
+{
+"Name": "Monte-Carlo",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "Pointe Focinana",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4333
+}
+}
+],
+"PostCode": "98000"
+},
+{
+"Name": "Monaco",
+"Places": [
+{
+"Name": "Commune de Monaco",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4
+}
+},
+{
+"Name": "Monaco",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4
+}
+},
+{
+"Name": "Réserve Sous-marine de Monaco",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7458,
+"Longitude": 7.4394
+}
+}
+],
+"PostCode": "98000"
+},
+{
+"Name": "Les Moneghetti",
+"Places": [
+{
+"Name": "Les Moneghetti",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7375,
+"Longitude": 7.4153
 }
 }
 ],
