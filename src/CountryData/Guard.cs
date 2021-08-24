@@ -2,14 +2,6 @@
 
 static class Guard
 {
-    public static void AgainstNull(object value, string argumentName)
-    {
-        if (value is null)
-        {
-            throw new ArgumentNullException(argumentName);
-        }
-    }
-
     public static void AgainstNegative(int value, string argumentName)
     {
         if (value < 0)
@@ -17,7 +9,7 @@ static class Guard
             throw new ArgumentNullException(argumentName);
         }
     }
-    public static void AgainstNullWhiteSpace(string argumentName, string value)
+    public static void AgainstWhiteSpace(string argumentName, string value)
     {
         if (string.IsNullOrWhiteSpace(value))
         {

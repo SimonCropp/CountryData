@@ -27,7 +27,7 @@ namespace CountryData
 
         public static ICountry LoadLocationData(string countryCode)
         {
-            Guard.AgainstNullWhiteSpace(countryCode, nameof(countryCode));
+            Guard.AgainstWhiteSpace(countryCode, nameof(countryCode));
             countryCode = countryCode.ToUpperInvariant();
             return cache.GetOrAdd(countryCode, Inner);
         }
