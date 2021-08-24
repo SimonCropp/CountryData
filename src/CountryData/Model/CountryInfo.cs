@@ -11,7 +11,7 @@ namespace CountryData
         ushort IsoNumeric { get; }
         Fips? Fips { get; }
         string Capital { get; }
-        double Area { get; }
+        double? Area { get; }
         uint Population { get; }
         string Continent { get; }
         string TopLevelDomain { get; }
@@ -33,7 +33,7 @@ namespace CountryData
         public ushort IsoNumeric { get; set; }
         public Fips? Fips { get; set; }
         public string Capital { get; set; } = null!;
-        public double Area { get; set; }
+        public double? Area { get; set; }
         public uint Population { get; set; }
         public string Continent { get; set; } = null!;
         public string TopLevelDomain { get; set; } = null!;

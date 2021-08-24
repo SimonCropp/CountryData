@@ -102,9 +102,9 @@ namespace CountryData.Bogus
             return CountryLoader.LoadCyprusLocationData();
         }
 
-        public ICountry Czechia()
+        public ICountry CzechRepublic()
         {
-            return CountryLoader.LoadCzechiaLocationData();
+            return CountryLoader.LoadCzechRepublicLocationData();
         }
 
         public ICountry Germany()
@@ -282,9 +282,9 @@ namespace CountryData.Bogus
             return CountryLoader.LoadMarshallIslandsLocationData();
         }
 
-        public ICountry NorthMacedonia()
+        public ICountry Macedonia()
         {
-            return CountryLoader.LoadNorthMacedoniaLocationData();
+            return CountryLoader.LoadMacedoniaLocationData();
         }
 
         public ICountry NorthernMarianaIslands()

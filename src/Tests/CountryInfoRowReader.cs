@@ -16,7 +16,6 @@ static class CountryInfoRowReader
                 IsoNumeric = ushort.Parse(split[2]!),
                 Name = split[4]!,
                 Capital = split[5]!,
-                //Population = uint.Parse(split[7]),
                 Continent = split[8]!,
                 TopLevelDomain = split[9]!,
                 CurrencyName = split[11]!,
@@ -24,6 +23,11 @@ static class CountryInfoRowReader
                 PostCodeFormat = split[13]!,
                 PostCodeRegex = split[14]!,
             };
+            var population = split[7];
+            if (population != null)
+            {
+                row.Population = uint.Parse(population);
+            }
 
             var currencyCode = split[10];
             if (!string.IsNullOrWhiteSpace(currencyCode))
@@ -43,8 +47,12 @@ static class CountryInfoRowReader
                 row.Languages = languages.Split(',').ToList();
             }
 
-            var s = split[6]!;
-            row.Area = double.Parse(s);
+            var area = split[6]!;
+            // ReSharper disable once ConditionIsAlwaysTrueOrFalse
+            if (area != null)
+            {
+                row.Area = double.Parse(area);
+            }
 
             yield return row;
         }

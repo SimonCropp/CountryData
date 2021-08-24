@@ -101,7 +101,7 @@ namespace CountryData
             return LoadLocationData("CY");
         }
 
-        public static ICountry LoadCzechiaLocationData()
+        public static ICountry LoadCzechRepublicLocationData()
         {
             return LoadLocationData("CZ");
         }
@@ -281,7 +281,7 @@ namespace CountryData
             return LoadLocationData("MH");
         }
 
-        public static ICountry LoadNorthMacedoniaLocationData()
+        public static ICountry LoadMacedoniaLocationData()
         {
             return LoadLocationData("MK");
         }
