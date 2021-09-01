@@ -10,6 +10,44 @@
 "PostCode": "98000",
 "Communities": [
 {
+"Name": "La Condamine",
+"Places": [
+{
+"Name": "Condamine",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "La Condamine",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7333,
+"Longitude": 7.4167
+}
+},
+{
+"Name": "Port de La Condamine",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7361,
+"Longitude": 7.425
+}
+},
+{
+"Name": "Port de Monaco",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7361,
+"Longitude": 7.425
+}
+}
+],
+"PostCode": "98000"
+},
+{
 "Name": "Fontvieille",
 "Places": [
 {
@@ -196,44 +234,6 @@
 "Location": {
 "Latitude": 43.7458,
 "Longitude": 7.4394
-}
-}
-],
-"PostCode": "98000"
-},
-{
-"Name": "La Condamine",
-"Places": [
-{
-"Name": "Condamine",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4167
-}
-},
-{
-"Name": "La Condamine",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4167
-}
-},
-{
-"Name": "Port de La Condamine",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7361,
-"Longitude": 7.425
-}
-},
-{
-"Name": "Port de Monaco",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7361,
-"Longitude": 7.425
 }
 }
 ],
