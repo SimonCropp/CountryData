@@ -1,9 +1,5 @@
-﻿using System.Collections.Generic;
-using System.Globalization;
-using System.IO;
+﻿using System.Globalization;
 using System.IO.Compression;
-using System.Linq;
-using System.Threading.Tasks;
 using CountryData;
 using Xunit;
 

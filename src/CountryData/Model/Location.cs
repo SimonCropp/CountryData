@@ -1,18 +1,15 @@
-﻿using System.Diagnostics;
+﻿namespace CountryData;
 
-namespace CountryData
+public interface ILocation
 {
-    public interface ILocation
-    {
-        double Latitude { get; }
-        double Longitude { get; }
-    }
+    double Latitude { get; }
+    double Longitude { get; }
+}
 
-    [DebuggerDisplay("Lat={Latitude}, Long={Longitude}")]
-    class Location :
-        ILocation
-    {
-        public double Latitude { get; set; }
-        public double Longitude { get; set; }
-    }
+[DebuggerDisplay("Lat={Latitude}, Long={Longitude}")]
+class Location :
+    ILocation
+{
+    public double Latitude { get; set; }
+    public double Longitude { get; set; }
 }

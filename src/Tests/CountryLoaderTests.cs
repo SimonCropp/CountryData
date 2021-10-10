@@ -1,7 +1,4 @@
-﻿using System;
-using System.Linq;
-using System.Threading.Tasks;
-using CountryData;
+﻿using CountryData;
 using VerifyXunit;
 using Xunit;
 

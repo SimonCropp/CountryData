@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using CountryData;
+﻿using CountryData;
 
 static class CountrySerializer
 {

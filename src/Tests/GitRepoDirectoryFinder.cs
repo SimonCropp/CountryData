@@ -1,6 +1,4 @@
-﻿using System.IO;
-
-static class GitRepoDirectoryFinder
+﻿static class GitRepoDirectoryFinder
 {
     public static string Find()
     {

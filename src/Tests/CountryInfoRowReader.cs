@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using CountryData;
+﻿using CountryData;
 
 static class CountryInfoRowReader
 {

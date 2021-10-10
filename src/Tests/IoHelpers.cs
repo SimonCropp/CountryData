@@ -1,6 +1,4 @@
-﻿using System.IO;
-
-static class IoHelpers
+﻿static class IoHelpers
 {
     public static void PurgeDirectory(string directory)
     {
