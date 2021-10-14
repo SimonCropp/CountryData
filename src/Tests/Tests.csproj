@@ -13,6 +13,6 @@
     <PackageReference Include="xunit.runner.visualstudio" Version="2.4.3" />
     <ProjectReference Include="..\CountryData.Bogus\CountryData.Bogus.csproj" />
     <ProjectReference Include="..\CountryData\CountryData.csproj" />
-    <PackageReference Include="ProjectDefaults" Version="1.0.60" PrivateAssets="All" />
+    <PackageReference Include="ProjectDefaults" Version="1.0.61" PrivateAssets="All" />
   </ItemGroup>
 </Project>
