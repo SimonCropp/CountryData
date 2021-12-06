@@ -1,5 +1,4 @@
 ﻿using CountryData.Bogus;
-using Xunit;
 
 public class CountryDataSetTests
 {

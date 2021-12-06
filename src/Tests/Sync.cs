@@ -1,7 +1,6 @@
 ﻿using System.Globalization;
 using System.IO.Compression;
 using CountryData;
-using Xunit;
 
 public class Sync
 {

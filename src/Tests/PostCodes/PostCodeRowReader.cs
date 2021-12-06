@@ -1,6 +1,4 @@
-﻿using Xunit;
-
-static class PostCodeRowReader
+﻿static class PostCodeRowReader
 {
     public static IEnumerable<PostCodeRow> ReadRows(string allCountriesTxtPath)
     {

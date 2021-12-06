@@ -1,6 +1,4 @@
 ﻿using CountryData;
-using VerifyXunit;
-using Xunit;
 
 [UsesVerify]
 public class CountryLoaderTests

@@ -1,6 +1,4 @@
-﻿using System.Net.Http;
-
-static class Downloader
+﻿static class Downloader
 {
     static HttpClient httpClient = new()
     {

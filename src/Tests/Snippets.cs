@@ -1,7 +1,6 @@
 ﻿using Bogus;
 using CountryData;
 using CountryData.Bogus;
-using Xunit;
 // ReSharper disable UnusedParameter.Local
 
 // ReSharper disable UnusedVariable
