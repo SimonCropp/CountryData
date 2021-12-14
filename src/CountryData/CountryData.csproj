@@ -8,8 +8,8 @@
     <EmbeddedResource Condition="Exists('..\..\Data\postcodes.zip')" Include="..\..\Data\postcodes.zip" Link="postcodes.zip" />
 
     <PackageReference Include="System.IO.Compression.ZipFile" Version="4.3.0" />
-    <PackageReference Include="System.Text.Json" Version="6.0.0" />
-    <PackageReference Include="ProjectDefaults" Version="1.0.62" PrivateAssets="all" />
+    <PackageReference Include="System.Text.Json" Version="6.0.1" />
+    <PackageReference Include="ProjectDefaults" Version="1.0.63" PrivateAssets="all" />
     <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.1.1" PrivateAssets="All" Condition="$(Configuration) == 'Release'" />
   </ItemGroup>
 </Project>
