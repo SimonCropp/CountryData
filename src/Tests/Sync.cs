@@ -67,20 +67,19 @@ public class Sync
             writer.WriteLine(@"
 // ReSharper disable IdentifierTypo
 
-namespace CountryData
-{
-    public static partial class CountryLoader
-    {");
+namespace CountryData;
+
+public static partial class CountryLoader
+{");
             foreach (var locationData in keyToName)
             {
                 writer.WriteLine($@"
-        public static ICountry Load{locationData.Value}LocationData()
-        {{
-            return LoadLocationData(""{locationData.Key}"");
-        }}");
+    public static ICountry Load{locationData.Value}LocationData()
+    {{
+        return LoadLocationData(""{locationData.Key}"");
+    }}");
             }
 
-            writer.WriteLine("    }");
             writer.WriteLine("}");
         }
 
@@ -92,20 +91,19 @@ namespace CountryData
 
 // ReSharper disable IdentifierTypo
 
-namespace CountryData.Bogus
-{
-    public partial class CountryDataSet : DataSet
-    {");
+namespace CountryData.Bogus;
+
+public partial class CountryDataSet : DataSet
+{");
             foreach (var locationData in keyToName)
             {
                 writer.WriteLine($@"
-        public ICountry {locationData.Value}()
-        {{
-            return CountryLoader.Load{locationData.Value}LocationData();
-        }}");
+    public ICountry {locationData.Value}()
+    {{
+        return CountryLoader.Load{locationData.Value}LocationData();
+    }}");
             }
 
-            writer.WriteLine("    }");
             writer.WriteLine("}");
         }
     }
@@ -126,52 +124,48 @@ namespace CountryData.Bogus
         using var currencyCodeWriter = File.CreateText(currencyCode);
 
         isoWriter.WriteLine(@"
-namespace CountryData
-{
-    public enum Iso
-    {");
+namespace CountryData;
+
+public enum Iso
+{");
         iso3Writer.WriteLine(@"
-namespace CountryData
-{
-    public enum Iso3
-    {");
+namespace CountryData;
+
+public enum Iso3
+{");
         fipsWriter.WriteLine(@"
-namespace CountryData
-{
-    public enum Fips
-    {");
+namespace CountryData;
+
+public enum Fips
+{");
         currencyCodeWriter.WriteLine(@"
-namespace CountryData
-{
-    public enum CurrencyCode
-    {");
+namespace CountryData;
+
+public enum CurrencyCode
+{");
 
         foreach (var code in countryInfos
             .Select(x => x.CurrencyCode)
             .Where(x => x is not null)
             .Distinct())
         {
-            currencyCodeWriter.WriteLine($"        {code},");
+            currencyCodeWriter.WriteLine($"    {code},");
         }
 
         foreach (var countryInfo in countryInfos)
         {
-            isoWriter.WriteLine($"        {countryInfo.Iso},");
-            iso3Writer.WriteLine($"        {countryInfo.Iso3},");
+            isoWriter.WriteLine($"    {countryInfo.Iso},");
+            iso3Writer.WriteLine($"    {countryInfo.Iso3},");
 
             if (countryInfo.Fips is not null)
             {
-                fipsWriter.WriteLine($"        {countryInfo.Fips},");
+                fipsWriter.WriteLine($"    {countryInfo.Fips},");
             }
         }
 
-        isoWriter.WriteLine("    }");
         isoWriter.WriteLine("}");
-        iso3Writer.WriteLine("    }");
         iso3Writer.WriteLine("}");
-        fipsWriter.WriteLine("    }");
         fipsWriter.WriteLine("}");
-        currencyCodeWriter.WriteLine("    }");
         currencyCodeWriter.WriteLine("}");
     }
 
