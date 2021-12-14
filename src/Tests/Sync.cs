@@ -185,7 +185,7 @@ public enum CurrencyCode
     static IDictionary<string, List<State>> WriteRows(string jsonPath, List<IGrouping<string, PostCodeRow>> groupByCountry)
     {
         IoHelpers.PurgeDirectory(jsonPath);
-        SortedDictionary<string, List<State>> dictionary = new();
+        var dictionary = new SortedDictionary<string, List<State>>();
         foreach (var group in groupByCountry)
         {
             dictionary.Add(group.Key, ProcessCountry(group.Key, group.OrderBy(x => x.CountryCode).ToList(), jsonPath));
