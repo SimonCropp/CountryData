@@ -10243,14 +10243,6 @@
 }
 },
 {
-"Name": "Downtown Toronto (Regent Park / Port of Toronto)",
-"PostCode": "M5A",
-"Location": {
-"Latitude": 43.6555,
-"Longitude": -79.3626
-}
-},
-{
 "Name": "Downtown Toronto (Richmond / Adelaide / King)",
 "PostCode": "M5H",
 "Location": {
@@ -10376,6 +10368,14 @@
 "Location": {
 "Latitude": 43.6075,
 "Longitude": -79.5013
+}
+},
+{
+"Name": "Toronto",
+"PostCode": "M5A",
+"Location": {
+"Latitude": 43.6555,
+"Longitude": -79.3626
 }
 },
 {

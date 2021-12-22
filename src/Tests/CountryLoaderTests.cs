@@ -9,7 +9,7 @@ public class CountryLoaderTests
         var country = CountryLoader.LoadLocationData("PW");
         Assert.Throws<ArgumentException>(() => CountryLoader.LoadLocationData("QQ"));
 
-        return Verifier.Verify(country);
+        return Verify(country);
     }
 
     [Fact]
@@ -38,14 +38,14 @@ public class CountryLoaderTests
     public Task PostCodes()
     {
         var country = CountryLoader.LoadAustraliaLocationData();
-        return Verifier.Verify(country.PostCodes().First());
+        return Verify(country.PostCodes().First());
     }
 
     [Fact]
     public Task LoadSpecificLocationData()
     {
         var country = CountryLoader.LoadPalauLocationData();
-        return Verifier.Verify(country);
+        return Verify(country);
     }
 
     [Fact]
