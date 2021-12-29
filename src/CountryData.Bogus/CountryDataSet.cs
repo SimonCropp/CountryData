@@ -46,7 +46,7 @@ public partial class CountryDataSet : DataSet
     {
         return CountryInfo().Continent;
     }
-        
+
     public IEnumerable<string> PhonePrefixs(int num = 1)
     {
         Guard.AgainstNegative(num, nameof(num));
