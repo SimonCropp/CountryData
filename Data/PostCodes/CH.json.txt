@@ -1184,21 +1184,6 @@
 "PostCode": "5244"
 },
 {
-"Name": "Bözen",
-"Code": "4094",
-"Places": [
-{
-"Name": "Bözen",
-"PostCode": "5076",
-"Location": {
-"Latitude": 47.4964,
-"Longitude": 8.0859
-}
-}
-],
-"PostCode": "5076"
-},
-{
 "Name": "Brugg",
 "Code": "4095",
 "Places": [
@@ -1235,36 +1220,6 @@
 }
 }
 ]
-},
-{
-"Name": "Effingen",
-"Code": "4096",
-"Places": [
-{
-"Name": "Effingen",
-"PostCode": "5078",
-"Location": {
-"Latitude": 47.4928,
-"Longitude": 8.1125
-}
-}
-],
-"PostCode": "5078"
-},
-{
-"Name": "Elfingen",
-"Code": "4097",
-"Places": [
-{
-"Name": "Elfingen",
-"PostCode": "5077",
-"Location": {
-"Latitude": 47.51,
-"Longitude": 8.1022
-}
-}
-],
-"PostCode": "5077"
 },
 {
 "Name": "Habsburg",
@@ -1902,21 +1857,6 @@
 "PostCode": "5027"
 },
 {
-"Name": "Hornussen",
-"Code": "4167",
-"Places": [
-{
-"Name": "Hornussen",
-"PostCode": "5075",
-"Location": {
-"Latitude": 47.5016,
-"Longitude": 8.0625
-}
-}
-],
-"PostCode": "5075"
-},
-{
 "Name": "Kaisten",
 "Code": "4169",
 "Places": [
@@ -2145,6 +2085,44 @@
 "Location": {
 "Latitude": 47.5662,
 "Longitude": 8.1575
+}
+}
+]
+},
+{
+"Name": "Böztal",
+"Code": "4185",
+"Places": [
+{
+"Name": "Bözen",
+"PostCode": "5076",
+"Location": {
+"Latitude": 47.4964,
+"Longitude": 8.0859
+}
+},
+{
+"Name": "Effingen",
+"PostCode": "5078",
+"Location": {
+"Latitude": 47.4928,
+"Longitude": 8.1125
+}
+},
+{
+"Name": "Elfingen",
+"PostCode": "5077",
+"Location": {
+"Latitude": 47.51,
+"Longitude": 8.1022
+}
+},
+{
+"Name": "Hornussen",
+"PostCode": "5075",
+"Location": {
+"Latitude": 47.5016,
+"Longitude": 8.0625
 }
 }
 ]
@@ -3480,36 +3458,6 @@
 "Code": "1911",
 "Communities": [
 {
-"Name": "Baldingen",
-"Code": "4301",
-"Places": [
-{
-"Name": "Baldingen",
-"PostCode": "5333",
-"Location": {
-"Latitude": 47.5548,
-"Longitude": 8.3136
-}
-}
-],
-"PostCode": "5333"
-},
-{
-"Name": "Böbikon",
-"Code": "4302",
-"Places": [
-{
-"Name": "Böbikon",
-"PostCode": "5334",
-"Location": {
-"Latitude": 47.5504,
-"Longitude": 8.3379
-}
-}
-],
-"PostCode": "5334"
-},
-{
 "Name": "Böttstein",
 "Code": "4303",
 "Places": [
@@ -3597,21 +3545,6 @@
 }
 ],
 "PostCode": "5324"
-},
-{
-"Name": "Kaiserstuhl",
-"Code": "4308",
-"Places": [
-{
-"Name": "Kaiserstuhl AG",
-"PostCode": "5466",
-"Location": {
-"Latitude": 47.5677,
-"Longitude": 8.419
-}
-}
-],
-"PostCode": "5466"
 },
 {
 "Name": "Klingnau",
@@ -3711,51 +3644,6 @@
 "PostCode": "5465"
 },
 {
-"Name": "Rekingen (AG)",
-"Code": "4315",
-"Places": [
-{
-"Name": "Rekingen AG",
-"PostCode": "5332",
-"Location": {
-"Latitude": 47.5671,
-"Longitude": 8.3218
-}
-}
-],
-"PostCode": "5332"
-},
-{
-"Name": "Rietheim",
-"Code": "4316",
-"Places": [
-{
-"Name": "Rietheim",
-"PostCode": "5323",
-"Location": {
-"Latitude": 47.6029,
-"Longitude": 8.2739
-}
-}
-],
-"PostCode": "5323"
-},
-{
-"Name": "Rümikon",
-"Code": "4317",
-"Places": [
-{
-"Name": "Rümikon AG",
-"PostCode": "5464",
-"Location": {
-"Latitude": 47.5643,
-"Longitude": 8.3806
-}
-}
-],
-"PostCode": "5464"
-},
-{
 "Name": "Schneisingen",
 "Code": "4318",
 "Places": [
@@ -3801,23 +3689,8 @@
 "PostCode": "5306"
 },
 {
-"Name": "Wislikofen",
-"Code": "4322",
-"Places": [
-{
-"Name": "Wislikofen",
-"PostCode": "5463",
-"Location": {
-"Latitude": 47.5537,
-"Longitude": 8.3667
-}
-}
-],
-"PostCode": "5463"
-},
-{
-"Name": "Bad Zurzach",
-"Code": "4323",
+"Name": "Zurzach",
+"Code": "4324",
 "Places": [
 {
 "Name": "Bad Zurzach",
@@ -3826,9 +3699,64 @@
 "Latitude": 47.5859,
 "Longitude": 8.292
 }
+},
+{
+"Name": "Baldingen",
+"PostCode": "5333",
+"Location": {
+"Latitude": 47.5548,
+"Longitude": 8.3136
 }
-],
-"PostCode": "5330"
+},
+{
+"Name": "Böbikon",
+"PostCode": "5334",
+"Location": {
+"Latitude": 47.5504,
+"Longitude": 8.3379
+}
+},
+{
+"Name": "Kaiserstuhl AG",
+"PostCode": "5466",
+"Location": {
+"Latitude": 47.5677,
+"Longitude": 8.419
+}
+},
+{
+"Name": "Rekingen AG",
+"PostCode": "5332",
+"Location": {
+"Latitude": 47.5671,
+"Longitude": 8.3218
+}
+},
+{
+"Name": "Rietheim",
+"PostCode": "5323",
+"Location": {
+"Latitude": 47.6029,
+"Longitude": 8.2739
+}
+},
+{
+"Name": "Rümikon AG",
+"PostCode": "5464",
+"Location": {
+"Latitude": 47.5643,
+"Longitude": 8.3806
+}
+},
+{
+"Name": "Wislikofen",
+"PostCode": "5463",
+"Location": {
+"Latitude": 47.5537,
+"Longitude": 8.3667
+}
+}
+]
 }
 ]
 }
@@ -7942,6 +7870,21 @@
 "Code": "246",
 "Communities": [
 {
+"Name": "Murten",
+"Code": "2275",
+"Places": [
+{
+"Name": "Clavaleyres",
+"PostCode": "1595",
+"Location": {
+"Latitude": 46.8976,
+"Longitude": 7.0917
+}
+}
+],
+"PostCode": "1595"
+},
+{
 "Name": "Kallnach",
 "Code": "304",
 "Places": [
@@ -9430,21 +9373,6 @@
 }
 ],
 "PostCode": "3114"
-},
-{
-"Name": "Clavaleyres",
-"Code": "661",
-"Places": [
-{
-"Name": "Clavaleyres",
-"PostCode": "1595",
-"Location": {
-"Latitude": 46.8976,
-"Longitude": 7.0917
-}
-}
-],
-"PostCode": "1595"
 },
 {
 "Name": "Ferenbalm",
@@ -15814,36 +15742,6 @@
 "PostCode": "3284"
 },
 {
-"Name": "Galmiz",
-"Code": "2259",
-"Places": [
-{
-"Name": "Galmiz",
-"PostCode": "3285",
-"Location": {
-"Latitude": 46.9599,
-"Longitude": 7.1466
-}
-}
-],
-"PostCode": "3285"
-},
-{
-"Name": "Gempenach",
-"Code": "2260",
-"Places": [
-{
-"Name": "Gempenach",
-"PostCode": "3215",
-"Location": {
-"Latitude": 46.9432,
-"Longitude": 7.1986
-}
-}
-],
-"PostCode": "3215"
-},
-{
 "Name": "Greng",
 "Code": "2261",
 "Places": [
@@ -16037,6 +15935,22 @@
 "Location": {
 "Latitude": 46.891,
 "Longitude": 7.1105
+}
+},
+{
+"Name": "Galmiz",
+"PostCode": "3285",
+"Location": {
+"Latitude": 46.9599,
+"Longitude": 7.1466
+}
+},
+{
+"Name": "Gempenach",
+"PostCode": "3215",
+"Location": {
+"Latitude": 46.9432,
+"Longitude": 7.1986
 }
 },
 {
@@ -39082,6 +38996,14 @@
 "Latitude": 46.6178,
 "Longitude": 6.6273
 }
+},
+{
+"Name": "Bioley-Orjulaz",
+"PostCode": "1042",
+"Location": {
+"Latitude": 46.6193,
+"Longitude": 6.6009
+}
 }
 ],
 "PostCode": "1042"
@@ -39100,21 +39022,6 @@
 }
 ],
 "PostCode": "1038"
-},
-{
-"Name": "Bioley-Orjulaz",
-"Code": "5513",
-"Places": [
-{
-"Name": "Bioley-Orjulaz",
-"PostCode": "1042",
-"Location": {
-"Latitude": 46.6193,
-"Longitude": 6.6009
-}
-}
-],
-"PostCode": "1042"
 },
 {
 "Name": "Bottens",
@@ -41476,21 +41383,6 @@
 ]
 },
 {
-"Name": "Essertes",
-"Code": "5788",
-"Places": [
-{
-"Name": "Essertes",
-"PostCode": "1078",
-"Location": {
-"Latitude": 46.5645,
-"Longitude": 6.789
-}
-}
-],
-"PostCode": "1078"
-},
-{
 "Name": "Maracon",
 "Code": "5790",
 "Places": [
@@ -41576,6 +41468,14 @@
 "Location": {
 "Latitude": 46.5494,
 "Longitude": 6.8578
+}
+},
+{
+"Name": "Essertes",
+"PostCode": "1078",
+"Location": {
+"Latitude": 46.5645,
+"Longitude": 6.789
 }
 },
 {
@@ -41672,21 +41572,6 @@
 "Name": "Morges District",
 "Code": "2227",
 "Communities": [
-{
-"Name": "Apples",
-"Code": "5421",
-"Places": [
-{
-"Name": "Apples",
-"PostCode": "1143",
-"Location": {
-"Latitude": 46.555,
-"Longitude": 6.4166
-}
-}
-],
-"PostCode": "1143"
-},
 {
 "Name": "Aubonne",
 "Code": "5422",
@@ -41936,21 +41821,6 @@
 "PostCode": "1304"
 },
 {
-"Name": "Cottens (VD)",
-"Code": "5478",
-"Places": [
-{
-"Name": "Cottens VD",
-"PostCode": "1116",
-"Location": {
-"Latitude": 46.5743,
-"Longitude": 6.4533
-}
-}
-],
-"PostCode": "1116"
-},
-{
 "Name": "Cuarnens",
 "Code": "5479",
 "Places": [
@@ -42147,21 +42017,6 @@
 "PostCode": "1317"
 },
 {
-"Name": "Pampigny",
-"Code": "5494",
-"Places": [
-{
-"Name": "Pampigny",
-"PostCode": "1142",
-"Location": {
-"Latitude": 46.5862,
-"Longitude": 6.422
-}
-}
-],
-"PostCode": "1142"
-},
-{
 "Name": "Pompaples",
 "Code": "5497",
 "Places": [
@@ -42207,21 +42062,6 @@
 "PostCode": "1304"
 },
 {
-"Name": "Sévery",
-"Code": "5500",
-"Places": [
-{
-"Name": "Sévery",
-"PostCode": "1141",
-"Location": {
-"Latitude": 46.5707,
-"Longitude": 6.4421
-}
-}
-],
-"PostCode": "1141"
-},
-{
 "Name": "Aclens",
 "Code": "5621",
 "Places": [
@@ -42265,21 +42105,6 @@
 }
 ],
 "PostCode": "1164"
-},
-{
-"Name": "Bussy-Chardonney",
-"Code": "5625",
-"Places": [
-{
-"Name": "Bussy-Chardonney",
-"PostCode": "1136",
-"Location": {
-"Latitude": 46.5309,
-"Longitude": 6.441
-}
-}
-],
-"PostCode": "1136"
 },
 {
 "Name": "Chigny",
@@ -42524,21 +42349,6 @@
 "PostCode": "1028"
 },
 {
-"Name": "Reverolle",
-"Code": "5644",
-"Places": [
-{
-"Name": "Reverolle",
-"PostCode": "1128",
-"Location": {
-"Latitude": 46.5417,
-"Longitude": 6.44
-}
-}
-],
-"PostCode": "1128"
-},
-{
 "Name": "Romanel-sur-Morges",
 "Code": "5645",
 "Places": [
@@ -42657,6 +42467,60 @@
 }
 ],
 "PostCode": "1169"
+},
+{
+"Name": "Hautemorges",
+"Code": "5656",
+"Places": [
+{
+"Name": "Apples",
+"PostCode": "1143",
+"Location": {
+"Latitude": 46.555,
+"Longitude": 6.4166
+}
+},
+{
+"Name": "Bussy-Chardonney",
+"PostCode": "1136",
+"Location": {
+"Latitude": 46.5309,
+"Longitude": 6.441
+}
+},
+{
+"Name": "Cottens VD",
+"PostCode": "1116",
+"Location": {
+"Latitude": 46.5743,
+"Longitude": 6.4533
+}
+},
+{
+"Name": "Pampigny",
+"PostCode": "1142",
+"Location": {
+"Latitude": 46.5862,
+"Longitude": 6.422
+}
+},
+{
+"Name": "Reverolle",
+"PostCode": "1128",
+"Location": {
+"Latitude": 46.5417,
+"Longitude": 6.44
+}
+},
+{
+"Name": "Sévery",
+"PostCode": "1141",
+"Location": {
+"Latitude": 46.5707,
+"Longitude": 6.4421
+}
+}
+]
 },
 {
 "Name": "Allaman",
@@ -43657,21 +43521,6 @@
 "PostCode": "1659"
 },
 {
-"Name": "Blonay",
-"Code": "5881",
-"Places": [
-{
-"Name": "Blonay",
-"PostCode": "1807",
-"Location": {
-"Latitude": 46.4778,
-"Longitude": 6.922
-}
-}
-],
-"PostCode": "1807"
-},
-{
 "Name": "Chardonne",
 "Code": "5882",
 "Places": [
@@ -43880,21 +43729,6 @@
 ]
 },
 {
-"Name": "Saint-Légier-La Chiésaz",
-"Code": "5888",
-"Places": [
-{
-"Name": "St-Légier-La Chiésaz",
-"PostCode": "1806",
-"Location": {
-"Latitude": 46.4899,
-"Longitude": 6.8982
-}
-}
-],
-"PostCode": "1806"
-},
-{
 "Name": "La Tour-de-Peilz",
 "Code": "5889",
 "Places": [
@@ -43961,6 +43795,28 @@
 }
 ],
 "PostCode": "1820"
+},
+{
+"Name": "Blonay-Saint-Légier",
+"Code": "5892",
+"Places": [
+{
+"Name": "Blonay",
+"PostCode": "1807",
+"Location": {
+"Latitude": 46.4778,
+"Longitude": 6.922
+}
+},
+{
+"Name": "St-Légier-La Chiésaz",
+"PostCode": "1806",
+"Location": {
+"Latitude": 46.4899,
+"Longitude": 6.8982
+}
+}
+]
 }
 ]
 }
