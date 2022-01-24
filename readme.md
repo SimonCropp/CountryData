@@ -107,11 +107,6 @@ Country > State > Province > Community > Place
 However many countries do not have data for every level.
 
 
-## Security contact information
-
-To report a security vulnerability, use the [Tidelift security contact](https://tidelift.com/security). Tidelift will coordinate the fix and disclosure.
-
-
 ## Icon
 
 [World](https://thenounproject.com/term/world/956116/) designed by [Pedro Santos](https://thenounproject.com/pedrosantospt3) from [The Noun Project](https://thenounproject.com/pedrosantospt3).
