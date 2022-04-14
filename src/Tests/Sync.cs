@@ -99,9 +99,7 @@ public partial class CountryDataSet : DataSet
             {
                 writer.WriteLine($@"
     public ICountry {locationData.Value}()
-    {{
-        return CountryLoader.Load{locationData.Value}LocationData();
-    }}");
+        return CountryLoader.Load{locationData.Value}LocationData();");
             }
 
             writer.WriteLine("}");
@@ -194,8 +192,6 @@ public enum CurrencyCode
         return dictionary;
     }
 
-    static List<State> ProcessCountry(string country, List<PostCodeRow> rows, string directory)
-    {
-        return CountrySerializer.Serialize(country, rows, directory);
-    }
+    static List<State> ProcessCountry(string country, List<PostCodeRow> rows, string directory) =>
+        CountrySerializer.Serialize(country, rows, directory);
 }
