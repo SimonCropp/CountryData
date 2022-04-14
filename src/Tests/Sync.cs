@@ -74,10 +74,8 @@ public static partial class CountryLoader
             foreach (var locationData in keyToName)
             {
                 writer.WriteLine($@"
-    public static ICountry Load{locationData.Value}LocationData()
-    {{
-        return LoadLocationData(""{locationData.Key}"");
-    }}");
+    public static ICountry Load{locationData.Value}LocationData() =>
+        LoadLocationData(""{locationData.Key}"");");
             }
 
             writer.WriteLine("}");
@@ -87,9 +85,7 @@ public static partial class CountryLoader
         File.Delete(namedBogusData);
         using (var writer = File.CreateText(namedBogusData))
         {
-            writer.WriteLine(@"using Bogus;
-
-// ReSharper disable IdentifierTypo
+            writer.WriteLine(@"// ReSharper disable IdentifierTypo
 
 namespace CountryData.Bogus;
 

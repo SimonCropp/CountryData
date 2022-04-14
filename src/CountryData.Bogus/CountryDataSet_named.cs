@@ -1,5 +1,3 @@
-using Bogus;
-
 // ReSharper disable IdentifierTypo
 
 namespace CountryData.Bogus;
