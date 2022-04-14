@@ -93,15 +93,13 @@ public static partial class CountryLoader
 
 namespace CountryData.Bogus;
 
-public partial class CountryDataSet : DataSet
+public partial class CountryDataSet
 {");
             foreach (var locationData in keyToName)
             {
                 writer.WriteLine($@"
-    public ICountry {locationData.Value}()
-    {{
-        return CountryLoader.Load{locationData.Value}LocationData();
-    }}");
+    public ICountry {locationData.Value}() =>
+        CountryLoader.Load{locationData.Value}LocationData();");
             }
 
             writer.WriteLine("}");
@@ -194,8 +192,6 @@ public enum CurrencyCode
         return dictionary;
     }
 
-    static List<State> ProcessCountry(string country, List<PostCodeRow> rows, string directory)
-    {
-        return CountrySerializer.Serialize(country, rows, directory);
-    }
+    static List<State> ProcessCountry(string country, List<PostCodeRow> rows, string directory) =>
+        CountrySerializer.Serialize(country, rows, directory);
 }

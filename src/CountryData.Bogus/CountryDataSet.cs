@@ -14,10 +14,8 @@ public partial class CountryDataSet : DataSet
         }
     }
 
-    public string Name()
-    {
-        return CountryInfo().Name;
-    }
+    public string Name() =>
+        CountryInfo().Name;
 
     public IEnumerable<string> Capitals(int num = 1)
     {
@@ -28,10 +26,8 @@ public partial class CountryDataSet : DataSet
         }
     }
 
-    public string Capital()
-    {
-        return CountryInfo().Capital;
-    }
+    public string Capital() =>
+        CountryInfo().Capital;
 
     public IEnumerable<string> Continents(int num = 1)
     {
@@ -42,10 +38,8 @@ public partial class CountryDataSet : DataSet
         }
     }
 
-    public string Continent()
-    {
-        return CountryInfo().Continent;
-    }
+    public string Continent() =>
+        CountryInfo().Continent;
 
     public IEnumerable<string> PhonePrefixs(int num = 1)
     {
@@ -56,10 +50,8 @@ public partial class CountryDataSet : DataSet
         }
     }
 
-    public string PhonePrefix()
-    {
-        return CountryInfo().PhonePrefix;
-    }
+    public string PhonePrefix() =>
+        CountryInfo().PhonePrefix;
 
     public IEnumerable<string> PostCodeFormats(int num = 1)
     {
@@ -70,10 +62,8 @@ public partial class CountryDataSet : DataSet
         }
     }
 
-    public string PostCodeFormat()
-    {
-        return CountryInfo().PostCodeFormat;
-    }
+    public string PostCodeFormat() =>
+        CountryInfo().PostCodeFormat;
 
     public IEnumerable<string> PostCodeRegexs(int num = 1)
     {
@@ -84,10 +74,8 @@ public partial class CountryDataSet : DataSet
         }
     }
 
-    public string PostCodeRegex()
-    {
-        return CountryInfo().PostCodeRegex;
-    }
+    public string PostCodeRegex() =>
+        CountryInfo().PostCodeRegex;
 
     public IEnumerable<string> TopLevelDomains(int num = 1)
     {
@@ -98,10 +86,8 @@ public partial class CountryDataSet : DataSet
         }
     }
 
-    public string TopLevelDomain()
-    {
-        return CountryInfo().TopLevelDomain;
-    }
+    public string TopLevelDomain() =>
+        CountryInfo().TopLevelDomain;
 
     public IEnumerable<ushort> IsoNumerics(int num = 1)
     {
@@ -112,10 +98,8 @@ public partial class CountryDataSet : DataSet
         }
     }
 
-    public ushort IsoNumeric()
-    {
-        return CountryInfo().IsoNumeric;
-    }
+    public ushort IsoNumeric() =>
+        CountryInfo().IsoNumeric;
 
     public IEnumerable<ICountryInfo> CountryInfo(int num = 1)
     {

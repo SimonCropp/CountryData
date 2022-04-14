@@ -4,476 +4,288 @@ using Bogus;
 
 namespace CountryData.Bogus;
 
-public partial class CountryDataSet : DataSet
+public partial class CountryDataSet
 {
 
-    public ICountry Andorra()
-    {
-        return CountryLoader.LoadAndorraLocationData();
-    }
-
-    public ICountry Argentina()
-    {
-        return CountryLoader.LoadArgentinaLocationData();
-    }
-
-    public ICountry AmericanSamoa()
-    {
-        return CountryLoader.LoadAmericanSamoaLocationData();
-    }
-
-    public ICountry Austria()
-    {
-        return CountryLoader.LoadAustriaLocationData();
-    }
-
-    public ICountry Australia()
-    {
-        return CountryLoader.LoadAustraliaLocationData();
-    }
-
-    public ICountry AlandIslands()
-    {
-        return CountryLoader.LoadAlandIslandsLocationData();
-    }
-
-    public ICountry Azerbaijan()
-    {
-        return CountryLoader.LoadAzerbaijanLocationData();
-    }
-
-    public ICountry Bangladesh()
-    {
-        return CountryLoader.LoadBangladeshLocationData();
-    }
-
-    public ICountry Belgium()
-    {
-        return CountryLoader.LoadBelgiumLocationData();
-    }
-
-    public ICountry Bulgaria()
-    {
-        return CountryLoader.LoadBulgariaLocationData();
-    }
-
-    public ICountry Bermuda()
-    {
-        return CountryLoader.LoadBermudaLocationData();
-    }
-
-    public ICountry Brazil()
-    {
-        return CountryLoader.LoadBrazilLocationData();
-    }
-
-    public ICountry Belarus()
-    {
-        return CountryLoader.LoadBelarusLocationData();
-    }
-
-    public ICountry Canada()
-    {
-        return CountryLoader.LoadCanadaLocationData();
-    }
-
-    public ICountry Switzerland()
-    {
-        return CountryLoader.LoadSwitzerlandLocationData();
-    }
-
-    public ICountry Chile()
-    {
-        return CountryLoader.LoadChileLocationData();
-    }
-
-    public ICountry Colombia()
-    {
-        return CountryLoader.LoadColombiaLocationData();
-    }
-
-    public ICountry CostaRica()
-    {
-        return CountryLoader.LoadCostaRicaLocationData();
-    }
-
-    public ICountry Cyprus()
-    {
-        return CountryLoader.LoadCyprusLocationData();
-    }
-
-    public ICountry Czechia()
-    {
-        return CountryLoader.LoadCzechiaLocationData();
-    }
-
-    public ICountry Germany()
-    {
-        return CountryLoader.LoadGermanyLocationData();
-    }
-
-    public ICountry Denmark()
-    {
-        return CountryLoader.LoadDenmarkLocationData();
-    }
-
-    public ICountry DominicanRepublic()
-    {
-        return CountryLoader.LoadDominicanRepublicLocationData();
-    }
-
-    public ICountry Algeria()
-    {
-        return CountryLoader.LoadAlgeriaLocationData();
-    }
-
-    public ICountry Estonia()
-    {
-        return CountryLoader.LoadEstoniaLocationData();
-    }
-
-    public ICountry Spain()
-    {
-        return CountryLoader.LoadSpainLocationData();
-    }
-
-    public ICountry Finland()
-    {
-        return CountryLoader.LoadFinlandLocationData();
-    }
-
-    public ICountry Micronesia()
-    {
-        return CountryLoader.LoadMicronesiaLocationData();
-    }
-
-    public ICountry FaroeIslands()
-    {
-        return CountryLoader.LoadFaroeIslandsLocationData();
-    }
-
-    public ICountry France()
-    {
-        return CountryLoader.LoadFranceLocationData();
-    }
-
-    public ICountry UnitedKingdom()
-    {
-        return CountryLoader.LoadUnitedKingdomLocationData();
-    }
-
-    public ICountry FrenchGuiana()
-    {
-        return CountryLoader.LoadFrenchGuianaLocationData();
-    }
-
-    public ICountry Guernsey()
-    {
-        return CountryLoader.LoadGuernseyLocationData();
-    }
-
-    public ICountry Greenland()
-    {
-        return CountryLoader.LoadGreenlandLocationData();
-    }
-
-    public ICountry Guadeloupe()
-    {
-        return CountryLoader.LoadGuadeloupeLocationData();
-    }
-
-    public ICountry Guatemala()
-    {
-        return CountryLoader.LoadGuatemalaLocationData();
-    }
-
-    public ICountry Guam()
-    {
-        return CountryLoader.LoadGuamLocationData();
-    }
-
-    public ICountry Croatia()
-    {
-        return CountryLoader.LoadCroatiaLocationData();
-    }
-
-    public ICountry Hungary()
-    {
-        return CountryLoader.LoadHungaryLocationData();
-    }
-
-    public ICountry Ireland()
-    {
-        return CountryLoader.LoadIrelandLocationData();
-    }
-
-    public ICountry IsleOfMan()
-    {
-        return CountryLoader.LoadIsleOfManLocationData();
-    }
-
-    public ICountry India()
-    {
-        return CountryLoader.LoadIndiaLocationData();
-    }
-
-    public ICountry Iceland()
-    {
-        return CountryLoader.LoadIcelandLocationData();
-    }
-
-    public ICountry Italy()
-    {
-        return CountryLoader.LoadItalyLocationData();
-    }
-
-    public ICountry Jersey()
-    {
-        return CountryLoader.LoadJerseyLocationData();
-    }
-
-    public ICountry Japan()
-    {
-        return CountryLoader.LoadJapanLocationData();
-    }
-
-    public ICountry SouthKorea()
-    {
-        return CountryLoader.LoadSouthKoreaLocationData();
-    }
-
-    public ICountry Liechtenstein()
-    {
-        return CountryLoader.LoadLiechtensteinLocationData();
-    }
-
-    public ICountry SriLanka()
-    {
-        return CountryLoader.LoadSriLankaLocationData();
-    }
-
-    public ICountry Lithuania()
-    {
-        return CountryLoader.LoadLithuaniaLocationData();
-    }
-
-    public ICountry Luxembourg()
-    {
-        return CountryLoader.LoadLuxembourgLocationData();
-    }
-
-    public ICountry Latvia()
-    {
-        return CountryLoader.LoadLatviaLocationData();
-    }
-
-    public ICountry Monaco()
-    {
-        return CountryLoader.LoadMonacoLocationData();
-    }
-
-    public ICountry Moldova()
-    {
-        return CountryLoader.LoadMoldovaLocationData();
-    }
-
-    public ICountry MarshallIslands()
-    {
-        return CountryLoader.LoadMarshallIslandsLocationData();
-    }
-
-    public ICountry NorthMacedonia()
-    {
-        return CountryLoader.LoadNorthMacedoniaLocationData();
-    }
-
-    public ICountry NorthernMarianaIslands()
-    {
-        return CountryLoader.LoadNorthernMarianaIslandsLocationData();
-    }
-
-    public ICountry Martinique()
-    {
-        return CountryLoader.LoadMartiniqueLocationData();
-    }
-
-    public ICountry Malta()
-    {
-        return CountryLoader.LoadMaltaLocationData();
-    }
-
-    public ICountry Malawi()
-    {
-        return CountryLoader.LoadMalawiLocationData();
-    }
-
-    public ICountry Mexico()
-    {
-        return CountryLoader.LoadMexicoLocationData();
-    }
-
-    public ICountry Malaysia()
-    {
-        return CountryLoader.LoadMalaysiaLocationData();
-    }
-
-    public ICountry NewCaledonia()
-    {
-        return CountryLoader.LoadNewCaledoniaLocationData();
-    }
-
-    public ICountry Netherlands()
-    {
-        return CountryLoader.LoadNetherlandsLocationData();
-    }
-
-    public ICountry Norway()
-    {
-        return CountryLoader.LoadNorwayLocationData();
-    }
-
-    public ICountry NewZealand()
-    {
-        return CountryLoader.LoadNewZealandLocationData();
-    }
-
-    public ICountry Peru()
-    {
-        return CountryLoader.LoadPeruLocationData();
-    }
-
-    public ICountry Philippines()
-    {
-        return CountryLoader.LoadPhilippinesLocationData();
-    }
-
-    public ICountry Pakistan()
-    {
-        return CountryLoader.LoadPakistanLocationData();
-    }
-
-    public ICountry Poland()
-    {
-        return CountryLoader.LoadPolandLocationData();
-    }
-
-    public ICountry SaintPierreAndMiquelon()
-    {
-        return CountryLoader.LoadSaintPierreAndMiquelonLocationData();
-    }
-
-    public ICountry PuertoRico()
-    {
-        return CountryLoader.LoadPuertoRicoLocationData();
-    }
-
-    public ICountry Portugal()
-    {
-        return CountryLoader.LoadPortugalLocationData();
-    }
-
-    public ICountry Palau()
-    {
-        return CountryLoader.LoadPalauLocationData();
-    }
-
-    public ICountry Reunion()
-    {
-        return CountryLoader.LoadReunionLocationData();
-    }
-
-    public ICountry Romania()
-    {
-        return CountryLoader.LoadRomaniaLocationData();
-    }
-
-    public ICountry Serbia()
-    {
-        return CountryLoader.LoadSerbiaLocationData();
-    }
-
-    public ICountry Russia()
-    {
-        return CountryLoader.LoadRussiaLocationData();
-    }
-
-    public ICountry Sweden()
-    {
-        return CountryLoader.LoadSwedenLocationData();
-    }
-
-    public ICountry Singapore()
-    {
-        return CountryLoader.LoadSingaporeLocationData();
-    }
-
-    public ICountry Slovenia()
-    {
-        return CountryLoader.LoadSloveniaLocationData();
-    }
-
-    public ICountry SvalbardAndJanMayen()
-    {
-        return CountryLoader.LoadSvalbardAndJanMayenLocationData();
-    }
-
-    public ICountry Slovakia()
-    {
-        return CountryLoader.LoadSlovakiaLocationData();
-    }
-
-    public ICountry SanMarino()
-    {
-        return CountryLoader.LoadSanMarinoLocationData();
-    }
-
-    public ICountry Thailand()
-    {
-        return CountryLoader.LoadThailandLocationData();
-    }
-
-    public ICountry Turkey()
-    {
-        return CountryLoader.LoadTurkeyLocationData();
-    }
-
-    public ICountry Ukraine()
-    {
-        return CountryLoader.LoadUkraineLocationData();
-    }
-
-    public ICountry UnitedStates()
-    {
-        return CountryLoader.LoadUnitedStatesLocationData();
-    }
-
-    public ICountry Uruguay()
-    {
-        return CountryLoader.LoadUruguayLocationData();
-    }
-
-    public ICountry Vatican()
-    {
-        return CountryLoader.LoadVaticanLocationData();
-    }
-
-    public ICountry USVirginIslands()
-    {
-        return CountryLoader.LoadUSVirginIslandsLocationData();
-    }
-
-    public ICountry WallisAndFutuna()
-    {
-        return CountryLoader.LoadWallisAndFutunaLocationData();
-    }
-
-    public ICountry Mayotte()
-    {
-        return CountryLoader.LoadMayotteLocationData();
-    }
-
-    public ICountry SouthAfrica()
-    {
-        return CountryLoader.LoadSouthAfricaLocationData();
-    }
+    public ICountry Andorra() =>
+        CountryLoader.LoadAndorraLocationData();
+
+    public ICountry Argentina() =>
+        CountryLoader.LoadArgentinaLocationData();
+
+    public ICountry AmericanSamoa() =>
+        CountryLoader.LoadAmericanSamoaLocationData();
+
+    public ICountry Austria() =>
+        CountryLoader.LoadAustriaLocationData();
+
+    public ICountry Australia() =>
+        CountryLoader.LoadAustraliaLocationData();
+
+    public ICountry AlandIslands() =>
+        CountryLoader.LoadAlandIslandsLocationData();
+
+    public ICountry Azerbaijan() =>
+        CountryLoader.LoadAzerbaijanLocationData();
+
+    public ICountry Bangladesh() =>
+        CountryLoader.LoadBangladeshLocationData();
+
+    public ICountry Belgium() =>
+        CountryLoader.LoadBelgiumLocationData();
+
+    public ICountry Bulgaria() =>
+        CountryLoader.LoadBulgariaLocationData();
+
+    public ICountry Bermuda() =>
+        CountryLoader.LoadBermudaLocationData();
+
+    public ICountry Brazil() =>
+        CountryLoader.LoadBrazilLocationData();
+
+    public ICountry Belarus() =>
+        CountryLoader.LoadBelarusLocationData();
+
+    public ICountry Canada() =>
+        CountryLoader.LoadCanadaLocationData();
+
+    public ICountry Switzerland() =>
+        CountryLoader.LoadSwitzerlandLocationData();
+
+    public ICountry Chile() =>
+        CountryLoader.LoadChileLocationData();
+
+    public ICountry Colombia() =>
+        CountryLoader.LoadColombiaLocationData();
+
+    public ICountry CostaRica() =>
+        CountryLoader.LoadCostaRicaLocationData();
+
+    public ICountry Cyprus() =>
+        CountryLoader.LoadCyprusLocationData();
+
+    public ICountry Czechia() =>
+        CountryLoader.LoadCzechiaLocationData();
+
+    public ICountry Germany() =>
+        CountryLoader.LoadGermanyLocationData();
+
+    public ICountry Denmark() =>
+        CountryLoader.LoadDenmarkLocationData();
+
+    public ICountry DominicanRepublic() =>
+        CountryLoader.LoadDominicanRepublicLocationData();
+
+    public ICountry Algeria() =>
+        CountryLoader.LoadAlgeriaLocationData();
+
+    public ICountry Estonia() =>
+        CountryLoader.LoadEstoniaLocationData();
+
+    public ICountry Spain() =>
+        CountryLoader.LoadSpainLocationData();
+
+    public ICountry Finland() =>
+        CountryLoader.LoadFinlandLocationData();
+
+    public ICountry Micronesia() =>
+        CountryLoader.LoadMicronesiaLocationData();
+
+    public ICountry FaroeIslands() =>
+        CountryLoader.LoadFaroeIslandsLocationData();
+
+    public ICountry France() =>
+        CountryLoader.LoadFranceLocationData();
+
+    public ICountry UnitedKingdom() =>
+        CountryLoader.LoadUnitedKingdomLocationData();
+
+    public ICountry FrenchGuiana() =>
+        CountryLoader.LoadFrenchGuianaLocationData();
+
+    public ICountry Guernsey() =>
+        CountryLoader.LoadGuernseyLocationData();
+
+    public ICountry Greenland() =>
+        CountryLoader.LoadGreenlandLocationData();
+
+    public ICountry Guadeloupe() =>
+        CountryLoader.LoadGuadeloupeLocationData();
+
+    public ICountry Guatemala() =>
+        CountryLoader.LoadGuatemalaLocationData();
+
+    public ICountry Guam() =>
+        CountryLoader.LoadGuamLocationData();
+
+    public ICountry Croatia() =>
+        CountryLoader.LoadCroatiaLocationData();
+
+    public ICountry Hungary() =>
+        CountryLoader.LoadHungaryLocationData();
+
+    public ICountry Ireland() =>
+        CountryLoader.LoadIrelandLocationData();
+
+    public ICountry IsleOfMan() =>
+        CountryLoader.LoadIsleOfManLocationData();
+
+    public ICountry India() =>
+        CountryLoader.LoadIndiaLocationData();
+
+    public ICountry Iceland() =>
+        CountryLoader.LoadIcelandLocationData();
+
+    public ICountry Italy() =>
+        CountryLoader.LoadItalyLocationData();
+
+    public ICountry Jersey() =>
+        CountryLoader.LoadJerseyLocationData();
+
+    public ICountry Japan() =>
+        CountryLoader.LoadJapanLocationData();
+
+    public ICountry SouthKorea() =>
+        CountryLoader.LoadSouthKoreaLocationData();
+
+    public ICountry Liechtenstein() =>
+        CountryLoader.LoadLiechtensteinLocationData();
+
+    public ICountry SriLanka() =>
+        CountryLoader.LoadSriLankaLocationData();
+
+    public ICountry Lithuania() =>
+        CountryLoader.LoadLithuaniaLocationData();
+
+    public ICountry Luxembourg() =>
+        CountryLoader.LoadLuxembourgLocationData();
+
+    public ICountry Latvia() =>
+        CountryLoader.LoadLatviaLocationData();
+
+    public ICountry Monaco() =>
+        CountryLoader.LoadMonacoLocationData();
+
+    public ICountry Moldova() =>
+        CountryLoader.LoadMoldovaLocationData();
+
+    public ICountry MarshallIslands() =>
+        CountryLoader.LoadMarshallIslandsLocationData();
+
+    public ICountry NorthMacedonia() =>
+        CountryLoader.LoadNorthMacedoniaLocationData();
+
+    public ICountry NorthernMarianaIslands() =>
+        CountryLoader.LoadNorthernMarianaIslandsLocationData();
+
+    public ICountry Martinique() =>
+        CountryLoader.LoadMartiniqueLocationData();
+
+    public ICountry Malta() =>
+        CountryLoader.LoadMaltaLocationData();
+
+    public ICountry Malawi() =>
+        CountryLoader.LoadMalawiLocationData();
+
+    public ICountry Mexico() =>
+        CountryLoader.LoadMexicoLocationData();
+
+    public ICountry Malaysia() =>
+        CountryLoader.LoadMalaysiaLocationData();
+
+    public ICountry NewCaledonia() =>
+        CountryLoader.LoadNewCaledoniaLocationData();
+
+    public ICountry Netherlands() =>
+        CountryLoader.LoadNetherlandsLocationData();
+
+    public ICountry Norway() =>
+        CountryLoader.LoadNorwayLocationData();
+
+    public ICountry NewZealand() =>
+        CountryLoader.LoadNewZealandLocationData();
+
+    public ICountry Peru() =>
+        CountryLoader.LoadPeruLocationData();
+
+    public ICountry Philippines() =>
+        CountryLoader.LoadPhilippinesLocationData();
+
+    public ICountry Pakistan() =>
+        CountryLoader.LoadPakistanLocationData();
+
+    public ICountry Poland() =>
+        CountryLoader.LoadPolandLocationData();
+
+    public ICountry SaintPierreAndMiquelon() =>
+        CountryLoader.LoadSaintPierreAndMiquelonLocationData();
+
+    public ICountry PuertoRico() =>
+        CountryLoader.LoadPuertoRicoLocationData();
+
+    public ICountry Portugal() =>
+        CountryLoader.LoadPortugalLocationData();
+
+    public ICountry Palau() =>
+        CountryLoader.LoadPalauLocationData();
+
+    public ICountry Reunion() =>
+        CountryLoader.LoadReunionLocationData();
+
+    public ICountry Romania() =>
+        CountryLoader.LoadRomaniaLocationData();
+
+    public ICountry Serbia() =>
+        CountryLoader.LoadSerbiaLocationData();
+
+    public ICountry Russia() =>
+        CountryLoader.LoadRussiaLocationData();
+
+    public ICountry Sweden() =>
+        CountryLoader.LoadSwedenLocationData();
+
+    public ICountry Singapore() =>
+        CountryLoader.LoadSingaporeLocationData();
+
+    public ICountry Slovenia() =>
+        CountryLoader.LoadSloveniaLocationData();
+
+    public ICountry SvalbardAndJanMayen() =>
+        CountryLoader.LoadSvalbardAndJanMayenLocationData();
+
+    public ICountry Slovakia() =>
+        CountryLoader.LoadSlovakiaLocationData();
+
+    public ICountry SanMarino() =>
+        CountryLoader.LoadSanMarinoLocationData();
+
+    public ICountry Thailand() =>
+        CountryLoader.LoadThailandLocationData();
+
+    public ICountry Turkey() =>
+        CountryLoader.LoadTurkeyLocationData();
+
+    public ICountry Ukraine() =>
+        CountryLoader.LoadUkraineLocationData();
+
+    public ICountry UnitedStates() =>
+        CountryLoader.LoadUnitedStatesLocationData();
+
+    public ICountry Uruguay() =>
+        CountryLoader.LoadUruguayLocationData();
+
+    public ICountry Vatican() =>
+        CountryLoader.LoadVaticanLocationData();
+
+    public ICountry USVirginIslands() =>
+        CountryLoader.LoadUSVirginIslandsLocationData();
+
+    public ICountry WallisAndFutuna() =>
+        CountryLoader.LoadWallisAndFutunaLocationData();
+
+    public ICountry Mayotte() =>
+        CountryLoader.LoadMayotteLocationData();
+
+    public ICountry SouthAfrica() =>
+        CountryLoader.LoadSouthAfricaLocationData();
 }
