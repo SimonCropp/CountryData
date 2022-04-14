@@ -14,8 +14,10 @@ public partial class CountryDataSet : DataSet
         }
     }
 
-    public string Name() =>
-        CountryInfo().Name;
+    public string Name()
+    {
+        return CountryInfo().Name;
+    }
 
     public IEnumerable<string> Capitals(int num = 1)
     {
