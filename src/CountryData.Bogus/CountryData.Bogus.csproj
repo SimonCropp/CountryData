@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <Description>Extends Bogus (https://github.com/bchavez/Bogus) to use [GeoNames Data](https://www.geonames.org/).</Description>
     <DefineConstants>$(DefineConstants);Bogus</DefineConstants>
   </PropertyGroup>
