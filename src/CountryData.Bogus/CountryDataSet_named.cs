@@ -119,6 +119,9 @@ public partial class CountryDataSet
     public ICountry Croatia() =>
         CountryLoader.LoadCroatiaLocationData();
 
+    public ICountry Haiti() =>
+        CountryLoader.LoadHaitiLocationData();
+
     public ICountry Hungary() =>
         CountryLoader.LoadHungaryLocationData();
 

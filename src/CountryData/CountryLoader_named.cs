@@ -120,6 +120,9 @@ public static partial class CountryLoader
     public static ICountry LoadCroatiaLocationData() =>
         LoadLocationData("HR");
 
+    public static ICountry LoadHaitiLocationData() =>
+        LoadLocationData("HT");
+
     public static ICountry LoadHungaryLocationData() =>
         LoadLocationData("HU");
 
