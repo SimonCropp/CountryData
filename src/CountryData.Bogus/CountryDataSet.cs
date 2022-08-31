@@ -17,7 +17,7 @@ public partial class CountryDataSet : DataSet
     public string Name() =>
         CountryInfo().Name;
 
-    public IEnumerable<string> Capitals(int num = 1)
+    public IEnumerable<string?> Capitals(int num = 1)
     {
         Guard.AgainstNegative(num, nameof(num));
         for (var i = 0; i < num; i++)
@@ -26,7 +26,7 @@ public partial class CountryDataSet : DataSet
         }
     }
 
-    public string Capital() =>
+    public string? Capital() =>
         CountryInfo().Capital;
 
     public IEnumerable<string> Continents(int num = 1)
@@ -41,7 +41,7 @@ public partial class CountryDataSet : DataSet
     public string Continent() =>
         CountryInfo().Continent;
 
-    public IEnumerable<string> PhonePrefixs(int num = 1)
+    public IEnumerable<string?> PhonePrefixs(int num = 1)
     {
         Guard.AgainstNegative(num, nameof(num));
         for (var i = 0; i < num; i++)
@@ -50,10 +50,10 @@ public partial class CountryDataSet : DataSet
         }
     }
 
-    public string PhonePrefix() =>
+    public string? PhonePrefix() =>
         CountryInfo().PhonePrefix;
 
-    public IEnumerable<string> PostCodeFormats(int num = 1)
+    public IEnumerable<string?> PostCodeFormats(int num = 1)
     {
         Guard.AgainstNegative(num, nameof(num));
         for (var i = 0; i < num; i++)
@@ -62,10 +62,10 @@ public partial class CountryDataSet : DataSet
         }
     }
 
-    public string PostCodeFormat() =>
+    public string? PostCodeFormat() =>
         CountryInfo().PostCodeFormat;
 
-    public IEnumerable<string> PostCodeRegexs(int num = 1)
+    public IEnumerable<string?> PostCodeRegexs(int num = 1)
     {
         Guard.AgainstNegative(num, nameof(num));
         for (var i = 0; i < num; i++)
@@ -74,10 +74,10 @@ public partial class CountryDataSet : DataSet
         }
     }
 
-    public string PostCodeRegex() =>
+    public string? PostCodeRegex() =>
         CountryInfo().PostCodeRegex;
 
-    public IEnumerable<string> TopLevelDomains(int num = 1)
+    public IEnumerable<string?> TopLevelDomains(int num = 1)
     {
         Guard.AgainstNegative(num, nameof(num));
         for (var i = 0; i < num; i++)
@@ -86,7 +86,7 @@ public partial class CountryDataSet : DataSet
         }
     }
 
-    public string TopLevelDomain() =>
+    public string? TopLevelDomain() =>
         CountryInfo().TopLevelDomain;
 
     public IEnumerable<ushort> IsoNumerics(int num = 1)

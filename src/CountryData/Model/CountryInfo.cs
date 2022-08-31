@@ -7,16 +7,16 @@ public interface ICountryInfo
     string Iso3 { get; }
     ushort IsoNumeric { get; }
     Fips? Fips { get; }
-    string Capital { get; }
+    string? Capital { get; }
     double? Area { get; }
     uint Population { get; }
     string Continent { get; }
-    string TopLevelDomain { get; }
+    string? TopLevelDomain { get; }
     CurrencyCode? CurrencyCode { get; }
     string? CurrencyName { get; }
-    string PhonePrefix { get; }
-    string PostCodeFormat { get; }
-    string PostCodeRegex { get; }
+    string? PhonePrefix { get; }
+    string? PostCodeFormat { get; }
+    string? PostCodeRegex { get; }
     IReadOnlyList<string> Languages { get; }
 }
 

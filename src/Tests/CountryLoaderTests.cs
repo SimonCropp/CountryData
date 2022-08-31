@@ -1,8 +1,26 @@
 ﻿using CountryData;
+using Xunit.Abstractions;
 
 [UsesVerify]
 public class CountryLoaderTests
 {
+    ITestOutputHelper testOutputHelper;
+
+    public CountryLoaderTests(ITestOutputHelper testOutputHelper) =>
+        this.testOutputHelper = testOutputHelper;
+
+    [Fact]
+    public void WritePostCodeRegex()
+    {
+        foreach (var info in CountryLoader.CountryInfo)
+        {
+            if (info.PostCodeRegex != null)
+            {
+                testOutputHelper.WriteLine(info.Name + " " + info.PostCodeRegex);
+            }
+        }
+    }
+
     [Fact]
     public Task LoadLocationData()
     {
