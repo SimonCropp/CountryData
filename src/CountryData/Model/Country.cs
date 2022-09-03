@@ -7,16 +7,16 @@ public interface ICountry
     string Iso3 { get; }
     ushort IsoNumeric { get; }
     Fips? Fips { get; }
-    string Capital { get; }
+    string? Capital { get; }
     double? Area { get; }
     uint Population { get; }
     string Continent { get; }
-    string TopLevelDomain { get; }
+    string? TopLevelDomain { get; }
     CurrencyCode? CurrencyCode { get; }
     string? CurrencyName { get; }
-    string PhonePrefix { get; }
-    string PostCodeFormat { get; }
-    string PostCodeRegex { get; }
+    string? PhonePrefix { get; }
+    string? PostCodeFormat { get; }
+    string? PostCodeRegex { get; }
     IReadOnlyList<string> Languages { get; }
     IReadOnlyList<IState> States { get; }
 }
@@ -30,16 +30,16 @@ class Country :
     public string Iso3 { get; set; } = null!;
     public ushort IsoNumeric { get; set; }
     public Fips? Fips { get; set; }
-    public string Capital { get; set; } = null!;
+    public string? Capital { get; set; } = null!;
     public double? Area { get; set; }
     public uint Population { get; set; }
     public string Continent { get; set; } = null!;
-    public string TopLevelDomain { get; set; } = null!;
+    public string? TopLevelDomain { get; set; }
     public CurrencyCode? CurrencyCode { get; set; }
     public string? CurrencyName { get; set; }
-    public string PhonePrefix { get; set; } = null!;
-    public string PostCodeFormat { get; set; } = null!;
-    public string PostCodeRegex { get; set; } = null!;
+    public string? PhonePrefix { get; set; }
+    public string? PostCodeFormat { get; set; }
+    public string? PostCodeRegex { get; set; }
     public IReadOnlyList<string> Languages { get; set; } = null!;
     public IReadOnlyList<IState> States { get; set; } = null!;
 }
