@@ -164,6 +164,9 @@ public partial class CountryDataSet
     public ICountry Latvia() =>
         CountryLoader.LoadLatviaLocationData();
 
+    public ICountry Morocco() =>
+        CountryLoader.LoadMoroccoLocationData();
+
     public ICountry Monaco() =>
         CountryLoader.LoadMonacoLocationData();
 

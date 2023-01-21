@@ -165,6 +165,9 @@ public static partial class CountryLoader
     public static ICountry LoadLatviaLocationData() =>
         LoadLocationData("LV");
 
+    public static ICountry LoadMoroccoLocationData() =>
+        LoadLocationData("MA");
+
     public static ICountry LoadMonacoLocationData() =>
         LoadLocationData("MC");
 

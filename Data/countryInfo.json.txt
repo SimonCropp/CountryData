@@ -253,7 +253,7 @@
 "Languages": [
 "en",
 "zh",
-"ms-CC"
+"ms-CX"
 ]
 },
 {
@@ -1092,7 +1092,7 @@
 "Fips": "ER",
 "Capital": "Asmara",
 "Area": 121320.0,
-"Population": 0,
+"Population": 6209262,
 "Continent": "AF",
 "TopLevelDomain": ".er",
 "CurrencyCode": "ERN",
@@ -1430,6 +1430,27 @@
 "el-GR",
 "en",
 "fr"
+]
+},
+{
+"Name": "Croatia",
+"Iso": "HR",
+"Iso3": "HRV",
+"IsoNumeric": 191,
+"Fips": "HR",
+"Capital": "Zagreb",
+"Area": 56542.0,
+"Population": 4089400,
+"Continent": "EU",
+"TopLevelDomain": ".hr",
+"CurrencyCode": "EUR",
+"CurrencyName": "Euro",
+"PhonePrefix": "385",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(?:HR)*(\\d{5})$",
+"Languages": [
+"hr-HR",
+"sr"
 ]
 },
 {
@@ -2197,27 +2218,6 @@
 "es-HN",
 "cab",
 "miq"
-]
-},
-{
-"Name": "Croatia",
-"Iso": "HR",
-"Iso3": "HRV",
-"IsoNumeric": 191,
-"Fips": "HR",
-"Capital": "Zagreb",
-"Area": 56542.0,
-"Population": 4089400,
-"Continent": "EU",
-"TopLevelDomain": ".hr",
-"CurrencyCode": "HRK",
-"CurrencyName": "Kuna",
-"PhonePrefix": "385",
-"PostCodeFormat": "#####",
-"PostCodeRegex": "^(?:HR)*(\\d{5})$",
-"Languages": [
-"hr-HR",
-"sr"
 ]
 },
 {
@@ -3486,7 +3486,6 @@
 "en-PH",
 "fil",
 "ceb",
-"tgl",
 "ilo",
 "hil",
 "war",
@@ -3696,7 +3695,6 @@
 "chm",
 "ba",
 "inh",
-"tut",
 "kbd",
 "krc",
 "av",
@@ -5320,6 +5318,9 @@
 "sn",
 "nr",
 "nd"
+]
+}
+]"
 ]
 }
 ]

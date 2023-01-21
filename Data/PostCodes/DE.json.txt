@@ -126307,21 +126307,6 @@
 ]
 },
 {
-"Name": "Eisenach, Stadt",
-"Code": "16056",
-"Places": [
-{
-"Name": "Eisenach",
-"PostCode": "99817",
-"Location": {
-"Latitude": 50.9807,
-"Longitude": 10.3152
-}
-}
-],
-"PostCode": "99817"
-},
-{
 "Name": "Eichsfeld",
 "Code": "16061",
 "Places": [
@@ -127487,6 +127472,14 @@
 "Location": {
 "Latitude": 51.0833,
 "Longitude": 10.3
+}
+},
+{
+"Name": "Eisenach",
+"PostCode": "99817",
+"Location": {
+"Latitude": 50.9807,
+"Longitude": 10.3152
 }
 },
 {

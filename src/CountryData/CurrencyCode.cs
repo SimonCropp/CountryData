@@ -58,7 +58,6 @@ public enum CurrencyCode
     GYD,
     HKD,
     HNL,
-    HRK,
     HTG,
     HUF,
     IDR,
