@@ -17,6 +17,7 @@ static class JsonSerializer
 
     public static void Serialize(object value, string path)
     {
+        File.Delete(path);
         using var fileStream = File.OpenWrite(path);
         using var textWriter = new StreamWriter(fileStream);
         using var jsonTextWriter = new JsonTextWriter(textWriter)
