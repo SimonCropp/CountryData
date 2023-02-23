@@ -7,7 +7,7 @@
             Directory.CreateDirectory(directory);
             return;
         }
-        DirectoryInfo root = new(directory);
+        var root = new DirectoryInfo(directory);
 
         foreach (var file in root.GetFiles())
         {

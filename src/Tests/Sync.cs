@@ -21,11 +21,11 @@ public class Sync
 
         var list = PostCodeRowReader.ReadRows(allCountriesTxtPath).ToList();
         var groupByCountry = list
-            .GroupBy(x => x.CountryCode)
-            .OrderBy(x => x.Key)
+            .GroupBy(_ => _.CountryCode)
+            .OrderBy(_ => _.Key)
             .ToList();
         File.Delete(countriesPath);
-        await File.WriteAllLinesAsync(countriesPath, groupByCountry.Select(x => x.Key.ToLower()));
+        await File.WriteAllLinesAsync(countriesPath, groupByCountry.Select(_ => _.Key.ToLower()));
         var countryLocationData = WriteRows(DataLocations.PostCodesPath, groupByCountry);
 
         var postcodeZip = Path.Combine(DataLocations.DataPath, "postcodes.zip");
@@ -38,12 +38,12 @@ public class Sync
 
     static void WriteNamedCountryCs(List<CountryInfo> countryInfos, IDictionary<string, List<State>> countryLocationData)
     {
-        Dictionary<string, string> keyToName = new();
+        var keyToName = new Dictionary<string, string>();
         var cultureInfo = new CultureInfo("en-US", false).TextInfo;
         foreach (var locationKey in countryLocationData.Keys)
         {
             var name = countryInfos
-                .Single(x => x.Iso == locationKey)
+                .Single(_ => _.Iso == locationKey)
                 .Name;
 
             name = cultureInfo.ToTitleCase(name);
@@ -139,8 +139,8 @@ public enum CurrencyCode
 {");
 
         foreach (var code in countryInfos
-            .Select(x => x.CurrencyCode)
-            .Where(x => x is not null)
+            .Select(_ => _.CurrencyCode)
+            .Where(_ => _ is not null)
             .Distinct())
         {
             currencyCodeWriter.WriteLine($"    {code},");
@@ -170,7 +170,7 @@ public enum CurrencyCode
 
         var path = Path.Combine(DataLocations.DataPath, "countryInfo.json.txt");
         var value = CountryInfoRowReader.ReadRows(countryInfoPath)
-            .OrderBy(x => x.CurrencyCode)
+            .OrderBy(_ => _.CurrencyCode)
             .ToList();
         JsonSerializer.Serialize(value, path);
         return value;
@@ -182,7 +182,7 @@ public enum CurrencyCode
         var dictionary = new SortedDictionary<string, List<State>>();
         foreach (var group in groupByCountry)
         {
-            dictionary.Add(group.Key, ProcessCountry(group.Key, group.OrderBy(x => x.CountryCode).ToList(), jsonPath));
+            dictionary.Add(group.Key, ProcessCountry(group.Key, group.OrderBy(_ => _.CountryCode).ToList(), jsonPath));
         }
 
         return dictionary;

@@ -6,7 +6,7 @@ static class CountryInfoRowReader
     {
         foreach (var split in RowReader.ReadRows(path))
         {
-            CountryInfo row = new()
+            var row = new CountryInfo
             {
                 Iso = split[0]!,
                 Iso3 = split[1]!,

@@ -6,7 +6,7 @@ static class Zipper
     {
         File.Delete(targetFile);
         using var zipStream = File.Create(targetFile);
-        using ZipArchive archive = new(zipStream, ZipArchiveMode.Create);
+        using var archive = new ZipArchive(zipStream, ZipArchiveMode.Create);
         foreach (var file in Directory.EnumerateFiles(sourceDirectory))
         {
             var entry = archive.CreateEntry(Path.GetFileName(file));

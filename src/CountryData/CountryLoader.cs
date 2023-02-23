@@ -29,8 +29,8 @@ public static partial class CountryLoader
     static Country Inner(string countryCode)
     {
         using var stream = assembly.GetManifestResourceStream("CountryData.postcodes.zip")!;
-        using ZipArchive archive = new(stream);
-        var entry = archive.Entries.SingleOrDefault(x => x.Name == $"{countryCode}.json.txt");
+        using var archive = new ZipArchive(stream);
+        var entry = archive.Entries.SingleOrDefault(_ => _.Name == $"{countryCode}.json.txt");
         if (entry is null)
         {
             throw new ArgumentException($"Could not find data for '{countryCode}'.");
@@ -41,8 +41,8 @@ public static partial class CountryLoader
 
     static Country ConstructCountry(ZipArchiveEntry entry, string countryCode)
     {
-        var countryInfo = CountryInfo.Single(x => x.Iso == countryCode);
-        Country country = new()
+        var countryInfo = CountryInfo.Single(_ => _.Iso == countryCode);
+        var country = new Country
         {
             Name = countryInfo.Name,
             Iso = countryInfo.Iso,
@@ -69,7 +69,7 @@ public static partial class CountryLoader
     public static void LoadAll()
     {
         using var stream = assembly.GetManifestResourceStream("CountryData.postcodes.zip")!;
-        using ZipArchive archive = new(stream);
+        using var archive = new ZipArchive(stream);
         foreach (var entry in archive.Entries)
         {
             var countryCode = entry.Name.Split('.').First();

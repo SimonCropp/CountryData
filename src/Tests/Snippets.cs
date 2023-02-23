@@ -42,7 +42,7 @@ public class Snippets
         // All country info. This is only the country metadata
         // and not all locationData.
         var allCountryInfo = CountryLoader.CountryInfo;
-        var costaRicaInfo = allCountryInfo.Single(x => x.Iso == "CR");
+        var costaRicaInfo = allCountryInfo.Single(_ => _.Iso == "CR");
 
         // Loads all location data for a specific country
         var australiaData = CountryLoader.LoadAustraliaLocationData();

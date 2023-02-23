@@ -12,7 +12,7 @@ public class CountryDataSetTests
     [Fact]
     public void SpecificCountry()
     {
-        CountryDataSet dataSet = new();
+        var dataSet = new CountryDataSet();
         var state = dataSet.Australia().State();
         Assert.NotNull(state);
     }

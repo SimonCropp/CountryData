@@ -18,8 +18,8 @@ static class JsonSerializer
     public static void Serialize(object value, string path)
     {
         using var fileStream = File.OpenWrite(path);
-        using StreamWriter textWriter = new(fileStream);
-        using JsonTextWriter jsonTextWriter = new(textWriter)
+        using var textWriter = new StreamWriter(fileStream);
+        using var jsonTextWriter = new JsonTextWriter(textWriter)
         {
             Indentation = 0
         };

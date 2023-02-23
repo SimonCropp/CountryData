@@ -4,7 +4,7 @@
     {
         foreach (var split in RowReader.ReadRows(allCountriesTxtPath))
         {
-            PostCodeRow row = new()
+            var row = new PostCodeRow
             {
                 CountryCode = split[0]!,
                 PostalCode = split[1]!,

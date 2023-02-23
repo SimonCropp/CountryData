@@ -41,13 +41,13 @@ public static class LocationDataExtensions
         Places(country, count).Select(x=>x.PostCode);
 
     public static IEnumerable<ICommunity> AllCommunities(this ICountry country) =>
-        AllProvinces(country).SelectMany(x => x.Communities);
+        AllProvinces(country).SelectMany(_ => _.Communities);
 
     public static IEnumerable<IPlace> AllPlaces(this ICountry country) =>
-        AllCommunities(country).SelectMany(x => x.Places);
+        AllCommunities(country).SelectMany(_ => _.Places);
 
     public static IEnumerable<IProvince> AllProvinces(this ICountry country) =>
-        country.States.SelectMany(x => x.Provinces);
+        country.States.SelectMany(_ => _.Provinces);
 
     static T Random<T>(this IReadOnlyList<T> source)
     {

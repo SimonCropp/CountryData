@@ -7,7 +7,7 @@
 
     public static async Task DownloadFile(string allCountriesPath, string requestUri)
     {
-        HttpRequestMessage requestMessage = new(HttpMethod.Head, requestUri);
+        var requestMessage = new HttpRequestMessage(HttpMethod.Head, requestUri);
 
         DateTime remoteLastModified;
         using (var headResponse = await httpClient.SendAsync(requestMessage))
@@ -28,7 +28,7 @@
 
         using var response = await httpClient.GetAsync(requestUri);
         await using var httpStream = await response.Content.ReadAsStreamAsync();
-        await using (FileStream fileStream = new(allCountriesPath, FileMode.Create, FileAccess.Write, FileShare.None))
+        await using (var fileStream = new FileStream(allCountriesPath, FileMode.Create, FileAccess.Write, FileShare.None))
         {
             await httpStream.CopyToAsync(fileStream);
         }
