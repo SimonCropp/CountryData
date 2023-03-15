@@ -5,6 +5,13 @@ namespace CountryData.Bogus;
 
 public partial class CountryDataSet : DataSet
 {
+    public CountryDataSet(Randomizer? randomizer = null)
+    {
+        if (randomizer != null)
+        {
+            Random = randomizer;
+        }
+    }
     public IEnumerable<string> Names(int num = 1)
     {
         Guard.AgainstNegative(num, nameof(num));

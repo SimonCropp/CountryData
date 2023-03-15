@@ -6,7 +6,7 @@ namespace CountryData.Bogus;
 public static class LocationDataExtensions
 {
     public static CountryDataSet Country(this Faker faker) =>
-        ContextHelper.GetOrSet(faker, () => new CountryDataSet());
+        ContextHelper.GetOrSet(faker, () => new CountryDataSet(faker.Random));
 
     static Random random = new();
 
@@ -38,7 +38,7 @@ public static class LocationDataExtensions
         Place(country).PostCode;
 
     public static IEnumerable<string> PostCode(this ICountry country, uint count) =>
-        Places(country, count).Select(x=>x.PostCode);
+        Places(country, count).Select(_ => _.PostCode);
 
     public static IEnumerable<ICommunity> AllCommunities(this ICountry country) =>
         AllProvinces(country).SelectMany(_ => _.Communities);

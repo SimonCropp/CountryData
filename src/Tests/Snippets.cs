@@ -16,10 +16,6 @@ public class Snippets
             .RuleFor(
                 property: u => u.RandomCountryName,
                 setter: (f, u) => f.Country().Name())
-            //TODO
-            //.RuleFor(
-            //    property: u => u.RandomCountryCurrency,
-            //    setter: (f, u) => f.Country().CurrencyCode())
             .RuleFor(
                 property: u => u.AustralianCapital,
                 setter: (f, u) => f.Country().Australia().Capital)
