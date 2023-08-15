@@ -3,7 +3,7 @@
     <TargetFramework>net7.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="MarkdownSnippets.MsBuild" Version="25.0.1" Condition="$(TargetFramework) == 'net7.0'" PrivateAssets="all" />
+    <PackageReference Include="MarkdownSnippets.MsBuild" Version="25.1.0" Condition="$(TargetFramework) == 'net7.0'" PrivateAssets="all" />
     <PackageReference Include="Argon" Version="0.7.2" />
     <PackageReference Include="Verify.Xunit" Version="20.8.0" />
     <PackageReference Include="System.IO.Compression" Version="4.3.0" />
