@@ -1,0 +1,12260 @@
+[
+{
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Piedrero",
+"PostCode": "900001",
+"Location": {
+"Latitude": -2.3748,
+"Longitude": -79.2673
+}
+},
+{
+"Name": "Las Golondrinas",
+"PostCode": "900004",
+"Location": {
+"Latitude": 0.3205,
+"Longitude": -79.2133
+}
+},
+{
+"Name": "Manga Del Cura",
+"PostCode": "900002",
+"Location": {
+"Latitude": -0.7851,
+"Longitude": -79.6408
+}
+},
+{
+"Name": "Manga Del Cura",
+"PostCode": "900003",
+"Location": {
+"Latitude": -0.5947,
+"Longitude": -79.553
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Galápagos",
+"Code": "01",
+"Provinces": [
+{
+"Name": "Cantón San Cristóbal",
+"Code": "2001",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Progreso",
+"PostCode": "200104",
+"Location": {
+"Latitude": -0.8258,
+"Longitude": -89.4288
+}
+},
+{
+"Name": "Española Hood-Puerto Baquerizo Moreno",
+"PostCode": "200101",
+"Location": {
+"Latitude": -1.1811,
+"Longitude": -90.1968
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Isabela",
+"Code": "2002",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Isla Fernandina Narborough",
+"PostCode": "200107",
+"Location": {
+"Latitude": -0.5377,
+"Longitude": -91.2237
+}
+},
+{
+"Name": "Puerto Villamil",
+"PostCode": "200103",
+"Location": {
+"Latitude": -0.9554,
+"Longitude": -90.9665
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Santa Cruz",
+"Code": "2003",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Bellavista",
+"PostCode": "200105",
+"Location": {
+"Latitude": -0.6955,
+"Longitude": -90.3255
+}
+},
+{
+"Name": "Isla Pinzon",
+"PostCode": "200106",
+"Location": {
+"Latitude": -0.4848,
+"Longitude": -90.4482
+}
+},
+{
+"Name": "Puerto Ayora",
+"PostCode": "200102",
+"Location": {
+"Latitude": -0.7402,
+"Longitude": -90.3138
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Azuay",
+"Code": "02",
+"Provinces": [
+{
+"Name": "Cantón Cuenca",
+"Code": "0101",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Baños",
+"PostCode": "010214",
+"Location": {
+"Latitude": -2.9216,
+"Longitude": -79.0646
+}
+},
+{
+"Name": "Chaucha",
+"PostCode": "010219",
+"Location": {
+"Latitude": -2.9091,
+"Longitude": -79.413
+}
+},
+{
+"Name": "Checa (Jidcay)-Chiquintad",
+"PostCode": "010118",
+"Location": {
+"Latitude": -2.8729,
+"Longitude": -79.0459
+}
+},
+{
+"Name": "Cuenca Bellavista",
+"PostCode": "010109",
+"Location": {
+"Latitude": -2.8665,
+"Longitude": -78.9334
+}
+},
+{
+"Name": "Cuenca Bellavista",
+"PostCode": "010110",
+"Location": {
+"Latitude": -2.8639,
+"Longitude": -78.8902
+}
+},
+{
+"Name": "Cuenca Cañaribamba",
+"PostCode": "010105",
+"Location": {
+"Latitude": -2.881,
+"Longitude": -79.0117
+}
+},
+{
+"Name": "Cuenca El Batan",
+"PostCode": "010207",
+"Location": {
+"Latitude": -2.8929,
+"Longitude": -79.0435
+}
+},
+{
+"Name": "Cuenca El Sagrario",
+"PostCode": "010107",
+"Location": {
+"Latitude": -2.8629,
+"Longitude": -78.984
+}
+},
+{
+"Name": "Cuenca El Vecino",
+"PostCode": "010101",
+"Location": {
+"Latitude": -2.8965,
+"Longitude": -79.0029
+}
+},
+{
+"Name": "Cuenca El Vecino",
+"PostCode": "010102",
+"Location": {
+"Latitude": -2.8867,
+"Longitude": -78.9943
+}
+},
+{
+"Name": "Cuenca Gil Ramirez Davalos",
+"PostCode": "010108",
+"Location": {
+"Latitude": -2.8483,
+"Longitude": -78.9433
+}
+},
+{
+"Name": "Cuenca Hermano Miguel",
+"PostCode": "010112",
+"Location": {
+"Latitude": -2.801,
+"Longitude": -79.1703
+}
+},
+{
+"Name": "Cuenca Huayna Capac",
+"PostCode": "010204",
+"Location": {
+"Latitude": -2.9156,
+"Longitude": -78.9987
+}
+},
+{
+"Name": "Cuenca Machangara",
+"PostCode": "010113",
+"Location": {
+"Latitude": -2.7691,
+"Longitude": -79.0567
+}
+},
+{
+"Name": "Cuenca Machangara",
+"PostCode": "010114",
+"Location": {
+"Latitude": -2.7341,
+"Longitude": -79.0253
+}
+},
+{
+"Name": "Cuenca Monay",
+"PostCode": "010210",
+"Location": {
+"Latitude": -2.9057,
+"Longitude": -78.9732
+}
+},
+{
+"Name": "Cuenca San Blas",
+"PostCode": "010106",
+"Location": {
+"Latitude": -2.8523,
+"Longitude": -79.0158
+}
+},
+{
+"Name": "Cuenca San Sebastian",
+"PostCode": "010208",
+"Location": {
+"Latitude": -2.8921,
+"Longitude": -79.0161
+}
+},
+{
+"Name": "Cuenca San Sebastian",
+"PostCode": "010209",
+"Location": {
+"Latitude": -2.8959,
+"Longitude": -78.9747
+}
+},
+{
+"Name": "Cuenca Sucre",
+"PostCode": "010202",
+"Location": {
+"Latitude": -2.8999,
+"Longitude": -79.0222
+}
+},
+{
+"Name": "Cuenca Sucre",
+"PostCode": "010203",
+"Location": {
+"Latitude": -2.906,
+"Longitude": -79.014
+}
+},
+{
+"Name": "Cuenca Totorocoha",
+"PostCode": "010103",
+"Location": {
+"Latitude": -2.8905,
+"Longitude": -78.9818
+}
+},
+{
+"Name": "Cuenca Totorocoha",
+"PostCode": "010104",
+"Location": {
+"Latitude": -2.9016,
+"Longitude": -78.9903
+}
+},
+{
+"Name": "Cuenca Yanuncay",
+"PostCode": "010201",
+"Location": {
+"Latitude": -2.9115,
+"Longitude": -79.0238
+}
+},
+{
+"Name": "Cuenca Yanuncay",
+"PostCode": "010205",
+"Location": {
+"Latitude": -2.9185,
+"Longitude": -79.0275
+}
+},
+{
+"Name": "Cuenca Yanuncay",
+"PostCode": "010206",
+"Location": {
+"Latitude": -2.9193,
+"Longitude": -79.0456
+}
+},
+{
+"Name": "Molleturo",
+"PostCode": "010220",
+"Location": {
+"Latitude": -2.767,
+"Longitude": -79.397
+}
+},
+{
+"Name": "Octavio Cordero Palacios (Sta. Rosa)-Sidcay",
+"PostCode": "010119",
+"Location": {
+"Latitude": -2.8729,
+"Longitude": -79.0459
+}
+},
+{
+"Name": "Paccha-Nulti",
+"PostCode": "010115",
+"Location": {
+"Latitude": -2.7932,
+"Longitude": -78.9698
+}
+},
+{
+"Name": "Quingeo",
+"PostCode": "010216",
+"Location": {
+"Latitude": -3.0309,
+"Longitude": -78.9319
+}
+},
+{
+"Name": "Ricaurte-Llacao",
+"PostCode": "010120",
+"Location": {
+"Latitude": -2.8729,
+"Longitude": -79.0459
+}
+},
+{
+"Name": "San Joaquin",
+"PostCode": "010116",
+"Location": {
+"Latitude": -2.8958,
+"Longitude": -79.0513
+}
+},
+{
+"Name": "Santa Ana",
+"PostCode": "010215",
+"Location": {
+"Latitude": -2.9398,
+"Longitude": -78.9212
+}
+},
+{
+"Name": "Sayausi",
+"PostCode": "010117",
+"Location": {
+"Latitude": -2.8714,
+"Longitude": -79.0723
+}
+},
+{
+"Name": "Sinincay",
+"PostCode": "010111",
+"Location": {
+"Latitude": -2.8515,
+"Longitude": -79.0142
+}
+},
+{
+"Name": "Tarqui",
+"PostCode": "010217",
+"Location": {
+"Latitude": -3.0142,
+"Longitude": -79.0344
+}
+},
+{
+"Name": "Turi",
+"PostCode": "010213",
+"Location": {
+"Latitude": -2.9259,
+"Longitude": -79.0112
+}
+},
+{
+"Name": "Valle",
+"PostCode": "010211",
+"Location": {
+"Latitude": -2.9363,
+"Longitude": -78.966
+}
+},
+{
+"Name": "Valle",
+"PostCode": "010212",
+"Location": {
+"Latitude": -2.9363,
+"Longitude": -78.966
+}
+},
+{
+"Name": "Valle",
+"PostCode": "010218",
+"Location": {
+"Latitude": -2.9363,
+"Longitude": -78.966
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Girón",
+"Code": "0102",
+"PostCode": "010303",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Giron-San Gerardo-Asuncion",
+"PostCode": "010303",
+"Location": {
+"Latitude": -3.1795,
+"Longitude": -79.1593
+}
+}
+],
+"PostCode": "010303"
+}
+]
+},
+{
+"Name": "Cantón Gualaceo",
+"Code": "0103",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Daniel Cordova Toral (El Oriente)-Remigio Crespo Toral (Gulag)-Luis Cordero Vega-Mariano Moreno",
+"PostCode": "010403",
+"Location": {
+"Latitude": -2.912,
+"Longitude": -78.7079
+}
+},
+{
+"Name": "Gualaceo",
+"PostCode": "010401",
+"Location": {
+"Latitude": -2.8926,
+"Longitude": -78.7781
+}
+},
+{
+"Name": "Gualaceo",
+"PostCode": "010402",
+"Location": {
+"Latitude": -2.8926,
+"Longitude": -78.7781
+}
+},
+{
+"Name": "Jadan",
+"PostCode": "010407",
+"Location": {
+"Latitude": -2.8667,
+"Longitude": -78.85
+}
+},
+{
+"Name": "San Juan-Simon Bolivar (Cab. En Gañanzol)",
+"PostCode": "010405",
+"Location": {
+"Latitude": -2.965,
+"Longitude": -78.815
+}
+},
+{
+"Name": "Zhidmad",
+"PostCode": "010406",
+"Location": {
+"Latitude": -2.9291,
+"Longitude": -78.8987
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Nabón",
+"Code": "0104",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Progreso (Cab.En Zhiota)-Las Nieves (Chaya)",
+"PostCode": "010502",
+"Location": {
+"Latitude": -3.3439,
+"Longitude": -79.2046
+}
+},
+{
+"Name": "Nabon-Cochapata",
+"PostCode": "010503",
+"Location": {
+"Latitude": -3.2844,
+"Longitude": -79.0425
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Paute",
+"Code": "0105",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Guarainag-Tomebamba-Dug Dug-Bulan (Jose Victor Izquierdo)",
+"PostCode": "010602",
+"Location": {
+"Latitude": -2.7086,
+"Longitude": -78.7068
+}
+},
+{
+"Name": "San Cristobal (Carlos Ordoñez Lazo)-Chican (Guillermo Ortega)-El Cabo-Paute",
+"PostCode": "010606",
+"Location": {
+"Latitude": -2.8106,
+"Longitude": -78.7867
+}
+}
+]
+}
+]
+},
+{
+"Name": "Pucara",
+"Code": "0106",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Pucara",
+"PostCode": "010305",
+"Location": {
+"Latitude": -3.2157,
+"Longitude": -79.4688
+}
+},
+{
+"Name": "Pucara",
+"PostCode": "010306",
+"Location": {
+"Latitude": -3.2157,
+"Longitude": -79.4688
+}
+},
+{
+"Name": "San Rafael De Sharug",
+"PostCode": "010304",
+"Location": {
+"Latitude": -3.1616,
+"Longitude": -79.4834
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón San Fernando",
+"Code": "0107",
+"PostCode": "010302",
+"Communities": [
+{
+"Places": [
+{
+"Name": "San Fernando-Chumblin",
+"PostCode": "010302",
+"Location": {
+"Latitude": -3.1275,
+"Longitude": -79.2424
+}
+}
+],
+"PostCode": "010302"
+}
+]
+},
+{
+"Name": "Cantón Santa Isabel",
+"Code": "0108",
+"PostCode": "010301",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Abdon Calderon (La Union)-Santa Isabel (Chaguarurco)-Zhaglli (Shaglli )",
+"PostCode": "010301",
+"Location": {
+"Latitude": -3.2023,
+"Longitude": -79.3635
+}
+}
+],
+"PostCode": "010301"
+}
+]
+},
+{
+"Name": "Cantón Sigsig",
+"Code": "0109",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Jima (Gima)",
+"PostCode": "010801",
+"Location": {
+"Latitude": -3.1886,
+"Longitude": -78.9584
+}
+},
+{
+"Name": "Ludo-San Jose De Raranga",
+"PostCode": "010802",
+"Location": {
+"Latitude": -3.1121,
+"Longitude": -78.9056
+}
+},
+{
+"Name": "San Bartolome-Guel-Sigsig-Cuchil (Cutchil)",
+"PostCode": "010803",
+"Location": {
+"Latitude": -3.093,
+"Longitude": -78.7918
+}
+}
+]
+}
+]
+},
+{
+"Name": "Oña",
+"Code": "0110",
+"PostCode": "010501",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Susudel-San Felipe De Oña",
+"PostCode": "010501",
+"Location": {
+"Latitude": -3.4892,
+"Longitude": -79.1306
+}
+}
+],
+"PostCode": "010501"
+}
+]
+},
+{
+"Name": "Chordeleg",
+"Code": "0111",
+"PostCode": "010404",
+"Communities": [
+{
+"Places": [
+{
+"Name": "San Martin De Puzhio-Luis Galarza Orellana (Cab. En Delegsol)-Principal-Chordeleg-La Union",
+"PostCode": "010404",
+"Location": {
+"Latitude": -2.9867,
+"Longitude": -78.734
+}
+}
+],
+"PostCode": "010404"
+}
+]
+},
+{
+"Name": "El Pan",
+"Code": "0112",
+"PostCode": "010605",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Pan-San Vicente",
+"PostCode": "010605",
+"Location": {
+"Latitude": -2.8577,
+"Longitude": -78.6547
+}
+}
+],
+"PostCode": "010605"
+}
+]
+},
+{
+"Name": "Sevilla De Oro",
+"Code": "0113",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Amaluza-Palamas",
+"PostCode": "010603",
+"Location": {
+"Latitude": -2.6477,
+"Longitude": -78.5471
+}
+},
+{
+"Name": "Sevilla De Oro",
+"PostCode": "010604",
+"Location": {
+"Latitude": -2.8028,
+"Longitude": -78.654
+}
+}
+]
+}
+]
+},
+{
+"Name": "Guachapala",
+"Code": "0114",
+"PostCode": "010601",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Guachapala",
+"PostCode": "010601",
+"Location": {
+"Latitude": -2.7725,
+"Longitude": -78.7125
+}
+}
+],
+"PostCode": "010601"
+}
+]
+},
+{
+"Name": "Camilo Ponce Enríquez",
+"Code": "0115",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Camilo Ponce Enriquez",
+"PostCode": "010701",
+"Location": {
+"Latitude": -3.062,
+"Longitude": -79.7458
+}
+},
+{
+"Name": "Camilo Ponce Enriquez",
+"PostCode": "010703",
+"Location": {
+"Latitude": -3.062,
+"Longitude": -79.7458
+}
+},
+{
+"Name": "El Carmen De Pijili",
+"PostCode": "010702",
+"Location": {
+"Latitude": -2.9246,
+"Longitude": -79.5582
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Bolívar",
+"Code": "03",
+"Provinces": [
+{
+"Name": "Cantón Guaranda",
+"Code": "0201",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Facundo Vela",
+"PostCode": "020111",
+"Location": {
+"Latitude": -1.2042,
+"Longitude": -79.0643
+}
+},
+{
+"Name": "Guaranda",
+"PostCode": "020101",
+"Location": {
+"Latitude": -1.5926,
+"Longitude": -79.001
+}
+},
+{
+"Name": "Guaranda",
+"PostCode": "020102",
+"Location": {
+"Latitude": -1.5926,
+"Longitude": -79.001
+}
+},
+{
+"Name": "Guaranda",
+"PostCode": "020103",
+"Location": {
+"Latitude": -1.5926,
+"Longitude": -79.001
+}
+},
+{
+"Name": "Guaranda",
+"PostCode": "020104",
+"Location": {
+"Latitude": -1.5926,
+"Longitude": -79.001
+}
+},
+{
+"Name": "Guaranda",
+"PostCode": "020106",
+"Location": {
+"Latitude": -1.5926,
+"Longitude": -79.001
+}
+},
+{
+"Name": "Guaranda",
+"PostCode": "020107",
+"Location": {
+"Latitude": -1.5926,
+"Longitude": -79.001
+}
+},
+{
+"Name": "Salinas",
+"PostCode": "020108",
+"Location": {
+"Latitude": -1.4054,
+"Longitude": -79.0186
+}
+},
+{
+"Name": "San Luis De Pambil",
+"PostCode": "020110",
+"Location": {
+"Latitude": -1.2103,
+"Longitude": -79.1255
+}
+},
+{
+"Name": "Santafe (Santa Fe)-Julio E. Moreno (Catanahuan Grande)-San Simon (Yacoto)-Sanlorenzo",
+"PostCode": "020105",
+"Location": {
+"Latitude": -1.5115,
+"Longitude": -79.1109
+}
+},
+{
+"Name": "Simiatug",
+"PostCode": "020109",
+"Location": {
+"Latitude": -1.2424,
+"Longitude": -78.9572
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Chillanes",
+"Code": "0202",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chillanes",
+"PostCode": "020201",
+"Location": {
+"Latitude": -1.9437,
+"Longitude": -79.0663
+}
+},
+{
+"Name": "San Jose Del Tambo (Tambopamba)",
+"PostCode": "020202",
+"Location": {
+"Latitude": -1.9559,
+"Longitude": -79.236
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Chimbo",
+"Code": "0203",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Magdalena (Chapacoto)-Asuncion (Asancoto)",
+"PostCode": "020307",
+"Location": {
+"Latitude": -1.6801,
+"Longitude": -79.1946
+}
+},
+{
+"Name": "San Sebastian-San Jose De Chimbo",
+"PostCode": "020302",
+"Location": {
+"Latitude": -1.6729,
+"Longitude": -79.0326
+}
+},
+{
+"Name": "Telimbela",
+"PostCode": "020306",
+"Location": {
+"Latitude": -1.6658,
+"Longitude": -79.1709
+}
+}
+]
+}
+]
+},
+{
+"Name": "Canton Echeandia",
+"Code": "0204",
+"PostCode": "020401",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Echeandia",
+"PostCode": "020401",
+"Location": {
+"Latitude": -1.4311,
+"Longitude": -79.2805
+}
+}
+],
+"PostCode": "020401"
+}
+]
+},
+{
+"Name": "Cantón San Miguel",
+"Code": "0205",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Balsapamba-Bilovan-Regulo De Mora",
+"PostCode": "020305",
+"Location": {
+"Latitude": -1.815,
+"Longitude": -79.0704
+}
+},
+{
+"Name": "San Miguel",
+"PostCode": "020301",
+"Location": {
+"Latitude": -1.7088,
+"Longitude": -79.0431
+}
+},
+{
+"Name": "San Pablo (San Pablo De Atenas)",
+"PostCode": "020304",
+"Location": {
+"Latitude": -1.8183,
+"Longitude": -79.0674
+}
+},
+{
+"Name": "Santiago-San Vicente",
+"PostCode": "020303",
+"Location": {
+"Latitude": -1.7271,
+"Longitude": -78.944
+}
+}
+]
+}
+]
+},
+{
+"Name": "Canton Caluma",
+"Code": "0206",
+"PostCode": "020403",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Caluma",
+"PostCode": "020403",
+"Location": {
+"Latitude": -1.6082,
+"Longitude": -79.219
+}
+}
+],
+"PostCode": "020403"
+}
+]
+},
+{
+"Name": "Canton Las Naves",
+"Code": "0207",
+"PostCode": "020402",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Las Naves",
+"PostCode": "020402",
+"Location": {
+"Latitude": -1.2857,
+"Longitude": -79.3146
+}
+}
+],
+"PostCode": "020402"
+}
+]
+}
+]
+},
+{
+"Name": "Cañar",
+"Code": "04",
+"Provinces": [
+{
+"Name": "Cantón Azogues",
+"Code": "0301",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Azogues",
+"PostCode": "030101",
+"Location": {
+"Latitude": -2.7397,
+"Longitude": -78.8486
+}
+},
+{
+"Name": "Azogues",
+"PostCode": "030102",
+"Location": {
+"Latitude": -2.7397,
+"Longitude": -78.8486
+}
+},
+{
+"Name": "Azogues",
+"PostCode": "030108",
+"Location": {
+"Latitude": -2.7397,
+"Longitude": -78.8486
+}
+},
+{
+"Name": "Cojitambo-Javier Loyola (Chuquipata)",
+"PostCode": "030105",
+"Location": {
+"Latitude": -2.7881,
+"Longitude": -78.8876
+}
+},
+{
+"Name": "Guapan",
+"PostCode": "030107",
+"Location": {
+"Latitude": -2.7167,
+"Longitude": -78.8167
+}
+},
+{
+"Name": "Luis Cordero",
+"PostCode": "030103",
+"Location": {
+"Latitude": -2.7408,
+"Longitude": -78.8205
+}
+},
+{
+"Name": "Pindilig-Rivera-Taday",
+"PostCode": "030112",
+"Location": {
+"Latitude": -2.5686,
+"Longitude": -78.6942
+}
+},
+{
+"Name": "San Miguel",
+"PostCode": "030104",
+"Location": {
+"Latitude": -2.7983,
+"Longitude": -78.8465
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Biblián",
+"Code": "0302",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Jerusalen",
+"PostCode": "030111",
+"Location": {
+"Latitude": -2.6537,
+"Longitude": -78.9708
+}
+},
+{
+"Name": "Nazon (Cab. En Pampa De Dominguez)",
+"PostCode": "030110",
+"Location": {
+"Latitude": -2.6856,
+"Longitude": -79.013
+}
+},
+{
+"Name": "Turupamba-San Francisco De Sageo-Biblian",
+"PostCode": "030106",
+"Location": {
+"Latitude": -2.6726,
+"Longitude": -78.9068
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Cañar",
+"Code": "0303",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cañar",
+"PostCode": "030201",
+"Location": {
+"Latitude": -2.5606,
+"Longitude": -78.9394
+}
+},
+{
+"Name": "General Morales (Socarte)-Ventura-Chontamarca-Ducur",
+"PostCode": "030208",
+"Location": {
+"Latitude": -2.3842,
+"Longitude": -79.1292
+}
+},
+{
+"Name": "Gualleturo-San Antonio-Chorocopte",
+"PostCode": "030204",
+"Location": {
+"Latitude": -2.5945,
+"Longitude": -78.9657
+}
+},
+{
+"Name": "Gualleturo-San Antonio-Chorocopte",
+"PostCode": "030205",
+"Location": {
+"Latitude": -2.59,
+"Longitude": -79.1658
+}
+},
+{
+"Name": "Honorato Vasquez (Tambo Viejo)-Ingapirca",
+"PostCode": "030203",
+"Location": {
+"Latitude": -2.539,
+"Longitude": -78.833
+}
+},
+{
+"Name": "Zhud-Juncal",
+"PostCode": "030207",
+"Location": {
+"Latitude": -2.442,
+"Longitude": -78.9355
+}
+}
+]
+}
+]
+},
+{
+"Name": "La Troncal",
+"Code": "0304",
+"Communities": [
+{
+"Places": [
+{
+"Name": "La Troncal",
+"PostCode": "030301",
+"Location": {
+"Latitude": -2.4236,
+"Longitude": -79.3398
+}
+},
+{
+"Name": "La Troncal",
+"PostCode": "030302",
+"Location": {
+"Latitude": -2.4236,
+"Longitude": -79.3398
+}
+},
+{
+"Name": "La Troncal",
+"PostCode": "030303",
+"Location": {
+"Latitude": -2.4236,
+"Longitude": -79.3398
+}
+},
+{
+"Name": "Manuel J. Calle-Pancho Negro",
+"PostCode": "030304",
+"Location": {
+"Latitude": -2.4544,
+"Longitude": -79.4163
+}
+}
+]
+}
+]
+},
+{
+"Name": "Canton El Tambo",
+"Code": "0305",
+"PostCode": "030202",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Tambo",
+"PostCode": "030202",
+"Location": {
+"Latitude": -2.5107,
+"Longitude": -78.9278
+}
+}
+],
+"PostCode": "030202"
+}
+]
+},
+{
+"Name": "Déleg",
+"Code": "0306",
+"PostCode": "030109",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Deleg-Solano",
+"PostCode": "030109",
+"Location": {
+"Latitude": -2.7628,
+"Longitude": -78.9394
+}
+}
+],
+"PostCode": "030109"
+}
+]
+},
+{
+"Name": "Suscal",
+"Code": "0307",
+"PostCode": "030206",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Suscal",
+"PostCode": "030206",
+"Location": {
+"Latitude": -2.4372,
+"Longitude": -79.0517
+}
+}
+],
+"PostCode": "030206"
+}
+]
+}
+]
+},
+{
+"Name": "Carchi",
+"Code": "05",
+"Provinces": [
+{
+"Name": "Cantón Tulcán",
+"Code": "0401",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Julio Andrade (Orejuela)-El Carmelo (El Pun)",
+"PostCode": "040109",
+"Location": {
+"Latitude": 0.6492,
+"Longitude": -77.7728
+}
+},
+{
+"Name": "Maldonado-Tobar Donoso (La Bocana De Camunbi)-El Chical",
+"PostCode": "040113",
+"Location": {
+"Latitude": 0.8017,
+"Longitude": -77.8546
+}
+},
+{
+"Name": "Pioter-Santa Martha De Cuba",
+"PostCode": "040111",
+"Location": {
+"Latitude": 0.8017,
+"Longitude": -77.8546
+}
+},
+{
+"Name": "Tufiño",
+"PostCode": "040112",
+"Location": {
+"Latitude": 0.8017,
+"Longitude": -77.8546
+}
+},
+{
+"Name": "Tulcan",
+"PostCode": "040101",
+"Location": {
+"Latitude": 0.8119,
+"Longitude": -77.7173
+}
+},
+{
+"Name": "Tulcan",
+"PostCode": "040102",
+"Location": {
+"Latitude": 0.8119,
+"Longitude": -77.7173
+}
+},
+{
+"Name": "Tulcan",
+"PostCode": "040103",
+"Location": {
+"Latitude": 0.8119,
+"Longitude": -77.7173
+}
+},
+{
+"Name": "Tulcan",
+"PostCode": "040104",
+"Location": {
+"Latitude": 0.8119,
+"Longitude": -77.7173
+}
+},
+{
+"Name": "Tulcan",
+"PostCode": "040106",
+"Location": {
+"Latitude": 0.8119,
+"Longitude": -77.7173
+}
+},
+{
+"Name": "Tulcan",
+"PostCode": "040107",
+"Location": {
+"Latitude": 0.8119,
+"Longitude": -77.7173
+}
+},
+{
+"Name": "Tulcan",
+"PostCode": "040108",
+"Location": {
+"Latitude": 0.8119,
+"Longitude": -77.7173
+}
+},
+{
+"Name": "Urbina (Taya)",
+"PostCode": "040105",
+"Location": {
+"Latitude": 0.7544,
+"Longitude": -77.7765
+}
+}
+]
+}
+]
+},
+{
+"Name": "Canton Bolivar",
+"Code": "0402",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Los Andes-Bolivar",
+"PostCode": "040201",
+"Location": {
+"Latitude": 0.4929,
+"Longitude": -77.8922
+}
+},
+{
+"Name": "San Rafael-Monte Olivo",
+"PostCode": "040203",
+"Location": {
+"Latitude": 0.4189,
+"Longitude": -77.8932
+}
+},
+{
+"Name": "San Vicente De Pusir-Garcia Moreno",
+"PostCode": "040204",
+"Location": {
+"Latitude": 0.4827,
+"Longitude": -77.9574
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Espejo",
+"Code": "0403",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Goaltal",
+"PostCode": "040304",
+"Location": {
+"Latitude": 0.8046,
+"Longitude": -78.1586
+}
+},
+{
+"Name": "San Isidro-La Libertad (Alizo)-El Angel",
+"PostCode": "040301",
+"Location": {
+"Latitude": 0.6685,
+"Longitude": -77.9699
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Mira",
+"Code": "0404",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Concepcion-Jijon Y Caamaño (Cab. En Rio Blanco)",
+"PostCode": "040303",
+"Location": {
+"Latitude": 0.6573,
+"Longitude": -78.1114
+}
+},
+{
+"Name": "Juan Montalvo (San Ignacio De Quil)-Mira (Chontahuasi)",
+"PostCode": "040302",
+"Location": {
+"Latitude": 0.5582,
+"Longitude": -78.0681
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Montúfar",
+"Code": "0405",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cristobal Colon-Fernandez Salvador-Piartal-Chitan De Navarrete",
+"PostCode": "040207",
+"Location": {
+"Latitude": 0.6271,
+"Longitude": -77.8569
+}
+},
+{
+"Name": "La Paz",
+"PostCode": "040202",
+"Location": {
+"Latitude": 0.5095,
+"Longitude": -77.8661
+}
+},
+{
+"Name": "San Gabriel",
+"PostCode": "040205",
+"Location": {
+"Latitude": 0.5932,
+"Longitude": -77.8308
+}
+},
+{
+"Name": "San Gabriel",
+"PostCode": "040206",
+"Location": {
+"Latitude": 0.5932,
+"Longitude": -77.8308
+}
+}
+]
+}
+]
+},
+{
+"Name": "San Pedro De Huaca",
+"Code": "0406",
+"PostCode": "040110",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Huaca-Mariscal Sucre",
+"PostCode": "040110",
+"Location": {
+"Latitude": 0.98,
+"Longitude": -78.3064
+}
+}
+],
+"PostCode": "040110"
+}
+]
+}
+]
+},
+{
+"Name": "Chimborazo",
+"Code": "06",
+"Provinces": [
+{
+"Name": "Cantón Riobamba",
+"Code": "0601",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cubijies-Quimiag",
+"PostCode": "060116",
+"Location": {
+"Latitude": -1.7509,
+"Longitude": -78.539
+}
+},
+{
+"Name": "Lican",
+"PostCode": "060115",
+"Location": {
+"Latitude": -1.6507,
+"Longitude": -78.7089
+}
+},
+{
+"Name": "Licto-Pungala",
+"PostCode": "060120",
+"Location": {
+"Latitude": -1.8255,
+"Longitude": -78.6551
+}
+},
+{
+"Name": "Punin-Flores",
+"PostCode": "060121",
+"Location": {
+"Latitude": -1.7616,
+"Longitude": -78.6728
+}
+},
+{
+"Name": "Riobamba",
+"PostCode": "060101",
+"Location": {
+"Latitude": -1.671,
+"Longitude": -78.6471
+}
+},
+{
+"Name": "Riobamba",
+"PostCode": "060102",
+"Location": {
+"Latitude": -1.671,
+"Longitude": -78.6471
+}
+},
+{
+"Name": "Riobamba",
+"PostCode": "060103",
+"Location": {
+"Latitude": -1.671,
+"Longitude": -78.6471
+}
+},
+{
+"Name": "Riobamba",
+"PostCode": "060104",
+"Location": {
+"Latitude": -1.671,
+"Longitude": -78.6471
+}
+},
+{
+"Name": "Riobamba",
+"PostCode": "060105",
+"Location": {
+"Latitude": -1.671,
+"Longitude": -78.6471
+}
+},
+{
+"Name": "Riobamba",
+"PostCode": "060106",
+"Location": {
+"Latitude": -1.671,
+"Longitude": -78.6471
+}
+},
+{
+"Name": "Riobamba",
+"PostCode": "060107",
+"Location": {
+"Latitude": -1.671,
+"Longitude": -78.6471
+}
+},
+{
+"Name": "Riobamba",
+"PostCode": "060108",
+"Location": {
+"Latitude": -1.671,
+"Longitude": -78.6471
+}
+},
+{
+"Name": "Riobamba",
+"PostCode": "060109",
+"Location": {
+"Latitude": -1.671,
+"Longitude": -78.6471
+}
+},
+{
+"Name": "Riobamba",
+"PostCode": "060110",
+"Location": {
+"Latitude": -1.671,
+"Longitude": -78.6471
+}
+},
+{
+"Name": "Riobamba",
+"PostCode": "060111",
+"Location": {
+"Latitude": -1.671,
+"Longitude": -78.6471
+}
+},
+{
+"Name": "Riobamba",
+"PostCode": "060112",
+"Location": {
+"Latitude": -1.671,
+"Longitude": -78.6471
+}
+},
+{
+"Name": "Riobamba",
+"PostCode": "060113",
+"Location": {
+"Latitude": -1.671,
+"Longitude": -78.6471
+}
+},
+{
+"Name": "Riobamba",
+"PostCode": "060114",
+"Location": {
+"Latitude": -1.671,
+"Longitude": -78.6471
+}
+},
+{
+"Name": "San Juan-Calpi",
+"PostCode": "060118",
+"Location": {
+"Latitude": -1.5774,
+"Longitude": -78.8144
+}
+},
+{
+"Name": "San Luis-Cacha (Cab. En Machangara)",
+"PostCode": "060117",
+"Location": {
+"Latitude": -1.7123,
+"Longitude": -78.6741
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Alausí",
+"Code": "0602",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Achupallas",
+"PostCode": "060204",
+"Location": {
+"Latitude": -2.2828,
+"Longitude": -78.7693
+}
+},
+{
+"Name": "Alausi",
+"PostCode": "060202",
+"Location": {
+"Latitude": -2.2033,
+"Longitude": -78.8471
+}
+},
+{
+"Name": "Guasuntos-Pumallacta-Sevilla",
+"PostCode": "060203",
+"Location": {
+"Latitude": -2.257,
+"Longitude": -78.799
+}
+},
+{
+"Name": "Multitud-Sibambe-Huigra-Pistishi (Nariz Del Diablo)",
+"PostCode": "060206",
+"Location": {
+"Latitude": -2.2102,
+"Longitude": -78.9638
+}
+},
+{
+"Name": "Tixan",
+"PostCode": "060207",
+"Location": {
+"Latitude": -2.1518,
+"Longitude": -78.8026
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Colta",
+"Code": "0603",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Columbe",
+"PostCode": "060405",
+"Location": {
+"Latitude": -1.8871,
+"Longitude": -78.7236
+}
+},
+{
+"Name": "Juan De Velasco (Pangor)-Cañi",
+"PostCode": "060410",
+"Location": {
+"Latitude": -1.6897,
+"Longitude": -78.7922
+}
+},
+{
+"Name": "Santiago De Quito (Cab. En San",
+"PostCode": "060408",
+"Location": {
+"Latitude": -2.0791,
+"Longitude": -78.7538
+}
+},
+{
+"Name": "Villa La Union (Cajabamba)",
+"PostCode": "060406",
+"Location": {
+"Latitude": -1.7621,
+"Longitude": -78.7966
+}
+},
+{
+"Name": "Villa La Union (Cajabamba)",
+"PostCode": "060407",
+"Location": {
+"Latitude": -1.7739,
+"Longitude": -78.7288
+}
+}
+]
+}
+]
+},
+{
+"Name": "Chambo",
+"Code": "0604",
+"PostCode": "060119",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chambo",
+"PostCode": "060119",
+"Location": {
+"Latitude": -1.7305,
+"Longitude": -78.596
+}
+}
+],
+"PostCode": "060119"
+}
+]
+},
+{
+"Name": "Cantón Chunchi",
+"Code": "0605",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Capzol-Compud-Llagos",
+"PostCode": "060205",
+"Location": {
+"Latitude": -2.3519,
+"Longitude": -78.9515
+}
+},
+{
+"Name": "Gonzol-Chunchi",
+"PostCode": "060201",
+"Location": {
+"Latitude": -2.2626,
+"Longitude": -78.8479
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Guamote",
+"Code": "0606",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cebadas",
+"PostCode": "060402",
+"Location": {
+"Latitude": -1.9113,
+"Longitude": -78.6433
+}
+},
+{
+"Name": "Guamote",
+"PostCode": "060401",
+"Location": {
+"Latitude": -1.9331,
+"Longitude": -78.7096
+}
+},
+{
+"Name": "Guamote",
+"PostCode": "060403",
+"Location": {
+"Latitude": -1.9331,
+"Longitude": -78.7096
+}
+},
+{
+"Name": "Guamote",
+"PostCode": "060404",
+"Location": {
+"Latitude": -1.9331,
+"Longitude": -78.7096
+}
+},
+{
+"Name": "Palmira",
+"PostCode": "060409",
+"Location": {
+"Latitude": -2.0814,
+"Longitude": -78.7303
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Guano",
+"Code": "0607",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Guano-La Providencia-Guanando-Sangerardo De Pacaicaguan",
+"PostCode": "060501",
+"Location": {
+"Latitude": -1.5937,
+"Longitude": -78.6036
+}
+},
+{
+"Name": "Ilapo-San Jose De Chazo-Valparaiso-Santa Fe De Galan",
+"PostCode": "060502",
+"Location": {
+"Latitude": -1.531,
+"Longitude": -78.5794
+}
+},
+{
+"Name": "San Andres-San Isidro De Patulu",
+"PostCode": "060504",
+"Location": {
+"Latitude": -1.5258,
+"Longitude": -78.7256
+}
+}
+]
+}
+]
+},
+{
+"Name": "Pallatanga",
+"Code": "0608",
+"PostCode": "060302",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Pallatanga",
+"PostCode": "060302",
+"Location": {
+"Latitude": -1.9992,
+"Longitude": -78.966
+}
+}
+],
+"PostCode": "060302"
+}
+]
+},
+{
+"Name": "Penipe",
+"Code": "0609",
+"PostCode": "060503",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Puela-El Altar-San Antonio De Bayushig-La Candelaria-Bilbao (Cab. En Quilluyacu) Panipe-Matus",
+"PostCode": "060503",
+"Location": {
+"Latitude": -1.5664,
+"Longitude": -78.45
+}
+}
+],
+"PostCode": "060503"
+}
+]
+},
+{
+"Name": "Cumanda",
+"Code": "0610",
+"PostCode": "060301",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cumanda",
+"PostCode": "060301",
+"Location": {
+"Latitude": -2.2043,
+"Longitude": -79.1337
+}
+}
+],
+"PostCode": "060301"
+}
+]
+}
+]
+},
+{
+"Name": "Cotopaxi",
+"Code": "07",
+"Provinces": [
+{
+"Name": "Cantón Latacunga",
+"Code": "0501",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Belisario Quevedo (Guanailin)",
+"PostCode": "050114",
+"Location": {
+"Latitude": -0.7149,
+"Longitude": -78.7575
+}
+},
+{
+"Name": "Guaitacama (Guaytacama)",
+"PostCode": "050111",
+"Location": {
+"Latitude": -0.8887,
+"Longitude": -78.7066
+}
+},
+{
+"Name": "Joseguango Bajo-Alaques (Alaquez)",
+"PostCode": "050112",
+"Location": {
+"Latitude": -0.7641,
+"Longitude": -78.6461
+}
+},
+{
+"Name": "Latacunga",
+"PostCode": "050101",
+"Location": {
+"Latitude": -0.9352,
+"Longitude": -78.6155
+}
+},
+{
+"Name": "Latacunga",
+"PostCode": "050102",
+"Location": {
+"Latitude": -0.9352,
+"Longitude": -78.6155
+}
+},
+{
+"Name": "Latacunga",
+"PostCode": "050103",
+"Location": {
+"Latitude": -0.9352,
+"Longitude": -78.6155
+}
+},
+{
+"Name": "Latacunga",
+"PostCode": "050104",
+"Location": {
+"Latitude": -0.9352,
+"Longitude": -78.6155
+}
+},
+{
+"Name": "Latacunga",
+"PostCode": "050105",
+"Location": {
+"Latitude": -0.9352,
+"Longitude": -78.6155
+}
+},
+{
+"Name": "Latacunga",
+"PostCode": "050106",
+"Location": {
+"Latitude": -0.9352,
+"Longitude": -78.6155
+}
+},
+{
+"Name": "Latacunga",
+"PostCode": "050107",
+"Location": {
+"Latitude": -0.9352,
+"Longitude": -78.6155
+}
+},
+{
+"Name": "Latacunga",
+"PostCode": "050108",
+"Location": {
+"Latitude": -0.9352,
+"Longitude": -78.6155
+}
+},
+{
+"Name": "Latacunga",
+"PostCode": "050109",
+"Location": {
+"Latitude": -0.9352,
+"Longitude": -78.6155
+}
+},
+{
+"Name": "Latacunga",
+"PostCode": "050113",
+"Location": {
+"Latitude": -0.9352,
+"Longitude": -78.6155
+}
+},
+{
+"Name": "Mulalo",
+"PostCode": "050117",
+"Location": {
+"Latitude": -0.7833,
+"Longitude": -78.5833
+}
+},
+{
+"Name": "Poalo-11 De Noviembre (Ilinchisi)",
+"PostCode": "050110",
+"Location": {
+"Latitude": -0.8478,
+"Longitude": -78.5056
+}
+},
+{
+"Name": "San Juan De Pastocalle",
+"PostCode": "050118",
+"Location": {
+"Latitude": -0.7229,
+"Longitude": -78.634
+}
+},
+{
+"Name": "Tanicuchi",
+"PostCode": "050116",
+"Location": {
+"Latitude": -0.7796,
+"Longitude": -78.6376
+}
+},
+{
+"Name": "Toacaso",
+"PostCode": "050115",
+"Location": {
+"Latitude": -0.7538,
+"Longitude": -78.6851
+}
+}
+]
+}
+]
+},
+{
+"Name": "La Maná",
+"Code": "0502",
+"Communities": [
+{
+"Places": [
+{
+"Name": "La Mana",
+"PostCode": "050201",
+"Location": {
+"Latitude": -0.9409,
+"Longitude": -79.2251
+}
+},
+{
+"Name": "La Mana",
+"PostCode": "050202",
+"Location": {
+"Latitude": -0.9409,
+"Longitude": -79.2251
+}
+},
+{
+"Name": "Pucayacu-Guasaganda (Cab. En Guasaganda Centro)",
+"PostCode": "050203",
+"Location": {
+"Latitude": -0.7887,
+"Longitude": -79.103
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Pangua",
+"Code": "0503",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Corazon",
+"PostCode": "050301",
+"Location": {
+"Latitude": -1.1365,
+"Longitude": -79.0809
+}
+},
+{
+"Name": "Moraspungo",
+"PostCode": "050304",
+"Location": {
+"Latitude": -1.1735,
+"Longitude": -79.2235
+}
+},
+{
+"Name": "Pinllopata",
+"PostCode": "050302",
+"Location": {
+"Latitude": -1.1435,
+"Longitude": -79.027
+}
+},
+{
+"Name": "Ramon Campaña",
+"PostCode": "050303",
+"Location": {
+"Latitude": -1.1125,
+"Longitude": -79.0892
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Pujilí",
+"Code": "0504",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Angamarca",
+"PostCode": "050409",
+"Location": {
+"Latitude": -1.1186,
+"Longitude": -78.932
+}
+},
+{
+"Name": "Guangaje",
+"PostCode": "050406",
+"Location": {
+"Latitude": -0.861,
+"Longitude": -78.8458
+}
+},
+{
+"Name": "La Victoria",
+"PostCode": "050402",
+"Location": {
+"Latitude": -0.9178,
+"Longitude": -78.6965
+}
+},
+{
+"Name": "Pilalo",
+"PostCode": "050410",
+"Location": {
+"Latitude": -0.9462,
+"Longitude": -78.9935
+}
+},
+{
+"Name": "Pujili",
+"PostCode": "050401",
+"Location": {
+"Latitude": -0.9576,
+"Longitude": -78.6964
+}
+},
+{
+"Name": "Pujili",
+"PostCode": "050404",
+"Location": {
+"Latitude": -0.9576,
+"Longitude": -78.6964
+}
+},
+{
+"Name": "Pujili",
+"PostCode": "050405",
+"Location": {
+"Latitude": -0.9576,
+"Longitude": -78.6964
+}
+},
+{
+"Name": "Tingo",
+"PostCode": "050411",
+"Location": {
+"Latitude": -0.9179,
+"Longitude": -79.0572
+}
+},
+{
+"Name": "Zumbahua",
+"PostCode": "050408",
+"Location": {
+"Latitude": -0.7828,
+"Longitude": -78.7219
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Salcedo",
+"Code": "0505",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cusubamba",
+"PostCode": "050604",
+"Location": {
+"Latitude": -1.0667,
+"Longitude": -78.7
+}
+},
+{
+"Name": "Mulalillo-Pansaleo-Antonio Jose Holguin (Santa Lucia)",
+"PostCode": "050603",
+"Location": {
+"Latitude": -1.0206,
+"Longitude": -78.4651
+}
+},
+{
+"Name": "Mulliquindil (Santa Ana)",
+"PostCode": "050601",
+"Location": {
+"Latitude": -1.0425,
+"Longitude": -78.5958
+}
+},
+{
+"Name": "San Miguel",
+"PostCode": "050602",
+"Location": {
+"Latitude": -1.0455,
+"Longitude": -78.5906
+}
+}
+]
+}
+]
+},
+{
+"Name": "Saquisilí",
+"Code": "0506",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chantilin-Saquisili",
+"PostCode": "050403",
+"Location": {
+"Latitude": -0.8528,
+"Longitude": -78.6442
+}
+},
+{
+"Name": "Cochapamba-Canchagua",
+"PostCode": "050407",
+"Location": {
+"Latitude": -0.8409,
+"Longitude": -78.7752
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Sigchos",
+"Code": "0507",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chugchillan",
+"PostCode": "050503",
+"Location": {
+"Latitude": -0.7827,
+"Longitude": -78.8551
+}
+},
+{
+"Name": "Isinlivi",
+"PostCode": "050502",
+"Location": {
+"Latitude": -0.7555,
+"Longitude": -78.8681
+}
+},
+{
+"Name": "Palo Quemado-Las Pampas",
+"PostCode": "050504",
+"Location": {
+"Latitude": -0.8302,
+"Longitude": -78.9847
+}
+},
+{
+"Name": "Sigchos",
+"PostCode": "050501",
+"Location": {
+"Latitude": -0.7022,
+"Longitude": -78.8865
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "El Oro",
+"Code": "08",
+"Provinces": [
+{
+"Name": "Cantón Machala",
+"Code": "0701",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Retiro",
+"PostCode": "070224",
+"Location": {
+"Latitude": -3.3791,
+"Longitude": -79.9568
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070201",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070202",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070203",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070204",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070205",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070206",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070207",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070208",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070209",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070210",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070211",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070212",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070213",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070214",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070215",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070216",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070217",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070218",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070219",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070220",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070221",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070222",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+},
+{
+"Name": "Machala",
+"PostCode": "070223",
+"Location": {
+"Latitude": -3.2586,
+"Longitude": -79.9605
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Arenillas",
+"Code": "0702",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Arenillas",
+"PostCode": "070506",
+"Location": {
+"Latitude": -3.554,
+"Longitude": -80.0668
+}
+},
+{
+"Name": "Arenillas",
+"PostCode": "070507",
+"Location": {
+"Latitude": -3.554,
+"Longitude": -80.0668
+}
+},
+{
+"Name": "Carcabon-Chacras",
+"PostCode": "070505",
+"Location": {
+"Latitude": -3.57,
+"Longitude": -80.1637
+}
+},
+{
+"Name": "Palmales",
+"PostCode": "070508",
+"Location": {
+"Latitude": -3.6667,
+"Longitude": -80.1014
+}
+}
+]
+}
+]
+},
+{
+"Name": "Atahualpa",
+"Code": "0703",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cordoncillo-Paccha-Ayapamba-San Jose-Milagro",
+"PostCode": "070305",
+"Location": {
+"Latitude": -3.5719,
+"Longitude": -79.6929
+}
+},
+{
+"Name": "San Juan De Cerro Azul",
+"PostCode": "070308",
+"Location": {
+"Latitude": -3.7657,
+"Longitude": -79.4949
+}
+}
+]
+}
+]
+},
+{
+"Name": "Balsas",
+"Code": "0704",
+"PostCode": "070404",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Balsas-Bellamaria",
+"PostCode": "070404",
+"Location": {
+"Latitude": -3.7688,
+"Longitude": -79.8375
+}
+}
+],
+"PostCode": "070404"
+}
+]
+},
+{
+"Name": "Chilla",
+"Code": "0705",
+"PostCode": "070113",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chilla",
+"PostCode": "070113",
+"Location": {
+"Latitude": -3.442,
+"Longitude": -79.6277
+}
+}
+],
+"PostCode": "070113"
+}
+]
+},
+{
+"Name": "Cantón Guabo",
+"Code": "0706",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Guabo",
+"PostCode": "070111",
+"Location": {
+"Latitude": -3.2359,
+"Longitude": -79.75
+}
+},
+{
+"Name": "El Guabo",
+"PostCode": "070115",
+"Location": {
+"Latitude": -3.2064,
+"Longitude": -79.8718
+}
+},
+{
+"Name": "La Iberia",
+"PostCode": "070114",
+"Location": {
+"Latitude": -3.2437,
+"Longitude": -79.8761
+}
+},
+{
+"Name": "Rio Bonito",
+"PostCode": "070117",
+"Location": {
+"Latitude": -3.0774,
+"Longitude": -79.773
+}
+},
+{
+"Name": "Tendales (Cab. En Puerto Tendales)-Barbones (Sucre)",
+"PostCode": "070116",
+"Location": {
+"Latitude": -3.1428,
+"Longitude": -79.8196
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Huaquillas",
+"Code": "0707",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Huaquillas",
+"PostCode": "070501",
+"Location": {
+"Latitude": -3.4752,
+"Longitude": -80.2308
+}
+},
+{
+"Name": "Huaquillas",
+"PostCode": "070502",
+"Location": {
+"Latitude": -3.4752,
+"Longitude": -80.2308
+}
+},
+{
+"Name": "Huaquillas",
+"PostCode": "070503",
+"Location": {
+"Latitude": -3.4752,
+"Longitude": -80.2308
+}
+},
+{
+"Name": "Huaquillas",
+"PostCode": "070504",
+"Location": {
+"Latitude": -3.4752,
+"Longitude": -80.2308
+}
+}
+]
+}
+]
+},
+{
+"Name": "Marcabelí",
+"Code": "0708",
+"PostCode": "070406",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Ingenio-Marcabeli",
+"PostCode": "070406",
+"Location": {
+"Latitude": -3.735,
+"Longitude": -79.9304
+}
+}
+],
+"PostCode": "070406"
+}
+]
+},
+{
+"Name": "Cantón Pasaje",
+"Code": "0709",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cañaquemada-La Peaña-Buenavista",
+"PostCode": "070106",
+"Location": {
+"Latitude": -3.2825,
+"Longitude": -79.8102
+}
+},
+{
+"Name": "Cañaquemada-La Peaña-Buenavista",
+"PostCode": "070110",
+"Location": {
+"Latitude": -3.3534,
+"Longitude": -79.8386
+}
+},
+{
+"Name": "Casacay",
+"PostCode": "070108",
+"Location": {
+"Latitude": -3.3222,
+"Longitude": -79.7233
+}
+},
+{
+"Name": "Pasaje",
+"PostCode": "070101",
+"Location": {
+"Latitude": -3.3256,
+"Longitude": -79.807
+}
+},
+{
+"Name": "Pasaje",
+"PostCode": "070102",
+"Location": {
+"Latitude": -3.3256,
+"Longitude": -79.807
+}
+},
+{
+"Name": "Pasaje",
+"PostCode": "070103",
+"Location": {
+"Latitude": -3.3256,
+"Longitude": -79.807
+}
+},
+{
+"Name": "Pasaje",
+"PostCode": "070104",
+"Location": {
+"Latitude": -3.3256,
+"Longitude": -79.807
+}
+},
+{
+"Name": "Pasaje",
+"PostCode": "070105",
+"Location": {
+"Latitude": -3.3256,
+"Longitude": -79.807
+}
+},
+{
+"Name": "Pasaje",
+"PostCode": "070109",
+"Location": {
+"Latitude": -3.3256,
+"Longitude": -79.807
+}
+},
+{
+"Name": "Progreso",
+"PostCode": "070107",
+"Location": {
+"Latitude": -3.2916,
+"Longitude": -79.7604
+}
+},
+{
+"Name": "Uzhcurrumi",
+"PostCode": "070112",
+"Location": {
+"Latitude": -3.352,
+"Longitude": -79.5977
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Piñas",
+"Code": "0710",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Capiro (Cab. En La Capilla De Capiro)",
+"PostCode": "070402",
+"Location": {
+"Latitude": -3.7907,
+"Longitude": -79.7572
+}
+},
+{
+"Name": "La Bocana-Saracay-Piedras",
+"PostCode": "070405",
+"Location": {
+"Latitude": -3.6702,
+"Longitude": -79.8687
+}
+},
+{
+"Name": "Moromoro (Cab. En El Vado)",
+"PostCode": "070403",
+"Location": {
+"Latitude": -3.6688,
+"Longitude": -79.7642
+}
+},
+{
+"Name": "San Roque (Ambrosio Maldonado)-Piñas",
+"PostCode": "070401",
+"Location": {
+"Latitude": -3.7263,
+"Longitude": -79.6723
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Portovelo",
+"Code": "0711",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Morales-Curtincapa",
+"PostCode": "070307",
+"Location": {
+"Latitude": -3.7088,
+"Longitude": -79.4726
+}
+},
+{
+"Name": "Portovelo",
+"PostCode": "070304",
+"Location": {
+"Latitude": -3.7214,
+"Longitude": -79.6219
+}
+},
+{
+"Name": "Salati",
+"PostCode": "070309",
+"Location": {
+"Latitude": -3.7534,
+"Longitude": -79.5344
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Santa Rosa",
+"Code": "0712",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Bellamaria",
+"PostCode": "070607",
+"Location": {
+"Latitude": -3.5176,
+"Longitude": -79.8569
+}
+},
+{
+"Name": "Jambeli",
+"PostCode": "070605",
+"Location": {
+"Latitude": -3.2411,
+"Longitude": -80.0483
+}
+},
+{
+"Name": "Santa Rosa",
+"PostCode": "070601",
+"Location": {
+"Latitude": -3.4488,
+"Longitude": -79.9595
+}
+},
+{
+"Name": "Santa Rosa",
+"PostCode": "070602",
+"Location": {
+"Latitude": -3.4488,
+"Longitude": -79.9595
+}
+},
+{
+"Name": "Santa Rosa",
+"PostCode": "070603",
+"Location": {
+"Latitude": -3.4488,
+"Longitude": -79.9595
+}
+},
+{
+"Name": "Torata-La Avanzada-Bellavista-San Antonio",
+"PostCode": "070604",
+"Location": {
+"Latitude": -3.5564,
+"Longitude": -79.9269
+}
+},
+{
+"Name": "Victoria",
+"PostCode": "070606",
+"Location": {
+"Latitude": -3.3694,
+"Longitude": -79.8576
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Zaruma",
+"Code": "0713",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Abañin-Guanazan",
+"PostCode": "070306",
+"Location": {
+"Latitude": -3.4195,
+"Longitude": -79.5061
+}
+},
+{
+"Name": "Arcapamba-Malvas-Muluncay Grande-Huertas",
+"PostCode": "070302",
+"Location": {
+"Latitude": -3.611,
+"Longitude": -79.6118
+}
+},
+{
+"Name": "Guizhaguiña-Salvias-Sinsao",
+"PostCode": "070303",
+"Location": {
+"Latitude": -3.6305,
+"Longitude": -79.5038
+}
+},
+{
+"Name": "Zaruma",
+"PostCode": "070301",
+"Location": {
+"Latitude": -3.6913,
+"Longitude": -79.6117
+}
+}
+]
+}
+]
+},
+{
+"Name": "Las Lajas",
+"Code": "0714",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Paraiso-San Isidro",
+"PostCode": "070509",
+"Location": {
+"Latitude": -3.7838,
+"Longitude": -80.0142
+}
+},
+{
+"Name": "La Libertad-La Victoria",
+"PostCode": "070510",
+"Location": {
+"Latitude": -3.8148,
+"Longitude": -80.0985
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Esmeraldas",
+"Code": "09",
+"Provinces": [
+{
+"Name": "Cantón Esmeraldas",
+"Code": "0801",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chinca-Majua-San Mateo",
+"PostCode": "080121",
+"Location": {
+"Latitude": 0.772,
+"Longitude": -79.566
+}
+},
+{
+"Name": "Esmeraldas",
+"PostCode": "080101",
+"Location": {
+"Latitude": 0.9592,
+"Longitude": -79.654
+}
+},
+{
+"Name": "Esmeraldas",
+"PostCode": "080102",
+"Location": {
+"Latitude": 0.9592,
+"Longitude": -79.654
+}
+},
+{
+"Name": "Esmeraldas",
+"PostCode": "080103",
+"Location": {
+"Latitude": 0.9592,
+"Longitude": -79.654
+}
+},
+{
+"Name": "Esmeraldas",
+"PostCode": "080104",
+"Location": {
+"Latitude": 0.9592,
+"Longitude": -79.654
+}
+},
+{
+"Name": "Esmeraldas",
+"PostCode": "080105",
+"Location": {
+"Latitude": 0.9592,
+"Longitude": -79.654
+}
+},
+{
+"Name": "Esmeraldas",
+"PostCode": "080106",
+"Location": {
+"Latitude": 0.9592,
+"Longitude": -79.654
+}
+},
+{
+"Name": "Esmeraldas",
+"PostCode": "080107",
+"Location": {
+"Latitude": 0.9592,
+"Longitude": -79.654
+}
+},
+{
+"Name": "Esmeraldas",
+"PostCode": "080108",
+"Location": {
+"Latitude": 0.9592,
+"Longitude": -79.654
+}
+},
+{
+"Name": "Esmeraldas",
+"PostCode": "080109",
+"Location": {
+"Latitude": 0.9592,
+"Longitude": -79.654
+}
+},
+{
+"Name": "Esmeraldas",
+"PostCode": "080110",
+"Location": {
+"Latitude": 0.9592,
+"Longitude": -79.654
+}
+},
+{
+"Name": "Esmeraldas",
+"PostCode": "080111",
+"Location": {
+"Latitude": 0.9592,
+"Longitude": -79.654
+}
+},
+{
+"Name": "Esmeraldas",
+"PostCode": "080112",
+"Location": {
+"Latitude": 0.9592,
+"Longitude": -79.654
+}
+},
+{
+"Name": "Esmeraldas",
+"PostCode": "080113",
+"Location": {
+"Latitude": 0.9592,
+"Longitude": -79.654
+}
+},
+{
+"Name": "Esmeraldas",
+"PostCode": "080116",
+"Location": {
+"Latitude": 0.9592,
+"Longitude": -79.654
+}
+},
+{
+"Name": "Esmeraldas",
+"PostCode": "080117",
+"Location": {
+"Latitude": 0.9592,
+"Longitude": -79.654
+}
+},
+{
+"Name": "Esmeraldas",
+"PostCode": "080118",
+"Location": {
+"Latitude": 0.9592,
+"Longitude": -79.654
+}
+},
+{
+"Name": "Esmeraldas",
+"PostCode": "080119",
+"Location": {
+"Latitude": 0.9592,
+"Longitude": -79.654
+}
+},
+{
+"Name": "Tabiazo-Crnel. Carlos C. Torres (Cab. En Huele)",
+"PostCode": "080123",
+"Location": {
+"Latitude": 0.7011,
+"Longitude": -79.7242
+}
+},
+{
+"Name": "Tachina-Camarones (Cab. En San Vicente)",
+"PostCode": "080114",
+"Location": {
+"Latitude": 0.9517,
+"Longitude": -79.5383
+}
+},
+{
+"Name": "Vuelta Larga",
+"PostCode": "080115",
+"Location": {
+"Latitude": 0.896,
+"Longitude": -79.7002
+}
+},
+{
+"Name": "Vuelta Larga",
+"PostCode": "080120",
+"Location": {
+"Latitude": 0.896,
+"Longitude": -79.7002
+}
+},
+{
+"Name": "Vuelta Larga",
+"PostCode": "080122",
+"Location": {
+"Latitude": 0.896,
+"Longitude": -79.7002
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Eloy Alfaro",
+"Code": "0802",
+"Communities": [
+{
+"Places": [
+{
+"Name": "La Tola-Pampanal De Bolivar-Valdez (Limones)",
+"PostCode": "080201",
+"Location": {
+"Latitude": 1.1701,
+"Longitude": -79.035
+}
+},
+{
+"Name": "Luis V. Torres (Cab. En Playa De Oro)-Selva Alegre-Colon Eloy Del Maria-Maldonado-Timbire",
+"PostCode": "080202",
+"Location": {
+"Latitude": 0.6674,
+"Longitude": -78.7483
+}
+},
+{
+"Name": "San Jose De Cayapas-Telembi-Borbon-Atahualpa (Cab. En Camarones)",
+"PostCode": "080203",
+"Location": {
+"Latitude": 0.6929,
+"Longitude": -78.9235
+}
+},
+{
+"Name": "Santo Domingo De Onzole-San Francisco De Onzole-Anchayacu",
+"PostCode": "080204",
+"Location": {
+"Latitude": 0.7654,
+"Longitude": -79.141
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Muisne",
+"Code": "0803",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Bolivar-Daule",
+"PostCode": "080308",
+"Location": {
+"Latitude": 0.4167,
+"Longitude": -79.9827
+}
+},
+{
+"Name": "Galera-San Francisco-Quingue (Olmedo Perdomo Franco)",
+"PostCode": "080302",
+"Location": {
+"Latitude": 0.7146,
+"Longitude": -80.0182
+}
+},
+{
+"Name": "Salima-San Jose De Chamanga",
+"PostCode": "080307",
+"Location": {
+"Latitude": 0.3444,
+"Longitude": -79.9001
+}
+},
+{
+"Name": "San Gregorio-Muisne",
+"PostCode": "080301",
+"Location": {
+"Latitude": 0.5368,
+"Longitude": -79.8946
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Quinindé",
+"Code": "0804",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cube",
+"PostCode": "080407",
+"Location": {
+"Latitude": 0.5736,
+"Longitude": -79.6442
+}
+},
+{
+"Name": "La Union",
+"PostCode": "080409",
+"Location": {
+"Latitude": 0.1381,
+"Longitude": -79.4015
+}
+},
+{
+"Name": "Malimpia",
+"PostCode": "080404",
+"Location": {
+"Latitude": 0.4148,
+"Longitude": -79.4294
+}
+},
+{
+"Name": "Rosa Zarate (Quininde)",
+"PostCode": "080401",
+"Location": {
+"Latitude": 0.3252,
+"Longitude": -79.4952
+}
+},
+{
+"Name": "Rosa Zarate (Quininde)",
+"PostCode": "080402",
+"Location": {
+"Latitude": 0.3208,
+"Longitude": -79.4489
+}
+},
+{
+"Name": "Rosa Zarate (Quininde)",
+"PostCode": "080403",
+"Location": {
+"Latitude": 0.2916,
+"Longitude": -79.3758
+}
+},
+{
+"Name": "Rosa Zarate (Quininde)",
+"PostCode": "080405",
+"Location": {
+"Latitude": 0.3715,
+"Longitude": -79.5797
+}
+},
+{
+"Name": "Rosa Zarate (Quininde)",
+"PostCode": "080406",
+"Location": {
+"Latitude": 0.4398,
+"Longitude": -79.1972
+}
+},
+{
+"Name": "Rosa Zarate (Quininde)",
+"PostCode": "080410",
+"Location": {
+"Latitude": 0.0425,
+"Longitude": -79.4388
+}
+},
+{
+"Name": "Rosa Zarate (Quininde)",
+"PostCode": "080411",
+"Location": {
+"Latitude": 0.0373,
+"Longitude": -79.5503
+}
+},
+{
+"Name": "Viche-Chura (Chancama) (Cab. En El Yerbero)",
+"PostCode": "080408",
+"Location": {
+"Latitude": 0.4882,
+"Longitude": -79.6726
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón San Lorenzo",
+"Code": "0805",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Carondelet-Calderon-Tululbi  (Cab En Ricaurte)-Santa Rita",
+"PostCode": "080502",
+"Location": {
+"Latitude": 1.1223,
+"Longitude": -78.6601
+}
+},
+{
+"Name": "Concepcion-San Javier De Cachavi-Urbina-Alto Tambo (Cab En Guadual)-5 De Junio (Cab En Uimbi)",
+"PostCode": "080503",
+"Location": {
+"Latitude": 0.8383,
+"Longitude": -78.6457
+}
+},
+{
+"Name": "Mataje (Cab En Santander)-San Lorenzo-Ancon (Pichangal) (Cab. En Palma Real)",
+"PostCode": "080501",
+"Location": {
+"Latitude": 1.2728,
+"Longitude": -78.7229
+}
+},
+{
+"Name": "Tambillo",
+"PostCode": "080504",
+"Location": {
+"Latitude": 1.2554,
+"Longitude": -78.8857
+}
+}
+]
+}
+]
+},
+{
+"Name": "Atacames",
+"Code": "0806",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Atacames",
+"PostCode": "080305",
+"Location": {
+"Latitude": 0.8678,
+"Longitude": -79.8547
+}
+},
+{
+"Name": "La Union",
+"PostCode": "080304",
+"Location": {
+"Latitude": 0.8104,
+"Longitude": -79.8658
+}
+},
+{
+"Name": "Sua (Cab En La Bocana)-Tonchigue",
+"PostCode": "080303",
+"Location": {
+"Latitude": 0.7694,
+"Longitude": -79.9253
+}
+},
+{
+"Name": "Tonsupa",
+"PostCode": "080306",
+"Location": {
+"Latitude": 0.8801,
+"Longitude": -79.7727
+}
+}
+]
+}
+]
+},
+{
+"Name": "Rio Verde",
+"Code": "0807",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chontaduro-Chumunde-Rioverde",
+"PostCode": "080601",
+"Location": {
+"Latitude": 0.7778,
+"Longitude": -79.3945
+}
+},
+{
+"Name": "Montalvo (Cab En Horqueta)-Lagarto-Rocafuerte",
+"PostCode": "080602",
+"Location": {
+"Latitude": 0.9362,
+"Longitude": -79.281
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Guayas",
+"Code": "10",
+"Provinces": [
+{
+"Name": "Cantón Guayaquil",
+"Code": "0901",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Guayaquil- Chile",
+"PostCode": "090303",
+"Location": {
+"Latitude": -2.1974,
+"Longitude": -79.8955
+}
+},
+{
+"Name": "Guayaquil- El Cisne",
+"PostCode": "090404",
+"Location": {
+"Latitude": -2.2191,
+"Longitude": -79.9248
+}
+},
+{
+"Name": "Guayaquil- Esteros",
+"PostCode": "090204",
+"Location": {
+"Latitude": -2.2476,
+"Longitude": -79.9031
+}
+},
+{
+"Name": "Guayaquil- Esteros",
+"PostCode": "090205",
+"Location": {
+"Latitude": -2.265,
+"Longitude": -79.9051
+}
+},
+{
+"Name": "Guayaquil- Kennedy",
+"PostCode": "090505",
+"Location": {
+"Latitude": -2.1776,
+"Longitude": -79.8997
+}
+},
+{
+"Name": "Guayaquil- Trinitaria 1",
+"PostCode": "090201",
+"Location": {
+"Latitude": -2.2342,
+"Longitude": -79.9231
+}
+},
+{
+"Name": "Guayaquil- Trinitaria 2",
+"PostCode": "090206",
+"Location": {
+"Latitude": -2.2556,
+"Longitude": -79.9219
+}
+},
+{
+"Name": "Guayaquil- Victoria",
+"PostCode": "090305",
+"Location": {
+"Latitude": -2.2153,
+"Longitude": -79.9119
+}
+},
+{
+"Name": "Guayaquil-7 Lagos",
+"PostCode": "090103",
+"Location": {
+"Latitude": -2.2569,
+"Longitude": -79.8759
+}
+},
+{
+"Name": "Guayaquil-9 De Octubre",
+"PostCode": "090307",
+"Location": {
+"Latitude": -2.1951,
+"Longitude": -79.8852
+}
+},
+{
+"Name": "Guayaquil-Alborada",
+"PostCode": "090501",
+"Location": {
+"Latitude": -2.137,
+"Longitude": -79.9087
+}
+},
+{
+"Name": "Guayaquil-Alborada",
+"PostCode": "090502",
+"Location": {
+"Latitude": -2.137,
+"Longitude": -79.9087
+}
+},
+{
+"Name": "Guayaquil-Alborada",
+"PostCode": "090507",
+"Location": {
+"Latitude": -2.137,
+"Longitude": -79.9087
+}
+},
+{
+"Name": "Guayaquil-Antepara",
+"PostCode": "090304",
+"Location": {
+"Latitude": -2.2169,
+"Longitude": -79.9015
+}
+},
+{
+"Name": "Guayaquil-Atarazana",
+"PostCode": "090504",
+"Location": {
+"Latitude": -2.1288,
+"Longitude": -79.8859
+}
+},
+{
+"Name": "Guayaquil-Bastion Popular 1",
+"PostCode": "090701",
+"Location": {
+"Latitude": -2.083,
+"Longitude": -79.9275
+}
+},
+{
+"Name": "Guayaquil-Bastion Popular N2",
+"PostCode": "090704",
+"Location": {
+"Latitude": -2.0933,
+"Longitude": -79.9173
+}
+},
+{
+"Name": "Guayaquil-Batallon Del Suburbio",
+"PostCode": "090406",
+"Location": {
+"Latitude": -2.2126,
+"Longitude": -79.9401
+}
+},
+{
+"Name": "Guayaquil-Bellavista",
+"PostCode": "090608",
+"Location": {
+"Latitude": -2.375,
+"Longitude": -80.1333
+}
+},
+{
+"Name": "Guayaquil-Centenario",
+"PostCode": "090104",
+"Location": {
+"Latitude": -2.6869,
+"Longitude": -80.0251
+}
+},
+{
+"Name": "Guayaquil-Chala",
+"PostCode": "090403",
+"Location": {
+"Latitude": -2.2043,
+"Longitude": -79.9197
+}
+},
+{
+"Name": "Guayaquil-Chongon",
+"PostCode": "090903",
+"Location": {
+"Latitude": -2.236,
+"Longitude": -80.0784
+}
+},
+{
+"Name": "Guayaquil-Cristo Del Consuelo",
+"PostCode": "090306",
+"Location": {
+"Latitude": -2.1846,
+"Longitude": -79.8819
+}
+},
+{
+"Name": "Guayaquil-Flor De Bastion",
+"PostCode": "090808",
+"Location": {
+"Latitude": -2.091,
+"Longitude": -79.9611
+}
+},
+{
+"Name": "Guayaquil-Flor De Bastion",
+"PostCode": "090811",
+"Location": {
+"Latitude": -2.1225,
+"Longitude": -80.012
+}
+},
+{
+"Name": "Guayaquil-Floresta",
+"PostCode": "090102",
+"Location": {
+"Latitude": -2.258,
+"Longitude": -79.8901
+}
+},
+{
+"Name": "Guayaquil-Florida",
+"PostCode": "090605",
+"Location": {
+"Latitude": -2.128,
+"Longitude": -79.9403
+}
+},
+{
+"Name": "Guayaquil-Fortin",
+"PostCode": "090803",
+"Location": {
+"Latitude": -2.1125,
+"Longitude": -79.9571
+}
+},
+{
+"Name": "Guayaquil-Garay",
+"PostCode": "090302",
+"Location": {
+"Latitude": -2.1965,
+"Longitude": -79.9038
+}
+},
+{
+"Name": "Guayaquil-Guasmo",
+"PostCode": "090105",
+"Location": {
+"Latitude": -2.2429,
+"Longitude": -79.893
+}
+},
+{
+"Name": "Guayaquil-Guasmo",
+"PostCode": "090106",
+"Location": {
+"Latitude": -2.2429,
+"Longitude": -79.893
+}
+},
+{
+"Name": "Guayaquil-Guayacanes",
+"PostCode": "090508",
+"Location": {
+"Latitude": -2.1407,
+"Longitude": -79.9077
+}
+},
+{
+"Name": "Guayaquil-Juan Montalvo",
+"PostCode": "090606",
+"Location": {
+"Latitude": -2.1185,
+"Longitude": -79.921
+}
+},
+{
+"Name": "Guayaquil-Los Ceibos",
+"PostCode": "090902",
+"Location": {
+"Latitude": -2.1582,
+"Longitude": -79.9696
+}
+},
+{
+"Name": "Guayaquil-Malvinas 1",
+"PostCode": "090203",
+"Location": {
+"Latitude": -2.2344,
+"Longitude": -79.9051
+}
+},
+{
+"Name": "Guayaquil-Malvinas 2",
+"PostCode": "090202",
+"Location": {
+"Latitude": -2.2265,
+"Longitude": -79.9054
+}
+},
+{
+"Name": "Guayaquil-Mapasingue",
+"PostCode": "090604",
+"Location": {
+"Latitude": -2.15,
+"Longitude": -79.9
+}
+},
+{
+"Name": "Guayaquil-Martha Roldos",
+"PostCode": "090601",
+"Location": {
+"Latitude": -2.1516,
+"Longitude": -79.9231
+}
+},
+{
+"Name": "Guayaquil-Martha Roldos",
+"PostCode": "090602",
+"Location": {
+"Latitude": -2.1383,
+"Longitude": -79.9221
+}
+},
+{
+"Name": "Guayaquil-Martha Roldos",
+"PostCode": "090603",
+"Location": {
+"Latitude": -2.1917,
+"Longitude": -79.9387
+}
+},
+{
+"Name": "Guayaquil-Monte Bello",
+"PostCode": "090705",
+"Location": {
+"Latitude": -2.0989,
+"Longitude": -79.9287
+}
+},
+{
+"Name": "Guayaquil-Monte Sinai",
+"PostCode": "090806",
+"Location": {
+"Latitude": -2.1143,
+"Longitude": -79.9841
+}
+},
+{
+"Name": "Guayaquil-Monte Sinai",
+"PostCode": "090807",
+"Location": {
+"Latitude": -2.0963,
+"Longitude": -79.997
+}
+},
+{
+"Name": "Guayaquil-Monte Sinai",
+"PostCode": "090809",
+"Location": {
+"Latitude": -2.118,
+"Longitude": -79.9956
+}
+},
+{
+"Name": "Guayaquil-Monte Sinai",
+"PostCode": "090810",
+"Location": {
+"Latitude": -2.0725,
+"Longitude": -79.9727
+}
+},
+{
+"Name": "Guayaquil-Monte Sinai",
+"PostCode": "090812",
+"Location": {
+"Latitude": -2.3101,
+"Longitude": -79.9728
+}
+},
+{
+"Name": "Guayaquil-Mucho Lote",
+"PostCode": "090703",
+"Location": {
+"Latitude": -2.0723,
+"Longitude": -79.9052
+}
+},
+{
+"Name": "Guayaquil-Nueva Prosperina",
+"PostCode": "090804",
+"Location": {
+"Latitude": -2.1264,
+"Longitude": -79.9624
+}
+},
+{
+"Name": "Guayaquil-Nueva Prosperina",
+"PostCode": "090805",
+"Location": {
+"Latitude": -2.1288,
+"Longitude": -79.9929
+}
+},
+{
+"Name": "Guayaquil-Nuevo Guayaquil",
+"PostCode": "090801",
+"Location": {
+"Latitude": -2.1079,
+"Longitude": -79.9746
+}
+},
+{
+"Name": "Guayaquil-Orquideas",
+"PostCode": "090706",
+"Location": {
+"Latitude": -2.1026,
+"Longitude": -79.9416
+}
+},
+{
+"Name": "Guayaquil-Paraiso De La Flor",
+"PostCode": "090802",
+"Location": {
+"Latitude": -2.1003,
+"Longitude": -79.9628
+}
+},
+{
+"Name": "Guayaquil-Pascuales",
+"PostCode": "090702",
+"Location": {
+"Latitude": -2.0713,
+"Longitude": -79.933
+}
+},
+{
+"Name": "Guayaquil-Portete",
+"PostCode": "090401",
+"Location": {
+"Latitude": -2.1985,
+"Longitude": -79.9307
+}
+},
+{
+"Name": "Guayaquil-Puente Lucia",
+"PostCode": "090708",
+"Location": {
+"Latitude": -1.995,
+"Longitude": -79.9856
+}
+},
+{
+"Name": "Guayaquil-Puerto Hondo",
+"PostCode": "090901",
+"Location": {
+"Latitude": -2.1951,
+"Longitude": -80.0237
+}
+},
+{
+"Name": "Guayaquil-Salinas",
+"PostCode": "090402",
+"Location": {
+"Latitude": -2.1959,
+"Longitude": -79.9164
+}
+},
+{
+"Name": "Guayaquil-Samanes",
+"PostCode": "090607",
+"Location": {
+"Latitude": -2.1216,
+"Longitude": -79.9098
+}
+},
+{
+"Name": "Guayaquil-San Francisco",
+"PostCode": "090707",
+"Location": {
+"Latitude": -2.0435,
+"Longitude": -79.9588
+}
+},
+{
+"Name": "Guayaquil-Sauces",
+"PostCode": "090503",
+"Location": {
+"Latitude": -2.1312,
+"Longitude": -79.8931
+}
+},
+{
+"Name": "Guayaquil-Sauces",
+"PostCode": "090509",
+"Location": {
+"Latitude": -2.1085,
+"Longitude": -79.8947
+}
+},
+{
+"Name": "Guayaquil-Suburbio",
+"PostCode": "090405",
+"Location": {
+"Latitude": -2.2254,
+"Longitude": -79.938
+}
+},
+{
+"Name": "Guayaquil-Union De Bananeros",
+"PostCode": "090101",
+"Location": {
+"Latitude": -2.267,
+"Longitude": -79.8807
+}
+},
+{
+"Name": "Guayaquil-Urdesa",
+"PostCode": "090506",
+"Location": {
+"Latitude": -2.1713,
+"Longitude": -79.9057
+}
+},
+{
+"Name": "Guayaquil-Venezuela",
+"PostCode": "090301",
+"Location": {
+"Latitude": -2.2082,
+"Longitude": -79.9039
+}
+},
+{
+"Name": "Morro",
+"PostCode": "091002",
+"Location": {
+"Latitude": -2.6341,
+"Longitude": -80.326
+}
+},
+{
+"Name": "Posorja",
+"PostCode": "091001",
+"Location": {
+"Latitude": -2.7101,
+"Longitude": -80.2456
+}
+},
+{
+"Name": "Progreso-Guayaquil - Area De Expansión",
+"PostCode": "091003",
+"Location": {
+"Latitude": -2.3194,
+"Longitude": -80.1651
+}
+},
+{
+"Name": "Puna",
+"PostCode": "090107",
+"Location": {
+"Latitude": -2.2453,
+"Longitude": -79.8877
+}
+},
+{
+"Name": "Tenguel",
+"PostCode": "090510",
+"Location": {
+"Latitude": -2.1793,
+"Longitude": -79.8956
+}
+}
+]
+}
+]
+},
+{
+"Name": "Alfredo Baquerizo Moreno (Juján)",
+"Code": "0902",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Alfredo Baquerizo Moreno (Jujan)",
+"PostCode": "091103",
+"Location": {
+"Latitude": -1.95,
+"Longitude": -79.528
+}
+},
+{
+"Name": "Alfredo Baquerizo Moreno (Jujan)",
+"PostCode": "091104",
+"Location": {
+"Latitude": -1.9383,
+"Longitude": -79.6073
+}
+}
+]
+}
+]
+},
+{
+"Name": "Balao",
+"Code": "0903",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Balao",
+"PostCode": "091207",
+"Location": {
+"Latitude": -2.8982,
+"Longitude": -79.6677
+}
+},
+{
+"Name": "Balao",
+"PostCode": "091208",
+"Location": {
+"Latitude": -2.8882,
+"Longitude": -79.775
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Balzar",
+"Code": "0904",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Balzar",
+"PostCode": "091301",
+"Location": {
+"Latitude": -1.365,
+"Longitude": -79.9049
+}
+},
+{
+"Name": "Balzar",
+"PostCode": "091302",
+"Location": {
+"Latitude": -1.365,
+"Longitude": -79.9049
+}
+},
+{
+"Name": "Balzar",
+"PostCode": "091303",
+"Location": {
+"Latitude": -1.365,
+"Longitude": -79.9049
+}
+},
+{
+"Name": "Balzar",
+"PostCode": "091304",
+"Location": {
+"Latitude": -1.365,
+"Longitude": -79.9049
+}
+},
+{
+"Name": "Balzar",
+"PostCode": "091307",
+"Location": {
+"Latitude": -1.365,
+"Longitude": -79.9049
+}
+}
+]
+}
+]
+},
+{
+"Name": "Canton Colimes",
+"Code": "0905",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Colimes",
+"PostCode": "091305",
+"Location": {
+"Latitude": -1.5455,
+"Longitude": -80.0116
+}
+},
+{
+"Name": "Colimes",
+"PostCode": "091306",
+"Location": {
+"Latitude": -1.5455,
+"Longitude": -80.0116
+}
+},
+{
+"Name": "San Jacinto",
+"PostCode": "091310",
+"Location": {
+"Latitude": -1.4637,
+"Longitude": -79.9453
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Daule",
+"Code": "0906",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Daule",
+"PostCode": "091901",
+"Location": {
+"Latitude": -1.8611,
+"Longitude": -79.9777
+}
+},
+{
+"Name": "Daule",
+"PostCode": "091902",
+"Location": {
+"Latitude": -1.8611,
+"Longitude": -79.9777
+}
+},
+{
+"Name": "Daule",
+"PostCode": "091904",
+"Location": {
+"Latitude": -1.8611,
+"Longitude": -79.9777
+}
+},
+{
+"Name": "Daule",
+"PostCode": "091911",
+"Location": {
+"Latitude": -1.8611,
+"Longitude": -79.9777
+}
+},
+{
+"Name": "Juan Bautista Aguirre (Los Tintos)",
+"PostCode": "091909",
+"Location": {
+"Latitude": -1.7456,
+"Longitude": -79.9528
+}
+},
+{
+"Name": "Limonal-Laurel",
+"PostCode": "091903",
+"Location": {
+"Latitude": -1.8093,
+"Longitude": -79.9705
+}
+},
+{
+"Name": "Los Lojas (Enrique Baquerizo Moreno)",
+"PostCode": "091910",
+"Location": {
+"Latitude": -2.0437,
+"Longitude": -79.8968
+}
+}
+]
+}
+]
+},
+{
+"Name": "Durán",
+"Code": "0907",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Eloy Alfaro (Duran)",
+"PostCode": "092401",
+"Location": {
+"Latitude": -2.1645,
+"Longitude": -79.8265
+}
+},
+{
+"Name": "Eloy Alfaro (Duran)",
+"PostCode": "092402",
+"Location": {
+"Latitude": -2.1505,
+"Longitude": -79.8292
+}
+},
+{
+"Name": "Eloy Alfaro (Duran)",
+"PostCode": "092403",
+"Location": {
+"Latitude": -2.1268,
+"Longitude": -79.8233
+}
+},
+{
+"Name": "Eloy Alfaro (Duran)",
+"PostCode": "092404",
+"Location": {
+"Latitude": -2.1586,
+"Longitude": -79.7984
+}
+},
+{
+"Name": "Eloy Alfaro (Duran)",
+"PostCode": "092405",
+"Location": {
+"Latitude": -2.1736,
+"Longitude": -79.8116
+}
+},
+{
+"Name": "Eloy Alfaro (Duran)",
+"PostCode": "092406",
+"Location": {
+"Latitude": -2.2096,
+"Longitude": -79.7645
+}
+},
+{
+"Name": "Eloy Alfaro (Duran)",
+"PostCode": "092407",
+"Location": {
+"Latitude": -2.2682,
+"Longitude": -79.7716
+}
+},
+{
+"Name": "Eloy Alfaro (Duran)",
+"PostCode": "092408",
+"Location": {
+"Latitude": -2.2175,
+"Longitude": -79.8524
+}
+},
+{
+"Name": "Eloy Alfaro (Duran)",
+"PostCode": "092409",
+"Location": {
+"Latitude": -2.1743,
+"Longitude": -79.8435
+}
+},
+{
+"Name": "Eloy Alfaro (Duran)",
+"PostCode": "092410",
+"Location": {
+"Latitude": -2.1607,
+"Longitude": -79.8399
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón El Empalme",
+"Code": "0908",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Rosario",
+"PostCode": "091504",
+"Location": {
+"Latitude": -1.0524,
+"Longitude": -79.7782
+}
+},
+{
+"Name": "Guayas (Pueblo Nuevo)",
+"PostCode": "091505",
+"Location": {
+"Latitude": -0.9438,
+"Longitude": -79.674
+}
+},
+{
+"Name": "Guayas (Pueblo Nuevo)",
+"PostCode": "091506",
+"Location": {
+"Latitude": -0.9456,
+"Longitude": -79.5651
+}
+},
+{
+"Name": "Velasco Ibarra (Cab. El Empalme)",
+"PostCode": "091501",
+"Location": {
+"Latitude": -1.0667,
+"Longitude": -79.6885
+}
+},
+{
+"Name": "Velasco Ibarra (Cab. El Empalme)",
+"PostCode": "091502",
+"Location": {
+"Latitude": -1.0082,
+"Longitude": -79.6652
+}
+},
+{
+"Name": "Velasco Ibarra (Cab. El Empalme)",
+"PostCode": "091503",
+"Location": {
+"Latitude": -1.0787,
+"Longitude": -79.6376
+}
+}
+]
+}
+]
+},
+{
+"Name": "El Triunfo",
+"Code": "0909",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Triunfo",
+"PostCode": "091601",
+"Location": {
+"Latitude": -2.3205,
+"Longitude": -79.5156
+}
+},
+{
+"Name": "El Triunfo",
+"PostCode": "091602",
+"Location": {
+"Latitude": -2.3038,
+"Longitude": -79.455
+}
+},
+{
+"Name": "El Triunfo",
+"PostCode": "091603",
+"Location": {
+"Latitude": -2.2788,
+"Longitude": -79.2661
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Milagro",
+"Code": "0910",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chobo",
+"PostCode": "091713",
+"Location": {
+"Latitude": -2.1396,
+"Longitude": -79.6334
+}
+},
+{
+"Name": "Mariscal Sucre (Huaques)",
+"PostCode": "091715",
+"Location": {
+"Latitude": -2.0823,
+"Longitude": -79.5079
+}
+},
+{
+"Name": "Milagro",
+"PostCode": "091701",
+"Location": {
+"Latitude": -2.134,
+"Longitude": -79.5941
+}
+},
+{
+"Name": "Milagro",
+"PostCode": "091702",
+"Location": {
+"Latitude": -2.134,
+"Longitude": -79.5941
+}
+},
+{
+"Name": "Milagro",
+"PostCode": "091703",
+"Location": {
+"Latitude": -2.134,
+"Longitude": -79.5941
+}
+},
+{
+"Name": "Milagro",
+"PostCode": "091704",
+"Location": {
+"Latitude": -2.134,
+"Longitude": -79.5941
+}
+},
+{
+"Name": "Milagro",
+"PostCode": "091705",
+"Location": {
+"Latitude": -2.134,
+"Longitude": -79.5941
+}
+},
+{
+"Name": "Milagro",
+"PostCode": "091706",
+"Location": {
+"Latitude": -2.134,
+"Longitude": -79.5941
+}
+},
+{
+"Name": "Milagro",
+"PostCode": "091707",
+"Location": {
+"Latitude": -2.134,
+"Longitude": -79.5941
+}
+},
+{
+"Name": "Milagro",
+"PostCode": "091708",
+"Location": {
+"Latitude": -2.134,
+"Longitude": -79.5941
+}
+},
+{
+"Name": "Milagro",
+"PostCode": "091709",
+"Location": {
+"Latitude": -2.134,
+"Longitude": -79.5941
+}
+},
+{
+"Name": "Milagro",
+"PostCode": "091710",
+"Location": {
+"Latitude": -2.134,
+"Longitude": -79.5941
+}
+},
+{
+"Name": "Milagro",
+"PostCode": "091711",
+"Location": {
+"Latitude": -2.134,
+"Longitude": -79.5941
+}
+},
+{
+"Name": "Milagro",
+"PostCode": "091712",
+"Location": {
+"Latitude": -2.134,
+"Longitude": -79.5941
+}
+},
+{
+"Name": "Milagro",
+"PostCode": "091714",
+"Location": {
+"Latitude": -2.134,
+"Longitude": -79.5941
+}
+},
+{
+"Name": "Roberto Astudillo (Cab En Cruce De Venci",
+"PostCode": "091716",
+"Location": {
+"Latitude": -2.1694,
+"Longitude": -79.5101
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Naranjal",
+"Code": "0911",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Naranjal",
+"PostCode": "091201",
+"Location": {
+"Latitude": -2.6736,
+"Longitude": -79.6183
+}
+},
+{
+"Name": "Naranjal",
+"PostCode": "091203",
+"Location": {
+"Latitude": -2.6736,
+"Longitude": -79.6183
+}
+},
+{
+"Name": "Naranjal",
+"PostCode": "091204",
+"Location": {
+"Latitude": -2.6736,
+"Longitude": -79.6183
+}
+},
+{
+"Name": "San Carlos",
+"PostCode": "091206",
+"Location": {
+"Latitude": -2.5214,
+"Longitude": -79.4743
+}
+},
+{
+"Name": "Santa Rosa De Flandes-Jesus Maria",
+"PostCode": "091202",
+"Location": {
+"Latitude": -2.6078,
+"Longitude": -79.6142
+}
+},
+{
+"Name": "Taura",
+"PostCode": "091205",
+"Location": {
+"Latitude": -2.352,
+"Longitude": -79.6702
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Naranjito",
+"Code": "0912",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Naranjito",
+"PostCode": "091801",
+"Location": {
+"Latitude": -2.1667,
+"Longitude": -79.4654
+}
+},
+{
+"Name": "Naranjito",
+"PostCode": "091802",
+"Location": {
+"Latitude": -2.1667,
+"Longitude": -79.4654
+}
+},
+{
+"Name": "Naranjito",
+"PostCode": "091803",
+"Location": {
+"Latitude": -2.1667,
+"Longitude": -79.4654
+}
+}
+]
+}
+]
+},
+{
+"Name": "Palestina",
+"Code": "0913",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Palestina",
+"PostCode": "091308",
+"Location": {
+"Latitude": -1.6286,
+"Longitude": -79.9797
+}
+},
+{
+"Name": "Palestina",
+"PostCode": "091309",
+"Location": {
+"Latitude": -1.6286,
+"Longitude": -79.9797
+}
+}
+]
+}
+]
+},
+{
+"Name": "Pedro Carbo",
+"Code": "0914",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Pedro Carbo",
+"PostCode": "091401",
+"Location": {
+"Latitude": -1.8156,
+"Longitude": -80.2331
+}
+},
+{
+"Name": "Pedro Carbo",
+"PostCode": "091402",
+"Location": {
+"Latitude": -1.8156,
+"Longitude": -80.2331
+}
+},
+{
+"Name": "Sabanilla",
+"PostCode": "091406",
+"Location": {
+"Latitude": -1.8333,
+"Longitude": -80.2
+}
+},
+{
+"Name": "Valle De La Virgen",
+"PostCode": "091403",
+"Location": {
+"Latitude": -1.7833,
+"Longitude": -80.1833
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Samborondón",
+"Code": "0916",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Samborondon",
+"PostCode": "092301",
+"Location": {
+"Latitude": -1.9628,
+"Longitude": -79.724
+}
+},
+{
+"Name": "Samborondon",
+"PostCode": "092302",
+"Location": {
+"Latitude": -1.9628,
+"Longitude": -79.724
+}
+},
+{
+"Name": "Samborondon",
+"PostCode": "092304",
+"Location": {
+"Latitude": -1.9628,
+"Longitude": -79.724
+}
+},
+{
+"Name": "Tarifa",
+"PostCode": "092303",
+"Location": {
+"Latitude": -2.0167,
+"Longitude": -79.7667
+}
+}
+]
+}
+]
+},
+{
+"Name": "Santa Lucía",
+"Code": "0918",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Santa Lucia",
+"PostCode": "091906",
+"Location": {
+"Latitude": -1.716,
+"Longitude": -79.9869
+}
+},
+{
+"Name": "Santa Lucia",
+"PostCode": "091907",
+"Location": {
+"Latitude": -1.716,
+"Longitude": -79.9869
+}
+},
+{
+"Name": "Santa Lucia",
+"PostCode": "091908",
+"Location": {
+"Latitude": -1.716,
+"Longitude": -79.9869
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Salitre",
+"Code": "0919",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Salitre (Las Ramas)",
+"PostCode": "092001",
+"Location": {
+"Latitude": -1.8099,
+"Longitude": -79.8454
+}
+},
+{
+"Name": "El Salitre (Las Ramas)",
+"PostCode": "092004",
+"Location": {
+"Latitude": -1.7287,
+"Longitude": -79.8594
+}
+},
+{
+"Name": "Gral. Vernaza (Dos Esteros)",
+"PostCode": "092003",
+"Location": {
+"Latitude": -1.852,
+"Longitude": -79.8037
+}
+},
+{
+"Name": "Junquillal",
+"PostCode": "092002",
+"Location": {
+"Latitude": -1.7148,
+"Longitude": -79.8648
+}
+},
+{
+"Name": "La Victoria (Ñauza)",
+"PostCode": "092005",
+"Location": {
+"Latitude": -1.8869,
+"Longitude": -79.7259
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Yaguachi",
+"Code": "0920",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Gral. Pedro J. Montero (Boliche)",
+"PostCode": "092104",
+"Location": {
+"Latitude": -2.2629,
+"Longitude": -79.5915
+}
+},
+{
+"Name": "San Jacinto De Yaguachi",
+"PostCode": "092101",
+"Location": {
+"Latitude": -2.0994,
+"Longitude": -79.7487
+}
+},
+{
+"Name": "San Jacinto De Yaguachi",
+"PostCode": "092102",
+"Location": {
+"Latitude": -2.0364,
+"Longitude": -79.6641
+}
+},
+{
+"Name": "Virgen De Fatima",
+"PostCode": "092105",
+"Location": {
+"Latitude": -2.2651,
+"Longitude": -79.6711
+}
+},
+{
+"Name": "Yaguachi Viejo (Cone)",
+"PostCode": "092103",
+"Location": {
+"Latitude": -2.1885,
+"Longitude": -79.6709
+}
+}
+]
+}
+]
+},
+{
+"Name": "Playas",
+"Code": "0921",
+"Communities": [
+{
+"Places": [
+{
+"Name": "General Villamil (Playas)",
+"PostCode": "092201",
+"Location": {
+"Latitude": -2.5479,
+"Longitude": -80.4159
+}
+},
+{
+"Name": "General Villamil (Playas)",
+"PostCode": "092202",
+"Location": {
+"Latitude": -2.6382,
+"Longitude": -80.3673
+}
+},
+{
+"Name": "General Villamil (Playas)",
+"PostCode": "092203",
+"Location": {
+"Latitude": -2.5427,
+"Longitude": -80.4843
+}
+}
+]
+}
+]
+},
+{
+"Name": "Simón Bolívar",
+"Code": "0922",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Crnel. Lorenzo De Garaicoa (Pedregal)",
+"PostCode": "091102",
+"Location": {
+"Latitude": -2.065,
+"Longitude": -79.3718
+}
+},
+{
+"Name": "Simon Bolivar",
+"PostCode": "091101",
+"Location": {
+"Latitude": -2.0019,
+"Longitude": -79.4857
+}
+}
+]
+}
+]
+},
+{
+"Name": "Coronel Marcelino Maridueña",
+"Code": "0923",
+"PostCode": "091804",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Crnel. Marcelino Maridueña (San Carlos)",
+"PostCode": "091804",
+"Location": {
+"Latitude": -2.239,
+"Longitude": -79.3813
+}
+}
+],
+"PostCode": "091804"
+}
+]
+},
+{
+"Name": "Lomas De Sargentillo",
+"Code": "0924",
+"PostCode": "091405",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Lomas De Sargentillo",
+"PostCode": "091405",
+"Location": {
+"Latitude": -1.8833,
+"Longitude": -80.0833
+}
+}
+],
+"PostCode": "091405"
+}
+]
+},
+{
+"Name": "Nobol",
+"Code": "0925",
+"PostCode": "091905",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Narcisa De Jesus",
+"PostCode": "091905",
+"Location": {
+"Latitude": -1.9167,
+"Longitude": -80.0167
+}
+}
+],
+"PostCode": "091905"
+}
+]
+},
+{
+"Name": "General Antonio Elizalde",
+"Code": "0927",
+"PostCode": "091604",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Gral. Antonio Elizalde (Bucay)",
+"PostCode": "091604",
+"Location": {
+"Latitude": -2.3509,
+"Longitude": -79.3754
+}
+}
+],
+"PostCode": "091604"
+}
+]
+},
+{
+"Name": "Isidro Ayora",
+"Code": "0928",
+"PostCode": "091404",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Isidro Ayora",
+"PostCode": "091404",
+"Location": {
+"Latitude": -1.8808,
+"Longitude": -80.1449
+}
+}
+],
+"PostCode": "091404"
+}
+]
+}
+]
+},
+{
+"Name": "Imbabura",
+"Code": "11",
+"Provinces": [
+{
+"Name": "Ibarra",
+"Code": "1001",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Ambuqui",
+"PostCode": "100117",
+"Location": {
+"Latitude": 0.4303,
+"Longitude": -78.0099
+}
+},
+{
+"Name": "Angochagua-La Esperanza",
+"PostCode": "100119",
+"Location": {
+"Latitude": 0.4937,
+"Longitude": -78.1387
+}
+},
+{
+"Name": "Carolina",
+"PostCode": "100121",
+"Location": {
+"Latitude": 0.7833,
+"Longitude": -78.3
+}
+},
+{
+"Name": "Lita",
+"PostCode": "100122",
+"Location": {
+"Latitude": 0.7762,
+"Longitude": -78.3785
+}
+},
+{
+"Name": "Salinas",
+"PostCode": "100116",
+"Location": {
+"Latitude": 0.55,
+"Longitude": -78.1333
+}
+},
+{
+"Name": "San Antonio",
+"PostCode": "100113",
+"Location": {
+"Latitude": 0.3337,
+"Longitude": -78.1695
+}
+},
+{
+"Name": "San Miguel De Ibarra",
+"PostCode": "100101",
+"Location": {
+"Latitude": 0.3365,
+"Longitude": -78.1401
+}
+},
+{
+"Name": "San Miguel De Ibarra",
+"PostCode": "100102",
+"Location": {
+"Latitude": 0.3488,
+"Longitude": -78.1415
+}
+},
+{
+"Name": "San Miguel De Ibarra",
+"PostCode": "100103",
+"Location": {
+"Latitude": 0.3723,
+"Longitude": -78.1377
+}
+},
+{
+"Name": "San Miguel De Ibarra",
+"PostCode": "100104",
+"Location": {
+"Latitude": 0.3632,
+"Longitude": -78.1238
+}
+},
+{
+"Name": "San Miguel De Ibarra",
+"PostCode": "100105",
+"Location": {
+"Latitude": 0.3537,
+"Longitude": -78.1172
+}
+},
+{
+"Name": "San Miguel De Ibarra",
+"PostCode": "100106",
+"Location": {
+"Latitude": 0.3455,
+"Longitude": -78.1219
+}
+},
+{
+"Name": "San Miguel De Ibarra",
+"PostCode": "100107",
+"Location": {
+"Latitude": 0.3396,
+"Longitude": -78.1218
+}
+},
+{
+"Name": "San Miguel De Ibarra",
+"PostCode": "100108",
+"Location": {
+"Latitude": 0.298,
+"Longitude": -78.1448
+}
+},
+{
+"Name": "San Miguel De Ibarra",
+"PostCode": "100109",
+"Location": {
+"Latitude": 0.3216,
+"Longitude": -78.1712
+}
+},
+{
+"Name": "San Miguel De Ibarra",
+"PostCode": "100110",
+"Location": {
+"Latitude": 0.4218,
+"Longitude": -78.0967
+}
+},
+{
+"Name": "San Miguel De Ibarra",
+"PostCode": "100111",
+"Location": {
+"Latitude": 0.3614,
+"Longitude": -78.0582
+}
+},
+{
+"Name": "San Miguel De Ibarra",
+"PostCode": "100112",
+"Location": {
+"Latitude": 0.3394,
+"Longitude": -78.0996
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Antonio Ante",
+"Code": "1002",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Atuntaqui",
+"PostCode": "100210",
+"Location": {
+"Latitude": 0.3325,
+"Longitude": -78.2137
+}
+},
+{
+"Name": "Atuntaqui",
+"PostCode": "100211",
+"Location": {
+"Latitude": 0.3325,
+"Longitude": -78.2137
+}
+},
+{
+"Name": "Imbaya (San Luis De Cobuendo)-San Jose De Chaltura-San Fco. De Natabuela",
+"PostCode": "100212",
+"Location": {
+"Latitude": 0.1884,
+"Longitude": -78.3574
+}
+},
+{
+"Name": "San Roque",
+"PostCode": "100209",
+"Location": {
+"Latitude": 0.3041,
+"Longitude": -78.2338
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Cotacachi",
+"Code": "1003",
+"Communities": [
+{
+"Places": [
+{
+"Name": "6 De Julio De Cuellaje (Cab En Cuellaje)-Plaza Gutierrez (Calvario)-Apuela",
+"PostCode": "100304",
+"Location": {
+"Latitude": 0.316,
+"Longitude": -78.302
+}
+},
+{
+"Name": "Cotacachi",
+"PostCode": "100301",
+"Location": {
+"Latitude": 0.3011,
+"Longitude": -78.2643
+}
+},
+{
+"Name": "Garcia Moreno (Llurimagua)",
+"PostCode": "100306",
+"Location": {
+"Latitude": 0.2973,
+"Longitude": -78.7879
+}
+},
+{
+"Name": "Imantag",
+"PostCode": "100302",
+"Location": {
+"Latitude": 0.3599,
+"Longitude": -78.2451
+}
+},
+{
+"Name": "Quiroga",
+"PostCode": "100303",
+"Location": {
+"Latitude": 0.2847,
+"Longitude": -78.2839
+}
+},
+{
+"Name": "Vacas Galindo (Cab. En San Miguel Alto)-Peñaherrera",
+"PostCode": "100305",
+"Location": {
+"Latitude": 0.3475,
+"Longitude": -78.5759
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Otavalo",
+"Code": "1004",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Eugenio Espejo (Calpaqui)",
+"PostCode": "100206",
+"Location": {
+"Latitude": 0.1864,
+"Longitude": -78.2539
+}
+},
+{
+"Name": "Gonzalez Suarez-San Rafael",
+"PostCode": "100205",
+"Location": {
+"Latitude": 0.1836,
+"Longitude": -78.2186
+}
+},
+{
+"Name": "Otavalo",
+"PostCode": "100201",
+"Location": {
+"Latitude": 0.2346,
+"Longitude": -78.2625
+}
+},
+{
+"Name": "Otavalo",
+"PostCode": "100202",
+"Location": {
+"Latitude": 0.2346,
+"Longitude": -78.2625
+}
+},
+{
+"Name": "Otavalo",
+"PostCode": "100203",
+"Location": {
+"Latitude": 0.2346,
+"Longitude": -78.2625
+}
+},
+{
+"Name": "Otavalo",
+"PostCode": "100213",
+"Location": {
+"Latitude": 0.2346,
+"Longitude": -78.2625
+}
+},
+{
+"Name": "Otavalo",
+"PostCode": "100215",
+"Location": {
+"Latitude": 0.2346,
+"Longitude": -78.2625
+}
+},
+{
+"Name": "Pataqui",
+"PostCode": "100216",
+"Location": {
+"Latitude": 0.1769,
+"Longitude": -78.3647
+}
+},
+{
+"Name": "San Jose De Quichinche",
+"PostCode": "100214",
+"Location": {
+"Latitude": 0.2391,
+"Longitude": -78.289
+}
+},
+{
+"Name": "San Juan De Iluman-Doctor Miguel Egas Cabezas (Peguche)",
+"PostCode": "100207",
+"Location": {
+"Latitude": 0.1898,
+"Longitude": -78.2888
+}
+},
+{
+"Name": "San Juan De Iluman-Doctor Miguel Egas Cabezas (Peguche)",
+"PostCode": "100208",
+"Location": {
+"Latitude": 0.2484,
+"Longitude": -78.3506
+}
+},
+{
+"Name": "San Pablo",
+"PostCode": "100204",
+"Location": {
+"Latitude": 0.2526,
+"Longitude": -78.2295
+}
+},
+{
+"Name": "Selva Alegre (Cab. En San Miguel De P.)",
+"PostCode": "100217",
+"Location": {
+"Latitude": 0.3689,
+"Longitude": -78.1766
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Pimampiro",
+"Code": "1005",
+"PostCode": "100118",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chuga-Pimampiro-Mariano Acosta-San  Fco. De Sigsipamba",
+"PostCode": "100118",
+"Location": {
+"Latitude": 0.5069,
+"Longitude": -78.2464
+}
+}
+],
+"PostCode": "100118"
+}
+]
+},
+{
+"Name": "San Miguel de Urcuqui Canton",
+"Code": "1006",
+"Communities": [
+{
+"Places": [
+{
+"Name": "La Merced De Buenos Aires",
+"PostCode": "100120",
+"Location": {
+"Latitude": 0.6211,
+"Longitude": -78.3147
+}
+},
+{
+"Name": "Pablo Arenas-Cahuasqui",
+"PostCode": "100115",
+"Location": {
+"Latitude": 0.4299,
+"Longitude": -78.2189
+}
+},
+{
+"Name": "Urcuqui-San Blas-Tumbabiro",
+"PostCode": "100114",
+"Location": {
+"Latitude": 0.2311,
+"Longitude": -78.092
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Loja",
+"Code": "12",
+"Provinces": [
+{
+"Name": "Cantón Loja",
+"Code": "1101",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chantaco-Taquil (Miguel Riofrio)-Chiquiribamaba",
+"PostCode": "110117",
+"Location": {
+"Latitude": -4.1885,
+"Longitude": -79.2364
+}
+},
+{
+"Name": "Gualel-El Cisne",
+"PostCode": "110121",
+"Location": {
+"Latitude": -4.3886,
+"Longitude": -79.2731
+}
+},
+{
+"Name": "Jimbilla",
+"PostCode": "110119",
+"Location": {
+"Latitude": -3.8603,
+"Longitude": -79.1721
+}
+},
+{
+"Name": "Loja",
+"PostCode": "110101",
+"Location": {
+"Latitude": -3.9931,
+"Longitude": -79.2042
+}
+},
+{
+"Name": "Loja",
+"PostCode": "110102",
+"Location": {
+"Latitude": -3.9931,
+"Longitude": -79.2042
+}
+},
+{
+"Name": "Loja",
+"PostCode": "110103",
+"Location": {
+"Latitude": -3.9931,
+"Longitude": -79.2042
+}
+},
+{
+"Name": "Loja",
+"PostCode": "110104",
+"Location": {
+"Latitude": -3.9931,
+"Longitude": -79.2042
+}
+},
+{
+"Name": "Loja",
+"PostCode": "110105",
+"Location": {
+"Latitude": -3.9931,
+"Longitude": -79.2042
+}
+},
+{
+"Name": "Loja",
+"PostCode": "110106",
+"Location": {
+"Latitude": -3.9931,
+"Longitude": -79.2042
+}
+},
+{
+"Name": "Loja",
+"PostCode": "110107",
+"Location": {
+"Latitude": -3.9931,
+"Longitude": -79.2042
+}
+},
+{
+"Name": "Loja",
+"PostCode": "110108",
+"Location": {
+"Latitude": -3.9931,
+"Longitude": -79.2042
+}
+},
+{
+"Name": "Loja",
+"PostCode": "110109",
+"Location": {
+"Latitude": -3.9931,
+"Longitude": -79.2042
+}
+},
+{
+"Name": "Loja",
+"PostCode": "110110",
+"Location": {
+"Latitude": -3.9931,
+"Longitude": -79.2042
+}
+},
+{
+"Name": "Loja",
+"PostCode": "110111",
+"Location": {
+"Latitude": -3.9931,
+"Longitude": -79.2042
+}
+},
+{
+"Name": "Loja",
+"PostCode": "110112",
+"Location": {
+"Latitude": -3.9931,
+"Longitude": -79.2042
+}
+},
+{
+"Name": "Loja",
+"PostCode": "110113",
+"Location": {
+"Latitude": -3.9931,
+"Longitude": -79.2042
+}
+},
+{
+"Name": "Loja",
+"PostCode": "110114",
+"Location": {
+"Latitude": -3.9931,
+"Longitude": -79.2042
+}
+},
+{
+"Name": "Loja",
+"PostCode": "110115",
+"Location": {
+"Latitude": -3.9931,
+"Longitude": -79.2042
+}
+},
+{
+"Name": "Malacatos (Valladolid)",
+"PostCode": "110116",
+"Location": {
+"Latitude": -3.8663,
+"Longitude": -79.1758
+}
+},
+{
+"Name": "Quinara-Yangana (Arsenio Castillo)",
+"PostCode": "110122",
+"Location": {
+"Latitude": -4.2667,
+"Longitude": -79.25
+}
+},
+{
+"Name": "San Lucas-Santiago",
+"PostCode": "110118",
+"Location": {
+"Latitude": -3.7969,
+"Longitude": -79.4138
+}
+},
+{
+"Name": "Vilcabamba (Victoria)-San Pedro De Vilcabamba",
+"PostCode": "110120",
+"Location": {
+"Latitude": -4.2667,
+"Longitude": -79.25
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Calvas",
+"Code": "1102",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cariamanga",
+"PostCode": "110601",
+"Location": {
+"Latitude": -4.328,
+"Longitude": -79.5555
+}
+},
+{
+"Name": "Cariamanga",
+"PostCode": "110605",
+"Location": {
+"Latitude": -4.328,
+"Longitude": -79.5555
+}
+},
+{
+"Name": "El Lucero",
+"PostCode": "110602",
+"Location": {
+"Latitude": -4.4012,
+"Longitude": -79.4685
+}
+},
+{
+"Name": "Sanguillin",
+"PostCode": "110603",
+"Location": {
+"Latitude": -4.1936,
+"Longitude": -79.5286
+}
+},
+{
+"Name": "Utuana-Colaisaca",
+"PostCode": "110604",
+"Location": {
+"Latitude": -4.127,
+"Longitude": -79.4159
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Catamayo",
+"Code": "1103",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Catamayo (La Toma)",
+"PostCode": "110201",
+"Location": {
+"Latitude": -4.006,
+"Longitude": -79.3372
+}
+},
+{
+"Name": "Catamayo (La Toma)",
+"PostCode": "110202",
+"Location": {
+"Latitude": -3.9345,
+"Longitude": -79.3602
+}
+},
+{
+"Name": "El Tambo",
+"PostCode": "110203",
+"Location": {
+"Latitude": -4.0725,
+"Longitude": -79.3082
+}
+},
+{
+"Name": "San Pedro De La Bendita",
+"PostCode": "110204",
+"Location": {
+"Latitude": -3.9416,
+"Longitude": -79.4357
+}
+},
+{
+"Name": "Zambi-Guayquichuma",
+"PostCode": "110205",
+"Location": {
+"Latitude": -3.9278,
+"Longitude": -79.4447
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Celica",
+"Code": "1104",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Celica",
+"PostCode": "110401",
+"Location": {
+"Latitude": -4.1027,
+"Longitude": -79.9566
+}
+},
+{
+"Name": "Pozul (San Juan De Pozul)-Sabanilla-Tnte. Maximiliano Rodriguez Loaiza-Cruzpamba (Cab En Carlos Bustamante)",
+"PostCode": "110402",
+"Location": {
+"Latitude": -4.1834,
+"Longitude": -80.0971
+}
+}
+]
+}
+]
+},
+{
+"Name": "Chaguarpamba",
+"Code": "1105",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Amarillos-Santa Rufina-Buenavista",
+"PostCode": "110209",
+"Location": {
+"Latitude": -3.8822,
+"Longitude": -79.732
+}
+},
+{
+"Name": "Chaguarpamba-El Rosario",
+"PostCode": "110208",
+"Location": {
+"Latitude": -3.7861,
+"Longitude": -79.6106
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Espindola",
+"Code": "1106",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Airo-27 De Abril (Cab En La Naranja)-El Ingenio",
+"PostCode": "110503",
+"Location": {
+"Latitude": -4.4526,
+"Longitude": -79.3973
+}
+},
+{
+"Name": "Jimbura-Bellavista",
+"PostCode": "110502",
+"Location": {
+"Latitude": -4.596,
+"Longitude": -79.4518
+}
+},
+{
+"Name": "Santa Teresita-Amaluza",
+"PostCode": "110501",
+"Location": {
+"Latitude": -4.5716,
+"Longitude": -79.3859
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Gonzanamá",
+"Code": "1107",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Gonzanama",
+"PostCode": "110607",
+"Location": {
+"Latitude": -4.2308,
+"Longitude": -79.4354
+}
+},
+{
+"Name": "Nambacola-Purunuma (Eguiguren)",
+"PostCode": "110609",
+"Location": {
+"Latitude": -4.4682,
+"Longitude": -79.5321
+}
+},
+{
+"Name": "Sacapalca-Changaimina (La Libertad)",
+"PostCode": "110606",
+"Location": {
+"Latitude": -4.3714,
+"Longitude": -79.5462
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Macará",
+"Code": "1108",
+"Communities": [
+{
+"Places": [
+{
+"Name": "La Victoria-Sabiango (La Capilla)",
+"PostCode": "110705",
+"Location": {
+"Latitude": -4.4165,
+"Longitude": -79.8084
+}
+},
+{
+"Name": "Larama",
+"PostCode": "110702",
+"Location": {
+"Latitude": -4.2658,
+"Longitude": -79.906
+}
+},
+{
+"Name": "Macara",
+"PostCode": "110701",
+"Location": {
+"Latitude": -4.3818,
+"Longitude": -79.9437
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Paltas",
+"Code": "1109",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cangonama-Yamana-Sanantonio",
+"PostCode": "110302",
+"Location": {
+"Latitude": -3.9749,
+"Longitude": -79.692
+}
+},
+{
+"Name": "Catacocha",
+"PostCode": "110301",
+"Location": {
+"Latitude": -4.0497,
+"Longitude": -79.6494
+}
+},
+{
+"Name": "Guachanama",
+"PostCode": "110304",
+"Location": {
+"Latitude": -4.0465,
+"Longitude": -79.8814
+}
+},
+{
+"Name": "Lauro Guerrero-Cosanga",
+"PostCode": "110303",
+"Location": {
+"Latitude": -3.9683,
+"Longitude": -79.7765
+}
+},
+{
+"Name": "Orianga",
+"PostCode": "110305",
+"Location": {
+"Latitude": -3.8987,
+"Longitude": -79.8693
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Puyango",
+"Code": "1110",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Alamor",
+"PostCode": "110406",
+"Location": {
+"Latitude": -4.0185,
+"Longitude": -80.0214
+}
+},
+{
+"Name": "Ciano-El Arenal-Vicentino-Mercadillo",
+"PostCode": "110407",
+"Location": {
+"Latitude": -3.9557,
+"Longitude": -79.9611
+}
+},
+{
+"Name": "El Limo (Mariana De Jesus)",
+"PostCode": "110405",
+"Location": {
+"Latitude": -3.9967,
+"Longitude": -80.1914
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Saraguro",
+"Code": "1111",
+"Communities": [
+{
+"Places": [
+{
+"Name": "San Antonio De Qumbe (Cumbe)-El Tablon-Urdaneta (Paquishapa)",
+"PostCode": "110802",
+"Location": {
+"Latitude": -3.6159,
+"Longitude": -79.3164
+}
+},
+{
+"Name": "San Pablo De Tenta-El Paraiso De Celen",
+"PostCode": "110803",
+"Location": {
+"Latitude": -3.5687,
+"Longitude": -79.1885
+}
+},
+{
+"Name": "San Sebastian De Yuluc-Manu",
+"PostCode": "110806",
+"Location": {
+"Latitude": -3.4705,
+"Longitude": -79.4234
+}
+},
+{
+"Name": "Saraguro",
+"PostCode": "110801",
+"Location": {
+"Latitude": -3.6255,
+"Longitude": -79.239
+}
+},
+{
+"Name": "Selva Alegre-Lluzhapa",
+"PostCode": "110804",
+"Location": {
+"Latitude": -3.517,
+"Longitude": -79.3342
+}
+},
+{
+"Name": "Sumaypamba",
+"PostCode": "110805",
+"Location": {
+"Latitude": -3.4098,
+"Longitude": -79.3404
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Sozoranga",
+"Code": "1112",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Sozoranga-Nueva Fatima",
+"PostCode": "110703",
+"Location": {
+"Latitude": -4.2476,
+"Longitude": -79.7939
+}
+},
+{
+"Name": "Tacamoros",
+"PostCode": "110704",
+"Location": {
+"Latitude": -4.4225,
+"Longitude": -79.7447
+}
+}
+]
+}
+]
+},
+{
+"Name": "Zapotillo",
+"Code": "1113",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Bolaspamba",
+"PostCode": "110905",
+"Location": {
+"Latitude": -4.185,
+"Longitude": -80.3693
+}
+},
+{
+"Name": "Cazaderos (Cab En Mangaurco)",
+"PostCode": "110906",
+"Location": {
+"Latitude": -4.0756,
+"Longitude": -80.3982
+}
+},
+{
+"Name": "Garzareal",
+"PostCode": "110903",
+"Location": {
+"Latitude": -4.2728,
+"Longitude": -80.2735
+}
+},
+{
+"Name": "Limones",
+"PostCode": "110902",
+"Location": {
+"Latitude": -4.3637,
+"Longitude": -80.3768
+}
+},
+{
+"Name": "Paletillas",
+"PostCode": "110904",
+"Location": {
+"Latitude": -4.3303,
+"Longitude": -80.3178
+}
+},
+{
+"Name": "Zapotillo",
+"PostCode": "110901",
+"Location": {
+"Latitude": -4.3875,
+"Longitude": -80.2441
+}
+}
+]
+}
+]
+},
+{
+"Name": "Pindal",
+"Code": "1114",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chaquinal-12 De Diciembre (Cab En Achiotes)",
+"PostCode": "110404",
+"Location": {
+"Latitude": -4.0599,
+"Longitude": -80.0877
+}
+},
+{
+"Name": "Pindal",
+"PostCode": "110403",
+"Location": {
+"Latitude": -4.1143,
+"Longitude": -80.1068
+}
+}
+]
+}
+]
+},
+{
+"Name": "Quilanga",
+"Code": "1115",
+"PostCode": "110608",
+"Communities": [
+{
+"Places": [
+{
+"Name": "San Antonio De Las Aradas (Cab)-Quilanga-Fundochamba",
+"PostCode": "110608",
+"Location": {
+"Latitude": -4.3936,
+"Longitude": -79.5014
+}
+}
+],
+"PostCode": "110608"
+}
+]
+},
+{
+"Name": "Olmedo",
+"Code": "1116",
+"Communities": [
+{
+"Places": [
+{
+"Name": "La Tingue",
+"PostCode": "110206",
+"Location": {
+"Latitude": -3.9085,
+"Longitude": -79.5755
+}
+},
+{
+"Name": "Olmedo",
+"PostCode": "110207",
+"Location": {
+"Latitude": -3.9349,
+"Longitude": -79.6463
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Los Ríos",
+"Code": "13",
+"Provinces": [
+{
+"Name": "Cantón Babahoyo",
+"Code": "1201",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Babahoyo",
+"PostCode": "120101",
+"Location": {
+"Latitude": -1.8022,
+"Longitude": -79.5344
+}
+},
+{
+"Name": "Babahoyo",
+"PostCode": "120102",
+"Location": {
+"Latitude": -1.8022,
+"Longitude": -79.5344
+}
+},
+{
+"Name": "Babahoyo",
+"PostCode": "120103",
+"Location": {
+"Latitude": -1.8022,
+"Longitude": -79.5344
+}
+},
+{
+"Name": "Babahoyo",
+"PostCode": "120104",
+"Location": {
+"Latitude": -1.8022,
+"Longitude": -79.5344
+}
+},
+{
+"Name": "Babahoyo",
+"PostCode": "120105",
+"Location": {
+"Latitude": -1.8022,
+"Longitude": -79.5344
+}
+},
+{
+"Name": "Babahoyo",
+"PostCode": "120106",
+"Location": {
+"Latitude": -1.8022,
+"Longitude": -79.5344
+}
+},
+{
+"Name": "Babahoyo",
+"PostCode": "120107",
+"Location": {
+"Latitude": -1.8022,
+"Longitude": -79.5344
+}
+},
+{
+"Name": "Babahoyo",
+"PostCode": "120109",
+"Location": {
+"Latitude": -1.8022,
+"Longitude": -79.5344
+}
+},
+{
+"Name": "Caracol",
+"PostCode": "120112",
+"Location": {
+"Latitude": -1.6716,
+"Longitude": -79.4638
+}
+},
+{
+"Name": "Febres Cordero (Las Juntas) (Cab.",
+"PostCode": "120116",
+"Location": {
+"Latitude": -1.7622,
+"Longitude": -79.6949
+}
+},
+{
+"Name": "La Union",
+"PostCode": "120113",
+"Location": {
+"Latitude": -1.7833,
+"Longitude": -79.4667
+}
+},
+{
+"Name": "Pimocha",
+"PostCode": "120108",
+"Location": {
+"Latitude": -1.8333,
+"Longitude": -79.6064
+}
+},
+{
+"Name": "Pimocha",
+"PostCode": "120110",
+"Location": {
+"Latitude": -1.8333,
+"Longitude": -79.6064
+}
+},
+{
+"Name": "Pimocha",
+"PostCode": "120111",
+"Location": {
+"Latitude": -1.8333,
+"Longitude": -79.6064
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Baba",
+"Code": "1202",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Baba",
+"PostCode": "120117",
+"Location": {
+"Latitude": -1.7841,
+"Longitude": -79.6783
+}
+},
+{
+"Name": "Baba",
+"PostCode": "120118",
+"Location": {
+"Latitude": -1.7841,
+"Longitude": -79.6783
+}
+},
+{
+"Name": "Guare",
+"PostCode": "120120",
+"Location": {
+"Latitude": -1.6721,
+"Longitude": -79.7057
+}
+},
+{
+"Name": "Isla De Bejucal",
+"PostCode": "120119",
+"Location": {
+"Latitude": -1.6772,
+"Longitude": -79.6448
+}
+}
+]
+}
+]
+},
+{
+"Name": "Montalvo",
+"Code": "1203",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Montalvo",
+"PostCode": "120114",
+"Location": {
+"Latitude": -1.7901,
+"Longitude": -79.2876
+}
+},
+{
+"Name": "Montalvo",
+"PostCode": "120115",
+"Location": {
+"Latitude": -1.7901,
+"Longitude": -79.2876
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Puebloviejo",
+"Code": "1204",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Puebloviejo",
+"PostCode": "120201",
+"Location": {
+"Latitude": -1.5507,
+"Longitude": -79.534
+}
+},
+{
+"Name": "Puerto Pechiche",
+"PostCode": "120205",
+"Location": {
+"Latitude": -1.4333,
+"Longitude": -79.5667
+}
+},
+{
+"Name": "San Juan",
+"PostCode": "120204",
+"Location": {
+"Latitude": -1.6244,
+"Longitude": -79.5617
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Quevedo",
+"Code": "1205",
+"Communities": [
+{
+"Places": [
+{
+"Name": "La Esperanza",
+"PostCode": "120310",
+"Location": {
+"Latitude": -1.0642,
+"Longitude": -79.4613
+}
+},
+{
+"Name": "Quevedo",
+"PostCode": "120301",
+"Location": {
+"Latitude": -1.0286,
+"Longitude": -79.4635
+}
+},
+{
+"Name": "Quevedo",
+"PostCode": "120302",
+"Location": {
+"Latitude": -1.0286,
+"Longitude": -79.4635
+}
+},
+{
+"Name": "Quevedo",
+"PostCode": "120303",
+"Location": {
+"Latitude": -1.0286,
+"Longitude": -79.4635
+}
+},
+{
+"Name": "Quevedo",
+"PostCode": "120304",
+"Location": {
+"Latitude": -1.0286,
+"Longitude": -79.4635
+}
+},
+{
+"Name": "Quevedo",
+"PostCode": "120305",
+"Location": {
+"Latitude": -1.0286,
+"Longitude": -79.4635
+}
+},
+{
+"Name": "Quevedo",
+"PostCode": "120306",
+"Location": {
+"Latitude": -1.0286,
+"Longitude": -79.4635
+}
+},
+{
+"Name": "Quevedo",
+"PostCode": "120307",
+"Location": {
+"Latitude": -1.0286,
+"Longitude": -79.4635
+}
+},
+{
+"Name": "Quevedo",
+"PostCode": "120308",
+"Location": {
+"Latitude": -1.0286,
+"Longitude": -79.4635
+}
+},
+{
+"Name": "Quevedo",
+"PostCode": "120309",
+"Location": {
+"Latitude": -1.0286,
+"Longitude": -79.4635
+}
+},
+{
+"Name": "San Carlos",
+"PostCode": "120311",
+"Location": {
+"Latitude": -1.1155,
+"Longitude": -79.4351
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Urdaneta",
+"Code": "1206",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Catarama",
+"PostCode": "120202",
+"Location": {
+"Latitude": -1.575,
+"Longitude": -79.46
+}
+},
+{
+"Name": "Ricaurte",
+"PostCode": "120203",
+"Location": {
+"Latitude": -1.5784,
+"Longitude": -79.4373
+}
+},
+{
+"Name": "Ricaurte",
+"PostCode": "120206",
+"Location": {
+"Latitude": -1.5784,
+"Longitude": -79.4373
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Ventanas",
+"Code": "1207",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Ventanas",
+"PostCode": "120401",
+"Location": {
+"Latitude": -1.4416,
+"Longitude": -79.4594
+}
+},
+{
+"Name": "Ventanas",
+"PostCode": "120404",
+"Location": {
+"Latitude": -1.4416,
+"Longitude": -79.4594
+}
+},
+{
+"Name": "Ventanas",
+"PostCode": "120405",
+"Location": {
+"Latitude": -1.4416,
+"Longitude": -79.4594
+}
+},
+{
+"Name": "Zapotal",
+"PostCode": "120402",
+"Location": {
+"Latitude": -1.3551,
+"Longitude": -79.4018
+}
+},
+{
+"Name": "Zapotal",
+"PostCode": "120403",
+"Location": {
+"Latitude": -1.3551,
+"Longitude": -79.4018
+}
+},
+{
+"Name": "Zapotal",
+"PostCode": "120406",
+"Location": {
+"Latitude": -1.3551,
+"Longitude": -79.4018
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Vinces",
+"Code": "1208",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Antonio Sotomayor (Cab. Playas De Vince",
+"PostCode": "120506",
+"Location": {
+"Latitude": -1.5194,
+"Longitude": -79.7424
+}
+},
+{
+"Name": "Antonio Sotomayor (Cab. Playas De Vince",
+"PostCode": "120510",
+"Location": {
+"Latitude": -1.6957,
+"Longitude": -79.7805
+}
+},
+{
+"Name": "Vinces",
+"PostCode": "120501",
+"Location": {
+"Latitude": -1.5561,
+"Longitude": -79.7519
+}
+},
+{
+"Name": "Vinces",
+"PostCode": "120502",
+"Location": {
+"Latitude": -1.5561,
+"Longitude": -79.7519
+}
+},
+{
+"Name": "Vinces",
+"PostCode": "120503",
+"Location": {
+"Latitude": -1.5561,
+"Longitude": -79.7519
+}
+},
+{
+"Name": "Vinces",
+"PostCode": "120504",
+"Location": {
+"Latitude": -1.5561,
+"Longitude": -79.7519
+}
+},
+{
+"Name": "Vinces",
+"PostCode": "120505",
+"Location": {
+"Latitude": -1.5561,
+"Longitude": -79.7519
+}
+},
+{
+"Name": "Vinces",
+"PostCode": "120507",
+"Location": {
+"Latitude": -1.5561,
+"Longitude": -79.7519
+}
+},
+{
+"Name": "Vinces",
+"PostCode": "120509",
+"Location": {
+"Latitude": -1.5561,
+"Longitude": -79.7519
+}
+}
+]
+}
+]
+},
+{
+"Name": "Palenque",
+"Code": "1209",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Palenque",
+"PostCode": "120508",
+"Location": {
+"Latitude": -1.438,
+"Longitude": -79.7565
+}
+},
+{
+"Name": "Palenque",
+"PostCode": "120511",
+"Location": {
+"Latitude": -1.438,
+"Longitude": -79.7565
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Buena Fe",
+"Code": "1210",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Patricia Pilar",
+"PostCode": "120609",
+"Location": {
+"Latitude": -0.5731,
+"Longitude": -79.3717
+}
+},
+{
+"Name": "San Jacinto De Buena Fe",
+"PostCode": "120601",
+"Location": {
+"Latitude": -0.8932,
+"Longitude": -79.4891
+}
+},
+{
+"Name": "San Jacinto De Buena Fe",
+"PostCode": "120603",
+"Location": {
+"Latitude": -0.8932,
+"Longitude": -79.4891
+}
+},
+{
+"Name": "San Jacinto De Buena Fe",
+"PostCode": "120604",
+"Location": {
+"Latitude": -0.8932,
+"Longitude": -79.4891
+}
+},
+{
+"Name": "San Jacinto De Buena Fe",
+"PostCode": "120608",
+"Location": {
+"Latitude": -0.8932,
+"Longitude": -79.4891
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Valencia",
+"Code": "1211",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Valencia",
+"PostCode": "120602",
+"Location": {
+"Latitude": -0.9523,
+"Longitude": -79.3559
+}
+},
+{
+"Name": "Valencia",
+"PostCode": "120605",
+"Location": {
+"Latitude": -0.9523,
+"Longitude": -79.3559
+}
+},
+{
+"Name": "Valencia",
+"PostCode": "120606",
+"Location": {
+"Latitude": -0.9523,
+"Longitude": -79.3559
+}
+},
+{
+"Name": "Valencia",
+"PostCode": "120607",
+"Location": {
+"Latitude": -0.9523,
+"Longitude": -79.3559
+}
+},
+{
+"Name": "Valencia",
+"PostCode": "120610",
+"Location": {
+"Latitude": -0.9523,
+"Longitude": -79.3559
+}
+}
+]
+}
+]
+},
+{
+"Name": "Mocache",
+"Code": "1212",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Mocache",
+"PostCode": "120312",
+"Location": {
+"Latitude": -1.1827,
+"Longitude": -79.4991
+}
+},
+{
+"Name": "Mocache",
+"PostCode": "120313",
+"Location": {
+"Latitude": -1.1827,
+"Longitude": -79.4991
+}
+},
+{
+"Name": "Mocache",
+"PostCode": "120314",
+"Location": {
+"Latitude": -1.1827,
+"Longitude": -79.4991
+}
+}
+]
+}
+]
+},
+{
+"Name": "Quinsaloma",
+"Code": "1213",
+"PostCode": "120407",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Quinsaloma",
+"PostCode": "120407",
+"Location": {
+"Latitude": -1.2218,
+"Longitude": -79.3349
+}
+}
+],
+"PostCode": "120407"
+}
+]
+}
+]
+},
+{
+"Name": "Manabí",
+"Code": "14",
+"Provinces": [
+{
+"Name": "Cantón Portoviejo",
+"Code": "1301",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Abdon Calderon (San Francisco)",
+"PostCode": "130117",
+"Location": {
+"Latitude": -1.0471,
+"Longitude": -80.3241
+}
+},
+{
+"Name": "Chirijos-Alhajuela (Bajo Grande)",
+"PostCode": "130120",
+"Location": {
+"Latitude": -1.0249,
+"Longitude": -80.2067
+}
+},
+{
+"Name": "Crucita",
+"PostCode": "130119",
+"Location": {
+"Latitude": -0.8706,
+"Longitude": -80.5375
+}
+},
+{
+"Name": "Portoviejo",
+"PostCode": "130101",
+"Location": {
+"Latitude": -1.0546,
+"Longitude": -80.4544
+}
+},
+{
+"Name": "Portoviejo",
+"PostCode": "130102",
+"Location": {
+"Latitude": -1.0546,
+"Longitude": -80.4544
+}
+},
+{
+"Name": "Portoviejo",
+"PostCode": "130103",
+"Location": {
+"Latitude": -1.0546,
+"Longitude": -80.4544
+}
+},
+{
+"Name": "Portoviejo",
+"PostCode": "130104",
+"Location": {
+"Latitude": -1.0546,
+"Longitude": -80.4544
+}
+},
+{
+"Name": "Portoviejo",
+"PostCode": "130105",
+"Location": {
+"Latitude": -1.0546,
+"Longitude": -80.4544
+}
+},
+{
+"Name": "Portoviejo",
+"PostCode": "130106",
+"Location": {
+"Latitude": -1.0546,
+"Longitude": -80.4544
+}
+},
+{
+"Name": "Portoviejo",
+"PostCode": "130107",
+"Location": {
+"Latitude": -1.0546,
+"Longitude": -80.4544
+}
+},
+{
+"Name": "Portoviejo",
+"PostCode": "130108",
+"Location": {
+"Latitude": -1.0546,
+"Longitude": -80.4544
+}
+},
+{
+"Name": "Portoviejo",
+"PostCode": "130109",
+"Location": {
+"Latitude": -1.0546,
+"Longitude": -80.4544
+}
+},
+{
+"Name": "Portoviejo",
+"PostCode": "130110",
+"Location": {
+"Latitude": -1.0546,
+"Longitude": -80.4544
+}
+},
+{
+"Name": "Portoviejo",
+"PostCode": "130111",
+"Location": {
+"Latitude": -1.0546,
+"Longitude": -80.4544
+}
+},
+{
+"Name": "Portoviejo",
+"PostCode": "130112",
+"Location": {
+"Latitude": -1.0546,
+"Longitude": -80.4544
+}
+},
+{
+"Name": "Portoviejo",
+"PostCode": "130113",
+"Location": {
+"Latitude": -1.0546,
+"Longitude": -80.4544
+}
+},
+{
+"Name": "Portoviejo",
+"PostCode": "130114",
+"Location": {
+"Latitude": -1.0546,
+"Longitude": -80.4544
+}
+},
+{
+"Name": "Portoviejo",
+"PostCode": "130115",
+"Location": {
+"Latitude": -1.0546,
+"Longitude": -80.4544
+}
+},
+{
+"Name": "Portoviejo",
+"PostCode": "130118",
+"Location": {
+"Latitude": -1.0546,
+"Longitude": -80.4544
+}
+},
+{
+"Name": "Riochico (Rio Chico)-Pueblo Nuevo",
+"PostCode": "130116",
+"Location": {
+"Latitude": -0.984,
+"Longitude": -80.362
+}
+},
+{
+"Name": "San Placido",
+"PostCode": "130121",
+"Location": {
+"Latitude": -1.0616,
+"Longitude": -80.245
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Bolívar",
+"Code": "1302",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Calceta",
+"PostCode": "130601",
+"Location": {
+"Latitude": -0.8458,
+"Longitude": -80.1639
+}
+},
+{
+"Name": "Calceta",
+"PostCode": "130602",
+"Location": {
+"Latitude": -0.8458,
+"Longitude": -80.1639
+}
+},
+{
+"Name": "Calceta",
+"PostCode": "130607",
+"Location": {
+"Latitude": -0.8458,
+"Longitude": -80.1639
+}
+},
+{
+"Name": "Membrillo",
+"PostCode": "130606",
+"Location": {
+"Latitude": -0.8702,
+"Longitude": -79.9454
+}
+},
+{
+"Name": "Quiroga",
+"PostCode": "130603",
+"Location": {
+"Latitude": -0.8844,
+"Longitude": -80.0971
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Chone",
+"Code": "1303",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Boyaca",
+"PostCode": "130707",
+"Location": {
+"Latitude": -0.5701,
+"Longitude": -80.1773
+}
+},
+{
+"Name": "Canuto",
+"PostCode": "130710",
+"Location": {
+"Latitude": -0.7996,
+"Longitude": -80.1282
+}
+},
+{
+"Name": "Canuto",
+"PostCode": "130714",
+"Location": {
+"Latitude": -0.7996,
+"Longitude": -80.1282
+}
+},
+{
+"Name": "Chibunga",
+"PostCode": "130719",
+"Location": {
+"Latitude": -0.2454,
+"Longitude": -79.7199
+}
+},
+{
+"Name": "Chone",
+"PostCode": "130701",
+"Location": {
+"Latitude": -0.6982,
+"Longitude": -80.0936
+}
+},
+{
+"Name": "Chone",
+"PostCode": "130702",
+"Location": {
+"Latitude": -0.6982,
+"Longitude": -80.0936
+}
+},
+{
+"Name": "Chone",
+"PostCode": "130703",
+"Location": {
+"Latitude": -0.6982,
+"Longitude": -80.0936
+}
+},
+{
+"Name": "Chone",
+"PostCode": "130704",
+"Location": {
+"Latitude": -0.6982,
+"Longitude": -80.0936
+}
+},
+{
+"Name": "Chone",
+"PostCode": "130706",
+"Location": {
+"Latitude": -0.6982,
+"Longitude": -80.0936
+}
+},
+{
+"Name": "Chone",
+"PostCode": "130709",
+"Location": {
+"Latitude": -0.6982,
+"Longitude": -80.0936
+}
+},
+{
+"Name": "Convento",
+"PostCode": "130715",
+"Location": {
+"Latitude": -0.2774,
+"Longitude": -80.0361
+}
+},
+{
+"Name": "Eloy Alfaro",
+"PostCode": "130711",
+"Location": {
+"Latitude": -0.401,
+"Longitude": -80.0806
+}
+},
+{
+"Name": "Ricaurte",
+"PostCode": "130708",
+"Location": {
+"Latitude": -0.5828,
+"Longitude": -80.0414
+}
+},
+{
+"Name": "San Antonio",
+"PostCode": "130705",
+"Location": {
+"Latitude": -0.7042,
+"Longitude": -80.1662
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón El Carmen",
+"Code": "1304",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Carmen",
+"PostCode": "130501",
+"Location": {
+"Latitude": -0.2711,
+"Longitude": -79.4629
+}
+},
+{
+"Name": "El Carmen",
+"PostCode": "130502",
+"Location": {
+"Latitude": -0.2711,
+"Longitude": -79.4629
+}
+},
+{
+"Name": "El Carmen",
+"PostCode": "130503",
+"Location": {
+"Latitude": -0.2711,
+"Longitude": -79.4629
+}
+},
+{
+"Name": "El Carmen",
+"PostCode": "130504",
+"Location": {
+"Latitude": -0.2711,
+"Longitude": -79.4629
+}
+},
+{
+"Name": "El Carmen",
+"PostCode": "130505",
+"Location": {
+"Latitude": -0.2711,
+"Longitude": -79.4629
+}
+},
+{
+"Name": "El Carmen",
+"PostCode": "130508",
+"Location": {
+"Latitude": -0.2711,
+"Longitude": -79.4629
+}
+},
+{
+"Name": "San Pedro De Suma",
+"PostCode": "130507",
+"Location": {
+"Latitude": -0.2158,
+"Longitude": -79.5396
+}
+},
+{
+"Name": "Wilfrido Loor Moreira (Maicito)",
+"PostCode": "130506",
+"Location": {
+"Latitude": -0.3306,
+"Longitude": -79.6473
+}
+}
+]
+}
+]
+},
+{
+"Name": "Flavio Alfaro",
+"Code": "1305",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Flavio Alfaro",
+"PostCode": "130713",
+"Location": {
+"Latitude": -0.4056,
+"Longitude": -79.9054
+}
+},
+{
+"Name": "Flavio Alfaro",
+"PostCode": "130716",
+"Location": {
+"Latitude": -0.4056,
+"Longitude": -79.9054
+}
+},
+{
+"Name": "Flavio Alfaro",
+"PostCode": "130718",
+"Location": {
+"Latitude": -0.4056,
+"Longitude": -79.9054
+}
+},
+{
+"Name": "San Fco. De Novillo (Cab En Novillo)",
+"PostCode": "130717",
+"Location": {
+"Latitude": -0.0544,
+"Longitude": -79.7464
+}
+},
+{
+"Name": "Zapallo",
+"PostCode": "130712",
+"Location": {
+"Latitude": -0.45,
+"Longitude": -80.0
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Jipijapa",
+"Code": "1306",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Anegado (Cab En Eloy Alfaro)-Julcuy",
+"PostCode": "130311",
+"Location": {
+"Latitude": -1.469,
+"Longitude": -80.7382
+}
+},
+{
+"Name": "Jipijapa",
+"PostCode": "130301",
+"Location": {
+"Latitude": -1.3487,
+"Longitude": -80.5787
+}
+},
+{
+"Name": "Jipijapa",
+"PostCode": "130302",
+"Location": {
+"Latitude": -1.3487,
+"Longitude": -80.5787
+}
+},
+{
+"Name": "Jipijapa",
+"PostCode": "130303",
+"Location": {
+"Latitude": -1.3487,
+"Longitude": -80.5787
+}
+},
+{
+"Name": "Jipijapa",
+"PostCode": "130304",
+"Location": {
+"Latitude": -1.3487,
+"Longitude": -80.5787
+}
+},
+{
+"Name": "Jipijapa",
+"PostCode": "130305",
+"Location": {
+"Latitude": -1.3487,
+"Longitude": -80.5787
+}
+},
+{
+"Name": "Jipijapa",
+"PostCode": "130306",
+"Location": {
+"Latitude": -1.3487,
+"Longitude": -80.5787
+}
+},
+{
+"Name": "Jipijapa",
+"PostCode": "130309",
+"Location": {
+"Latitude": -1.3487,
+"Longitude": -80.5787
+}
+},
+{
+"Name": "La Union-America",
+"PostCode": "130310",
+"Location": {
+"Latitude": -1.4117,
+"Longitude": -80.4642
+}
+},
+{
+"Name": "Membrillal",
+"PostCode": "130308",
+"Location": {
+"Latitude": -1.2391,
+"Longitude": -80.6648
+}
+},
+{
+"Name": "Pedro Pablo Gomez",
+"PostCode": "130313",
+"Location": {
+"Latitude": -1.6262,
+"Longitude": -80.5599
+}
+},
+{
+"Name": "Puerto De Cayo",
+"PostCode": "130307",
+"Location": {
+"Latitude": -1.262,
+"Longitude": -80.553
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Junín",
+"Code": "1307",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Junin",
+"PostCode": "130604",
+"Location": {
+"Latitude": -0.9278,
+"Longitude": -80.2058
+}
+},
+{
+"Name": "Junin",
+"PostCode": "130605",
+"Location": {
+"Latitude": -0.9278,
+"Longitude": -80.2058
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Manta",
+"Code": "1308",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Manta",
+"PostCode": "130201",
+"Location": {
+"Latitude": -0.9621,
+"Longitude": -80.7127
+}
+},
+{
+"Name": "Manta",
+"PostCode": "130202",
+"Location": {
+"Latitude": -0.9621,
+"Longitude": -80.7127
+}
+},
+{
+"Name": "Manta",
+"PostCode": "130203",
+"Location": {
+"Latitude": -0.9621,
+"Longitude": -80.7127
+}
+},
+{
+"Name": "Manta",
+"PostCode": "130204",
+"Location": {
+"Latitude": -0.9621,
+"Longitude": -80.7127
+}
+},
+{
+"Name": "Manta",
+"PostCode": "130205",
+"Location": {
+"Latitude": -0.9621,
+"Longitude": -80.7127
+}
+},
+{
+"Name": "Manta",
+"PostCode": "130206",
+"Location": {
+"Latitude": -0.9621,
+"Longitude": -80.7127
+}
+},
+{
+"Name": "Manta",
+"PostCode": "130207",
+"Location": {
+"Latitude": -0.9621,
+"Longitude": -80.7127
+}
+},
+{
+"Name": "Manta",
+"PostCode": "130208",
+"Location": {
+"Latitude": -0.9621,
+"Longitude": -80.7127
+}
+},
+{
+"Name": "Manta",
+"PostCode": "130209",
+"Location": {
+"Latitude": -0.9621,
+"Longitude": -80.7127
+}
+},
+{
+"Name": "Manta",
+"PostCode": "130210",
+"Location": {
+"Latitude": -0.9621,
+"Longitude": -80.7127
+}
+},
+{
+"Name": "Manta",
+"PostCode": "130211",
+"Location": {
+"Latitude": -0.9621,
+"Longitude": -80.7127
+}
+},
+{
+"Name": "Manta",
+"PostCode": "130212",
+"Location": {
+"Latitude": -0.9621,
+"Longitude": -80.7127
+}
+},
+{
+"Name": "Manta",
+"PostCode": "130215",
+"Location": {
+"Latitude": -0.9621,
+"Longitude": -80.7127
+}
+},
+{
+"Name": "Manta",
+"PostCode": "130216",
+"Location": {
+"Latitude": -0.9621,
+"Longitude": -80.7127
+}
+},
+{
+"Name": "Manta",
+"PostCode": "130219",
+"Location": {
+"Latitude": -0.9621,
+"Longitude": -80.7127
+}
+},
+{
+"Name": "Manta",
+"PostCode": "130220",
+"Location": {
+"Latitude": -0.9621,
+"Longitude": -80.7127
+}
+},
+{
+"Name": "Manta",
+"PostCode": "130224",
+"Location": {
+"Latitude": -0.9621,
+"Longitude": -80.7127
+}
+},
+{
+"Name": "Manta",
+"PostCode": "130225",
+"Location": {
+"Latitude": -0.9621,
+"Longitude": -80.7127
+}
+},
+{
+"Name": "San Lorenzo-Santa Marianita (Boca De Pacoche)",
+"PostCode": "130227",
+"Location": {
+"Latitude": -0.9758,
+"Longitude": -80.8074
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Montecristi",
+"Code": "1309",
+"Communities": [
+{
+"Places": [
+{
+"Name": "La Pila",
+"PostCode": "130226",
+"Location": {
+"Latitude": -1.1081,
+"Longitude": -80.5836
+}
+},
+{
+"Name": "Montecristi",
+"PostCode": "130213",
+"Location": {
+"Latitude": -1.0458,
+"Longitude": -80.6589
+}
+},
+{
+"Name": "Montecristi",
+"PostCode": "130214",
+"Location": {
+"Latitude": -1.0458,
+"Longitude": -80.6589
+}
+},
+{
+"Name": "Montecristi",
+"PostCode": "130217",
+"Location": {
+"Latitude": -1.0458,
+"Longitude": -80.6589
+}
+},
+{
+"Name": "Montecristi",
+"PostCode": "130218",
+"Location": {
+"Latitude": -1.0458,
+"Longitude": -80.6589
+}
+},
+{
+"Name": "Montecristi",
+"PostCode": "130222",
+"Location": {
+"Latitude": -1.0458,
+"Longitude": -80.6589
+}
+},
+{
+"Name": "Montecristi",
+"PostCode": "130223",
+"Location": {
+"Latitude": -1.0458,
+"Longitude": -80.6589
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Paján",
+"Code": "1310",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Campozano (La Palma De Pajan)",
+"PostCode": "130902",
+"Location": {
+"Latitude": -1.5789,
+"Longitude": -80.344
+}
+},
+{
+"Name": "Campozano (La Palma De Pajan)",
+"PostCode": "130903",
+"Location": {
+"Latitude": -1.6428,
+"Longitude": -80.3888
+}
+},
+{
+"Name": "Cascol",
+"PostCode": "130904",
+"Location": {
+"Latitude": -1.6667,
+"Longitude": -80.4667
+}
+},
+{
+"Name": "Guale",
+"PostCode": "130906",
+"Location": {
+"Latitude": -1.6314,
+"Longitude": -80.239
+}
+},
+{
+"Name": "Lascano",
+"PostCode": "130905",
+"Location": {
+"Latitude": -1.5309,
+"Longitude": -80.2298
+}
+},
+{
+"Name": "Pajan",
+"PostCode": "130901",
+"Location": {
+"Latitude": -1.5524,
+"Longitude": -80.4296
+}
+}
+]
+}
+]
+},
+{
+"Name": "Pichincha",
+"Code": "1311",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Barraganete",
+"PostCode": "130805",
+"Location": {
+"Latitude": -0.7744,
+"Longitude": -79.7043
+}
+},
+{
+"Name": "Barraganete",
+"PostCode": "130806",
+"Location": {
+"Latitude": -0.7744,
+"Longitude": -79.7043
+}
+},
+{
+"Name": "Pichincha",
+"PostCode": "130802",
+"Location": {
+"Latitude": -1.0469,
+"Longitude": -79.8214
+}
+},
+{
+"Name": "Pichincha",
+"PostCode": "130803",
+"Location": {
+"Latitude": -1.0469,
+"Longitude": -79.8214
+}
+},
+{
+"Name": "Pichincha",
+"PostCode": "130804",
+"Location": {
+"Latitude": -1.0469,
+"Longitude": -79.8214
+}
+},
+{
+"Name": "San Sebastian",
+"PostCode": "130801",
+"Location": {
+"Latitude": -1.0792,
+"Longitude": -79.9747
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Rocafuerte",
+"Code": "1312",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Rocafuerte",
+"PostCode": "131201",
+"Location": {
+"Latitude": -0.9236,
+"Longitude": -80.4495
+}
+},
+{
+"Name": "Rocafuerte",
+"PostCode": "131202",
+"Location": {
+"Latitude": -0.9236,
+"Longitude": -80.4495
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Santa Ana",
+"Code": "1313",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Ayacucho",
+"PostCode": "130403",
+"Location": {
+"Latitude": -1.1575,
+"Longitude": -80.2867
+}
+},
+{
+"Name": "Honorato Vasquez (Cab En Vasquez)",
+"PostCode": "130406",
+"Location": {
+"Latitude": -1.2525,
+"Longitude": -80.3082
+}
+},
+{
+"Name": "La Union",
+"PostCode": "130407",
+"Location": {
+"Latitude": -1.2095,
+"Longitude": -80.1522
+}
+},
+{
+"Name": "San Pablo (Cab En Pueblo Nuevo)",
+"PostCode": "130411",
+"Location": {
+"Latitude": -1.2144,
+"Longitude": -80.0599
+}
+},
+{
+"Name": "Santa Ana De Vuelta Larga",
+"PostCode": "130401",
+"Location": {
+"Latitude": -1.1894,
+"Longitude": -80.434
+}
+},
+{
+"Name": "Santa Ana De Vuelta Larga",
+"PostCode": "130402",
+"Location": {
+"Latitude": -1.2104,
+"Longitude": -80.3365
+}
+},
+{
+"Name": "Santa Ana De Vuelta Larga",
+"PostCode": "130404",
+"Location": {
+"Latitude": -1.3033,
+"Longitude": -80.4235
+}
+},
+{
+"Name": "Santa Ana De Vuelta Larga",
+"PostCode": "130405",
+"Location": {
+"Latitude": -1.1491,
+"Longitude": -80.2725
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Sucre",
+"Code": "1314",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Bahia De Caraquez",
+"PostCode": "131101",
+"Location": {
+"Latitude": -0.5979,
+"Longitude": -80.4237
+}
+},
+{
+"Name": "Bahia De Caraquez",
+"PostCode": "131103",
+"Location": {
+"Latitude": -0.5979,
+"Longitude": -80.4237
+}
+},
+{
+"Name": "Charapoto",
+"PostCode": "131106",
+"Location": {
+"Latitude": -0.8378,
+"Longitude": -80.4867
+}
+},
+{
+"Name": "San Isidro",
+"PostCode": "131105",
+"Location": {
+"Latitude": -0.3789,
+"Longitude": -80.1849
+}
+}
+]
+}
+]
+},
+{
+"Name": "Tosagua",
+"Code": "1315",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Angel Pedro Giler (La Estancilla)-Bachillero",
+"PostCode": "131205",
+"Location": {
+"Latitude": -0.8,
+"Longitude": -80.2222
+}
+},
+{
+"Name": "Tosagua",
+"PostCode": "131203",
+"Location": {
+"Latitude": -0.7868,
+"Longitude": -80.2347
+}
+},
+{
+"Name": "Tosagua",
+"PostCode": "131204",
+"Location": {
+"Latitude": -0.7868,
+"Longitude": -80.2347
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Veinticuatro de Mayo",
+"Code": "1316",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Arq. Sixto Duran Ballen",
+"PostCode": "130413",
+"Location": {
+"Latitude": -1.4767,
+"Longitude": -80.3126
+}
+},
+{
+"Name": "Bellavista",
+"PostCode": "130409",
+"Location": {
+"Latitude": -1.3486,
+"Longitude": -80.2823
+}
+},
+{
+"Name": "Noboa",
+"PostCode": "130414",
+"Location": {
+"Latitude": -1.4103,
+"Longitude": -80.3932
+}
+},
+{
+"Name": "Sucre",
+"PostCode": "130410",
+"Location": {
+"Latitude": -1.2797,
+"Longitude": -80.4189
+}
+}
+]
+}
+]
+},
+{
+"Name": "Canton Pedernales",
+"Code": "1317",
+"Communities": [
+{
+"Places": [
+{
+"Name": "10 De Agosto",
+"PostCode": "131007",
+"Location": {
+"Latitude": -0.1342,
+"Longitude": -80.0504
+}
+},
+{
+"Name": "Atahualpa",
+"PostCode": "131006",
+"Location": {
+"Latitude": -0.0274,
+"Longitude": -79.9684
+}
+},
+{
+"Name": "Cojimies",
+"PostCode": "131003",
+"Location": {
+"Latitude": 0.3678,
+"Longitude": -80.0354
+}
+},
+{
+"Name": "Cojimies",
+"PostCode": "131004",
+"Location": {
+"Latitude": 0.3678,
+"Longitude": -80.0354
+}
+},
+{
+"Name": "Pedernales",
+"PostCode": "131001",
+"Location": {
+"Latitude": 0.0717,
+"Longitude": -80.0525
+}
+},
+{
+"Name": "Pedernales",
+"PostCode": "131002",
+"Location": {
+"Latitude": 0.0717,
+"Longitude": -80.0525
+}
+},
+{
+"Name": "Pedernales",
+"PostCode": "131005",
+"Location": {
+"Latitude": 0.0717,
+"Longitude": -80.0525
+}
+}
+]
+}
+]
+},
+{
+"Name": "Olmedo",
+"Code": "1318",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Olmedo",
+"PostCode": "130408",
+"Location": {
+"Latitude": -1.3957,
+"Longitude": -80.2087
+}
+},
+{
+"Name": "Olmedo",
+"PostCode": "130412",
+"Location": {
+"Latitude": -1.3957,
+"Longitude": -80.2087
+}
+}
+]
+}
+]
+},
+{
+"Name": "Puerto López",
+"Code": "1319",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Puerto Lopez-Machalilla-Salango",
+"PostCode": "130312",
+"Location": {
+"Latitude": -1.3259,
+"Longitude": -80.6984
+}
+},
+{
+"Name": "Puerto Lopez-Machalilla-Salango",
+"PostCode": "130314",
+"Location": {
+"Latitude": -1.6862,
+"Longitude": -80.5733
+}
+}
+]
+}
+]
+},
+{
+"Name": "Jama",
+"Code": "1320",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Jama",
+"PostCode": "131008",
+"Location": {
+"Latitude": -0.2019,
+"Longitude": -80.2626
+}
+},
+{
+"Name": "Jama",
+"PostCode": "131009",
+"Location": {
+"Latitude": -0.2019,
+"Longitude": -80.2626
+}
+}
+]
+}
+]
+},
+{
+"Name": "Jaramijó",
+"Code": "1321",
+"PostCode": "130221",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Jaramijo",
+"PostCode": "130221",
+"Location": {
+"Latitude": -0.9489,
+"Longitude": -80.6381
+}
+}
+],
+"PostCode": "130221"
+}
+]
+},
+{
+"Name": "San Vicente",
+"Code": "1322",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Canoa",
+"PostCode": "131104",
+"Location": {
+"Latitude": -0.462,
+"Longitude": -80.4544
+}
+},
+{
+"Name": "San Vicente",
+"PostCode": "131102",
+"Location": {
+"Latitude": -0.5899,
+"Longitude": -80.4081
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Morona Santiago",
+"Code": "15",
+"Provinces": [
+{
+"Name": "Cantón Morona",
+"Code": "1401",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Alshi(Cab En 9 De Octubre)-Zuña (Zuñac)",
+"PostCode": "140105",
+"Location": {
+"Latitude": -2.2031,
+"Longitude": -78.3611
+}
+},
+{
+"Name": "Cuchaentza",
+"PostCode": "140107",
+"Location": {
+"Latitude": -2.1624,
+"Longitude": -77.8487
+}
+},
+{
+"Name": "Macas",
+"PostCode": "140101",
+"Location": {
+"Latitude": -2.3087,
+"Longitude": -78.1113
+}
+},
+{
+"Name": "Rio Blanco",
+"PostCode": "140104",
+"Location": {
+"Latitude": -2.3793,
+"Longitude": -78.3792
+}
+},
+{
+"Name": "San Isidro-General Proaño",
+"PostCode": "140102",
+"Location": {
+"Latitude": -2.2063,
+"Longitude": -78.1457
+}
+},
+{
+"Name": "Sevilla Don Bosco",
+"PostCode": "140103",
+"Location": {
+"Latitude": -2.2881,
+"Longitude": -78.0832
+}
+},
+{
+"Name": "Sinai",
+"PostCode": "140106",
+"Location": {
+"Latitude": -2.1431,
+"Longitude": -78.202
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Gualaquiza",
+"Code": "1402",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Amazonas (Rosario De Cuyes)-Nueva Tarqui- El Ideal",
+"PostCode": "140405",
+"Location": {
+"Latitude": -3.4219,
+"Longitude": -78.7525
+}
+},
+{
+"Name": "Bermejos-Chiguinda-El Rosario",
+"PostCode": "140406",
+"Location": {
+"Latitude": -3.2236,
+"Longitude": -78.7087
+}
+},
+{
+"Name": "Bomboiza",
+"PostCode": "140404",
+"Location": {
+"Latitude": -3.4333,
+"Longitude": -78.5167
+}
+},
+{
+"Name": "Gualaquiza",
+"PostCode": "140401",
+"Location": {
+"Latitude": -3.4036,
+"Longitude": -78.5817
+}
+},
+{
+"Name": "San Miguel De Cuyes",
+"PostCode": "140407",
+"Location": {
+"Latitude": -3.3333,
+"Longitude": -78.8
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Limón Indanza",
+"Code": "1403",
+"Communities": [
+{
+"Places": [
+{
+"Name": "San Antonio (Cab En San Antonio Centro)-Gral. Leonidas Plaza Gutierrez",
+"PostCode": "140605",
+"Location": {
+"Latitude": -3.0884,
+"Longitude": -78.3225
+}
+},
+{
+"Name": "San Miguel De Conchay-Indanza",
+"PostCode": "140606",
+"Location": {
+"Latitude": -3.0931,
+"Longitude": -78.4533
+}
+},
+{
+"Name": "Yunganza (Cab En El Rosario)-Sta Susana De Chiviaza (Cab En Chiviaza)",
+"PostCode": "140603",
+"Location": {
+"Latitude": -2.8959,
+"Longitude": -78.3835
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Palora",
+"Code": "1404",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Arapicos-Sangay (Cab En Nayamanaca)",
+"PostCode": "140204",
+"Location": {
+"Latitude": -1.8585,
+"Longitude": -78.2758
+}
+},
+{
+"Name": "Palora (Metzera)-Cumanda (Cab En Colonia Agricola Sevilla-16 De Agosto",
+"PostCode": "140201",
+"Location": {
+"Latitude": -1.6211,
+"Longitude": -78.1432
+}
+}
+]
+}
+]
+},
+{
+"Name": "Santiago de Méndez",
+"Code": "1405",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Santiago De Mendez-Copal-Chupianza-San Luis De El Acho (Cab En El Acho)",
+"PostCode": "140601",
+"Location": {
+"Latitude": -2.7198,
+"Longitude": -78.4419
+}
+},
+{
+"Name": "Tayuza-San Francisco De Chinimbimi-Patuca",
+"PostCode": "140602",
+"Location": {
+"Latitude": -2.7713,
+"Longitude": -78.2188
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Sucúa",
+"Code": "1406",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Huambi",
+"PostCode": "140302",
+"Location": {
+"Latitude": -2.5368,
+"Longitude": -78.163
+}
+},
+{
+"Name": "Sucua-Asuncion-Santa Marianita De Jesus",
+"PostCode": "140301",
+"Location": {
+"Latitude": -2.4689,
+"Longitude": -78.2305
+}
+}
+]
+}
+]
+},
+{
+"Name": "Huamboya",
+"Code": "1407",
+"PostCode": "140202",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Huamboya-Chiguaza-",
+"PostCode": "140202",
+"Location": {
+"Latitude": -1.8006,
+"Longitude": -78.0363
+}
+}
+],
+"PostCode": "140202"
+}
+]
+},
+{
+"Name": "San Juan Bosco",
+"Code": "1408",
+"Communities": [
+{
+"Places": [
+{
+"Name": "San Juan Bosco-Pande Azucar-San Jacinto De Wakambeis",
+"PostCode": "140402",
+"Location": {
+"Latitude": -3.1426,
+"Longitude": -78.5409
+}
+},
+{
+"Name": "Santiago De Pananza-San Carlos De Limon",
+"PostCode": "140403",
+"Location": {
+"Latitude": -3.2979,
+"Longitude": -78.3152
+}
+}
+]
+}
+]
+},
+{
+"Name": "Taisha",
+"Code": "1409",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Huasaga (Cab En Wampuik)-Tuutinentza-Pumpuentsa",
+"PostCode": "140503",
+"Location": {
+"Latitude": -2.607,
+"Longitude": -77.256
+}
+},
+{
+"Name": "Macuma",
+"PostCode": "140502",
+"Location": {
+"Latitude": -2.1678,
+"Longitude": -77.6578
+}
+},
+{
+"Name": "Taisha",
+"PostCode": "140501",
+"Location": {
+"Latitude": -2.3396,
+"Longitude": -77.4603
+}
+}
+]
+}
+]
+},
+{
+"Name": "Logroño",
+"Code": "1410",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Logroño-Shimpis",
+"PostCode": "140303",
+"Location": {
+"Latitude": -2.6538,
+"Longitude": -78.135
+}
+},
+{
+"Name": "Yaupi",
+"PostCode": "140304",
+"Location": {
+"Latitude": -2.8544,
+"Longitude": -77.936
+}
+}
+]
+}
+]
+},
+{
+"Name": "Pablo Sexto",
+"Code": "1411",
+"PostCode": "140203",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Pablo Sexto",
+"PostCode": "140203",
+"Location": {
+"Latitude": -1.8,
+"Longitude": -78.25
+}
+}
+],
+"PostCode": "140203"
+}
+]
+},
+{
+"Name": "Tiwintza",
+"Code": "1412",
+"PostCode": "140604",
+"Communities": [
+{
+"Places": [
+{
+"Name": "San Jose De Morona-Santiago",
+"PostCode": "140604",
+"Location": {
+"Latitude": -2.9702,
+"Longitude": -77.9119
+}
+}
+],
+"PostCode": "140604"
+}
+]
+}
+]
+},
+{
+"Name": "Pastaza",
+"Code": "17",
+"Provinces": [
+{
+"Name": "Cantón Pastaza",
+"Code": "1601",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Canelos-Veracruz (Cab. En Indillama)-Pomona-Simon Bolivar (Cab En Mushullama",
+"PostCode": "160103",
+"Location": {
+"Latitude": -1.767,
+"Longitude": -77.7233
+}
+},
+{
+"Name": "El Triunfo-Diez De Agosto",
+"PostCode": "160108",
+"Location": {
+"Latitude": -1.4338,
+"Longitude": -77.7995
+}
+},
+{
+"Name": "Fatima-Teniente Hugo Ortiz",
+"PostCode": "160106",
+"Location": {
+"Latitude": -1.3861,
+"Longitude": -77.957
+}
+},
+{
+"Name": "Montalvo (Andoas)",
+"PostCode": "160110",
+"Location": {
+"Latitude": -1.9338,
+"Longitude": -76.9152
+}
+},
+{
+"Name": "Puyo",
+"PostCode": "160101",
+"Location": {
+"Latitude": -1.4837,
+"Longitude": -78.0026
+}
+},
+{
+"Name": "Puyo",
+"PostCode": "160102",
+"Location": {
+"Latitude": -1.4837,
+"Longitude": -78.0026
+}
+},
+{
+"Name": "Rio Corrientes",
+"PostCode": "160112",
+"Location": {
+"Latitude": -2.3667,
+"Longitude": -76.4167
+}
+},
+{
+"Name": "Rio Tigre",
+"PostCode": "160111",
+"Location": {
+"Latitude": -1.9024,
+"Longitude": -76.2505
+}
+},
+{
+"Name": "Sarayacu",
+"PostCode": "160109",
+"Location": {
+"Latitude": -1.8041,
+"Longitude": -77.4333
+}
+},
+{
+"Name": "Tarqui",
+"PostCode": "160104",
+"Location": {
+"Latitude": -1.5242,
+"Longitude": -78.002
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Mera",
+"Code": "1602",
+"PostCode": "160105",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Shell-Madre Tierra-Mera",
+"PostCode": "160105",
+"Location": {
+"Latitude": -1.4167,
+"Longitude": -78.0478
+}
+}
+],
+"PostCode": "160105"
+}
+]
+},
+{
+"Name": "Santa Clara",
+"Code": "1603",
+"PostCode": "160107",
+"Communities": [
+{
+"Places": [
+{
+"Name": "San Jose-Santa Clara",
+"PostCode": "160107",
+"Location": {
+"Latitude": -1.2733,
+"Longitude": -77.8625
+}
+}
+],
+"PostCode": "160107"
+}
+]
+},
+{
+"Name": "Arajuno",
+"Code": "1604",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Arajuno",
+"PostCode": "160201",
+"Location": {
+"Latitude": -1.2328,
+"Longitude": -77.6874
+}
+},
+{
+"Name": "Curaray",
+"PostCode": "160202",
+"Location": {
+"Latitude": -1.3538,
+"Longitude": -76.6927
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Pichincha",
+"Code": "18",
+"Provinces": [
+{
+"Name": "Cantón Quito",
+"Code": "1701",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Alangasi",
+"PostCode": "170804",
+"Location": {
+"Latitude": -0.2937,
+"Longitude": -78.4465
+}
+},
+{
+"Name": "Alangasi",
+"PostCode": "170808",
+"Location": {
+"Latitude": -0.297,
+"Longitude": -78.424
+}
+},
+{
+"Name": "Amaguaña",
+"PostCode": "170809",
+"Location": {
+"Latitude": -0.3757,
+"Longitude": -78.5061
+}
+},
+{
+"Name": "Amaguaña",
+"PostCode": "170812",
+"Location": {
+"Latitude": -0.3757,
+"Longitude": -78.5061
+}
+},
+{
+"Name": "Amaguaña",
+"PostCode": "170814",
+"Location": {
+"Latitude": -0.3757,
+"Longitude": -78.5061
+}
+},
+{
+"Name": "Atahualpa (Habaspamba)-Chavezpamba-Perucho",
+"PostCode": "170319",
+"Location": {
+"Latitude": -0.0172,
+"Longitude": -78.4703
+}
+},
+{
+"Name": "Belisario Quevedo",
+"PostCode": "170513",
+"Location": {
+"Latitude": -0.1899,
+"Longitude": -78.5073
+}
+},
+{
+"Name": "Belisario Quevedo",
+"PostCode": "170516",
+"Location": {
+"Latitude": -0.1899,
+"Longitude": -78.5073
+}
+},
+{
+"Name": "Calacali",
+"PostCode": "170312",
+"Location": {
+"Latitude": 0.0004,
+"Longitude": -78.516
+}
+},
+{
+"Name": "Calderon (Carapungo)",
+"PostCode": "170201",
+"Location": {
+"Latitude": -0.0775,
+"Longitude": -78.4301
+}
+},
+{
+"Name": "Calderon (Carapungo)",
+"PostCode": "170202",
+"Location": {
+"Latitude": -0.0673,
+"Longitude": -78.4165
+}
+},
+{
+"Name": "Calderon (Carapungo)",
+"PostCode": "170203",
+"Location": {
+"Latitude": -0.0969,
+"Longitude": -78.4275
+}
+},
+{
+"Name": "Calderon (Carapungo)",
+"PostCode": "170204",
+"Location": {
+"Latitude": -0.0781,
+"Longitude": -78.4457
+}
+},
+{
+"Name": "Calderon (Carapungo)",
+"PostCode": "170205",
+"Location": {
+"Latitude": -0.053,
+"Longitude": -78.4066
+}
+},
+{
+"Name": "Calderon (Carapungo)",
+"PostCode": "170206",
+"Location": {
+"Latitude": -0.0541,
+"Longitude": -78.3437
+}
+},
+{
+"Name": "Calderon (Carapungo)",
+"PostCode": "170207",
+"Location": {
+"Latitude": -0.1036,
+"Longitude": -78.3946
+}
+},
+{
+"Name": "Calderon (Carapungo)",
+"PostCode": "170208",
+"Location": {
+"Latitude": -0.1178,
+"Longitude": -78.4292
+}
+},
+{
+"Name": "Carcelen",
+"PostCode": "170302",
+"Location": {
+"Latitude": -0.0869,
+"Longitude": -78.4707
+}
+},
+{
+"Name": "Centro Historico",
+"PostCode": "170401",
+"Location": {
+"Latitude": -0.2227,
+"Longitude": -78.5129
+}
+},
+{
+"Name": "Centro Historico",
+"PostCode": "170405",
+"Location": {
+"Latitude": -0.2227,
+"Longitude": -78.5129
+}
+},
+{
+"Name": "Checa (Chilpa)",
+"PostCode": "170910",
+"Location": {
+"Latitude": -0.1632,
+"Longitude": -78.2628
+}
+},
+{
+"Name": "Chilibulo",
+"PostCode": "170608",
+"Location": {
+"Latitude": -0.2423,
+"Longitude": -78.5396
+}
+},
+{
+"Name": "Chilibulo",
+"PostCode": "170609",
+"Location": {
+"Latitude": -0.2423,
+"Longitude": -78.5396
+}
+},
+{
+"Name": "Chilibulo",
+"PostCode": "170613",
+"Location": {
+"Latitude": -0.2423,
+"Longitude": -78.5396
+}
+},
+{
+"Name": "Chillogallo",
+"PostCode": "170714",
+"Location": {
+"Latitude": -0.2754,
+"Longitude": -78.5558
+}
+},
+{
+"Name": "Chimbacalle",
+"PostCode": "170603",
+"Location": {
+"Latitude": -0.247,
+"Longitude": -78.5149
+}
+},
+{
+"Name": "Cochapamba",
+"PostCode": "170514",
+"Location": {
+"Latitude": -0.1483,
+"Longitude": -78.505
+}
+},
+{
+"Name": "Cochapamba",
+"PostCode": "170515",
+"Location": {
+"Latitude": -0.1483,
+"Longitude": -78.505
+}
+},
+{
+"Name": "Cochapamba",
+"PostCode": "170517",
+"Location": {
+"Latitude": -0.1483,
+"Longitude": -78.505
+}
+},
+{
+"Name": "Comite Del Pueblo",
+"PostCode": "170303",
+"Location": {
+"Latitude": -0.1195,
+"Longitude": -78.4612
+}
+},
+{
+"Name": "Comite Del Pueblo",
+"PostCode": "170304",
+"Location": {
+"Latitude": -0.1195,
+"Longitude": -78.4612
+}
+},
+{
+"Name": "Concepcion",
+"PostCode": "170507",
+"Location": {
+"Latitude": -0.1,
+"Longitude": -78.5
+}
+},
+{
+"Name": "Conocoto",
+"PostCode": "170801",
+"Location": {
+"Latitude": -0.3045,
+"Longitude": -78.4745
+}
+},
+{
+"Name": "Conocoto",
+"PostCode": "170802",
+"Location": {
+"Latitude": -0.2858,
+"Longitude": -78.4802
+}
+},
+{
+"Name": "Conocoto",
+"PostCode": "170803",
+"Location": {
+"Latitude": -0.2689,
+"Longitude": -78.4695
+}
+},
+{
+"Name": "Conocoto",
+"PostCode": "170805",
+"Location": {
+"Latitude": -0.3061,
+"Longitude": -78.4933
+}
+},
+{
+"Name": "Conocoto",
+"PostCode": "170806",
+"Location": {
+"Latitude": -0.2685,
+"Longitude": -78.4961
+}
+},
+{
+"Name": "Cotocollao",
+"PostCode": "170306",
+"Location": {
+"Latitude": -0.1229,
+"Longitude": -78.5037
+}
+},
+{
+"Name": "Cumbaya",
+"PostCode": "170901",
+"Location": {
+"Latitude": -0.2007,
+"Longitude": -78.4313
+}
+},
+{
+"Name": "Cumbaya",
+"PostCode": "170904",
+"Location": {
+"Latitude": -0.2007,
+"Longitude": -78.4313
+}
+},
+{
+"Name": "El Condado",
+"PostCode": "170307",
+"Location": {
+"Latitude": -0.1032,
+"Longitude": -78.5007
+}
+},
+{
+"Name": "El Condado",
+"PostCode": "170308",
+"Location": {
+"Latitude": -0.1032,
+"Longitude": -78.5007
+}
+},
+{
+"Name": "El Condado",
+"PostCode": "170309",
+"Location": {
+"Latitude": -0.1032,
+"Longitude": -78.5007
+}
+},
+{
+"Name": "El Quinche",
+"PostCode": "170911",
+"Location": {
+"Latitude": -0.1174,
+"Longitude": -78.2666
+}
+},
+{
+"Name": "Gualea",
+"PostCode": "170102",
+"Location": {
+"Latitude": 0.1168,
+"Longitude": -78.7476
+}
+},
+{
+"Name": "Guamani",
+"PostCode": "170701",
+"Location": {
+"Latitude": -0.3327,
+"Longitude": -78.5549
+}
+},
+{
+"Name": "Guamani",
+"PostCode": "170706",
+"Location": {
+"Latitude": -0.3327,
+"Longitude": -78.5549
+}
+},
+{
+"Name": "Guamani",
+"PostCode": "170707",
+"Location": {
+"Latitude": -0.3327,
+"Longitude": -78.5549
+}
+},
+{
+"Name": "Guamani",
+"PostCode": "170711",
+"Location": {
+"Latitude": -0.3327,
+"Longitude": -78.5549
+}
+},
+{
+"Name": "Guangopolo",
+"PostCode": "170807",
+"Location": {
+"Latitude": -0.259,
+"Longitude": -78.4519
+}
+},
+{
+"Name": "Guayllabamba",
+"PostCode": "170210",
+"Location": {
+"Latitude": -0.0579,
+"Longitude": -78.3411
+}
+},
+{
+"Name": "Iñaquito",
+"PostCode": "170504",
+"Location": {
+"Latitude": -0.1718,
+"Longitude": -78.4817
+}
+},
+{
+"Name": "Iñaquito",
+"PostCode": "170505",
+"Location": {
+"Latitude": -0.1718,
+"Longitude": -78.4817
+}
+},
+{
+"Name": "Itchimbia",
+"PostCode": "170403",
+"Location": {
+"Latitude": -0.2221,
+"Longitude": -78.4992
+}
+},
+{
+"Name": "Itchimbia",
+"PostCode": "170408",
+"Location": {
+"Latitude": -0.2221,
+"Longitude": -78.4992
+}
+},
+{
+"Name": "Jipijapa",
+"PostCode": "170501",
+"Location": {
+"Latitude": -0.1658,
+"Longitude": -78.4807
+}
+},
+{
+"Name": "Jipijapa",
+"PostCode": "170503",
+"Location": {
+"Latitude": -0.1658,
+"Longitude": -78.4807
+}
+},
+{
+"Name": "Kennedy",
+"PostCode": "170502",
+"Location": {
+"Latitude": -0.1408,
+"Longitude": -78.4793
+}
+},
+{
+"Name": "Kennedy",
+"PostCode": "170508",
+"Location": {
+"Latitude": -0.1408,
+"Longitude": -78.4793
+}
+},
+{
+"Name": "La Argelia",
+"PostCode": "170605",
+"Location": {
+"Latitude": -0.2758,
+"Longitude": -78.5261
+}
+},
+{
+"Name": "La Ecuatoriana",
+"PostCode": "170708",
+"Location": {
+"Latitude": -0.3079,
+"Longitude": -78.5606
+}
+},
+{
+"Name": "La Ecuatoriana",
+"PostCode": "170712",
+"Location": {
+"Latitude": -0.3079,
+"Longitude": -78.5606
+}
+},
+{
+"Name": "La Ecuatoriana",
+"PostCode": "170713",
+"Location": {
+"Latitude": -0.3079,
+"Longitude": -78.5606
+}
+},
+{
+"Name": "La Ferroviaria",
+"PostCode": "170604",
+"Location": {
+"Latitude": -0.2632,
+"Longitude": -78.5156
+}
+},
+{
+"Name": "La Libertad",
+"PostCode": "170406",
+"Location": {
+"Latitude": -0.2221,
+"Longitude": -78.5265
+}
+},
+{
+"Name": "La Magdalena",
+"PostCode": "170602",
+"Location": {
+"Latitude": -0.2417,
+"Longitude": -78.5291
+}
+},
+{
+"Name": "La Mena",
+"PostCode": "170611",
+"Location": {
+"Latitude": -0.2602,
+"Longitude": -78.552
+}
+},
+{
+"Name": "La Mena",
+"PostCode": "170612",
+"Location": {
+"Latitude": -0.2602,
+"Longitude": -78.552
+}
+},
+{
+"Name": "La Merced",
+"PostCode": "170810",
+"Location": {
+"Latitude": -0.2924,
+"Longitude": -78.4004
+}
+},
+{
+"Name": "Llano Chico",
+"PostCode": "170209",
+"Location": {
+"Latitude": -0.1247,
+"Longitude": -78.4445
+}
+},
+{
+"Name": "Lloa",
+"PostCode": "170614",
+"Location": {
+"Latitude": -0.2499,
+"Longitude": -78.5838
+}
+},
+{
+"Name": "Mariscal Sucre",
+"PostCode": "170512",
+"Location": {
+"Latitude": -0.2052,
+"Longitude": -78.4955
+}
+},
+{
+"Name": "Nanegal",
+"PostCode": "170103",
+"Location": {
+"Latitude": 0.1403,
+"Longitude": -78.6757
+}
+},
+{
+"Name": "Nanegalito",
+"PostCode": "170104",
+"Location": {
+"Latitude": 0.0626,
+"Longitude": -78.6839
+}
+},
+{
+"Name": "Nayon",
+"PostCode": "170511",
+"Location": {
+"Latitude": -0.1576,
+"Longitude": -78.4389
+}
+},
+{
+"Name": "Nono",
+"PostCode": "170311",
+"Location": {
+"Latitude": -0.0674,
+"Longitude": -78.5765
+}
+},
+{
+"Name": "Pacto",
+"PostCode": "170101",
+"Location": {
+"Latitude": 0.1453,
+"Longitude": -78.7656
+}
+},
+{
+"Name": "Pifo",
+"PostCode": "170906",
+"Location": {
+"Latitude": -0.2283,
+"Longitude": -78.3432
+}
+},
+{
+"Name": "Pifo",
+"PostCode": "170909",
+"Location": {
+"Latitude": -0.2283,
+"Longitude": -78.3432
+}
+},
+{
+"Name": "Pintag",
+"PostCode": "170811",
+"Location": {
+"Latitude": -0.3417,
+"Longitude": -78.3504
+}
+},
+{
+"Name": "Pintag",
+"PostCode": "170813",
+"Location": {
+"Latitude": -0.4687,
+"Longitude": -78.3338
+}
+},
+{
+"Name": "Pomasqui",
+"PostCode": "170310",
+"Location": {
+"Latitude": -0.0542,
+"Longitude": -78.4538
+}
+},
+{
+"Name": "Pomasqui",
+"PostCode": "170313",
+"Location": {
+"Latitude": -0.0542,
+"Longitude": -78.4538
+}
+},
+{
+"Name": "Ponceano",
+"PostCode": "170301",
+"Location": {
+"Latitude": -0.1207,
+"Longitude": -78.489
+}
+},
+{
+"Name": "Ponceano",
+"PostCode": "170305",
+"Location": {
+"Latitude": -0.1207,
+"Longitude": -78.489
+}
+},
+{
+"Name": "Puellaro",
+"PostCode": "170316",
+"Location": {
+"Latitude": 0.0683,
+"Longitude": -78.3979
+}
+},
+{
+"Name": "Puembo",
+"PostCode": "170905",
+"Location": {
+"Latitude": -0.1667,
+"Longitude": -78.3694
+}
+},
+{
+"Name": "Puengasi",
+"PostCode": "170404",
+"Location": {
+"Latitude": -0.2513,
+"Longitude": -78.498
+}
+},
+{
+"Name": "Puengasi",
+"PostCode": "170409",
+"Location": {
+"Latitude": -0.2513,
+"Longitude": -78.498
+}
+},
+{
+"Name": "Puengasi",
+"PostCode": "170410",
+"Location": {
+"Latitude": -0.2513,
+"Longitude": -78.498
+}
+},
+{
+"Name": "Puengasi",
+"PostCode": "170412",
+"Location": {
+"Latitude": -0.2513,
+"Longitude": -78.498
+}
+},
+{
+"Name": "Quitumbe",
+"PostCode": "170702",
+"Location": {
+"Latitude": -0.3022,
+"Longitude": -78.5472
+}
+},
+{
+"Name": "Quitumbe",
+"PostCode": "170703",
+"Location": {
+"Latitude": -0.3022,
+"Longitude": -78.5472
+}
+},
+{
+"Name": "Quitumbe",
+"PostCode": "170715",
+"Location": {
+"Latitude": -0.3022,
+"Longitude": -78.5472
+}
+},
+{
+"Name": "Rumipamba",
+"PostCode": "170506",
+"Location": {
+"Latitude": -0.179,
+"Longitude": -78.505
+}
+},
+{
+"Name": "San Antonio",
+"PostCode": "170314",
+"Location": {
+"Latitude": -0.0066,
+"Longitude": -78.4469
+}
+},
+{
+"Name": "San Antonio",
+"PostCode": "170315",
+"Location": {
+"Latitude": -0.0066,
+"Longitude": -78.4469
+}
+},
+{
+"Name": "San Bartolo",
+"PostCode": "170601",
+"Location": {
+"Latitude": -0.2586,
+"Longitude": -78.53
+}
+},
+{
+"Name": "San Bartolo",
+"PostCode": "170607",
+"Location": {
+"Latitude": -0.2586,
+"Longitude": -78.53
+}
+},
+{
+"Name": "San Isidro Del Inca",
+"PostCode": "170509",
+"Location": {
+"Latitude": -0.1804,
+"Longitude": -78.499
+}
+},
+{
+"Name": "San Jose De Minas",
+"PostCode": "170317",
+"Location": {
+"Latitude": -0.0172,
+"Longitude": -78.4703
+}
+},
+{
+"Name": "San Jose De Minas",
+"PostCode": "170318",
+"Location": {
+"Latitude": -0.0172,
+"Longitude": -78.4703
+}
+},
+{
+"Name": "San Juan",
+"PostCode": "170402",
+"Location": {
+"Latitude": -0.2909,
+"Longitude": -78.6418
+}
+},
+{
+"Name": "San Juan",
+"PostCode": "170407",
+"Location": {
+"Latitude": -0.2909,
+"Longitude": -78.6418
+}
+},
+{
+"Name": "San Juan",
+"PostCode": "170411",
+"Location": {
+"Latitude": -0.2909,
+"Longitude": -78.6418
+}
+},
+{
+"Name": "Solanda",
+"PostCode": "170606",
+"Location": {
+"Latitude": -0.2696,
+"Longitude": -78.5404
+}
+},
+{
+"Name": "Solanda",
+"PostCode": "170610",
+"Location": {
+"Latitude": -0.2696,
+"Longitude": -78.5404
+}
+},
+{
+"Name": "Tababela",
+"PostCode": "170907",
+"Location": {
+"Latitude": -0.1863,
+"Longitude": -78.3441
+}
+},
+{
+"Name": "Tumbaco",
+"PostCode": "170902",
+"Location": {
+"Latitude": -0.214,
+"Longitude": -78.4049
+}
+},
+{
+"Name": "Tumbaco",
+"PostCode": "170903",
+"Location": {
+"Latitude": -0.214,
+"Longitude": -78.4049
+}
+},
+{
+"Name": "Turubamba",
+"PostCode": "170704",
+"Location": {
+"Latitude": -0.3316,
+"Longitude": -78.5381
+}
+},
+{
+"Name": "Turubamba",
+"PostCode": "170705",
+"Location": {
+"Latitude": -0.3316,
+"Longitude": -78.5381
+}
+},
+{
+"Name": "Turubamba",
+"PostCode": "170709",
+"Location": {
+"Latitude": -0.3316,
+"Longitude": -78.5381
+}
+},
+{
+"Name": "Turubamba",
+"PostCode": "170710",
+"Location": {
+"Latitude": -0.3316,
+"Longitude": -78.5381
+}
+},
+{
+"Name": "Yaruqui",
+"PostCode": "170908",
+"Location": {
+"Latitude": -0.1919,
+"Longitude": -78.2995
+}
+},
+{
+"Name": "Zambiza",
+"PostCode": "170510",
+"Location": {
+"Latitude": -0.1489,
+"Longitude": -78.4403
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Cayambe",
+"Code": "1702",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cangahua",
+"PostCode": "171005",
+"Location": {
+"Latitude": 0.1143,
+"Longitude": -78.1478
+}
+},
+{
+"Name": "Cayambe",
+"PostCode": "171001",
+"Location": {
+"Latitude": 0.0408,
+"Longitude": -78.1452
+}
+},
+{
+"Name": "Cayambe",
+"PostCode": "171002",
+"Location": {
+"Latitude": 0.0408,
+"Longitude": -78.1452
+}
+},
+{
+"Name": "Cayambe",
+"PostCode": "171003",
+"Location": {
+"Latitude": 0.0408,
+"Longitude": -78.1452
+}
+},
+{
+"Name": "Cayambe",
+"PostCode": "171004",
+"Location": {
+"Latitude": 0.0408,
+"Longitude": -78.1452
+}
+},
+{
+"Name": "Cayambe",
+"PostCode": "171007",
+"Location": {
+"Latitude": 0.0408,
+"Longitude": -78.1452
+}
+},
+{
+"Name": "Cayambe",
+"PostCode": "171009",
+"Location": {
+"Latitude": 0.0408,
+"Longitude": -78.1452
+}
+},
+{
+"Name": "Olmedo (Pecillo)",
+"PostCode": "171008",
+"Location": {
+"Latitude": -0.0907,
+"Longitude": -78.1464
+}
+},
+{
+"Name": "Oton-Santa Rosa De Cuzubamba-Ascazubi",
+"PostCode": "171010",
+"Location": {
+"Latitude": 0.0432,
+"Longitude": -78.3134
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Mejía",
+"Code": "1703",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Aloag",
+"PostCode": "171114",
+"Location": {
+"Latitude": -0.4679,
+"Longitude": -78.5845
+}
+},
+{
+"Name": "Cutuglahua",
+"PostCode": "171111",
+"Location": {
+"Latitude": -0.569,
+"Longitude": -78.5563
+}
+},
+{
+"Name": "Cutuglahua",
+"PostCode": "171115",
+"Location": {
+"Latitude": -0.489,
+"Longitude": -78.5758
+}
+},
+{
+"Name": "El Chaupi-Aloasi",
+"PostCode": "171113",
+"Location": {
+"Latitude": -0.4533,
+"Longitude": -78.6483
+}
+},
+{
+"Name": "Machachi",
+"PostCode": "171108",
+"Location": {
+"Latitude": -0.5101,
+"Longitude": -78.5671
+}
+},
+{
+"Name": "Machachi",
+"PostCode": "171112",
+"Location": {
+"Latitude": -0.5101,
+"Longitude": -78.5671
+}
+},
+{
+"Name": "Manuel Cornejo Astorga (Tandapi)",
+"PostCode": "171116",
+"Location": {
+"Latitude": -0.489,
+"Longitude": -78.5758
+}
+},
+{
+"Name": "Tambillo-Uyumbicho",
+"PostCode": "171109",
+"Location": {
+"Latitude": -0.4073,
+"Longitude": -78.5171
+}
+},
+{
+"Name": "Tambillo-Uyumbicho",
+"PostCode": "171110",
+"Location": {
+"Latitude": -0.5775,
+"Longitude": -78.4466
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Pedro Moncayo",
+"Code": "1704",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Malchingui-Tocachi-La Esperanza",
+"PostCode": "171011",
+"Location": {
+"Latitude": 0.0718,
+"Longitude": -77.9832
+}
+},
+{
+"Name": "Tabacundo-Tupigachi",
+"PostCode": "171006",
+"Location": {
+"Latitude": 0.0489,
+"Longitude": -78.0691
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Rumiñahui",
+"Code": "1705",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Rumipamba-Cotogchoa",
+"PostCode": "171107",
+"Location": {
+"Latitude": -0.3707,
+"Longitude": -78.5765
+}
+},
+{
+"Name": "Sangolqui",
+"PostCode": "171101",
+"Location": {
+"Latitude": -0.3341,
+"Longitude": -78.4522
+}
+},
+{
+"Name": "Sangolqui",
+"PostCode": "171102",
+"Location": {
+"Latitude": -0.3341,
+"Longitude": -78.4522
+}
+},
+{
+"Name": "Sangolqui",
+"PostCode": "171103",
+"Location": {
+"Latitude": -0.3341,
+"Longitude": -78.4522
+}
+},
+{
+"Name": "Sangolqui",
+"PostCode": "171104",
+"Location": {
+"Latitude": -0.3341,
+"Longitude": -78.4522
+}
+},
+{
+"Name": "Sangolqui",
+"PostCode": "171105",
+"Location": {
+"Latitude": -0.3341,
+"Longitude": -78.4522
+}
+},
+{
+"Name": "Sangolqui",
+"PostCode": "171106",
+"Location": {
+"Latitude": -0.3341,
+"Longitude": -78.4522
+}
+}
+]
+}
+]
+},
+{
+"Name": "San Miguel De Los Bancos",
+"Code": "1707",
+"PostCode": "171202",
+"Communities": [
+{
+"Places": [
+{
+"Name": "San Miguel De Los Bancos-Mindo",
+"PostCode": "171202",
+"Location": {
+"Latitude": -0.0384,
+"Longitude": -78.893
+}
+}
+],
+"PostCode": "171202"
+}
+]
+},
+{
+"Name": "Canton Pedro Vicente Maldonado",
+"Code": "1708",
+"PostCode": "171201",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Pedro Vicente Maldonado",
+"PostCode": "171201",
+"Location": {
+"Latitude": 0.0868,
+"Longitude": -79.0515
+}
+}
+],
+"PostCode": "171201"
+}
+]
+},
+{
+"Name": "Puerto Quito",
+"Code": "1709",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Puerto Quito",
+"PostCode": "171203",
+"Location": {
+"Latitude": 0.1278,
+"Longitude": -79.2126
+}
+},
+{
+"Name": "Puerto Quito",
+"PostCode": "171204",
+"Location": {
+"Latitude": 0.1278,
+"Longitude": -79.2126
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Tungurahua",
+"Code": "19",
+"Provinces": [
+{
+"Name": "Cantón Ambato",
+"Code": "1801",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Ambatillo-San Bartolome De Pinllog",
+"PostCode": "180107",
+"Location": {
+"Latitude": -1.1926,
+"Longitude": -78.7166
+}
+},
+{
+"Name": "Ambato",
+"PostCode": "180101",
+"Location": {
+"Latitude": -1.2491,
+"Longitude": -78.6167
+}
+},
+{
+"Name": "Ambato",
+"PostCode": "180102",
+"Location": {
+"Latitude": -1.2491,
+"Longitude": -78.6167
+}
+},
+{
+"Name": "Ambato",
+"PostCode": "180103",
+"Location": {
+"Latitude": -1.2491,
+"Longitude": -78.6167
+}
+},
+{
+"Name": "Ambato",
+"PostCode": "180104",
+"Location": {
+"Latitude": -1.2491,
+"Longitude": -78.6167
+}
+},
+{
+"Name": "Ambato",
+"PostCode": "180105",
+"Location": {
+"Latitude": -1.2491,
+"Longitude": -78.6167
+}
+},
+{
+"Name": "Ambato",
+"PostCode": "180106",
+"Location": {
+"Latitude": -1.2491,
+"Longitude": -78.6167
+}
+},
+{
+"Name": "Ambato",
+"PostCode": "180201",
+"Location": {
+"Latitude": -1.2491,
+"Longitude": -78.6167
+}
+},
+{
+"Name": "Ambato",
+"PostCode": "180202",
+"Location": {
+"Latitude": -1.2491,
+"Longitude": -78.6167
+}
+},
+{
+"Name": "Ambato",
+"PostCode": "180203",
+"Location": {
+"Latitude": -1.2491,
+"Longitude": -78.6167
+}
+},
+{
+"Name": "Ambato",
+"PostCode": "180204",
+"Location": {
+"Latitude": -1.2491,
+"Longitude": -78.6167
+}
+},
+{
+"Name": "Ambato",
+"PostCode": "180205",
+"Location": {
+"Latitude": -1.2491,
+"Longitude": -78.6167
+}
+},
+{
+"Name": "Ambato",
+"PostCode": "180206",
+"Location": {
+"Latitude": -1.2491,
+"Longitude": -78.6167
+}
+},
+{
+"Name": "Ambato",
+"PostCode": "180207",
+"Location": {
+"Latitude": -1.2491,
+"Longitude": -78.6167
+}
+},
+{
+"Name": "Ambato",
+"PostCode": "180208",
+"Location": {
+"Latitude": -1.2491,
+"Longitude": -78.6167
+}
+},
+{
+"Name": "Constatino Fernandez (Cab En Cullit)-Augusto N. Martinez (Mundugleo)-Atahualpa (Chisalata)",
+"PostCode": "180108",
+"Location": {
+"Latitude": -1.2163,
+"Longitude": -78.6557
+}
+},
+{
+"Name": "Cunchibamba-Unamuncho",
+"PostCode": "180112",
+"Location": {
+"Latitude": -1.15,
+"Longitude": -78.5833
+}
+},
+{
+"Name": "Izamba",
+"PostCode": "180109",
+"Location": {
+"Latitude": -1.2277,
+"Longitude": -78.5854
+}
+},
+{
+"Name": "Montalvo-Huachi Grande",
+"PostCode": "180210",
+"Location": {
+"Latitude": -1.2798,
+"Longitude": -78.6185
+}
+},
+{
+"Name": "Pasa-San Fernando (Pasa San Fernando)",
+"PostCode": "180110",
+"Location": {
+"Latitude": -1.2662,
+"Longitude": -78.7458
+}
+},
+{
+"Name": "Picaigua-Totoras",
+"PostCode": "180209",
+"Location": {
+"Latitude": -1.2702,
+"Longitude": -78.5942
+}
+},
+{
+"Name": "Pilaguin (Pilahuin)-Juan Benigno Vela",
+"PostCode": "180212",
+"Location": {
+"Latitude": -1.3025,
+"Longitude": -78.676
+}
+},
+{
+"Name": "Quisapincha (Quizapincha)",
+"PostCode": "180111",
+"Location": {
+"Latitude": -1.1503,
+"Longitude": -78.5886
+}
+},
+{
+"Name": "Santa Rosa",
+"PostCode": "180211",
+"Location": {
+"Latitude": -1.2829,
+"Longitude": -78.6641
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Baños",
+"Code": "1802",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Lligua-Baños De Agua Santa-Ulba",
+"PostCode": "180301",
+"Location": {
+"Latitude": -1.4037,
+"Longitude": -78.4024
+}
+},
+{
+"Name": "Rio Verde-Rio Negro",
+"PostCode": "180302",
+"Location": {
+"Latitude": -1.3218,
+"Longitude": -78.2451
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cevallos",
+"Code": "1803",
+"PostCode": "180601",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cevallos",
+"PostCode": "180601",
+"Location": {
+"Latitude": -1.3551,
+"Longitude": -78.6167
+}
+}
+],
+"PostCode": "180601"
+}
+]
+},
+{
+"Name": "Mocha",
+"Code": "1804",
+"PostCode": "180604",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Pinguili-Mocha",
+"PostCode": "180604",
+"Location": {
+"Latitude": -1.3833,
+"Longitude": -78.6167
+}
+}
+],
+"PostCode": "180604"
+}
+]
+},
+{
+"Name": "Cantón Patate",
+"Code": "1805",
+"PostCode": "180406",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Triunfo-Patate-Los Andes (Cab En Poatug)-Sucre (Cab En Sucre- Patate  Urco)",
+"PostCode": "180406",
+"Location": {
+"Latitude": -1.3054,
+"Longitude": -78.568
+}
+}
+],
+"PostCode": "180406"
+}
+]
+},
+{
+"Name": "Cantón Quero",
+"Code": "1806",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Quero",
+"PostCode": "180602",
+"Location": {
+"Latitude": -1.3812,
+"Longitude": -78.6081
+}
+},
+{
+"Name": "Yanayacu - Mochapata (Cab En Yanayacu)-Rumipamba",
+"PostCode": "180603",
+"Location": {
+"Latitude": -1.4176,
+"Longitude": -78.6934
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Pelileo",
+"Code": "1807",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chiquicha (Cab En Chiquicha Grande)-Garcia Moreno (Chumaqui)",
+"PostCode": "180405",
+"Location": {
+"Latitude": -1.4184,
+"Longitude": -78.519
+}
+},
+{
+"Name": "Cotalo-Guambalo (Huambalo)-Bolivar",
+"PostCode": "180407",
+"Location": {
+"Latitude": -1.3299,
+"Longitude": -78.5434
+}
+},
+{
+"Name": "Pelileo",
+"PostCode": "180401",
+"Location": {
+"Latitude": -1.3299,
+"Longitude": -78.5434
+}
+},
+{
+"Name": "Pelileo",
+"PostCode": "180402",
+"Location": {
+"Latitude": -1.3299,
+"Longitude": -78.5434
+}
+},
+{
+"Name": "Pelileo",
+"PostCode": "180403",
+"Location": {
+"Latitude": -1.3299,
+"Longitude": -78.5434
+}
+},
+{
+"Name": "Salasaca-Benitez (Pachanlica)-El Rosario (Rumichaca)",
+"PostCode": "180404",
+"Location": {
+"Latitude": -1.2713,
+"Longitude": -78.4253
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Píllaro",
+"Code": "1808",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Marcos Espinel (Chacata)-San Miguelito-Baquerizo Moreno-Emilio Maria Teran (Rumipamba)",
+"PostCode": "180503",
+"Location": {
+"Latitude": -1.173,
+"Longitude": -78.4476
+}
+},
+{
+"Name": "Pillaro",
+"PostCode": "180501",
+"Location": {
+"Latitude": -1.1741,
+"Longitude": -78.5468
+}
+},
+{
+"Name": "San Jose De Poalo-Presidente Urbina (Chagrapamba-San Andres",
+"PostCode": "180502",
+"Location": {
+"Latitude": -1.0814,
+"Longitude": -78.4436
+}
+}
+]
+}
+]
+},
+{
+"Name": "Tisaleo",
+"Code": "1809",
+"PostCode": "180605",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Tisaleo-Quinchicoto",
+"PostCode": "180605",
+"Location": {
+"Latitude": -1.3851,
+"Longitude": -78.6581
+}
+}
+],
+"PostCode": "180605"
+}
+]
+}
+]
+},
+{
+"Name": "Zamora Chinchipe",
+"Code": "20",
+"Provinces": [
+{
+"Name": "Cantón Zamora",
+"Code": "1901",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cumbaratza-Timbara-San Carlos De Las Minas",
+"PostCode": "190104",
+"Location": {
+"Latitude": -4.042,
+"Longitude": -78.8591
+}
+},
+{
+"Name": "Guadalupe",
+"PostCode": "190103",
+"Location": {
+"Latitude": -3.8469,
+"Longitude": -78.8892
+}
+},
+{
+"Name": "Imbana (La Victoria De Imbana)",
+"PostCode": "190106",
+"Location": {
+"Latitude": -3.8167,
+"Longitude": -79.1167
+}
+},
+{
+"Name": "Sabanilla",
+"PostCode": "190102",
+"Location": {
+"Latitude": -3.9649,
+"Longitude": -79.0558
+}
+},
+{
+"Name": "Zamora",
+"PostCode": "190101",
+"Location": {
+"Latitude": -4.0669,
+"Longitude": -78.9549
+}
+},
+{
+"Name": "Zamora",
+"PostCode": "190105",
+"Location": {
+"Latitude": -4.0669,
+"Longitude": -78.9549
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Chinchipe",
+"Code": "1902",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chito",
+"PostCode": "190304",
+"Location": {
+"Latitude": -4.9416,
+"Longitude": -79.0781
+}
+},
+{
+"Name": "El Chorro-La Chonta-Pucupamba",
+"PostCode": "190301",
+"Location": {
+"Latitude": -4.8512,
+"Longitude": -79.1825
+}
+},
+{
+"Name": "San Andres",
+"PostCode": "190305",
+"Location": {
+"Latitude": -4.8015,
+"Longitude": -79.326
+}
+},
+{
+"Name": "Zumba",
+"PostCode": "190302",
+"Location": {
+"Latitude": -4.8633,
+"Longitude": -79.1311
+}
+}
+]
+}
+]
+},
+{
+"Name": "Nangaritza",
+"Code": "1903",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Guayzimi",
+"PostCode": "190201",
+"Location": {
+"Latitude": -4.0429,
+"Longitude": -78.68
+}
+},
+{
+"Name": "Nuevo Paraiso",
+"PostCode": "190206",
+"Location": {
+"Latitude": -4.4884,
+"Longitude": -78.7981
+}
+},
+{
+"Name": "Zurmi",
+"PostCode": "190203",
+"Location": {
+"Latitude": -4.2509,
+"Longitude": -78.7457
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Yacuambi",
+"Code": "1904",
+"Communities": [
+{
+"Places": [
+{
+"Name": "28 De Mayo (San Jose De Yacuambi)",
+"PostCode": "190108",
+"Location": {
+"Latitude": -3.6406,
+"Longitude": -78.9798
+}
+},
+{
+"Name": "La Paz",
+"PostCode": "190107",
+"Location": {
+"Latitude": -3.7016,
+"Longitude": -78.8968
+}
+},
+{
+"Name": "Tutupali",
+"PostCode": "190109",
+"Location": {
+"Latitude": -3.5297,
+"Longitude": -78.9507
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Yantzaza",
+"Code": "1905",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Los Encuentros",
+"PostCode": "190403",
+"Location": {
+"Latitude": -3.786,
+"Longitude": -78.5571
+}
+},
+{
+"Name": "Yantzaza (Yanzatza)-Chicaña",
+"PostCode": "190404",
+"Location": {
+"Latitude": -3.7101,
+"Longitude": -78.7684
+}
+}
+]
+}
+]
+},
+{
+"Name": "El Pangui",
+"Code": "1906",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Pachicutza-El Pangui-El Guisme",
+"PostCode": "190401",
+"Location": {
+"Latitude": -3.6325,
+"Longitude": -78.5935
+}
+},
+{
+"Name": "Tundayme",
+"PostCode": "190402",
+"Location": {
+"Latitude": -3.5764,
+"Longitude": -78.4903
+}
+}
+]
+}
+]
+},
+{
+"Name": "Centinela Del Cóndor",
+"Code": "1907",
+"PostCode": "190204",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Zumbi",
+"PostCode": "190204",
+"Location": {
+"Latitude": -3.894,
+"Longitude": -78.7804
+}
+}
+],
+"PostCode": "190204"
+}
+]
+},
+{
+"Name": "Palanda",
+"Code": "1908",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Porvenir Del Carmen",
+"PostCode": "190307",
+"Location": {
+"Latitude": -4.4844,
+"Longitude": -79.0149
+}
+},
+{
+"Name": "Palanda-Valladolid",
+"PostCode": "190306",
+"Location": {
+"Latitude": -4.559,
+"Longitude": -79.1877
+}
+},
+{
+"Name": "San Fco. Del Vergel-La Canela",
+"PostCode": "190303",
+"Location": {
+"Latitude": -4.8716,
+"Longitude": -79.0081
+}
+}
+]
+}
+]
+},
+{
+"Name": "Paquisha",
+"Code": "1909",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Nuevo Quito",
+"PostCode": "190202",
+"Location": {
+"Latitude": -4.0375,
+"Longitude": -78.6366
+}
+},
+{
+"Name": "Paquisha-Bellavista",
+"PostCode": "190205",
+"Location": {
+"Latitude": -3.9134,
+"Longitude": -78.5873
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Sucumbíos",
+"Code": "22",
+"Provinces": [
+{
+"Name": "Cantón Lago Agrio",
+"Code": "2101",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Dureno-Pacayacu",
+"PostCode": "210207",
+"Location": {
+"Latitude": 0.0885,
+"Longitude": -76.538
+}
+},
+{
+"Name": "El Eno",
+"PostCode": "210208",
+"Location": {
+"Latitude": -0.0678,
+"Longitude": -76.8776
+}
+},
+{
+"Name": "General Farfan",
+"PostCode": "210206",
+"Location": {
+"Latitude": 0.18,
+"Longitude": -76.7437
+}
+},
+{
+"Name": "Nueva Loja",
+"PostCode": "210201",
+"Location": {
+"Latitude": 0.086,
+"Longitude": -76.8953
+}
+},
+{
+"Name": "Nueva Loja",
+"PostCode": "210202",
+"Location": {
+"Latitude": 0.086,
+"Longitude": -76.8953
+}
+},
+{
+"Name": "Nueva Loja",
+"PostCode": "210203",
+"Location": {
+"Latitude": 0.086,
+"Longitude": -76.8953
+}
+},
+{
+"Name": "Nueva Loja",
+"PostCode": "210204",
+"Location": {
+"Latitude": 0.086,
+"Longitude": -76.8953
+}
+},
+{
+"Name": "Santa Cecilia-Jambeli",
+"PostCode": "210205",
+"Location": {
+"Latitude": 0.1795,
+"Longitude": -77.0631
+}
+}
+]
+}
+]
+},
+{
+"Name": "Gonzalo Pizarro",
+"Code": "2102",
+"PostCode": "210101",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Puerto Libre-Gonzalo Pizarro-Lumbaqui-El Reventador",
+"PostCode": "210101",
+"Location": {
+"Latitude": 0.082,
+"Longitude": -77.5876
+}
+}
+],
+"PostCode": "210101"
+}
+]
+},
+{
+"Name": "Cantón Putumayo",
+"Code": "2103",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Puerto Bolivar (Puerto Montufar)-Puerto El Carmen Del Putumayo",
+"PostCode": "210301",
+"Location": {
+"Latitude": 0.011,
+"Longitude": -75.8839
+}
+},
+{
+"Name": "Puerto Rodriguez",
+"PostCode": "210302",
+"Location": {
+"Latitude": -0.1112,
+"Longitude": -75.405
+}
+},
+{
+"Name": "Santa Elena-Palma Roja",
+"PostCode": "210305",
+"Location": {
+"Latitude": -0.1195,
+"Longitude": -76.1795
+}
+}
+]
+}
+]
+},
+{
+"Name": "Shushufindi",
+"Code": "2104",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Pañacocha",
+"PostCode": "210405",
+"Location": {
+"Latitude": -0.1852,
+"Longitude": -76.6452
+}
+},
+{
+"Name": "San Pedro De Los Cofanes-Siete De Julio",
+"PostCode": "210404",
+"Location": {
+"Latitude": -0.4163,
+"Longitude": -76.0575
+}
+},
+{
+"Name": "San Roque (Cab En San Vicente)-Limoncocha",
+"PostCode": "210403",
+"Location": {
+"Latitude": -0.1667,
+"Longitude": -76.7915
+}
+},
+{
+"Name": "Shushufindi",
+"PostCode": "210401",
+"Location": {
+"Latitude": -0.1852,
+"Longitude": -76.6452
+}
+},
+{
+"Name": "Shushufindi",
+"PostCode": "210402",
+"Location": {
+"Latitude": -0.1852,
+"Longitude": -76.6452
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Sucumbíos",
+"Code": "2105",
+"PostCode": "210102",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Santa Barbara-La Bonita-La Sofia-Rosa Florida-El Playon De San Francisco",
+"PostCode": "210102",
+"Location": {
+"Latitude": 0.4023,
+"Longitude": -77.6243
+}
+}
+],
+"PostCode": "210102"
+}
+]
+},
+{
+"Name": "Cascales",
+"Code": "2106",
+"PostCode": "210103",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Santa Rosa De Sucumbios-Sevilla-El Dorado De Cascales",
+"PostCode": "210103",
+"Location": {
+"Latitude": 0.1453,
+"Longitude": -77.2328
+}
+}
+],
+"PostCode": "210103"
+}
+]
+},
+{
+"Name": "Cuyabeno",
+"Code": "2107",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cuyabeno",
+"PostCode": "210303",
+"Location": {
+"Latitude": -0.2591,
+"Longitude": -75.894
+}
+},
+{
+"Name": "Tarapoa-Aguas Negras",
+"PostCode": "210304",
+"Location": {
+"Latitude": -0.1906,
+"Longitude": -76.2559
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Napo",
+"Code": "23",
+"Provinces": [
+{
+"Name": "Cantón Tena",
+"Code": "1501",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Ahuano",
+"PostCode": "150108",
+"Location": {
+"Latitude": -1.0595,
+"Longitude": -77.5462
+}
+},
+{
+"Name": "Chontapunta",
+"PostCode": "150109",
+"Location": {
+"Latitude": -0.9146,
+"Longitude": -77.3612
+}
+},
+{
+"Name": "Puerto Napo-Puerto Misahualli",
+"PostCode": "150104",
+"Location": {
+"Latitude": -1.0135,
+"Longitude": -77.6906
+}
+},
+{
+"Name": "Talag-Pano",
+"PostCode": "150106",
+"Location": {
+"Latitude": -0.989,
+"Longitude": -78.1668
+}
+},
+{
+"Name": "Tena",
+"PostCode": "150101",
+"Location": {
+"Latitude": -0.9938,
+"Longitude": -77.8129
+}
+},
+{
+"Name": "Tena",
+"PostCode": "150102",
+"Location": {
+"Latitude": -0.9938,
+"Longitude": -77.8129
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Archidona",
+"Code": "1503",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Archidona-San Pablo De Ushpayacu",
+"PostCode": "150103",
+"Location": {
+"Latitude": -0.7198,
+"Longitude": -77.8203
+}
+},
+{
+"Name": "Cotundo",
+"PostCode": "150107",
+"Location": {
+"Latitude": -0.8418,
+"Longitude": -77.7938
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Chaco",
+"Code": "1504",
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Chaco",
+"PostCode": "150201",
+"Location": {
+"Latitude": -0.3382,
+"Longitude": -77.8102
+}
+},
+{
+"Name": "Gonzalo Diaz De Pineda(El Bombon)-Santa Rosa",
+"PostCode": "150202",
+"Location": {
+"Latitude": -0.2525,
+"Longitude": -77.549
+}
+},
+{
+"Name": "Linares-Sardinas",
+"PostCode": "150203",
+"Location": {
+"Latitude": -0.3943,
+"Longitude": -77.7481
+}
+},
+{
+"Name": "Oyacachi",
+"PostCode": "150206",
+"Location": {
+"Latitude": -0.2148,
+"Longitude": -78.0715
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Quijos",
+"Code": "1507",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cosanga-San Francisco De Borja (Virgilio Davila)-Baeza-Sumaco",
+"PostCode": "150204",
+"Location": {
+"Latitude": -0.518,
+"Longitude": -77.8846
+}
+},
+{
+"Name": "Cuyuja-Papallacta",
+"PostCode": "150205",
+"Location": {
+"Latitude": -0.3949,
+"Longitude": -78.1113
+}
+}
+]
+}
+]
+},
+{
+"Name": "Carlos Julio Arosemena Tola",
+"Code": "1509",
+"PostCode": "150105",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Carlos Julio Arosemena Tola",
+"PostCode": "150105",
+"Location": {
+"Latitude": -1.1661,
+"Longitude": -77.8553
+}
+}
+],
+"PostCode": "150105"
+}
+]
+}
+]
+},
+{
+"Name": "Orellana",
+"Code": "24",
+"Provinces": [
+{
+"Name": "Francisco de Orellana Canton",
+"Code": "2201",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Dayuma-Taracoa (Cab. En Nueva Esperanza: Yuca)-El Dorado",
+"PostCode": "220205",
+"Location": {
+"Latitude": -0.4123,
+"Longitude": -77.158
+}
+},
+{
+"Name": "El Eden-Alejandro Labaka",
+"PostCode": "220209",
+"Location": {
+"Latitude": -0.6605,
+"Longitude": -77.2977
+}
+},
+{
+"Name": "Garcia Moreno-La Belleza",
+"PostCode": "220206",
+"Location": {
+"Latitude": -0.2454,
+"Longitude": -77.1512
+}
+},
+{
+"Name": "Ines Arango",
+"PostCode": "220210",
+"Location": {
+"Latitude": -0.5156,
+"Longitude": -77.3187
+}
+},
+{
+"Name": "Nuevo Paraiso-San Jose De Guayusa",
+"PostCode": "220202",
+"Location": {
+"Latitude": -0.4437,
+"Longitude": -76.962
+}
+},
+{
+"Name": "Puerto Francisco De Orellana (Coca)",
+"PostCode": "220201",
+"Location": {
+"Latitude": -0.4664,
+"Longitude": -76.9872
+}
+},
+{
+"Name": "Puerto Francisco De Orellana (Coca)",
+"PostCode": "220203",
+"Location": {
+"Latitude": -0.4664,
+"Longitude": -76.9872
+}
+},
+{
+"Name": "San Luis De Armenia",
+"PostCode": "220204",
+"Location": {
+"Latitude": -0.538,
+"Longitude": -77.0808
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Aguarico",
+"Code": "2202",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Cononaco",
+"PostCode": "220303",
+"Location": {
+"Latitude": -1.0533,
+"Longitude": -76.0717
+}
+},
+{
+"Name": "Nuevo Rocafuerte-Tiputini-Yasuni",
+"PostCode": "220301",
+"Location": {
+"Latitude": -0.9012,
+"Longitude": -75.5449
+}
+},
+{
+"Name": "Santa Maria De Huiririma-Cap. Augusto Rivadeneyra",
+"PostCode": "220302",
+"Location": {
+"Latitude": -0.5961,
+"Longitude": -75.7475
+}
+}
+]
+}
+]
+},
+{
+"Name": "La Joya De Los Sachas",
+"Code": "2203",
+"Communities": [
+{
+"Places": [
+{
+"Name": "La Joya De Los Sachas",
+"PostCode": "220101",
+"Location": {
+"Latitude": -0.2989,
+"Longitude": -76.8558
+}
+},
+{
+"Name": "Rumipamba-Enokanqui (Cab. En El Paraiso)-Lago San Pedro-Tres De Noviembre",
+"PostCode": "220102",
+"Location": {
+"Latitude": -0.3999,
+"Longitude": -76.7388
+}
+},
+{
+"Name": "San Carlos-San Sebastian Del Coca",
+"PostCode": "220104",
+"Location": {
+"Latitude": -0.183,
+"Longitude": -76.9143
+}
+},
+{
+"Name": "Unión Milagreña-Pompeya",
+"PostCode": "220103",
+"Location": {
+"Latitude": -0.2796,
+"Longitude": -76.9807
+}
+}
+]
+}
+]
+},
+{
+"Name": "Loreto Canton",
+"Code": "2204",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Loreto-Avila (Cab En Huiruno)-Puerto Murialdo",
+"PostCode": "220207",
+"Location": {
+"Latitude": -0.5886,
+"Longitude": -76.3578
+}
+},
+{
+"Name": "San Jose De Dahuano-San Vicente De Huaticocha",
+"PostCode": "220211",
+"Location": {
+"Latitude": -0.7828,
+"Longitude": -77.4421
+}
+},
+{
+"Name": "San Jose De Payamino",
+"PostCode": "220208",
+"Location": {
+"Latitude": -0.9767,
+"Longitude": -76.824
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Santa Elena",
+"Code": "25",
+"Provinces": [
+{
+"Name": "Cantón Santa Elena",
+"Code": "2401",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Chanduy",
+"PostCode": "240105",
+"Location": {
+"Latitude": -2.4018,
+"Longitude": -80.6796
+}
+},
+{
+"Name": "Colonche",
+"PostCode": "240107",
+"Location": {
+"Latitude": -2.0215,
+"Longitude": -80.6692
+}
+},
+{
+"Name": "Colonche",
+"PostCode": "240109",
+"Location": {
+"Latitude": -2.0215,
+"Longitude": -80.6692
+}
+},
+{
+"Name": "Colonche",
+"PostCode": "240110",
+"Location": {
+"Latitude": -2.0215,
+"Longitude": -80.6692
+}
+},
+{
+"Name": "Manglaralto",
+"PostCode": "240111",
+"Location": {
+"Latitude": -1.8494,
+"Longitude": -80.745
+}
+},
+{
+"Name": "Manglaralto",
+"PostCode": "240112",
+"Location": {
+"Latitude": -1.8494,
+"Longitude": -80.745
+}
+},
+{
+"Name": "San Jose De Ancon-Atahualpa",
+"PostCode": "240106",
+"Location": {
+"Latitude": -2.0038,
+"Longitude": -80.4962
+}
+},
+{
+"Name": "Santa Elena",
+"PostCode": "240101",
+"Location": {
+"Latitude": -2.2262,
+"Longitude": -80.8587
+}
+},
+{
+"Name": "Santa Elena",
+"PostCode": "240102",
+"Location": {
+"Latitude": -2.2262,
+"Longitude": -80.8587
+}
+},
+{
+"Name": "Santa Elena",
+"PostCode": "240103",
+"Location": {
+"Latitude": -2.2262,
+"Longitude": -80.8587
+}
+},
+{
+"Name": "Santa Elena",
+"PostCode": "240104",
+"Location": {
+"Latitude": -2.2262,
+"Longitude": -80.8587
+}
+},
+{
+"Name": "Simon Bolivar (Julio Moreno)",
+"PostCode": "240108",
+"Location": {
+"Latitude": -2.1847,
+"Longitude": -80.3592
+}
+}
+]
+}
+]
+},
+{
+"Name": "La Libertad",
+"Code": "2402",
+"Communities": [
+{
+"Places": [
+{
+"Name": "La Libertad",
+"PostCode": "240201",
+"Location": {
+"Latitude": -2.233,
+"Longitude": -80.9104
+}
+},
+{
+"Name": "La Libertad",
+"PostCode": "240202",
+"Location": {
+"Latitude": -2.233,
+"Longitude": -80.9104
+}
+},
+{
+"Name": "La Libertad",
+"PostCode": "240203",
+"Location": {
+"Latitude": -2.233,
+"Longitude": -80.9104
+}
+},
+{
+"Name": "La Libertad",
+"PostCode": "240204",
+"Location": {
+"Latitude": -2.233,
+"Longitude": -80.9104
+}
+}
+]
+}
+]
+},
+{
+"Name": "Cantón Salinas",
+"Code": "2403",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Anconcito",
+"PostCode": "240208",
+"Location": {
+"Latitude": -2.3257,
+"Longitude": -80.8899
+}
+},
+{
+"Name": "Jose Luis Tamayo (Muey)",
+"PostCode": "240207",
+"Location": {
+"Latitude": -2.2304,
+"Longitude": -80.9286
+}
+},
+{
+"Name": "Salinas",
+"PostCode": "240205",
+"Location": {
+"Latitude": -2.2145,
+"Longitude": -80.9515
+}
+},
+{
+"Name": "Salinas",
+"PostCode": "240206",
+"Location": {
+"Latitude": -2.2145,
+"Longitude": -80.9515
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Santo Domingo de los Tsáchilas",
+"Code": "26",
+"Provinces": [
+{
+"Name": "Cantón Santo Domingo de los Colorados",
+"Code": "2301",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Alluriquin",
+"PostCode": "230115",
+"Location": {
+"Latitude": -0.3205,
+"Longitude": -78.9948
+}
+},
+{
+"Name": "Alluriquin",
+"PostCode": "230116",
+"Location": {
+"Latitude": -0.3205,
+"Longitude": -78.9948
+}
+},
+{
+"Name": "El Esfuerzo",
+"PostCode": "230119",
+"Location": {
+"Latitude": -0.5836,
+"Longitude": -79.2325
+}
+},
+{
+"Name": "Luz De America",
+"PostCode": "230120",
+"Location": {
+"Latitude": -0.4012,
+"Longitude": -79.2988
+}
+},
+{
+"Name": "Puerto Limon",
+"PostCode": "230210",
+"Location": {
+"Latitude": -0.2363,
+"Longitude": -79.3587
+}
+},
+{
+"Name": "San Jacinto Del Bua",
+"PostCode": "230212",
+"Location": {
+"Latitude": -0.1105,
+"Longitude": -79.2916
+}
+},
+{
+"Name": "San Jacinto Del Bua",
+"PostCode": "230213",
+"Location": {
+"Latitude": -0.0473,
+"Longitude": -79.2228
+}
+},
+{
+"Name": "Santa Maria Del Toachi",
+"PostCode": "230118",
+"Location": {
+"Latitude": -0.6371,
+"Longitude": -79.2274
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230101",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230102",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230103",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230104",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230105",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230106",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230107",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230108",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230109",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230110",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230111",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230112",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230113",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230114",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230117",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230201",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230202",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230203",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230204",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230205",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230206",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230207",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230208",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Santo Domingo De Los Colorados",
+"PostCode": "230211",
+"Location": {
+"Latitude": -0.253,
+"Longitude": -79.1754
+}
+},
+{
+"Name": "Valle Hermoso",
+"PostCode": "230209",
+"Location": {
+"Latitude": -0.0829,
+"Longitude": -79.2769
+}
+}
+]
+}
+]
+},
+{
+"Name": "La Concordia",
+"Code": "2302",
+"Communities": [
+{
+"Places": [
+{
+"Name": "La Concordia",
+"PostCode": "080701",
+"Location": {
+"Latitude": -0.0122,
+"Longitude": -79.3741
+}
+},
+{
+"Name": "La Concordia",
+"PostCode": "080702",
+"Location": {
+"Latitude": -0.0764,
+"Longitude": -79.4037
+}
+},
+{
+"Name": "La Concordia",
+"PostCode": "080703",
+"Location": {
+"Latitude": -0.0588,
+"Longitude": -79.5262
+}
+}
+]
+}
+]
+}
+]
+}
+]

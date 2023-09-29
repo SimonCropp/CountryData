@@ -1,4 +1,3 @@
-
 namespace CountryData;
 
 public enum Fips

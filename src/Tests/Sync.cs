@@ -64,18 +64,22 @@ public class Sync
 
         using (var writer = File.CreateText(namedCountryData))
         {
-            writer.WriteLine(@"
-// ReSharper disable IdentifierTypo
+            writer.WriteLine(
+                """
+                // ReSharper disable IdentifierTypo
 
-namespace CountryData;
+                namespace CountryData;
 
-public static partial class CountryLoader
-{");
+                public static partial class CountryLoader
+                {
+                """);
             foreach (var locationData in keyToName)
             {
-                writer.WriteLine($@"
-    public static ICountry Load{locationData.Value}LocationData() =>
-        LoadLocationData(""{locationData.Key}"");");
+                writer.WriteLine(
+                    $"""
+                         public static ICountry Load{locationData.Value}LocationData() =>
+                             LoadLocationData("{locationData.Key}");
+                     """);
             }
 
             writer.WriteLine("}");
@@ -85,17 +89,22 @@ public static partial class CountryLoader
         File.Delete(namedBogusData);
         using (var writer = File.CreateText(namedBogusData))
         {
-            writer.WriteLine(@"// ReSharper disable IdentifierTypo
+            writer.WriteLine(
+                """
+                // ReSharper disable IdentifierTypo
 
-namespace CountryData.Bogus;
+                namespace CountryData.Bogus;
 
-public partial class CountryDataSet
-{");
+                public partial class CountryDataSet
+                {
+                """);
             foreach (var locationData in keyToName)
             {
-                writer.WriteLine($@"
-    public ICountry {locationData.Value}() =>
-        CountryLoader.Load{locationData.Value}LocationData();");
+                writer.WriteLine(
+                    $"""
+                         public ICountry {locationData.Value}() =>
+                             CountryLoader.Load{locationData.Value}LocationData();
+                     """);
             }
 
             writer.WriteLine("}");
@@ -117,26 +126,35 @@ public partial class CountryDataSet
         using var fipsWriter = File.CreateText(fips);
         using var currencyCodeWriter = File.CreateText(currencyCode);
 
-        isoWriter.WriteLine(@"
-namespace CountryData;
+        isoWriter.WriteLine(
+            """
 
-public enum Iso
-{");
-        iso3Writer.WriteLine(@"
-namespace CountryData;
+            namespace CountryData;
 
-public enum Iso3
-{");
-        fipsWriter.WriteLine(@"
-namespace CountryData;
+            public enum Iso
+            {
+            """);
+        iso3Writer.WriteLine(
+            """
+            namespace CountryData;
 
-public enum Fips
-{");
-        currencyCodeWriter.WriteLine(@"
-namespace CountryData;
+            public enum Iso3
+            {
+            """);
+        fipsWriter.WriteLine(
+            """
+            namespace CountryData;
 
-public enum CurrencyCode
-{");
+            public enum Fips
+            {
+            """);
+        currencyCodeWriter.WriteLine(
+            """
+            namespace CountryData;
+
+            public enum CurrencyCode
+            {
+            """);
 
         foreach (var code in countryInfos
             .Select(_ => _.CurrencyCode)

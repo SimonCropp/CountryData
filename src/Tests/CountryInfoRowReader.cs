@@ -46,6 +46,7 @@ static class CountryInfoRowReader
 
             var area = split[6]!;
             // ReSharper disable once ConditionIsAlwaysTrueOrFalse
+            // ReSharper disable once ConditionIsAlwaysTrueOrFalseAccordingToNullableAPIContract
             if (area != null)
             {
                 row.Area = double.Parse(area);
