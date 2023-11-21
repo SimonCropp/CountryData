@@ -26,5 +26,5 @@ public static class CountryExtensions
             .SelectMany(_ => _.Communities)
             .SelectMany(_ => _.Places)
             .GroupBy(_ => _.PostCode)
-            .ToDictionary(_ => _.Key, x => (IReadOnlyList<IPlace>)x.ToList());
+            .ToDictionary(_ => _.Key, _ => (IReadOnlyList<IPlace>)_.ToList());
 }
