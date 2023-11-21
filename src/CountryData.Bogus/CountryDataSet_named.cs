@@ -136,8 +136,8 @@ public partial class CountryDataSet
         CountryLoader.LoadMalaysiaLocationData();
     public ICountry NewCaledonia() =>
         CountryLoader.LoadNewCaledoniaLocationData();
-    public ICountry Netherlands() =>
-        CountryLoader.LoadNetherlandsLocationData();
+    public ICountry TheNetherlands() =>
+        CountryLoader.LoadTheNetherlandsLocationData();
     public ICountry Norway() =>
         CountryLoader.LoadNorwayLocationData();
     public ICountry NewZealand() =>

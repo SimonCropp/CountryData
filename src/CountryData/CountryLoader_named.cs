@@ -136,7 +136,7 @@ public static partial class CountryLoader
         LoadLocationData("MY");
     public static ICountry LoadNewCaledoniaLocationData() =>
         LoadLocationData("NC");
-    public static ICountry LoadNetherlandsLocationData() =>
+    public static ICountry LoadTheNetherlandsLocationData() =>
         LoadLocationData("NL");
     public static ICountry LoadNorwayLocationData() =>
         LoadLocationData("NO");
