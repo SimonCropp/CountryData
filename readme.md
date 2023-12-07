@@ -21,7 +21,6 @@ The NuGets contain a static copy of all data. This data is embedded as resources
  * [Libraries.io](https://libraries.io/) supports subscribing to NuGet package updates.
 
 
-
 ## Usage
 
 <!-- snippet: usage -->
