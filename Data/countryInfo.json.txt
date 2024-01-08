@@ -3415,6 +3415,8 @@
 "CurrencyCode": "PAB",
 "CurrencyName": "Balboa",
 "PhonePrefix": "507",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
 "Languages": [
 "es-PA",
 "en"

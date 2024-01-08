@@ -142,6 +142,8 @@ public partial class CountryDataSet
         CountryLoader.LoadNorwayLocationData();
     public ICountry NewZealand() =>
         CountryLoader.LoadNewZealandLocationData();
+    public ICountry Panama() =>
+        CountryLoader.LoadPanamaLocationData();
     public ICountry Peru() =>
         CountryLoader.LoadPeruLocationData();
     public ICountry Philippines() =>

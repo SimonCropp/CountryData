@@ -142,6 +142,8 @@ public static partial class CountryLoader
         LoadLocationData("NO");
     public static ICountry LoadNewZealandLocationData() =>
         LoadLocationData("NZ");
+    public static ICountry LoadPanamaLocationData() =>
+        LoadLocationData("PA");
     public static ICountry LoadPeruLocationData() =>
         LoadLocationData("PE");
     public static ICountry LoadPhilippinesLocationData() =>
