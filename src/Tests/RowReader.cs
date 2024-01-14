@@ -12,7 +12,7 @@
                 break;
             }
 
-            if (line.StartsWith("#"))
+            if (line.StartsWith('#'))
             {
                 continue;
             }
