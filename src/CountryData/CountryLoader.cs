@@ -4,13 +4,13 @@ namespace CountryData;
 
 public static partial class CountryLoader
 {
-    static ConcurrentDictionary<string, ICountry> cache = new();
+    static ConcurrentDictionary<string, ICountry> cache = new(StringComparer.OrdinalIgnoreCase);
     static Assembly assembly;
 
     static CountryLoader()
     {
         assembly = typeof(CountryLoader).Assembly;
-        using var stream = assembly.GetManifestResourceStream("CountryData.countryInfo.json.txt");
+        using var stream = assembly.GetManifestResourceStream("CountryData.countryInfo.json.txt")!;
 
         CountryInfo = Serializer.Deserialize<List<CountryInfo>>(stream);
     }
@@ -22,7 +22,6 @@ public static partial class CountryLoader
     public static ICountry LoadLocationData(string countryCode)
     {
         Guard.AgainstWhiteSpace(countryCode, nameof(countryCode));
-        countryCode = countryCode.ToUpperInvariant();
         return cache.GetOrAdd(countryCode, Inner);
     }
 
@@ -61,7 +60,7 @@ public static partial class CountryLoader
             TopLevelDomain = countryInfo.TopLevelDomain,
             Languages = countryInfo.Languages
         };
-        var readOnlyList = DeserializeEntry(entry,country);
+        var readOnlyList = DeserializeEntry(entry, country);
         country.States = readOnlyList;
         return country;
     }
@@ -72,7 +71,9 @@ public static partial class CountryLoader
         using var archive = new ZipArchive(stream);
         foreach (var entry in archive.Entries)
         {
-            var countryCode = entry.Name.Split('.').First();
+            var countryCode = entry
+                .Name.Split('.')
+                .First();
             cache[countryCode] = ConstructCountry(entry, countryCode);
         }
     }
@@ -80,7 +81,8 @@ public static partial class CountryLoader
     static List<State> DeserializeEntry(ZipArchiveEntry entry, Country country)
     {
         using var entryStream = entry.Open();
-        return DeserializeStates(country, entryStream).ToList();
+        return DeserializeStates(country, entryStream)
+            .ToList();
     }
 
     static IEnumerable<State> DeserializeStates(Country country, Stream entryStream)
@@ -90,16 +92,17 @@ public static partial class CountryLoader
             state.Country = country;
             foreach (var province in state.Provinces)
             {
-                ((Province)province).State = state;
+                ((Province) province).State = state;
                 foreach (var community in province.Communities)
                 {
-                    ((Community)community).Province = province;
+                    ((Community) community).Province = province;
                     foreach (var place in community.Places)
                     {
-                        ((Place)place).Community = community;
+                        ((Place) place).Community = community;
                     }
                 }
             }
+
             yield return state;
         }
     }

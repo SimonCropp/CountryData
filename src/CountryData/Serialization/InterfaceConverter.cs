@@ -1,7 +1,4 @@
-﻿using System.Text.Json;
-using System.Text.Json.Serialization;
-
-class InterfaceConverter<TClass, TInterface> :
+﻿class InterfaceConverter<TClass, TInterface> :
     JsonConverter<TInterface>
     where TClass:TInterface
 {
