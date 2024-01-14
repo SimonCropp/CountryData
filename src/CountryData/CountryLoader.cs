@@ -10,7 +10,7 @@ public static partial class CountryLoader
     static CountryLoader()
     {
         assembly = typeof(CountryLoader).Assembly;
-        using var stream = assembly.GetManifestResourceStream("CountryData.countryInfo.json.txt");
+        using var stream = assembly.GetManifestResourceStream("CountryData.countryInfo.json.txt")!;
 
         CountryInfo = Serializer.Deserialize<List<CountryInfo>>(stream);
     }

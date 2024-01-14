@@ -1,13 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <Description>Extends Bogus (https://github.com/bchavez/Bogus) to use [GeoNames Data](https://www.geonames.org/).</Description>
     <DefineConstants>$(DefineConstants);Bogus</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="..\CountryData\Guard.cs" Link="Guard.cs" />
 
-    <PackageReference Include="Bogus" Version="35.3.0" />
+    <PackageReference Include="Bogus" Version="35.3.2" />
     <ProjectReference Include="..\CountryData\CountryData.csproj" />
     <PackageReference Include="ProjectDefaults" Version="1.0.108" PrivateAssets="all" />
     <PackageReference Include="Microsoft.SourceLink.GitHub" Version="8.0.0" PrivateAssets="All" Condition="$(Configuration) == 'Release'" />

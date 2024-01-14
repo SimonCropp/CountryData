@@ -1,12 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <Description>Provides a .net wrapper around the [GeoNames Data](https://www.geonames.org/).</Description>
   </PropertyGroup>
   <ItemGroup>
     <EmbeddedResource Include="..\..\Data\countryInfo.json.txt" Link="countryInfo.json.txt" />
     <EmbeddedResource Condition="Exists('..\..\Data\postcodes.zip')" Include="..\..\Data\postcodes.zip" Link="postcodes.zip" />
 
+    <PackageReference Include="Polyfill" Version="2.1.0" PrivateAssets="all" />
     <PackageReference Include="System.IO.Compression.ZipFile" Version="4.3.0" />
     <PackageReference Include="System.Text.Json" Version="8.0.1" />
     <PackageReference Include="ProjectDefaults" Version="1.0.108" PrivateAssets="all" />

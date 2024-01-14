@@ -1,8 +1,4 @@
-﻿using System.Text.Json;
-using System.Text.Json.Serialization;
-using CountryData;
-
-static class Serializer
+﻿static class Serializer
 {
     public static T Deserialize<T>(Stream stream)
     {
