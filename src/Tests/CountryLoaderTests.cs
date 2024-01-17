@@ -1,7 +1,6 @@
 ﻿using CountryData;
 using Xunit.Abstractions;
 
-[UsesVerify]
 public class CountryLoaderTests
 {
     ITestOutputHelper testOutputHelper;
