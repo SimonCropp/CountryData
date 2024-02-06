@@ -1,8 +1,4 @@
-﻿using System.Globalization;
-using System.IO.Compression;
-using CountryData;
-
-public class Sync
+﻿public class Sync
 {
     [Fact]
     [Trait("Category", "Integration")]

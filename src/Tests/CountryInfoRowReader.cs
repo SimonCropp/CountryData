@@ -1,6 +1,4 @@
-﻿using CountryData;
-
-static class CountryInfoRowReader
+﻿static class CountryInfoRowReader
 {
     public static IEnumerable<CountryInfo> ReadRows(string path)
     {

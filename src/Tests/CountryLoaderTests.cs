@@ -1,13 +1,5 @@
-﻿using CountryData;
-using Xunit.Abstractions;
-
-public class CountryLoaderTests
+﻿public class CountryLoaderTests(ITestOutputHelper testOutputHelper)
 {
-    ITestOutputHelper testOutputHelper;
-
-    public CountryLoaderTests(ITestOutputHelper testOutputHelper) =>
-        this.testOutputHelper = testOutputHelper;
-
     [Fact]
     public void WritePostCodeRegex()
     {

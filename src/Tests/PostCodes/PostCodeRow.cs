@@ -1,6 +1,4 @@
-﻿using CountryData;
-
-class PostCodeRow
+﻿class PostCodeRow
 {
     public string CountryCode = null!;
     public string PostalCode = null!;

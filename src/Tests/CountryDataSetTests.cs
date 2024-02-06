@@ -1,6 +1,4 @@
-﻿using CountryData.Bogus;
-
-public class CountryDataSetTests
+﻿public class CountryDataSetTests
 {
     [Fact]
     public void Simple()

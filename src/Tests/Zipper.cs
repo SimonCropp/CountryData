@@ -1,5 +1,3 @@
-using System.IO.Compression;
-
 static class Zipper
 {
     public static void ZipDir(string targetFile, string sourceDirectory)

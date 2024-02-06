@@ -1,6 +1,4 @@
-﻿using CountryData;
-
-static class CountrySerializer
+﻿static class CountrySerializer
 {
     public static List<State> Serialize(string country, List<PostCodeRow> rows, string directory)
     {
