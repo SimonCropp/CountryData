@@ -9,6 +9,6 @@
 
     <PackageReference Include="Bogus" Version="35.4.0" />
     <ProjectReference Include="..\CountryData\CountryData.csproj" />
-    <PackageReference Include="ProjectDefaults" Version="1.0.110" PrivateAssets="all" />
+    <PackageReference Include="ProjectDefaults" Version="1.0.111" PrivateAssets="all" />
   </ItemGroup>
 </Project>
