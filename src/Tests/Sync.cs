@@ -98,7 +98,7 @@
             {
                 writer.WriteLine(
                     $"""
-                         public ICountry {locationData.Value}() =>
+                         public static ICountry {locationData.Value}() =>
                              CountryLoader.Load{locationData.Value}LocationData();
                      """);
             }
