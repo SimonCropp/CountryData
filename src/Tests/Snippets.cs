@@ -15,13 +15,13 @@ public class Snippets
                 setter: (f, u) => f.Country().Name())
             .RuleFor(
                 property: u => u.AustralianCapital,
-                setter: (f, u) => f.Country().Australia().Capital)
+                setter: (f, u) => CountryDataSet.Australia().Capital)
             .RuleFor(
                 property: u => u.RandomIrelandState,
-                setter: (f, u) => f.Country().Ireland().State().Name)
+                setter: (f, u) => CountryDataSet.Ireland().State().Name)
             .RuleFor(
                 property: u => u.RandomIcelandPostCode,
-                setter: (f, u) => f.Country().Iceland().PostCode());
+                setter: (f, u) => CountryDataSet.Iceland().PostCode());
         var targetInstance = faker.Generate();
 
         #endregion
@@ -40,10 +40,10 @@ public class Snippets
         // Loads all location data for a specific country
         var australiaData = CountryLoader.LoadAustraliaLocationData();
         var name = australiaData.Name;
-        var state = australiaData.States.First();
-        var province = state.Provinces.First();
-        var community = province.Communities.First();
-        var place = community.Places.First();
+        var state = australiaData.States[0];
+        var province = state.Provinces[0];
+        var community = province.Communities[0];
+        var place = community.Places[0];
         var postCode = place.PostCode;
         var placeName = place.Name;
         var latitude = place.Location.Latitude;

@@ -10,8 +10,7 @@
     [Fact]
     public void SpecificCountry()
     {
-        var dataSet = new CountryDataSet();
-        var state = dataSet.Australia().State();
+        var state = CountryDataSet.Australia().State();
         Assert.NotNull(state);
     }
 }

@@ -8,6 +8,6 @@
     <Compile Include="..\CountryData\Guard.cs" Link="Guard.cs" />
     <PackageReference Include="Bogus" Version="35.4.1" />
     <ProjectReference Include="..\CountryData\CountryData.csproj" />
-    <PackageReference Include="ProjectDefaults" Version="1.0.118" PrivateAssets="all" />
+    <PackageReference Include="ProjectDefaults" Version="1.0.125" PrivateAssets="all" />
   </ItemGroup>
 </Project>

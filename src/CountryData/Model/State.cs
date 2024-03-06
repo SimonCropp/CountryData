@@ -1,6 +1,4 @@
-﻿using System.Runtime.Serialization;
-
-namespace CountryData;
+﻿namespace CountryData;
 
 public interface IState
 {

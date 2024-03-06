@@ -67,7 +67,7 @@
 
     static string? RollupPostcodes(IEnumerable<string?> postcodes)
     {
-        // ReSharper disable PossibleMultipleEnumeration
+        postcodes = postcodes.ToList();
         var firstPostCode = postcodes.First();
         if (postcodes.All(_ => _ == firstPostCode))
         {
