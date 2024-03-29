@@ -36,6 +36,8 @@ public partial class CountryDataSet
         CountryLoader.LoadSwitzerlandLocationData();
     public static ICountry Chile() =>
         CountryLoader.LoadChileLocationData();
+    public static ICountry China() =>
+        CountryLoader.LoadChinaLocationData();
     public static ICountry Colombia() =>
         CountryLoader.LoadColombiaLocationData();
     public static ICountry CostaRica() =>

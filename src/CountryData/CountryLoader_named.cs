@@ -36,6 +36,8 @@ public static partial class CountryLoader
         LoadLocationData("CH");
     public static ICountry LoadChileLocationData() =>
         LoadLocationData("CL");
+    public static ICountry LoadChinaLocationData() =>
+        LoadLocationData("CN");
     public static ICountry LoadColombiaLocationData() =>
         LoadLocationData("CO");
     public static ICountry LoadCostaRicaLocationData() =>
