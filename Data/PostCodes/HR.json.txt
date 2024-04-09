@@ -47897,52 +47897,6 @@
 "PostCode": "23206"
 },
 {
-"Name": "Biograd na moru",
-"Places": [
-{
-"Name": "Donja Jagodnja",
-"PostCode": "23210",
-"Location": {
-"Latitude": 43.9995,
-"Longitude": 15.5186
-}
-},
-{
-"Name": "Gornja Jagodnja",
-"PostCode": "23210",
-"Location": {
-"Latitude": 44.0124,
-"Longitude": 15.5371
-}
-},
-{
-"Name": "Kakma",
-"PostCode": "23210",
-"Location": {
-"Latitude": 43.9944,
-"Longitude": 15.4928
-}
-},
-{
-"Name": "Polača",
-"PostCode": "23210",
-"Location": {
-"Latitude": 44.0183,
-"Longitude": 15.5175
-}
-},
-{
-"Name": "Tinj",
-"PostCode": "23210",
-"Location": {
-"Latitude": 44.0192,
-"Longitude": 15.4744
-}
-}
-],
-"PostCode": "23210"
-},
-{
 "Name": "Biograd na Moru",
 "Places": [
 {
@@ -48039,6 +47993,52 @@
 "Location": {
 "Latitude": 43.8561,
 "Longitude": 15.5031
+}
+}
+],
+"PostCode": "23210"
+},
+{
+"Name": "Biograd na moru",
+"Places": [
+{
+"Name": "Donja Jagodnja",
+"PostCode": "23210",
+"Location": {
+"Latitude": 43.9995,
+"Longitude": 15.5186
+}
+},
+{
+"Name": "Gornja Jagodnja",
+"PostCode": "23210",
+"Location": {
+"Latitude": 44.0124,
+"Longitude": 15.5371
+}
+},
+{
+"Name": "Kakma",
+"PostCode": "23210",
+"Location": {
+"Latitude": 43.9944,
+"Longitude": 15.4928
+}
+},
+{
+"Name": "Polača",
+"PostCode": "23210",
+"Location": {
+"Latitude": 44.0183,
+"Longitude": 15.5175
+}
+},
+{
+"Name": "Tinj",
+"PostCode": "23210",
+"Location": {
+"Latitude": 44.0192,
+"Longitude": 15.4744
 }
 }
 ],
