@@ -6,8 +6,8 @@
   <ItemGroup>
     <EmbeddedResource Include="..\..\Data\countryInfo.json.txt" Link="countryInfo.json.txt" />
     <EmbeddedResource Condition="Exists('..\..\Data\postcodes.zip')" Include="..\..\Data\postcodes.zip" Link="postcodes.zip" />
-    <PackageReference Include="System.IO.Compression.ZipFile" Version="4.3.0" />
-    <PackageReference Include="System.Text.Json" Version="8.0.3" />
-    <PackageReference Include="ProjectDefaults" Version="1.0.127" PrivateAssets="all" />
+    <PackageReference Include="System.IO.Compression.ZipFile" />
+    <PackageReference Include="System.Text.Json" />
+    <PackageReference Include="ProjectDefaults" PrivateAssets="all" />
   </ItemGroup>
 </Project>
