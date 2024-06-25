@@ -148,6 +148,8 @@ public static partial class CountryLoader
         LoadLocationData("PA");
     public static ICountry LoadPeruLocationData() =>
         LoadLocationData("PE");
+    public static ICountry LoadFrenchPolynesiaLocationData() =>
+        LoadLocationData("PF");
     public static ICountry LoadPhilippinesLocationData() =>
         LoadLocationData("PH");
     public static ICountry LoadPakistanLocationData() =>

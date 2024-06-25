@@ -148,6 +148,8 @@ public partial class CountryDataSet
         CountryLoader.LoadPanamaLocationData();
     public static ICountry Peru() =>
         CountryLoader.LoadPeruLocationData();
+    public static ICountry FrenchPolynesia() =>
+        CountryLoader.LoadFrenchPolynesiaLocationData();
     public static ICountry Philippines() =>
         CountryLoader.LoadPhilippinesLocationData();
     public static ICountry Pakistan() =>

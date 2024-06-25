@@ -1,0 +1,2208 @@
+[
+{
+"Name": "Îles du Vent",
+"Code": "01",
+"Provinces": [
+{
+"Name": "Arue",
+"Code": "98712",
+"PostCode": "98701",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Arue",
+"PostCode": "98701",
+"Location": {
+"Latitude": -17.005,
+"Longitude": -149.5679
+}
+}
+],
+"PostCode": "98701"
+}
+]
+},
+{
+"Name": "Faaa",
+"Code": "98715",
+"PostCode": "98704",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Faaa",
+"PostCode": "98704",
+"Location": {
+"Latitude": -17.5843,
+"Longitude": -149.56
+}
+}
+],
+"PostCode": "98704"
+}
+]
+},
+{
+"Name": "Hitiaa O Te Ra",
+"Code": "98722",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Hitiaa",
+"PostCode": "98705",
+"Location": {
+"Latitude": -17.6175,
+"Longitude": -149.3298
+}
+},
+{
+"Name": "Mahaena",
+"PostCode": "98706",
+"Location": {
+"Latitude": -17.5938,
+"Longitude": -149.3636
+}
+},
+{
+"Name": "Papenoo",
+"PostCode": "98707",
+"Location": {
+"Latitude": -17.5985,
+"Longitude": -149.436
+}
+},
+{
+"Name": "Tiarei",
+"PostCode": "98708",
+"Location": {
+"Latitude": -17.5569,
+"Longitude": -149.3816
+}
+}
+]
+}
+]
+},
+{
+"Name": "Mahina",
+"Code": "98725",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Mahina",
+"PostCode": "98709",
+"Location": {
+"Latitude": -17.5566,
+"Longitude": -149.4746
+}
+},
+{
+"Name": "Orofara",
+"PostCode": "98710",
+"Location": {
+"Latitude": -17.5575,
+"Longitude": -149.4753
+}
+}
+]
+}
+]
+},
+{
+"Name": "Moorea-Maiao",
+"Code": "98729",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Afareaitu",
+"PostCode": "98728",
+"Location": {
+"Latitude": -17.558,
+"Longitude": -149.8054
+}
+},
+{
+"Name": "Atiha",
+"PostCode": "98729",
+"Location": {
+"Latitude": -17.5054,
+"Longitude": -149.778
+}
+},
+{
+"Name": "Haapiti",
+"PostCode": "98729",
+"Location": {
+"Latitude": -17.5434,
+"Longitude": -149.8706
+}
+},
+{
+"Name": "Haumi",
+"PostCode": "98728",
+"Location": {
+"Latitude": -17.5054,
+"Longitude": -149.778
+}
+},
+{
+"Name": "Hauru",
+"PostCode": "98729",
+"Location": {
+"Latitude": -17.5054,
+"Longitude": -149.778
+}
+},
+{
+"Name": "Maatea",
+"PostCode": "98728",
+"Location": {
+"Latitude": -17.5054,
+"Longitude": -149.778
+}
+},
+{
+"Name": "Maharepa",
+"PostCode": "98728",
+"Location": {
+"Latitude": -17.5054,
+"Longitude": -149.778
+}
+},
+{
+"Name": "Maiao",
+"PostCode": "98729",
+"Location": {
+"Latitude": -17.5054,
+"Longitude": -149.778
+}
+},
+{
+"Name": "Opunohu",
+"PostCode": "98729",
+"Location": {
+"Latitude": -17.5054,
+"Longitude": -149.778
+}
+},
+{
+"Name": "Paopao",
+"PostCode": "98728",
+"Location": {
+"Latitude": -17.5027,
+"Longitude": -149.8113
+}
+},
+{
+"Name": "Paopao",
+"PostCode": "98729",
+"Location": {
+"Latitude": -17.5054,
+"Longitude": -149.778
+}
+},
+{
+"Name": "Papetoai",
+"PostCode": "98729",
+"Location": {
+"Latitude": -17.5207,
+"Longitude": -149.8555
+}
+},
+{
+"Name": "Pihaena",
+"PostCode": "98729",
+"Location": {
+"Latitude": -17.5054,
+"Longitude": -149.778
+}
+},
+{
+"Name": "Teavaro",
+"PostCode": "98728",
+"Location": {
+"Latitude": -17.5079,
+"Longitude": -149.7801
+}
+},
+{
+"Name": "Temae",
+"PostCode": "98728",
+"Location": {
+"Latitude": -17.5054,
+"Longitude": -149.778
+}
+},
+{
+"Name": "Tiahura",
+"PostCode": "98729",
+"Location": {
+"Latitude": -17.5054,
+"Longitude": -149.778
+}
+},
+{
+"Name": "Tiaia",
+"PostCode": "98728",
+"Location": {
+"Latitude": -17.5054,
+"Longitude": -149.778
+}
+},
+{
+"Name": "Vaianae",
+"PostCode": "98729",
+"Location": {
+"Latitude": -17.5054,
+"Longitude": -149.778
+}
+},
+{
+"Name": "Vaiare",
+"PostCode": "98728",
+"Location": {
+"Latitude": -17.5054,
+"Longitude": -149.778
+}
+},
+{
+"Name": "Varari",
+"PostCode": "98729",
+"Location": {
+"Latitude": -17.5054,
+"Longitude": -149.778
+}
+}
+]
+}
+]
+},
+{
+"Name": "Paea",
+"Code": "98733",
+"PostCode": "98711",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Paea",
+"PostCode": "98711",
+"Location": {
+"Latitude": -17.6875,
+"Longitude": -149.553
+}
+}
+],
+"PostCode": "98711"
+}
+]
+},
+{
+"Name": "Papara",
+"Code": "98734",
+"PostCode": "98712",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Papara",
+"PostCode": "98712",
+"Location": {
+"Latitude": -17.7213,
+"Longitude": -149.4967
+}
+}
+],
+"PostCode": "98712"
+}
+]
+},
+{
+"Name": "Papeete",
+"Code": "98735",
+"PostCode": "98714",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Papeete",
+"PostCode": "98714",
+"Location": {
+"Latitude": -17.5572,
+"Longitude": -149.5555
+}
+}
+],
+"PostCode": "98714"
+}
+]
+},
+{
+"Name": "Pirae",
+"Code": "98736",
+"PostCode": "98716",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Pirae",
+"PostCode": "98716",
+"Location": {
+"Latitude": -17.5699,
+"Longitude": -149.5196
+}
+}
+],
+"PostCode": "98716"
+}
+]
+},
+{
+"Name": "Punaauia",
+"Code": "98738",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Punaauia",
+"PostCode": "98703",
+"Location": {
+"Latitude": -17.618,
+"Longitude": -149.5486
+}
+},
+{
+"Name": "Punaauia",
+"PostCode": "98718",
+"Location": {
+"Latitude": -17.618,
+"Longitude": -149.5486
+}
+}
+]
+}
+]
+},
+{
+"Name": "Taiarapu-Est",
+"Code": "98747",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Afaahiti",
+"PostCode": "98719",
+"Location": {
+"Latitude": -17.7383,
+"Longitude": -149.299
+}
+},
+{
+"Name": "Faaone",
+"PostCode": "98720",
+"Location": {
+"Latitude": -17.6681,
+"Longitude": -149.3528
+}
+},
+{
+"Name": "Pueu",
+"PostCode": "98721",
+"Location": {
+"Latitude": -17.7662,
+"Longitude": -149.2302
+}
+},
+{
+"Name": "Taravao",
+"PostCode": "98719",
+"Location": {
+"Latitude": -17.8097,
+"Longitude": -149.1716
+}
+},
+{
+"Name": "Tautira",
+"PostCode": "98722",
+"Location": {
+"Latitude": -17.8753,
+"Longitude": -148.0673
+}
+}
+]
+}
+]
+},
+{
+"Name": "Taiarapu-Ouest",
+"Code": "98748",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Teahupoo",
+"PostCode": "98723",
+"Location": {
+"Latitude": -17.844,
+"Longitude": -149.2129
+}
+},
+{
+"Name": "Toahotu",
+"PostCode": "98724",
+"Location": {
+"Latitude": -17.7712,
+"Longitude": -149.2884
+}
+},
+{
+"Name": "Vairao",
+"PostCode": "98725",
+"Location": {
+"Latitude": -17.8088,
+"Longitude": -149.2704
+}
+}
+]
+}
+]
+},
+{
+"Name": "Teva I Uta",
+"Code": "98752",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Mataiea",
+"PostCode": "98726",
+"Location": {
+"Latitude": -17.7251,
+"Longitude": -149.4287
+}
+},
+{
+"Name": "Papeari",
+"PostCode": "98727",
+"Location": {
+"Latitude": -17.7168,
+"Longitude": -149.3764
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Îles Sous-le-Vent",
+"Code": "02",
+"Provinces": [
+{
+"Name": "Bora-Bora",
+"Code": "98714",
+"PostCode": "98730",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Anau",
+"PostCode": "98730",
+"Location": {
+"Latitude": -16.5142,
+"Longitude": -151.7168
+}
+},
+{
+"Name": "Faanui",
+"PostCode": "98730",
+"Location": {
+"Latitude": -16.4744,
+"Longitude": -151.7437
+}
+},
+{
+"Name": "Nunue",
+"PostCode": "98730",
+"Location": {
+"Latitude": -16.5133,
+"Longitude": -151.7455
+}
+},
+{
+"Name": "Vaitape",
+"PostCode": "98730",
+"Location": {
+"Latitude": -16.4734,
+"Longitude": -151.7404
+}
+}
+],
+"PostCode": "98730"
+}
+]
+},
+{
+"Name": "Huahine",
+"Code": "98724",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Avera",
+"PostCode": "98732",
+"Location": {
+"Latitude": -16.7979,
+"Longitude": -151.0097
+}
+},
+{
+"Name": "Faie",
+"PostCode": "98731",
+"Location": {
+"Latitude": -16.7327,
+"Longitude": -150.9925
+}
+},
+{
+"Name": "Fare",
+"PostCode": "98731",
+"Location": {
+"Latitude": -16.7127,
+"Longitude": -151.0267
+}
+},
+{
+"Name": "Fitii",
+"PostCode": "98731",
+"Location": {
+"Latitude": -16.7469,
+"Longitude": -151.032
+}
+},
+{
+"Name": "Haapu",
+"PostCode": "98731",
+"Location": {
+"Latitude": -16.7902,
+"Longitude": -151.0039
+}
+},
+{
+"Name": "Huahine",
+"PostCode": "98731",
+"Location": {
+"Latitude": -16.7979,
+"Longitude": -151.0097
+}
+},
+{
+"Name": "Maeva",
+"PostCode": "98731",
+"Location": {
+"Latitude": -16.7062,
+"Longitude": -151.0003
+}
+},
+{
+"Name": "Maroe",
+"PostCode": "98731",
+"Location": {
+"Latitude": -16.7594,
+"Longitude": -151.0045
+}
+},
+{
+"Name": "Parea",
+"PostCode": "98731",
+"Location": {
+"Latitude": -16.7995,
+"Longitude": -150.985
+}
+},
+{
+"Name": "Tefarerii",
+"PostCode": "98731",
+"Location": {
+"Latitude": -16.7747,
+"Longitude": -150.9712
+}
+}
+]
+}
+]
+},
+{
+"Name": "Maupiti",
+"Code": "98728",
+"PostCode": "98732",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Maupiti",
+"PostCode": "98732",
+"Location": {
+"Latitude": -16.4425,
+"Longitude": -152.2656
+}
+},
+{
+"Name": "Mopelia",
+"PostCode": "98732",
+"Location": {
+"Latitude": -16.5289,
+"Longitude": -154.649
+}
+},
+{
+"Name": "Motu One",
+"PostCode": "98732",
+"Location": {
+"Latitude": -16.5289,
+"Longitude": -154.649
+}
+},
+{
+"Name": "Scilly",
+"PostCode": "98732",
+"Location": {
+"Latitude": -16.5289,
+"Longitude": -154.649
+}
+}
+],
+"PostCode": "98732"
+}
+]
+},
+{
+"Name": "Tahaa",
+"Code": "98745",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Faaaha",
+"PostCode": "98734",
+"Location": {
+"Latitude": -16.6257,
+"Longitude": -151.4549
+}
+},
+{
+"Name": "Haamene",
+"PostCode": "98734",
+"Location": {
+"Latitude": -16.6364,
+"Longitude": -151.4815
+}
+},
+{
+"Name": "Hipu",
+"PostCode": "98733",
+"Location": {
+"Latitude": -16.6012,
+"Longitude": -151.4622
+}
+},
+{
+"Name": "Iripau",
+"PostCode": "98733",
+"Location": {
+"Latitude": -16.5974,
+"Longitude": -151.5038
+}
+},
+{
+"Name": "Niua",
+"PostCode": "98734",
+"Location": {
+"Latitude": -16.6591,
+"Longitude": -151.4961
+}
+},
+{
+"Name": "Patio",
+"PostCode": "98733",
+"Location": {
+"Latitude": -16.6419,
+"Longitude": -151.5242
+}
+},
+{
+"Name": "Poutoru",
+"PostCode": "98734",
+"Location": {
+"Latitude": -16.6419,
+"Longitude": -151.5242
+}
+},
+{
+"Name": "Ruutia",
+"PostCode": "98733",
+"Location": {
+"Latitude": -16.6376,
+"Longitude": -151.5222
+}
+},
+{
+"Name": "Tahaa",
+"PostCode": "98733",
+"Location": {
+"Latitude": -16.6419,
+"Longitude": -151.5242
+}
+},
+{
+"Name": "Tapuamu",
+"PostCode": "98733",
+"Location": {
+"Latitude": -16.6147,
+"Longitude": -151.5345
+}
+},
+{
+"Name": "Tiva",
+"PostCode": "98733",
+"Location": {
+"Latitude": -16.6419,
+"Longitude": -151.5242
+}
+},
+{
+"Name": "Vaitoare",
+"PostCode": "98734",
+"Location": {
+"Latitude": -16.6681,
+"Longitude": -151.4651
+}
+}
+]
+}
+]
+},
+{
+"Name": "Taputapuatea",
+"Code": "98750",
+"PostCode": "98735",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Avera",
+"PostCode": "98735",
+"Location": {
+"Latitude": -16.8808,
+"Longitude": -151.4008
+}
+},
+{
+"Name": "Opoa",
+"PostCode": "98735",
+"Location": {
+"Latitude": -16.8482,
+"Longitude": -151.385
+}
+},
+{
+"Name": "Puohine",
+"PostCode": "98735",
+"Location": {
+"Latitude": -16.8799,
+"Longitude": -151.404
+}
+},
+{
+"Name": "Taputapuatea",
+"PostCode": "98735",
+"Location": {
+"Latitude": -16.8808,
+"Longitude": -151.4008
+}
+}
+],
+"PostCode": "98735"
+}
+]
+},
+{
+"Name": "Tumaraa",
+"Code": "98754",
+"PostCode": "98735",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Fetuna",
+"PostCode": "98735",
+"Location": {
+"Latitude": -16.8873,
+"Longitude": -151.4368
+}
+},
+{
+"Name": "Tehurui",
+"PostCode": "98735",
+"Location": {
+"Latitude": -16.8316,
+"Longitude": -151.4683
+}
+},
+{
+"Name": "Tevaitoa",
+"PostCode": "98735",
+"Location": {
+"Latitude": -16.7836,
+"Longitude": -151.4724
+}
+},
+{
+"Name": "Tumaraa",
+"PostCode": "98735",
+"Location": {
+"Latitude": -16.8307,
+"Longitude": -151.4715
+}
+}
+],
+"PostCode": "98735"
+}
+]
+},
+{
+"Name": "Uturoa",
+"Code": "98758",
+"PostCode": "98735",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Uturoa",
+"PostCode": "98735",
+"Location": {
+"Latitude": -16.7406,
+"Longitude": -151.458
+}
+}
+],
+"PostCode": "98735"
+}
+]
+}
+]
+},
+{
+"Name": "Îles Tuamotu-Gambier",
+"Code": "03",
+"Provinces": [
+{
+"Name": "Anaa",
+"Code": "98711",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Hitianau",
+"PostCode": "98786",
+"Location": {
+"Latitude": -16.7125,
+"Longitude": -145.2203
+}
+},
+{
+"Name": "Tepupahea",
+"PostCode": "98790",
+"Location": {
+"Latitude": -16.8708,
+"Longitude": -144.7867
+}
+},
+{
+"Name": "Tuuhora",
+"PostCode": "98760",
+"Location": {
+"Latitude": -17.3966,
+"Longitude": -145.5214
+}
+}
+]
+}
+]
+},
+{
+"Name": "Arutua",
+"Code": "98713",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Niutahi",
+"PostCode": "98762",
+"Location": {
+"Latitude": -15.3961,
+"Longitude": -146.3131
+}
+},
+{
+"Name": "Raitahiti",
+"PostCode": "98785",
+"Location": {
+"Latitude": -15.7141,
+"Longitude": -146.7425
+}
+},
+{
+"Name": "Rautini",
+"PostCode": "98761",
+"Location": {
+"Latitude": -15.2526,
+"Longitude": -146.7361
+}
+}
+]
+}
+]
+},
+{
+"Name": "Fakarava",
+"Code": "98716",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Motu Tapu",
+"PostCode": "98790",
+"Location": {
+"Latitude": -16.2492,
+"Longitude": -144.9277
+}
+},
+{
+"Name": "Ofare",
+"PostCode": "98790",
+"Location": {
+"Latitude": -16.2492,
+"Longitude": -144.9277
+}
+},
+{
+"Name": "Paparara",
+"PostCode": "98764",
+"Location": {
+"Latitude": -15.514,
+"Longitude": -145.5059
+}
+},
+{
+"Name": "Rotoava",
+"PostCode": "98763",
+"Location": {
+"Latitude": -16.2025,
+"Longitude": -145.6031
+}
+},
+{
+"Name": "Tearavero",
+"PostCode": "98787",
+"Location": {
+"Latitude": -15.8592,
+"Longitude": -145.1344
+}
+},
+{
+"Name": "Toau",
+"PostCode": "98790",
+"Location": {
+"Latitude": -15.8601,
+"Longitude": -146.0092
+}
+}
+]
+}
+]
+},
+{
+"Name": "Fangatau",
+"Code": "98717",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Tarione",
+"PostCode": "98766",
+"Location": {
+"Latitude": -15.9819,
+"Longitude": -140.1323
+}
+},
+{
+"Name": "Teana",
+"PostCode": "98765",
+"Location": {
+"Latitude": -15.8223,
+"Longitude": -140.8657
+}
+}
+]
+}
+]
+},
+{
+"Name": "Gambier",
+"Code": "98719",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Akamaru",
+"PostCode": "98755",
+"Location": {
+"Latitude": -23.1861,
+"Longitude": -134.914
+}
+},
+{
+"Name": "Angakauitai",
+"PostCode": "98755",
+"Location": {
+"Latitude": -23.1658,
+"Longitude": -135.0354
+}
+},
+{
+"Name": "Aukena",
+"PostCode": "98755",
+"Location": {
+"Latitude": -23.2187,
+"Longitude": -134.9711
+}
+},
+{
+"Name": "Kamaka",
+"PostCode": "98755",
+"Location": {
+"Latitude": -23.2432,
+"Longitude": -134.9578
+}
+},
+{
+"Name": "Makaroa",
+"PostCode": "98755",
+"Location": {
+"Latitude": -23.1321,
+"Longitude": -134.9038
+}
+},
+{
+"Name": "Mangareva",
+"PostCode": "98755",
+"Location": {
+"Latitude": -23.1066,
+"Longitude": -134.9622
+}
+},
+{
+"Name": "Maniui",
+"PostCode": "98755",
+"Location": {
+"Latitude": -21.3081,
+"Longitude": -136.75
+}
+},
+{
+"Name": "Maria Est",
+"PostCode": "98792",
+"Location": {
+"Latitude": -21.3081,
+"Longitude": -136.75
+}
+},
+{
+"Name": "Marutea Sud",
+"PostCode": "98793",
+"Location": {
+"Latitude": -21.5187,
+"Longitude": -135.5622
+}
+},
+{
+"Name": "Morane",
+"PostCode": "98792",
+"Location": {
+"Latitude": -23.1526,
+"Longitude": -137.1315
+}
+},
+{
+"Name": "Motureivavao",
+"PostCode": "98792",
+"Location": {
+"Latitude": -21.3081,
+"Longitude": -136.75
+}
+},
+{
+"Name": "Rikitea",
+"PostCode": "98755",
+"Location": {
+"Latitude": -21.3081,
+"Longitude": -136.75
+}
+},
+{
+"Name": "Taravai",
+"PostCode": "98755",
+"Location": {
+"Latitude": -23.1473,
+"Longitude": -135.0395
+}
+},
+{
+"Name": "Temoe",
+"PostCode": "98792",
+"Location": {
+"Latitude": -23.3443,
+"Longitude": -134.4792
+}
+},
+{
+"Name": "Tenararo",
+"PostCode": "98792",
+"Location": {
+"Latitude": -21.3051,
+"Longitude": -136.7465
+}
+},
+{
+"Name": "Tenarunga",
+"PostCode": "98792",
+"Location": {
+"Latitude": -21.3446,
+"Longitude": -136.5425
+}
+},
+{
+"Name": "Vahanga",
+"PostCode": "98792",
+"Location": {
+"Latitude": -21.3315,
+"Longitude": -136.6522
+}
+}
+]
+}
+]
+},
+{
+"Name": "Hao",
+"Code": "98720",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Ahunui",
+"PostCode": "98790",
+"Location": {
+"Latitude": -19.634,
+"Longitude": -140.4082
+}
+},
+{
+"Name": "Amanu",
+"PostCode": "98790",
+"Location": {
+"Latitude": -17.8028,
+"Longitude": -140.7716
+}
+},
+{
+"Name": "Herehretue",
+"PostCode": "98790",
+"Location": {
+"Latitude": -20.6982,
+"Longitude": -143.0476
+}
+},
+{
+"Name": "Hikitake",
+"PostCode": "98790",
+"Location": {
+"Latitude": -20.6982,
+"Longitude": -143.0476
+}
+},
+{
+"Name": "Manuhangi",
+"PostCode": "98790",
+"Location": {
+"Latitude": -19.1971,
+"Longitude": -141.2449
+}
+},
+{
+"Name": "Nengonengo",
+"PostCode": "98790",
+"Location": {
+"Latitude": -18.7332,
+"Longitude": -141.8199
+}
+},
+{
+"Name": "Otepa",
+"PostCode": "98767",
+"Location": {
+"Latitude": -18.2622,
+"Longitude": -140.8621
+}
+},
+{
+"Name": "Otetou",
+"PostCode": "98790",
+"Location": {
+"Latitude": -20.6982,
+"Longitude": -143.0476
+}
+},
+{
+"Name": "Paraoa",
+"PostCode": "98790",
+"Location": {
+"Latitude": -19.1265,
+"Longitude": -140.6894
+}
+},
+{
+"Name": "Teanoga",
+"PostCode": "98790",
+"Location": {
+"Latitude": -20.6982,
+"Longitude": -143.0476
+}
+}
+]
+}
+]
+},
+{
+"Name": "Hikueru",
+"Code": "98721",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Mahetika",
+"PostCode": "98790",
+"Location": {
+"Latitude": -17.8493,
+"Longitude": -143.066
+}
+},
+{
+"Name": "Motutapu",
+"PostCode": "98790",
+"Location": {
+"Latitude": -17.8493,
+"Longitude": -143.066
+}
+},
+{
+"Name": "Ravahere",
+"PostCode": "98790",
+"Location": {
+"Latitude": -18.2444,
+"Longitude": -142.1514
+}
+},
+{
+"Name": "Tepeperu",
+"PostCode": "98790",
+"Location": {
+"Latitude": -17.8493,
+"Longitude": -143.066
+}
+},
+{
+"Name": "Tupapati",
+"PostCode": "98768",
+"Location": {
+"Latitude": -17.569,
+"Longitude": -142.5933
+}
+}
+]
+}
+]
+},
+{
+"Name": "Makemo",
+"Code": "98726",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Garumaoa",
+"PostCode": "98790",
+"Location": {
+"Latitude": -16.3277,
+"Longitude": -143.1146
+}
+},
+{
+"Name": "Haraiki",
+"PostCode": "98790",
+"Location": {
+"Latitude": -17.4589,
+"Longitude": -143.4506
+}
+},
+{
+"Name": "Henuaparea",
+"PostCode": "98790",
+"Location": {
+"Latitude": -16.3277,
+"Longitude": -143.1146
+}
+},
+{
+"Name": "Hiti",
+"PostCode": "98790",
+"Location": {
+"Latitude": -16.7164,
+"Longitude": -144.0984
+}
+},
+{
+"Name": "Hitianau",
+"PostCode": "98789",
+"Location": {
+"Latitude": -16.3986,
+"Longitude": -144.3321
+}
+},
+{
+"Name": "Marutea Nord",
+"PostCode": "98790",
+"Location": {
+"Latitude": -17.0581,
+"Longitude": -143.0778
+}
+},
+{
+"Name": "Otatake",
+"PostCode": "98790",
+"Location": {
+"Latitude": -16.3277,
+"Longitude": -143.1146
+}
+},
+{
+"Name": "Pouheva",
+"PostCode": "98769",
+"Location": {
+"Latitude": -16.5535,
+"Longitude": -143.6946
+}
+},
+{
+"Name": "Tepoto Sud",
+"PostCode": "98790",
+"Location": {
+"Latitude": -16.8175,
+"Longitude": -144.2853
+}
+},
+{
+"Name": "Tuanake",
+"PostCode": "98790",
+"Location": {
+"Latitude": -16.6423,
+"Longitude": -144.2118
+}
+}
+]
+}
+]
+},
+{
+"Name": "Manihi",
+"Code": "98727",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Tenokupara",
+"PostCode": "98770",
+"Location": {
+"Latitude": -14.4846,
+"Longitude": -146.3073
+}
+},
+{
+"Name": "Turipaoa",
+"PostCode": "98771",
+"Location": {
+"Latitude": -14.3985,
+"Longitude": -145.9542
+}
+}
+]
+}
+]
+},
+{
+"Name": "Napuka",
+"Code": "98730",
+"PostCode": "98772",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Tepukamaruia",
+"PostCode": "98772",
+"Location": {
+"Latitude": -14.173,
+"Longitude": -141.2232
+}
+}
+],
+"PostCode": "98772"
+}
+]
+},
+{
+"Name": "Nukutavake",
+"Code": "98732",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Tavava",
+"PostCode": "98773",
+"Location": {
+"Latitude": -19.28,
+"Longitude": -138.7834
+}
+},
+{
+"Name": "Temanufaara",
+"PostCode": "98788",
+"Location": {
+"Latitude": -18.7697,
+"Longitude": -138.8211
+}
+}
+]
+}
+]
+},
+{
+"Name": "Pukapuka",
+"Code": "98737",
+"PostCode": "98774",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Teonemahina",
+"PostCode": "98774",
+"Location": {
+"Latitude": -14.8161,
+"Longitude": -138.8186
+}
+}
+],
+"PostCode": "98774"
+}
+]
+},
+{
+"Name": "Rangiroa",
+"Code": "98740",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Avatoru",
+"PostCode": "98775",
+"Location": {
+"Latitude": -15.0732,
+"Longitude": -147.5282
+}
+},
+{
+"Name": "Pahua",
+"PostCode": "98777",
+"Location": {
+"Latitude": -14.8848,
+"Longitude": -148.6748
+}
+},
+{
+"Name": "Tiputa",
+"PostCode": "98776",
+"Location": {
+"Latitude": -15.0732,
+"Longitude": -147.5282
+}
+},
+{
+"Name": "Tuherahera",
+"PostCode": "98778",
+"Location": {
+"Latitude": -14.9934,
+"Longitude": -148.162
+}
+},
+{
+"Name": "Vaitepaua",
+"PostCode": "98790",
+"Location": {
+"Latitude": -15.0732,
+"Longitude": -147.5282
+}
+}
+]
+}
+]
+},
+{
+"Name": "Reao",
+"Code": "98742",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Marautagaroa",
+"PostCode": "98780",
+"Location": {
+"Latitude": -18.3043,
+"Longitude": -137.0173
+}
+},
+{
+"Name": "Tapuarava",
+"PostCode": "98779",
+"Location": {
+"Latitude": -18.514,
+"Longitude": -136.3792
+}
+}
+]
+}
+]
+},
+{
+"Name": "Takaroa",
+"Code": "98749",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Fakatopatere",
+"PostCode": "98782",
+"Location": {
+"Latitude": -14.6334,
+"Longitude": -145.2101
+}
+},
+{
+"Name": "Teavaroa",
+"PostCode": "98781",
+"Location": {
+"Latitude": -14.4397,
+"Longitude": -144.9533
+}
+},
+{
+"Name": "Tikei",
+"PostCode": "98790",
+"Location": {
+"Latitude": -14.9505,
+"Longitude": -144.5466
+}
+}
+]
+}
+]
+},
+{
+"Name": "Tatakoto",
+"Code": "98751",
+"PostCode": "98783",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Tumukuru",
+"PostCode": "98783",
+"Location": {
+"Latitude": -17.3379,
+"Longitude": -138.3978
+}
+}
+],
+"PostCode": "98783"
+}
+]
+},
+{
+"Name": "Tureia",
+"Code": "98755",
+"PostCode": "98784",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Fakamaru",
+"PostCode": "98784",
+"Location": {
+"Latitude": -20.8244,
+"Longitude": -138.54
+}
+}
+],
+"PostCode": "98784"
+}
+]
+}
+]
+},
+{
+"Name": "Îles Marquises",
+"Code": "04",
+"Provinces": [
+{
+"Name": "Fatu-Hiva",
+"Code": "98718",
+"PostCode": "98740",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Hanavave",
+"PostCode": "98740",
+"Location": {
+"Latitude": -10.3612,
+"Longitude": -138.4148
+}
+},
+{
+"Name": "Omoa",
+"PostCode": "98740",
+"Location": {
+"Latitude": -10.3612,
+"Longitude": -138.4148
+}
+}
+],
+"PostCode": "98740"
+}
+]
+},
+{
+"Name": "Hiva-Oa",
+"Code": "98723",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Atuona",
+"PostCode": "98741",
+"Location": {
+"Latitude": -9.7765,
+"Longitude": -139.0558
+}
+},
+{
+"Name": "Eiaone",
+"PostCode": "98741",
+"Location": {
+"Latitude": -9.7562,
+"Longitude": -138.8869
+}
+},
+{
+"Name": "Fatu Huku",
+"PostCode": "98796",
+"Location": {
+"Latitude": -9.4366,
+"Longitude": -138.9263
+}
+},
+{
+"Name": "Hanaiapa",
+"PostCode": "98741",
+"Location": {
+"Latitude": -9.7562,
+"Longitude": -138.8869
+}
+},
+{
+"Name": "Hanapaoa",
+"PostCode": "98741",
+"Location": {
+"Latitude": -9.7562,
+"Longitude": -138.8869
+}
+},
+{
+"Name": "Mohotani",
+"PostCode": "98796",
+"Location": {
+"Latitude": -9.9852,
+"Longitude": -138.8266
+}
+},
+{
+"Name": "Motu Ua",
+"PostCode": "98741",
+"Location": {
+"Latitude": -9.7562,
+"Longitude": -138.8869
+}
+},
+{
+"Name": "Nahoe",
+"PostCode": "98741",
+"Location": {
+"Latitude": -9.7562,
+"Longitude": -138.8869
+}
+},
+{
+"Name": "Paumau",
+"PostCode": "98741",
+"Location": {
+"Latitude": -9.7562,
+"Longitude": -138.8869
+}
+},
+{
+"Name": "Puamau",
+"PostCode": "98749",
+"Location": {
+"Latitude": -9.7683,
+"Longitude": -138.9128
+}
+}
+]
+}
+]
+},
+{
+"Name": "Nuku-Hiva",
+"Code": "98731",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Aakapa",
+"PostCode": "98742",
+"Location": {
+"Latitude": -8.8255,
+"Longitude": -140.1304
+}
+},
+{
+"Name": "Eiao",
+"PostCode": "98796",
+"Location": {
+"Latitude": -7.997,
+"Longitude": -140.6885
+}
+},
+{
+"Name": "Hatiheu",
+"PostCode": "98748",
+"Location": {
+"Latitude": -8.8248,
+"Longitude": -140.1581
+}
+},
+{
+"Name": "Hatu Iti",
+"PostCode": "98796",
+"Location": {
+"Latitude": -8.6765,
+"Longitude": -140.6174
+}
+},
+{
+"Name": "Hatutaa",
+"PostCode": "98796",
+"Location": {
+"Latitude": -7.917,
+"Longitude": -140.5712
+}
+},
+{
+"Name": "Nukuataha",
+"PostCode": "98742",
+"Location": {
+"Latitude": -8.8255,
+"Longitude": -140.1304
+}
+},
+{
+"Name": "Taiohae",
+"PostCode": "98742",
+"Location": {
+"Latitude": -8.8967,
+"Longitude": -140.159
+}
+},
+{
+"Name": "Taipivai",
+"PostCode": "98742",
+"Location": {
+"Latitude": -8.8789,
+"Longitude": -140.0595
+}
+},
+{
+"Name": "Terre Deserte",
+"PostCode": "98742",
+"Location": {
+"Latitude": -8.8255,
+"Longitude": -140.1304
+}
+}
+]
+}
+]
+},
+{
+"Name": "Tahuata",
+"Code": "98746",
+"PostCode": "98743",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Hanatetena",
+"PostCode": "98743",
+"Location": {
+"Latitude": -9.9575,
+"Longitude": -139.0832
+}
+},
+{
+"Name": "Hapatoni",
+"PostCode": "98743",
+"Location": {
+"Latitude": -9.9575,
+"Longitude": -139.0832
+}
+},
+{
+"Name": "Motopu",
+"PostCode": "98743",
+"Location": {
+"Latitude": -9.9575,
+"Longitude": -139.0832
+}
+},
+{
+"Name": "Vaitahu",
+"PostCode": "98743",
+"Location": {
+"Latitude": -9.9575,
+"Longitude": -139.0832
+}
+}
+],
+"PostCode": "98743"
+}
+]
+},
+{
+"Name": "Ua Huka",
+"Code": "98756",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Hane",
+"PostCode": "98747",
+"Location": {
+"Latitude": -8.9084,
+"Longitude": -139.5536
+}
+},
+{
+"Name": "Vaipaee",
+"PostCode": "98744",
+"Location": {
+"Latitude": -8.9099,
+"Longitude": -139.5493
+}
+}
+]
+}
+]
+},
+{
+"Name": "Ua-Pou",
+"Code": "98757",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Haakuti",
+"PostCode": "98746",
+"Location": {
+"Latitude": -9.4283,
+"Longitude": -140.0895
+}
+},
+{
+"Name": "Hakahau",
+"PostCode": "98745",
+"Location": {
+"Latitude": -9.3881,
+"Longitude": -140.0638
+}
+},
+{
+"Name": "Hakahetau",
+"PostCode": "98745",
+"Location": {
+"Latitude": -9.4283,
+"Longitude": -140.0895
+}
+},
+{
+"Name": "Hakamaii",
+"PostCode": "98746",
+"Location": {
+"Latitude": -9.4176,
+"Longitude": -140.0925
+}
+},
+{
+"Name": "Hakatao",
+"PostCode": "98745",
+"Location": {
+"Latitude": -9.4283,
+"Longitude": -140.0895
+}
+},
+{
+"Name": "Hohoi",
+"PostCode": "98745",
+"Location": {
+"Latitude": -9.4283,
+"Longitude": -140.0895
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Îles Australes",
+"Code": "05",
+"Provinces": [
+{
+"Name": "Raivavae",
+"Code": "98739",
+"PostCode": "98750",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Anatonu",
+"PostCode": "98750",
+"Location": {
+"Latitude": -23.8495,
+"Longitude": -147.6237
+}
+},
+{
+"Name": "Mahanatoa",
+"PostCode": "98750",
+"Location": {
+"Latitude": -23.8793,
+"Longitude": -147.6755
+}
+},
+{
+"Name": "Rairua",
+"PostCode": "98750",
+"Location": {
+"Latitude": -23.8793,
+"Longitude": -147.6755
+}
+},
+{
+"Name": "Vaiuru",
+"PostCode": "98750",
+"Location": {
+"Latitude": -23.8678,
+"Longitude": -147.6381
+}
+}
+],
+"PostCode": "98750"
+}
+]
+},
+{
+"Name": "Rapa",
+"Code": "98741",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Ahurei",
+"PostCode": "98751",
+"Location": {
+"Latitude": -27.6056,
+"Longitude": -144.344
+}
+},
+{
+"Name": "Marotiri",
+"PostCode": "98794",
+"Location": {
+"Latitude": -27.8914,
+"Longitude": -143.4959
+}
+}
+]
+}
+]
+},
+{
+"Name": "Rimatara",
+"Code": "98743",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Amaru",
+"PostCode": "98752",
+"Location": {
+"Latitude": -22.6449,
+"Longitude": -152.7982
+}
+},
+{
+"Name": "Anapoto",
+"PostCode": "98752",
+"Location": {
+"Latitude": -22.6456,
+"Longitude": -152.8142
+}
+},
+{
+"Name": "Maria Ilots",
+"PostCode": "98795",
+"Location": {
+"Latitude": -22.657,
+"Longitude": -152.8051
+}
+},
+{
+"Name": "Mutuaura",
+"PostCode": "98752",
+"Location": {
+"Latitude": -22.6567,
+"Longitude": -152.8062
+}
+},
+{
+"Name": "Rimatara",
+"PostCode": "98752",
+"Location": {
+"Latitude": -22.657,
+"Longitude": -152.8051
+}
+}
+]
+}
+]
+},
+{
+"Name": "Rurutu",
+"Code": "98744",
+"PostCode": "98753",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Avera",
+"PostCode": "98753",
+"Location": {
+"Latitude": -22.5004,
+"Longitude": -151.333
+}
+},
+{
+"Name": "Hauti",
+"PostCode": "98753",
+"Location": {
+"Latitude": -22.4975,
+"Longitude": -151.3334
+}
+},
+{
+"Name": "Moerai",
+"PostCode": "98753",
+"Location": {
+"Latitude": -22.4543,
+"Longitude": -151.3451
+}
+}
+],
+"PostCode": "98753"
+}
+]
+},
+{
+"Name": "Tubuai",
+"Code": "98753",
+"PostCode": "98754",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Mahu",
+"PostCode": "98754",
+"Location": {
+"Latitude": -23.3886,
+"Longitude": -149.4816
+}
+},
+{
+"Name": "Mataura",
+"PostCode": "98754",
+"Location": {
+"Latitude": -23.3667,
+"Longitude": -149.4978
+}
+},
+{
+"Name": "Taahuaia",
+"PostCode": "98754",
+"Location": {
+"Latitude": -23.3637,
+"Longitude": -149.453
+}
+}
+],
+"PostCode": "98754"
+}
+]
+}
+]
+}
+]
