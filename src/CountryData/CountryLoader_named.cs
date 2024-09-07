@@ -6,6 +6,12 @@ public static partial class CountryLoader
 {
     public static ICountry LoadAndorraLocationData() =>
         LoadLocationData("AD");
+    public static ICountry LoadUnitedArabEmiratesLocationData() =>
+        LoadLocationData("AE");
+    public static ICountry LoadAnguillaLocationData() =>
+        LoadLocationData("AI");
+    public static ICountry LoadAlbaniaLocationData() =>
+        LoadLocationData("AL");
     public static ICountry LoadArgentinaLocationData() =>
         LoadLocationData("AR");
     public static ICountry LoadAmericanSamoaLocationData() =>
@@ -32,6 +38,8 @@ public static partial class CountryLoader
         LoadLocationData("BY");
     public static ICountry LoadCanadaLocationData() =>
         LoadLocationData("CA");
+    public static ICountry LoadCocosIslandsLocationData() =>
+        LoadLocationData("CC");
     public static ICountry LoadSwitzerlandLocationData() =>
         LoadLocationData("CH");
     public static ICountry LoadChileLocationData() =>
@@ -42,6 +50,8 @@ public static partial class CountryLoader
         LoadLocationData("CO");
     public static ICountry LoadCostaRicaLocationData() =>
         LoadLocationData("CR");
+    public static ICountry LoadChristmasIslandLocationData() =>
+        LoadLocationData("CX");
     public static ICountry LoadCyprusLocationData() =>
         LoadLocationData("CY");
     public static ICountry LoadCzechiaLocationData() =>
@@ -62,6 +72,8 @@ public static partial class CountryLoader
         LoadLocationData("ES");
     public static ICountry LoadFinlandLocationData() =>
         LoadLocationData("FI");
+    public static ICountry LoadFalklandIslandsLocationData() =>
+        LoadLocationData("FK");
     public static ICountry LoadMicronesiaLocationData() =>
         LoadLocationData("FM");
     public static ICountry LoadFaroeIslandsLocationData() =>
@@ -74,14 +86,22 @@ public static partial class CountryLoader
         LoadLocationData("GF");
     public static ICountry LoadGuernseyLocationData() =>
         LoadLocationData("GG");
+    public static ICountry LoadGibraltarLocationData() =>
+        LoadLocationData("GI");
     public static ICountry LoadGreenlandLocationData() =>
         LoadLocationData("GL");
     public static ICountry LoadGuadeloupeLocationData() =>
         LoadLocationData("GP");
+    public static ICountry LoadSouthGeorgiaAndTheSouthSandwichIslandsLocationData() =>
+        LoadLocationData("GS");
     public static ICountry LoadGuatemalaLocationData() =>
         LoadLocationData("GT");
     public static ICountry LoadGuamLocationData() =>
         LoadLocationData("GU");
+    public static ICountry LoadHongKongLocationData() =>
+        LoadLocationData("HK");
+    public static ICountry LoadHeardIslandAndMcdonaldIslandsLocationData() =>
+        LoadLocationData("HM");
     public static ICountry LoadCroatiaLocationData() =>
         LoadLocationData("HR");
     public static ICountry LoadHaitiLocationData() =>
@@ -94,6 +114,8 @@ public static partial class CountryLoader
         LoadLocationData("IM");
     public static ICountry LoadIndiaLocationData() =>
         LoadLocationData("IN");
+    public static ICountry LoadBritishIndianOceanTerritoryLocationData() =>
+        LoadLocationData("IO");
     public static ICountry LoadIcelandLocationData() =>
         LoadLocationData("IS");
     public static ICountry LoadItalyLocationData() =>
@@ -124,6 +146,8 @@ public static partial class CountryLoader
         LoadLocationData("MH");
     public static ICountry LoadNorthMacedoniaLocationData() =>
         LoadLocationData("MK");
+    public static ICountry LoadMacaoLocationData() =>
+        LoadLocationData("MO");
     public static ICountry LoadNorthernMarianaIslandsLocationData() =>
         LoadLocationData("MP");
     public static ICountry LoadMartiniqueLocationData() =>
@@ -138,10 +162,16 @@ public static partial class CountryLoader
         LoadLocationData("MY");
     public static ICountry LoadNewCaledoniaLocationData() =>
         LoadLocationData("NC");
+    public static ICountry LoadNorfolkIslandLocationData() =>
+        LoadLocationData("NF");
     public static ICountry LoadTheNetherlandsLocationData() =>
         LoadLocationData("NL");
     public static ICountry LoadNorwayLocationData() =>
         LoadLocationData("NO");
+    public static ICountry LoadNauruLocationData() =>
+        LoadLocationData("NR");
+    public static ICountry LoadNiueLocationData() =>
+        LoadLocationData("NU");
     public static ICountry LoadNewZealandLocationData() =>
         LoadLocationData("NZ");
     public static ICountry LoadPanamaLocationData() =>
@@ -158,6 +188,8 @@ public static partial class CountryLoader
         LoadLocationData("PL");
     public static ICountry LoadSaintPierreAndMiquelonLocationData() =>
         LoadLocationData("PM");
+    public static ICountry LoadPitcairnLocationData() =>
+        LoadLocationData("PN");
     public static ICountry LoadPuertoRicoLocationData() =>
         LoadLocationData("PR");
     public static ICountry LoadPortugalLocationData() =>
@@ -184,6 +216,8 @@ public static partial class CountryLoader
         LoadLocationData("SK");
     public static ICountry LoadSanMarinoLocationData() =>
         LoadLocationData("SM");
+    public static ICountry LoadTurksAndCaicosIslandsLocationData() =>
+        LoadLocationData("TC");
     public static ICountry LoadThailandLocationData() =>
         LoadLocationData("TH");
     public static ICountry LoadTurkeyLocationData() =>
@@ -200,6 +234,8 @@ public static partial class CountryLoader
         LoadLocationData("VI");
     public static ICountry LoadWallisAndFutunaLocationData() =>
         LoadLocationData("WF");
+    public static ICountry LoadSamoaLocationData() =>
+        LoadLocationData("WS");
     public static ICountry LoadMayotteLocationData() =>
         LoadLocationData("YT");
     public static ICountry LoadSouthAfricaLocationData() =>

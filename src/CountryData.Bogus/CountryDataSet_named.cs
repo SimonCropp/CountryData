@@ -6,6 +6,12 @@ public partial class CountryDataSet
 {
     public static ICountry Andorra() =>
         CountryLoader.LoadAndorraLocationData();
+    public static ICountry UnitedArabEmirates() =>
+        CountryLoader.LoadUnitedArabEmiratesLocationData();
+    public static ICountry Anguilla() =>
+        CountryLoader.LoadAnguillaLocationData();
+    public static ICountry Albania() =>
+        CountryLoader.LoadAlbaniaLocationData();
     public static ICountry Argentina() =>
         CountryLoader.LoadArgentinaLocationData();
     public static ICountry AmericanSamoa() =>
@@ -32,6 +38,8 @@ public partial class CountryDataSet
         CountryLoader.LoadBelarusLocationData();
     public static ICountry Canada() =>
         CountryLoader.LoadCanadaLocationData();
+    public static ICountry CocosIslands() =>
+        CountryLoader.LoadCocosIslandsLocationData();
     public static ICountry Switzerland() =>
         CountryLoader.LoadSwitzerlandLocationData();
     public static ICountry Chile() =>
@@ -42,6 +50,8 @@ public partial class CountryDataSet
         CountryLoader.LoadColombiaLocationData();
     public static ICountry CostaRica() =>
         CountryLoader.LoadCostaRicaLocationData();
+    public static ICountry ChristmasIsland() =>
+        CountryLoader.LoadChristmasIslandLocationData();
     public static ICountry Cyprus() =>
         CountryLoader.LoadCyprusLocationData();
     public static ICountry Czechia() =>
@@ -62,6 +72,8 @@ public partial class CountryDataSet
         CountryLoader.LoadSpainLocationData();
     public static ICountry Finland() =>
         CountryLoader.LoadFinlandLocationData();
+    public static ICountry FalklandIslands() =>
+        CountryLoader.LoadFalklandIslandsLocationData();
     public static ICountry Micronesia() =>
         CountryLoader.LoadMicronesiaLocationData();
     public static ICountry FaroeIslands() =>
@@ -74,14 +86,22 @@ public partial class CountryDataSet
         CountryLoader.LoadFrenchGuianaLocationData();
     public static ICountry Guernsey() =>
         CountryLoader.LoadGuernseyLocationData();
+    public static ICountry Gibraltar() =>
+        CountryLoader.LoadGibraltarLocationData();
     public static ICountry Greenland() =>
         CountryLoader.LoadGreenlandLocationData();
     public static ICountry Guadeloupe() =>
         CountryLoader.LoadGuadeloupeLocationData();
+    public static ICountry SouthGeorgiaAndTheSouthSandwichIslands() =>
+        CountryLoader.LoadSouthGeorgiaAndTheSouthSandwichIslandsLocationData();
     public static ICountry Guatemala() =>
         CountryLoader.LoadGuatemalaLocationData();
     public static ICountry Guam() =>
         CountryLoader.LoadGuamLocationData();
+    public static ICountry HongKong() =>
+        CountryLoader.LoadHongKongLocationData();
+    public static ICountry HeardIslandAndMcdonaldIslands() =>
+        CountryLoader.LoadHeardIslandAndMcdonaldIslandsLocationData();
     public static ICountry Croatia() =>
         CountryLoader.LoadCroatiaLocationData();
     public static ICountry Haiti() =>
@@ -94,6 +114,8 @@ public partial class CountryDataSet
         CountryLoader.LoadIsleOfManLocationData();
     public static ICountry India() =>
         CountryLoader.LoadIndiaLocationData();
+    public static ICountry BritishIndianOceanTerritory() =>
+        CountryLoader.LoadBritishIndianOceanTerritoryLocationData();
     public static ICountry Iceland() =>
         CountryLoader.LoadIcelandLocationData();
     public static ICountry Italy() =>
@@ -124,6 +146,8 @@ public partial class CountryDataSet
         CountryLoader.LoadMarshallIslandsLocationData();
     public static ICountry NorthMacedonia() =>
         CountryLoader.LoadNorthMacedoniaLocationData();
+    public static ICountry Macao() =>
+        CountryLoader.LoadMacaoLocationData();
     public static ICountry NorthernMarianaIslands() =>
         CountryLoader.LoadNorthernMarianaIslandsLocationData();
     public static ICountry Martinique() =>
@@ -138,10 +162,16 @@ public partial class CountryDataSet
         CountryLoader.LoadMalaysiaLocationData();
     public static ICountry NewCaledonia() =>
         CountryLoader.LoadNewCaledoniaLocationData();
+    public static ICountry NorfolkIsland() =>
+        CountryLoader.LoadNorfolkIslandLocationData();
     public static ICountry TheNetherlands() =>
         CountryLoader.LoadTheNetherlandsLocationData();
     public static ICountry Norway() =>
         CountryLoader.LoadNorwayLocationData();
+    public static ICountry Nauru() =>
+        CountryLoader.LoadNauruLocationData();
+    public static ICountry Niue() =>
+        CountryLoader.LoadNiueLocationData();
     public static ICountry NewZealand() =>
         CountryLoader.LoadNewZealandLocationData();
     public static ICountry Panama() =>
@@ -158,6 +188,8 @@ public partial class CountryDataSet
         CountryLoader.LoadPolandLocationData();
     public static ICountry SaintPierreAndMiquelon() =>
         CountryLoader.LoadSaintPierreAndMiquelonLocationData();
+    public static ICountry Pitcairn() =>
+        CountryLoader.LoadPitcairnLocationData();
     public static ICountry PuertoRico() =>
         CountryLoader.LoadPuertoRicoLocationData();
     public static ICountry Portugal() =>
@@ -184,6 +216,8 @@ public partial class CountryDataSet
         CountryLoader.LoadSlovakiaLocationData();
     public static ICountry SanMarino() =>
         CountryLoader.LoadSanMarinoLocationData();
+    public static ICountry TurksAndCaicosIslands() =>
+        CountryLoader.LoadTurksAndCaicosIslandsLocationData();
     public static ICountry Thailand() =>
         CountryLoader.LoadThailandLocationData();
     public static ICountry Turkey() =>
@@ -200,6 +234,8 @@ public partial class CountryDataSet
         CountryLoader.LoadUSVirginIslandsLocationData();
     public static ICountry WallisAndFutuna() =>
         CountryLoader.LoadWallisAndFutunaLocationData();
+    public static ICountry Samoa() =>
+        CountryLoader.LoadSamoaLocationData();
     public static ICountry Mayotte() =>
         CountryLoader.LoadMayotteLocationData();
     public static ICountry SouthAfrica() =>

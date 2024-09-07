@@ -24,6 +24,8 @@
 "CurrencyCode": "AED",
 "CurrencyName": "Dirham",
 "PhonePrefix": "971",
+"PostCodeFormat": "##### #####",
+"PostCodeRegex": "^\\d{5}-\\d{5}$",
 "Languages": [
 "ar-AE",
 "fa",
@@ -229,6 +231,8 @@
 "CurrencyCode": "AUD",
 "CurrencyName": "Dollar",
 "PhonePrefix": "61",
+"PostCodeFormat": "####",
+"PostCodeRegex": "^(\\d{4})$",
 "Languages": [
 "ms-CC",
 "en"
@@ -268,7 +272,9 @@
 "TopLevelDomain": ".hm",
 "CurrencyCode": "AUD",
 "CurrencyName": "Dollar",
-"PhonePrefix": ""
+"PhonePrefix": "",
+"PostCodeFormat": "####",
+"PostCodeRegex": "^(\\d{4})$"
 },
 {
 "Name": "Kiribati",
@@ -323,6 +329,8 @@
 "CurrencyCode": "AUD",
 "CurrencyName": "Dollar",
 "PhonePrefix": "674",
+"PostCodeFormat": "NRU68",
+"PostCodeRegex": "NRU68",
 "Languages": [
 "na",
 "en-NR"
@@ -385,7 +393,7 @@
 "CurrencyName": "Manat",
 "PhonePrefix": "994",
 "PostCodeFormat": "AZ ####",
-"PostCodeRegex": "^(?:AZ)*(\\d{4})$",
+"PostCodeRegex": "^(?:AZ )*(\\d{4})$",
 "Languages": [
 "az",
 "ru",
@@ -1927,6 +1935,8 @@
 "CurrencyCode": "FKP",
 "CurrencyName": "Pound",
 "PhonePrefix": "500",
+"PostCodeFormat": "FIQQ 1ZZ",
+"PostCodeRegex": "FIQQ 1ZZ",
 "Languages": [
 "en-FK"
 ]
@@ -1987,6 +1997,8 @@
 "TopLevelDomain": ".gs",
 "CurrencyCode": "GBP",
 "CurrencyName": "Pound",
+"PostCodeFormat": "SIQQ 1ZZ",
+"PostCodeRegex": "SIQQ 1ZZ",
 "Languages": [
 "en"
 ]
@@ -2092,6 +2104,8 @@
 "CurrencyCode": "GIP",
 "CurrencyName": "Pound",
 "PhonePrefix": "350",
+"PostCodeFormat": "GX11 1AA",
+"PostCodeRegex": "GX11 1AA",
 "Languages": [
 "en-GI",
 "es",
@@ -2191,6 +2205,8 @@
 "CurrencyCode": "HKD",
 "CurrencyName": "Dollar",
 "PhonePrefix": "852",
+"PostCodeFormat": "######",
+"PostCodeRegex": "^(\\d{6})$",
 "Languages": [
 "zh-HK",
 "yue",
@@ -2976,6 +2992,8 @@
 "CurrencyCode": "MOP",
 "CurrencyName": "Pataca",
 "PhonePrefix": "853",
+"PostCodeFormat": "######",
+"PostCodeRegex": "^(\\d{6})$",
 "Languages": [
 "zh",
 "zh-MO",
@@ -3316,6 +3334,8 @@
 "CurrencyCode": "NZD",
 "CurrencyName": "Dollar",
 "PhonePrefix": "683",
+"PostCodeFormat": "####",
+"PostCodeRegex": "^(\\d{4})$",
 "Languages": [
 "niu",
 "en-NU"
@@ -3356,6 +3376,8 @@
 "CurrencyCode": "NZD",
 "CurrencyName": "Dollar",
 "PhonePrefix": "870",
+"PostCodeFormat": "PCRN 1ZZ",
+"PostCodeRegex": "PCRN 1ZZ",
 "Languages": [
 "en-PN"
 ]
@@ -3630,8 +3652,8 @@
 "CurrencyCode": "RSD",
 "CurrencyName": "Dinar",
 "PhonePrefix": "381",
-"PostCodeFormat": "######",
-"PostCodeRegex": "^(\\d{6})$",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{5})$",
 "Languages": [
 "sr",
 "hu",
@@ -4378,6 +4400,8 @@
 "CurrencyCode": "USD",
 "CurrencyName": "Dollar",
 "PhonePrefix": "246",
+"PostCodeFormat": "BBND 1ZZ",
+"PostCodeRegex": "BBND 1ZZ",
 "Languages": [
 "en-IO"
 ]
@@ -4732,6 +4756,8 @@
 "CurrencyCode": "WST",
 "CurrencyName": "Tala",
 "PhonePrefix": "685",
+"PostCodeFormat": "AS 96799",
+"PostCodeRegex": "AS 96799",
 "Languages": [
 "sm",
 "en-WS"
@@ -4849,6 +4875,8 @@
 "CurrencyCode": "XAF",
 "CurrencyName": "Franc",
 "PhonePrefix": "235",
+"PostCodeFormat": "TKCA 1ZZ",
+"PostCodeRegex": "^(TKCA 1ZZ)$",
 "Languages": [
 "fr-TD",
 "ar-TD",
@@ -4887,6 +4915,8 @@
 "CurrencyCode": "XCD",
 "CurrencyName": "Dollar",
 "PhonePrefix": "+1-264",
+"PostCodeFormat": "AI-####",
+"PostCodeRegex": "^(?:AZ)*(\\d{4})$",
 "Languages": [
 "en-AI"
 ]
