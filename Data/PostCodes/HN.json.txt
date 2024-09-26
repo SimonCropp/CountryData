@@ -1,0 +1,574 @@
+[
+{
+"Name": "Atlántida",
+"Code": "01",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "La Ceiba",
+"PostCode": "31101",
+"Location": {
+"Latitude": 15.7667,
+"Longitude": -86.8333
+}
+},
+{
+"Name": "Tela",
+"PostCode": "31301",
+"Location": {
+"Latitude": 15.7743,
+"Longitude": -87.4673
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Choluteca",
+"Code": "02",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "Choluteca",
+"PostCode": "51101",
+"Location": {
+"Latitude": 13.3003,
+"Longitude": -87.1908
+}
+},
+{
+"Name": "Pespire",
+"PostCode": "51201",
+"Location": {
+"Latitude": 13.5922,
+"Longitude": -87.3617
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Colon",
+"Code": "03",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "Tocoa",
+"PostCode": "32301",
+"Location": {
+"Latitude": 15.6833,
+"Longitude": -86.0
+}
+},
+{
+"Name": "Trujillo",
+"PostCode": "32101",
+"Location": {
+"Latitude": 15.9167,
+"Longitude": -85.9542
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Comayagua",
+"Code": "04",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "Comayagua",
+"PostCode": "12101",
+"Location": {
+"Latitude": 14.4514,
+"Longitude": -87.6375
+}
+},
+{
+"Name": "Siguatepeque",
+"PostCode": "12111",
+"Location": {
+"Latitude": 14.5969,
+"Longitude": -87.831
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Copán",
+"Code": "05",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "La Entrada",
+"PostCode": "41202",
+"Location": {
+"Latitude": 15.0638,
+"Longitude": -88.7463
+}
+},
+{
+"Name": "Santa Rosa de Copan",
+"PostCode": "41101",
+"Location": {
+"Latitude": 14.7667,
+"Longitude": -88.7792
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Cortés",
+"Code": "06",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "Choloma",
+"PostCode": "21112",
+"Location": {
+"Latitude": 15.6144,
+"Longitude": -87.953
+}
+},
+{
+"Name": "Puerto Cortes",
+"PostCode": "21301",
+"Location": {
+"Latitude": 15.8256,
+"Longitude": -87.9297
+}
+}
+]
+}
+]
+},
+{
+"Name": "San Pedro Sula",
+"Code": "0501",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Sector N.E.",
+"PostCode": "21101",
+"Location": {
+"Latitude": 15.5326,
+"Longitude": -88.0104
+}
+},
+{
+"Name": "Sector N.O.",
+"PostCode": "21102",
+"Location": {
+"Latitude": 15.5677,
+"Longitude": -88.0138
+}
+},
+{
+"Name": "Sector S.E.",
+"PostCode": "21103",
+"Location": {
+"Latitude": 15.4839,
+"Longitude": -87.9908
+}
+},
+{
+"Name": "Sector S.O.",
+"PostCode": "21104",
+"Location": {
+"Latitude": 15.4902,
+"Longitude": -88.042
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "El Paraiso",
+"Code": "07",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "Danli",
+"PostCode": "13201",
+"Location": {
+"Latitude": 14.0333,
+"Longitude": -86.5833
+}
+},
+{
+"Name": "Yuscaran",
+"PostCode": "13101",
+"Location": {
+"Latitude": 13.9439,
+"Longitude": -86.8528
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Francisco Morazan",
+"Code": "08",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "Comayaguela",
+"PostCode": "12101",
+"Location": {
+"Latitude": 14.0867,
+"Longitude": -87.2292
+}
+},
+{
+"Name": "Tegucigalpa",
+"PostCode": "11101",
+"Location": {
+"Latitude": 14.0818,
+"Longitude": -87.2068
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Gracias a Dios",
+"Code": "09",
+"PostCode": "33101",
+"Provinces": [
+{
+"PostCode": "33101",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Puerto Lempira",
+"PostCode": "33101",
+"Location": {
+"Latitude": 15.2667,
+"Longitude": -83.7722
+}
+}
+],
+"PostCode": "33101"
+}
+]
+}
+]
+},
+{
+"Name": "Intibuca",
+"Code": "10",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "Jesus de Otoro",
+"PostCode": "14201",
+"Location": {
+"Latitude": 14.4878,
+"Longitude": -87.9818
+}
+},
+{
+"Name": "La Esperanza",
+"PostCode": "14101",
+"Location": {
+"Latitude": 14.3111,
+"Longitude": -88.1806
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Islas de la Bahía",
+"Code": "11",
+"PostCode": "34101",
+"Provinces": [
+{
+"PostCode": "34101",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Roatan",
+"PostCode": "34101",
+"Location": {
+"Latitude": 16.3229,
+"Longitude": -86.5361
+}
+}
+],
+"PostCode": "34101"
+}
+]
+}
+]
+},
+{
+"Name": "La Paz",
+"Code": "12",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "La Paz",
+"PostCode": "15101",
+"Location": {
+"Latitude": 14.3194,
+"Longitude": -87.6792
+}
+},
+{
+"Name": "Marcala",
+"PostCode": "15201",
+"Location": {
+"Latitude": 14.1566,
+"Longitude": -88.0347
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Lempira",
+"Code": "13",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "Erandique",
+"PostCode": "42201",
+"Location": {
+"Latitude": 14.2379,
+"Longitude": -88.4645
+}
+},
+{
+"Name": "Gracias",
+"PostCode": "42101",
+"Location": {
+"Latitude": 14.5903,
+"Longitude": -88.5819
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Ocotepeque",
+"Code": "14",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "Ocotepeque",
+"PostCode": "43101",
+"Location": {
+"Latitude": 14.4333,
+"Longitude": -89.1833
+}
+},
+{
+"Name": "San Marcos de Ocotepeque",
+"PostCode": "43201",
+"Location": {
+"Latitude": 14.4079,
+"Longitude": -88.9553
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Olancho",
+"Code": "15",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "Catacamas",
+"PostCode": "16201",
+"Location": {
+"Latitude": 14.8511,
+"Longitude": -85.8941
+}
+},
+{
+"Name": "Juticalpa",
+"PostCode": "16101",
+"Location": {
+"Latitude": 14.6667,
+"Longitude": -86.2194
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Santa Barbara",
+"Code": "16",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "Santa Barbara",
+"PostCode": "22101",
+"Location": {
+"Latitude": 14.9194,
+"Longitude": -88.2361
+}
+},
+{
+"Name": "Trinidad",
+"PostCode": "22114",
+"Location": {
+"Latitude": 15.1424,
+"Longitude": -88.2332
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Valle",
+"Code": "17",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "Nacaome",
+"PostCode": "52101",
+"Location": {
+"Latitude": 13.5361,
+"Longitude": -87.4875
+}
+},
+{
+"Name": "San Lorenzo",
+"PostCode": "52102",
+"Location": {
+"Latitude": 13.4242,
+"Longitude": -87.4472
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"Name": "Yoro",
+"Code": "18",
+"Provinces": [
+{
+"Communities": [
+{
+"Places": [
+{
+"Name": "El Progreso",
+"PostCode": "23201",
+"Location": {
+"Latitude": 15.4,
+"Longitude": -87.8
+}
+},
+{
+"Name": "Yoro",
+"PostCode": "23101",
+"Location": {
+"Latitude": 15.1375,
+"Longitude": -87.1278
+}
+}
+]
+}
+]
+}
+]
+}
+]

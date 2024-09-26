@@ -102,6 +102,8 @@ public partial class CountryDataSet
         CountryLoader.LoadHongKongLocationData();
     public static ICountry HeardIslandAndMcdonaldIslands() =>
         CountryLoader.LoadHeardIslandAndMcdonaldIslandsLocationData();
+    public static ICountry Honduras() =>
+        CountryLoader.LoadHondurasLocationData();
     public static ICountry Croatia() =>
         CountryLoader.LoadCroatiaLocationData();
     public static ICountry Haiti() =>
@@ -124,6 +126,8 @@ public partial class CountryDataSet
         CountryLoader.LoadJerseyLocationData();
     public static ICountry Japan() =>
         CountryLoader.LoadJapanLocationData();
+    public static ICountry Kenya() =>
+        CountryLoader.LoadKenyaLocationData();
     public static ICountry SouthKorea() =>
         CountryLoader.LoadSouthKoreaLocationData();
     public static ICountry Liechtenstein() =>

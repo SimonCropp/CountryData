@@ -102,6 +102,8 @@ public static partial class CountryLoader
         LoadLocationData("HK");
     public static ICountry LoadHeardIslandAndMcdonaldIslandsLocationData() =>
         LoadLocationData("HM");
+    public static ICountry LoadHondurasLocationData() =>
+        LoadLocationData("HN");
     public static ICountry LoadCroatiaLocationData() =>
         LoadLocationData("HR");
     public static ICountry LoadHaitiLocationData() =>
@@ -124,6 +126,8 @@ public static partial class CountryLoader
         LoadLocationData("JE");
     public static ICountry LoadJapanLocationData() =>
         LoadLocationData("JP");
+    public static ICountry LoadKenyaLocationData() =>
+        LoadLocationData("KE");
     public static ICountry LoadSouthKoreaLocationData() =>
         LoadLocationData("KR");
     public static ICountry LoadLiechtensteinLocationData() =>

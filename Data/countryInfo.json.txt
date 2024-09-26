@@ -2228,8 +2228,8 @@
 "CurrencyCode": "HNL",
 "CurrencyName": "Lempira",
 "PhonePrefix": "504",
-"PostCodeFormat": "@@####",
-"PostCodeRegex": "^([A-Z]{2}\\d{4})$",
+"PostCodeFormat": "#####",
+"PostCodeRegex": "^(\\d{6})$",
 "Languages": [
 "es-HN",
 "cab",
