@@ -9,7 +9,7 @@
 
         var countryInfos = await SyncCountryInfo();
 
-        await Downloader.DownloadFile(allZipPath, "http://download.geonames.org/export/zip/allCountries.zip");
+        await Downloader.DownloadFile(allZipPath, "https://download.geonames.org/export/zip/allCountries.zip");
 
         var allCountriesTxtPath = Path.Combine(DataLocations.TempPath, "allCountries.txt");
         File.Delete(allCountriesTxtPath);
