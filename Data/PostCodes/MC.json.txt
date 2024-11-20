@@ -10,10 +10,18 @@
 "PostCode": "98000",
 "Communities": [
 {
-"Name": "La Condamine",
+"Name": "Larvotto",
 "Places": [
 {
-"Name": "Condamine",
+"Name": "Anse du Portier",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7417,
+"Longitude": 7.4322
+}
+},
+{
+"Name": "Jardin Japonais",
 "PostCode": "98000",
 "Location": {
 "Latitude": 43.7333,
@@ -21,27 +29,35 @@
 }
 },
 {
-"Name": "La Condamine",
+"Name": "Larvotto",
 "PostCode": "98000",
 "Location": {
 "Latitude": 43.7333,
-"Longitude": 7.4167
+"Longitude": 7.4333
 }
 },
 {
-"Name": "Port de La Condamine",
+"Name": "Plage du Larvotto",
 "PostCode": "98000",
 "Location": {
-"Latitude": 43.7361,
-"Longitude": 7.425
+"Latitude": 43.7333,
+"Longitude": 7.4333
 }
 },
 {
-"Name": "Port de Monaco",
+"Name": "Pointe Saint-Antoine",
 "PostCode": "98000",
 "Location": {
-"Latitude": 43.7361,
-"Longitude": 7.425
+"Latitude": 43.7333,
+"Longitude": 7.4278
+}
+},
+{
+"Name": "Réserve Sous-marine du Larvotto",
+"PostCode": "98000",
+"Location": {
+"Latitude": 43.7458,
+"Longitude": 7.4394
 }
 }
 ],
@@ -186,18 +202,10 @@
 "PostCode": "98000"
 },
 {
-"Name": "Larvotto",
+"Name": "La Condamine",
 "Places": [
 {
-"Name": "Anse du Portier",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7417,
-"Longitude": 7.4322
-}
-},
-{
-"Name": "Jardin Japonais",
+"Name": "Condamine",
 "PostCode": "98000",
 "Location": {
 "Latitude": 43.7333,
@@ -205,35 +213,27 @@
 }
 },
 {
-"Name": "Larvotto",
+"Name": "La Condamine",
 "PostCode": "98000",
 "Location": {
 "Latitude": 43.7333,
-"Longitude": 7.4333
+"Longitude": 7.4167
 }
 },
 {
-"Name": "Plage du Larvotto",
+"Name": "Port de La Condamine",
 "PostCode": "98000",
 "Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4333
+"Latitude": 43.7361,
+"Longitude": 7.425
 }
 },
 {
-"Name": "Pointe Saint-Antoine",
+"Name": "Port de Monaco",
 "PostCode": "98000",
 "Location": {
-"Latitude": 43.7333,
-"Longitude": 7.4278
-}
-},
-{
-"Name": "Réserve Sous-marine du Larvotto",
-"PostCode": "98000",
-"Location": {
-"Latitude": 43.7458,
-"Longitude": 7.4394
+"Latitude": 43.7361,
+"Longitude": 7.425
 }
 }
 ],

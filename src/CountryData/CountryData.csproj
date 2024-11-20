@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFrameworks>net8.0;net9.0</TargetFrameworks>
     <Description>Provides a .net wrapper around the [GeoNames Data](https://www.geonames.org/).</Description>
   </PropertyGroup>
   <ItemGroup>
