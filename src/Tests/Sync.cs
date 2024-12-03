@@ -1,4 +1,5 @@
-﻿public class Sync
+﻿#if NET9_0
+public class Sync
 {
     [Fact]
     [Trait("Category", "Integration")]
@@ -205,3 +206,4 @@
     static List<State> ProcessCountry(string country, List<PostCodeRow> rows, string directory) =>
         CountrySerializer.Serialize(country, rows, directory);
 }
+#endif
