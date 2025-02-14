@@ -3895,26 +3895,6 @@
 ]
 },
 {
-"Name": "Sierra Leone",
-"Iso": "SL",
-"Iso3": "SLE",
-"IsoNumeric": 694,
-"Fips": "SL",
-"Capital": "Freetown",
-"Area": 71740.0,
-"Population": 7650154,
-"Continent": "AF",
-"TopLevelDomain": ".sl",
-"CurrencyCode": "SLL",
-"CurrencyName": "Leone",
-"PhonePrefix": "232",
-"Languages": [
-"en-SL",
-"men",
-"tem"
-]
-},
-{
 "Name": "Somalia",
 "Iso": "SO",
 "Iso3": "SOM",
@@ -3993,6 +3973,26 @@
 "PhonePrefix": "239",
 "Languages": [
 "pt-ST"
+]
+},
+{
+"Name": "Sierra Leone",
+"Iso": "SL",
+"Iso3": "SLE",
+"IsoNumeric": 694,
+"Fips": "SL",
+"Capital": "Freetown",
+"Area": 71740.0,
+"Population": 7650154,
+"Continent": "AF",
+"TopLevelDomain": ".sl",
+"CurrencyCode": "SLE",
+"CurrencyName": "Leone",
+"PhonePrefix": "232",
+"Languages": [
+"en-SL",
+"men",
+"tem"
 ]
 },
 {
@@ -5342,8 +5342,8 @@
 "Population": 14439018,
 "Continent": "AF",
 "TopLevelDomain": ".zw",
-"CurrencyCode": "ZWL",
-"CurrencyName": "Dollar",
+"CurrencyCode": "ZWG",
+"CurrencyName": "Zimbabwe Gold",
 "PhonePrefix": "263",
 "Languages": [
 "en-ZW",

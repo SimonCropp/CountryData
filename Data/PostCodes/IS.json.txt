@@ -10,7 +10,7 @@
 "PostCode": "300",
 "Location": {
 "Latitude": 64.3218,
-"Longitude": -22.075
+"Longitude": -22.0749
 }
 },
 {
@@ -18,15 +18,15 @@
 "PostCode": "301",
 "Location": {
 "Latitude": 64.3218,
-"Longitude": -22.075
+"Longitude": -22.0749
 }
 },
 {
 "Name": "Akranesi",
 "PostCode": "302",
 "Location": {
-"Latitude": 64.3263,
-"Longitude": -22.0563
+"Latitude": 64.3218,
+"Longitude": -22.0749
 }
 },
 {
@@ -49,16 +49,48 @@
 "Name": "Akureyri",
 "PostCode": "602",
 "Location": {
-"Latitude": 65.683,
-"Longitude": -18.0908
+"Latitude": 65.6835,
+"Longitude": -18.0878
 }
 },
 {
 "Name": "Akureyri",
 "PostCode": "603",
 "Location": {
-"Latitude": 65.6929,
-"Longitude": -18.1186
+"Latitude": 65.6835,
+"Longitude": -18.0878
+}
+},
+{
+"Name": "Akureyri",
+"PostCode": "604",
+"Location": {
+"Latitude": 65.6835,
+"Longitude": -18.0878
+}
+},
+{
+"Name": "Akureyri",
+"PostCode": "605",
+"Location": {
+"Latitude": 65.6835,
+"Longitude": -18.0878
+}
+},
+{
+"Name": "Akureyri",
+"PostCode": "606",
+"Location": {
+"Latitude": 65.6835,
+"Longitude": -18.0878
+}
+},
+{
+"Name": "Akureyri",
+"PostCode": "607",
+"Location": {
+"Latitude": 65.6835,
+"Longitude": -18.0878
 }
 },
 {
@@ -78,8 +110,24 @@
 }
 },
 {
+"Name": "Bakkafjörður",
+"PostCode": "686",
+"Location": {
+"Latitude": 66.0377,
+"Longitude": -14.7931
+}
+},
+{
 "Name": "Bíldudal",
 "PostCode": "465",
+"Location": {
+"Latitude": 65.6853,
+"Longitude": -23.5999
+}
+},
+{
+"Name": "Bíldudalur",
+"PostCode": "466",
 "Location": {
 "Latitude": 65.6853,
 "Longitude": -23.5999
@@ -110,8 +158,24 @@
 }
 },
 {
+"Name": "Bolungarvík",
+"PostCode": "416",
+"Location": {
+"Latitude": 66.1592,
+"Longitude": -23.2494
+}
+},
+{
 "Name": "Borgarfirði (eystri)",
 "PostCode": "720",
+"Location": {
+"Latitude": 65.5255,
+"Longitude": -13.8038
+}
+},
+{
+"Name": "Borgarfjörður eystri",
+"PostCode": "721",
 "Location": {
 "Latitude": 65.5255,
 "Longitude": -13.8038
@@ -136,6 +200,14 @@
 {
 "Name": "Breiðdalsvík",
 "PostCode": "760",
+"Location": {
+"Latitude": 64.7921,
+"Longitude": -14.0065
+}
+},
+{
+"Name": "Breiðdalsvík",
+"PostCode": "761",
 "Location": {
 "Latitude": 64.7921,
 "Longitude": -14.0065
@@ -182,6 +254,14 @@
 }
 },
 {
+"Name": "Djúpivogur",
+"PostCode": "766",
+"Location": {
+"Latitude": 64.6571,
+"Longitude": -14.2852
+}
+},
+{
 "Name": "Drangsnesi",
 "PostCode": "520",
 "Location": {
@@ -214,6 +294,14 @@
 }
 },
 {
+"Name": "Eskifjörður",
+"PostCode": "736",
+"Location": {
+"Latitude": 65.0731,
+"Longitude": -14.0152
+}
+},
+{
 "Name": "Eyrarbakka",
 "PostCode": "820",
 "Location": {
@@ -230,11 +318,19 @@
 }
 },
 {
+"Name": "Fáskrúðsfjörður",
+"PostCode": "751",
+"Location": {
+"Latitude": 64.9313,
+"Longitude": -14.0189
+}
+},
+{
 "Name": "Flatey á Breiðafirði",
 "PostCode": "345",
 "Location": {
-"Latitude": 65.3759,
-"Longitude": -22.9179
+"Latitude": 65.0754,
+"Longitude": -22.7298
 }
 },
 {
@@ -246,11 +342,27 @@
 }
 },
 {
+"Name": "Flateyri",
+"PostCode": "426",
+"Location": {
+"Latitude": 66.0512,
+"Longitude": -23.5155
+}
+},
+{
 "Name": "Fljótum",
 "PostCode": "570",
 "Location": {
-"Latitude": 66.0514,
-"Longitude": -19.0166
+"Latitude": 66.0541,
+"Longitude": -19.1277
+}
+},
+{
+"Name": "Flúðir",
+"PostCode": "846",
+"Location": {
+"Latitude": 64.1343,
+"Longitude": -20.3226
 }
 },
 {
@@ -265,37 +377,53 @@
 "Name": "Fosshólli",
 "PostCode": "645",
 "Location": {
-"Latitude": 65.6859,
-"Longitude": -17.5386
+"Latitude": 66.0415,
+"Longitude": -17.3383
 }
 },
 {
 "Name": "Garðabæ",
 "PostCode": "210",
 "Location": {
-"Latitude": 64.0891,
-"Longitude": -21.9163
+"Latitude": 64.0887,
+"Longitude": -21.923
 }
 },
 {
 "Name": "Garðabæ",
 "PostCode": "212",
 "Location": {
-"Latitude": 64.091,
-"Longitude": -21.9255
+"Latitude": 64.0887,
+"Longitude": -21.923
 }
 },
 {
 "Name": "Garði",
 "PostCode": "250",
 "Location": {
-"Latitude": 64.0699,
-"Longitude": -22.6511
+"Latitude": 64.0705,
+"Longitude": -22.6513
+}
+},
+{
+"Name": "Garður",
+"PostCode": "251",
+"Location": {
+"Latitude": 64.0705,
+"Longitude": -22.6513
 }
 },
 {
 "Name": "Grenivík",
 "PostCode": "610",
+"Location": {
+"Latitude": 65.951,
+"Longitude": -18.1749
+}
+},
+{
+"Name": "Grenivík",
+"PostCode": "616",
 "Location": {
 "Latitude": 65.951,
 "Longitude": -18.1749
@@ -313,8 +441,16 @@
 "Name": "Grindavík",
 "PostCode": "240",
 "Location": {
-"Latitude": 63.8394,
-"Longitude": -22.4383
+"Latitude": 63.8385,
+"Longitude": -22.4393
+}
+},
+{
+"Name": "Grindavík",
+"PostCode": "241",
+"Location": {
+"Latitude": 63.8385,
+"Longitude": -22.4393
 }
 },
 {
@@ -326,27 +462,35 @@
 }
 },
 {
+"Name": "Grundarfjörður",
+"PostCode": "351",
+"Location": {
+"Latitude": 64.9243,
+"Longitude": -23.2631
+}
+},
+{
 "Name": "Hafnarfirði",
 "PostCode": "220",
 "Location": {
-"Latitude": 64.0669,
-"Longitude": -21.9529
+"Latitude": 64.0671,
+"Longitude": -21.9377
 }
 },
 {
 "Name": "Hafnarfirði",
 "PostCode": "221",
 "Location": {
-"Latitude": 64.0573,
-"Longitude": -21.9474
+"Latitude": 64.0671,
+"Longitude": -21.9377
 }
 },
 {
 "Name": "Hafnarfirði",
 "PostCode": "222",
 "Location": {
-"Latitude": 64.068,
-"Longitude": -21.9566
+"Latitude": 64.0671,
+"Longitude": -21.9377
 }
 },
 {
@@ -416,6 +560,14 @@
 {
 "Name": "Hólmavík",
 "PostCode": "510",
+"Location": {
+"Latitude": 65.7077,
+"Longitude": -21.6706
+}
+},
+{
+"Name": "Hólmavík",
+"PostCode": "511",
 "Location": {
 "Latitude": 65.7077,
 "Longitude": -21.6706
@@ -513,8 +665,8 @@
 "Name": "Keflavíkurflugvelli",
 "PostCode": "235",
 "Location": {
-"Latitude": 63.9742,
-"Longitude": -22.577
+"Latitude": 63.9981,
+"Longitude": -22.5611
 }
 },
 {
@@ -526,11 +678,19 @@
 }
 },
 {
+"Name": "Kirkjubæjarklaustur",
+"PostCode": "881",
+"Location": {
+"Latitude": 63.7893,
+"Longitude": -18.0527
+}
+},
+{
 "Name": "Kjalarnesi",
 "PostCode": "116",
 "Location": {
-"Latitude": 64.2406,
-"Longitude": -21.8367
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
@@ -545,40 +705,48 @@
 "Name": "Kópaskeri",
 "PostCode": "671",
 "Location": {
-"Latitude": 66.2984,
-"Longitude": -16.4304
+"Latitude": 66.3018,
+"Longitude": -16.4445
 }
 },
 {
 "Name": "Kópavogi",
 "PostCode": "200",
 "Location": {
-"Latitude": 64.1114,
-"Longitude": -21.8973
+"Latitude": 64.1123,
+"Longitude": -21.913
 }
 },
 {
 "Name": "Kópavogi",
 "PostCode": "201",
 "Location": {
-"Latitude": 64.099,
-"Longitude": -21.8749
+"Latitude": 64.1123,
+"Longitude": -21.913
 }
 },
 {
 "Name": "Kópavogi",
 "PostCode": "202",
 "Location": {
-"Latitude": 64.1057,
-"Longitude": -21.8702
+"Latitude": 64.1123,
+"Longitude": -21.913
 }
 },
 {
 "Name": "Kópavogi",
 "PostCode": "203",
 "Location": {
-"Latitude": 64.0885,
-"Longitude": -21.8312
+"Latitude": 64.1123,
+"Longitude": -21.913
+}
+},
+{
+"Name": "Kópavogur",
+"PostCode": "206",
+"Location": {
+"Latitude": 64.1123,
+"Longitude": -21.913
 }
 },
 {
@@ -593,16 +761,16 @@
 "Name": "Laugum",
 "PostCode": "650",
 "Location": {
-"Latitude": 65.7215,
-"Longitude": -17.3606
+"Latitude": 65.7216,
+"Longitude": -17.3735
 }
 },
 {
 "Name": "Mjóafirði",
 "PostCode": "715",
 "Location": {
-"Latitude": 65.1885,
-"Longitude": -14.0326
+"Latitude": 65.2601,
+"Longitude": -14.0058
 }
 },
 {
@@ -610,7 +778,7 @@
 "PostCode": "270",
 "Location": {
 "Latitude": 64.1667,
-"Longitude": -21.6977
+"Longitude": -21.7
 }
 },
 {
@@ -618,23 +786,23 @@
 "PostCode": "271",
 "Location": {
 "Latitude": 64.1667,
-"Longitude": -21.6977
+"Longitude": -21.7
 }
 },
 {
 "Name": "Mosfellsbæ",
 "PostCode": "276",
 "Location": {
-"Latitude": 64.3015,
-"Longitude": -21.7845
+"Latitude": 64.1667,
+"Longitude": -21.7
 }
 },
 {
 "Name": "Mývatni",
 "PostCode": "660",
 "Location": {
-"Latitude": 65.6207,
-"Longitude": -16.9823
+"Latitude": 65.6421,
+"Longitude": -16.9124
 }
 },
 {
@@ -646,16 +814,32 @@
 }
 },
 {
+"Name": "Neskaupstaður",
+"PostCode": "741",
+"Location": {
+"Latitude": 65.1482,
+"Longitude": -13.6837
+}
+},
+{
 "Name": "Norðurfirði",
 "PostCode": "524",
 "Location": {
-"Latitude": 66.0079,
-"Longitude": -21.5346
+"Latitude": 65.6892,
+"Longitude": -21.4435
 }
 },
 {
 "Name": "Ólafsfirði",
 "PostCode": "625",
+"Location": {
+"Latitude": 66.0025,
+"Longitude": -18.5671
+}
+},
+{
+"Name": "Ólafsfjörður",
+"PostCode": "626",
 "Location": {
 "Latitude": 66.0672,
 "Longitude": -18.644
@@ -670,11 +854,19 @@
 }
 },
 {
+"Name": "Ölfus",
+"PostCode": "816",
+"Location": {
+"Latitude": 63.8559,
+"Longitude": -21.3834
+}
+},
+{
 "Name": "Öræfum",
 "PostCode": "785",
 "Location": {
-"Latitude": 63.8873,
-"Longitude": -16.6965
+"Latitude": 64.2539,
+"Longitude": -15.2121
 }
 },
 {
@@ -702,8 +894,24 @@
 }
 },
 {
+"Name": "Raufarhöfn",
+"PostCode": "676",
+"Location": {
+"Latitude": 66.4543,
+"Longitude": -15.9511
+}
+},
+{
 "Name": "Reyðarfirði",
 "PostCode": "730",
+"Location": {
+"Latitude": 65.0316,
+"Longitude": -14.2183
+}
+},
+{
+"Name": "Reyðarfjörður",
+"PostCode": "731",
 "Location": {
 "Latitude": 65.0316,
 "Longitude": -14.2183
@@ -718,6 +926,14 @@
 }
 },
 {
+"Name": "Reykhólahreppur",
+"PostCode": "381",
+"Location": {
+"Latitude": 65.4833,
+"Longitude": -22.3667
+}
+},
+{
 "Name": "Reykholt í Borgarfirði",
 "PostCode": "320",
 "Location": {
@@ -729,216 +945,256 @@
 "Name": "Reykjanesbæ",
 "PostCode": "230",
 "Location": {
-"Latitude": 64.0026,
-"Longitude": -22.5632
+"Latitude": 63.9981,
+"Longitude": -22.5611
 }
 },
 {
 "Name": "Reykjanesbæ",
 "PostCode": "232",
 "Location": {
-"Latitude": 63.9961,
-"Longitude": -22.548
+"Latitude": 63.9981,
+"Longitude": -22.5611
 }
 },
 {
 "Name": "Reykjanesbæ",
 "PostCode": "233",
 "Location": {
-"Latitude": 63.9796,
-"Longitude": -22.5438
+"Latitude": 63.9981,
+"Longitude": -22.5611
 }
 },
 {
 "Name": "Reykjanesbæ",
 "PostCode": "260",
 "Location": {
-"Latitude": 63.9739,
-"Longitude": -22.5208
+"Latitude": 63.9981,
+"Longitude": -22.5611
+}
+},
+{
+"Name": "Reykjanesbær",
+"PostCode": "262",
+"Location": {
+"Latitude": 63.9981,
+"Longitude": -22.5611
+}
+},
+{
+"Name": "Reykjavík",
+"PostCode": "102",
+"Location": {
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík",
 "PostCode": "150",
 "Location": {
-"Latitude": 64.1256,
-"Longitude": -21.8061
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík",
 "PostCode": "155",
 "Location": {
-"Latitude": 64.1256,
-"Longitude": -21.8061
+"Latitude": 64.1355,
+"Longitude": -21.8954
+}
+},
+{
+"Name": "Reykjavík",
+"PostCode": "161",
+"Location": {
+"Latitude": 64.1355,
+"Longitude": -21.8954
+}
+},
+{
+"Name": "Reykjavík",
+"PostCode": "162",
+"Location": {
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 1",
 "PostCode": "101",
 "Location": {
-"Latitude": 64.1432,
-"Longitude": -21.9466
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 1",
 "PostCode": "121",
 "Location": {
-"Latitude": 64.1476,
-"Longitude": -21.9383
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 10",
 "PostCode": "110",
 "Location": {
-"Latitude": 64.1251,
-"Longitude": -21.8197
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 10",
 "PostCode": "130",
 "Location": {
-"Latitude": 64.1182,
-"Longitude": -21.7967
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 11",
 "PostCode": "111",
 "Location": {
-"Latitude": 64.1054,
-"Longitude": -21.8166
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 12",
 "PostCode": "112",
 "Location": {
-"Latitude": 64.1445,
-"Longitude": -21.7964
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 12",
 "PostCode": "132",
 "Location": {
-"Latitude": 64.1345,
-"Longitude": -21.7986
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 13",
 "PostCode": "113",
 "Location": {
-"Latitude": 64.1286,
-"Longitude": -21.7572
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 3",
 "PostCode": "103",
 "Location": {
-"Latitude": 64.1303,
-"Longitude": -21.8961
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 3",
 "PostCode": "123",
 "Location": {
-"Latitude": 64.1366,
-"Longitude": -21.8807
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 4",
 "PostCode": "104",
 "Location": {
-"Latitude": 64.1421,
-"Longitude": -21.8528
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 4",
 "PostCode": "124",
 "Location": {
-"Latitude": 64.1366,
-"Longitude": -21.8807
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 5",
 "PostCode": "105",
 "Location": {
-"Latitude": 64.1383,
-"Longitude": -21.8959
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 5",
 "PostCode": "125",
 "Location": {
-"Latitude": 64.1366,
-"Longitude": -21.8807
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 7",
 "PostCode": "107",
 "Location": {
-"Latitude": 64.1472,
-"Longitude": -21.9748
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 7",
 "PostCode": "127",
 "Location": {
-"Latitude": 64.1504,
-"Longitude": -21.9851
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 8",
 "PostCode": "108",
 "Location": {
-"Latitude": 64.1225,
-"Longitude": -21.8711
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 8",
 "PostCode": "128",
 "Location": {
-"Latitude": 64.1366,
-"Longitude": -21.8807
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 9",
 "PostCode": "109",
 "Location": {
-"Latitude": 64.1098,
-"Longitude": -21.8358
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Reykjavík - 9",
 "PostCode": "129",
 "Location": {
-"Latitude": 64.1095,
-"Longitude": -21.8428
+"Latitude": 64.1355,
+"Longitude": -21.8954
 }
 },
 {
 "Name": "Sandgerði",
 "PostCode": "245",
 "Location": {
-"Latitude": 64.0381,
-"Longitude": -22.7031
+"Latitude": 64.0376,
+"Longitude": -22.708
+}
+},
+{
+"Name": "Sandgerði",
+"PostCode": "246",
+"Location": {
+"Latitude": 64.0376,
+"Longitude": -22.708
 }
 },
 {
@@ -955,6 +1211,38 @@
 "Location": {
 "Latitude": 65.7461,
 "Longitude": -19.6394
+}
+},
+{
+"Name": "Selfoss",
+"PostCode": "803",
+"Location": {
+"Latitude": 63.9331,
+"Longitude": -20.9971
+}
+},
+{
+"Name": "Selfoss",
+"PostCode": "804",
+"Location": {
+"Latitude": 63.9331,
+"Longitude": -20.9971
+}
+},
+{
+"Name": "Selfoss",
+"PostCode": "805",
+"Location": {
+"Latitude": 63.9331,
+"Longitude": -20.9971
+}
+},
+{
+"Name": "Selfoss",
+"PostCode": "806",
+"Location": {
+"Latitude": 63.9331,
+"Longitude": -20.9971
 }
 },
 {
@@ -977,8 +1265,8 @@
 "Name": "Selfossi",
 "PostCode": "802",
 "Location": {
-"Latitude": 63.9369,
-"Longitude": -20.9949
+"Latitude": 63.9331,
+"Longitude": -20.9971
 }
 },
 {
@@ -993,8 +1281,8 @@
 "Name": "Seltjarnarnesi",
 "PostCode": "172",
 "Location": {
-"Latitude": 64.1504,
-"Longitude": -21.985
+"Latitude": 64.1531,
+"Longitude": -21.995
 }
 },
 {
@@ -1006,11 +1294,27 @@
 }
 },
 {
+"Name": "Seyðisfjörður",
+"PostCode": "711",
+"Location": {
+"Latitude": 65.2601,
+"Longitude": -14.0058
+}
+},
+{
 "Name": "Siglufirði",
 "PostCode": "580",
 "Location": {
 "Latitude": 66.152,
-"Longitude": -18.9081
+"Longitude": -18.9082
+}
+},
+{
+"Name": "Siglufjörður",
+"PostCode": "581",
+"Location": {
+"Latitude": 66.152,
+"Longitude": -18.9082
 }
 },
 {
@@ -1022,24 +1326,40 @@
 }
 },
 {
+"Name": "Skagaströnd",
+"PostCode": "546",
+"Location": {
+"Latitude": 65.8232,
+"Longitude": -20.3025
+}
+},
+{
 "Name": "Snæfellsbæ",
 "PostCode": "356",
 "Location": {
-"Latitude": 64.8943,
-"Longitude": -23.7092
+"Latitude": 64.9143,
+"Longitude": -23.4118
 }
 },
 {
 "Name": "Stað",
 "PostCode": "500",
 "Location": {
-"Latitude": 65.7681,
-"Longitude": -21.864
+"Latitude": 65.1439,
+"Longitude": -21.0593
 }
 },
 {
 "Name": "Stöðvarfirði",
 "PostCode": "755",
+"Location": {
+"Latitude": 64.833,
+"Longitude": -13.8749
+}
+},
+{
+"Name": "Stöðvarfjörður",
+"PostCode": "756",
 "Location": {
 "Latitude": 64.833,
 "Longitude": -13.8749
@@ -1062,8 +1382,32 @@
 }
 },
 {
+"Name": "Stykkishólmur",
+"PostCode": "341",
+"Location": {
+"Latitude": 65.0754,
+"Longitude": -22.7298
+}
+},
+{
+"Name": "Stykkishólmur",
+"PostCode": "342",
+"Location": {
+"Latitude": 65.0754,
+"Longitude": -22.7298
+}
+},
+{
 "Name": "Súðavík",
 "PostCode": "420",
+"Location": {
+"Latitude": 66.0383,
+"Longitude": -22.9859
+}
+},
+{
+"Name": "Súðavík",
+"PostCode": "421",
 "Location": {
 "Latitude": 66.0383,
 "Longitude": -22.9859
@@ -1078,8 +1422,24 @@
 }
 },
 {
+"Name": "Suðureyri",
+"PostCode": "431",
+"Location": {
+"Latitude": 66.1304,
+"Longitude": -23.528
+}
+},
+{
 "Name": "Tálknafirði",
 "PostCode": "460",
+"Location": {
+"Latitude": 65.6265,
+"Longitude": -23.8246
+}
+},
+{
+"Name": "Tálknafjörður",
+"PostCode": "461",
 "Location": {
 "Latitude": 65.6265,
 "Longitude": -23.8246
@@ -1089,8 +1449,16 @@
 "Name": "Varmahlíð",
 "PostCode": "560",
 "Location": {
-"Latitude": 65.5526,
-"Longitude": -19.4465
+"Latitude": 65.553,
+"Longitude": -19.4461
+}
+},
+{
+"Name": "Varmahlíð",
+"PostCode": "561",
+"Location": {
+"Latitude": 65.553,
+"Longitude": -19.4461
 }
 },
 {
@@ -1105,8 +1473,8 @@
 "Name": "Vestmannaeyjum",
 "PostCode": "902",
 "Location": {
-"Latitude": 63.4406,
-"Longitude": -20.267
+"Latitude": 63.4427,
+"Longitude": -20.2734
 }
 },
 {
@@ -1126,6 +1494,14 @@
 }
 },
 {
+"Name": "Vogar",
+"PostCode": "191",
+"Location": {
+"Latitude": 63.9816,
+"Longitude": -22.3847
+}
+},
+{
 "Name": "Vogum",
 "PostCode": "190",
 "Location": {
@@ -1136,6 +1512,14 @@
 {
 "Name": "Vopnafirði",
 "PostCode": "690",
+"Location": {
+"Latitude": 65.7566,
+"Longitude": -14.8278
+}
+},
+{
+"Name": "Vopnafjörður",
+"PostCode": "691",
 "Location": {
 "Latitude": 65.7566,
 "Longitude": -14.8278

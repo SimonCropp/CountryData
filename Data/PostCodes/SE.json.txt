@@ -1908,7 +1908,7 @@
 }
 },
 {
-"Name": "Ôregrund",
+"Name": "Öregrund",
 "PostCode": "742 41",
 "Location": {
 "Latitude": 60.2591,
@@ -1916,19 +1916,11 @@
 }
 },
 {
-"Name": "öregrund",
+"Name": "Öregrund",
 "PostCode": "742 42",
 "Location": {
 "Latitude": 60.2591,
 "Longitude": 18.3741
-}
-},
-{
-"Name": "Ôrsundsbro",
-"PostCode": "749 63",
-"Location": {
-"Latitude": 59.6167,
-"Longitude": 17.25
 }
 },
 {
@@ -1961,6 +1953,14 @@
 "Location": {
 "Latitude": 59.7333,
 "Longitude": 17.3
+}
+},
+{
+"Name": "Örsundsbro",
+"PostCode": "749 63",
+"Location": {
+"Latitude": 59.6167,
+"Longitude": 17.25
 }
 },
 {
@@ -46935,6 +46935,14 @@
 },
 {
 "Name": "Malmö",
+"PostCode": "211 74",
+"Location": {
+"Latitude": 55.6059,
+"Longitude": 13.0007
+}
+},
+{
+"Name": "Malmö",
 "PostCode": "211 75",
 "Location": {
 "Latitude": 55.6059,
@@ -46944,6 +46952,14 @@
 {
 "Name": "Malmö",
 "PostCode": "211 76",
+"Location": {
+"Latitude": 55.6059,
+"Longitude": 13.0007
+}
+},
+{
+"Name": "Malmö",
+"PostCode": "211 77",
 "Location": {
 "Latitude": 55.6059,
 "Longitude": 13.0007
@@ -47272,6 +47288,14 @@
 {
 "Name": "Malmö",
 "PostCode": "212 43",
+"Location": {
+"Latitude": 55.6059,
+"Longitude": 13.0007
+}
+},
+{
+"Name": "Malmö",
+"PostCode": "212 44",
 "Location": {
 "Latitude": 55.6059,
 "Longitude": 13.0007
@@ -47887,7 +47911,31 @@
 },
 {
 "Name": "Malmö",
+"PostCode": "215 32",
+"Location": {
+"Latitude": 55.6059,
+"Longitude": 13.0007
+}
+},
+{
+"Name": "Malmö",
 "PostCode": "215 33",
+"Location": {
+"Latitude": 55.6059,
+"Longitude": 13.0007
+}
+},
+{
+"Name": "Malmö",
+"PostCode": "215 34",
+"Location": {
+"Latitude": 55.6059,
+"Longitude": 13.0007
+}
+},
+{
+"Name": "Malmö",
+"PostCode": "215 35",
 "Location": {
 "Latitude": 55.6059,
 "Longitude": 13.0007
@@ -48464,54 +48512,6 @@
 {
 "Name": "Malmö",
 "PostCode": "218 44",
-"Location": {
-"Latitude": 55.6059,
-"Longitude": 13.0007
-}
-},
-{
-"Name": "Malmø",
-"PostCode": "211 74",
-"Location": {
-"Latitude": 55.6059,
-"Longitude": 13.0007
-}
-},
-{
-"Name": "Malmø",
-"PostCode": "211 77",
-"Location": {
-"Latitude": 55.6059,
-"Longitude": 13.0007
-}
-},
-{
-"Name": "Malmø",
-"PostCode": "212 44",
-"Location": {
-"Latitude": 55.6059,
-"Longitude": 13.0007
-}
-},
-{
-"Name": "Malmø",
-"PostCode": "215 32",
-"Location": {
-"Latitude": 55.6059,
-"Longitude": 13.0007
-}
-},
-{
-"Name": "Malmø",
-"PostCode": "215 34",
-"Location": {
-"Latitude": 55.6059,
-"Longitude": 13.0007
-}
-},
-{
-"Name": "Malmø",
-"PostCode": "215 35",
 "Location": {
 "Latitude": 55.6059,
 "Longitude": 13.0007
@@ -65564,14 +65564,6 @@
 }
 },
 {
-"Name": "Ôckerø",
-"PostCode": "475 31",
-"Location": {
-"Latitude": 57.6897,
-"Longitude": 11.6497
-}
-},
-{
 "Name": "Öckerö",
 "PostCode": "430 90",
 "Location": {
@@ -65598,6 +65590,14 @@
 {
 "Name": "Öckerö",
 "PostCode": "475 22",
+"Location": {
+"Latitude": 57.6897,
+"Longitude": 11.6497
+}
+},
+{
+"Name": "Öckerö",
+"PostCode": "475 31",
 "Location": {
 "Latitude": 57.6897,
 "Longitude": 11.6497
