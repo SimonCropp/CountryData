@@ -5,7 +5,7 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageVersion Include="Argon" Version="0.26.0" />
-    <PackageVersion Include="Bogus" Version="35.6.1" />
+    <PackageVersion Include="Bogus" Version="35.6.2" />
     <PackageVersion Include="MarkdownSnippets.MsBuild" Version="27.0.2" />
     <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.13.0" />
     <PackageVersion Include="ProjectDefaults" Version="1.0.147" />
