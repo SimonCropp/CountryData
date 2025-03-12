@@ -9,8 +9,6 @@
     <PackageReference Include="MarkdownSnippets.MsBuild" PrivateAssets="all" />
     <PackageReference Include="Argon" />
     <PackageReference Include="Verify.XunitV3" />
-    <PackageReference Include="System.IO.Compression" />
-    <PackageReference Include="System.Net.Http" />
     <PackageReference Include="xunit.v3" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" />
     <PackageReference Include="xunit.runner.visualstudio" PrivateAssets="all" />
