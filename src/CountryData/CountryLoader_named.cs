@@ -110,6 +110,8 @@ public static partial class CountryLoader
         LoadLocationData("HT");
     public static ICountry LoadHungaryLocationData() =>
         LoadLocationData("HU");
+    public static ICountry LoadIndonesiaLocationData() =>
+        LoadLocationData("ID");
     public static ICountry LoadIrelandLocationData() =>
         LoadLocationData("IE");
     public static ICountry LoadIsleOfManLocationData() =>

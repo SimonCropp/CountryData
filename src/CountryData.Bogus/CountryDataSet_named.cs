@@ -110,6 +110,8 @@ public partial class CountryDataSet
         CountryLoader.LoadHaitiLocationData();
     public static ICountry Hungary() =>
         CountryLoader.LoadHungaryLocationData();
+    public static ICountry Indonesia() =>
+        CountryLoader.LoadIndonesiaLocationData();
     public static ICountry Ireland() =>
         CountryLoader.LoadIrelandLocationData();
     public static ICountry IsleOfMan() =>
