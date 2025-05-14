@@ -13322,38 +13322,6 @@
 {
 "Places": [
 {
-"Name": "Ampatuan",
-"PostCode": "9609",
-"Location": {
-"Latitude": 6.8667,
-"Longitude": 124.4667
-}
-},
-{
-"Name": "Barira",
-"PostCode": "9614",
-"Location": {
-"Latitude": 7.4872,
-"Longitude": 124.2992
-}
-},
-{
-"Name": "Buldon",
-"PostCode": "9615",
-"Location": {
-"Latitude": 7.5097,
-"Longitude": 124.3714
-}
-},
-{
-"Name": "Buluan",
-"PostCode": "9616",
-"Location": {
-"Latitude": 6.8714,
-"Longitude": 124.5203
-}
-},
-{
 "Name": "Cotabato City",
 "PostCode": "9600",
 "Location": {
@@ -13410,22 +13378,6 @@
 }
 },
 {
-"Name": "Datu Paglas",
-"PostCode": "9617",
-"Location": {
-"Latitude": 6.7667,
-"Longitude": 124.85
-}
-},
-{
-"Name": "Datu Piang",
-"PostCode": "9607",
-"Location": {
-"Latitude": 7.0283,
-"Longitude": 124.5025
-}
-},
-{
 "Name": "Datu Salibo",
 "PostCode": "9625",
 "Location": {
@@ -13439,14 +13391,6 @@
 "Location": {
 "Latitude": 7.0284,
 "Longitude": 124.3873
-}
-},
-{
-"Name": "Datu Unsay",
-"PostCode": "9627",
-"Location": {
-"Latitude": 6.9186,
-"Longitude": 124.4519
 }
 },
 {
@@ -13490,51 +13434,11 @@
 }
 },
 {
-"Name": "Matanog",
-"PostCode": "9613",
-"Location": {
-"Latitude": 7.5161,
-"Longitude": 124.2564
-}
-},
-{
 "Name": "Northern Kabuntalan",
 "PostCode": "9630",
 "Location": {
 "Latitude": 7.0284,
 "Longitude": 124.3873
-}
-},
-{
-"Name": "Pagalungan",
-"PostCode": "9610",
-"Location": {
-"Latitude": 7.1417,
-"Longitude": 124.3806
-}
-},
-{
-"Name": "Paglat",
-"PostCode": "9632",
-"Location": {
-"Latitude": 6.7,
-"Longitude": 124.7833
-}
-},
-{
-"Name": "Pandag",
-"PostCode": "9633",
-"Location": {
-"Latitude": 6.7817,
-"Longitude": 124.7933
-}
-},
-{
-"Name": "Parang",
-"PostCode": "9604",
-"Location": {
-"Latitude": 7.3704,
-"Longitude": 124.2697
 }
 },
 {
@@ -13562,22 +13466,6 @@
 }
 },
 {
-"Name": "South Upi",
-"PostCode": "9603",
-"Location": {
-"Latitude": 6.8333,
-"Longitude": 124.15
-}
-},
-{
-"Name": "Sultan Kudarat",
-"PostCode": "9605",
-"Location": {
-"Latitude": 7.2289,
-"Longitude": 124.2578
-}
-},
-{
 "Name": "Sultan Mastura",
 "PostCode": "9636",
 "Location": {
@@ -13599,22 +13487,6 @@
 "Location": {
 "Latitude": 7.0284,
 "Longitude": 124.3873
-}
-},
-{
-"Name": "Talayan",
-"PostCode": "9612",
-"Location": {
-"Latitude": 7.1333,
-"Longitude": 124.3
-}
-},
-{
-"Name": "Upi",
-"PostCode": "9602",
-"Location": {
-"Latitude": 7.0258,
-"Longitude": 124.1667
 }
 }
 ]
@@ -13875,6 +13747,154 @@
 "Location": {
 "Latitude": 4.9937,
 "Longitude": 120.0146
+}
+}
+]
+}
+]
+},
+{
+"Name": "Maguindanao del Norte",
+"Code": "MGN",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Barira",
+"PostCode": "9614",
+"Location": {
+"Latitude": 7.4872,
+"Longitude": 124.2992
+}
+},
+{
+"Name": "Buldon",
+"PostCode": "9615",
+"Location": {
+"Latitude": 7.5097,
+"Longitude": 124.3714
+}
+},
+{
+"Name": "Matanog",
+"PostCode": "9613",
+"Location": {
+"Latitude": 7.5161,
+"Longitude": 124.2564
+}
+},
+{
+"Name": "Pagalungan",
+"PostCode": "9610",
+"Location": {
+"Latitude": 7.1417,
+"Longitude": 124.3806
+}
+},
+{
+"Name": "Parang",
+"PostCode": "9604",
+"Location": {
+"Latitude": 7.3704,
+"Longitude": 124.2697
+}
+},
+{
+"Name": "Sultan Kudarat",
+"PostCode": "9605",
+"Location": {
+"Latitude": 7.2289,
+"Longitude": 124.2578
+}
+},
+{
+"Name": "Talayan",
+"PostCode": "9612",
+"Location": {
+"Latitude": 7.1333,
+"Longitude": 124.3
+}
+},
+{
+"Name": "Upi",
+"PostCode": "9602",
+"Location": {
+"Latitude": 7.0258,
+"Longitude": 124.1667
+}
+}
+]
+}
+]
+},
+{
+"Name": "Maguindanao del Sur",
+"Code": "MGS",
+"Communities": [
+{
+"Places": [
+{
+"Name": "Ampatuan",
+"PostCode": "9609",
+"Location": {
+"Latitude": 6.8667,
+"Longitude": 124.4667
+}
+},
+{
+"Name": "Buluan",
+"PostCode": "9616",
+"Location": {
+"Latitude": 6.8714,
+"Longitude": 124.5203
+}
+},
+{
+"Name": "Datu Paglas",
+"PostCode": "9617",
+"Location": {
+"Latitude": 6.7667,
+"Longitude": 124.85
+}
+},
+{
+"Name": "Datu Piang",
+"PostCode": "9607",
+"Location": {
+"Latitude": 7.0283,
+"Longitude": 124.5025
+}
+},
+{
+"Name": "Datu Unsay",
+"PostCode": "9627",
+"Location": {
+"Latitude": 6.9186,
+"Longitude": 124.4519
+}
+},
+{
+"Name": "Paglat",
+"PostCode": "9632",
+"Location": {
+"Latitude": 6.7,
+"Longitude": 124.7833
+}
+},
+{
+"Name": "Pandag",
+"PostCode": "9633",
+"Location": {
+"Latitude": 6.7817,
+"Longitude": 124.7933
+}
+},
+{
+"Name": "South Upi",
+"PostCode": "9603",
+"Location": {
+"Latitude": 6.8333,
+"Longitude": 124.15
 }
 }
 ]
