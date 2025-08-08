@@ -50619,6 +50619,20 @@
 "PostCode": "10315"
 },
 {
+"Name": "vrbovec",
+"Places": [
+{
+"Name": "Poljanski Lug",
+"PostCode": "10340",
+"Location": {
+"Latitude": 45.8333,
+"Longitude": 16.4167
+}
+}
+],
+"PostCode": "10340"
+},
+{
 "Name": "Vrbovec",
 "Places": [
 {
@@ -51299,20 +51313,6 @@
 "Location": {
 "Latitude": 45.95,
 "Longitude": 16.4333
-}
-}
-],
-"PostCode": "10340"
-},
-{
-"Name": "vrbovec",
-"Places": [
-{
-"Name": "Poljanski Lug",
-"PostCode": "10340",
-"Location": {
-"Latitude": 45.8333,
-"Longitude": 16.4167
 }
 }
 ],
