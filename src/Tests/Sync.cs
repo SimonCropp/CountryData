@@ -155,6 +155,7 @@ public class Sync
 
         foreach (var code in countryInfos
             .Select(_ => _.CurrencyCode)
+            .OrderBy(_ => _.ToString())
             .Where(_ => _ is not null)
             .Distinct())
         {

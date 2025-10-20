@@ -84,7 +84,7 @@
 "Fips": "AM",
 "Capital": "Yerevan",
 "Area": 29800.0,
-"Population": 3076200,
+"Population": 3084400,
 "Continent": "AS",
 "TopLevelDomain": ".am",
 "CurrencyCode": "AMD",
@@ -94,44 +94,6 @@
 "PostCodeRegex": "^(\\d{6})$",
 "Languages": [
 "hy"
-]
-},
-{
-"Name": "Curacao",
-"Iso": "CW",
-"Iso3": "CUW",
-"IsoNumeric": 531,
-"Fips": "UC",
-"Capital": "Willemstad",
-"Area": 444.0,
-"Population": 159849,
-"Continent": "NA",
-"TopLevelDomain": ".cw",
-"CurrencyCode": "ANG",
-"CurrencyName": "Guilder",
-"PhonePrefix": "599",
-"Languages": [
-"nl",
-"pap"
-]
-},
-{
-"Name": "Sint Maarten",
-"Iso": "SX",
-"Iso3": "SXM",
-"IsoNumeric": 534,
-"Fips": "NN",
-"Capital": "Philipsburg",
-"Area": 21.0,
-"Population": 40654,
-"Continent": "NA",
-"TopLevelDomain": ".sx",
-"CurrencyCode": "ANG",
-"CurrencyName": "Guilder",
-"PhonePrefix": "599",
-"Languages": [
-"nl",
-"en"
 ]
 },
 {
@@ -152,6 +114,44 @@
 "nl-AN",
 "en",
 "es"
+]
+},
+{
+"Name": "Curacao",
+"Iso": "CW",
+"Iso3": "CUW",
+"IsoNumeric": 531,
+"Fips": "UC",
+"Capital": "Willemstad",
+"Area": 444.0,
+"Population": 159849,
+"Continent": "NA",
+"TopLevelDomain": ".cw",
+"CurrencyCode": "XCG",
+"CurrencyName": "Guilder",
+"PhonePrefix": "599",
+"Languages": [
+"nl",
+"pap"
+]
+},
+{
+"Name": "Sint Maarten",
+"Iso": "SX",
+"Iso3": "SXM",
+"IsoNumeric": 534,
+"Fips": "NN",
+"Capital": "Philipsburg",
+"Area": 21.0,
+"Population": 40654,
+"Continent": "NA",
+"TopLevelDomain": ".sx",
+"CurrencyCode": "XCG",
+"CurrencyName": "Guilder",
+"PhonePrefix": "599",
+"Languages": [
+"nl",
+"en"
 ]
 },
 {
@@ -386,7 +386,7 @@
 "Fips": "AJ",
 "Capital": "Baku",
 "Area": 86600.0,
-"Population": 9942334,
+"Population": 10224900,
 "Continent": "AS",
 "TopLevelDomain": ".az",
 "CurrencyCode": "AZN",
@@ -2054,7 +2054,7 @@
 "Fips": "GG",
 "Capital": "Tbilisi",
 "Area": 69700.0,
-"Population": 3731000,
+"Population": 3704500,
 "Continent": "AS",
 "TopLevelDomain": ".ge",
 "CurrencyCode": "GEL",
