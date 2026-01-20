@@ -9,6 +9,6 @@
     <PackageReference Include="Bogus" />
     <ProjectReference Include="..\CountryData\CountryData.csproj" />
     <PackageReference Include="ProjectDefaults" PrivateAssets="all" />
-    <PackageReference Include="Microsoft.Sbom.Targets" PrivateAssets="all" />
+    <PackageReference Include="Microsoft.Sbom.Targets" PrivateAssets="all" Condition="$(Configuration)=='Release'" />
   </ItemGroup>
 </Project>
