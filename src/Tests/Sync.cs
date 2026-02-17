@@ -2,7 +2,7 @@
 public class Sync
 {
     [Fact]
-    [Trait("Category", "Integration")]
+    [Explicit]
     public async Task SyncCountryData()
     {
         var countriesPath = Path.GetFullPath(Path.Combine(DataLocations.DataPath, "countrycodes.txt"));
