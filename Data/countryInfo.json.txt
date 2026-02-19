@@ -84,7 +84,7 @@
 "Fips": "AM",
 "Capital": "Yerevan",
 "Area": 29800.0,
-"Population": 3084400,
+"Population": 3090500,
 "Continent": "AS",
 "TopLevelDomain": ".am",
 "CurrencyCode": "AMD",
@@ -114,44 +114,6 @@
 "nl-AN",
 "en",
 "es"
-]
-},
-{
-"Name": "Curacao",
-"Iso": "CW",
-"Iso3": "CUW",
-"IsoNumeric": 531,
-"Fips": "UC",
-"Capital": "Willemstad",
-"Area": 444.0,
-"Population": 159849,
-"Continent": "NA",
-"TopLevelDomain": ".cw",
-"CurrencyCode": "XCG",
-"CurrencyName": "Guilder",
-"PhonePrefix": "599",
-"Languages": [
-"nl",
-"pap"
-]
-},
-{
-"Name": "Sint Maarten",
-"Iso": "SX",
-"Iso3": "SXM",
-"IsoNumeric": 534,
-"Fips": "NN",
-"Capital": "Philipsburg",
-"Area": 21.0,
-"Population": 40654,
-"Continent": "NA",
-"TopLevelDomain": ".sx",
-"CurrencyCode": "XCG",
-"CurrencyName": "Guilder",
-"PhonePrefix": "599",
-"Languages": [
-"nl",
-"en"
 ]
 },
 {
@@ -3895,6 +3857,26 @@
 ]
 },
 {
+"Name": "Sierra Leone",
+"Iso": "SL",
+"Iso3": "SLE",
+"IsoNumeric": 694,
+"Fips": "SL",
+"Capital": "Freetown",
+"Area": 71740.0,
+"Population": 7650154,
+"Continent": "AF",
+"TopLevelDomain": ".sl",
+"CurrencyCode": "SLE",
+"CurrencyName": "Leone",
+"PhonePrefix": "232",
+"Languages": [
+"en-SL",
+"men",
+"tem"
+]
+},
+{
 "Name": "Somalia",
 "Iso": "SO",
 "Iso3": "SOM",
@@ -3973,26 +3955,6 @@
 "PhonePrefix": "239",
 "Languages": [
 "pt-ST"
-]
-},
-{
-"Name": "Sierra Leone",
-"Iso": "SL",
-"Iso3": "SLE",
-"IsoNumeric": 694,
-"Fips": "SL",
-"Capital": "Freetown",
-"Area": 71740.0,
-"Population": 7650154,
-"Continent": "AF",
-"TopLevelDomain": ".sl",
-"CurrencyCode": "SLE",
-"CurrencyName": "Leone",
-"PhonePrefix": "232",
-"Languages": [
-"en-SL",
-"men",
-"tem"
 ]
 },
 {
@@ -5028,6 +4990,44 @@
 "Languages": [
 "en-VC",
 "fr"
+]
+},
+{
+"Name": "Curacao",
+"Iso": "CW",
+"Iso3": "CUW",
+"IsoNumeric": 531,
+"Fips": "UC",
+"Capital": "Willemstad",
+"Area": 444.0,
+"Population": 159849,
+"Continent": "NA",
+"TopLevelDomain": ".cw",
+"CurrencyCode": "XCG",
+"CurrencyName": "Guilder",
+"PhonePrefix": "599",
+"Languages": [
+"nl",
+"pap"
+]
+},
+{
+"Name": "Sint Maarten",
+"Iso": "SX",
+"Iso3": "SXM",
+"IsoNumeric": 534,
+"Fips": "NN",
+"Capital": "Philipsburg",
+"Area": 21.0,
+"Population": 40654,
+"Continent": "NA",
+"TopLevelDomain": ".sx",
+"CurrencyCode": "XCG",
+"CurrencyName": "Guilder",
+"PhonePrefix": "599",
+"Languages": [
+"nl",
+"en"
 ]
 },
 {

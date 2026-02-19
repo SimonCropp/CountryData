@@ -1,8 +1,6 @@
-﻿#if NET9_0
-public class Sync
+﻿public class Sync
 {
-    [Fact]
-    [Explicit]
+    [Fact(Explicit = true)]
     public async Task SyncCountryData()
     {
         var countriesPath = Path.GetFullPath(Path.Combine(DataLocations.DataPath, "countrycodes.txt"));
@@ -14,7 +12,7 @@ public class Sync
 
         var allCountriesTxtPath = Path.Combine(DataLocations.TempPath, "allCountries.txt");
         File.Delete(allCountriesTxtPath);
-        ZipFile.ExtractToDirectory(allZipPath, DataLocations.TempPath);
+        await ZipFile.ExtractToDirectoryAsync(allZipPath, DataLocations.TempPath);
 
         var list = PostCodeRowReader.ReadRows(allCountriesTxtPath).ToList();
         var groupByCountry = list
@@ -207,4 +205,3 @@ public class Sync
     static List<State> ProcessCountry(string country, List<PostCodeRow> rows, string directory) =>
         CountrySerializer.Serialize(country, rows, directory);
 }
-#endif

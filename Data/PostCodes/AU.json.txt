@@ -1074,19 +1074,19 @@
 }
 },
 {
-"Name": "O’Connor",
-"PostCode": "2602",
-"Location": {
-"Latitude": -35.2488,
-"Longitude": 149.141
-}
-},
-{
 "Name": "O'Malley",
 "PostCode": "2606",
 "Location": {
 "Latitude": -35.3525,
 "Longitude": 149.1128
+}
+},
+{
+"Name": "O’Connor",
+"PostCode": "2602",
+"Location": {
+"Latitude": -35.2488,
+"Longitude": 149.141
 }
 },
 {
@@ -76221,7 +76221,7 @@
 }
 },
 {
-"Name": "O’Reilly",
+"Name": "O'Reillys",
 "PostCode": "4275",
 "Location": {
 "Latitude": -28.0477,
@@ -76229,7 +76229,7 @@
 }
 },
 {
-"Name": "O'Reillys",
+"Name": "O’Reilly",
 "PostCode": "4275",
 "Location": {
 "Latitude": -28.0477,
@@ -92135,14 +92135,6 @@
 }
 },
 {
-"Name": "O’Halloran Hill",
-"PostCode": "5158",
-"Location": {
-"Latitude": -35.0667,
-"Longitude": 138.55
-}
-},
-{
 "Name": "O'Halloran Hill Dc",
 "PostCode": "5158",
 "Location": {
@@ -92156,6 +92148,14 @@
 "Location": {
 "Latitude": -35.1188,
 "Longitude": 138.4734
+}
+},
+{
+"Name": "O’Halloran Hill",
+"PostCode": "5158",
+"Location": {
+"Latitude": -35.0667,
+"Longitude": 138.55
 }
 },
 {
