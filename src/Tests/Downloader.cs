@@ -25,7 +25,6 @@
             File.Delete(allCountriesPath);
         }
 
-
         using var response = await httpClient.GetAsync(requestUri);
         await using var httpStream = await response.Content.ReadAsStreamAsync();
         await using (var fileStream = new FileStream(allCountriesPath, FileMode.Create, FileAccess.Write, FileShare.None))
