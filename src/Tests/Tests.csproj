@@ -15,7 +15,6 @@
     <PackageReference Include="Verify" />
     <PackageReference Include="xunit.v3" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" />
-    <PackageReference Include="xunit.runner.visualstudio" PrivateAssets="all" />
     <ProjectReference Include="..\CountryData.Bogus\CountryData.Bogus.csproj" />
     <ProjectReference Include="..\CountryData\CountryData.csproj" />
     <PackageReference Include="ProjectDefaults" PrivateAssets="all" />
