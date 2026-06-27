@@ -8,8 +8,6 @@ public static class LocationDataExtensions
     public static CountryDataSet Country(this Faker faker) =>
         ContextHelper.GetOrSet(faker, () => new CountryDataSet(faker.Random));
 
-    static Random random = new();
-
     public static IState State(this ICountry country) =>
         country.States.Random();
 
@@ -51,7 +49,7 @@ public static class LocationDataExtensions
 
     static T Random<T>(this IReadOnlyList<T> source)
     {
-        var r = random.Next(source.Count);
+        var r = System.Random.Shared.Next(source.Count);
         return source[r];
     }
 
