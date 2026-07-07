@@ -161281,20 +161281,6 @@
 "Code": "31200",
 "Communities": [
 {
-"Name": "진동면",
-"Places": [
-{
-"Name": "진동면",
-"PostCode": "10800",
-"Location": {
-"Latitude": 37.9266,
-"Longitude": 126.7881
-}
-}
-],
-"PostCode": "10800"
-},
-{
 "Name": "장단면",
 "Places": [
 {
@@ -161303,6 +161289,20 @@
 "Location": {
 "Latitude": 37.9047,
 "Longitude": 126.7077
+}
+}
+],
+"PostCode": "10800"
+},
+{
+"Name": "진동면",
+"Places": [
+{
+"Name": "진동면",
+"PostCode": "10800",
+"Location": {
+"Latitude": 37.9266,
+"Longitude": 126.7881
 }
 }
 ],
