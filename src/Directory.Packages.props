@@ -4,7 +4,7 @@
     <CentralPackageTransitivePinningEnabled>true</CentralPackageTransitivePinningEnabled>
   </PropertyGroup>
   <ItemGroup>
-    <PackageVersion Include="Argon" Version="0.35.0" />
+    <PackageVersion Include="Argon" Version="0.35.1" />
     <PackageVersion Include="Bogus" Version="35.6.5" />
     <PackageVersion Include="MarkdownSnippets.MsBuild" Version="28.4.1" />
     <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="18.7.0" />
