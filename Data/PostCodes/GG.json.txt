@@ -1,136 +1,136 @@
 [
-{
-"Provinces": [
-{
-"Name": "Guernsey Channel Islands",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Castel",
-"PostCode": "GY5",
-"Location": {
-"Latitude": 49.45,
-"Longitude": -2.6
-}
-},
-{
-"Name": "Delancey",
-"PostCode": "GY2",
-"Location": {
-"Latitude": 49.45,
-"Longitude": -2.6
-}
-},
-{
-"Name": "Forest",
-"PostCode": "GY8",
-"Location": {
-"Latitude": 49.4258,
-"Longitude": -2.5919
-}
-},
-{
-"Name": "Saint Andrew",
-"PostCode": "GY6",
-"Location": {
-"Latitude": 49.4519,
-"Longitude": -2.5729
-}
-},
-{
-"Name": "Saint Pierre du Bois",
-"PostCode": "GY7",
-"Location": {
-"Latitude": 49.4456,
-"Longitude": -2.6436
-}
-},
-{
-"Name": "Saint Saviour",
-"PostCode": "GY7",
-"Location": {
-"Latitude": 49.4569,
-"Longitude": -2.6358
-}
-},
-{
-"Name": "St Martin",
-"PostCode": "GY4",
-"Location": {
-"Latitude": 49.45,
-"Longitude": -2.6
-}
-},
-{
-"Name": "St Peter Port",
-"PostCode": "GY1",
-"Location": {
-"Latitude": 49.45,
-"Longitude": -2.6
-}
-},
-{
-"Name": "St Sampsons",
-"PostCode": "GY2",
-"Location": {
-"Latitude": 49.45,
-"Longitude": -2.6
-}
-},
-{
-"Name": "Torteval",
-"PostCode": "GY8",
-"Location": {
-"Latitude": 49.4333,
-"Longitude": -2.65
-}
-},
-{
-"Name": "Vale",
-"PostCode": "GY3",
-"Location": {
-"Latitude": 49.45,
-"Longitude": -2.6
-}
-},
-{
-"Name": "Vale",
-"PostCode": "GY6",
-"Location": {
-"Latitude": 49.4858,
-"Longitude": -2.5196
-}
-}
-]
-}
-]
-},
-{
-"Name": "Channel Islands",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Alderney",
-"PostCode": "GY9",
-"Location": {
-"Latitude": 49.71,
-"Longitude": -2.2
-}
-},
-{
-"Name": "Sark",
-"PostCode": "GY10",
-"Location": {
-"Latitude": 49.71,
-"Longitude": -2.2
-}
-}
-]
-}
-]
-}
-]
-}
+  {
+    "Provinces": [
+      {
+        "Name": "Guernsey Channel Islands",
+        "Communities": [
+          {
+            "Places": [
+              {
+                "Name": "Castel",
+                "PostCode": "GY5",
+                "Location": {
+                  "Latitude": 49.45,
+                  "Longitude": -2.6
+                }
+              },
+              {
+                "Name": "Delancey",
+                "PostCode": "GY2",
+                "Location": {
+                  "Latitude": 49.45,
+                  "Longitude": -2.6
+                }
+              },
+              {
+                "Name": "Forest",
+                "PostCode": "GY8",
+                "Location": {
+                  "Latitude": 49.4258,
+                  "Longitude": -2.5919
+                }
+              },
+              {
+                "Name": "Saint Andrew",
+                "PostCode": "GY6",
+                "Location": {
+                  "Latitude": 49.4519,
+                  "Longitude": -2.5729
+                }
+              },
+              {
+                "Name": "Saint Pierre du Bois",
+                "PostCode": "GY7",
+                "Location": {
+                  "Latitude": 49.4456,
+                  "Longitude": -2.6436
+                }
+              },
+              {
+                "Name": "Saint Saviour",
+                "PostCode": "GY7",
+                "Location": {
+                  "Latitude": 49.4569,
+                  "Longitude": -2.6358
+                }
+              },
+              {
+                "Name": "St Martin",
+                "PostCode": "GY4",
+                "Location": {
+                  "Latitude": 49.45,
+                  "Longitude": -2.6
+                }
+              },
+              {
+                "Name": "St Peter Port",
+                "PostCode": "GY1",
+                "Location": {
+                  "Latitude": 49.45,
+                  "Longitude": -2.6
+                }
+              },
+              {
+                "Name": "St Sampsons",
+                "PostCode": "GY2",
+                "Location": {
+                  "Latitude": 49.45,
+                  "Longitude": -2.6
+                }
+              },
+              {
+                "Name": "Torteval",
+                "PostCode": "GY8",
+                "Location": {
+                  "Latitude": 49.4333,
+                  "Longitude": -2.65
+                }
+              },
+              {
+                "Name": "Vale",
+                "PostCode": "GY3",
+                "Location": {
+                  "Latitude": 49.45,
+                  "Longitude": -2.6
+                }
+              },
+              {
+                "Name": "Vale",
+                "PostCode": "GY6",
+                "Location": {
+                  "Latitude": 49.4858,
+                  "Longitude": -2.5196
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Channel Islands",
+        "Communities": [
+          {
+            "Places": [
+              {
+                "Name": "Alderney",
+                "PostCode": "GY9",
+                "Location": {
+                  "Latitude": 49.71,
+                  "Longitude": -2.2
+                }
+              },
+              {
+                "Name": "Sark",
+                "PostCode": "GY10",
+                "Location": {
+                  "Latitude": 49.71,
+                  "Longitude": -2.2
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 ]

@@ -1,26 +1,26 @@
 [
-{
-"Name": "As",
-"PostCode": "96799",
-"Provinces": [
-{
-"PostCode": "96799",
-"Communities": [
-{
-"Places": [
-{
-"Name": "Pago Pago",
-"PostCode": "96799",
-"Location": {
-"Latitude": -14.2781,
-"Longitude": -170.7025
-}
-}
-],
-"PostCode": "96799"
-}
-]
-}
-]
-}
+  {
+    "Name": "As",
+    "PostCode": "96799",
+    "Provinces": [
+      {
+        "PostCode": "96799",
+        "Communities": [
+          {
+            "Places": [
+              {
+                "Name": "Pago Pago",
+                "PostCode": "96799",
+                "Location": {
+                  "Latitude": -14.2781,
+                  "Longitude": -170.7025
+                }
+              }
+            ],
+            "PostCode": "96799"
+          }
+        ]
+      }
+    ]
+  }
 ]

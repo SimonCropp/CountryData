@@ -1,9 +1,8 @@
-﻿using Newtonsoft.Json;
-using Newtonsoft.Json.Converters;
+﻿using Argon;
 
 static class JsonSerializer
 {
-    static Newtonsoft.Json.JsonSerializer jsonSerializer;
+    static Argon.JsonSerializer jsonSerializer;
 
     static JsonSerializer()
     {
@@ -22,7 +21,7 @@ static class JsonSerializer
         using var textWriter = new StreamWriter(fileStream);
         using var jsonTextWriter = new JsonTextWriter(textWriter)
         {
-            Indentation = 0
+            Formatting = Formatting.Indented
         };
         jsonSerializer.Serialize(jsonTextWriter, value);
     }

@@ -1,67 +1,67 @@
 [
-{
-"Provinces": [
-{
-"Name": "Jersey Channel Islands",
-"Communities": [
-{
-"Places": [
-{
-"Name": "St Brelades",
-"PostCode": "JE3",
-"Location": {
-"Latitude": 49.2,
-"Longitude": -2.1333
-}
-},
-{
-"Name": "St Helier",
-"PostCode": "JE1",
-"Location": {
-"Latitude": 49.2,
-"Longitude": -2.1333
-}
-},
-{
-"Name": "St Helier",
-"PostCode": "JE2",
-"Location": {
-"Latitude": 49.2,
-"Longitude": -2.1333
-}
-},
-{
-"Name": "St Lawrence",
-"PostCode": "JE3",
-"Location": {
-"Latitude": 49.2,
-"Longitude": -2.1333
-}
-}
-]
-}
-]
-},
-{
-"Code": "L99999999",
-"PostCode": "JE4",
-"Communities": [
-{
-"Code": "L99999999",
-"Places": [
-{
-"Name": "Jersey",
-"PostCode": "JE4",
-"Location": {
-"Latitude": 49.2167,
-"Longitude": -2.1167
-}
-}
-],
-"PostCode": "JE4"
-}
-]
-}
-]
-}
+  {
+    "Provinces": [
+      {
+        "Name": "Jersey Channel Islands",
+        "Communities": [
+          {
+            "Places": [
+              {
+                "Name": "St Brelades",
+                "PostCode": "JE3",
+                "Location": {
+                  "Latitude": 49.2,
+                  "Longitude": -2.1333
+                }
+              },
+              {
+                "Name": "St Helier",
+                "PostCode": "JE1",
+                "Location": {
+                  "Latitude": 49.2,
+                  "Longitude": -2.1333
+                }
+              },
+              {
+                "Name": "St Helier",
+                "PostCode": "JE2",
+                "Location": {
+                  "Latitude": 49.2,
+                  "Longitude": -2.1333
+                }
+              },
+              {
+                "Name": "St Lawrence",
+                "PostCode": "JE3",
+                "Location": {
+                  "Latitude": 49.2,
+                  "Longitude": -2.1333
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Code": "L99999999",
+        "PostCode": "JE4",
+        "Communities": [
+          {
+            "Code": "L99999999",
+            "Places": [
+              {
+                "Name": "Jersey",
+                "PostCode": "JE4",
+                "Location": {
+                  "Latitude": 49.2167,
+                  "Longitude": -2.1167
+                }
+              }
+            ],
+            "PostCode": "JE4"
+          }
+        ]
+      }
+    ]
+  }
 ]
