@@ -8,16 +8,16 @@
     <PackageVersion Include="Bogus" Version="35.6.5" />
     <PackageVersion Include="MarkdownSnippets.MsBuild" Version="28.4.4" />
     <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="18.10.1" />
-    <PackageVersion Include="Microsoft.Sbom.Targets" Version="4.1.12" />
+    <PackageVersion Include="Microsoft.Sbom.Targets" Version="4.1.13" />
     <PackageVersion Include="ProjectDefaults" Version="1.0.181" />
     <PackageVersion Include="System.IO.Compression" Version="4.3.0" />
     <PackageVersion Include="System.IO.Compression.ZipFile" Version="4.3.0" />
     <PackageVersion Include="System.Net.Http" Version="4.3.4" />
-    <PackageVersion Include="Verify.XunitV3" Version="33.1.1" />
+    <PackageVersion Include="Verify.XunitV3" Version="33.1.4" />
     <PackageVersion Include="xunit.v3" Version="4.0.1" />
-    <PackageVersion Include="DiffEngine" Version="20.4.0" />
+    <PackageVersion Include="DiffEngine" Version="20.5.1" />
     <PackageVersion Include="EmptyFiles" Version="8.19.0" />
     <PackageVersion Include="SimpleInfoName" Version="3.2.0" />
-    <PackageVersion Include="Verify" Version="33.1.1" />
+    <PackageVersion Include="Verify" Version="33.1.4" />
   </ItemGroup>
 </Project>
