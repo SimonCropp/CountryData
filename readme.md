@@ -1,6 +1,6 @@
 # <img src="/src/icon.png" height="30px"> CountryData
 
-[![Build status](https://img.shields.io/appveyor/build/SimonCropp/countrydata)](https://ci.appveyor.com/project/SimonCropp/countrydata)
+[![Build status](https://github.com/SimonCropp/CountryData/actions/workflows/build.yml/badge.svg)](https://github.com/SimonCropp/CountryData/actions/workflows/build.yml)
 [![NuGet Status](https://img.shields.io/nuget/v/CountryData.svg?label=CountryData)](https://www.nuget.org/packages/CountryData/)
 [![NuGet Status](https://img.shields.io/nuget/v/CountryData.Bogus.svg?label=CountryData.Bogus)](https://www.nuget.org/packages/CountryData.Bogus/)
 
