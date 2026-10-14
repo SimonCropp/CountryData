@@ -6,7 +6,7 @@
   <ItemGroup>
     <PackageVersion Include="Argon" Version="0.38.2" />
     <PackageVersion Include="Bogus" Version="35.6.5" />
-    <PackageVersion Include="MarkdownSnippets.MsBuild" Version="28.5.0" />
+    <PackageVersion Include="MarkdownSnippets.MsBuild" Version="28.5.1" />
     <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="18.11.0" />
     <PackageVersion Include="ProjectDefaults" Version="1.0.184" />
     <PackageVersion Include="Sbom" Version="0.3.1" />
