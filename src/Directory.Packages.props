@@ -6,18 +6,18 @@
   <ItemGroup>
     <PackageVersion Include="Argon" Version="0.38.2" />
     <PackageVersion Include="Bogus" Version="35.6.5" />
-    <PackageVersion Include="MarkdownSnippets.MsBuild" Version="28.5.1" />
+    <PackageVersion Include="MarkdownSnippets.MsBuild" Version="29.0.0" />
     <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="18.12.0" />
-    <PackageVersion Include="ProjectDefaults" Version="1.0.189" />
-    <PackageVersion Include="Sbom" Version="0.3.1" />
+    <PackageVersion Include="ProjectDefaults" Version="1.0.190" />
+    <PackageVersion Include="Sbom" Version="1.0.0" />
     <PackageVersion Include="System.IO.Compression" Version="4.3.0" />
     <PackageVersion Include="System.IO.Compression.ZipFile" Version="4.3.0" />
     <PackageVersion Include="System.Net.Http" Version="4.3.4" />
-    <PackageVersion Include="Verify.XunitV3" Version="33.3.4" />
+    <PackageVersion Include="Verify.XunitV3" Version="33.5.0" />
     <PackageVersion Include="xunit.v3" Version="4.0.3" />
-    <PackageVersion Include="DiffEngine" Version="20.9.0" />
+    <PackageVersion Include="DiffEngine" Version="21.0.0" />
     <PackageVersion Include="EmptyFiles" Version="8.20.1" />
     <PackageVersion Include="SimpleInfoName" Version="3.2.1" />
-    <PackageVersion Include="Verify" Version="33.3.4" />
+    <PackageVersion Include="Verify" Version="33.5.0" />
   </ItemGroup>
 </Project>
