@@ -1,16 +1,16 @@
 ﻿public class CountryDataSetTests
 {
-    [Fact]
-    public void Simple()
+    [Test]
+    public async Task Simple()
     {
         var name = new CountryDataSet().Name();
-        Assert.NotNull(name);
+        await Assert.That(name).IsNotNull();
     }
 
-    [Fact]
-    public void SpecificCountry()
+    [Test]
+    public async Task SpecificCountry()
     {
         var state = CountryDataSet.Australia().State();
-        Assert.NotNull(state);
+        await Assert.That(state).IsNotNull();
     }
 }

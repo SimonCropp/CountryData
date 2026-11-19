@@ -27,7 +27,11 @@
                 };
             }
 
-            Assert.NotEmpty(row.PostalCode);
+            if (row.PostalCode.Length == 0)
+            {
+                throw new($"Empty postal code for {row.CountryCode}");
+            }
+
             var accuracy = split[11];
             if (accuracy is not null)
             {

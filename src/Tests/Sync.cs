@@ -1,6 +1,6 @@
 ﻿public class Sync
 {
-    [Fact(Explicit = true)]
+    [Test, Explicit]
     public async Task SyncCountryData()
     {
         var countriesPath = Path.GetFullPath(Path.Combine(DataLocations.DataPath, "countrycodes.txt"));

@@ -4,7 +4,7 @@
 
 public class Snippets
 {
-    [Fact]
+    [Test]
     public void Bogus()
     {
         #region bogususage
@@ -27,7 +27,7 @@ public class Snippets
         #endregion
     }
 
-    [Fact]
+    [Test]
     public void Normal()
     {
         #region usage

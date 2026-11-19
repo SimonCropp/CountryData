@@ -1,66 +1,66 @@
-﻿public class CountryLoaderTests(ITestOutputHelper testOutputHelper)
+﻿public class CountryLoaderTests
 {
-    [Fact]
+    [Test]
     public void WritePostCodeRegex()
     {
         foreach (var info in CountryLoader.CountryInfo)
         {
             if (info.PostCodeRegex != null)
             {
-                testOutputHelper.WriteLine(info.Name + " " + info.PostCodeRegex);
+                Console.WriteLine(info.Name + " " + info.PostCodeRegex);
             }
         }
     }
 
-    [Fact]
-    public Task LoadLocationData()
+    [Test]
+    public async Task LoadLocationData()
     {
         var country = CountryLoader.LoadLocationData("PW");
-        Assert.Throws<ArgumentException>(() => CountryLoader.LoadLocationData("QQ"));
+        await Assert.That(() => CountryLoader.LoadLocationData("QQ")).Throws<ArgumentException>();
 
-        return Verify(country);
+        await Verify(country);
     }
 
-    [Fact]
-    public void ReversePropsNotNull()
+    [Test]
+    public async Task ReversePropsNotNull()
     {
         var country = CountryLoader.LoadAustraliaLocationData();
         foreach (var state in country.States)
         {
-            Assert.NotNull(state.Country);
+            await Assert.That(state.Country).IsNotNull();
             foreach (var province in state.Provinces)
             {
-                Assert.NotNull(province.State);
+                await Assert.That(province.State).IsNotNull();
                 foreach (var community in province.Communities)
                 {
-                    Assert.NotNull(community.Province);
+                    await Assert.That(community.Province).IsNotNull();
                     foreach (var place in community.Places)
                     {
-                        Assert.NotNull(place.Community);
+                        await Assert.That(place.Community).IsNotNull();
                     }
                 }
             }
         }
     }
 
-    [Fact]
+    [Test]
     public Task PostCodes()
     {
         var country = CountryLoader.LoadAustraliaLocationData();
         return Verify(country.PostCodes().First());
     }
 
-    [Fact]
+    [Test]
     public Task LoadSpecificLocationData()
     {
         var country = CountryLoader.LoadPalauLocationData();
         return Verify(country);
     }
 
-    [Fact]
-    public void LoadAll()
+    [Test]
+    public async Task LoadAll()
     {
         CountryLoader.LoadAll();
-        Assert.NotEmpty(CountryLoader.LoadedLocationData);
+        await Assert.That(CountryLoader.LoadedLocationData).IsNotEmpty();
     }
 }
